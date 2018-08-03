@@ -1,7 +1,7 @@
 # Product-Reviews-Evaluation-using-Sentiment-Analysis-and-Data-Mining
 
 ## About Me
-### Name: Shareem G. Teofilo
+<strong>Name:</strong> Shareem G. Teofilo
 ### Course: BSIT
 ### University: West Visayas State University, Philippines
 ### Mentor: Dr.Bobby Gerardo
