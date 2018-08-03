@@ -2,17 +2,17 @@
 
 ## About Me
 <strong>Name:</strong> Shareem G. Teofilo
-### Course: BSIT
-### University: West Visayas State University, Philippines
-### Mentor: Dr.Bobby Gerardo
+<strong>Course:</strong> BSIT
+<strong>University:</strong> West Visayas State University, Philippines
+<strong>Mentor:</strong> Dr.Bobby Gerardo
 
 
-# Project Overview
+## Project Overview
 This project is about implementing Sentiment Analysis to classify the sentiment of user's reviews or feedbacks towards a particular product, especially in order to determine whether it is negative or positive.
 
 
-Requirements
-Training progress
-Results
-References
-Aknowledgement
+## Requirements
+## Training progress
+## Results
+## References
+## Aknowledgement
