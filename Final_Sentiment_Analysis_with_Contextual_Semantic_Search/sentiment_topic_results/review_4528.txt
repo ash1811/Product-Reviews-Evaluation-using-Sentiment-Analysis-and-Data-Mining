@@ -1,0 +1,1 @@
+{"text": "I like this very much as is the first time this color. Besides I got my size with the large 29 that it is not easy to find.It came fast.", "sentiment": "negative", "topics": {"1": "0.29127544", "2": "0.22867994", "6": "0.4417741"}}

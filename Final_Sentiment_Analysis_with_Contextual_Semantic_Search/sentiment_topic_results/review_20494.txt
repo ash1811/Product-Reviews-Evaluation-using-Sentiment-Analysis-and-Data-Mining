@@ -1,0 +1,1 @@
+{"text": "Cheap insurance. I bought a two hundred dollar watch and really didn't want to adjust the band by hammering a paperclip. yeah I have done it before but I have also scratched up bands. Not this time cheap and works", "sentiment": "negative", "topics": {"0": "0.25081486", "1": "0.2512285", "2": "0.32226372", "3": "0.068464525", "4": "0.09422503"}}

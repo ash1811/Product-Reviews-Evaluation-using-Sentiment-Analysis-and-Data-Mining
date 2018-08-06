@@ -1,0 +1,1 @@
+{"text": "the cut and shade of these pants are very professional, you can wear them in settings where similarly stout/durable pants wouldnt fit in.", "sentiment": "negative", "topics": {"0": "0.119124316", "1": "0.5511182", "2": "0.01099272", "3": "0.01099969", "4": "0.11012306", "5": "0.10440061", "6": "0.09324141"}}

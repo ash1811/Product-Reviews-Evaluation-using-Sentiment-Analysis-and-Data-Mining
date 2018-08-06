@@ -1,0 +1,1 @@
+{"text": "I wear a large size polo everywhere. The large in this brand swallows me whole. Go one size smaller at least. The Medium in this line is about equal to a large for Target's proprietary brand.", "sentiment": "negative", "topics": {"0": "0.11307543", "2": "0.18976392", "3": "0.5602245", "6": "0.117410064"}}

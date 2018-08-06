@@ -1,0 +1,1 @@
+{"text": "These shoes are gorgeous! I'm normally a 7.5-8, and I went with the 7.5 after reading reviews that these ran big. They fit perfectly, are so comfortable, and look adorable.", "sentiment": "negative", "topics": {"0": "0.089080915", "1": "0.475114", "2": "0.10364371", "4": "0.1315163", "5": "0.1837978"}}

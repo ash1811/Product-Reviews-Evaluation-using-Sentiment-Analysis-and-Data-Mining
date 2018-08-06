@@ -1,0 +1,1 @@
+{"text": "Great looking dress watch. The Citizen Eco Drive is amazing, I love never having to replace the battery. If I haven't worn it for a while it will die, but soon as I pick it up it starts moving again.", "sentiment": "negative", "topics": {"2": "0.18171683", "3": "0.15817031", "4": "0.20840907", "5": "0.25707456", "6": "0.18029112"}}

@@ -1,0 +1,1 @@
+{"text": "They are somewhat small when you first put them on. They will take time to stretch and will be perfect within the first 5-10 times you wear them.", "sentiment": "negative", "topics": {"1": "0.35415834", "2": "0.24319668", "4": "0.36675692"}}

@@ -1,0 +1,1 @@
+{"text": "These glasses are perfect for my steampunk outfit. The earpieces are made with very thin metal, so I don't think you could wear them everyday, but for a costume, or occasional short-term use they are fine.", "sentiment": "negative", "topics": {"0": "0.19404346", "1": "0.47264528", "2": "0.06140359", "3": "0.077379495", "4": "0.17863387"}}

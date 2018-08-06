@@ -1,0 +1,1 @@
+{"text": "thorlo socks are wonderful ,I own a lot of them. they last for yearsif taken care of, so I wash on permapress and hang to dry, just takes a night. BEST ADVICE, BUY AT LEAST TWO PAIRS AT TIME.", "sentiment": "negative", "topics": {"1": "0.2812253", "2": "0.23888141", "4": "0.17457213", "5": "0.18309219", "6": "0.11070828"}}

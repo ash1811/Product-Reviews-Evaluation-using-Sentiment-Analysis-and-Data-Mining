@@ -1,0 +1,1 @@
+{"text": "Having wide feet, it is difficult to find any footwear that fits.  These sandals not only fit perfectly but are so comfortable that it feels like I am walking on air.  They seem to be well constructed.  So, I expect them to last.", "sentiment": "negative", "topics": {"1": "0.33014405", "2": "0.1328623", "5": "0.34446803", "6": "0.17201413"}}

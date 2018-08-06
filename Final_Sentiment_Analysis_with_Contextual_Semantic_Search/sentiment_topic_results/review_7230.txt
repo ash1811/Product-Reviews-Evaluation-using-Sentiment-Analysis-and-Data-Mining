@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband as I have in the past.  He has a longer torso and these fit him great without riding up when he works.  They wash up well and are great quality.", "sentiment": "positive", "topics": {"1": "0.77003163", "4": "0.18224335"}}

@@ -1,0 +1,1 @@
+{"text": "Just Perfect and I love it will wear everyday and show off to everyone that asks, plan on ordering more... Wear them all the time", "sentiment": "negative", "topics": {"0": "0.01102241", "1": "0.01104089", "2": "0.22567742", "3": "0.011030451", "4": "0.2130762", "5": "0.43569466", "6": "0.09245798"}}

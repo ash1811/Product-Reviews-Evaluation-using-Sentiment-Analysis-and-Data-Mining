@@ -1,0 +1,1 @@
+{"text": "I love Reefs. I have been a long time reef owner for 15 years or more. They are the most comfortable flip flop sandal ;) I love the basic black too, they're perfect!", "sentiment": "positive", "topics": {"1": "0.520853", "2": "0.2678905", "4": "0.13004133", "6": "0.059704013"}}

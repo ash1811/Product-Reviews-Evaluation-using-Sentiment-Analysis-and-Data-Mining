@@ -1,0 +1,1 @@
+{"text": "... and the edges of the strings are rough. Otherwise good, but a bit too long for a normal wear but too short for the rolled yoga mat.", "sentiment": "negative", "topics": {"0": "0.2896786", "1": "0.41350222", "2": "0.25585234", "3": "0.010224514", "4": "0.010207028", "5": "0.010268437", "6": "0.010266877"}}

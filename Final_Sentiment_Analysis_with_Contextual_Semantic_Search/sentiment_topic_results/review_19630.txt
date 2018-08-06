@@ -1,0 +1,1 @@
+{"text": "Love the fact that I can see the content.This case is high quality, thus a bit more expensive than some other brand/products.", "sentiment": "negative", "topics": {"0": "0.011923525", "1": "0.2005716", "2": "0.011945728", "3": "0.43466964", "4": "0.31702122", "5": "0.01190858", "6": "0.01195969"}}

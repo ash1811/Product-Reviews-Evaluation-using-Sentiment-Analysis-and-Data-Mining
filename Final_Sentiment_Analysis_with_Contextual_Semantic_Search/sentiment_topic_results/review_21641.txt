@@ -1,0 +1,1 @@
+{"text": "Super roomy, great conversation piece, especially being in the medical field. Great retro style, with comfy strap, and leather closures.", "sentiment": "negative", "topics": {"1": "0.24509837", "2": "0.16408673", "4": "0.29346505", "5": "0.09264709", "6": "0.18681984"}}

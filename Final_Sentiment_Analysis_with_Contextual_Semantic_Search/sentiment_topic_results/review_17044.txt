@@ -1,0 +1,1 @@
+{"text": "I loved them the moment I put them on. Material is soft and well made. I love the color. I had to buy another pair. They are just what I wanted.", "sentiment": "negative", "topics": {"1": "0.8371671", "3": "0.11508704"}}

@@ -1,0 +1,1 @@
+{"text": "This is cut narrower than xlarge sizes in other brands  - bust, shoulders fit but slim in the waist and hips.", "sentiment": "negative", "topics": {"0": "0.011935536", "1": "0.17028208", "2": "0.012015072", "3": "0.1587282", "4": "0.32041863", "5": "0.011921026", "6": "0.31469944"}}

@@ -1,0 +1,1 @@
+{"text": "Always buy these for my husband...thick and comfortable. He wears a pair every day, they seem to handle the wear well!", "sentiment": "negative", "topics": {"0": "0.011028262", "1": "0.50325894", "2": "0.21329977", "3": "0.011027032", "4": "0.011035798", "5": "0.23934262", "6": "0.011007601"}}

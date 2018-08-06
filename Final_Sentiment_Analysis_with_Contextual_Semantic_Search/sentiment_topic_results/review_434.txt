@@ -1,0 +1,1 @@
+{"text": "I like Wrangler jeans. I have short legs and they can be purchased with 29&#34; legs. They also have more belt loops than other brands. They hold up well and seem to last longer than other jeans. When washed, they shrink very little.", "sentiment": "positive", "topics": {"0": "0.20786747", "1": "0.2568111", "2": "0.18059577", "3": "0.2220276", "4": "0.11965228"}}

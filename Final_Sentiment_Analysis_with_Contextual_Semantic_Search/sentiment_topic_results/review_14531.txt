@@ -1,0 +1,1 @@
+{"text": "These are very comfy and cushy; however, my feet tend to want to slide inside (and my feet aren't dried out or sweaty).  I attribute it to the material.", "sentiment": "negative", "topics": {"1": "0.19504982", "2": "0.2957231", "4": "0.19357704", "5": "0.1873532", "6": "0.1091404"}}

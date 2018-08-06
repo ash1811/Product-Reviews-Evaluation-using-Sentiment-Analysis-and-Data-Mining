@@ -1,0 +1,1 @@
+{"text": "This bra fits exceptional. I have never in my life found a bra that fit my breast like this one does. It has excellent support. I have very heavy big breast and it supports me better than any bra that I have ever worn. I love this bra!", "sentiment": "positive", "topics": {"1": "0.21891184", "2": "0.14224271", "3": "0.35978785", "4": "0.103989", "6": "0.16362038"}}

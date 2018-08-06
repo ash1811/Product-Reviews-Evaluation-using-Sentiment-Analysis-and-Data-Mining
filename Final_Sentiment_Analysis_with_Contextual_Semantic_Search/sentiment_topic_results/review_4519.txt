@@ -1,0 +1,1 @@
+{"text": "These are sold as double black and what it says on the box is what you get. One of the best pair of jeans I have ever owned. The reason is the quality of the fabric. Just so solid.", "sentiment": "negative", "topics": {"1": "0.10420737", "2": "0.2407787", "4": "0.44081137", "5": "0.13755281", "6": "0.05977962"}}

@@ -1,0 +1,1 @@
+{"text": "He only wears Smartwool hiking socks.  I found these light weight version and he loves them even more.  Very comfortable.", "sentiment": "negative", "topics": {"0": "0.35183445", "1": "0.31780803", "2": "0.011012552", "3": "0.011025562", "4": "0.011039584", "5": "0.28628904", "6": "0.010990766"}}

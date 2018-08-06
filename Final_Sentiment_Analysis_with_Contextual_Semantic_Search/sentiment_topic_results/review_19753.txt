@@ -1,0 +1,1 @@
+{"text": "I bought two pair of these  to wear around the house most of the time. They are medium weight &#8211; not too hot and not too cold, with good elastic at the bottom of the legs to close well around the ankles.", "sentiment": "negative", "topics": {"2": "0.08109673", "3": "0.5373649", "5": "0.35424262"}}

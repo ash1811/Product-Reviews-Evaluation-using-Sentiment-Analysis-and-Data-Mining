@@ -1,0 +1,1 @@
+{"text": "Super service and my son was very happy with the quality, he plans to use them for jogging shorts or just around the house so the price was right on these.", "sentiment": "negative", "topics": {"0": "0.1882647", "1": "0.37361997", "3": "0.25067964", "5": "0.1587808"}}

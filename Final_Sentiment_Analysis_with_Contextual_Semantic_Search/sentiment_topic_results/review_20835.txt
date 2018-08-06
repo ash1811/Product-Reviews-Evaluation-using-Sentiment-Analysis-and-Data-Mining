@@ -1,0 +1,1 @@
+{"text": "If you want something to walk around the park, or when weather is hot & humid (like in Asia), this is THE sandal to grab.", "sentiment": "positive", "topics": {"0": "0.3225009", "1": "0.41171327", "2": "0.01102631", "3": "0.07525133", "4": "0.011001391", "5": "0.15744454", "6": "0.011062253"}}

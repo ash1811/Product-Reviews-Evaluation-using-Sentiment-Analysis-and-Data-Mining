@@ -1,0 +1,1 @@
+{"text": "Perfect fit for me; holds lint fairly quickly but I love the fit and the comfort. I will recommend this product.", "sentiment": "negative", "topics": {"0": "0.09963417", "1": "0.44448087", "2": "0.10516809", "3": "0.11950163", "4": "0.011026932", "5": "0.20908687", "6": "0.011101481"}}

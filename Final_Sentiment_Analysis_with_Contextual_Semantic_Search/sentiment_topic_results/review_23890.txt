@@ -1,0 +1,1 @@
+{"text": "I kept these but cannot imagine these pants would look good on anyone. The pant fits me - but the style is such that the legs are huge and they look a bit like genie pants. Also gets wrinkly/ faded quickly.", "sentiment": "positive", "topics": {"0": "0.09446206", "1": "0.40414155", "2": "0.11247", "3": "0.2206077", "4": "0.059906963", "5": "0.10244855"}}

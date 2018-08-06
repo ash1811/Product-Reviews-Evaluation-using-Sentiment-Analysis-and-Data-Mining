@@ -1,0 +1,1 @@
+{"text": "Beautiful watch goes with every thing gold or silver. Easy to set an can be worn with jeans or dress up", "sentiment": "positive", "topics": {"0": "0.011020793", "1": "0.011059543", "2": "0.1583124", "3": "0.16176184", "4": "0.1365464", "5": "0.32889044", "6": "0.19240862"}}

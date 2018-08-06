@@ -1,0 +1,1 @@
+{"text": "Love these shoes. They are very warm....I wear them without socks! They are comfortable and sturdy on slippery pavements. I would recommend these if you are looking for something more than a shoe but less than a boot for the winter.", "sentiment": "positive", "topics": {"1": "0.5203332", "2": "0.14584261", "3": "0.08894821", "4": "0.1608153", "6": "0.06892063"}}

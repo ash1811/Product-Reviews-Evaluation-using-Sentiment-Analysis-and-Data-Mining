@@ -1,0 +1,1 @@
+{"text": "Tried to get my boyfriend out of keds  this was the answer,  going to order other colors now ,they fit well", "sentiment": "negative", "topics": {"0": "0.09648045", "1": "0.33865544", "2": "0.011955387", "3": "0.1992784", "4": "0.011920364", "5": "0.32979578", "6": "0.01191423"}}

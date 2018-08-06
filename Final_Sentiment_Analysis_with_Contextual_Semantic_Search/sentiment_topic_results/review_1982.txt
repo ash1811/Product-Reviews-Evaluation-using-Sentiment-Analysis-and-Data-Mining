@@ -1,0 +1,1 @@
+{"text": "These merrells are so comfortable. I have them in several colors and the smooth and suede. They are the most elegant in appearance. But when it's cold, wet, icy, snowing out, they fit the bill.", "sentiment": "positive", "topics": {"1": "0.4979105", "2": "0.07955907", "4": "0.17886655", "5": "0.14457203", "6": "0.08110825"}}

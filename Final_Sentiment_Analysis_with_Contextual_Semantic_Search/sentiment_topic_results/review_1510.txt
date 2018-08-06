@@ -1,0 +1,1 @@
+{"text": "This was a &#34;must have&#34; for my daughter with grey straps vs the black ones.  I spent more than the regular black strap backpack but Jansport is a quality product with lightweight materials.", "sentiment": "negative", "topics": {"1": "0.079678334", "2": "0.34786302", "3": "0.20642197", "4": "0.06371659", "5": "0.16463056", "6": "0.13015528"}}

@@ -1,0 +1,1 @@
+{"text": "A heavy, seemingly well made shoe.  I have enjoyed them, but disappointed that the top metal shoe lace eyelet fell off in the first few weeks.", "sentiment": "negative", "topics": {"0": "0.11932537", "2": "0.309695", "3": "0.26827654", "5": "0.21666245", "6": "0.0691933"}}

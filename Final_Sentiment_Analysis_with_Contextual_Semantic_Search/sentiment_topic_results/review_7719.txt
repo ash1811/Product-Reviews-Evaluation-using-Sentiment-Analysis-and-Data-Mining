@@ -1,0 +1,1 @@
+{"text": "Meow!  He's looking good in 527's! I like the modern color.  This particular cut looks great for us  who try to dress age appropriate, but are not quite dead yet...", "sentiment": "positive", "topics": {"0": "0.08647851", "1": "0.29260543", "2": "0.19979365", "3": "0.25847778", "4": "0.14899743"}}

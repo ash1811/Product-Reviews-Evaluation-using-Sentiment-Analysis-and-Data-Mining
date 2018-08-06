@@ -1,0 +1,1 @@
+{"text": "Used this for our recent trip for Christmas. Our infant seat from our Chicco Cortina travel system fit perfectly with the base, and so will our Britax Boulevard in the future. The cushioning is wonderful, and it fully protected our seat!", "sentiment": "negative", "topics": {"0": "0.12347088", "1": "0.19757245", "2": "0.055343043", "5": "0.30359122", "6": "0.30700946"}}

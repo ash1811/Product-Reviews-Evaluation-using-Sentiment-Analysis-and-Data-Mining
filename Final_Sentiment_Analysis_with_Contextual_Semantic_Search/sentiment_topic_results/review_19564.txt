@@ -1,0 +1,1 @@
+{"text": "These are the best shoes I've ever owned.  You can easily get a decade out of them with proper maintenance.  The insoles are super comfortable, the leather is top-quality, and they fit like a glove.", "sentiment": "negative", "topics": {"1": "0.37805033", "2": "0.3642485", "3": "0.14144593", "6": "0.09361725"}}

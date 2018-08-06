@@ -1,0 +1,1 @@
+{"text": "These are soooo comfortable, tried them on with some new hiking boots and I did not want to take them off. Cannot wait to travel to Costa Rica and try them in the forests.", "sentiment": "negative", "topics": {"0": "0.091068886", "1": "0.21131098", "2": "0.09437106", "3": "0.25718138", "4": "0.21154976", "5": "0.12606952"}}

@@ -1,0 +1,1 @@
+{"text": "Love these slippers!! Super comfy and soft!! They look cool too so don't mind running to the store in them! I got tan and am going to get brown now :) I usually wear 6.5 but 7 was perfect for me!! Best slippers ever :)", "sentiment": "negative", "topics": {"1": "0.36180946", "3": "0.104641385", "5": "0.26884416", "6": "0.24815053"}}

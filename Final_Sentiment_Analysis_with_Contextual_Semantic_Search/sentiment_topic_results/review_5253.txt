@@ -1,0 +1,1 @@
+{"text": "Then I ended up stealing my husbands fuzzy slippers that I'd bought for him at Walgreens. Whatever, I still have them, and I'm sure they're just as good as before.", "sentiment": "negative", "topics": {"0": "0.10925507", "1": "0.27147794", "2": "0.15839987", "4": "0.11408591", "5": "0.19886574", "6": "0.13945398"}}

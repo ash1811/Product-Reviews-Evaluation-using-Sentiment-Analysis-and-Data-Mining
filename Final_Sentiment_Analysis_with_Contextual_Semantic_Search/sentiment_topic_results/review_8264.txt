@@ -1,0 +1,1 @@
+{"text": "I have several pairs of these. The quality standards from Levi's is great the are always the same as the last pair. No surprises is always the best thing.", "sentiment": "positive", "topics": {"0": "0.12395884", "1": "0.4980297", "4": "0.15750895", "6": "0.19182447"}}

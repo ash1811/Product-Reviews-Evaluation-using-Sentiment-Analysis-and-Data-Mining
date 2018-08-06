@@ -1,0 +1,1 @@
+{"text": "This is a nice item, exactly as described. The fit is excellent.  This is a basic product well worth the price.  I have worn it a few times and plan to wear it a lot more in the future. Thank you for prompt service.", "sentiment": "negative", "topics": {"0": "0.040233813", "1": "0.272305", "2": "0.121202625", "5": "0.32816064", "6": "0.22445402"}}

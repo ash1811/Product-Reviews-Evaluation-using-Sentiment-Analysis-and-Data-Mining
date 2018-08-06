@@ -1,0 +1,1 @@
+{"text": "Great fit. Just right for spring .you could sleep in this jacket and it would still look good. I may order another later", "sentiment": "positive", "topics": {"0": "0.07733522", "1": "0.7108637", "2": "0.07597307", "5": "0.110541135"}}

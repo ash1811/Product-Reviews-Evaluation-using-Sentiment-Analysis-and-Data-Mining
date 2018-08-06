@@ -1,0 +1,1 @@
+{"text": "Wanted a light-weight earring, w/out the separate back slip-on.I can actually sleep in these, w/out any pain!  Bad me, I had worn a cheapie pair of earrings to a family function, and paid for it w/puffy lobes.Great buy!", "sentiment": "negative", "topics": {"0": "0.0953298", "1": "0.41946134", "3": "0.122051574", "4": "0.055599555", "5": "0.13154712", "6": "0.1702724"}}

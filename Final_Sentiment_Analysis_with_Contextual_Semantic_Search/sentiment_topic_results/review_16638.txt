@@ -1,0 +1,1 @@
+{"text": "I wear this everyday.  I use it everyday.  This watch has taken some big hits and bounced right back.  I love It", "sentiment": "negative", "topics": {"0": "0.10879336", "1": "0.3554506", "2": "0.093795195", "3": "0.011018191", "4": "0.32498896", "5": "0.011024111", "6": "0.094929606"}}

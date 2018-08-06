@@ -1,0 +1,1 @@
+{"text": "This sock is really thin, great for sping or summer activities. I guess for the price I was expecting a thicker winter sock. They are super cozy, however. They have kind of become my favorite sock.", "sentiment": "positive", "topics": {"0": "0.09416287", "1": "0.35269842", "2": "0.10184759", "3": "0.12076545", "4": "0.07373148", "5": "0.24998154"}}

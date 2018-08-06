@@ -1,0 +1,1 @@
+{"text": "Very good glasses !Perfect for sunny and for normal weather.Polarized lenses ideal protection from the sun.I like it very much.Ideal for hiking.", "sentiment": "negative", "topics": {"0": "0.6013733", "1": "0.010234777", "2": "0.010217204", "3": "0.09983771", "4": "0.010214482", "5": "0.16838466", "6": "0.09973787"}}

@@ -1,0 +1,1 @@
+{"text": "Fits as expected, I up the band size of all my sports bras. The cups don't squish you flat but also are not a support jog bra.", "sentiment": "negative", "topics": {"0": "0.11543925", "1": "0.23478948", "2": "0.10592774", "3": "0.36603093", "4": "0.15737697", "5": "0.010213991", "6": "0.010221631"}}

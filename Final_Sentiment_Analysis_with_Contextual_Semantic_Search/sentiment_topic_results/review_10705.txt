@@ -1,0 +1,1 @@
+{"text": "Brazil - Gramado - Rio Grande do SulI din`t have any more space in my luggage for at least 3 more, I do recommend.", "sentiment": "negative", "topics": {"0": "0.17084509", "1": "0.10178916", "2": "0.28914577", "3": "0.11715937", "4": "0.107752934", "5": "0.2023105", "6": "0.010997175"}}

@@ -1,0 +1,1 @@
+{"text": "I've received many compliments already, for only having worn twice. They're pretty flashy and have an elegance in their simplicity. So, I'll be saving them for special days or evenings. Shipped well.", "sentiment": "negative", "topics": {"0": "0.20645528", "1": "0.086018525", "2": "0.09282121", "3": "0.1424695", "4": "0.17281944", "5": "0.24113294", "6": "0.058283098"}}

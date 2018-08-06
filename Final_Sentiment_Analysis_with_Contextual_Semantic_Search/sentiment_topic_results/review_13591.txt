@@ -1,0 +1,1 @@
+{"text": "Very nice SS earrings with crystal accents!...love the length and the sparkle of the Swarovski crystal...nice price too.  I wear them most of the time..can be worn for every day or special dress up occasions!  Love them!", "sentiment": "positive", "topics": {"1": "0.49945268", "2": "0.23596948", "4": "0.13428247", "6": "0.110705025"}}

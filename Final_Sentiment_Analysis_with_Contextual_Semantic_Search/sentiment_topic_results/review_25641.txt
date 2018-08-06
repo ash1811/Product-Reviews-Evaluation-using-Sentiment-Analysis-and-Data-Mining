@@ -1,0 +1,1 @@
+{"text": "I love these jewelry cases.  They make great gifts.  I've bought them for several friends who love them.  The are cute and very useful.  Great for travel.", "sentiment": "negative", "topics": {"0": "0.11198693", "1": "0.16074204", "2": "0.105891064", "3": "0.42577225", "5": "0.17872262"}}

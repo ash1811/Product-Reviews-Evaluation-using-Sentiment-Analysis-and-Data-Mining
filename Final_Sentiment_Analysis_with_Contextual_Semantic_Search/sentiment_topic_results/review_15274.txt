@@ -1,0 +1,1 @@
+{"text": "Good quality material. Like the comfort fit of the top. Usually wear a size medium but ordered a large and glad I did, its not too tight.", "sentiment": "negative", "topics": {"1": "0.5338893", "3": "0.17023313", "5": "0.20181274", "6": "0.06883128"}}

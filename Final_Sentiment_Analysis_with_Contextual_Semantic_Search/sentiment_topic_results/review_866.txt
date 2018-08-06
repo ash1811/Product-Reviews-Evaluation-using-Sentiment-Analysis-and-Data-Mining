@@ -1,0 +1,1 @@
+{"text": "Great fit, great look, great price,  just plain great, could not ask for more, wish I would have found this product years ago!!!!!", "sentiment": "negative", "topics": {"1": "0.7569704", "5": "0.1428096", "6": "0.06837808"}}

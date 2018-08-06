@@ -1,0 +1,1 @@
+{"text": "The earrings are cute but, in my opinion, they don't stand out enough.  They are very tiny don't look at all like what's displayed. Not returning, will save them to give as a gift. I'm sure a young teen will enjoy the.", "sentiment": "positive", "topics": {"0": "0.28296116", "2": "0.20479709", "3": "0.059093367", "4": "0.2638582", "5": "0.1762321"}}

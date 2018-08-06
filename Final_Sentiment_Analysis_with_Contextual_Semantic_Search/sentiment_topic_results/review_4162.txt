@@ -1,0 +1,1 @@
+{"text": "These sweatpants are great except for the lack of pockets", "sentiment": "negative", "topics": {"0": "0.2128253", "1": "0.47750387", "2": "0.023818126", "3": "0.023817226", "4": "0.02381384", "5": "0.023868252", "6": "0.21435337"}}

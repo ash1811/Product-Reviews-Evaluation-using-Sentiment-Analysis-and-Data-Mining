@@ -1,0 +1,1 @@
+{"text": "good workmanship,compare to the last 3 pair of boots i order,(timberland,h/davidson/wolverine).all made in china,this one made in USA perfect pair of working boots,and the price is almost the same,will get another pair .", "sentiment": "negative", "topics": {"0": "0.059122432", "1": "0.49946383", "2": "0.06571187", "3": "0.04160708", "4": "0.3216511"}}

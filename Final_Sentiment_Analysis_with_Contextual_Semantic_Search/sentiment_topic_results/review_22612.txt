@@ -1,0 +1,1 @@
+{"text": "These briefs (at least this package) are sized about a size smaller than Just My Size briefs of the same stated size.  The product itself is very good.  Maybe I just got a miss-sized package.", "sentiment": "negative", "topics": {"0": "0.16545504", "2": "0.098905034", "3": "0.42850575", "4": "0.15152507", "5": "0.13968283"}}

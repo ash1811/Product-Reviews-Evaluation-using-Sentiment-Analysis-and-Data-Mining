@@ -1,0 +1,1 @@
+{"text": "I realize this is an adjustable hat, but it's pretty small and would suit a younger kid well. For adults its OK if you're a pinhead. Oh well. Its cheap.", "sentiment": "negative", "topics": {"0": "0.12141547", "1": "0.3167031", "2": "0.19356191", "3": "0.1113482", "5": "0.24014105"}}

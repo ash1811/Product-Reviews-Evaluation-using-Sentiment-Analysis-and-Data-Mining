@@ -1,0 +1,1 @@
+{"text": "It is supported by Wrangler brand, so it is synonymous with quality garments that are made.Delivery times and prices of the product corresponds", "sentiment": "negative", "topics": {"0": "0.011927205", "1": "0.19862609", "2": "0.01193056", "3": "0.09810639", "4": "0.2616137", "5": "0.2394011", "6": "0.17839497"}}

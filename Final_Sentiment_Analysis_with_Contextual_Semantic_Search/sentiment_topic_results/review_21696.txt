@@ -1,0 +1,1 @@
+{"text": "Lightweight and beautifully detailed. These earrings are very comfortable and do not seem to tarnish when I'm not wearing them.", "sentiment": "negative", "topics": {"0": "0.013044053", "1": "0.36251846", "2": "0.23645535", "3": "0.23996912", "4": "0.013010145", "5": "0.013041258", "6": "0.12196157"}}

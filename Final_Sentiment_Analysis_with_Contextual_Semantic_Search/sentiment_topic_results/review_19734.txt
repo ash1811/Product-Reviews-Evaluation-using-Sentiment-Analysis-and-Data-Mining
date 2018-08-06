@@ -1,0 +1,1 @@
+{"text": "My husband has needed more sweatpants for years and refused to give up the old ones; however, he seems happy with these.  I have not washed them yet and hope they don't shrink badly.  I will update if any issues.", "sentiment": "negative", "topics": {"0": "0.15388429", "1": "0.23970115", "2": "0.12954298", "4": "0.10306261", "5": "0.3594737"}}

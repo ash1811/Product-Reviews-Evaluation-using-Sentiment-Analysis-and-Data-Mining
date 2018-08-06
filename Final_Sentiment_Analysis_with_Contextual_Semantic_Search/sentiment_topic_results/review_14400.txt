@@ -1,0 +1,1 @@
+{"text": "I was Satisfied. Good price, Good quality.In my country, I should pay much more to get this quality shoes.I usually get 10~10.5 size shoes. but this one is little big for me(I ordered size 10)", "sentiment": "negative", "topics": {"0": "0.117735095", "1": "0.3910613", "2": "0.13094307", "3": "0.22677176", "4": "0.06693142", "6": "0.06057493"}}

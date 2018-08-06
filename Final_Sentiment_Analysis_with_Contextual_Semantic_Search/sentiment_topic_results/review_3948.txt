@@ -1,0 +1,1 @@
+{"text": "Very soft and comfortable.  Love this house slippers! Fit expectations,  I like this slippers very much. Wearable, wearable, wearable...love. buy it!", "sentiment": "negative", "topics": {"1": "0.42602837", "4": "0.19720575", "5": "0.10291212", "6": "0.24697997"}}

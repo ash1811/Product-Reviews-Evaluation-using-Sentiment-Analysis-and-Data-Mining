@@ -1,0 +1,1 @@
+{"text": "I purchased these to be used as a water shoe on my cruise.  I have yet to cruise but wear these little gems everywhere!  Seller was prompt.", "sentiment": "negative", "topics": {"0": "0.010225594", "1": "0.27740452", "2": "0.15990108", "3": "0.20523927", "4": "0.010226406", "5": "0.18340635", "6": "0.15359682"}}

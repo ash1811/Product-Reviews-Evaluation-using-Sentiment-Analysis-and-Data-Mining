@@ -1,0 +1,1 @@
+{"text": "I really like the wide straps, no digging into the sholders.I have bought these before and will buy again. It wears well, washes well and looks great under clothes.", "sentiment": "negative", "topics": {"1": "0.69330674", "2": "0.12855041", "4": "0.14442213"}}

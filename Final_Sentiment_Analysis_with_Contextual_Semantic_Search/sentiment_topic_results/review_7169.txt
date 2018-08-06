@@ -1,0 +1,1 @@
+{"text": "Had purchased the long sleeve T's for Christmas gifts and the recipients liked them very much. These will be for warmer weather gifts for the same men.", "sentiment": "negative", "topics": {"0": "0.25348794", "1": "0.41064954", "2": "0.01021882", "3": "0.010216198", "4": "0.101704955", "5": "0.01022433", "6": "0.20349824"}}

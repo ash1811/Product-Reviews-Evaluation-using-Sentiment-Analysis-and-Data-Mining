@@ -1,0 +1,1 @@
+{"text": "It doesn't look super expensive like everyone else says it does. It is a VERY petite braclet, but it is nice, and I wear it with nice clothes.", "sentiment": "positive", "topics": {"1": "0.39337265", "2": "0.17194612", "4": "0.079647556", "5": "0.10324058", "6": "0.23271295"}}

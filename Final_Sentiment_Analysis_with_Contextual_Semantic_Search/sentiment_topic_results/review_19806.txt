@@ -1,0 +1,1 @@
+{"text": "My daughter loves her watch. She wear it everyday. Since i gave this to her she nit wearing her other watches anymore. Thank you. And im pretty sure i will buy more watches again here in Amazon...", "sentiment": "positive", "topics": {"1": "0.29244876", "2": "0.35877308", "4": "0.26430672", "6": "0.062934056"}}

@@ -1,0 +1,1 @@
+{"text": "Jambu make great shoes and these are no exception.Extremely comfy, fit perfectly and look fantastic!!I purchased two pair, green and red, they go with everything and can be worn casual or dressy enough to wear out.Gorgeous!", "sentiment": "negative", "topics": {"0": "0.1924258", "1": "0.45343903", "2": "0.2268245", "6": "0.109365724"}}

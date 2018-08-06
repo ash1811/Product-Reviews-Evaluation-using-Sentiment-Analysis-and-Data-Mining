@@ -1,0 +1,1 @@
+{"text": "feels comfortable, easy to adjust, superior quality, thicker quality fabric instead of the standard thin cheap stuff you normally find. Got this for a pirate cosplay and it does what it needs to. im happy with it.", "sentiment": "negative", "topics": {"1": "0.56226003", "2": "0.054387677", "3": "0.0527736", "5": "0.09385858", "6": "0.2252465"}}

@@ -1,0 +1,1 @@
+{"text": "It fits my head and covers the top half of my ears. It's soft and well made. And the price was excellent.", "sentiment": "negative", "topics": {"0": "0.0119266305", "1": "0.439752", "2": "0.12041342", "3": "0.2143159", "4": "0.011945271", "5": "0.011921693", "6": "0.1897251"}}

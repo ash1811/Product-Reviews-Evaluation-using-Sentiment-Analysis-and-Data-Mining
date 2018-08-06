@@ -1,0 +1,1 @@
+{"text": "What can I write? They are Wranglers and that speaks for it self. I tried them on and hung them in the closit for later. They are high quality jeans and love the color. From a 1 to a 10= 10", "sentiment": "negative", "topics": {"0": "0.08597559", "1": "0.45336905", "2": "0.09081706", "4": "0.22065747", "6": "0.13230225"}}

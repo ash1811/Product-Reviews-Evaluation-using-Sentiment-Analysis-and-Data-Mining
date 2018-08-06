@@ -1,0 +1,1 @@
+{"text": "jockey has changed this underwear. I did not know that . so I bought the size that I have always worn and they didn't fit me. cant use", "sentiment": "negative", "topics": {"0": "0.23751594", "1": "0.22180936", "2": "0.011028047", "3": "0.32632872", "4": "0.011019623", "5": "0.011025767", "6": "0.18127257"}}

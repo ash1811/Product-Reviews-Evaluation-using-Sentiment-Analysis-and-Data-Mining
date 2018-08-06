@@ -1,0 +1,1 @@
+{"text": "Choose this rating because the product worked it was not expensive and did or does all it was yo do to help find to look I was wanting", "sentiment": "positive", "topics": {"0": "0.01300641", "1": "0.36088607", "2": "0.01307031", "3": "0.012999956", "4": "0.013084206", "5": "0.23775135", "6": "0.3492017"}}

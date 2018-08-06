@@ -1,0 +1,1 @@
+{"text": "The shoe is a Minnetonka moccasin, so it is what it is. I ordered a wide. It is taking me quite a bit of time to break them in.", "sentiment": "negative", "topics": {"0": "0.01101742", "1": "0.27736586", "2": "0.17574593", "3": "0.28345114", "4": "0.011019002", "5": "0.13831852", "6": "0.103082106"}}

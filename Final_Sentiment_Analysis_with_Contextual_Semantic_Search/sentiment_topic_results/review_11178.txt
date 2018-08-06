@@ -1,0 +1,1 @@
+{"text": "The only thing I can say negative about these earrings is that the prong and the back's turn black with wear.", "sentiment": "negative", "topics": {"0": "0.014325688", "1": "0.28644383", "2": "0.014319708", "3": "0.5405499", "4": "0.014307524", "5": "0.014329374", "6": "0.115724005"}}

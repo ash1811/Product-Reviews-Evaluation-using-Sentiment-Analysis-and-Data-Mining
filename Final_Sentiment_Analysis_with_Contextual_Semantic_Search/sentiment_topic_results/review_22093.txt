@@ -1,0 +1,1 @@
+{"text": "Nice warm mitts and so easy to take off and put on. Easier than 5 finger gloves. I am 5'8\" with hands 7\" from heel to tip of middle finger. 3.75\" wide. Medium fits perfectly. Wanted use them to keep hands warm in cold airplanes.", "sentiment": "negative", "topics": {"0": "0.17866965", "1": "0.40085086", "2": "0.05405024", "3": "0.12785153", "4": "0.22933558"}}

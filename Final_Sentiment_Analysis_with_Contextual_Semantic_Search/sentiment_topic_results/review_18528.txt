@@ -1,0 +1,1 @@
+{"text": "It is a good fit and comfortable.  Especially when you are on your feet all day. I tend to replace this shoe with the same shoe every few years and am very happy with them.", "sentiment": "negative", "topics": {"1": "0.5471305", "2": "0.30713376", "4": "0.107483745"}}

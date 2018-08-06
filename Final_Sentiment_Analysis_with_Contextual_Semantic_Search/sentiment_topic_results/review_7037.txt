@@ -1,0 +1,1 @@
+{"text": "The boots fit perfect and are comfortable right off the starting line. One drawback is the leather sole. Very slippery no matter where you are. A cobbler can add slip-resistance to it, though.", "sentiment": "negative", "topics": {"1": "0.23119125", "2": "0.17980331", "3": "0.22674982", "4": "0.2880597", "6": "0.059888907"}}

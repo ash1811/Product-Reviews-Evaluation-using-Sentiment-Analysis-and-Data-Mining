@@ -1,0 +1,1 @@
+{"text": "Got these to replace my hubbie's old ones. These work fine. They fit. We'll see how long they last. I'm hopeful as these don't seem super thin or flimsy. What can I say?", "sentiment": "positive", "topics": {"1": "0.29120094", "2": "0.16333346", "3": "0.092417985", "4": "0.13826564", "5": "0.148906", "6": "0.1587184"}}

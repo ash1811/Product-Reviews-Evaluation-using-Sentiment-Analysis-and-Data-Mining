@@ -1,0 +1,1 @@
+{"text": "My 84 years old mother loves these socks, because her feet are larger than most and they are nice and soft. Thanks!", "sentiment": "positive", "topics": {"0": "0.011950703", "1": "0.4320039", "2": "0.0119171515", "3": "0.011966625", "4": "0.38690808", "5": "0.13334253", "6": "0.0119110355"}}

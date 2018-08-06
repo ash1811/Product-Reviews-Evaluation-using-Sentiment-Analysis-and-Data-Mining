@@ -1,0 +1,1 @@
+{"text": "Arrived on time and fit great. I got the large mens for my son who is 5'11 and the length is good.", "sentiment": "negative", "topics": {"0": "0.2974693", "1": "0.64277333", "2": "0.011925307", "3": "0.011957019", "4": "0.011912043", "5": "0.011953078", "6": "0.012009956"}}

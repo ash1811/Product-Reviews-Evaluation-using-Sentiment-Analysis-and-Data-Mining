@@ -1,0 +1,1 @@
+{"text": "These r amazing. I teach ice skating in outdoor rinks in the rain and snow and freezing weather and they absolutely keep me so much warmer then not wearing them. Need to buy some more!! Thank u", "sentiment": "positive", "topics": {"1": "0.17478849", "2": "0.2528116", "4": "0.3305559", "5": "0.107803926", "6": "0.12155908"}}

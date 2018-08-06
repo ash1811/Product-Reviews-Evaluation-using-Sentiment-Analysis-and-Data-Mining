@@ -1,0 +1,1 @@
+{"text": "This got my diamond rings sparkling and my glasses smudge free! I highly recommend this product. It is best for gold and platinum. I have not yet tried it with sterling silver.", "sentiment": "negative", "topics": {"0": "0.4997468", "1": "0.18841432", "3": "0.15137553", "5": "0.13659102"}}

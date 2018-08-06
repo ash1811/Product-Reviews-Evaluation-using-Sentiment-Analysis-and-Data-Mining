@@ -1,0 +1,1 @@
+{"text": "This is so easy and quick to use.  For badly tarnished silver, let it soak longer.  It does smell badly but if you put the lid on and open the window, it's not too much of a problem.", "sentiment": "negative", "topics": {"0": "0.16032827", "2": "0.0728973", "3": "0.37381804", "4": "0.25920403", "6": "0.11783758"}}

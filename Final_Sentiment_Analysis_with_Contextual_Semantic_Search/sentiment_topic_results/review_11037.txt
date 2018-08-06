@@ -1,0 +1,1 @@
+{"text": "These are really great slippers. I need a larger size. They are very comfortable and warm. I love the inner lining which I prefer over the sheepskin lining.", "sentiment": "positive", "topics": {"0": "0.45763507", "1": "0.20498465", "2": "0.091203615", "6": "0.2175003"}}

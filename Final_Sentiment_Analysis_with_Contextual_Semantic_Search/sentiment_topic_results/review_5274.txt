@@ -1,0 +1,1 @@
+{"text": "These fit very well, not too big or too small, and they are VERY comfortable!  Love the pretty ivory color as well!", "sentiment": "negative", "topics": {"0": "0.013013358", "1": "0.836976", "2": "0.012996696", "3": "0.013009267", "4": "0.013038178", "5": "0.013007809", "6": "0.09795867"}}

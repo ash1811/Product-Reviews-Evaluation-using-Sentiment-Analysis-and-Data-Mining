@@ -1,0 +1,1 @@
+{"text": "Very happy with this purchase.I was a bit hesitant to buy sunglasses online since you never really know what they'll look like once you put them on but these fit great and look great as well.", "sentiment": "negative", "topics": {"0": "0.22824839", "1": "0.47272214", "2": "0.055716753", "3": "0.105150715", "5": "0.12450511"}}

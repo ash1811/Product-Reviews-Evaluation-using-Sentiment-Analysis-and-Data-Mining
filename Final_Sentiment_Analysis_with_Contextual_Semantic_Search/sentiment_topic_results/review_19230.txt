@@ -1,0 +1,1 @@
+{"text": "It holds all that I need to carry & that's a lot. It looks like it'll hold up under a lot of wear & tear!", "sentiment": "negative", "topics": {"0": "0.17359853", "1": "0.011029995", "2": "0.20463678", "3": "0.3658655", "4": "0.097537525", "5": "0.011041866", "6": "0.1362898"}}

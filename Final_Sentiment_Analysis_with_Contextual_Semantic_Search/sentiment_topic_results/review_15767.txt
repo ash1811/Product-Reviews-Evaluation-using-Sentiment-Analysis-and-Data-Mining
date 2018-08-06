@@ -1,0 +1,1 @@
+{"text": "I am very pleased with this battery replacement kit that I have used especially since it really works well and was a great buy.", "sentiment": "positive", "topics": {"0": "0.011025005", "1": "0.8377188", "2": "0.107187666", "3": "0.011012578", "4": "0.011018384", "5": "0.011032335", "6": "0.011005277"}}

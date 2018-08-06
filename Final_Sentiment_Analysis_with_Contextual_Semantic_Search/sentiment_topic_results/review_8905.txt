@@ -1,0 +1,1 @@
+{"text": "on my feet all day, these shoes are the most comfotable shoes, my back and legs do not hurt anymore", "sentiment": "positive", "topics": {"0": "0.014309523", "1": "0.014374459", "2": "0.28945738", "3": "0.014309542", "4": "0.21305224", "5": "0.31183097", "6": "0.14266586"}}

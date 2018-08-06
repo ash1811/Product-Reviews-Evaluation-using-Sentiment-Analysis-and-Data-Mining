@@ -1,0 +1,1 @@
+{"text": "I am pleased with this digital watch.  The only other feature that I would like to have is the auto timing with the Colorado Time Center.", "sentiment": "negative", "topics": {"0": "0.35538724", "1": "0.0119338455", "2": "0.116979666", "3": "0.011933375", "4": "0.112785034", "5": "0.18607889", "6": "0.20490198"}}

@@ -1,0 +1,1 @@
+{"text": "I have had these pants for awhile and they have only one flaw the part that holds the draw cord inside around the waist is coming un sewn.", "sentiment": "negative", "topics": {"1": "0.22818616", "2": "0.3927406", "3": "0.24295463", "5": "0.107513696"}}

@@ -1,0 +1,1 @@
+{"text": "I got these acutally as part of a Halloween costume, but I'm glad I have them now. I will use them whenever I'm doing work around the house or something that requires work-type pants.", "sentiment": "negative", "topics": {"0": "0.12715915", "1": "0.42488232", "3": "0.31145453", "5": "0.11381472"}}

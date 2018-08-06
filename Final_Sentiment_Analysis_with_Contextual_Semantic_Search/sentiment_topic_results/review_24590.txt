@@ -1,0 +1,1 @@
+{"text": "My daughter is a true 2T and this won't fit her for much longer. It is good quality though - nice, thick material and the front is lined.", "sentiment": "positive", "topics": {"0": "0.10980542", "1": "0.6727708", "4": "0.08584518", "5": "0.10295078"}}

@@ -1,0 +1,1 @@
+{"text": "I ordered these boots for my husband for Christmas.  The price was awesome, and so were the boots!  He thinks they are very comfortable.  Thank you Amazon!!!!!!!!!!!!!!!!", "sentiment": "positive", "topics": {"0": "0.011919868", "1": "0.38261387", "2": "0.122347094", "3": "0.011938275", "4": "0.38151368", "5": "0.01196001", "6": "0.077707216"}}

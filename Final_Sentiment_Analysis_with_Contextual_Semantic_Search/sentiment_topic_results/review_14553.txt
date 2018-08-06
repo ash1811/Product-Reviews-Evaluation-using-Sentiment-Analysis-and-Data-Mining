@@ -1,0 +1,1 @@
+{"text": "Stylish low cost glasses I bought for a friend of mine. These are polarized as said in ad and they offer great coverage and sun protection.", "sentiment": "negative", "topics": {"0": "0.12881993", "1": "0.24413706", "3": "0.16793427", "4": "0.06654639", "5": "0.2300355", "6": "0.15358983"}}

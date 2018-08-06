@@ -1,0 +1,1 @@
+{"text": "I bought this to accompany my new sonic wave machine and it seems to work well. It didn't &#34;dissolve&#34; every sign of dirt but I don't think any do", "sentiment": "negative", "topics": {"0": "0.40388823", "1": "0.2505618", "2": "0.17326294", "3": "0.14364971"}}

@@ -1,0 +1,1 @@
+{"text": "This backpack lasted for about one good school year (9 months). It eventually tore at the seams but it did the job.", "sentiment": "negative", "topics": {"0": "0.011000311", "1": "0.26869753", "2": "0.27516025", "3": "0.3246022", "4": "0.011007094", "5": "0.011003407", "6": "0.098529235"}}

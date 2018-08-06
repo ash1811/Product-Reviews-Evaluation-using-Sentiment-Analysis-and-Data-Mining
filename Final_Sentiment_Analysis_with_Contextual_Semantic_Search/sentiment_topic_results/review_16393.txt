@@ -1,0 +1,1 @@
+{"text": "The only brand I buy is Reef.  Amazon has the best deals.  I'm very pleased with the comfort of these and am looking forward to the arrival of my other pair.", "sentiment": "negative", "topics": {"0": "0.10186414", "1": "0.4558819", "2": "0.010204972", "3": "0.23728628", "4": "0.100433566", "5": "0.010233788", "6": "0.08409536"}}

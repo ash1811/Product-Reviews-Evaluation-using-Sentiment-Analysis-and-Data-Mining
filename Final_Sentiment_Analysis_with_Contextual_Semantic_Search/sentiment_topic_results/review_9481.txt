@@ -1,0 +1,1 @@
+{"text": "He loves it!!!!!  Put it on IMMEDIATELY after opening gifts.  It is a thin nylon-type material that will not hold up well to snags or tears, but it looks and fits great.", "sentiment": "negative", "topics": {"0": "0.28127196", "1": "0.36190867", "3": "0.21817182", "5": "0.11338926"}}

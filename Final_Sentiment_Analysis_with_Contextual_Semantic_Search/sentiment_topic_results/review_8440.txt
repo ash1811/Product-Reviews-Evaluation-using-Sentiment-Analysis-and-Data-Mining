@@ -1,0 +1,1 @@
+{"text": "The GF likes these. She can ware them out of the house and look good.We pick out items we can't find locally and I buy she looks good", "sentiment": "negative", "topics": {"1": "0.4964514", "2": "0.13839333", "4": "0.08974936", "6": "0.24850957"}}

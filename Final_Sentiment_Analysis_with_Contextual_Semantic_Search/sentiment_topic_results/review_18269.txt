@@ -1,0 +1,1 @@
+{"text": "This is the second Carhartt coat I've purchased over the years and have not been sorry either time.  Fits well and very warm. Carhartt customer for life.", "sentiment": "negative", "topics": {"1": "0.80424196", "3": "0.083596274", "4": "0.076392725"}}

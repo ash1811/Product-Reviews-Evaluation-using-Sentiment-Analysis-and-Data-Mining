@@ -1,0 +1,1 @@
+{"text": "my dad loves these, they look amazing ! they provide good support for his feet and with the prices on amazon, this is a great buy !", "sentiment": "positive", "topics": {"0": "0.010279798", "1": "0.5638706", "2": "0.010223801", "3": "0.010242199", "4": "0.3849476", "5": "0.010228074", "6": "0.010207914"}}

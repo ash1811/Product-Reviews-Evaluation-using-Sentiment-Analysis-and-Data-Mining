@@ -1,0 +1,1 @@
+{"text": "Was really surprised how comfortable these t shirts are. Very light weight and ordered some more, in a different color.", "sentiment": "negative", "topics": {"0": "0.0119492235", "1": "0.66041124", "2": "0.15025191", "3": "0.011929748", "4": "0.01192095", "5": "0.011939946", "6": "0.14159697"}}

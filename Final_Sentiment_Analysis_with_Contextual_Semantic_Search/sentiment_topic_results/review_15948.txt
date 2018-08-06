@@ -1,0 +1,1 @@
+{"text": "I recommend this cap.  The quality is great, and the color is really cool~! Worth for that price! And you can change the size of this cap too. I'm really happy about it and I just love it.", "sentiment": "positive", "topics": {"0": "0.22283027", "1": "0.34121946", "2": "0.08811888", "3": "0.13710105", "4": "0.1956198"}}

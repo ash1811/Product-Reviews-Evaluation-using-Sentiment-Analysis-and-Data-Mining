@@ -1,0 +1,1 @@
+{"text": "The bra itself is a lovely material, appears well made, etc.  However, once it's on, it's stiff and uncomfortable and creates an awkward pointy profile typically seen in the 60's.  I returned it and got a swift refund.", "sentiment": "positive", "topics": {"0": "0.044968564", "1": "0.23298629", "3": "0.23250459", "4": "0.1992999", "5": "0.12871428", "6": "0.15527192"}}

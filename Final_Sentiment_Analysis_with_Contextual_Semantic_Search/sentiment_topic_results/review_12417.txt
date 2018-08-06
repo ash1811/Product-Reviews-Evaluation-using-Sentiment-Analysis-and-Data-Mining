@@ -1,0 +1,1 @@
+{"text": "I just received these flip flops and it's still 30 degrees outside so I haven't worn them BUT they are so comfy!  I'll be ordering more!", "sentiment": "negative", "topics": {"0": "0.011040471", "1": "0.15775003", "2": "0.11405856", "3": "0.516827", "4": "0.09592894", "5": "0.011054989", "6": "0.093340024"}}

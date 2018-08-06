@@ -1,0 +1,1 @@
+{"text": "I bought these because I already have a few pair of Russell Athletic shorts I love.  These do not fit the bill though they are a good 3 inches shorter than the other pairs I have.  I", "sentiment": "negative", "topics": {"0": "0.08420212", "1": "0.32622123", "3": "0.40849888", "5": "0.15577"}}

@@ -1,0 +1,1 @@
+{"text": "bought these for my mother in law, she was a very happy camper. they are so cute & they are authentic", "sentiment": "negative", "topics": {"0": "0.56278634", "1": "0.01791915", "2": "0.017862096", "3": "0.34775525", "4": "0.017898366", "5": "0.017919686", "6": "0.017859159"}}

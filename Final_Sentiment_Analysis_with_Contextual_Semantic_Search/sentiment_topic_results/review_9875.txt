@@ -1,0 +1,1 @@
+{"text": "I love this shoes and it feels good on my feet.  I would definitely recommend these to anyone.  Its a great shoes for summer.  Now I know how they feel, I'm definitely going to buy some more in different colors.  Love it!", "sentiment": "negative", "topics": {"0": "0.27241609", "1": "0.23613453", "2": "0.12538843", "3": "0.34734064"}}

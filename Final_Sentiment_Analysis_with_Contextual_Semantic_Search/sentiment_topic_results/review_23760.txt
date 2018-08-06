@@ -1,0 +1,1 @@
+{"text": "I bought this aviator glasses to use them with a costume... but I consider only for that they work... the quality is very poor to use them in a daily basis", "sentiment": "negative", "topics": {"0": "0.36706114", "1": "0.14765969", "2": "0.0110076815", "3": "0.36564478", "4": "0.011016902", "5": "0.08660989", "6": "0.010999947"}}

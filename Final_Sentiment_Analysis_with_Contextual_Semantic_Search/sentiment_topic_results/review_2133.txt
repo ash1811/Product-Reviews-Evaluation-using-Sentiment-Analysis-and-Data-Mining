@@ -1,0 +1,1 @@
+{"text": "Well made, with one exception: the Tongue has a fabric &#34;hook &#34; at the top.  When I used it to pull the tongue up... it separated from the tongue.  No biggie for me... but that is what happened..", "sentiment": "negative", "topics": {"2": "0.39278024", "3": "0.08630043", "5": "0.33576655", "6": "0.16241841"}}

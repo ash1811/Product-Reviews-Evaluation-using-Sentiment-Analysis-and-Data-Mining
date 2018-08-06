@@ -1,0 +1,1 @@
+{"text": "Like Joe Boxers better, but they aren't made any longer.  Jerzees is good and does not pill either, unlike other brands.", "sentiment": "negative", "topics": {"0": "0.011010367", "1": "0.16249286", "2": "0.17103831", "3": "0.25397384", "4": "0.09894175", "5": "0.011010649", "6": "0.29153222"}}

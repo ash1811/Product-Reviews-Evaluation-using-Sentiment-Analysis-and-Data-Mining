@@ -1,0 +1,1 @@
+{"text": "Pretty. Thin. Maintain a nice luster. Very light in weight.  Received as expected. The size is adequate. Blah, blah, blah.", "sentiment": "negative", "topics": {"1": "0.37266502", "5": "0.15401083", "6": "0.43508297"}}

@@ -1,0 +1,1 @@
+{"text": "This is my husbands favorite shoe.  He buys them two pairs at a time, one for work and one for daily wear.  They fit well, wear well and his orthotic supports fit in them when you remove the insoles.  Highly recommend!", "sentiment": "negative", "topics": {"0": "0.06321161", "1": "0.5478793", "2": "0.26062647", "4": "0.110384785"}}

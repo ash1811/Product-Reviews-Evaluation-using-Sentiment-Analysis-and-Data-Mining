@@ -1,0 +1,1 @@
+{"text": "Great watch.  Great features.  Handles rough treatment very well.  Able to wash car with it with no problems.  Good watch for a very active type person.  Good on the jogging trail and basketball court.", "sentiment": "negative", "topics": {"0": "0.0883523", "2": "0.33029348", "3": "0.12277259", "4": "0.19441958", "5": "0.25170124"}}

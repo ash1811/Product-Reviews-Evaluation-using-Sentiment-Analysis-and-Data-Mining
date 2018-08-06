@@ -1,0 +1,1 @@
+{"text": "One of the reasons I like this scarf is that it does not get sweaty like a wool or fleece scarf.", "sentiment": "negative", "topics": {"0": "0.013015243", "1": "0.013011912", "2": "0.14599378", "3": "0.12444558", "4": "0.01303972", "5": "0.67744654", "6": "0.013047197"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loves this watch!  It's the perfect fishing watch because he's not afraid of getting it wet when he fishes.", "sentiment": "positive", "topics": {"0": "0.17975251", "1": "0.2224418", "2": "0.28078392", "3": "0.011919432", "4": "0.17193271", "5": "0.12124605", "6": "0.011923586"}}

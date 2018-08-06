@@ -1,0 +1,1 @@
+{"text": "My feet are loving these Birkenstocks!  I've worn Birkenstocks for over 30 years and they're still my first choice.  This taupe color is beautiful.", "sentiment": "negative", "topics": {"1": "0.25490057", "3": "0.13684967", "4": "0.2581337", "5": "0.2554241", "6": "0.0768243"}}

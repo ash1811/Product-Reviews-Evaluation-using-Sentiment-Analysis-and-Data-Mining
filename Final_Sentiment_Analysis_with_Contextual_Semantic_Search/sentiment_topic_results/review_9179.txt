@@ -1,0 +1,1 @@
+{"text": "These are my husbands favorite slippers. He wears them throughout the winter indoors and out. They start off a little snug but easily stretch out.  By the end of the year he's ready for a new pair.", "sentiment": "negative", "topics": {"1": "0.28868532", "3": "0.12919801", "4": "0.2767814", "6": "0.28487545"}}

@@ -1,0 +1,1 @@
+{"text": "The cups on the 40B I ordered were ENORMOUS, with far too much fabric for the contents that a B-sized woman has to offer.", "sentiment": "negative", "topics": {"0": "0.124393165", "1": "0.28894058", "2": "0.12690128", "3": "0.011928554", "4": "0.25070456", "5": "0.09274196", "6": "0.10438993"}}

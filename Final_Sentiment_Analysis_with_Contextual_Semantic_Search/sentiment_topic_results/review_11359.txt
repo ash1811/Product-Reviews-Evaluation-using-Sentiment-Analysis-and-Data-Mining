@@ -1,0 +1,1 @@
+{"text": "I love the stud earrings.  I bought them for my daughter and she love wearing stud earring.  I know she will be happy with them.", "sentiment": "negative", "topics": {"0": "0.011041778", "1": "0.6282604", "2": "0.31649488", "3": "0.0110581685", "4": "0.011090863", "5": "0.011041624", "6": "0.011012307"}}

@@ -1,0 +1,1 @@
+{"text": "My only complaint is the band is a bit small. I have to wear it very close to my hand for it to fit without squishing my arm.I had thought it might be a bit too small to see (70 yr old eyes) but it's just fine.", "sentiment": "negative", "topics": {"0": "0.4018544", "1": "0.2642982", "2": "0.0656973", "4": "0.06603525", "5": "0.18906358"}}

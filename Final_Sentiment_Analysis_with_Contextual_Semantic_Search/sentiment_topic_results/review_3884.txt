@@ -1,0 +1,1 @@
+{"text": "Hold but does not cut off circulation  perfect hi waist for that pesky midriff stuff and stays where its supposed to", "sentiment": "negative", "topics": {"0": "0.011917229", "1": "0.16603331", "2": "0.17190175", "3": "0.25648144", "4": "0.17419557", "5": "0.01190716", "6": "0.20756358"}}

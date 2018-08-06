@@ -1,0 +1,1 @@
+{"text": "My husband loves these shoes and has them in black and brown - he walks all day during his job and the heels stay firm - not much wear!", "sentiment": "negative", "topics": {"0": "0.010273658", "1": "0.4108876", "2": "0.10675658", "3": "0.27286267", "4": "0.17874826", "5": "0.010247804", "6": "0.010223399"}}

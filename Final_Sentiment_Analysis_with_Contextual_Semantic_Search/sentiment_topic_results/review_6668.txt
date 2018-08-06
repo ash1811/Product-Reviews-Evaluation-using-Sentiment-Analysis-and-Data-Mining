@@ -1,0 +1,1 @@
+{"text": "Perfect for my budding grand daughter ballerina! Beautiful vibrant color.  Fits great and easy to  clean!  I bought several more colors!", "sentiment": "negative", "topics": {"0": "0.19440174", "1": "0.4324631", "2": "0.18271576", "6": "0.16351229"}}

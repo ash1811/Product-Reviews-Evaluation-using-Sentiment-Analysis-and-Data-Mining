@@ -1,0 +1,1 @@
+{"text": "Great jacket. I returned it because it was too big. If you are borderline large/XL, go with Large. Go Carhartt!", "sentiment": "positive", "topics": {"0": "0.13221288", "1": "0.46875706", "2": "0.16925521", "3": "0.013070871", "4": "0.013046053", "5": "0.19066782", "6": "0.012990062"}}

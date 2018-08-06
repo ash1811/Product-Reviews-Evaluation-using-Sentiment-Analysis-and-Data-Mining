@@ -1,0 +1,1 @@
+{"text": "Love these boots for any winter outdoor activities", "sentiment": "positive", "topics": {"0": "0.023814913", "1": "0.20286958", "2": "0.023810774", "3": "0.20290366", "4": "0.49897254", "5": "0.023817297", "6": "0.023811225"}}

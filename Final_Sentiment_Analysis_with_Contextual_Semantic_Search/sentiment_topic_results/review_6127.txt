@@ -1,0 +1,1 @@
+{"text": "Sleeves of those bodysuits are ridiculously small. I bought 24 month size for my 17 month old son and they still are small for him. Fabric quality is good though... I would not recommend buying those.", "sentiment": "positive", "topics": {"0": "0.097729124", "1": "0.40288147", "3": "0.16663362", "4": "0.11131039", "5": "0.20950721"}}

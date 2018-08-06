@@ -1,0 +1,1 @@
+{"text": "Needed it for a costume component on a very hot July day. The shirt fit well, stayed cool and comfortable even though I wasvery active. Would definitly reccomend this shirt in any color?", "sentiment": "positive", "topics": {"0": "0.22392182", "1": "0.36253932", "4": "0.12902834", "5": "0.26498875"}}

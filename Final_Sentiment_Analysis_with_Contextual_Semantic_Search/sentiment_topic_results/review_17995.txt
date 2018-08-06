@@ -1,0 +1,1 @@
+{"text": "It has all kinds of functions, very good. The actual item looks excactly like the picture.", "sentiment": "positive", "topics": {"0": "0.014310581", "1": "0.41007218", "2": "0.014365852", "3": "0.01431393", "4": "0.014290256", "5": "0.15969701", "6": "0.37295023"}}

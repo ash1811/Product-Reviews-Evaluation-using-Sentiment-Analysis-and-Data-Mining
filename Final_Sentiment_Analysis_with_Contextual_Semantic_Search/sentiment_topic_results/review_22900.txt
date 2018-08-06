@@ -1,0 +1,1 @@
+{"text": "My tastes might just lean more towards Nike dri-fit stuff, this is just an ordinary mesh short with decent pockets.If the price is right, buy them but do not expect to be blown away with the quality.", "sentiment": "negative", "topics": {"0": "0.14990452", "1": "0.2585927", "2": "0.08426596", "3": "0.064983085", "5": "0.15361033", "6": "0.28148586"}}

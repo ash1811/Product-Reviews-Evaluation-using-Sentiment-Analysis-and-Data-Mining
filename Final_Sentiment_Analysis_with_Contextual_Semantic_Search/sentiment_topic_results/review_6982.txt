@@ -1,0 +1,1 @@
+{"text": "The size was good I'm 5' 10&#34; 200lbs and the large fit good. But the waist line of the sweatshirt rides up, and bunches up at your waist. It was also not very warm, good for layering. Quality was good as always with carhartt.", "sentiment": "positive", "topics": {"1": "0.5390337", "2": "0.16507298", "4": "0.11358864", "6": "0.1650773"}}

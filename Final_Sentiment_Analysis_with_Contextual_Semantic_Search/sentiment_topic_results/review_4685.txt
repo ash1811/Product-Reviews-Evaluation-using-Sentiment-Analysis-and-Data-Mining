@@ -1,0 +1,1 @@
+{"text": "This one had green soles and laces.  Makes a statement, I LIKE GREEN!  Love them... don't want to take them off... may need to order a couple more.  Going to wear these ones out fast!!!!!", "sentiment": "negative", "topics": {"0": "0.09038488", "1": "0.28730956", "2": "0.4629364", "3": "0.07976536", "6": "0.067132495"}}

@@ -1,0 +1,1 @@
+{"text": "I wanted this to just wear casually and not have to worry about damaging an expensive watch.The large face is really good and Timex proves they give you your money's worth/", "sentiment": "negative", "topics": {"0": "0.06256741", "1": "0.5722944", "5": "0.21336961", "6": "0.1265062"}}

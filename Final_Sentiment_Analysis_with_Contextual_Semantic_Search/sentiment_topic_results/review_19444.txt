@@ -1,0 +1,1 @@
+{"text": "Great price and my wife loves them!  Who are we kidding?  I love the too!  Why pay 3X as much in a store?", "sentiment": "negative", "topics": {"0": "0.34087178", "1": "0.34544265", "2": "0.011048115", "3": "0.01106316", "4": "0.26955488", "5": "0.011025117", "6": "0.010994269"}}

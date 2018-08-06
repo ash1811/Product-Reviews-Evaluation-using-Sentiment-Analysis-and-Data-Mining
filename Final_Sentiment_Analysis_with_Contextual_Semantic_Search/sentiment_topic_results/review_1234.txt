@@ -1,0 +1,1 @@
+{"text": "Very cute sandal, however they aren't very comfortable for long periods of time or waking long distances.  They DEFINATELY take some time getting used to!They are very hard to clean and keep clean.", "sentiment": "negative", "topics": {"0": "0.17284235", "1": "0.62692684", "2": "0.06132518", "5": "0.118458144"}}

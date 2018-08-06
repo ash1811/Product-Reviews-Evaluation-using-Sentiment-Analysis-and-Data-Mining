@@ -1,0 +1,1 @@
+{"text": "This bra is exactly as the picture, good quality, good price. I like it cause it supports your back and helps with with your posture.", "sentiment": "negative", "topics": {"0": "0.08174629", "1": "0.5411778", "2": "0.0102873575", "3": "0.14052434", "4": "0.09877042", "5": "0.010218911", "6": "0.11727489"}}

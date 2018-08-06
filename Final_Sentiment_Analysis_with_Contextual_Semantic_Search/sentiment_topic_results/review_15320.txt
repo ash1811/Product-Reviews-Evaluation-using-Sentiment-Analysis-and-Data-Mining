@@ -1,0 +1,1 @@
+{"text": "I am not a big girl but these unisex smalls ran VERY small! I was disappointed that they were so snug I had to give them away as I had washed them and ironed them then realized they were teeny weeny.", "sentiment": "negative", "topics": {"0": "0.09425531", "1": "0.2653229", "2": "0.1917806", "3": "0.2582379", "5": "0.10884511", "6": "0.07261499"}}

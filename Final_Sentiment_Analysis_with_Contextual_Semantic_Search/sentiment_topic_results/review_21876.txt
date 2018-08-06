@@ -1,0 +1,1 @@
+{"text": "Stockings... Sexy... Wear and look hot. The bow design give them a nice look. What else is there to say. Would buy again.", "sentiment": "negative", "topics": {"1": "0.33974922", "2": "0.07308746", "3": "0.28894025", "5": "0.19639766", "6": "0.08390119"}}

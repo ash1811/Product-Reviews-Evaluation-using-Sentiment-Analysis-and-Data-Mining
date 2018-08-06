@@ -1,0 +1,1 @@
+{"text": "Great addition to a costume =) adds that extra touch of sexiness to your costume! The ribbons are a nice addition to traditional thigh-highs.", "sentiment": "negative", "topics": {"0": "0.19034274", "1": "0.010266431", "2": "0.010209073", "3": "0.38931403", "4": "0.37941504", "5": "0.010228588", "6": "0.010224069"}}

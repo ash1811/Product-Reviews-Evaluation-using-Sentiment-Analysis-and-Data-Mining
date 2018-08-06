@@ -1,0 +1,1 @@
+{"text": "Beautiful, shiny, sturdy and well constructed, and are thicker and look more solid than I expected.  I'm very pleased.", "sentiment": "positive", "topics": {"0": "0.011939421", "1": "0.54969805", "2": "0.011916113", "3": "0.011923571", "4": "0.19557852", "5": "0.011955734", "6": "0.20698865"}}

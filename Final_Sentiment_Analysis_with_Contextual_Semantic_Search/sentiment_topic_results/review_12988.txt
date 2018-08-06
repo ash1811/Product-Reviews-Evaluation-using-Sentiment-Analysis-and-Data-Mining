@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift for my 22-year old granddaughter & was very pleased with the lovely cutout design, the very sturdy chain and the &#34;go with everything&#34; look. Very pleased!", "sentiment": "positive", "topics": {"0": "0.26097423", "1": "0.2710498", "4": "0.23570856", "6": "0.20535928"}}

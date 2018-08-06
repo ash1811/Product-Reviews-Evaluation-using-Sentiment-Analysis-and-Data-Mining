@@ -1,0 +1,1 @@
+{"text": "These shirts fit great! Plenty of room, and long enough you don't expose your belly when you raise your arms :) And, they didnlt shrink in the wash! (Though, I do wash and dry them on delicate just to be safe.)", "sentiment": "negative", "topics": {"0": "0.17411853", "1": "0.5186656", "4": "0.27977437"}}

@@ -1,0 +1,1 @@
+{"text": "berry colour is great! fit is great.  very flexible like a sock. the only thing to change would be to put a better insock with a bit of heel cushion because the sole is flat. i  use it for everyday errands, but i think it would be great for pool/beach too.", "sentiment": "negative", "topics": {"1": "0.3463168", "2": "0.3683216", "5": "0.21526909", "6": "0.054684695"}}

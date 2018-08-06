@@ -1,0 +1,1 @@
+{"text": "The were huge and no support. Probably good for people that do not have huge watermelon boobs. lol, but seriously.", "sentiment": "positive", "topics": {"0": "0.012997201", "1": "0.46524698", "2": "0.01298956", "3": "0.28520748", "4": "0.012998078", "5": "0.013005918", "6": "0.19755478"}}

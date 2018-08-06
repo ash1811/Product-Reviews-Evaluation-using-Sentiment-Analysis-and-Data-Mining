@@ -1,0 +1,1 @@
+{"text": "don't buy this grbage.  the temp measures the temp on your wrist.  comlete waste of money. more problems difficut to adjust", "sentiment": "negative", "topics": {"0": "0.010994578", "1": "0.108561344", "2": "0.09308095", "3": "0.5205496", "4": "0.08812673", "5": "0.16768217", "6": "0.011004652"}}

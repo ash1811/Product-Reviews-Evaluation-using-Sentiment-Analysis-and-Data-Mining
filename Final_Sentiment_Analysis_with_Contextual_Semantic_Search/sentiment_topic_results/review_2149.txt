@@ -1,0 +1,1 @@
+{"text": "Very comfortable for walk in the park, a camping day or to be in home. Seems to be durable and the price is good.", "sentiment": "negative", "topics": {"0": "0.013019799", "1": "0.6310396", "2": "0.12946165", "3": "0.013025634", "4": "0.013021406", "5": "0.18743014", "6": "0.013001733"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful, extremely comfortable, stylish. I always wear a size 7, so the size 37-38 BR (Brazilian) fits perfect to me. This is my third pair, and the metallic ones are my favorite.", "sentiment": "negative", "topics": {"1": "0.351457", "2": "0.1502526", "5": "0.15903057", "6": "0.31876776"}}

@@ -1,0 +1,1 @@
+{"text": "These buttons work perfectly. They are simple to install, and hold on well.I suggest that you pre-hole the jeans material to make it easier.", "sentiment": "negative", "topics": {"0": "0.17867918", "1": "0.1073342", "2": "0.010214352", "3": "0.20265506", "4": "0.092444465", "5": "0.010241683", "6": "0.39843106"}}

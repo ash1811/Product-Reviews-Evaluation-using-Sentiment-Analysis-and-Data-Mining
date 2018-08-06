@@ -1,0 +1,1 @@
+{"text": "These Sperrys and terrific in looks and design, except they must run about a half size large. I returned them and got a 10, and that worked great!", "sentiment": "positive", "topics": {"1": "0.25242978", "2": "0.15494598", "3": "0.48875716", "4": "0.0769996"}}

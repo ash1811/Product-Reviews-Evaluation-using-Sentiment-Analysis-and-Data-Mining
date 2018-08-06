@@ -1,0 +1,1 @@
+{"text": "First pair of Sperrys and pleased with the comfort of these shoes. Wear a 10 and ordered a 10, perfect fit. Amaretto is on the burgundy color side. Looks good with stone or cloud colored dockers.", "sentiment": "negative", "topics": {"0": "0.080359645", "1": "0.53038603", "2": "0.05205619", "3": "0.06407958", "4": "0.16769", "6": "0.09918485"}}

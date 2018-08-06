@@ -1,0 +1,1 @@
+{"text": "It is a well built and roomy backpack..comfortable to tote. The bad thing about mine was that it had such a strong chemical smell on it I didnt want to carry it....", "sentiment": "positive", "topics": {"1": "0.4555203", "2": "0.22629596", "4": "0.09866653", "5": "0.09594726", "6": "0.105625905"}}

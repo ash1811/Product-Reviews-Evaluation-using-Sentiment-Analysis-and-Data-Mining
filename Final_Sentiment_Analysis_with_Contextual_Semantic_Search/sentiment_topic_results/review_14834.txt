@@ -1,0 +1,1 @@
+{"text": "Very comfortable...generous cut.  Haven't washed it yet to ascertain if there will be shrinkage.  Love the pockets and the color is a bright spring day!", "sentiment": "positive", "topics": {"0": "0.20331667", "1": "0.3527169", "2": "0.010999481", "3": "0.01101022", "4": "0.011049857", "5": "0.30276737", "6": "0.108139515"}}

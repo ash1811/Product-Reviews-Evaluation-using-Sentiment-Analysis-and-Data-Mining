@@ -1,0 +1,1 @@
+{"text": "Fit was true to size, they were even more comfortable than I could have imagined and look snazzy as heck. Shipping was pretty quick but the box the shoes came in had dust all over it, but the shoes are great and that's what counts.", "sentiment": "negative", "topics": {"1": "0.36078033", "2": "0.23078685", "4": "0.18201753", "6": "0.2077171"}}

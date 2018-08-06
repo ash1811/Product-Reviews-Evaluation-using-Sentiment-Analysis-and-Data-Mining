@@ -1,0 +1,1 @@
+{"text": "I have not washed them but I got them yesterday and wore them until bedtime. The are warm but not too bulky.", "sentiment": "negative", "topics": {"0": "0.017871976", "1": "0.39155492", "2": "0.13572", "3": "0.017888092", "4": "0.15297125", "5": "0.017975377", "6": "0.26601842"}}

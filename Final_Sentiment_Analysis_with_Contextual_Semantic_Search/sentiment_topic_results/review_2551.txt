@@ -1,0 +1,1 @@
+{"text": "This little keepsake box is so sweet.  I keep theseon hand for last minute gifts or a thank you tosomeone who has done something for me.They're reasonably priced and you can't gowrong .", "sentiment": "positive", "topics": {"0": "0.07901584", "1": "0.08329468", "2": "0.13214822", "3": "0.21810536", "4": "0.2917615", "5": "0.14449711", "6": "0.051177245"}}

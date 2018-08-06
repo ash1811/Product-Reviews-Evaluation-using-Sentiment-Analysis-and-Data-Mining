@@ -1,0 +1,1 @@
+{"text": "Smartwool is the best there is.  great quality, a little pricy but worth every penny, delivered quick.", "sentiment": "positive", "topics": {"0": "0.19629797", "1": "0.26145348", "2": "0.10765075", "3": "0.011018066", "4": "0.30592215", "5": "0.011038778", "6": "0.10661882"}}

@@ -1,0 +1,1 @@
+{"text": "This are nice looking bed slippers and you have to buy one size up for it to fit perfectly. I wear a size 10 shoe and the 11 slipper fits perfect.", "sentiment": "positive", "topics": {"1": "0.4445237", "2": "0.07921869", "4": "0.21763095", "6": "0.23477048"}}

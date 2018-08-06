@@ -1,0 +1,1 @@
+{"text": "I had bought the black ones from Macy's and knew how they would fit, and they fit as expected, and look great rather you are in a suit or jeans.  Perfect!", "sentiment": "negative", "topics": {"1": "0.51072985", "2": "0.14737335", "3": "0.19137071", "4": "0.1236447"}}

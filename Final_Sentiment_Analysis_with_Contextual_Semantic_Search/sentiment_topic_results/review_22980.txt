@@ -1,0 +1,1 @@
+{"text": "Good quality.  I stand 6 ft  and weight 170 and feel completely comfortable in a slim fit 32x34.  Great buy.", "sentiment": "positive", "topics": {"0": "0.1254173", "1": "0.6222568", "4": "0.21654499"}}

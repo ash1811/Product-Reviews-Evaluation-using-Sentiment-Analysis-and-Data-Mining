@@ -1,0 +1,1 @@
+{"text": "Love it so far I'm not into bulky jewlery so this is perfect for me its not to thick and not to thin looks classy.", "sentiment": "negative", "topics": {"0": "0.20057039", "1": "0.44356364", "2": "0.11780221", "3": "0.19895735", "4": "0.013061627", "5": "0.013037073", "6": "0.013007736"}}

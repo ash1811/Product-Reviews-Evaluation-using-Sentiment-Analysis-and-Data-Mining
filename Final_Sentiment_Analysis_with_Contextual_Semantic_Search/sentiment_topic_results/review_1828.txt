@@ -1,0 +1,1 @@
+{"text": "This is a very pretty piece, you must keep it clean however, or it loses it's beauty.  I love it!", "sentiment": "negative", "topics": {"0": "0.3370171", "1": "0.14885646", "2": "0.013086914", "3": "0.21519114", "4": "0.013046325", "5": "0.013005494", "6": "0.25979653"}}

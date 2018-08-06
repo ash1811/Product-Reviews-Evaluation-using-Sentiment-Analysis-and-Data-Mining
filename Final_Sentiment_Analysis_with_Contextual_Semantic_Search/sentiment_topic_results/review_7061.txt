@@ -1,0 +1,1 @@
+{"text": "I love this, it's so comfortable! It's definitely not very sexy, but I bought it for the comfort, support, and full coverage.", "sentiment": "negative", "topics": {"0": "0.29974067", "1": "0.1434097", "2": "0.013130304", "3": "0.40741408", "4": "0.0130537925", "5": "0.013042737", "6": "0.110208675"}}

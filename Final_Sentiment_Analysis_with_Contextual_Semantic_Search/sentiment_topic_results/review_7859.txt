@@ -1,0 +1,1 @@
+{"text": "I purchased these for my granddaughter for Christmas , ,so, I guess I won't really know how to rate them until I hear from her.They are very handsome shoes, her favorites, I expect she will be thrilled.", "sentiment": "positive", "topics": {"0": "0.07301284", "1": "0.10670695", "2": "0.30020785", "3": "0.4097802", "4": "0.09232435"}}

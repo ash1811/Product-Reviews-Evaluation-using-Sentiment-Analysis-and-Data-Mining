@@ -1,0 +1,1 @@
+{"text": "Nice cloths, but not needed. Turns out just regular rags worked just fine.  I regretted the purchase... size is okay though.", "sentiment": "negative", "topics": {"0": "0.0102176005", "1": "0.29888758", "2": "0.11828418", "3": "0.010262907", "4": "0.110051714", "5": "0.09161408", "6": "0.36068192"}}

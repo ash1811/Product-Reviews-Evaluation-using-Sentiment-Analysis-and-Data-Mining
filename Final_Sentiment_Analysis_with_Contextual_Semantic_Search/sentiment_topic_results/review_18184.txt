@@ -1,0 +1,1 @@
+{"text": "Nice watch for the price seems durable enough since I am hard on watches and it is water resistance for when I'm fishing I don't have to worry about getting it wet.", "sentiment": "negative", "topics": {"0": "0.15695465", "1": "0.47651985", "2": "0.22887559", "5": "0.1122788"}}

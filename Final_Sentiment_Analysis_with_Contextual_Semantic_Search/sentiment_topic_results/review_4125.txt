@@ -1,0 +1,1 @@
+{"text": "K-Swiss is a must have for one of my sons.  He reports great fit, perfect for running as well as working out at the gym.These are stylish enough to wear most anywhere not just for fitness training.", "sentiment": "positive", "topics": {"0": "0.061602384", "1": "0.4520897", "3": "0.1452636", "5": "0.2624155", "6": "0.063529596"}}

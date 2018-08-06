@@ -1,0 +1,1 @@
+{"text": "I own at least three pairs of Leg Avenue Thigh Highs. These do not disappoint. I love every pair I have.", "sentiment": "negative", "topics": {"0": "0.011025457", "1": "0.011007155", "2": "0.12774459", "3": "0.5284063", "4": "0.15606536", "5": "0.0110487575", "6": "0.15470235"}}

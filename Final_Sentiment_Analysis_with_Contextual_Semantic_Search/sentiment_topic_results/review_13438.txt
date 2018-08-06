@@ -1,0 +1,1 @@
+{"text": "Extremely comfortable shoe.  Runs true to size.  I only wish they still made the ones that have the full back on them.  Those were great too and I believe a bit easier to walk in.  These are easy to walk in though and I do love them.", "sentiment": "negative", "topics": {"0": "0.09900324", "1": "0.31428808", "2": "0.13556725", "3": "0.38086995", "5": "0.058803655"}}

@@ -1,0 +1,1 @@
+{"text": "There were 10 watches in the package, which was a nice surprise. They are decent quality and will work fine for a friend who was required to have a basic watch for his nursing school, clinical rotations.", "sentiment": "positive", "topics": {"0": "0.080547184", "1": "0.20439844", "2": "0.2848926", "4": "0.07785327", "5": "0.13518606", "6": "0.20917124"}}

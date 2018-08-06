@@ -1,0 +1,1 @@
+{"text": "Have worn this shoe for years and always thought they looked very feminine for a tennis shoe !!  Will continue to wear them as long as I can find them&#8230;..", "sentiment": "negative", "topics": {"1": "0.35936522", "2": "0.23117968", "4": "0.16917732", "6": "0.21159828"}}

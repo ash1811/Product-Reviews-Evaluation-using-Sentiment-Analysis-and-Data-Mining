@@ -1,0 +1,1 @@
+{"text": "bought for my girlfriend. we love it, really sexy and hot. i would recommend this if you are looking for something really catches your boyfriend's eyeball", "sentiment": "negative", "topics": {"0": "0.32499674", "1": "0.29281598", "5": "0.3463777"}}

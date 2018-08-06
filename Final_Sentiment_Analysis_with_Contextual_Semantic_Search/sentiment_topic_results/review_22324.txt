@@ -1,0 +1,1 @@
+{"text": "I have a size 14 foot and the x-large socks fit like a \"glove\" Don't think about it just buy them you won't regret it.", "sentiment": "negative", "topics": {"0": "0.11602764", "1": "0.28604302", "2": "0.14233182", "3": "0.011026421", "4": "0.1657475", "5": "0.011137747", "6": "0.26768592"}}

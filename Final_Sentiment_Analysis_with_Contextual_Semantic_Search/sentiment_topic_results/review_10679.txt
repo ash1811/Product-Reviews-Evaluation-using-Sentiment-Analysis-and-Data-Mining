@@ -1,0 +1,1 @@
+{"text": "More than i expected, i'm usig them for camping and somtimes in the city and it's nice to walk, thanks", "sentiment": "negative", "topics": {"0": "0.014324334", "1": "0.44260558", "2": "0.11971742", "3": "0.014314291", "4": "0.014300497", "5": "0.17012829", "6": "0.22460958"}}

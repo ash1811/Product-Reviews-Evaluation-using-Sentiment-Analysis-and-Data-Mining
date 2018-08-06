@@ -1,0 +1,1 @@
+{"text": "I wear these when hiking and they have made such a difference! I no longer get the pain in my feet that I used to. I will not go without them!", "sentiment": "negative", "topics": {"0": "0.9385447", "1": "0.010249472", "2": "0.010236245", "3": "0.010250667", "4": "0.010256233", "5": "0.010247928", "6": "0.010214752"}}

@@ -1,0 +1,1 @@
+{"text": "keeps the ears warm and stays in place.  Actually, it didn't even mess up my hair.  Nice work on this Carhartt!", "sentiment": "negative", "topics": {"0": "0.011020481", "1": "0.6057474", "2": "0.0110198315", "3": "0.0110441055", "4": "0.011027066", "5": "0.25479814", "6": "0.09534296"}}

@@ -1,0 +1,1 @@
+{"text": "I enjoyed this wallet until I got it wet, and it fell apart literally. It has cardboard cut outs that make it firm (I assume). I would not purchase another one.", "sentiment": "negative", "topics": {"1": "0.2979021", "2": "0.10961313", "3": "0.31446892", "4": "0.17781703", "5": "0.08509006"}}

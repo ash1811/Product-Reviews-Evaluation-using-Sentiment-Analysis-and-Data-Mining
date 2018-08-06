@@ -1,0 +1,1 @@
+{"text": "I have not worn Keds in years, but now absolutely love this look on me.  Keds Sneakers are \"In\" with me.Dorothy WalkerNashville, TN", "sentiment": "positive", "topics": {"0": "0.010241312", "1": "0.010241627", "2": "0.08626331", "3": "0.34824628", "4": "0.01023461", "5": "0.2401789", "6": "0.294594"}}

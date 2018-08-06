@@ -1,0 +1,1 @@
+{"text": "I just love the color and I love the style. Classic boat shoes that look great with jeans or shorts. Great price, too.", "sentiment": "negative", "topics": {"0": "0.4721803", "1": "0.15369438", "2": "0.16365479", "4": "0.1818227"}}

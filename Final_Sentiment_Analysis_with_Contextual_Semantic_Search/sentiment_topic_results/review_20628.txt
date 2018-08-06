@@ -1,0 +1,1 @@
+{"text": "I bought this to retouch the black leather seat in my car.  It did a perfect job.  I am very happy with this, I think I will order other colors to retouch the color of my bag and shoes.", "sentiment": "positive", "topics": {"1": "0.32835123", "2": "0.31426847", "5": "0.28069466", "6": "0.05275702"}}

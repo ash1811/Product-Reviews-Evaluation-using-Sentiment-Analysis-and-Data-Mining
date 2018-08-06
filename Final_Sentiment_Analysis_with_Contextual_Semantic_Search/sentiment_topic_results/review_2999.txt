@@ -1,0 +1,1 @@
+{"text": "seems to run small. but cup size was fine. just had to get extender for it.  So if  haven't tried this brand u may want to before u buy it.", "sentiment": "negative", "topics": {"0": "0.10188621", "1": "0.2516399", "2": "0.27043915", "3": "0.35218057"}}

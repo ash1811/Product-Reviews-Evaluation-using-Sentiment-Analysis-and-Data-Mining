@@ -1,0 +1,1 @@
+{"text": "During deer hunting season here in Maine, this is useful to anyone who is out in the woods.Just about the right stretchiness for comfort.  Wore mine today!", "sentiment": "negative", "topics": {"0": "0.010225082", "1": "0.0102302255", "2": "0.30813646", "3": "0.26351935", "4": "0.010249733", "5": "0.38736716", "6": "0.010272013"}}

@@ -1,0 +1,1 @@
+{"text": "My husbands travels all over the world so needed a decent walking shoe. He loves Rockport and when his favoritie shoes were discontinued I found these and they were a great replacement. They're wearing well and very comfortable he says.", "sentiment": "negative", "topics": {"0": "0.08417062", "1": "0.24468692", "2": "0.21377783", "4": "0.38318822", "6": "0.060536284"}}

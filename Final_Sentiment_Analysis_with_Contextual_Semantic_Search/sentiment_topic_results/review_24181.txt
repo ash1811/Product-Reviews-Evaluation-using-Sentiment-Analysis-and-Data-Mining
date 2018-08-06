@@ -1,0 +1,1 @@
+{"text": "I've concluded that it is impossible to buy a bra online.  There are too many variables in the construction of these torturous garments besides simply size.  Regretfully it is back to the Department Store for me.", "sentiment": "positive", "topics": {"1": "0.15830126", "2": "0.16135386", "3": "0.16696683", "4": "0.33377066", "6": "0.16529159"}}

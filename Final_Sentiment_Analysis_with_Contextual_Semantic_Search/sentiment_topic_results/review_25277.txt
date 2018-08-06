@@ -1,0 +1,1 @@
+{"text": "My hubby wears a size 11.5 but in the Merrell's he wears a size 13.  Now that we know, we're good to go!  He absolutely loves this shoe!  Highly recommended!", "sentiment": "positive", "topics": {"2": "0.21897346", "4": "0.20928623", "5": "0.3268059", "6": "0.22102825"}}

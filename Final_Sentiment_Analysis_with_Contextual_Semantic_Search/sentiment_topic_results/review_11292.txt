@@ -1,0 +1,1 @@
+{"text": "They are cute, got at a good price (considering the price of gold right now).  They are just the size I wanted and light weight and comfortable.  Good shine, like them.", "sentiment": "negative", "topics": {"1": "0.39977318", "3": "0.25574195", "5": "0.31427717"}}

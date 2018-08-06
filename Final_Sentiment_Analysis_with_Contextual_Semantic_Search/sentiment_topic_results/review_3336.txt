@@ -1,0 +1,1 @@
+{"text": "My son loves this. We had one before but after a year of being banged around they died, which is acceptable. So we got a replacement for him.", "sentiment": "positive", "topics": {"0": "0.11276334", "1": "0.21304177", "2": "0.2654146", "3": "0.011045777", "4": "0.0110354815", "5": "0.37566507", "6": "0.011033966"}}

@@ -1,0 +1,1 @@
+{"text": "I am quite active and this bra doesn't let me bounce all over which is really appreciated.  And its not uncomfortable as I sometimes wear it on regular occasions", "sentiment": "negative", "topics": {"0": "0.20619774", "1": "0.28420824", "2": "0.09718274", "3": "0.29477772", "4": "0.09560681", "5": "0.011009474", "6": "0.011017265"}}

@@ -1,0 +1,1 @@
+{"text": "i bought this to my 10 yrs boy but i think it's better for teens not kids , in general it's ok but after a week the hook broke....but in general it's roomy , u can put everything in t", "sentiment": "positive", "topics": {"1": "0.31122932", "2": "0.16895734", "3": "0.13523677", "4": "0.07778073", "5": "0.2260751", "6": "0.073177524"}}

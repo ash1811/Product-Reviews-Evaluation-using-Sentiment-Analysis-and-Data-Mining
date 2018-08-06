@@ -1,0 +1,1 @@
+{"text": "My 'girls' haven't had this much support and comfort since my late husband died!  Highly recommend this.  Size is pretty accurate.", "sentiment": "negative", "topics": {"2": "0.29902864", "3": "0.11569155", "4": "0.19984503", "5": "0.1887351", "6": "0.17754991"}}

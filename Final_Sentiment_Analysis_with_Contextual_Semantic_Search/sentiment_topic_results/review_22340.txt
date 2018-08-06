@@ -1,0 +1,1 @@
+{"text": "yay, no more blisters or smushed toes :-) I didn't think I'd like toe socks, I thought they were a bit weird & that they would feel funny, but they make a huge difference & now I can't imagine walking & running without them!", "sentiment": "negative", "topics": {"0": "0.23071018", "1": "0.15566075", "3": "0.3489269", "5": "0.24753521"}}

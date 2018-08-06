@@ -1,0 +1,1 @@
+{"text": "I often purchase Russell gear and find that they are consistently a pretty good product. This is my 5th or 6th Hoodie from them and I'm very satisfied.. I think I will get a couple more while I'm at it today.", "sentiment": "negative", "topics": {"1": "0.6418259", "3": "0.09857865", "5": "0.09123434", "6": "0.14687401"}}

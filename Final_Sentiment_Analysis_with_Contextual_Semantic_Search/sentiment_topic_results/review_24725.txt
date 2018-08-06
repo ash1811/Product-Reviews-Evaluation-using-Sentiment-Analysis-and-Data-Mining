@@ -1,0 +1,1 @@
+{"text": "This is a good quality bra, especially for the price.  True to size cup.  I wear mostly minimizer bras (36DD)that don't give me the \"back fat\" bra lines.  This bra does give me some of those lines.  Otherwise, very nice.", "sentiment": "negative", "topics": {"0": "0.05571659", "1": "0.44762895", "3": "0.36879978", "4": "0.060762156", "6": "0.055150207"}}

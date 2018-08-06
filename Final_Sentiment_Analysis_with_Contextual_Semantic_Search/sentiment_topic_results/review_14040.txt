@@ -1,0 +1,1 @@
+{"text": "Keeps good time, doesn't turn my arm green either. Well worth the money. The bad is a little stiff initially.", "sentiment": "negative", "topics": {"1": "0.6023443", "2": "0.23598674", "6": "0.12337141"}}

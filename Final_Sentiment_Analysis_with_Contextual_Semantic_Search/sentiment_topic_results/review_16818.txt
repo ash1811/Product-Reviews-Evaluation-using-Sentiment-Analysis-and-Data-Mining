@@ -1,0 +1,1 @@
+{"text": "So comfortable, lightweight and convenient. Now I've graduated to Crocs Malindi. They're my \"dress\" Crocs. I highly recommend!!", "sentiment": "negative", "topics": {"0": "0.0110042645", "1": "0.30187967", "2": "0.011002547", "3": "0.18145284", "4": "0.011042415", "5": "0.3471861", "6": "0.13643219"}}

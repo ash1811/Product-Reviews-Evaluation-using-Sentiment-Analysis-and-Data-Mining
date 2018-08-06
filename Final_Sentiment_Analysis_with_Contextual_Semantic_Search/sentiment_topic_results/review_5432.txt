@@ -1,0 +1,1 @@
+{"text": "I bought this shirt because blue/black is my favorite combination. It turns out to be a great golf shirt - especially for the price.", "sentiment": "negative", "topics": {"0": "0.22814272", "1": "0.011973682", "2": "0.011991239", "3": "0.011989766", "4": "0.21139008", "5": "0.28976092", "6": "0.23475157"}}

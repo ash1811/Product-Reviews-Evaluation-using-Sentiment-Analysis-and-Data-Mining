@@ -1,0 +1,1 @@
+{"text": "This sandal is very comfortable, fits well, wears well and looks fabulous. LOVE the Birkibuc material-- so easy to care for! Highly  recommend!", "sentiment": "negative", "topics": {"0": "0.10616618", "1": "0.65349597", "6": "0.20663774"}}

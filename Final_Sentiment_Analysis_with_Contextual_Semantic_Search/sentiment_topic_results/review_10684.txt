@@ -1,0 +1,1 @@
+{"text": "These hiking boots were too tight in the toe box for my medium width foot.  They were returned for a prompt refund.  I have bought Timberland before without this problem.", "sentiment": "negative", "topics": {"0": "0.119036175", "1": "0.38473675", "2": "0.11049863", "4": "0.2731954", "5": "0.09464026"}}

@@ -1,0 +1,1 @@
+{"text": "I love these sunglasses.  I even play golf in them.  They are great to cover the entire eye region and I am happy with the type of protection!  :)", "sentiment": "negative", "topics": {"0": "0.45485467", "2": "0.2622134", "4": "0.14445545", "5": "0.10982366"}}

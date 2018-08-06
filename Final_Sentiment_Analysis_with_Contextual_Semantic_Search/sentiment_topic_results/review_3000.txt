@@ -1,0 +1,1 @@
+{"text": "Bought these for my wife for christmas and she loves them. Fits her great, she has no complaints about these bras.", "sentiment": "negative", "topics": {"0": "0.014330847", "1": "0.5282669", "2": "0.014317207", "3": "0.4000195", "4": "0.014351723", "5": "0.014351912", "6": "0.0143619375"}}

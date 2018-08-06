@@ -1,0 +1,1 @@
+{"text": "I purchased these for my son to wear under his white Ninja Halloween costume in order to stay warm. He says they were perfect! He loves them because they are so soft.", "sentiment": "negative", "topics": {"0": "0.19083013", "1": "0.35151264", "3": "0.1207929", "4": "0.14639167", "5": "0.11240586", "6": "0.06852577"}}

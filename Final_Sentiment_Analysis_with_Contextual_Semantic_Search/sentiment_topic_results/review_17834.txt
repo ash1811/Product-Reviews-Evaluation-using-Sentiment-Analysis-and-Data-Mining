@@ -1,0 +1,1 @@
+{"text": "I bought this because I have so many quartz watches I wanted a cool digital one wand this one looked great. I like the illumination on this and so does my son, when I wear it he tends to press that button", "sentiment": "negative", "topics": {"2": "0.27682555", "4": "0.08804711", "5": "0.42021137", "6": "0.19343044"}}

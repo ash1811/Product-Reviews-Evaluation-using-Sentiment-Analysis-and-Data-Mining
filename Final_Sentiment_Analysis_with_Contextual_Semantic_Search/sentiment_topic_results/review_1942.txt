@@ -1,0 +1,1 @@
+{"text": "I have a pair of these moccasins and love them, I bought a pair for my husband for Christmas, and he now understands why I like mine so much.  They are good quality and very comfortable.", "sentiment": "negative", "topics": {"1": "0.35010177", "3": "0.2339771", "4": "0.15683547", "5": "0.07308632", "6": "0.16810821"}}

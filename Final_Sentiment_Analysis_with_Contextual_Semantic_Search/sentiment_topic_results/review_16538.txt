@@ -1,0 +1,1 @@
+{"text": "This is a nice wallet. The leather is nice- not cheap - and it is just as described. it is well made.The credit cards holes are a little tight but they work. Very pleased. I bought one in black too and like it just as much.", "sentiment": "negative", "topics": {"1": "0.54333025", "2": "0.36813414", "4": "0.061270107"}}

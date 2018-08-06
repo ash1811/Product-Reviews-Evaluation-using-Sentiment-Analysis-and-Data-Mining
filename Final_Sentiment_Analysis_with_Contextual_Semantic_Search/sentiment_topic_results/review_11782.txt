@@ -1,0 +1,1 @@
+{"text": "If you are going somewhere with a volcanic beach or a beach with a reputation for sharp shells, these are perfect (I got the women's size 6.5).  You can still swim with them on and when coming into shore, your feet are protected.", "sentiment": "positive", "topics": {"1": "0.23253396", "2": "0.14448677", "4": "0.2309648", "5": "0.17423558", "6": "0.20411679"}}

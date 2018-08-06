@@ -1,0 +1,1 @@
+{"text": "I wouldn't criticise anything, l should really know what fits me but from experience the cuts of manufacturers are always different, even though this item is a little big, am  happy with. Thank you. Services are excellent.", "sentiment": "negative", "topics": {"1": "0.42702502", "2": "0.27199155", "3": "0.20903757", "6": "0.07324447"}}

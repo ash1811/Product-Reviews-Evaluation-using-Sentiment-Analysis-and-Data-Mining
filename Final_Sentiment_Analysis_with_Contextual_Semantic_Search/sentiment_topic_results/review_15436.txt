@@ -1,0 +1,1 @@
+{"text": "I am a Woman with small oval face and These shades look Amazing on me I am 5'4 and ordered the 52 mm. Elegant and beautiful color.", "sentiment": "negative", "topics": {"0": "0.22038129", "1": "0.33069527", "4": "0.23969024", "6": "0.18060529"}}

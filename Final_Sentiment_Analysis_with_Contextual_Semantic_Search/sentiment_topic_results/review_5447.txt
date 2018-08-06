@@ -1,0 +1,1 @@
+{"text": "Carhartt pants are always very good, these pants are very heavy duty, don't see them wearing through any time soon.", "sentiment": "positive", "topics": {"0": "0.01194464", "1": "0.5731637", "2": "0.011956419", "3": "0.011921842", "4": "0.23312916", "5": "0.011939167", "6": "0.14594507"}}

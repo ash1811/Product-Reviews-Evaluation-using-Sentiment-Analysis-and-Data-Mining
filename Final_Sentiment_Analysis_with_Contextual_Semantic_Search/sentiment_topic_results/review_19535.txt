@@ -1,0 +1,1 @@
+{"text": "this watch is very beautiful their appearance is elegant, have an average quality, the price value is correct.excellent article, I got just what I expected, thanks", "sentiment": "negative", "topics": {"0": "0.23532823", "1": "0.21023352", "2": "0.14231074", "3": "0.010226781", "4": "0.01025308", "5": "0.010266321", "6": "0.38138133"}}

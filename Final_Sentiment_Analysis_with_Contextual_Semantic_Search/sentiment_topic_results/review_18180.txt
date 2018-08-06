@@ -1,0 +1,1 @@
+{"text": "Best vegan tennis shoes I've ever owned!  They are incredibly comfortable and well worth the price!!  I was pleasantly surprised at the cushioning and how well constructed the materials fit my feet A++", "sentiment": "negative", "topics": {"0": "0.06978222", "1": "0.3265666", "2": "0.14584401", "3": "0.101877384", "4": "0.12752913", "6": "0.22184725"}}

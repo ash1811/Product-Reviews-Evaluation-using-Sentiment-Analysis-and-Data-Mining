@@ -1,0 +1,1 @@
+{"text": "I have always liked this style of brief.  These fit well and are very comfortable.  I was able to get the perfect size using the size guide.  Would definitely order more.", "sentiment": "positive", "topics": {"0": "0.1500285", "1": "0.3000152", "3": "0.31535968", "4": "0.12806572", "6": "0.09145679"}}

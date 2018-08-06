@@ -1,0 +1,1 @@
+{"text": "Quality holding up well and you get THREE pairs for a great price.  Me and the lady love 'em.WHAT A BARGAIN", "sentiment": "negative", "topics": {"0": "0.11798702", "1": "0.27311525", "2": "0.010997291", "3": "0.12788424", "4": "0.32131353", "5": "0.13770705", "6": "0.010995575"}}

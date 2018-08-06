@@ -1,0 +1,1 @@
+{"text": "Im glad I listened to the advice posted and got a slightly smaller size than usual. I normally were a size 12 and the 11.5 fit perfect !", "sentiment": "positive", "topics": {"0": "0.073967986", "1": "0.35638624", "3": "0.36783436", "4": "0.082329825", "5": "0.10264319"}}

@@ -1,0 +1,1 @@
+{"text": "I'm going to several countries in europe and hope to wear my birkies with heavy wool socks. I'll tell you more after I've worn them.", "sentiment": "negative", "topics": {"2": "0.19632576", "3": "0.45473757", "4": "0.16704707", "6": "0.15654145"}}

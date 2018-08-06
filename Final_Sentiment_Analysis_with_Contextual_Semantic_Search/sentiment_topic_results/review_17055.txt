@@ -1,0 +1,1 @@
+{"text": "Based on how this bra looks in the picture, I thought it would be great for shallow breasts. It's not at all. The cups were really really deep, and just huge in general.", "sentiment": "negative", "topics": {"1": "0.26304322", "3": "0.5191761", "4": "0.08624285", "6": "0.10627124"}}

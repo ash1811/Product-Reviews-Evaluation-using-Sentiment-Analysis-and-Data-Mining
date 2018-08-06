@@ -1,0 +1,1 @@
+{"text": "I had to get a dress pair of work shoes for my job dress code. These look nice, and so far are very comfortable, I have to ware them everyday so I will get a good reading on how well they stand up to use", "sentiment": "negative", "topics": {"1": "0.68588215", "2": "0.07947448", "4": "0.20737651"}}

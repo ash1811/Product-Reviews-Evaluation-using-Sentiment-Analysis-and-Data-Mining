@@ -1,0 +1,1 @@
+{"text": "Love itNice colorAs it was promissedVerry NiceVerry  GreatAs wie expactedLike the Look its just perfect", "sentiment": "positive", "topics": {"0": "0.13696843", "1": "0.33867943", "2": "0.012989554", "3": "0.28682855", "4": "0.013036773", "5": "0.012999765", "6": "0.19849743"}}

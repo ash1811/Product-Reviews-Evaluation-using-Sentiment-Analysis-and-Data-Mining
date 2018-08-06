@@ -1,0 +1,1 @@
+{"text": "Handsome shoe and seemingly well made however if you are buying this shoe for itsdouble WIDE label dont. It is not. It might be a medium at best...", "sentiment": "negative", "topics": {"1": "0.13432802", "2": "0.42781797", "5": "0.34504455", "6": "0.06747079"}}

@@ -1,0 +1,1 @@
+{"text": "these fit perfectly. I have room at the end of my toes and my heels fit like they're suppose to. the width is fine also. they arrived earlier than expected and were very well packaged. I'm very pleased with this purchase.", "sentiment": "positive", "topics": {"0": "0.08042115", "1": "0.6190613", "2": "0.07173582", "4": "0.12980986", "6": "0.08650368"}}

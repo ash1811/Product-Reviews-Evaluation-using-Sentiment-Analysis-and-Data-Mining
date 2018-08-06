@@ -1,0 +1,1 @@
+{"text": "These are lightweight and very comfortable. No more getting stuck turning over. Almost like wearing nothing. I like these so much about a second pair.", "sentiment": "negative", "topics": {"1": "0.38693842", "2": "0.09110696", "3": "0.09120774", "4": "0.09355843", "6": "0.31811416"}}

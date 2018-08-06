@@ -1,0 +1,1 @@
+{"text": "They were too tight at the waist and the legs are too big. When I tried them on I looked terrible! Even though it says elastic waist they don't give at all and the waist band is wide so it actually hurts to wear them.", "sentiment": "negative", "topics": {"1": "0.3814355", "2": "0.33970252", "4": "0.11584856", "6": "0.14251983"}}

@@ -1,0 +1,1 @@
+{"text": "Like all Carhartt products, these pants are extremely well made, they fit well, are comfortable and look great.  High quality at a reasonable price!", "sentiment": "negative", "topics": {"0": "0.08984866", "1": "0.6406245", "5": "0.16462412", "6": "0.07956614"}}

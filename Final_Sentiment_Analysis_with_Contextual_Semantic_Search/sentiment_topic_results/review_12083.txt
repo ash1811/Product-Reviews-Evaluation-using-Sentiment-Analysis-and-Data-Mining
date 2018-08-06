@@ -1,0 +1,1 @@
+{"text": "The waist is about one size larger than listed. I like the color and the length. The price was just right when ordered.", "sentiment": "negative", "topics": {"0": "0.011959498", "1": "0.3212775", "2": "0.26152647", "3": "0.011942402", "4": "0.011980674", "5": "0.011941052", "6": "0.3693724"}}

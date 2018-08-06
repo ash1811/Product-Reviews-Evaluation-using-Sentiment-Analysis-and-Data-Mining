@@ -1,0 +1,1 @@
+{"text": "I could of polish my jewelry with a wash cloth and get better results then this expensive cloth .  I do not recommend this!", "sentiment": "negative", "topics": {"0": "0.011022304", "1": "0.4398491", "2": "0.12357587", "3": "0.0110071795", "4": "0.011009766", "5": "0.26716977", "6": "0.13636594"}}

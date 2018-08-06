@@ -1,0 +1,1 @@
+{"text": "honestly happy to have found this at lowest price then anywhere else, I purchased it for my son for school and he has no complaints.", "sentiment": "positive", "topics": {"0": "0.01193408", "1": "0.73418826", "2": "0.20603865", "3": "0.012036088", "4": "0.011954571", "5": "0.011942656", "6": "0.011905674"}}

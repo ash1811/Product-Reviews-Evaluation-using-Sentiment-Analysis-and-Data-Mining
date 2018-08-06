@@ -1,0 +1,1 @@
+{"text": "I love it!  The only thing is I wish the clasp was a little larger.It is hard for my &#34;old&#34; hands to manipulate.  Otherwise, itis beautiful and just what I wanted.", "sentiment": "negative", "topics": {"0": "0.25236303", "2": "0.27749467", "4": "0.31327838", "6": "0.13000299"}}

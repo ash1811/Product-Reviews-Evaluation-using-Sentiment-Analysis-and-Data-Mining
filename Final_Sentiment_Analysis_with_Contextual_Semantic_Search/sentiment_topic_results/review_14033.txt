@@ -1,0 +1,1 @@
+{"text": "Too small and hard to read for me and the crown is small and hard to set. I do not recommend, would not buy again and I hope this helps.", "sentiment": "negative", "topics": {"0": "0.2860909", "1": "0.324323", "2": "0.011010934", "3": "0.16574872", "4": "0.0110085895", "5": "0.11211976", "6": "0.08969804"}}

@@ -1,0 +1,1 @@
+{"text": "I wear this sweatshirt daily. It is more or less part of my pj's.  It is really comfortable and will keep you really warm on those cold mornings when you jump out of bed.", "sentiment": "negative", "topics": {"0": "0.0876923", "1": "0.4934869", "3": "0.26691666", "4": "0.05696393", "6": "0.07704888"}}

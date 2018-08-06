@@ -1,0 +1,1 @@
+{"text": "Daughter in law very happy for her Christmas present and I am happy that she is happy. It's funny how they are making their way back  into our lives. Wish I had held onto mine from like 20 years ago!!", "sentiment": "positive", "topics": {"0": "0.09848848", "1": "0.33888355", "2": "0.11070718", "3": "0.2620927", "6": "0.1761723"}}

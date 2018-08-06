@@ -1,0 +1,1 @@
+{"text": "100 percent cotton, lightweight v-neck shirt, i would encourage you to purchase these.  however, order one size up from the size you normally wear, especially if you are wearing as summer tee.", "sentiment": "negative", "topics": {"0": "0.14266449", "1": "0.30487105", "2": "0.1026575", "3": "0.2587696", "5": "0.17797029"}}

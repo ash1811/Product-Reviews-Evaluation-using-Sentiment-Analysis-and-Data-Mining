@@ -1,0 +1,1 @@
+{"text": "Great size, great feel, i like it very much and use it for sports or just hanging out...this is based on first use...we will see how it holds up after wash and some use", "sentiment": "negative", "topics": {"1": "0.16733724", "3": "0.35701478", "4": "0.20054168", "6": "0.25121963"}}

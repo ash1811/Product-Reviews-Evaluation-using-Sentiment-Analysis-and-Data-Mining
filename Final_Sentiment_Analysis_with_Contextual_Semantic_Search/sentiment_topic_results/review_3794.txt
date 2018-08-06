@@ -1,0 +1,1 @@
+{"text": "Classic Aviators. Build quality was good and these were made in Italy and not China. i know there has been some debate about some authentic Ray-Bans being made in china, but I'd rather have the Italian ones.", "sentiment": "negative", "topics": {"1": "0.15574132", "2": "0.18871091", "3": "0.29279208", "4": "0.14842728", "5": "0.13652533", "6": "0.07026205"}}

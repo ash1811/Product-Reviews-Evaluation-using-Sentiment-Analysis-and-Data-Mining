@@ -1,0 +1,1 @@
+{"text": "good pair of jeans if you  i like the tapered leg this pair of jeans is for you I like them", "sentiment": "positive", "topics": {"0": "0.014329535", "1": "0.014348583", "2": "0.014338163", "3": "0.60116774", "4": "0.014315766", "5": "0.32710963", "6": "0.014390649"}}

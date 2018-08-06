@@ -1,0 +1,1 @@
+{"text": "I recieved the box in rampant timing but didnt realize till a moth later that both masks were missing...so we had to go buy masks", "sentiment": "negative", "topics": {"0": "0.29284656", "1": "0.3857803", "4": "0.09536231", "5": "0.19739273"}}

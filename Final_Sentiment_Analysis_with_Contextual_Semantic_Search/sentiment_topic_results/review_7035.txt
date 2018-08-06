@@ -1,0 +1,1 @@
+{"text": "Dan Post Men's Mignon Boot,Black,11.5 MI bought this a size too big and they fit just great. Allows me to slip in and out easily. I added a pair of insets for my arches, maybe thats why the size didnt make a difference.", "sentiment": "negative", "topics": {"0": "0.11597415", "1": "0.25637007", "2": "0.074425094", "3": "0.28450614", "5": "0.2056647", "6": "0.05734226"}}

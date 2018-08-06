@@ -1,0 +1,1 @@
+{"text": "great round the house night piece both sexy and fitting especially if you do not want to put much on but have family or friends over", "sentiment": "negative", "topics": {"0": "0.010237266", "1": "0.010265184", "2": "0.0102179805", "3": "0.2538915", "4": "0.010246702", "5": "0.31603187", "6": "0.3891095"}}

@@ -1,0 +1,1 @@
+{"text": "Roast beef was getting waaayyyyy too cold in the winter time, so I had to upgrade to a higher caliber sock. These are comfy and don't get too stinky after a long day in my boots.", "sentiment": "negative", "topics": {"0": "0.09762597", "1": "0.15244639", "2": "0.23993216", "3": "0.22686897", "4": "0.05960334", "5": "0.13600841", "6": "0.08751473"}}

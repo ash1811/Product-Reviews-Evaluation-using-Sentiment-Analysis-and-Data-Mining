@@ -1,0 +1,1 @@
+{"text": "I have a wardrobe of southwestern clothing and jewelry and I can always use another pair of turquoise earrings! I love these for their simplicity!", "sentiment": "positive", "topics": {"0": "0.011005521", "1": "0.3795076", "2": "0.09675109", "3": "0.15042134", "4": "0.3402915", "5": "0.011003564", "6": "0.011019352"}}

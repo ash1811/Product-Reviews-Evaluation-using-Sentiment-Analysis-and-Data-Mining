@@ -1,0 +1,1 @@
+{"text": "The watch is beautiful. Bought it as a Birthday gift to someone. I only wish it came in a hard case box and not in a pouch. Other than that, the watch looks very nice!", "sentiment": "negative", "topics": {"0": "0.3203941", "1": "0.12933849", "2": "0.3504855", "4": "0.17452155"}}

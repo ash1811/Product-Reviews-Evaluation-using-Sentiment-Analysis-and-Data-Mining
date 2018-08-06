@@ -1,0 +1,1 @@
+{"text": "The insoles of my loafers kept popping out but after applying shoe goo as instructed they have been solidly in place.", "sentiment": "negative", "topics": {"0": "0.19844697", "1": "0.3617205", "2": "0.20505933", "3": "0.012993325", "4": "0.013042485", "5": "0.10857982", "6": "0.10015761"}}

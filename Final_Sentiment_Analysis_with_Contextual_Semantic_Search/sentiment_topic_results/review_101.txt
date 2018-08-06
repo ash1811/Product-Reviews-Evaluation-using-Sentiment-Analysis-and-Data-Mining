@@ -1,0 +1,1 @@
+{"text": "So how can you go wrong? Right? Well, they are not as LONG as I expected....and the man is tall! Was hoping for a bit more length.", "sentiment": "positive", "topics": {"0": "0.0119565325", "1": "0.011969507", "2": "0.10065073", "3": "0.011983842", "4": "0.011934427", "5": "0.64684963", "6": "0.20465529"}}

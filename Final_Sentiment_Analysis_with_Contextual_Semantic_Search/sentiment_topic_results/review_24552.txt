@@ -1,0 +1,1 @@
+{"text": "This nude leotard fits amazing and looks great. Not sheer material so it is VERY warm!! Thank you so much!", "sentiment": "negative", "topics": {"0": "0.011927031", "1": "0.4648696", "2": "0.09729528", "3": "0.20836376", "4": "0.19370498", "5": "0.011919868", "6": "0.011919479"}}

@@ -1,0 +1,1 @@
+{"text": "Bought for husband who fishes daily.  He needed cover for his neck.  Great value!", "sentiment": "negative", "topics": {"0": "0.16892543", "1": "0.014343555", "2": "0.01434201", "3": "0.014332315", "4": "0.19373743", "5": "0.40886608", "6": "0.18545315"}}

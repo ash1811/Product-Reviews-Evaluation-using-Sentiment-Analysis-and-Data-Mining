@@ -1,0 +1,1 @@
+{"text": "Great shoe, well made, nice looking and comfortable.  My feet are wide and I ordered a 11 3E.  I got 11 XW.  Fit was good.", "sentiment": "positive", "topics": {"1": "0.539439", "2": "0.07573227", "3": "0.090354435", "4": "0.19030696", "6": "0.0882728"}}

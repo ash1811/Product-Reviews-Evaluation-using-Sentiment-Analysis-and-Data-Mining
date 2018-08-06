@@ -1,0 +1,1 @@
+{"text": "These leg warmers are so soft and cudldy...  they don't fall down even though you hardly notice them... they don't tighten up as the day goes on  and they are easy to put on....", "sentiment": "positive", "topics": {"0": "0.18692721", "1": "0.13395818", "2": "0.14823344", "3": "0.30649084", "6": "0.20747995"}}

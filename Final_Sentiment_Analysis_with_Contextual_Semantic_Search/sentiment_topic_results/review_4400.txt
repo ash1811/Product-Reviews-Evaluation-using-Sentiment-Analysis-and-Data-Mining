@@ -1,0 +1,1 @@
+{"text": "It's so hard to find the true Lee jeans now days in stores. So many are the new and (less) improved jeans that are not 100% cotton.These fit better than the newer version.", "sentiment": "negative", "topics": {"0": "0.26746818", "1": "0.2552877", "2": "0.055440858", "3": "0.09782926", "4": "0.124523014", "6": "0.19188547"}}

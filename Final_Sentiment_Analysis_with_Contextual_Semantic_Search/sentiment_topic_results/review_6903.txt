@@ -1,0 +1,1 @@
+{"text": "I love the Carhartt pocket tshirts.  They are durable and look great even after numerous washes.  They keep their shape, don't wrinkle up or shrink.", "sentiment": "positive", "topics": {"1": "0.8239886", "4": "0.12823448"}}

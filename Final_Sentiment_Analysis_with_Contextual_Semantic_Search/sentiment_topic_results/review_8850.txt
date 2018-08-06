@@ -1,0 +1,1 @@
+{"text": "Well, lets see. They were super comfortable at first, great fit and grip.Started to lose the fit after a few months of daily use.These now fit more like a 16EEE rather than a 15EE.", "sentiment": "negative", "topics": {"0": "0.07440283", "1": "0.38016066", "2": "0.051381283", "3": "0.13056225", "4": "0.12980117", "6": "0.2265342"}}

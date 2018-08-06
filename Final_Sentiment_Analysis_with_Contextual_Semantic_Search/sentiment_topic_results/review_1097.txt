@@ -1,0 +1,1 @@
+{"text": "When you have someone that doesn't know how to tie a bow tie, this type of tie comes in handy. At a steal of a price I could not pass it up. I would certainly purchase this product again in any color.", "sentiment": "negative", "topics": {"1": "0.54799926", "2": "0.07017727", "3": "0.21329196", "5": "0.1470407"}}

@@ -1,0 +1,1 @@
+{"text": "Purchased these do my boyfriend who isn't a fan on sandals or flip flops. These however he will wear, very comfy he says. Look nice too vs the cheapo flip flops! Well made!!", "sentiment": "positive", "topics": {"0": "0.07548951", "1": "0.40143064", "2": "0.24467202", "4": "0.06823598", "5": "0.07897084", "6": "0.12366886"}}

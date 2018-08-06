@@ -1,0 +1,1 @@
+{"text": "I bought these because they were polarized and cheap!  I don't like to pay an arm and a leg for sunglasses and these have done what I need them to do by cutting the glare and being UV safe.", "sentiment": "negative", "topics": {"0": "0.15251899", "1": "0.098354205", "2": "0.35659197", "5": "0.24896124", "6": "0.124493495"}}

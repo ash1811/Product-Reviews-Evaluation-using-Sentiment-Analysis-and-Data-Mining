@@ -1,0 +1,1 @@
+{"text": "I just got this a few days ago and I really like it. Seems sturdy and generally well made. The only reason I give it 4 stars is that I would like to see more pockets in it.", "sentiment": "positive", "topics": {"1": "0.5985047", "4": "0.09415738", "6": "0.27999684"}}

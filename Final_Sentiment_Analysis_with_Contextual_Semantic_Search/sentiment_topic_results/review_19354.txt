@@ -1,0 +1,1 @@
+{"text": "These are by the back door and I have used them in nice weather, rainy weather and dew-soaked grass and my feet stay nice and dry.  Very comfortable too!", "sentiment": "negative", "topics": {"1": "0.44248274", "2": "0.11257452", "3": "0.09056253", "4": "0.15186074", "5": "0.18458708"}}

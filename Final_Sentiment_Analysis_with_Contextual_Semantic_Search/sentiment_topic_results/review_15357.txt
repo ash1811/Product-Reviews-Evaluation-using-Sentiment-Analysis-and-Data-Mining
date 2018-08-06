@@ -1,0 +1,1 @@
+{"text": "I LOVE this style and have several pairs. These were especially loose on my face for some reason, but I'll just be visiting my optometrist for him to heat and tighten them for me.", "sentiment": "positive", "topics": {"2": "0.15554313", "3": "0.25243932", "4": "0.4528138", "5": "0.11055962"}}

@@ -1,0 +1,1 @@
+{"text": "I love to wear thigh highs only and other ways like wear pantyhose either over them or under them and different color panties", "sentiment": "negative", "topics": {"0": "0.264849", "1": "0.3555031", "2": "0.011030658", "3": "0.011047749", "4": "0.011069863", "5": "0.0110615445", "6": "0.33543804"}}

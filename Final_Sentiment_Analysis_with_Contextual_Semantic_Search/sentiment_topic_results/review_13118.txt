@@ -1,0 +1,1 @@
+{"text": "I got one to carry shot, and stuff. Good thickness, will last you. You could carry none chilled foods.  SW", "sentiment": "positive", "topics": {"3": "0.28998917", "4": "0.4348788", "5": "0.23923932"}}

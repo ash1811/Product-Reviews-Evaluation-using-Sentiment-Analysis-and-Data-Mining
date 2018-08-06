@@ -1,0 +1,1 @@
+{"text": "Looks nice, Feels good but a little high waisted. Other then that I like them on. Yes, I do recomend them.", "sentiment": "negative", "topics": {"0": "0.011028226", "1": "0.21482685", "2": "0.011019875", "3": "0.25946432", "4": "0.011001108", "5": "0.23309833", "6": "0.25956127"}}

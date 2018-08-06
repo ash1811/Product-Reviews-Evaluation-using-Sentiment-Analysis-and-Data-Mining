@@ -1,0 +1,1 @@
+{"text": "I ordered the pajamas for my granddaughter. She loved them, they fit perfectly, thank you. They were exactly as shown in the picture.", "sentiment": "positive", "topics": {"0": "0.09535626", "1": "0.40543067", "2": "0.10150684", "3": "0.2586137", "4": "0.011011576", "5": "0.010998136", "6": "0.11708282"}}

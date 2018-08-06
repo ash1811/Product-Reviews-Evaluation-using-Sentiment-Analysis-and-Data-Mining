@@ -1,0 +1,1 @@
+{"text": "A good pair of jeans are as essential for a man as the little black dress is for a woman.  A good pair of jeans go anywhere.  I wear mine to dinner, to the grocer, to church.", "sentiment": "negative", "topics": {"0": "0.08657466", "1": "0.25688964", "3": "0.31654814", "4": "0.11312598", "5": "0.21256156"}}

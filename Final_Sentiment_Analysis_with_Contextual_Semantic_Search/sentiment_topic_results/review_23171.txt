@@ -1,0 +1,1 @@
+{"text": "Shoes are O.K., not the best but delivery method that they were sent SUCKS. It tookalmost a month and two phone calls to get the product. Can't send anyone to thistroubled ordering site.", "sentiment": "negative", "topics": {"0": "0.093697235", "1": "0.176122", "2": "0.16695572", "5": "0.32746324", "6": "0.2221387"}}

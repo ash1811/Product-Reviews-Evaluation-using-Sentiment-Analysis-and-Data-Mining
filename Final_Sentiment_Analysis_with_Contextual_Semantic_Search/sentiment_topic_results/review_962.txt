@@ -1,0 +1,1 @@
+{"text": "These guys are great! Love the look, they go with everything and they look even better with age so I don't have to freak out every time I get some scuffs:) Go with grey leather or bees wax.", "sentiment": "positive", "topics": {"2": "0.19677886", "4": "0.16247953", "5": "0.61344653"}}

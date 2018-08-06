@@ -1,0 +1,1 @@
+{"text": "I found these boxers very comfortable. You don't feel they are on and they feel good on the skin.", "sentiment": "negative", "topics": {"0": "0.017933197", "1": "0.5174818", "2": "0.017865002", "3": "0.017963149", "4": "0.018011285", "5": "0.017974354", "6": "0.39277127"}}

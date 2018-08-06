@@ -1,0 +1,1 @@
+{"text": "Great Carhartt quality. Tough durable work pants. Good selection of colors also. Not sure whether I'll ever wear these out.", "sentiment": "negative", "topics": {"1": "0.7448165", "2": "0.08047159", "3": "0.07659861", "4": "0.07427103"}}

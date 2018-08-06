@@ -1,0 +1,1 @@
+{"text": "These pants are somewhat big but because they are I think they are more comfortable. These shorts are very durable and have plenty of pocket space. Very good product........will buy a similar product sometime soon.", "sentiment": "negative", "topics": {"0": "0.13050991", "1": "0.52728415", "2": "0.23943006", "5": "0.07893007"}}

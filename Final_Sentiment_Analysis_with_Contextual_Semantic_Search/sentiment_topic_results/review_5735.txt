@@ -1,0 +1,1 @@
+{"text": "Be sure to order a larger size (or two) if you plan to wash it.VERY disappointed in Hanes on this product.", "sentiment": "negative", "topics": {"0": "0.011105753", "1": "0.19414951", "2": "0.117901884", "3": "0.27515763", "4": "0.01101989", "5": "0.37965855", "6": "0.011006763"}}

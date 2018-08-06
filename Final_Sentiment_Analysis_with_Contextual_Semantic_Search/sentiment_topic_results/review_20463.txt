@@ -1,0 +1,1 @@
+{"text": "This is the best shoe for travel and adventure in my life this wonderful shoe wonderful and very comfortable and light and of high quality and advise everyone to purchase", "sentiment": "positive", "topics": {"1": "0.44637468", "2": "0.16681209", "3": "0.07888268", "6": "0.2810113"}}

@@ -1,0 +1,1 @@
+{"text": "I wear a 7  but like slippers to be looser than regular shoes so I ordered an 8, the fit was what I was looking for and the shoe is really comfy.", "sentiment": "positive", "topics": {"1": "0.4397097", "2": "0.21678211", "6": "0.3053052"}}

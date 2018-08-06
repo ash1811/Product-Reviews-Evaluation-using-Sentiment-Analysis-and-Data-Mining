@@ -1,0 +1,1 @@
+{"text": "I put the appropriate rate, because the watch was too small, looked like toy or a baby. the brand is very good and comes with warranty and case or own support. recommend but first read well the size", "sentiment": "positive", "topics": {"1": "0.29503915", "2": "0.08827583", "3": "0.491344", "4": "0.10486592"}}

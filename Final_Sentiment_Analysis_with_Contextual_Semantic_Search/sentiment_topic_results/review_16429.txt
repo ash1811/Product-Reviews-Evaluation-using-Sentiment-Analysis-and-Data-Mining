@@ -1,0 +1,1 @@
+{"text": "What a nice white cap,the fit is adjustable and it's very comfortable. When I purchased this cap I had no idea that the mall sold similar caps of lesser quality. (Not flemsey)", "sentiment": "negative", "topics": {"1": "0.3036848", "2": "0.14833334", "4": "0.23399013", "5": "0.08347431", "6": "0.21462671"}}

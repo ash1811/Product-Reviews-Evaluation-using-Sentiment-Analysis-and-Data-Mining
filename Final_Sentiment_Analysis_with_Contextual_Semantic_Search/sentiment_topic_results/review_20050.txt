@@ -1,0 +1,1 @@
+{"text": "The backpack is very well made and this is the first backpack that my daughter has been able to put all of her books and binders into without space issues.", "sentiment": "negative", "topics": {"0": "0.39896694", "1": "0.010239338", "2": "0.3488953", "3": "0.05789289", "4": "0.010226533", "5": "0.16356556", "6": "0.010213424"}}

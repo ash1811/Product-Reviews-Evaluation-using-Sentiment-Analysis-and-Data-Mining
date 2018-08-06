@@ -1,0 +1,1 @@
+{"text": "This is the perfect tool to change out a watch band.  Makes easy work of changing.  Sometimes you just need a specialized tool, and this is it", "sentiment": "negative", "topics": {"0": "0.010228294", "1": "0.0102264555", "2": "0.2969876", "3": "0.12907825", "4": "0.3124504", "5": "0.010208632", "6": "0.23082031"}}

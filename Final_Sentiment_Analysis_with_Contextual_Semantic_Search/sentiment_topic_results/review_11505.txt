@@ -1,0 +1,1 @@
+{"text": "My fiancee loves these (she has a circulation problem and constantly has cold feet- hopefully not for the big day, ha!).  They are brightly colored, thin while still warm, and extremely soft.", "sentiment": "negative", "topics": {"0": "0.12413134", "1": "0.1962628", "3": "0.13874085", "4": "0.32689747", "5": "0.15642963", "6": "0.050380576"}}

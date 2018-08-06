@@ -1,0 +1,1 @@
+{"text": "This is my first pair of keen shoes, and they are nice, with good support.  I usually wear a 81/2, but i bought a 9 in the sandals, so I bought a 9 in shoes, a little big, but I will wear socks.", "sentiment": "positive", "topics": {"1": "0.46421364", "2": "0.123241745", "4": "0.07737734", "5": "0.14977114", "6": "0.17174596"}}

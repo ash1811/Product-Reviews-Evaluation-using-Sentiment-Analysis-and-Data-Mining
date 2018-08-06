@@ -1,0 +1,1 @@
+{"text": "son bonitos y me gustan.los utiliza mi hija de casi 3 a&ntilde;os de edad. volver&eacute; a comprar mas muy pronto", "sentiment": "negative", "topics": {"0": "0.43736184", "1": "0.068965256", "4": "0.17197241", "5": "0.24045007", "6": "0.06537549"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect Gift for a first watch or senior family member to wear on a daily basis. Watch holds up to wear and tear excellently.", "sentiment": "negative", "topics": {"0": "0.28562093", "1": "0.100011855", "2": "0.15693283", "3": "0.11219506", "5": "0.19558313", "6": "0.1407152"}}

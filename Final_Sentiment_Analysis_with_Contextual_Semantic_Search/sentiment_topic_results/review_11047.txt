@@ -1,0 +1,1 @@
+{"text": "I bought two pair for my daughter and granddaughter and they both say they love the comfort and the softness of the slipper.", "sentiment": "negative", "topics": {"0": "0.013028539", "1": "0.013059471", "2": "0.013012314", "3": "0.48103955", "4": "0.013053488", "5": "0.18263373", "6": "0.28417286"}}

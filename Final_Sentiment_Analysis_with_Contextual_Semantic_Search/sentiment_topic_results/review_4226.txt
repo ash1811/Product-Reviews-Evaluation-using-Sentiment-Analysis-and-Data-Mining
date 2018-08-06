@@ -1,0 +1,1 @@
+{"text": "Love these! Roomy, durable fabric and comfortable with soft waistband. The colors match perfectly with the Luvable Friends 5 pack hanging body suits in yellow.", "sentiment": "negative", "topics": {"0": "0.117375776", "1": "0.4541065", "2": "0.048997425", "3": "0.093871936", "5": "0.1576053", "6": "0.120881595"}}

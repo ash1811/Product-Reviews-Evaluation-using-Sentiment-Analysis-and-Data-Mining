@@ -1,0 +1,1 @@
+{"text": "I bought these as a gift for my sister and she says she loves them.  They make her feet all toasty.", "sentiment": "negative", "topics": {"0": "0.24713102", "1": "0.014371942", "2": "0.14978899", "3": "0.27982113", "4": "0.19101943", "5": "0.014326061", "6": "0.103541434"}}

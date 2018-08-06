@@ -1,0 +1,1 @@
+{"text": "I got these for my 10 year old with a torn growth plate on his heel.  He was in so much pain he couldn't even practice.  These things are really like a miracle.  It was nearly an instant remedy.  Worth every last penny!", "sentiment": "negative", "topics": {"2": "0.24378139", "3": "0.31538275", "4": "0.41690946"}}

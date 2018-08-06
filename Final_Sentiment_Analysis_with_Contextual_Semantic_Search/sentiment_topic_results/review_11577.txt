@@ -1,0 +1,1 @@
+{"text": "It was just what I wanted, they are a great fit, great color and a great price. I would recommend them to anyone who enjoys fine feelings pajamas.", "sentiment": "negative", "topics": {"1": "0.673846", "2": "0.09590479", "5": "0.119915865", "6": "0.08167786"}}

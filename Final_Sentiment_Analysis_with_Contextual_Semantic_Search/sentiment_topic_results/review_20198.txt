@@ -1,0 +1,1 @@
+{"text": "Good Quality, middle of the line.  Good play dress.... l l l l l l l l l l l", "sentiment": "negative", "topics": {"1": "0.9548343"}}

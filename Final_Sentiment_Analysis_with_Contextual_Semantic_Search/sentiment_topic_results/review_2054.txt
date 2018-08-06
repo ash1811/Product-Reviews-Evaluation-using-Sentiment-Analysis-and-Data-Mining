@@ -1,0 +1,1 @@
+{"text": "this type of shoe is exactly what i wanted i enjoy everything about from the fit to the leather. it fits well and the size advertised is the size that came. very comfortable. but its a bit deform honestly at the front right", "sentiment": "negative", "topics": {"0": "0.23441124", "1": "0.3291723", "2": "0.20903914", "3": "0.14296217", "4": "0.070755795"}}

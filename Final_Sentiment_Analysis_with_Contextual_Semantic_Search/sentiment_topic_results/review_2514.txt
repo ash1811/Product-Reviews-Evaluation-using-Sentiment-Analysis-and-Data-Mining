@@ -1,0 +1,1 @@
+{"text": "I bought these to wear for my fraternal organization meetings. I like the shoe, but the plastic heel is more beige in appearance than white. I'll use them for my local meetings.", "sentiment": "positive", "topics": {"0": "0.17741406", "2": "0.08855841", "3": "0.28145927", "4": "0.1340629", "5": "0.11164063", "6": "0.19844179"}}

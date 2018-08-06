@@ -1,0 +1,1 @@
+{"text": "I give this product five stars because of how effective it is.  I liked it because it helped keep my feet from falling out of my shoes.  I recommend this for everybody.", "sentiment": "negative", "topics": {"0": "0.079538904", "1": "0.21748058", "2": "0.22888742", "4": "0.13981676", "5": "0.31516722"}}

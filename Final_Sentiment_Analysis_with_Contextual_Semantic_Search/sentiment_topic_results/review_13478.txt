@@ -1,0 +1,1 @@
+{"text": "Second pair. They do not sell narrow widths here locally.Got on sale, love them! Comfortable shoe, does not slide off foot. Here in Hawaii we leave our shoes outside or near the door, having it be backless is so easy!", "sentiment": "positive", "topics": {"1": "0.14370157", "2": "0.16464488", "3": "0.24481374", "4": "0.1869821", "5": "0.13005482", "6": "0.123303555"}}

@@ -1,0 +1,1 @@
+{"text": "The nightgown is exactly what I expected.  Great construction and soft and comfortable to wear.will be purchasing these nightgowns again very soon.", "sentiment": "negative", "topics": {"0": "0.106640406", "1": "0.30151802", "2": "0.011925857", "3": "0.28101858", "4": "0.011962331", "5": "0.011937394", "6": "0.27499738"}}

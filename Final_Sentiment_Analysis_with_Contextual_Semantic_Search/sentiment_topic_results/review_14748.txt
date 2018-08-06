@@ -1,0 +1,1 @@
+{"text": "The push button works and makes it a good alternative for keeping in the car.  It is a bit small for heavy rains, but really helps in surprise situations.  We use it to supplement a larger umbrella we keep in the trunk.", "sentiment": "negative", "topics": {"0": "0.05640809", "1": "0.16086543", "2": "0.09957806", "3": "0.25504085", "4": "0.18103717", "6": "0.24084921"}}

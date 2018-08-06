@@ -1,0 +1,1 @@
+{"text": "Very solid and substial feel.  Like the fact that I do not have to worry about the battery.  I will have to see how the crystal wears over time. it is flush with the case", "sentiment": "positive", "topics": {"0": "0.25505877", "1": "0.010233188", "2": "0.010232286", "3": "0.39351842", "4": "0.18204555", "5": "0.010260615", "6": "0.13865116"}}

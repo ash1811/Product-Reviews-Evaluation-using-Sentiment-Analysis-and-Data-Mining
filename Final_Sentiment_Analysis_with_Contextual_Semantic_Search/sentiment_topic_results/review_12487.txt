@@ -1,0 +1,1 @@
+{"text": "These flip flops are so comfortable. I own 2 other pairs & just wanted to add another color to my wardrobe. But I don't even feel the thong between the toes & the base of flop is made was a soft yoga cushion mat.  Best combo ever.", "sentiment": "negative", "topics": {"0": "0.2432741", "1": "0.43013787", "2": "0.18317184", "3": "0.12622973"}}

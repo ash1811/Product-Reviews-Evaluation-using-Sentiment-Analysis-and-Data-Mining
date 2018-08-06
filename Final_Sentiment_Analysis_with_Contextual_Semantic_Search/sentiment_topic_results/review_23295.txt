@@ -1,0 +1,1 @@
+{"text": "These earrings were dull in color and cloudy in clarity.They were, however, very cheap at the time of purchase, so it was worth the money at that time.Still own, but only take them out of my jewelry box once every 6 months.", "sentiment": "negative", "topics": {"0": "0.1374696", "1": "0.51353884", "2": "0.21483026", "3": "0.11368209"}}

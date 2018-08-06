@@ -1,0 +1,1 @@
+{"text": "Absolutely wonderful--bought it as a pinkie ring, and it fits perfectly.  The design is raised enough to be eye-catching, but not so high that it catches on things when you are working around the home or yard.  Just love this ring!", "sentiment": "negative", "topics": {"0": "0.09898536", "1": "0.46542853", "2": "0.13263074", "5": "0.2814263"}}

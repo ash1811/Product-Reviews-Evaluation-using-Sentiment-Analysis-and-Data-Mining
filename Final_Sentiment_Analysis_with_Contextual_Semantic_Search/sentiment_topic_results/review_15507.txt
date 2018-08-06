@@ -1,0 +1,1 @@
+{"text": "If you are under 5 feet 3 inches these have a great leg length. If you are any taller they will be too short. They do run large . Size down", "sentiment": "positive", "topics": {"0": "0.21444371", "1": "0.1502386", "2": "0.011014645", "3": "0.4740658", "4": "0.12819067", "5": "0.0110129025", "6": "0.011033639"}}

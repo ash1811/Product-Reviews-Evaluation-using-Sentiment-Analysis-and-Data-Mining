@@ -1,0 +1,1 @@
+{"text": "I could not find any jeans like this in stores, so I was glad to find them on Amazon. They fit great, feel comfortable. The Rigid Grey look awesome. They're really great for dressing it up a bit, but can also be worn casually.", "sentiment": "negative", "topics": {"1": "0.36821252", "2": "0.05153002", "4": "0.2563018", "5": "0.24113068", "6": "0.07136661"}}

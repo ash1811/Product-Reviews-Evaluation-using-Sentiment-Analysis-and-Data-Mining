@@ -1,0 +1,1 @@
+{"text": "Another great Mountain Tee!  I collect wolves, hubby loves Bears, elk,deer, moose, wolves ... So these make it easy to find gifts for him too! He's harder on shirts than I am but they last him well enough! True to size!", "sentiment": "negative", "topics": {"0": "0.21136671", "3": "0.14367", "4": "0.3418371", "5": "0.120415196", "6": "0.17166612"}}

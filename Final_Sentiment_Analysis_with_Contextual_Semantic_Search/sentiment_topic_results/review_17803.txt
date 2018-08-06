@@ -1,0 +1,1 @@
+{"text": "Great for wearing under jeans when the weather is cold. Keeps my legs warm and I will be ordering more in the future. Not scratchy or itchy to skin. Will recommend especially in cooler temperatures.", "sentiment": "negative", "topics": {"1": "0.4902657", "5": "0.2939889", "6": "0.1838782"}}

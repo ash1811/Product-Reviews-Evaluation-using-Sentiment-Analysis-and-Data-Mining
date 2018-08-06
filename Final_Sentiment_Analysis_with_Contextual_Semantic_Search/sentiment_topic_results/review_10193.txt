@@ -1,0 +1,1 @@
+{"text": "I do like the earnings, they are well made and enjoy wearing them. They are not blue they have more a light yellow that reflects.", "sentiment": "negative", "topics": {"0": "0.011965745", "1": "0.5874274", "2": "0.011945944", "3": "0.19918475", "4": "0.01191194", "5": "0.011923754", "6": "0.16564052"}}

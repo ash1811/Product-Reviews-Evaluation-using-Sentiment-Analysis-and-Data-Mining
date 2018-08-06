@@ -1,0 +1,1 @@
+{"text": "i have bought this bras for my daughter for the first time and i havnt had no complaint with her at all so i assume she is please", "sentiment": "negative", "topics": {"0": "0.27228186", "1": "0.16596533", "2": "0.014309293", "3": "0.36476642", "4": "0.15401702", "5": "0.014361134", "6": "0.014298911"}}

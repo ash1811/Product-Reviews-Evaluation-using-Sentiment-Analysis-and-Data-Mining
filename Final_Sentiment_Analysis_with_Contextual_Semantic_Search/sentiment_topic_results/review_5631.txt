@@ -1,0 +1,1 @@
+{"text": "Great spaghetti tank tops..I enjoy tank tops with spaghetti straps which are hard to find in the stores.. Very nicely made.", "sentiment": "negative", "topics": {"0": "0.17113706", "1": "0.26443622", "2": "0.08498887", "3": "0.08746271", "5": "0.20615393", "6": "0.17628102"}}

@@ -1,0 +1,1 @@
+{"text": "This stuff is incredible. My bracelets and watches look showroom ready. Many compliments on my cleaned jewelry this week.... Especially the rings", "sentiment": "negative", "topics": {"0": "0.16996984", "1": "0.23494446", "2": "0.13774388", "3": "0.27752593", "4": "0.16070677"}}

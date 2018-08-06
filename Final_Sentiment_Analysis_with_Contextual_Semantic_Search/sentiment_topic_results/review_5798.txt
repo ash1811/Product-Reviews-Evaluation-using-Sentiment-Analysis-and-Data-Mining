@@ -1,0 +1,1 @@
+{"text": "I so far am glad that I purchased this, washing does not seem to bother it any and that is good.", "sentiment": "positive", "topics": {"0": "0.015918536", "1": "0.39149094", "2": "0.38204205", "3": "0.015930207", "4": "0.015974494", "5": "0.01594173", "6": "0.16270204"}}

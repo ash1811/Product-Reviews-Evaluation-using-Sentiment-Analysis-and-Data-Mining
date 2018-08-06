@@ -1,0 +1,1 @@
+{"text": "Lots cheaper than in the stores! Don't you just love it when you can beat the store price on necessary items?q", "sentiment": "positive", "topics": {"0": "0.1680589", "1": "0.35004193", "2": "0.014319807", "3": "0.12800553", "4": "0.31096655", "5": "0.014315711", "6": "0.014291567"}}

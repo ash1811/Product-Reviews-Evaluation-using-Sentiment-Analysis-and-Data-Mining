@@ -1,0 +1,1 @@
+{"text": "My mother asked for a small unbrella for christmas.One that would pop out with a button.I hope she will be satisfied with this.", "sentiment": "negative", "topics": {"0": "0.483853", "1": "0.011940873", "2": "0.011988095", "3": "0.18361783", "4": "0.011922177", "5": "0.12302215", "6": "0.17365582"}}

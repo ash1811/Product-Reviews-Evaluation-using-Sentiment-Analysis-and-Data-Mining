@@ -1,0 +1,1 @@
+{"text": "My husband was between sizes - so ordered XXXL and XXXXL - and the XXXL fit perfectly - will order more that size.", "sentiment": "negative", "topics": {"0": "0.40518418", "1": "0.24609369", "2": "0.012989258", "3": "0.20573868", "4": "0.103953525", "5": "0.012990433", "6": "0.013050255"}}

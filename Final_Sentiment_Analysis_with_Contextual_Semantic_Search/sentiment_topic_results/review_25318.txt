@@ -1,0 +1,1 @@
+{"text": "We gifted this to a friend who is a wild terkking fan. He enjoys these shoes so much and thanked us so much for it. Need we ask for more? Would certainly recommend. I am told that these are very comfortable.", "sentiment": "positive", "topics": {"0": "0.13831107", "1": "0.27484807", "2": "0.1747696", "4": "0.11967398", "5": "0.13378064", "6": "0.15179448"}}

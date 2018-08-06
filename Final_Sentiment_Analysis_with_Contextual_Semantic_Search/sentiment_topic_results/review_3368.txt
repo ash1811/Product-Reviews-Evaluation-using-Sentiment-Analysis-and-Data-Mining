@@ -1,0 +1,1 @@
+{"text": "A color I have been looking for.  Shoulders straps are very comfortable.  Snug side fit for great support and lift.", "sentiment": "negative", "topics": {"0": "0.011009071", "1": "0.5341364", "2": "0.08851845", "3": "0.011041792", "4": "0.10399915", "5": "0.011024133", "6": "0.24027094"}}

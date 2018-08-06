@@ -1,0 +1,1 @@
+{"text": "These seem a tad bit short, but I think they will loosen up when I've broken them in. Nice foot bed, and great support. A good sturdy shoe for everyday wear.", "sentiment": "negative", "topics": {"0": "0.072645664", "1": "0.3455286", "2": "0.07213034", "3": "0.13234738", "4": "0.20275423", "5": "0.12438433", "6": "0.050209507"}}

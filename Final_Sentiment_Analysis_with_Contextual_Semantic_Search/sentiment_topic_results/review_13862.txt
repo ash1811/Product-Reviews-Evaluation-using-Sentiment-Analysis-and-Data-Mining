@@ -1,0 +1,1 @@
+{"text": "This is an excellent summer or Fall canvas slip on and is wide enough for a wider foot.....good color too", "sentiment": "negative", "topics": {"0": "0.2295513", "1": "0.46003497", "2": "0.2583826", "3": "0.0130016", "4": "0.013020062", "5": "0.013022273", "6": "0.012987173"}}

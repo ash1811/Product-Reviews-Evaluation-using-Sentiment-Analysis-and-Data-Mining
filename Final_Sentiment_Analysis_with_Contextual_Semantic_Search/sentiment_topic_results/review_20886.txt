@@ -1,0 +1,1 @@
+{"text": "These fit much tighter than my other Dockers and with such a high waist they were not comfortable at all.  Fabric was thin.", "sentiment": "negative", "topics": {"0": "0.013027569", "1": "0.37965968", "2": "0.19286464", "3": "0.16069019", "4": "0.013027457", "5": "0.22764625", "6": "0.013084195"}}

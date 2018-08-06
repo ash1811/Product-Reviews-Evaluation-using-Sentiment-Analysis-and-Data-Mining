@@ -1,0 +1,1 @@
+{"text": "10 years ago I received this watch for 255 $ from a jeweler in the mall starting with \"Z\". Lost it in a hotel and bought it again from AMazon for 100$ because it is sleak and nice.", "sentiment": "negative", "topics": {"1": "0.36477602", "2": "0.12068108", "4": "0.26651376", "6": "0.2241151"}}

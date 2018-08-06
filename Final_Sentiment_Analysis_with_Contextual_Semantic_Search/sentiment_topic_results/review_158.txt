@@ -1,0 +1,1 @@
+{"text": "I ordered XLT and got a 4XL.  I mean it fit my 330 lb dad just fine but for me this was like a dress. I don't know what they were thinking when sizing these but it is craziness.", "sentiment": "negative", "topics": {"1": "0.36228254", "2": "0.23620726", "3": "0.10413965", "6": "0.27212366"}}

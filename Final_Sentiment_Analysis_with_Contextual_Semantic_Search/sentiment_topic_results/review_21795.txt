@@ -1,0 +1,1 @@
+{"text": "Going on a trip with 4 grandchildren. Got each a rolling suitcase. This is the perfect accompaniment for toothbrushes etc.", "sentiment": "positive", "topics": {"0": "0.011941571", "1": "0.17119987", "2": "0.48214388", "3": "0.29886904", "4": "0.011956117", "5": "0.011938915", "6": "0.011950589"}}

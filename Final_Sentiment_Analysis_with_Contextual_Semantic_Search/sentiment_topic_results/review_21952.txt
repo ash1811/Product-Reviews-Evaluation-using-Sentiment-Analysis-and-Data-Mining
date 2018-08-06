@@ -1,0 +1,1 @@
+{"text": "These are so cute and on trend and i wear them with samdals and heels and maybe sneakers. the fit is sexy on me i love them.", "sentiment": "positive", "topics": {"0": "0.011948178", "1": "0.1310653", "2": "0.011935653", "3": "0.3557689", "4": "0.011945236", "5": "0.36576197", "6": "0.11157475"}}

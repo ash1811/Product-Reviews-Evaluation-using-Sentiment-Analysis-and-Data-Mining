@@ -1,0 +1,1 @@
+{"text": "Cheap watch for a cheap price. Very tiny case and dial that is hard to read. Would probably not make for a good actual diver watch if used that way.", "sentiment": "positive", "topics": {"0": "0.11658058", "1": "0.16509545", "2": "0.29945287", "3": "0.16473903", "4": "0.08058344", "6": "0.16601534"}}

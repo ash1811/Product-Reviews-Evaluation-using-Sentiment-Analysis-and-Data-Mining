@@ -1,0 +1,1 @@
+{"text": "This shoe is very light and comfortable. I normally wear a size 13 and ordered a 13--the shoe fits perfectly.", "sentiment": "positive", "topics": {"0": "0.011004303", "1": "0.5257324", "2": "0.2600226", "3": "0.011033769", "4": "0.010989567", "5": "0.011003744", "6": "0.17021364"}}

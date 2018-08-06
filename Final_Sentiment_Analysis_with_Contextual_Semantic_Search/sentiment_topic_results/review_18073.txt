@@ -1,0 +1,1 @@
+{"text": "probably not fair to give 3 stars. Probably didn't read specifics well.  Watch is very tiny -- seems to be for a child", "sentiment": "negative", "topics": {"0": "0.010229359", "1": "0.36726883", "2": "0.15358031", "3": "0.21888371", "4": "0.091318764", "5": "0.010222289", "6": "0.14849675"}}

@@ -1,0 +1,1 @@
+{"text": "I love this backpack.  It was perfect for traveling by plane as the layered pockets lay flat and allow you to organize things easily.  It doesn't dig in to your shoulders and is very comfortable to wear.  I'm pretty picky with bags and really like this one.", "sentiment": "negative", "topics": {"0": "0.27021927", "1": "0.34782046", "2": "0.20451084", "3": "0.16023917"}}

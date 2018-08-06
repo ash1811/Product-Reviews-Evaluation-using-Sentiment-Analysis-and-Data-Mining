@@ -1,0 +1,1 @@
+{"text": "I love wolves, I may not be making any wolf puns or jokes as the others have but this shirt is really worth it.The picture doesn't fade when washed, still looks bold as ever.It's made from 100% cotton and it's really comfortable.quick shipping too.", "sentiment": "negative", "topics": {"1": "0.3673839", "3": "0.20635772", "4": "0.31507158", "6": "0.095246345"}}

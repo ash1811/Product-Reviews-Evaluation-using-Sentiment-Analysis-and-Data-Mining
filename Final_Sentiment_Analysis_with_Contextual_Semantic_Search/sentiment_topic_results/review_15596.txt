@@ -1,0 +1,1 @@
+{"text": "I am excited to use this. I will be doing some travel in Spain and you have to worry about pick pockets.  I have heard they will also cut through the normal straps. If you have the wire inside the neck band they can't cut it.", "sentiment": "negative", "topics": {"0": "0.107426964", "2": "0.28970468", "3": "0.35215047", "4": "0.078841224", "6": "0.15822144"}}

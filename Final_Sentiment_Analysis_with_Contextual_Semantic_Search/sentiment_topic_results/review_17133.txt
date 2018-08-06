@@ -1,0 +1,1 @@
+{"text": "I wear a size 5 1/2 adult shoe and these fit me perfectly.  Got them at a lower price than adult size and love the color!", "sentiment": "negative", "topics": {"1": "0.29777354", "2": "0.10769067", "3": "0.2674404", "5": "0.30021834"}}

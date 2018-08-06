@@ -1,0 +1,1 @@
+{"text": "These are so comfy and cute. I often put these on when I get home before I water my plants and etc. I can't tell you how many times I have forgotten they are still on. Great for cooking too!", "sentiment": "negative", "topics": {"1": "0.22345702", "2": "0.13216685", "3": "0.24763116", "4": "0.25265735", "6": "0.1297245"}}

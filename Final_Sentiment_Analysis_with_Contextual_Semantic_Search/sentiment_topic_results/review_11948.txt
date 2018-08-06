@@ -1,0 +1,1 @@
+{"text": "Excellent quality, get the job done, my son's feet are protected. Too soon to really know about quality since we practically just received them, but they seem to be of good quality anyway.", "sentiment": "positive", "topics": {"1": "0.44526553", "2": "0.38123757", "4": "0.0757864", "6": "0.077194296"}}

@@ -1,0 +1,1 @@
+{"text": "Its cute I have not worn the piece inside that comes with it yet just the robe, im not sure I will even keep the piece that came with it as I just wanted a cute silk robe", "sentiment": "positive", "topics": {"0": "0.56499934", "2": "0.101143375", "6": "0.30199593"}}

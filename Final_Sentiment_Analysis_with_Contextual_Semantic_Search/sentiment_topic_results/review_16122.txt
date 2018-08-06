@@ -1,0 +1,1 @@
+{"text": "Nice slippers, can be worn outside to sweep the porch and gather the paper.  Tend to make my feet hot.  Do give good support.", "sentiment": "negative", "topics": {"0": "0.092070624", "1": "0.3174549", "3": "0.36367956", "5": "0.06669565", "6": "0.14217266"}}

@@ -1,0 +1,1 @@
+{"text": "The shirts fit well, are comfortable and look good! The fit is fine, even after washing in hot water. A good deal!", "sentiment": "negative", "topics": {"1": "0.5734595", "2": "0.28409213", "3": "0.10425952"}}

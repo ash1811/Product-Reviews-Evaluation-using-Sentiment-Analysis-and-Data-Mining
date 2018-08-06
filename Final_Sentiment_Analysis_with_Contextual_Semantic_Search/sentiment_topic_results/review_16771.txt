@@ -1,0 +1,1 @@
+{"text": "Beautiful watch.  Very happy with it except for the size.  The band and the watch itself are much smaller than I would have guessed from the picture.  Not the size of a woman's watch, but smaller than a typical watch for a man.", "sentiment": "positive", "topics": {"1": "0.18577032", "2": "0.2351383", "3": "0.41647047", "5": "0.14109823"}}

@@ -1,0 +1,1 @@
+{"text": "It is really quick and awesome. I  absolutely love it ! seems like in good quality and very comfortable actually.", "sentiment": "negative", "topics": {"0": "0.011926692", "1": "0.5273341", "2": "0.27771786", "3": "0.01194624", "4": "0.14718434", "5": "0.011956738", "6": "0.011934047"}}

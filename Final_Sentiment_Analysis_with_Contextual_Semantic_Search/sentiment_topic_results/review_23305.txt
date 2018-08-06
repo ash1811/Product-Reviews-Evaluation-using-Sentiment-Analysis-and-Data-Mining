@@ -1,0 +1,1 @@
+{"text": "Shoes are nice and light not heavy on your feet, very flexable. Recommended for those who run or just pal around", "sentiment": "negative", "topics": {"0": "0.35690376", "1": "0.013084593", "2": "0.24109818", "3": "0.24973382", "4": "0.01308551", "5": "0.01301384", "6": "0.11308029"}}

@@ -1,0 +1,1 @@
+{"text": "these ugg slippers are so comfy and run true to sixing do not order bigger the fur will compact some after wearing. and they were shipped quickly. this seller is great to deal with.", "sentiment": "positive", "topics": {"0": "0.15678382", "1": "0.25936654", "2": "0.08664347", "3": "0.18917148", "4": "0.10009686", "5": "0.13965338", "6": "0.06828449"}}

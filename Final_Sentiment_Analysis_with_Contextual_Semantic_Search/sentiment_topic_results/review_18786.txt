@@ -1,0 +1,1 @@
+{"text": "We had a family pirate theme this year, and my husband said the costume was overall itchy and uncomfortable. It also looked much more cheesy and cheap in person than it did in the pictures.", "sentiment": "negative", "topics": {"0": "0.23298444", "1": "0.31046835", "3": "0.1620264", "4": "0.27062663"}}

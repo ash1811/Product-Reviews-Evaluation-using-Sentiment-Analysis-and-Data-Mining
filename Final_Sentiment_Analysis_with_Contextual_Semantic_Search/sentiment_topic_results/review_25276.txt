@@ -1,0 +1,1 @@
+{"text": "This is the second pair of these shoes my husband has owned. He has big feet and wide feet and flat feet!! It's almost impossible for me to find him anything, but these are AWESOME! He can wear them for hours with no issue. Great shoes!", "sentiment": "positive", "topics": {"1": "0.36240795", "2": "0.25668782", "4": "0.29260603", "6": "0.06873665"}}

@@ -1,0 +1,1 @@
+{"text": "This watch doesn't look nearly as good on my wrist as it did in the photo on the Amazon page.  I should have known not to expect much from a $20 watch.", "sentiment": "positive", "topics": {"0": "0.09891493", "1": "0.16028027", "2": "0.28351262", "3": "0.010250655", "4": "0.13102452", "5": "0.30578128", "6": "0.010235727"}}

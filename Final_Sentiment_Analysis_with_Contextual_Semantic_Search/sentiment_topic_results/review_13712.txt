@@ -1,0 +1,1 @@
+{"text": "Love Reef brand! I am getting a white pair form my wedding reception!  Very comfortaable and great support for your feet", "sentiment": "positive", "topics": {"0": "0.010217392", "1": "0.21781434", "2": "0.010206306", "3": "0.1878256", "4": "0.23393805", "5": "0.18315259", "6": "0.15684572"}}

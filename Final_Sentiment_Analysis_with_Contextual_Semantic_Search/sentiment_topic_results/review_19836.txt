@@ -1,0 +1,1 @@
+{"text": "This  is a good watch for the price, I used it for my work as a nurse and it is very durable and you can wipe it down to disinfect it because the whole thing is plastic.", "sentiment": "negative", "topics": {"0": "0.011012452", "1": "0.4526598", "2": "0.20865151", "3": "0.011007168", "4": "0.11077151", "5": "0.11283228", "6": "0.093065314"}}

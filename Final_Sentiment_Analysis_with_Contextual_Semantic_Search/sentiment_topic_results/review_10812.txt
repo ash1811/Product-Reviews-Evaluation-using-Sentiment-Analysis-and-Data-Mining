@@ -1,0 +1,1 @@
+{"text": "These are so comfortable, and the color is great! There are just not enough good things to say about them.", "sentiment": "positive", "topics": {"0": "0.015909953", "1": "0.6480768", "2": "0.015947394", "3": "0.16689143", "4": "0.01592102", "5": "0.015916508", "6": "0.12133692"}}

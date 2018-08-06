@@ -1,0 +1,1 @@
+{"text": "Bought these for my 11 mo old. She is in between a 3 and a 4 in Robeez. Per other reviewers advice, I ordered a size down. So, a 3. A 3 in this boot is about the same length and width as a 4 in Robeez", "sentiment": "negative", "topics": {"1": "0.30968326", "4": "0.15198523", "5": "0.4388694", "6": "0.07982845"}}

@@ -1,0 +1,1 @@
+{"text": "Very nicely finished and with lots of useful compartments -including a zipped pocket- that makes it a wonderful travel companion!", "sentiment": "negative", "topics": {"0": "0.01099466", "1": "0.44145533", "2": "0.40180838", "3": "0.01112313", "4": "0.112564966", "5": "0.011002606", "6": "0.011050919"}}

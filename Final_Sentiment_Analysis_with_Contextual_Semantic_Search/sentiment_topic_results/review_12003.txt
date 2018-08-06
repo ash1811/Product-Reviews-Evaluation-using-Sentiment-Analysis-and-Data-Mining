@@ -1,0 +1,1 @@
+{"text": "Very attracive and casual enough to be worn at all times.  I like having both shades of gold to compliment whatever other jewelry I might be wearing.", "sentiment": "negative", "topics": {"0": "0.010252228", "1": "0.2640781", "2": "0.010217732", "3": "0.11744608", "4": "0.2446139", "5": "0.0102302525", "6": "0.34316164"}}

@@ -1,0 +1,1 @@
+{"text": "Does exactly what a flip flop is supposed to. Very comfortable actually. Seems to be good quality so far...i have had them for a month.", "sentiment": "negative", "topics": {"0": "0.09148921", "1": "0.6243289", "2": "0.24012423", "3": "0.011014227", "4": "0.011012654", "5": "0.011032247", "6": "0.010998543"}}

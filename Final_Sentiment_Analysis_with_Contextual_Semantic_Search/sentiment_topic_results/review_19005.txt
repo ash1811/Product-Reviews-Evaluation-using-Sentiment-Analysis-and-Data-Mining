@@ -1,0 +1,1 @@
+{"text": "It took seven tries and I made it finally. I love it. Was worth all the ordering and returning. Highly recommend.", "sentiment": "negative", "topics": {"0": "0.4104141", "1": "0.011042531", "2": "0.011031071", "3": "0.38994476", "4": "0.011046585", "5": "0.15549856", "6": "0.011022358"}}

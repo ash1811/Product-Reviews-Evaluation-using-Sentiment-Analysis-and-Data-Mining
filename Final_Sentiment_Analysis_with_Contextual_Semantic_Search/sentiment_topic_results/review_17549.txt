@@ -1,0 +1,1 @@
+{"text": "My dad has worn these watches for years.  He is a contractor and very rough on things.  They last him a long time and are well worth the money.  He continues to buy them.  I bought this for my husband to wear to work underground.", "sentiment": "positive", "topics": {"1": "0.3862691", "2": "0.1743497", "4": "0.14915648", "5": "0.1750962", "6": "0.10209883"}}

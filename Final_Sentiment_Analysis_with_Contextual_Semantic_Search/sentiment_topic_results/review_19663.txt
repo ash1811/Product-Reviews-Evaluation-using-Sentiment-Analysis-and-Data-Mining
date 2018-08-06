@@ -1,0 +1,1 @@
+{"text": "Very very loose very large. Only for extremely puffy or supper high arch feet. Let Oprah have them...and I love our Oprah. Don't buy these,", "sentiment": "positive", "topics": {"1": "0.37830666", "3": "0.33077526", "4": "0.2550591"}}

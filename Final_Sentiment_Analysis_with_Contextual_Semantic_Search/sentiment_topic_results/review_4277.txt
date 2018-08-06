@@ -1,0 +1,1 @@
+{"text": "i have always bought converse slip ons for my son - the size 10 is much bigger than a normal size ten - not totally true to size - keep in mind when ordering.", "sentiment": "negative", "topics": {"0": "0.25617078", "2": "0.08493992", "3": "0.36466962", "4": "0.27270752"}}

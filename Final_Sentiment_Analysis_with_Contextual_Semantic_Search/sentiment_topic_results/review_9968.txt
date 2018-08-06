@@ -1,0 +1,1 @@
+{"text": "I have short hair and I sometimes feel that my earrings are too big for my face.  These are a perfect size.  they cover the lobe and look a more expensive than they are.  I will be  looking for a white gold set.", "sentiment": "positive", "topics": {"0": "0.23961787", "1": "0.40077683", "2": "0.1391527", "5": "0.06761681", "6": "0.1377087"}}

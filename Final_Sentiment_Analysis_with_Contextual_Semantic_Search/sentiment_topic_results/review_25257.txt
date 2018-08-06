@@ -1,0 +1,1 @@
+{"text": "This is a very very comfortable shoe that can stand up to punishment. I LOVE it!!!!!!!!!!!!!!!!!!!!!! No break-in time at all!", "sentiment": "negative", "topics": {"0": "0.014354704", "1": "0.20731148", "2": "0.4900991", "3": "0.0143207535", "4": "0.2452782", "5": "0.014330556", "6": "0.014305184"}}

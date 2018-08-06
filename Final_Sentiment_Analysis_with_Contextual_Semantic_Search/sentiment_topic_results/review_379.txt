@@ -1,0 +1,1 @@
+{"text": "Quality enough, but after like one wash it was like the torso would fit a very small person???  Come on, Hanes.", "sentiment": "negative", "topics": {"1": "0.7416959", "4": "0.21048662"}}

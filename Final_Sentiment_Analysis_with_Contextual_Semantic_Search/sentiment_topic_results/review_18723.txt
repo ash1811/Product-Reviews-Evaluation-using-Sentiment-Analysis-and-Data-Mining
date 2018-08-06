@@ -1,0 +1,1 @@
+{"text": "They're very thin and can only be worn a few times until they tear. A garter belt is a must because these will not stay on their own. Not bad for the price.", "sentiment": "negative", "topics": {"0": "0.011059126", "1": "0.17821664", "2": "0.15263443", "3": "0.091588765", "4": "0.20404792", "5": "0.2520943", "6": "0.11035885"}}

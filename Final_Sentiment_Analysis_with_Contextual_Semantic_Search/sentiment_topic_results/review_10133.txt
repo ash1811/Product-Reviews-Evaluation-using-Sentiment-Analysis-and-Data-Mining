@@ -1,0 +1,1 @@
+{"text": "This is a lovely, small cross on a delicate chain that is perfect for my granddaughter's first communion.  Very feminine.", "sentiment": "negative", "topics": {"0": "0.013020501", "1": "0.01304141", "2": "0.116859004", "3": "0.22089334", "4": "0.5074106", "5": "0.013038922", "6": "0.115736246"}}

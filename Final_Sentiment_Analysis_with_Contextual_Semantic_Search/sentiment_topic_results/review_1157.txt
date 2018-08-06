@@ -1,0 +1,1 @@
+{"text": "These earrings are really pretty & show so many cool colors! They look great with so many outfits. Love them!", "sentiment": "positive", "topics": {"0": "0.29716626", "1": "0.318933", "2": "0.14946464", "3": "0.010240791", "4": "0.20372657", "5": "0.010253338", "6": "0.010215364"}}

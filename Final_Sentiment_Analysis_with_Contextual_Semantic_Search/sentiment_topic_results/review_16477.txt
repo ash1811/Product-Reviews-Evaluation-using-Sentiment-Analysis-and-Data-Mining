@@ -1,0 +1,1 @@
+{"text": "These glasses are not oversized and would not buy them again. They are the color they say although the size is not what one wou;d consider near oversize.", "sentiment": "negative", "topics": {"0": "0.12249347", "1": "0.35322374", "3": "0.18803917", "4": "0.12479662", "6": "0.1923216"}}

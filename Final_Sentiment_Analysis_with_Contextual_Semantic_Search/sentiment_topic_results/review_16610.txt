@@ -1,0 +1,1 @@
+{"text": "I got this for my son's 12the birthday since its the in watch of todays kids and adults.I tried to press the buttons and its a tad hard to do. My son loves it and its not mine so i just put it out there that the buttons are hard to press.", "sentiment": "negative", "topics": {"0": "0.3477357", "1": "0.07768281", "2": "0.08542781", "5": "0.20530345", "6": "0.27135596"}}

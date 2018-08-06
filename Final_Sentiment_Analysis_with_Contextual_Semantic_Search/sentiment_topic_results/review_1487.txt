@@ -1,0 +1,1 @@
+{"text": "Good quality and really big bag! I can put lots of thing in it during travel! The patterns on it is very cute!", "sentiment": "negative", "topics": {"0": "0.011945939", "1": "0.64330614", "2": "0.011947126", "3": "0.011935882", "4": "0.011937937", "5": "0.29700562", "6": "0.011921422"}}

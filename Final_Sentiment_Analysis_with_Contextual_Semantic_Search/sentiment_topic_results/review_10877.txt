@@ -1,0 +1,1 @@
+{"text": "Really pretty clog slipper that I bought for my daughter to go with a pair of pajamas after a hospital stay. She is very happy with the comfort these provide.", "sentiment": "positive", "topics": {"1": "0.6689241", "6": "0.28321838"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful, functional, nicely made, and not too heavy. I love this umbrella.  Originally purchased as part of a costume, but of course it would do nicely for any rainy day.", "sentiment": "negative", "topics": {"0": "0.37635368", "1": "0.29979563", "2": "0.069168344", "5": "0.17751306", "6": "0.060309347"}}

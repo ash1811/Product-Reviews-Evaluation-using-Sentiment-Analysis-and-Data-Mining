@@ -1,0 +1,1 @@
+{"text": "me encanto este jean como lo pedi y pense.... lo recomiendo el corte.,.. y el acabado... de venezuela... valencia jesus", "sentiment": "negative", "topics": {"1": "0.06351419", "2": "0.17346", "3": "0.29708177", "4": "0.0655161", "5": "0.384551"}}

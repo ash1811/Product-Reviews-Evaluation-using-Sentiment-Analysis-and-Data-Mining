@@ -1,0 +1,1 @@
+{"text": "Using as slippers as I love my regular height Uggs and thought these minis would make good slippers. I was right!  Fit is perfect, they are comfy and bright purple. Love them!", "sentiment": "negative", "topics": {"0": "0.1482393", "1": "0.21153402", "3": "0.4975472", "6": "0.1222227"}}

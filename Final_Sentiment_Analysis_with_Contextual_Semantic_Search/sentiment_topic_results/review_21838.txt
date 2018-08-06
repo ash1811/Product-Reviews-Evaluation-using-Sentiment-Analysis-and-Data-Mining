@@ -1,0 +1,1 @@
+{"text": "I love these underwear. They are very soft and fit true to size. They are also very cute for the beginners.", "sentiment": "positive", "topics": {"0": "0.014318791", "1": "0.241045", "2": "0.014307769", "3": "0.3841182", "4": "0.16375054", "5": "0.014322408", "6": "0.16813725"}}

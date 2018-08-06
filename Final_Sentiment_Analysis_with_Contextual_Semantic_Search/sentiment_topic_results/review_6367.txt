@@ -1,0 +1,1 @@
+{"text": "I love almost all of my Thorlos, but these gave me blisters. Stick with the thin pad style - they are amazing.", "sentiment": "positive", "topics": {"0": "0.30061752", "1": "0.013018546", "2": "0.13553819", "3": "0.0130019365", "4": "0.4047118", "5": "0.013056236", "6": "0.120055825"}}

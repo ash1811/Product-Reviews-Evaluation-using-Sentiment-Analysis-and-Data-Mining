@@ -1,0 +1,1 @@
+{"text": "Tie was excellent especially for the price. I wore with my tuxedo on a white shirt and it was a hit the shine matched the lapels on the tuxedo and it gave it a classy look.", "sentiment": "negative", "topics": {"1": "0.22571123", "2": "0.079748705", "4": "0.11161829", "5": "0.55762714"}}

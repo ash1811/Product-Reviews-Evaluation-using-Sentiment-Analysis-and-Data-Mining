@@ -1,0 +1,1 @@
+{"text": "these scrubs are great quality,color is true wine not purpleish sold in department stores comfortable and true to size.will buy again", "sentiment": "negative", "topics": {"0": "0.093555495", "1": "0.38283092", "2": "0.11016203", "3": "0.10864675", "4": "0.18768282", "5": "0.10688417", "6": "0.010237798"}}

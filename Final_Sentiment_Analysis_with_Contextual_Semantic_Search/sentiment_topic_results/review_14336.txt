@@ -1,0 +1,1 @@
+{"text": "This Levi's Poor pants is Poor quality , fabric is very thick, hard, I buy for my son, he didn't feel like it.", "sentiment": "negative", "topics": {"0": "0.39921206", "1": "0.355871", "2": "0.010224375", "3": "0.010228594", "4": "0.010211527", "5": "0.010347773", "6": "0.20390466"}}

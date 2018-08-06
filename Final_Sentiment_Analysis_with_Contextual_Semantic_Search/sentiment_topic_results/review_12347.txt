@@ -1,0 +1,1 @@
+{"text": "The bill of the hat is too long, like the size of a baseball cap. Not feminine like I wanted.", "sentiment": "negative", "topics": {"0": "0.013003632", "1": "0.013011416", "2": "0.013017102", "3": "0.18661821", "4": "0.013041689", "5": "0.36943215", "6": "0.3918758"}}

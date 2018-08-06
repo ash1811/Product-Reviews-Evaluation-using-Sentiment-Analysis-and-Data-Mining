@@ -1,0 +1,1 @@
+{"text": "Firm.  Stylish.  Good quality.  Wear 9.5 but not available.  10 fits fine.  Feel good about this purchase.  Highly recommended.  Great for home, with shorts, ,boat.  Not sure about the beach since they're leather.", "sentiment": "negative", "topics": {"0": "0.24874286", "1": "0.35708305", "2": "0.17746952", "4": "0.15155222", "6": "0.053685118"}}

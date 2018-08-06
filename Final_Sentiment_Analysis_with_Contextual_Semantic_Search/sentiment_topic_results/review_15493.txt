@@ -1,0 +1,1 @@
+{"text": "A very good warm up jacket. Fits well. Always need to size down with dickies scrubs.  I would recommend this jacket. Affordable", "sentiment": "negative", "topics": {"1": "0.40825206", "2": "0.31167063", "3": "0.12672354", "6": "0.12473079"}}

@@ -1,0 +1,1 @@
+{"text": "Panty hose thin, seems to work well but not sure how long it will last. Make sure you keep it away from Velcro, it will snag and pull threads every time it gets within a foot of Velcro.", "sentiment": "negative", "topics": {"0": "0.1539127", "2": "0.3420339", "3": "0.2069699", "4": "0.17537825", "6": "0.109738894"}}

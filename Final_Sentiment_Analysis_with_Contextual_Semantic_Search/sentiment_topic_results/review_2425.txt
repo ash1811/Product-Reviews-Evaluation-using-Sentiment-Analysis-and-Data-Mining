@@ -1,0 +1,1 @@
+{"text": "These bikini's are very difficult to find in department stores, i.e., Wal-Mart, Ross, T.J. Max, etc.  Buying the Jockey brand thru Amazon makes it very simple and gas-savings for my car.  Thanks Amazon!", "sentiment": "negative", "topics": {"1": "0.102817275", "2": "0.24351247", "3": "0.11443896", "4": "0.10102092", "5": "0.31039634", "6": "0.12158624"}}

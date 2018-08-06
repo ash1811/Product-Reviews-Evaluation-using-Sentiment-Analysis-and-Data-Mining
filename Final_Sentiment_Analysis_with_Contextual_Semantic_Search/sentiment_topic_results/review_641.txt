@@ -1,0 +1,1 @@
+{"text": "I am having a hard time finding jeans that allow me to move more freely and not feel like they bind up and these are a decent pair of jeans. But I am still looking for a better pair.", "sentiment": "negative", "topics": {"0": "0.18318671", "3": "0.51134133", "5": "0.27363873"}}

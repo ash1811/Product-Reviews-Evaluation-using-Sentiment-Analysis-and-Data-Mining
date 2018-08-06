@@ -1,0 +1,1 @@
+{"text": "This is NOT a ski mask. It's more like a Halloween mask for a ninja outfit or something. Plus, it's hard to get on straight. Not recommended for anyone who needs a mask for winter weather.", "sentiment": "negative", "topics": {"0": "0.27989134", "1": "0.25482312", "2": "0.15380143", "3": "0.14302443", "6": "0.15339077"}}

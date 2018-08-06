@@ -1,0 +1,1 @@
+{"text": "I gave this as a gift for the daughter of a friend. I was not able to check the age requirement but it turns out, the gift was still a hit, especially the cellphone. This is a good buy.", "sentiment": "negative", "topics": {"0": "0.19990785", "1": "0.18388681", "2": "0.09384158", "3": "0.1341672", "4": "0.20669669", "5": "0.17354766"}}

@@ -1,0 +1,1 @@
+{"text": "these are VERY comfy and should last awhile given the  thickness of the sole and width of the top fabric", "sentiment": "positive", "topics": {"0": "0.014303975", "1": "0.014298746", "2": "0.014322077", "3": "0.47292376", "4": "0.17465375", "5": "0.29520583", "6": "0.014291853"}}

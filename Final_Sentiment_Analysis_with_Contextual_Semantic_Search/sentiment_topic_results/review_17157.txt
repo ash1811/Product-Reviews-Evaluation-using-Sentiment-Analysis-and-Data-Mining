@@ -1,0 +1,1 @@
+{"text": "i am really in love with this bag the color is beautiful and have a lot of pockets  wich is my mainproblem with other bags is spacious and the best part you can washed in the washer machineI love this bag that I want to buy another blue.", "sentiment": "negative", "topics": {"0": "0.13737015", "1": "0.52037644", "2": "0.06371263", "5": "0.25985762"}}

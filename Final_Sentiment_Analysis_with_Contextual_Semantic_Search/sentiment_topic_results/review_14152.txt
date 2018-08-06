@@ -1,0 +1,1 @@
+{"text": "Nice robe.  Not super-heavy, but still nice, heavy material, excellent length (long enough for someone near 6 feet tall).  Decent value.", "sentiment": "positive", "topics": {"0": "0.10155112", "1": "0.37049267", "2": "0.21511577", "4": "0.12431708", "6": "0.17342474"}}

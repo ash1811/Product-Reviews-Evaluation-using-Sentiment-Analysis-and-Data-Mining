@@ -1,0 +1,1 @@
+{"text": "I bought these and paid more than the others cost because they are the only ones who give you a size in inches. The rest to the &#34;small, medium, large&#34; bit.  I find the size varies on these between brands.", "sentiment": "negative", "topics": {"0": "0.07597074", "1": "0.1992494", "3": "0.5463921", "4": "0.1545021"}}

@@ -1,0 +1,1 @@
+{"text": "These fit my thin 4.5 year old daughter just fine.  Some tights are way too big on her and others don't seem long enough.  Neither was the case here.  They seem thicker than the tights I buy in Walmart or Target.  They wash up just fine.", "sentiment": "positive", "topics": {"1": "0.32056317", "2": "0.2860054", "4": "0.14499806", "5": "0.2319102"}}

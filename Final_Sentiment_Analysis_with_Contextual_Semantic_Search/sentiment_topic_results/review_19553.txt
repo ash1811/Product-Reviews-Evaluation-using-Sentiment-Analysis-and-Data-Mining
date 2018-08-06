@@ -1,0 +1,1 @@
+{"text": "Returned boots.  Not quite what I expected.  I did not care for lacing boot up.  Although, the boot was quite comfortable.", "sentiment": "positive", "topics": {"0": "0.10399521", "1": "0.42884657", "2": "0.011010424", "3": "0.0110575175", "4": "0.42308474", "5": "0.0109947305", "6": "0.011010787"}}

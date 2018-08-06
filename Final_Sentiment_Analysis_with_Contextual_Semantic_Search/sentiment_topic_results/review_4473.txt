@@ -1,0 +1,1 @@
+{"text": "I bought these for my son as a gift for Christmas.  I have seen them on and they look well on him.  Price point was good but  shipping took longer than expected.", "sentiment": "negative", "topics": {"0": "0.21826005", "1": "0.49292213", "4": "0.1346253", "6": "0.12734453"}}

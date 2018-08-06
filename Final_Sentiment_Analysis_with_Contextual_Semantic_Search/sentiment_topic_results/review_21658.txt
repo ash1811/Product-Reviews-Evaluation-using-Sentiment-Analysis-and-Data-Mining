@@ -1,0 +1,1 @@
+{"text": "The socks are great! I have similar socks by Smartwool and these are much thinner but still very durable and warm. Definitely recommended!!!", "sentiment": "positive", "topics": {"0": "0.10242903", "1": "0.33221096", "2": "0.10439102", "3": "0.14442961", "4": "0.10238366", "5": "0.20315431", "6": "0.011001418"}}

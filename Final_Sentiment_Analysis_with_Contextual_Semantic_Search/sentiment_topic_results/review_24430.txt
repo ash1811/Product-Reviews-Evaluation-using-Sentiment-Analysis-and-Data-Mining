@@ -1,0 +1,1 @@
+{"text": "Great Value! It was a really great and awesome hat and I couldn't find it any cheaper any where else.", "sentiment": "negative", "topics": {"0": "0.01433038", "1": "0.52378505", "2": "0.26521128", "3": "0.15365441", "4": "0.014360139", "5": "0.014367165", "6": "0.014291571"}}

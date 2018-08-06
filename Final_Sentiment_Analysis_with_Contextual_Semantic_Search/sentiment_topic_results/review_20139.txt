@@ -1,0 +1,1 @@
+{"text": "Missing eyeglass case like in picture.  Missing waist belt.  Not exactly like the second picture. .  If you do not need it, ok backpack.", "sentiment": "negative", "topics": {"0": "0.055315938", "1": "0.21397571", "2": "0.31849846", "3": "0.120071284", "5": "0.1420787", "6": "0.14162505"}}

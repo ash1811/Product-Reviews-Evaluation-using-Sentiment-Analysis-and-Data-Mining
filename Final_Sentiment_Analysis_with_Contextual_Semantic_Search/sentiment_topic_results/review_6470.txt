@@ -1,0 +1,1 @@
+{"text": "Great men's hiking socks ideal for moderate to hot climates on flat to varied terrain, Thorlo Men's Cool Max, Navy Heather size XL are Very Comfy!", "sentiment": "negative", "topics": {"0": "0.23230465", "1": "0.1518939", "2": "0.0956154", "3": "0.10060564", "5": "0.12925136", "6": "0.28350177"}}

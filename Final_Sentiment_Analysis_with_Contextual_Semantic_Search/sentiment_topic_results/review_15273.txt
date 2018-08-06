@@ -1,0 +1,1 @@
+{"text": "Speedy delivery but the sizes run large. I usually order a large in Dickies scrub tops and they fit very well but this scrub top was way toooooo big. Sizing needs to be changed", "sentiment": "positive", "topics": {"0": "0.14701262", "1": "0.2509751", "3": "0.4682228", "6": "0.11426671"}}

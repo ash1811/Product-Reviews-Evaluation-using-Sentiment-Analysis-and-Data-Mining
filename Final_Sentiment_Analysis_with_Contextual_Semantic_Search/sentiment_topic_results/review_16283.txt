@@ -1,0 +1,1 @@
+{"text": "Way to small, could not get them on with a shoe horn. That being said they are a very good., quality shoe/slipper. I am returning and will find a larger size.", "sentiment": "negative", "topics": {"1": "0.267836", "2": "0.09597557", "3": "0.29540902", "4": "0.31214905"}}

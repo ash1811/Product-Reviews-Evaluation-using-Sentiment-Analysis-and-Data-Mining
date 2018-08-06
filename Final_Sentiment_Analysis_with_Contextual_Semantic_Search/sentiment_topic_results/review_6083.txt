@@ -1,0 +1,1 @@
+{"text": "Very nice shoe. Excellent support ... one issue.  Added too much height to my 5'1&#34; frame!  I love it though.I highly recommend Jambu shoes.", "sentiment": "positive", "topics": {"0": "0.071400486", "2": "0.38834488", "3": "0.35075793", "5": "0.16561322"}}

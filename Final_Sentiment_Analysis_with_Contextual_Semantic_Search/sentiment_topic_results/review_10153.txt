@@ -1,0 +1,1 @@
+{"text": "It is good gift for girls. My wife is keep wearing this till now. Which means that it is not too bad! She is happy and I am happy too!", "sentiment": "positive", "topics": {"0": "0.44155148", "1": "0.27651557", "2": "0.010231823", "3": "0.010226375", "4": "0.010234242", "5": "0.13941582", "6": "0.11182467"}}

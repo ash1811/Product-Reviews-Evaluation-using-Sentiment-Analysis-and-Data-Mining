@@ -1,0 +1,1 @@
+{"text": "These boots are great. Durable & can be worn all the time. The color is awesome I hope they last all year long.", "sentiment": "negative", "topics": {"0": "0.011944314", "1": "0.62004954", "2": "0.0119109545", "3": "0.011934296", "4": "0.23426475", "5": "0.011969907", "6": "0.097926244"}}

@@ -1,0 +1,1 @@
+{"text": "New to Hanes hose, I am very pleased with the weight and cushioning of these; not at all thin or scratchy.", "sentiment": "negative", "topics": {"0": "0.28600046", "1": "0.2642784", "2": "0.014303898", "3": "0.12227489", "4": "0.014318578", "5": "0.1769801", "6": "0.12184371"}}

@@ -1,0 +1,1 @@
+{"text": "Quality was great . Good to run around in. Rind a little big other than that a good work out TEE...", "sentiment": "negative", "topics": {"0": "0.011004441", "1": "0.5958119", "2": "0.12590832", "3": "0.01108174", "4": "0.011043508", "5": "0.234148", "6": "0.011002096"}}

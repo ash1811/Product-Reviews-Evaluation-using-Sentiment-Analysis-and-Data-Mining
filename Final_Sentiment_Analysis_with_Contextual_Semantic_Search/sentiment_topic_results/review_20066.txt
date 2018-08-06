@@ -1,0 +1,1 @@
+{"text": "The High Sierra Fat Boy pack was just what I needed.  I looked in a lot of stores in my hometown and anything comparable was high priced; I was very happy to find what I needed for the price I thought right on Amazon.", "sentiment": "negative", "topics": {"0": "0.07108747", "1": "0.3438864", "2": "0.08827317", "3": "0.07630034", "4": "0.2655604", "6": "0.14836937"}}

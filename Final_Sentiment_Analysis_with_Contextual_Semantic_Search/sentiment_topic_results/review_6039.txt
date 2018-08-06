@@ -1,0 +1,1 @@
+{"text": "I love the Charming Charm Necklace.  I love all of the charms you can choose to put in the necklace. I purchased this assortment of crystals as I knew it would give the necklace just the right pop of color.", "sentiment": "positive", "topics": {"1": "0.22383918", "2": "0.13763091", "5": "0.36212635", "6": "0.25486603"}}

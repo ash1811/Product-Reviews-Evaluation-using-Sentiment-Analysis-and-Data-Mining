@@ -1,0 +1,1 @@
+{"text": "My husband couldn't even get his foot in-  his other Ugg slippers are the same size.  We think the ankle opening on this model is narrower than normal.  Otherwise this is a nice slipper.", "sentiment": "negative", "topics": {"0": "0.105987504", "1": "0.18044946", "4": "0.18082218", "5": "0.10092967", "6": "0.4158912"}}

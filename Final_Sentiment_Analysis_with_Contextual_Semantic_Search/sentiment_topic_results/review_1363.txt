@@ -1,0 +1,1 @@
+{"text": "Loved the shoe.  Didn't like the color.  I ordered the Green/Yellow ones instead.  Fit is great.  Love the arch support.  I have high arches and wide feet.  And I love that these shoes are really wide.", "sentiment": "negative", "topics": {"0": "0.077873334", "1": "0.3742566", "2": "0.22748767", "3": "0.24616016", "4": "0.06119988"}}

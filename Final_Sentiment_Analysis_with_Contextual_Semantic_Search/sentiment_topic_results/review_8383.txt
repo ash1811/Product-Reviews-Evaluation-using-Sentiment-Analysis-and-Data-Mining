@@ -1,0 +1,1 @@
+{"text": "Keeps my head nice and warm when riding my motorcycle to work during the coldest winter months.  Fits snug but not tight.", "sentiment": "negative", "topics": {"0": "0.010224174", "1": "0.7453463", "2": "0.10995201", "3": "0.010265548", "4": "0.01022878", "5": "0.010221052", "6": "0.10376215"}}

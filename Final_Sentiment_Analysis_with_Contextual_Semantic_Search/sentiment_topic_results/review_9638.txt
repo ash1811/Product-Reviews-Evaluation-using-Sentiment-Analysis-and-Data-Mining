@@ -1,0 +1,1 @@
+{"text": "for some reason I don't wear this is often as I thought.  It is very cute and works well.  The fabric band is nice too.  Have had for quite a while and it is still in good shape.", "sentiment": "negative", "topics": {"0": "0.1486983", "1": "0.22952695", "3": "0.43589184", "5": "0.15903184"}}

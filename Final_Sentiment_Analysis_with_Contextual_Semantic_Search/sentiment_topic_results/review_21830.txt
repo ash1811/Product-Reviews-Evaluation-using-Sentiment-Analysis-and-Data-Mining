@@ -1,0 +1,1 @@
+{"text": "My grandsons like this style brief. They wash and wear nicely and the colors are nice. I recommend them. I also purchased them in another size.", "sentiment": "negative", "topics": {"1": "0.5441088", "3": "0.1724277", "4": "0.24762353"}}

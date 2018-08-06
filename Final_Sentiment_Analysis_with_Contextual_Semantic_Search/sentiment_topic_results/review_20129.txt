@@ -1,0 +1,1 @@
+{"text": "Bought this for an outdoorsman friend of mine.  True story....raccoons hauled off his bag in the middle of the night.  I figured if the raccoons liked it so much there is something to be said in that!", "sentiment": "positive", "topics": {"1": "0.67777324", "4": "0.10608961", "5": "0.18433352"}}

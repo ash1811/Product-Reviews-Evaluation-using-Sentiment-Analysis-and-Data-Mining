@@ -1,0 +1,1 @@
+{"text": "The bra fit me but it has extra material where the nipples are. I've tried these kinds of bra's before and they are not smooth in that area. I don't get why they make bra's like these.", "sentiment": "positive", "topics": {"1": "0.36693427", "2": "0.16265315", "3": "0.43855047"}}

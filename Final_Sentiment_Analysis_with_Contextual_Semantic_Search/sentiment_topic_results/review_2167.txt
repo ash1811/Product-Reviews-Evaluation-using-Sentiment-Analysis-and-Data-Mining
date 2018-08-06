@@ -1,0 +1,1 @@
+{"text": "just love Skechers, great shoes. the bottom of the soul of the shoe feels like a work boot, but have the comfort of a shoes", "sentiment": "negative", "topics": {"0": "0.01023254", "1": "0.01024139", "2": "0.282594", "3": "0.13399608", "4": "0.25737384", "5": "0.16797242", "6": "0.13758974"}}

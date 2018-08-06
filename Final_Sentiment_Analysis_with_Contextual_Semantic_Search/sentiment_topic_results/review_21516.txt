@@ -1,0 +1,1 @@
+{"text": "If you are really into cats, or one of those crazy cat ladies, this is a shirt for you.  The colors are bold and keep their intensity through the wash.  My only issue is that the sizes of Mountain Tees run large.", "sentiment": "positive", "topics": {"0": "0.053041972", "1": "0.10759936", "3": "0.4760734", "4": "0.22309108", "5": "0.12587596"}}

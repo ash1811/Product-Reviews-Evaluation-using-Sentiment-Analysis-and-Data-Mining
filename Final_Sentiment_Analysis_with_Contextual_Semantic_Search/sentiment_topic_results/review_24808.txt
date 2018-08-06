@@ -1,0 +1,1 @@
+{"text": "these are no immatation, they are the real deal. they are well made and come clean with no dirt or marks on them whatsoever.", "sentiment": "negative", "topics": {"0": "0.013002557", "1": "0.50586665", "2": "0.21624751", "3": "0.13301097", "4": "0.0129951695", "5": "0.013007063", "6": "0.10587005"}}

@@ -1,0 +1,1 @@
+{"text": "I got three of these to use as merch bags for our band. We shoved cd's stickers, and other merch in there and walked around Austin during SXSW. Totally works for us. Plus the price is pretty good.", "sentiment": "negative", "topics": {"0": "0.2087561", "2": "0.13377945", "3": "0.18550467", "4": "0.1458198", "6": "0.31310102"}}

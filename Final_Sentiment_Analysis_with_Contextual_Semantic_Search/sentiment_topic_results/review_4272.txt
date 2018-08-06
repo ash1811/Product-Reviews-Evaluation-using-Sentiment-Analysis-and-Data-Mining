@@ -1,0 +1,1 @@
+{"text": "comfy, easy to wear no issues with laces :) and i can throw them in the washing machine and they look pretty again...i only wear tennis shoes to work but i love these", "sentiment": "negative", "topics": {"1": "0.17267226", "2": "0.16505115", "3": "0.39370248", "5": "0.14255895", "6": "0.109132275"}}

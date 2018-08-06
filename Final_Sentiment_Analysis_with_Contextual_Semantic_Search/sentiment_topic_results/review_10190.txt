@@ -1,0 +1,1 @@
+{"text": "I thought these were just beautiful.  They catch every bit of light and SPARKLE!  Very easy to order and arrived in lightening speed", "sentiment": "negative", "topics": {"0": "0.6132367", "1": "0.10938834", "2": "0.011001037", "3": "0.01103008", "4": "0.01102999", "5": "0.0110300025", "6": "0.23328385"}}

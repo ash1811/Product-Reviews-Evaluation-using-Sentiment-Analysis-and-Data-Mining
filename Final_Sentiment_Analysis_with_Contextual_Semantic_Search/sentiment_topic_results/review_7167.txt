@@ -1,0 +1,1 @@
+{"text": "had purchased as stocking stuffer for 20something daughter.  way too small, even for a 3rd set of ear piercings.  post too long and very soft. returned.", "sentiment": "negative", "topics": {"1": "0.35926548", "2": "0.14918415", "5": "0.24008754", "6": "0.22613965"}}

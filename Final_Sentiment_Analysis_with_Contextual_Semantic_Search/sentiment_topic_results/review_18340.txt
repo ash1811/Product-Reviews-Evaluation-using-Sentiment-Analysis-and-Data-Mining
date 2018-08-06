@@ -1,0 +1,1 @@
+{"text": "I didn't like these shoes. My son wears a 6, I ordered a 6.5, and the shoe opening is so small that I could barely even get the first half of his foot in. I'm returning these.", "sentiment": "positive", "topics": {"0": "0.19513106", "1": "0.09386038", "2": "0.15050203", "3": "0.2398375", "5": "0.30763462"}}

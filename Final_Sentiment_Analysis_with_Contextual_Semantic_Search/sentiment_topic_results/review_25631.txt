@@ -1,0 +1,1 @@
+{"text": "Good price, good comfort, average durability. Average looks. I would say you're getting a little more than you paid for", "sentiment": "negative", "topics": {"0": "0.010233897", "1": "0.6843342", "2": "0.095556185", "3": "0.010259598", "4": "0.010250357", "5": "0.010235105", "6": "0.17913063"}}

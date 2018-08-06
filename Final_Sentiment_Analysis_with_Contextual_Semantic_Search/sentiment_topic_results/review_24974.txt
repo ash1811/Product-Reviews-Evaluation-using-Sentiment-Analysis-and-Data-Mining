@@ -1,0 +1,1 @@
+{"text": "This insole is very supportive but does not have the cushioning i need.  I was looking for both cushion and support.  If you want support only this is the one.", "sentiment": "negative", "topics": {"0": "0.01300331", "1": "0.013018709", "2": "0.41907537", "3": "0.4083729", "4": "0.013038381", "5": "0.013143179", "6": "0.12034812"}}

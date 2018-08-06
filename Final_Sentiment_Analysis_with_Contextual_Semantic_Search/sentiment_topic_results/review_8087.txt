@@ -1,0 +1,1 @@
+{"text": "comgortabler, affordable, light weight, shipping was good, style isnt bad, I really like the slip-on effectaltho I was hoping for a darker shade, it's a medium shade and it works fine, im thinking of purchasing the black ones next.", "sentiment": "positive", "topics": {"0": "0.15628968", "1": "0.31033692", "2": "0.23160525", "4": "0.16995622", "6": "0.121191174"}}

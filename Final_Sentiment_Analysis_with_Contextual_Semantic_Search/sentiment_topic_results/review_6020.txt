@@ -1,0 +1,1 @@
+{"text": "It feels very soft. It's the right length. The quality is good for the price. I would definitely recommend it.", "sentiment": "negative", "topics": {"0": "0.3120325", "1": "0.44110096", "2": "0.011924513", "3": "0.19913514", "4": "0.011934827", "5": "0.011928092", "6": "0.011943999"}}

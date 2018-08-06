@@ -1,0 +1,1 @@
+{"text": "This is a great watch, although I had to return it because the numbers were too small to read (for me), so I ordered another Timex watch with larger numbers and I feel very happy now.  Thank you kindly! &#8730;&#8730;&#8730;", "sentiment": "positive", "topics": {"0": "0.104941435", "1": "0.16534346", "2": "0.31453478", "3": "0.085199825", "6": "0.3169537"}}

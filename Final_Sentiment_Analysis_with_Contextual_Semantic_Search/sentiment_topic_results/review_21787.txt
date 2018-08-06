@@ -1,0 +1,1 @@
+{"text": "Used this bag for a toiletry while in the hospital for 4 days.  It was Perfect!!!Bag delivered promptly.  Highly recommend product and buyer!!Thank you!!!", "sentiment": "negative", "topics": {"1": "0.2985714", "2": "0.09603715", "4": "0.23606999", "5": "0.22683735", "6": "0.12335937"}}

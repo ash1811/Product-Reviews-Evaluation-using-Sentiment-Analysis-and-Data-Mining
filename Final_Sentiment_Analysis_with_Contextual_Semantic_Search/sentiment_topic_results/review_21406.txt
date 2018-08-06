@@ -1,0 +1,1 @@
+{"text": "My husband is very fussy about his jeans and loves the Izod product.  They fit and look great on him.", "sentiment": "negative", "topics": {"0": "0.013012507", "1": "0.44827262", "2": "0.013020677", "3": "0.0130017195", "4": "0.28936636", "5": "0.21033777", "6": "0.012988353"}}

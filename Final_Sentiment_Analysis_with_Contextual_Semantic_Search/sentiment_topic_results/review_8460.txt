@@ -1,0 +1,1 @@
+{"text": "Fit great! Super cheap! I'm not heartbroken when they get torn to shreds. ;-)I've thrown these in the washer and dryer and they hold up well. They are really sexy too!!", "sentiment": "negative", "topics": {"1": "0.2996362", "3": "0.24497052", "4": "0.06100152", "5": "0.37174696"}}

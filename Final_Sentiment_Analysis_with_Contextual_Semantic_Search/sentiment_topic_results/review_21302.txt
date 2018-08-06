@@ -1,0 +1,1 @@
+{"text": "Sturdy, secure shoe can be worn in water and out.  Love the color and construction.  Amazed how stabilizing the design is for sure footing!", "sentiment": "negative", "topics": {"0": "0.23903942", "1": "0.17900437", "2": "0.27321732", "3": "0.20728058", "6": "0.08231478"}}

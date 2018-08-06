@@ -1,0 +1,1 @@
+{"text": "This is a nice watch.  collect watches and it is one of my favorites.  it is comfortable and I really like that it is self winding.", "sentiment": "negative", "topics": {"0": "0.0119243665", "1": "0.32764873", "2": "0.5050733", "3": "0.011929113", "4": "0.011923187", "5": "0.011945654", "6": "0.11955563"}}

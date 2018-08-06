@@ -1,0 +1,1 @@
+{"text": "I normally order a 10N but this is a little long.  So, I'm returning it and trying the 9.5N.It's a gorgeous shoe in such a classic style that I hope to wear it for years.  Prettier than the product photo.  And an amazing price!", "sentiment": "negative", "topics": {"0": "0.17878121", "2": "0.122924775", "3": "0.3682873", "4": "0.22165616", "5": "0.0958928"}}

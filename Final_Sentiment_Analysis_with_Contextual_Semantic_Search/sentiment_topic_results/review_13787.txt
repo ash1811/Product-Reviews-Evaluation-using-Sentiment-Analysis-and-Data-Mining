@@ -1,0 +1,1 @@
+{"text": "The flip-flop is comfy, but they run very small, and are thinner than expected, so get one size larger than regular.", "sentiment": "negative", "topics": {"0": "0.0119235255", "1": "0.011939365", "2": "0.011955627", "3": "0.42773518", "4": "0.40549898", "5": "0.11901004", "6": "0.011937304"}}

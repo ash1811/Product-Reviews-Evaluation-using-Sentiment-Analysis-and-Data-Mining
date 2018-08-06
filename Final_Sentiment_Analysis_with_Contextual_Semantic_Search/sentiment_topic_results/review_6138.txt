@@ -1,0 +1,1 @@
+{"text": "These fit just fine on my two month old. The material is great, a nice thick cotton. Kept her quite cool! Worth it.", "sentiment": "negative", "topics": {"1": "0.58956796", "2": "0.113501295", "3": "0.085429914", "5": "0.18463138"}}

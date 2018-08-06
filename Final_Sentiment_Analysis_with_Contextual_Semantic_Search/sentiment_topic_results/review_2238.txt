@@ -1,0 +1,1 @@
+{"text": "This is my third pair of Sketchers work shoes.....all have been great. Makes going to work more tolerable since my feet don't hurt even after 8 hour days.", "sentiment": "negative", "topics": {"1": "0.37909058", "3": "0.13798925", "5": "0.26957268", "6": "0.18942031"}}

@@ -1,0 +1,1 @@
+{"text": "This is exactly as pictured and my grandson is very happy with how it is easy for him to get on and off.", "sentiment": "negative", "topics": {"0": "0.27469933", "1": "0.017893938", "2": "0.017908277", "3": "0.0179663", "4": "0.47376812", "5": "0.17982416", "6": "0.017939858"}}

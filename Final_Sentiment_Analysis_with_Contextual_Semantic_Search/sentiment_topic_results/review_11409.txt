@@ -1,0 +1,1 @@
+{"text": "I ordered a polo not a Tee shirt, but what the hell it is nice and comfy, the right color too.  Now I need to find a pair of socks to match.  I like to be color coordinated with my shirts.", "sentiment": "negative", "topics": {"1": "0.4422979", "2": "0.18747285", "5": "0.25290743", "6": "0.09579326"}}

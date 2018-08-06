@@ -1,0 +1,1 @@
+{"text": "I love these slippers.  Unfortunately on the first pair I had, the stitching came out on both slippers on the insides of the pair.  I reordered & returned that pair, and the 2nd pair I have seem to be great.", "sentiment": "negative", "topics": {"0": "0.11249504", "1": "0.11486307", "2": "0.07728951", "4": "0.5303394", "6": "0.1499213"}}

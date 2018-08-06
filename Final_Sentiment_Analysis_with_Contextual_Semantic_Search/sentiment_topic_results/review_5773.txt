@@ -1,0 +1,1 @@
+{"text": "My husband is very specific about which undershirts he likes.  He likes the pocket on the shirt ,  Likes the length of the shirt(long).", "sentiment": "positive", "topics": {"0": "0.11933503", "1": "0.14836775", "2": "0.01300155", "3": "0.012996894", "4": "0.10827084", "5": "0.013002753", "6": "0.5850252"}}

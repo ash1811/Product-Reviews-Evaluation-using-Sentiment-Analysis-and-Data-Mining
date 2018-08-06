@@ -1,0 +1,1 @@
+{"text": "Quality of sawing could be better. True to sizing. Colors are fine.  It's okay, it's just underwear, no big deal.", "sentiment": "negative", "topics": {"0": "0.011003038", "1": "0.4512205", "2": "0.10898949", "3": "0.3957472", "4": "0.011008158", "5": "0.011006021", "6": "0.011025571"}}

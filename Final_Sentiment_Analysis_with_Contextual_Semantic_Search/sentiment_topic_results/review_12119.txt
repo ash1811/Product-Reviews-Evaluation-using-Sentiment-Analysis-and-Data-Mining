@@ -1,0 +1,1 @@
+{"text": "These are the finest quality shorts we've found.  Just the right length and durability.  The fabric is not like the winter and work material but a sharp new style. I highly recommend.", "sentiment": "positive", "topics": {"0": "0.112679645", "1": "0.262779", "2": "0.14763437", "3": "0.10187808", "5": "0.25823104", "6": "0.109248325"}}

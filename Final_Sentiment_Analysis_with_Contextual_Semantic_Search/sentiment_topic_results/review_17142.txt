@@ -1,0 +1,1 @@
+{"text": "I only wish it were two inches longer&#8230;.but it's so perfect, and replaces one like it.  I like the features.", "sentiment": "negative", "topics": {"0": "0.011937785", "1": "0.011957456", "2": "0.51173556", "3": "0.011939135", "4": "0.13626291", "5": "0.11250747", "6": "0.20365971"}}

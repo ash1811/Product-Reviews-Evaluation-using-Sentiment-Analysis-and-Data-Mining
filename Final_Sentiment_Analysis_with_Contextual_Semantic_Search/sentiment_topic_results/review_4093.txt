@@ -1,0 +1,1 @@
+{"text": "and versatile - can be worn many different ways.  The top doesn't reach the skirt so if chilly, wear a black tank top to cover bare parts.  lol  The price was definitely right.", "sentiment": "negative", "topics": {"1": "0.09622769", "2": "0.06335417", "3": "0.33738503", "4": "0.3097788", "6": "0.17961447"}}

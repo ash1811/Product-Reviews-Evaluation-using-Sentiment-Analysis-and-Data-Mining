@@ -1,0 +1,1 @@
+{"text": "theses fit perfectly and are made very wellthey could be much better with a more comfy insoleand a few days are needed to break in the stiff leather", "sentiment": "negative", "topics": {"1": "0.31930497", "2": "0.14006573", "3": "0.38285396", "5": "0.13091761"}}

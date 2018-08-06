@@ -1,0 +1,1 @@
+{"text": "Excellent product as always Birkenstock always is.  Bought for my son.  We prefer the birkibuc as the leather stretches too easily.  Taupe color is perfect as is the fit.  Highly recommended.", "sentiment": "positive", "topics": {"0": "0.0964283", "1": "0.41672444", "2": "0.2540712", "3": "0.04278951", "5": "0.11396356", "6": "0.06885391"}}

@@ -1,0 +1,1 @@
+{"text": "These pants are great! I would say Cherokee runs bigger in this style so order a size down. Also they shipped very Fast!", "sentiment": "positive", "topics": {"0": "0.27143428", "1": "0.11333285", "3": "0.24429372", "4": "0.16102259", "5": "0.11170488", "6": "0.08866286"}}

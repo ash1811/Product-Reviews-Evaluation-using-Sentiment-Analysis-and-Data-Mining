@@ -1,0 +1,1 @@
+{"text": "Comfortable, durable, extra soft, and cozy.  I am confused as to why they are unavailable.  It's a pity.  I would have bought this style for all female family members.", "sentiment": "negative", "topics": {"1": "0.53902286", "2": "0.08800244", "3": "0.2283222", "6": "0.115960106"}}

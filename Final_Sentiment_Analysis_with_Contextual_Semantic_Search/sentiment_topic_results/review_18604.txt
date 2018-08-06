@@ -1,0 +1,1 @@
+{"text": "This garter and long is sweet and delectable.. Ilove the fact that i can wear it with multiple teddys...  My boyfriend thought it was hot..I was even ablt to attach knee high socks to the garter....delicious.....", "sentiment": "positive", "topics": {"1": "0.090655774", "2": "0.06697805", "3": "0.08899741", "4": "0.28721902", "5": "0.32513613", "6": "0.13385443"}}

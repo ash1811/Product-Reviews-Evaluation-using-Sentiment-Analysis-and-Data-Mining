@@ -1,0 +1,1 @@
+{"text": "medium is baggy on a lean frame, material is a bit coarse, nothing special here. Spend a few more bucks and get a good shirt.", "sentiment": "negative", "topics": {"2": "0.19187687", "4": "0.09121711", "5": "0.6810169"}}

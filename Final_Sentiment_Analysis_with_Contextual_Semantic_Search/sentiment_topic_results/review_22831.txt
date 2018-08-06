@@ -1,0 +1,1 @@
+{"text": "Love these they  go good with all my blue turquoise Jewelry love them they can be worn dressy or every day outfits , I guess it is the Indian in me , Good quality ! Thank You", "sentiment": "positive", "topics": {"1": "0.3707193", "2": "0.027034756", "4": "0.29026204", "5": "0.09735215", "6": "0.19872168"}}

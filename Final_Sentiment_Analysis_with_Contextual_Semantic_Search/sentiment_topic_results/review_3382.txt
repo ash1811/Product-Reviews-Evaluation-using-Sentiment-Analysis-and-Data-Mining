@@ -1,0 +1,1 @@
+{"text": "I like the color because it's less conspicuous if a strap is showing, but either the cup sizing is generous or I've overestimated my &#34;runneth over&#34; ability, which is entirely possible.", "sentiment": "negative", "topics": {"1": "0.20151551", "2": "0.09001084", "3": "0.082356766", "4": "0.32711452", "6": "0.2831001"}}

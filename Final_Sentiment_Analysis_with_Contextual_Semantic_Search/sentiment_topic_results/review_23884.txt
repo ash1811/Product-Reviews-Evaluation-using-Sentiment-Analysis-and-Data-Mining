@@ -1,0 +1,1 @@
+{"text": "Too little of everything.  Too high a price.  Never again, Lee.  Not sure what size chart you are using, but...", "sentiment": "negative", "topics": {"0": "0.094191186", "1": "0.011034251", "2": "0.26539344", "3": "0.011046123", "4": "0.33192354", "5": "0.011029813", "6": "0.27538165"}}

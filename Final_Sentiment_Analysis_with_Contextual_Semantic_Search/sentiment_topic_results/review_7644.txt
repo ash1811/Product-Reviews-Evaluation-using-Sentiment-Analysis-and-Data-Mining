@@ -1,0 +1,1 @@
+{"text": "if you're a 38C as I am, forget it!  Total waste of money, for something that only covers your breast nipples.", "sentiment": "positive", "topics": {"0": "0.13760345", "1": "0.3466421", "2": "0.11427975", "3": "0.011968012", "4": "0.011936034", "5": "0.011949395", "6": "0.36562124"}}

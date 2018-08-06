@@ -1,0 +1,1 @@
+{"text": "yes these pants fit wellhusband has true slim build...the length worked also; we ordered hoping the size description was accurate, and it is.", "sentiment": "negative", "topics": {"1": "0.21108855", "2": "0.22593132", "4": "0.16190183", "5": "0.074780144", "6": "0.3094472"}}

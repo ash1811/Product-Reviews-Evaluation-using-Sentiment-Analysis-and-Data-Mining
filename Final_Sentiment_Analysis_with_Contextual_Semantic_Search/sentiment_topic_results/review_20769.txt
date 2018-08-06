@@ -1,0 +1,1 @@
+{"text": "I have a few other army surplus belts of this type and the belt material is less substantial. Perhaps with use this belt will aquire the same feel as my older belts but for the price I think it is well built and a great value.", "sentiment": "negative", "topics": {"1": "0.4208765", "2": "0.27303413", "3": "0.0727671", "4": "0.090652935", "6": "0.12962359"}}

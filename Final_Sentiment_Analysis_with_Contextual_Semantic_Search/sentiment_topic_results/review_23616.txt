@@ -1,0 +1,1 @@
+{"text": "I bought this for my grand daughter's birthday.  It is very well made and I know she will love it when she sees it.  I took the advice of others and bought the underskirt to make it puff out a little more.  The price was reasonable, too.", "sentiment": "negative", "topics": {"0": "0.34203246", "1": "0.17631748", "2": "0.15281782", "3": "0.25971928", "4": "0.056639936"}}

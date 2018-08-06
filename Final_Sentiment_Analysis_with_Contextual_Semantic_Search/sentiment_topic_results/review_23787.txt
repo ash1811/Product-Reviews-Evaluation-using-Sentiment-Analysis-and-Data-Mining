@@ -1,0 +1,1 @@
+{"text": "Very good quality product, unfortunatelly the size of the shoe was too small for me because of the diference in USA. Nevertheless this are good shoes", "sentiment": "positive", "topics": {"0": "0.26354", "1": "0.24856506", "2": "0.19039506", "3": "0.011037467", "4": "0.011053045", "5": "0.11056965", "6": "0.16483967"}}

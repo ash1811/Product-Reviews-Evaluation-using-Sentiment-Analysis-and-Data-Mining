@@ -1,0 +1,1 @@
+{"text": "I have several pair of these.  They are very thin and very soft.  The legs do tend to ride a bit but they are so thin you barely notice.  They hold everything &#34;in place&#34; well and are nice enough for evening or day wear.", "sentiment": "negative", "topics": {"0": "0.2052261", "1": "0.35850984", "2": "0.15222178", "3": "0.15013927", "5": "0.1214553"}}

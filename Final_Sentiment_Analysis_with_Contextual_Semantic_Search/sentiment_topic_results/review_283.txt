@@ -1,0 +1,1 @@
+{"text": "These things are about 5 sizes too huge. You could literally fit 3 people inside of these shorts. La la la", "sentiment": "negative", "topics": {"0": "0.10717249", "1": "0.503479", "3": "0.3511562"}}

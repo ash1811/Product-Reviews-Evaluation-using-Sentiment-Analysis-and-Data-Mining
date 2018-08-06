@@ -1,0 +1,1 @@
+{"text": "Fit nice, has held up well....holding it's shape after many washes.  Good price also.  Would order them again as my husband likes them.", "sentiment": "positive", "topics": {"0": "0.0949922", "1": "0.3780491", "3": "0.117725305", "4": "0.27604496", "5": "0.1152672"}}

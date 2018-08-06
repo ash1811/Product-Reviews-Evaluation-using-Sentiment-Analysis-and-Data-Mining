@@ -1,0 +1,1 @@
+{"text": "My Wife love it.She looks beautiful, elegant and SexyWe are really happy with this product but they are a little tiny.We recommended to buy the product because to be totally honest , is beautiful  !!!!", "sentiment": "positive", "topics": {"0": "0.27387226", "1": "0.116838515", "2": "0.20598742", "4": "0.09522647", "5": "0.23313193", "6": "0.06740921"}}

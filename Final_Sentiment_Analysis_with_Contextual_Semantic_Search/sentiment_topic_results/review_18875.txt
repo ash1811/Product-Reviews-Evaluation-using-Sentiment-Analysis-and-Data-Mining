@@ -1,0 +1,1 @@
+{"text": "the pants are good, they feel good, I ordered 34x32, they do not fit like they supposed to, but that was my fault I guess, cause I was going to order 32x32 wich is my sized in most pants, other than that they look great, I will order other colors", "sentiment": "negative", "topics": {"0": "0.18403144", "1": "0.4810668", "2": "0.24310224", "4": "0.0738962"}}

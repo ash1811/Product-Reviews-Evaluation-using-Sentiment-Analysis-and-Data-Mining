@@ -1,0 +1,1 @@
+{"text": "I was looking for a reasonably-priced pair of black, relaxed-fit jeans and found exactly what I wanted.  Wrangler jeans are well-made, durable and have a consistent fit.  They are comfortable and wear well.  I couldn't be more satisfied.", "sentiment": "negative", "topics": {"0": "0.15804407", "1": "0.3173792", "3": "0.41813087", "4": "0.08485412"}}

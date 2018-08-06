@@ -1,0 +1,1 @@
+{"text": "This is the only type of shirt besides T shirts my husband wears. Sometimes these shirts can be stiff. This one is nice and soft and fits him well. I don't even need to iron it.", "sentiment": "negative", "topics": {"1": "0.40373448", "2": "0.25679", "4": "0.08172415", "5": "0.16048281", "6": "0.08216902"}}

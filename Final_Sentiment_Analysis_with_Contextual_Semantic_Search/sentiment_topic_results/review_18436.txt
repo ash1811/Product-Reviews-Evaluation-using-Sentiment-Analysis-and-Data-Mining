@@ -1,0 +1,1 @@
+{"text": "Received these last night and was quite pleased. They are soft and quite warm and they fit my calves very well without sliding down. Keep in mind that if your calves are larger they may be too tight. Nice value for the money", "sentiment": "positive", "topics": {"1": "0.48835865", "3": "0.23313029", "5": "0.2546345"}}

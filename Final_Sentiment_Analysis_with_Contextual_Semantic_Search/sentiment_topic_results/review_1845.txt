@@ -1,0 +1,1 @@
+{"text": "it  is  okey.I bought it for my mother in law.i think she don't like it.hehe may be I will not buy shoes online", "sentiment": "negative", "topics": {"0": "0.011915755", "1": "0.43079528", "2": "0.10659353", "3": "0.011940659", "4": "0.19339235", "5": "0.0119656855", "6": "0.23339677"}}

@@ -1,0 +1,1 @@
+{"text": "This is my 5th pair of these sneakers.  I buy new ones ever year.  They hold up great and are so comfortable.", "sentiment": "negative", "topics": {"0": "0.011970443", "1": "0.4658667", "2": "0.012006652", "3": "0.37086773", "4": "0.011956409", "5": "0.11541089", "6": "0.011921134"}}

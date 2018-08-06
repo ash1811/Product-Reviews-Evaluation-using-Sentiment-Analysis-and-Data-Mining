@@ -1,0 +1,1 @@
+{"text": "These jeans fit perfect. The color, stitching, denim, and fit of these jeans is really nice. They don't come with a zipper but a button.", "sentiment": "negative", "topics": {"0": "0.010230511", "1": "0.62918013", "2": "0.010235167", "3": "0.010225465", "4": "0.01026958", "5": "0.23034535", "6": "0.09951382"}}

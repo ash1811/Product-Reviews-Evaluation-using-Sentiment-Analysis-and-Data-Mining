@@ -1,0 +1,1 @@
+{"text": "Order a size smaller. As many commentators have mentioned, it truly is a great product, but it runs small. A little chunky, but it does its job.", "sentiment": "negative", "topics": {"1": "0.118191175", "3": "0.28367433", "4": "0.23749962", "5": "0.33193812"}}

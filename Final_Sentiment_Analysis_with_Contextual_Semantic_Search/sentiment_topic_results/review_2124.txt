@@ -1,0 +1,1 @@
+{"text": "I love dickies, I have been wearing them for years now, and they are probably my favorite pants and shorts, this was a very vibrant cool green color!! Love them!!!", "sentiment": "negative", "topics": {"0": "0.19666685", "1": "0.51597434", "2": "0.25147706"}}

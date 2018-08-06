@@ -1,0 +1,1 @@
+{"text": "Like it a lot. Skagen watches are a cool alternative to the normal. People will notice it for sure. Have had no issue with it.", "sentiment": "negative", "topics": {"0": "0.32264736", "1": "0.18965928", "2": "0.44355738", "3": "0.011003633", "4": "0.011000056", "5": "0.011083731", "6": "0.011048587"}}

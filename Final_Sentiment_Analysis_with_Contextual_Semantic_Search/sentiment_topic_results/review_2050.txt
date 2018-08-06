@@ -1,0 +1,1 @@
+{"text": "Outstanding shoe!  Comfortable and stylish.  I will purchase again.  Great for summer fun whether relaxing on the deck or going out and about.", "sentiment": "positive", "topics": {"1": "0.2716467", "2": "0.13072918", "4": "0.24211939", "5": "0.24064702", "6": "0.09575128"}}

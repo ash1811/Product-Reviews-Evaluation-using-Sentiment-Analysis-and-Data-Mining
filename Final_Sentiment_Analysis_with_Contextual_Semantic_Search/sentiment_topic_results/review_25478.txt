@@ -1,0 +1,1 @@
+{"text": "Very convenient way to store all the survival essentials plus extra ammo - cannot beat this, especially for the price Amazon offers it. Sturdy, great for any situation.", "sentiment": "negative", "topics": {"0": "0.23237164", "1": "0.20825887", "3": "0.1525693", "4": "0.31740496", "6": "0.07503"}}

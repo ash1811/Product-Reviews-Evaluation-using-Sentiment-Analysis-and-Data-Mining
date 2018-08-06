@@ -1,0 +1,1 @@
+{"text": "When the bag for my tent started falling apart I bought this to replace it and this bag is nice. The seams are sewn well and you can tell it is very good quality. Would recommend.", "sentiment": "positive", "topics": {"1": "0.54334825", "3": "0.060554564", "4": "0.14145347", "5": "0.23074457"}}

@@ -1,0 +1,1 @@
+{"text": "My husband looks good in these jeans and they are true to size.  The quality and style holds true to the Lee's name.Amazon's Prime arrival  of within 2 days is GREAT!!!", "sentiment": "negative", "topics": {"0": "0.2192634", "1": "0.27813172", "3": "0.24448732", "4": "0.16175036", "6": "0.08127973"}}

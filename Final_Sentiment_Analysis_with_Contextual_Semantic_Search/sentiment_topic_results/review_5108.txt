@@ -1,0 +1,1 @@
+{"text": "Giorgio Brutini: A master of design. The slip-on is a magnificent product. Excellent quality. Elegant and very comfortable. Buy it!!", "sentiment": "negative", "topics": {"0": "0.21831189", "1": "0.32517168", "2": "0.10087032", "3": "0.105936505", "4": "0.08115033", "5": "0.085526444", "6": "0.08303282"}}

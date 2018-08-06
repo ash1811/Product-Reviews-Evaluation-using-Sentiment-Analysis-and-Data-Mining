@@ -1,0 +1,1 @@
+{"text": "I receive it on the date I expected. The product has an excelent quality, beautiful colors, fits perfectly and i will reccomend it. But one of them was size 8", "sentiment": "positive", "topics": {"0": "0.15020898", "1": "0.5211413", "3": "0.17330362", "5": "0.12839179"}}

@@ -1,0 +1,1 @@
+{"text": "This is a classic style done well by a classic brand.  I enjoyed these shoes a lot.  Very comfortable.", "sentiment": "positive", "topics": {"0": "0.013033858", "1": "0.25041732", "2": "0.5772323", "3": "0.120142035", "4": "0.013116821", "5": "0.013059051", "6": "0.01299867"}}

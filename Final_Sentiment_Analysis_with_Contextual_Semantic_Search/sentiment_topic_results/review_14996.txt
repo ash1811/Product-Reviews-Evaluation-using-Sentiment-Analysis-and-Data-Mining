@@ -1,0 +1,1 @@
+{"text": "My son had gone through several other hats in a matter of months, they would crack and break.  This hat is made of very sturdy material and has held up much better.  He loves it.", "sentiment": "negative", "topics": {"1": "0.37531", "3": "0.34362602", "4": "0.14421862", "5": "0.11422036"}}

@@ -1,0 +1,1 @@
+{"text": "my cousin was happy with his running shoe! if he's happy, im happy.. it fit him perfect I most say", "sentiment": "negative", "topics": {"0": "0.011938456", "1": "0.39704275", "2": "0.14524366", "3": "0.011926001", "4": "0.011953681", "5": "0.29387262", "6": "0.12802278"}}

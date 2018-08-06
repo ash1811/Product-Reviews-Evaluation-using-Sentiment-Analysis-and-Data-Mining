@@ -1,0 +1,1 @@
+{"text": "I found that these caused irritation to my sensitive skin; I found the use of the silicone composition product work much better.", "sentiment": "positive", "topics": {"0": "0.107810974", "1": "0.20663546", "2": "0.21639523", "3": "0.01025739", "4": "0.010252078", "5": "0.4384288", "6": "0.010220081"}}

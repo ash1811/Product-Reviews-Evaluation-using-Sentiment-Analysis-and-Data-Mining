@@ -1,0 +1,1 @@
+{"text": "Very nice looking shoes, but I had to return them.  They are double wide, but not wide enough for me.", "sentiment": "positive", "topics": {"0": "0.01300334", "1": "0.4580065", "2": "0.3963373", "3": "0.013041503", "4": "0.013033464", "5": "0.013029003", "6": "0.0935489"}}

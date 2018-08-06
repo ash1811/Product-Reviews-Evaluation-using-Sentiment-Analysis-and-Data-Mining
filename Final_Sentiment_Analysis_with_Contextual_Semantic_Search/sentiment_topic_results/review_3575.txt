@@ -1,0 +1,1 @@
+{"text": "This bra is very comfortable and supportive for us larger gals.  I have a size 36 D and this bra really keeps things up where they belong!", "sentiment": "positive", "topics": {"0": "0.01025725", "1": "0.14046481", "2": "0.1573539", "3": "0.58217573", "4": "0.010239071", "5": "0.010224435", "6": "0.089284785"}}

@@ -1,0 +1,1 @@
+{"text": "Comfortable fit and does a good job at supporting without digging in like underwire types.  May have to order a size up (not cup) as it tends to run a little small around.", "sentiment": "negative", "topics": {"0": "0.0970902", "1": "0.55105084", "2": "0.13118719", "6": "0.20018278"}}

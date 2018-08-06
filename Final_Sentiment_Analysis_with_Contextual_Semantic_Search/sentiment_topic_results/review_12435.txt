@@ -1,0 +1,1 @@
+{"text": "Great and comfortable flip flops. Great for summer. I love how comfortable they are. I wear a size 7 1/2 but I got these in a size 8 and they fit great. I highly recommend!", "sentiment": "negative", "topics": {"1": "0.5736882", "2": "0.13295229", "3": "0.17249097", "6": "0.10037553"}}

@@ -1,0 +1,1 @@
+{"text": "The boots are comfortable,  while there is a zipper on the side you can still tighten or loosen the shoe laces that run all the way from the foot to the top of the boot. Not leather, but an excellent deal!", "sentiment": "negative", "topics": {"1": "0.08646713", "2": "0.3421747", "3": "0.25967067", "4": "0.23745744", "6": "0.05832896"}}

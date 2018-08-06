@@ -1,0 +1,1 @@
+{"text": "the battery stopped after only a few months and time and date is off. face is small but heavier than it looks", "sentiment": "negative", "topics": {"0": "0.5637526", "1": "0.20300688", "2": "0.013082588", "3": "0.013023529", "4": "0.013022392", "5": "0.18110348", "6": "0.013008579"}}

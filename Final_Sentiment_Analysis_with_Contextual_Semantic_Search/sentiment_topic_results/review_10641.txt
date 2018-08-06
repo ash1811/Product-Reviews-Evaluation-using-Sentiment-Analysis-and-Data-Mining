@@ -1,0 +1,1 @@
+{"text": "I give them an \"F\".......for FABULOUS !!  They are well made, are clear cut and sparkle.  I have ordered many things from this company and have NEVER been disappointed.", "sentiment": "negative", "topics": {"0": "0.19568527", "1": "0.4944664", "2": "0.09592831", "3": "0.115707", "4": "0.07913503"}}

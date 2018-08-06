@@ -1,0 +1,1 @@
+{"text": "It came as expected. I wasn't too picky, just needed them for a doctor costume. After one wash, I don't think they will be around for that long but, they serve their one purpose.", "sentiment": "positive", "topics": {"0": "0.21703221", "1": "0.14233615", "2": "0.37537012", "3": "0.08937481", "5": "0.1579554"}}

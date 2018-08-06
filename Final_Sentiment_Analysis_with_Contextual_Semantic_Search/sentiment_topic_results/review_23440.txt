@@ -1,0 +1,1 @@
+{"text": "My feet are really flat & long so the women's don't fit was well as the men's. Only thing I don't like is the stains from the color being so light when your feet sweat", "sentiment": "negative", "topics": {"0": "0.12208356", "1": "0.6396296", "4": "0.20249645"}}

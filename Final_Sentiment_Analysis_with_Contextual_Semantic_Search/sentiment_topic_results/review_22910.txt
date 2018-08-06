@@ -1,0 +1,1 @@
+{"text": "Lightweight and very comfortable. The holes let the shorts air out well and keep your legs dry. Shorts do a decent job at keeping the sweat odor down. Not much else to say, can't go wrong with a classic short design.", "sentiment": "negative", "topics": {"0": "0.1833861", "1": "0.22630641", "2": "0.28039977", "4": "0.10566403", "5": "0.07437783", "6": "0.1245505"}}

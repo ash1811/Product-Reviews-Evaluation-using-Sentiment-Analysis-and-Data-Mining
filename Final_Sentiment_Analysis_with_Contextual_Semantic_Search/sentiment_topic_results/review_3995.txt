@@ -1,0 +1,1 @@
+{"text": "Gads, how much can I say about a product when it is practically perfect, AND what I expected??  They're comfy!", "sentiment": "negative", "topics": {"0": "0.01430147", "1": "0.23094518", "2": "0.21478052", "3": "0.014340596", "4": "0.014385974", "5": "0.3770197", "6": "0.13422659"}}

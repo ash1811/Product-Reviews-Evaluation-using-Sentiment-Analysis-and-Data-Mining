@@ -1,0 +1,1 @@
+{"text": "the white pair of these leotards were half off! i know it becuase it shows dirt but you can bleach spot treat them and if your a dancing then this is perfect for you to have the elegence of wearing white without paying an arm and a leg for it", "sentiment": "negative", "topics": {"1": "0.2447504", "2": "0.256099", "3": "0.2528267", "4": "0.06669826", "5": "0.1666097"}}

@@ -1,0 +1,1 @@
+{"text": "didnt stay up well, and ripped after 1 use. i tried to fix them to no avail and just tossed them. wish I hadnt wasted my money.", "sentiment": "positive", "topics": {"0": "0.09200881", "1": "0.35507837", "2": "0.3181667", "4": "0.20784813"}}

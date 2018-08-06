@@ -1,0 +1,1 @@
+{"text": "This shoe has served me well and is easy to put on.  It is comfortable and has nice support.  I do endorse the product.", "sentiment": "negative", "topics": {"0": "0.011923495", "1": "0.48516575", "2": "0.10372942", "3": "0.011989736", "4": "0.011950762", "5": "0.16023639", "6": "0.21500444"}}

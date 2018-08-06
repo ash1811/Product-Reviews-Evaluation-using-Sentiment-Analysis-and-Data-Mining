@@ -1,0 +1,1 @@
+{"text": "I didn't care for the blue part coming up back of sock, but these socks are great.  They're really thick and well made.  I'm buying more.", "sentiment": "negative", "topics": {"1": "0.4728779", "5": "0.4850083"}}

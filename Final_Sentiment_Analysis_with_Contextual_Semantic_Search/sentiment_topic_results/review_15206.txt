@@ -1,0 +1,1 @@
+{"text": "I purchased these for my husband though he'd never heard of the \"comfort soft waistband.\" He was really pleased with how comfortable both the waistband and the boxers feel. They feel very soft and look great.", "sentiment": "negative", "topics": {"1": "0.38891917", "2": "0.11087972", "3": "0.19980451", "4": "0.11823885", "6": "0.16782819"}}

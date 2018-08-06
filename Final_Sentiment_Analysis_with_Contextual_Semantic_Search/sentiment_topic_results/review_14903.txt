@@ -1,0 +1,1 @@
+{"text": "Can't go wrong with any Jeans which has the Levi's brand on them.Fair price, and perfect fit. I like these 501's.", "sentiment": "positive", "topics": {"0": "0.011036222", "1": "0.22731017", "2": "0.11313837", "3": "0.15138318", "4": "0.24619669", "5": "0.0110620065", "6": "0.23987338"}}

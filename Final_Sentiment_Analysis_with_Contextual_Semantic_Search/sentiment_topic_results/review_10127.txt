@@ -1,0 +1,1 @@
+{"text": "I bought this pendant, as well as the earrings for myself, they are beautiful. I've got nothing but compliments on them. Great gift to myself. Thanks", "sentiment": "positive", "topics": {"0": "0.19726464", "1": "0.1994683", "3": "0.27736247", "5": "0.29898092"}}

@@ -1,0 +1,1 @@
+{"text": "Love it warm, soft & exactly as described! Very long, and very wide, I can use traditionally, over my head, around my neck & shoulders, or as a shawl. I highly recommend!!", "sentiment": "negative", "topics": {"0": "0.07798397", "1": "0.5430571", "4": "0.25895393", "6": "0.09470423"}}

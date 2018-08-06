@@ -1,0 +1,1 @@
+{"text": "But that is great to layer a hoodie. The rugged wear stuff is not near the quality of the Western wear, but this came in XLTWHICH THE WESTERN WEAR jacket does not (stupid)I have the Western wear in XL.This does the job", "sentiment": "negative", "topics": {"1": "0.46458495", "2": "0.088087834", "3": "0.17729159", "6": "0.24956262"}}

@@ -1,0 +1,1 @@
+{"text": "My cousin was looking for a safe wallet, when traveling abroad...I told her about this wallet from Pacsafe and I purchased it for her and she loved it.", "sentiment": "positive", "topics": {"0": "0.47045228", "1": "0.2689533", "2": "0.011027121", "3": "0.011027181", "4": "0.011002882", "5": "0.11370731", "6": "0.11382997"}}

@@ -1,0 +1,1 @@
+{"text": "I haven't opened it yet but it looks really cute.fast delivery also!cant wait to give it as a gift to my 2 year old shes going to love it!", "sentiment": "negative", "topics": {"0": "0.37119344", "2": "0.07132548", "4": "0.19576883", "5": "0.27565214", "6": "0.0700685"}}

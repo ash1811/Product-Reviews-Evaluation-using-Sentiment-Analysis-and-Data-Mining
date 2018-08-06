@@ -1,0 +1,1 @@
+{"text": "I've used this product a few times,for repairing my old shoes,with rippedout sides,and it works! I used it to repair my fubber rain coat also,worked great,beats buying a new coat,or shoes!", "sentiment": "negative", "topics": {"0": "0.5486717", "2": "0.071292944", "3": "0.113172956", "4": "0.1262719", "5": "0.12758073"}}

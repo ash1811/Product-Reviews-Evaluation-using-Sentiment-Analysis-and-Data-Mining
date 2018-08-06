@@ -1,0 +1,1 @@
+{"text": "The watch has a hard time keeping time as it seems that the hands stick.  I can send it back but I decided to keep it and just deal with it.", "sentiment": "negative", "topics": {"0": "0.36774826", "1": "0.27773336", "2": "0.10363586", "3": "0.22226316"}}

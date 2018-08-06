@@ -1,0 +1,1 @@
+{"text": "it does run big but its a guy shirt and im a girl. even the xstra smalll is a little big. love the pocket in the top,. it works well for what u need it for. its not to fit beautifully.", "sentiment": "positive", "topics": {"0": "0.1709588", "1": "0.3189276", "2": "0.16709216", "3": "0.13461849", "4": "0.07904727", "6": "0.1228503"}}

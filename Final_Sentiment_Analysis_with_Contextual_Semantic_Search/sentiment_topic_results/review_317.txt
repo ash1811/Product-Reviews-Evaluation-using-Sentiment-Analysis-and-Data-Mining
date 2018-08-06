@@ -1,0 +1,1 @@
+{"text": "Nice fit, color nice shade of blue,could be a little softer.cant beat the price! The Hanes brand is always a great buy!", "sentiment": "negative", "topics": {"1": "0.64778733", "3": "0.08202148", "4": "0.23437935"}}

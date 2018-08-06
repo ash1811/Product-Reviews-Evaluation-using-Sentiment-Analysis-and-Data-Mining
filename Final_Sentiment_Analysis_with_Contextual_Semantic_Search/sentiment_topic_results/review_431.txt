@@ -1,0 +1,1 @@
+{"text": "I suggest this jeans for heavy workers because it's strong and relaxed.The price and quality are good and I suggest this product for heavy weight and tall people like me.", "sentiment": "negative", "topics": {"0": "0.33962205", "1": "0.22192773", "2": "0.059916463", "5": "0.17975336", "6": "0.18286952"}}

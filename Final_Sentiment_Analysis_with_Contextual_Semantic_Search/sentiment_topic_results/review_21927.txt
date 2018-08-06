@@ -1,0 +1,1 @@
+{"text": "These sox are warm, very well vented and have a good grip on hardwood floors. Yet they fall of your feet the minute you do warrior one. So not good for yoga", "sentiment": "negative", "topics": {"0": "0.15196502", "1": "0.34432557", "4": "0.27126408", "5": "0.08855009", "6": "0.1270649"}}

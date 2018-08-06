@@ -1,0 +1,1 @@
+{"text": "These are very lightweight. The center nose piece blocks a portion of my view. The center nose support is so large that you see it when wearing the sunglasses.", "sentiment": "negative", "topics": {"2": "0.24030411", "3": "0.30673027", "6": "0.4145295"}}

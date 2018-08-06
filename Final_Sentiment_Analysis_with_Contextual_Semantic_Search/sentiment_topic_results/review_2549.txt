@@ -1,0 +1,1 @@
+{"text": "For the price cant  complain.Not very luxurious however as billfolds and leather cases go.Fair price but the credit cards dont fit so easily and cant hold more than 2 or so.", "sentiment": "positive", "topics": {"0": "0.18532799", "1": "0.25094008", "2": "0.32007653", "3": "0.12150671", "6": "0.10784032"}}

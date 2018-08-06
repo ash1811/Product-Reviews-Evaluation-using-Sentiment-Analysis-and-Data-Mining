@@ -1,0 +1,1 @@
+{"text": "Much better than the other Waterproof spray I bought.NO Odor!, keeps garments dry.I use it on my Carthartt Jacket and it works perfectly.Gotta buy more.", "sentiment": "positive", "topics": {"0": "0.13624118", "1": "0.19828169", "2": "0.36906743", "3": "0.21077286", "6": "0.06878656"}}

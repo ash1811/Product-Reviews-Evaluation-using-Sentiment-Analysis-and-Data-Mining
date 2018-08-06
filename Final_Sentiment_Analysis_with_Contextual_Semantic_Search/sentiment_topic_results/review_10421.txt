@@ -1,0 +1,1 @@
+{"text": "This was a Christmas gift for my grand daughter, she was thrilled and elated to get them. Warm comfortable, well made. No problems. Price is excessive to my way of thinking but she his worth it to have the originals.", "sentiment": "positive", "topics": {"0": "0.1679462", "1": "0.20603225", "2": "0.3268221", "3": "0.12724778", "5": "0.15762633"}}

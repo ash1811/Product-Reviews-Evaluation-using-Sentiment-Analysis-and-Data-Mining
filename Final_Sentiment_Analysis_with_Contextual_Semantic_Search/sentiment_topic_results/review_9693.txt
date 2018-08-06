@@ -1,0 +1,1 @@
+{"text": "I love the color but the strap not what I expect to lift breast. Not much support. Could have given more support", "sentiment": "negative", "topics": {"0": "0.011931878", "1": "0.30843994", "2": "0.096429676", "3": "0.5472748", "4": "0.011965849", "5": "0.012012235", "6": "0.011945588"}}

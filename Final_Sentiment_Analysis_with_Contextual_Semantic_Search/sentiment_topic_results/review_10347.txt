@@ -1,0 +1,1 @@
+{"text": "just right for people who like small and classy earrings this will be just right , the gloss is awesome and the earrings are sturdy and look long lasting , I would recommend it any time", "sentiment": "positive", "topics": {"0": "0.40169656", "1": "0.55840856"}}

@@ -1,0 +1,1 @@
+{"text": "I ordered this watch as a gift. I have a Timex watch very similar to this one and have had it for years. It is easy to read and comfortable to wear.", "sentiment": "positive", "topics": {"0": "0.1901076", "1": "0.18072328", "2": "0.2733689", "3": "0.32274574", "4": "0.011014977", "5": "0.011008686", "6": "0.011030819"}}

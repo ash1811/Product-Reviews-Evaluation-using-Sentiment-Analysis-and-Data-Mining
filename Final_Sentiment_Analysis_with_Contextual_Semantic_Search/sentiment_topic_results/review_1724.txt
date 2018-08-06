@@ -1,0 +1,1 @@
+{"text": "They look real good on my wife and they seem to be comfortable. Low profile and stretchy. I would get more of these in the future for her.", "sentiment": "positive", "topics": {"0": "0.29070744", "1": "0.52718914", "2": "0.010225522", "3": "0.0102444785", "4": "0.14116414", "5": "0.010231614", "6": "0.010237622"}}

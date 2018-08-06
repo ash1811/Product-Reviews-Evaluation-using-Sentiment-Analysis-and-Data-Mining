@@ -1,0 +1,1 @@
+{"text": "This is my second Orange Monster! The other has a Steel bracelet. Seiko is an outstanding product. You cannot go wrong.", "sentiment": "positive", "topics": {"0": "0.01191869", "1": "0.0120217735", "2": "0.31093737", "3": "0.2322939", "4": "0.011921461", "5": "0.23094939", "6": "0.18995742"}}

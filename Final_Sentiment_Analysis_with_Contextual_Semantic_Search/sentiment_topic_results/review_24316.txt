@@ -1,0 +1,1 @@
+{"text": "I am very satisfied with my purchase of this piece of jewelry.  It looks much more expensive than it was.", "sentiment": "negative", "topics": {"0": "0.015954774", "1": "0.63453716", "2": "0.015974857", "3": "0.015915057", "4": "0.01590947", "5": "0.015941147", "6": "0.2857675"}}

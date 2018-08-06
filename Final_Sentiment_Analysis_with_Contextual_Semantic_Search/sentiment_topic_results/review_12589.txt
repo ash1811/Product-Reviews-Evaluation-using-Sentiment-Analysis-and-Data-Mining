@@ -1,0 +1,1 @@
+{"text": "a good range of quality shoes to choose delivery was exceeded my expectations and I will definitely be shopping with them again.", "sentiment": "negative", "topics": {"0": "0.011921237", "1": "0.13683797", "2": "0.1216938", "3": "0.08657482", "4": "0.19316715", "5": "0.35059285", "6": "0.09921217"}}

@@ -1,0 +1,1 @@
+{"text": "Great fit. Always concerned when buying shoes online because some aren't wide enough for a size 15. These worked perfect. They are a great fit.", "sentiment": "negative", "topics": {"1": "0.457239", "2": "0.23028114", "5": "0.14349455", "6": "0.14209056"}}

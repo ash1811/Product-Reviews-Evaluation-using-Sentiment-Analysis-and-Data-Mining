@@ -1,0 +1,1 @@
+{"text": "The polarized lenses are nice, but the glasses are too big for my face. Will be giving them away.... Probably great glasses for guys though.", "sentiment": "positive", "topics": {"0": "0.250994", "1": "0.44347686", "2": "0.11897164", "3": "0.010221822", "4": "0.15591794", "5": "0.010208108", "6": "0.010209691"}}

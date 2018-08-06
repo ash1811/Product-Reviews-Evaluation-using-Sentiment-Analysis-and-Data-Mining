@@ -1,0 +1,1 @@
+{"text": "I like the Levi's 511 jeans and the 527 is much the same with a boot cut. But, like so many Levi's products the size shown on the label isn't what it actually is.  My 32 x 30 jeans were actually 32 x 33.  Sent them back", "sentiment": "negative", "topics": {"1": "0.14444886", "2": "0.08942661", "4": "0.2911722", "5": "0.20274867", "6": "0.26233107"}}

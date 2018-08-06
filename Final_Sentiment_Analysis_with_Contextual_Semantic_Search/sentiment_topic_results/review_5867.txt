@@ -1,0 +1,1 @@
+{"text": "Christmas gift for my mother in law.  Beautiful necklace, well made and lovely due to the 3D effect of it's construction,  I will probably buy one for myself!", "sentiment": "negative", "topics": {"0": "0.20814721", "1": "0.36441863", "4": "0.16192058", "5": "0.1191553", "6": "0.13041653"}}

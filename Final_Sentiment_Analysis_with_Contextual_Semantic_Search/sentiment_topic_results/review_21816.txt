@@ -1,0 +1,1 @@
+{"text": "Great for the bedroom, but wouldn't want my wife walking around town in this thing. not a bad value if you like this sorta thing on your woman.", "sentiment": "negative", "topics": {"1": "0.39238724", "2": "0.34918717", "5": "0.22023633"}}

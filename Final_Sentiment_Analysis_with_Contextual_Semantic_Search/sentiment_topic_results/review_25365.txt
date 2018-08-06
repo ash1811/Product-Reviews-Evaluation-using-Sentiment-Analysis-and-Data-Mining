@@ -1,0 +1,1 @@
+{"text": "This hat keeps the sun off your head and is made of great material. Really just wanted a basic hat without any graphics, and was not disappointed. Nothing to complain about with this purchase!", "sentiment": "negative", "topics": {"1": "0.33709797", "3": "0.315901", "5": "0.12355832", "6": "0.19955827"}}

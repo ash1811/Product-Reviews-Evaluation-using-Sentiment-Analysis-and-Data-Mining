@@ -1,0 +1,1 @@
+{"text": "Great Slipper. Fits great (I'm 121/2), foam insole is comfortable and molds to my foot. Lightweight yet sturdy. Love this slipper", "sentiment": "negative", "topics": {"1": "0.43911147", "4": "0.33284158", "6": "0.19434558"}}

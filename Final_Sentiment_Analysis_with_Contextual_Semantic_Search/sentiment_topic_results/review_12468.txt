@@ -1,0 +1,1 @@
+{"text": "Will definitely buy another pair. Never wore a flip-flop that was so comfortable.  Excellent cushioning and the piece between the toe is very comfortable.", "sentiment": "negative", "topics": {"0": "0.0102079585", "1": "0.44307423", "2": "0.08691468", "3": "0.08909528", "4": "0.010220347", "5": "0.23795433", "6": "0.12253316"}}

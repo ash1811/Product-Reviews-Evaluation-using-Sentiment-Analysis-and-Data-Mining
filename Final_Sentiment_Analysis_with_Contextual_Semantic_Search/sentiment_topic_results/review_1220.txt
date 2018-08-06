@@ -1,0 +1,1 @@
+{"text": "My kind of sweats.  Relaxed fit.  Color stands up to numerous cleanings.  Very reasonably priced.  Good service by company.  Have worn them a lot since purchase.", "sentiment": "negative", "topics": {"0": "0.050711278", "1": "0.26814643", "4": "0.32839966", "5": "0.1955491", "6": "0.1412725"}}

@@ -1,0 +1,1 @@
+{"text": "I have been looking for knit shorts for awhile and am glad I found these.  They fit beautifully and wash up well (I don't put them in the dryer).  I definitely will buy more of these shorts.", "sentiment": "negative", "topics": {"0": "0.24548215", "1": "0.40511096", "2": "0.09220059", "3": "0.23331207"}}

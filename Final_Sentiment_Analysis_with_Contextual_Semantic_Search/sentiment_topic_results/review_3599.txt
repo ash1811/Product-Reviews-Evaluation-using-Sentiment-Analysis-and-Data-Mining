@@ -1,0 +1,1 @@
+{"text": "Favorite Bra....... Best price is on Amazon. The gel straps make all the difference and are much more comfy!~ I buy these all the time!~", "sentiment": "negative", "topics": {"0": "0.13473906", "1": "0.2712272", "2": "0.100917816", "3": "0.20407966", "4": "0.20159349", "5": "0.010233878", "6": "0.077208914"}}

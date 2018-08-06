@@ -1,0 +1,1 @@
+{"text": "These are a replacement pair for previous Ugg's that have seen too much time.  I love this color and they fit fantastically.", "sentiment": "negative", "topics": {"0": "0.11843946", "1": "0.5421555", "2": "0.097263694", "3": "0.011928715", "4": "0.20638084", "5": "0.011926656", "6": "0.011905145"}}

@@ -1,0 +1,1 @@
+{"text": "This is a good deal for the price. If you just need a basic light weight watch to wear around that you will not even notice is on your are, this is it.", "sentiment": "negative", "topics": {"0": "0.43150252", "2": "0.24251848", "3": "0.12271075", "6": "0.17456771"}}

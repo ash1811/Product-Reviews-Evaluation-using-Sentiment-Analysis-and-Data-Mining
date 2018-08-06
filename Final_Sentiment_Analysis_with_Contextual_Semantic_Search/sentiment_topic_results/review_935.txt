@@ -1,0 +1,1 @@
+{"text": "They are very average shoes.  Please don't buy them thinking they are better than any quality shoe on the market.  Go to a Vasque dealer and get better shoes.", "sentiment": "negative", "topics": {"1": "0.22078685", "2": "0.6709037", "4": "0.072457165"}}

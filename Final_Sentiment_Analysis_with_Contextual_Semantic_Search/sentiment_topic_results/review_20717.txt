@@ -1,0 +1,1 @@
+{"text": "Excellent shoe, great price, arrived within time frame promised - as always, Amazon purchases are pretty much fool-proof.", "sentiment": "positive", "topics": {"0": "0.35368687", "2": "0.23508587", "4": "0.37540755"}}

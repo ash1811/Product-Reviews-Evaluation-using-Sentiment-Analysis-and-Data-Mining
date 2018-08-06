@@ -1,0 +1,1 @@
+{"text": "The toe of the shoe is pointed up like Peter Pan shoes, other than that, the shoe is okay. I will have to stretch them", "sentiment": "positive", "topics": {"0": "0.011918313", "1": "0.11630162", "2": "0.312998", "3": "0.011977351", "4": "0.26574257", "5": "0.11283413", "6": "0.16822802"}}

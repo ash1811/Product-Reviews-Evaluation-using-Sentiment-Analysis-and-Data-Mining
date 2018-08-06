@@ -1,0 +1,1 @@
+{"text": "Can't go wrong with Carhartt.Surprised my husband with 3 of these.  They wash well and are a nice cotton weight.  Not to thin.", "sentiment": "negative", "topics": {"0": "0.010260699", "1": "0.5587567", "2": "0.1165439", "3": "0.084077604", "4": "0.12751465", "5": "0.010244416", "6": "0.09260207"}}

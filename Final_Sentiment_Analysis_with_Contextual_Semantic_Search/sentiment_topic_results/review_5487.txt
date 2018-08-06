@@ -1,0 +1,1 @@
+{"text": "me gusto el estilo y elcolor la entrega fue inmediata, y es lo que queria para ponerme abajo de la ropa blanca para este frio", "sentiment": "negative", "topics": {"1": "0.052095372", "2": "0.32908726", "3": "0.05384706", "5": "0.33377433", "6": "0.21876952"}}

@@ -1,0 +1,1 @@
+{"text": "Kinda hot for work pants and the waist is too big, doesn't fit the same as other Dickies products of the same size.", "sentiment": "negative", "topics": {"0": "0.0130243255", "1": "0.3466407", "2": "0.21354657", "3": "0.28100997", "4": "0.012996826", "5": "0.11973836", "6": "0.013043256"}}

@@ -1,0 +1,1 @@
+{"text": "Really comfortable material, not exactly the cheapest, but the fit and quality are very high, only trunk underwear I find comparable are some of the Emporio Armani microfiber trunks.", "sentiment": "positive", "topics": {"0": "0.16000617", "1": "0.27311748", "2": "0.07977225", "3": "0.39122835", "4": "0.07900929"}}

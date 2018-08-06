@@ -1,0 +1,1 @@
+{"text": "it's what i asked for it's just not comfortable. i've washed it several times and the material is still very rough.", "sentiment": "positive", "topics": {"0": "0.014364658", "1": "0.4710937", "2": "0.24561441", "3": "0.2259556", "4": "0.01431829", "5": "0.014343886", "6": "0.014309469"}}

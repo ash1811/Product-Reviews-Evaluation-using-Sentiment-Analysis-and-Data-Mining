@@ -1,0 +1,1 @@
+{"text": "What can I say that I didn't say about all New Balance shoes, wears like iron, feels light as a feather and I love the red", "sentiment": "negative", "topics": {"0": "0.20120172", "1": "0.010237786", "2": "0.09238169", "3": "0.3099447", "4": "0.010239288", "5": "0.09881855", "6": "0.27717623"}}

@@ -1,0 +1,1 @@
+{"text": "This was a christmas present for my mother-in-law, she said they were very comfortable and fit true to size. They appear to be very well made with good arch support and moderate cushioning thru out.", "sentiment": "negative", "topics": {"1": "0.27605072", "2": "0.16808999", "3": "0.4437395", "4": "0.089448944"}}

@@ -1,0 +1,1 @@
+{"text": "Purchased for an ice show.  Good quality. Lasted well and looked super cute in Christmas number!  only thing not expected was plain at top of leg (not pictured. Should have assumed as much but...)", "sentiment": "negative", "topics": {"1": "0.3324304", "2": "0.14049105", "3": "0.19176589", "5": "0.25146204", "6": "0.07140059"}}

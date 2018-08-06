@@ -1,0 +1,1 @@
+{"text": "SAID THE HAVE HIM OFF THE GROUND NOT YOUR ORDINARY FLIP FLOP BY A LONG SHOT!!! likes the way they make him feel can walk for days with these on like your on a cloud he said", "sentiment": "negative", "topics": {"1": "0.23988959", "2": "0.10568418", "3": "0.25518215", "5": "0.27611223", "6": "0.10628686"}}

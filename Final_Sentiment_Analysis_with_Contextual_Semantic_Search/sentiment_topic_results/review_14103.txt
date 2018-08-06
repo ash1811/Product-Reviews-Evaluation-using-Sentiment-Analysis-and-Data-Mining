@@ -1,0 +1,1 @@
+{"text": "It's a nice and basic backpack. Well made and comfortable to wear. At the price its more than worth it.", "sentiment": "positive", "topics": {"0": "0.0130259935", "1": "0.7042365", "2": "0.13842677", "3": "0.01300749", "4": "0.013011974", "5": "0.013033478", "6": "0.1052578"}}

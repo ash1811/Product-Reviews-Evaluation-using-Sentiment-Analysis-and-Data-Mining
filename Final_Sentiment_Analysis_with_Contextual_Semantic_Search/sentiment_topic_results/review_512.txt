@@ -1,0 +1,1 @@
+{"text": "Excellent quality denim, fits perfectly, great color and design, cannot ask for more on a pair of jeans and for a decent price. So long Levi's!... I'm a Wrangler fan from now on.", "sentiment": "negative", "topics": {"0": "0.10342773", "1": "0.5814063", "2": "0.07672255", "3": "0.16514571", "6": "0.05962692"}}

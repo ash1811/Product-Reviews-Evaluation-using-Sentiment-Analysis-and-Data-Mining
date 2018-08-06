@@ -1,0 +1,1 @@
+{"text": "Beautiful antique looking ring.  The jade pieces are a nice olive green color, and well matched.  Really elegant look for a great price.  Comfortable enought to wear every day.  Love Palm Beach Jewelry.  Will buy from this company again,", "sentiment": "negative", "topics": {"1": "0.48599038", "4": "0.13926671", "5": "0.23836951", "6": "0.12200609"}}

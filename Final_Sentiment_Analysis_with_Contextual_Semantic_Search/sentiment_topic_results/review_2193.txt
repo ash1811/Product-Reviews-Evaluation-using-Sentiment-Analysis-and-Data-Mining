@@ -1,0 +1,1 @@
+{"text": "Very confortable.Little holes for the foot to breath.Little large for the size, but nothing serious.Like them a lot.", "sentiment": "positive", "topics": {"0": "0.014308606", "1": "0.26699543", "2": "0.1526526", "3": "0.2047455", "4": "0.014438475", "5": "0.33248487", "6": "0.014374484"}}

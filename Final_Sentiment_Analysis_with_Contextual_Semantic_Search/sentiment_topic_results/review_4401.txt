@@ -1,0 +1,1 @@
+{"text": "Fits nicely and work pretty much like I expected.Always had Levi's before but have no trouble adjusting to these", "sentiment": "negative", "topics": {"0": "0.13628338", "1": "0.41467956", "2": "0.013001756", "3": "0.01301372", "4": "0.012996583", "5": "0.1225833", "6": "0.2874417"}}

@@ -1,0 +1,1 @@
+{"text": "The lining is not as thick as other styles.  They are hard.  Theey are ok to run to the market or drop the kids off.  They are not slippers", "sentiment": "positive", "topics": {"0": "0.22793975", "1": "0.011105849", "2": "0.28571743", "3": "0.011091152", "4": "0.011027091", "5": "0.2194538", "6": "0.23366491"}}

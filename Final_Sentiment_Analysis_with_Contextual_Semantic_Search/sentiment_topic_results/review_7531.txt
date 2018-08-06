@@ -1,0 +1,1 @@
+{"text": "I got this for my husband.  He likes it very much.  I got him a large and it does run a little too big, but at least it is longer on his arms.  He is almost 6'5 and jackets are usually too short for his arms.", "sentiment": "positive", "topics": {"0": "0.08696224", "1": "0.16982803", "2": "0.17967215", "3": "0.2569467", "4": "0.09918905", "5": "0.19983105"}}

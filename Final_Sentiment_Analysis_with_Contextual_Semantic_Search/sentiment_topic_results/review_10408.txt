@@ -1,0 +1,1 @@
+{"text": "It was a gift and turned out great. My sister was happy and that is all that mattered.Also, came in a timely manner!", "sentiment": "negative", "topics": {"0": "0.5465187", "1": "0.014321959", "2": "0.014292511", "3": "0.014297189", "4": "0.18608996", "5": "0.11207968", "6": "0.11240003"}}

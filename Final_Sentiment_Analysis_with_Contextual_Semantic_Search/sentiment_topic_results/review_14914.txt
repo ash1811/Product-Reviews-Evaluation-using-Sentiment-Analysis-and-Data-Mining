@@ -1,0 +1,1 @@
+{"text": "My husband has worn Levi's 501 jeans for many years.  His measurements haven't changed and neither has the size he has always worn.  They still fit perfectly.", "sentiment": "negative", "topics": {"0": "0.088376075", "1": "0.3825233", "4": "0.23710693", "6": "0.2666522"}}

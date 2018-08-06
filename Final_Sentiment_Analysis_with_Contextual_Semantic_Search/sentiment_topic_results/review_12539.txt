@@ -1,0 +1,1 @@
+{"text": "Sanuks are the most comfortable flip flops...I have 6 colors now to go with all my summertime and vacation outfits.", "sentiment": "positive", "topics": {"0": "0.1366337", "1": "0.39689952", "2": "0.21907987", "3": "0.11437619", "4": "0.0130022075", "5": "0.013008406", "6": "0.107000135"}}

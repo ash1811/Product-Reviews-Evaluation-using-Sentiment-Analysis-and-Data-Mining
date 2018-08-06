@@ -1,0 +1,1 @@
+{"text": "These pants are my go to pants everyday.  They have the 2 cargo pockets and 2 lower leg pockets.  I love my pockets and they fit great.", "sentiment": "positive", "topics": {"0": "0.16121684", "1": "0.5296911", "2": "0.18150613", "4": "0.10074704"}}

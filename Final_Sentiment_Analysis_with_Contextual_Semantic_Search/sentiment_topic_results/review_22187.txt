@@ -1,0 +1,1 @@
+{"text": "This night wear fits well and are comfortable. I bought these for my mom and my sister and they found them to be comfotable and nice and also the size fitted as expected.", "sentiment": "negative", "topics": {"0": "0.10678925", "1": "0.555398", "3": "0.11294554", "4": "0.10268934", "5": "0.10427068"}}

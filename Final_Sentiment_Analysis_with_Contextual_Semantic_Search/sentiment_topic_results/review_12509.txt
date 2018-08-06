@@ -1,0 +1,1 @@
+{"text": "So far so good. Wish they were just a little more cushy.  Run true to size. They are equivalent to my New Balance Flip Flops as far as comfort. Wish they had another 1/8&#34; of mat!", "sentiment": "negative", "topics": {"0": "0.07036462", "1": "0.109009445", "2": "0.21192892", "3": "0.29224426", "4": "0.0663607", "6": "0.24294078"}}

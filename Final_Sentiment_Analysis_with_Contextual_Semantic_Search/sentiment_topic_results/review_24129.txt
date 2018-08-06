@@ -1,0 +1,1 @@
+{"text": "It keeps everything in its place without jiggle. I haven't tried yet, but I could probably sleep in it. It's that comfortable.", "sentiment": "positive", "topics": {"0": "0.011032859", "1": "0.8264922", "2": "0.11833882", "3": "0.011047742", "4": "0.011029098", "5": "0.011051961", "6": "0.011007323"}}

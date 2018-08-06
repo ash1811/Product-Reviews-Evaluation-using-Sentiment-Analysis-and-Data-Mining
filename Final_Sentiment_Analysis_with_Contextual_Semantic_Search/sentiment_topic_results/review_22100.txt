@@ -1,0 +1,1 @@
+{"text": "I love wool!  These are roomy (big hands), double-thick, and warm.They wash well (hang dry).  I carry these in my car and use them for snow removal, and ice scraping duties - just perfect on those cold mornings!", "sentiment": "negative", "topics": {"0": "0.056520347", "1": "0.20256537", "2": "0.1060307", "3": "0.22296308", "4": "0.2560957", "5": "0.1496102"}}

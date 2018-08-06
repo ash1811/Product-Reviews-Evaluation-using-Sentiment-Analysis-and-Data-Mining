@@ -1,0 +1,1 @@
+{"text": "A beautiful pair of shoes. It fit perfectly. Just what I wanted. I glad I brought them. Thank you, very much.", "sentiment": "positive", "topics": {"0": "0.011013616", "1": "0.32936627", "2": "0.36921844", "3": "0.1283043", "4": "0.14005885", "5": "0.0110417325", "6": "0.010996777"}}

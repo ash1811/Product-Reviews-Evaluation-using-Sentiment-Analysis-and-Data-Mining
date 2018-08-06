@@ -1,0 +1,1 @@
+{"text": "Good quality. Order next size up as they run small. The strap is tight. The bottom feel nice and not too soft, but they are cushions", "sentiment": "negative", "topics": {"0": "0.13792495", "1": "0.33199507", "2": "0.22328454", "3": "0.19716193", "5": "0.09051226"}}

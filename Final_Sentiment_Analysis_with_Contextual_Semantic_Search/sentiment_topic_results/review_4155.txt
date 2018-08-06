@@ -1,0 +1,1 @@
+{"text": "They fit my husband perfectly & he syas they are comfortable. Wish the color was just a tad darker though. Looks a little washed out.UPDATE 10/1/13 THEY WOULD HAVE BEEN PERFECT IF THEY HAD POCKETS. THAT'S MY HUSBAND'S ONLY COMPLAINT!", "sentiment": "positive", "topics": {"0": "0.11237567", "1": "0.5496759", "3": "0.11960275", "4": "0.1496347", "6": "0.05570266"}}

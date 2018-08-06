@@ -1,0 +1,1 @@
+{"text": "IT is a medium size for me so it is better for me . You have space for any kind of sport equipment  shoes, towel, etc.", "sentiment": "positive", "topics": {"0": "0.013042002", "1": "0.1497165", "2": "0.4801308", "3": "0.3180542", "4": "0.012992707", "5": "0.013018008", "6": "0.013045797"}}

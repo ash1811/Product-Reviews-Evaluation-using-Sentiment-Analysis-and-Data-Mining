@@ -1,0 +1,1 @@
+{"text": "They fit very well and are very comfortable.  It is great to get something that fits this good.  Looking forward to a long relationship with Levi's.", "sentiment": "negative", "topics": {"0": "0.010214061", "1": "0.76784307", "2": "0.010210229", "3": "0.10040332", "4": "0.010212829", "5": "0.010221337", "6": "0.09089519"}}

@@ -1,0 +1,1 @@
+{"text": "I am 5'3&#34; and 1403. I bought a medium; which I figured would be big. They are. However; I prefer them big with my hips! I do have to roll down the waist; but I do not mind. They are warm and very comfortable. Perfect for winter lounging.", "sentiment": "negative", "topics": {"0": "0.06645389", "1": "0.57698053", "2": "0.1771831", "4": "0.15893239"}}

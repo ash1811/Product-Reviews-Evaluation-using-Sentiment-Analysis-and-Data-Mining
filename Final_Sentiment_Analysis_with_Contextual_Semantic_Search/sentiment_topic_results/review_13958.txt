@@ -1,0 +1,1 @@
+{"text": "gracias muchas gracias por el servicio de primera calidad estoy muy agradecido por todo es excelente los recomiendo y una vez mas gracias", "sentiment": "negative", "topics": {"1": "0.1447469", "2": "0.04829119", "3": "0.18148062", "4": "0.41283438", "5": "0.16449922", "6": "0.041921694"}}

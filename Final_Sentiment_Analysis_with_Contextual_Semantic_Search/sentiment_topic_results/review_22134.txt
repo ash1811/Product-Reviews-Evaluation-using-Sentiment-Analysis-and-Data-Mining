@@ -1,0 +1,1 @@
+{"text": "no more cold hands wearing those liners  inside my work gloves at 0 temps with my horses for hours on end", "sentiment": "negative", "topics": {"0": "0.011034513", "1": "0.011063014", "2": "0.39438614", "3": "0.23631404", "4": "0.0110181775", "5": "0.01103632", "6": "0.32514778"}}

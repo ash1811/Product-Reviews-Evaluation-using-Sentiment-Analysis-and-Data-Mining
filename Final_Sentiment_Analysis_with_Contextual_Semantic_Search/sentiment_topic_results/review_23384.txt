@@ -1,0 +1,1 @@
+{"text": "Title says it all. They're comfortable, they're warm. They're everything a sock should be. They have the right amount of thickness for comfort and they help to wick away and sweat down there. Very nice. You can't go wrong with Merino Wool", "sentiment": "negative", "topics": {"1": "0.27517128", "2": "0.13812192", "3": "0.1260114", "4": "0.26680347", "6": "0.18326554"}}

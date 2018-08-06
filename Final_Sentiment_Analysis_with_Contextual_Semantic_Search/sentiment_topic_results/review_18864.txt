@@ -1,0 +1,1 @@
+{"text": "In the picture looks different to what it is, but I gave it 4 stars because it is not bad.As for the purchase and shipping all positive", "sentiment": "negative", "topics": {"0": "0.011952027", "1": "0.5256017", "2": "0.01197908", "3": "0.011935417", "4": "0.24755059", "5": "0.011928574", "6": "0.1790526"}}

@@ -1,0 +1,1 @@
+{"text": "The body band is thick and firm, which is exactly what I need for my 34DDDs.  The girls stay up all day and the bra doesn't slip as the hours pass.  Great Bra.", "sentiment": "positive", "topics": {"0": "0.35267645", "3": "0.16364825", "4": "0.14700784", "5": "0.08205029", "6": "0.23777387"}}

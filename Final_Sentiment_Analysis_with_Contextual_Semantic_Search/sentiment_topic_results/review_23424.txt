@@ -1,0 +1,1 @@
+{"text": "For the price here on Amazon.com, these pants were a steal and bargain big time.  Fit great, feel great, have held up well, Did not fade or shrink after washing them.  Love them and will buy more later.  I would recommend these to others.", "sentiment": "negative", "topics": {"0": "0.22960038", "1": "0.67758894", "5": "0.06888135"}}

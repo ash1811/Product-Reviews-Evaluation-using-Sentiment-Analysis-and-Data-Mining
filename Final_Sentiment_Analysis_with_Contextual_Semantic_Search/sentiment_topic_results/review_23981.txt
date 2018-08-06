@@ -1,0 +1,1 @@
+{"text": "As with all Hanes products these socks are comfortable, made with good materials, and will last for a long time!", "sentiment": "positive", "topics": {"0": "0.013020301", "1": "0.48575142", "2": "0.012998691", "3": "0.0129959", "4": "0.013011261", "5": "0.44922715", "6": "0.012995273"}}

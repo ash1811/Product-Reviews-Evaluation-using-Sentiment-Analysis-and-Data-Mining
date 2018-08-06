@@ -1,0 +1,1 @@
+{"text": "The shoes are cute but didn't fit well for me. They were to tight across the toes & long  days with pinched toes don't work.", "sentiment": "negative", "topics": {"0": "0.010239517", "1": "0.70510805", "2": "0.09568499", "3": "0.15826453", "4": "0.010211384", "5": "0.0102679115", "6": "0.010223644"}}

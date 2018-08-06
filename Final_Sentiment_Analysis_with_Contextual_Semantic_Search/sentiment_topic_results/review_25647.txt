@@ -1,0 +1,1 @@
+{"text": "I am between a C and D cup but this looks marvelous with a tee shirt and does not pinch or cut.I wish Bali would make a c+ or D- cup.", "sentiment": "positive", "topics": {"1": "0.5108985", "3": "0.16393372", "4": "0.22350048", "6": "0.0747293"}}

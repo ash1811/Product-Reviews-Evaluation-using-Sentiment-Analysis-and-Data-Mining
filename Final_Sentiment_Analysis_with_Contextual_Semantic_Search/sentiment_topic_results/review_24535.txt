@@ -1,0 +1,1 @@
+{"text": "First of all Capezio is the top of the line in dancewear.  I use my leotard to accent outfits as well as warm wear close to the skin that you can use as the beginnings of a nice layered look.  Love it", "sentiment": "negative", "topics": {"0": "0.07828975", "1": "0.38259292", "2": "0.07243973", "3": "0.36009032", "4": "0.09294753"}}

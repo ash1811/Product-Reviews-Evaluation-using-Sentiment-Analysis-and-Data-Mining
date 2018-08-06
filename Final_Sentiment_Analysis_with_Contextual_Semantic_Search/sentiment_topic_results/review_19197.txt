@@ -1,0 +1,1 @@
+{"text": "If you purchase this product, you should at least buy two since they are small.  Two or more together makes a nice look---one you can hardly see it being worn.", "sentiment": "positive", "topics": {"0": "0.10537955", "1": "0.34726062", "3": "0.079789355", "4": "0.124033466", "5": "0.10998894", "6": "0.2246002"}}

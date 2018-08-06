@@ -1,0 +1,1 @@
+{"text": "These are the best boat shoes i have boat. Super comfortable.  Fit tight the first day but after a week they mold to a foot perfect.", "sentiment": "positive", "topics": {"1": "0.43662864", "2": "0.08030743", "3": "0.0952059", "5": "0.3591476"}}

@@ -1,0 +1,1 @@
+{"text": "He loves them, had a flat tire on the way to his Christmas job and decided to walk the 3 miles.  He hated that decision but loved the way his dress boots took the long haul.", "sentiment": "negative", "topics": {"0": "0.060231674", "1": "0.44353804", "2": "0.16129337", "4": "0.21206614", "5": "0.10916974"}}

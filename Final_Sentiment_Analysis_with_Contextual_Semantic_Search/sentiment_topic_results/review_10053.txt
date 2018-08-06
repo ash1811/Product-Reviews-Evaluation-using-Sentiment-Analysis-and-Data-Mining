@@ -1,0 +1,1 @@
+{"text": "Looks a little silly but protected my husband's head and neck in the African bush on multiple safari drives. Nice wide brim.", "sentiment": "negative", "topics": {"3": "0.39779687", "4": "0.074996784", "5": "0.2987439", "6": "0.20157105"}}

@@ -1,0 +1,1 @@
+{"text": "These are the first pair of Jambu shoes I have purchased.  Just as great or even better than my Keens or Merrells!", "sentiment": "negative", "topics": {"0": "0.013043077", "1": "0.2569473", "2": "0.34189692", "3": "0.013036588", "4": "0.20251821", "5": "0.013045151", "6": "0.15951277"}}

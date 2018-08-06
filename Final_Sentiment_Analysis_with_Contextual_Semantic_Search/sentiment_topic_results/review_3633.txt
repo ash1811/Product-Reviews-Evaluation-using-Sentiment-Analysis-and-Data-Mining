@@ -1,0 +1,1 @@
+{"text": "I bought this for a 7 day backpacking trip that I was going on and it worked fine. I would suggest washing this once before use as it smells kinda funny when I first received it. Other then that it was just fine.", "sentiment": "negative", "topics": {"0": "0.33722204", "2": "0.22567236", "3": "0.4084401"}}

@@ -1,0 +1,1 @@
+{"text": "I needed just a little something to give my Mardi Gras gown a little extra UMPH without spending a fortune and this was perfect! It was the exact same that I used in the store to try on my gown and it's just perfect!", "sentiment": "negative", "topics": {"1": "0.60259694", "2": "0.13139279", "3": "0.071408264", "4": "0.1124273", "5": "0.06854202"}}

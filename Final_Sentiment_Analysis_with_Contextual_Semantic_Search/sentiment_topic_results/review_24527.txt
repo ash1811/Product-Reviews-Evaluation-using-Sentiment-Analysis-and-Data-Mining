@@ -1,0 +1,1 @@
+{"text": "Good slip-on. Casual and comfortable.I usually wear a 7 WWW, but this 7 WW was wide enough.It kind of looks cheaper for the price, though. Sort of looks plastic and old-style.", "sentiment": "negative", "topics": {"0": "0.32377297", "1": "0.15207916", "3": "0.12251115", "4": "0.105668284", "5": "0.2829471"}}

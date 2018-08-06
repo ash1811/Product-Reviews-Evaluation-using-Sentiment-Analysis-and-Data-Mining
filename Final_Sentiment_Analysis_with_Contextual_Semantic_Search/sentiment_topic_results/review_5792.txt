@@ -1,0 +1,1 @@
+{"text": "Can't beat a Carhartt shirt!  They fit well, wear well and last a long time.  Don't hesitate, buy some now!", "sentiment": "negative", "topics": {"1": "0.59798056", "4": "0.10576966", "5": "0.25809747"}}

@@ -1,0 +1,1 @@
+{"text": "excellent watch very tough and durable, with many functions, very elegant and practical, I really like, is very beautiful and is excellent for use in all occasions", "sentiment": "negative", "topics": {"1": "0.31696692", "2": "0.27307314", "4": "0.2425178", "6": "0.13881613"}}

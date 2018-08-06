@@ -1,0 +1,1 @@
+{"text": "Full coverage in the back, no wedgies, fun designs.  My daughter likes the fit.  They did shrink a small bit in the wash, but nothing drastic.", "sentiment": "negative", "topics": {"0": "0.23576115", "1": "0.40204436", "3": "0.25475615", "6": "0.08056551"}}

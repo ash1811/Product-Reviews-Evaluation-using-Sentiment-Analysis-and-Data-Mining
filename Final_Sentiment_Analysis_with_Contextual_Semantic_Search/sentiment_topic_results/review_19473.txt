@@ -1,0 +1,1 @@
+{"text": "These shoes are very well made and the suede is nice, as well.  I have freaky feet and they just were not comfortable.  I felt like they made me shorter than I actually am.  hahaha!", "sentiment": "negative", "topics": {"1": "0.49640498", "2": "0.31144738", "3": "0.111795396", "4": "0.055059943"}}

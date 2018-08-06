@@ -1,0 +1,1 @@
+{"text": "Love Saucony shoes but the Jazz are my go to's! No breaking in with these, put them on and wear them in comfort. I own 5 pair  (some are the retro with the thicker heel) but all are great in cute colors. Safest shoe to buy online, due to easy fit.", "sentiment": "negative", "topics": {"1": "0.38257825", "2": "0.18228664", "5": "0.20808484", "6": "0.21168756"}}

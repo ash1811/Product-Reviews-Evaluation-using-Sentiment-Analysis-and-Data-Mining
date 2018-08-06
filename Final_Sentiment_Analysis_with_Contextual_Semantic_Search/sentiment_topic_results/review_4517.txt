@@ -1,0 +1,1 @@
+{"text": "Lee Men's Regular fit jeans were well fitting and heavy weight. Just right for the weather we are having this year.  Good buy and comfortable.", "sentiment": "positive", "topics": {"1": "0.58736086", "5": "0.099229135", "6": "0.27760208"}}

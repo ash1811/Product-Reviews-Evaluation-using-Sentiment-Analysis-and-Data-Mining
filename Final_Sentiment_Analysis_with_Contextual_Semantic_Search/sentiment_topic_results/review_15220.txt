@@ -1,0 +1,1 @@
+{"text": "The underwear are very comfortable and well made. They don't ride up or anything like that. I like these and would recommend them.", "sentiment": "positive", "topics": {"0": "0.011015236", "1": "0.35666838", "2": "0.5040629", "3": "0.011051074", "4": "0.09514817", "5": "0.011008948", "6": "0.011045255"}}

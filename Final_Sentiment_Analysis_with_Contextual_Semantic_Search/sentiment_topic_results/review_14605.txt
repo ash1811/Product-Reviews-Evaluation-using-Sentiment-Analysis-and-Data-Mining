@@ -1,0 +1,1 @@
+{"text": "All my life I have thought of Wrangler as being Levi's main competitor for durability and quality construction.These jeans end that image of Wrangler in my mind.  Dollar store specials would be more appropriate.", "sentiment": "negative", "topics": {"1": "0.3616397", "2": "0.17583886", "3": "0.12605654", "4": "0.24405563", "6": "0.078067325"}}

@@ -1,0 +1,1 @@
+{"text": "Fantastic flip flop, very comfortable, doesn't feel heavy and fits as expected. It seems like it's made of quality material, and I hope for $30 they hold up for quite some time.", "sentiment": "positive", "topics": {"0": "0.11505229", "1": "0.4927343", "2": "0.07808059", "3": "0.11981353", "4": "0.08337349", "6": "0.1034047"}}

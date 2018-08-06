@@ -1,0 +1,1 @@
+{"text": "This is my second order, loved it so much got another.  One for the house and one for the car.  Couldn't be more delighted.", "sentiment": "negative", "topics": {"0": "0.082842164", "1": "0.30723137", "2": "0.2528294", "3": "0.011953673", "4": "0.01193102", "5": "0.12284783", "6": "0.21036452"}}

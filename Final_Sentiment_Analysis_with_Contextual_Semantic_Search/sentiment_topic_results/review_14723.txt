@@ -1,0 +1,1 @@
+{"text": "Its a nice, thin, soft, leather wallet. I carried it for about a a year and a half with no problems. Eventually, I made my own wallet modeled after this one.", "sentiment": "positive", "topics": {"1": "0.21151118", "2": "0.36167136", "3": "0.297925", "4": "0.10028424"}}

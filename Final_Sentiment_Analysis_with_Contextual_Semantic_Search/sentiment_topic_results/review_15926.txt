@@ -1,0 +1,1 @@
+{"text": "These seem absurdly narrow for C/D, but they have become more comfortable over time.  Great cushion.  Well made.  I love the slip-on sneaker comfort disguised in a work shoe.", "sentiment": "negative", "topics": {"0": "0.095505506", "1": "0.17946096", "2": "0.21529645", "3": "0.084061235", "4": "0.101715855", "5": "0.31640738"}}

@@ -1,0 +1,1 @@
+{"text": "fits great and wonderful for travel...for you can wash out the undies and they are dry by the morning...wear well and go thru many washings", "sentiment": "negative", "topics": {"0": "0.23510388", "1": "0.40211204", "2": "0.120827086", "3": "0.010214395", "4": "0.21124092", "5": "0.010251296", "6": "0.010250377"}}

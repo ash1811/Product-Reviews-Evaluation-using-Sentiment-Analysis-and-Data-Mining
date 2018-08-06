@@ -1,0 +1,1 @@
+{"text": "We've only had it a few months, but it's taken a fair amount of abuse, has been submerged in water once, and works great so far.  My son can put it on himself and work all the buttons.  I'm glad we bought it.", "sentiment": "negative", "topics": {"0": "0.16421425", "1": "0.30163342", "2": "0.20506734", "5": "0.30860144"}}

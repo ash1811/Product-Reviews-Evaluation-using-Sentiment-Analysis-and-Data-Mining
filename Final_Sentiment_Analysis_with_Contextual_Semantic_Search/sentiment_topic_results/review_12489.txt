@@ -1,0 +1,1 @@
+{"text": "Arrived on time and in great quality.  Love the comfort and selection of colors that Sanuk offers.  they are my go to flip flops.", "sentiment": "negative", "topics": {"0": "0.2538971", "1": "0.4631713", "2": "0.16903967", "3": "0.010221157", "4": "0.010251726", "5": "0.010245733", "6": "0.08317335"}}

@@ -1,0 +1,1 @@
+{"text": "I had to return them though, because I ordered for my son, and got a size too small, I re-ordered in right size", "sentiment": "negative", "topics": {"0": "0.013047207", "1": "0.2708255", "2": "0.012997663", "3": "0.013063726", "4": "0.26888877", "5": "0.013055309", "6": "0.4081218"}}

@@ -1,0 +1,1 @@
+{"text": "i received the underwear in good time and they were just as discribed in ad.the fit and colors are great. thank-you for a great item.", "sentiment": "negative", "topics": {"0": "0.011066001", "1": "0.5162604", "2": "0.10801525", "3": "0.13224171", "4": "0.0110017825", "5": "0.011038611", "6": "0.21037626"}}

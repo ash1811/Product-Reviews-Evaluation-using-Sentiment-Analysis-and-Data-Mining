@@ -1,0 +1,1 @@
+{"text": "See the review for the top. If you get the top you must get the bottom. These are really soft.", "sentiment": "positive", "topics": {"0": "0.013032798", "1": "0.013040715", "2": "0.013010756", "3": "0.608921", "4": "0.10661214", "5": "0.2323774", "6": "0.013005256"}}

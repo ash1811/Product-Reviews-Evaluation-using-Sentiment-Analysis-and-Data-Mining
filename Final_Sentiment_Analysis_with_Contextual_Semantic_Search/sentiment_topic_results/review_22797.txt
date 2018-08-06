@@ -1,0 +1,1 @@
+{"text": "Love these ear rings I got the bracelet  also they look so good together I have a ring and a watchable of lapis , I wear  them  withy dark jeans and navy outfit  ,  thank You", "sentiment": "negative", "topics": {"0": "0.35141048", "1": "0.23422387", "2": "0.06974284", "3": "0.093991235", "4": "0.08872731", "6": "0.15473047"}}

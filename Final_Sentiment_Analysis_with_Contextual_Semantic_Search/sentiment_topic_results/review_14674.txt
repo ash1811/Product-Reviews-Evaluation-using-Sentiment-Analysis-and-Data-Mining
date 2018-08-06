@@ -1,0 +1,1 @@
+{"text": "I purchased this for my stepfather. A real cowboy working with livestock, harvesting alfalfa, etc.  They are practical, durable, comfortable and economical, just what he wants in footwear.", "sentiment": "negative", "topics": {"0": "0.4209442", "1": "0.40586916", "2": "0.090766266", "4": "0.05560169"}}

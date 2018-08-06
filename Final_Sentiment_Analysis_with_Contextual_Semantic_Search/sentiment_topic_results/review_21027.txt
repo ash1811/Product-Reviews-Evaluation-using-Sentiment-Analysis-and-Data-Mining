@@ -1,0 +1,1 @@
+{"text": "I ordered these and I now I absolutely love this brand of legging.  They are very comfortable and they are good quality - not thin or see through.  I've ordered a second pair since my first purchase and am just as happy with the new pair.  Wonderful!", "sentiment": "negative", "topics": {"1": "0.4285309", "2": "0.052965112", "3": "0.27271786", "4": "0.22711249"}}

@@ -1,0 +1,1 @@
+{"text": "Awesome glasses. I almost gave it 4 stars because I have one complaint, I never get to wear them because I only got one pair.. we all love them.", "sentiment": "negative", "topics": {"1": "0.38000685", "2": "0.45472533", "4": "0.13148646"}}

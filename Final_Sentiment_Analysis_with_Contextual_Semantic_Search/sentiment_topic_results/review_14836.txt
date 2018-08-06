@@ -1,0 +1,1 @@
+{"text": "I bought these as a Xmas gift for my husband. He's happy with the fit and I'm happy with the look. My only complaint is that I think they are over priced.", "sentiment": "negative", "topics": {"0": "0.11958526", "1": "0.48185417", "2": "0.0875755", "3": "0.010219964", "4": "0.2802743", "5": "0.010235316", "6": "0.01025548"}}

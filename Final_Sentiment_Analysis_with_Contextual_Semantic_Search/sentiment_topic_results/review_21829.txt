@@ -1,0 +1,1 @@
+{"text": "these are great!  my son never complains about them at all.  they are comfy and don't shrink at all.. great product!", "sentiment": "negative", "topics": {"0": "0.01302432", "1": "0.25088987", "2": "0.013061961", "3": "0.013060993", "4": "0.013035273", "5": "0.68390334", "6": "0.013024222"}}

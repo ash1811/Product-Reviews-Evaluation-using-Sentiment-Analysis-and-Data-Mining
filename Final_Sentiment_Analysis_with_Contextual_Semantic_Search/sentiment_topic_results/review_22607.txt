@@ -1,0 +1,1 @@
+{"text": "I purchased these in a size 8 and was concerned they might be a little big because I have lost a lot of weight, but they fit well maybe a little tight. Might run a little small but worked for me. Just something to keep in mind.", "sentiment": "negative", "topics": {"1": "0.63302827", "2": "0.13141032", "3": "0.21262266"}}

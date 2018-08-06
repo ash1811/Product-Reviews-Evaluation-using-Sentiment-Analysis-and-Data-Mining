@@ -1,0 +1,1 @@
+{"text": "I bought some Old Navy fold-over jersey skirts in several colors for the summer and took the \"no panty line promise\" seriously.  It didn't work for me.  Shows right through...period.", "sentiment": "negative", "topics": {"2": "0.252484", "4": "0.081268795", "5": "0.43569824", "6": "0.21005552"}}

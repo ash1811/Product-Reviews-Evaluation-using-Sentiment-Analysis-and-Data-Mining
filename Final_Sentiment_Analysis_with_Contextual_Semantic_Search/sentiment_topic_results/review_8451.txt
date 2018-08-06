@@ -1,0 +1,1 @@
+{"text": "These are awesome! Great quality and thick enough so I don't have to worry about getting a hole in them. I'm wearing them with my halloween costume.", "sentiment": "negative", "topics": {"0": "0.12030295", "1": "0.60716695", "2": "0.23146163", "3": "0.010251954", "4": "0.010250907", "5": "0.010235386", "6": "0.010330218"}}

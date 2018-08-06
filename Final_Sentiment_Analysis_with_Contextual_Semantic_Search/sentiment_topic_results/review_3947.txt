@@ -1,0 +1,1 @@
+{"text": "The mistake was on my part. I thought I hit 10 instead of 9. Returns are always a problem. Gave to friend who wears 9. They said K-Swiss is not like older K-Swiss. Got cheaper with material and fit too snug.", "sentiment": "negative", "topics": {"1": "0.18915468", "3": "0.19608264", "4": "0.082474016", "5": "0.2080176", "6": "0.31279105"}}

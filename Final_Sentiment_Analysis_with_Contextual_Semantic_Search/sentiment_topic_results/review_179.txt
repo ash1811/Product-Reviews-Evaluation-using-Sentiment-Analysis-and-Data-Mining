@@ -1,0 +1,1 @@
+{"text": "Good wearing shirt. Holds shape after washing and dries well. I have ordered this shirt in two collars. No complaints about shirt.", "sentiment": "negative", "topics": {"1": "0.54738975", "3": "0.14919457", "4": "0.13246687", "6": "0.14227527"}}

@@ -1,0 +1,1 @@
+{"text": "The problem with some of these products is they are uncomfortable, but this one is not.  It fits well, supports properly, and feels comfy all day long.", "sentiment": "negative", "topics": {"0": "0.0102283275", "1": "0.3747523", "2": "0.010252984", "3": "0.010266936", "4": "0.2707391", "5": "0.17969684", "6": "0.14406347"}}

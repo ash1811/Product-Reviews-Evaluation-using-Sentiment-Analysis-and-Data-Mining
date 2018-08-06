@@ -1,0 +1,1 @@
+{"text": "I ordered several of this shirts for my husband and he is so pleased with the quality. They are soft and warm.  They wash and dry very well.", "sentiment": "negative", "topics": {"0": "0.011937747", "1": "0.7015616", "2": "0.011923395", "3": "0.011923033", "4": "0.23876739", "5": "0.011957011", "6": "0.011929778"}}

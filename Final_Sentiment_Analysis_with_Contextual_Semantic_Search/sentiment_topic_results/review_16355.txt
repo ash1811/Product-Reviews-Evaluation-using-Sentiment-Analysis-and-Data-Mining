@@ -1,0 +1,1 @@
+{"text": "It is a good sandal, but beware of sizing. I am 9.5 and asked for a 10 and it was still a bit small", "sentiment": "negative", "topics": {"0": "0.2960145", "1": "0.5401815", "2": "0.01304084", "3": "0.013047632", "4": "0.11171131", "5": "0.013013749", "6": "0.012990522"}}

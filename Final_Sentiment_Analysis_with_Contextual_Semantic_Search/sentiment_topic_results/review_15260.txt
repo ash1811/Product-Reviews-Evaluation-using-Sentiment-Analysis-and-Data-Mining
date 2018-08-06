@@ -1,0 +1,1 @@
+{"text": "my wife has been at the same job at the hospital for 30 plus years, and she likes to have different scrubs, and she likes this.", "sentiment": "positive", "topics": {"0": "0.011935131", "1": "0.22821636", "2": "0.10373277", "3": "0.0120090945", "4": "0.10620379", "5": "0.011940704", "6": "0.5259621"}}

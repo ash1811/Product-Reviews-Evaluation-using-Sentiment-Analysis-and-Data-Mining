@@ -1,0 +1,1 @@
+{"text": "I love this ring and have worn it since receiving it...Everyone who has seen it loves it and wants one..The price is right and I love it..Highly recommend!", "sentiment": "negative", "topics": {"1": "0.114963114", "2": "0.28743103", "4": "0.42084837", "6": "0.1499193"}}

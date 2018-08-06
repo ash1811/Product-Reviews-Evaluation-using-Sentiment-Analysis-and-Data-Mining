@@ -1,0 +1,1 @@
+{"text": "The size was perfect for my boots nut the instep are in the wrong place didn't fit my feet .", "sentiment": "negative", "topics": {"0": "0.12277876", "1": "0.22478573", "2": "0.10969299", "3": "0.1467081", "4": "0.3673834", "5": "0.014299581", "6": "0.014351437"}}

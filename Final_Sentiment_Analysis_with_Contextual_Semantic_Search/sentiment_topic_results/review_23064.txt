@@ -1,0 +1,1 @@
+{"text": "I've had Reefs before, good quality product.  This model needed some break in to conform to my foot.  Similar Sanuks fit right out of the box.  Both are top brands.", "sentiment": "negative", "topics": {"0": "0.066625215", "1": "0.32408586", "3": "0.37132105", "5": "0.13697757", "6": "0.08586777"}}

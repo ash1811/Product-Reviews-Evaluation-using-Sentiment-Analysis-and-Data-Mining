@@ -1,0 +1,1 @@
+{"text": "Please, as per usual,order half size down for Clarks shoes. They fit well but you need a replacement soles for more comfort.", "sentiment": "positive", "topics": {"0": "0.010243425", "1": "0.364302", "2": "0.18714002", "3": "0.2362653", "4": "0.010204241", "5": "0.010216497", "6": "0.18162848"}}

@@ -1,0 +1,1 @@
+{"text": "I wear a 12 in shoes but I could not get this sock on my toes.  They were way too small and it was uncomfortable. I can see how these would be nice if they fit. I do have long toes but I am human :)", "sentiment": "negative", "topics": {"0": "0.071807384", "1": "0.5223429", "2": "0.08016893", "4": "0.121590376", "5": "0.18815696"}}

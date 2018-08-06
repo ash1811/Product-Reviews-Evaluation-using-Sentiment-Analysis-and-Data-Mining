@@ -1,0 +1,1 @@
+{"text": "Well made, good comfort, good fit and great arch support. I have no complaints and excited I was able to order on line.", "sentiment": "negative", "topics": {"0": "0.09221998", "1": "0.4973712", "3": "0.30418885", "6": "0.07759593"}}

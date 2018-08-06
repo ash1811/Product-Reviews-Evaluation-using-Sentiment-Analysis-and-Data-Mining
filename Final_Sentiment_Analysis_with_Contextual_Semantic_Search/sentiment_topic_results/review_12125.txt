@@ -1,0 +1,1 @@
+{"text": "but totally does what I need it to do.  It protects my son's goggles when he's not swimming and it protects his regular glasses when he is.  It's a soft case, so sitting on it while it's loaded is not recommended!", "sentiment": "negative", "topics": {"0": "0.20877796", "2": "0.2980024", "3": "0.38042015", "6": "0.08889987"}}

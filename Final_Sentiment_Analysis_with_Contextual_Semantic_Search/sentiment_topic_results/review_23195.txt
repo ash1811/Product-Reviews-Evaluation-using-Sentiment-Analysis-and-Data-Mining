@@ -1,0 +1,1 @@
+{"text": "Mock necks are always comfortable and this top is soft, well made and comfortable. It is a tad roomier than I would like, but as a layering piece it's fine.", "sentiment": "negative", "topics": {"1": "0.44129643", "2": "0.102753595", "3": "0.10046387", "6": "0.33023062"}}

@@ -1,0 +1,1 @@
+{"text": "No need for anything else it works!  No need to pay alot for something else.  I imagine this will work for me for many years.", "sentiment": "negative", "topics": {"0": "0.010228524", "1": "0.18908024", "2": "0.33802906", "3": "0.010260361", "4": "0.056429237", "5": "0.20547739", "6": "0.19049521"}}

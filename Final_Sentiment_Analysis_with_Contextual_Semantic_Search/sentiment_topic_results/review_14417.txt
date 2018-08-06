@@ -1,0 +1,1 @@
+{"text": "I've had the exact shoes and wore them out. I was so surprised to find them again, and at such a great price. Highly recommend.", "sentiment": "negative", "topics": {"0": "0.0110207815", "1": "0.011046355", "2": "0.11945932", "3": "0.109843835", "4": "0.011059625", "5": "0.6507247", "6": "0.08684537"}}

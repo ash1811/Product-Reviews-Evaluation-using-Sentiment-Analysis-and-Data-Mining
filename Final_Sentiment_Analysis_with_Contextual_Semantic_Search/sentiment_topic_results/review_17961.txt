@@ -1,0 +1,1 @@
+{"text": "I bought this watch about two years ago. It maintains the time accurately in water or out. You couldn't beat the price, I recommend this for a low cost watch.", "sentiment": "negative", "topics": {"1": "0.3083274", "2": "0.2533604", "3": "0.11067068", "4": "0.113090485", "5": "0.1355341", "6": "0.07059132"}}

@@ -1,0 +1,1 @@
+{"text": "Runs a very little narrow, which is perfect for me.  I have been cursed with a narrow foot, and finding shoes that don't look like swim fins has always been a challenge.  They are a dark brown and look good even with black pants.'", "sentiment": "negative", "topics": {"0": "0.10120398", "1": "0.48693803", "2": "0.24666095", "4": "0.14727731"}}

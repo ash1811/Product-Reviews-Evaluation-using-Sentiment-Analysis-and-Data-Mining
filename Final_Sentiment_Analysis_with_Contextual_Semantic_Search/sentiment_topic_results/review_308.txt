@@ -1,0 +1,1 @@
+{"text": "This is not something I would wear to the office, but great for tennis or pool. It is Hanes and it is comfortable but yet a little more dressy than a t-shirt. Thin so it is not hot, but also not see though. Very happy with this, great price and great shirt.", "sentiment": "negative", "topics": {"1": "0.57024676", "2": "0.07735226", "4": "0.25854075", "6": "0.0766547"}}

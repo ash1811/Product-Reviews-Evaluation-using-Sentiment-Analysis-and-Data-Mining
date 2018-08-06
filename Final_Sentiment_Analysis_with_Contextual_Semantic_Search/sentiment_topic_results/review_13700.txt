@@ -1,0 +1,1 @@
+{"text": "This item was too long for me - I am about 5'0&#34;, 120lbs, and this item was way too long for my torso.", "sentiment": "negative", "topics": {"0": "0.015890358", "1": "0.01599381", "2": "0.015881442", "3": "0.015915642", "4": "0.39368856", "5": "0.01596509", "6": "0.52666503"}}

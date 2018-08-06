@@ -1,0 +1,1 @@
+{"text": "I usually buy Hanes briefs. They are nice and comfortable. I am sorry tho that they don't have the all white anymore. Or if they do I could not find them.", "sentiment": "negative", "topics": {"0": "0.0102206515", "1": "0.43650076", "2": "0.01026222", "3": "0.08929961", "4": "0.33299166", "5": "0.110520296", "6": "0.010204788"}}

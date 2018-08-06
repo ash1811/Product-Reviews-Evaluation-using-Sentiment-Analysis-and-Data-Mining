@@ -1,0 +1,1 @@
+{"text": "My wife loves these and they keep her feet warm. For warmth and fashion they may be five stars, but they are one star for traction. They are so slippery that I consider them dangerous.", "sentiment": "negative", "topics": {"0": "0.117848806", "1": "0.26169357", "2": "0.17694099", "3": "0.41819918"}}

@@ -1,0 +1,1 @@
+{"text": "wife really likes these sandals,and keen allways fit even better and are more comfortable than expected of any shoes we purchased", "sentiment": "positive", "topics": {"0": "0.010250732", "1": "0.43858272", "2": "0.16133058", "3": "0.20098917", "4": "0.0102166915", "5": "0.010230159", "6": "0.16839994"}}

@@ -1,0 +1,1 @@
+{"text": "i continue to buy this watch. love the timer and stop watch function, holds up great through an active job and the gym. i never take it off and havent had a problem. eventually the band breaks but its still a fantastic watch", "sentiment": "negative", "topics": {"0": "0.14019187", "1": "0.37026381", "2": "0.19680089", "3": "0.20899753", "4": "0.071824074"}}

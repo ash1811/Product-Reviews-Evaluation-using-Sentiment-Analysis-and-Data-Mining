@@ -1,0 +1,1 @@
+{"text": "hubby loves these there long enough to cover belly and has a pocket as well.  it's nice to make him happy.", "sentiment": "negative", "topics": {"0": "0.011928701", "1": "0.5401462", "2": "0.011925168", "3": "0.06948856", "4": "0.20900434", "5": "0.1455597", "6": "0.011947311"}}

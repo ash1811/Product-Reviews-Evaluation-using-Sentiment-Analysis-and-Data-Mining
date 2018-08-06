@@ -1,0 +1,1 @@
+{"text": "Got these for my daughter, and she loves them, she also has small feet.  On my feet they may not look so cute!", "sentiment": "negative", "topics": {"0": "0.011958094", "1": "0.011975444", "2": "0.011926228", "3": "0.6350571", "4": "0.305177", "5": "0.011980395", "6": "0.011925705"}}

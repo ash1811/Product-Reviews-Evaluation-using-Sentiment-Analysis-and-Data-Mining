@@ -1,0 +1,1 @@
+{"text": "Use the socks with my Vibrams Five Fingers on long runs or very hot days.Makes for a more comfortable run", "sentiment": "negative", "topics": {"0": "0.011915617", "1": "0.32321575", "2": "0.011930376", "3": "0.30934072", "4": "0.13001584", "5": "0.10390613", "6": "0.109675534"}}

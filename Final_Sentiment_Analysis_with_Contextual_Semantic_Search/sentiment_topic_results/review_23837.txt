@@ -1,0 +1,1 @@
+{"text": "purchased as gift for son who has a red work shirt requiredment. no complants thus far.a brand i will trust", "sentiment": "positive", "topics": {"0": "0.68806034", "1": "0.14918979", "2": "0.011008047", "3": "0.11873167", "4": "0.0110006435", "5": "0.011006012", "6": "0.011003498"}}

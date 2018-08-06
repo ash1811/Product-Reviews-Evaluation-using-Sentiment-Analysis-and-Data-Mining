@@ -1,0 +1,1 @@
+{"text": "this is a classic casio they been making this watch for  awhile cause its such a great watch my friend asked me to replace a very old one that he had same great watch now he has got 3 in different colors", "sentiment": "negative", "topics": {"1": "0.24307692", "2": "0.47721395", "5": "0.09126757", "6": "0.16696051"}}

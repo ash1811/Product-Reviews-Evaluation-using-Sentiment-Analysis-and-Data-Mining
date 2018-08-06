@@ -1,0 +1,1 @@
+{"text": "For a Rolex look a like, this one comes at great cost, quality and look.I like the tone of blue and the gold plating is done very nicely.", "sentiment": "positive", "topics": {"1": "0.52801716", "2": "0.17112146", "3": "0.12542608", "4": "0.15013212"}}

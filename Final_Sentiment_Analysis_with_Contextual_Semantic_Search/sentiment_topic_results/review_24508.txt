@@ -1,0 +1,1 @@
+{"text": "I loved the look and feel of the tights, they weren't too tight or loose, they fit just perfect and went wonderful with my costume! Thank you!! I would totally buy them again!!!!", "sentiment": "negative", "topics": {"0": "0.21910493", "1": "0.48651373", "2": "0.0735722", "4": "0.0912911", "5": "0.11357354"}}

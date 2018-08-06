@@ -1,0 +1,1 @@
+{"text": "I love these slippers.  Super comfortable and warm.  Definitely for the winter time.  Soft cushiony insides and the soles are made of a material that lasts forever.", "sentiment": "negative", "topics": {"1": "0.53323466", "3": "0.15188368", "4": "0.20996", "6": "0.07963837"}}

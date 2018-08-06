@@ -1,0 +1,1 @@
+{"text": "I bought these for my son and he absolutely loves them!! Puts them on as soon as he gets home from school!!  VERY nice slippers, I was very pleased with the quality.", "sentiment": "positive", "topics": {"1": "0.5722348", "2": "0.2932564", "6": "0.09621929"}}

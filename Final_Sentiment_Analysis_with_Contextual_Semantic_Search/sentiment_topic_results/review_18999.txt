@@ -1,0 +1,1 @@
+{"text": "Since I bought this for my wife, I can't give you a first hand account of how it fits, but she says it fits good, and I think her boobs look really great in it.", "sentiment": "positive", "topics": {"1": "0.79986095", "6": "0.16241498"}}

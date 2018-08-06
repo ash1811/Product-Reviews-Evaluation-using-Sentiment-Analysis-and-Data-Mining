@@ -1,0 +1,1 @@
+{"text": "Excellent product.  Give me a discount or a rebate and I'll write more about this product.  I'm Jack Benny's cousin.Jesus is Lord.", "sentiment": "positive", "topics": {"0": "0.010237936", "1": "0.010223445", "2": "0.08475925", "3": "0.29761204", "4": "0.20139106", "5": "0.31026435", "6": "0.08551196"}}

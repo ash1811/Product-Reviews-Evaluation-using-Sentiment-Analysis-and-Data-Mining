@@ -1,0 +1,1 @@
+{"text": "this thing works great on my sterling silver badge!  used to use a paste and a microfiber cloth but it would leave very small scratches.  this works great especially for the price.", "sentiment": "negative", "topics": {"0": "0.2112507", "1": "0.3386838", "3": "0.42143273"}}

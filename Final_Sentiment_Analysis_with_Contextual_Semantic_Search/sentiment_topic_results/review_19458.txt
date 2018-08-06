@@ -1,0 +1,1 @@
+{"text": "my husband and i buy this watch for our 5 years old daughter, she love this watch it has beautiful colors and is so easy to read  for girls..", "sentiment": "negative", "topics": {"1": "0.17656088", "2": "0.24401109", "3": "0.17603134", "4": "0.3747248"}}

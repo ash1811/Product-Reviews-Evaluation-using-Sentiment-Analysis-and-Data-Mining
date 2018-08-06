@@ -1,0 +1,1 @@
+{"text": "These gloves were of durable quality and they surely added authenticity to my son's Buzz Lightyear costume. We attached a laser pen to them:)", "sentiment": "negative", "topics": {"0": "0.08635762", "1": "0.13490629", "2": "0.17132525", "3": "0.21153197", "4": "0.112985216", "5": "0.2733683"}}

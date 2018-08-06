@@ -1,0 +1,1 @@
+{"text": "Niece loved these in pink she has worn them out!!! Great gift for a girly girl. These are simply adorable. Would buy again!", "sentiment": "negative", "topics": {"0": "0.26522127", "1": "0.30172095", "4": "0.24247564", "6": "0.16184708"}}

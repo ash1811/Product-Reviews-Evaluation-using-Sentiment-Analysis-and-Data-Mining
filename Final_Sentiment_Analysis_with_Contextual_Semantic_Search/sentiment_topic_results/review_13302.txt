@@ -1,0 +1,1 @@
+{"text": "I have being wearing 501s since I can remember. They are sturdy, last forever and will always be fashionable, well at least thats what I think.", "sentiment": "negative", "topics": {"0": "0.010233886", "1": "0.4149581", "2": "0.01024233", "3": "0.1789346", "4": "0.27567446", "5": "0.010245589", "6": "0.099711"}}

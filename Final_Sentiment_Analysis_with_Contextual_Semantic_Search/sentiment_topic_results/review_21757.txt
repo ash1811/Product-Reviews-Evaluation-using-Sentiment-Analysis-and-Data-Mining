@@ -1,0 +1,1 @@
+{"text": "Not sure what to say except they fit as expected and went well on my honeymoon. I would recommend to a friend.", "sentiment": "negative", "topics": {"0": "0.11565438", "1": "0.5395687", "2": "0.121481694", "3": "0.011923028", "4": "0.011914829", "5": "0.10871072", "6": "0.090746656"}}

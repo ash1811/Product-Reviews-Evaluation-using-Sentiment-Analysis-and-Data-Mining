@@ -1,0 +1,1 @@
+{"text": "Bought these for my wife, who, after reading the reviews said \"I am usually an 8 so I'll go with that.\" Her heel hung over the back and she said they run a size short.", "sentiment": "negative", "topics": {"0": "0.08563838", "1": "0.27932796", "3": "0.42213702", "4": "0.19141927"}}

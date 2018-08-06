@@ -1,0 +1,1 @@
+{"text": "Size ordered was according to usual sock size, but actual sock size was actually shoe size.  love the cotton but it did not shrink.", "sentiment": "negative", "topics": {"1": "0.17305505", "2": "0.19125926", "3": "0.38626704", "5": "0.22256763"}}

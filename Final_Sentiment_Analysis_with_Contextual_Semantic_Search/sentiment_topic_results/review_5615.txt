@@ -1,0 +1,1 @@
+{"text": "Bought it for casual dressy for my hubby to wear with his khakis. He really liked it and especially because it is so soft. Medium weight material, not thick or thin.", "sentiment": "negative", "topics": {"1": "0.56145996", "5": "0.29966897", "6": "0.1031021"}}

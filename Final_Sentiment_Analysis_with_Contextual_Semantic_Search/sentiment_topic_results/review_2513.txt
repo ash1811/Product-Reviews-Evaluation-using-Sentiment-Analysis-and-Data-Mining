@@ -1,0 +1,1 @@
+{"text": "I'm so pleased with the leather especially its soft and looks expensive, but it isn't expensive at all...Well worth the money.  This is my second one and I am hard on things but this stands the test...I will continue to order them for gifts too.", "sentiment": "negative", "topics": {"0": "0.23560256", "1": "0.5279765", "2": "0.10183351", "3": "0.115053624"}}

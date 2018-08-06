@@ -1,0 +1,1 @@
+{"text": "Merchandise was shipped on a timely basis. The fabric of these pajamas is very flimsy, and the buttons were barely on the shirt. Had to sew all the buttons on before my husband could wear them. Do not recommend", "sentiment": "negative", "topics": {"0": "0.041244652", "2": "0.18692946", "4": "0.14219831", "5": "0.41818237", "6": "0.19553386"}}

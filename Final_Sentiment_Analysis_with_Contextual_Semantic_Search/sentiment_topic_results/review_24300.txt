@@ -1,0 +1,1 @@
+{"text": "I don't like ordering socks and hose online but, these trouser socks were comfortable and stayed up. I will definitely be ordering more later..thanks", "sentiment": "negative", "topics": {"0": "0.31368855", "1": "0.0940129", "3": "0.0716177", "5": "0.4920529"}}

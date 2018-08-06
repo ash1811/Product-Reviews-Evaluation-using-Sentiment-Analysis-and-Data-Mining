@@ -1,0 +1,1 @@
+{"text": "I liked the look of the ring from the picture, but the band itself is quite uncomfortable.  The silver bands around the stones are not beveled, but stick into my finger.  I had been hoping to find a ring for everyday use, but this isn't it.", "sentiment": "negative", "topics": {"1": "0.57200056", "4": "0.24817449", "6": "0.15251546"}}

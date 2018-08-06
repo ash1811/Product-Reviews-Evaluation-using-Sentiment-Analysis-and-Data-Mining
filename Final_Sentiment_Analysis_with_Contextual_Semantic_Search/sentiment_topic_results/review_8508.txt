@@ -1,0 +1,1 @@
+{"text": "Depending on the brand sneaker I wear a 10.5 or an 11. Based on the reviews I ordered a 11 wide 2 E. The sneaker is too narrow. I did not reordered a larger size as I did think the sneakers would be comfortable to wear. Returned.", "sentiment": "positive", "topics": {"0": "0.26287273", "1": "0.16560465", "3": "0.15005502", "4": "0.17740601", "5": "0.2325927"}}

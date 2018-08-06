@@ -1,0 +1,1 @@
+{"text": "Sent back quality was good and color was right but the size was very big they are more of a relax fit then a regular fit", "sentiment": "negative", "topics": {"0": "0.010994737", "1": "0.70749575", "2": "0.010990078", "3": "0.23750836", "4": "0.010995989", "5": "0.010998497", "6": "0.011016576"}}

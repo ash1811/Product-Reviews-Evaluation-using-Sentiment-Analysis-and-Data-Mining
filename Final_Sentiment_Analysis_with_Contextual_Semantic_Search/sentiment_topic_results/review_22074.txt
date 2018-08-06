@@ -1,0 +1,1 @@
+{"text": "bought these for the wife for Chirstmas and she loves em'. Keeps her hands warm yet allows her to grip the wheel without sliding around. A+", "sentiment": "positive", "topics": {"1": "0.46441597", "3": "0.16105776", "4": "0.34081998"}}

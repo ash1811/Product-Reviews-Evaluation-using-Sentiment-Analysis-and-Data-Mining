@@ -1,0 +1,1 @@
+{"text": "Nothing like being able to slip on a shoe when the kids want to run outside for a bit or you need to run to the store.  We ered on the big size so my 3 year old could grow into it.  I love these shoes!", "sentiment": "positive", "topics": {"0": "0.073523544", "1": "0.20766358", "2": "0.12360694", "3": "0.3515338", "5": "0.0743939", "6": "0.16354781"}}

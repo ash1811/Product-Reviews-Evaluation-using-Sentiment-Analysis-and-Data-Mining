@@ -1,0 +1,1 @@
+{"text": "These were very good, inexpensive pants. They clean easily. Amazon's online sizing chart matched the delivered pants very well. Fit was nearly perfect.", "sentiment": "negative", "topics": {"1": "0.6306614", "4": "0.3272232"}}

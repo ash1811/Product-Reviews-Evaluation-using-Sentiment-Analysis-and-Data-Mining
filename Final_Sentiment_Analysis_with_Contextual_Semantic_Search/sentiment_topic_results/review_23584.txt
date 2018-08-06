@@ -1,0 +1,1 @@
+{"text": "This is my first pair of Birkenstock shoes.  I've heard so many good things about them and am so glad I decided to try them.  They give my feet the support they need and are very comfortable.", "sentiment": "negative", "topics": {"1": "0.21995287", "2": "0.14566901", "3": "0.4027679", "4": "0.15085155", "6": "0.06569386"}}

@@ -1,0 +1,1 @@
+{"text": "The internal fixtures on this bag rip, like anything from China, but the concept and design are excellent, and the construction is good enough to make up for the flimsiness.", "sentiment": "negative", "topics": {"2": "0.17534615", "3": "0.21559584", "5": "0.3483323", "6": "0.23385319"}}

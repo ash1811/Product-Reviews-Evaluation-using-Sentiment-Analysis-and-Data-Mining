@@ -1,0 +1,1 @@
+{"text": "this shoe is very comfortable. It is easy on your feet. I definatelt will recommend this to others who do a lot of standing and walking.", "sentiment": "positive", "topics": {"0": "0.013056234", "1": "0.22582863", "2": "0.22816896", "3": "0.013047465", "4": "0.2528372", "5": "0.013112306", "6": "0.2539492"}}

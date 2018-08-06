@@ -1,0 +1,1 @@
+{"text": "I bought this shirt primarily for the gym, but could also wear it with jeans.  Fits good and looks great.", "sentiment": "negative", "topics": {"0": "0.0110224355", "1": "0.4913152", "2": "0.010995684", "3": "0.011016239", "4": "0.18059129", "5": "0.28405973", "6": "0.010999408"}}

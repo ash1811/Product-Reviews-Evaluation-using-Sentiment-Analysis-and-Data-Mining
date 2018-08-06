@@ -1,0 +1,1 @@
+{"text": "I tried these on in a local store and they had the appropriate High Arch. But these ones had no Arch. I sent them back and was very disappointed.", "sentiment": "positive", "topics": {"0": "0.011910719", "1": "0.41377833", "2": "0.012023141", "3": "0.52645916", "4": "0.01195283", "5": "0.011912789", "6": "0.011963021"}}

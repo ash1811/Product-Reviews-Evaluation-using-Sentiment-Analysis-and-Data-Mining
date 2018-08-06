@@ -1,0 +1,1 @@
+{"text": "I bought these for my sister who wears a size 10 shoe.  She says they fit well and are comfortable.", "sentiment": "positive", "topics": {"0": "0.013038378", "1": "0.51553", "2": "0.11895763", "3": "0.013064968", "4": "0.13310741", "5": "0.013034895", "6": "0.19326673"}}

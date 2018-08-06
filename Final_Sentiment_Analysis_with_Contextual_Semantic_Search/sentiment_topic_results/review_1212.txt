@@ -1,0 +1,1 @@
+{"text": "I really enjoy this bra, mainly because it doesn't look like one! Very comfortable, I can wear it under sheer shirts and have it look nicer than a bra but offers more support/security than a bandeau. True to fit, good quality.", "sentiment": "positive", "topics": {"0": "0.07334567", "1": "0.5275163", "2": "0.12133369", "3": "0.20504232", "4": "0.059745323"}}

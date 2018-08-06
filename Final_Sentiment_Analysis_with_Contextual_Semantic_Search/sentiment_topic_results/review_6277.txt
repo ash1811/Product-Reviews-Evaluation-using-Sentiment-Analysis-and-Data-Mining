@@ -1,0 +1,1 @@
+{"text": "For a retired conservative gentleman, this is the new uniform. It is dependable and goes with all his leisure outfits.", "sentiment": "negative", "topics": {"0": "0.1766275", "1": "0.1907259", "2": "0.014293578", "3": "0.12850648", "4": "0.26204205", "5": "0.014340835", "6": "0.2134637"}}

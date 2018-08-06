@@ -1,0 +1,1 @@
+{"text": "cool material and great buy, my only thing is that they are very long and therefore may need to be adjusted if you are not a tall person.", "sentiment": "negative", "topics": {"0": "0.011030709", "1": "0.36553097", "2": "0.14511147", "3": "0.0110212555", "4": "0.01103943", "5": "0.33968943", "6": "0.11657669"}}

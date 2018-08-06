@@ -1,0 +1,1 @@
+{"text": "I am very pleased with this jewelry box.  It is perfect for my 4 year old daughter I just hope she is careful with it.  The music is lovely and the ballerina spins around until you close the box.  It's a must for every young girl !", "sentiment": "positive", "topics": {"0": "0.379352", "1": "0.11619588", "3": "0.2884118", "4": "0.13399531", "6": "0.06956435"}}

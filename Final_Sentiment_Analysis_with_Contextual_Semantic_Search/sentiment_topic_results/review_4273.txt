@@ -1,0 +1,1 @@
+{"text": "returning these, I received infant shoes.  too much work trying to figure out the sizing so I am going to go into a store and try on sneakers instead.", "sentiment": "negative", "topics": {"0": "0.22550353", "1": "0.25361744", "2": "0.16829869", "3": "0.32731432"}}

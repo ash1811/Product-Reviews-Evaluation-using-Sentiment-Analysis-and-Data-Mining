@@ -1,0 +1,1 @@
+{"text": "The fit was good, the fabric thick enough and nice colors.  My husband likes a heavy shirt and is happy with these.  Holding up well with repeated washing.", "sentiment": "negative", "topics": {"1": "0.43997723", "4": "0.30251938", "5": "0.10588395", "6": "0.12772189"}}

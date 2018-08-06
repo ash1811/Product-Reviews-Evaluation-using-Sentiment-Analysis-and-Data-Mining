@@ -1,0 +1,1 @@
+{"text": "I ordered these for a friend who stands on his feet for work. He said he liked them. He seemed to be happy with them and they were recommended to him by co-workers.", "sentiment": "negative", "topics": {"0": "0.011021308", "1": "0.011073454", "2": "0.20313127", "3": "0.15040152", "4": "0.24258956", "5": "0.27215916", "6": "0.10962371"}}

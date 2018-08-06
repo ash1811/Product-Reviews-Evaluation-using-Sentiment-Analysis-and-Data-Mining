@@ -1,0 +1,1 @@
+{"text": "delicate and still seems to be strong, love it and can switch from one silver item to another .  Can go casual or dressythe perfect length for me.", "sentiment": "negative", "topics": {"3": "0.46762323", "4": "0.22095023", "6": "0.27769247"}}

@@ -1,0 +1,1 @@
+{"text": "This earrings are beautiful, and full of sparkle.  They will go with any color.  Light weight and easy to wear.I recommend them for any nice outfit.", "sentiment": "positive", "topics": {"0": "0.43025014", "1": "0.37245962", "2": "0.010217426", "3": "0.01023785", "4": "0.15631704", "5": "0.0102505665", "6": "0.010267377"}}

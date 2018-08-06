@@ -1,0 +1,1 @@
+{"text": "The band runs kind of small. The cups fit okay. The part in the middle between the cups comes up a little too high for what I need. I found one that fits better.", "sentiment": "negative", "topics": {"1": "0.44678965", "2": "0.11375314", "3": "0.15268192", "4": "0.11068777", "6": "0.16097918"}}

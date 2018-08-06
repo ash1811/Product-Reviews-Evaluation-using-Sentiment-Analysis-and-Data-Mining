@@ -1,0 +1,1 @@
+{"text": "my granddaughter loved this watch - she is only 8 so it took her awhile to figure it out, but she got it together and has been wearing it.", "sentiment": "negative", "topics": {"0": "0.12703101", "1": "0.4354115", "2": "0.122842155", "3": "0.28164265", "4": "0.011014346", "5": "0.011003669", "6": "0.011054639"}}

@@ -1,0 +1,1 @@
+{"text": "Birkenstock quality is well known, but getting these shoes in this color at this price was a real steal!  Excellent!.", "sentiment": "negative", "topics": {"0": "0.011916833", "1": "0.6646527", "2": "0.20264427", "3": "0.08502995", "4": "0.011927387", "5": "0.011919677", "6": "0.011909125"}}

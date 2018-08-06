@@ -1,0 +1,1 @@
+{"text": "They fit like a glove (haha) and they are true to color. I used the yellow ones for my Rogue costume at a costume convention in April. Tons of compliments on the costume, but it wouldn't be complete without those gloves!", "sentiment": "negative", "topics": {"0": "0.27668247", "1": "0.1715627", "2": "0.28551155", "3": "0.113801174", "4": "0.13882181"}}

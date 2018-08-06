@@ -1,0 +1,1 @@
+{"text": "Good quality and fits well. It's perfect for North Carolina winter weather. I bought this from LLBean and their quality is good.", "sentiment": "positive", "topics": {"0": "0.010213038", "1": "0.77465904", "2": "0.010208027", "3": "0.0901134", "4": "0.010211503", "5": "0.010214198", "6": "0.094380766"}}

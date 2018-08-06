@@ -1,0 +1,1 @@
+{"text": "Great with jeans, sweats, pj's, comfortable without elastic pinch, good price, fast ship, modern looking without  old lady look undies,", "sentiment": "negative", "topics": {"0": "0.30238444", "1": "0.26534602", "3": "0.07225096", "4": "0.2862403", "6": "0.05945865"}}

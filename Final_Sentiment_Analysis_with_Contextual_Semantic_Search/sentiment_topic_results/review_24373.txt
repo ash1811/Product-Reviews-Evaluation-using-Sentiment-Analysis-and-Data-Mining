@@ -1,0 +1,1 @@
+{"text": "this beanie fits great and keeps my head warm like it is supposed to. i'm probably going to order some more colors.", "sentiment": "negative", "topics": {"0": "0.15634541", "1": "0.69605416", "2": "0.10937407"}}

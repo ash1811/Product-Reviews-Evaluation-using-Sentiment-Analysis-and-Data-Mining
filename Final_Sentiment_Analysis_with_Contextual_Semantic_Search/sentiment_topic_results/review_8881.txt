@@ -1,0 +1,1 @@
+{"text": "I needed nursing style shoes. These are excellent! They are a little snug in the tongue area of the shoe, but otherwise fit perfectly. I wear an 11 narrow/average shoe.", "sentiment": "positive", "topics": {"1": "0.2906393", "2": "0.34262896", "4": "0.15464847", "6": "0.18823405"}}

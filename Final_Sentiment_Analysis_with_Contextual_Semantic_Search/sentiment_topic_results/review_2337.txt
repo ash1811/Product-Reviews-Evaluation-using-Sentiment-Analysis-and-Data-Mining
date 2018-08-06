@@ -1,0 +1,1 @@
+{"text": "Excellent product, have been using this brand and style for as long as I can remember. I was able to get it at an incredible price on Amazon. So I bought several units.", "sentiment": "positive", "topics": {"0": "0.07759918", "1": "0.26596683", "2": "0.08868918", "3": "0.2390126", "4": "0.16204444", "5": "0.15772955"}}

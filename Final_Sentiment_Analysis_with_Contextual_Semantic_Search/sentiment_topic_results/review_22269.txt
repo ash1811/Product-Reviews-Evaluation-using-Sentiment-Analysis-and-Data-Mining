@@ -1,0 +1,1 @@
+{"text": "I use these when I run because I hate socks that disappear into my shoe. These stay put. I like that the knit is not bulky too. I've had them almost a year and they have held up from all the washing so I feel like they are money well spent.", "sentiment": "positive", "topics": {"2": "0.35694185", "3": "0.30265245", "5": "0.2197103", "6": "0.10197152"}}

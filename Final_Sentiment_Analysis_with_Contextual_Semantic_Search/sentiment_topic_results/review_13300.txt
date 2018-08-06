@@ -1,0 +1,1 @@
+{"text": "These shoes can be worn to the mall, to the grocery store or just from your couch to the kitchen. Nice combination of function and comfort.", "sentiment": "positive", "topics": {"0": "0.07576662", "1": "0.25489715", "2": "0.18221422", "3": "0.011915263", "4": "0.0625957", "5": "0.011913706", "6": "0.40069735"}}

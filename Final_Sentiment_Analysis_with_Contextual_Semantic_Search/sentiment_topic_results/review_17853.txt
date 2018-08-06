@@ -1,0 +1,1 @@
+{"text": "I got 1 for myself and another for my son (9yrs old) and they are terrific!  Where the \"3\" should be it has a window for the date, (number only).  I love everything about it!  And you can skip ahead if the month doesnt have 31 days.", "sentiment": "negative", "topics": {"0": "0.36968327", "1": "0.30298313", "2": "0.30122772"}}

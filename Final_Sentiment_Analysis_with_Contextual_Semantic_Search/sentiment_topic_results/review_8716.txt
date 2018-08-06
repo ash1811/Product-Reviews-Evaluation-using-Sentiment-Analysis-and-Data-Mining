@@ -1,0 +1,1 @@
+{"text": "I bought this for my 13 year old son to teach him the value of time.  He wears the watch everyday mostly because it looks cool.  It is a little small for me but pefect for someone that likes a small and reliable watch.", "sentiment": "positive", "topics": {"1": "0.2955483", "2": "0.14646232", "4": "0.19784135", "5": "0.29094648", "6": "0.056736153"}}

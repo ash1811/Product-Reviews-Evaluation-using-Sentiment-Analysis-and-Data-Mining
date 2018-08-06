@@ -1,0 +1,1 @@
+{"text": "I don't use this ofter but the royal blue is bright, colorful and very pretty. I would recommend for going out at night.", "sentiment": "negative", "topics": {"0": "0.011955139", "1": "0.44483122", "2": "0.15623961", "3": "0.01195225", "4": "0.01194933", "5": "0.35115194", "6": "0.011920535"}}

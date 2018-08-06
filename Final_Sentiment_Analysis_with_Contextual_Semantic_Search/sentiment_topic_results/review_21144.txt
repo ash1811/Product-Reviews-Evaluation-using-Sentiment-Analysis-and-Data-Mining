@@ -1,0 +1,1 @@
+{"text": "i got these pants for work and what can i say it was a grat buy and i absolutely love them. they fit my ass ao well and i must say its a grat buy. the pants are lined and the fabric is really airy and light these are great pants", "sentiment": "negative", "topics": {"1": "0.3951145", "2": "0.11076831", "3": "0.1456706", "5": "0.23732652", "6": "0.100113116"}}

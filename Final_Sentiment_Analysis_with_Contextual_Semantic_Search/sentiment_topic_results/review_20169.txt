@@ -1,0 +1,1 @@
+{"text": "These Carhartt's work great for upland bird hunting. We live in the desert and briars and thorns don't penetrate the heavy canvas.", "sentiment": "positive", "topics": {"0": "0.22221453", "1": "0.010239242", "2": "0.37018228", "3": "0.10619361", "4": "0.08851332", "5": "0.010224359", "6": "0.19243264"}}

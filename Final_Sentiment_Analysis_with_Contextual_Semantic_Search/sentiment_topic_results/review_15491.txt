@@ -1,0 +1,1 @@
+{"text": "This is the thinnest watch I have seen. The face and styling are beautiful. I have had a problem with the outer clasp staying shut. It opens several times a day. That is the only reason for 4 stars.", "sentiment": "positive", "topics": {"0": "0.124534056", "1": "0.15456577", "2": "0.19489667", "3": "0.22440764", "4": "0.28650838"}}

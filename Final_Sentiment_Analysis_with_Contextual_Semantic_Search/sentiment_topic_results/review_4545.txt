@@ -1,0 +1,1 @@
+{"text": "Put heavy starch on them, put your favored black leather jacket and a wool Greek  fisherman hat and be the coolest guy in the neighborhood", "sentiment": "negative", "topics": {"0": "0.06819822", "2": "0.21392998", "3": "0.2394743", "4": "0.30156296", "5": "0.08927526", "6": "0.07915071"}}

@@ -1,0 +1,1 @@
+{"text": "Just love them, perfect for the seasona and fit perfectly  I love these shoses and have several pair of summer ones too", "sentiment": "negative", "topics": {"0": "0.33571604", "1": "0.33975762", "2": "0.011079228", "3": "0.011082322", "4": "0.28036147", "5": "0.011006603", "6": "0.010996709"}}

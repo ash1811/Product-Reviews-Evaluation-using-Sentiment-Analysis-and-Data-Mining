@@ -1,0 +1,1 @@
+{"text": "Love this color against my skin tone. It washes great, no fading, no stretch or shrinkage from the dryer. Good price.", "sentiment": "negative", "topics": {"0": "0.0110339485", "1": "0.22166237", "2": "0.010998994", "3": "0.0110057015", "4": "0.011065404", "5": "0.7232381", "6": "0.010995429"}}

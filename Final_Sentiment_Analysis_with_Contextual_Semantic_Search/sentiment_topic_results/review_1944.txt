@@ -1,0 +1,1 @@
+{"text": "I bought these slippers as a gift. I originally bought a size 15 for the recipient, but they were way too loose, so I returned them for a perfect fitting size 14. Minnetonka makes awesome slippers and boots for very reasonable prices.", "sentiment": "negative", "topics": {"0": "0.34707877", "1": "0.10266783", "3": "0.29490897", "4": "0.07546309", "6": "0.16743554"}}

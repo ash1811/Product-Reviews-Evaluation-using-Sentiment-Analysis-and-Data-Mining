@@ -1,0 +1,1 @@
+{"text": "it looks a little roomier in photo than it is is, but is a great product that I would recommend to anyone.", "sentiment": "negative", "topics": {"0": "0.60447013", "1": "0.013051224", "2": "0.013019269", "3": "0.013066875", "4": "0.0130243655", "5": "0.2208907", "6": "0.122477435"}}

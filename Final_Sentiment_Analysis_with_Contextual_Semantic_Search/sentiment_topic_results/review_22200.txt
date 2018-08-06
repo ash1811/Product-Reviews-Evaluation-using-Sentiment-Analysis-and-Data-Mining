@@ -1,0 +1,1 @@
+{"text": "Ugg is expensive but always worth the price.  These are wonderful slippers in every way.  Good support, great fit, warm, look great are just a few of the reason I love Uggs.", "sentiment": "negative", "topics": {"0": "0.115013406", "1": "0.61692387", "4": "0.1575503", "6": "0.08901841"}}

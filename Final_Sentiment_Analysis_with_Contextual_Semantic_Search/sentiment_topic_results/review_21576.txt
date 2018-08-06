@@ -1,0 +1,1 @@
+{"text": "I bought this one to supplement the one I already had. It fits easily into a drawer and I can open it up to see all of my earrings.  No more digging around looking for them.  It is sturdy and holds up well.", "sentiment": "negative", "topics": {"1": "0.48341817", "3": "0.25227875", "4": "0.23564608"}}

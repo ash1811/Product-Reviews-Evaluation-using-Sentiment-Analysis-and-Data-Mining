@@ -1,0 +1,1 @@
+{"text": "I bought these to replace a pair of New Balance walking shoes that I wore out. I wanted a pair of shoes suitable for all sorts of walking & hiking. These are great! They are lightweight yet durable, and feel great.", "sentiment": "positive", "topics": {"0": "0.17081246", "2": "0.1819271", "3": "0.20195906", "5": "0.4266014"}}

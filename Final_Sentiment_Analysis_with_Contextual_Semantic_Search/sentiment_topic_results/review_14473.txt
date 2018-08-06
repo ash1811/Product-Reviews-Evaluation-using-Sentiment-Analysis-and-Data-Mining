@@ -1,0 +1,1 @@
+{"text": "I got my boyfriend two pair of these in black, they are the only shoes he will wear. Fits great, feels great, and lasts long.", "sentiment": "negative", "topics": {"0": "0.010235912", "1": "0.25439984", "2": "0.1077712", "3": "0.22870348", "4": "0.010234041", "5": "0.3784036", "6": "0.010251976"}}

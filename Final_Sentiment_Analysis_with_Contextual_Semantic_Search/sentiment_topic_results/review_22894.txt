@@ -1,0 +1,1 @@
+{"text": "Not the best shorts to work out in but to just sit around and stay cool the work ok, the material rides up and are not comfortable.", "sentiment": "negative", "topics": {"0": "0.3518768", "1": "0.5929155", "2": "0.011015288", "3": "0.011036679", "4": "0.011060513", "5": "0.011058381", "6": "0.011036872"}}

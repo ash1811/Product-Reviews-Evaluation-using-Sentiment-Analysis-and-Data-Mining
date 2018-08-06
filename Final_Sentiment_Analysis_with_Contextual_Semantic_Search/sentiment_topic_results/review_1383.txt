@@ -1,0 +1,1 @@
+{"text": "Great quality, nice print, it has held up well to a lot of tossing around and stuffing full! My 10 yr daughter is very happy with it.", "sentiment": "negative", "topics": {"0": "0.18927768", "1": "0.3633396", "2": "0.18228191", "4": "0.10592781", "5": "0.14234605"}}

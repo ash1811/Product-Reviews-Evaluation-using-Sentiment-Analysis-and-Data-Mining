@@ -1,0 +1,1 @@
+{"text": "It works just like it did back in the 70's.  Son #2 bought this for himself and likes it.  His father and I laughed our heads off.  Kids these days...", "sentiment": "negative", "topics": {"0": "0.43954796", "5": "0.23487607", "6": "0.28975543"}}

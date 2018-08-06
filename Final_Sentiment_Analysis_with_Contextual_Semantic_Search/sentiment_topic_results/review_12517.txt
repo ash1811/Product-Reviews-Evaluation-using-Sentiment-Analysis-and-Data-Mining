@@ -1,0 +1,1 @@
+{"text": "These are the softest foot beds ever!  I have three pair and even wear them in the house for house shoes.  They feel so good you don't want to take them off.", "sentiment": "negative", "topics": {"1": "0.11515741", "2": "0.14368948", "3": "0.4562618", "4": "0.12684548", "5": "0.14114608"}}

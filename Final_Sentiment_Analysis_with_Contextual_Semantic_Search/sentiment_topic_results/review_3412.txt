@@ -1,0 +1,1 @@
+{"text": "It's a well made bra without underwires. Comfortable straps, smooth profile, nice fabric, but I should have been able to wear it without using the outside hooks.", "sentiment": "negative", "topics": {"0": "0.15672138", "1": "0.4267863", "2": "0.075165085", "3": "0.17990997", "5": "0.14553897"}}

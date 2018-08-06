@@ -1,0 +1,1 @@
+{"text": "Love these comfy and stylish Vans.  Going back for more in a different color.  Great for casual wear and have even worn them with a skirt with many compliments.  Too cute to pass up.", "sentiment": "negative", "topics": {"4": "0.23845556", "5": "0.44540372", "6": "0.28747195"}}

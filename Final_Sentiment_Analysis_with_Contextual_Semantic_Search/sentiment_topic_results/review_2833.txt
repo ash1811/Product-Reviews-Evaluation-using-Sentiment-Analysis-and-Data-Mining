@@ -1,0 +1,1 @@
+{"text": "Keds is one shoe I can always depend on for the best fit, color, style and comfort. Washable, and wearable right out of the box, I loved Keds as a kid and even more as an adult", "sentiment": "negative", "topics": {"1": "0.25732782", "2": "0.11148684", "3": "0.1022056", "4": "0.1667039", "5": "0.18965755", "6": "0.16544566"}}

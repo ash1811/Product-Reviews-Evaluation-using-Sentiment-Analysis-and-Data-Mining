@@ -1,0 +1,1 @@
+{"text": "Smartwool makes very nice products.  I have bought a lot of the Smartwool socks and they are soft, strong and look great.", "sentiment": "positive", "topics": {"0": "0.31203282", "1": "0.21963936", "2": "0.011006449", "3": "0.11715698", "4": "0.01100276", "5": "0.31816062", "6": "0.011001019"}}

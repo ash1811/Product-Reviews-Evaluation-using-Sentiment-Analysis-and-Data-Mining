@@ -1,0 +1,1 @@
+{"text": "The pendant appears delicate and is very pretty. The chain has a very fine link. I don't think that it is cheap looking at all and it looks nice with the pendant. A heavier link chain could also worn for a different look.", "sentiment": "positive", "topics": {"1": "0.41526595", "2": "0.048518848", "4": "0.16081907", "5": "0.280096", "6": "0.08228121"}}

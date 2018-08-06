@@ -1,0 +1,1 @@
+{"text": "Bought these boots for my 13 mo old grandson. He has not been walking long or wearing shoes very much so he had a hard time walking in these boots. Sure he will he the hang of it soon for the winter. Peace", "sentiment": "positive", "topics": {"0": "0.09676153", "1": "0.22147612", "2": "0.1974647", "4": "0.22126195", "5": "0.20731238", "6": "0.04891354"}}

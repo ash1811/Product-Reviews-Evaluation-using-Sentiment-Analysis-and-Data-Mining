@@ -1,0 +1,1 @@
+{"text": "This is a replacement pair for an identical set I had for over three years.  Nice quality, the clasp to keep earring on is very solid, lost last pair on vacation.", "sentiment": "negative", "topics": {"0": "0.08109004", "1": "0.36090738", "2": "0.073504955", "3": "0.1793195", "4": "0.1651694", "5": "0.13154256"}}

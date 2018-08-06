@@ -1,0 +1,1 @@
+{"text": "I am gaining weight. But this shirt doesn't make me look as though I have. Its roomy and comfortable, even if I bend over it doesn't ride up my back side. Going to get other shirts like this. Just hope it doesn't shrink when I wash them.", "sentiment": "negative", "topics": {"1": "0.5264812", "2": "0.09390601", "3": "0.17836432", "4": "0.11319374", "6": "0.076096766"}}

@@ -1,0 +1,1 @@
+{"text": "Look nice, good quality, and overall a good purchase, however, the shoes are somewhat narrow so if you have a wider-than-normal feet (like me) than I'd not recommend these shoes.", "sentiment": "negative", "topics": {"1": "0.5088871", "2": "0.25873524", "4": "0.06729745", "6": "0.14246531"}}

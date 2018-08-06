@@ -1,0 +1,1 @@
+{"text": "Nice design and color.  Just a tiny bit too loose.  It would have fit better if it's a size smaller.  There's no padding at the chest, so nipples will show.", "sentiment": "negative", "topics": {"1": "0.36754015", "2": "0.08505149", "3": "0.38089234", "4": "0.07164992", "5": "0.078034416"}}

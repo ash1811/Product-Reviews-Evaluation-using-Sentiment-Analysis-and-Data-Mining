@@ -1,0 +1,1 @@
+{"text": "keeps poop in the diaper as suppose to. snaps make it easy to take off. seems one size too small so order up.", "sentiment": "negative", "topics": {"0": "0.27501848", "2": "0.09108135", "3": "0.4536712", "5": "0.15487812"}}

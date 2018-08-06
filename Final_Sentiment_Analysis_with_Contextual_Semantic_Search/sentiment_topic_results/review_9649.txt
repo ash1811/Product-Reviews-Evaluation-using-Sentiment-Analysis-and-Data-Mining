@@ -1,0 +1,1 @@
+{"text": "I already owned one of these watches.  I dropped it the other day and could not get it to work. Dropped it on a porcelain tile floor to be exact.  Ordered another because I love he readability and the indiglo feature.  Very inexpensive.", "sentiment": "negative", "topics": {"2": "0.15256344", "4": "0.24470991", "5": "0.31726477", "6": "0.2659124"}}

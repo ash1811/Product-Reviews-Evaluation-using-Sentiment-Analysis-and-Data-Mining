@@ -1,0 +1,1 @@
+{"text": "These are the standard weight tees, which is what I was looking for. My husband doesn't like the heavy ones as they are hard to work in.", "sentiment": "positive", "topics": {"0": "0.10930583", "1": "0.011033524", "2": "0.011023329", "3": "0.011025353", "4": "0.38708246", "5": "0.12603694", "6": "0.34449258"}}

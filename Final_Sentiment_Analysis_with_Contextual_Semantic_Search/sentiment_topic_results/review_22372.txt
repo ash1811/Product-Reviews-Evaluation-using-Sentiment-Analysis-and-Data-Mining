@@ -1,0 +1,1 @@
+{"text": "Very easy to put on. Soft material. Fits like a glove. Fits well in the toe shoes. Love these socks", "sentiment": "negative", "topics": {"1": "0.5873482", "2": "0.16846009", "5": "0.104125485", "6": "0.11137863"}}

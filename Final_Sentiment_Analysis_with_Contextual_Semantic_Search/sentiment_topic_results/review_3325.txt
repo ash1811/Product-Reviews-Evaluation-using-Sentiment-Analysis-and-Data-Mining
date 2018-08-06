@@ -1,0 +1,1 @@
+{"text": "bought them to try and see if 33 waist was comfortable cause 32 too tight 34 a little too loose but they were a little too tight shipping was good quality was good will send back soon but I lost the ups tag", "sentiment": "negative", "topics": {"0": "0.059058152", "1": "0.5321105", "2": "0.081323765", "4": "0.16175562", "6": "0.15428442"}}

@@ -1,0 +1,1 @@
+{"text": "This watch is cheap, but it tells time! It doesn't look good, but the battery has lasted me over a year and is going strong. I use it on vacations and other times when I am not going to have my phone with me.", "sentiment": "positive", "topics": {"0": "0.45380503", "2": "0.25869605", "3": "0.25562584"}}

@@ -1,0 +1,1 @@
+{"text": "Not too thick. Nice texture that won't rub blisters. Only time will tell how long they stay in place, but so far these look promising.", "sentiment": "positive", "topics": {"0": "0.15061302", "1": "0.35465553", "2": "0.01022018", "3": "0.18777137", "4": "0.2762828", "5": "0.010235031", "6": "0.010222067"}}

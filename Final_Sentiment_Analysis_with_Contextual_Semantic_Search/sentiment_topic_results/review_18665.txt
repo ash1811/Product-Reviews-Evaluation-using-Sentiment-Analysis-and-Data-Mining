@@ -1,0 +1,1 @@
+{"text": "Need to stock up on these, they are sexy and sturdy.  My honey really loves them. The one size fits well, I'm size 12.", "sentiment": "positive", "topics": {"1": "0.2528159", "2": "0.1988309", "3": "0.38808888", "6": "0.13494833"}}

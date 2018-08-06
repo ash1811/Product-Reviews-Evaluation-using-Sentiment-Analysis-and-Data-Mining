@@ -1,0 +1,1 @@
+{"text": "They look great on and comfortable fit and the bow is great touch and I like the feel on my skin.", "sentiment": "negative", "topics": {"0": "0.013037772", "1": "0.65853316", "2": "0.012997916", "3": "0.17465006", "4": "0.0130061", "5": "0.013031953", "6": "0.114743"}}

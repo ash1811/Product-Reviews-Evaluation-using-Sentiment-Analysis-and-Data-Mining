@@ -1,0 +1,1 @@
+{"text": "SO well made, I wore these on a 2 week trip to India, no worries about them at all. I have thrown them in the wash, they are sturdy and comfortable.", "sentiment": "negative", "topics": {"0": "0.22404955", "1": "0.31747633", "2": "0.010219048", "3": "0.109803796", "4": "0.010213645", "5": "0.2422506", "6": "0.08598701"}}

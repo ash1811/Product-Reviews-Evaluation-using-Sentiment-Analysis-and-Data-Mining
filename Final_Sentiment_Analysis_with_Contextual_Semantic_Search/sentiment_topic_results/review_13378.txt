@@ -1,0 +1,1 @@
+{"text": "one of my favorite Invicta piecesthe two tone bracelet makes it suitable for casual and formal dress codes.I love the tone of the blue colorThe automatic mechanism on this watch is very nice.", "sentiment": "negative", "topics": {"0": "0.07542786", "1": "0.21364368", "2": "0.12237387", "3": "0.20169678", "4": "0.113541916", "5": "0.26681268"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes are good every day work shoes. The heel is low enough that there is no strain on ankles (a concern as I have previously broken both of mine). They are cute work shoes.", "sentiment": "negative", "topics": {"1": "0.41923422", "2": "0.21820939", "3": "0.21748905", "6": "0.12352121"}}

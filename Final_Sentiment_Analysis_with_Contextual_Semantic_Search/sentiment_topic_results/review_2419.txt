@@ -1,0 +1,1 @@
+{"text": "I bought these for winter weather and they are working great. No slippage in the snow, waterproof, and has a good nice fit. Can't get much better.", "sentiment": "negative", "topics": {"1": "0.6399716", "3": "0.07948393", "5": "0.11743909", "6": "0.13627438"}}

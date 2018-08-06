@@ -1,0 +1,1 @@
+{"text": "I got this for my other half for father's day and HE LOVES THEM!  We love reef and don't buy any other brand....totally awesome flops!", "sentiment": "negative", "topics": {"0": "0.011015271", "1": "0.3719934", "2": "0.0110108415", "3": "0.24322075", "4": "0.18217617", "5": "0.01102972", "6": "0.16955385"}}

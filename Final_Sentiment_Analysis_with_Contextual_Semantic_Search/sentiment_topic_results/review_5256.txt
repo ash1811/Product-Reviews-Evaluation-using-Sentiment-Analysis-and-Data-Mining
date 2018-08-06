@@ -1,0 +1,1 @@
+{"text": "My feet are wide so I guess that's my fault and not the slippers' fault. I still wear these if I need to make a quick trip outside. They're cute.", "sentiment": "negative", "topics": {"1": "0.2799597", "3": "0.29671505", "4": "0.2536706", "6": "0.14438133"}}

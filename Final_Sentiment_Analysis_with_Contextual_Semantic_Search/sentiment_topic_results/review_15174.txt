@@ -1,0 +1,1 @@
+{"text": "Gift for a friend who had a pair about 30 years old.  These new ones were exactly the same style, color and design.  He was very happy.  They are great shoes!", "sentiment": "positive", "topics": {"0": "0.19541593", "2": "0.11840733", "3": "0.20660244", "4": "0.22376212", "5": "0.23788624"}}

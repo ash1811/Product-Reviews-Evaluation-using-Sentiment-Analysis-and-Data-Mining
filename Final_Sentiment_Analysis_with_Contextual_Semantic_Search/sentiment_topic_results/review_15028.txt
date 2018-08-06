@@ -1,0 +1,1 @@
+{"text": "great for costume; not stiff enough to stand alone so need additional elastic or pins to keep them up.  Otherwise fine and definitely the right price!", "sentiment": "positive", "topics": {"0": "0.10954937", "1": "0.24429962", "2": "0.17862748", "3": "0.19900866", "5": "0.121516824", "6": "0.13902599"}}

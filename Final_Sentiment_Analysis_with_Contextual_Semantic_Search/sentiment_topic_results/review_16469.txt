@@ -1,0 +1,1 @@
+{"text": "This is my 5th pair of Billfish.  They remain simply the best boat shoes you can buy.  Fit is perfect, the look is good, traction on wet surfaces exactly what you want.", "sentiment": "negative", "topics": {"0": "0.21766713", "1": "0.45029303", "2": "0.07326745", "3": "0.07336316", "5": "0.09524798", "6": "0.08262611"}}

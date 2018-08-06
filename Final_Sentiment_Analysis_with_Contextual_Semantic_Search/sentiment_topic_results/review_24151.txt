@@ -1,0 +1,1 @@
+{"text": "Great sports bra for large chest.  I ordered a size larger.  It is a little snug, but keeps everything where is needs to be while working out.  Great bra!", "sentiment": "negative", "topics": {"1": "0.2623757", "2": "0.13886434", "3": "0.4227255", "6": "0.15214613"}}

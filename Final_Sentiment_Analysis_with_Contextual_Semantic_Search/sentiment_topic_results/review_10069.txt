@@ -1,0 +1,1 @@
+{"text": "The earrings have a very good clasp that locks tight.  They are so comfortable, I slept in them the first night because I didn't realize I was still wearing them.  I always wear earrings but i like small ones for my casual life.", "sentiment": "negative", "topics": {"0": "0.10263989", "1": "0.6390224", "2": "0.15191787", "5": "0.08687851"}}

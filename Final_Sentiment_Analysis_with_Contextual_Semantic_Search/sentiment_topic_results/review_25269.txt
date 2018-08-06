@@ -1,0 +1,1 @@
+{"text": "I love these Jockeys!  They are so lightweight and a perfect fit.  Don't even know you have them on.  I'll be buying more.  Just hope they hold up as they are expensive.", "sentiment": "positive", "topics": {"1": "0.29136446", "3": "0.5071736", "6": "0.16315116"}}

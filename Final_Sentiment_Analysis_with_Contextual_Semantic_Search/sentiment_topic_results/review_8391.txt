@@ -1,0 +1,1 @@
+{"text": "This is some great jeanery. I love them and can tell they will hold up for many years to come. Tactical Dad Jeans.", "sentiment": "positive", "topics": {"0": "0.15339905", "1": "0.23304541", "2": "0.011919673", "3": "0.21670663", "4": "0.2772471", "5": "0.011969253", "6": "0.09571288"}}

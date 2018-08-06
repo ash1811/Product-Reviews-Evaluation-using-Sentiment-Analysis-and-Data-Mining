@@ -1,0 +1,1 @@
+{"text": "its nice nedw and im like it its so grate looking and im happy with it som much  thats whats imcan say", "sentiment": "positive", "topics": {"2": "0.1711579", "3": "0.42278937", "4": "0.16924815", "5": "0.10758929", "6": "0.11008734"}}

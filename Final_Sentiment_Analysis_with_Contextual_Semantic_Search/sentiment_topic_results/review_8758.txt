@@ -1,0 +1,1 @@
+{"text": "these socks are like what I wore 65 years ago, they are worth the money. they will not leave a ring around your ankle, and yet they stay up, .  Tom", "sentiment": "negative", "topics": {"1": "0.10269334", "3": "0.3663175", "5": "0.39519164", "6": "0.11052124"}}

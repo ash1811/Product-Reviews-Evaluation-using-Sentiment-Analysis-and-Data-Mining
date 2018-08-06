@@ -1,0 +1,1 @@
+{"text": "When I placed the order, and picked the sized according to the past reviews.Example: Medium = 6 1/2 - 7  Very happy with the product! Great Price! Fast Service!", "sentiment": "negative", "topics": {"0": "0.2899833", "1": "0.16217801", "2": "0.32336438", "5": "0.20058621"}}

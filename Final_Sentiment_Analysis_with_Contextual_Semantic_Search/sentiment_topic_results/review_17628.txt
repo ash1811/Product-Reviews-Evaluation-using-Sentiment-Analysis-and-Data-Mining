@@ -1,0 +1,1 @@
+{"text": "This watch is stylish, gold design looking very good, but still this watch is very small, sometimes I think it is for kids :)", "sentiment": "negative", "topics": {"0": "0.011006077", "1": "0.08551068", "2": "0.29811937", "3": "0.37420526", "4": "0.011003318", "5": "0.13197678", "6": "0.08817847"}}

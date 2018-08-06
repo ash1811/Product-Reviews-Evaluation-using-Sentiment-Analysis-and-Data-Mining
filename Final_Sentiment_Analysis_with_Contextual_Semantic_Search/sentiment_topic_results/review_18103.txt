@@ -1,0 +1,1 @@
+{"text": "This is a nice light watch.  Small but not too small.  I just wish the band was a little wider and longer.  Overall a good deal for the price.  Will probably buy this brand again.", "sentiment": "negative", "topics": {"0": "0.14616016", "1": "0.5083824", "2": "0.082227394", "3": "0.16900605", "4": "0.07910413"}}

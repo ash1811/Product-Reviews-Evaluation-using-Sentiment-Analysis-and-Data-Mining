@@ -1,0 +1,1 @@
+{"text": "These were just what I was hoping for to refurbish an old pair of koolaburras that had worn down inside. The insoles were true to size, slipped right into the boots and have a nice thick, warm, cozy pile.", "sentiment": "negative", "topics": {"0": "0.20814481", "1": "0.22836444", "2": "0.105952516", "4": "0.16722293", "5": "0.07782278", "6": "0.20493291"}}

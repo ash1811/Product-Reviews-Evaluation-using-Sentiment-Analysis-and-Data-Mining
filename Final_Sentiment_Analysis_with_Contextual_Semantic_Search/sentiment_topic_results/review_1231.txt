@@ -1,0 +1,1 @@
+{"text": "Everytime my daughter wears her slipper she says it massages under her feet and relaxs her - she loves it", "sentiment": "positive", "topics": {"0": "0.014312084", "1": "0.014305815", "2": "0.014310901", "3": "0.01431262", "4": "0.3992764", "5": "0.33450356", "6": "0.20897862"}}

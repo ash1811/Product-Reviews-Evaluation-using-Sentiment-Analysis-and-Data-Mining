@@ -1,0 +1,1 @@
+{"text": "fit perfectly and are totally comfortable, worth every pennythe strap is a bit wide, so will leave a tan line, but who cares", "sentiment": "negative", "topics": {"1": "0.50920355", "2": "0.14521864", "3": "0.22611676", "6": "0.09076533"}}

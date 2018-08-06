@@ -1,0 +1,1 @@
+{"text": "It at least runs a full size!!! I brought a 8UK,and it even bigger than my 9UK nike sports shoes.....", "sentiment": "negative", "topics": {"0": "0.12746736", "1": "0.010998964", "2": "0.34141463", "3": "0.14701481", "4": "0.22298612", "5": "0.011003627", "6": "0.13911448"}}

@@ -1,0 +1,1 @@
+{"text": "tuff comfortable stain resistant it is all what it claims to be just one thing buy it one size bigger then what you are they do shrink but one size bigger should cover it", "sentiment": "negative", "topics": {"0": "0.07765566", "1": "0.39077416", "2": "0.23485139", "6": "0.27140537"}}

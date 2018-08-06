@@ -1,0 +1,1 @@
+{"text": "The ear rings are very pretty, but a bit bigger than I thought. Dressy looking. I still will wear them for work.", "sentiment": "negative", "topics": {"0": "0.011935758", "1": "0.42618397", "2": "0.0119148195", "3": "0.29308245", "4": "0.011925418", "5": "0.011927795", "6": "0.23302977"}}

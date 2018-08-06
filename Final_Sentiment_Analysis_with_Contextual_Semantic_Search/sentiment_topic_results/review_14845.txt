@@ -1,0 +1,1 @@
+{"text": "Nice and soft, just right fit, not too tight and not loose at all, stays up, no pulling or sliding either way, don't know how I went so long without them. good quality fabric, recommend highly. I bought two of them the short version and the wider version.", "sentiment": "negative", "topics": {"0": "0.13152339", "1": "0.6529217", "3": "0.16282108", "5": "0.038403783"}}

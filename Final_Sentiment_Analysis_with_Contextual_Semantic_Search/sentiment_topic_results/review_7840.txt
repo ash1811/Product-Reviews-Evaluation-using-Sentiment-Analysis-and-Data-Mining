@@ -1,0 +1,1 @@
+{"text": "We used this tool to install a replacement band on my husbands series 8200 Navy Seal Watch.  It made it a snap.  Money well spent.", "sentiment": "positive", "topics": {"0": "0.13755637", "2": "0.18567047", "4": "0.2008189", "5": "0.22693574", "6": "0.2321663"}}

@@ -1,0 +1,1 @@
+{"text": "I like comfy t-shirts so I ordered this one. I usually wear large or xl so I purchased a xl. It was to tight and to short.", "sentiment": "negative", "topics": {"0": "0.0998485", "1": "0.5249007", "2": "0.11177507", "3": "0.010242287", "4": "0.010234513", "5": "0.010246497", "6": "0.23275247"}}

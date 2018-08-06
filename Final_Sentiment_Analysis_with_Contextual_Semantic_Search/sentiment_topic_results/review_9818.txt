@@ -1,0 +1,1 @@
+{"text": "I have loved this sandal in the past so I re ordered. Ouch. Did they change it or something? My pinky toe wont stay in and it hurts.", "sentiment": "negative", "topics": {"0": "0.011000206", "1": "0.616436", "2": "0.15352221", "3": "0.011029292", "4": "0.011022523", "5": "0.09443934", "6": "0.10255041"}}

@@ -1,0 +1,1 @@
+{"text": "I would not recommend because these do not stay on my feet. Also they are as not warm as I would have expected due to problems with neuropathy", "sentiment": "negative", "topics": {"0": "0.011931629", "1": "0.35689753", "2": "0.011939818", "3": "0.011959402", "4": "0.34546185", "5": "0.24989738", "6": "0.011912425"}}

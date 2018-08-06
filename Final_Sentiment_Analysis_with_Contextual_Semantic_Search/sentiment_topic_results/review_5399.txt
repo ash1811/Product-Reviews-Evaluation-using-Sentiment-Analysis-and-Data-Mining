@@ -1,0 +1,1 @@
+{"text": "I am currently in Afghanistan and order several of these shirts.  Size ordered is true to what is listed.  Nice looking shirts to wear daily as a contractor.", "sentiment": "negative", "topics": {"0": "0.18979077", "1": "0.35312855", "6": "0.42128566"}}

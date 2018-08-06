@@ -1,0 +1,1 @@
+{"text": "Very tiny, I returned it. Although it appears a tad larger in the picture, it was not. Maybe for a teenager.", "sentiment": "positive", "topics": {"0": "0.0119656995", "1": "0.011950058", "2": "0.011951616", "3": "0.3772229", "4": "0.21756972", "5": "0.011917354", "6": "0.3574227"}}

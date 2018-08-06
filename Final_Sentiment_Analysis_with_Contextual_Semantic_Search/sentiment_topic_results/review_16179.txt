@@ -1,0 +1,1 @@
+{"text": "This cloth is fantastic to polish up my jewelry after I have cleaned it.  Workable great on my new and antique jewelry items.", "sentiment": "negative", "topics": {"0": "0.24884973", "1": "0.36811173", "2": "0.09316923", "3": "0.094063945", "4": "0.010997734", "5": "0.01099989", "6": "0.17380773"}}

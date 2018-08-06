@@ -1,0 +1,1 @@
+{"text": "solid color, a little show through on the butt area however they are thick enough to not be mistaken for stockings.", "sentiment": "positive", "topics": {"0": "0.011919946", "1": "0.32607794", "2": "0.22363763", "3": "0.19644162", "4": "0.21799417", "5": "0.011958015", "6": "0.011970723"}}

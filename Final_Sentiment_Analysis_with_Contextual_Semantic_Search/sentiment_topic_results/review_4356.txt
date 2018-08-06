@@ -1,0 +1,1 @@
+{"text": "These pants are a great buy.  Fit well and are comfortable though multiple wash cycles.  They do not have the tightness I find with out Khaki pants.  Very nice.", "sentiment": "positive", "topics": {"1": "0.66691446", "4": "0.08104634", "5": "0.09050457", "6": "0.13471301"}}

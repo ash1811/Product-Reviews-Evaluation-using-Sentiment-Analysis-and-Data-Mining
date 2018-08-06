@@ -1,0 +1,1 @@
+{"text": "This is a cool watch for the price. I'e had it close to a year, and little to no signs of wear. Still carrying accurate time. If your looking for an economical time piece then this is the one.", "sentiment": "negative", "topics": {"0": "0.27451572", "2": "0.13334012", "3": "0.260958", "5": "0.12674169", "6": "0.18934359"}}

@@ -1,0 +1,1 @@
+{"text": "These fit fine.  I ordered them from the size chart.  I don't know about wearing them for a May wedding in Arizona, though.  I think they will be extremely HOT.", "sentiment": "negative", "topics": {"1": "0.3565", "2": "0.08330952", "3": "0.43924636", "6": "0.09223948"}}

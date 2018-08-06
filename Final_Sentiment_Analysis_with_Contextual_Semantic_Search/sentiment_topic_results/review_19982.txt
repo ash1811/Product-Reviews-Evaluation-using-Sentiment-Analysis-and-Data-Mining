@@ -1,0 +1,1 @@
+{"text": "This bag is great from a child using this or an adult. It holds SO much. Lots of little compartments to use. It feels sturdy and supported.", "sentiment": "negative", "topics": {"0": "0.111216", "1": "0.2285675", "2": "0.11328403", "3": "0.31449288", "5": "0.11615057", "6": "0.106743805"}}

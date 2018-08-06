@@ -1,0 +1,1 @@
+{"text": "prices better than target or kmart and the qulaity is better.  i buy them here every year.  you wont be sorry.", "sentiment": "negative", "topics": {"0": "0.011952541", "1": "0.4157555", "2": "0.42080787", "3": "0.0119612925", "4": "0.11560279", "5": "0.0119645195", "6": "0.011955478"}}

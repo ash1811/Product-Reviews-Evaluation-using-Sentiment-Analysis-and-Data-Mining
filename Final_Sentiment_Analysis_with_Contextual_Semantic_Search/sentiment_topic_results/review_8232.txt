@@ -1,0 +1,1 @@
+{"text": "They fit well. My only gripe is that the material is kind of thin, I wore out my last pair which was much thicker material.", "sentiment": "negative", "topics": {"0": "0.0110092815", "1": "0.5525482", "2": "0.011010261", "3": "0.011010551", "4": "0.011021038", "5": "0.29469946", "6": "0.1087012"}}

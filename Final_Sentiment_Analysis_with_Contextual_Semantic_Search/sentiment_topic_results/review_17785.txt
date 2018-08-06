@@ -1,0 +1,1 @@
+{"text": "This watch has made history around the world, everybody has a master time piece like this, in one word it is part of the human culture", "sentiment": "negative", "topics": {"0": "0.17294657", "1": "0.15763175", "2": "0.30496716", "4": "0.15751787", "6": "0.19005856"}}

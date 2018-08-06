@@ -1,0 +1,1 @@
+{"text": "Very nice fabric, fits well and does not roll down.  I wish I had known how great these were before now.  Firm hold without being uncomfortable.", "sentiment": "negative", "topics": {"1": "0.6640799", "3": "0.22558914", "5": "0.07211389"}}

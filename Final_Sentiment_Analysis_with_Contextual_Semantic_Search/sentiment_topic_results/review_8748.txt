@@ -1,0 +1,1 @@
+{"text": "I'm a 15 and the XL socks fit me nicely. They are warm and so far, after a couple of washes, still are in good shape.", "sentiment": "negative", "topics": {"0": "0.010219316", "1": "0.7820299", "2": "0.010224871", "3": "0.010263084", "4": "0.010223655", "5": "0.082727574", "6": "0.09431163"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this as a present and noticed there were inclusions on both pearls. Not noticeable unless you're six inches away looking for defects. Also, one was slightly smaller than the other... You get what you pay for?", "sentiment": "negative", "topics": {"0": "0.13239281", "2": "0.14618969", "4": "0.356265", "5": "0.2320371", "6": "0.11944968"}}

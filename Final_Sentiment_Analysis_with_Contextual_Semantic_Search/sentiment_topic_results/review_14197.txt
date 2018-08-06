@@ -1,0 +1,1 @@
+{"text": "Fast service.  Nice shirt.  A little stiff, but should mellow with age. Graphics are very nice, and look like they will last, unlike some.", "sentiment": "negative", "topics": {"1": "0.3852485", "2": "0.20190853", "4": "0.10310437", "5": "0.28286535"}}

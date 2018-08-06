@@ -1,0 +1,1 @@
+{"text": "My husband is an electrician and he likes to wear the lighter color Carhartts. But these black ones are great for hiding the dirt! I will definitely order more black.", "sentiment": "negative", "topics": {"0": "0.09240674", "1": "0.131946", "2": "0.2515332", "3": "0.2690874", "4": "0.08405722", "6": "0.16200794"}}

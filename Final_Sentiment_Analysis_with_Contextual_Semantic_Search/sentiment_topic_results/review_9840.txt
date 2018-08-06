@@ -1,0 +1,1 @@
+{"text": "I bought these for my daughter.  The 7.5 size was too small, but the return/exchange process was quick and painless. She got a size 8 pair and loves them.  Loves the look and the comfort.", "sentiment": "negative", "topics": {"0": "0.13376687", "1": "0.0993224", "3": "0.28708863", "4": "0.3556059", "6": "0.109136045"}}

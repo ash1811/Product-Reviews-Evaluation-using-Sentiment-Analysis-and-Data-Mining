@@ -1,0 +1,1 @@
+{"text": "Very comfortable slippers at a great price.  Seem to wear well with soles that permit walking short distances outside.  Good padding giving a nice &#34;bounce&#34; to your feet as you walk.", "sentiment": "positive", "topics": {"0": "0.14610268", "1": "0.38606635", "5": "0.33304948", "6": "0.11430307"}}

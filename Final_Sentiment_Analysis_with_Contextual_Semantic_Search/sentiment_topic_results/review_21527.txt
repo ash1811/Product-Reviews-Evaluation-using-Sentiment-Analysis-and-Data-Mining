@@ -1,0 +1,1 @@
+{"text": "This shirt is pretty and in great detail. My only problem is I bought a medium and I should have bought a extra small. The sizing is way off. I was hoping the shirt would get smaller as I washed it, but that has not happened yet. So now I am wearing it as a night shirt.", "sentiment": "negative", "topics": {"1": "0.6311423", "3": "0.28112647", "4": "0.06565471"}}

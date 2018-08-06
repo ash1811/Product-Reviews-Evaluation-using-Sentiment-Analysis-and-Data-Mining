@@ -1,0 +1,1 @@
+{"text": "I bought these for the wife for an occasional fun night out and boy does she love them.  She says they make her feel naught but safe.  I love them just because I know she's wearing them.  Certainly spiced our life up....", "sentiment": "negative", "topics": {"0": "0.3676245", "1": "0.13368817", "3": "0.24482226", "4": "0.15375848", "6": "0.08709545"}}

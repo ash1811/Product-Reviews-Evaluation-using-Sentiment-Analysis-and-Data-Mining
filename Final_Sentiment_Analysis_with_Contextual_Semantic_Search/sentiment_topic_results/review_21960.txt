@@ -1,0 +1,1 @@
+{"text": "I bought for hubby from Amazon. He stays warm and loves it. This shirt is a great buy when I have seen other flannel shirts get thinner. I used to buy ST.John's Flannel shirts, but they are now thin, not thick like the past.", "sentiment": "positive", "topics": {"1": "0.41116318", "4": "0.239129", "5": "0.16740625", "6": "0.16510084"}}

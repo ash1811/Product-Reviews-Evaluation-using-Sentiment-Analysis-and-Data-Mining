@@ -1,0 +1,1 @@
+{"text": "Very nice pair of shoes.comfy! Shipped to me very fast.my first pair of Skechers,love them.will buy this brand again and again!", "sentiment": "positive", "topics": {"0": "0.010994554", "1": "0.17291157", "2": "0.16498719", "3": "0.16482116", "4": "0.35704455", "5": "0.118246034", "6": "0.010994977"}}

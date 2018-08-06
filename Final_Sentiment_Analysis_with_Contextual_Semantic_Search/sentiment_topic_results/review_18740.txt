@@ -1,0 +1,1 @@
+{"text": "Although I bought these as a gift, I love these boots. They are well made and very cozy. I buy them for all friends as baby shower gifts. You cannot go wrong with robeez as first shoes.", "sentiment": "negative", "topics": {"0": "0.20910783", "1": "0.2325047", "2": "0.12908173", "3": "0.08645411", "4": "0.09680583", "5": "0.19610357", "6": "0.049942262"}}

@@ -1,0 +1,1 @@
+{"text": "As much as I love Jezebel sexy and true to size bras, this one is definitely scratchy. It is a very pretty bra...wear only when you know you won't be having it on long.  lol", "sentiment": "negative", "topics": {"1": "0.25421056", "3": "0.33147416", "4": "0.28798187", "6": "0.099400215"}}

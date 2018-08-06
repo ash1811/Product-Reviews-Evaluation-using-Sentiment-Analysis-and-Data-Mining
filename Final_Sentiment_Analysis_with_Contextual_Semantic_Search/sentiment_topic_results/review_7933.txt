@@ -1,0 +1,1 @@
+{"text": "Barely fits foot let alone ankle and calf. If your calf is 10-12&#34; in diameter, then this is for you.  If you're nowhere near thin, you can forget it!", "sentiment": "negative", "topics": {"0": "0.1761042", "1": "0.10093051", "2": "0.07896413", "3": "0.2567407", "4": "0.10743893", "5": "0.077365294", "6": "0.20245624"}}

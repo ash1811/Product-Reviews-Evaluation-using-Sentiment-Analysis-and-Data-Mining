@@ -1,0 +1,1 @@
+{"text": "fits well and very soft...good deal for the price...came quickly and i got them in time for my gfriend's weekend getaway.", "sentiment": "negative", "topics": {"0": "0.17842686", "1": "0.15539585", "2": "0.4138948", "3": "0.12207374", "4": "0.011944164", "5": "0.011955722", "6": "0.10630888"}}

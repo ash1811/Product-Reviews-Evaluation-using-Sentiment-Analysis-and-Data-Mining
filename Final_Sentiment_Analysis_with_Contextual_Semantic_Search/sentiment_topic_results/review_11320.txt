@@ -1,0 +1,1 @@
+{"text": "Comfortable, good for workout. Wearable, but runs large. Doesn't shrink even in hot water so ordered another pair one size smaller.", "sentiment": "negative", "topics": {"1": "0.39126128", "2": "0.14721867", "3": "0.29413164", "4": "0.09655997", "5": "0.053975873"}}

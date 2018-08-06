@@ -1,0 +1,1 @@
+{"text": "Quality shoes need to say, is a big brand factory good product. Just in time to do activities, cheap, very satisfied with this shopping", "sentiment": "negative", "topics": {"1": "0.24400724", "2": "0.10814365", "3": "0.20077957", "5": "0.19309346", "6": "0.23489562"}}

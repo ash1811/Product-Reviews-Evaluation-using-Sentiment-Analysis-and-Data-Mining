@@ -1,0 +1,1 @@
+{"text": "This product is perfect for my teenager for a backpack to use when going to Girl Scout camp and when going to our local water park with her youth group. Lots of pockets to hold inhaler and other items.", "sentiment": "negative", "topics": {"0": "0.07694326", "1": "0.0855142", "2": "0.19790208", "3": "0.17278244", "5": "0.26337865", "6": "0.19665822"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful watch. My only complaint it that the very top of the blue circle background is cut off, making the circle flat at that position.", "sentiment": "negative", "topics": {"0": "0.010263088", "1": "0.45103723", "2": "0.41527155", "3": "0.09248449", "4": "0.010323493", "5": "0.010326764", "6": "0.010293359"}}

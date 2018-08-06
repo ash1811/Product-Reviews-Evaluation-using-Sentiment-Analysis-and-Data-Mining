@@ -1,0 +1,1 @@
+{"text": "Lots of cold, windy days lately, but the flannel lined pants from Carhartt keeps me warm enough to focus on what needs to be done instead of trying to stay warm.", "sentiment": "positive", "topics": {"1": "0.3275834", "2": "0.08068677", "3": "0.11937908", "4": "0.23104027", "5": "0.089735374", "6": "0.14441532"}}

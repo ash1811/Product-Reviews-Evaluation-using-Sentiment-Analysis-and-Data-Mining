@@ -1,0 +1,1 @@
+{"text": "These jeans fit and look great. The material is really durable and the gusseted crotch gives your man parts a perfect amount of room without pinching.", "sentiment": "positive", "topics": {"1": "0.7284579", "5": "0.17311639", "6": "0.06658913"}}

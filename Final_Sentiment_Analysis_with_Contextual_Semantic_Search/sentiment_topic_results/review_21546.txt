@@ -1,0 +1,1 @@
+{"text": "Not really my style but I needed something very comfortable to wear to Disney World...  These fit the bill and now I LOVE them.  I am a high heel convert, happy feet!  :)", "sentiment": "negative", "topics": {"1": "0.38992286", "2": "0.18292522", "4": "0.24225222", "6": "0.16094428"}}

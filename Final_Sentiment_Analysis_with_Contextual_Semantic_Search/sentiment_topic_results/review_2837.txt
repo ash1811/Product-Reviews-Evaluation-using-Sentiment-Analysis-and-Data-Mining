@@ -1,0 +1,1 @@
+{"text": "So far, good for my daughter. Comfort on the feet, no issues, just love the Endless Style, like other brand name shoes for women. She's enjoying them. Happy Holidays.", "sentiment": "negative", "topics": {"0": "0.19684723", "1": "0.099737294", "2": "0.18269774", "3": "0.112368844", "5": "0.39322007"}}

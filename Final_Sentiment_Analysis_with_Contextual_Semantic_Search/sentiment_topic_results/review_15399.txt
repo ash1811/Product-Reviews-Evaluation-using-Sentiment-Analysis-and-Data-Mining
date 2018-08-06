@@ -1,0 +1,1 @@
+{"text": "These are a perfect fit.  I have a medium to large face, and these look great.  Quality, great styling, great sun protection.", "sentiment": "negative", "topics": {"0": "0.010219589", "1": "0.6931552", "2": "0.01022115", "3": "0.10403588", "4": "0.010211225", "5": "0.0834859", "6": "0.088671066"}}

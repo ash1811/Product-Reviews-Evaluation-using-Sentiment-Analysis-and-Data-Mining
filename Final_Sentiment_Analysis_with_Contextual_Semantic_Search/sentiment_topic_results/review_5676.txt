@@ -1,0 +1,1 @@
+{"text": "The shirt is very comfortable and I love the way it feels.  However, I would not consider this an XL.  Luckily it has some give so it fits, albeit snugly.", "sentiment": "positive", "topics": {"0": "0.089866124", "1": "0.40416747", "4": "0.19624005", "6": "0.2810481"}}

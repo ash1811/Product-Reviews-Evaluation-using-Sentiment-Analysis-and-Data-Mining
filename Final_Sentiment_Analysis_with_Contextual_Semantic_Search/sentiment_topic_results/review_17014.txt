@@ -1,0 +1,1 @@
+{"text": "These socks fit nicely and feel great on the foot. They also are warm and as far as I can tell thus far do a decent job of moisture wicking, making for a good hiking/running experience.", "sentiment": "negative", "topics": {"1": "0.33803245", "3": "0.089132555", "4": "0.40568066", "6": "0.14665109"}}

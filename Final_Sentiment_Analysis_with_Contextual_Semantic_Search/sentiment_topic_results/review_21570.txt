@@ -1,0 +1,1 @@
+{"text": "Bought this as a gift so they can hang their earrings on it instead of laying them down.Looks good should serve that purpose", "sentiment": "positive", "topics": {"0": "0.3906527", "1": "0.21230441", "2": "0.22960658", "3": "0.12843083", "4": "0.013004476", "5": "0.013011163", "6": "0.012989891"}}

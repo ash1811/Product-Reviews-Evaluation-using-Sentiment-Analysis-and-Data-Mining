@@ -1,0 +1,1 @@
+{"text": "This case is exactly what I wanted.  It is big enough to handle my sunglasses, but small enough not to take  up half of my bag.", "sentiment": "negative", "topics": {"0": "0.15475255", "1": "0.40028727", "2": "0.2808662", "3": "0.13099873", "4": "0.011056713", "5": "0.011036413", "6": "0.011002132"}}

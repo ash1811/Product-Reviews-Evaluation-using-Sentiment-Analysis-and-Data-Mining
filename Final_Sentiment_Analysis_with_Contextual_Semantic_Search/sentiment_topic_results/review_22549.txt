@@ -1,0 +1,1 @@
+{"text": "I own a lot of silver and this product is fabulous. Highly recommend.  I can't stand those cloths. Just dip and clean off with water and you have your &#34;new&#34; jewelry back.", "sentiment": "negative", "topics": {"0": "0.20129773", "1": "0.4223754", "2": "0.15555578", "5": "0.19394754"}}

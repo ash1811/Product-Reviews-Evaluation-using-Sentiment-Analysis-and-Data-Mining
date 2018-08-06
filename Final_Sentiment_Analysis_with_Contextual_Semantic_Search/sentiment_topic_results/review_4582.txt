@@ -1,0 +1,1 @@
+{"text": "The vendor was very efficient and I was  pleased with the pants fit . I use these for working around the house and they are a wardrobe staple for me.", "sentiment": "negative", "topics": {"0": "0.0110021215", "1": "0.50708866", "2": "0.10417995", "3": "0.25347942", "4": "0.011022487", "5": "0.102209896", "6": "0.011017448"}}

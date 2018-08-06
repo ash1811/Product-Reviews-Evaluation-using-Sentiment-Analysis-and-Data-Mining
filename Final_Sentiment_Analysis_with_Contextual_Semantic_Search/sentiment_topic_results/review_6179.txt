@@ -1,0 +1,1 @@
+{"text": "Perfect for my wedding day! I wore them all night except during the garter ceremony (wore heals). Now I use them as slippers around the house.", "sentiment": "positive", "topics": {"1": "0.14982529", "4": "0.104819514", "5": "0.44927683", "6": "0.2674431"}}

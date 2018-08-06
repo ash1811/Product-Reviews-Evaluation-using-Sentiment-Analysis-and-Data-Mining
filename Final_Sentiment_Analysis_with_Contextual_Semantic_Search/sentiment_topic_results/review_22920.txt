@@ -1,0 +1,1 @@
+{"text": "Shorts fit good around waist but are a little long for my taste.  I am 5'10&#34; and they go way below the knee.", "sentiment": "negative", "topics": {"0": "0.23408534", "1": "0.45976546", "2": "0.2619639", "3": "0.0110532055", "4": "0.01105696", "5": "0.0110322945", "6": "0.011042815"}}

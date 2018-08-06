@@ -1,0 +1,1 @@
+{"text": "I was having a hard time finding a mule style work shoe and this fits the bill. They are fairly comfortable and look nice.", "sentiment": "negative", "topics": {"0": "0.25448483", "1": "0.5332878", "2": "0.09581064", "3": "0.010226681", "4": "0.010230581", "5": "0.08574707", "6": "0.010212423"}}

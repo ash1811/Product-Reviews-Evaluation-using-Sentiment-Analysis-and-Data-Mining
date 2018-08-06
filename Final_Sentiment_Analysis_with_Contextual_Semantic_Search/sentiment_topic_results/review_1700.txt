@@ -1,0 +1,1 @@
+{"text": "I wanted to wear it under my wedding dress, but this didn't have enough support or coverage for me :(", "sentiment": "negative", "topics": {"0": "0.017887056", "1": "0.017937886", "2": "0.017888667", "3": "0.4071214", "4": "0.2575114", "5": "0.26377684", "6": "0.017876813"}}

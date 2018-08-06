@@ -1,0 +1,1 @@
+{"text": "No sense in paying more than you have to for name brand items.  This was a great deal - and nice array of colors too.", "sentiment": "negative", "topics": {"0": "0.011943518", "1": "0.40232226", "2": "0.14466567", "3": "0.31833377", "4": "0.011907426", "5": "0.011920046", "6": "0.098907284"}}

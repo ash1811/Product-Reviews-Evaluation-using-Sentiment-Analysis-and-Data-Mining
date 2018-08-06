@@ -1,0 +1,1 @@
+{"text": "These boots look so hot on!  I'm not one to wear heels much and was worried that I wouldn't be able to walk in them, but found no problems at all.  My honey was drooling...", "sentiment": "positive", "topics": {"1": "0.25358832", "2": "0.12828538", "3": "0.5207247", "4": "0.07480759"}}

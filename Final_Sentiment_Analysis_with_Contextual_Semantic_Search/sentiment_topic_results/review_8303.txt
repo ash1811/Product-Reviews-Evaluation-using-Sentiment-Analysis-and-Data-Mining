@@ -1,0 +1,1 @@
+{"text": "No more worries that you headlights are showing when wearing these! Once they are in place you forget they are there! Great product! SOooo much better than the *ouch* stick on kind!", "sentiment": "negative", "topics": {"0": "0.13818416", "1": "0.22460344", "5": "0.46453434", "6": "0.14738967"}}

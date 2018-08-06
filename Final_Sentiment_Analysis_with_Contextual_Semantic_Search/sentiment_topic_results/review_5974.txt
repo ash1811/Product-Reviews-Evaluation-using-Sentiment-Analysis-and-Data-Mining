@@ -1,0 +1,1 @@
+{"text": "I love this Pashmina, the color is fantastic the quality is great, extremely soft. Great addition to any wardrobe casual or dress up", "sentiment": "positive", "topics": {"0": "0.11386116", "1": "0.45777828", "2": "0.010234812", "3": "0.1200585", "4": "0.18839483", "5": "0.010233773", "6": "0.09943862"}}

@@ -1,0 +1,1 @@
+{"text": "It arrived as scheduled in good shape and the fit is OK so I'll keep it, but it's NOT what was shown in the picture.", "sentiment": "positive", "topics": {"0": "0.1768863", "1": "0.37738904", "2": "0.11100844", "3": "0.29894888", "4": "0.011931055", "5": "0.01191866", "6": "0.0119176395"}}

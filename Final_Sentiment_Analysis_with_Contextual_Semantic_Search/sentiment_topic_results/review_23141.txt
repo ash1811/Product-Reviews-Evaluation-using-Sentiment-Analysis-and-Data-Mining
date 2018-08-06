@@ -1,0 +1,1 @@
+{"text": "It fits wonderfully. The sides and the shoulder straps are so comfortable for a long day. The cup fits really well with out bulging or coming out of top.", "sentiment": "negative", "topics": {"1": "0.5279023", "2": "0.15660875", "3": "0.20116353", "6": "0.08733759"}}

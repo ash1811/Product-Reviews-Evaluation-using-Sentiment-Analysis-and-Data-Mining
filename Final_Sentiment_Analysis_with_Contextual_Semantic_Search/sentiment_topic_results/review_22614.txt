@@ -1,0 +1,1 @@
+{"text": "The Dickies label on pants stand for quality and the pants I just received are just that.  Dickies consistent fit and quality are always  something I can count on.  The Amazon pricing is always the best also.", "sentiment": "positive", "topics": {"0": "0.16861054", "1": "0.5016304", "3": "0.05972108", "4": "0.25050193"}}

@@ -1,0 +1,1 @@
+{"text": "My boyfriend loved and i was comfortable in it even though i have some confidence issues. wear on xl or 1x usually. not itchy.", "sentiment": "negative", "topics": {"0": "0.011012233", "1": "0.296763", "2": "0.011003188", "3": "0.011002327", "4": "0.17144452", "5": "0.3310154", "6": "0.16775928"}}

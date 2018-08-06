@@ -1,0 +1,1 @@
+{"text": "Like this hat very much. It flatters my face and fits comfortably. It is soft, yet substantial. Recommended! It is spiffy!!1", "sentiment": "negative", "topics": {"0": "0.1714147", "1": "0.22421446", "2": "0.14849629", "3": "0.23746374", "4": "0.01108527", "5": "0.1963113", "6": "0.011014212"}}

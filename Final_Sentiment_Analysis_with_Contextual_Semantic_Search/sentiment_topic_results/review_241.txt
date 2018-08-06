@@ -1,0 +1,1 @@
+{"text": "Works great to hold a wet swimsuit after a workout. Larger than I pictured. It's kind of an over-sized mesh bag.", "sentiment": "negative", "topics": {"0": "0.12943329", "1": "0.15337999", "2": "0.011013127", "3": "0.12272532", "4": "0.011009335", "5": "0.56144315", "6": "0.010995805"}}

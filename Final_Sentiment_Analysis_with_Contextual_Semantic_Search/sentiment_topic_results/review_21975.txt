@@ -1,0 +1,1 @@
+{"text": "very nice shirts , soft and strong. not those crappy thin ones you get at walmart.I bought the black and white one and am going to order the blue one next.", "sentiment": "positive", "topics": {"0": "0.12001912", "1": "0.25970283", "2": "0.36143315", "5": "0.13555749", "6": "0.108193815"}}

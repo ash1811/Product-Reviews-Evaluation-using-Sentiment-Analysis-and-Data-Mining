@@ -1,0 +1,1 @@
+{"text": "Not real crazy about the fabric. I am old fashion and like thicker more cottony feel than the new &#34;stay dry&#34; stuff, but other than that it fits well for an old fat guy.", "sentiment": "negative", "topics": {"1": "0.3644464", "3": "0.2604242", "4": "0.1030976", "5": "0.14561379", "6": "0.11134879"}}

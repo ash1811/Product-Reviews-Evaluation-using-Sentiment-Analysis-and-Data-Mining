@@ -1,0 +1,1 @@
+{"text": "This shirt is nice, but the material is heavy. So it makes for a perfect shirt at night during cooler weather.Can be worn casual or dressed up.", "sentiment": "negative", "topics": {"0": "0.14246577", "3": "0.33725867", "5": "0.101659864", "6": "0.38996112"}}

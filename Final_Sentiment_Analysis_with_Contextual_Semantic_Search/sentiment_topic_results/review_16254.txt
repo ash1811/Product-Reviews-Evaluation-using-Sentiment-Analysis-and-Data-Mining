@@ -1,0 +1,1 @@
+{"text": "I bought these for my 13 year old grandson.  He was excited that he had slippers that fit his size 14 feet.", "sentiment": "positive", "topics": {"0": "0.1026761", "1": "0.147135", "2": "0.011913527", "3": "0.2152374", "4": "0.25722602", "5": "0.01193887", "6": "0.25387308"}}

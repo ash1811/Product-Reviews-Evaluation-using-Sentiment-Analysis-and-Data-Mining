@@ -1,0 +1,1 @@
+{"text": "Fits my  husband's big face. Arrived quickly and in a sealed package. Bought extra lenses also and the lenses were easy to pop in/out.", "sentiment": "negative", "topics": {"0": "0.26448792", "1": "0.15649024", "2": "0.17163143", "4": "0.1641896", "5": "0.14310274", "6": "0.091661274"}}

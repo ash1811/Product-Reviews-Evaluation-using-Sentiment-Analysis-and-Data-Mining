@@ -1,0 +1,1 @@
+{"text": "it's a nice watch for boys around the school age. the two hands with lizards look so funny, just animating.My son likes it so much", "sentiment": "negative", "topics": {"1": "0.32854712", "2": "0.1745382", "3": "0.37888697", "4": "0.09116933"}}

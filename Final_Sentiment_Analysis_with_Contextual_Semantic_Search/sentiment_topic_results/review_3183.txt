@@ -1,0 +1,1 @@
+{"text": "As always Levis had the better jeans, really love this brand all jeans have a good quiality and are confortable", "sentiment": "negative", "topics": {"0": "0.011952775", "1": "0.011959128", "2": "0.011956309", "3": "0.5075802", "4": "0.011960004", "5": "0.31528547", "6": "0.1293061"}}

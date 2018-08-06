@@ -1,0 +1,1 @@
+{"text": "My boys like to play dress up with costumes and such. I bought this to go along with a gross experiment book for summertime fun. My kids love it!", "sentiment": "negative", "topics": {"0": "0.5244687", "4": "0.15129061", "5": "0.12715882", "6": "0.17320345"}}

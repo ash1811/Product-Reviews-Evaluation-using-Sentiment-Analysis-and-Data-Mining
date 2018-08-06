@@ -1,0 +1,1 @@
+{"text": "These are great for comfort. The cotton is thin and soft and they fit a fuller body very nicely. I love that they take care of the panty line issue without having to have a thong up my rear end.", "sentiment": "positive", "topics": {"1": "0.57838035", "3": "0.12705517", "5": "0.1549223", "6": "0.1181365"}}

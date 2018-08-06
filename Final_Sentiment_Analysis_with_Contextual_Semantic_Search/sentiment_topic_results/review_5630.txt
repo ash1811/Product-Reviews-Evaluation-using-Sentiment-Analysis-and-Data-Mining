@@ -1,0 +1,1 @@
+{"text": "I just love these tankS!!!!  I wear scrubs to work and have been wearing &#34;bra tops&#34; for a long time time but these tanks are the best and I can get a medium instead of a large.. I will be ordering many more...", "sentiment": "negative", "topics": {"1": "0.33361465", "3": "0.35588378", "4": "0.17061348", "6": "0.119406894"}}

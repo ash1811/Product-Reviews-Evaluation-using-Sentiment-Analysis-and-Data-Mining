@@ -1,0 +1,1 @@
+{"text": "This watch worked great.  The watch was comfortable and combined the best of analog and digital watch design.  It looks really nice too.", "sentiment": "positive", "topics": {"1": "0.44011533", "2": "0.34496748", "3": "0.09702472", "6": "0.091037974"}}

@@ -1,0 +1,1 @@
+{"text": "I LOVE these trunks!  They fit so well and are so comfortable under jeans or dress slacks!  I would buy again in a heartbeat!", "sentiment": "positive", "topics": {"0": "0.1743362", "1": "0.51752275", "2": "0.011919711", "3": "0.16918933", "4": "0.011967911", "5": "0.011982981", "6": "0.103081115"}}

@@ -1,0 +1,1 @@
+{"text": "After ready reviews knew to order a bit bigger so these fit my husband perfectly.  The are nicely made and thick socks on the toes, bottom of foot and heel area.  Since my husband loves to run around in socks these are lasting well.", "sentiment": "negative", "topics": {"1": "0.37854153", "3": "0.16232263", "4": "0.20915307", "5": "0.23402493"}}

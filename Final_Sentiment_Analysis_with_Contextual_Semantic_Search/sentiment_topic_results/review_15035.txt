@@ -1,0 +1,1 @@
+{"text": "The elastic at the bottom just tears right off once you get the boot on. But really its not needed to make the boots look good.", "sentiment": "negative", "topics": {"0": "0.010267478", "1": "0.3222848", "2": "0.0102209905", "3": "0.13505314", "4": "0.23694451", "5": "0.27498424", "6": "0.010244842"}}

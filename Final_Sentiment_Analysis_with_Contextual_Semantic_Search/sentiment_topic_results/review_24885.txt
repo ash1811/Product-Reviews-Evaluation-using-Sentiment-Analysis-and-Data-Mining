@@ -1,0 +1,1 @@
+{"text": "I like this nightgown. Normally I do not like synthetics, but here fabric pleasant. Yes, this shirt is very transparent, in such a nightie not go out to the children or parents. But my husband loves it when I wore! And I also get pleasure from this shirt!", "sentiment": "positive", "topics": {"1": "0.11757255", "3": "0.2005115", "4": "0.25189573", "5": "0.41046694"}}

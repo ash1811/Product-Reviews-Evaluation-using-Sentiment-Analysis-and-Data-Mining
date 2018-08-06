@@ -1,0 +1,1 @@
+{"text": "Heavy duty canvas... Looks just like the photo.. No false advertising here. Would recommend highly. I just ordered another one.. Use them to put small electronic cords, portable hard drives ..etc, in.", "sentiment": "negative", "topics": {"0": "0.13140316", "1": "0.14372486", "2": "0.2575351", "3": "0.09405075", "4": "0.09722344", "5": "0.15131034", "6": "0.12475236"}}

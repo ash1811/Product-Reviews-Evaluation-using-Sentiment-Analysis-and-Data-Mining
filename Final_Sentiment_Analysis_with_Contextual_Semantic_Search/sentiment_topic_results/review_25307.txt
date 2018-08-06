@@ -1,0 +1,1 @@
+{"text": "A well made shoe with ample support.  I was concerned about the sole of the shoe being too soft.  Yes, I would buy again.", "sentiment": "negative", "topics": {"0": "0.010224367", "1": "0.42022577", "2": "0.2648179", "3": "0.010281692", "4": "0.010239085", "5": "0.27400634", "6": "0.010204874"}}

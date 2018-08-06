@@ -1,0 +1,1 @@
+{"text": "I like the look of this chain but had to return, it was yanking my hair out in chunks within 15 minutes of putting it on. Would never buy again.", "sentiment": "negative", "topics": {"1": "0.34776834", "3": "0.22074309", "4": "0.2358312", "6": "0.17036363"}}

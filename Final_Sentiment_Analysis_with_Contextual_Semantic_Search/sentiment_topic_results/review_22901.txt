@@ -1,0 +1,1 @@
+{"text": "Can't really beat the price on these. Material is really light but quality is still there. Pockets seem to hang a little too low when you have a few things in them (wallet and phone).", "sentiment": "negative", "topics": {"1": "0.7671453", "2": "0.13244548", "4": "0.07176119"}}

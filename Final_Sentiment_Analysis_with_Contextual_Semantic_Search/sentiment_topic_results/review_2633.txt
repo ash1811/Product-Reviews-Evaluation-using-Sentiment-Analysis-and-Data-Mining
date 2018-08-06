@@ -1,0 +1,1 @@
+{"text": "I am a big walker and thought I would try these shoes instead of buying my usual Ryka brand. I found the shoe to fit comfortably even with my special orthotic insert. The shoe is a little heavier than I prefer but the quality is very high.", "sentiment": "negative", "topics": {"0": "0.06919958", "1": "0.21535754", "2": "0.29742822", "3": "0.13652731", "5": "0.2704755"}}

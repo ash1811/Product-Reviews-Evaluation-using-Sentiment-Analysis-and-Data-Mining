@@ -1,0 +1,1 @@
+{"text": "These shoes are great and have great comfort.  I like the fact that they have a cushion around the ankle area and protects me from cuts.", "sentiment": "negative", "topics": {"0": "0.011006125", "1": "0.28990892", "2": "0.20452689", "3": "0.32918867", "4": "0.01100597", "5": "0.011023883", "6": "0.14333956"}}

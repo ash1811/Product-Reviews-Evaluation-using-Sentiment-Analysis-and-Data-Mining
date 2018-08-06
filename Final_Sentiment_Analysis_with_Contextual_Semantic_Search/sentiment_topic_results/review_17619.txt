@@ -1,0 +1,1 @@
+{"text": "Cheap light and easy to read. The crystal on my nice skagan broke at work and I needed a stand in to wait for repair and return. Fills the bill in every regard. 8 bucks to my front door. Perfect.", "sentiment": "negative", "topics": {"0": "0.13098368", "1": "0.16816191", "2": "0.06352062", "3": "0.08735329", "4": "0.09763742", "5": "0.26545396", "6": "0.18688916"}}

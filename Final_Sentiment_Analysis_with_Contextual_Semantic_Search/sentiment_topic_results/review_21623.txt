@@ -1,0 +1,1 @@
+{"text": "Got this for my husband and I can't tell you how pleased I am , he looks great in it and the fit is perfect ! Of course this brand I've always found reliable , and the color is perfect for Man Dirt !", "sentiment": "positive", "topics": {"1": "0.36762306", "2": "0.069014184", "3": "0.31466946", "4": "0.22717981"}}

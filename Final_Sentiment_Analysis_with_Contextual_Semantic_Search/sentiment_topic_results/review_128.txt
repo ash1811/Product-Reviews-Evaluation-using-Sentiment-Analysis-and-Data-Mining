@@ -1,0 +1,1 @@
+{"text": "I really don't need this big size, but it fit great over my chef jacket. Keeps me warm when I step out for a smoke", "sentiment": "positive", "topics": {"0": "0.011017941", "1": "0.4839295", "2": "0.14357764", "3": "0.011071089", "4": "0.13618857", "5": "0.01102676", "6": "0.20318848"}}

@@ -1,0 +1,1 @@
+{"text": "Which is a good thing for me.Heavy weight Tees's have their place, as do these less heavy fabric ones.Choices are a good thing.Fits just right, rather than a size XL being the new size XXL", "sentiment": "positive", "topics": {"1": "0.120749906", "2": "0.21265647", "3": "0.16881657", "4": "0.20154062", "6": "0.28186908"}}

@@ -1,0 +1,1 @@
+{"text": "I was disappointed in the color of these briefs. The image on Amazon did not prepare me for the terrible shades I received. They were definitely not pastel!!", "sentiment": "negative", "topics": {"0": "0.012003258", "1": "0.2891693", "2": "0.10452161", "3": "0.21193887", "4": "0.35851714", "5": "0.011943745", "6": "0.011906046"}}

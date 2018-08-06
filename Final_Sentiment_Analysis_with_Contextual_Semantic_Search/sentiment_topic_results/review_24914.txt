@@ -1,0 +1,1 @@
+{"text": "Weird hook--not standard for front-hook bras.  Couldn't get it hooked--needed help.  Then, it didn't fit--cut the breasts.", "sentiment": "negative", "topics": {"0": "0.011917652", "1": "0.01190801", "2": "0.2796453", "3": "0.20460053", "4": "0.011915571", "5": "0.20810659", "6": "0.27190635"}}

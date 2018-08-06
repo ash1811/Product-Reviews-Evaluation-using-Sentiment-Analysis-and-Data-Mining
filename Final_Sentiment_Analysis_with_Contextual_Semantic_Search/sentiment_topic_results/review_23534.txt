@@ -1,0 +1,1 @@
+{"text": "As I like a good watch that never needs winding or re-setting, it is a pretty good watch for the price.  My other watches are jeweled movements and cost 20 times this one but for the price you can't beat it.", "sentiment": "positive", "topics": {"0": "0.25414032", "1": "0.09303379", "2": "0.29778957", "4": "0.18365075", "6": "0.15892984"}}

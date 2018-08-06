@@ -1,0 +1,1 @@
+{"text": "Hew loves it for wearing to town or out to the garden. Nice and soft and very attractive. He loves it.", "sentiment": "negative", "topics": {"0": "0.20678689", "1": "0.4166683", "2": "0.013000732", "3": "0.013012626", "4": "0.23202768", "5": "0.013057956", "6": "0.10544581"}}

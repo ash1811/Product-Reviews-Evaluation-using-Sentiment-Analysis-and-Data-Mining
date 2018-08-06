@@ -1,0 +1,1 @@
+{"text": "It's super shiny and it looks nice. Looks just like the image shows here. It looks like it is pretty durable, but I'm no expert.", "sentiment": "negative", "topics": {"0": "0.17742062", "1": "0.44793177", "2": "0.085730605", "4": "0.124805674", "6": "0.14621173"}}

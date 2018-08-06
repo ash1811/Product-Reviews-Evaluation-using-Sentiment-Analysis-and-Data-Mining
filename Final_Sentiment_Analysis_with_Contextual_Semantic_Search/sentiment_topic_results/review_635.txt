@@ -1,0 +1,1 @@
+{"text": "Wrangler quality one has come to expect.  The feel and heavy duty denim good for a hard days work for many a day!", "sentiment": "negative", "topics": {"0": "0.14461474", "1": "0.26903963", "4": "0.3271108", "5": "0.1352167", "6": "0.106112935"}}

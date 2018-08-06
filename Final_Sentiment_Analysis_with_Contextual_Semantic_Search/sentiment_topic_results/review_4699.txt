@@ -1,0 +1,1 @@
+{"text": "Loved these shoes. Unfortunately I have stinky feet and can no longer wear them. Comfy and good quality. Great slip on shoes and a good look!", "sentiment": "positive", "topics": {"0": "0.30151415", "1": "0.36560655", "2": "0.2991135"}}

@@ -1,0 +1,1 @@
+{"text": "Nothing fabulous about these pajamas but very functional.  Washes well and doesn't wrinkle.  They are nice practical pajama set to travel with as they don't wrinkle.", "sentiment": "negative", "topics": {"0": "0.16723195", "1": "0.4616986", "2": "0.010214961", "3": "0.010216872", "4": "0.07031636", "5": "0.0102307005", "6": "0.27009055"}}

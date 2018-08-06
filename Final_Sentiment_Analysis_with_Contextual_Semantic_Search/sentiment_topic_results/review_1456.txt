@@ -1,0 +1,1 @@
+{"text": "I bought two of these for my kids. It fits all my kids school books, and is very, very sturdy. We are fans.", "sentiment": "positive", "topics": {"0": "0.21584775", "1": "0.24135095", "2": "0.21727341", "3": "0.0129975835", "4": "0.012995887", "5": "0.2865466", "6": "0.012987807"}}

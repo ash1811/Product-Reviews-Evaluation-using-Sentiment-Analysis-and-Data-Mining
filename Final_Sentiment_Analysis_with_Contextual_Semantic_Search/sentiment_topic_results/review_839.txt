@@ -1,0 +1,1 @@
+{"text": "they were a little stiff when new, now they feel fine. I like reef flip flops and this is my 2nd. pair.", "sentiment": "negative", "topics": {"0": "0.011943527", "1": "0.23300274", "2": "0.3679032", "3": "0.35132954", "4": "0.011931334", "5": "0.011919591", "6": "0.0119700385"}}

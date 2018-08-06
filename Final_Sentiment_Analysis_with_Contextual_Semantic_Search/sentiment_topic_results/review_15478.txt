@@ -1,0 +1,1 @@
+{"text": "I had little knowledge on the sizes, for a woman I'd say these look and fit perfect. They don't fall off when I bend over. Sexy look, I got them in black and love them!", "sentiment": "negative", "topics": {"1": "0.42629233", "3": "0.3002753", "5": "0.08263832", "6": "0.16818227"}}

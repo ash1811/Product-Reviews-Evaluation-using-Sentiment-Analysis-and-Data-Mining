@@ -1,0 +1,1 @@
+{"text": "Russell, as always, provides best in class fleece.Warm, comfortable, good fit, decent pockets, high quality material and workmanship.Only negative: Last ones I got were made in USA, these were made in Pakistan.", "sentiment": "negative", "topics": {"1": "0.4462066", "3": "0.13814688", "4": "0.25810412", "6": "0.13958351"}}

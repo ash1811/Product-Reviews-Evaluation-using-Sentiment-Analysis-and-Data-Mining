@@ -1,0 +1,1 @@
+{"text": "It's so ugly! It's made too long. My husband is tall and it's still made way over his knees. We donate it right away.", "sentiment": "positive", "topics": {"0": "0.011008838", "1": "0.18424317", "2": "0.31709", "3": "0.22703627", "4": "0.23858076", "5": "0.011026889", "6": "0.011014061"}}

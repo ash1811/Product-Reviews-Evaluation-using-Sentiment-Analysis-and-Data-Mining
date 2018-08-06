@@ -1,0 +1,1 @@
+{"text": "I accidentally ordered the wrong size, my bad. However, I ordered a different bra, because these straps do NOT adjust by much at all, due to the &#34;gel strap&#34; not allowing them to do so.", "sentiment": "positive", "topics": {"0": "0.11998015", "1": "0.17638648", "2": "0.3972875", "3": "0.15354751", "5": "0.1377235"}}

@@ -1,0 +1,1 @@
+{"text": "I love my men's levi's 527 slim boot cut jean. I only wear men's levi's jeans. These are my favorite style and I will continue to buy them.", "sentiment": "negative", "topics": {"1": "0.27691618", "2": "0.095438905", "4": "0.29385933", "5": "0.19564195", "6": "0.12219682"}}

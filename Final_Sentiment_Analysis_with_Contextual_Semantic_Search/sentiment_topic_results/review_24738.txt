@@ -1,0 +1,1 @@
+{"text": "Wears well, comfortable, washes easy in a quick washer cycle. I would suggest them to any individual looking for a good quality short to take to the gym/", "sentiment": "negative", "topics": {"0": "0.17722294", "1": "0.5918199", "3": "0.11920188", "4": "0.08787853"}}

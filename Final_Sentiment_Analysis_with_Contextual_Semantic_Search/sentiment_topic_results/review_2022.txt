@@ -1,0 +1,1 @@
+{"text": "I bought this shoes, because my father use them since 1985.  He has more than 6 pair of them, but this is the only one in brown.  this shoes are extremely comfortable.", "sentiment": "positive", "topics": {"0": "0.09798458", "1": "0.3749061", "2": "0.41470423", "6": "0.083678775"}}

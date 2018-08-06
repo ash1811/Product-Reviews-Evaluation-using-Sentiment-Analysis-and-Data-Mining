@@ -1,0 +1,1 @@
+{"text": "I love Casio G-Shock watches, they look fantastic and are well made. I decide for this model because it is classic, not to big.", "sentiment": "negative", "topics": {"0": "0.12969469", "1": "0.24536751", "2": "0.19609402", "3": "0.0110102575", "4": "0.011039781", "5": "0.23740691", "6": "0.16938686"}}

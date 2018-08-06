@@ -1,0 +1,1 @@
+{"text": "it's alright. i think it's very good but not so excellent. i gave it to my little nephew because it looked age appropriate on him", "sentiment": "negative", "topics": {"0": "0.013022866", "1": "0.4393606", "2": "0.13188376", "3": "0.1463143", "4": "0.24339427", "5": "0.01301968", "6": "0.013004529"}}

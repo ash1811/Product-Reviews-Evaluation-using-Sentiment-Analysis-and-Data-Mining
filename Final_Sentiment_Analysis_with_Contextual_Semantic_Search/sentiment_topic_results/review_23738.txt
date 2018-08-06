@@ -1,0 +1,1 @@
+{"text": "I love this sunglasses. They are perfect fits for my face. I like color and quality of material. I would definitely recommended.", "sentiment": "negative", "topics": {"0": "0.011011658", "1": "0.5792021", "2": "0.2580753", "3": "0.11865287", "4": "0.011031578", "5": "0.011008495", "6": "0.011017991"}}

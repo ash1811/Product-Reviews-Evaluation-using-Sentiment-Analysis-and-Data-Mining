@@ -1,0 +1,1 @@
+{"text": "I ordered these for by 16 year old daughter who consistently wears a size 10. They were way too small, and they don't come any larger!!Alot of reviewers said they were tight and stretched, but this was just too small to see if they would work out", "sentiment": "positive", "topics": {"0": "0.110714056", "1": "0.30533367", "3": "0.41395175", "4": "0.15046974"}}

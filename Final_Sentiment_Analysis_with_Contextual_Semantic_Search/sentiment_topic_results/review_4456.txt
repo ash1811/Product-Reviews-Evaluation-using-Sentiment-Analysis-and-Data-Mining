@@ -1,0 +1,1 @@
+{"text": "Been wearing Lee's jeans all my life.  These jeans fit exactly as specified, so no guessing required.  Always recommended as a cheaper alternative to Levi's.", "sentiment": "negative", "topics": {"0": "0.29658854", "1": "0.30813977", "2": "0.1956582", "6": "0.1727308"}}

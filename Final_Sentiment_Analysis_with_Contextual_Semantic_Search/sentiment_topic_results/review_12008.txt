@@ -1,0 +1,1 @@
+{"text": "I recently had surgery and looking for shelf bra's.  The quality was there and well made.  Just didn't fit me correctly.  Would still recommend this product.", "sentiment": "positive", "topics": {"1": "0.48476595", "3": "0.24369074", "4": "0.07007008", "5": "0.17285639"}}

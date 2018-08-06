@@ -1,0 +1,1 @@
+{"text": "Great little hat.  My son loved it but the adjustable plastic piece inside broke very easily.  It was really no big deal.  He was able to wear it without it.", "sentiment": "negative", "topics": {"0": "0.10850904", "1": "0.41327658", "2": "0.085713804", "3": "0.24978928", "4": "0.07003131", "6": "0.06514502"}}

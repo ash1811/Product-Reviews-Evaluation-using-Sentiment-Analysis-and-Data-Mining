@@ -1,0 +1,1 @@
+{"text": "Hands down my favorite black shoe polish. It shines up to a nice mirror shine well and also stains worn leather quite nicely (I also love the smell)", "sentiment": "negative", "topics": {"0": "0.06408537", "1": "0.109538645", "2": "0.12234146", "3": "0.2656917", "4": "0.17267393", "5": "0.15572494", "6": "0.10994393"}}

@@ -1,0 +1,1 @@
+{"text": "I bought three of these. The pink one was fine. The other two both fit differently even though they were all the same size. I've returned the two others. refunds pending. Hopefully, I get a credit!", "sentiment": "positive", "topics": {"1": "0.27040073", "2": "0.15088794", "3": "0.31490034", "4": "0.1463259", "5": "0.044160083", "6": "0.06680044"}}

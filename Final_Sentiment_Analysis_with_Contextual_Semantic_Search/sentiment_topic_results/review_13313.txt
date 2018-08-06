@@ -1,0 +1,1 @@
+{"text": "It's a classy levi's jean, nice cut, classy desing and very durable. I do not have any trouble with the pair that I bought, perfect lengh, perfect waist size. I washed several times and the color is not faded at all. Mine It's made in Haiti for reference.", "sentiment": "positive", "topics": {"1": "0.38719952", "2": "0.07575423", "5": "0.34489176", "6": "0.17621642"}}

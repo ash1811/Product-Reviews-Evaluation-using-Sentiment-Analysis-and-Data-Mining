@@ -1,0 +1,1 @@
+{"text": "Cute as always, good quality, size...well, I bought a small and it was tight, when I buy Wink and is a little loose; then I bought a medium and it was gigantic! So, last time I get these pants, never more.", "sentiment": "negative", "topics": {"1": "0.61767197", "2": "0.14608252", "5": "0.16296303", "6": "0.054586053"}}

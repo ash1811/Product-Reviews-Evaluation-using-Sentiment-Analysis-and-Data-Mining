@@ -1,0 +1,1 @@
+{"text": "I bought this for a gift for my mother in laws 82nd birthday and she says she loves it and can see the dial clearly and that it is a pretty watch.", "sentiment": "negative", "topics": {"0": "0.27072594", "1": "0.010249534", "2": "0.29807216", "3": "0.099614546", "4": "0.13397771", "5": "0.010225584", "6": "0.17713454"}}

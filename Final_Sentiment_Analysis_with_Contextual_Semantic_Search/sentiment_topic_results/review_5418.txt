@@ -1,0 +1,1 @@
+{"text": "Excellent  product, terrific value and a great gift item.  Size was as expected.  I have paid 2-3 times more for a comparable windshirt and the Badger windshirt mmatched the quality of the more expensive ones.", "sentiment": "negative", "topics": {"0": "0.06454746", "1": "0.4998144", "2": "0.18585339", "5": "0.07619051", "6": "0.15993583"}}

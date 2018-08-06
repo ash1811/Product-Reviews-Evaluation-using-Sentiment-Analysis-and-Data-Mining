@@ -1,0 +1,1 @@
+{"text": "This is a great everyday watch that not only looks good but keeps excellent time. I also like the adjustable band that should be on higher priced watches. Highly recommend this nice watch!", "sentiment": "negative", "topics": {"0": "0.20834967", "1": "0.19631389", "2": "0.37658826", "4": "0.19726494"}}

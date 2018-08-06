@@ -1,0 +1,1 @@
+{"text": "I purchased these for my husband, who unfortunately didn't like them. I love Keens, but he found the toe box too big and the heel slightly large.", "sentiment": "positive", "topics": {"0": "0.09853781", "1": "0.35283804", "3": "0.15180357", "4": "0.16971217", "5": "0.09967659", "6": "0.11787765"}}

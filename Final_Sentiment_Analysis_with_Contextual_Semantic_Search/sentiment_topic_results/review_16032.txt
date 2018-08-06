@@ -1,0 +1,1 @@
+{"text": "Flips flops are sturdy, durable yet straps are soft and comfy.  For my preference, these are an excellent purchase.  Will purchase from Reef again, without hesitation.", "sentiment": "negative", "topics": {"1": "0.46806037", "2": "0.22287679", "3": "0.08032997", "4": "0.20347068"}}

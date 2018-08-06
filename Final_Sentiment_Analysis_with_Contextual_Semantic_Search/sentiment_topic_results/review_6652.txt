@@ -1,0 +1,1 @@
+{"text": "These socks are a little bit too warm for the summer time walking but they do provide a good cushion on both the top and bottom of the foot.", "sentiment": "negative", "topics": {"0": "0.010238555", "1": "0.18555187", "2": "0.116395876", "3": "0.23111613", "4": "0.010269695", "5": "0.4362183", "6": "0.010209617"}}

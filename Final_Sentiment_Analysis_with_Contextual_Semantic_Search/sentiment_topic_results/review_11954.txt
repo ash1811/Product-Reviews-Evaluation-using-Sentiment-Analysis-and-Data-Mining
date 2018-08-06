@@ -1,0 +1,1 @@
+{"text": "works just as expected, i'm using it in every type of weather and if feels really good and comfortable, recommend it", "sentiment": "negative", "topics": {"0": "0.39580846", "1": "0.5490835", "2": "0.011006437", "3": "0.0110230865", "4": "0.011014396", "5": "0.011023919", "6": "0.01104025"}}

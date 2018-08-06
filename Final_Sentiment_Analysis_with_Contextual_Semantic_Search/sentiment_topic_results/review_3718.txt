@@ -1,0 +1,1 @@
+{"text": "I buy this sunglasses for my mother and she love it. It was a nice golden color. Look ligth weight but at the same time strong.", "sentiment": "negative", "topics": {"0": "0.01024838", "1": "0.5742726", "2": "0.09964055", "3": "0.010249173", "4": "0.01025284", "5": "0.19017413", "6": "0.105162375"}}

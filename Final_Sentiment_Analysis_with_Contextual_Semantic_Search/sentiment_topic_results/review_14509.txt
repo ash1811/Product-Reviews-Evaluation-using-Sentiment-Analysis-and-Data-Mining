@@ -1,0 +1,1 @@
+{"text": "Needs shoe stretcher to get them to fit.The sizing stated Europe's 44 for 11-11.5 Men's USI believe 45 would have been closer to US's 11-11.5Quality looks okay but not sure it's worth $102", "sentiment": "positive", "topics": {"0": "0.20373857", "2": "0.2878211", "3": "0.07292883", "5": "0.12673627", "6": "0.29682556"}}

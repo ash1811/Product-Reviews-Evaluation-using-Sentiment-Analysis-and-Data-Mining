@@ -1,0 +1,1 @@
+{"text": "This ring is so detailed and beautiful!  I wear it as a pinky ring and  with other rings - it looks great.", "sentiment": "positive", "topics": {"0": "0.014330097", "1": "0.6737179", "2": "0.014292995", "3": "0.12051199", "4": "0.014349045", "5": "0.14850147", "6": "0.014296481"}}

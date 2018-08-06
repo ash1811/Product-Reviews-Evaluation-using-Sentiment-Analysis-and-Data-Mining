@@ -1,0 +1,1 @@
+{"text": "A bit pricey but Uggs are. I bought these as a gift and she loves them. Would recommend if you want some Uggs!", "sentiment": "positive", "topics": {"0": "0.48126885", "1": "0.0110210115", "2": "0.14007813", "3": "0.33453676", "4": "0.0110305445", "5": "0.01101265", "6": "0.01105206"}}

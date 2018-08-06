@@ -1,0 +1,1 @@
+{"text": "They are comfortable and sturdy  I practically lived in them all summer.  But they aren't anything special; just a good pair of flip flops for your closet.", "sentiment": "negative", "topics": {"0": "0.0975056", "1": "0.4197566", "2": "0.43872562", "3": "0.01101539", "4": "0.011006327", "5": "0.011000629", "6": "0.0109898485"}}

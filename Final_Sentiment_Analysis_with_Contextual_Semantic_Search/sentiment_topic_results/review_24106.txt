@@ -1,0 +1,1 @@
+{"text": "I wear a VS 36C and this bra cup size is about one larger.Quality of the product is good though.", "sentiment": "negative", "topics": {"0": "0.011913742", "1": "0.18696316", "2": "0.011933953", "3": "0.21089302", "4": "0.31288937", "5": "0.14512287", "6": "0.1202839"}}

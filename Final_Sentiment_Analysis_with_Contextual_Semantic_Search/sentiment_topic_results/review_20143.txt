@@ -1,0 +1,1 @@
+{"text": "I needed a backpack to carry clothing items while cycling and this one fit the bill for my needs.  So far so good and hope it stays that way.", "sentiment": "negative", "topics": {"1": "0.19047461", "2": "0.24966392", "4": "0.30370712", "6": "0.22925444"}}

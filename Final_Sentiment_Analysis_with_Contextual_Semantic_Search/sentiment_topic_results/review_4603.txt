@@ -1,0 +1,1 @@
+{"text": "First time I had this model was in 1983. Bought them in Miami, saw them on top athletes. I loved them then and I love them now. Thank you.", "sentiment": "negative", "topics": {"0": "0.3403178", "1": "0.14463755", "2": "0.05938594", "3": "0.1794", "6": "0.2571216"}}

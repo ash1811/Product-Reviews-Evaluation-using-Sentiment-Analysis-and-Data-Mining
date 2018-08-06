@@ -1,0 +1,1 @@
+{"text": "I bought these for summer vacation. I wanted a cute pair that were cheap in case I lost them. I wore them less than ten times before the arm broke on one side.", "sentiment": "positive", "topics": {"0": "0.31407106", "2": "0.24305506", "4": "0.16860561", "6": "0.25159404"}}

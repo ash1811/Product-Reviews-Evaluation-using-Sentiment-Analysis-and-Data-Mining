@@ -1,0 +1,1 @@
+{"text": "I love this shirt it does not shrink it looks really good it does not make me sweet even do with 85 F weather", "sentiment": "negative", "topics": {"0": "0.19888236", "1": "0.4983673", "2": "0.011002924", "3": "0.011115576", "4": "0.12995669", "5": "0.13965389", "6": "0.011021277"}}

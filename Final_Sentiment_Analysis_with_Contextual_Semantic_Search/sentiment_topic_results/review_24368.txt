@@ -1,0 +1,1 @@
+{"text": "Like all Carhartt products, this hat is extremely well made, it fits well, is comfortable and look great.  High quality at a reasonable price!", "sentiment": "positive", "topics": {"0": "0.09639188", "1": "0.58137566", "3": "0.19917917", "5": "0.09772103"}}

@@ -1,0 +1,1 @@
+{"text": "They are Uggs.. What can I say tha you don't know? Theyre warm and comfy bought them for  my mom. They will always get worn out and eventually mold to your foot but that is jus the way they are. Theyre great.", "sentiment": "positive", "topics": {"0": "0.14814056", "1": "0.14955798", "3": "0.088271916", "4": "0.34454733", "5": "0.1013575", "6": "0.16125406"}}

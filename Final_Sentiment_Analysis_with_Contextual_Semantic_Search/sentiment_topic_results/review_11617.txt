@@ -1,0 +1,1 @@
+{"text": "this gray is a nice neutral color to have as a change from blue.  it is different, but not loud", "sentiment": "negative", "topics": {"0": "0.015929563", "1": "0.5501067", "2": "0.25615633", "3": "0.015887285", "4": "0.1301119", "5": "0.01587812", "6": "0.015930118"}}

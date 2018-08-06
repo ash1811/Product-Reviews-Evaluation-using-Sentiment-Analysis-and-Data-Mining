@@ -1,0 +1,1 @@
+{"text": "really like the color, look just like the picture show but it was put together wrong, luck for me! I just let my husband fix it:)", "sentiment": "positive", "topics": {"0": "0.1864666", "1": "0.27665415", "2": "0.34578055", "4": "0.16580302"}}

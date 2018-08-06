@@ -1,0 +1,1 @@
+{"text": "They're fine for what they are. How much can you say about basic khaki's. Note the pleated front, which some, especially younger men (and their women) consider to be out of style.", "sentiment": "positive", "topics": {"0": "0.07421008", "1": "0.42764091", "2": "0.19934857", "5": "0.15541539", "6": "0.12827906"}}

@@ -1,0 +1,1 @@
+{"text": "This shirt is a heavy weight fabric that feels like very high quality material. It does wrinkly fairly easily but I think it would wrinkle less with a nice heavy starch. It's certainly a nice quality shirt for the price!", "sentiment": "negative", "topics": {"0": "0.09943466", "1": "0.5524475", "6": "0.3251215"}}

@@ -1,0 +1,1 @@
+{"text": "I wouldn't say that my feet were toasty warm because of these but I think they helped my wool socks do the job.  When you are out in the cold it's all about layering & I believed these helped.", "sentiment": "positive", "topics": {"0": "0.2703788", "1": "0.27810127", "2": "0.010224976", "3": "0.16955626", "4": "0.010278426", "5": "0.09614454", "6": "0.16531575"}}

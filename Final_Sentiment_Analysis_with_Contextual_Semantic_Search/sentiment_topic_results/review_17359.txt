@@ -1,0 +1,1 @@
+{"text": "I love these socks. The Thermasilk is warm, but thin. The socks bring any moisture to the outside and away from your feet. It is great. I have been looking for this kind of sock for years. So much better for warmth than wool socks.", "sentiment": "negative", "topics": {"1": "0.27838218", "2": "0.06533258", "3": "0.14051375", "4": "0.11883729", "5": "0.38392434"}}

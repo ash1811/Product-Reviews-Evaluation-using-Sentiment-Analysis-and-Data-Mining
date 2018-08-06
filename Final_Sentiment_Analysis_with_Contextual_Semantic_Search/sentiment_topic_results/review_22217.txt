@@ -1,0 +1,1 @@
+{"text": "I think these are a little too slick, they slip around in my shoes a bit. The Mid weight is more grippy and doesn't do that.", "sentiment": "negative", "topics": {"0": "0.14310415", "1": "0.011971512", "2": "0.21788608", "3": "0.06242427", "4": "0.122959055", "5": "0.42971516", "6": "0.011939759"}}

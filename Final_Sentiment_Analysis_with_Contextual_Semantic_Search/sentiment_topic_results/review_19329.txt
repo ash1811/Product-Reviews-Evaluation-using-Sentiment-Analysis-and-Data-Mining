@@ -1,0 +1,1 @@
+{"text": "excellent product,received in excellent conditions higly recommended if u want to give it for a gift ITS PERFECT CHEAP AND ALSO NICE.Higly recommended", "sentiment": "negative", "topics": {"0": "0.17720337", "2": "0.4499949", "3": "0.26863337", "4": "0.07733787"}}

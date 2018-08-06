@@ -1,0 +1,1 @@
+{"text": "These look and fit great right out of the box. They fit true to size unlike most of the athletic shoes which I buy a half size larger. Very comfortable shoe. I am sure I will live in theses and my TEVA's this summer.", "sentiment": "negative", "topics": {"1": "0.42388654", "2": "0.3035394", "3": "0.24765337"}}

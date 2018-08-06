@@ -1,0 +1,1 @@
+{"text": "it makes you look really skinny I love this leotards! I use them with normal clothing and looks very nice! gonna buy more for sure", "sentiment": "negative", "topics": {"0": "0.1013849", "1": "0.485137", "2": "0.08245751", "3": "0.30237707"}}

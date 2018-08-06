@@ -1,0 +1,1 @@
+{"text": "Great fit and texture.  Will be our new go to T-shirt. Love the color choices though, could we take the R off the sleeve?", "sentiment": "negative", "topics": {"1": "0.5809771", "3": "0.37129626"}}

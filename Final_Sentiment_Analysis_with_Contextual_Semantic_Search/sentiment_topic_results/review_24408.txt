@@ -1,0 +1,1 @@
+{"text": "Too many times you buy a knit hat and they just don't fit right or aren't warm enough. This meets the bill on both. Outstanding fit and warm as toast.", "sentiment": "negative", "topics": {"1": "0.4381823", "3": "0.11199347", "4": "0.20578927", "5": "0.21876313"}}

@@ -1,0 +1,1 @@
+{"text": "I wear an 8 and these were GIANT on my feet. I would recommend ordering a size down, or the company creating sizing that was exact and not doubling up on sizes.", "sentiment": "positive", "topics": {"1": "0.2534154", "3": "0.27760246", "4": "0.13675298", "5": "0.30539325"}}

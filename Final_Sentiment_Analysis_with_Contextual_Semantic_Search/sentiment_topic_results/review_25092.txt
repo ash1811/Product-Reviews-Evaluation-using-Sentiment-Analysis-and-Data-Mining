@@ -1,0 +1,1 @@
+{"text": "Ring was not as advertised looks fake!  I was very disappointed especially since the price was extremely reasonable but oh well live and learn", "sentiment": "negative", "topics": {"0": "0.18264288", "1": "0.4091569", "3": "0.36997592"}}

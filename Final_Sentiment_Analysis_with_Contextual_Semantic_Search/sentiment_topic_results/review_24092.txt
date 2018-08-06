@@ -1,0 +1,1 @@
+{"text": "Love this bra... very good fit, nice material, wears very well.  Just a bit tighter than previous nude Glamorise No Bounce bra, but I can live with it.", "sentiment": "negative", "topics": {"0": "0.0875293", "1": "0.37190926", "2": "0.088142686", "3": "0.42855987"}}

@@ -1,0 +1,1 @@
+{"text": "Got what I paid for, I guess. They keep my toes warm, but zero comfort for my feet. Any pillow feeling is gone in seconds.", "sentiment": "positive", "topics": {"1": "0.3922129", "2": "0.09238978", "4": "0.17046212", "5": "0.09063197", "6": "0.23518747"}}

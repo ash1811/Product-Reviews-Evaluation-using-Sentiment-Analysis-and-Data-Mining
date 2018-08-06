@@ -1,0 +1,1 @@
+{"text": "When product arrived I was surprised. I expected the leg length of the shorts to be 2 inches longer. Otherwise everything is okay and I'm not saying that I won't purchase again , but I will be more careful when I order", "sentiment": "positive", "topics": {"0": "0.34444466", "2": "0.098692514", "3": "0.11118115", "5": "0.069895916", "6": "0.3606984"}}

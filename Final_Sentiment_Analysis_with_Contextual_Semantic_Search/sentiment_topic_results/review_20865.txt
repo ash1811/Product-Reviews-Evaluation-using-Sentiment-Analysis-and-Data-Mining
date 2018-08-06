@@ -1,0 +1,1 @@
+{"text": "Sandals are not bad, the straps are a bit big, I think the would be great for someone with thicker feet, or someone who want's extra room and not tight straps.", "sentiment": "negative", "topics": {"1": "0.6361237", "2": "0.16974604", "3": "0.11221841", "4": "0.05804606"}}

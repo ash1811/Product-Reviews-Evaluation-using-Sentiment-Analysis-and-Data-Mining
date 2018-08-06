@@ -1,0 +1,1 @@
+{"text": "I am enjoying these socks.  They launder and wear well.  They are nice and warm without the uncomfortable bulk that many wool socks add.  The pattern is attractive.  I recommend them if you get cold feet in the winter.", "sentiment": "negative", "topics": {"1": "0.31884003", "3": "0.080345936", "4": "0.1550538", "5": "0.32791492", "6": "0.10479095"}}

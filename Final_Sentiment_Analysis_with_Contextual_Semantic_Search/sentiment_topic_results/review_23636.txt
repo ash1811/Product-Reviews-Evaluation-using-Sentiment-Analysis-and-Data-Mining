@@ -1,0 +1,1 @@
+{"text": "This is very comfortable and stretchy, easy to get on and off, but it's easy to stick your toe through the large mesh in the foot. Nevertheless, my husband liked it so I'm pleased. Recommended!", "sentiment": "negative", "topics": {"0": "0.14237027", "1": "0.40995705", "2": "0.08841005", "4": "0.335347"}}

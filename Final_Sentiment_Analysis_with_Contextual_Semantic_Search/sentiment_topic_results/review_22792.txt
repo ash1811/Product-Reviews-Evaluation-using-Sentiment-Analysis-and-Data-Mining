@@ -1,0 +1,1 @@
+{"text": "My hubby looks great in them. They are a well made brand. You get the money worth with the Dickies brand.", "sentiment": "negative", "topics": {"0": "0.011053019", "1": "0.011048084", "2": "0.11034143", "3": "0.35640416", "4": "0.011003444", "5": "0.48915493", "6": "0.010994931"}}

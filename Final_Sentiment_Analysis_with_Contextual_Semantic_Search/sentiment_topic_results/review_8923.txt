@@ -1,0 +1,1 @@
+{"text": "I ordered them, they arrived.  They fit & I wear them.  I personally like Skecher's since I wear Orthotics.  I can easily take out inner sole & slide my Orthotic right in.", "sentiment": "negative", "topics": {"0": "0.2442714", "1": "0.20686348", "2": "0.086261354", "3": "0.32557586", "5": "0.12339776"}}

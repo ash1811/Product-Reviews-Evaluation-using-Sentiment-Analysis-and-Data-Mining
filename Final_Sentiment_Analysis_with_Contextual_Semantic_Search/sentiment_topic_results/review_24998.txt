@@ -1,0 +1,1 @@
+{"text": "the next best thing to custom orthotics.I use these in all my shoes and theyhelp with my foot problems and pain.", "sentiment": "negative", "topics": {"0": "0.011942316", "1": "0.16734152", "2": "0.485678", "3": "0.011930128", "4": "0.29925978", "5": "0.011923332", "6": "0.011924914"}}

@@ -1,0 +1,1 @@
+{"text": "This nightgown feels so silky and soft.  I love it and so does my sweetheart.  It is very comfortable.  And a good buy.", "sentiment": "negative", "topics": {"0": "0.014325144", "1": "0.39913195", "2": "0.014288555", "3": "0.1610671", "4": "0.38253462", "5": "0.014300982", "6": "0.014351608"}}

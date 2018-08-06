@@ -1,0 +1,1 @@
+{"text": "Well I'm not sure what I expected in $28 slippers, but more than what I received from these. I don't think these are any better than slippers I've bought for half the price. Nothing wrong with these just overpriced.", "sentiment": "negative", "topics": {"1": "0.35457894", "2": "0.15924142", "3": "0.19474936", "4": "0.077138044", "6": "0.19916825"}}

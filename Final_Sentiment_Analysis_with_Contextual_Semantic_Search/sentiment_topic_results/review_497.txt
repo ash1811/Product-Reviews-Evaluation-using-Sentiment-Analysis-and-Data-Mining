@@ -1,0 +1,1 @@
+{"text": "I have great buns for a 64 year old cowboy and my do the women stare me down in these. Fit like a glove without the uncomfortable fit that I have with Levis and I used to like levis", "sentiment": "positive", "topics": {"1": "0.51757586", "2": "0.094949454", "3": "0.107831776", "6": "0.25814632"}}

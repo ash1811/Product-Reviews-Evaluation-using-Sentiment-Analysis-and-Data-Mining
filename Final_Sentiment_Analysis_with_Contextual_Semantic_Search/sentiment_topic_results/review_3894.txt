@@ -1,0 +1,1 @@
+{"text": "This passport cover is good for what I want to use it for. It will protect your passport with no problems, plus some credit cards as well.Thanks", "sentiment": "positive", "topics": {"0": "0.010220685", "1": "0.41149452", "2": "0.1346544", "3": "0.010239589", "4": "0.14784239", "5": "0.010216597", "6": "0.2753318"}}

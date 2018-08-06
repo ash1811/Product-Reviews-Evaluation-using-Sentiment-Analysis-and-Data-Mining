@@ -1,0 +1,1 @@
+{"text": "Thank you very much very nice shoes. I bought these shoes for my daughter. She wanted exactly this fashion shoes, beautiful and high quality.", "sentiment": "negative", "topics": {"0": "0.14351413", "1": "0.23797998", "2": "0.46876374", "3": "0.12103706"}}

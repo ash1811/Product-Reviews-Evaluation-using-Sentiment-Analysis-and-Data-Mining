@@ -1,0 +1,1 @@
+{"text": "Ordered a size up as I am long waisted and it fits perfectly. Nice material, substantial, stretchy, smooth and non-irritating. Bought new for recital so have not performed in it yet.", "sentiment": "positive", "topics": {"0": "0.2738067", "1": "0.3918991", "3": "0.19726023", "6": "0.11313983"}}

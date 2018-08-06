@@ -1,0 +1,1 @@
+{"text": "I own a couple of pairs of Havaianas and I've never been disappointed with the quality. They are comfortable and cute!", "sentiment": "negative", "topics": {"0": "0.014311063", "1": "0.3782716", "2": "0.14334656", "3": "0.4211548", "4": "0.014306366", "5": "0.014322698", "6": "0.0142869335"}}

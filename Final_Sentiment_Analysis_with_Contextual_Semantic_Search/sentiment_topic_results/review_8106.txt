@@ -1,0 +1,1 @@
+{"text": "I am a 7.5 and usually wear a 7 in sandals, but since I couldn't try these on I just sized up to be on the safe side. These fit me perfectly and are super comfy! If you are between sizes round up :-)", "sentiment": "negative", "topics": {"1": "0.28105456", "3": "0.31678653", "5": "0.16494882", "6": "0.2118723"}}

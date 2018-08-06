@@ -1,0 +1,1 @@
+{"text": "I purchased the Kiwi Color Shine in black, to be used for a pair of black loafers. It goes on easily and works well.", "sentiment": "negative", "topics": {"0": "0.010217325", "1": "0.5316111", "2": "0.010230524", "3": "0.22889486", "4": "0.09652327", "5": "0.11231406", "6": "0.010208868"}}

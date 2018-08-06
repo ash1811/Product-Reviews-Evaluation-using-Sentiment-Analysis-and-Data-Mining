@@ -1,0 +1,1 @@
+{"text": "These T's are a bit on the small side and the cotton is not as soft and doesn't have the thread count I am used to in Hanes.Usually I like these T's but they seem small and less comfortable than my past experience with these shirts.", "sentiment": "negative", "topics": {"1": "0.26470166", "2": "0.08248002", "3": "0.1763201", "4": "0.21661136", "6": "0.24557178"}}

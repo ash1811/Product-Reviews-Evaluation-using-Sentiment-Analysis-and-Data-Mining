@@ -1,0 +1,1 @@
+{"text": "The Inspector Jeans are ugly.  Neither the web page, my wife or I liked them.  I returned the jeans and received andother color which was perfect.", "sentiment": "positive", "topics": {"1": "0.15564185", "2": "0.15782589", "3": "0.2785781", "4": "0.19097209", "5": "0.19905666"}}

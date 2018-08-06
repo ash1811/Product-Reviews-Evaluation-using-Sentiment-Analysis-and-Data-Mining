@@ -1,0 +1,1 @@
+{"text": "These are nice parade quality white gloves.  They are cloth, and fit great.  These will go with my chauffeur outfit when driving family around for a special event.  Nice!", "sentiment": "positive", "topics": {"0": "0.21664773", "1": "0.49466774", "2": "0.08018132", "4": "0.07334653", "5": "0.11921818"}}

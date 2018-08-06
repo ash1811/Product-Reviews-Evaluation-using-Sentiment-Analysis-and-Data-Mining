@@ -1,0 +1,1 @@
+{"text": "These are the best boots for the kids to play in especially for rainy days! The kids love them!The quality is even better than anticipated.", "sentiment": "negative", "topics": {"0": "0.1587427", "1": "0.22362469", "2": "0.19190195", "4": "0.14157566", "5": "0.26506582"}}

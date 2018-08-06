@@ -1,0 +1,1 @@
+{"text": "No complaints feel real good on.Really like the leather on the pockets for tape to clip on.I would have liked a pocket on the right leg side as well.Left side works but I'm a righty", "sentiment": "positive", "topics": {"0": "0.06776264", "1": "0.3430081", "2": "0.22433592", "5": "0.06792486", "6": "0.28450915"}}

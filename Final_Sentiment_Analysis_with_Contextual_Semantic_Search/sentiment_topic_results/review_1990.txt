@@ -1,0 +1,1 @@
+{"text": "This my second pair!  These are the best shoes I have ever purchased!  They are like wearing slippers.  Support is great and the sizing is perfect.", "sentiment": "negative", "topics": {"0": "0.010232067", "1": "0.74011797", "2": "0.11118552", "3": "0.010250412", "4": "0.010222648", "5": "0.01022209", "6": "0.107769266"}}

@@ -1,0 +1,1 @@
+{"text": "These leg warmers are nice and thick and warm. They fit snug, not loose. Can also wear on the arms as well.", "sentiment": "positive", "topics": {"0": "0.011002281", "1": "0.57260513", "2": "0.011011816", "3": "0.011021281", "4": "0.10723459", "5": "0.011020465", "6": "0.27610442"}}

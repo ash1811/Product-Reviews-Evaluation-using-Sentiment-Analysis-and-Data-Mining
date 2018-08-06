@@ -1,0 +1,1 @@
+{"text": "fruit of the loom pullover hoodie, excellent quality, quick shipadded fur around all the edges and became a santa, thanks", "sentiment": "negative", "topics": {"0": "0.14370559", "1": "0.26527944", "2": "0.26580703", "4": "0.18588923", "5": "0.120172635"}}

@@ -1,0 +1,1 @@
+{"text": "Simple, stylish and light. Even better than the F91W. Just be mindful if you have large wrists (the band is relatively short).", "sentiment": "negative", "topics": {"0": "0.4353901", "1": "0.010252919", "2": "0.13148211", "3": "0.0102744885", "4": "0.010208593", "5": "0.15814522", "6": "0.24424657"}}

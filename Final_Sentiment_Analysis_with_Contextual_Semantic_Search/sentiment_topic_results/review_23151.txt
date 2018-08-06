@@ -1,0 +1,1 @@
+{"text": "It didn't fit right.  It was too tight. Amazon has the most sizes I have found.  I shop through amazon most of the time.", "sentiment": "negative", "topics": {"0": "0.014312761", "1": "0.2751461", "2": "0.014289409", "3": "0.14057215", "4": "0.52701783", "5": "0.014310037", "6": "0.01435169"}}

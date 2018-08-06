@@ -1,0 +1,1 @@
+{"text": "The fit is great but the gel padding in the shoulders sold me. I want this bra in every color.", "sentiment": "positive", "topics": {"0": "0.011952064", "1": "0.28535864", "2": "0.0119416", "3": "0.16107039", "4": "0.011945091", "5": "0.40863287", "6": "0.10909936"}}

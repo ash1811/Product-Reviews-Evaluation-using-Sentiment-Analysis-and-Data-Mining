@@ -1,0 +1,1 @@
+{"text": "The boots I received are the real deal and not cheap knock offs or blems. If you are on the fence and not sure about how the sizes run, stop by your local store and try a pair on then order them from Amazon and save some cash.", "sentiment": "negative", "topics": {"0": "0.0684145", "2": "0.16740997", "3": "0.40873748", "4": "0.2117754", "5": "0.13060474"}}

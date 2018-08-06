@@ -1,0 +1,1 @@
+{"text": "I love the Jerzees pants I bought from you.  They fit great and were very affordable.  You have a great selection of clothes for everyone at Amazon. I will keep coming back to shop there forever.", "sentiment": "negative", "topics": {"1": "0.6257825", "4": "0.26779595", "6": "0.07624987"}}

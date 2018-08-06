@@ -1,0 +1,1 @@
+{"text": "Playtex has never \"let me down.\" These arrived promptly and are exactly what I expected.", "sentiment": "negative", "topics": {"0": "0.29252064", "1": "0.015965326", "2": "0.015905818", "3": "0.42176223", "4": "0.015967514", "5": "0.015917314", "6": "0.22196117"}}

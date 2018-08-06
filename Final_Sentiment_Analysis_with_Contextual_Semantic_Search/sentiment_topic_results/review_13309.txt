@@ -1,0 +1,1 @@
+{"text": "I wish they made them in more colors.  They are very comfortable and easy to slip into to.  They're great for traveling", "sentiment": "negative", "topics": {"0": "0.245377", "1": "0.45272243", "2": "0.013038761", "3": "0.013016178", "4": "0.24978152", "5": "0.013019249", "6": "0.013044855"}}

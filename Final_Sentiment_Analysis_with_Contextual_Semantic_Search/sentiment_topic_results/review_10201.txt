@@ -1,0 +1,1 @@
+{"text": "I needed a chain for a pendant that I purchased, and this chain works very well.  Appears to be good quality and apart from a slight discoloration at one end, which I was able to remove with polish, it's a great buy.", "sentiment": "positive", "topics": {"1": "0.37918922", "2": "0.09542975", "3": "0.11054844", "4": "0.12653454", "5": "0.18432376", "6": "0.09716402"}}

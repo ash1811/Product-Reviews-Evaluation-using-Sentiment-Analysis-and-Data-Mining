@@ -1,0 +1,1 @@
+{"text": "Universal fit, and function.  Excellent hat, keeps you warm and is well constructed.  I would recommend this hat to everyone.", "sentiment": "positive", "topics": {"0": "0.0102176815", "1": "0.35896227", "2": "0.10449113", "3": "0.26568267", "4": "0.01022484", "5": "0.088663384", "6": "0.16175804"}}

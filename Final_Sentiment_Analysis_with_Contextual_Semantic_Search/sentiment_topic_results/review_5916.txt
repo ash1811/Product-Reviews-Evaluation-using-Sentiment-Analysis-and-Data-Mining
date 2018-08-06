@@ -1,0 +1,1 @@
+{"text": "These earrings shimmer in the evening and sparkle during the day.  They are a wonderful addition to my collection of threads!Carol Robbin", "sentiment": "positive", "topics": {"0": "0.3967716", "1": "0.23877406", "2": "0.013001584", "3": "0.012990124", "4": "0.101180546", "5": "0.013025613", "6": "0.22425646"}}

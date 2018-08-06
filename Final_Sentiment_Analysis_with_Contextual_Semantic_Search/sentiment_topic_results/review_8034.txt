@@ -1,0 +1,1 @@
+{"text": "These were reviewed as running small.  However we found them true to size.  They fit nicely, felt warm, and washed well.", "sentiment": "positive", "topics": {"0": "0.010217329", "1": "0.4907996", "2": "0.24297969", "3": "0.12677099", "4": "0.010226572", "5": "0.108762674", "6": "0.010243137"}}

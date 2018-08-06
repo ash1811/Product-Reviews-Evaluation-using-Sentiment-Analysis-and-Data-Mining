@@ -1,0 +1,1 @@
+{"text": "Even though this shirt was a little big the quality of the shirt was good.  We decided we would dry the shirt to shrink it just a little and that did it so now it fits just fine.  I buy the Carhartt shirts for my husband because he likes the quality of them.", "sentiment": "positive", "topics": {"1": "0.6918435", "2": "0.13961035", "4": "0.1446517"}}

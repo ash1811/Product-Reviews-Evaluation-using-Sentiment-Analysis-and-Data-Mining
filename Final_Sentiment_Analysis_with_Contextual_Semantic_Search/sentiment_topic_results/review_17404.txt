@@ -1,0 +1,1 @@
+{"text": "These socls are bvery plush and fit the foot like a glove. Try it for yourself you will be very happy. Shipping was quick and painless.", "sentiment": "positive", "topics": {"0": "0.011030682", "1": "0.11366848", "2": "0.45964438", "3": "0.0110489745", "4": "0.38259444", "5": "0.011000002", "6": "0.01101305"}}

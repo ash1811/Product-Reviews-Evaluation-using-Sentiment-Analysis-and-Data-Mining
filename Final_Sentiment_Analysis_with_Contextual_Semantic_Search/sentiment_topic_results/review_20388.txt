@@ -1,0 +1,1 @@
+{"text": "It comes in a pack of 2, I used it for 2 years until I lost it during a hair cut, so I immediately bought a second pair, their are real silver and does not change color, is shiny, small and simple", "sentiment": "negative", "topics": {"0": "0.13480483", "1": "0.6307952", "2": "0.05719146", "6": "0.15675193"}}

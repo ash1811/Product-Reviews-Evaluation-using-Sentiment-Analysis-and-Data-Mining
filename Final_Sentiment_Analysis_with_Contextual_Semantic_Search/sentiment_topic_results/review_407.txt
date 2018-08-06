@@ -1,0 +1,1 @@
+{"text": "Son needed light weight but sturdy short sleeve shirts to work in the summer in Vegas. This shirt was just rught,", "sentiment": "positive", "topics": {"0": "0.17663577", "1": "0.53512967", "2": "0.10322122", "3": "0.010218807", "4": "0.010216152", "5": "0.010239038", "6": "0.15433931"}}

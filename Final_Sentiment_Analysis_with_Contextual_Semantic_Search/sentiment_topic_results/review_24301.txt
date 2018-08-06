@@ -1,0 +1,1 @@
+{"text": "i like the berkshire trouser socks  because they fit so well and i don't have to worry about my toes coming through the socks", "sentiment": "positive", "topics": {"0": "0.013012195", "1": "0.39026067", "2": "0.013006037", "3": "0.012992677", "4": "0.012992883", "5": "0.43832657", "6": "0.11940896"}}

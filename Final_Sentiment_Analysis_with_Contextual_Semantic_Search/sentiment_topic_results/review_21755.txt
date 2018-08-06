@@ -1,0 +1,1 @@
+{"text": "very light weight.  i purchased for my bug out bag.  at this price, I plan to buy another, for normal use.", "sentiment": "negative", "topics": {"0": "0.18472318", "1": "0.53332365", "2": "0.011918192", "3": "0.011929189", "4": "0.0119725205", "5": "0.15220733", "6": "0.093925945"}}

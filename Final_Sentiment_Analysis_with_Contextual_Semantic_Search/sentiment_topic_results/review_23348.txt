@@ -1,0 +1,1 @@
+{"text": "Very good looking and fits well, will get little scratches/rips just like any pantyhose though if you aren't careful. I got what I paid for, i'm happy about it", "sentiment": "negative", "topics": {"0": "0.19376968", "1": "0.33124763", "3": "0.30981416", "6": "0.13988084"}}

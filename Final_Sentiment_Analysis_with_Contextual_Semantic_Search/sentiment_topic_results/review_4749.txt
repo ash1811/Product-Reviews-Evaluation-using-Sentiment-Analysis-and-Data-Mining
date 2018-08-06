@@ -1,0 +1,1 @@
+{"text": "The mid weight is still plenty thick and heavy.Very well made&#8230;Carhartt quality.Quality does not cost&#8230;it pays.Can't go wrong with Carhartt.", "sentiment": "negative", "topics": {"1": "0.71870464", "2": "0.08859641", "4": "0.15451935"}}

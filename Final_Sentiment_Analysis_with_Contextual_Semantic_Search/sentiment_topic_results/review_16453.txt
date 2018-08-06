@@ -1,0 +1,1 @@
+{"text": "oversized but fun...might pick myself up another pair to enjoy this Summer...ty so much for coming out with these..and ty for the careful shipping", "sentiment": "negative", "topics": {"0": "0.010204335", "1": "0.41775292", "2": "0.19422589", "3": "0.11355846", "4": "0.24378297", "5": "0.010238017", "6": "0.010237395"}}

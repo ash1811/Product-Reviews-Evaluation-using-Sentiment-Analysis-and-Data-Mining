@@ -1,0 +1,1 @@
+{"text": "fit was as I expected very soft and a very good deal on them what more can you ask for", "sentiment": "negative", "topics": {"0": "0.020472556", "1": "0.66854775", "2": "0.020444097", "3": "0.22926718", "4": "0.020422343", "5": "0.02043215", "6": "0.020413956"}}

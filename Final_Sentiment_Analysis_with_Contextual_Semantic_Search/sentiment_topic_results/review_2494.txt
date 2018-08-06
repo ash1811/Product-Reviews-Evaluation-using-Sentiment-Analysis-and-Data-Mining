@@ -1,0 +1,1 @@
+{"text": "My husband loved these jeans which fit perfectly although about 2 inches too long. He will be purchasing more shortly.", "sentiment": "negative", "topics": {"0": "0.12889649", "1": "0.43520328", "2": "0.011953093", "3": "0.011975452", "4": "0.18712904", "5": "0.21288727", "6": "0.01195538"}}

@@ -1,0 +1,1 @@
+{"text": "Very soft and cozy socks and the color is nice (I got the olive green), but they developed a hole the first day I wore them. I did not subject them to anything more than the normal wear and tear expected of wearing socks around the house.", "sentiment": "negative", "topics": {"0": "0.20831384", "1": "0.12474962", "2": "0.21248904", "3": "0.10937491", "5": "0.3340523"}}

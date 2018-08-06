@@ -1,0 +1,1 @@
+{"text": "These socks are amazing, the medium weight is perfect for shoes and boots, my feet are finally warm in these Minnesota winters.", "sentiment": "negative", "topics": {"0": "0.011028579", "1": "0.27217168", "2": "0.1459768", "3": "0.011013591", "4": "0.2875005", "5": "0.2612946", "6": "0.011014258"}}

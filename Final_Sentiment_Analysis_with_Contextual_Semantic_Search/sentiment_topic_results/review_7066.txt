@@ -1,0 +1,1 @@
+{"text": "To me it felt like a harness, yet for all the hooks and material there was a lack of support. Sending it back.", "sentiment": "negative", "topics": {"0": "0.013017225", "1": "0.013048545", "2": "0.11445537", "3": "0.20336275", "4": "0.013000047", "5": "0.46360254", "6": "0.17951351"}}

@@ -1,0 +1,1 @@
+{"text": "Thee color is very nice. It supports me like most bras have not through the yrs.  It fit great.  As it was also very comfortable considering not many bras are comfortable", "sentiment": "positive", "topics": {"1": "0.47032142", "3": "0.19189179", "4": "0.19608162", "5": "0.11484195"}}

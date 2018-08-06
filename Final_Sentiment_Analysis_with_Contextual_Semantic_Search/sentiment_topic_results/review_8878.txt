@@ -1,0 +1,1 @@
+{"text": "Great looking shoe, but didn't work for my wife's grandmother.  It's very hard to find a shoe for her anyway, it was worth a try.", "sentiment": "negative", "topics": {"0": "0.18482938", "1": "0.35812768", "2": "0.33609572", "3": "0.011067137", "4": "0.0110416245", "5": "0.011029445", "6": "0.087809004"}}

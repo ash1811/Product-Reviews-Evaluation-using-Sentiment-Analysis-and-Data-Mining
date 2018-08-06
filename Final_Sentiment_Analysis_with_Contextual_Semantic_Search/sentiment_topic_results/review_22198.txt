@@ -1,0 +1,1 @@
+{"text": "I have worn UGGS for years, and always a size 7. These were too narrow. I ordered a size 8 to accommodate the width, and although they're a little too long, it's workable.", "sentiment": "negative", "topics": {"0": "0.13127592", "1": "0.3142618", "2": "0.09257271", "3": "0.253483", "4": "0.072809614", "6": "0.12761965"}}

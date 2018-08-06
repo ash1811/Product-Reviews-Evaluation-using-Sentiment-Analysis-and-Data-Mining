@@ -1,0 +1,1 @@
+{"text": "Wenger makes fantastic watches that last for a very long time.  They are stylish and very accurate.  This particular model is great, easy to wear, very comfortable and is a very nice timepiece.", "sentiment": "negative", "topics": {"0": "0.122981295", "1": "0.29256418", "2": "0.0802425", "3": "0.08588248", "4": "0.192542", "6": "0.2178195"}}

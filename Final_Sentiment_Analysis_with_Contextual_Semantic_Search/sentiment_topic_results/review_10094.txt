@@ -1,0 +1,1 @@
+{"text": "These tights seemed to run easily.  I'm not sure if it was my daughter or the tights. The capezio seemed a little better IMO.", "sentiment": "negative", "topics": {"0": "0.010219614", "1": "0.010232416", "2": "0.21246405", "3": "0.17448053", "4": "0.08628551", "5": "0.49609897", "6": "0.010218951"}}

@@ -1,0 +1,1 @@
+{"text": "I wanted this sunglasses for a long time now... I love the classic look and elegance. I think this aviators will make anybody look good.", "sentiment": "positive", "topics": {"1": "0.36128065", "2": "0.1648271", "3": "0.19771868", "5": "0.16752979", "6": "0.09070595"}}

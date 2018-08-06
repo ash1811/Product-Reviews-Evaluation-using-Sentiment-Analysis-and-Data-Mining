@@ -1,0 +1,1 @@
+{"text": "Best causal/boot sock that I have worn in a long time, fit is great with no lumps, I will be ordering more.", "sentiment": "negative", "topics": {"0": "0.011935826", "1": "0.5191363", "2": "0.011926054", "3": "0.011928537", "4": "0.11342176", "5": "0.23258002", "6": "0.09907148"}}

@@ -1,0 +1,1 @@
+{"text": "This was the right gift for my 5 year old grandson who is learning to tell time.  It is the perfect sized face and has an adjustable stretch band to fit any little wrist.  He loved it.", "sentiment": "negative", "topics": {"0": "0.16983764", "1": "0.30490327", "2": "0.15108205", "4": "0.35365263"}}

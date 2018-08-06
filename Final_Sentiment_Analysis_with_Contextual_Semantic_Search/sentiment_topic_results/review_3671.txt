@@ -1,0 +1,1 @@
+{"text": "This is my first pair of Ray Bans.  These are great sunglasses.  They're a little heavier than other sunglasses since they're glass lenses, but definitely worth it and definitely a better price here than at the mall!", "sentiment": "negative", "topics": {"0": "0.14394219", "2": "0.14161621", "3": "0.20475674", "4": "0.26388732", "5": "0.16415241", "6": "0.07478052"}}

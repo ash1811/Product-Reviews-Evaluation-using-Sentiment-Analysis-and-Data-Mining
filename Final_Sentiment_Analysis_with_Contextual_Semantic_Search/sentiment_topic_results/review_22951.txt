@@ -1,0 +1,1 @@
+{"text": "Love these shorts.  I wanted a short pant with pockets and these are affordable and very comfortable.  An added feature is that they wash beautifully and dry quickly even without a dryer.", "sentiment": "negative", "topics": {"0": "0.24892089", "1": "0.35052305", "2": "0.1597195", "3": "0.07304948", "4": "0.15188318"}}

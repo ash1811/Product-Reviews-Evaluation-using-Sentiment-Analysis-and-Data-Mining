@@ -1,0 +1,1 @@
+{"text": "These are the only flip-flops I have found that have a great arch support for my sorry feet. They are extremely comfortable and well-constructed. I wear them all year long. Just wish I could get them in every color....", "sentiment": "negative", "topics": {"1": "0.35657012", "2": "0.09603935", "3": "0.3659505", "4": "0.15881063"}}

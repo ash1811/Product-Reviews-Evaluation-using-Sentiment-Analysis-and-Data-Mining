@@ -1,0 +1,1 @@
+{"text": "I had a difficult time finding the length (35in) and these jeans &#34;fit&#34; the bill perfectly. Great quality; great fit.", "sentiment": "positive", "topics": {"0": "0.010240793", "1": "0.38013056", "2": "0.010212586", "3": "0.010223365", "4": "0.09900896", "5": "0.36500043", "6": "0.12518328"}}

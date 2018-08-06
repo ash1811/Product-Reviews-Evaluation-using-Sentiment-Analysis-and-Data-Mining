@@ -1,0 +1,1 @@
+{"text": "I have been trying to find a comfy pantie that wasn't too tight on the waist.  Here it is!  Nice and silky and very comfortable.  I'm so glad I tried one of these.  Thanks Jockey!", "sentiment": "negative", "topics": {"1": "0.50663716", "2": "0.13448986", "3": "0.3270222"}}

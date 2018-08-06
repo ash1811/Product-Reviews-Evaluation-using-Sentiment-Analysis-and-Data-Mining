@@ -1,0 +1,1 @@
+{"text": "Shoes  look good and are comfortable. Enjoy wearing them. Recieved them in within a week. If pair I ordered were too large, excanged them without any problems.", "sentiment": "positive", "topics": {"1": "0.49224445", "2": "0.26180437", "3": "0.16840252", "4": "0.052260168"}}

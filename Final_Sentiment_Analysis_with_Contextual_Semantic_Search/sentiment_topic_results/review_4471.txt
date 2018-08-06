@@ -1,0 +1,1 @@
+{"text": "Had lost some weight, needed some new jeans, and these are perfect!  I am 5'7&#34;, 130 lbs, and these look tailored for me.", "sentiment": "negative", "topics": {"0": "0.011032592", "1": "0.23900096", "2": "0.011013452", "3": "0.35813826", "4": "0.13543797", "5": "0.011062605", "6": "0.23431417"}}

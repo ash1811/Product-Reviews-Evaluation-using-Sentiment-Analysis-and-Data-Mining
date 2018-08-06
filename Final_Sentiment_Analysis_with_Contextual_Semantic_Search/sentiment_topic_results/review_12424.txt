@@ -1,0 +1,1 @@
+{"text": "Very comfortable sandal  the yoga mat feel gives better cushioning when walking for long periods of time.  Easier on the feet.", "sentiment": "negative", "topics": {"0": "0.42573446", "1": "0.3567831", "5": "0.17926052"}}

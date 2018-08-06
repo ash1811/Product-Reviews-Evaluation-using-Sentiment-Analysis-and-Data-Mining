@@ -1,0 +1,1 @@
+{"text": "My lady says this fits and feel good and reccommend all females to buy this bra you will not regret it and the price is right", "sentiment": "positive", "topics": {"0": "0.0110126985", "1": "0.41740692", "2": "0.07648147", "3": "0.1134915", "4": "0.24625908", "5": "0.011000674", "6": "0.12434766"}}

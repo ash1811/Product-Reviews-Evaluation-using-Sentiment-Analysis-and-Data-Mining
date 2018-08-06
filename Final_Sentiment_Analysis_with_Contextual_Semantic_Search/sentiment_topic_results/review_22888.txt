@@ -1,0 +1,1 @@
+{"text": "These shorts were good, but only they were too big for me so I sent them back. I ended up finding other shorts on Amazon that are like this for about $2 cheaper anyway and bought them.", "sentiment": "negative", "topics": {"0": "0.4996845", "1": "0.28053403", "2": "0.13048536", "4": "0.062445592"}}

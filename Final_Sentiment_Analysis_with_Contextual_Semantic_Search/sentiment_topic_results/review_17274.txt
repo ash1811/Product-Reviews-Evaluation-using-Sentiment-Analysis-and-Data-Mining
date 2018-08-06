@@ -1,0 +1,1 @@
+{"text": "These shoes were shipped quickly, came in their box and were even cooler than I thought. The Nike swoosh glows in the dark! I'm very happy.", "sentiment": "negative", "topics": {"2": "0.28939945", "4": "0.27234718", "5": "0.28712687", "6": "0.122448005"}}

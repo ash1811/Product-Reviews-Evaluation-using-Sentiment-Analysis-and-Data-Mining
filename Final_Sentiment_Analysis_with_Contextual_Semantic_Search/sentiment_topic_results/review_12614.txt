@@ -1,0 +1,1 @@
+{"text": "strap looks durable for kids needs. easy to setup. clear display. Timex - good warranty.  !  Timex has a kids loss protection plan for 1 year and offers an extended 4 year warranty too. All in a kids watch!", "sentiment": "negative", "topics": {"0": "0.21382703", "1": "0.13896836", "2": "0.16719367", "4": "0.16434635", "5": "0.2523316", "6": "0.058198344"}}

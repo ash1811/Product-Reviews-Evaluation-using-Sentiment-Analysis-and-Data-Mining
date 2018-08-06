@@ -1,0 +1,1 @@
+{"text": "I love the way these bottoms fit. The elastic lining in the back is a great way to keeping the pants from sliding down. And i totally love the color!", "sentiment": "positive", "topics": {"0": "0.075984865", "1": "0.40367824", "4": "0.38218176", "5": "0.11290579"}}

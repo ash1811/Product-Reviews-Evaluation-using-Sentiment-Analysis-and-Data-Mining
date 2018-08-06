@@ -1,0 +1,1 @@
+{"text": "It looks very cool for a sub $15 watch, is easy to set up, and does it main functions well. I wanted to have a watch I could take to the gym and on vacation without having to worry about losing it.  This watch fits the bill.", "sentiment": "positive", "topics": {"0": "0.12911639", "1": "0.421605", "2": "0.28340396", "6": "0.14864165"}}

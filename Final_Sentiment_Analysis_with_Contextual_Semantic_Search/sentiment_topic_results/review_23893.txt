@@ -1,0 +1,1 @@
+{"text": "A bit old fashioned but great, comfortable, and was available in the long length for me. A good buy overall.", "sentiment": "negative", "topics": {"0": "0.011048416", "1": "0.6514469", "2": "0.010998956", "3": "0.011013467", "4": "0.13434397", "5": "0.011029562", "6": "0.1701188"}}

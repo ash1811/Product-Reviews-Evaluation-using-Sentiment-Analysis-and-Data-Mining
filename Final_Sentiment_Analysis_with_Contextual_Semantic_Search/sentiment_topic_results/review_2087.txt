@@ -1,0 +1,1 @@
+{"text": "These shoes fit comfortably within a day and mould to your foot shape. They are wide but comfortable and can be worn casually or dressed up.", "sentiment": "negative", "topics": {"0": "0.09886359", "1": "0.2158749", "2": "0.09461025", "4": "0.28161573", "5": "0.2085474", "6": "0.09092596"}}

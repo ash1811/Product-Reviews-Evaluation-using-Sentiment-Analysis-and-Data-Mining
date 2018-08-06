@@ -1,0 +1,1 @@
+{"text": "Has a very good look and high quality. When work looks very nice, highly liked by friends and given as gifts. The black look is fantastic!", "sentiment": "negative", "topics": {"0": "0.22164254", "1": "0.40425456", "3": "0.23938252", "5": "0.107843556"}}

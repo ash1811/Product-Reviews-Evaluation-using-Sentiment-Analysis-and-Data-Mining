@@ -1,0 +1,1 @@
+{"text": "I usually don't complain but the dark brown leather pair I bought looks like something you can buy out of Payless. The pictures are definitely misleading.They are comfortable is the only reason I decided to keep them.", "sentiment": "positive", "topics": {"1": "0.66758937", "2": "0.06851412", "3": "0.1737458", "6": "0.06963431"}}

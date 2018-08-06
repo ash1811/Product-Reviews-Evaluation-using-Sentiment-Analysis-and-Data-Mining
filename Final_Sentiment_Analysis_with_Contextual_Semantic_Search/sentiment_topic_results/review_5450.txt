@@ -1,0 +1,1 @@
+{"text": "I thought this sweatshirt was for children, so I ordered a large. It is for adults so I received an adult large. I kept it for myself, as the color is fabulous and just tie it in the back with a ponytail.", "sentiment": "negative", "topics": {"0": "0.10579042", "1": "0.40323746", "3": "0.2266246", "4": "0.074889846", "5": "0.17263803"}}

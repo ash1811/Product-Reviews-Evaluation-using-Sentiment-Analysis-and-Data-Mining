@@ -1,0 +1,1 @@
+{"text": "I had been told these run small in size so bought the next size up and they fit perfect...but if you didn't know to buy the next size up you'd be sorry.  Great slippers and high quality.", "sentiment": "negative", "topics": {"1": "0.38039115", "3": "0.079708144", "4": "0.06669661", "6": "0.45061487"}}

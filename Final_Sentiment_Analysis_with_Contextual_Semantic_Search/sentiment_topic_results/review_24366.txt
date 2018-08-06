@@ -1,0 +1,1 @@
+{"text": "Bought for a male, that likes it but..says it's 'too tall'.  he likes one that doesn't fold that much...", "sentiment": "negative", "topics": {"0": "0.013037732", "1": "0.013072386", "2": "0.6101719", "3": "0.01303025", "4": "0.32459036", "5": "0.013054415", "6": "0.013042936"}}

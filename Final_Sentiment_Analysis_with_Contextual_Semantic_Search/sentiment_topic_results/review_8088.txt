@@ -1,0 +1,1 @@
+{"text": "These shoes look very nice on my husband. For being Dockers I would have expected them not to scuff so so easily. The top portion of the shoe is leather so it actually wears nicely. Overall they look nice.", "sentiment": "negative", "topics": {"1": "0.34642118", "2": "0.2421613", "3": "0.082142934", "4": "0.06994841", "5": "0.24497195"}}

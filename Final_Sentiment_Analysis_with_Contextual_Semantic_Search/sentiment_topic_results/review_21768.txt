@@ -1,0 +1,1 @@
+{"text": "These are not for me.  Much too long and too deeply cut for my taste.  I'm just too short.", "sentiment": "positive", "topics": {"0": "0.14859152", "1": "0.6486732", "2": "0.015896797", "3": "0.015919007", "4": "0.01589135", "5": "0.015899152", "6": "0.13912897"}}

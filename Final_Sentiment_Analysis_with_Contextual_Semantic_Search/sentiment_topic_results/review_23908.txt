@@ -1,0 +1,1 @@
+{"text": "For me being overweight and tall I get sick of my t-shirts riding up, so these worked perfectly and allow me to be dressed nice and feel good walking around the office.", "sentiment": "positive", "topics": {"0": "0.14466338", "1": "0.29669443", "4": "0.14043528", "5": "0.29622588", "6": "0.10605094"}}

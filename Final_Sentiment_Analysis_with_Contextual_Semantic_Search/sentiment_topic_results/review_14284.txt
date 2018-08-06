@@ -1,0 +1,1 @@
+{"text": "I love the sandal and the length is just perfect for my foot, however, the straps are way too tight and I don't think I'm going to chance that they will stretch out.", "sentiment": "negative", "topics": {"1": "0.33967665", "2": "0.18764634", "4": "0.43673238"}}

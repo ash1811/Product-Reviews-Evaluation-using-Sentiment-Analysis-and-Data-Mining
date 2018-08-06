@@ -1,0 +1,1 @@
+{"text": "These are much lighter weight than others I've had (and worn out) .I do wish they still made them from heavier material.", "sentiment": "negative", "topics": {"1": "0.41963398", "3": "0.26406333", "5": "0.15205726", "6": "0.13558693"}}

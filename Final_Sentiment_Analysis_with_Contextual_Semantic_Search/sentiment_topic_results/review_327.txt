@@ -1,0 +1,1 @@
+{"text": "I love these shiirts,and I am so happy I found a polo tee shirt with a pocket. The quality of these shirts and the fit are a plus, I will buy some more.", "sentiment": "positive", "topics": {"1": "0.75315464", "4": "0.1990895"}}

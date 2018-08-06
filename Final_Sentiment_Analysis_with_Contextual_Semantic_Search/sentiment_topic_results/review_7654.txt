@@ -1,0 +1,1 @@
+{"text": "Glamorise is fairly comfortable and some lift w/o wires - however I sewed a seam across - otherwise much too pointy.  Wish less costly.", "sentiment": "negative", "topics": {"0": "0.073318146", "1": "0.318428", "2": "0.16377556", "3": "0.19224352", "4": "0.036836058", "6": "0.20699184"}}

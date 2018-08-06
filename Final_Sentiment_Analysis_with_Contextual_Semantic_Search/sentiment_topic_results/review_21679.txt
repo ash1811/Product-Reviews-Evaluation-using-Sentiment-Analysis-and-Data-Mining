@@ -1,0 +1,1 @@
+{"text": "These are perfect silver earrings. These go well with smooth silver jewelery, with antiqued silver jewelery, and with filigree jewelery.", "sentiment": "negative", "topics": {"0": "0.5871986", "1": "0.010249532", "2": "0.01021353", "3": "0.26535246", "4": "0.10651048", "5": "0.010242042", "6": "0.01023336"}}

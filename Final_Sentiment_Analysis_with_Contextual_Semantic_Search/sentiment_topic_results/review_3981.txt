@@ -1,0 +1,1 @@
+{"text": "Great slipper, very comfy and I love the fact you can just throw them in the washer...  Love the color.", "sentiment": "negative", "topics": {"0": "0.014318379", "1": "0.33059472", "2": "0.014303528", "3": "0.4910976", "4": "0.014384663", "5": "0.014324692", "6": "0.12097639"}}

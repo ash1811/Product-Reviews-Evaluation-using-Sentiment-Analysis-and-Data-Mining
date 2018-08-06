@@ -1,0 +1,1 @@
+{"text": "very very comfortable. Bought these for my trip to disneyland and they didn't disappoint. slippery if they get wet though.", "sentiment": "negative", "topics": {"0": "0.01431823", "1": "0.32587534", "2": "0.11933905", "3": "0.4974721", "4": "0.014368621", "5": "0.014321837", "6": "0.014304867"}}

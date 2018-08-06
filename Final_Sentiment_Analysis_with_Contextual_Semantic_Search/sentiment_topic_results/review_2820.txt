@@ -1,0 +1,1 @@
+{"text": "I have been wearing these sneakers since I was a kid, loved them then and still love them now. Every year they get harder to find.But every year I find them at Amazon. Thanks.", "sentiment": "negative", "topics": {"0": "0.117165826", "1": "0.35800952", "2": "0.059968177", "4": "0.111664884", "5": "0.33810455"}}

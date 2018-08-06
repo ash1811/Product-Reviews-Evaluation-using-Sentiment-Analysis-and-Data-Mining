@@ -1,0 +1,1 @@
+{"text": "This Sweatshirt is well made and very comfortable. I'll be looking more often for the daily specials. Would make a great gift too.", "sentiment": "negative", "topics": {"0": "0.2506096", "1": "0.5159157", "3": "0.19532473"}}

@@ -1,0 +1,1 @@
+{"text": "Helped during 40 below wind chill Iowa winter weather.  washed well and handy to have for cold weather seems durable", "sentiment": "negative", "topics": {"1": "0.33229458", "2": "0.110915996", "3": "0.18816687", "6": "0.3398614"}}

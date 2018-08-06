@@ -1,0 +1,1 @@
+{"text": "As others stated buy at least one size larger than usual. Expect they will stretch but for now a tight fit. Am happy though.", "sentiment": "negative", "topics": {"1": "0.3953357", "3": "0.12822305", "4": "0.26366907", "5": "0.18411297"}}

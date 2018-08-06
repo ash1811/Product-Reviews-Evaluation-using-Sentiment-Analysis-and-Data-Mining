@@ -1,0 +1,1 @@
+{"text": "worked out great for the one time I needed them.  Used for a costume, shipped ontime and I was shocked but the one size did work.  Might be fun to try on other colors next time.", "sentiment": "positive", "topics": {"0": "0.25440335", "1": "0.2457771", "2": "0.22827275", "3": "0.087943", "5": "0.077639796", "6": "0.09914287"}}

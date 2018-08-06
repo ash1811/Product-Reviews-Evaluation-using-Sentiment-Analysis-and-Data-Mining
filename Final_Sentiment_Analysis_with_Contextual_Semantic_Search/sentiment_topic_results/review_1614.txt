@@ -1,0 +1,1 @@
+{"text": "i got so excited because i thought they finally made a bra my size , but no, this thing had B cups and the gils were spilling all out and squished at the bottom, It was a boobie trap!", "sentiment": "positive", "topics": {"0": "0.10102646", "2": "0.31314668", "3": "0.30355683", "4": "0.16545351", "5": "0.10089454"}}

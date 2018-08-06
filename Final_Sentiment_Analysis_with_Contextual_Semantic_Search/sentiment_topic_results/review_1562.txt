@@ -1,0 +1,1 @@
+{"text": "After using this product for a year now it still looks and feels exactly the same as when i first bough it thats why i usually buy janSport. i also like the simplicity of the backpack.", "sentiment": "positive", "topics": {"0": "0.18776782", "1": "0.21386124", "2": "0.14956616", "3": "0.23162776", "4": "0.0799353", "5": "0.1292749"}}

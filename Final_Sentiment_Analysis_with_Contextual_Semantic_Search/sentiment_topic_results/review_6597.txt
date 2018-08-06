@@ -1,0 +1,1 @@
+{"text": "Hiked Yellowstone and the Grand Tetons with these socks. Baby soft and keeps everything dry and cushioned.", "sentiment": "positive", "topics": {"0": "0.34370378", "1": "0.13175891", "2": "0.2614485", "3": "0.12920721", "4": "0.011954718", "5": "0.012080192", "6": "0.10984668"}}

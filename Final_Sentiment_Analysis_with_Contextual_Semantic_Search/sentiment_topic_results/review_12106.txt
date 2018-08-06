@@ -1,0 +1,1 @@
+{"text": "in other brands, 8 is an XL and usually fits me.  These were way too small.  I gave them to my daughter.", "sentiment": "negative", "topics": {"0": "0.013029996", "1": "0.3435849", "2": "0.013021532", "3": "0.2255476", "4": "0.013051357", "5": "0.24396716", "6": "0.14779745"}}

@@ -1,0 +1,1 @@
+{"text": "needed a watch, got a watch. works great. its nice and simple and the gold really classes it up just a bit. its pretty thin and small, which is really what I was looking for, so I'm happy.", "sentiment": "negative", "topics": {"1": "0.48053265", "2": "0.17226058", "3": "0.16448787", "6": "0.16225666"}}

@@ -1,0 +1,1 @@
+{"text": "This scarf is nicely made and feels good on the neck.  The price is right, and my husband is satisfied with the product, which was purchased as a Christmas gift for him.  The product arrived in a timely manner, and as advertised.", "sentiment": "negative", "topics": {"0": "0.1697906", "1": "0.2733178", "4": "0.14189929", "5": "0.30344862", "6": "0.09790877"}}

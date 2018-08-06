@@ -1,0 +1,1 @@
+{"text": "I wear an 11 and previous reviews said they ran huge and so I ordered a 10 and it was too small.  I would recommend ordering them in your size", "sentiment": "negative", "topics": {"1": "0.31050193", "3": "0.3861452", "4": "0.26509848"}}

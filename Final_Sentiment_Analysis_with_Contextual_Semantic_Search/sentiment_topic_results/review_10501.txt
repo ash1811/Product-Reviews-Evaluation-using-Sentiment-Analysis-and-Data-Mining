@@ -1,0 +1,1 @@
+{"text": "One shoe fits weird and won't stay on my daughters foot. Would send back but don't wanna go through the hassle. Just take it as a loss. Sad I really wanted her to have these.", "sentiment": "negative", "topics": {"0": "0.14519767", "1": "0.27699974", "2": "0.12432959", "3": "0.14637585", "4": "0.1309475", "5": "0.108104445", "6": "0.06804518"}}

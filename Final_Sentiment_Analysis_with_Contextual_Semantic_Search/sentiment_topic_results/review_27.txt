@@ -1,0 +1,1 @@
+{"text": "I wash all of our clothes in cold water to avoid shrinkage, but after a few washes this shirt lost a couple of inches and looks ridiculous.", "sentiment": "negative", "topics": {"0": "0.0102442065", "1": "0.3441792", "2": "0.15117273", "3": "0.010262336", "4": "0.0102733085", "5": "0.23969284", "6": "0.23417537"}}

@@ -1,0 +1,1 @@
+{"text": "i'm a beefy dude (XL shirt size), and this was too small to fit comfortably on my back.  had to return it.  everything else about it seemed alright.  standard jansport backpack.", "sentiment": "negative", "topics": {"1": "0.19498213", "2": "0.21830404", "3": "0.3259278", "6": "0.2392526"}}

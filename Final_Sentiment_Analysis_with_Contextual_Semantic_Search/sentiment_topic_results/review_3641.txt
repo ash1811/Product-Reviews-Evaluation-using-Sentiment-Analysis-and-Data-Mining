@@ -1,0 +1,1 @@
+{"text": "This bandanna is of good quality, and the stitching stays together well. I like it, and I will definitely order more.", "sentiment": "negative", "topics": {"0": "0.2620056", "1": "0.45088953", "2": "0.011020443", "3": "0.12671798", "4": "0.01102539", "5": "0.12732431", "6": "0.011016773"}}

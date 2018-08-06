@@ -1,0 +1,1 @@
+{"text": "They are very comfortable, wash well, strongly recommended to anyone who prefers a comfortable groin area. I shave for personal comfort, they work well with them.", "sentiment": "negative", "topics": {"1": "0.38311917", "2": "0.33924377", "5": "0.24393533"}}

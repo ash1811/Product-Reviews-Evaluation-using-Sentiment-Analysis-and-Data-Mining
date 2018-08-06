@@ -1,0 +1,1 @@
+{"text": "My wide foot looked horrible in this really cute shoe.  Too bad as I really liked it.  (returned)  You will like it, though, if you order it.", "sentiment": "negative", "topics": {"0": "0.303161", "1": "0.20743442", "2": "0.1522353", "4": "0.20098831", "5": "0.1202592"}}

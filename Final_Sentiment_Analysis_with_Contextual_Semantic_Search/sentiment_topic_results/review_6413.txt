@@ -1,0 +1,1 @@
+{"text": "well built of heavy fabric and a nice product anything with carhartt on it can be trusted to last a", "sentiment": "negative", "topics": {"0": "0.013005262", "1": "0.27345073", "2": "0.12690936", "3": "0.012998641", "4": "0.013007737", "5": "0.4645065", "6": "0.096121795"}}

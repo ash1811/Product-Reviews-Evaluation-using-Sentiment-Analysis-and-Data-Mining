@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband for our trip to the mountains in GA for Christams. He loves them and wants more. The material fits snugly and kept him warm and comfy. We highly recommend them.", "sentiment": "negative", "topics": {"0": "0.22045663", "1": "0.30866608", "4": "0.24698631", "5": "0.20118955"}}

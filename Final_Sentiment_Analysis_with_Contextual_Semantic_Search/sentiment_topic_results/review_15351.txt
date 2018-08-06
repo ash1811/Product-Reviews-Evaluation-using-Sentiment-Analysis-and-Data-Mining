@@ -1,0 +1,1 @@
+{"text": "Ordered the MATTE BLACK polarized sunglasses and they are really nice for the price. Also made in Italy :) (at least for this pair, seems others have had different experiences)", "sentiment": "positive", "topics": {"0": "0.11621013", "1": "0.36492166", "2": "0.098050594", "3": "0.31866044", "4": "0.087090276"}}

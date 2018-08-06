@@ -1,0 +1,1 @@
+{"text": "My husband wants shoes, I find classic ree's , he's happy, I'm happy, everyone's happy. It's classic Reebox so everyone I'm sure already knows whatever they need to know", "sentiment": "negative", "topics": {"2": "0.23430325", "3": "0.16895805", "4": "0.21867895", "5": "0.07989598", "6": "0.285704"}}

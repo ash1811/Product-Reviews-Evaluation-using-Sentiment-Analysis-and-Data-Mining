@@ -1,0 +1,1 @@
+{"text": "These are some awesome work boots,they are light weight and look cool and are made by the same company thatmakes those construction vehicles.my old pair were some hand me down iron age that are more like  &#34;rusted and retired &#34;", "sentiment": "positive", "topics": {"2": "0.076638065", "4": "0.20502988", "5": "0.5531357", "6": "0.14561743"}}

@@ -1,0 +1,1 @@
+{"text": "I wear a size 10.5 D since high school and at first bought size 10 they where too small. I returned them and got size 11 and with thick wool socks they fit good", "sentiment": "negative", "topics": {"0": "0.07528866", "1": "0.094221756", "3": "0.5384505", "4": "0.14906175", "5": "0.12928884"}}

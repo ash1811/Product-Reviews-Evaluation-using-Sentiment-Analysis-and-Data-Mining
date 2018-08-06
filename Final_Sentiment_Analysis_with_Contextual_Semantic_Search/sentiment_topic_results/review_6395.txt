@@ -1,0 +1,1 @@
+{"text": "If your looking for a sock with lots of cushion this is the one. I have about about 5 pair of these, Im pounding concrete all day and really like the extra padding these have on the bottom.", "sentiment": "negative", "topics": {"2": "0.36465892", "3": "0.1884733", "5": "0.41501626"}}

@@ -1,0 +1,1 @@
+{"text": "Bought 2 of these music boxes at once. Both played the melody off key. The dancer inside one box would not turn or play music unless you manually began turning it. Pretty, and nice for a child who is gentle.", "sentiment": "negative", "topics": {"0": "0.3344908", "2": "0.22360127", "3": "0.25115955", "4": "0.15610933", "6": "0.023609629"}}

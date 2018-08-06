@@ -1,0 +1,1 @@
+{"text": "I bought this hat for doing yard work in the Texas sun.  It is a well made hat.  I love the ability to button the flaps.  I also like the straps that keeps the hat from getting blown away. Nice hat and will be wearing it to do yard work.", "sentiment": "negative", "topics": {"1": "0.4554088", "2": "0.10578564", "3": "0.2112689", "4": "0.083149545", "6": "0.13378747"}}

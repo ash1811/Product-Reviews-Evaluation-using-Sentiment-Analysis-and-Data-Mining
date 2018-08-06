@@ -1,0 +1,1 @@
+{"text": "I don't know if my hose ripped because of something I did or the company itself but its very easy to rip. I think that may just be how pantyhose are in general. It's a good buy if you are looking to wear it only a few times.", "sentiment": "negative", "topics": {"0": "0.16106504", "1": "0.6480494", "3": "0.15715984"}}

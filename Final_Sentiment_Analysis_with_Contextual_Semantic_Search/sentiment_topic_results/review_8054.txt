@@ -1,0 +1,1 @@
+{"text": "Because no laces, will continue to stretch out with continued use. Very comfortable shoes, though. If you want to use for work, get the model with laces if you are on your feet moving round a lot.", "sentiment": "negative", "topics": {"1": "0.327859", "2": "0.168387", "3": "0.014716556", "4": "0.29822502", "5": "0.10750965", "6": "0.07576052"}}

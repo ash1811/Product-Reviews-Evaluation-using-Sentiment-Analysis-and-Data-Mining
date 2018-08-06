@@ -1,0 +1,1 @@
+{"text": "My experience with Jambu shoes has been consistently positive. The sandals fit snug, but not uncomfortable. The foot bed is padded and comfortable. I bought the tan color, which is cute, although the other colors also look very nice.", "sentiment": "positive", "topics": {"1": "0.5671779", "2": "0.115991876", "4": "0.20086415", "6": "0.09726545"}}

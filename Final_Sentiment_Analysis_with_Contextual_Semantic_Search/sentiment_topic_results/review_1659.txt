@@ -1,0 +1,1 @@
+{"text": "size as the expected, well made, not noticeable under clothing, easy to remove and replace, and the price very good", "sentiment": "positive", "topics": {"0": "0.1175184", "1": "0.47267035", "2": "0.17519331", "3": "0.011955596", "4": "0.011937496", "5": "0.011917819", "6": "0.19880702"}}

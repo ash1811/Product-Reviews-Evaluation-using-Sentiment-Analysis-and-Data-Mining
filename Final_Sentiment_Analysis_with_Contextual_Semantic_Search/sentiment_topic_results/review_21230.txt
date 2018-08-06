@@ -1,0 +1,1 @@
+{"text": "My friend like it very much, because wear these shoes higher 4cm in time. The shoes very light and comfortable.", "sentiment": "positive", "topics": {"0": "0.1799214", "1": "0.2796702", "2": "0.32282105", "3": "0.0119252885", "4": "0.01191629", "5": "0.18181787", "6": "0.011927879"}}

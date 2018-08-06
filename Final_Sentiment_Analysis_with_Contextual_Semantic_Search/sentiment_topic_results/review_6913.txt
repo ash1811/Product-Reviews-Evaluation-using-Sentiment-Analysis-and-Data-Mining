@@ -1,0 +1,1 @@
+{"text": "The Denims was nice. It didn't come in the size I wanted (too small). Make sure you order the correct size. Who wants to feel like \"S Urkel\".", "sentiment": "negative", "topics": {"0": "0.1421852", "1": "0.20877852", "2": "0.22935936", "3": "0.32614776", "5": "0.07754631"}}

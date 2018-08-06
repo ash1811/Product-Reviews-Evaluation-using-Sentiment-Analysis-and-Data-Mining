@@ -1,0 +1,1 @@
+{"text": "I wear these every day.  I wear them way more than my $150 driving shoes.  Look great with jeans or black dress pants for a business professional look.", "sentiment": "positive", "topics": {"0": "0.5152073", "1": "0.23413274", "2": "0.10193034", "3": "0.12481679"}}

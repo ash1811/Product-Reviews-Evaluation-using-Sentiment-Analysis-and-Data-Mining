@@ -1,0 +1,1 @@
+{"text": "I doubt this is really sterling silver because it makes me breakout, but it is very cute, so i try to wear it over a shirt.", "sentiment": "positive", "topics": {"0": "0.15943103", "1": "0.013016334", "2": "0.013026854", "3": "0.77547187", "4": "0.013008621", "5": "0.013033727", "6": "0.013011596"}}

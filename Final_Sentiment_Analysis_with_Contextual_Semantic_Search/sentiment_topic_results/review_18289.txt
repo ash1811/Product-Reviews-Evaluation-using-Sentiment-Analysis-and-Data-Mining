@@ -1,0 +1,1 @@
+{"text": "Gets the job done. The yellow watchface has a nice antiqued look. I wish the actually band was a little bit longer.", "sentiment": "positive", "topics": {"1": "0.44686562", "2": "0.20753914", "3": "0.18358836", "4": "0.1332985"}}

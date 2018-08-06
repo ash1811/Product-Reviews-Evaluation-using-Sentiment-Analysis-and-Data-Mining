@@ -1,0 +1,1 @@
+{"text": "I am 5'5&#34; 155 size 9-10 and this is a super nice fit with enough stretch to fit taller or larger. The holes in the stocking are rather large and not a tight weave but it looks so sexy on.", "sentiment": "positive", "topics": {"1": "0.38140842", "2": "0.0409628", "4": "0.33418915", "5": "0.08846909", "6": "0.14193477"}}

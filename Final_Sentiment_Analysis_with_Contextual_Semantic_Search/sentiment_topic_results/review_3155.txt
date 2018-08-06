@@ -1,0 +1,1 @@
+{"text": "Over the years, quality has gone downhill on many a clothing item. Not the case here as the size is accurate and the denim is quality, just like it has been since I was a kid. What else is there to say?", "sentiment": "negative", "topics": {"1": "0.20900139", "2": "0.09429932", "3": "0.1769821", "4": "0.115115374", "5": "0.074409954", "6": "0.3222493"}}

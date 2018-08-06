@@ -1,0 +1,1 @@
+{"text": "Carhartt makes products that last, this is durable, materials and workmanship went into the product.  It is excellent for work.", "sentiment": "negative", "topics": {"0": "0.14495161", "1": "0.30412945", "2": "0.102706365", "3": "0.12828632", "4": "0.011940519", "5": "0.29602137", "6": "0.011964326"}}

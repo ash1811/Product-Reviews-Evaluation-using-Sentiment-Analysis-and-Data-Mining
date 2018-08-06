@@ -1,0 +1,1 @@
+{"text": "I purchase a pair of Sanuks every summer.  I wear them so much they literally wear out.  They are comfy, look cute and can be worn for all occasions!", "sentiment": "negative", "topics": {"1": "0.5666024", "3": "0.30988213", "6": "0.087659575"}}

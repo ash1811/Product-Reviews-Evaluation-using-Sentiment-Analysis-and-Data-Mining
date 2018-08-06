@@ -1,0 +1,1 @@
+{"text": "Came in it's original box and on time - fit perfect and did not have to return which is a very big plus", "sentiment": "positive", "topics": {"0": "0.014363572", "1": "0.66284215", "2": "0.014333701", "3": "0.014302279", "4": "0.0143375825", "5": "0.014307956", "6": "0.26551273"}}

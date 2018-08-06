@@ -1,0 +1,1 @@
+{"text": "Hermoso producto, calidad excelente, lo compre para mi mama y le encanto. El color es hermoso y es bastante resistente.", "sentiment": "negative", "topics": {"0": "0.06266912", "1": "0.093463875", "2": "0.19293351", "3": "0.22072473", "5": "0.28084394", "6": "0.14184396"}}

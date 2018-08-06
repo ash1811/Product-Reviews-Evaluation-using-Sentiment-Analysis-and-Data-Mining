@@ -1,0 +1,1 @@
+{"text": "these are my favorite go to flip flop for summer  came ontime and packed well  would buy again and again", "sentiment": "negative", "topics": {"0": "0.40372318", "1": "0.4237848", "2": "0.12478132", "3": "0.01192905", "4": "0.011927864", "5": "0.011937006", "6": "0.011916796"}}

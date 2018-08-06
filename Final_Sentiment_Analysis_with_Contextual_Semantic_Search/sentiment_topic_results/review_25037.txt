@@ -1,0 +1,1 @@
+{"text": "ordered 9.5. did not  need to go up half size. still keeping. not uncomfortable enough to return for smaller size.", "sentiment": "negative", "topics": {"0": "0.010213792", "1": "0.3642161", "2": "0.010209982", "3": "0.39615816", "4": "0.010227452", "5": "0.010224268", "6": "0.19875026"}}

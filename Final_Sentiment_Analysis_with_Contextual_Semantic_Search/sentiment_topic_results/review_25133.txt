@@ -1,0 +1,1 @@
+{"text": "yeasss i got these for the perfect bytchasscold winter just in time. they revamped my ugg boots very well inside made the cold more comfy.", "sentiment": "negative", "topics": {"1": "0.42679337", "3": "0.19630511", "4": "0.33868444"}}

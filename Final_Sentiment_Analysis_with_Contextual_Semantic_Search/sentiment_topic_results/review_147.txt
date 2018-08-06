@@ -1,0 +1,1 @@
+{"text": "Doesn't shrink in the wash which is a big plus since being 6'6&#34; makes it difficult when that happens.Stays pretty dry when working out.", "sentiment": "negative", "topics": {"0": "0.010234278", "1": "0.49332282", "2": "0.010230141", "3": "0.010311915", "4": "0.010287192", "5": "0.340834", "6": "0.12477968"}}

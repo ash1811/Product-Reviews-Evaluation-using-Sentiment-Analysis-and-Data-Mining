@@ -1,0 +1,1 @@
+{"text": "waist is too small. legs are large enough to fit both legs in one. the color is dark grey, not blue", "sentiment": "negative", "topics": {"0": "0.011014632", "1": "0.5019723", "2": "0.27768993", "3": "0.011037343", "4": "0.011022091", "5": "0.17626399", "6": "0.010999701"}}

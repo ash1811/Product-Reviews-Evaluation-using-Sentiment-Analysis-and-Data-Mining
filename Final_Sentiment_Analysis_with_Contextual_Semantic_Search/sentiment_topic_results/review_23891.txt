@@ -1,0 +1,1 @@
+{"text": "I wore these in the rain , and they did excellent.I love them , ohh an d a FREE pair of shoe laces came along . YAAAY !", "sentiment": "negative", "topics": {"0": "0.2388154", "1": "0.011012535", "2": "0.1485237", "3": "0.56852347", "4": "0.011041974", "5": "0.011052596", "6": "0.011030315"}}

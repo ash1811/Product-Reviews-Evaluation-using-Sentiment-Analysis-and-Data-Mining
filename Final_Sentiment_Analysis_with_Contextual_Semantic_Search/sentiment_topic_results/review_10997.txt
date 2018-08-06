@@ -1,0 +1,1 @@
+{"text": "These shoes were for my son to wear to work and he said they fit well and are true to size.", "sentiment": "positive", "topics": {"0": "0.014310562", "1": "0.46732998", "2": "0.12895302", "3": "0.34647024", "4": "0.01429823", "5": "0.014327927", "6": "0.01431009"}}

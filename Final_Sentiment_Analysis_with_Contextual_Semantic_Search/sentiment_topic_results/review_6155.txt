@@ -1,0 +1,1 @@
+{"text": "The fabric is amazingly soft.  Love that.  Runs big, ok with that.  But the neckline is miserable.  It gets loose and sloppy within an hour and hangs low.  That is my only complaint, went back to Carter's and Gerber's.", "sentiment": "positive", "topics": {"0": "0.09894304", "1": "0.43949202", "2": "0.0599302", "4": "0.17157729", "5": "0.101240434", "6": "0.12283203"}}

@@ -1,0 +1,1 @@
+{"text": "It's a bandanna and it fits. There is nothing more to say about this. If you really need to know more about your bandanna gtfo.", "sentiment": "positive", "topics": {"0": "0.01301249", "1": "0.1379491", "2": "0.12017009", "3": "0.013010633", "4": "0.012989376", "5": "0.24903578", "6": "0.45383254"}}

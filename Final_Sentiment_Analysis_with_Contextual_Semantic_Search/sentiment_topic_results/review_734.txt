@@ -1,0 +1,1 @@
+{"text": "love cherokee brand uniforms.  the petite are perfect if you're short and don't want to walk all over your pants.", "sentiment": "negative", "topics": {"0": "0.4077874", "1": "0.2871685", "2": "0.012999926", "3": "0.15008377", "4": "0.013037493", "5": "0.11593092", "6": "0.012991995"}}

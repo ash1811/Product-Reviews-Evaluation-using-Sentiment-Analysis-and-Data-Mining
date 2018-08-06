@@ -1,0 +1,1 @@
+{"text": "The slippers provide very little support. Also, the padding isn't very firm and cushiony.  They're not very comfortable. I wouldn't recommend these to anyone.", "sentiment": "negative", "topics": {"0": "0.011063904", "1": "0.13410446", "2": "0.011010304", "3": "0.3407178", "4": "0.1520592", "5": "0.27016947", "6": "0.080874845"}}

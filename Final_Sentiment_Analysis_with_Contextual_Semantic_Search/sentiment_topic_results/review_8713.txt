@@ -1,0 +1,1 @@
+{"text": "I bought one pair to use for office attire and they are such a comfortable fit that I bought 4 more pairs. Great even color and don't fade easily.", "sentiment": "negative", "topics": {"1": "0.6934808", "3": "0.09039274", "4": "0.1824148"}}

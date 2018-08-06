@@ -1,0 +1,1 @@
+{"text": "These gloves so much and i got them for such a phenomenal price, thanks to you you help to keep my hands warm. :)", "sentiment": "positive", "topics": {"0": "0.0130434325", "1": "0.43143737", "2": "0.12300584", "3": "0.01307675", "4": "0.013033304", "5": "0.19989605", "6": "0.20650727"}}

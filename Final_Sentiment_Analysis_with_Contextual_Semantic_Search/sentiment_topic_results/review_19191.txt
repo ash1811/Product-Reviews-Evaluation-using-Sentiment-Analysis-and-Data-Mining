@@ -1,0 +1,1 @@
+{"text": "This is a terrific everyday watch at a reasonable price. The closest one I found in the stores was not as attractive and cost twice as much.", "sentiment": "positive", "topics": {"0": "0.09976825", "1": "0.4390777", "2": "0.20670071", "3": "0.010222653", "4": "0.15057059", "5": "0.01022687", "6": "0.08343323"}}

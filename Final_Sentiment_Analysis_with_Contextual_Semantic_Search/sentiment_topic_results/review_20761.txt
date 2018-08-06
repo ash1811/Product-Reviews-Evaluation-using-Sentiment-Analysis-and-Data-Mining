@@ -1,0 +1,1 @@
+{"text": "This is a precious deal! Five undershirts in a single package? Hard deal to find! With prices being so high nowadays, deals like this (more than one item in a package) are true treasures. The shirts are true fits and quality items.", "sentiment": "negative", "topics": {"0": "0.149798", "1": "0.3498638", "3": "0.20176859", "4": "0.06530876", "6": "0.22223839"}}

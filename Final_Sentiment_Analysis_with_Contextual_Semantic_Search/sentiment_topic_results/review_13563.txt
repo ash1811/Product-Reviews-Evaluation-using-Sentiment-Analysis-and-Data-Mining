@@ -1,0 +1,1 @@
+{"text": "I got these for my wife for ZUMBA. She absolutely love them. Very, very light and flexible. A++++++++++++++++++++++++++++++++++++++++++++++++++++++++", "sentiment": "positive", "topics": {"0": "0.326164", "1": "0.01302828", "2": "0.29348347", "3": "0.013058981", "4": "0.013101209", "5": "0.18946108", "6": "0.15170301"}}

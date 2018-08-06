@@ -1,0 +1,1 @@
+{"text": "I love this watch.  I treated myself to it and I'm happy that I did.  Bulova is great quality.  I highly recommend it.", "sentiment": "negative", "topics": {"0": "0.011024796", "1": "0.57332987", "2": "0.22514565", "3": "0.011018925", "4": "0.011046756", "5": "0.1574405", "6": "0.0109934695"}}

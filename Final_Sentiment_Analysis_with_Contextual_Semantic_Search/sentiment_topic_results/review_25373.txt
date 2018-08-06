@@ -1,0 +1,1 @@
+{"text": "Bought these to replace a pair of my husband's that our little doxies took a liking to.  Could not find them locally so was extremely excited to find them on Amazon.com.  My husband is thrilled with them!", "sentiment": "positive", "topics": {"0": "0.14585903", "2": "0.07433353", "3": "0.3462146", "4": "0.3487914", "6": "0.07047395"}}

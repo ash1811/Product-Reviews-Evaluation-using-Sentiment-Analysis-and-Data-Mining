@@ -1,0 +1,1 @@
+{"text": "I really do like these jeans (Pants really)They fit perfect and the leg pocket is the perfect size for my Blackberry.For the money you cant go wrong.", "sentiment": "negative", "topics": {"1": "0.41160205", "2": "0.10171446", "3": "0.12153611", "5": "0.33986238"}}

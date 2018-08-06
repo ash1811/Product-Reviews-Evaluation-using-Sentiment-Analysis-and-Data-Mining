@@ -1,0 +1,1 @@
+{"text": "My baby is 6 mo old and he is 16lb. These just fit. Not sure if they will make it to his 9 mo mark. Overall quality is great though. I use them as sleep shirts or undershirts.", "sentiment": "negative", "topics": {"1": "0.40676603", "2": "0.11987724", "4": "0.16142568", "5": "0.16762045", "6": "0.12994233"}}

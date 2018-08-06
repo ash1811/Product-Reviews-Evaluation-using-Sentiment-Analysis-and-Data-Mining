@@ -1,0 +1,1 @@
+{"text": "the denim of these pants is thick and heavy and that is exactly what we are looking for they fit as expected.", "sentiment": "positive", "topics": {"0": "0.1207375", "1": "0.6642635", "2": "0.015880069", "3": "0.015896315", "4": "0.015962409", "5": "0.015891345", "6": "0.15136893"}}

@@ -1,0 +1,1 @@
+{"text": "Material felt cheap.  Was not soft and very big.  Did not like it at all.  Did not feel warm like fleece should!", "sentiment": "negative", "topics": {"0": "0.011029631", "1": "0.5867134", "2": "0.011073177", "3": "0.011013083", "4": "0.010999441", "5": "0.011015503", "6": "0.35815582"}}

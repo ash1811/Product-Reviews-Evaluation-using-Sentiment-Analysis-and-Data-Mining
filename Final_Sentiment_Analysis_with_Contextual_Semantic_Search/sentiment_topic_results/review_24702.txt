@@ -1,0 +1,1 @@
+{"text": "great for husband.  back vertabrae in neck and back, and this helps tremendously.  better than many we have tried - would love to find one just a bit longer so he would not have to try to bend over (too much discomfort).", "sentiment": "positive", "topics": {"0": "0.1323378", "1": "0.35967264", "3": "0.12459108", "4": "0.3064466", "6": "0.065011784"}}

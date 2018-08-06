@@ -1,0 +1,1 @@
+{"text": "Not much to say.  I've been using this kind of jeans since i was a teenager and i am never going to change them.  Comfy, nice and good quality.", "sentiment": "negative", "topics": {"0": "0.0883932", "1": "0.22160432", "2": "0.21701807", "3": "0.3105831", "6": "0.14550452"}}

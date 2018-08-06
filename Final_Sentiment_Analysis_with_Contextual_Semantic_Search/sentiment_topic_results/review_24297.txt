@@ -1,0 +1,1 @@
+{"text": "These are comfortable, very roomy for a plus size, look nice on, and are reasonably priced. What more can you ask for? I've bought several sets for both me and others. Recommend. :)", "sentiment": "positive", "topics": {"1": "0.5406039", "3": "0.24828583", "4": "0.088746466", "6": "0.09849641"}}

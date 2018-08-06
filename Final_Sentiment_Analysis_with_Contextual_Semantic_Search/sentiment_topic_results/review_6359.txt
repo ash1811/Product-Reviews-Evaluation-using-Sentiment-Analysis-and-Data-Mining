@@ -1,0 +1,1 @@
+{"text": "I'm always concerned that shoes like these can be too manly...these are not.They are flexible and comfortable. The heel is the perfect height to go with jeans or black trousers.", "sentiment": "positive", "topics": {"1": "0.10760923", "2": "0.2852567", "3": "0.20803958", "5": "0.3738257"}}

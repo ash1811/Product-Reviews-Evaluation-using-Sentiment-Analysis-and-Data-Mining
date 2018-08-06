@@ -1,0 +1,1 @@
+{"text": "She liked it, got to wear it only once this year in Florida, but she will wear this swim suit more often next summer. The color is nice and the fit was comfortable too.", "sentiment": "positive", "topics": {"1": "0.52403975", "2": "0.20877904", "3": "0.17050982", "4": "0.072773226"}}

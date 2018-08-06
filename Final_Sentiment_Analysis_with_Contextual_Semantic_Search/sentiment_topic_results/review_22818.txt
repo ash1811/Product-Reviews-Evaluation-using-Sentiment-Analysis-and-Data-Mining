@@ -1,0 +1,1 @@
+{"text": "lovely earrings at low price, birthday in feb means this is your birthstoneno better way to celebrate than with pretty inexspensive jewelry and theprice is low.", "sentiment": "positive", "topics": {"0": "0.29067716", "1": "0.26738134", "2": "0.110381566", "4": "0.18318346", "6": "0.1315405"}}

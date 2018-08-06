@@ -1,0 +1,1 @@
+{"text": "Great price, looks good, comfortable, fits wellI need to make up thirteen words for this review. Three more required :p", "sentiment": "negative", "topics": {"1": "0.52324724", "3": "0.14564648", "6": "0.2952327"}}

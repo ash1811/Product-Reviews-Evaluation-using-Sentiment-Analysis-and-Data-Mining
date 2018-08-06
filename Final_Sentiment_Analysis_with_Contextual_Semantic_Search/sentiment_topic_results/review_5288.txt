@@ -1,0 +1,1 @@
+{"text": "These slippers fit well and are pretty. They are for the summer time and notfor the winter weather. Size medium fits size 7 well.", "sentiment": "negative", "topics": {"1": "0.57594055", "5": "0.08331807", "6": "0.30493486"}}

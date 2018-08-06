@@ -1,0 +1,1 @@
+{"text": "I love these!  I prefer Ariat or Frye boots over UGGS design but I always like the feel of sheepskin on my toes when it's cold outside.  These are the perfect hack to get what I want in a perfect winter boots.", "sentiment": "negative", "topics": {"0": "0.21099907", "1": "0.18596624", "2": "0.16734563", "3": "0.20682277", "4": "0.14287925", "5": "0.079758264"}}

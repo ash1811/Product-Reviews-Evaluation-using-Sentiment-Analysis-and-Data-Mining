@@ -1,0 +1,1 @@
+{"text": "I bought these for my 2.5yr old and he loves these, and I love that he can put them on by himself. They run true to size and extremely light weight.", "sentiment": "negative", "topics": {"0": "0.18549539", "3": "0.32678494", "5": "0.36388963", "6": "0.09513935"}}

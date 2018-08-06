@@ -1,0 +1,1 @@
+{"text": "i own several of these yoga mat flip flop. They run as expected in size and are like walking on air.", "sentiment": "positive", "topics": {"0": "0.1344941", "1": "0.2760176", "2": "0.144771", "3": "0.20077287", "4": "0.01192756", "5": "0.22004376", "6": "0.011973116"}}

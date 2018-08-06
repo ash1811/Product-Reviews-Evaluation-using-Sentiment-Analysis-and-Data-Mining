@@ -1,0 +1,1 @@
+{"text": "I have small feet (6.5) and these fit very well.  They are well made and the toes are not too long.  I can throw these in the washer instead of the 5 finger shoes.  Worth the price.", "sentiment": "negative", "topics": {"1": "0.61292064", "2": "0.084032334", "4": "0.17660305", "5": "0.10256921"}}

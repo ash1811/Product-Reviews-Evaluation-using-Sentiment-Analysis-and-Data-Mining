@@ -1,0 +1,1 @@
+{"text": "I am a watch collector. It is better than some more expensive watches. It has a great look and feel. It is heavy but balances well on the arm. It is now one of my favorite watches.  LOVE IT!!!!!!!", "sentiment": "negative", "topics": {"1": "0.26406544", "2": "0.3084716", "3": "0.13399258", "5": "0.15400851", "6": "0.123510346"}}

@@ -1,0 +1,1 @@
+{"text": "This is surely a value for money item. It fits me nicely. The material is light and suits the tropical climate of Malaysia. Casual and yet can be worn to the office. Would certainly buy this item again.", "sentiment": "negative", "topics": {"1": "0.4189625", "2": "0.075318545", "3": "0.054393843", "4": "0.21332596", "6": "0.22493586"}}

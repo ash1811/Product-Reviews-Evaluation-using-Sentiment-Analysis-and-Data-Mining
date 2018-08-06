@@ -1,0 +1,1 @@
+{"text": "These are the most comfy leisure/slippers on the market.  I wear them all the time at home and wash them when needed.  I only wish there was more choice in colors, as I bought 2 pairs of beige from another merchant.", "sentiment": "negative", "topics": {"0": "0.17590928", "1": "0.55466", "2": "0.13029525", "3": "0.1152552"}}

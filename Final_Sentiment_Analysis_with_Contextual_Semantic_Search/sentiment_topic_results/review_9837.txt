@@ -1,0 +1,1 @@
+{"text": "the leather is a little rough on edges I assume it will soften up feel really good. Hope the edges do get softer.", "sentiment": "negative", "topics": {"0": "0.39952636", "1": "0.010264246", "2": "0.30506384", "3": "0.01024374", "4": "0.09818191", "5": "0.01023867", "6": "0.16648127"}}

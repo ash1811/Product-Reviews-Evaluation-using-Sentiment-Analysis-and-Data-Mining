@@ -1,0 +1,1 @@
+{"text": "these things are warm and not the sweating kind the kind where you feel no wind and they are water resistant also", "sentiment": "negative", "topics": {"0": "0.013019955", "1": "0.01313648", "2": "0.50779", "3": "0.2887951", "4": "0.1512017", "5": "0.013018471", "6": "0.013038337"}}

@@ -1,0 +1,1 @@
+{"text": "My shoulders thank you... Love the padding which helps lessen the pressure on my shoulders. But make sure you know your correct size before you buy it :)", "sentiment": "negative", "topics": {"1": "0.07858867", "2": "0.19364047", "3": "0.40569714", "5": "0.13155289", "6": "0.17258555"}}

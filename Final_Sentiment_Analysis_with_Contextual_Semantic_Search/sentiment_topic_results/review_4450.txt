@@ -1,0 +1,1 @@
+{"text": "Great fitting Lee Jeans at a great price from Amazon. It gets harder to buy jeans that fit as you get older, but Lee fits the bill.", "sentiment": "negative", "topics": {"0": "0.0872469", "1": "0.31196603", "4": "0.07715503", "5": "0.3372202", "6": "0.17051013"}}

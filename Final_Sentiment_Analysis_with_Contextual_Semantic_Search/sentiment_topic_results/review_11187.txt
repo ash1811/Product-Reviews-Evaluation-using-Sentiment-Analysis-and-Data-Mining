@@ -1,0 +1,1 @@
+{"text": "This moccasin is so soft and fits well.  It is comfortable and \"babys\" the feet.  The workmanship is superb as there are no edges or spots that rub.", "sentiment": "positive", "topics": {"0": "0.011012124", "1": "0.51674217", "2": "0.08569006", "3": "0.011012062", "4": "0.19420265", "5": "0.011003923", "6": "0.17033705"}}

@@ -1,0 +1,1 @@
+{"text": "These pants fit very well and were nice and breathable.  There are pockets on the side seams, but not in the back.  I have a 32inch waist and 30inch inseam.  The small fit perfectly.", "sentiment": "negative", "topics": {"0": "0.14337318", "1": "0.51640546", "3": "0.17205203", "6": "0.14287946"}}

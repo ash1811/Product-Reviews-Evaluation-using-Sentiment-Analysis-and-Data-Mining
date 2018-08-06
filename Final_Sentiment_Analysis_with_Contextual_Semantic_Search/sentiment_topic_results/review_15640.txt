@@ -1,0 +1,1 @@
+{"text": "Ordered 2 - one for each daughter. MUCH better quality and material than your typical Halloween costumes. Runs big though - size down!", "sentiment": "negative", "topics": {"0": "0.19348933", "1": "0.27121136", "3": "0.4040901", "4": "0.10589769"}}

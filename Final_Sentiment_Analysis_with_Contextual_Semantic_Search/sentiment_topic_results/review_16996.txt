@@ -1,0 +1,1 @@
+{"text": "True to size. Well made and pretty. Looks like it will hold up well. Exactly as pictured, that's a plus to me.", "sentiment": "negative", "topics": {"0": "0.15327488", "1": "0.33961308", "3": "0.46891737"}}

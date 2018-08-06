@@ -1,0 +1,1 @@
+{"text": "muy buen yeans queda muy bien y buen precio me parece una exlente opcion lo recomiendo a los que les sirva", "sentiment": "positive", "topics": {"0": "0.22461289", "1": "0.2741884", "2": "0.06849831", "3": "0.108971484", "4": "0.20067084", "5": "0.058724202", "6": "0.064333856"}}

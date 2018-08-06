@@ -1,0 +1,1 @@
+{"text": "Quality not apparent. Returned this to amazon for another brand that was very good. This seemed to be a promotional item.", "sentiment": "negative", "topics": {"0": "0.012994093", "1": "0.32492867", "2": "0.012997004", "3": "0.2029565", "4": "0.1285531", "5": "0.17293075", "6": "0.14463986"}}

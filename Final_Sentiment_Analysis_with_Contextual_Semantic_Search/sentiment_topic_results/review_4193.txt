@@ -1,0 +1,1 @@
+{"text": "theses sweats are cheaply made the draw string came out went and ordered the ones with pockets and seem better made", "sentiment": "positive", "topics": {"0": "0.1853942", "2": "0.53474164", "3": "0.13966948", "4": "0.11149418"}}

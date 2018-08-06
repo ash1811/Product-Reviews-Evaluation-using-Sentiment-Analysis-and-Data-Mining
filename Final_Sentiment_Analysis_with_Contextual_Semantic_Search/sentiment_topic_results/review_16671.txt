@@ -1,0 +1,1 @@
+{"text": "Better than expected quality for the price. I bit bigger on my face than others I have had but they are fine by me!", "sentiment": "negative", "topics": {"0": "0.013022411", "1": "0.50475127", "2": "0.19690885", "3": "0.24626683", "4": "0.013023025", "5": "0.013005499", "6": "0.013022111"}}

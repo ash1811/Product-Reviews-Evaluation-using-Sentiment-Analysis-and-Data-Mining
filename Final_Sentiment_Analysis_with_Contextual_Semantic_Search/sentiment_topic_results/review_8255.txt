@@ -1,0 +1,1 @@
+{"text": "So I purchased these thinking they were 559 and when I tried them on I knew they were different.  They are ok....a little stiff.  I may need to wash them a few times to break them in.Would not purchase again over the 559's", "sentiment": "negative", "topics": {"0": "0.28839982", "1": "0.3734819", "2": "0.056859016", "3": "0.1507954", "6": "0.11456373"}}

@@ -1,0 +1,1 @@
+{"text": "I like my little Onyx Stone Chip Stretch Bracelet. I wanted to buy real onyx, it gives me confidence. I gave it 4 stars, because it is not something expensive bracelet, its very simple, but it has real little stones I hope.", "sentiment": "positive", "topics": {"0": "0.09069863", "1": "0.4660657", "2": "0.11916875", "4": "0.24836574", "6": "0.06424181"}}

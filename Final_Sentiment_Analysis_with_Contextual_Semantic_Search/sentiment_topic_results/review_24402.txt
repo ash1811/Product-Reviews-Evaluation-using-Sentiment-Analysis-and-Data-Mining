@@ -1,0 +1,1 @@
+{"text": "The bra is comfortable but only for a few hours after that the front hooks start rubbing on your rib cage and it is very uncomfortable.  If I hadn't worn it all day, I would return this bra.", "sentiment": "negative", "topics": {"0": "0.14628084", "1": "0.15557118", "3": "0.16695377", "5": "0.08689883", "6": "0.42642874"}}

@@ -1,0 +1,1 @@
+{"text": "This is my first pair and it won't be my last. They are true to size and very comfortable. Usually when I buy any kind of new shoe I have to brake them in before wearing for long ours not these. I work nine to twelve hrs shifts", "sentiment": "positive", "topics": {"0": "0.15036279", "1": "0.36536908", "2": "0.22926348", "3": "0.1396968", "6": "0.10162579"}}

@@ -1,0 +1,1 @@
+{"text": "I do like this mid weight material; they should hold up longer than the thin type. No blisters all around!", "sentiment": "negative", "topics": {"0": "0.70626473", "1": "0.01307873", "2": "0.013023448", "3": "0.22847024", "4": "0.013051284", "5": "0.013058177", "6": "0.013053415"}}

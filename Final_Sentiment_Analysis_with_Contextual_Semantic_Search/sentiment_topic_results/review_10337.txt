@@ -1,0 +1,1 @@
+{"text": "Very comfortable shoe.  Works great for walking/hiking.", "sentiment": "positive", "topics": {"0": "0.24325742", "1": "0.4452639", "2": "0.21612446", "3": "0.023859685", "4": "0.023824826", "5": "0.023842258", "6": "0.023827488"}}

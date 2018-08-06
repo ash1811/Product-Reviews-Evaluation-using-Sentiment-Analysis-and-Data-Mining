@@ -1,0 +1,1 @@
+{"text": "This is a beautiful watch, very easy to read.  My brother lives in a nursing home and can put the watch on without asking for help.", "sentiment": "negative", "topics": {"0": "0.010265718", "1": "0.1815292", "2": "0.16083126", "3": "0.08746889", "4": "0.2549903", "5": "0.010242596", "6": "0.29467204"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these to wear around the house and to lounge in...love their products, the fit is good, love the colors and plan on purchasing more...", "sentiment": "negative", "topics": {"1": "0.2530127", "3": "0.1589118", "4": "0.12527747", "5": "0.434156"}}

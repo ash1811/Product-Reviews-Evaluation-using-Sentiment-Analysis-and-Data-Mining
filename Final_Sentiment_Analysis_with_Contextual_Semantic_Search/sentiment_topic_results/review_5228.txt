@@ -1,0 +1,1 @@
+{"text": "I buy these slippers one after the other. Sometimes they're hard to find in the stores so buying them here is very convenient. And the price is good too.", "sentiment": "positive", "topics": {"0": "0.1420504", "1": "0.25573272", "2": "0.2518137", "4": "0.14058913", "6": "0.19072795"}}

@@ -1,0 +1,1 @@
+{"text": "These are not over the calf socks! They eventually slide down and are thin material. Definitely will not buy again.", "sentiment": "negative", "topics": {"0": "0.014310418", "1": "0.2916984", "2": "0.014312604", "3": "0.40394157", "4": "0.014361049", "5": "0.24706697", "6": "0.014308995"}}

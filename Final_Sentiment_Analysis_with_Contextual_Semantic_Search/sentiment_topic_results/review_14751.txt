@@ -1,0 +1,1 @@
+{"text": "This got bent out of shape really quickly after buying it. I still use it with one part bent down but only because I don't want to spend money for another one. Probably would not buy again.", "sentiment": "positive", "topics": {"1": "0.39532775", "2": "0.28236493", "4": "0.19912209", "5": "0.10359876"}}

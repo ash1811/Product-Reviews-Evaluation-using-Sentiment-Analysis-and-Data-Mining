@@ -1,0 +1,1 @@
+{"text": "If you want to keep your feet dry try these. they will keep the moisture away from your feet all-day.", "sentiment": "positive", "topics": {"0": "0.2759631", "1": "0.011915225", "2": "0.13676819", "3": "0.19128306", "4": "0.36023942", "5": "0.011918045", "6": "0.011912927"}}

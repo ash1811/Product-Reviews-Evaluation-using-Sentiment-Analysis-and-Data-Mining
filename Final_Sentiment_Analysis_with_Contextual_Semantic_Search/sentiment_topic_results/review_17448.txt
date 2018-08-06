@@ -1,0 +1,1 @@
+{"text": "great pants just one complaint the pockets are waaaaaaay to small cant even fit my wallet in them it sticks out", "sentiment": "negative", "topics": {"0": "0.01102624", "1": "0.6167773", "2": "0.3281703", "3": "0.011006527", "4": "0.011002443", "5": "0.0110176625", "6": "0.010999501"}}

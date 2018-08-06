@@ -1,0 +1,1 @@
+{"text": "I purchsed this pants for my son. He says it is very comfortable. The length is just right.I purchased the navy, and the color is very nice.He intends to purchase the other colors.", "sentiment": "positive", "topics": {"1": "0.4578556", "3": "0.073287085", "4": "0.16391419", "5": "0.08856656", "6": "0.19730642"}}

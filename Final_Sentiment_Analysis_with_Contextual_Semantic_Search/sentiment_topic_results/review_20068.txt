@@ -1,0 +1,1 @@
+{"text": "Great bang for the buck.  Used as a school bag, it's sturdy with lots of room, pockets and much more durable than last year's backpack.  It also has great graphics and the zippers work flawlessly.", "sentiment": "negative", "topics": {"0": "0.083483525", "1": "0.44296017", "2": "0.20271984", "3": "0.041546434", "4": "0.087445766", "5": "0.13533978"}}

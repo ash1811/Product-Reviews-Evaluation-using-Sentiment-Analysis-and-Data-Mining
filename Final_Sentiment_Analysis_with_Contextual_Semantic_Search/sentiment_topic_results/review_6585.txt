@@ -1,0 +1,1 @@
+{"text": "My son is very tall and has big feet. These socks he said were very comfortable and looked nice with his dress suit.", "sentiment": "negative", "topics": {"0": "0.011932182", "1": "0.3950748", "2": "0.091155596", "3": "0.011944269", "4": "0.33649024", "5": "0.14148971", "6": "0.011913221"}}

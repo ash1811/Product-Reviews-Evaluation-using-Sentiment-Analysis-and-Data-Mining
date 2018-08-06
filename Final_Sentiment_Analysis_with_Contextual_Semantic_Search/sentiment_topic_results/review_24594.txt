@@ -1,0 +1,1 @@
+{"text": "It looks so small when you take it out of the box, but it was a good fit for a 42\" 4 year old and it has held up great when washed. It's a good feeling material and there hasn't been any pilling.  She has worn it about a dozen times.", "sentiment": "positive", "topics": {"0": "0.1535834", "1": "0.60811853", "5": "0.1556028", "6": "0.062214777"}}

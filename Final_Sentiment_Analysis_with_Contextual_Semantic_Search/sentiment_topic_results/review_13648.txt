@@ -1,0 +1,1 @@
+{"text": "I bought these for my kid and she appears to like them a whole lot, maybe some day I will have a pair of topside-rs, but not now.", "sentiment": "negative", "topics": {"0": "0.011946626", "1": "0.011964638", "2": "0.011943892", "3": "0.33257943", "4": "0.011926602", "5": "0.37705934", "6": "0.24257948"}}

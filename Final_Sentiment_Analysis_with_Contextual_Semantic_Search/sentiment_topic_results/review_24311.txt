@@ -1,0 +1,1 @@
+{"text": "I am very happy with this ring. It is just as the picture shows. I am happy that it is guarenteed.", "sentiment": "negative", "topics": {"0": "0.23607925", "1": "0.51864856", "2": "0.16352686", "3": "0.020436639", "4": "0.020467699", "5": "0.020432716", "6": "0.020408278"}}

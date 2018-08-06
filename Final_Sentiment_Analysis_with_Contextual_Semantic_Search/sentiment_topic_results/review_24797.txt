@@ -1,0 +1,1 @@
+{"text": "The cotton is a bit rough compare to other cotton short i have. Size and shape are oke.", "sentiment": "positive", "topics": {"0": "0.10713648", "1": "0.11456922", "2": "0.1344915", "3": "0.60482216", "4": "0.01299459", "5": "0.012988795", "6": "0.012997269"}}

@@ -1,0 +1,1 @@
+{"text": "It is lime green not neon green i was expecting something ALOT brighter then what i received oh well then", "sentiment": "negative", "topics": {"0": "0.19347358", "1": "0.27923933", "2": "0.47959638", "3": "0.0119332075", "4": "0.011916902", "5": "0.011932989", "6": "0.011907595"}}

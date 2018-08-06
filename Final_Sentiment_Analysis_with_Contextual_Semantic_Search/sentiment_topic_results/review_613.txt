@@ -1,0 +1,1 @@
+{"text": "Overall a very reliable product.  Wrangler isn't fancy, but the cut is comfortable, material and construction is durable, and the price is great.", "sentiment": "negative", "topics": {"0": "0.01103425", "1": "0.5597607", "2": "0.010995652", "3": "0.011005664", "4": "0.14615983", "5": "0.24995616", "6": "0.011087733"}}

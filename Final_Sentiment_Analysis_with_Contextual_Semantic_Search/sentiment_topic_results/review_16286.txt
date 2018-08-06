@@ -1,0 +1,1 @@
+{"text": "No fault of the company, bought them for my brother with feet issues and even went a size larger but that did not help him. overall they look and felt like a well made shoe and would have loved them to fit him", "sentiment": "negative", "topics": {"0": "0.16966863", "1": "0.35783017", "2": "0.15847674", "5": "0.107902184", "6": "0.19361882"}}

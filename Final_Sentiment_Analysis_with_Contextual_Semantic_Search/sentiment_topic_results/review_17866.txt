@@ -1,0 +1,1 @@
+{"text": "I was looking for an everyday watch and this is the one!  I like the black face against the silver and the classic bracelet style.  You cannot beat the price.  Very happy with the watch.", "sentiment": "negative", "topics": {"2": "0.4321284", "3": "0.15736258", "4": "0.37680122"}}

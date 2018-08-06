@@ -1,0 +1,1 @@
+{"text": "I am buying this a a gag gift.  IT looks OK, but not of high quality.  IT will work in my game, but I would not give as a serious gift.", "sentiment": "negative", "topics": {"0": "0.2514599", "1": "0.40165436", "2": "0.010227318", "3": "0.010236248", "4": "0.01020901", "5": "0.21918297", "6": "0.097030215"}}

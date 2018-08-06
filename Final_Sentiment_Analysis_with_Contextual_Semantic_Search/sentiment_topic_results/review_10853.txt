@@ -1,0 +1,1 @@
+{"text": "These slippers are comfy and are great around the house or on trips.  I love the arch support, a surprise feature in a washable slipper.  They feel great and will last a long time.", "sentiment": "negative", "topics": {"1": "0.16638559", "3": "0.2187262", "4": "0.2674581", "6": "0.32478675"}}

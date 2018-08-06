@@ -1,0 +1,1 @@
+{"text": "Great for working outside.  Looks like normal work pants but the lining keeps you nice and warm.I would recommend them.", "sentiment": "negative", "topics": {"0": "0.26788035", "1": "0.4936845", "3": "0.14788209", "4": "0.06369759"}}

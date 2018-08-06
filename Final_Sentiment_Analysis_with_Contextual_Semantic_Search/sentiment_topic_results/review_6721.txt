@@ -1,0 +1,1 @@
+{"text": "My daughter is having twins, a boy and a girl and I bought a pair in pink and a pair in saddle.  So adorable and soft.Can't wait to see them wearing these boots.", "sentiment": "negative", "topics": {"2": "0.18728122", "4": "0.5375892", "5": "0.17456466", "6": "0.07358814"}}

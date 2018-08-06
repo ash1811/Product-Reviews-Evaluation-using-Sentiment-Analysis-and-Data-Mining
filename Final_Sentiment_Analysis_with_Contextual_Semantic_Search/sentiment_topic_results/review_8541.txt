@@ -1,0 +1,1 @@
+{"text": "Too small and narrow and  very disappointed , we have purchased before and this is totally different sizing. what is going on reebok ?", "sentiment": "positive", "topics": {"0": "0.014351526", "1": "0.5322391", "2": "0.014321616", "3": "0.23932162", "4": "0.014435304", "5": "0.17099679", "6": "0.0143340705"}}

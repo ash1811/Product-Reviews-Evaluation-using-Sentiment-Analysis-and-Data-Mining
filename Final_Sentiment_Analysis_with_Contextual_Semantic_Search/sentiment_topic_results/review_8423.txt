@@ -1,0 +1,1 @@
+{"text": "They are a little tight on the top since her legs aren't really skinny so she can't pull them up as far as she would like but they still look great on her. She says they are very comfortable/.", "sentiment": "positive", "topics": {"0": "0.11301993", "1": "0.38070598", "2": "0.10098803", "3": "0.3128163", "6": "0.07739217"}}

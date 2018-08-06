@@ -1,0 +1,1 @@
+{"text": "Almost what I expected - the length is good but it seems wider than it should be.I own this shoe in another color and that pair seems perfect - don't know how to explain that!", "sentiment": "positive", "topics": {"1": "0.35890275", "2": "0.14605038", "3": "0.38464156", "4": "0.085122794"}}

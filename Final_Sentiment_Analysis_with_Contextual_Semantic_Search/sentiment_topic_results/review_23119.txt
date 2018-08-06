@@ -1,0 +1,1 @@
+{"text": "Excellent product!  Fibromyalgia sometimes limits my mobility and the front closure is a real blessing.  The bra is comfortable for a long day of high school teaching.  I am very happy that I purchased this from Amazon.", "sentiment": "negative", "topics": {"0": "0.2636701", "1": "0.24274214", "2": "0.1970382", "3": "0.12552214", "4": "0.07049821", "5": "0.09370495"}}

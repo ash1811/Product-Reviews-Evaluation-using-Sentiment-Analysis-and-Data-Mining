@@ -1,0 +1,1 @@
+{"text": "Got these for my Dad for Christmas. He said they fit perfectly and he loves them .Great for wearing out to the barn to keep his toes warm without having to bother with shoes.", "sentiment": "negative", "topics": {"1": "0.60945207", "2": "0.07559903", "3": "0.1409578", "6": "0.14870754"}}

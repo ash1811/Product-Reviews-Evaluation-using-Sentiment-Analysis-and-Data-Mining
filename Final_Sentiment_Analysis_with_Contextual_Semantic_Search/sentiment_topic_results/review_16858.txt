@@ -1,0 +1,1 @@
+{"text": "perfect sandal,my second pair would purchase again, another color would be nice, I love the compfort of this sandal.Keen is the best", "sentiment": "negative", "topics": {"1": "0.48761028", "3": "0.34653732", "4": "0.13008426"}}

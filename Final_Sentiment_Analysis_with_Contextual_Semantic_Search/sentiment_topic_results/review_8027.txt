@@ -1,0 +1,1 @@
+{"text": "These thermals, are holding up to coldish weather(-1 to 5 degres celcius). Not very thick to bulk up your pants but enough to keep you warm. Better than thermasilk, which is more expensive.", "sentiment": "positive", "topics": {"1": "0.22378665", "2": "0.08161788", "3": "0.12420549", "4": "0.24934275", "5": "0.30418968"}}

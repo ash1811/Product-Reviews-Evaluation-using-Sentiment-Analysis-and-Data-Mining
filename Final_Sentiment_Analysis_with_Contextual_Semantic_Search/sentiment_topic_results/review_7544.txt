@@ -1,0 +1,1 @@
+{"text": "I have now purchased 5 of these shirts.  My hubby loves them.  They are holding up well with frequent washing and are sufficiently rugged to survive the jobsite.", "sentiment": "negative", "topics": {"1": "0.22324516", "2": "0.12381601", "4": "0.24946783", "5": "0.1841598", "6": "0.20017835"}}

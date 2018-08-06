@@ -1,0 +1,1 @@
+{"text": "I take great pride in the way I keep my jewelry. this cloth does a great job. It s easy to use and cleans all kinds of jewelry very well. I certainly can recommend this to all who enjoy seeing their jewelry looking it's best.", "sentiment": "negative", "topics": {"1": "0.6971894", "3": "0.1303225", "5": "0.14753014"}}

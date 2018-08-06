@@ -1,0 +1,1 @@
+{"text": "I received the boots and tried them on.  They were comfortable in the feet, but unfortunately I have very muscular calves, and was not able to zip it up all the way.", "sentiment": "negative", "topics": {"0": "0.25113487", "1": "0.18115889", "2": "0.010997723", "3": "0.363548", "4": "0.17115971", "5": "0.011002762", "6": "0.010997995"}}

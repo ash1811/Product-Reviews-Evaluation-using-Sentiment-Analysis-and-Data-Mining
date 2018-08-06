@@ -1,0 +1,1 @@
+{"text": "Liked them- all I can say is don't throw these in the dryer! They were worth the price but not very sturdy to heat.", "sentiment": "negative", "topics": {"0": "0.014320172", "1": "0.4686799", "2": "0.014358883", "3": "0.1272165", "4": "0.25449002", "5": "0.014323858", "6": "0.10661069"}}

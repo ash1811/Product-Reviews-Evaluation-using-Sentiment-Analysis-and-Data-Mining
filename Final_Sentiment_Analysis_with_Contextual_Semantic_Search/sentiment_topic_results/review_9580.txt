@@ -1,0 +1,1 @@
+{"text": "well made durable green bag. folds up small for storage and opens up big to use.  if you are wanting a traditional canvass duffel bag then this is it.", "sentiment": "negative", "topics": {"1": "0.38644552", "2": "0.32445288", "3": "0.15249743", "5": "0.11274876"}}

@@ -1,0 +1,1 @@
+{"text": "These have quickly become my favorite sun glasses.  I don't use them for fishing, just driving and yardwork.  I will definitely buy them again.", "sentiment": "negative", "topics": {"0": "0.34244314", "1": "0.11505452", "2": "0.09895147", "3": "0.21189748", "4": "0.12908453", "5": "0.01103579", "6": "0.09153312"}}

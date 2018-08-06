@@ -1,0 +1,1 @@
+{"text": "This was at a great sale price, can wear to work as well as working out doing aerobics, the leather is soft and flexible.", "sentiment": "negative", "topics": {"0": "0.0119274175", "1": "0.51196545", "2": "0.19613355", "3": "0.011933879", "4": "0.10982665", "5": "0.14630346", "6": "0.011909594"}}

@@ -1,0 +1,1 @@
+{"text": "They aren't comfortable to wear all day, but they are cute.  I don't expect them to last long but for the price they ate worth it.  They are made of plastic.", "sentiment": "negative", "topics": {"0": "0.20631327", "1": "0.1951283", "2": "0.010220003", "3": "0.010222048", "4": "0.117826365", "5": "0.45008034", "6": "0.010209671"}}

@@ -1,0 +1,1 @@
+{"text": "this is the 2nd one I ordered...ordered blue last year...soft...comfortable fit. This washes up very well and holds it's shape. May have to get another color....!!!", "sentiment": "positive", "topics": {"0": "0.14706333", "1": "0.49152005", "2": "0.22420666", "3": "0.11030123"}}

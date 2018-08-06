@@ -1,0 +1,1 @@
+{"text": "These are no-iron, comfortable, lightweight and nice looking.  What's not to like?These are the second pair I've ordered because I liked the first pair so much.", "sentiment": "negative", "topics": {"1": "0.42843676", "3": "0.13093983", "4": "0.24783152", "5": "0.16590542"}}

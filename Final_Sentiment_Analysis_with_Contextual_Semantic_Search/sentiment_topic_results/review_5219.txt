@@ -1,0 +1,1 @@
+{"text": "I had some just like this years ago and I wore them completely out.  So, I was thrilled to see them again  here on Amazon..and I purchased them...and...they fit like a dream.  I love them alot...thank you for them being here...amii", "sentiment": "positive", "topics": {"1": "0.16375725", "2": "0.15103497", "3": "0.10054171", "4": "0.20271562", "6": "0.36687213"}}

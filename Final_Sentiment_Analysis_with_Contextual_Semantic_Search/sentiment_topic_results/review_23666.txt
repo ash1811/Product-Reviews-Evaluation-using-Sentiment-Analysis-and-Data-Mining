@@ -1,0 +1,1 @@
+{"text": "The whole family dressed up for a pirate birthday party this year. This was an excellent addition to my outfit. If it's well at something I can use again.", "sentiment": "negative", "topics": {"0": "0.26121515", "1": "0.3792629", "2": "0.16095798", "4": "0.1698665"}}

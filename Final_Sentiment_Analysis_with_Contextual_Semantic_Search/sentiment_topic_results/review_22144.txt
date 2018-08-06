@@ -1,0 +1,1 @@
+{"text": "Got a pair in natural, small.  They fit my 7\"-around-palm 7\"-long hands snugly but not too tightly - perfect fit.  Seem reasonably well made.  Plan to wear them under another pair of gloves for extra warmth.", "sentiment": "negative", "topics": {"1": "0.43038255", "2": "0.16303036", "3": "0.13047849", "4": "0.2581961"}}

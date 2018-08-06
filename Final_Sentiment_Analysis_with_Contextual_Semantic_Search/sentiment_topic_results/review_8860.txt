@@ -1,0 +1,1 @@
+{"text": "I've owned many pairs of Skechers over the years.  As usual, these are true to size and very comfortable.  I've always found Skechers to be a great value for durability, price and comfort.", "sentiment": "positive", "topics": {"1": "0.2322922", "2": "0.09535943", "3": "0.44536987", "4": "0.14433965", "6": "0.06830569"}}

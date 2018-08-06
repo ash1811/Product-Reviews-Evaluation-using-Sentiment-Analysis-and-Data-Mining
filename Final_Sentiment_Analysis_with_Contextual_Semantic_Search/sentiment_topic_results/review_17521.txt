@@ -1,0 +1,1 @@
+{"text": "Its not too heavy,and it doesn't look cheap like the newer square model. Only problem is the I have a small wrist and the band is pretty stiff.", "sentiment": "positive", "topics": {"0": "0.63355243", "1": "0.010232584", "2": "0.17610767", "3": "0.010234605", "4": "0.010229408", "5": "0.01032552", "6": "0.14931777"}}

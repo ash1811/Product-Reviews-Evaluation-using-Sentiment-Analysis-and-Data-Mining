@@ -1,0 +1,1 @@
+{"text": "Very cute flipflop and extremely comfortable! Fit perfectly to size and true colors to match any outfit. Great for the summer!", "sentiment": "positive", "topics": {"0": "0.0102240015", "1": "0.5492366", "2": "0.01022353", "3": "0.25751266", "4": "0.010205276", "5": "0.15237957", "6": "0.010218399"}}

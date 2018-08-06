@@ -1,0 +1,1 @@
+{"text": "As an Amazon Prime member, I am more than satisfied with the completeness of your product lines, and 1-click purchases are a real time saver. Whe I have had to return products, the process has always gone smoothly.", "sentiment": "negative", "topics": {"1": "0.38067847", "4": "0.23791143", "5": "0.16797441", "6": "0.19195816"}}

@@ -1,0 +1,1 @@
+{"text": "these were given as a xmas gift along with the amethyst and tourqouise chip earrings. very nice as a gift for the price. recipient loved all 3.", "sentiment": "positive", "topics": {"0": "0.44886273", "1": "0.2734979", "2": "0.095115885", "3": "0.07335598", "4": "0.0900733"}}

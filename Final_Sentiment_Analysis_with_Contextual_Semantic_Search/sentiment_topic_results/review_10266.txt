@@ -1,0 +1,1 @@
+{"text": "It's big enough to cover a cake board that I wanted to use for a farm animal barn yard theme and the edges are sewn so no ravels. It does not smell like chemical. It's a nice bright red. No", "sentiment": "positive", "topics": {"0": "0.066076346", "1": "0.46986988", "2": "0.16112176", "4": "0.10733481", "6": "0.18256482"}}

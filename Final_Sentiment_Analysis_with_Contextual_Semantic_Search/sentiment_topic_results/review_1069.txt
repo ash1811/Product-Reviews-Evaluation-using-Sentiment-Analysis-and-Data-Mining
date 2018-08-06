@@ -1,0 +1,1 @@
+{"text": "I may be an &#34;in-between size&#34; these days.  So it's my fault if they seem a bit small; but the next size up is too large.  Have worn these for years; love the cut and feel and wear.  These are my favorite. Arrived on time; and packaged well.", "sentiment": "negative", "topics": {"0": "0.10493388", "1": "0.5712326", "2": "0.037628643", "6": "0.26748702"}}

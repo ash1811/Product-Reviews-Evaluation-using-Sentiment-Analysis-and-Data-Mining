@@ -1,0 +1,1 @@
+{"text": "Strain no more with tight boots to pull off! This little angel does the job with little effort! Have had it just a month, but seems to be durable!", "sentiment": "negative", "topics": {"0": "0.19963075", "1": "0.37632918", "2": "0.13443224", "3": "0.17796376", "4": "0.09118923", "5": "0.0102204075", "6": "0.010234409"}}

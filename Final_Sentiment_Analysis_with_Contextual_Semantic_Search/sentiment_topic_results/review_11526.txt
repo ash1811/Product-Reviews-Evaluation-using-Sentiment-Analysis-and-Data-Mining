@@ -1,0 +1,1 @@
+{"text": "Just what I was hoping for in a vest:  warm, attractive, well fitting, great pockets and easy to wash and dry.  Excellent customer service from the company which replaced the wrong color immediately.  Hope to get years of use from these vests.", "sentiment": "negative", "topics": {"1": "0.40532225", "2": "0.22210021", "5": "0.14944886", "6": "0.20590955"}}

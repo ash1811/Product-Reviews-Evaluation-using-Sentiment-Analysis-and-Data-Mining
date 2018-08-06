@@ -1,0 +1,1 @@
+{"text": "There were pretty in red and very summer friendly but felt too long for my 7.5 size foot.  Very light weight and easy to slide into.", "sentiment": "negative", "topics": {"1": "0.3050975", "2": "0.24505629", "4": "0.20500016", "6": "0.2161508"}}

@@ -1,0 +1,1 @@
+{"text": "leaving on vacation to vegas with my best friend and she told me to order this and i love the fact all the pockets zip closed.", "sentiment": "positive", "topics": {"0": "0.4225766", "1": "0.011062725", "2": "0.09475986", "3": "0.19973566", "4": "0.0110335415", "5": "0.112343565", "6": "0.14848806"}}

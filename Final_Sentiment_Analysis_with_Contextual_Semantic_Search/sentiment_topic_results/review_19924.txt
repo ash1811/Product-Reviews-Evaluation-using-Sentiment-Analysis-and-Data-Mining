@@ -1,0 +1,1 @@
+{"text": "This product fits well and looks nice, the only thing is that the material is very thin and gets runs easily.  You will probably only get a few wears out of it, but not bad considering the price.", "sentiment": "negative", "topics": {"1": "0.77458006", "5": "0.18767539"}}

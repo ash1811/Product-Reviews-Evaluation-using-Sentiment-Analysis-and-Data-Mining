@@ -1,0 +1,1 @@
+{"text": "I know Carhartt very well this was no different from any thing else I've bought quality materials and most of all manufactured well takes a beating while keeping me warm", "sentiment": "negative", "topics": {"1": "0.66846794", "2": "0.06772225", "3": "0.17442583", "5": "0.06412266"}}

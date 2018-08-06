@@ -1,0 +1,1 @@
+{"text": "You can't go wrong with Teva's. Comfortable and no rubbing.", "sentiment": "negative", "topics": {"0": "0.020464713", "1": "0.5371114", "2": "0.21103264", "3": "0.020448025", "4": "0.020459253", "5": "0.020470235", "6": "0.17001371"}}

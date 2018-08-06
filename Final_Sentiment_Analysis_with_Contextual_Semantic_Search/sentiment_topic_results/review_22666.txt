@@ -1,0 +1,1 @@
+{"text": "These seem to run small and the fabric isn't as soft as I was hoping for.  Fabric patterns were nice.", "sentiment": "positive", "topics": {"0": "0.013020259", "1": "0.16333617", "2": "0.013017726", "3": "0.21370038", "4": "0.013006075", "5": "0.42516318", "6": "0.1587562"}}

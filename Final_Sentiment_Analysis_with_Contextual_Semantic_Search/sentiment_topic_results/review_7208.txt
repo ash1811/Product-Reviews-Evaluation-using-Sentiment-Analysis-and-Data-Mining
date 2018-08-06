@@ -1,0 +1,1 @@
+{"text": "Just the right amount of visual tease needed. and my woman says that there comfortable to.", "sentiment": "negative", "topics": {"0": "0.13676861", "1": "0.4943579", "2": "0.0142992465", "3": "0.014300886", "4": "0.16639116", "5": "0.01430615", "6": "0.15957598"}}

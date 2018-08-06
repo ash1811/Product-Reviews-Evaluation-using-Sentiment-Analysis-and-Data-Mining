@@ -1,0 +1,1 @@
+{"text": "I bought this second pair of Dockers Oxfords for my son after he raved that the first pair was so comfortable.  They are perfect for work, where a better shoe is required to go with slacks.", "sentiment": "negative", "topics": {"1": "0.45296144", "2": "0.16368411", "5": "0.28267813", "6": "0.076776415"}}

@@ -1,0 +1,1 @@
+{"text": "I really feel comfortable wearing these pants to work but even for petite they are still long.  Obviously not as long as the regular pants but just be cautious.", "sentiment": "positive", "topics": {"0": "0.1604527", "1": "0.50068384", "3": "0.210462", "5": "0.10157056"}}

@@ -1,0 +1,1 @@
+{"text": "Have always had good luck with Hanes products but not this time. these socks are very wispy thin cheap crappy material.I'll deliver them to the salvation army in their original package.", "sentiment": "positive", "topics": {"0": "0.3775941", "1": "0.0774346", "2": "0.25237286", "3": "0.06758865", "4": "0.07728999", "5": "0.13977754"}}

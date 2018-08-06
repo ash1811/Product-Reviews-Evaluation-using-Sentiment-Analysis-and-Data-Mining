@@ -1,0 +1,1 @@
+{"text": "I love camo pants because of the heavy, durable material they're made of. I've taken a few falls on the road in these and wash them often, and you can tell they are good quality.", "sentiment": "negative", "topics": {"0": "0.04028606", "1": "0.46028504", "2": "0.074740306", "3": "0.12772095", "4": "0.23325652", "6": "0.056173243"}}

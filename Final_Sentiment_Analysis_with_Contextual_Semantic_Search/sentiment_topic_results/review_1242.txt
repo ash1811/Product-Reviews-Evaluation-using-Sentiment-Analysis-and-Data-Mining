@@ -1,0 +1,1 @@
+{"text": "The sandal looks great & with socks feels great, but the nubs hurt your bare feet.  I'm a little disappointed but I can wear them back & forth to the gym", "sentiment": "negative", "topics": {"1": "0.457101", "3": "0.14063422", "4": "0.13320594", "5": "0.07456303", "6": "0.17856103"}}

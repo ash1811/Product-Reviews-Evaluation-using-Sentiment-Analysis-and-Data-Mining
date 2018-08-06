@@ -1,0 +1,1 @@
+{"text": "i like the leather, it is soft and fitted me perfectly, it is not tiring me. the color is very good and i think the price is expected. thanks :))", "sentiment": "positive", "topics": {"0": "0.010232165", "1": "0.7251334", "2": "0.2237613", "3": "0.010212883", "4": "0.010213308", "5": "0.010222412", "6": "0.010224493"}}

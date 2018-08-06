@@ -1,0 +1,1 @@
+{"text": "These slippers were great for Grandma.  She loved the style, easy of wear and quality.  They are washable too.  Color was practical.", "sentiment": "negative", "topics": {"0": "0.07258859", "1": "0.40092608", "2": "0.011042363", "3": "0.011019343", "4": "0.2448269", "5": "0.011033238", "6": "0.24856345"}}

@@ -1,0 +1,1 @@
+{"text": "It does just what us athletes expect it to do and do it well while being comfortable.Great item at a great price.", "sentiment": "positive", "topics": {"0": "0.28925997", "1": "0.015988596", "2": "0.14831957", "3": "0.015891083", "4": "0.015907623", "5": "0.2777561", "6": "0.23687707"}}

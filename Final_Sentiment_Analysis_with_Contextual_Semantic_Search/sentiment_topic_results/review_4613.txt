@@ -1,0 +1,1 @@
+{"text": "I have shopped around for a quality, good fit carpenter jean. Most just aren't worth the money and have a terrible fit. Put the Lee Carpenters on and an immediate comfort fit. And, you can not beat the price.", "sentiment": "negative", "topics": {"1": "0.43210286", "4": "0.2904341", "5": "0.122705065", "6": "0.13431168"}}

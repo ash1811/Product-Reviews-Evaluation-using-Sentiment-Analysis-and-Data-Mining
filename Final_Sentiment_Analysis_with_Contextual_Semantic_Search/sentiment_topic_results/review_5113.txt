@@ -1,0 +1,1 @@
+{"text": "GREAT!!! Service, I got excately what I ordered and received it in 4 days!  I recommend'em and will to my friends and family as well..", "sentiment": "negative", "topics": {"0": "0.49008605", "1": "0.0110408915", "2": "0.011005535", "3": "0.011021256", "4": "0.011003362", "5": "0.4547953", "6": "0.011047643"}}

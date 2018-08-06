@@ -1,0 +1,1 @@
+{"text": "i love it its cute my daughter plays with it she feels like a little lady with it . .", "sentiment": "negative", "topics": {"0": "0.703633", "1": "0.015945366", "2": "0.015912436", "3": "0.015950372", "4": "0.21665798", "5": "0.015944025", "6": "0.0159568"}}

@@ -1,0 +1,1 @@
+{"text": "This is my second pair. Gave these to mom. FIt great true to size.  Very well made & made in USA", "sentiment": "negative", "topics": {"0": "0.12639828", "1": "0.5380334", "2": "0.011011794", "3": "0.12518622", "4": "0.17729309", "5": "0.011017727", "6": "0.011059454"}}

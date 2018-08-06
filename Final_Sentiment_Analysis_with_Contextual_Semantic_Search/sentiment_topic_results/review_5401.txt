@@ -1,0 +1,1 @@
+{"text": "Fruit of the loom makes a good product. I am happy with this in every way. I would surely buy it again.", "sentiment": "negative", "topics": {"0": "0.011010615", "1": "0.171598", "2": "0.10140606", "3": "0.15610509", "4": "0.19064848", "5": "0.35823464", "6": "0.010997132"}}

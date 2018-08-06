@@ -1,0 +1,1 @@
+{"text": "From reading reviews people said to size up but when they came in they were way,way too big.  I sent them back and ordered the correct size my son is in now and they were still about a half size too big.", "sentiment": "positive", "topics": {"0": "0.1408763", "1": "0.44397506", "2": "0.06264687", "3": "0.32989237"}}

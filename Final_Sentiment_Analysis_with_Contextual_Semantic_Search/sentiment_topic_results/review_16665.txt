@@ -1,0 +1,1 @@
+{"text": "These glasses are huge & nearly blackout glasses. If you have a large head and don't need to see where you are going this product is for you.", "sentiment": "negative", "topics": {"0": "0.011050043", "1": "0.011017236", "2": "0.15186168", "3": "0.5165189", "4": "0.08242059", "5": "0.114097595", "6": "0.11303401"}}

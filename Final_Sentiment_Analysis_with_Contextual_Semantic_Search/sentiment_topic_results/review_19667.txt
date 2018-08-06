@@ -1,0 +1,1 @@
+{"text": "Welcome addition on a freezing-cold day.NOT welcome in a 7-11 gas station or the bank though.These are better than the ones that cover your mouth:if you wear glasses(the other kind fogs 'em up) theseare just fine.", "sentiment": "positive", "topics": {"0": "0.1608691", "1": "0.05388865", "2": "0.22127612", "3": "0.24855599", "4": "0.24334691", "6": "0.06582196"}}

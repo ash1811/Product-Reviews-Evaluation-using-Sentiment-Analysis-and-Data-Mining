@@ -1,0 +1,1 @@
+{"text": "These socks did fit well, but after washing they didn't stay smooth and attracted every piece of lint, etc. I expected better for the price!", "sentiment": "negative", "topics": {"0": "0.36788166", "1": "0.39878014", "5": "0.078766786", "6": "0.12588695"}}

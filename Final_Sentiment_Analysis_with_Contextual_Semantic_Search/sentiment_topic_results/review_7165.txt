@@ -1,0 +1,1 @@
+{"text": "I bought this for my wife. This stud earring looks both pretty and high quality. My wife is very happy with it.", "sentiment": "negative", "topics": {"0": "0.43807343", "1": "0.34223154", "2": "0.17190759", "3": "0.01192945", "4": "0.011932188", "5": "0.0119310655", "6": "0.011994716"}}

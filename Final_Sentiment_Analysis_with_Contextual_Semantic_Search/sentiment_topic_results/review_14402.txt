@@ -1,0 +1,1 @@
+{"text": "What can you say about the jeans everyone knows? These are the classic Levis 501s and they fit just like I remember.", "sentiment": "positive", "topics": {"0": "0.013046575", "1": "0.20425433", "2": "0.13892083", "3": "0.013030752", "4": "0.013024566", "5": "0.013187884", "6": "0.6045351"}}

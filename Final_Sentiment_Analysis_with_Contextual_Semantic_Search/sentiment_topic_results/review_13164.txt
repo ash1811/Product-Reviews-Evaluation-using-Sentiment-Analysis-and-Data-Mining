@@ -1,0 +1,1 @@
+{"text": "Well made, worth the money.  I use them as a night shirt in the summer.  They haven't shrunk on me.", "sentiment": "positive", "topics": {"0": "0.013016407", "1": "0.7454765", "2": "0.0130160395", "3": "0.013028833", "4": "0.18936613", "5": "0.013080095", "6": "0.013015994"}}

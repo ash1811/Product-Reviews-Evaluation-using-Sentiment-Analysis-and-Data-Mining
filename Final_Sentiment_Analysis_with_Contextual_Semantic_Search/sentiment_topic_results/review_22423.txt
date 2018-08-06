@@ -1,0 +1,1 @@
+{"text": "Once she can get them on.  The left boot is a bit difficult, but time will probably straighten that out.  I took off a star for that issue, but five stars otherwise especially with regard to fit and finish.", "sentiment": "negative", "topics": {"1": "0.23998381", "2": "0.2642811", "3": "0.09358531", "4": "0.04371223", "6": "0.34475854"}}

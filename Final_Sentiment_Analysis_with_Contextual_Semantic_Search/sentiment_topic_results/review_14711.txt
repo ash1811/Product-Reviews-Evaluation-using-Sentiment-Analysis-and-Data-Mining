@@ -1,0 +1,1 @@
+{"text": "It is a nice wallet. retailed at 40$. it comes with warning sign that says it has chemicals that cause cancer in state of california... :/", "sentiment": "positive", "topics": {"0": "0.24120791", "1": "0.17389297", "2": "0.11580733", "3": "0.010224295", "4": "0.14997754", "5": "0.08828105", "6": "0.22060892"}}

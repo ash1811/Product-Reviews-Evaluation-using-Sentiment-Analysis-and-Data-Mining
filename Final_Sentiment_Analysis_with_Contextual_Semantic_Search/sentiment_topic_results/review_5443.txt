@@ -1,0 +1,1 @@
+{"text": "Not bad for the price. First wash and threads and other bits of cloth have started to unravel. Fits smaller than expected.", "sentiment": "negative", "topics": {"0": "0.011008194", "1": "0.45660555", "2": "0.09422404", "3": "0.056383636", "4": "0.19945928", "5": "0.1713171", "6": "0.011002191"}}

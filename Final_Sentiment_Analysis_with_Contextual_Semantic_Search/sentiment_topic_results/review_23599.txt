@@ -1,0 +1,1 @@
+{"text": "i give it 3 stars because they are too big for me, but they seem to be good quality underwear.", "sentiment": "negative", "topics": {"0": "0.014304", "1": "0.70360696", "2": "0.22476745", "3": "0.014359983", "4": "0.01431069", "5": "0.014310921", "6": "0.014339988"}}

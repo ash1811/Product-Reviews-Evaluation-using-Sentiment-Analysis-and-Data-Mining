@@ -1,0 +1,1 @@
+{"text": "I LOVE these flip flops! I have always had a problem with tired sore feet after walking for any length of time. Not with these! I might just have to order more colors! ;)", "sentiment": "negative", "topics": {"0": "0.39100325", "1": "0.1489318", "2": "0.14202742", "4": "0.2911635"}}

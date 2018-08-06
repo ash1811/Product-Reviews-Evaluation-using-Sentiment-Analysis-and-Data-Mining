@@ -1,0 +1,1 @@
+{"text": "Excellent value.  nice and soft and what you expect from Hanes. Washes well too, no shrinkage!! they fit great  too.", "sentiment": "negative", "topics": {"0": "0.010272241", "1": "0.44454637", "2": "0.2807664", "3": "0.010220319", "4": "0.010243054", "5": "0.23373461", "6": "0.01021704"}}

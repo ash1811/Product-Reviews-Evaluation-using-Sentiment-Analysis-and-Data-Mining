@@ -1,0 +1,1 @@
+{"text": "My 15 month old daughter received this for Christmas and she loves it.  I wish the phone buttons could be pushed or did something.  Other than that, it is a fun toy and she walks around the house carrying her handbag just like mommy.  Too cute!", "sentiment": "negative", "topics": {"1": "0.42395625", "3": "0.2683137", "4": "0.0870396", "6": "0.20411429"}}

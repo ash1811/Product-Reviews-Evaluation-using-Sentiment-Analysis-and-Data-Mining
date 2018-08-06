@@ -1,0 +1,1 @@
+{"text": "I used to wear Birks all the time, then switched to another brand of sandals.  I am happy to have a new pair!", "sentiment": "positive", "topics": {"0": "0.3843142", "1": "0.2981886", "2": "0.011917811", "3": "0.2697787", "4": "0.011928444", "5": "0.011931579", "6": "0.011940635"}}

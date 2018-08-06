@@ -1,0 +1,1 @@
+{"text": "I typically wear a medium.  I bought the large.  It fit like a SMALL.  Could be these are boys sizes, definitely not a men's thermal.  Bad sizing and cheap construction.  Not worth it in my opinion.", "sentiment": "negative", "topics": {"0": "0.18821506", "1": "0.4830447", "3": "0.22374222", "4": "0.08452508"}}

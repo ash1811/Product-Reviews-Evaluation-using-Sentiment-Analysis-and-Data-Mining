@@ -1,0 +1,1 @@
+{"text": "Classics....I love my moon boots, comfy, dose not matter what foot you put in, either works! They really are comfy and warm, I love to go out in the deep snow and play, like a kid, and these would be the best boots for it!", "sentiment": "negative", "topics": {"0": "0.09630472", "1": "0.21723785", "2": "0.10028109", "4": "0.3176037", "5": "0.25796238"}}

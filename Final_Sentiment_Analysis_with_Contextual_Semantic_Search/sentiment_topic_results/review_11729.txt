@@ -1,0 +1,1 @@
+{"text": "I've always thought that if I were on survivor, I would wear these as my footwear- they've got great traction, dry quickly and protect your feet from rocks or coral.", "sentiment": "positive", "topics": {"1": "0.27051055", "2": "0.16328299", "3": "0.27712333", "4": "0.26520368"}}

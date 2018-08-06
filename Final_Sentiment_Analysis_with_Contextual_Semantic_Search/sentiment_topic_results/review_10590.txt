@@ -1,0 +1,1 @@
+{"text": "Like the cut of the plain front but slight pleats make them a lot comfortable. I would still recommend them if my body would coperate", "sentiment": "positive", "topics": {"0": "0.34484214", "1": "0.32731616", "3": "0.14780924", "5": "0.058586273", "6": "0.103551574"}}

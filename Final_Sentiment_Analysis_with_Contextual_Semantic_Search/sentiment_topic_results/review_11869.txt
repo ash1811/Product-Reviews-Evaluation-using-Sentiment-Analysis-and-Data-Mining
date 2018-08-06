@@ -1,0 +1,1 @@
+{"text": "These were very flimsy and the clasp broke soon after I bought these.  I would not recommend them because of the clasp.", "sentiment": "positive", "topics": {"0": "0.53006285", "1": "0.014352602", "2": "0.014369631", "3": "0.014337428", "4": "0.28859243", "5": "0.014353658", "6": "0.12393139"}}

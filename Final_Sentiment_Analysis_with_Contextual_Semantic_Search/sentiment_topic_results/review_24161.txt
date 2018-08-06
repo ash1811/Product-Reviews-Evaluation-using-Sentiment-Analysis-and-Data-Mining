@@ -1,0 +1,1 @@
+{"text": "The material of this bra is so uncomfortable that I have never even desired to try it out for a real work out. Trying it on, upon arrival, was enough for me.", "sentiment": "negative", "topics": {"0": "0.28142914", "1": "0.28434166", "3": "0.33145997", "6": "0.07748833"}}

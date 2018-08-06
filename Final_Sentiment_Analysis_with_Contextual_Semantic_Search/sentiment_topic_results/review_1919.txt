@@ -1,0 +1,1 @@
+{"text": "Fit is narrow. Color (taupe) is gorgeous. I got a blister at the seam the first day I wore them to work. After that I walked around the house with them on, wearing 2 pairs of socks to stretch them a bit. It worked fine.", "sentiment": "positive", "topics": {"0": "0.13954511", "1": "0.2637798", "2": "0.1419897", "3": "0.20054011", "4": "0.059699703", "5": "0.18869057"}}

@@ -1,0 +1,1 @@
+{"text": "Same as others. should have listened to the other reviews. A Little bigger than I expected, but ok.  Big pockets for all my things. Thanks!", "sentiment": "positive", "topics": {"0": "0.01195259", "1": "0.92823625", "2": "0.011923584", "3": "0.0120369345", "4": "0.011975636", "5": "0.011926911", "6": "0.011948086"}}

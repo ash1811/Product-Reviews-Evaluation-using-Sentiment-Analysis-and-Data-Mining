@@ -1,0 +1,1 @@
+{"text": "Great fitting shirt. Maybe I don't know how to do laundry but it kinda faded after one wash. I like the pen pocket. I would recommend. I think I'm going to have them dry cleaned from here on out", "sentiment": "positive", "topics": {"0": "0.12814909", "1": "0.15022758", "2": "0.27825502", "5": "0.21572426", "6": "0.21397084"}}

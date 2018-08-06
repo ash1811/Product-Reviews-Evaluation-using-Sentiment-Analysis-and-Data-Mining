@@ -1,0 +1,1 @@
+{"text": "Tough, well built, and comfortable.  THESE PANTS FIT AS EXPECTED.  As if you wear a 38, order a 38 etc.  worth the money and will outlast your regular jeans.  Worth the investment.", "sentiment": "negative", "topics": {"1": "0.4473451", "2": "0.051001847", "5": "0.38799262", "6": "0.09214373"}}

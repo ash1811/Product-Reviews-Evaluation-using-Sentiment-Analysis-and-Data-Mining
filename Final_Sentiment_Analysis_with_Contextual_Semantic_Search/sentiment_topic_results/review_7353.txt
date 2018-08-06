@@ -1,0 +1,1 @@
+{"text": "Goo a,size up, good,heavy work pants with a million pockets! It's worth the money. Now I'm considering those Cartwright pants, any experiences?", "sentiment": "negative", "topics": {"0": "0.4444781", "1": "0.44028148", "2": "0.07939875"}}

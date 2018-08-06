@@ -1,0 +1,1 @@
+{"text": "I love the cushions for the top of your foot and your heel.  Absolute dreamy comfort.  Thorlo is my new favorite brand for all my outdoor activities.", "sentiment": "negative", "topics": {"2": "0.22057532", "3": "0.36817905", "4": "0.23053358", "6": "0.15208314"}}

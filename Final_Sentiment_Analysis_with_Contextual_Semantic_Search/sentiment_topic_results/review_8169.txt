@@ -1,0 +1,1 @@
+{"text": "I starch 'em with a crease and wear on casual business days.  I say buy 'em real long and put cuffs on 'em !!As stylish as you wish to make a LONG WEARING pair of jeans.", "sentiment": "positive", "topics": {"0": "0.12725136", "1": "0.388515", "4": "0.33112213", "6": "0.13515453"}}

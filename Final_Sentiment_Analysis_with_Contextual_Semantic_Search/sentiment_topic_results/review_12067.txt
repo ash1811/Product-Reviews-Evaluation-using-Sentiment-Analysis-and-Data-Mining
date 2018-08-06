@@ -1,0 +1,1 @@
+{"text": "There is no issue with the quality but the jeans is very tight on my thigh, waist  side is ok", "sentiment": "negative", "topics": {"0": "0.015919965", "1": "0.33883214", "2": "0.016063545", "3": "0.015882282", "4": "0.015883394", "5": "0.23394638", "6": "0.36347234"}}

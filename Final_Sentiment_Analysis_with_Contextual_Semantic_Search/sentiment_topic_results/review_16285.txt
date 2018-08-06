@@ -1,0 +1,1 @@
+{"text": "I love these L.B. Evans men's Klondike slippers.  They fit well & are well made. The soles are made of thick rubber & the interior material seems to be holding up very well!", "sentiment": "positive", "topics": {"0": "0.074057855", "1": "0.62003255", "2": "0.080892965", "4": "0.07979811", "5": "0.077703945", "6": "0.060353916"}}

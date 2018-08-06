@@ -1,0 +1,1 @@
+{"text": "I am very pleased with the quality and fit of these jeans. Perfect for everyday situations. This is what I want. Thanks to Amazon.", "sentiment": "positive", "topics": {"0": "0.013083621", "1": "0.5117824", "2": "0.0130209895", "3": "0.01302169", "4": "0.42300826", "5": "0.013082801", "6": "0.013000231"}}

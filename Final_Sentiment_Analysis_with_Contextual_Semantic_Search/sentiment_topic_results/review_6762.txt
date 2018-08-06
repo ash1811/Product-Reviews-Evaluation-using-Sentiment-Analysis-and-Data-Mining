@@ -1,0 +1,1 @@
+{"text": "For the price you cannot beat this automatic watch. The picture does not do justice. The blue is stunning. I have received several compliments whenmi wear this watch. Goes well with casual or business wear.", "sentiment": "positive", "topics": {"0": "0.13987799", "1": "0.30250245", "2": "0.2379534", "3": "0.08344587", "4": "0.09860904", "5": "0.13079889"}}

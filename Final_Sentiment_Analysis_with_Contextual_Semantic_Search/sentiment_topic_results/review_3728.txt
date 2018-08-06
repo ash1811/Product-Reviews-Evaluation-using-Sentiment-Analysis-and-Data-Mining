@@ -1,0 +1,1 @@
+{"text": "I was hesitant to buy these because I thought the price was too good to be true...the sunglasses are great so far...they seem authentic...the fit is great. The lense isnt anything special...if they last Ill be back for another color", "sentiment": "negative", "topics": {"0": "0.10354277", "1": "0.38272348", "2": "0.21595404", "3": "0.27907577"}}

@@ -1,0 +1,1 @@
+{"text": "Great sneakers...really comfortable...light on my feet and I love the color. I recommend these sneakers to anyone. Cant ever go wrong with Saucony.", "sentiment": "negative", "topics": {"1": "0.28999776", "2": "0.11453153", "4": "0.1063616", "5": "0.32355583", "6": "0.14643241"}}

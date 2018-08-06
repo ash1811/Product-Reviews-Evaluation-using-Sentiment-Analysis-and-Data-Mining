@@ -1,0 +1,1 @@
+{"text": "I think it is a good accessory to complete the Darth Vader costume. There is a good relationship between price / quality", "sentiment": "negative", "topics": {"0": "0.21145123", "1": "0.4475081", "2": "0.01190872", "3": "0.19540143", "4": "0.10990595", "5": "0.01191865", "6": "0.011905927"}}

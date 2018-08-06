@@ -1,0 +1,1 @@
+{"text": "These pumps are perfect! I got them in multi. The heel was about 2 1/2 inches and were even prettier in person.Love,Love,Love!Please make more multicolored low heeled pumps.I hate stilettos!", "sentiment": "negative", "topics": {"0": "0.28765127", "1": "0.077687375", "2": "0.36381882", "3": "0.18727514", "4": "0.06843454"}}

@@ -1,0 +1,1 @@
+{"text": "Padding is a bit heavier than my other Fantasie bras, but that is expected as it's a smoothing bra.  I like the way it looks under my fitted shirts.  Another great bra from Fantasie.", "sentiment": "positive", "topics": {"1": "0.20179568", "3": "0.28476036", "4": "0.0814195", "5": "0.16930081", "6": "0.2467932"}}

@@ -1,0 +1,1 @@
+{"text": "She loves it, and wears it all the time. Her color is purple, and the watch is purple. Great little watch.", "sentiment": "positive", "topics": {"0": "0.011948935", "1": "0.71869206", "2": "0.22161657", "3": "0.011937787", "4": "0.01195494", "5": "0.011941622", "6": "0.0119081065"}}

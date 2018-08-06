@@ -1,0 +1,1 @@
+{"text": "Nice shirt. Just a little big. Should have ordered a smaller size. Maybe they will shrink when washed.Other than that, great product, great service. I'm pleased", "sentiment": "negative", "topics": {"1": "0.5056561", "3": "0.21659304", "4": "0.15068983", "5": "0.10320465"}}

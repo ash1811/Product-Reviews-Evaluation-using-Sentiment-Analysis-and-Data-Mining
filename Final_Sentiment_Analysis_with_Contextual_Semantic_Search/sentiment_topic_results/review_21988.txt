@@ -1,0 +1,1 @@
+{"text": "These are very comfortable pants.  They fit perfectly for me, not baggy, they fit well on all parts.  Dockers seem to be the pants for me, I hope they don't cheapen them up.", "sentiment": "negative", "topics": {"1": "0.658249", "4": "0.13189307", "5": "0.17617704"}}

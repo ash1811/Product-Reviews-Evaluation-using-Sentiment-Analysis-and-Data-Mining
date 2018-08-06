@@ -1,0 +1,1 @@
+{"text": "All I prefer to where is black baseball caps with no logo, hard to find without being charged as much as a cap with a logo. A little slow to ship, but the wait was worth it.", "sentiment": "negative", "topics": {"0": "0.25939086", "3": "0.27947617", "4": "0.36835", "6": "0.07010561"}}

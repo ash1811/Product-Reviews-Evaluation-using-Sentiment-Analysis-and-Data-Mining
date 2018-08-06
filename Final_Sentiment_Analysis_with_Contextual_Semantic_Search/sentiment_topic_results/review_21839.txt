@@ -1,0 +1,1 @@
+{"text": "These boxers were cheap, which is why it should be no surprise that the fabric is thin and they shrank on first wash...", "sentiment": "negative", "topics": {"0": "0.015957076", "1": "0.35791624", "2": "0.015971662", "3": "0.015883857", "4": "0.015921926", "5": "0.25610536", "6": "0.32224387"}}

@@ -1,0 +1,1 @@
+{"text": "I work on a farm and this is a great shirt to wear under my other clothes, in layers.  The shirt is long so it tucks in great.  Keeps me very warm.", "sentiment": "negative", "topics": {"0": "0.19195339", "1": "0.756761", "2": "0.010267627", "3": "0.01028052", "4": "0.010230858", "5": "0.010245805", "6": "0.01026075"}}

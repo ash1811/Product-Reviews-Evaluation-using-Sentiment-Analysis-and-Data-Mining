@@ -1,0 +1,1 @@
+{"text": "Best briefs on the market. I have worn Jockey Pouch Briefs for many years and they last and are very comfortable and move with you. Love them.", "sentiment": "negative", "topics": {"1": "0.10317359", "2": "0.07957857", "3": "0.20639558", "4": "0.37269953", "5": "0.15747087", "6": "0.07172645"}}

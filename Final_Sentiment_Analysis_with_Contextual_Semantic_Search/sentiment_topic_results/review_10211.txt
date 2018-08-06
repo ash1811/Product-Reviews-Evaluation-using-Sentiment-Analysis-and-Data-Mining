@@ -1,0 +1,1 @@
+{"text": "I received this product 3 days after I ordered, so nice for non Amazon shipped!- Perfect condition- Thanks so much!", "sentiment": "negative", "topics": {"0": "0.010236912", "1": "0.3917205", "2": "0.010207826", "3": "0.010251952", "4": "0.069626406", "5": "0.49774677", "6": "0.010209637"}}

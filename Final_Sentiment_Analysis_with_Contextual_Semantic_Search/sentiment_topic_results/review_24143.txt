@@ -1,0 +1,1 @@
+{"text": "Band size seems true, but cup size seems small.  I do, however, like the way it fits which I'm sure would be better if I had gone up one cup size.", "sentiment": "negative", "topics": {"1": "0.095884345", "2": "0.25605533", "3": "0.6219833"}}

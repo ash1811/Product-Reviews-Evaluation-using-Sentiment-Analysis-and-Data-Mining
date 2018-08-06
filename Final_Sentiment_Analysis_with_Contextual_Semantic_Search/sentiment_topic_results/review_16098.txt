@@ -1,0 +1,1 @@
+{"text": "Great prop for our photobooth! It fits adult heads just fine and made everyone laugh. Would also be good for a halloween costume.", "sentiment": "negative", "topics": {"0": "0.09653417", "1": "0.42050558", "2": "0.11502091", "4": "0.17780247", "6": "0.17214517"}}

@@ -1,0 +1,1 @@
+{"text": "For the price. This  is a nice watch for the price under $10. I wanted a watch to wear for casual and for working in the yard, walking dogs. A watch that I would not be worried about breaking. This fits the bill.", "sentiment": "positive", "topics": {"1": "0.37967697", "2": "0.27023613", "4": "0.08240473", "5": "0.24611652"}}

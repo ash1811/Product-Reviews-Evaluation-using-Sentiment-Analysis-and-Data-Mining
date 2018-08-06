@@ -1,0 +1,1 @@
+{"text": "Its a sandal that fits perfect and seems well constructed.  They are comfortable and just tight enough where they stay on the foot well on longer walks. If you have a fat foot it may be a problem.  Regular foot you will be good to go.", "sentiment": "negative", "topics": {"1": "0.58276445", "3": "0.14173247", "4": "0.20093134", "6": "0.055898424"}}

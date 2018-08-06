@@ -1,0 +1,1 @@
+{"text": "Very nice and well made shirts! I bought several for my husband and he loves them! They wash nice and don't fade fast!", "sentiment": "negative", "topics": {"0": "0.010241619", "1": "0.5896345", "2": "0.19810642", "3": "0.010251042", "4": "0.17129965", "5": "0.010243997", "6": "0.0102228075"}}

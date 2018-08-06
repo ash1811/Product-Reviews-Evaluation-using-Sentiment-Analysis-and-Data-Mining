@@ -1,0 +1,1 @@
+{"text": "NB well designed, shoe contour is well shaped, the all black is very attractive. comfortable inside and luxury finished black.pls send another pair size 7.5.", "sentiment": "positive", "topics": {"0": "0.062810734", "1": "0.19621491", "2": "0.17767836", "3": "0.14687803", "4": "0.07881306", "5": "0.15707529", "6": "0.18052956"}}

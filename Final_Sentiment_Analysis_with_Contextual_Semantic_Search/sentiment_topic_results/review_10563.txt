@@ -1,0 +1,1 @@
+{"text": "For the price I cant beat these. Been wearing them every day for 12+ hours for almost 2 months. I used mink oil to condition them and they look great. Very comfortable, would buy again. Lets see how long they last.", "sentiment": "negative", "topics": {"0": "0.15042162", "1": "0.2775693", "2": "0.054382946", "4": "0.18934904", "5": "0.3176641"}}

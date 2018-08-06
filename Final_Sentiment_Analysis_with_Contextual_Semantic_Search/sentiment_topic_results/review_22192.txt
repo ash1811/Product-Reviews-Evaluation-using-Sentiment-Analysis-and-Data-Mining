@@ -1,0 +1,1 @@
+{"text": "The belt quality is good -so I gave it 2 stars, but the pink color is like a shiny foil ... not like the pink belt shown in the picture on Amazon. Might be nice for a costume....just not for me.", "sentiment": "negative", "topics": {"0": "0.18194214", "1": "0.30136624", "2": "0.09383832", "4": "0.060732972", "5": "0.06680563", "6": "0.28908774"}}

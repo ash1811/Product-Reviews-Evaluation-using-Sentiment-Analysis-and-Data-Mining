@@ -1,0 +1,1 @@
+{"text": "gr8 sandal, get compliments every time i wear it...i'm a Birkenstock woman and this is probably my 15th pair, i use it much more than some of the others. highly recommend.", "sentiment": "negative", "topics": {"1": "0.45623478", "2": "0.10153608", "3": "0.12000832", "4": "0.29959255"}}

@@ -1,0 +1,1 @@
+{"text": "Calvin Klien is worth ever single cent . Yes there not cheap but man do u get quality over and over and over. I love em so much, i have bought almost every color they have. I highly recommend you buy these .......", "sentiment": "negative", "topics": {"0": "0.09375165", "1": "0.358304", "2": "0.19554915", "4": "0.07408019", "5": "0.20944002", "6": "0.06312502"}}

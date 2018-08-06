@@ -1,0 +1,1 @@
+{"text": "These socks kept my feet warm during about 3 hours of skiing (and falling) Would highly recommend for winter wear.", "sentiment": "negative", "topics": {"1": "0.5626456", "2": "0.091277845", "5": "0.30779713"}}

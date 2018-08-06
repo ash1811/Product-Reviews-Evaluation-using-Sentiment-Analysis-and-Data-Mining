@@ -1,0 +1,1 @@
+{"text": "i'm a 9 medium but these run small . i had to send them back . i ended up choosing a different reef flip flop called sea shore . i did go ahead and order it a size bigger than what i ware . seems reefs run small .", "sentiment": "negative", "topics": {"0": "0.1675318", "1": "0.27097648", "2": "0.13051127", "3": "0.28344366", "6": "0.13685462"}}

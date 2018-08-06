@@ -1,0 +1,1 @@
+{"text": "These are great boots.  However,They are not true to size.  I am size 13. These were cavernous on my feet.  I ordered a 12.  Too narrow.  So I ordered 12 wide.  Just right.", "sentiment": "negative", "topics": {"1": "0.25451502", "2": "0.08096061", "3": "0.30022797", "4": "0.11052273", "5": "0.15461347", "6": "0.090743326"}}

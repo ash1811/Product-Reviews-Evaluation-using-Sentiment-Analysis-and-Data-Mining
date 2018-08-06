@@ -1,0 +1,1 @@
+{"text": "I bought this for my daughter to use under dresses or bodies, and they are well done, have nice fabric and are true to size", "sentiment": "negative", "topics": {"0": "0.011930545", "1": "0.41823992", "2": "0.13639514", "3": "0.011984035", "4": "0.011945504", "5": "0.21541487", "6": "0.19409"}}

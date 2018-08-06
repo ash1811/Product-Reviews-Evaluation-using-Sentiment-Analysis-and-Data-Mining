@@ -1,0 +1,1 @@
+{"text": "As usual you can not go wrong with a Baggallini bag.  This is my second one.  It is perfect for cell phone and few other items. Love it !", "sentiment": "positive", "topics": {"0": "0.011007914", "1": "0.38387477", "2": "0.17372528", "3": "0.10600972", "4": "0.22183134", "5": "0.011014057", "6": "0.09253693"}}

@@ -1,0 +1,1 @@
+{"text": "This watch fits the bill!!  lt is for a person with small wrists and a petite person.  It is classy and sleek.  It goes from dressy to jeans.  I usually take my watches off when l get home, but this is not the case with this one.  lt is light.  LOVE it!!", "sentiment": "positive", "topics": {"1": "0.29695076", "2": "0.2079831", "5": "0.38188013", "6": "0.09724344"}}

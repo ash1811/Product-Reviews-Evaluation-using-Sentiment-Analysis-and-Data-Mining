@@ -1,0 +1,1 @@
+{"text": "I am happy with my recent purchase of the bulova men's 97b13 black tortoise shell leather strap watch. it was my first purchase of a bulova watch, and is amazed by the size and feel of my watch,", "sentiment": "negative", "topics": {"0": "0.110305615", "2": "0.42467362", "3": "0.1504", "4": "0.21348317", "5": "0.087487616"}}

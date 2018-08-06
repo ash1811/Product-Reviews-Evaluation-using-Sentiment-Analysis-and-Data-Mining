@@ -1,0 +1,1 @@
+{"text": "Soft, perfect fit.  My son has no issues with these.  I recommend these for all those picky boys who want soft undies.", "sentiment": "negative", "topics": {"0": "0.011047655", "1": "0.6574382", "2": "0.2873981", "3": "0.011006872", "4": "0.011004512", "5": "0.011110128", "6": "0.010994543"}}

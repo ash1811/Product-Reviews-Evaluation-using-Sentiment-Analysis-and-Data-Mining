@@ -1,0 +1,1 @@
+{"text": "Very comfortable leotard. It fits well and is made with good quality materials. Highly recommend it and will purchase again.", "sentiment": "negative", "topics": {"0": "0.01100727", "1": "0.751658", "2": "0.0110022165", "3": "0.09637622", "4": "0.107923895", "5": "0.01104048", "6": "0.0109919105"}}

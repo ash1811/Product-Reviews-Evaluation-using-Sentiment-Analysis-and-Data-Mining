@@ -1,0 +1,1 @@
+{"text": "I was surprised at the timekeeping of Casio.. accurate in 6mos.  The band and face looks cheaper than I expected..but for the money it is worth it.", "sentiment": "positive", "topics": {"0": "0.010267473", "1": "0.49531886", "2": "0.010238669", "3": "0.010223962", "4": "0.17388892", "5": "0.010256405", "6": "0.2898057"}}

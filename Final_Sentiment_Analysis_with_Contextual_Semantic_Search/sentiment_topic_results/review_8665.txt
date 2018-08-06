@@ -1,0 +1,1 @@
+{"text": "Small, simple, light, thin.  I love it.  I'm thinking about ordering several to last the rest of my life :-)", "sentiment": "negative", "topics": {"0": "0.010264776", "1": "0.47930336", "2": "0.11306765", "3": "0.010240159", "4": "0.23487525", "5": "0.010252766", "6": "0.14199604"}}

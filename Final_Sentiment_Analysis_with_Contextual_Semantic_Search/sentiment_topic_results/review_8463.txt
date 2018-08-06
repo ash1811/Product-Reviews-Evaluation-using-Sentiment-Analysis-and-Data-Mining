@@ -1,0 +1,1 @@
+{"text": "I agree with the person who said that they looked like regular pantyhose with holes cut out on the sides...and I have long legs. They don't look like garters at all.", "sentiment": "negative", "topics": {"0": "0.13082418", "2": "0.20607755", "3": "0.37171632", "5": "0.26607534"}}

@@ -1,0 +1,1 @@
+{"text": "These are very comfortable slippers, but had to get larger size (11-12) as they did not have my size 10 1/2. These are a little loose but still comfortable.", "sentiment": "negative", "topics": {"0": "0.010223044", "1": "0.23622458", "2": "0.010224855", "3": "0.44746068", "4": "0.16261356", "5": "0.0102276215", "6": "0.12302564"}}

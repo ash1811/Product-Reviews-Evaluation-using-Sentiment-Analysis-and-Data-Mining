@@ -1,0 +1,1 @@
+{"text": "This is a very light, basic shoe. Seems to run long. There is not a lot of arch support in this shoe.", "sentiment": "negative", "topics": {"0": "0.01307858", "1": "0.013101723", "2": "0.38798472", "3": "0.4331641", "4": "0.013001349", "5": "0.013034784", "6": "0.12663478"}}

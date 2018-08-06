@@ -1,0 +1,1 @@
+{"text": "My kindergartener loves this watch and so do I!  She is quickly learning to read the watch do to the way the face is set up for learning. The wrist strap is soft and stretchy and easily adjustable. She loves the glow option.", "sentiment": "positive", "topics": {"0": "0.085224815", "1": "0.20417835", "2": "0.32301164", "3": "0.07618785", "4": "0.29834476"}}

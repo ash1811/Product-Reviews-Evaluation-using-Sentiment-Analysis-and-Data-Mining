@@ -1,0 +1,1 @@
+{"text": "OK, when i took it out of the box I DID laugh.  this bra looked cartoonish.  I almost put it right back in the box to return.  But then I tried it on...and it fits great, and looks great!", "sentiment": "negative", "topics": {"1": "0.64407814", "2": "0.17054045", "3": "0.08208419", "6": "0.08179962"}}

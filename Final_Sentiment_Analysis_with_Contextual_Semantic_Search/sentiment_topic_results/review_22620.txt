@@ -1,0 +1,1 @@
+{"text": "Well made, good material liked the opti, good fit,,,strong seams....would not hesitate to recommend....like the option of  several; colors.Overall just fine.", "sentiment": "negative", "topics": {"0": "0.093968645", "1": "0.65470725", "2": "0.079184465", "3": "0.08524493", "5": "0.06900717"}}

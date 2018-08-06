@@ -1,0 +1,1 @@
+{"text": "It seems like a lot of the ballet flats have wide heels.  These solve the problem.  Foot Petals are a little more expensive but the quality is so much better then other brands.  They stay put, no more slipping.", "sentiment": "positive", "topics": {"0": "0.08203469", "1": "0.3930444", "2": "0.105478026", "3": "0.21860336", "5": "0.11359375", "6": "0.080379546"}}

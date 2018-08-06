@@ -1,0 +1,1 @@
+{"text": "Always have been a fan of &#34;large faced&#34; watches.  Classic look.  Could have been a little less in price but I can live with it (LOL)  Love the date feature on it as well.", "sentiment": "negative", "topics": {"0": "0.11311039", "1": "0.26526406", "2": "0.17732914", "4": "0.15235427", "5": "0.18505895", "6": "0.09893144"}}

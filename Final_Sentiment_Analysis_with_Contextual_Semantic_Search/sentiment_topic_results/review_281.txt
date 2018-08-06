@@ -1,0 +1,1 @@
+{"text": "I have owned Bali skimp skamp panties for years because they fit nice and with proper care last a long time.The Apple Blossom color is nice, I love it.", "sentiment": "negative", "topics": {"1": "0.579455", "2": "0.26487002", "4": "0.12700689"}}

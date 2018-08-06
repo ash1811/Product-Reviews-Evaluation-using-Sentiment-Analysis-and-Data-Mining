@@ -1,0 +1,1 @@
+{"text": "These glasses are nice besides the lenses could have been made darker.  I like how they fit.  They are quite hard to break in but they are light and do not cut into your skin around you ears.", "sentiment": "negative", "topics": {"0": "0.27751637", "1": "0.44161212", "2": "0.09366295", "3": "0.081029564", "6": "0.09027992"}}

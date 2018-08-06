@@ -1,0 +1,1 @@
+{"text": "the undershirt is made well. stitching and the material is good quality, but uncomfortable to wear. Personally I like the Duluth trading company buck naked underwear the best.", "sentiment": "positive", "topics": {"0": "0.15180565", "1": "0.60602736", "2": "0.2120197"}}

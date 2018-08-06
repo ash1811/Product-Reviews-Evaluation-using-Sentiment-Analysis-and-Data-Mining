@@ -1,0 +1,1 @@
+{"text": "nice shape to start but shrinks fast after washes. no longer tucks in and rides up over belt. only used warm cycles and never put into dryer, only hung out to dry.", "sentiment": "negative", "topics": {"1": "0.71709615", "2": "0.16187744", "6": "0.09077475"}}

@@ -1,0 +1,1 @@
+{"text": "Normally I've always liked all my reef sandals,  but these were just too small and rubbed wrong in places that normal sandals didn't rub me.  I sent them back and got a different style and they fit better.", "sentiment": "negative", "topics": {"0": "0.19150828", "1": "0.6132063", "2": "0.07461475", "3": "0.10112972"}}

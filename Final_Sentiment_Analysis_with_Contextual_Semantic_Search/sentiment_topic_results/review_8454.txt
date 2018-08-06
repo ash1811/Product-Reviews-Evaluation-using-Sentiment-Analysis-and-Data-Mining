@@ -1,0 +1,1 @@
+{"text": "My wife wears them and they fit. They just make her look young. She has voiced no complaints with them. I am sure I will buy another colour when the time comes. YOu just have to be careful how you match these with your clothing!", "sentiment": "negative", "topics": {"0": "0.08486555", "1": "0.52221256", "2": "0.07271363", "3": "0.21998933", "6": "0.0851578"}}

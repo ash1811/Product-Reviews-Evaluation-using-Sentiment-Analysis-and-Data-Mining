@@ -1,0 +1,1 @@
+{"text": "Our granddaughters are all very girlie, so when the youngest one received this for Christmas, they all wanted it!  Great color and fit for a 2 year old as well as her aunt who is 30!  I would recommend this tutu for all little girls.", "sentiment": "positive", "topics": {"0": "0.26397875", "1": "0.23591857", "2": "0.30528897", "3": "0.10568397", "4": "0.0766473"}}

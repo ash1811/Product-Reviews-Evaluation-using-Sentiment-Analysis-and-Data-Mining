@@ -1,0 +1,1 @@
+{"text": "Very nice. Holds many rings. Arrived fairly fast. Excellent for men or women rings. Nice price. Grab on for a gift", "sentiment": "positive", "topics": {"0": "0.27648523", "1": "0.4650709", "2": "0.10817414", "3": "0.077372156", "4": "0.05503258"}}

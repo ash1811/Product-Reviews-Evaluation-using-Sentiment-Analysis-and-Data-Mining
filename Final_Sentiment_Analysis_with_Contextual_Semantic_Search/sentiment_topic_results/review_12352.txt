@@ -1,0 +1,1 @@
+{"text": "Arrived fast. Very thin, very cheap, itchy, and too small. Looks like it could fit a kids head better. I would have paid a little more for a better quality beanie.", "sentiment": "negative", "topics": {"0": "0.13971882", "1": "0.51511776", "2": "0.23115563", "5": "0.09252062"}}

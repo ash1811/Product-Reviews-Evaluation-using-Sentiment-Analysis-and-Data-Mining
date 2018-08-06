@@ -1,0 +1,1 @@
+{"text": "every pair of heels I own (too many) has these cushions. A must have for ppl with thin heels! :)", "sentiment": "negative", "topics": {"0": "0.013048425", "1": "0.013041142", "2": "0.26188523", "3": "0.46190003", "4": "0.22405662", "5": "0.013057397", "6": "0.013011212"}}

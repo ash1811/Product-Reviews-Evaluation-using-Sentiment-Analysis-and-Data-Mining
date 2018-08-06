@@ -1,0 +1,1 @@
+{"text": "she loves the materials theyre made with.and they fit her exactly.she kind of wishes they would of been a little bigger.but from what i heard, they stretch out.so in a few, shes gonna love them even more", "sentiment": "negative", "topics": {"0": "0.2600806", "1": "0.24890578", "2": "0.23553835", "4": "0.23503096"}}

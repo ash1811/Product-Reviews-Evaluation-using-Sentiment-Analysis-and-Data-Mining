@@ -1,0 +1,1 @@
+{"text": "I bought them because I'm hooked on Pilates and one needs toe structure, the are fabulous and keep ones toes hooked on bars as well as the gel keeps me stable on equipment - could not do Pilates without them.", "sentiment": "negative", "topics": {"0": "0.10280789", "1": "0.24137157", "2": "0.36549386", "4": "0.092501014", "5": "0.08194903", "6": "0.1098946"}}

@@ -1,0 +1,1 @@
+{"text": "Very difficult to buy pants without seeing them, these had very wide bottoms, like boot cuts...Sorry I had to return them.", "sentiment": "negative", "topics": {"0": "0.12898156", "1": "0.27132335", "2": "0.24273768", "3": "0.010242702", "4": "0.05420162", "5": "0.09173043", "6": "0.20078261"}}

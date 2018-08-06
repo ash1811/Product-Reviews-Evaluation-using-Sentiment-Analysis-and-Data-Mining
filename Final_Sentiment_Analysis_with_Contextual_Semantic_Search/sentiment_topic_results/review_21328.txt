@@ -1,0 +1,1 @@
+{"text": "I have searched for this shirt to replace one the cleaners lost.  Don't buy cheap beach shirt.  This is a quality shirt.", "sentiment": "negative", "topics": {"0": "0.01102683", "1": "0.44200537", "2": "0.27602497", "3": "0.011015693", "4": "0.011007739", "5": "0.1295542", "6": "0.1193652"}}

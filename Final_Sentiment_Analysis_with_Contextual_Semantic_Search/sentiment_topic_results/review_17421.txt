@@ -1,0 +1,1 @@
+{"text": "REALLY COMFY !!  Yet another great deal from Amazon - I had been squashed into size ten for YEARS - and now my pups can breathe !! The circulation feels better, too !", "sentiment": "positive", "topics": {"0": "0.1359673", "3": "0.44687983", "4": "0.19568089", "6": "0.1961778"}}

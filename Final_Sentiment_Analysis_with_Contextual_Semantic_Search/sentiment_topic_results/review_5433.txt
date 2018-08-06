@@ -1,0 +1,1 @@
+{"text": "Have a few. Comfortable, generous sizing, don't shrink, colourfast, warm, perfect to throw on after a swim, which is when I wear these.", "sentiment": "negative", "topics": {"0": "0.01104461", "1": "0.6147131", "2": "0.11039107", "3": "0.011014545", "4": "0.14866981", "5": "0.0110105565", "6": "0.09315637"}}

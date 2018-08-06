@@ -1,0 +1,1 @@
+{"text": "I have them on right now in my slippers.  They are sort of large so I got my smallest shoe size and it fit perfect.  They are soft and comfy.  I can hardly bear to take them off.  Your shoes need to be a little large to wear them with.  WONDERFUL", "sentiment": "negative", "topics": {"1": "0.4019767", "2": "0.21498744", "6": "0.35916343"}}

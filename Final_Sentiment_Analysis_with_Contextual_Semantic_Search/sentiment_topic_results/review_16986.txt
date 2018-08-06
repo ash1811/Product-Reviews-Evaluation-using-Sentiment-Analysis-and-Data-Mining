@@ -1,0 +1,1 @@
+{"text": "I bought thhis ring for my daughter, and I liked it so much that I purchased another one for myself! It is lovely!", "sentiment": "negative", "topics": {"0": "0.011940797", "1": "0.5938899", "2": "0.011952776", "3": "0.19226922", "4": "0.16607668", "5": "0.011950002", "6": "0.011920611"}}

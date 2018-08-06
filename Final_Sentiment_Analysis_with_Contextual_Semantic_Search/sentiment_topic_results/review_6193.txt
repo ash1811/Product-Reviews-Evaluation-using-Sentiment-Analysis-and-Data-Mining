@@ -1,0 +1,1 @@
+{"text": "My husband has had a hard time finding a sweatshirt that fits him and this one is a great fit.  He is short and stocky which makes most of the other brands either too snug in places or swallows him.", "sentiment": "negative", "topics": {"0": "0.2060637", "1": "0.44088465", "3": "0.122621074", "4": "0.088108234", "5": "0.072628856", "6": "0.062146086"}}

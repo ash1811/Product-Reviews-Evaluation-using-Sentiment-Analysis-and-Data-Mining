@@ -1,0 +1,1 @@
+{"text": "The quality is so-so. I would say, for fun in the dark it's fine. They do stay up without garters, that's true.", "sentiment": "negative", "topics": {"0": "0.0110233", "1": "0.5197986", "2": "0.17922379", "3": "0.011056884", "4": "0.0110370405", "5": "0.09235081", "6": "0.17550956"}}

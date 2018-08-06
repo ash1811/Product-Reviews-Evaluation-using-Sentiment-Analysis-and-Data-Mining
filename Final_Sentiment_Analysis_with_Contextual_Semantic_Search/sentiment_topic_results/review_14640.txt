@@ -1,0 +1,1 @@
+{"text": "Wear these all the time.  Thought they would hurt my toes, but not so.  Comfortable, glad I got them, and will definitely order more when mine wear out.", "sentiment": "negative", "topics": {"0": "0.21701582", "1": "0.28196612", "3": "0.37403345", "6": "0.10168852"}}

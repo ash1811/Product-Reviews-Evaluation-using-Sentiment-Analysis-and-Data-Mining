@@ -1,0 +1,1 @@
+{"text": "I have large wrists and this one was WAY too small for me !!!! It seemed like it might fit a child. I don't see how it actually fits this many people. I DO have larger wrists but not THAT big ! Seems to be sized for a VERY small person.", "sentiment": "negative", "topics": {"1": "0.24609455", "3": "0.23691635", "4": "0.2705212", "5": "0.22778022"}}

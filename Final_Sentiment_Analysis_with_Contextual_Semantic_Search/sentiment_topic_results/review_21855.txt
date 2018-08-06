@@ -1,0 +1,1 @@
+{"text": "I've had these for awhile now and I love them. They have held up great, easy to clean, so warm and comfortable. Salt will discolor them, so make sure you also purchase the cleaning kit.", "sentiment": "negative", "topics": {"1": "0.43158498", "2": "0.08703665", "3": "0.2765943", "4": "0.11021043", "6": "0.080194786"}}

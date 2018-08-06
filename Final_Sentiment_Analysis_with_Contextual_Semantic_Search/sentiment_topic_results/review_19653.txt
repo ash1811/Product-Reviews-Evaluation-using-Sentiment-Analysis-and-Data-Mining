@@ -1,0 +1,1 @@
+{"text": "These shoes were not dark brown as I thought they were going to be so I sent them back and also they scuffed up very easily. I SENT THESE SHOES BACK !!!!!", "sentiment": "negative", "topics": {"0": "0.010223205", "1": "0.57298213", "2": "0.27643517", "3": "0.010227046", "4": "0.10968324", "5": "0.010233975", "6": "0.010215284"}}

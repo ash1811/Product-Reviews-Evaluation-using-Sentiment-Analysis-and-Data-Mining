@@ -1,0 +1,1 @@
+{"text": "came fast good price works good. my son used it on his sneakers it sealed them and dry and sealed them great", "sentiment": "positive", "topics": {"0": "0.57816285", "1": "0.16579816", "2": "0.21512814", "3": "0.010217729", "4": "0.010238892", "5": "0.0102390945", "6": "0.010215146"}}

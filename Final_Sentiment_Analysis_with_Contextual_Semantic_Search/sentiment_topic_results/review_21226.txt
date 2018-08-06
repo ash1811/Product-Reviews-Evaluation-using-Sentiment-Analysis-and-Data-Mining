@@ -1,0 +1,1 @@
+{"text": "I bought these shoes for my husband and he loves these shoes!! He has a more narrow foot and these fit him perfectly to size.", "sentiment": "negative", "topics": {"0": "0.012999076", "1": "0.3585091", "2": "0.1990799", "3": "0.11792199", "4": "0.28541726", "5": "0.013020775", "6": "0.013051861"}}

@@ -1,0 +1,1 @@
+{"text": "This is an excellent product.  These sunglasses offer classic looks and good eye protection.  The vendor for these glasses (Shop CLE) shipped the product out quickly.  I am very happy with this purchase.", "sentiment": "negative", "topics": {"0": "0.295489", "1": "0.011383212", "2": "0.2559715", "4": "0.08519112", "5": "0.2793431", "6": "0.06509665"}}

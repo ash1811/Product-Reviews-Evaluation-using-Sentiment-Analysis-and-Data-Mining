@@ -1,0 +1,1 @@
+{"text": "Delicate dainty look that give these shoes a dressy look that can go from office to evening.  Comfortable as well.  Given as a gift and the recipient was thrilled with them!", "sentiment": "negative", "topics": {"0": "0.3031221", "1": "0.17543441", "2": "0.08358706", "3": "0.23713496", "4": "0.12853141", "6": "0.064226136"}}

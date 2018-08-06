@@ -1,0 +1,1 @@
+{"text": "If you are not playing sports why wear sneakers.  These Merrell's are great  comfort and look good too. No breaking in even . Wear well, and clean up well too.", "sentiment": "negative", "topics": {"1": "0.30545232", "2": "0.2080329", "3": "0.06314754", "4": "0.066826545", "5": "0.34058845"}}

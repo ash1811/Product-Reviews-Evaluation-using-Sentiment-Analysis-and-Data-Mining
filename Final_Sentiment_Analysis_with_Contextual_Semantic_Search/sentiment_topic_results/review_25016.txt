@@ -1,0 +1,1 @@
+{"text": "Not comfortable.  Feels like walking on concrete.  The arch support is solid but the rest of the insert is not comfortable.", "sentiment": "negative", "topics": {"0": "0.0119442055", "1": "0.22176294", "2": "0.11424232", "3": "0.25053963", "4": "0.1556374", "5": "0.23387559", "6": "0.0119978925"}}

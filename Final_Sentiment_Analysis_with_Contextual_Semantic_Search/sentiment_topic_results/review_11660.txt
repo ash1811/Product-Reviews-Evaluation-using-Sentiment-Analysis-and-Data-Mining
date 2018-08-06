@@ -1,0 +1,1 @@
+{"text": "This shirt has a knit that is too coarse for me and the fit is good except for a too short length.", "sentiment": "negative", "topics": {"0": "0.36428878", "1": "0.38022566", "2": "0.015926115", "3": "0.015889637", "4": "0.015883068", "5": "0.19185829", "6": "0.015928475"}}

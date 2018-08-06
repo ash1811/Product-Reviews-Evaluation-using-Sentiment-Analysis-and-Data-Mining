@@ -1,0 +1,1 @@
+{"text": "reloj muy elegante para cualquier ocasion lo recomiendo muy comodo y bonito . . . . . . . . .", "sentiment": "negative", "topics": {"0": "0.095931426", "1": "0.011906111", "2": "0.07859214", "3": "0.011906816", "4": "0.3527384", "5": "0.25562203", "6": "0.19330308"}}

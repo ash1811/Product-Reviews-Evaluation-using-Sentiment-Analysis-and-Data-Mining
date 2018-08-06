@@ -1,0 +1,1 @@
+{"text": "This fits well.  Is warm.  Not as thick as the other brand I bought, but still very good for the price.", "sentiment": "positive", "topics": {"0": "0.0143078165", "1": "0.76890725", "2": "0.014291227", "3": "0.15957752", "4": "0.014300587", "5": "0.014318001", "6": "0.014297594"}}

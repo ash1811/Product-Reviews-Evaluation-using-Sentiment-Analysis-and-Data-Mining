@@ -1,0 +1,1 @@
+{"text": "These are high quality shoes.  Very classy and sharp in appearance.  Comfortable.  Good price.  What more could you ask for?", "sentiment": "negative", "topics": {"0": "0.220705", "1": "0.39514124", "2": "0.21616809", "3": "0.011003592", "4": "0.01100633", "5": "0.011010946", "6": "0.1349648"}}

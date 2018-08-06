@@ -1,0 +1,1 @@
+{"text": "Went perfectly with the Jedi costume I bought for my 8 year old son. It helped to complete the costume.", "sentiment": "negative", "topics": {"0": "0.47095892", "1": "0.26529637", "2": "0.010993638", "3": "0.21974231", "4": "0.011002202", "5": "0.011013378", "6": "0.010993194"}}

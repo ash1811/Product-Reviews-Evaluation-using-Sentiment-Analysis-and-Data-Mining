@@ -1,0 +1,1 @@
+{"text": "it's a brand new watch. both the box and watch are in good condition. The steeles strap is so cool, just for summer.", "sentiment": "positive", "topics": {"0": "0.011958662", "1": "0.14410745", "2": "0.368973", "3": "0.43907356", "4": "0.0119857555", "5": "0.011980031", "6": "0.011921524"}}

@@ -1,0 +1,1 @@
+{"text": "was happy to find this sock because of the low cut. i prefer a low cut to minimize binding on my ankle. this sock is cushy and comfortable and will buy more. have never been disappointed in a thorlo sock. pricy but worth it.", "sentiment": "negative", "topics": {"0": "0.11740685", "1": "0.42770985", "3": "0.13147023", "5": "0.17109504", "6": "0.14034383"}}

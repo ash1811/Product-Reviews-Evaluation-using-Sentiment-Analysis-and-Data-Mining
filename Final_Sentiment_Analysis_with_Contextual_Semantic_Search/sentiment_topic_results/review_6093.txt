@@ -1,0 +1,1 @@
+{"text": "These are our favorite onesies for our boys. The cotton is really soft and they wash well. A lot thicker and softer than the Carters or Gerbers.", "sentiment": "negative", "topics": {"0": "0.010225288", "1": "0.4065535", "2": "0.010222742", "3": "0.07027693", "4": "0.010220028", "5": "0.3203958", "6": "0.17210567"}}

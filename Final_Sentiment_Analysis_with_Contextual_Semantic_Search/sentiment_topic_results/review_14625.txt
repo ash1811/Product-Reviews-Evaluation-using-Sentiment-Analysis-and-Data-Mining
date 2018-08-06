@@ -1,0 +1,1 @@
+{"text": "Good product and I love the color. It fits quite good. Levis can proviide the thing I want. Good product.", "sentiment": "negative", "topics": {"0": "0.010227545", "1": "0.56572247", "2": "0.119166695", "3": "0.010233309", "4": "0.010240372", "5": "0.19806072", "6": "0.0863489"}}

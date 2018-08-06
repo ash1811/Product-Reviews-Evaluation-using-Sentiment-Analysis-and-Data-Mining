@@ -1,0 +1,1 @@
+{"text": "I love this hobo wallet.  the leather is beautiful and soft.  the compartments are large and it holds alot.  beautiful workmanship.  awesome.", "sentiment": "positive", "topics": {"0": "0.010252143", "1": "0.010250263", "2": "0.2338659", "3": "0.3271862", "4": "0.01025829", "5": "0.3979458", "6": "0.0102414265"}}

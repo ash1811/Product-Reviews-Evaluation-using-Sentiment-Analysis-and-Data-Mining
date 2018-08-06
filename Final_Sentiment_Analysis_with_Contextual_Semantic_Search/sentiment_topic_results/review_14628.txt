@@ -1,0 +1,1 @@
+{"text": "These sandals are very comfortable and provide great foot support!  My first Birkenstocks, and I am now a believer.  I know I will be buying more Birkenstocks in the future!", "sentiment": "negative", "topics": {"0": "0.010237959", "1": "0.40694526", "2": "0.010229473", "3": "0.010275238", "4": "0.20195194", "5": "0.35008383", "6": "0.010276337"}}

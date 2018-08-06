@@ -1,0 +1,1 @@
+{"text": "These flip-flops are comfortable and casual, and definitely worth the low price. I wanted a flop that had a little cushion, didn't rub the top of my feet, and supported my arch. These sandals delivered!", "sentiment": "negative", "topics": {"1": "0.36628583", "2": "0.08574153", "3": "0.29261237", "4": "0.15174794", "6": "0.088534124"}}

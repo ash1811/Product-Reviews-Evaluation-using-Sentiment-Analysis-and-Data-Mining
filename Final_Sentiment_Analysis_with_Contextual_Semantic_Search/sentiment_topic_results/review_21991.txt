@@ -1,0 +1,1 @@
+{"text": "I've be able to find several useful ways to wear these.  The traditional way is great and also under boots and then I fold them over the top.  The keep my legs warm and feel great!", "sentiment": "negative", "topics": {"1": "0.10606018", "2": "0.1183794", "3": "0.5088987", "4": "0.24618076"}}

@@ -1,0 +1,1 @@
+{"text": "Although the jeans I ordered were just a little smaller than they should have been, they were strong, well-made and stylish.", "sentiment": "negative", "topics": {"0": "0.21561122", "1": "0.014359646", "2": "0.14732721", "3": "0.4442784", "4": "0.014314255", "5": "0.014350489", "6": "0.1497588"}}

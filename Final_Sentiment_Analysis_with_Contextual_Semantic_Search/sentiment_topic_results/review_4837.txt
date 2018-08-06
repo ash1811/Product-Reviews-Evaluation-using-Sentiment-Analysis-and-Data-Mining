@@ -1,0 +1,1 @@
+{"text": "These thigh highs are soooo highend. You can feel the thick quality! It hugs your leg and exposes the curves in a great way.,if your trying to turn on your hubby. This is the ticket girls!", "sentiment": "negative", "topics": {"0": "0.07856424", "1": "0.17259304", "2": "0.1262381", "4": "0.102095015", "5": "0.3069975", "6": "0.2059438"}}

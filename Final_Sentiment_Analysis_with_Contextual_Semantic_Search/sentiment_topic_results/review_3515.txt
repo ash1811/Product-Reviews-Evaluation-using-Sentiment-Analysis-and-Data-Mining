@@ -1,0 +1,1 @@
+{"text": "Way too scratchy for me. The band was scratchy , the straps scratchy, the cups alittle too big. Returned it. I wear Playtex alot so I am dissapointed.", "sentiment": "negative", "topics": {"1": "0.11150044", "2": "0.21159932", "3": "0.42119017", "6": "0.23039824"}}

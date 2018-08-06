@@ -1,0 +1,1 @@
+{"text": "I've tried these on and walked around the house in them - it's not cold enough yet to wear them but I Iove how they feel on and they don't feel as high as they look when walking in them.  Love them!", "sentiment": "positive", "topics": {"1": "0.06758068", "3": "0.49903834", "5": "0.2666603", "6": "0.14405797"}}

@@ -1,0 +1,1 @@
+{"text": "With my orthotic it was too high of a footbed even with their insole taken out.  The shoe made my foot roll to the outside when it never does that.  Took out my orthotic and put their insole back in but it is a bad shoe for me.", "sentiment": "negative", "topics": {"1": "0.22016752", "2": "0.42359054", "4": "0.24657695", "5": "0.09090438"}}

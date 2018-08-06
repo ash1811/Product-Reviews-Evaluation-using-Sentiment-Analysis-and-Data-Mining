@@ -1,0 +1,1 @@
+{"text": "always buy comfortable socks, just make sure the size is right, am replacing older socks, these wear and wear. but no dyer if you want long life, hang to dry.", "sentiment": "negative", "topics": {"1": "0.27586275", "2": "0.2768514", "3": "0.13616446", "5": "0.2896344"}}

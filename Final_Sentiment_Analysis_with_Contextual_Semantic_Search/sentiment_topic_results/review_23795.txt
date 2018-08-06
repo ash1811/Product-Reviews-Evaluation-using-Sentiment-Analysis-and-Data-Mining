@@ -1,0 +1,1 @@
+{"text": "My daughters favorite shoe. They are light weight, go with everything and are easy to clean. Best part is that they don't fall apart after a week of wearing them.", "sentiment": "negative", "topics": {"1": "0.3865945", "2": "0.19126844", "3": "0.19185723", "5": "0.20497634"}}

@@ -1,0 +1,1 @@
+{"text": "I`m happy that I got this, it`s so nice that I can wear these with no socks, they feel great, always love Skechers , much better than flip flops", "sentiment": "negative", "topics": {"1": "0.34488904", "2": "0.1964634", "3": "0.3287612", "5": "0.10596749"}}

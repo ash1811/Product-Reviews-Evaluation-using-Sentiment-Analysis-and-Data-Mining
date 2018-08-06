@@ -1,0 +1,1 @@
+{"text": "I need a second hand watch for my job and this was nice and also looks like jewelry, very pretty!", "sentiment": "positive", "topics": {"0": "0.01193424", "1": "0.5932898", "2": "0.11198354", "3": "0.011925195", "4": "0.11329999", "5": "0.01191973", "6": "0.14564754"}}

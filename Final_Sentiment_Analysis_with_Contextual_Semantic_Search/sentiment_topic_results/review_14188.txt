@@ -1,0 +1,1 @@
+{"text": "The colors are alot brighter than the picture shows and they fall right off.  I gave them to a friend", "sentiment": "negative", "topics": {"0": "0.13933884", "1": "0.35752633", "2": "0.23308343", "3": "0.013028783", "4": "0.013027169", "5": "0.23099323", "6": "0.013002257"}}

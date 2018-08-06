@@ -1,0 +1,1 @@
+{"text": "I have had many watch with many functions. They have all been compared to this one that last over 15 years and I still was not happy again until I bought another.", "sentiment": "positive", "topics": {"0": "0.01022159", "1": "0.5582606", "2": "0.104000024", "3": "0.010257666", "4": "0.2968154", "5": "0.010227753", "6": "0.010217001"}}

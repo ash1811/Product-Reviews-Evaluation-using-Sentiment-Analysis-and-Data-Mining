@@ -1,0 +1,1 @@
+{"text": "I am not going to use this item so I only gave it 4 stars for appearance, colour & style.  It looks nice & comfortable, I would wear one if someone bought me one as a gift.I changed my rating to five stars as recipient enjoys it.", "sentiment": "negative", "topics": {"0": "0.18046151", "1": "0.4517789", "2": "0.10050786", "4": "0.1568076", "6": "0.099835046"}}

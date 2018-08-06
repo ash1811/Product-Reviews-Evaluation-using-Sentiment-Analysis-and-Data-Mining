@@ -1,0 +1,1 @@
+{"text": "These are good fashionable shoes. They seems to run about a half side small. But good quality and looks. Seems like they are wel made", "sentiment": "negative", "topics": {"1": "0.4273761", "2": "0.09866812", "3": "0.36413503", "6": "0.08299935"}}

@@ -1,0 +1,1 @@
+{"text": "feels great on the feet for an 8 hour day! wears real nice!! i'll have these boots for about 2 more years dependin on the wear n torture that i may put them through!", "sentiment": "negative", "topics": {"0": "0.078574166", "1": "0.18064338", "3": "0.28567067", "4": "0.087321825", "5": "0.3541595"}}

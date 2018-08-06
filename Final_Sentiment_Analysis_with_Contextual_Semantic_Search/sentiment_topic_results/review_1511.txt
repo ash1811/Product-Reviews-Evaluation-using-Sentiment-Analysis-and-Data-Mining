@@ -1,0 +1,1 @@
+{"text": "i really like the color, over all its good all that is kinda missing is the water bottle holder. It hasn't ripped and I've had very heavy things in it.", "sentiment": "negative", "topics": {"1": "0.19670928", "2": "0.23341349", "3": "0.15926807", "5": "0.2544724", "6": "0.13704303"}}

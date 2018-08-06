@@ -1,0 +1,1 @@
+{"text": "Shoe size 7, ordered 7.5/8 size. barely fits but still comfortable enough not to warrant the trouble of sending back.", "sentiment": "negative", "topics": {"0": "0.14668413", "1": "0.24842724", "2": "0.07724878", "3": "0.27724326", "4": "0.07330693", "5": "0.16812629"}}

@@ -1,0 +1,1 @@
+{"text": "I have wide feet and wear size 6. Will walk barefooted when I can. Have not since I received these Mocs!", "sentiment": "negative", "topics": {"0": "0.42155972", "1": "0.3341341", "2": "0.011921659", "3": "0.011969059", "4": "0.012035795", "5": "0.011959736", "6": "0.1964199"}}

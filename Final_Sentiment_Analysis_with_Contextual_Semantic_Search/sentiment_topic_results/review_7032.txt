@@ -1,0 +1,1 @@
+{"text": "I ordered these pants to replace my older bdu's and they are working out well. I'm short, so I like the drawstring feature. Very roomy, so if you are on the thin side, go down a size when ordering.", "sentiment": "positive", "topics": {"0": "0.08237689", "1": "0.5388777", "3": "0.10275992", "4": "0.07152457", "6": "0.18936653"}}

@@ -1,0 +1,1 @@
+{"text": "This is a well built beanie( made in U.S.A).  Double layered so it keeps you very warm and it also looks good. Low price is a bonus.", "sentiment": "negative", "topics": {"0": "0.11128267", "1": "0.40544498", "2": "0.17403401", "3": "0.10550478", "4": "0.18584822"}}

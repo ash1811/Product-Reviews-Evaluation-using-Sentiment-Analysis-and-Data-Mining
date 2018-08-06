@@ -1,0 +1,1 @@
+{"text": "My wife loves it and wears it frequently. A good &#34;everyday&#34; piece of jewelry which also seems to be well made.", "sentiment": "negative", "topics": {"0": "0.011006317", "1": "0.6107479", "2": "0.011003766", "3": "0.011027889", "4": "0.16841668", "5": "0.011013306", "6": "0.17678419"}}

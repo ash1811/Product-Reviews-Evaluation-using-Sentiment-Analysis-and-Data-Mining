@@ -1,0 +1,1 @@
+{"text": "Keeps head warm , and is better looking than an average cap without visor . recommend if you live in a cold climate.", "sentiment": "negative", "topics": {"0": "0.010255272", "1": "0.34684354", "2": "0.010233676", "3": "0.43599606", "4": "0.010285616", "5": "0.010242405", "6": "0.17614344"}}

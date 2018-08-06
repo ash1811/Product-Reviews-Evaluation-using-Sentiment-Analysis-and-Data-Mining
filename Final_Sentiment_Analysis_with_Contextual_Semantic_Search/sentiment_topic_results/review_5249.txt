@@ -1,0 +1,1 @@
+{"text": "Nothing better than putting on these cushy slippers after walking around all day on the cruise ship. I of course have a pair at home but keep a pair in my suitcase so they stay fairly new and cushy. Oh yeah they also look great!!", "sentiment": "negative", "topics": {"1": "0.16935141", "3": "0.23647681", "4": "0.17990468", "5": "0.1577249", "6": "0.24552497"}}

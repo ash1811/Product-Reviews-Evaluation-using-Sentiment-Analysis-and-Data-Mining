@@ -1,0 +1,1 @@
+{"text": "They look nice and are comfortable. I can go to work and at the end of the day my feet are only a little sore (not the shoes fault)", "sentiment": "positive", "topics": {"0": "0.010240776", "1": "0.57360464", "2": "0.11810627", "3": "0.010233426", "4": "0.15449151", "5": "0.01024989", "6": "0.12307346"}}

@@ -1,0 +1,1 @@
+{"text": "Decent slippers, but they definitely run small in my opinion.  The bottoms are soft, but not cloth, so a little moisture on the floor won't get through to your feet.", "sentiment": "positive", "topics": {"0": "0.165114", "3": "0.32542923", "4": "0.2763461", "5": "0.12531057", "6": "0.08869492"}}

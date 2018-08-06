@@ -1,0 +1,1 @@
+{"text": "Bought for myself. Have always liked Maui's and they were on sale so, SCORE! Excellent lenses. So much nicer than cheap sunglasses. Will enjoy them for years and my eyes will appreciate them.", "sentiment": "negative", "topics": {"0": "0.17441307", "1": "0.30784798", "2": "0.35264906", "4": "0.073592775", "5": "0.07716406"}}

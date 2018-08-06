@@ -1,0 +1,1 @@
+{"text": "These boots have lots of room and are very comfortable. I advise one to go up half a size for maximum comfort", "sentiment": "positive", "topics": {"0": "0.011926019", "1": "0.21813971", "2": "0.011975061", "3": "0.17702906", "4": "0.1979024", "5": "0.14489427", "6": "0.23813348"}}

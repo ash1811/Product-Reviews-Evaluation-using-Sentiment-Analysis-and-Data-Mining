@@ -1,0 +1,1 @@
+{"text": "Very pretty. Real sterling. Bright,clean sterling silver,nice chain,nicely boxed from my seller. Great price. Would buy again!! Great for a little girl aged 14 like mine or 10-19.", "sentiment": "positive", "topics": {"0": "0.24229866", "1": "0.39363635", "2": "0.14063823", "4": "0.114261515", "5": "0.09671398"}}

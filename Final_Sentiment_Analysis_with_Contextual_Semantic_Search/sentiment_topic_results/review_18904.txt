@@ -1,0 +1,1 @@
+{"text": "The 514 is a nice fit, not too tight and not too loose. Masculine without being skinny. The problem is the denim. These jeans are damn thin, even more so than Levi's you can buy in department stores. Don't try to do any actual blue collar work in them.", "sentiment": "negative", "topics": {"1": "0.50309163", "2": "0.25943747", "5": "0.10941819", "6": "0.11083228"}}

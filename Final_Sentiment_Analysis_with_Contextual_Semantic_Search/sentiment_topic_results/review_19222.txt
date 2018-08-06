@@ -1,0 +1,1 @@
+{"text": "I have always like Mundi wallets and then one is no exception.  I like the color and will purchase this brand wallet when I need another color.", "sentiment": "positive", "topics": {"1": "0.27671814", "3": "0.09013056", "4": "0.1796621", "6": "0.42481133"}}

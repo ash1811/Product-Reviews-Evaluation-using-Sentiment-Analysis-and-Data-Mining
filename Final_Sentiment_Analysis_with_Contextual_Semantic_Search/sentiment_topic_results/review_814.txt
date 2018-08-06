@@ -1,0 +1,1 @@
+{"text": "I am glad that I read the reviews. The briefs came and the fit perfectly-very comfortable and I would purchases this style and brand again.", "sentiment": "negative", "topics": {"0": "0.010247138", "1": "0.25196543", "2": "0.010211195", "3": "0.31168658", "4": "0.39543518", "5": "0.010231688", "6": "0.010222753"}}

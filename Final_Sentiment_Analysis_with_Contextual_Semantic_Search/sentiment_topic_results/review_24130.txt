@@ -1,0 +1,1 @@
+{"text": "Got this in both D and DD, both fit nicely.  Good seperation and good coverage.", "sentiment": "positive", "topics": {"0": "0.015887268", "1": "0.44154072", "2": "0.01588136", "3": "0.30613795", "4": "0.015881501", "5": "0.015890636", "6": "0.18878059"}}

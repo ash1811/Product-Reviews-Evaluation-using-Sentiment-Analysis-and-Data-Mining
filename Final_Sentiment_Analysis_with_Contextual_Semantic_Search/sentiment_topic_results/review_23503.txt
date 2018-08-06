@@ -1,0 +1,1 @@
+{"text": "Good value, nice looking and looks great and works with or without garters. She says they fit will and feel good and nice for me to look at", "sentiment": "positive", "topics": {"1": "0.67051584", "5": "0.15892228", "6": "0.13475166"}}

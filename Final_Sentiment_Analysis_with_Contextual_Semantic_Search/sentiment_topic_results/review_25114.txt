@@ -1,0 +1,1 @@
+{"text": "These were too big and set too high on the waist.  Otherwise they were ok I guess not mubh better than that.", "sentiment": "negative", "topics": {"0": "0.013014903", "1": "0.2628125", "2": "0.013120986", "3": "0.012999826", "4": "0.19800869", "5": "0.1261524", "6": "0.37389067"}}

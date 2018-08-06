@@ -1,0 +1,1 @@
+{"text": "Good little bag, fabric feels a little light weight but it should work well for a range bag or just to carry ammo.", "sentiment": "negative", "topics": {"0": "0.30201885", "1": "0.29881668", "4": "0.096517935", "5": "0.27400616"}}

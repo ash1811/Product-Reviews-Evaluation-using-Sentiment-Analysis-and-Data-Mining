@@ -1,0 +1,1 @@
+{"text": "My husband loves his jean jacket and says it is exactly what he wanted. No frills No fuss Just right.", "sentiment": "negative", "topics": {"0": "0.10352197", "1": "0.013002134", "2": "0.13309354", "3": "0.013009611", "4": "0.46550295", "5": "0.16391273", "6": "0.10795705"}}

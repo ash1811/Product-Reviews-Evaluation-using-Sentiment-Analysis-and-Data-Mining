@@ -1,0 +1,1 @@
+{"text": "The hat and scarf come as advertised.  The scarf is a nice length and fits well.  This is a great purchase for Harry Potter fans and is very reasonable priced compared to most Harry Potter branded apparel.", "sentiment": "positive", "topics": {"0": "0.18291096", "1": "0.3047996", "2": "0.11715072", "3": "0.20315853", "5": "0.12673624", "6": "0.05871402"}}

@@ -1,0 +1,1 @@
+{"text": "well worth the money.  makes changing a watch band much easier.  and I don't have to pay a jeweler either.", "sentiment": "positive", "topics": {"0": "0.18443872", "1": "0.011057829", "2": "0.2534285", "3": "0.15576607", "4": "0.0110197915", "5": "0.2971586", "6": "0.08713052"}}

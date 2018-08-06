@@ -1,0 +1,1 @@
+{"text": "These socks are very nice and soft but they do run big and the material is very thin.  I am wondering how many washings they will last before falling apart.", "sentiment": "negative", "topics": {"0": "0.01022659", "1": "0.4162309", "2": "0.010246527", "3": "0.010337196", "4": "0.13235183", "5": "0.4103915", "6": "0.010215461"}}

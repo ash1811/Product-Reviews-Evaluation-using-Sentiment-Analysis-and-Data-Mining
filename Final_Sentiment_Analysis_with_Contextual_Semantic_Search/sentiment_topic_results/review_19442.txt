@@ -1,0 +1,1 @@
+{"text": "Very nice.  At least I think they were.  I ordered so many pairs in different brands, but I love them all. So does he!", "sentiment": "negative", "topics": {"0": "0.011031423", "1": "0.46406496", "2": "0.13248841", "3": "0.19725075", "4": "0.17307645", "5": "0.011024578", "6": "0.011063386"}}

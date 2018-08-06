@@ -1,0 +1,1 @@
+{"text": "Great basic bra.  A must for everyday, all around wear.  Very soft fabric, wears well. Looks nice under T-Shirts. Great fit.", "sentiment": "positive", "topics": {"1": "0.5479842", "3": "0.1884592", "4": "0.052841514", "5": "0.11481177", "6": "0.07906397"}}

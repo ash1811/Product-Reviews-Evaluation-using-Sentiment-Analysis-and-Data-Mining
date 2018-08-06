@@ -1,0 +1,1 @@
+{"text": "I purcahsed this jacket 4 months ago and continue to wear it while at the office because the air-conditioning is freezing me out.  I've had no problems with it at all.", "sentiment": "positive", "topics": {"1": "0.29222032", "2": "0.11963298", "3": "0.1486091", "4": "0.12427876", "6": "0.2961549"}}

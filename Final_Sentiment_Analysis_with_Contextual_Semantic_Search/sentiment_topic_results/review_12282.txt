@@ -1,0 +1,1 @@
+{"text": "This is a great gift for that special friend to say thank you for being a part of my life. Beautiful, well made.", "sentiment": "negative", "topics": {"0": "0.12617148", "1": "0.28392524", "2": "0.14006342", "3": "0.011915967", "4": "0.011921792", "5": "0.33229026", "6": "0.09371182"}}

@@ -1,0 +1,1 @@
+{"text": "Gotta be, to hold in my lard butt. Hard to find decent jeans at a good price in local stores, so I'm happy to know Amazon merchants can help the cause. I'll buy more!", "sentiment": "negative", "topics": {"0": "0.136625", "1": "0.2972304", "3": "0.29839978", "4": "0.13401738", "6": "0.121746756"}}

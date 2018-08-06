@@ -1,0 +1,1 @@
+{"text": "grand daughter lover her new watch. great for a child in the first or second grade. she loves it a lot", "sentiment": "positive", "topics": {"0": "0.15354396", "1": "0.28162965", "2": "0.24680248", "3": "0.28494522", "4": "0.01103881", "5": "0.011038289", "6": "0.0110015925"}}

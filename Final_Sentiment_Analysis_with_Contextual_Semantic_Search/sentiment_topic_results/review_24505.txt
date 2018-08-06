@@ -1,0 +1,1 @@
+{"text": "I picked the appropriate  size I'm 5'8 and not much seems to fit length wise this barely came to my thighs waste of money sent it back for a refund", "sentiment": "negative", "topics": {"0": "0.097185634", "1": "0.30048802", "3": "0.25506946", "4": "0.116967164", "6": "0.2151819"}}

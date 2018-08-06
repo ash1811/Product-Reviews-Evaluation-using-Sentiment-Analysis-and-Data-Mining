@@ -1,0 +1,1 @@
+{"text": "Just as advertised / regular dish soap works just as well.", "sentiment": "positive", "topics": {"0": "0.41764197", "1": "0.020521654", "2": "0.02050875", "3": "0.48001966", "4": "0.020415124", "5": "0.0204538", "6": "0.02043903"}}

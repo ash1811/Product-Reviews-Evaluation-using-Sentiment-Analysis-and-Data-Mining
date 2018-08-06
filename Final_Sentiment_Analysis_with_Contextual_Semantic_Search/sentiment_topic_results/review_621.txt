@@ -1,0 +1,1 @@
+{"text": "I bought the size I get in Levi's, and even though they appear baggy in the photo they were much too tight. I'll stick witht ht ebrand I know.", "sentiment": "positive", "topics": {"0": "0.059968956", "1": "0.11802491", "3": "0.36796167", "4": "0.3425149", "6": "0.09559016"}}

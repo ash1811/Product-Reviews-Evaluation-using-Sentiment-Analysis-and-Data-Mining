@@ -1,0 +1,1 @@
+{"text": "So I have pretty big feet .. and normally i wear size 11/12 shoes home here .. I guess with the cold I should have gone a size smaller .. because this size 12 was way too big for me ... i honestly wish i could refund it ... oh well", "sentiment": "negative", "topics": {"1": "0.3176306", "2": "0.07723269", "3": "0.46706975", "4": "0.12088478"}}

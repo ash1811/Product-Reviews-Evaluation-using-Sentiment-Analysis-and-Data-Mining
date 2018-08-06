@@ -1,0 +1,1 @@
+{"text": "it was very well made, sadly, I didn't wear it, it was very largeyou should check Carhartt site for the correct sizeI gave it to a friend", "sentiment": "positive", "topics": {"0": "0.0102366535", "1": "0.15547451", "2": "0.26096186", "3": "0.010220724", "4": "0.010223835", "5": "0.4686288", "6": "0.08425365"}}

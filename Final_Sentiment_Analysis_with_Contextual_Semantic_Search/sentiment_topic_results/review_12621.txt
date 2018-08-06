@@ -1,0 +1,1 @@
+{"text": "Loves these easy spirit shoes. Very comfortable and look great on. Great quality as well. Look great with jeans or any casual attire.", "sentiment": "positive", "topics": {"0": "0.19493401", "1": "0.50343066", "2": "0.07303115", "3": "0.20326987"}}

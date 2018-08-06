@@ -1,0 +1,1 @@
+{"text": "These boots are fabulous. I can stand all day in my grooming shop and have no back or foot pain.  They are very comfortable and roomy enough your toes aren't cramped.", "sentiment": "positive", "topics": {"0": "0.18806781", "1": "0.34735996", "4": "0.33878934", "6": "0.09713999"}}

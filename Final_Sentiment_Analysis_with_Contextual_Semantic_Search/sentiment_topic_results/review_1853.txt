@@ -1,0 +1,1 @@
+{"text": "My trouble with this boot is it is too tight in the foot and too  tight in the calf. Have not been  able to wear my boots and have had them a long time.", "sentiment": "positive", "topics": {"0": "0.011926618", "1": "0.28793657", "2": "0.011909798", "3": "0.20983851", "4": "0.29227862", "5": "0.17419927", "6": "0.011910607"}}

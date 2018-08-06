@@ -1,0 +1,1 @@
+{"text": "My husband tells me these socks are very comfortable and aren't too thick. He loves the cushioned sole and heel. I can attest to the fact they look great and fit his feet very well.", "sentiment": "negative", "topics": {"1": "0.3000792", "3": "0.38059315", "4": "0.22094381", "5": "0.07313553"}}

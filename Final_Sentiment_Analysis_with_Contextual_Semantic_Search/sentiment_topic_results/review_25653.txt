@@ -1,0 +1,1 @@
+{"text": "A classic and well worth the money. JFK, movie stars and now you canwear these great shades! Seriously, excellent quality and eye protection.Don't buy knock off imitations when you can have these! Good value fromseveral vendors.", "sentiment": "positive", "topics": {"0": "0.08438194", "1": "0.46642697", "2": "0.21412724", "4": "0.14630128", "5": "0.07681809"}}

@@ -1,0 +1,1 @@
+{"text": "The item was exactly as described and is great to wear under maxi dresses.  I would order in every color.", "sentiment": "negative", "topics": {"0": "0.41465357", "1": "0.43190947", "2": "0.011912395", "3": "0.011926461", "4": "0.011924875", "5": "0.011946399", "6": "0.105726846"}}

@@ -1,0 +1,1 @@
+{"text": "The shoes are very comfortable and you can wear them anywhere.  I have wide feet and they fit fine.  They didn't have my preferred color, but I like this one too.", "sentiment": "positive", "topics": {"0": "0.010231371", "1": "0.42554277", "2": "0.36909002", "3": "0.010226801", "4": "0.16444932", "5": "0.010235421", "6": "0.0102242865"}}

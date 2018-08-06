@@ -1,0 +1,1 @@
+{"text": "What else is there to say??  I love the way they look, the way they feel, the flexibility of the cuff...Yay Uggs!", "sentiment": "negative", "topics": {"0": "0.32308", "1": "0.12744464", "2": "0.1043325", "3": "0.013031477", "4": "0.24612318", "5": "0.013007153", "6": "0.17298101"}}

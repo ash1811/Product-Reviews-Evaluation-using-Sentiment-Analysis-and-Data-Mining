@@ -1,0 +1,1 @@
+{"text": "Glad I read the reviews,I recommend ordering at least one size up! They run small,good quality pant though..I'd buy again", "sentiment": "negative", "topics": {"1": "0.39500254", "3": "0.48473305", "6": "0.08439288"}}

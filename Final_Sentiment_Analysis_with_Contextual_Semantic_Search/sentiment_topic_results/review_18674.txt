@@ -1,0 +1,1 @@
+{"text": "I love these stockings.  For the price, you cannot beat it.  They also very cute on and sexy.  I got them quickly too.  Good buy!", "sentiment": "negative", "topics": {"1": "0.17123239", "2": "0.15613398", "3": "0.355381", "4": "0.28854328"}}

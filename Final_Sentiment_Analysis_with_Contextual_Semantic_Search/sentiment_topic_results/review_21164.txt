@@ -1,0 +1,1 @@
+{"text": "What a cute idea!! Awesome. I got these for my grandsons - they LOVED them!!! It's funny how you think one grandson would like a particular hero and he chose a different one! LOL - What FUN watching them play superheros! Highly recommend.", "sentiment": "negative", "topics": {"1": "0.38047165", "3": "0.2474412", "4": "0.24875563", "6": "0.10678884"}}

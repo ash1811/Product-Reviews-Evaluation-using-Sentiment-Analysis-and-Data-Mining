@@ -1,0 +1,1 @@
+{"text": "Full and well stitched.  This tutu is a beautiful purple color that looks just like the picture.  It looks just adorable on our little fairy.", "sentiment": "negative", "topics": {"0": "0.2506881", "1": "0.6040109", "3": "0.10703631"}}

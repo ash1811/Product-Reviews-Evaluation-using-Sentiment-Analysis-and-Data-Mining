@@ -1,0 +1,1 @@
+{"text": "My husband likes the feel of this tee; it's not too light or too heavy.  However, after washing, it was smaller than was comfortable.  He's 6'1\" and 180 lbs and the XL was a bit too small.", "sentiment": "negative", "topics": {"1": "0.17757867", "3": "0.20357326", "4": "0.15734988", "5": "0.08917658", "6": "0.35637492"}}

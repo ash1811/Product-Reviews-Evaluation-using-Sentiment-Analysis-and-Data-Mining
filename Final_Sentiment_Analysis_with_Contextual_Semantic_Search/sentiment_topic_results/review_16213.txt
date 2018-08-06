@@ -1,0 +1,1 @@
+{"text": "I recently used this for a week's stay in Waikiki and it turned out to be very useful.  So far it is holding up really well.  The only thing that bugs me is that when &#34;closed&#34; it seems flimsy.  Other than that, it's great!", "sentiment": "negative", "topics": {"1": "0.20018755", "3": "0.21847469", "4": "0.3665431", "6": "0.19217509"}}

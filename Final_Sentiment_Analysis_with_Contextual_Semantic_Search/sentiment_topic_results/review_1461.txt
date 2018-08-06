@@ -1,0 +1,1 @@
+{"text": "I had to return this item.  It was much smaller than I expected.  Instead of fitting a big student, it seemed perfect for a four or five year old.  Was not pleased at all with this product.", "sentiment": "negative", "topics": {"1": "0.3494562", "3": "0.25665426", "5": "0.21001665", "6": "0.16000478"}}

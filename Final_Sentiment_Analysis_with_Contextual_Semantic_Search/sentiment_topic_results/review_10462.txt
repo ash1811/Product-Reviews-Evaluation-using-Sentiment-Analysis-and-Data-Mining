@@ -1,0 +1,1 @@
+{"text": "This is the 3rd or 4th pair of UGG slipper I've purchased for either myself or a family member... the Dakota slippers are cozy and wonderful.  Love them!", "sentiment": "negative", "topics": {"0": "0.103473604", "1": "0.30039337", "3": "0.30110994", "6": "0.26976037"}}

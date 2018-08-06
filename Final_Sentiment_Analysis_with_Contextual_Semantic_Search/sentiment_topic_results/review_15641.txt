@@ -1,0 +1,1 @@
+{"text": "Just got this for my daughter for Halloween and she loves it. It comes with everything you see in the picture (which makes it so much easier). It is easy to put on and is not to short for an 8 year girl.", "sentiment": "negative", "topics": {"0": "0.20717986", "1": "0.13292906", "2": "0.09739811", "3": "0.3739626", "4": "0.17420423"}}

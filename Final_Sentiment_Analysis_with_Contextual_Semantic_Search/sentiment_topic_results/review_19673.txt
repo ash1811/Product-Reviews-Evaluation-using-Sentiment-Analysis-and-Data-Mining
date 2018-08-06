@@ -1,0 +1,1 @@
+{"text": "Same as for the neon yellow ski mask to prevent triggering of pain from trigeminal neuralgia.The holes for the masks that work are not finished tightly as they are for the royal color mask I ordered.", "sentiment": "negative", "topics": {"0": "0.21573739", "1": "0.31422707", "2": "0.4062999", "3": "0.041106116"}}

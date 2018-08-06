@@ -1,0 +1,1 @@
+{"text": "Make sure you buy the &#34;classic&#34; version (Hanes sells more than one of these, with a very similar look). The &#34;classic&#34; is much thicker and more durable, with a very cushioned foot bed.", "sentiment": "negative", "topics": {"1": "0.5756361", "2": "0.09715505", "3": "0.11183361", "4": "0.19277759"}}

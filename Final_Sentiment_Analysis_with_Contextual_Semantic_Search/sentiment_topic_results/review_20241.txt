@@ -1,0 +1,1 @@
+{"text": "I found these work well and are as well made as the other brands I have. I like the hook on the heel which makes it easier to remove these from my shoes.", "sentiment": "positive", "topics": {"0": "0.07802832", "2": "0.29602298", "3": "0.46320066", "5": "0.13409303"}}

@@ -1,0 +1,1 @@
+{"text": "Good value, and I would buy again, but I'd be even more pleased if it was made in the USA.", "sentiment": "negative", "topics": {"0": "0.013034665", "1": "0.496798", "2": "0.013035723", "3": "0.013022635", "4": "0.16393021", "5": "0.2871564", "6": "0.013022397"}}

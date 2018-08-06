@@ -1,0 +1,1 @@
+{"text": "I really like Keen, and these shoes are very comfortable.  I was pleased to find this at Amazon.  The shoes came in quickly and fits my feet exactly.  I will order again from Amazon.", "sentiment": "negative", "topics": {"0": "0.23823681", "1": "0.2013055", "2": "0.2200743", "4": "0.22584304", "6": "0.09770682"}}

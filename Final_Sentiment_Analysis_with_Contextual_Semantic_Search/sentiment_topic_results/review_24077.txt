@@ -1,0 +1,1 @@
+{"text": "Fits very comfortably. Keeps the breasts supported well. No shoulder pains. Very well constructed for comfort and a bit aesthetically pleasing.", "sentiment": "positive", "topics": {"1": "0.31010684", "2": "0.17205356", "5": "0.202387", "6": "0.28671664"}}

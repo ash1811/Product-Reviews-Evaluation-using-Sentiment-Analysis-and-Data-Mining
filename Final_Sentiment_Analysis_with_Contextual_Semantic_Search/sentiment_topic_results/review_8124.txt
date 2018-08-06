@@ -1,0 +1,1 @@
+{"text": "Very nice and comfy. Sizing is perfect. Reefs are by far my favorite flip flops because they are the best quality!", "sentiment": "negative", "topics": {"0": "0.011927929", "1": "0.71419", "2": "0.22614451", "3": "0.01194545", "4": "0.0119432295", "5": "0.011932824", "6": "0.011916113"}}

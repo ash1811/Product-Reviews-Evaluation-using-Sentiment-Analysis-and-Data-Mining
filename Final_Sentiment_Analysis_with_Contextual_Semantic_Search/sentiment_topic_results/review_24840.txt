@@ -1,0 +1,1 @@
+{"text": "These shoes are incredible. They are light and comfortable like a sandal. This is my second pair. They are wide which is perfect for my feet. Seller was quick and had them for a great price. Will recommend and return for more.", "sentiment": "negative", "topics": {"1": "0.55175525", "2": "0.1331309", "4": "0.16919716", "6": "0.12330138"}}

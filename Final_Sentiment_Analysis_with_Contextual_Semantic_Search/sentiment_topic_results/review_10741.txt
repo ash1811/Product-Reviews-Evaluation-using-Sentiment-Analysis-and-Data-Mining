@@ -1,0 +1,1 @@
+{"text": "it is cheap and it is good. it is a simple belt without special characters..So it is good, and I liked it.", "sentiment": "negative", "topics": {"0": "0.29279172", "1": "0.37869322", "2": "0.14933673", "3": "0.0129964", "4": "0.013010607", "5": "0.013002672", "6": "0.14016868"}}

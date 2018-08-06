@@ -1,0 +1,1 @@
+{"text": "Great Flop, comfy, these are great! Very Lightweight and great for travel  Only drawback is they cannot get wet, as they soak up all the water and become very squishy and take days to dry.  Other than that I love them.", "sentiment": "negative", "topics": {"0": "0.203224", "1": "0.26060656", "2": "0.081494205", "3": "0.19682677", "4": "0.2441669"}}

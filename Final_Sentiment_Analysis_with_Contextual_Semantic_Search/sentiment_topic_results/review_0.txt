@@ -1,0 +1,1 @@
+{"text": "This is a great tutu and at a really great price. It doesn't look cheap at all. I'm so glad I looked on Amazon and found such an affordable tutu that isn't made poorly. A++", "sentiment": "positive", "topics": {"1": "0.6371171", "2": "0.16015603", "4": "0.17255902"}}

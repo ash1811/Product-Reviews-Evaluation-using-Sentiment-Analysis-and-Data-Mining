@@ -1,0 +1,1 @@
+{"text": "Well symple a well made capezio, looking great, very comfortable,great red color, They have double red and black braid. I recommend it", "sentiment": "negative", "topics": {"1": "0.48775804", "2": "0.4027955", "6": "0.0736673"}}

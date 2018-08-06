@@ -1,0 +1,1 @@
+{"text": "I use boxers to sleep in so I am looking for soft material that moves with me. These boxers are perfect. You will forget that you are wearing them!", "sentiment": "negative", "topics": {"0": "0.010233435", "1": "0.38493952", "2": "0.010235918", "3": "0.18498532", "4": "0.010241352", "5": "0.10162207", "6": "0.29774234"}}

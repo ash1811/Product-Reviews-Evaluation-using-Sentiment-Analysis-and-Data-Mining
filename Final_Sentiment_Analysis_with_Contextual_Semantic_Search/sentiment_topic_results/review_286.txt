@@ -1,0 +1,1 @@
+{"text": "He likes these cargo shorts as they are comfortable and he likes this style very much. Very pleased again. Thank you once more. Thelma P.", "sentiment": "negative", "topics": {"0": "0.17222299", "1": "0.17767163", "2": "0.23607685", "3": "0.010223577", "4": "0.010238981", "5": "0.38332823", "6": "0.010237759"}}

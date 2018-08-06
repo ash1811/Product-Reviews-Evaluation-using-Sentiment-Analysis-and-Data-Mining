@@ -1,0 +1,1 @@
+{"text": "This holder - case is a little longer and narrower than I thought. Not really easy to carry in a man's pocket. The metal band that closes the opening is very strong.", "sentiment": "negative", "topics": {"0": "0.15189911", "3": "0.36316857", "4": "0.09005167", "6": "0.36954144"}}

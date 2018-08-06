@@ -1,0 +1,1 @@
+{"text": "I live in these shoes. I'm a first-time mom, and these shoes are exactly what I need to run my errands and take care of my baby. My feet always feel so cozy and nice. They look trendy, too. I want them in another color!", "sentiment": "negative", "topics": {"0": "0.36084402", "1": "0.2228358", "2": "0.14027019", "6": "0.2588113"}}

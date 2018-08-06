@@ -1,0 +1,1 @@
+{"text": "This watch is small and flimsy.  The digital is quite small, but it works.  I don't think it's a good value for the price, maybe a $6.99 quality watch.", "sentiment": "negative", "topics": {"1": "0.52577215", "2": "0.29929477", "6": "0.13912442"}}

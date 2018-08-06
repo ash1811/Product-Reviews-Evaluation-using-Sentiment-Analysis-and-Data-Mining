@@ -1,0 +1,1 @@
+{"text": "i love this bag cause i use it for myself when i sleep out. It has alot of space and compartments", "sentiment": "negative", "topics": {"0": "0.014437231", "1": "0.014341566", "2": "0.47352633", "3": "0.014370501", "4": "0.4546606", "5": "0.014346498", "6": "0.014317217"}}

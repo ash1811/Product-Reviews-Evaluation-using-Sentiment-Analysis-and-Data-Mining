@@ -1,0 +1,1 @@
+{"text": "It was amazing to deal with u the items was perfect and no damages on them but I hope to deliver it early next time", "sentiment": "negative", "topics": {"0": "0.16954462", "1": "0.011938141", "2": "0.12781666", "3": "0.13442002", "4": "0.148075", "5": "0.2539924", "6": "0.15421318"}}

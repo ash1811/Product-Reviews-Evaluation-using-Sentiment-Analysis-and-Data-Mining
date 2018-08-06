@@ -1,0 +1,1 @@
+{"text": "These are great. Solid traction, good casual yet somewhat formal look. Has become one of my go to shoes on the weekend.", "sentiment": "positive", "topics": {"2": "0.23735644", "3": "0.29074106", "4": "0.079593085", "5": "0.36357087"}}

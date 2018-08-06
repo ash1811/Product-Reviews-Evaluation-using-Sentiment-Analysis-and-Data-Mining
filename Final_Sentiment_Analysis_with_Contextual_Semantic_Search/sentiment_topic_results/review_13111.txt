@@ -1,0 +1,1 @@
+{"text": "Purse buckle fell of the first week. Its not my everyday purse. I used it for school to hold only my wallet and my car keys and it started to fall apart", "sentiment": "negative", "topics": {"0": "0.06012223", "1": "0.11401799", "2": "0.29008043", "3": "0.14542316", "4": "0.039902143", "5": "0.17562664", "6": "0.17482738"}}

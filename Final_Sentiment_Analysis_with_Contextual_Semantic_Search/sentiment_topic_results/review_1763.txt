@@ -1,0 +1,1 @@
+{"text": "holds you in pretty well, not as firm a support as i was expecting. Will give you a muffin top if you have any extra weight.", "sentiment": "positive", "topics": {"0": "0.011976451", "1": "0.4747878", "2": "0.011976032", "3": "0.46546134", "4": "0.01194051", "5": "0.011952916", "6": "0.0119050015"}}

@@ -1,0 +1,1 @@
+{"text": "This jacket arrived quickly and fits perfectly.  The sizes on the website are true sizes.  I am very pleased with this purchase.", "sentiment": "negative", "topics": {"0": "0.1259136", "1": "0.3583202", "2": "0.20024858", "3": "0.2797282", "4": "0.011919401", "5": "0.011924523", "6": "0.011945479"}}

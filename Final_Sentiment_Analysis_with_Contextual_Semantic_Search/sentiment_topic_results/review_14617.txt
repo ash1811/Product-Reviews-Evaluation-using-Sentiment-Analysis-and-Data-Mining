@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Birkenstocks and this style is very flattering and comfortable. This is an excellent shoe and the price at Amazon was wonderful. Very pleased with this purchase.", "sentiment": "negative", "topics": {"0": "0.010219887", "1": "0.42377615", "2": "0.15946259", "3": "0.010220292", "4": "0.24786364", "5": "0.13822386", "6": "0.0102335885"}}

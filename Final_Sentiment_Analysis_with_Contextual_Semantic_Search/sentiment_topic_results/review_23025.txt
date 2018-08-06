@@ -1,0 +1,1 @@
+{"text": "I like the color, and wear them often.  They do run a little large, but that's okay.  They're made of a tough material, which I like.", "sentiment": "negative", "topics": {"1": "0.5303577", "3": "0.21894926", "4": "0.09344043", "6": "0.12859626"}}

@@ -1,0 +1,1 @@
+{"text": "This product arrived on time and in good condition.  I would recommend purchasing this product to anyone who can't find a good pair in the store.", "sentiment": "negative", "topics": {"0": "0.115535565", "1": "0.34314337", "5": "0.5055127"}}

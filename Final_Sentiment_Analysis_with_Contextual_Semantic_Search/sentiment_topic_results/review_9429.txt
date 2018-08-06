@@ -1,0 +1,1 @@
+{"text": "I bought a size up, as per the other reviews, but they were still a little tight at first.  I was worried needlessly.  He's worn them now for a few days, he says they feel great!", "sentiment": "negative", "topics": {"1": "0.32151756", "3": "0.20148906", "6": "0.4451525"}}

@@ -1,0 +1,1 @@
+{"text": "My wife loves this but it is smaller than you think it is, my wife needs another one! Check the measurements. Very well made though.", "sentiment": "negative", "topics": {"1": "0.26096275", "4": "0.40973824", "5": "0.17838159", "6": "0.12222663"}}

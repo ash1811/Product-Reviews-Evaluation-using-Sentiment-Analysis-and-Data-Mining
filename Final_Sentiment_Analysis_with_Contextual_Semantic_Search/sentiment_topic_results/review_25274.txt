@@ -1,0 +1,1 @@
+{"text": "I bought these as a gift for my husband and he is in love. He is a camper and hiker and has several pairs of Merrells but these are worn all weekend! From short hikes with the dog to playing basketball with his daughters.", "sentiment": "negative", "topics": {"0": "0.44534323", "4": "0.3378469", "6": "0.18490492"}}

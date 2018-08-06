@@ -1,0 +1,1 @@
+{"text": "This is the best walking shoes I have every purchased. It fits true to size and feels light. I walked in them for three miles and I walked faster than my usual. My feet were not in pain after walking.", "sentiment": "positive", "topics": {"0": "0.12851253", "1": "0.35571128", "2": "0.19066311", "3": "0.15711376", "5": "0.15363328"}}

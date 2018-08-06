@@ -1,0 +1,1 @@
+{"text": "I purchased these slippers for my dad as a Christmas gift.  I purchased his usual size 10 M and they fit perfectly.  He has raved about their style and warmth during this extremely cold winter.", "sentiment": "negative", "topics": {"0": "0.066305004", "1": "0.4777317", "3": "0.14790498", "4": "0.076473035", "5": "0.1027948", "6": "0.12083995"}}

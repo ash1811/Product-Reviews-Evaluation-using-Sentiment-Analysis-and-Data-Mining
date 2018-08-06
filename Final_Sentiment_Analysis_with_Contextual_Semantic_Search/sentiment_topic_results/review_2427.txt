@@ -1,0 +1,1 @@
+{"text": "Great work boots!  Finding comfort, style, good protection and reasonable pricing is usually difficult, but these are absolutely perfect in every way.  My assuredly worth the cost.", "sentiment": "positive", "topics": {"0": "0.08332316", "1": "0.20258275", "2": "0.073475294", "4": "0.109744415", "5": "0.42059383", "6": "0.1031159"}}

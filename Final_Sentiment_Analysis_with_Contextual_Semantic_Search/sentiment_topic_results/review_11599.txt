@@ -1,0 +1,1 @@
+{"text": "the size as expected but the color is deferent not the same as showing on the pictureit's olive not brown , so make sure to choose the correct color .", "sentiment": "positive", "topics": {"0": "0.010207572", "1": "0.26569155", "2": "0.27238813", "3": "0.3004822", "4": "0.010272503", "5": "0.13073996", "6": "0.010218105"}}

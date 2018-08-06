@@ -1,0 +1,1 @@
+{"text": "My daughter ordered these, and they are well made and she loves them!!!  The shoes came quickly and were just as advertised, thanks!!!", "sentiment": "positive", "topics": {"0": "0.582251", "1": "0.011049912", "2": "0.36259288", "3": "0.01102844", "4": "0.011053984", "5": "0.011026101", "6": "0.010997623"}}

@@ -1,0 +1,1 @@
+{"text": "I love these.  They are so comfortable.  I was impressed as to how well these flip flops are made.  The yoga mat makes them really comfortable.  I'm going to buy more of these in lots of colors!", "sentiment": "positive", "topics": {"0": "0.20731057", "1": "0.6861971", "2": "0.07627549"}}

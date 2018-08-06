@@ -1,0 +1,1 @@
+{"text": "No problems with these pants.  They look good and fit well!  No problems with sizing, I just ordered the same size that I would have purchased in a store.", "sentiment": "negative", "topics": {"0": "0.010220958", "1": "0.7977433", "2": "0.0102201225", "3": "0.1511557", "4": "0.010209418", "5": "0.010219014", "6": "0.010231444"}}

@@ -1,0 +1,1 @@
+{"text": "This is a great watch with a large readable face. The price is reasonable, and it keeps time perfectly. I wish they would make this available with a Date Window.", "sentiment": "negative", "topics": {"0": "0.15322627", "1": "0.43105927", "2": "0.12262364", "3": "0.19376408", "6": "0.082475476"}}

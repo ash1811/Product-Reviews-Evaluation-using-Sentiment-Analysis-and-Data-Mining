@@ -1,0 +1,1 @@
+{"text": "Nice fit.  Love the colour. Comfortable.  Nice quality for the price especially with someone who is hard on shoes. Reasonably priced when bought.", "sentiment": "negative", "topics": {"0": "0.08073635", "1": "0.66256213", "2": "0.07697423", "4": "0.15291464"}}

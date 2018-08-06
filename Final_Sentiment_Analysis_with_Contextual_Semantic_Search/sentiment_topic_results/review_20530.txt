@@ -1,0 +1,1 @@
+{"text": "It works and comes with extra pins, but feels super cheap as if it will break at any moments. Though you'll have to figure out how to use it all by yourself.", "sentiment": "negative", "topics": {"0": "0.010231518", "1": "0.33668467", "2": "0.12181393", "3": "0.5005743", "4": "0.010245515", "5": "0.010218079", "6": "0.010231956"}}

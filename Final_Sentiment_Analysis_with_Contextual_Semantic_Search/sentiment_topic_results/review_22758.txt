@@ -1,0 +1,1 @@
+{"text": "My husband's work, switched to black pants.  He were a good price, good quality, and he says they are very comfortable.", "sentiment": "negative", "topics": {"0": "0.11584064", "1": "0.544108", "2": "0.011946482", "3": "0.11152894", "4": "0.1131131", "5": "0.011913908", "6": "0.09154899"}}

@@ -1,0 +1,1 @@
+{"text": "I have a terrible back. Finding quality, warm slippers, that don't require me to bend over to put on?? A god send. Comfy, warm, great soles to boot. Love them.", "sentiment": "positive", "topics": {"0": "0.085036814", "1": "0.48108515", "3": "0.068002716", "4": "0.22726221", "6": "0.12427957"}}

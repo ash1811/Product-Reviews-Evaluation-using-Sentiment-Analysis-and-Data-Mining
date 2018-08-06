@@ -1,0 +1,1 @@
+{"text": "My husband really likes the Dickies brand for scrubs. They fit well and are not too thin of a material.", "sentiment": "positive", "topics": {"0": "0.14931065", "1": "0.4353952", "2": "0.013078552", "3": "0.2596769", "4": "0.116477326", "5": "0.013014907", "6": "0.013046449"}}

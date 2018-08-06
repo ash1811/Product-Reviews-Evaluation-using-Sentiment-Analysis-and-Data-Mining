@@ -1,0 +1,1 @@
+{"text": "For how thin the lining is,  They do keep the warmth in.  It's been a season and I've got allot of use out of these.  Carhartt brand, no loose strings", "sentiment": "negative", "topics": {"0": "0.11146988", "1": "0.34909073", "2": "0.0980809", "3": "0.34123996", "5": "0.083272055"}}

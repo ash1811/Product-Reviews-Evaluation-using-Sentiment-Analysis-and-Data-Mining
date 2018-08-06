@@ -1,0 +1,1 @@
+{"text": "These are the softest socks ever!  In addition, they are WARM!  Be aware that you may need a 1/2 size larger with shoes when you wear these.", "sentiment": "positive", "topics": {"2": "0.2823121", "4": "0.09529579", "5": "0.42222765", "6": "0.17137495"}}

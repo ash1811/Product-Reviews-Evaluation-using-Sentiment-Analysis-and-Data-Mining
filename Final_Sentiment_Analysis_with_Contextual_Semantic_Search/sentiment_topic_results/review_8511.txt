@@ -1,0 +1,1 @@
+{"text": "Very comfortable with good support.  The width is a little tight but gives a snug feeling.  This makes it harder for your foot to breath and will cause perspiration faster.  It is a tennis shoe so I expect my feet to sweat some.", "sentiment": "negative", "topics": {"1": "0.3229964", "2": "0.16627803", "3": "0.26752502", "4": "0.17716457", "6": "0.053476032"}}

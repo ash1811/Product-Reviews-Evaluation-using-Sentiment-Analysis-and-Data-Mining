@@ -1,0 +1,1 @@
+{"text": "I have more than a dozen. All have held up well. I like the heavy cotton and long tails. I'll buy more from this source.", "sentiment": "negative", "topics": {"0": "0.011916778", "1": "0.29338995", "2": "0.011929355", "3": "0.26202184", "4": "0.12513168", "5": "0.15250853", "6": "0.14310186"}}

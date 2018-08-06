@@ -1,0 +1,1 @@
+{"text": "I love it but it was way too tight and i'm a size small. Also longer than expected!", "sentiment": "positive", "topics": {"0": "0.014309737", "1": "0.29270858", "2": "0.014298852", "3": "0.33146957", "4": "0.3185807", "5": "0.014302595", "6": "0.014329992"}}

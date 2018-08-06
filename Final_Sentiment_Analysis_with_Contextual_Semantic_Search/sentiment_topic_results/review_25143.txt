@@ -1,0 +1,1 @@
+{"text": "Perfect fit. Perfect feel. Very good quality. What i'm not so sure about is whether it will quickly fade or not i would have given it 5 star.", "sentiment": "negative", "topics": {"1": "0.50644207", "2": "0.23985077", "3": "0.21785967"}}

@@ -1,0 +1,1 @@
+{"text": "Comfortable. Stays put. No worries. I prefer the briefs, but these are a great second! Wait until the price is right!", "sentiment": "positive", "topics": {"0": "0.1205566", "1": "0.38322648", "2": "0.011906765", "3": "0.011916216", "4": "0.39178696", "5": "0.011925933", "6": "0.06868104"}}

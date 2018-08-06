@@ -1,0 +1,1 @@
+{"text": "Excellent bracelet. I bought one, and then two more. They look great bunched up! When you will get those, they kinds shine a lot at forst, but then as every silver product get better and better with time.", "sentiment": "negative", "topics": {"2": "0.31035525", "4": "0.13276158", "5": "0.5329961"}}

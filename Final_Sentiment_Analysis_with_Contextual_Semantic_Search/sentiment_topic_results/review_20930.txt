@@ -1,0 +1,1 @@
+{"text": "Otherwise perfectly good shoes. Comfortable, decent arch support, good for walking but cute enough to wear around town. Great price. Will not be getting these for working out again, though. oops.", "sentiment": "positive", "topics": {"1": "0.41007012", "2": "0.10991056", "3": "0.11093275", "4": "0.1691472", "5": "0.1874485"}}

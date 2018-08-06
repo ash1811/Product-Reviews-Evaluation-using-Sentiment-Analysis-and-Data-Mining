@@ -1,0 +1,1 @@
+{"text": "I travel weekly and love that I can roll this up to fit in crevices in luggage. The four clear zipper compartments make it easy to find and organize my toiletries. There is also a large zippered area on the bag for other goodies.", "sentiment": "negative", "topics": {"0": "0.06030896", "1": "0.24469429", "2": "0.22663726", "3": "0.15177192", "4": "0.3041283"}}

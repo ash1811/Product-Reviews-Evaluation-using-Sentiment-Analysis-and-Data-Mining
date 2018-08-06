@@ -1,0 +1,1 @@
+{"text": "These fit beautifully, have a very pleasant color.  I chose New Balance for comfort.  I chose Mens size for the width in the toes as I have a ducks foot.  I am very pleased with this purchase. Thank you.", "sentiment": "negative", "topics": {"1": "0.2604567", "2": "0.1356057", "3": "0.32724723", "5": "0.25515848"}}

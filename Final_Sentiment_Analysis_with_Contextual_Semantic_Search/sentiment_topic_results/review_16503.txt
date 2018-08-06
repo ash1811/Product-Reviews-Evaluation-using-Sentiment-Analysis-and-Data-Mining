@@ -1,0 +1,1 @@
+{"text": "Even though I liked the level of general quality, I returned it.  This is a huge bag.  It is too much for the kids overnight or even away trips for a few days.", "sentiment": "negative", "topics": {"1": "0.20918864", "2": "0.23305458", "3": "0.1947572", "4": "0.18955617", "5": "0.15752175"}}

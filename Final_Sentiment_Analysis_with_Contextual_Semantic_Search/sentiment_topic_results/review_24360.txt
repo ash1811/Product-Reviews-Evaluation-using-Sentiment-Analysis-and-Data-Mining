@@ -1,0 +1,1 @@
+{"text": "I have a few of these now- they are pretty warm (wool and/or fleece is probably a little warmer) and do the trick, plus they're a good price point.", "sentiment": "negative", "topics": {"0": "0.10472407", "1": "0.516617", "3": "0.100219056", "4": "0.15418106", "6": "0.10637052"}}

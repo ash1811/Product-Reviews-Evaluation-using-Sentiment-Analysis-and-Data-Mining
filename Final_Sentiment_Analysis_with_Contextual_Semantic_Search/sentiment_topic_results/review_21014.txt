@@ -1,0 +1,1 @@
+{"text": "Great for the bedroom to go with sexy outfits! I am 5'4&#34;, 134 lbs and got the A/B and they fit just fine.", "sentiment": "positive", "topics": {"0": "0.011017849", "1": "0.29591838", "2": "0.20163098", "3": "0.1609408", "4": "0.12500648", "5": "0.1944581", "6": "0.011027391"}}

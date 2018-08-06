@@ -1,0 +1,1 @@
+{"text": "for the first I wear this shoes, after walking no more than 1000m, the heel port srubbed my heel, and get my heel peeling.", "sentiment": "negative", "topics": {"0": "0.12191084", "1": "0.15070625", "2": "0.22818072", "3": "0.011054828", "4": "0.011003425", "5": "0.29609066", "6": "0.18105327"}}

@@ -1,0 +1,1 @@
+{"text": "I had been looking for the perfect ballerina jewelry box for my daughter for a while. I saw this one, and loved it! My daughter loves it as well, and she loves how it has drawers in different spots on the box!", "sentiment": "negative", "topics": {"1": "0.74322534", "2": "0.16479574", "6": "0.0632717"}}

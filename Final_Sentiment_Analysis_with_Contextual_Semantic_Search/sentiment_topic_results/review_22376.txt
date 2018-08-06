@@ -1,0 +1,1 @@
+{"text": "What else can I use for my toe shoes? These work fine, they dig into the inside webbing part of your toes after being worn for a while, but other than that they do the job, and wear is pretty decent too.", "sentiment": "negative", "topics": {"0": "0.09115218", "1": "0.38608614", "2": "0.43455434", "6": "0.06558028"}}

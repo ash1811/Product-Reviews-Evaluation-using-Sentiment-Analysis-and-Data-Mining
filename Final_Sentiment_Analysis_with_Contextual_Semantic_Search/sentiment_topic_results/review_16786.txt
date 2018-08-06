@@ -1,0 +1,1 @@
+{"text": "We have hunted for a while to find a replacement for my wife's similar watch that she has worn for years.", "sentiment": "negative", "topics": {"0": "0.01595921", "1": "0.015991598", "2": "0.45701674", "3": "0.2474742", "4": "0.016046429", "5": "0.015945671", "6": "0.23156612"}}

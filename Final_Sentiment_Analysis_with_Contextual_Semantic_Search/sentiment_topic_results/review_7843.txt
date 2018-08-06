@@ -1,0 +1,1 @@
+{"text": "Works amazingly well.  Also useful for enlarging pin pockets at ends of Italian leather watch band.  I highly recommend this tool.", "sentiment": "negative", "topics": {"1": "0.3183772", "2": "0.26401526", "4": "0.29453325", "6": "0.09780067"}}

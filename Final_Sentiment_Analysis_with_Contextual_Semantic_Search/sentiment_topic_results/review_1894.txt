@@ -1,0 +1,1 @@
+{"text": "I was really excited to get these, but unfortunately, I had to send them back. Looks like the style runs fairly large and my 7.5 pair was HUGE on me. I can't wait to get my new pair, because they look really good.", "sentiment": "negative", "topics": {"0": "0.3113217", "1": "0.22143307", "3": "0.44518125"}}

@@ -1,0 +1,1 @@
+{"text": "Fit my little one very well. Easy to put on and take off. The material was good. My only problem was that the sleeves were long.", "sentiment": "negative", "topics": {"0": "0.010225303", "1": "0.85261357", "2": "0.010254387", "3": "0.010248231", "4": "0.01026116", "5": "0.010232231", "6": "0.09616509"}}

@@ -1,0 +1,1 @@
+{"text": "These are exactly as described.  Very lightweight, which is perfect for me.  The etching gives them some depth. A nice change from regular gold hoops.", "sentiment": "negative", "topics": {"0": "0.28149453", "1": "0.21073513", "2": "0.17239049", "3": "0.30468175", "4": "0.010212138", "5": "0.010225746", "6": "0.010260178"}}

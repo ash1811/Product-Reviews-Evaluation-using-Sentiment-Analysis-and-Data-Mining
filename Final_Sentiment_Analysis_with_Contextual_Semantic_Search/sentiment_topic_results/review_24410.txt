@@ -1,0 +1,1 @@
+{"text": "I use this all winter. It does a great job keeping my head warm, and my hard hat fits over perfect.", "sentiment": "negative", "topics": {"0": "0.10965469", "1": "0.6856823", "2": "0.011917753", "3": "0.15696931", "4": "0.01194516", "5": "0.011919018", "6": "0.011911748"}}

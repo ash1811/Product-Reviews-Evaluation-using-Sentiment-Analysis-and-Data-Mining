@@ -1,0 +1,1 @@
+{"text": "I had these before and they ware great.Long lasting and a good shoe. Buy themand you will never go backto the old ones.Kay", "sentiment": "negative", "topics": {"0": "0.24311756", "1": "0.26804477", "2": "0.25117224", "3": "0.0110030025", "4": "0.20465438", "5": "0.01101573", "6": "0.010992317"}}

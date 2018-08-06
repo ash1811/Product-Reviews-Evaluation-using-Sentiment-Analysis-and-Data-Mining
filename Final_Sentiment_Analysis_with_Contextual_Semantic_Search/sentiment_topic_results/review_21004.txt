@@ -1,0 +1,1 @@
+{"text": "It can be hard to find thigh highs in stores, especially in the right size and color. These fit the bill, although I have rather wide thighs so they do cause some squeezing/bulging, which I hate. They stay up pretty well though.", "sentiment": "negative", "topics": {"0": "0.12286695", "1": "0.40402114", "4": "0.17301357", "5": "0.07897294", "6": "0.2086402"}}

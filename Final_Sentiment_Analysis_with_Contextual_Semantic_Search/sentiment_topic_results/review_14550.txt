@@ -1,0 +1,1 @@
+{"text": "He loves this glasses.  He uses them all the time and it impressed with them when he was fishing he could see very well into the water below.", "sentiment": "positive", "topics": {"0": "0.46043268", "1": "0.011960309", "2": "0.11565", "3": "0.011921621", "4": "0.3761859", "5": "0.011941657", "6": "0.011907804"}}

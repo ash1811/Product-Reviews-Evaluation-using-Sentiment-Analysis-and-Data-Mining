@@ -1,0 +1,1 @@
+{"text": "These shoes fit perfectly, although as I'm wearing them more they seem just a trifle big. Not sure if they all get like that. But the protect me feet and I love the color!", "sentiment": "negative", "topics": {"1": "0.49434784", "2": "0.16843407", "4": "0.30539677"}}

@@ -1,0 +1,1 @@
+{"text": "Glad I read these reviews so I knew to order size 11.5 for my husband's size 12 feet, the 11.5's fit perfectly!", "sentiment": "positive", "topics": {"0": "0.0903786", "1": "0.243758", "3": "0.40240633", "4": "0.23481616"}}

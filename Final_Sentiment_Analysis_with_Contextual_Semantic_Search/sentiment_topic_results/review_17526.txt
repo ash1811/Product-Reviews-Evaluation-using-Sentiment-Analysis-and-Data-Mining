@@ -1,0 +1,1 @@
+{"text": "This watch is so rugged that i will buy it twice. I wll not hesitate to buy it as a gift for any one even my young son.", "sentiment": "negative", "topics": {"0": "0.2795561", "1": "0.31824633", "2": "0.3580355", "3": "0.0109976595", "4": "0.011010135", "5": "0.011156112", "6": "0.010998179"}}

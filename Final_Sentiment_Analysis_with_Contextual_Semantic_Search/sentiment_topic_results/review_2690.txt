@@ -1,0 +1,1 @@
+{"text": "I purchased this watch for my father for father's day a couple of years ago. He loves it. Wears it all of the time. He especially likes that it is the flattest (lowest profile) watch he has ever seen.", "sentiment": "negative", "topics": {"1": "0.19284327", "2": "0.20593378", "3": "0.26005036", "4": "0.09416846", "6": "0.23334157"}}

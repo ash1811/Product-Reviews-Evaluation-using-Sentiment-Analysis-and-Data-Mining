@@ -1,0 +1,1 @@
+{"text": "Really beautiful orange color and the embroidery just a little accent on it.  Material is nice, soft with the fringe a bonus.", "sentiment": "negative", "topics": {"0": "0.3990608", "1": "0.29456034", "2": "0.09707735", "3": "0.010225092", "4": "0.010223159", "5": "0.01024349", "6": "0.1786098"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for a nightshirt and it works just fine. Quality seems to be fine, I have not had it long enough to judge how long it will last.", "sentiment": "positive", "topics": {"0": "0.01101485", "1": "0.36120856", "2": "0.41179487", "3": "0.011031479", "4": "0.011037409", "5": "0.1829128", "6": "0.011000028"}}

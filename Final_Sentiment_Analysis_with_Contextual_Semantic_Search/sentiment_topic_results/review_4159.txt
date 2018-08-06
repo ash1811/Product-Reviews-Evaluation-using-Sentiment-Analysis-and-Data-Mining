@@ -1,0 +1,1 @@
+{"text": "I like the fit of these but the quality of the material is not as nice as some of the sweats I have. Its a bit thin and also seems to really attract static cling in my location (unlike my other sweats).", "sentiment": "negative", "topics": {"1": "0.48505306", "2": "0.09108622", "4": "0.24963151", "5": "0.1515937"}}

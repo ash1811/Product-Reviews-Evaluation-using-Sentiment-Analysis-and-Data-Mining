@@ -1,0 +1,1 @@
+{"text": "We bought these for my son who will be starting swim school.  They fit well.  They are true to size.  I recommended it.", "sentiment": "negative", "topics": {"0": "0.011936727", "1": "0.50971353", "2": "0.23151232", "3": "0.12270742", "4": "0.100245334", "5": "0.011928935", "6": "0.011955764"}}

@@ -1,0 +1,1 @@
+{"text": "Very warm and a great fit.  Would recommend it to those working outdoors.  Works great with an undershirt and a flannel shirt.", "sentiment": "positive", "topics": {"0": "0.011010115", "1": "0.7540495", "2": "0.09703154", "3": "0.011011033", "4": "0.010999046", "5": "0.011008523", "6": "0.1048903"}}

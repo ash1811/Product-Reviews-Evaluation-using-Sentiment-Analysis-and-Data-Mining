@@ -1,0 +1,1 @@
+{"text": "The green shorts are a bit brighter than advertised in the photo, but otherwise, this is a great trio of shorts! I'll be gifting them to my friend who should be pleasantly surprised.", "sentiment": "negative", "topics": {"0": "0.44355687", "2": "0.06277764", "3": "0.18881254", "5": "0.08658306", "6": "0.20039168"}}

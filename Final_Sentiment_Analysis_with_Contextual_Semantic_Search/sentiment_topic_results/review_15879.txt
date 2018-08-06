@@ -1,0 +1,1 @@
+{"text": "As an Aquatic Director my arm is wet every day.  This watch is small, light, visible, loud, and won't get soggy!  Perfect!!  I hat big bulky watches.", "sentiment": "negative", "topics": {"1": "0.32344428", "2": "0.46421403", "4": "0.18214083"}}

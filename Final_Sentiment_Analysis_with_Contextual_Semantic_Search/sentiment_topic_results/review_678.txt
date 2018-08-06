@@ -1,0 +1,1 @@
+{"text": "This a well built shoe. They are very comfortable for my size 10 feet. I will have to break them in as they are snug but I don't anticipate a problem. They are a good looking shoe both dressy and casual", "sentiment": "negative", "topics": {"1": "0.24165443", "2": "0.19025782", "3": "0.113220036", "4": "0.15024789", "5": "0.095362656", "6": "0.20083755"}}

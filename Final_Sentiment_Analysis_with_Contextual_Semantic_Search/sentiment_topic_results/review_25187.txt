@@ -1,0 +1,1 @@
+{"text": "This is a short review, if you know what I mean. The same Jockey underwear you've been buying for ages. What's not to like?!", "sentiment": "negative", "topics": {"0": "0.30198956", "1": "0.013002422", "2": "0.013018177", "3": "0.0130451955", "4": "0.20769905", "5": "0.013031301", "6": "0.4382143"}}

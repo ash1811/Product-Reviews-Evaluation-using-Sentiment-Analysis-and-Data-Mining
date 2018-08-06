@@ -1,0 +1,1 @@
+{"text": "I bought the bigger size for my son who just turned 2. He's about 35 inches tall and weighs about 28 pounds, and they are a little big on him.", "sentiment": "positive", "topics": {"0": "0.21983509", "1": "0.2887238", "4": "0.14698693", "6": "0.3191572"}}

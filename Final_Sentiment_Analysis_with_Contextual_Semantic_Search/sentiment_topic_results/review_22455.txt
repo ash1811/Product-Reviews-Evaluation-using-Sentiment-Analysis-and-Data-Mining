@@ -1,0 +1,1 @@
+{"text": "The fabric is not soft, to be honest I don't like the fabric I hope in the wash does not stretch", "sentiment": "positive", "topics": {"0": "0.01593782", "1": "0.015968464", "2": "0.16458382", "3": "0.015907297", "4": "0.015902355", "5": "0.755786", "6": "0.015914265"}}

@@ -1,0 +1,1 @@
+{"text": "I love Sperry's to begin with, and at such a low price I couldn't pass up on these shoes. They're durable and go with everything you might have in your closet.", "sentiment": "negative", "topics": {"1": "0.5012296", "2": "0.23699006", "4": "0.13218984", "5": "0.10098444"}}

@@ -1,0 +1,1 @@
+{"text": "The shoe fits fine, but I need shoes with rubber soles as i am handicapped.Daniel Green Women's Meg SlipperI hope Daniel Green has a slipper that has a rubber sole. I ordered the product from Amazon.", "sentiment": "negative", "topics": {"1": "0.2821109", "2": "0.23259674", "3": "0.08703228", "4": "0.21520688", "5": "0.076666765", "6": "0.099885136"}}

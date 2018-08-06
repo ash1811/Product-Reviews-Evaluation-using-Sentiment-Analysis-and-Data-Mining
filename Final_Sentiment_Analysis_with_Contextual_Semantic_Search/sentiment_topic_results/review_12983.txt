@@ -1,0 +1,1 @@
+{"text": "I really like the pendant, great size, get compliments every time I wear it.  However I do not like the clasp on necklace, it doesn't data closed.  I had to add necklace extender to make it work", "sentiment": "positive", "topics": {"0": "0.38088736", "3": "0.11158586", "4": "0.1591984", "5": "0.15929936", "6": "0.17654197"}}

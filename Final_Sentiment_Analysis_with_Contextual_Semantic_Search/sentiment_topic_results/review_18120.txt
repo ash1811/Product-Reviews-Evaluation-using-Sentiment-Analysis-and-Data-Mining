@@ -1,0 +1,1 @@
+{"text": "I bought this for my wife as an everyday watch. The black finish of the watch looks cool & the hands contrast well with the black dial. Overall a good no nonsense basic watch.", "sentiment": "negative", "topics": {"2": "0.32369727", "3": "0.17714807", "4": "0.05357971", "5": "0.23699763", "6": "0.19421244"}}

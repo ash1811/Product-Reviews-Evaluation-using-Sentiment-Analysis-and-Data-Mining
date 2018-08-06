@@ -1,0 +1,1 @@
+{"text": "Better than a drop of dish soap for sonic cleaning eyeglasses, no smears, no smudges, no rinsing required-great product, fair price", "sentiment": "positive", "topics": {"0": "0.4167585", "2": "0.21224114", "3": "0.07860383", "5": "0.17094277", "6": "0.10238293"}}

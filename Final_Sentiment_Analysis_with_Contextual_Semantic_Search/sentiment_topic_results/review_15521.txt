@@ -1,0 +1,1 @@
+{"text": "Very bright, which took a little getting used to, but my patients love it. The M tall is a great length on my 5' 6&#34; frame; I seem to have really long legs. I have a lot of room in them.", "sentiment": "positive", "topics": {"0": "0.30486447", "1": "0.26080796", "3": "0.29007038", "4": "0.12553757"}}

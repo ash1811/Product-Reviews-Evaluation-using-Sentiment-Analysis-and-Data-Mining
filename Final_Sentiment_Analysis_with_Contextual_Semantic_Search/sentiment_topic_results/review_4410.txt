@@ -1,0 +1,1 @@
+{"text": "Bought as a gift,wearer seems very happy and seems to have a pretty good cut and also seem to be hard wearing so have had no complaints from this whining family member!!!!!!!!!!!And THATS saying something so seem like a really good buy.", "sentiment": "positive", "topics": {"0": "0.11684824", "1": "0.48268327", "2": "0.2408097", "4": "0.06492115", "5": "0.08324399"}}

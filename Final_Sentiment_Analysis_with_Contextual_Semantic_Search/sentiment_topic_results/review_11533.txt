@@ -1,0 +1,1 @@
+{"text": "NIce product.  Light weight does the job and is true to size.  Nice value for the price... I thought it was a nice color.", "sentiment": "positive", "topics": {"0": "0.010224612", "1": "0.64358246", "2": "0.010232843", "3": "0.11973761", "4": "0.010219956", "5": "0.19575146", "6": "0.0102510555"}}

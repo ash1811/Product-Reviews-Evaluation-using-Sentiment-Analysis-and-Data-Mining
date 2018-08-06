@@ -1,0 +1,1 @@
+{"text": "But I find it hard to believe this is supposed Narrow.  I walk right out of it. I have to return them even though I love to color.", "sentiment": "negative", "topics": {"0": "0.20688812", "1": "0.50840646", "2": "0.010218807", "3": "0.010229992", "4": "0.16494988", "5": "0.0102325035", "6": "0.08907424"}}

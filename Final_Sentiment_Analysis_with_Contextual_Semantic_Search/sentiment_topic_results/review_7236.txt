@@ -1,0 +1,1 @@
+{"text": "I wear carhart because of the durability and long life I can get from them.  I'm an iron worker and spend all day welding, cutting, and grinding; I can go through clothes fast.", "sentiment": "negative", "topics": {"1": "0.18484215", "2": "0.4042968", "4": "0.07249446", "5": "0.31575623"}}

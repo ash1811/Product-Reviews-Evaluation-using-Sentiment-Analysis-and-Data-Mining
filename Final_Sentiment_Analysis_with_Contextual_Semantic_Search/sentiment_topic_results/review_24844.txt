@@ -1,0 +1,1 @@
+{"text": "Ordered my reg. size 7.5, but these were way too big.  Also the footbed is very slippery, so even if it fit, don't think my feet would stay put.  Not a good design for me anyway... sent them back.", "sentiment": "positive", "topics": {"1": "0.3964721", "2": "0.075607695", "3": "0.14489433", "4": "0.23013692", "5": "0.08122403", "6": "0.0651513"}}

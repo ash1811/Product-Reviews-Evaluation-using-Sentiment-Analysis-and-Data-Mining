@@ -1,0 +1,1 @@
+{"text": "The slippers are a perfect fit, easy to walk in (no slipping) and they keep my feet warm. I ususally don't like clogs but these are fine.", "sentiment": "negative", "topics": {"0": "0.19535428", "1": "0.35187262", "2": "0.06876558", "4": "0.18547353", "6": "0.17943226"}}

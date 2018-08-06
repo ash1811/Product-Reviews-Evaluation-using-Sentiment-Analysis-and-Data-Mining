@@ -1,0 +1,1 @@
+{"text": "...pair I ordered on Amazon is slightly shorter than my other pair in the same size.  It's a pretty negligible difference; maybe a half inch.  Other than that, a great pair of jeans that doesn't make you look like a \"trendy\" hipster.", "sentiment": "negative", "topics": {"0": "0.12575597", "2": "0.074164316", "3": "0.35929704", "4": "0.18816265", "5": "0.2401477"}}

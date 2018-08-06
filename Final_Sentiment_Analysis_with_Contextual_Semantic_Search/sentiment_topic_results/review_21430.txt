@@ -1,0 +1,1 @@
+{"text": "These slippers are nice and soft and warm but probably only good for winter since they are a bit too heavy (not in weight but in thickness). Fit is a little sloppy as well.", "sentiment": "negative", "topics": {"1": "0.6239638", "4": "0.08589553", "6": "0.25834003"}}

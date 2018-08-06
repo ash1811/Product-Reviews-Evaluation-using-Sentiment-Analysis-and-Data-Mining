@@ -1,0 +1,1 @@
+{"text": "I had to wear these after a back/tummy tuck surgery.  They did work great at first, but  the seam on the upper thighs broke after several uses.", "sentiment": "negative", "topics": {"0": "0.09775607", "1": "0.40431505", "2": "0.010244223", "3": "0.09267516", "4": "0.010235368", "5": "0.010242653", "6": "0.37453145"}}

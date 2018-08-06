@@ -1,0 +1,1 @@
+{"text": "The Lee jeans are the best for my big self.  recommended.  I liked well enough to get a second pair which are the same", "sentiment": "positive", "topics": {"0": "0.011014279", "1": "0.5325394", "2": "0.2006999", "3": "0.011025117", "4": "0.011042764", "5": "0.13392743", "6": "0.09975105"}}

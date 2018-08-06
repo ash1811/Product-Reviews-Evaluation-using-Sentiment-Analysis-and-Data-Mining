@@ -1,0 +1,1 @@
+{"text": "excelente la compra de este articulo lo recomiendo para futuras compras llego tal y cual como se esperaba muy responsable", "sentiment": "positive", "topics": {"1": "0.07239359", "2": "0.26123336", "3": "0.12830593", "4": "0.20774662", "5": "0.2763464", "6": "0.046828836"}}

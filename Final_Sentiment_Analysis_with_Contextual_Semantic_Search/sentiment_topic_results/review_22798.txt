@@ -1,0 +1,1 @@
+{"text": "On the small side. Great for jeans or leggings and fun activities. Real true to color and good quality Lapis", "sentiment": "negative", "topics": {"0": "0.010237593", "1": "0.4305845", "2": "0.010220711", "3": "0.28893334", "4": "0.15873286", "5": "0.010266613", "6": "0.09102437"}}

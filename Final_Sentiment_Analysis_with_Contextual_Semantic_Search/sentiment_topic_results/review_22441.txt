@@ -1,0 +1,1 @@
+{"text": "I bought this a couple months ago, however, it's too small - I had previously bought the same size in another brand (same style as well) and those fit perfectly.", "sentiment": "negative", "topics": {"1": "0.6519549", "3": "0.10400367", "6": "0.21031328"}}

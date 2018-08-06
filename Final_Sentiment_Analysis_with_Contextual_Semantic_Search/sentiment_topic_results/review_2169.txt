@@ -1,0 +1,1 @@
+{"text": "I'm addicted to Spanx!  They make little pudges disappear.  And Spanx don't lose elasticity.  Remember girdles???  Well, Spanx is so much more comfortable and knit clothes fit smoothly.", "sentiment": "negative", "topics": {"1": "0.25251657", "2": "0.06738373", "3": "0.3730171", "5": "0.0669762", "6": "0.22648752"}}

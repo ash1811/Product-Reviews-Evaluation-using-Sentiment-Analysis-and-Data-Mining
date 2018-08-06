@@ -1,0 +1,1 @@
+{"text": "I had to replace my very old Arizonas.  If you wear Birkenstocks, you know the quality.  I hope these last 6 years like the last pair.", "sentiment": "positive", "topics": {"1": "0.42322212", "5": "0.3937788", "6": "0.14476132"}}

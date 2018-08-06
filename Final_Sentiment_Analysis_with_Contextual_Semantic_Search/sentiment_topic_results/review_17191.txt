@@ -1,0 +1,1 @@
+{"text": "Very well made bag with strong seams and really robust zippers.  Drains well.  I have 40 pounds in it, and would be comfortable adding more.", "sentiment": "positive", "topics": {"0": "0.13979343", "1": "0.41714638", "2": "0.13167648", "3": "0.2874831"}}

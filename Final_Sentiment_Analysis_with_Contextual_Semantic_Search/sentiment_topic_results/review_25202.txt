@@ -1,0 +1,1 @@
+{"text": "These feel great next to my skin. I use them every time I go for a run. They dry fast when they get sweaty.", "sentiment": "negative", "topics": {"0": "0.39502713", "1": "0.010229075", "2": "0.010300338", "3": "0.12106117", "4": "0.010253346", "5": "0.44284153", "6": "0.010287401"}}

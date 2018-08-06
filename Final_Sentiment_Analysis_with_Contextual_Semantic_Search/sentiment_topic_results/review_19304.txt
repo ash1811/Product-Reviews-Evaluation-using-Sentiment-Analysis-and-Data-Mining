@@ -1,0 +1,1 @@
+{"text": "Classic design by Invicta. Expect nothing but excellence when purchasing an Invicta. Definitely will have people complimenting you wrist with this timepiece on. Highly recommend it.", "sentiment": "positive", "topics": {"2": "0.20660831", "3": "0.23616797", "4": "0.08092017", "5": "0.45241255"}}

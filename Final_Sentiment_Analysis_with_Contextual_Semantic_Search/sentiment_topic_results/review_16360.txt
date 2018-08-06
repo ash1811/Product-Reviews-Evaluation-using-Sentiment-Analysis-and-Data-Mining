@@ -1,0 +1,1 @@
+{"text": "I find them comfortable, sized right... not too snug, and are holding up.  I live in Hawaii, so I use these to walk around town, and i take them to the beach.  Would definitely buy these again...", "sentiment": "negative", "topics": {"1": "0.3187427", "3": "0.16241114", "4": "0.17053887", "5": "0.17722638", "6": "0.15676433"}}

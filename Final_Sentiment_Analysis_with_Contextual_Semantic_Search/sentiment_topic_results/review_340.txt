@@ -1,0 +1,1 @@
+{"text": "When i bought it, I expected to receive a shirt of a quality somewhat like the ones at Wal-Mart, but it's far superior tan them. Would definitely buy again.", "sentiment": "negative", "topics": {"1": "0.3188202", "2": "0.34426317", "3": "0.1012186", "4": "0.12793164", "6": "0.0926779"}}

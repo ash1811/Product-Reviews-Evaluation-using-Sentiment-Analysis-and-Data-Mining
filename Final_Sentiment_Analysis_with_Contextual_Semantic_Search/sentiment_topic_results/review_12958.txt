@@ -1,0 +1,1 @@
+{"text": "Cool midweight denim jeans good for hot summer days. Fits true to size. Good quality craftmanship. It's a Levis, baby:)", "sentiment": "positive", "topics": {"0": "0.1322273", "1": "0.4766891", "2": "0.09080053", "5": "0.124107644", "6": "0.15929191"}}

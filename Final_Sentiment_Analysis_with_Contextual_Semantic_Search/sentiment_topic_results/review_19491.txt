@@ -1,0 +1,1 @@
+{"text": "Great Christmas gift for my 6 yo granddaughter. Very cute, colorful, soft, adjustable, the right size, great time teller for a small girl learning to tell time. Great price and fast shipping with Prime. I recommend it.", "sentiment": "negative", "topics": {"0": "0.14852579", "1": "0.30761215", "2": "0.18714105", "3": "0.10520108", "4": "0.13264574", "5": "0.11375389"}}

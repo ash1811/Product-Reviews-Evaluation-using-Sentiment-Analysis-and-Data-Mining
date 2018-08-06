@@ -1,0 +1,1 @@
+{"text": "Fantastic fit, very comfortable. Breathable, great for work. Don't wrinkle at all for me, and I toss things around. Would definitely buy again. Actually, I did buy again... haha", "sentiment": "negative", "topics": {"0": "0.06875745", "1": "0.5521721", "2": "0.13708346", "3": "0.048518904", "4": "0.17910066"}}

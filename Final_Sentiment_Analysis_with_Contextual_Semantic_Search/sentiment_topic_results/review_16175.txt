@@ -1,0 +1,1 @@
+{"text": "It works well.  I also bought a silver cleaning liquid.  This cloth makes the silver very shiny.  The liquid bath only makes it clean.  This is great for my silver bracelets and cufflinks.", "sentiment": "positive", "topics": {"1": "0.28293157", "3": "0.24471757", "4": "0.22149137", "6": "0.22928314"}}

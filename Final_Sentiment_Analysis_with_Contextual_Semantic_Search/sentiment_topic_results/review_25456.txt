@@ -1,0 +1,1 @@
+{"text": "That's how my 35 yr old son described them. Size 10 perfect for his size 10 feet. Packaged well. Arrived promptly", "sentiment": "negative", "topics": {"0": "0.21277529", "1": "0.13328774", "3": "0.12425857", "4": "0.23991865", "6": "0.27383545"}}

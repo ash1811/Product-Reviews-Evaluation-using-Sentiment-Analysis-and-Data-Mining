@@ -1,0 +1,1 @@
+{"text": "Love how these jeans fit and appreciate the relaxed yet stylish look... and no, I'm not into the tight look.", "sentiment": "positive", "topics": {"0": "0.21005708", "1": "0.43558985", "2": "0.010994713", "3": "0.01102054", "4": "0.22451597", "5": "0.011060696", "6": "0.09676116"}}

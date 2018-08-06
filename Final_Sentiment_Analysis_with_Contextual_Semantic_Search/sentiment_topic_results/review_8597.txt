@@ -1,0 +1,1 @@
+{"text": "This shoes fits a bit snug through the width, but I'm sure with wear, they will stretch.  They have good traction.", "sentiment": "negative", "topics": {"0": "0.01193637", "1": "0.40787742", "2": "0.25075445", "3": "0.20331548", "4": "0.011928805", "5": "0.011947039", "6": "0.10224045"}}

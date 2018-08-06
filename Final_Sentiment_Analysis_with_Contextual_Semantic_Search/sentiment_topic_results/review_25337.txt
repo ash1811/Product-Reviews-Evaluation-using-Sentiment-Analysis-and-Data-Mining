@@ -1,0 +1,1 @@
+{"text": "My son wore these for an entire school year and they lasted the entire year. We are on our 3rd year - a new pair each year. They feel good, look good and hold up great. I highly recommend them. His foot is very wide and a regular width fits him just fine.", "sentiment": "negative", "topics": {"1": "0.3100798", "2": "0.1468306", "3": "0.43448994", "5": "0.09378011"}}

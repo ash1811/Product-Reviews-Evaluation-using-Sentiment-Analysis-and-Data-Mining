@@ -1,0 +1,1 @@
+{"text": "arrived on time fit was perfect as I am very tall and they are just perfect color nor quality was lost during washing would and will order again", "sentiment": "negative", "topics": {"0": "0.43110207", "1": "0.51368576", "2": "0.011032929", "3": "0.011009893", "4": "0.011038659", "5": "0.011027641", "6": "0.011103036"}}

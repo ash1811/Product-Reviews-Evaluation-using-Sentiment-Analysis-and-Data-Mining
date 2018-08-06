@@ -1,0 +1,1 @@
+{"text": "Bought this for my son in 8th grade and he loves it. Perfect size and very sturdy. The color is great for a boy.", "sentiment": "negative", "topics": {"0": "0.011020663", "1": "0.7144568", "2": "0.011000602", "3": "0.23047616", "4": "0.01102469", "5": "0.011011578", "6": "0.011009487"}}

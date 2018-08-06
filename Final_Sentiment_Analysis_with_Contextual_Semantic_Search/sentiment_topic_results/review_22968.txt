@@ -1,0 +1,1 @@
+{"text": "Purchased this for my husband in XL/Navy.  Perfect for the gym, outdoor sports (tennis) or just to wear at home. Great feel on the skin, fab price, so I bought the Double Dry Training Tee too.", "sentiment": "positive", "topics": {"0": "0.13001958", "1": "0.43612355", "2": "0.15656231", "4": "0.25774613"}}

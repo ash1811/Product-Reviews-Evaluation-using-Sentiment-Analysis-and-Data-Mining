@@ -1,0 +1,1 @@
+{"text": "I found this bra to run on the small side, around. Cut size is adequate. I gave it 4 stars because for the money it is a decent bra though I am not expecting it to hold up.", "sentiment": "negative", "topics": {"2": "0.1585445", "3": "0.6281448", "6": "0.18462686"}}

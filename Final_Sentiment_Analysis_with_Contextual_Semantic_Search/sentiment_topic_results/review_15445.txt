@@ -1,0 +1,1 @@
+{"text": "feels great, awesome shades. fits perfect. would recommend to anyone interested in purchasing. Ray-Ban is the true classic sun glasses", "sentiment": "negative", "topics": {"1": "0.36964983", "2": "0.19713707", "4": "0.09486151", "5": "0.18937254", "6": "0.13207349"}}

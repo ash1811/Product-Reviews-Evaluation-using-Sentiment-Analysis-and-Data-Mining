@@ -1,0 +1,1 @@
+{"text": "These are wearable, but I have other Reef flip flops that seem much more comfortable than these. I'm hoping these ones will break in with time. They look the same as my other ones. They are sturdy and fit as expected.", "sentiment": "negative", "topics": {"1": "0.63823014", "2": "0.23348053", "4": "0.09804869"}}

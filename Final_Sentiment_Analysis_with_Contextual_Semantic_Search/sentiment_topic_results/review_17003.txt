@@ -1,0 +1,1 @@
+{"text": "Nice way to keep your feet from seawting and smelling. Makes htat walk so much more enjoyable espcially when you take off your shoes.", "sentiment": "negative", "topics": {"1": "0.21298811", "2": "0.15312606", "3": "0.27076286", "4": "0.17211857", "5": "0.08552058", "6": "0.09595226"}}

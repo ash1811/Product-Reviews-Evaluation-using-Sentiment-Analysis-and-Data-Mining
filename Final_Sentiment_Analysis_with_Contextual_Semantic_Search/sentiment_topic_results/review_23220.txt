@@ -1,0 +1,1 @@
+{"text": "Excellently made very comfortable. Only the straps keep slipping. If they could make better straps I would order a lot more because the rest of the bra is pleasurable!", "sentiment": "negative", "topics": {"0": "0.18492296", "1": "0.24134521", "2": "0.19463658", "3": "0.26049095", "6": "0.101761386"}}

@@ -1,0 +1,1 @@
+{"text": "These are a must for any woman under a form fitting dress.  It helps to hide your imperfections and smooths you out.  They are not painful like other brands plus easy to bring up and down for bathroom breaks.", "sentiment": "negative", "topics": {"0": "0.16680081", "1": "0.12678228", "2": "0.06914181", "3": "0.330705", "4": "0.09076548", "6": "0.2082792"}}

@@ -1,0 +1,1 @@
+{"text": "but one thing they are made  cheap the material could be  some what thicker .but when the wheather gets hot i will wear these to keep  cooler.", "sentiment": "negative", "topics": {"1": "0.47843242", "2": "0.012454084", "3": "0.16143645", "5": "0.31901312"}}

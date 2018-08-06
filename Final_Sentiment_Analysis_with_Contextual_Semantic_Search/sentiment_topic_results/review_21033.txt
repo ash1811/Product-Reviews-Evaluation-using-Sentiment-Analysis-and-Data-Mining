@@ -1,0 +1,1 @@
+{"text": "Nice fabric thickness and the ankles are not too tight.  The waist is comfortable.  Wish they made petite sizes - they're slightly long for me but fit nicely into boots.", "sentiment": "negative", "topics": {"1": "0.3915052", "2": "0.08969212", "3": "0.0840712", "4": "0.20786911", "5": "0.21094196"}}

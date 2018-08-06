@@ -1,0 +1,1 @@
+{"text": "Very comfortable with good support and great colors.  Wash and wear well and have already ordered a few more in pink!", "sentiment": "negative", "topics": {"0": "0.01191649", "1": "0.69217074", "2": "0.011908538", "3": "0.16170107", "4": "0.011912453", "5": "0.0119534675", "6": "0.09843724"}}

@@ -1,0 +1,1 @@
+{"text": "This is by far the cutest costume ever.The fabric is great and very well made. I had to hem the skirt a little so I could show off my ruby red slippers. I plan on wearing this for many halloween years. It's great", "sentiment": "positive", "topics": {"0": "0.15168805", "1": "0.22404727", "2": "0.07469851", "4": "0.18048355", "5": "0.24616231", "6": "0.11668424"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes look great and feel great. They are super comfortable and perfect for wearing to work daily. They feel great on your feet, Dockers did an excellent job with these shoes. They also aren't too expensive which is great.", "sentiment": "negative", "topics": {"0": "0.20665814", "1": "0.46497524", "2": "0.15470234", "4": "0.15413529"}}

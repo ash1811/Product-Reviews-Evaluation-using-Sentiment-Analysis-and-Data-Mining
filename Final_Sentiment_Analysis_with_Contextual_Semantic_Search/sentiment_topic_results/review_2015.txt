@@ -1,0 +1,1 @@
+{"text": "I have always been a fan of sheep skin slippers. With my old pair worn to pieces, I had to get another pair. Good quality and nice style. I hope they last as long as my old ones!", "sentiment": "positive", "topics": {"0": "0.08312173", "1": "0.37894288", "2": "0.058846403", "4": "0.26060483", "6": "0.20545039"}}

@@ -1,0 +1,1 @@
+{"text": "I've worn these to play indoor soccer and to do things around town.  They provide a great, consistent kick in soccer, and they're super comfy just to wear around the house or town.", "sentiment": "positive", "topics": {"1": "0.15734985", "2": "0.06351348", "3": "0.23780687", "5": "0.4362337", "6": "0.091461726"}}

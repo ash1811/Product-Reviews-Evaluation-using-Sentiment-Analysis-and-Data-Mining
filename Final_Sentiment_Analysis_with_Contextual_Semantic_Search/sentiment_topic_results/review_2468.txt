@@ -1,0 +1,1 @@
+{"text": "These sandals are awesome.  I've been wearing them for years, my last pair lasted me 9 years.  Great product and $48 is reasonable for such a durable shoe.", "sentiment": "negative", "topics": {"0": "0.10611019", "1": "0.23923385", "2": "0.08602014", "3": "0.25220522", "5": "0.24010964", "6": "0.06790416"}}

@@ -1,0 +1,1 @@
+{"text": "Fits perfect and is easy to clean.  I usually don't buy white because it stains so easily but this washes nicely and has that cool fit fabric.", "sentiment": "negative", "topics": {"0": "0.08483721", "1": "0.5132324", "5": "0.2898178", "6": "0.08348121"}}

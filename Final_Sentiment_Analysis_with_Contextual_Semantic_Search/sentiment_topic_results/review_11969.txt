@@ -1,0 +1,1 @@
+{"text": "I bought these for my wife and it's the first time I bought jewelry over the Internet. I took a chance because I trust Amazon. I was extremely pleased with what I got and, more importantly, my wife loved them and hardly ever takes them off.", "sentiment": "negative", "topics": {"0": "0.22752571", "1": "0.2873393", "3": "0.155799", "4": "0.07229682", "6": "0.24455813"}}

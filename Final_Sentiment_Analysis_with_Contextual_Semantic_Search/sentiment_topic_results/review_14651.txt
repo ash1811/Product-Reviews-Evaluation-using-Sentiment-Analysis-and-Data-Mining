@@ -1,0 +1,1 @@
+{"text": "My first pair of Birkenstock sandals ,  a great pair of footwear at a lower price . i will buy again", "sentiment": "negative", "topics": {"0": "0.013024987", "1": "0.4642868", "2": "0.2430831", "3": "0.24050353", "4": "0.013043802", "5": "0.013043097", "6": "0.013014668"}}

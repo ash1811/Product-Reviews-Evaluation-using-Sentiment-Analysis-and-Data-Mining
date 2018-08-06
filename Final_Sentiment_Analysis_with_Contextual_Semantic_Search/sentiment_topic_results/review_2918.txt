@@ -1,0 +1,1 @@
+{"text": "Another Christmas present that was returnee.  The band is quite large and I could not figure out how to simply make it smaller.  Almost man size!.  A good watch perhaps, but just too awkward.", "sentiment": "negative", "topics": {"1": "0.24454896", "2": "0.11879738", "3": "0.45938882", "4": "0.15573877"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loves these shoes, and we have purchased three pairs in the past five years.  They are comfortable and look great with  jeans or slacks.", "sentiment": "negative", "topics": {"1": "0.34127808", "2": "0.103470705", "3": "0.32188848", "4": "0.13905077", "6": "0.07519583"}}

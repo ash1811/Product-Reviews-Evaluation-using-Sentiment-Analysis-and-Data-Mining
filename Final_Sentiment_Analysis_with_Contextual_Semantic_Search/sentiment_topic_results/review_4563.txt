@@ -1,0 +1,1 @@
+{"text": "Very close in fit to a Levi 550.  They are a bit better made than my Levi 550's.  They run an inch longer in the legs than my 550s.  Ordered a 32&#34; instead of my normal 34&#34; length.", "sentiment": "positive", "topics": {"0": "0.16364652", "1": "0.10901794", "2": "0.09964069", "3": "0.27619407", "5": "0.12704656", "6": "0.21764748"}}

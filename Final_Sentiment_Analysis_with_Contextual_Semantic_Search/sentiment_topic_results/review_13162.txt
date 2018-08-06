@@ -1,0 +1,1 @@
+{"text": "My husband loves Hanes shirts. He wears them every day. He usually wears the crew neck but he loves the V-neck much more!", "sentiment": "negative", "topics": {"1": "0.49561343", "4": "0.15927151", "5": "0.30930814"}}

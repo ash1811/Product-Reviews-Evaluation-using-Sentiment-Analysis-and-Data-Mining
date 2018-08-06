@@ -1,0 +1,1 @@
+{"text": "Very cute!  I think that it runs a little on the small side.  I ordered a small and a medium probably would have been perfect but, I kept it.Look really, really cute on", "sentiment": "negative", "topics": {"1": "0.4927534", "2": "0.08752704", "3": "0.2334144", "5": "0.11672042", "6": "0.054501668"}}

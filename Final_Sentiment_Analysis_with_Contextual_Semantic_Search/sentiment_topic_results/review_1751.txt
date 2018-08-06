@@ -1,0 +1,1 @@
+{"text": "Nice and silky.  I always buy this brand and style.  Happy they keep coming up with new colors and fabrics.", "sentiment": "negative", "topics": {"0": "0.011010731", "1": "0.50579184", "2": "0.011009351", "3": "0.33287838", "4": "0.011031618", "5": "0.117281586", "6": "0.010996466"}}

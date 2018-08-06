@@ -1,0 +1,1 @@
+{"text": "I ordered two of these. They aren't top quality, but they're good enough. Considering the price, they look much better than I expected. They shrunk a bit after the first run through the laundry, but they still fit comfortably.", "sentiment": "negative", "topics": {"1": "0.4275537", "3": "0.20360029", "4": "0.1443607", "5": "0.205797"}}

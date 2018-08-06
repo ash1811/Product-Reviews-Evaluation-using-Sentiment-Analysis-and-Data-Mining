@@ -1,0 +1,1 @@
+{"text": "placed this solutions in to the cleaning machine and had the diamond ring cleaned. This worked better than with the water by itself.", "sentiment": "negative", "topics": {"0": "0.2075044", "1": "0.19577804", "2": "0.2870379", "3": "0.012011675", "4": "0.011909703", "5": "0.011913955", "6": "0.2738443"}}

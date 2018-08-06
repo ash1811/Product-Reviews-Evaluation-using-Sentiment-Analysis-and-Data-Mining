@@ -1,0 +1,1 @@
+{"text": "I bought the bigger size because they tend to run small. I also bought the black one that way it can go with more outfits. The lace is so soft and I'm contemplating on buying more in different colors.", "sentiment": "negative", "topics": {"1": "0.49091431", "3": "0.26629654", "4": "0.13038011", "6": "0.091918066"}}

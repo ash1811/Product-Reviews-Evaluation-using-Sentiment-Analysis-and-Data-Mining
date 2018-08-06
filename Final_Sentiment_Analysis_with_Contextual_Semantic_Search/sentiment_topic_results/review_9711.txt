@@ -1,0 +1,1 @@
+{"text": "Uhhhh... Hmmm.. Okay so let's just say, expect torpedoes. As a house/secondary bra it's okay.  The support is average. Will not buy again. Try something else.", "sentiment": "negative", "topics": {"1": "0.16200072", "2": "0.053542774", "3": "0.32186162", "5": "0.31324112", "6": "0.13344547"}}

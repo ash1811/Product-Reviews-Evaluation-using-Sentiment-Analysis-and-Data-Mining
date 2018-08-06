@@ -1,0 +1,1 @@
+{"text": "I purchased the heather grey, and Khaki.  WOW!  Excellent buy at selling price. ordering  the  black tonight. My style of pant.", "sentiment": "negative", "topics": {"1": "0.32029814", "2": "0.22375295", "5": "0.41775078"}}

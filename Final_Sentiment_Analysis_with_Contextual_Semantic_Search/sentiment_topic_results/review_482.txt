@@ -1,0 +1,1 @@
+{"text": "They fit fine. I wanted a lighter color but wasn't available. I have a size 34 version of the same product  and waist is too large and these are slightly tight but okay", "sentiment": "negative", "topics": {"1": "0.41613278", "2": "0.13423721", "5": "0.17185491", "6": "0.25093904"}}

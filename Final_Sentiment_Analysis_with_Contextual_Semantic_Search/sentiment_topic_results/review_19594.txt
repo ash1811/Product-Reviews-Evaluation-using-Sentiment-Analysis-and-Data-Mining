@@ -1,0 +1,1 @@
+{"text": "This bra is comfortable. It appears smoothly under a shirt. It does help smooth you out on your sides. Only issue is the wire under the cup tends to break after 3 months of use.", "sentiment": "positive", "topics": {"1": "0.2852744", "2": "0.0657962", "3": "0.19776261", "5": "0.09766859", "6": "0.33659855"}}

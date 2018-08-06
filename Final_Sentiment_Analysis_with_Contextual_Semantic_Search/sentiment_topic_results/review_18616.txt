@@ -1,0 +1,1 @@
+{"text": "I love this thong and garter belt set it is very sexy and looks way more high quality then the price tag would suggest.  I will be back for more.  Leg Avenue makes impeccably great and affordable lingerie.", "sentiment": "negative", "topics": {"0": "0.08215005", "1": "0.38334242", "2": "0.08036783", "3": "0.22529025", "4": "0.15206169", "5": "0.07079769"}}

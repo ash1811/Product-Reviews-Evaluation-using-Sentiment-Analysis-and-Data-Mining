@@ -1,0 +1,1 @@
+{"text": "These always are true to fit and I can never go wrong ordering them for him.  The price is right too.", "sentiment": "negative", "topics": {"0": "0.011961686", "1": "0.6770737", "2": "0.263222", "3": "0.011938341", "4": "0.011942267", "5": "0.011948631", "6": "0.01191337"}}

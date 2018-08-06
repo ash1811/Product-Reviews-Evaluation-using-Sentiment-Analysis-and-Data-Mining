@@ -1,0 +1,1 @@
+{"text": "Usually these run fast, sometimes VERY fast, but mine is great. It will lose about 5-10 seconds during the day & gain about 5-10 seconds at night. So... I'm always within 5-7 seconds at any given time. NOT the norm for a SEIKO.", "sentiment": "negative", "topics": {"0": "0.057540916", "1": "0.29069674", "2": "0.4803535", "6": "0.15479171"}}

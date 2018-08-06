@@ -1,0 +1,1 @@
+{"text": "The lettering on the dial is very easy to read - good size font!  Like the lighting.  Sstrap feels good on my wrist.", "sentiment": "negative", "topics": {"0": "0.010227641", "1": "0.1430702", "2": "0.09454904", "3": "0.12580875", "4": "0.010221635", "5": "0.010299149", "6": "0.6058236"}}

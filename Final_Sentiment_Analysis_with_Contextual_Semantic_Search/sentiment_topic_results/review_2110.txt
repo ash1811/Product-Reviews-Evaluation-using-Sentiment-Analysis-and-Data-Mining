@@ -1,0 +1,1 @@
+{"text": "my husband wears these to work and because they are grey, they can get very dirty and his superficial superiors are none the wiser! works out well for people like us who don't care about aesthetics!", "sentiment": "negative", "topics": {"1": "0.30128443", "2": "0.46779823", "4": "0.10496695", "5": "0.102063596"}}

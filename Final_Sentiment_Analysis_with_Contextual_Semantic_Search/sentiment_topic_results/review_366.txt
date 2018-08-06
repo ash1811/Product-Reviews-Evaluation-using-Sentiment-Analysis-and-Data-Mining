@@ -1,0 +1,1 @@
+{"text": "This is the perfect weight shirt! Quality is builtin! Not so thin as to require an undershirt! I highly recommend this shirt!", "sentiment": "negative", "topics": {"0": "0.1445751", "1": "0.637142", "2": "0.011923975", "3": "0.011921289", "4": "0.17056847", "5": "0.01194377", "6": "0.011925393"}}

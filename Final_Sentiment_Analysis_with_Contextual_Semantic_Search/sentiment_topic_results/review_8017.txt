@@ -1,0 +1,1 @@
+{"text": "This top is sooooooooooooo  soft and fits perfectly.  Very comfortable and just what I was looking for.  The quality, price and service are excellent, as usual.", "sentiment": "negative", "topics": {"0": "0.010215527", "1": "0.62617767", "2": "0.08754422", "3": "0.10260544", "4": "0.010220897", "5": "0.0102183735", "6": "0.1530179"}}

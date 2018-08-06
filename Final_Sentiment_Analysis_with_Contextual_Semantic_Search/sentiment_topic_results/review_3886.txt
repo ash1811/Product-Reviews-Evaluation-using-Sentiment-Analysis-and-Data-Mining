@@ -1,0 +1,1 @@
+{"text": "Just received it and immediately placed the passport inside this beautiful soft leather cover.Not much more to say except it's perfect and has credit card slots.", "sentiment": "negative", "topics": {"1": "0.45793247", "2": "0.4411019", "6": "0.067102775"}}

@@ -1,0 +1,1 @@
+{"text": "these are nice for driving and the fit was perfect for the size indicated.  Use them for driving mainly. Warm and comfortable", "sentiment": "negative", "topics": {"0": "0.19337642", "1": "0.40677056", "2": "0.011911823", "3": "0.26204744", "4": "0.011923668", "5": "0.102042705", "6": "0.011927365"}}

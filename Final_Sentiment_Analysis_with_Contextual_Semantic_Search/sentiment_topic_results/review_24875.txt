@@ -1,0 +1,1 @@
+{"text": "My husband is a big man, bought these for him for Christmas, he loves them, not too hot, which isone thing I debated, living in Florida, before buying.", "sentiment": "positive", "topics": {"1": "0.19952206", "3": "0.4257241", "4": "0.2152447", "5": "0.1307998"}}

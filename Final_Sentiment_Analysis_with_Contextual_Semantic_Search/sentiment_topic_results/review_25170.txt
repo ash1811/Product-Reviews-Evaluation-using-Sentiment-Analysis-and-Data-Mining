@@ -1,0 +1,1 @@
+{"text": "This t-shirt has a classic sleek look to it.  It is comfotable and looks great.  The item is on the pricey side, though I believe they are well worth it.", "sentiment": "negative", "topics": {"1": "0.35495892", "2": "0.10314792", "4": "0.07809181", "5": "0.11698641", "6": "0.32992718"}}

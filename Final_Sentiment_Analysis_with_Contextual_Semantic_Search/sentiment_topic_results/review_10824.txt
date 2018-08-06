@@ -1,0 +1,1 @@
+{"text": "They're good, very simple,good quality, they were a gift and she seemed very pleased with the earrings. I don't know what else to say.", "sentiment": "positive", "topics": {"0": "0.12325176", "1": "0.38537392", "2": "0.08948089", "3": "0.011941295", "4": "0.011957629", "5": "0.23897861", "6": "0.13901587"}}

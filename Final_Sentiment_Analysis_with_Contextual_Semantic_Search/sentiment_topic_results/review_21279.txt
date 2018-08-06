@@ -1,0 +1,1 @@
+{"text": "The size is perfect and the material is very light and soft, the elastic is not to tight. I will buy these again.Deshane", "sentiment": "negative", "topics": {"0": "0.014318898", "1": "0.6634921", "2": "0.014291594", "3": "0.2649735", "4": "0.014302502", "5": "0.014294113", "6": "0.014327316"}}

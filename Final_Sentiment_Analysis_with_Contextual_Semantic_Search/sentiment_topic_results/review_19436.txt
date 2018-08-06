@@ -1,0 +1,1 @@
+{"text": "Our two older campers were Jedi's &#34;in training&#34; during this past summer 's session of camp. They loved &#34;looking&#34; the part!", "sentiment": "negative", "topics": {"0": "0.09114507", "1": "0.3461294", "2": "0.30252552", "5": "0.23159459"}}

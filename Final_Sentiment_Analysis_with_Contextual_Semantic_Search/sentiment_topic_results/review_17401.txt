@@ -1,0 +1,1 @@
+{"text": "I wear these socks to work and a  slowly having them replace my old cotton socks. They're comfortable, but provide cushioning and keep my feet dry!", "sentiment": "negative", "topics": {"1": "0.2718184", "3": "0.12617046", "4": "0.1838124", "5": "0.39132592"}}

@@ -1,0 +1,1 @@
+{"text": "This was a great product for a new mom who was staying home with her kiddo in the first few months. I wore this all the time as a shirt. Great product and convenient.", "sentiment": "negative", "topics": {"0": "0.16794129", "1": "0.056236994", "3": "0.087742075", "4": "0.12623577", "5": "0.45607778", "6": "0.09682637"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans are nice with good quality, but they are baggy at the bottom more than what should be.. so I will give it 3 stars!!", "sentiment": "negative", "topics": {"0": "0.013001832", "1": "0.6346943", "2": "0.013047547", "3": "0.013002306", "4": "0.101856396", "5": "0.21140651", "6": "0.012991163"}}

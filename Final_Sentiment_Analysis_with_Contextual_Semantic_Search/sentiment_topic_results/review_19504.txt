@@ -1,0 +1,1 @@
+{"text": "of this clog.. I would love to see more colors, but I love the way they look with jeans and they are very warm..", "sentiment": "positive", "topics": {"0": "0.01302905", "1": "0.4409375", "2": "0.013001371", "3": "0.01303364", "4": "0.49393815", "5": "0.013062996", "6": "0.012997297"}}

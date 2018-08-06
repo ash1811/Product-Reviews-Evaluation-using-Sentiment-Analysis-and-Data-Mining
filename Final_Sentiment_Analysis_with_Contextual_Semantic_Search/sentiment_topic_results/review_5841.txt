@@ -1,0 +1,1 @@
+{"text": "This product is worth every penny :-) fits great and the fabric was very nice and comfortable..I love it will buy this product again", "sentiment": "negative", "topics": {"0": "0.011001724", "1": "0.42953354", "2": "0.09166255", "3": "0.011004037", "4": "0.011023301", "5": "0.43478352", "6": "0.010991326"}}

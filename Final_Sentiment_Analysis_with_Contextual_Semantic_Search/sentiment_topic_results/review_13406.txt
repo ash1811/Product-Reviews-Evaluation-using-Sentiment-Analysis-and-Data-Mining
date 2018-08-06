@@ -1,0 +1,1 @@
+{"text": "I have had many pairs of these and I buy them when they are on sale. I really love them because they are kind to my feet and knees. I love slip ons and they come in so many colors and patters. By far my favorite shoes are from Easy Spirit.", "sentiment": "negative", "topics": {"0": "0.19909431", "1": "0.20195237", "2": "0.12438185", "4": "0.45503816"}}

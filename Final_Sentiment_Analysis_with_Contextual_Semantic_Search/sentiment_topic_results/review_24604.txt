@@ -1,0 +1,1 @@
+{"text": "Exactly what I ordered!  Perfect for my daughters first ballet and dance classes.  The quality is amazing and material will hold up for a couple of years!  Love it and shipped great!", "sentiment": "negative", "topics": {"0": "0.15345737", "1": "0.301672", "3": "0.13942267", "4": "0.09904286", "5": "0.15821548", "6": "0.14023206"}}

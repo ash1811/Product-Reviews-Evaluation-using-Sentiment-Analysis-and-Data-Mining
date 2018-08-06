@@ -1,0 +1,1 @@
+{"text": "These are so pretty.  They are a good size and the color is exactly what I wanted.  The lever back makes them very secure and you don't have to worry about losing them.", "sentiment": "negative", "topics": {"0": "0.15025263", "1": "0.274728", "2": "0.010243768", "3": "0.3503403", "4": "0.010217252", "5": "0.010227424", "6": "0.1939906"}}

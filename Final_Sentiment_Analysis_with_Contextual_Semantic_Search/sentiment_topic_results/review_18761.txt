@@ -1,0 +1,1 @@
+{"text": "Bought this light saber to make a Star Wars video where I edited in After Effects to make it look real and it worked out fine.", "sentiment": "negative", "topics": {"0": "0.31818363", "2": "0.27315244", "3": "0.1974067", "4": "0.0875173", "6": "0.104630746"}}

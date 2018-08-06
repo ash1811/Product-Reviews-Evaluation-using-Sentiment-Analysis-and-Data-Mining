@@ -1,0 +1,1 @@
+{"text": "Having alway been a lover of Levi's jeans, I find the fit and comfort to be perfect. They are true to size and Hugh quality.", "sentiment": "negative", "topics": {"0": "0.08354902", "1": "0.35189736", "2": "0.01100068", "3": "0.011033102", "4": "0.0110142715", "5": "0.2761265", "6": "0.25537902"}}

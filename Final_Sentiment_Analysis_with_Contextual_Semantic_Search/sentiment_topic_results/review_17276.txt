@@ -1,0 +1,1 @@
+{"text": "My son has extremely wide feet and the extra wide shoe is one of the few that actually fit him so I bought 3 pairs.", "sentiment": "positive", "topics": {"0": "0.010217888", "1": "0.37279359", "2": "0.24898805", "3": "0.010257058", "4": "0.059306048", "5": "0.28823307", "6": "0.01020432"}}

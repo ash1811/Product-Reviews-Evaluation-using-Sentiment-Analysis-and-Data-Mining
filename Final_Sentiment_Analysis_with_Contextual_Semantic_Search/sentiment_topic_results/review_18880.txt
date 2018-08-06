@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband and they fit him perfectly. Not to tight or not to loose. These jeans look good on tall men.", "sentiment": "positive", "topics": {"0": "0.011950819", "1": "0.61791295", "2": "0.011930931", "3": "0.011918571", "4": "0.18270606", "5": "0.15167236", "6": "0.011908274"}}

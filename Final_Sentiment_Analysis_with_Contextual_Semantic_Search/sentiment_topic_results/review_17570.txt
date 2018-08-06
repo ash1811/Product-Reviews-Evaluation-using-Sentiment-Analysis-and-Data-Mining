@@ -1,0 +1,1 @@
+{"text": "I just wanted a simple, non bulky watch, so i found this online and decided to get it. Does exactly what its suppose to, show date and time. The hourly time signal is just a bonus :)", "sentiment": "positive", "topics": {"0": "0.36403808", "2": "0.33628175", "3": "0.07264922", "4": "0.14586838", "6": "0.06746879"}}

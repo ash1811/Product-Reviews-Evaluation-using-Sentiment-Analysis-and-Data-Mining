@@ -1,0 +1,1 @@
+{"text": "Truly sexy and beautiful lace.  It runs a bit small.  The best part is you don't have it on very long.", "sentiment": "negative", "topics": {"0": "0.013033242", "1": "0.0130608585", "2": "0.013003237", "3": "0.27243888", "4": "0.20780466", "5": "0.46766347", "6": "0.012995655"}}

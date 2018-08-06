@@ -1,0 +1,1 @@
+{"text": "Some scrub pants seem to be so short they pull up above your socks when you sit down, but these fit very nicely.  Really good quality, and a little large in the waist.  I am very happy with these.", "sentiment": "positive", "topics": {"0": "0.15132551", "1": "0.41863573", "2": "0.15600567", "3": "0.1889248", "5": "0.07002324"}}

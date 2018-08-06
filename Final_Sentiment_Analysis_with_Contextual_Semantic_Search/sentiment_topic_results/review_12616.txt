@@ -1,0 +1,1 @@
+{"text": "The Easy Spirit Traveltime Fashion Sneaker is my favorite shoe.  They come in several different colors.  I love the colors and the fit and especially the fact that they are lightweight.", "sentiment": "negative", "topics": {"0": "0.20101622", "1": "0.32098392", "2": "0.06706782", "3": "0.17863816", "6": "0.21634588"}}

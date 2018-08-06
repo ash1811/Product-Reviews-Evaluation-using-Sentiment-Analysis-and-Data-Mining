@@ -1,0 +1,1 @@
+{"text": "My husband loves these.  We have purchased them in both black and brown. A simple, classic look. They usually take a day or two of wearing to break in, but then are very comfortable.", "sentiment": "negative", "topics": {"1": "0.46073833", "2": "0.11080888", "3": "0.12053643", "4": "0.08963075", "5": "0.1324683", "6": "0.0778448"}}

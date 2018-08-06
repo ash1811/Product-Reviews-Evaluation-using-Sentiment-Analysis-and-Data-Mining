@@ -1,0 +1,1 @@
+{"text": "Boyfriend is happy with these. Only complaint is that he wore them ONCE with socks on and they stretched! Now, he has to wear socks with them all the time or just not walk in them.", "sentiment": "negative", "topics": {"0": "0.010275098", "1": "0.32306236", "2": "0.010259993", "3": "0.09394366", "4": "0.010215429", "5": "0.54202336", "6": "0.01022011"}}

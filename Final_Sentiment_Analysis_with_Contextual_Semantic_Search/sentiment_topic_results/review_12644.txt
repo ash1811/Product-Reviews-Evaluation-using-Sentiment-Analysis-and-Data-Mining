@@ -1,0 +1,1 @@
+{"text": "These shoes are light and comfortable.  They are probably on the wide side, as I keep slipping out sideways, so I can't wear them.", "sentiment": "negative", "topics": {"0": "0.18193465", "1": "0.38504383", "2": "0.31834027", "3": "0.011048426", "4": "0.011000474", "5": "0.011020811", "6": "0.08161152"}}

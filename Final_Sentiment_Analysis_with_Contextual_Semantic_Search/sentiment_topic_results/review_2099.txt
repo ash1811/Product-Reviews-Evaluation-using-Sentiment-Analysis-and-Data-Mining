@@ -1,0 +1,1 @@
+{"text": "Headline kindof says it all. I got two pair for the hubster and they fit like crazy. He pretends he's a hipster with the skater length. The colors are nice and muddy. The are also crazy durable.", "sentiment": "positive", "topics": {"1": "0.35108486", "2": "0.3087423", "4": "0.06716252", "6": "0.25430545"}}

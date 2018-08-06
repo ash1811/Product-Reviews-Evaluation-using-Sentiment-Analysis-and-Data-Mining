@@ -1,0 +1,1 @@
+{"text": "My 11yo DIL hated this.  Why?  I think packaging.  When you package something cheap then it feels cheap.  The actual product isn't bad, just poorly presented.", "sentiment": "positive", "topics": {"0": "0.12556264", "1": "0.1808109", "2": "0.2706553", "4": "0.08780766", "5": "0.31924766"}}

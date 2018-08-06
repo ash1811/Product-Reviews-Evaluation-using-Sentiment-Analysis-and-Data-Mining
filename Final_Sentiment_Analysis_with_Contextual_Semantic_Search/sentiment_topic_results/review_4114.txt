@@ -1,0 +1,1 @@
+{"text": "Essentially as expected. I have used them now  about half-dozen times, and find them comfortable for court play, and at this time, appear that they will hold-up well, and will not wear-out prematurely.", "sentiment": "negative", "topics": {"1": "0.3932061", "2": "0.29355106", "4": "0.10940316", "5": "0.10924218", "6": "0.07669991"}}

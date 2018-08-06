@@ -1,0 +1,1 @@
+{"text": "If you have to wear scrubs, at least wear these. They hold up wash afer wash and are comfortable for 12 hour shifts", "sentiment": "negative", "topics": {"0": "0.15033989", "1": "0.14477585", "2": "0.010236635", "3": "0.27896246", "4": "0.01021905", "5": "0.26920286", "6": "0.13626322"}}

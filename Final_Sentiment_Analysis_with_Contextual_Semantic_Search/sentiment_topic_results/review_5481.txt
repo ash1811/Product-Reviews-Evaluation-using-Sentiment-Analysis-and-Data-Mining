@@ -1,0 +1,1 @@
+{"text": "Somewhat large,  but its okay as undershirt wear. I am not big fan of the fabric though. Not amazing as other fruit loom products.", "sentiment": "negative", "topics": {"0": "0.08406194", "1": "0.24395241", "2": "0.15555795", "3": "0.010233213", "4": "0.19444081", "5": "0.3015338", "6": "0.0102198925"}}

@@ -1,0 +1,1 @@
+{"text": "Nothing  else to say. It looks well made and it washed well. He does like it. Looks good on him. He wears medium to large clothing. He's a 6'1 bean pole.", "sentiment": "negative", "topics": {"1": "0.54359454", "2": "0.18091048", "3": "0.06970049", "5": "0.08348796", "6": "0.1092999"}}

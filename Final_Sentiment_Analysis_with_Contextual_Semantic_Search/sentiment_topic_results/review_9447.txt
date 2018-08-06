@@ -1,0 +1,1 @@
+{"text": "My size is between 9~9.5 long. This pair shows a little bit somehow large but it's acceptable. I can wear thick socks and wearing it in cold days. It is a good choice for heavy guys.", "sentiment": "negative", "topics": {"0": "0.073954955", "1": "0.35002026", "2": "0.059969407", "3": "0.1689864", "4": "0.09690061", "5": "0.17696154", "6": "0.07320683"}}

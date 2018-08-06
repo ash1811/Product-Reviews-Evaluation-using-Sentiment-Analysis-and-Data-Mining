@@ -1,0 +1,1 @@
+{"text": "The crocs shoes are for comfort at any age  , very light and durable ,i recommned for kids and adults.", "sentiment": "negative", "topics": {"0": "0.013046943", "1": "0.013059344", "2": "0.11863181", "3": "0.012998685", "4": "0.1170597", "5": "0.55840105", "6": "0.16680245"}}

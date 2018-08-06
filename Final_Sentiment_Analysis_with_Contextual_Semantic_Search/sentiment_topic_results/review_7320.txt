@@ -1,0 +1,1 @@
+{"text": "I like the look of these pants but they a teenie but snug.  My boyfriend wants to keep them though because he says its better than his pants falling down at work.  Apparently they don't want to see his butt at work LOL.", "sentiment": "negative", "topics": {"0": "0.12460446", "1": "0.39987233", "4": "0.15913112", "5": "0.09569204", "6": "0.20702319"}}

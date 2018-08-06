@@ -1,0 +1,1 @@
+{"text": "Nice wool socks, I bought a pair for both my sons who like sports in the winter, and they insist on wool for socks. Good seller, I received it promptly.", "sentiment": "negative", "topics": {"1": "0.4070024", "3": "0.19235665", "5": "0.36694375"}}

@@ -1,0 +1,1 @@
+{"text": "I would recommend these briefs to anyone looking for a quality product, and great fit. Fabric is smooth and silky and very comfortable to wear", "sentiment": "negative", "topics": {"1": "0.5085324", "3": "0.10426826", "4": "0.084403396", "5": "0.27415764"}}

@@ -1,0 +1,1 @@
+{"text": "This one works perfectly.  It is a good design.  Can't say about how long it will last, but it is very easy to use.", "sentiment": "positive", "topics": {"0": "0.0119313905", "1": "0.51207465", "2": "0.011953935", "3": "0.011959441", "4": "0.29751393", "5": "0.011948262", "6": "0.14261842"}}

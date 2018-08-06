@@ -1,0 +1,1 @@
+{"text": "&#34;Fits . As hard as it is to find my size WITH comfort, this couldn't be any better.&#34; Thanks PLAYTEX.", "sentiment": "negative", "topics": {"0": "0.53065085", "1": "0.015905626", "2": "0.01587464", "3": "0.23803322", "4": "0.015923142", "5": "0.01591122", "6": "0.16770129"}}

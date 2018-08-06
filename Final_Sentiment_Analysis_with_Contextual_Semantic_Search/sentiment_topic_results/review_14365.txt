@@ -1,0 +1,1 @@
+{"text": "Kiwi polish is good polish. Very reliable and the colors are very consistent from one can to the next. The larger cans are a better buy.", "sentiment": "positive", "topics": {"0": "0.01022101", "1": "0.20821169", "2": "0.010243465", "3": "0.09273785", "4": "0.31108218", "5": "0.010219728", "6": "0.35728404"}}

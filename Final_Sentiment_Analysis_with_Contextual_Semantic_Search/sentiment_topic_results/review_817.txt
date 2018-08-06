@@ -1,0 +1,1 @@
+{"text": "This came sooo quickly! When I first tried it on I was so excited to add it an outfit! I wear it under almost all of my button up shirts and will most likely order at least one more!", "sentiment": "negative", "topics": {"0": "0.21255204", "1": "0.14259595", "2": "0.32080576", "3": "0.06884224", "4": "0.2392554"}}

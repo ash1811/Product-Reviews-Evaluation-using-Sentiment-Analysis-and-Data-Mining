@@ -1,0 +1,1 @@
+{"text": "So far I like it.  Sometimes I order my size of the same brand just 2 different styles and 1 will fit and 1 won't. This one fit. It seems to be comfortable. Will update after wearing it for a coupe of weeks if that changes.", "sentiment": "negative", "topics": {"0": "0.21074663", "1": "0.268105", "2": "0.17613444", "3": "0.26626745", "5": "0.06680883"}}

@@ -1,0 +1,1 @@
+{"text": "-Fits nice-Does make your feet look bigger though-I wish you could put LACES on these,  the design is a tad ugly looking without laces and with shorts on..", "sentiment": "negative", "topics": {"0": "0.18765356", "1": "0.3124249", "3": "0.24028106", "5": "0.19605026", "6": "0.049924146"}}

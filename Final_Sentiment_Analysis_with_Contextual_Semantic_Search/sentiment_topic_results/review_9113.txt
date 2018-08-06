@@ -1,0 +1,1 @@
+{"text": "This is adorable.  The fabric of the purse is nice and soft and the little items inside are cute.  I like the size of it as well.  Not too large, not too small.  My granddaughter will love it.", "sentiment": "negative", "topics": {"3": "0.76705664", "6": "0.1930502"}}

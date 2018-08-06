@@ -1,0 +1,1 @@
+{"text": "The fit is great at first however they will shrink and fade  after a couple of washes so buyer beware", "sentiment": "positive", "topics": {"0": "0.26125073", "1": "0.5485296", "2": "0.13813972", "3": "0.013000602", "4": "0.013008574", "5": "0.01304476", "6": "0.013025976"}}

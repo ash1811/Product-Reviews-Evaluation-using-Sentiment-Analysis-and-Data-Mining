@@ -1,0 +1,1 @@
+{"text": "Ordered as a replacement for the orange monster rubber strap. Was disappointed to see this was not and original, but rather a similar type strap. There was no \"wave \" pattern and the material was close but not quite the same.", "sentiment": "negative", "topics": {"1": "0.29674512", "2": "0.3989479", "3": "0.16669199", "4": "0.11612841"}}

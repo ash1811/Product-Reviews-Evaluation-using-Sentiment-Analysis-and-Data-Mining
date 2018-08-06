@@ -1,0 +1,1 @@
+{"text": "I ordered these as a gift for me sister. She claims they're good. She said they do as advertised (i.e. walk very comfortably), but they're only decent for other activities (e.g. running).", "sentiment": "positive", "topics": {"0": "0.123114906", "1": "0.22893941", "3": "0.14142606", "4": "0.13043568", "5": "0.35925886"}}

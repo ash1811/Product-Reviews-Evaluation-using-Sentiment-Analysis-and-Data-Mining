@@ -1,0 +1,1 @@
+{"text": "Bought these in size medium for my husbands Dr. Shots costume for Halloween. He's 5'11 and 185 pounds. Fit him perfectly!", "sentiment": "negative", "topics": {"0": "0.08003177", "1": "0.35712034", "4": "0.23227234", "5": "0.105100356", "6": "0.20636171"}}

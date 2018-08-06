@@ -1,0 +1,1 @@
+{"text": "Fits great. The front is lined. I wore it under lots of clothed this past winter. Kept me warm, and not noticeable. Sleeves are plenty long", "sentiment": "negative", "topics": {"0": "0.1493989", "1": "0.589355", "4": "0.0839421", "5": "0.15044023"}}

@@ -1,0 +1,1 @@
+{"text": "Sorry if I spelled that wrong but that is my daughters favorite spell which she now uses this wand to cast on me all the time.  Time to pretend I'm frozen now.  Have a nice day.", "sentiment": "positive", "topics": {"1": "0.12078884", "2": "0.22528031", "4": "0.22250374", "5": "0.32349846", "6": "0.09201202"}}

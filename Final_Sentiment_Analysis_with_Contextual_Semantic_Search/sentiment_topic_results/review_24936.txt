@@ -1,0 +1,1 @@
+{"text": "Lovely, but i ordered the white. The only thing is, I find the front snap a little hard to work with. But the uplift is great and it is a very nicely made bra.", "sentiment": "negative", "topics": {"0": "0.15914494", "1": "0.3497989", "3": "0.23579825", "4": "0.0987092", "5": "0.14065698"}}

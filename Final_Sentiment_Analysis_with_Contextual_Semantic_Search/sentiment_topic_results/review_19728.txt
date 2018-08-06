@@ -1,0 +1,1 @@
+{"text": "Shrank way faster then expected on cold wash. Still, love myself some Russell's, I guess i may have grown a ton since the last set...", "sentiment": "negative", "topics": {"1": "0.40285394", "2": "0.102962285", "3": "0.110376276", "4": "0.29264128", "6": "0.07430158"}}

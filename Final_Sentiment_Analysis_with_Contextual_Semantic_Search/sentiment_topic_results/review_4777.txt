@@ -1,0 +1,1 @@
+{"text": "Its not very often that a pair of jeans are both comfortable and durable but these ones are. I highly recommend them.", "sentiment": "positive", "topics": {"0": "0.013021782", "1": "0.4937908", "2": "0.3677679", "3": "0.013058092", "4": "0.013050008", "5": "0.08632188", "6": "0.012989556"}}

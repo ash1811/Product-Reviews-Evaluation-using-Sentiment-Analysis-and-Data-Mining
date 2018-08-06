@@ -1,0 +1,1 @@
+{"text": "It is hard to find a wallet that has enough slots for all the credit cards much less expand to fit.  This has plenty of room and I love the colors.", "sentiment": "positive", "topics": {"0": "0.093385644", "1": "0.5470922", "2": "0.17424561", "5": "0.08561687", "6": "0.0817272"}}

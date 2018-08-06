@@ -1,0 +1,1 @@
+{"text": "This sock is very thick and was a close fit into my hiking shoes.  This brand has good support for the foot and ankle and feels really cozy on.", "sentiment": "positive", "topics": {"0": "0.19847865", "1": "0.13418624", "2": "0.08426647", "3": "0.49988434", "5": "0.065249875"}}

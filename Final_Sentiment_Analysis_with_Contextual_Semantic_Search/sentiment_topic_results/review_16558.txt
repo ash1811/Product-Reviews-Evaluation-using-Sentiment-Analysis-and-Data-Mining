@@ -1,0 +1,1 @@
+{"text": "Purchased these for my husband and he is still using these suspenders a year later. They are very sturdy however they will tear into your t shirts.", "sentiment": "positive", "topics": {"0": "0.31419793", "1": "0.44896594", "2": "0.10143856", "3": "0.011953156", "4": "0.09957387", "5": "0.011927637", "6": "0.011942916"}}

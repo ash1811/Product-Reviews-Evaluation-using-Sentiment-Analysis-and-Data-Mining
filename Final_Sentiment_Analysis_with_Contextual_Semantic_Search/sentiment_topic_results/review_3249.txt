@@ -1,0 +1,1 @@
+{"text": "My husband is long waisted and these jeans fit him perfectly!  I highly recommend this product to everyone interested in blue jeans.", "sentiment": "negative", "topics": {"0": "0.010226838", "1": "0.33966032", "2": "0.010220177", "3": "0.010213663", "4": "0.11895685", "5": "0.39086005", "6": "0.11986214"}}

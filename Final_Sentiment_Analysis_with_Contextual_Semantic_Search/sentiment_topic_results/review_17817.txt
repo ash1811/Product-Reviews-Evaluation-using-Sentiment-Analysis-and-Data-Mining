@@ -1,0 +1,1 @@
+{"text": "Gorgeous watch for the price.  Looks great and it is just the right size watch for a man.  You have to see it to believe it, looks better than the picture.", "sentiment": "negative", "topics": {"1": "0.30480334", "2": "0.17702185", "3": "0.32270917", "4": "0.16858065"}}

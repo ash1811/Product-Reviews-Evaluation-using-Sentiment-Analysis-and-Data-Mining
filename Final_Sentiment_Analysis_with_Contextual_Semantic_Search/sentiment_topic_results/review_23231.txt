@@ -1,0 +1,1 @@
+{"text": "This bra is comfortable and lightweight.  The straps are wide so they show under tank tops, but for around the house and after having a baby it's really a good bra.  Super comfy.", "sentiment": "negative", "topics": {"1": "0.30189046", "2": "0.18140076", "3": "0.3048516", "6": "0.18661423"}}

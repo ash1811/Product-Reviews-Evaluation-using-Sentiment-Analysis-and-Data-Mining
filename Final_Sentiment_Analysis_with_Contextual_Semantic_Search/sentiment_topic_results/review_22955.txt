@@ -1,0 +1,1 @@
+{"text": "They fit very well, are just as stated, and are comfortable. Only problem is that when you have something in your pocket and do something like jog, whatever is in your pocket flops all over the place.", "sentiment": "positive", "topics": {"0": "0.083711706", "1": "0.6798101", "6": "0.19826567"}}

@@ -1,0 +1,1 @@
+{"text": "this is a great shirt for work. It is heavyweight and great for cold weather layering. It is great carhartt quality and can't be matched.", "sentiment": "negative", "topics": {"0": "0.010248398", "1": "0.5468625", "2": "0.010211258", "3": "0.29069108", "4": "0.010292792", "5": "0.010243253", "6": "0.121450745"}}

@@ -1,0 +1,1 @@
+{"text": "At first i did not like these but i wore them a couple times and literally forgot i was wearing them. They are so warm! My only wish is that the band was adjustable.", "sentiment": "negative", "topics": {"0": "0.17921455", "1": "0.27440453", "2": "0.27263466", "3": "0.14868732", "4": "0.01022899", "5": "0.104573615", "6": "0.010256385"}}

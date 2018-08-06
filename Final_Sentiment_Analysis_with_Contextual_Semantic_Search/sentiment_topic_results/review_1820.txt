@@ -1,0 +1,1 @@
+{"text": "Thanks for offering Prime! The material is fairly soft and true to size.  Not loose around the legs, and plenty opaque enough that your underwear does to show through; quite thickish material.  Pretty good quality material.", "sentiment": "positive", "topics": {"1": "0.6556964", "2": "0.07134108", "3": "0.24998526"}}

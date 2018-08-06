@@ -1,0 +1,1 @@
+{"text": "I researched and purchases several of these for my wife from different manufacturers.  This fit great, looks even better and my wife loves it.  Would purchase again.", "sentiment": "negative", "topics": {"0": "0.42923018", "1": "0.20417628", "3": "0.0898702", "4": "0.25285268"}}

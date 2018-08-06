@@ -1,0 +1,1 @@
+{"text": "I purchased Birkenstocks the Arizona Leather Sandal in Picante through Amazon. I love orange and they are just what I wanted. Softer leather, in the orange family. They were delivered on time and as advertised. Yea Birkenstocks", "sentiment": "negative", "topics": {"1": "0.14425948", "2": "0.31849593", "4": "0.15947226", "5": "0.15786919", "6": "0.20559242"}}

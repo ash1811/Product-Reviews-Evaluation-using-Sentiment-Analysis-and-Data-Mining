@@ -1,0 +1,1 @@
+{"text": "These are my second pair of Merrell Moab Ventilators and they're beautiful and black.  I walk a lot, and these are by far the most comfortable shoe I've worn.  They fit true to size.  Do yourself a favor and buy these.  They're the hoops!", "sentiment": "negative", "topics": {"1": "0.27467093", "2": "0.14798605", "3": "0.26270157", "4": "0.19489211", "6": "0.10781062"}}

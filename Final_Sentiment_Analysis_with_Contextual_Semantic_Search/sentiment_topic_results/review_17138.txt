@@ -1,0 +1,1 @@
+{"text": "My son loves these shoes.  Perfect for summer, swim class and pool.  They are really comfy.  Ordering another pair.", "sentiment": "negative", "topics": {"0": "0.010242552", "1": "0.52500695", "2": "0.24697919", "3": "0.010246106", "4": "0.18704905", "5": "0.010254377", "6": "0.010221735"}}

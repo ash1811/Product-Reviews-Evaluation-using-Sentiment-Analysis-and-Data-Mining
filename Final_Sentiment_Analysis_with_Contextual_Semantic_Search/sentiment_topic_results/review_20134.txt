@@ -1,0 +1,1 @@
+{"text": "Decent backpack.  I just use it when I commute to work on my bicycle.  Not the best quality, but not the worse either.  Has ample space, but I leave some items at work so I don't have to carry them and weigh me down.", "sentiment": "negative", "topics": {"1": "0.21638754", "2": "0.1689124", "3": "0.19588141", "4": "0.20212738", "6": "0.20161916"}}

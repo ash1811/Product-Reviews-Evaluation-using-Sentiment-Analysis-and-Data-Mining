@@ -1,0 +1,1 @@
+{"text": "This bra is very cheaply made.  I found it to be so uncomfortable that I returned it right away.  I expected more from Madela and was disappointed.", "sentiment": "negative", "topics": {"0": "0.011915413", "1": "0.2072835", "2": "0.24090302", "3": "0.50412405", "4": "0.011942706", "5": "0.01192021", "6": "0.011911104"}}

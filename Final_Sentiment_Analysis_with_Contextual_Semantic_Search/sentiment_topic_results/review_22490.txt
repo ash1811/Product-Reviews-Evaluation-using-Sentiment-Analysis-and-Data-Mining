@@ -1,0 +1,1 @@
+{"text": "Was glad to be able to shop for underwear on line. Hanes is a good product and the hi-cut panties are very comfortable.", "sentiment": "negative", "topics": {"0": "0.011952475", "1": "0.32863894", "2": "0.011974472", "3": "0.17464828", "4": "0.11661888", "5": "0.22243053", "6": "0.13373642"}}

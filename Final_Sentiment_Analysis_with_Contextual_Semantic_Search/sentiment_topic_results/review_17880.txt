@@ -1,0 +1,1 @@
+{"text": "I love this thermasilk bottom!  Feels comfortable and keeps me warm without feeling &#34;bundled up&#34;.  I would highly recommend this product!", "sentiment": "negative", "topics": {"0": "0.22410508", "1": "0.27951673", "5": "0.46055308"}}

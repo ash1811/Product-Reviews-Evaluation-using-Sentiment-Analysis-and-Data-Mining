@@ -1,0 +1,1 @@
+{"text": "With this past winter being unusually cold, these mittens were used while hiking when my normal gloves were not warm enough.  They did their job.", "sentiment": "positive", "topics": {"0": "0.28438407", "1": "0.39854577", "2": "0.10200183", "3": "0.18204683", "4": "0.011010053", "5": "0.0110194385", "6": "0.010991976"}}

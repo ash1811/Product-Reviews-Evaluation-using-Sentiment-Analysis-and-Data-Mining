@@ -1,0 +1,1 @@
+{"text": "Thought I would just settle for black since they were lower priced, but greatly happy I did.  This black is matte and somewhat charcoal so they are not glaring.  Thanks Amazon for best Birk prices and selection!!!!!", "sentiment": "negative", "topics": {"0": "0.18053019", "1": "0.2727799", "2": "0.27210614", "4": "0.18605684", "5": "0.0755043"}}

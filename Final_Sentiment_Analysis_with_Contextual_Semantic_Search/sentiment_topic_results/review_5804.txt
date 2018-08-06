@@ -1,0 +1,1 @@
+{"text": "as I said above, I'm 5'5&#34; 180 lbs and this is slightly snug, but made very well.  It's very comfortable.  I had bought this to run in - in the extreme cold weather, but it's to nice for that.", "sentiment": "negative", "topics": {"0": "0.06783471", "1": "0.2877144", "3": "0.13218455", "4": "0.0723712", "5": "0.34984726", "6": "0.08252028"}}

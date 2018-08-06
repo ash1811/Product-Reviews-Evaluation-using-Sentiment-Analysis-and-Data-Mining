@@ -1,0 +1,1 @@
+{"text": "I took a chance buying these since some reviews were negative. I liked the look, so I bought them anyway. I like quality boots and have a number of them, which I alternate. The Vasque boot fits great, looks good and is comfortable.", "sentiment": "positive", "topics": {"1": "0.43358576", "2": "0.27282944", "3": "0.0956755", "4": "0.17995343"}}

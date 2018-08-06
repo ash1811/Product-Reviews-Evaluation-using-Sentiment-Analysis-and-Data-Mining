@@ -1,0 +1,1 @@
+{"text": "These shoes are so comfortable.  They are a snug fit, but that is why I bought them.  They stay put for long walks with my dog.  The front of the shoe is plenty roomy and they are light weight.  I now have 2 pair and wear them daily.", "sentiment": "positive", "topics": {"0": "0.2829242", "1": "0.51134706", "2": "0.13292095", "6": "0.053258546"}}

@@ -1,0 +1,1 @@
+{"text": "for some reason i thought this watch was steel and got it for my husband for christmas turns out it was plastic so i kept it for myself works great", "sentiment": "negative", "topics": {"0": "0.011013541", "1": "0.19431666", "2": "0.16526863", "3": "0.011040633", "4": "0.29214612", "5": "0.011021111", "6": "0.3151933"}}

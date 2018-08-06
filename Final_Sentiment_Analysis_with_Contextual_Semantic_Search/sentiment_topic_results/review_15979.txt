@@ -1,0 +1,1 @@
+{"text": "Got these after reviewing many different styles and brands. Very happy with purchase. Can wear for hours walking all day and feet are still happy. With time, shoes have conformed to my feet. Will buy again!", "sentiment": "negative", "topics": {"0": "0.15432625", "1": "0.20633553", "2": "0.10642393", "3": "0.10619657", "4": "0.30281016", "5": "0.11736581"}}

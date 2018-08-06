@@ -1,0 +1,1 @@
+{"text": "shopping early nice simple gift for 12 year old girls love the simplicity and price was good hope they like them", "sentiment": "positive", "topics": {"0": "0.13553007", "1": "0.2084245", "2": "0.091093615", "5": "0.45541257", "6": "0.0915955"}}

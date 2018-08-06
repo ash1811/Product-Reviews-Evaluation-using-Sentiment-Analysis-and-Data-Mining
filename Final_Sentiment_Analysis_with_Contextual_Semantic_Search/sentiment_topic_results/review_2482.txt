@@ -1,0 +1,1 @@
+{"text": "I gave these as a gift and she loved them. They get better the more you wear them, plus they have a lifetime guarantee on materials. If you like flops buy these. I've had my pair for almost 10 years now.", "sentiment": "positive", "topics": {"0": "0.11322654", "1": "0.32973263", "2": "0.20378827", "3": "0.22091329", "4": "0.11986046"}}

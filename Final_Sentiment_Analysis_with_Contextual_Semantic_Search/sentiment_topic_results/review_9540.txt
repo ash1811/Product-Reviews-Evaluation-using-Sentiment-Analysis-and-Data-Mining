@@ -1,0 +1,1 @@
+{"text": "Durable, well made, nice looking boots. Boyfriend will get a lot of use out of these both for work and riding his Harley.", "sentiment": "negative", "topics": {"0": "0.010218801", "1": "0.5730046", "2": "0.010228245", "3": "0.010247955", "4": "0.16454485", "5": "0.13651964", "6": "0.0952359"}}

@@ -1,0 +1,1 @@
+{"text": "I like the roomy size.  It is so cozy to put on after my shower or bath.  It absorbs well.", "sentiment": "negative", "topics": {"0": "0.014364305", "1": "0.5258676", "2": "0.014295848", "3": "0.0143222185", "4": "0.014325579", "5": "0.0143331485", "6": "0.4024914"}}

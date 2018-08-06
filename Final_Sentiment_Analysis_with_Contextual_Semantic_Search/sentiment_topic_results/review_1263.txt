@@ -1,0 +1,1 @@
+{"text": "Ordered these for my son and he loves them. The old school style is perfect, quality is excellent and shipping time was quick. I would order these again and again!", "sentiment": "negative", "topics": {"0": "0.15409315", "1": "0.23866358", "2": "0.20594613", "4": "0.37602592"}}

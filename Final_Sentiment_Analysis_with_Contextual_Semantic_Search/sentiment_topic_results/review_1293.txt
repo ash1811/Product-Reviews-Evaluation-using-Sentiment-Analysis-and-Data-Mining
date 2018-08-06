@@ -1,0 +1,1 @@
+{"text": "These are very comfortable, And this is actually the second set I'm buying. I've had the first pair for close to two years and still going strong. (Needed another color) I definitely recommend these.", "sentiment": "negative", "topics": {"1": "0.4346447", "3": "0.3362493", "5": "0.20302352"}}

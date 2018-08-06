@@ -1,0 +1,1 @@
+{"text": "if you look thru our reviews we bought and returned a bunch of bras, 19 of them and only one was good and this was not it....it would have been ok with about half as much material", "sentiment": "negative", "topics": {"1": "0.3330294", "2": "0.20766805", "3": "0.42556837"}}

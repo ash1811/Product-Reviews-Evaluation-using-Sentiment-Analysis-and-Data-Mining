@@ -1,0 +1,1 @@
+{"text": "These are small hoops, with an outer diameter of just under 5/8&#34;. However, they are classics that will never go out of style.", "sentiment": "positive", "topics": {"0": "0.013011214", "1": "0.18779112", "2": "0.2276703", "3": "0.17163955", "4": "0.01304641", "5": "0.27311876", "6": "0.11372264"}}

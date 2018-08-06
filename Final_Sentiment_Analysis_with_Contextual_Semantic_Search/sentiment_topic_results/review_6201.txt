@@ -1,0 +1,1 @@
+{"text": "I love the material, I love how it feels. I simply wish Jerzee's offered smaller sizes, so that it would fit a bit better.", "sentiment": "positive", "topics": {"1": "0.27055332", "3": "0.42778248", "4": "0.2634088"}}

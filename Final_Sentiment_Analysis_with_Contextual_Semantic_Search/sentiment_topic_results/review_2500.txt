@@ -1,0 +1,1 @@
+{"text": "I purchased these for my 6'2&#34; slender son. I was so glad to find a well-made, heavy denim, reasonably priced pair of jeans that came in a 32&#34; waist and 36&#34; inseam. They fit him perfectly.", "sentiment": "positive", "topics": {"0": "0.35404736", "1": "0.3090608", "4": "0.22179744", "6": "0.09460869"}}

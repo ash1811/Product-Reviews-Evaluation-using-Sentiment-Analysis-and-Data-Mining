@@ -1,0 +1,1 @@
+{"text": "i like seiko watches, that one is a kinetic one. i like it. it works well and is very suitable. i recommend that watch who is beautiful", "sentiment": "negative", "topics": {"0": "0.30797794", "2": "0.525378", "6": "0.12844513"}}

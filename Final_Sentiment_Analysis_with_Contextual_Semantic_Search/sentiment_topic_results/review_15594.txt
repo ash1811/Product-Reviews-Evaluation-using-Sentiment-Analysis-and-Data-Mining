@@ -1,0 +1,1 @@
+{"text": "Great secure pouch to wear under your clothing for security,  Breathable mesh on the back side to keep it cool against your skin.", "sentiment": "negative", "topics": {"0": "0.17991087", "1": "0.14749336", "2": "0.010224931", "3": "0.16259415", "4": "0.010226542", "5": "0.28705245", "6": "0.20249769"}}

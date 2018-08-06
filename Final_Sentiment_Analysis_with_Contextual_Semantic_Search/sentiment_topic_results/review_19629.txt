@@ -1,0 +1,1 @@
+{"text": "Great case and looks great to! I don't mind keeping this watch case on the night stand to display my collection. The fit and finish look great and the inside is soft and spacious! I own two now!", "sentiment": "negative", "topics": {"0": "0.16519973", "1": "0.5147445", "2": "0.29516813"}}

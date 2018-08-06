@@ -1,0 +1,1 @@
+{"text": "I like these.  I purchased them to blouse my pant legs to keep ticks out while clearing my property.  They work well but could be a little longer as they fit very snugly around my smallish to average size legs", "sentiment": "negative", "topics": {"1": "0.38948345", "2": "0.1641697", "3": "0.30122593", "4": "0.05774536", "5": "0.07491335"}}

@@ -1,0 +1,1 @@
+{"text": "My favorite feature of these pants, other than the great fit, is they have SEVEN belt loops. The only thing I would ask for is a shorter inseam. But nobody makes a 34X27, so I have to settle for 34X29.", "sentiment": "positive", "topics": {"0": "0.2351077", "1": "0.23610152", "2": "0.21930915", "3": "0.05616505", "4": "0.07768056", "5": "0.16811097"}}

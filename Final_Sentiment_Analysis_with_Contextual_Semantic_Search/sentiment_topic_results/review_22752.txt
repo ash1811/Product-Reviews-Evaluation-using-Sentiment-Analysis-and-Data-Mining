@@ -1,0 +1,1 @@
+{"text": "This is beautiful.  Was a gift from my husband 20+ years ago, but lost it.  Love wearing it and the silver is beautiful.", "sentiment": "negative", "topics": {"0": "0.28595427", "1": "0.011044632", "2": "0.10718462", "3": "0.11578092", "4": "0.25255218", "5": "0.011033161", "6": "0.21645021"}}

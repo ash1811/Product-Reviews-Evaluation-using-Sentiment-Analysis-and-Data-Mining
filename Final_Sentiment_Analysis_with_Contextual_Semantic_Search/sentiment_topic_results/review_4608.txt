@@ -1,0 +1,1 @@
+{"text": "These pants are good for work however they wrinkle really bad, the fit is good and the color is too.", "sentiment": "negative", "topics": {"0": "0.011956699", "1": "0.74166936", "2": "0.198696", "3": "0.011926819", "4": "0.011910085", "5": "0.0119214095", "6": "0.011919594"}}

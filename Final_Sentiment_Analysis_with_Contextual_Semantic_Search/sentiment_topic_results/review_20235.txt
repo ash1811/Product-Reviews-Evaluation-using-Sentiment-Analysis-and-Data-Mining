@@ -1,0 +1,1 @@
+{"text": "These are hubby's favorite shoe trees, he gets them for all his better shoes. Made the old-fashioned way - good detail work and well finished.", "sentiment": "negative", "topics": {"0": "0.13113293", "2": "0.47230282", "5": "0.24417223", "6": "0.12548389"}}

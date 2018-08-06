@@ -1,0 +1,1 @@
+{"text": "My 2 year old wore this for his pirate themed birthday.  I got the small and it was a little big (he wears 2T), but we can wear it for Halloween next year too.", "sentiment": "negative", "topics": {"0": "0.10573315", "1": "0.4421772", "2": "0.2692843", "6": "0.16127254"}}

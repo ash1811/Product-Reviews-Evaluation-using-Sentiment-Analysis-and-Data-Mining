@@ -1,0 +1,1 @@
+{"text": "Very comfortable and great for work! I bought these in a size 3 and they are awesome! I love them! Probably my favorite pair of work pants! They are stretchy where need be and not too tight so they don't show every little thing if you know what I mean!", "sentiment": "negative", "topics": {"1": "0.6641798", "2": "0.075465165", "3": "0.09364579", "6": "0.14879814"}}

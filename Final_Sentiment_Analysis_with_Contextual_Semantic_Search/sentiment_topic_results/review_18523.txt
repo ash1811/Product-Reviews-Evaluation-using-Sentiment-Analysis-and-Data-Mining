@@ -1,0 +1,1 @@
+{"text": "When I first got them I thought I got a great deal because they looked so great.  The first time I wore them for two hours I recieved blisters, but I thought that was just because I had to break them in.  No luck still", "sentiment": "negative", "topics": {"0": "0.10912875", "2": "0.05451325", "3": "0.36588228", "5": "0.44998905"}}

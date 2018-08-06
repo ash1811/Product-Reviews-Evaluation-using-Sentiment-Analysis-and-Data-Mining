@@ -1,0 +1,1 @@
+{"text": "Was excited to try these out after reading all the glowing reviews, but sadly they were too small.Also, the dark brown is much more reddish than I had expected.", "sentiment": "positive", "topics": {"0": "0.124728315", "1": "0.3954536", "2": "0.11849858", "3": "0.24912198", "4": "0.01102435", "5": "0.011023938", "6": "0.09014921"}}

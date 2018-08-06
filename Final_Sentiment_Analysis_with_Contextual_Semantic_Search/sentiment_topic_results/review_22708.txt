@@ -1,0 +1,1 @@
+{"text": "I thought these panties were comfortable when I first put them on, but after I wore them with a pair of jeans that were a little below my waist, the waistband kept rolling down.", "sentiment": "negative", "topics": {"1": "0.2059879", "2": "0.17456229", "3": "0.2958168", "5": "0.2967687"}}

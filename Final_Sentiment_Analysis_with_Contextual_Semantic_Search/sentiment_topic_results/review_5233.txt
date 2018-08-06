@@ -1,0 +1,1 @@
+{"text": "This is the perfect shoe purchase for my 95 year old mother to wear in the nursing home.  Thank you ISOTONER for continuing to make this long-time WONDERFUL shoe.", "sentiment": "negative", "topics": {"1": "0.28401077", "2": "0.19361214", "3": "0.12470938", "4": "0.20631875", "5": "0.088222116", "6": "0.09517432"}}

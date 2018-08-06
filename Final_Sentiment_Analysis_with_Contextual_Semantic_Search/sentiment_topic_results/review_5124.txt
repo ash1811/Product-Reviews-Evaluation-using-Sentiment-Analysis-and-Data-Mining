@@ -1,0 +1,1 @@
+{"text": "My friend wears these around the house constantly.  Great Christmas present.  Glad I bought it.  They're not as soft as some of the socks out there but very warm and comfortable.", "sentiment": "positive", "topics": {"1": "0.34394225", "3": "0.15480693", "5": "0.46752962"}}

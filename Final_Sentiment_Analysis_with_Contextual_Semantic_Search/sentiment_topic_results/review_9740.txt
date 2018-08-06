@@ -1,0 +1,1 @@
+{"text": "Keds are my favorites sneakers. just need to add an insole. It has a really thin one, but besides that is great.", "sentiment": "negative", "topics": {"0": "0.011946993", "1": "0.011996891", "2": "0.36073378", "3": "0.09646598", "4": "0.011996912", "5": "0.40711823", "6": "0.09974125"}}

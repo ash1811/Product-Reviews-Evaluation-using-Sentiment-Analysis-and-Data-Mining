@@ -1,0 +1,1 @@
+{"text": "Am really impress with this travel bag. Excellent quality for the price. The garment bag is very sturdy and has very high quality materials. I would recommend this back to anyone that travels a lot.", "sentiment": "negative", "topics": {"1": "0.5786274", "2": "0.17791346", "5": "0.10151049", "6": "0.12043284"}}

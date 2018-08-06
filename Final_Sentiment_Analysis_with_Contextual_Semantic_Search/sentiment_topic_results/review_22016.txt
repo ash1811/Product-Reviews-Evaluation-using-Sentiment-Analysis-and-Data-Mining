@@ -1,0 +1,1 @@
+{"text": "These are nice boots, and I was happy to find that they have roomy calves, so they're great for wrestling with skinny jeans and leggings.", "sentiment": "negative", "topics": {"0": "0.011011111", "1": "0.24005075", "2": "0.010995907", "3": "0.086817555", "4": "0.62909365", "5": "0.011036411", "6": "0.010994625"}}

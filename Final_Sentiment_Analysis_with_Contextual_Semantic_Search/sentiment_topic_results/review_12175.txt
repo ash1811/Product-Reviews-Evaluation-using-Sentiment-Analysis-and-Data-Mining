@@ -1,0 +1,1 @@
+{"text": "Keep in mind they are sized a bit small.  I have a size 10 shoe and purchased the XL after reading all the customer reviews to go a bit larger.  They fit perfect and do a great job at protecting nice dress shoes.", "sentiment": "negative", "topics": {"1": "0.5921101", "2": "0.1924649", "4": "0.09101003", "6": "0.107197486"}}

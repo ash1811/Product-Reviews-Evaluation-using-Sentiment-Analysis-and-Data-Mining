@@ -1,0 +1,1 @@
+{"text": "I acquired it for their own hours., In my opinion, this is an indispensable thing to keep its collection of watches in order, beauty and reliability. Well take it with in travel. Me personally it to be pleasant.", "sentiment": "negative", "topics": {"0": "0.38176718", "1": "0.23918022", "2": "0.17671436", "4": "0.086608395", "5": "0.09885281"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes are pretty as well as comfortable. You can't ask for much more than that. I'l keep buying them for as long as they make them and I hope that's forever!!", "sentiment": "negative", "topics": {"1": "0.31710672", "2": "0.18107076", "3": "0.3141627", "4": "0.16225065"}}

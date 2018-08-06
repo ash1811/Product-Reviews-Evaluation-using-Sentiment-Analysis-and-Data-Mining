@@ -1,0 +1,1 @@
+{"text": "The High Sierra Tank Pack is a good bag, albeit a big bigger than I thought it would be.  That being said, I really like it and will definitely have use for it.  It's definitely good quality.", "sentiment": "positive", "topics": {"0": "0.16344355", "1": "0.38235262", "3": "0.32373548", "6": "0.11095242"}}

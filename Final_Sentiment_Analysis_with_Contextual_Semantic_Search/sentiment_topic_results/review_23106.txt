@@ -1,0 +1,1 @@
+{"text": "I love this product.  Fits well and doesn't slip off my shoulders.  Cup size seems a little larger, however.  Bought two and very happy with it.", "sentiment": "negative", "topics": {"0": "0.14733346", "1": "0.25611642", "2": "0.105499476", "3": "0.1850551", "4": "0.14995117", "5": "0.14761731"}}

@@ -1,0 +1,1 @@
+{"text": "Easy to go jeans, great and comfortable fit,  use it at home and on the ranch, sturdy and reliable, just wash and go kind of item, love it.", "sentiment": "negative", "topics": {"1": "0.35363", "4": "0.23624131", "5": "0.21934503", "6": "0.16686355"}}

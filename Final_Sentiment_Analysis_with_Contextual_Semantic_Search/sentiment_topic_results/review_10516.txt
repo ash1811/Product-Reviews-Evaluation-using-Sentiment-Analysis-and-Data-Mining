@@ -1,0 +1,1 @@
+{"text": "I bought these to go with my brown hiking boots. They are so soft and a nice thickness. They are a very nice dark brown, just what I hoped for. These socks are made in the USA and come with a 1 year warranty!", "sentiment": "negative", "topics": {"0": "0.083949685", "1": "0.5259169", "4": "0.30319726", "6": "0.06641799"}}

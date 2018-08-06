@@ -1,0 +1,1 @@
+{"text": "Light weight, durable, true to size, and they look great on my husband.  Men cannot go wrong with Carhartt brand clothing.", "sentiment": "negative", "topics": {"1": "0.5439868", "2": "0.08906645", "3": "0.24997652", "4": "0.0901224"}}

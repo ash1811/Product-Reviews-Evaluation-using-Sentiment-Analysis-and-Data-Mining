@@ -1,0 +1,1 @@
+{"text": "soft to the touch, the fabric smooth and comfortable fabrics , I love it although  the price a little expensive .", "sentiment": "positive", "topics": {"0": "0.011961678", "1": "0.7323296", "2": "0.011911838", "3": "0.011937199", "4": "0.011948267", "5": "0.20798922", "6": "0.01192215"}}

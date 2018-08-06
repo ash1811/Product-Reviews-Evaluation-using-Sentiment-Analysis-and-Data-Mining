@@ -1,0 +1,1 @@
+{"text": "love me some Flexees, but just cannot find them in the brick, and mortar stores anymore. not sure why, so I was so happy when I found them on AMAZING AMAZON,  will be stocking up", "sentiment": "negative", "topics": {"0": "0.17154647", "2": "0.1610633", "3": "0.15212782", "4": "0.48831195"}}

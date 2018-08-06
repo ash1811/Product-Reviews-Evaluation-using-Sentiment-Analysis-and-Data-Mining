@@ -1,0 +1,1 @@
+{"text": "I got this for around $10, and it's great for that price. It's a cheap costume, but it looks cute and my kids like it. We use it for dress-up.", "sentiment": "negative", "topics": {"0": "0.37283716", "4": "0.10860259", "5": "0.48031092"}}

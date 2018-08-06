@@ -1,0 +1,1 @@
+{"text": "The dress is not as pink as in the picture, rather a dull color. Fitting was OK, wife likes the lace and cut at the top but giving low marks because of the shade.", "sentiment": "negative", "topics": {"1": "0.38744295", "2": "0.12879634", "3": "0.08693463", "4": "0.16002117", "6": "0.22087783"}}

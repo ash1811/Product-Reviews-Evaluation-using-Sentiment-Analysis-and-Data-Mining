@@ -1,0 +1,1 @@
+{"text": "Like the quality of material. Fit is a little loose, but that's the way I like it, ordered assize med.", "sentiment": "negative", "topics": {"0": "0.010238551", "1": "0.4951889", "2": "0.010243946", "3": "0.3400693", "4": "0.010221379", "5": "0.12376202", "6": "0.010275915"}}

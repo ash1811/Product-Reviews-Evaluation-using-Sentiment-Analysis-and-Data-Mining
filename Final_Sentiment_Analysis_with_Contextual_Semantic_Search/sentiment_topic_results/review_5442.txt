@@ -1,0 +1,1 @@
+{"text": "This was Great for a cheeper hoodie. It is hard to come by quality like this for the price. very satisfied", "sentiment": "positive", "topics": {"0": "0.1799399", "1": "0.35130152", "2": "0.014311078", "3": "0.13801885", "4": "0.13368693", "5": "0.0143098105", "6": "0.16843191"}}

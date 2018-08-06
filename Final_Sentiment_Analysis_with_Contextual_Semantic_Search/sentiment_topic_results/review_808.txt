@@ -1,0 +1,1 @@
+{"text": "These are cool looking shoes.  But the leather seems cheap.  I'll have to see how they hold up over time.", "sentiment": "negative", "topics": {"0": "0.013059123", "1": "0.01302374", "2": "0.3897142", "3": "0.43235427", "4": "0.12576245", "5": "0.013074447", "6": "0.0130117135"}}

@@ -1,0 +1,1 @@
+{"text": "The main problem is that the elastic does not go completely around the leg opening, making it very uncomfortable because the leg opening without the elastic stretches as a result any physical activity. Definitely would avoid this product.", "sentiment": "negative", "topics": {"1": "0.2829074", "3": "0.39729437", "5": "0.225227", "6": "0.07585916"}}

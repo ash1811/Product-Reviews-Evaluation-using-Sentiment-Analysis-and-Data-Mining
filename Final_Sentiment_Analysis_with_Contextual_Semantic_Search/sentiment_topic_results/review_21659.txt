@@ -1,0 +1,1 @@
+{"text": "The socks are comfortable and neat in appearance.  Perfect with jeans and other casual attire.  Warm in the cool weather .", "sentiment": "negative", "topics": {"0": "0.011989388", "1": "0.39928028", "2": "0.011915702", "3": "0.0812759", "4": "0.011919237", "5": "0.2453674", "6": "0.23825206"}}

@@ -1,0 +1,1 @@
+{"text": "This product was exactly as described.  I can't say enough nice things about the product.  Spouse wore these shoes everyday while on a recent vacation, hard to get him out of them.", "sentiment": "negative", "topics": {"0": "0.31792435", "1": "0.15881458", "2": "0.11660297", "4": "0.07112707", "5": "0.26786014", "6": "0.06012127"}}

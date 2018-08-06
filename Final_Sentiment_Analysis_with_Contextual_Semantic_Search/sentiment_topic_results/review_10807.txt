@@ -1,0 +1,1 @@
+{"text": "I was very pleasantly surprised since I had never bought these slippers before. They are SUPER comfortable.  I would definitely recommend these and they fit exactly to my foot. Enjoy", "sentiment": "negative", "topics": {"0": "0.34783512", "1": "0.35212645", "3": "0.09251238", "6": "0.18219347"}}

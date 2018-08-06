@@ -1,0 +1,1 @@
+{"text": "This sock has just the right amount of cushion and just the right fit. The tall height is great for my jump boots. Makes wearing my boots all day long a breeze. Wish they had these in the 70s while I was in the service.", "sentiment": "positive", "topics": {"0": "0.08591715", "1": "0.4019041", "2": "0.08280045", "3": "0.1277221", "4": "0.19774516", "5": "0.097101174"}}

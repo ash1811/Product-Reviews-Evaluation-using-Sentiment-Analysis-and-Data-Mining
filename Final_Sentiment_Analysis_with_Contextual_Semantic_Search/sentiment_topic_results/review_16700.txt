@@ -1,0 +1,1 @@
+{"text": "This my second pair.  They only last a couple of years and then the zippers don't work--but they are worth the price.  Love the way they look and feel!", "sentiment": "positive", "topics": {"0": "0.010239831", "1": "0.36839005", "2": "0.010221681", "3": "0.010249175", "4": "0.4637194", "5": "0.010237351", "6": "0.12694247"}}

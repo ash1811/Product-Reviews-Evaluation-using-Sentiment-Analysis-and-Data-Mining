@@ -1,0 +1,1 @@
+{"text": "i loved these shoes i bought them for my little brother which he has a big foot because he is the same size as me and he is in 6th grade lol", "sentiment": "positive", "topics": {"0": "0.011923296", "1": "0.48315933", "2": "0.10199212", "3": "0.011947697", "4": "0.10189115", "5": "0.011926208", "6": "0.27716017"}}

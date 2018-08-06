@@ -1,0 +1,1 @@
+{"text": "Haven't used it yet, but this will sure beat struggling with a thin bladed knife to reach the catch bar when replacing watchbands!", "sentiment": "negative", "topics": {"0": "0.010265604", "1": "0.01026226", "2": "0.32213527", "3": "0.010207419", "4": "0.23075695", "5": "0.19625737", "6": "0.22011514"}}

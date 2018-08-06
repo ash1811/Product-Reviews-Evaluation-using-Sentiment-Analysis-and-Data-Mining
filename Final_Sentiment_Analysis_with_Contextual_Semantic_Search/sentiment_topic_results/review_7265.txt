@@ -1,0 +1,1 @@
+{"text": "Long wearing and I love the gusset- I am a farrier and these jeans give me a lot more flexibility and room to move.  Comfortable and pockets last forever.", "sentiment": "positive", "topics": {"1": "0.44406968", "2": "0.08550627", "4": "0.22583842", "5": "0.21776342"}}

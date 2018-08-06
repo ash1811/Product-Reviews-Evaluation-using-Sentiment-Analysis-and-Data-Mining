@@ -1,0 +1,1 @@
+{"text": "Nice.  A good way to potty train your child.  My daughter liked the look and feel of these training pants.", "sentiment": "negative", "topics": {"0": "0.01103712", "1": "0.43655494", "2": "0.11303086", "3": "0.22176854", "4": "0.1955587", "5": "0.011026572", "6": "0.011023232"}}

@@ -1,0 +1,1 @@
+{"text": "The shoe fits perfectly. Can be worn for most of the day, first time out. It is an attractive shoe, and comfortable. Best of all, it comes in wide. A good fall, or mild winter shoe.", "sentiment": "negative", "topics": {"1": "0.55986094", "2": "0.19317491", "6": "0.21967936"}}

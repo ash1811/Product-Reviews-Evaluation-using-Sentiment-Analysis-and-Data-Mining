@@ -1,0 +1,1 @@
+{"text": "I really like the jeans, they seem to fit better than Wranglers eventhough I wear both brands. the color is very nice, not a big fanof bluejeans lately.", "sentiment": "negative", "topics": {"1": "0.42706266", "3": "0.12631008", "4": "0.1929288", "5": "0.22840711"}}

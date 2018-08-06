@@ -1,0 +1,1 @@
+{"text": "Besides buying a size too large,  the leather is so soft that it looks lumpy on your feet.  I didn't like how it looked.  Very cushiony insole.", "sentiment": "positive", "topics": {"0": "0.31545737", "1": "0.010236756", "2": "0.29303232", "3": "0.35049123", "4": "0.0102908835", "5": "0.010236515", "6": "0.010254949"}}

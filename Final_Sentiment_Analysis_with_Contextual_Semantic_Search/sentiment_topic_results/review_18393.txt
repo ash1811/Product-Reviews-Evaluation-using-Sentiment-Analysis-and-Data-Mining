@@ -1,0 +1,1 @@
+{"text": "I'd give the bra 5 stars except the lace is a bit itchy but other then that the bra is great! The fit is what I expected and my bf is a huge fan of it as well hahaha proud owner of 34Gs that are finally comfortable here", "sentiment": "negative", "topics": {"0": "0.14630824", "1": "0.3989598", "2": "0.12371102", "3": "0.3131403"}}

@@ -1,0 +1,1 @@
+{"text": "comfortable great looks soft smooth and service to get them on a timely matter was perfect. Could not ask for more", "sentiment": "positive", "topics": {"0": "0.011065521", "1": "0.6657232", "2": "0.011008883", "3": "0.0110188015", "4": "0.12645896", "5": "0.1637261", "6": "0.010998494"}}

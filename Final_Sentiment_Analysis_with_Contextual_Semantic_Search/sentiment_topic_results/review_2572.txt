@@ -1,0 +1,1 @@
+{"text": "I have had problems with skin cancer on my ears. My Dr. ordered me to wear wide brim hats. This had fits great and covers my ears.", "sentiment": "negative", "topics": {"1": "0.36491773", "4": "0.26676667", "5": "0.1594384", "6": "0.18023206"}}

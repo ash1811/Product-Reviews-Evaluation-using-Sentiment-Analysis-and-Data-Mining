@@ -1,0 +1,1 @@
+{"text": "Love them. There is no other brand of boots as iconic as Docs. People who want the real deal are the ones who should buy them", "sentiment": "negative", "topics": {"0": "0.011008103", "1": "0.16503674", "2": "0.011045288", "3": "0.37814358", "4": "0.23270717", "5": "0.1910646", "6": "0.010994515"}}

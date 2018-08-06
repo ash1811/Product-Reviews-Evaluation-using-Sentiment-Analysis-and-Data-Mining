@@ -1,0 +1,1 @@
+{"text": "They are a little narrow but very forgiving, the leather stretches.  Not super fashionable but very light weight and practical.", "sentiment": "positive", "topics": {"0": "0.013025025", "1": "0.5642112", "2": "0.14196056", "3": "0.122274235", "4": "0.1325058", "5": "0.013022901", "6": "0.01300031"}}

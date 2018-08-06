@@ -1,0 +1,1 @@
+{"text": "Excellent value and saves from having to constantly spot clean my carpet from those that choose not to remove their shoes. This is well worth the effort and it makes less work for me!", "sentiment": "negative", "topics": {"1": "0.24237561", "2": "0.39576963", "3": "0.12470714", "4": "0.15244128", "6": "0.06879684"}}

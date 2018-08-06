@@ -1,0 +1,1 @@
+{"text": "The watch winder is adequate but probably won't last over a year due to past experience with this type.  Good construction but the belts look like rubber bands.", "sentiment": "negative", "topics": {"1": "0.31843993", "2": "0.17392643", "5": "0.36141437", "6": "0.12226147"}}

@@ -1,0 +1,1 @@
+{"text": "This watch replaced my Tissot PR50, a $250 watch.  This Casio is more than comparable to such a pricey watch.  What you get for $30 is simply too good of a deal.  This Casio is classy yet functional.", "sentiment": "positive", "topics": {"0": "0.24441878", "2": "0.17016412", "3": "0.22350535", "4": "0.11701508", "6": "0.23056598"}}

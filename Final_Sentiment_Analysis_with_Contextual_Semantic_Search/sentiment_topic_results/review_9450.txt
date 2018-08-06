@@ -1,0 +1,1 @@
+{"text": "Nice earrings. Wife loves them.  Good quality as far as I can tell. (I'm no Jewler). Would probably buy this again and recommend.", "sentiment": "negative", "topics": {"1": "0.68958855", "2": "0.26561347"}}

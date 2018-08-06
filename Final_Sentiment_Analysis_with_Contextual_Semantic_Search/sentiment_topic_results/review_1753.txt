@@ -1,0 +1,1 @@
+{"text": "I bought three based on other reviews, and after I got  them I bought three more. You can almost forget that you have them on! Well made, hope they will last long. Will maybe buy some more soon", "sentiment": "negative", "topics": {"1": "0.29228514", "2": "0.11726723", "3": "0.36116445", "4": "0.20776466"}}

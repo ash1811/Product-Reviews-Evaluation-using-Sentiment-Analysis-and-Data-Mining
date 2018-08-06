@@ -1,0 +1,1 @@
+{"text": "Great pants. Incredibly durable. Clean up well. I picture these work pants lasting for years and years. Won't buy any other work pants.", "sentiment": "negative", "topics": {"1": "0.8102087", "2": "0.14507222"}}

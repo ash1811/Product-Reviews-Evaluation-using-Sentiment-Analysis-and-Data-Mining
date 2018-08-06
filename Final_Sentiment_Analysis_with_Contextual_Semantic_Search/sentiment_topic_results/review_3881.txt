@@ -1,0 +1,1 @@
+{"text": "These are fantastic - can't think of anything you would not want to wear them under!  They easily take off 2 or 3 inches!", "sentiment": "positive", "topics": {"0": "0.24343042", "1": "0.46262044", "2": "0.14534745", "3": "0.010234492", "4": "0.010214447", "5": "0.0102292895", "6": "0.11792345"}}

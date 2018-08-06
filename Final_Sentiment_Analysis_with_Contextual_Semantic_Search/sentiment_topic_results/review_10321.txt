@@ -1,0 +1,1 @@
+{"text": "These shoes are well made but could be a little more supportive in the arch. I have an old pair of Keen sandles and they have more support.", "sentiment": "negative", "topics": {"0": "0.011020352", "1": "0.011049859", "2": "0.13962963", "3": "0.46926647", "4": "0.011027736", "5": "0.2600273", "6": "0.097978644"}}

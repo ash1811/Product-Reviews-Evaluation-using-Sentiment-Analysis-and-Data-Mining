@@ -1,0 +1,1 @@
+{"text": "The quality of the jeans seemed good but the length was 33 1/2 instead of the 32 inseam that I ordered. I had expected the material would be a little heavier since there described as rugged outdoor style.", "sentiment": "negative", "topics": {"1": "0.32455084", "3": "0.12502319", "4": "0.18490607", "5": "0.27263957", "6": "0.079845965"}}

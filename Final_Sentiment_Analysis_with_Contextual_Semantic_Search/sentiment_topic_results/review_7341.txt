@@ -1,0 +1,1 @@
+{"text": "Very heavy and well made. Bought them for my son and they fit him well, so pretty true to size.", "sentiment": "negative", "topics": {"0": "0.013018031", "1": "0.73919255", "2": "0.013003432", "3": "0.01304208", "4": "0.012994211", "5": "0.013015254", "6": "0.19573446"}}

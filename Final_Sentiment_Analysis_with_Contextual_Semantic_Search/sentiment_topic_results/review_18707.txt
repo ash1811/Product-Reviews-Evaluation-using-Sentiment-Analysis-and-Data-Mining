@@ -1,0 +1,1 @@
+{"text": "Quality product. Fantastic hosiery. Will buy more of these soon. Love Love Love them. What more can I say. Wow", "sentiment": "negative", "topics": {"0": "0.114285745", "1": "0.20243508", "2": "0.011018777", "3": "0.27896583", "4": "0.15984133", "5": "0.1253557", "6": "0.10809755"}}

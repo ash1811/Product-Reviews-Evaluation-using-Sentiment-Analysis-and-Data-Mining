@@ -1,0 +1,1 @@
+{"text": "Already had a pair of these so I knew what to expect. They are the most comfortable tennis shoes that I have ever owned. And the fact that they slip on is a bonus!", "sentiment": "negative", "topics": {"0": "0.19540474", "1": "0.18450218", "2": "0.10984806", "3": "0.47711083", "4": "0.0110131465", "5": "0.011071236", "6": "0.011049791"}}

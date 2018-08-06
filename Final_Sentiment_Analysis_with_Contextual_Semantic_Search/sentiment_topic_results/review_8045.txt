@@ -1,0 +1,1 @@
+{"text": "Look slightly different than I had expected but it is extremely durable.  Perfect for wearing to work.  Very highly recommended.", "sentiment": "negative", "topics": {"0": "0.011945008", "1": "0.6207408", "2": "0.18403761", "3": "0.011954318", "4": "0.011921712", "5": "0.14746521", "6": "0.011935337"}}

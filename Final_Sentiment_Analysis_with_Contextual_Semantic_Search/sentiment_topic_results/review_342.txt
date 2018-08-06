@@ -1,0 +1,1 @@
+{"text": "The shirt arrived earlier then expected.  My husband loves color and the blend of EcoSmart Knit.  It fits beautifully.A shirt that fits makes for a happy husband.", "sentiment": "negative", "topics": {"0": "0.08719659", "1": "0.36250877", "2": "0.0981505", "3": "0.069900915", "4": "0.281674", "5": "0.092617765"}}

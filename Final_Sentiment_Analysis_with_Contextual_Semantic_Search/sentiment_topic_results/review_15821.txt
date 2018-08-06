@@ -1,0 +1,1 @@
+{"text": "Not the best made necklace. The stones that go inside look pretty cheap, but you can hardly see them so it doesn't matter.", "sentiment": "negative", "topics": {"0": "0.6014364", "1": "0.011051214", "2": "0.011032252", "3": "0.011008053", "4": "0.25191265", "5": "0.01101278", "6": "0.10254664"}}

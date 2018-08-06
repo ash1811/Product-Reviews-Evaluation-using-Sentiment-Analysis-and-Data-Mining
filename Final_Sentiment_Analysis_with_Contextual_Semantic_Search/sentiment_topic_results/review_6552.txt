@@ -1,0 +1,1 @@
+{"text": "I mainly use these to pad around the house. Just about every house slipper makes my feet hurt after several hours of housework but these work perfectly and they don't leave foot prints after I swiffer the floors!", "sentiment": "negative", "topics": {"1": "0.0611919", "3": "0.41982234", "4": "0.14029092", "5": "0.09734714", "6": "0.26834637"}}

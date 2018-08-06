@@ -1,0 +1,1 @@
+{"text": "It runs a bit small but good bra just get a size up if you are a big breasted gal", "sentiment": "negative", "topics": {"0": "0.013008908", "1": "0.22068167", "2": "0.12240622", "3": "0.48434737", "4": "0.013002118", "5": "0.013008104", "6": "0.1335456"}}

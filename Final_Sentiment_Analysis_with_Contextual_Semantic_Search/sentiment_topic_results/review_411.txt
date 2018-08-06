@@ -1,0 +1,1 @@
+{"text": "This Item truly rocks. I plan on having a costume put together & these items feel very authentic... it does have the WB store ticket. So it is a Warner Bros. item.", "sentiment": "negative", "topics": {"0": "0.18539238", "1": "0.19460922", "3": "0.15586138", "4": "0.1652151", "6": "0.28206953"}}

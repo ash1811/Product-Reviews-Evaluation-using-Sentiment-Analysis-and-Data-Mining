@@ -1,0 +1,1 @@
+{"text": "Great color, great fit, great price,  and whatelse can you ask for!  These are definately the flat for your wardrobe.  Can't go wrong, and look at the great colors!", "sentiment": "negative", "topics": {"0": "0.11973689", "1": "0.59845304", "2": "0.057729747", "4": "0.14682513", "6": "0.062166084"}}

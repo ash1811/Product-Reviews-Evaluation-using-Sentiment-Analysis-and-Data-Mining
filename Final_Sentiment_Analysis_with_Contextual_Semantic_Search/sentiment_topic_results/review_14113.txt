@@ -1,0 +1,1 @@
+{"text": "The buttons aren't overly sensitive (problem with my old watch), good fit, easy to use. I highly suggest to anyone.", "sentiment": "negative", "topics": {"0": "0.22908504", "1": "0.19102229", "2": "0.42083764", "3": "0.010249884", "4": "0.010267631", "5": "0.010265545", "6": "0.12827197"}}

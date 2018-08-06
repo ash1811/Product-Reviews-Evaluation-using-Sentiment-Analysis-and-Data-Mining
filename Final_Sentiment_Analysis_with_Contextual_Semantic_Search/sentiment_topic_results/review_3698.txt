@@ -1,0 +1,1 @@
+{"text": "Quality product in a classic style.  I love these aviators.  They are smaller than most so they fit my face perfectly.  The arms are a little stiff but I'm sure they will loosen up with wear.  Highly recommend these sexy shades.", "sentiment": "negative", "topics": {"1": "0.29352468", "2": "0.1750612", "3": "0.17837848", "4": "0.21261092", "5": "0.12741837"}}

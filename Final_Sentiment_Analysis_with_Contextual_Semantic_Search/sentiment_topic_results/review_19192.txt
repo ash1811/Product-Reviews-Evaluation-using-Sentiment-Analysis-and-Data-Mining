@@ -1,0 +1,1 @@
+{"text": "this is a good costume for the money. it fits good, seemingly well made. best price ive seen for this costume", "sentiment": "positive", "topics": {"0": "0.21801797", "1": "0.4119391", "2": "0.010212967", "3": "0.092605755", "4": "0.101994835", "5": "0.1550205", "6": "0.010208881"}}

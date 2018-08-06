@@ -1,0 +1,1 @@
+{"text": "These are comfy, but run a bit large.  I like the sole on them as I  can run outside if I have to.  They are warm and soft, If I wear sox with them they fit better.", "sentiment": "negative", "topics": {"0": "0.107739925", "1": "0.27983403", "3": "0.5766194"}}

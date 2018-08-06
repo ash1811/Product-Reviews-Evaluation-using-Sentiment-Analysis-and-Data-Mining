@@ -1,0 +1,1 @@
+{"text": "To me and my feet, they were worth the investment.  I love these boots and recommend them (if it is within your budget).", "sentiment": "positive", "topics": {"0": "0.0143021485", "1": "0.014305425", "2": "0.27860856", "3": "0.014294647", "4": "0.6498894", "5": "0.014312163", "6": "0.014287609"}}

@@ -1,0 +1,1 @@
+{"text": "bought these for my son who is tall & thin. They fit him perfect. He is one that is difficult to buy pants for so I thank you for having something. These are PERFECT for him", "sentiment": "negative", "topics": {"0": "0.010259886", "1": "0.6623367", "2": "0.21118966", "3": "0.010211593", "4": "0.010280142", "5": "0.010268784", "6": "0.085453235"}}

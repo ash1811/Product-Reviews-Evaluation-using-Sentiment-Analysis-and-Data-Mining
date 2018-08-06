@@ -1,0 +1,1 @@
+{"text": "I've bought this pair of shoes at the retail store in Singapore when I first got pregnant and its the ONLY pair of shoes I will wear up till my son's a year old. I would continue wearing them for walks around the neighborhood. Its SUPER comfortable!", "sentiment": "negative", "topics": {"1": "0.39038664", "2": "0.16437756", "3": "0.13257508", "5": "0.29614505"}}

@@ -1,0 +1,1 @@
+{"text": "I brought this shoes for my mother as a gift. It's a very good product and worth the price. The rubber sole is very soft and resilient. Strongly recommend!", "sentiment": "positive", "topics": {"0": "0.1164898", "1": "0.32963213", "2": "0.2436273", "5": "0.21407908", "6": "0.07705845"}}

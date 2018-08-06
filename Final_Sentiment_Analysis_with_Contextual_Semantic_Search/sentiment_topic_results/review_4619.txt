@@ -1,0 +1,1 @@
+{"text": "these jeans are on the thin side material wise.  the color faded pretty quick but a nice looking pair of jeans", "sentiment": "negative", "topics": {"0": "0.010241425", "1": "0.40565112", "2": "0.07977513", "3": "0.0102362875", "4": "0.29508853", "5": "0.10596311", "6": "0.093044385"}}

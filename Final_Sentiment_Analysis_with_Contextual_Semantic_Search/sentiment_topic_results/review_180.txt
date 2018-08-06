@@ -1,0 +1,1 @@
+{"text": "He wears this shirt with comfort and ease.It fades a little with first laundried so should be washed with liked colors.Thanks //Thema", "sentiment": "negative", "topics": {"0": "0.011018499", "1": "0.57183653", "2": "0.011081597", "3": "0.011038563", "4": "0.011040011", "5": "0.37291765", "6": "0.011067162"}}

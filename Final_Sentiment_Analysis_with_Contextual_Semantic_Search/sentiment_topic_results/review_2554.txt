@@ -1,0 +1,1 @@
+{"text": "I got this for a friend of mine and she loved it!  She loves dogs and it was perfect.  Great price found on Amazon.  Thank you!", "sentiment": "positive", "topics": {"1": "0.23662001", "2": "0.10169797", "3": "0.19742012", "4": "0.1918962", "5": "0.2532391"}}

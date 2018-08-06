@@ -1,0 +1,1 @@
+{"text": "Nice little box, quality made and lock works great as well as hold even my very large rings which my be up to 2 inches and taller rings up to a half in with no problems", "sentiment": "positive", "topics": {"0": "0.23838933", "1": "0.51729137", "3": "0.21567889"}}

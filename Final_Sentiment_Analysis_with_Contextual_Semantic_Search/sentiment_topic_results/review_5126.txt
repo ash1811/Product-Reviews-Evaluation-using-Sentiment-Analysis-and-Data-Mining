@@ -1,0 +1,1 @@
+{"text": "they arrived today and immediately put them on my feet, they are so warm and comfortable,  fit very well, the colors are so cute and bright I just love them, I highly recommend this socks, thank you", "sentiment": "negative", "topics": {"0": "0.11610371", "1": "0.43327487", "2": "0.13325489", "4": "0.1329993", "5": "0.16929159"}}

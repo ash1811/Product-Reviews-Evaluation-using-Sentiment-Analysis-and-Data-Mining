@@ -1,0 +1,1 @@
+{"text": "Look and feel high high dollar but very inexpensive.  You do have to be careful with them as they can tear easily when putting them on.  Otherwise they are amazing!", "sentiment": "negative", "topics": {"0": "0.010278294", "1": "0.010252339", "2": "0.010220841", "3": "0.16261663", "4": "0.1833042", "5": "0.32603526", "6": "0.29729247"}}

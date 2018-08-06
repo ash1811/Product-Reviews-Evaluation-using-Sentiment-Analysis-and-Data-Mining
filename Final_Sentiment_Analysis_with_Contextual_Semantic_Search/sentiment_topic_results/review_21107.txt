@@ -1,0 +1,1 @@
+{"text": "This suit fits well and is fully lined with shelf bra.  I do laps abourt 4x/week and this suit is great.", "sentiment": "negative", "topics": {"0": "0.09888045", "1": "0.16792999", "2": "0.1708056", "3": "0.09411787", "4": "0.15484177", "5": "0.30241817", "6": "0.011006171"}}

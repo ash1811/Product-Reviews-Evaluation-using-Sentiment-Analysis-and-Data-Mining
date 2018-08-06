@@ -1,0 +1,1 @@
+{"text": "These shoes fit great and are really comfortable! I bought 2 pairs and have many Easy Spirit shoes! There are many colors available!", "sentiment": "negative", "topics": {"0": "0.18279037", "1": "0.3932936", "2": "0.14696953", "4": "0.2500938"}}

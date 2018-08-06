@@ -1,0 +1,1 @@
+{"text": "These shorts were the same fit, style, and color as those purchased previously in local sporting goods stores. Material is medium weight. Length is right above the knee. Arrived on time. These shorts last a long time and are easy to clean.", "sentiment": "negative", "topics": {"0": "0.25450253", "1": "0.51653063", "4": "0.11811968", "6": "0.09365108"}}

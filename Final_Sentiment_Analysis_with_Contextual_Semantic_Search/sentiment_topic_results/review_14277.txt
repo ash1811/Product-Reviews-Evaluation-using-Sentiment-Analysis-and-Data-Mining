@@ -1,0 +1,1 @@
+{"text": "This is my fourth pair in this style because they fit my narrow feet and help conceal a growing bunion.  I can wear them on warm rainy days because the foot bed is not slick.  They are also nice enough for work.", "sentiment": "positive", "topics": {"1": "0.31510803", "2": "0.14612113", "3": "0.095944464", "4": "0.2917043", "6": "0.13809045"}}

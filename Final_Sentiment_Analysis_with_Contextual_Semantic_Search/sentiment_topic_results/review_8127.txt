@@ -1,0 +1,1 @@
+{"text": "These are my first pair of reefs and they are so cute and comfortable. Great price too, Reefs are so much more expensive in other places.", "sentiment": "positive", "topics": {"0": "0.1761421", "1": "0.76873046", "2": "0.01101501", "3": "0.011037527", "4": "0.011019473", "5": "0.011051916", "6": "0.011003518"}}

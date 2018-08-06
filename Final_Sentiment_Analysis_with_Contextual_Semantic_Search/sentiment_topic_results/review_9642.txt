@@ -1,0 +1,1 @@
+{"text": "When the light goes on  you have to hold it sideways to see the numbers. Though my daughter just likes the way it looks and isn't concerned with the extra features.Nice watch.", "sentiment": "negative", "topics": {"2": "0.41523552", "3": "0.19544837", "4": "0.14121495", "5": "0.22119085"}}

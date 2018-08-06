@@ -1,0 +1,1 @@
+{"text": "Shirt is OK. Not like the old heavy cotton ones, though. Carhartt used to mean quality; now it means 'China'.", "sentiment": "negative", "topics": {"1": "0.31699446", "4": "0.15616104", "5": "0.10325406", "6": "0.39483947"}}

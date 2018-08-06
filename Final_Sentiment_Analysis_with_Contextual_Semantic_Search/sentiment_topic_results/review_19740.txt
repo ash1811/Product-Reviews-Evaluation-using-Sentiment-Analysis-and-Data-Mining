@@ -1,0 +1,1 @@
+{"text": "These are a perfect weight for my dad and fit just fine. He says they are comfortable and hopefully will wash well. I'll repost if they do not.", "sentiment": "negative", "topics": {"0": "0.010213902", "1": "0.460425", "2": "0.07330597", "3": "0.09222358", "4": "0.19414999", "5": "0.0102338055", "6": "0.15944771"}}

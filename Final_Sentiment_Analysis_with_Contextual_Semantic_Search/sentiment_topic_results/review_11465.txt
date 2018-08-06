@@ -1,0 +1,1 @@
+{"text": "Good quaity, generous sizing. I have washed it already and it has retained its quality look. Very good purchase, especially for the money!", "sentiment": "positive", "topics": {"0": "0.0102211805", "1": "0.6501376", "2": "0.010206736", "3": "0.10951079", "4": "0.010259381", "5": "0.010257689", "6": "0.19940661"}}

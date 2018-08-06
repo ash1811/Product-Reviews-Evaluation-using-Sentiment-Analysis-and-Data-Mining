@@ -1,0 +1,1 @@
+{"text": "I already have ankle moccasins I wanted these for the winter and tried them on ended up making an outfit for the summer with them they are so comfortable :)", "sentiment": "negative", "topics": {"0": "0.08794966", "1": "0.4367949", "2": "0.01193906", "3": "0.21274199", "4": "0.011943356", "5": "0.011930131", "6": "0.22670086"}}

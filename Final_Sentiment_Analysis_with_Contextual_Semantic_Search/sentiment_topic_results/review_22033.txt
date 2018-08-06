@@ -1,0 +1,1 @@
+{"text": "My husband had a pair we bought years ago, they broke and he really missed them, so I was glad when I saw they still sell the same design/color.", "sentiment": "negative", "topics": {"0": "0.094342455", "3": "0.4036114", "4": "0.19195905", "5": "0.21064256", "6": "0.08033016"}}

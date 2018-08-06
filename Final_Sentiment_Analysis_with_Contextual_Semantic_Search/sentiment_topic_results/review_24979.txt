@@ -1,0 +1,1 @@
+{"text": "I have been wearing these off and on for several years. I believe that custom insoles from a podiatrist are better, but these are a less expensive option for those who can't afford those.", "sentiment": "negative", "topics": {"0": "0.120620616", "1": "0.35155278", "4": "0.2450614", "6": "0.2540896"}}

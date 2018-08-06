@@ -1,0 +1,1 @@
+{"text": "They have become my favorite shoes.  They are comfortable, sturdy and look good with jeans or dress slacks.  I got them in wide so I can wear thick socks in the winter.  I now have them in four different colors.", "sentiment": "negative", "topics": {"1": "0.5497979", "2": "0.06454291", "3": "0.07131995", "5": "0.19351834", "6": "0.10650996"}}

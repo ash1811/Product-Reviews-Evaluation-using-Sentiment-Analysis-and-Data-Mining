@@ -1,0 +1,1 @@
+{"text": "When it's too hot to wear the required long sleeve shirt or jacket while riding a motorcycle on a military base, this shirt works perfect.", "sentiment": "negative", "topics": {"0": "0.24149251", "1": "0.5496499", "2": "0.17064735"}}

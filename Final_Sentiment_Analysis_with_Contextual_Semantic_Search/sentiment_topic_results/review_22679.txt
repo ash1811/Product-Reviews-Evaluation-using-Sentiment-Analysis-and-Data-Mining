@@ -1,0 +1,1 @@
+{"text": "Ordered them too big but still able to wear, later.  We like the characters on them and the colors.P", "sentiment": "positive", "topics": {"0": "0.0143072065", "1": "0.3674426", "2": "0.014299391", "3": "0.35391", "4": "0.014286351", "5": "0.014315752", "6": "0.22143874"}}

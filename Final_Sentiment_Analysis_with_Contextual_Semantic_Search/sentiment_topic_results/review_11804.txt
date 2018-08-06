@@ -1,0 +1,1 @@
+{"text": "The size is a little off. At least 1 size smaller than the size I normally take. The shoe should fit snugly but it is very tight and I can't wear for extended hours.", "sentiment": "positive", "topics": {"1": "0.39766687", "2": "0.15160944", "3": "0.35420662", "4": "0.07388403"}}

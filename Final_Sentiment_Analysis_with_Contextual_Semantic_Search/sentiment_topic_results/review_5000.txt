@@ -1,0 +1,1 @@
+{"text": "I like everything about my new Birkenstock Sandals, they are really nice and really confortable. They are really healthy and help my back and hips as well as my legs and feet.", "sentiment": "negative", "topics": {"1": "0.26801902", "2": "0.14502586", "3": "0.32235873", "4": "0.08584967", "6": "0.16282657"}}

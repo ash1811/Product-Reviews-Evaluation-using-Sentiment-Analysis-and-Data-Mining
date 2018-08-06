@@ -1,0 +1,1 @@
+{"text": "Had worn out my old pair to the point of holes in the soles. These are comfy, seem sturdy, and the soles are very grippy.And after reading another review I bought a size smaller than my usual shoe size and it was a perfect fit. Just sayin'.", "sentiment": "negative", "topics": {"0": "0.0660408", "1": "0.46685937", "2": "0.12536336", "3": "0.1417032", "6": "0.18809706"}}

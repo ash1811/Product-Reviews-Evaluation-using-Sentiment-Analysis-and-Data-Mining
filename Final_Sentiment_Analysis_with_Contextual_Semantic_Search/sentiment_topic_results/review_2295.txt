@@ -1,0 +1,1 @@
+{"text": "Good looking shoe, however runs rather small.  11.5W was a little tight on my husbands foot.  But they should stretch out i hope", "sentiment": "negative", "topics": {"1": "0.32612807", "2": "0.21190237", "4": "0.33194366", "5": "0.10134136"}}

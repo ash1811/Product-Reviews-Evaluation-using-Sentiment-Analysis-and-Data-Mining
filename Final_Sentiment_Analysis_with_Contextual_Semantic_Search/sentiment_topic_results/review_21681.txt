@@ -1,0 +1,1 @@
+{"text": "Perfect work earrings or any day . I love them . Very high quality . They dangle so cute ! Not too small , perfect size.", "sentiment": "negative", "topics": {"0": "0.26761734", "1": "0.27399927", "2": "0.011011878", "3": "0.41425854", "4": "0.011026019", "5": "0.011031701", "6": "0.011055233"}}

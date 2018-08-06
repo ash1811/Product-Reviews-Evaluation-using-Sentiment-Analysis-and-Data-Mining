@@ -1,0 +1,1 @@
+{"text": "You really can't beat a pair of Reefs.  My 4 yr old grandson wears them, my husband and I wear them, and our kids love them.", "sentiment": "positive", "topics": {"1": "0.12767619", "3": "0.30214208", "4": "0.31012356", "5": "0.2361771"}}

@@ -1,0 +1,1 @@
+{"text": "True to size. Carhartts are known for there durability. The are made to last. Tighter and should stay on longer than most other winter caps.", "sentiment": "negative", "topics": {"0": "0.011005888", "1": "0.22638242", "2": "0.011046962", "3": "0.38226503", "4": "0.34728038", "5": "0.011011835", "6": "0.011007503"}}

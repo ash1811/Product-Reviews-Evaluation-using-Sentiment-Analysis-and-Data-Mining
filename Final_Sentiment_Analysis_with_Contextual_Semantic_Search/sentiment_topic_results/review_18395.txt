@@ -1,0 +1,1 @@
+{"text": "I decided that from time to time, I needed a bra that was extra pretty.  The size I bought are not available at most stores nor are they as pretty.", "sentiment": "negative", "topics": {"0": "0.011044138", "1": "0.66550434", "2": "0.011005335", "3": "0.27938038", "4": "0.01100663", "5": "0.0110361995", "6": "0.011022997"}}

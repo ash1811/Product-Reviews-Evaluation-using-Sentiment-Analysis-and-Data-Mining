@@ -1,0 +1,1 @@
+{"text": "this lingerie set is super sexy on fits perfectly on my girl. She has some great curves which are really accentuated when she puts this little number on. The quality is good but make sure you get the DREAMGIRL brand...if not than it is a knock-off!", "sentiment": "positive", "topics": {"0": "0.0730649", "1": "0.48693296", "2": "0.23481713", "5": "0.18726806"}}

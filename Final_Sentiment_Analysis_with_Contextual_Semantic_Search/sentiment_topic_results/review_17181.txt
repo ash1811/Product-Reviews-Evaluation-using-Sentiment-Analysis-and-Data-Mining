@@ -1,0 +1,1 @@
+{"text": "I have an extremely wide foot and I need good ankle support. This boot fits both requirements at a great price. It's not too heavy and  feels great! I am very pleased with this purchase!", "sentiment": "negative", "topics": {"1": "0.41039953", "3": "0.11386887", "4": "0.31120485", "6": "0.14064562"}}

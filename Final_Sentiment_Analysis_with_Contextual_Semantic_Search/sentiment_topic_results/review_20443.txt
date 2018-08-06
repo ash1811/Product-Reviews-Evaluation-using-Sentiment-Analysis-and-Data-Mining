@@ -1,0 +1,1 @@
+{"text": "Adjusts over toes, at heal and across arch to fit my foot perfectly, very comfortable and like walking barefoot. VERY comfortable.", "sentiment": "negative", "topics": {"0": "0.010222358", "1": "0.47115532", "2": "0.010213202", "3": "0.09527832", "4": "0.0102815265", "5": "0.39262483", "6": "0.010224439"}}

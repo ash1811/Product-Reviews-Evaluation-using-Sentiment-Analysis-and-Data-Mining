@@ -1,0 +1,1 @@
+{"text": "I love the the design of the shoe and they fill great after wearing a few times and love that you get a extra pair of shoe strings. They were as described! I will be buying again.. Bye bye nike,s!", "sentiment": "positive", "topics": {"1": "0.13680589", "2": "0.22937424", "4": "0.31316626", "5": "0.23104565", "6": "0.07527315"}}

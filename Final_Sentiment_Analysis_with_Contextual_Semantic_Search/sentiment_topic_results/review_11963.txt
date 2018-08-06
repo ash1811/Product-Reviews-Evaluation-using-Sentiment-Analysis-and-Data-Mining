@@ -1,0 +1,1 @@
+{"text": "Not as expected, a tough fight to get the socks onto my entire foot, and then compressing my toes uncomfortably.  I wear size 10 shoe, which was supposed to be within the size range.", "sentiment": "positive", "topics": {"1": "0.17597532", "2": "0.078548774", "3": "0.31401217", "4": "0.24503915", "5": "0.1721026"}}

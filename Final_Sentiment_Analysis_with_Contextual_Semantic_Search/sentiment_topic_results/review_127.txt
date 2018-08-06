@@ -1,0 +1,1 @@
+{"text": "This hoodie coat is great. It's long enough and the arms fit right, wow! My husband is very pleased with this new sweater and so am I! I hope to shop for more of them later.", "sentiment": "negative", "topics": {"1": "0.37946755", "3": "0.18496066", "4": "0.40376034"}}

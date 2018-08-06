@@ -1,0 +1,1 @@
+{"text": "These Rockports fit great .They are very comfortable and look good. I am on my feet alot during the day and I have no issues when wearing these shoes. I have several pairs and I will continue to buy them as long as they keep the quality up.", "sentiment": "negative", "topics": {"1": "0.48853353", "2": "0.07700238", "4": "0.15041812", "5": "0.26451346"}}

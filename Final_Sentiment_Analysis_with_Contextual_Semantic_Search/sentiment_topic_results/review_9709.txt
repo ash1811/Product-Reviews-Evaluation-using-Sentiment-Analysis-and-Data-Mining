@@ -1,0 +1,1 @@
+{"text": "It really is magic lift!  And, it's comfortable!  Hard to find support and comfort in the same bra, but this one has it.  I'll keep buying these!", "sentiment": "negative", "topics": {"0": "0.19685878", "1": "0.29082057", "3": "0.31363994", "6": "0.17332365"}}

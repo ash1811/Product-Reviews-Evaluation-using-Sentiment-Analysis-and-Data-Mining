@@ -1,0 +1,1 @@
+{"text": "My hubby has a hard time finding comfie shoes for work but he loves these.  He buys them when they need replacing, but that is every 5 months or so.  In any case, we will keep buying these for the comfort.", "sentiment": "negative", "topics": {"0": "0.21504876", "1": "0.08109529", "2": "0.18168633", "5": "0.38000903", "6": "0.128499"}}

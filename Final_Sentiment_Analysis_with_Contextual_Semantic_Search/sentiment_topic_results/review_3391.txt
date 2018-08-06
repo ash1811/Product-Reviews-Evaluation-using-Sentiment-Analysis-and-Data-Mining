@@ -1,0 +1,1 @@
+{"text": "Very comfortable and sexy since it has the little lace detailing on the bra. Supportive and great fit. Can't go wrong", "sentiment": "positive", "topics": {"0": "0.010246499", "1": "0.55176616", "2": "0.10294664", "3": "0.30431524", "4": "0.010253631", "5": "0.0102546", "6": "0.01021726"}}

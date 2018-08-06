@@ -1,0 +1,1 @@
+{"text": "I had to return these shoes because I could barely get my big toe in them. I think they run at least 1 if not 2 sizes too small.", "sentiment": "negative", "topics": {"0": "0.23197432", "1": "0.3034887", "2": "0.11613937", "3": "0.24202292", "6": "0.0884733"}}

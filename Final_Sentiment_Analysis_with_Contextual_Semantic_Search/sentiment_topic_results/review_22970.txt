@@ -1,0 +1,1 @@
+{"text": "Great product with good fit, pockets for ID, keys, Kleenex. The shorts launder well, & are a good buy for the price. The only caveat? If you're exercising/walking the dog, the fabric may snag, so keep the dog's paws off!", "sentiment": "negative", "topics": {"0": "0.21412116", "1": "0.3876648", "3": "0.13234317", "5": "0.16449758", "6": "0.08993122"}}

@@ -1,0 +1,1 @@
+{"text": "They fit perfect Im about 120 pounds and once washed they fit perfect. I bought a six. I love them,", "sentiment": "negative", "topics": {"0": "0.27355468", "1": "0.6712341", "2": "0.011053678", "3": "0.011093884", "4": "0.011054591", "5": "0.011015679", "6": "0.010993435"}}

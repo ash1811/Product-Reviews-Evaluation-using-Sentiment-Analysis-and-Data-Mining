@@ -1,0 +1,1 @@
+{"text": "Pricier than what I've been used to spending for slippers, but these are comfortable and feel durable. They're worth the extra cost and when (or if) these wear out, I'll definitely buy another pair.", "sentiment": "positive", "topics": {"1": "0.44386536", "3": "0.27727464", "4": "0.1585529", "6": "0.10077906"}}

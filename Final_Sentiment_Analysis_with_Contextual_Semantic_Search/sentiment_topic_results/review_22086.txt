@@ -1,0 +1,1 @@
+{"text": "Lost my first pair years ago, couldn't go another winter w/o them.I purchased a large, a medium would have been better,but I still think they are AWESOME!", "sentiment": "negative", "topics": {"0": "0.07682615", "1": "0.77606994", "6": "0.11695149"}}

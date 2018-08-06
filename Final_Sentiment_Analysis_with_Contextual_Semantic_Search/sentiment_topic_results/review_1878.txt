@@ -1,0 +1,1 @@
+{"text": "Im glad I read the reviews about these fitting to big. I was hesitant to order the smaller size but that is what the reviews said. They fit perfect., a size down from my normal. This is why good reviews are so helpful. The color is fantastic and oh so comfortable.", "sentiment": "positive", "topics": {"0": "0.2558513", "1": "0.33598432", "3": "0.38431263"}}

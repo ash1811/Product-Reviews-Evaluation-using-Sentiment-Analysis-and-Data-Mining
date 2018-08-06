@@ -1,0 +1,1 @@
+{"text": "Very comfortable and true fit. Washes up well, no shrinking or bunching. I would oerder again in a minute. :-)", "sentiment": "positive", "topics": {"0": "0.013074673", "1": "0.4598964", "2": "0.012998578", "3": "0.28784257", "4": "0.10988063", "5": "0.013017002", "6": "0.10329018"}}

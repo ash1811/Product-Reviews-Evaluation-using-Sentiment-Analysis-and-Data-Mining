@@ -1,0 +1,1 @@
+{"text": "My child loves this color! Nothing has really went wrong with this product.. Just an occasional zipper jam.  Price and item came in a timely manner!", "sentiment": "positive", "topics": {"0": "0.12377366", "2": "0.0557402", "3": "0.08021651", "4": "0.2845496", "5": "0.22252129", "6": "0.22475001"}}

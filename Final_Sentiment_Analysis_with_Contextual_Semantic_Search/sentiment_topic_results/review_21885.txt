@@ -1,0 +1,1 @@
+{"text": "Wow!  This bodystocking will warm up even the coldest relationship!  I highly recommend it!  Looks great with a thong worn over it.", "sentiment": "negative", "topics": {"0": "0.13530283", "1": "0.43642002", "3": "0.23107384", "6": "0.16855136"}}

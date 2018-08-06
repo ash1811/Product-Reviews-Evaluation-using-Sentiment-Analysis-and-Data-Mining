@@ -1,0 +1,1 @@
+{"text": "Thea're really beautiful and comfortable. The only thing is they look bigger at the picture than they're in real, but even if I knew it I would have ordered them as they 're really great.", "sentiment": "positive", "topics": {"0": "0.20987949", "1": "0.50326735", "3": "0.13915832", "4": "0.123817354"}}

@@ -1,0 +1,1 @@
+{"text": "I got these for someone else as a gift, and I was hesitant to get them at first because I wasn't sure why the lens is described as 'green' but they don't really look green. They are great, classic looking sunglasses. Definitely recommend them.", "sentiment": "negative", "topics": {"0": "0.28449038", "1": "0.1444578", "2": "0.44051057", "3": "0.11100643"}}

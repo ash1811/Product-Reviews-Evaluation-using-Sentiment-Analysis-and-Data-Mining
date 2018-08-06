@@ -1,0 +1,1 @@
+{"text": "I feel like I am repetitive saying, &#34;just what I was looking for&#34;, but darn it, this was Just What I Was Looking For!", "sentiment": "positive", "topics": {"0": "0.01195529", "1": "0.012005954", "2": "0.1806625", "3": "0.011997171", "4": "0.26825795", "5": "0.011914141", "6": "0.503207"}}

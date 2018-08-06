@@ -1,0 +1,1 @@
+{"text": "Delivered quickly.  Jean's are very good quality, although a little tight in the waist.  I either have to lose a few pounds or gain a few and buy the 36's.  Definitely worth buying at &#60;$30.", "sentiment": "negative", "topics": {"1": "0.43975148", "2": "0.46134964", "4": "0.0701237"}}

@@ -1,0 +1,1 @@
+{"text": "Looked high and low for this costume for my grandson.  Was lucky when I found it here at such a reasonable price and when it arrived at my grandson's house in time for Halloween I was very happy.", "sentiment": "negative", "topics": {"0": "0.3018304", "1": "0.17290883", "4": "0.3688152", "6": "0.12959032"}}

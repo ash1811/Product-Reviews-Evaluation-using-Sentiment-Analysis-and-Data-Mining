@@ -1,0 +1,1 @@
+{"text": "I use this during the winter months, and they do a great job keeping me warm. Very durable, and hold up well to extrem work conditions.", "sentiment": "negative", "topics": {"0": "0.0102167465", "1": "0.751025", "2": "0.010217804", "3": "0.1978675", "4": "0.010223512", "5": "0.010235261", "6": "0.010214168"}}

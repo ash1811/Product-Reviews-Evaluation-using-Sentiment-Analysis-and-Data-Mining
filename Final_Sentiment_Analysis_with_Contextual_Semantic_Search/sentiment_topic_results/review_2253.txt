@@ -1,0 +1,1 @@
+{"text": "Ordered a medium width. Much too large in the heel area.For a walking shoe not very flexible and shoes seemed to be very heavy.Quality of workmanship was excellent.Shoes were returned to Amazon with no problem.", "sentiment": "negative", "topics": {"2": "0.23697436", "3": "0.348106", "4": "0.15261042", "5": "0.16752663", "6": "0.07970005"}}

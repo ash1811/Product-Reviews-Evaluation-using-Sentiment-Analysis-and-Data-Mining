@@ -1,0 +1,1 @@
+{"text": "I have been looking for socks that are not 'one size fits all' for a long time.These are great! They do not leave marks on my ankles where other socks do from squeezing too tight on my swollen ankles.", "sentiment": "negative", "topics": {"0": "0.07383966", "1": "0.22656697", "2": "0.17052898", "3": "0.27892244", "4": "0.11490986", "5": "0.12728095"}}

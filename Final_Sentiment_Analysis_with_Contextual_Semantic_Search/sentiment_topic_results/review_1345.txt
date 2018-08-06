@@ -1,0 +1,1 @@
+{"text": "Comfortable sandal for summer.  I needed the closed toe and these are perfect as well as the sole being soft yet supportive.  The webbing top fits well around your foot.", "sentiment": "negative", "topics": {"0": "0.11269301", "1": "0.5266649", "2": "0.0907742", "3": "0.24719973"}}

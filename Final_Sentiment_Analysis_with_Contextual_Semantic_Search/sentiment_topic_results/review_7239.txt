@@ -1,0 +1,1 @@
+{"text": "These tights feel nice and are comfortable for my 4 year old daughter to wear. They are fairly durable, although they will snag if not careful...they are tights, after all.", "sentiment": "positive", "topics": {"1": "0.43146926", "3": "0.19424593", "5": "0.3405808"}}

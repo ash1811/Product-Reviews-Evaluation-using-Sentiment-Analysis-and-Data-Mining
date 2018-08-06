@@ -1,0 +1,1 @@
+{"text": "Size 3 fits me perfectly but this pants in size 3 was a bit too large. I love the pants though and my colleagues at work love it too.", "sentiment": "negative", "topics": {"1": "0.559378", "3": "0.39846915"}}

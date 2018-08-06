@@ -1,0 +1,1 @@
+{"text": "They are Levi's, they are black, they fit...what else do you need to know?", "sentiment": "negative", "topics": {"0": "0.020409524", "1": "0.020419879", "2": "0.18228927", "3": "0.3391473", "4": "0.020409746", "5": "0.020409828", "6": "0.39691448"}}

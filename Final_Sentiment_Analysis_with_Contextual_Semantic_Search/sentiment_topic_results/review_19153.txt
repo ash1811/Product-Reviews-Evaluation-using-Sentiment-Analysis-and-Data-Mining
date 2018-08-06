@@ -1,0 +1,1 @@
+{"text": "This is a beautiful item. Very high quality necklace, delicate yet strong enough for a larger pendant. It is a good buy!", "sentiment": "negative", "topics": {"0": "0.010243076", "1": "0.23471239", "2": "0.010226092", "3": "0.010224769", "4": "0.0102498215", "5": "0.46409306", "6": "0.26025075"}}

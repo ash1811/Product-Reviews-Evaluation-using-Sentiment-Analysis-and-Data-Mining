@@ -1,0 +1,1 @@
+{"text": "I have thrown out all my old socks and replaced with these Thorlo women's thick cushion hiking sock.I have a farm and am in boots all the time.", "sentiment": "negative", "topics": {"0": "0.212317", "1": "0.12180214", "2": "0.088312596", "3": "0.010219144", "4": "0.07561955", "5": "0.36824045", "6": "0.12348915"}}

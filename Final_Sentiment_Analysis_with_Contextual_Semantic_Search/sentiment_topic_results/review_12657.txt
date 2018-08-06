@@ -1,0 +1,1 @@
+{"text": "I have hammer toes and wide feet  size 11w.these shoes make it so much easier to walk with out pain/  They are wonderful", "sentiment": "negative", "topics": {"0": "0.09711111", "1": "0.340536", "2": "0.22792432", "3": "0.16204482", "4": "0.15188067", "5": "0.010223177", "6": "0.010279886"}}

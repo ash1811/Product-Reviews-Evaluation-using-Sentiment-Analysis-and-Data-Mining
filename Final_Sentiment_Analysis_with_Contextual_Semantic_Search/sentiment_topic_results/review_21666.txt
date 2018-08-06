@@ -1,0 +1,1 @@
+{"text": "I admit I did not think these were going to be as pretty as they are, I figured since it was kinda cheap that it would be just ok but the colors are very vibrant and it is just a pretty jewelry box", "sentiment": "negative", "topics": {"1": "0.58200026", "2": "0.18629552", "3": "0.09086908", "4": "0.115529075"}}

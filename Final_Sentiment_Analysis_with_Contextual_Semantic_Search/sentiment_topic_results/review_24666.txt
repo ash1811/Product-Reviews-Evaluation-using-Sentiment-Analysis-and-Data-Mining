@@ -1,0 +1,1 @@
+{"text": "Be sure to order 1 size up, my BF wears a 10 and last year I bought him these in a 10 and were so small so this year I read the reviews and ordered an 11 and they fit perfect!!", "sentiment": "negative", "topics": {"0": "0.108989544", "1": "0.19209749", "2": "0.12238112", "3": "0.32105693", "4": "0.24183702"}}

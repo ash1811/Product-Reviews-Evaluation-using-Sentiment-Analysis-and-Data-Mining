@@ -1,0 +1,1 @@
+{"text": "I love this dress!  It's so much fun!  The quality is excellent .  It's a perfect fit.  As always Amazon carries the best merchandise !!", "sentiment": "negative", "topics": {"0": "0.010217566", "1": "0.33042455", "2": "0.098460525", "3": "0.01021265", "4": "0.5302571", "5": "0.010214865", "6": "0.0102126915"}}

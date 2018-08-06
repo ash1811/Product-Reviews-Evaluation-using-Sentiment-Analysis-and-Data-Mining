@@ -1,0 +1,1 @@
+{"text": "I have long sought a solid black boat shoe that will enble me to wear them in casual attire as well as with some of my office attire.  This shoe fills that role.", "sentiment": "negative", "topics": {"2": "0.16451588", "3": "0.17269972", "4": "0.123278365", "5": "0.51423264"}}

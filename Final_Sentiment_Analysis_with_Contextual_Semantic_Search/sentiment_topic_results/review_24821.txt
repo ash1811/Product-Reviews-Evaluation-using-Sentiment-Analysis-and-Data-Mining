@@ -1,0 +1,1 @@
+{"text": "They took a slight wearing in as I like them loose on my feet.  I wear a 10.5US so the 11.0US was just fine", "sentiment": "negative", "topics": {"0": "0.013037092", "1": "0.1584734", "2": "0.12457115", "3": "0.0130208675", "4": "0.092187084", "5": "0.19684336", "6": "0.4018671"}}

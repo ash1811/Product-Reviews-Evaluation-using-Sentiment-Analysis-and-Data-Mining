@@ -1,0 +1,1 @@
+{"text": "I had foot surgery and needed a shoe with a generous, wide toe box.  These fit the bill perfectly. They are comfortable without being too nerdy.  I'm happy.", "sentiment": "positive", "topics": {"1": "0.6396593", "2": "0.16428849", "4": "0.16226727"}}

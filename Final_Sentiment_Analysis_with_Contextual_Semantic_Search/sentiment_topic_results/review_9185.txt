@@ -1,0 +1,1 @@
+{"text": "My son seems very pleased with this slipper, he said it is very comfortable and warm.  Likes having the fleece lining.", "sentiment": "negative", "topics": {"0": "0.16230425", "1": "0.46640256", "2": "0.013005406", "3": "0.1817545", "4": "0.013013649", "5": "0.013040519", "6": "0.15047908"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans fit exactly as advertised, but it is \"Chinese quality\", although good Chinese quality:)Generally, I'm really happy with this product...", "sentiment": "negative", "topics": {"0": "0.26573077", "1": "0.4751195", "5": "0.22095554"}}

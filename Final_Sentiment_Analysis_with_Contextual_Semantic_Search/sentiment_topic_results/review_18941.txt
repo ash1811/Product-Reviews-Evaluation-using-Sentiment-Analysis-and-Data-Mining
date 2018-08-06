@@ -1,0 +1,1 @@
+{"text": "A little baggier that I had hoped, but still an overall good fit.Next time Ill go with a 32 32", "sentiment": "positive", "topics": {"0": "0.011036828", "1": "0.011045407", "2": "0.011001628", "3": "0.42301932", "4": "0.2760772", "5": "0.011027074", "6": "0.25679255"}}

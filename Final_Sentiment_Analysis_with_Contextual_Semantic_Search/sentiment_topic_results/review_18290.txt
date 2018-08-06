@@ -1,0 +1,1 @@
+{"text": "she could not be happier with her watch. She is always looking for small watches but she then complains that the numbers are too tiny. Thankfully she has no problem with this one.", "sentiment": "negative", "topics": {"0": "0.010222557", "1": "0.010257427", "2": "0.5470792", "3": "0.010248302", "4": "0.31094733", "5": "0.01032014", "6": "0.100925006"}}

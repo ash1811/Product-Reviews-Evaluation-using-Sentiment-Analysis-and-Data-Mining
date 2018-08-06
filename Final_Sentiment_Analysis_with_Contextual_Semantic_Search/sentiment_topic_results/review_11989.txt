@@ -1,0 +1,1 @@
+{"text": "I bought this for my 23yr old who uses it for the gym EVERY day! GREAT size for daily personal use. Sturdy construction and has held together very well! I would buy one again. And the price here on Amazon was PERFECT!", "sentiment": "positive", "topics": {"0": "0.19582225", "1": "0.30424863", "2": "0.13948265", "3": "0.07824014", "4": "0.2707289"}}

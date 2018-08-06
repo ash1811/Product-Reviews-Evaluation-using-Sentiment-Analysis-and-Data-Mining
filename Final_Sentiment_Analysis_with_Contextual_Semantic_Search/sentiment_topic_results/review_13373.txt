@@ -1,0 +1,1 @@
+{"text": "This is my all time fave...I have owned a few Invictas and this one is my daily work horse.  I love it.", "sentiment": "negative", "topics": {"0": "0.265653", "1": "0.013019784", "2": "0.2117493", "3": "0.01303266", "4": "0.26682645", "5": "0.013012806", "6": "0.21670598"}}

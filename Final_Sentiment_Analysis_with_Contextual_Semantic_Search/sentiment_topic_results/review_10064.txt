@@ -1,0 +1,1 @@
+{"text": "These earrings were a great price as well as nice quality silver studs. The button pearls were not too flat, just right in shape. It also came nicely packaged in a very pretty green jewelry pouch.", "sentiment": "positive", "topics": {"1": "0.56246185", "2": "0.11973085", "4": "0.08610834", "5": "0.07506062", "6": "0.14360805"}}

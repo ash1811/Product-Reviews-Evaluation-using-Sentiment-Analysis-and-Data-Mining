@@ -1,0 +1,1 @@
+{"text": "Love the quality and comfort.  My husband is very happy with these.  Would like to see them come in bigger widths.", "sentiment": "negative", "topics": {"0": "0.011092374", "1": "0.44851196", "2": "0.011035759", "3": "0.011040728", "4": "0.33737385", "5": "0.0110313045", "6": "0.16991404"}}

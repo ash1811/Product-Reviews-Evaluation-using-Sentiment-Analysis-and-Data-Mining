@@ -1,0 +1,1 @@
+{"text": "Panties are nice looking and well made, but I compared them to other Jockey's, and they're definitely a full size smaller than others marked the same size.", "sentiment": "positive", "topics": {"0": "0.12791891", "3": "0.6166133", "5": "0.2196482"}}

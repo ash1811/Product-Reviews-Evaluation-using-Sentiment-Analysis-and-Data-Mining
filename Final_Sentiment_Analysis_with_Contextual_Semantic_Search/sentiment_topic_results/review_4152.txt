@@ -1,0 +1,1 @@
+{"text": "I own a large chunky Invicta that I love, but wanted a smaller dressy watch. For $47 I was happy to find this one. It is exactly what I wanted. The quality is great and the price is fantastic! Highly recommend.", "sentiment": "negative", "topics": {"0": "0.14436205", "1": "0.28879282", "2": "0.10391966", "4": "0.22298253", "5": "0.17457956", "6": "0.05850545"}}

@@ -1,0 +1,1 @@
+{"text": "I have had knee problems off and on for years and like running distance. These insoles have been very helpful in keeping me on the road/trails. I wear them with Brooks shoes exclusively and highly recommend them.", "sentiment": "negative", "topics": {"1": "0.25324923", "2": "0.2808972", "3": "0.13609685", "5": "0.3059011"}}

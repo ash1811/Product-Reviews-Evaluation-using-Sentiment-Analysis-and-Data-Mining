@@ -1,0 +1,1 @@
+{"text": "I've been hunting for a new wallet for months and then I found this one.  Good size; great price; super color!", "sentiment": "positive", "topics": {"0": "0.010228462", "1": "0.42908692", "2": "0.20587163", "3": "0.3241095", "4": "0.010243757", "5": "0.010229789", "6": "0.010229921"}}

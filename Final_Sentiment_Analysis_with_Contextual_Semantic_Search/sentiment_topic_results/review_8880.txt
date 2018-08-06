@@ -1,0 +1,1 @@
+{"text": "love the slip on sneaker, but a little hard to get on at first.  After wearing a few times, much easier to get on.  But the price is much more reasonable than local stores and same quality", "sentiment": "positive", "topics": {"0": "0.50702894", "1": "0.34940737", "3": "0.114883944"}}

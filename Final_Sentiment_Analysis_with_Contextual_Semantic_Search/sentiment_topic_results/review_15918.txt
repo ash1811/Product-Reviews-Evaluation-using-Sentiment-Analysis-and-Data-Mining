@@ -1,0 +1,1 @@
+{"text": "My granddaughter loves all the hidey spots and uses it to save her money and little jewelry items. She loves winding it and watching the little ballerina turn. A nice gift for a little girl!", "sentiment": "negative", "topics": {"0": "0.14191131", "1": "0.18392293", "2": "0.08479978", "3": "0.12797308", "4": "0.23937923", "6": "0.21518312"}}

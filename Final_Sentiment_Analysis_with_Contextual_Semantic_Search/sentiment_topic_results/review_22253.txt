@@ -1,0 +1,1 @@
+{"text": "very comfy, soft, feels great on, good quality, keeps feet dry, only negative is the cost, why are toe socks SO EXPENSIVE?", "sentiment": "negative", "topics": {"1": "0.48980138", "4": "0.37987417", "5": "0.09447885"}}

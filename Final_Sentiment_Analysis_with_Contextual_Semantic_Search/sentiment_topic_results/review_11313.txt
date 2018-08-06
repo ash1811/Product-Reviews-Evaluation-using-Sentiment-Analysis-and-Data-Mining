@@ -1,0 +1,1 @@
+{"text": "Purchased a MED for my 5'11&#34; son and they fit like a LRG straight out of the box. I'm expecting them to shrink since they are 100% cotton and therefore I will keep them as I really don't care if his sweats are too big or not.", "sentiment": "positive", "topics": {"1": "0.46937126", "2": "0.13312967", "3": "0.15929478", "4": "0.16215912", "6": "0.06359811"}}

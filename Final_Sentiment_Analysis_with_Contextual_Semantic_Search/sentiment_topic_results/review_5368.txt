@@ -1,0 +1,1 @@
+{"text": "The t-shirts are very well made.  my husband loves them.  true to size, and they do not shrink when they are washed.", "sentiment": "positive", "topics": {"0": "0.013012157", "1": "0.53736424", "2": "0.013046112", "3": "0.2566329", "4": "0.15392087", "5": "0.013013244", "6": "0.013010532"}}

@@ -1,0 +1,1 @@
+{"text": "I think my title says it all. It does an excellent job of shaping, the cup size is spot-on, and I liked that it clasps up the front. However, the material is really stiff and rough.", "sentiment": "negative", "topics": {"1": "0.24186623", "2": "0.21112907", "4": "0.30955362", "6": "0.21475802"}}

@@ -1,0 +1,1 @@
+{"text": "Cute little nightie, but the other reviewers were right. The bra part of the nightie is odd-fitting. I figured it wasn't going to stay on that long anyways, and it didn't! So, I guess it's a keeper!", "sentiment": "positive", "topics": {"1": "0.2643532", "2": "0.1509148", "3": "0.38711306", "4": "0.17499727"}}

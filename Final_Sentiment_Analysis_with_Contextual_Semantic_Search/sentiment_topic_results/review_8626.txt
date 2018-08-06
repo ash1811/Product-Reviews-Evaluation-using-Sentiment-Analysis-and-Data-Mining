@@ -1,0 +1,1 @@
+{"text": "this i had bought about 3 years ago straight from sebago . I love these shoes they are very comfortable and goes with every thing", "sentiment": "positive", "topics": {"0": "0.011020187", "1": "0.56468713", "2": "0.11304216", "3": "0.011021916", "4": "0.19222164", "5": "0.011043836", "6": "0.09696318"}}

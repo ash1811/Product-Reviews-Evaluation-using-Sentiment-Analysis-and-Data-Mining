@@ -1,0 +1,1 @@
+{"text": "This is a simple, fun costume.  We purchased this for our Spiderman obsessed son for dress-up fun, and it has stood up to a year's worth of friends and many hours of play.  I would recommend.", "sentiment": "negative", "topics": {"0": "0.1356963", "1": "0.25097394", "2": "0.080279656", "4": "0.060138363", "5": "0.27550486", "6": "0.18986765"}}

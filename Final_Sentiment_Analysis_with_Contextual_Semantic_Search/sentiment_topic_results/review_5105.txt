@@ -1,0 +1,1 @@
+{"text": "I wear a 10 medium, these are huge and stiff.  Wouldn't buy again.  Too bad, previous purchase from these folks were great.", "sentiment": "negative", "topics": {"0": "0.011006228", "1": "0.51768893", "2": "0.010996242", "3": "0.24182814", "4": "0.1964681", "5": "0.011022106", "6": "0.010990246"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband.It can be hard to find jeans that fit him well, but these are it!He now has 4 pairs in all different washes and colors.", "sentiment": "negative", "topics": {"0": "0.14172365", "1": "0.3960653", "2": "0.010210036", "3": "0.010230267", "4": "0.010236007", "5": "0.42130956", "6": "0.010225146"}}

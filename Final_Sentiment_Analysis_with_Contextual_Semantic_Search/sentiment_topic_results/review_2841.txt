@@ -1,0 +1,1 @@
+{"text": "love my keds, it is  a must have for summer , they get dirty just throw them in the washer.", "sentiment": "negative", "topics": {"0": "0.015909623", "1": "0.015937805", "2": "0.17577349", "3": "0.74466246", "4": "0.015925948", "5": "0.01590511", "6": "0.01588561"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loves these shoes -so comfortable!  He owns black and now brown and can't live without them!  Cole Haan is he high quality.", "sentiment": "negative", "topics": {"1": "0.29906324", "2": "0.28678483", "3": "0.15509954", "4": "0.10744935", "6": "0.13467681"}}

@@ -1,0 +1,1 @@
+{"text": "I love these socks, They're a little pricey, But well worth the money, as they are a perfect fit and have soft cushioning on the heel and ball of the foot.", "sentiment": "negative", "topics": {"1": "0.34897482", "4": "0.24866259", "5": "0.2798899", "6": "0.095608085"}}

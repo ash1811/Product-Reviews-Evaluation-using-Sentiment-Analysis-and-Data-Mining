@@ -1,0 +1,1 @@
+{"text": "I washed them to see if they might shrink to a suitable size.  Nope.I guess I'll give them to my brother-in-law.", "sentiment": "positive", "topics": {"0": "0.10635839", "1": "0.3210163", "2": "0.011910641", "3": "0.2451082", "4": "0.20296055", "5": "0.1007169", "6": "0.011929025"}}

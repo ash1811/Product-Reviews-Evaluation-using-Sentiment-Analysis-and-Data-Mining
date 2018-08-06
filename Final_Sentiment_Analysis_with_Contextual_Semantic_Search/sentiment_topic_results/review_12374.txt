@@ -1,0 +1,1 @@
+{"text": "I purchased these for my husband and he loves them! He liked the feel of my Sanuk flip flops and wanted some of his own and now they're the only thing he wears. They run true to size, fit well, and are good quality.", "sentiment": "positive", "topics": {"1": "0.43074054", "2": "0.16040993", "3": "0.19626172", "4": "0.19213034"}}

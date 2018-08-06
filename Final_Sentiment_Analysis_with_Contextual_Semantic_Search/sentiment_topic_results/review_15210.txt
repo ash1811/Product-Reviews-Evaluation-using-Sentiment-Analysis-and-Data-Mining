@@ -1,0 +1,1 @@
+{"text": "I like this style and fit and price and have worn Hanes for many years.  However, they clearly have changed the specifications and the cotton is thin and somewhat scratchy.  Nor do they last as long.", "sentiment": "positive", "topics": {"0": "0.1661797", "1": "0.3000847", "2": "0.18583922", "4": "0.15440677", "6": "0.17833376"}}

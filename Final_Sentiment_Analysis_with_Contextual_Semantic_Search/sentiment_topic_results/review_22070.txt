@@ -1,0 +1,1 @@
+{"text": "Other medium gloves fit me perfectly. This one is extremely loose. Wish it weren't though. The rest of the quality and feel is good enough.", "sentiment": "positive", "topics": {"1": "0.4614529", "2": "0.24028145", "4": "0.26000747"}}

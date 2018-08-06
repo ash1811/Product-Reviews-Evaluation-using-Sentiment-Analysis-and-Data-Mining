@@ -1,0 +1,1 @@
+{"text": "This is the 3rd pair of Levi 501 jeans I have purchased from Amazon in the past few months and I absolutely love them. Good fit, good looking, and most of all, Great price. I WILL buy more of them in the future", "sentiment": "negative", "topics": {"1": "0.5376071", "2": "0.15060689", "4": "0.22652827", "6": "0.06568598"}}

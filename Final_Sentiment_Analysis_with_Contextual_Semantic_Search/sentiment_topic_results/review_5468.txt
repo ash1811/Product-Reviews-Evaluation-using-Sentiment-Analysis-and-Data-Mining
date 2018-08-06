@@ -1,0 +1,1 @@
+{"text": "Now just what can you say about a T-shirt?  It has an opening for the head and it has a pocket.", "sentiment": "negative", "topics": {"0": "0.023837438", "1": "0.023909919", "2": "0.023862677", "3": "0.023882171", "4": "0.023823617", "5": "0.02383061", "6": "0.85685354"}}

@@ -1,0 +1,1 @@
+{"text": "Comfortable, good support, and worry free!!! Gone are my scooping days. I will recommend to anyone who is looking for a worry free bras.", "sentiment": "negative", "topics": {"1": "0.20624007", "3": "0.40363106", "4": "0.09118584", "5": "0.11968229", "6": "0.16015138"}}

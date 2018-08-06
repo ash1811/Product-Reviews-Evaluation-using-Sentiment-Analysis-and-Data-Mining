@@ -1,0 +1,1 @@
+{"text": "soft comfy fabric and fits well... washes up well, like the deep pockets .i am very happy with purchase :)", "sentiment": "positive", "topics": {"0": "0.010228075", "1": "0.59807414", "2": "0.010283924", "3": "0.010280598", "4": "0.010275303", "5": "0.3506066", "6": "0.010251393"}}

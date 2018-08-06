@@ -1,0 +1,1 @@
+{"text": "M-L fits up to 5' and 96 lbs, so the box chart says. Online size chart provided said differently. My 5'4&#34; daughter haven't tried the tights on yet, I hope she can use them.", "sentiment": "negative", "topics": {"1": "0.22186396", "3": "0.31779885", "5": "0.32480243", "6": "0.116849944"}}

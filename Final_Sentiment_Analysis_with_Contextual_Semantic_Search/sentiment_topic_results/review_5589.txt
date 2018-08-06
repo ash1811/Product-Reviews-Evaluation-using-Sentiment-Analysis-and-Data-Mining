@@ -1,0 +1,1 @@
+{"text": "I purchase about 8 pairs of shorts, tried on two (that arrived first), they were a bit small, but fit fine. So I washed them all based on that and found all the rest of the shorts I got were so tight I had to throw them away. What a waste of money.", "sentiment": "positive", "topics": {"0": "0.18089251", "1": "0.5375232", "2": "0.10744861", "4": "0.15689354"}}

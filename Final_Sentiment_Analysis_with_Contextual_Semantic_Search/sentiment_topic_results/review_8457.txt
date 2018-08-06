@@ -1,0 +1,1 @@
+{"text": "Fun stockings to wear even 'just to work'. It feels so sexy wearing something crotchless... and naughty too. Sometimes they get a little confusing to put on esp after washing them. LOL..", "sentiment": "negative", "topics": {"0": "0.2348146", "1": "0.19033931", "2": "0.12167858", "3": "0.24996033", "4": "0.19073662"}}

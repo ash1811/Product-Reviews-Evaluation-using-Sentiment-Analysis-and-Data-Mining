@@ -1,0 +1,1 @@
+{"text": "Its getting closer to the brginning of school and my son needed a new pair of shoes.  These looked good and Deer Stag have always worn well.  They fit my son's feet and he loved them.", "sentiment": "positive", "topics": {"1": "0.40737668", "2": "0.14482565", "3": "0.16920824", "4": "0.08479419", "6": "0.18077694"}}

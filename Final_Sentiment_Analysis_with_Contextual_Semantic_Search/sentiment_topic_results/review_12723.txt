@@ -1,0 +1,1 @@
+{"text": "I love everything about these pants except the LONG drawstring at the ankles.  I have been double-tying and tucking them.  I'm thinking of cutting them, but afraid the string will fray.  The material is really thick.  The fit is great.", "sentiment": "negative", "topics": {"1": "0.28768045", "2": "0.25134438", "3": "0.11291252", "5": "0.22369237", "6": "0.11188891"}}

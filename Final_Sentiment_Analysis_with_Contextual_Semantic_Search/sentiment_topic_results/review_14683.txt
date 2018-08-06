@@ -1,0 +1,1 @@
+{"text": "But wasn't overly impressed.  The shoe has a pointy toe which is a bit constricting.  The heel is very comfortable and flattering, but the fit was a bit small overall.", "sentiment": "negative", "topics": {"1": "0.42567357", "2": "0.16691892", "3": "0.1956188", "4": "0.110899016", "6": "0.08176856"}}

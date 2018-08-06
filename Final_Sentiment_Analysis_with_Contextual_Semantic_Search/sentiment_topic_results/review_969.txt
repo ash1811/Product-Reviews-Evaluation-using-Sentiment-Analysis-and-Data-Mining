@@ -1,0 +1,1 @@
+{"text": "This underwear is made with great quality material.  The fit is perfect, no problems with this product.  Would recommend over Victoria Secrets any day.", "sentiment": "negative", "topics": {"1": "0.48031488", "2": "0.06441225", "3": "0.05359732", "5": "0.3730159"}}

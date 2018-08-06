@@ -1,0 +1,1 @@
+{"text": "These sweats are comfortable and just what I needed. They replaced a 10 year old pair of sweats that had lots of holes in them. These are slimmer than I was used to so they kind of look like &#34;skinny sweats&#34; instead of baggy sweats.", "sentiment": "positive", "topics": {"1": "0.37408182", "2": "0.25193444", "4": "0.3490527"}}

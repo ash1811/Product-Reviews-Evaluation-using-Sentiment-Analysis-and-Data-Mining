@@ -1,0 +1,1 @@
+{"text": "I plan to give this as a HS grad gift to a young sports enthusiast. It is attractive, and  affordable so I am hoping it will  be well received.", "sentiment": "negative", "topics": {"0": "0.36313108", "1": "0.010255647", "2": "0.010255083", "3": "0.123664595", "4": "0.010211235", "5": "0.3738203", "6": "0.10866206"}}

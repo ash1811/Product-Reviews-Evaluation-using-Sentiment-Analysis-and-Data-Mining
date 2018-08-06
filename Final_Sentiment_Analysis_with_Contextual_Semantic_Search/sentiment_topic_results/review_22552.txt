@@ -1,0 +1,1 @@
+{"text": "Works great, silver clean as a whistle in a matter of seconds. Only way to go dip, rinse and done.", "sentiment": "negative", "topics": {"0": "0.11425611", "1": "0.27319252", "2": "0.10809886", "3": "0.19902486", "4": "0.15261029", "5": "0.14180431", "6": "0.011013094"}}

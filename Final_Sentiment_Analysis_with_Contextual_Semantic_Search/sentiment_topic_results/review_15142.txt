@@ -1,0 +1,1 @@
+{"text": "I need a pari of casual dress sneakers and these are terrific.  Very comfortable and breathable. I got them for $39.99 and when I tried to get another pair the price jumped to $74.99. I will buy another pair when they go on sale again.", "sentiment": "negative", "topics": {"1": "0.45578644", "2": "0.09167209", "4": "0.119089626", "5": "0.1446689", "6": "0.1768532"}}

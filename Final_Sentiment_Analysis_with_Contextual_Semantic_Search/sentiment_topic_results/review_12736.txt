@@ -1,0 +1,1 @@
+{"text": "My son received this for Christmas and we are happy with it so far.  I'm not sure about the long time durability though.", "sentiment": "negative", "topics": {"0": "0.011961736", "1": "0.011955384", "2": "0.20427473", "3": "0.011949408", "4": "0.22027327", "5": "0.5276535", "6": "0.011931931"}}

@@ -1,0 +1,1 @@
+{"text": "Heavy weight and warm. Washes great and I noticed in the first washing that the color stayed dark unlike other shirts that turn grey after numerous washes.", "sentiment": "positive", "topics": {"1": "0.14396776", "2": "0.15008567", "4": "0.17696369", "5": "0.43669114", "6": "0.07636703"}}

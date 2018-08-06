@@ -1,0 +1,1 @@
+{"text": "My only regret is that they aren't a little less opaque.  Spanx are great and help you look even better in form fitting clothes.", "sentiment": "negative", "topics": {"0": "0.25189167", "1": "0.010269371", "2": "0.010231577", "3": "0.010241849", "4": "0.1554", "5": "0.010245049", "6": "0.5517205"}}

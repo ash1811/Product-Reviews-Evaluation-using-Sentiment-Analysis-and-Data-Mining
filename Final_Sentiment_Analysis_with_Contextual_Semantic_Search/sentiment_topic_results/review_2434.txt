@@ -1,0 +1,1 @@
+{"text": "I gave these sandals as a gift to someone I already knew liked rainbows. They were a big hit! I have a pair of rainbows myself, and they are the most comfortable flip-flops around. Just get them wet and wear them, and they mold to your feet!", "sentiment": "negative", "topics": {"0": "0.10171596", "1": "0.4412063", "3": "0.17884926", "5": "0.25952533"}}

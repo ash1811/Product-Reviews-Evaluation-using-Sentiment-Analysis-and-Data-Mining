@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Sanuks and they are so ridiculously comfortable I dont take them off all summer. I wont subject my feet to any other!! Worth every penny!!", "sentiment": "negative", "topics": {"0": "0.120971374", "1": "0.26547384", "2": "0.25747418", "3": "0.13349438", "5": "0.20463201"}}

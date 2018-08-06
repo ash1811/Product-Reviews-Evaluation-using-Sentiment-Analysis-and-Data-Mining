@@ -1,0 +1,1 @@
+{"text": "The thin silver hands blend into the background so the time is hard to read in dim light. Getting it wet is not a problem and the plastic band fits/is comfortable. So far it keeps good time and for the price I can't really complain.", "sentiment": "positive", "topics": {"0": "0.18397385", "1": "0.42893714", "2": "0.114424944", "3": "0.18418758", "4": "0.07746694"}}

@@ -1,0 +1,1 @@
+{"text": "The box looks quite charming  on-line. The reality is that it is a small cheap looking item.  The drawers are tiny.  It will be very difficult to get anything out of the side drawers unless you use tweezers.", "sentiment": "positive", "topics": {"0": "0.16311117", "1": "0.2630755", "2": "0.14639662", "4": "0.25079322", "6": "0.16298367"}}

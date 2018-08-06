@@ -1,0 +1,1 @@
+{"text": "I got these sun glasses for simply driving around and considering the price they work great.  Don't waste your money buying more expensive ones.", "sentiment": "positive", "topics": {"0": "0.30487862", "1": "0.32650673", "6": "0.33269942"}}

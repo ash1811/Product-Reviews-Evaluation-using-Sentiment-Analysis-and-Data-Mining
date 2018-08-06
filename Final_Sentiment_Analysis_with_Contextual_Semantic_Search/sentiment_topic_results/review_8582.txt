@@ -1,0 +1,1 @@
+{"text": "comfortable and soft fit true to size always have bee my favorite pair of sneakers, and  they still are o", "sentiment": "negative", "topics": {"0": "0.011935075", "1": "0.52721864", "2": "0.011925053", "3": "0.18018918", "4": "0.011925603", "5": "0.24486768", "6": "0.011938714"}}

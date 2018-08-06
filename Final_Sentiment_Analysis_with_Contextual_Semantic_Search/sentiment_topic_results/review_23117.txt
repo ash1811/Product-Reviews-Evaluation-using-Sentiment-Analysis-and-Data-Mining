@@ -1,0 +1,1 @@
+{"text": "I have worn this brand and style for many years and have never been disappointed.  They fit well and give the needed support - even in the larger sizes.  The front close makes life much easier!", "sentiment": "negative", "topics": {"0": "0.16249877", "1": "0.26216912", "3": "0.36731607", "4": "0.09947367", "6": "0.095519185"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for my girlfriend and she looks damn sexy in them, I would totally buy them again! A+", "sentiment": "negative", "topics": {"0": "0.23990531", "1": "0.18719858", "2": "0.0119483555", "3": "0.10174251", "4": "0.24187148", "5": "0.20539695", "6": "0.01193678"}}

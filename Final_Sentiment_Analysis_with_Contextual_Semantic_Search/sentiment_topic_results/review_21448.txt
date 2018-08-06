@@ -1,0 +1,1 @@
+{"text": "I liked them a lot, the only criticism i have is that the sole is way too soft for my taste, i would like something firmer, but so far very happy with the product", "sentiment": "positive", "topics": {"0": "0.09611997", "1": "0.3736891", "2": "0.244981", "5": "0.25650275"}}

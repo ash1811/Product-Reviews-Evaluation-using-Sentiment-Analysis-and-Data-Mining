@@ -1,0 +1,1 @@
+{"text": "These, I'm sorry, do not stay in place!! Move all over..MY ERROR..I thought it had a sticky backing..I didn't read the info clearly...", "sentiment": "negative", "topics": {"2": "0.07423696", "3": "0.18406315", "4": "0.16692577", "5": "0.114249736", "6": "0.4413835"}}

@@ -1,0 +1,1 @@
+{"text": "Warm, breathable, and never get soggy or smell bad.  They seem to be -very- durable.  These are so close to perfect, just quit shopping here and buy these.  Trying to get better &/or save a few bucks isn't worth the time.", "sentiment": "negative", "topics": {"1": "0.5296035", "2": "0.15559168", "4": "0.04524266", "5": "0.102539234", "6": "0.1555445"}}

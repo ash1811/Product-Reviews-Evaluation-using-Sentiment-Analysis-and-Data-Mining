@@ -1,0 +1,1 @@
+{"text": "Whenever I am shopping for hosiery I search Leg Avenue their products are always well made. This about the 10th pair of thigh high tights that I purchased from them and I am always a happy customer.", "sentiment": "negative", "topics": {"1": "0.24788508", "3": "0.09185705", "4": "0.14279026", "5": "0.34143442", "6": "0.1616891"}}

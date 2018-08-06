@@ -1,0 +1,1 @@
+{"text": "We have bought MANY pair of these now and love them. Myself and both my daughters each have them. We get compliments on them all the time, because people think they look so great. And they are SUPER comfy!!", "sentiment": "negative", "topics": {"1": "0.41164324", "3": "0.32385036", "4": "0.23077549"}}

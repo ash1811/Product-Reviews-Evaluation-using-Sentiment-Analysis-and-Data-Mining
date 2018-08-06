@@ -1,0 +1,1 @@
+{"text": "I like a long scarf, so this really fit the bill. The quality is good and it looks nice.  I'm happy.", "sentiment": "negative", "topics": {"0": "0.011014021", "1": "0.68715507", "2": "0.011001887", "3": "0.01101122", "4": "0.011002513", "5": "0.25779718", "6": "0.011018146"}}

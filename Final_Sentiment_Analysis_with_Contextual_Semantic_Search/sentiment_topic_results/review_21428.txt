@@ -1,0 +1,1 @@
+{"text": "Did fit a little large, but wearing socks evened things out.  Has a thin sole compared to other models from this maker, not recommended for outside use.  Very warm.", "sentiment": "negative", "topics": {"1": "0.50856006", "2": "0.077326216", "4": "0.09676025", "5": "0.23303635", "6": "0.06838766"}}

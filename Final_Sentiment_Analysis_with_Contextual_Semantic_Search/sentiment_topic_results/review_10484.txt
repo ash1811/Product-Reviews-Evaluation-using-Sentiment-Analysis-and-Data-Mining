@@ -1,0 +1,1 @@
+{"text": "I like it, it is nice and warm, very comfortable I would like to get a bigger size next time.", "sentiment": "negative", "topics": {"0": "0.011051529", "1": "0.51008165", "2": "0.011023072", "3": "0.011053087", "4": "0.011019301", "5": "0.011018664", "6": "0.4347527"}}

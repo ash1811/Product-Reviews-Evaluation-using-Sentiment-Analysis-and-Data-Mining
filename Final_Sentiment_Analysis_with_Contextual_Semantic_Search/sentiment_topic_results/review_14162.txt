@@ -1,0 +1,1 @@
+{"text": "I love them and you can wear them year round. I love the style .. love the comfort and relaxing .", "sentiment": "negative", "topics": {"0": "0.014300929", "1": "0.01433899", "2": "0.014285721", "3": "0.3451313", "4": "0.48331556", "5": "0.014368171", "6": "0.114259325"}}

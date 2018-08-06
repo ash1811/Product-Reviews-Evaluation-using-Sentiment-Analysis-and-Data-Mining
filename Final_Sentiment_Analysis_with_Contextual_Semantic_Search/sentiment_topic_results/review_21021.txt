@@ -1,0 +1,1 @@
+{"text": "HANES THIGH HIGHS - Living in the deep, and usually very hot, South I just can't stand to wear pantyhose. Thigh Highs are beautiful and much cooler.", "sentiment": "positive", "topics": {"0": "0.17124003", "1": "0.219206", "4": "0.09092596", "5": "0.24732248", "6": "0.25539845"}}

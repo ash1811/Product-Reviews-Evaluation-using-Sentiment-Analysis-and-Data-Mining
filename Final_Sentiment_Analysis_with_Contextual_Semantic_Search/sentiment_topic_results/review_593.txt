@@ -1,0 +1,1 @@
+{"text": "I can only think of one word that describes the Wrangler jeans that I bought and that is AWSOME purchase", "sentiment": "negative", "topics": {"0": "0.014336139", "1": "0.3795004", "2": "0.014332218", "3": "0.014308187", "4": "0.4450435", "5": "0.014392254", "6": "0.11808729"}}

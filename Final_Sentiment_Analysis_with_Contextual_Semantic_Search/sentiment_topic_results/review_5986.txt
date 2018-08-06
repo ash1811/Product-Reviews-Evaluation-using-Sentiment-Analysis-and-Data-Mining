@@ -1,0 +1,1 @@
+{"text": "The pashmina is really gorgeous. Not as soft and cozy as I hoped, but for a fashion statement it really stands out.", "sentiment": "negative", "topics": {"0": "0.011970449", "1": "0.3149169", "2": "0.14876704", "3": "0.16576749", "4": "0.23522407", "5": "0.011934618", "6": "0.11141938"}}

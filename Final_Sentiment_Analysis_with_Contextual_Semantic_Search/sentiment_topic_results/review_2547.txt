@@ -1,0 +1,1 @@
+{"text": "Love these cotton undies. I especially like the ribbed leg holes. They are soft, comfy. The fabric is breathable. Nice white color.", "sentiment": "negative", "topics": {"1": "0.3295951", "2": "0.18206367", "3": "0.115731575", "5": "0.19126801", "6": "0.16342467"}}

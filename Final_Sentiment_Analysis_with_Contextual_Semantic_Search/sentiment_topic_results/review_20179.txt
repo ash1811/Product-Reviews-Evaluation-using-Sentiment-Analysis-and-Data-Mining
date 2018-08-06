@@ -1,0 +1,1 @@
+{"text": "these beads were the right price and the right size for my purpose. I would recommend them to another person", "sentiment": "positive", "topics": {"0": "0.013018194", "1": "0.27312514", "2": "0.013009536", "3": "0.40959406", "4": "0.26518857", "5": "0.013013912", "6": "0.013050617"}}

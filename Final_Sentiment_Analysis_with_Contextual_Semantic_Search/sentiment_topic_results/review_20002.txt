@@ -1,0 +1,1 @@
+{"text": "Just your basic, hi top chucks. I have them in almost every color, and they are a good shoe when you need the ankle support.Will only give 5 stars if the item goes above and beyond expectations, which is why I only rated 4 stars. .", "sentiment": "positive", "topics": {"2": "0.32680932", "3": "0.15045185", "5": "0.23907326", "6": "0.2649469"}}

@@ -1,0 +1,1 @@
+{"text": "Good product as the brand name implies.Comfortable and relaxed fit. Washes well in automatic washer. Recommend for full-sized women.", "sentiment": "negative", "topics": {"0": "0.19031538", "1": "0.29384658", "2": "0.08913181", "3": "0.1879651", "5": "0.21968628"}}

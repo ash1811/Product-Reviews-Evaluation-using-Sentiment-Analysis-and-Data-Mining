@@ -1,0 +1,1 @@
+{"text": "These are good working jeans. They can take quite the beating. They are comfortable and wash up great. I'm happy with my purchase.", "sentiment": "negative", "topics": {"0": "0.011013795", "1": "0.7040064", "2": "0.010995793", "3": "0.0110123325", "4": "0.011009482", "5": "0.24096304", "6": "0.010999188"}}

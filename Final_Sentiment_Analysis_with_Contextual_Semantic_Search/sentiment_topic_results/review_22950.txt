@@ -1,0 +1,1 @@
+{"text": "Wonderful shorts. I do not believe there is something particularly long about them. I actually expected them to be much longer and hence the four star rating. The material is very comfortable. Still a highly recommendable pair of shorts.", "sentiment": "positive", "topics": {"0": "0.1352602", "1": "0.47540233", "3": "0.21163999", "5": "0.0797142", "6": "0.08551629"}}

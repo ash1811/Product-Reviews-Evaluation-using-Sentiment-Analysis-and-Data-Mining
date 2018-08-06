@@ -1,0 +1,1 @@
+{"text": "This brief creeps into a wedge.  Fabric is very comfortable, bright color, and amazing stretch!  But it can't stretch enough.", "sentiment": "negative", "topics": {"0": "0.16054079", "1": "0.37059277", "2": "0.011005273", "3": "0.011000267", "4": "0.31976324", "5": "0.11610508", "6": "0.010992566"}}

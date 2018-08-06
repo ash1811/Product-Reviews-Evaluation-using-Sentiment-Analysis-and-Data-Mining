@@ -1,0 +1,1 @@
+{"text": "Bought these shirts to meet job requirements for employment at a fast growing food chain.  They have held out well over time and hold up well in the wash.", "sentiment": "negative", "topics": {"1": "0.25011227", "2": "0.22597994", "3": "0.16110995", "4": "0.16712815", "5": "0.17881815"}}

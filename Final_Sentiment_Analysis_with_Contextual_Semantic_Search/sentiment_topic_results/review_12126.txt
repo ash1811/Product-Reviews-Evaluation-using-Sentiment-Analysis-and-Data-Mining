@@ -1,0 +1,1 @@
+{"text": "They are a little tight at the top for a big man with big legs/calves. As for wear and tear, time will tell.", "sentiment": "negative", "topics": {"0": "0.16694093", "1": "0.49942544", "2": "0.011946041", "3": "0.19601797", "4": "0.1018128", "5": "0.01194952", "6": "0.011907301"}}

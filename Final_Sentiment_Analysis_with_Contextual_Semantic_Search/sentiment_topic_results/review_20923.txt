@@ -1,0 +1,1 @@
+{"text": "Just as expected-very good and comfortable. Levi quality has maintained over the years. Having the option of a size 17 is a great feature.Thanks!", "sentiment": "positive", "topics": {"0": "0.19006047", "1": "0.3228407", "2": "0.010991285", "3": "0.16301006", "4": "0.0921205", "5": "0.011000709", "6": "0.2099763"}}

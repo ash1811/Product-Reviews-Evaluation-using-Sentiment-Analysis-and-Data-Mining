@@ -1,0 +1,1 @@
+{"text": "After reading the reviews I decided the order a full size bigger than my street size. It turned out too big but not terribly so. Next time I would only order a half size larger.", "sentiment": "negative", "topics": {"0": "0.36258316", "1": "0.24992514", "3": "0.19346689", "6": "0.17355189"}}

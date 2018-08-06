@@ -1,0 +1,1 @@
+{"text": "looks exactly like the picture and enough notches so that it fits a very small womens wrist, which I have", "sentiment": "negative", "topics": {"0": "0.13973214", "1": "0.499498", "2": "0.013005596", "3": "0.013021198", "4": "0.013009902", "5": "0.3087096", "6": "0.013023538"}}

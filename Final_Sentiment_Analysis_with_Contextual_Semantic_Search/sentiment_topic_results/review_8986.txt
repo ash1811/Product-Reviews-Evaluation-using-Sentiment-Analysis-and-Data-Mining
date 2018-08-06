@@ -1,0 +1,1 @@
+{"text": "Fits perfectly on my wife and is the shape and low-cut (but still covers) like she was looking for in a real demi.  Will be getting some other colors.", "sentiment": "negative", "topics": {"0": "0.09492024", "1": "0.5862321", "4": "0.1543512", "5": "0.13581589"}}

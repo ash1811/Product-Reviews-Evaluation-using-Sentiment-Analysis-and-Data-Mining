@@ -1,0 +1,1 @@
+{"text": "First time to buy and first time to dye.  The final color was not that even but I believe that because of the age of leather.  Still think it is a good product though.", "sentiment": "negative", "topics": {"1": "0.4245152", "2": "0.14253742", "4": "0.17730139", "5": "0.23177116"}}

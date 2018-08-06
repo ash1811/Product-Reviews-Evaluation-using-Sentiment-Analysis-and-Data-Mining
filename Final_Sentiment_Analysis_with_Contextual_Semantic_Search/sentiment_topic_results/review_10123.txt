@@ -1,0 +1,1 @@
+{"text": "Very Pretty, colors change with what I wear.  it is a perfect size pendant to wear to work. Love it.", "sentiment": "negative", "topics": {"0": "0.0119541325", "1": "0.4221355", "2": "0.1251902", "3": "0.23913343", "4": "0.011948879", "5": "0.17770661", "6": "0.011931207"}}

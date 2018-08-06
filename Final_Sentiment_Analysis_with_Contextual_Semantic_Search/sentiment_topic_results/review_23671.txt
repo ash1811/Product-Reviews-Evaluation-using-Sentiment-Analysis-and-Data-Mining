@@ -1,0 +1,1 @@
+{"text": "I have been waiting a pair of real flight sunglasses and these are perfect. They are a bit heavier than I expected but they are amazingly clear and very stylish. I wear them all the time and may get a second pair in a different color.", "sentiment": "negative", "topics": {"0": "0.08222275", "1": "0.5793745", "2": "0.1623546", "5": "0.090896174", "6": "0.07150601"}}

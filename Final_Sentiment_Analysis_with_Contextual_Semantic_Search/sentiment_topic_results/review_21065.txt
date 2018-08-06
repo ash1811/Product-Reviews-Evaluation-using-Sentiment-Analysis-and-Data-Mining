@@ -1,0 +1,1 @@
+{"text": "These hiking boots are strong and very comfortable.  They fit just fine and are very good looking.  I would recommend them to any body.", "sentiment": "negative", "topics": {"0": "0.14051381", "1": "0.45919344", "2": "0.1212703", "3": "0.011947502", "4": "0.12877245", "5": "0.011932128", "6": "0.12637036"}}

@@ -1,0 +1,1 @@
+{"text": "It would be fine as long as you never had to move, or sit down.  It's just crazy uncomfortable.  Effective though!", "sentiment": "positive", "topics": {"0": "0.011920528", "1": "0.29239273", "2": "0.09896169", "3": "0.011954781", "4": "0.24080878", "5": "0.3320437", "6": "0.011917812"}}

@@ -1,0 +1,1 @@
+{"text": "My tot loves supers.  I bought this big on purpose so I really can't testify to the size but its been peed in and washed a few times and is still going strong.", "sentiment": "negative", "topics": {"0": "0.2643091", "1": "0.4337384", "3": "0.26825485"}}

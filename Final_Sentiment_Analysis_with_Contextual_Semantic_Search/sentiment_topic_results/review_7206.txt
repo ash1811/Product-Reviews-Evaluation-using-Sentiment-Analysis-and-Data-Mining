@@ -1,0 +1,1 @@
+{"text": "The size was more like a 3XL she never used then and cant sent them back if you buy then get one size smaller than you need!", "sentiment": "negative", "topics": {"1": "0.5315996", "3": "0.19493553", "6": "0.23522192"}}

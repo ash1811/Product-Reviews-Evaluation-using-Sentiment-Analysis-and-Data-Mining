@@ -1,0 +1,1 @@
+{"text": "I understood upon ordering they were low rise socks,but these are really low, i would like them a little higher.", "sentiment": "negative", "topics": {"0": "0.411345", "1": "0.32009456", "2": "0.01100666", "3": "0.14464015", "4": "0.09088363", "5": "0.011010489", "6": "0.011019489"}}

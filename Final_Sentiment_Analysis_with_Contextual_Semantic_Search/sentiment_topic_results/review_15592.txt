@@ -1,0 +1,1 @@
+{"text": "My wife loves this watch.  Very comfortable for small wrists. Looks much better in person than it does in the picture.  Like most things, the price on Amazon was much better than at the mall.", "sentiment": "negative", "topics": {"1": "0.4571855", "2": "0.11205693", "4": "0.22065923", "6": "0.18739791"}}

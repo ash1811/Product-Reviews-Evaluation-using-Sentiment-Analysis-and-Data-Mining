@@ -1,0 +1,1 @@
+{"text": "I had this product recommended to me by my podiatrist. It is simple to use, just remove whatever padding came with your shoe and insert the Superfeet insole.  My feet feel good, and my heals feel more stable when I wear them.", "sentiment": "negative", "topics": {"2": "0.21682958", "4": "0.32475618", "5": "0.27848503", "6": "0.16039772"}}

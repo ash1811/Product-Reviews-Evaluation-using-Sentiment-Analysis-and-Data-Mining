@@ -1,0 +1,1 @@
+{"text": "theses slippers are very cushiony and do not slip off my feet. They are slip resistant and the material is soft. I have no problems wearing these around the house", "sentiment": "positive", "topics": {"0": "0.4008153", "1": "0.010245237", "2": "0.10401931", "3": "0.3382311", "4": "0.010251991", "5": "0.010226972", "6": "0.12621011"}}

@@ -1,0 +1,1 @@
+{"text": "Are a great sneaker to wear in the Summer with casual dresses, jeans etc.They are a good fit and comfortable.", "sentiment": "negative", "topics": {"0": "0.011945237", "1": "0.58069474", "2": "0.104691535", "3": "0.011919085", "4": "0.011921367", "5": "0.26690382", "6": "0.011924264"}}

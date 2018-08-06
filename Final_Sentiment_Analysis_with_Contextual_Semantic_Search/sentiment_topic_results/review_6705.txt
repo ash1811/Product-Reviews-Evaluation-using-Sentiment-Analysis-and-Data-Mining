@@ -1,0 +1,1 @@
+{"text": "I bought this for my grand daughter and she loves it. It's a Timex so I don't have to worry about it getting damaged because every Timex I've ever owned held up to far more than normal wear and tear...", "sentiment": "negative", "topics": {"0": "0.46015954", "1": "0.100988284", "2": "0.18731037", "3": "0.18194982", "6": "0.05522267"}}

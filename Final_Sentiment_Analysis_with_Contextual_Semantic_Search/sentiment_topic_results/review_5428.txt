@@ -1,0 +1,1 @@
+{"text": "The fit is good and snug not too tight and it has the right amount of length not too long or too short!", "sentiment": "positive", "topics": {"0": "0.17505623", "1": "0.5932049", "2": "0.014287571", "3": "0.014308227", "4": "0.014303157", "5": "0.014309382", "6": "0.17453049"}}

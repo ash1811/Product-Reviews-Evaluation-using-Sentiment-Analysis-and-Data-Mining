@@ -1,0 +1,1 @@
+{"text": "Perfect helmet to complete my viking outfit ---- it is a heavy plastic and is very comfortable to wear.  The pictures were great, kind of made the outfit.", "sentiment": "negative", "topics": {"1": "0.4992171", "2": "0.1582768", "3": "0.102587976", "4": "0.15361147", "6": "0.06720197"}}

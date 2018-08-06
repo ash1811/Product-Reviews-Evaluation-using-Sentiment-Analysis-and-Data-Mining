@@ -1,0 +1,1 @@
+{"text": "I've bought this one and works perfectly, but I've changed it for a X-Lander with Aluminium case, wich one is perfect.", "sentiment": "negative", "topics": {"0": "0.18389809", "1": "0.26734987", "2": "0.29030305", "3": "0.22780073", "4": "0.010225302", "5": "0.010214865", "6": "0.010208099"}}

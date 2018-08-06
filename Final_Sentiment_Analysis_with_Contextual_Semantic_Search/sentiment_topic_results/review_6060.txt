@@ -1,0 +1,1 @@
+{"text": "The shoes are quite good, but the size is not true, much larger than my summer pair(size 8.5) in leather. But It also fits me well.", "sentiment": "negative", "topics": {"1": "0.34135947", "2": "0.22960277", "3": "0.12391804", "4": "0.276491"}}

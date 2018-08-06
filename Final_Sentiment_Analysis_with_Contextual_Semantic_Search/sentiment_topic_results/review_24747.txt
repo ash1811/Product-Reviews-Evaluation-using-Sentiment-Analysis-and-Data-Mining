@@ -1,0 +1,1 @@
+{"text": "I found the bra to fit well and good support but most important is  the racer back style relieves the pressure to the shoulders and has the convenient front closure.", "sentiment": "negative", "topics": {"0": "0.11694598", "1": "0.42272136", "3": "0.21617498", "4": "0.12771301", "6": "0.099591605"}}

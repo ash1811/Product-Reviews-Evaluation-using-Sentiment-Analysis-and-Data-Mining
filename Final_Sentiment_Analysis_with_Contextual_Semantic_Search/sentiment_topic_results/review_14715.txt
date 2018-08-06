@@ -1,0 +1,1 @@
+{"text": "It is very nice and from lther and if i need it  next time i will by it agen ok", "sentiment": "negative", "topics": {"0": "0.39952707", "1": "0.27638057", "2": "0.01788503", "3": "0.017878188", "4": "0.017869402", "5": "0.01787361", "6": "0.25258613"}}

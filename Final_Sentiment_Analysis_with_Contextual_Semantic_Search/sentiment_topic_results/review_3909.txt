@@ -1,0 +1,1 @@
+{"text": "Perfect for wearing with jeans, the size is right. Thickness and height are also perfect. The part where it is elastic and no need to worry about holes is awesome!", "sentiment": "negative", "topics": {"1": "0.2469104", "2": "0.06373409", "3": "0.2555642", "4": "0.23854743", "6": "0.17731325"}}

@@ -1,0 +1,1 @@
+{"text": "I love these slippers but they run large. They are so comfortable, soft and warm. I highly recommend them. The color is the same as the photo by the way. Often they are not.", "sentiment": "negative", "topics": {"1": "0.44354528", "3": "0.37646878", "6": "0.14416695"}}

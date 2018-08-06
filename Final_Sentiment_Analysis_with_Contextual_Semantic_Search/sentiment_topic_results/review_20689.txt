@@ -1,0 +1,1 @@
+{"text": "It is hard to rate a belt.  This one's buckle is exremely hard to get to work right.  If you are in a hurry to get your pants down, this is not the belt for you.  The little slider doesn't want to stay put.", "sentiment": "positive", "topics": {"0": "0.21383391", "1": "0.08202798", "2": "0.22694038", "3": "0.2922013", "4": "0.17197922"}}

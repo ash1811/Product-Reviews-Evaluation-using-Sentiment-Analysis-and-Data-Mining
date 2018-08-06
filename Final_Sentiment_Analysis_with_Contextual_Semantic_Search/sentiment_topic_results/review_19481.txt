@@ -1,0 +1,1 @@
+{"text": "Wore these shopping all day. Feet were comfortable. I usually wear 9 1/2 and these fit true to size. They ran a little wide (I have medium width feet), but the strap helps to keep them in place.", "sentiment": "positive", "topics": {"1": "0.20319422", "2": "0.07341374", "3": "0.16289435", "5": "0.42915544", "6": "0.11938316"}}

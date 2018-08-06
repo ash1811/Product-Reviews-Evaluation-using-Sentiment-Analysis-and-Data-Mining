@@ -1,0 +1,1 @@
+{"text": "These are truly the most wrinkle resistant pants I've ever owned. So far they have not wrinkled between washings.Will buy more!!", "sentiment": "negative", "topics": {"0": "0.011005581", "1": "0.28438324", "2": "0.28752485", "3": "0.1438228", "4": "0.25126988", "5": "0.011003593", "6": "0.010990037"}}

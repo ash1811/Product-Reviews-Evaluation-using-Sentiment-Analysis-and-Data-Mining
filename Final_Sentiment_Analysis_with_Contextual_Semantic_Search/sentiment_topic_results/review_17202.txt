@@ -1,0 +1,1 @@
+{"text": "I haven't really used this bag yet other than for storage of our OTS masks. Not a main dive bag, but good quality construction as you would expect from an Akona product, so I expect that it will stand up to wear and tear.", "sentiment": "negative", "topics": {"1": "0.2255539", "2": "0.16561534", "5": "0.45535234", "6": "0.13392358"}}

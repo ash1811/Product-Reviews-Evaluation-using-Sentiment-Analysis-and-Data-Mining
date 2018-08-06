@@ -1,0 +1,1 @@
+{"text": "From using the chart found on here I found that this brand's idea of measurement was vey different, but, if they had fit I found them to of good quality.", "sentiment": "negative", "topics": {"0": "0.09617089", "1": "0.30572078", "2": "0.13732044", "3": "0.122702815", "4": "0.22403702", "6": "0.10448414"}}

@@ -1,0 +1,1 @@
+{"text": "These flip flops are so comfortable, my husband won't take them off!  These are now his favorite flip flops he has ever purchased.", "sentiment": "negative", "topics": {"0": "0.01192891", "1": "0.5806282", "2": "0.26232752", "3": "0.0119171925", "4": "0.10935858", "5": "0.011924041", "6": "0.011915595"}}

@@ -1,0 +1,1 @@
+{"text": "Saw and advertisement for this product.  Had to try it to see if it was durable and comfortable.  Hemp product that is safe for the environment.", "sentiment": "negative", "topics": {"0": "0.108954884", "1": "0.15408109", "2": "0.011927969", "3": "0.19687049", "4": "0.081728615", "5": "0.43446517", "6": "0.0119717615"}}

@@ -1,0 +1,1 @@
+{"text": "This wallet is well made. But it was smaller than I expected it to be. I will still carry it in my smaller hand bags. I hope this helps.", "sentiment": "negative", "topics": {"0": "0.010225922", "1": "0.42582506", "2": "0.0102299545", "3": "0.31491202", "4": "0.133029", "5": "0.010226594", "6": "0.095551476"}}

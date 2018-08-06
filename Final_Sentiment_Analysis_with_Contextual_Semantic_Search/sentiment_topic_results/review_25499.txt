@@ -1,0 +1,1 @@
+{"text": "the mush is simply a mush . everyone loves it including my mom. but after my swimming, it gets wet on the straps and sometimes can be quite a hassle.", "sentiment": "negative", "topics": {"0": "0.12045763", "1": "0.37913224", "2": "0.16004677", "4": "0.15105449", "6": "0.17017457"}}

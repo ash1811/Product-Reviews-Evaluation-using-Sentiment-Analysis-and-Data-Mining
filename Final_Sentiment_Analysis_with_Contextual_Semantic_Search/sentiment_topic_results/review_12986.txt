@@ -1,0 +1,1 @@
+{"text": "pendant was very thin and the chain broke the first time I put it on.  Very unhappy. It was very cheap looking.  I tossed it into the trash.", "sentiment": "negative", "topics": {"0": "0.21699712", "1": "0.010262941", "2": "0.01026983", "3": "0.010241198", "4": "0.27801564", "5": "0.2849595", "6": "0.18925379"}}

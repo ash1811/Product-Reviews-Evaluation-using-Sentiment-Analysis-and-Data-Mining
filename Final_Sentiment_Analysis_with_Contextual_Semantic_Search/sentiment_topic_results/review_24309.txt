@@ -1,0 +1,1 @@
+{"text": "i wear nothing but berkshire pantyhose, whether there sheer or opaque they stay the test, they don't sag droop, there well made. i love them", "sentiment": "positive", "topics": {"0": "0.0940912", "1": "0.21111241", "4": "0.29272577", "5": "0.37341285"}}

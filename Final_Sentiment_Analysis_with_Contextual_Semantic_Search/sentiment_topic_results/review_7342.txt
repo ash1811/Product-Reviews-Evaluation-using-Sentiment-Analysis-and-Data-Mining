@@ -1,0 +1,1 @@
+{"text": "I needed some rugged pants for bushwhacking in the desert and these babies are just what I was looking for.", "sentiment": "positive", "topics": {"0": "0.015891382", "1": "0.36871922", "2": "0.18049997", "3": "0.01590473", "4": "0.22371218", "5": "0.015877584", "6": "0.1793949"}}

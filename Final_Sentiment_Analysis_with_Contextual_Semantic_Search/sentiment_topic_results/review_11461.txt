@@ -1,0 +1,1 @@
+{"text": "Great shirt, good weight, good feel, tagless I like.  My only complaint about this shirt is that it could be a little longer.  Don't let that stop you from buying it, it's a fine length.", "sentiment": "positive", "topics": {"1": "0.53992194", "2": "0.054303993", "6": "0.37711054"}}

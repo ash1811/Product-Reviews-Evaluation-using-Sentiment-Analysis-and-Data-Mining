@@ -1,0 +1,1 @@
+{"text": "Bought one for my wife and it fit perfectly with the double snaps. The leather feels nice to the touch, is just the right width and didn't smell. Looking forward to her wearing it out on the town.", "sentiment": "negative", "topics": {"1": "0.6340664", "2": "0.16487771", "5": "0.17068718"}}

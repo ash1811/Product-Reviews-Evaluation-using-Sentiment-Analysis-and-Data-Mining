@@ -1,0 +1,1 @@
+{"text": "She chose the color & style, however they were a little snug in the calf - she said they would stretch out though.", "sentiment": "negative", "topics": {"0": "0.011932131", "1": "0.099195845", "2": "0.012020338", "3": "0.30020198", "4": "0.37108278", "5": "0.011945833", "6": "0.19362113"}}

@@ -1,0 +1,1 @@
+{"text": "This is the only shoe polish I use on my work shoes, I love it and it will continue to buy it.", "sentiment": "negative", "topics": {"0": "0.014326617", "1": "0.48984116", "2": "0.32675824", "3": "0.014364081", "4": "0.014421118", "5": "0.014326389", "6": "0.12596235"}}

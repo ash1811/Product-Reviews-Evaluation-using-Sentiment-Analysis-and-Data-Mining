@@ -1,0 +1,1 @@
+{"text": "Fit very well.  Not uncomfortably short.  Runs a just a little smaller than sizing chart indicates.  Cute and worked for a murder mystery party", "sentiment": "negative", "topics": {"0": "0.21156193", "1": "0.21837589", "2": "0.10157529", "3": "0.27946386", "4": "0.08160135", "5": "0.0984195"}}

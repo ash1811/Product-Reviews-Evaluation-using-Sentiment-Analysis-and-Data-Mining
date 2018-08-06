@@ -1,0 +1,1 @@
+{"text": "These steel toe boots are great. Need them for work. They are very comfortable and provide the protection I need. Will buy same thing again when and if these wear out.", "sentiment": "positive", "topics": {"1": "0.5605556", "4": "0.090271406", "5": "0.07012246", "6": "0.25042042"}}

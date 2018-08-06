@@ -1,0 +1,1 @@
+{"text": "Good shoes, well cushioned, good price.  Nice looking shoes for when you don't need to wear your best.  Great daily wear.", "sentiment": "negative", "topics": {"0": "0.09811738", "1": "0.5936427", "2": "0.1461303", "3": "0.07012556", "6": "0.07409084"}}

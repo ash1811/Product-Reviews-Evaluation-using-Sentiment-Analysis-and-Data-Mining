@@ -1,0 +1,1 @@
+{"text": "Heavyweight sweatshirt.  Usually this quality of SS would have cost at least twice as much.  It was a good buy probably because of the charcoal color.", "sentiment": "negative", "topics": {"1": "0.80923533", "5": "0.14597163"}}

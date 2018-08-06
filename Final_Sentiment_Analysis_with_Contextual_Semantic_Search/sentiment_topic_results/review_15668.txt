@@ -1,0 +1,1 @@
+{"text": "Exactly what I was looking for. These are very comfortable and durable briefs. You can not go wrong with Calvin Klein Clothes.", "sentiment": "negative", "topics": {"0": "0.07812746", "1": "0.39442405", "2": "0.120207846", "3": "0.011935048", "4": "0.13842289", "5": "0.011927738", "6": "0.24495499"}}

@@ -1,0 +1,1 @@
+{"text": "I just wish the back ground wasn't green.  Otherwise, perfect size and weight.  This is my second, the first lasted forever!", "sentiment": "negative", "topics": {"0": "0.011012237", "1": "0.2646117", "2": "0.25860822", "3": "0.19754185", "4": "0.14604104", "5": "0.011028791", "6": "0.11115618"}}

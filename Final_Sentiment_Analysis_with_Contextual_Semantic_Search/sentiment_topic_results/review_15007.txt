@@ -1,0 +1,1 @@
+{"text": "i bought this hat because i was going to be the rabbit in alice in wonderland and it worked out great! very cute and fun.", "sentiment": "negative", "topics": {"0": "0.013037684", "1": "0.23070692", "2": "0.2389176", "3": "0.013064638", "4": "0.34386906", "5": "0.1473471", "6": "0.013056978"}}

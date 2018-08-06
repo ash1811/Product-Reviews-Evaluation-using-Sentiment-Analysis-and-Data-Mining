@@ -1,0 +1,1 @@
+{"text": "First of all I've never seen anything so white! It was hard to look at. Very smooth adges. The cups seem a little tall but I've sure that's for the secureness.", "sentiment": "negative", "topics": {"0": "0.18152092", "2": "0.147579", "3": "0.4270125", "4": "0.11594435", "5": "0.11363214"}}

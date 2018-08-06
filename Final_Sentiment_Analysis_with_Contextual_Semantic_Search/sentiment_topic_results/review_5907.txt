@@ -1,0 +1,1 @@
+{"text": "These errings are very pretty.  You can dress them up or wear with jeans.  Just the right amount of sparkle.  I love them.", "sentiment": "negative", "topics": {"0": "0.013044784", "1": "0.51121897", "2": "0.013009044", "3": "0.4235775", "4": "0.013063615", "5": "0.013091595", "6": "0.012994472"}}

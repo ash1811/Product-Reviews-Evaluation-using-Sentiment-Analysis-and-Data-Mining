@@ -1,0 +1,1 @@
+{"text": "I was looking for a good bra from work. I bought this and the Carina model from the same company. It fits well and is lightly lined but it is not as comfortable as the Carina model which I would recommend.", "sentiment": "negative", "topics": {"1": "0.4961728", "3": "0.111523286", "4": "0.15573178", "6": "0.2126361"}}

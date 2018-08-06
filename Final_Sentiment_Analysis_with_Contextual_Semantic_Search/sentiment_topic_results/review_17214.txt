@@ -1,0 +1,1 @@
+{"text": "I have been wearing these for about a month and they are fitting pretty good.  Vented on the sides so the feet get a little air. I would recommend these shoes.", "sentiment": "positive", "topics": {"1": "0.26848093", "2": "0.1411468", "5": "0.4521539", "6": "0.10947941"}}

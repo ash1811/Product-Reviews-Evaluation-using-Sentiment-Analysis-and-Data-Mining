@@ -1,0 +1,1 @@
+{"text": "I like these little pads but I have to admit that they can sometimes be pricey especially if you buy them and it doesn't solve your shoe problem.", "sentiment": "positive", "topics": {"0": "0.011917221", "1": "0.16645245", "2": "0.3950702", "3": "0.01193871", "4": "0.07041964", "5": "0.011921469", "6": "0.33228034"}}

@@ -1,0 +1,1 @@
+{"text": "Ok, sure, it's a Timex. But it has a clean classic look and it's held up really well to bumps and abuse.", "sentiment": "negative", "topics": {"0": "0.097498685", "1": "0.63786036", "2": "0.21698397", "3": "0.011914346", "4": "0.011911937", "5": "0.011921999", "6": "0.011908688"}}

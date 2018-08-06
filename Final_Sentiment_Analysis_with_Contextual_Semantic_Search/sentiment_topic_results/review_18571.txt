@@ -1,0 +1,1 @@
+{"text": "These multi-pocket summer weight pants are sturdy and very comfortable. I've already crawled around on concrete and gravel in them and they've been washed many times, yet they still look like new. Would definitely buy again.", "sentiment": "negative", "topics": {"1": "0.32972568", "2": "0.110004015", "3": "0.23922095", "4": "0.18135077", "5": "0.12868683"}}

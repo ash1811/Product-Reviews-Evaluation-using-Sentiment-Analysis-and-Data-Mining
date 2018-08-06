@@ -1,0 +1,1 @@
+{"text": "This type of moccasin used to be a favorite of mine. The style of the boot has changed. It runs very small and is very flimsy.", "sentiment": "negative", "topics": {"0": "0.3458442", "1": "0.011958553", "2": "0.011922238", "3": "0.16246943", "4": "0.24860774", "5": "0.011958038", "6": "0.20723978"}}

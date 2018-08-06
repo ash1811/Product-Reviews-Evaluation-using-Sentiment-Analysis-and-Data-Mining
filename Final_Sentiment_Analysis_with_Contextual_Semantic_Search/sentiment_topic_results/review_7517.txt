@@ -1,0 +1,1 @@
+{"text": "This Jacket is rugged and stylish as expected it fits well and should last for many years. I have no hesitation in recommending it.", "sentiment": "negative", "topics": {"0": "0.01102761", "1": "0.24689636", "2": "0.1440544", "3": "0.18147574", "4": "0.31268114", "5": "0.011012544", "6": "0.092852235"}}

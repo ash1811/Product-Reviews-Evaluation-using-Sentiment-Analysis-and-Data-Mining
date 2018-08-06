@@ -1,0 +1,1 @@
+{"text": "He is a former Marine and he blouses the top and sleeps just fine.  At  least his PJ's have plenty of material.", "sentiment": "negative", "topics": {"0": "0.13679674", "1": "0.2651903", "2": "0.14283508", "3": "0.2862051", "4": "0.013015269", "5": "0.1429324", "6": "0.013025061"}}

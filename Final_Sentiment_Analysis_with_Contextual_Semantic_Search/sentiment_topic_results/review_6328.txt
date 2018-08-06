@@ -1,0 +1,1 @@
+{"text": "I bought Durango because I know that brand and that's what you need in texas and my great granddaughter is only .3 she loves them and they look great on her", "sentiment": "negative", "topics": {"0": "0.010223576", "1": "0.40140632", "2": "0.010211813", "3": "0.34376767", "4": "0.010233187", "5": "0.12232627", "6": "0.101831146"}}

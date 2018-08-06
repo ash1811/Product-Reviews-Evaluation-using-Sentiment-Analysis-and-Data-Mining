@@ -1,0 +1,1 @@
+{"text": "Buy these shoes for my boyfriend got me that time is of good quality wait and see if soI liked and when he also gave them to loved themthanks", "sentiment": "negative", "topics": {"0": "0.087170854", "1": "0.39333454", "2": "0.08628432", "4": "0.29848307", "5": "0.11679142"}}

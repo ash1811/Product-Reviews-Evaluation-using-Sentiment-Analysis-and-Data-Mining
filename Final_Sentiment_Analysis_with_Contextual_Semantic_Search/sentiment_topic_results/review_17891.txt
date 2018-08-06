@@ -1,0 +1,1 @@
+{"text": "All star is my favorite brand of tennis because thier durability, thanks for sending it just on time, Im very thankful.", "sentiment": "negative", "topics": {"0": "0.011971678", "1": "0.01194603", "2": "0.32464927", "3": "0.29206577", "4": "0.011929362", "5": "0.33552146", "6": "0.011916439"}}

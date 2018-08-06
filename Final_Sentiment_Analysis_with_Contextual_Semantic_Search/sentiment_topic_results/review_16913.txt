@@ -1,0 +1,1 @@
+{"text": "These pants take the rough ranching treatment my family gives them. No mending for a very long time. Wear them everyday!", "sentiment": "negative", "topics": {"0": "0.33357146", "1": "0.31066757", "2": "0.13144062", "3": "0.010244084", "4": "0.06305335", "5": "0.010241858", "6": "0.14078102"}}

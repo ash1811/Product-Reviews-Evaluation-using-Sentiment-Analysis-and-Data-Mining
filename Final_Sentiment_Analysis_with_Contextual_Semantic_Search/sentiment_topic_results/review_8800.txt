@@ -1,0 +1,1 @@
+{"text": "These are my husband's favorite socks to wear to work with his workboots. He wears a pair of them everyday.", "sentiment": "positive", "topics": {"0": "0.014306312", "1": "0.014334624", "2": "0.014294642", "3": "0.3135746", "4": "0.30018002", "5": "0.32901382", "6": "0.014295964"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for our cruise.  They run big and hoping they do not come off in the ocean when walking near reef area.  Will find out in July around Jamaica.", "sentiment": "negative", "topics": {"1": "0.42990336", "3": "0.31674394", "5": "0.10964857", "6": "0.11687425"}}

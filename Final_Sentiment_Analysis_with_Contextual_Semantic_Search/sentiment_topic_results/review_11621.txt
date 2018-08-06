@@ -1,0 +1,1 @@
+{"text": "This is that kind of pants that you can use to almost all occasions! I bought this for my son and he liked it a lot! The color is exactly like the picture and the fit is perfect!", "sentiment": "positive", "topics": {"0": "0.07039602", "1": "0.69238144", "2": "0.20141362"}}

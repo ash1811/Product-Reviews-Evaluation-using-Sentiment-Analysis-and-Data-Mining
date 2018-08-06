@@ -1,0 +1,1 @@
+{"text": "Color selection was very broad, quality and price was amazing! I will purchase again from your company. Nice to still have an old friend still in the business!", "sentiment": "positive", "topics": {"0": "0.10045635", "1": "0.65744984", "4": "0.10255663", "5": "0.1109335"}}

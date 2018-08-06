@@ -1,0 +1,1 @@
+{"text": "The most beautiful watch ever, super rich looking , perfect size for my wrist and i have a very small one but it fits beautifully. It was very easy to adjust the band i even did it myself!", "sentiment": "positive", "topics": {"1": "0.20213905", "2": "0.34763807", "3": "0.16842501", "5": "0.09625669", "6": "0.17040217"}}

@@ -1,0 +1,1 @@
+{"text": "This shoe is a larger fit. Has high arch and feels like your walking more forward. Well built, good quality for the price.", "sentiment": "positive", "topics": {"1": "0.43746126", "2": "0.18608993", "3": "0.1106895", "5": "0.1357085", "6": "0.11090103"}}

@@ -1,0 +1,1 @@
+{"text": "These looks and worked great. Only problem was they got hot. My husband liked them and found them easy to work. His friends had bought others and they ended up fighting the ones they had bought to keep them up.  These work great", "sentiment": "positive", "topics": {"0": "0.26242328", "3": "0.2522726", "4": "0.2490927", "5": "0.13627122", "6": "0.0874535"}}

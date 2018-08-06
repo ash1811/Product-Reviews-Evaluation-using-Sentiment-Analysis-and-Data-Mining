@@ -1,0 +1,1 @@
+{"text": "I bought these jeans for my husband for Christmas. He's been wearing this brand and style for as long as I've known him, pushing close to two decades. He was thoroughly pleased, once again, with the fit and color of the jeans.", "sentiment": "negative", "topics": {"0": "0.053327795", "1": "0.28533942", "3": "0.21633701", "4": "0.17180726", "5": "0.26066288"}}

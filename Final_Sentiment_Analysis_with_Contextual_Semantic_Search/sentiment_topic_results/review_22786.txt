@@ -1,0 +1,1 @@
+{"text": "This bracelet has a true turquoise color with some dark veining. The irregularly shaped stones give it an interesting look. At this price I should have bought more than one.", "sentiment": "positive", "topics": {"1": "0.3736844", "3": "0.27647397", "4": "0.15831208", "5": "0.16462426"}}

@@ -1,0 +1,1 @@
+{"text": "This product is ok for the price, but I have two little issues. First the bag is somewhat small. It can only be used for a short weekend trip. Also it has a weird smell? It smells musty.", "sentiment": "negative", "topics": {"0": "0.11962511", "1": "0.19992514", "2": "0.06882569", "3": "0.21957543", "4": "0.1553805", "5": "0.22950764"}}

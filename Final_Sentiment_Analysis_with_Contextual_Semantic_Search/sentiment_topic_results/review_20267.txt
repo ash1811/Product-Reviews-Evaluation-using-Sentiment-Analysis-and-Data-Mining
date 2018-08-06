@@ -1,0 +1,1 @@
+{"text": "Beautiful shoe trees, nicely sanded and very smooth. As per Allen Edmonds advice, I got the Large for size 11 shoes and they fit snugly, but fill the shoe nicely. Very satisfied.", "sentiment": "negative", "topics": {"0": "0.081666574", "1": "0.29047218", "2": "0.15029815", "4": "0.22547433", "6": "0.23901173"}}

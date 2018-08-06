@@ -1,0 +1,1 @@
+{"text": "These thigh highs are for a courtesan costume of mine and look fabulous..sexy and fun..great fit and construction..they look fabulous and I have everyone asking where they can get them..", "sentiment": "positive", "topics": {"0": "0.3238767", "1": "0.09614815", "4": "0.3318571", "6": "0.222804"}}

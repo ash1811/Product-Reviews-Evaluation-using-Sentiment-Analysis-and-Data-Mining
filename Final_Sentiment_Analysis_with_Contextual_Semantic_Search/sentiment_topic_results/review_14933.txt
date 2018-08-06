@@ -1,0 +1,1 @@
+{"text": "I love the quality, love the space.  But for some reason the bag slides around and always ends up resting on my hip.  Two other family members had the same issue.  And the thick strap around the front is not flattering.", "sentiment": "positive", "topics": {"0": "0.1560074", "1": "0.09643506", "2": "0.1541475", "4": "0.167412", "5": "0.41295528"}}

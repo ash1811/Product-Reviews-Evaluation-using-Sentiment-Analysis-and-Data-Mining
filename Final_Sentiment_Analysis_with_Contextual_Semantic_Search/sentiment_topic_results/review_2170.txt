@@ -1,0 +1,1 @@
+{"text": "shoe fits fine and it very comfortable but  heel is unusual in the fact that it changes your gate.  Feels almost as if the heel is square.Will use for walking on non hard surfaces as it does not cause you to kick your leg  out as much.", "sentiment": "positive", "topics": {"0": "0.06791672", "1": "0.15516491", "2": "0.33466974", "3": "0.34497142", "5": "0.08483167"}}

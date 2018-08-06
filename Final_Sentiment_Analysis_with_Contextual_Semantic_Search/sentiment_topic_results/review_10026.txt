@@ -1,0 +1,1 @@
+{"text": "I ordered this watch a couple of years ago and it's still going strong.  I love the fabric band and plastic casing as I'm allergic to nickel and this watch is one I can wear day and night without itching.", "sentiment": "negative", "topics": {"1": "0.31131783", "2": "0.16274604", "3": "0.14818458", "4": "0.12636754", "5": "0.17360234", "6": "0.071800075"}}

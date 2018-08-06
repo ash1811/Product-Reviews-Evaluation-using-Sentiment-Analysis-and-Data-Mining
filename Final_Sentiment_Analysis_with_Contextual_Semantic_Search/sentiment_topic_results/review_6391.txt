@@ -1,0 +1,1 @@
+{"text": "These are a very well made T, There pre-shrunk so don't plan on any shrinkage with these T's, If your a XL consider a LG they'll fit fine, unless you like the neck opening to be a little large, well made T though.", "sentiment": "negative", "topics": {"0": "0.1470399", "1": "0.32793233", "2": "0.08052163", "4": "0.2643788", "6": "0.16765757"}}

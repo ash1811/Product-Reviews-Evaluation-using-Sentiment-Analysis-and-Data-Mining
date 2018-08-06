@@ -1,0 +1,1 @@
+{"text": "These have saved my feet! So much comfort and a slight lift to help body alignment throughout the day. I recommend for every pair of shoes!", "sentiment": "positive", "topics": {"1": "0.2509387", "2": "0.08650979", "4": "0.15718998", "5": "0.22229624", "6": "0.2651683"}}

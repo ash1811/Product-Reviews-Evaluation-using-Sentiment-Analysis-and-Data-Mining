@@ -1,0 +1,1 @@
+{"text": "bought for bike riding husband so that the wind wouldn't get in his ears. A hat can fit over this lightweight fabric.", "sentiment": "negative", "topics": {"0": "0.011927574", "1": "0.13043922", "2": "0.011914472", "3": "0.19415472", "4": "0.3259615", "5": "0.11887128", "6": "0.20673127"}}

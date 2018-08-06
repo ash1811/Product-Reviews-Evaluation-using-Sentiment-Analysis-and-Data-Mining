@@ -1,0 +1,1 @@
+{"text": "This is an excellent product at a reasonable price.  I have worn Playtex 18 hour bras for years and have come to expect quality and a great fit.  I was not disappointed.", "sentiment": "positive", "topics": {"0": "0.1571141", "1": "0.27464318", "2": "0.06797967", "3": "0.2533225", "5": "0.14786349", "6": "0.09066766"}}

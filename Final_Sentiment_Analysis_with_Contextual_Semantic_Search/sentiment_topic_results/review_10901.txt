@@ -1,0 +1,1 @@
+{"text": "I just got these, but they seem that they are going to be extremely comfortable and soft to wear. I wear a size nine, and I bought the extra large, and they are just right.", "sentiment": "negative", "topics": {"1": "0.2185454", "2": "0.09569214", "3": "0.64993095"}}

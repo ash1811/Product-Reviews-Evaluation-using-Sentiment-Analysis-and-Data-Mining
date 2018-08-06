@@ -1,0 +1,1 @@
+{"text": "These fit well, are very warm, and comfortable.  I prefer them over the traditional waffle patterned Long Johns. No tangling of body hair.", "sentiment": "negative", "topics": {"0": "0.08719607", "1": "0.41591623", "2": "0.08518124", "3": "0.14441009", "4": "0.09835728", "5": "0.010240571", "6": "0.15869848"}}

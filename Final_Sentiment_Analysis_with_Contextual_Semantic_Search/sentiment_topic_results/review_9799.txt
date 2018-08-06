@@ -1,0 +1,1 @@
+{"text": "I was looking for some nice salsa shoes that were casual and these were recommended to me and fit the bill. Fit well, gives your feet flex and run in the correct size.", "sentiment": "negative", "topics": {"0": "0.11402497", "1": "0.3615065", "2": "0.2998631", "3": "0.19915771"}}

@@ -1,0 +1,1 @@
+{"text": "True to size, washes well with no shrinking.Waistbband lays flat and they don't &#34;ride up.&#34;So soft and comfortable, like a favorite worn-in t-shirt!Highly recommend.", "sentiment": "negative", "topics": {"0": "0.20148602", "1": "0.51692677", "2": "0.17259355", "3": "0.08370232"}}

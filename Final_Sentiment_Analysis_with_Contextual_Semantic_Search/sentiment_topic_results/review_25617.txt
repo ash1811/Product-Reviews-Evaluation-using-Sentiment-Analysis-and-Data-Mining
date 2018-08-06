@@ -1,0 +1,1 @@
+{"text": "They are a little larger than expected and since they ride up on my foot the heels keep wearing out fast. But for the price it is easy enough to afford more when I run out.", "sentiment": "negative", "topics": {"1": "0.09992287", "2": "0.21443588", "3": "0.32970616", "4": "0.33061117"}}

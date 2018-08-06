@@ -1,0 +1,1 @@
+{"text": "Excellent boots, great leather and materials. It's true about the size, I am 10 and I order 9.5 and fits just fine, so order half size smaller than you usual will get it and it will work just fine.", "sentiment": "negative", "topics": {"0": "0.13669658", "1": "0.267783", "2": "0.22243686", "3": "0.2512991", "4": "0.10814897"}}

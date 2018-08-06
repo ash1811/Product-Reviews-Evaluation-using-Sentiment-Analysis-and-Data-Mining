@@ -1,0 +1,1 @@
+{"text": "Hanes always makes good tee shirts and these are heavy enough to wear as regular tees or underwear inside or outside.", "sentiment": "positive", "topics": {"1": "0.2132133", "3": "0.37111458", "4": "0.26762313", "6": "0.11937668"}}

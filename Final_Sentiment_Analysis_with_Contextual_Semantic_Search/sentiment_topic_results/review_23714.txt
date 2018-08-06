@@ -1,0 +1,1 @@
+{"text": "These were appealing to me.  I don't know what I am going to do with them yet but here they are!", "sentiment": "negative", "topics": {"0": "0.020489769", "1": "0.020510847", "2": "0.23018192", "3": "0.020521121", "4": "0.02049385", "5": "0.35254827", "6": "0.33525425"}}

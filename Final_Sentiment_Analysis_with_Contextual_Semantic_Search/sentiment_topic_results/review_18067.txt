@@ -1,0 +1,1 @@
+{"text": "I bought this watch cause it reminded me of the one I had as a teenager.  The daily alarm drives me crazy.  I can't silence the every hour beeping. It's great for my niece but not what I was looking for.", "sentiment": "negative", "topics": {"0": "0.2497631", "1": "0.12655272", "2": "0.14408213", "3": "0.075736985", "4": "0.22982363", "6": "0.16687772"}}

@@ -1,0 +1,1 @@
+{"text": "I've had this watch for over year now and it's still working great. I like the comfortable leather strap, and the simple design. I would definitely buy this again.", "sentiment": "positive", "topics": {"1": "0.33895037", "2": "0.22682463", "3": "0.26231277", "4": "0.069692", "6": "0.08536398"}}

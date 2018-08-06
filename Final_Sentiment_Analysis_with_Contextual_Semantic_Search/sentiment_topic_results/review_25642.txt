@@ -1,0 +1,1 @@
+{"text": "This jewelry roll is beautiful! It looks almost like real silk, and the embroidery is so unique & intricate. The jewelry roll is well-made & durable, too. I love this, and I recommend it highly!", "sentiment": "negative", "topics": {"0": "0.1763758", "1": "0.40075937", "2": "0.14629994", "4": "0.1557561", "6": "0.10716313"}}

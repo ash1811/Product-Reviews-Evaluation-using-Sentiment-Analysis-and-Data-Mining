@@ -1,0 +1,1 @@
+{"text": "These are great sports watches which are really tough. They look as though they mean business. Good value to buy so you can wear it doing anything and not worry about any knocks it might get. A classic.", "sentiment": "negative", "topics": {"0": "0.087967455", "1": "0.36365658", "2": "0.33499163", "4": "0.069511786", "6": "0.12953208"}}

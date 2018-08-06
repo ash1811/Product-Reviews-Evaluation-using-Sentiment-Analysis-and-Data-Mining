@@ -1,0 +1,1 @@
+{"text": "This is the second time that I bought this watch.  The first one lasted 3 years through military service and probably  just needed a battery change.  I Wear it daily when I work out so it has been through it all.", "sentiment": "negative", "topics": {"0": "0.23969963", "1": "0.419955", "2": "0.19734202", "3": "0.12151097"}}

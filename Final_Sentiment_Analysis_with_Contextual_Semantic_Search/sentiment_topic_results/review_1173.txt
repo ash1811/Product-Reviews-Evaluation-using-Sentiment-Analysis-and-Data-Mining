@@ -1,0 +1,1 @@
+{"text": "I was hoping these earrings would have had more color in them like the picture. But they are clear. Disappointing but they are still pretty.", "sentiment": "positive", "topics": {"0": "0.16926044", "1": "0.65887594", "2": "0.119713776", "3": "0.01302974", "4": "0.01299201", "5": "0.013033604", "6": "0.013094511"}}

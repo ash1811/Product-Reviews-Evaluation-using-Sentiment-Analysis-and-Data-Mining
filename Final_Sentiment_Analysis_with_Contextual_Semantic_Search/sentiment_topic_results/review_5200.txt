@@ -1,0 +1,1 @@
+{"text": "Nothing like them around.  I hope to get them in gray next year.  I wear the H out of them and wear them out annually.  They are are cozy, comfortable and nice to look at.  Plus, they feel great!", "sentiment": "negative", "topics": {"1": "0.4166925", "3": "0.20328027", "5": "0.13469347", "6": "0.22487813"}}

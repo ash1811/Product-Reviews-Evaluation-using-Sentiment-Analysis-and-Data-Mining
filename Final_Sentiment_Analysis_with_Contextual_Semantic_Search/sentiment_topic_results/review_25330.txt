@@ -1,0 +1,1 @@
+{"text": "I have had Merrell's before - this style.  For some reason, this one has changes.  The heel cup is VERY narrow and not at all comfortable - and I don't have big feet.  I may give them another shot but this batch isn't quite up to snuff.", "sentiment": "positive", "topics": {"1": "0.41662446", "2": "0.23364606", "4": "0.23012447", "5": "0.09701267"}}

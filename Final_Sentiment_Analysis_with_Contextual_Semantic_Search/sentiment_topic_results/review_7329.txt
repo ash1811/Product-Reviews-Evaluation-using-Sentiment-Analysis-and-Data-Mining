@@ -1,0 +1,1 @@
+{"text": "perfect description size is great better than going to the store in  town i will buy more on line especially for these", "sentiment": "positive", "topics": {"0": "0.011950963", "1": "0.6285901", "2": "0.16189237", "3": "0.161695", "4": "0.011937392", "5": "0.011961151", "6": "0.011973028"}}

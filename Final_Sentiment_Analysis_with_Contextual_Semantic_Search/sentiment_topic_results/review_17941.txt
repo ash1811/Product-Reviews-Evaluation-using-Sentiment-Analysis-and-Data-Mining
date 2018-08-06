@@ -1,0 +1,1 @@
+{"text": "cheap but doesn't look cheap. casio is the best watch maker ever. durable. amazing style. elegant stainless steel band. u gotta have it", "sentiment": "positive", "topics": {"0": "0.23596168", "1": "0.11256591", "2": "0.18937954", "3": "0.07377391", "4": "0.19788314", "6": "0.18247892"}}

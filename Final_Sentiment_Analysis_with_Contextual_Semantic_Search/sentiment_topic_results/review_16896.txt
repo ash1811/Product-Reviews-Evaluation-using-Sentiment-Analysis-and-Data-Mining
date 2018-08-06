@@ -1,0 +1,1 @@
+{"text": "I love these ear cuffs. I have received numerous compliments and they go with  everything. I wear sterling silver balls where my ears are pierced and a cuff mid ear on each ear.", "sentiment": "negative", "topics": {"0": "0.31278047", "2": "0.065263525", "4": "0.34475312", "6": "0.25454396"}}

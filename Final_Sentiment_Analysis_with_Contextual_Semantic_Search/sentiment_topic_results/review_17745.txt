@@ -1,0 +1,1 @@
+{"text": "I have expensive watches , well expensive for me in the $300 range and I wear this watch over them everyday. Keeps great time , comfortable, looks good and functions are easy to learn and operate. Great buy for the price on amazon.", "sentiment": "negative", "topics": {"1": "0.5392415", "2": "0.09665509", "4": "0.2093194", "5": "0.13688384"}}

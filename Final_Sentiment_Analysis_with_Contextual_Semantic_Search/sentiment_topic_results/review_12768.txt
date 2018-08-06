@@ -1,0 +1,1 @@
+{"text": "My son loves firemen. I got him the Melissa and Doug fireman dress up outfit and these boots. He was so thrilled. He wears them out to play and around the house when he is home.", "sentiment": "positive", "topics": {"1": "0.29406688", "3": "0.24739389", "4": "0.2932053", "6": "0.14006801"}}

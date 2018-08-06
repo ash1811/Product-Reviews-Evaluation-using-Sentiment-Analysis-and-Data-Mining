@@ -1,0 +1,1 @@
+{"text": "When buying be sure to get a whole size down they will stretch in no time. They are so nice and comfy don't even know I'm wearning them. I buy only minnetonka mocc's from now on.", "sentiment": "positive", "topics": {"1": "0.45091975", "2": "0.2248975", "3": "0.04888319", "6": "0.2526545"}}

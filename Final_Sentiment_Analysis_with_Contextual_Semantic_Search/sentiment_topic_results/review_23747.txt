@@ -1,0 +1,1 @@
+{"text": "Bought these for Halloween last year, they are okay. The lace at the top isn't very good quality, but you get what you pay for!", "sentiment": "negative", "topics": {"0": "0.011025303", "1": "0.26636845", "2": "0.0110367695", "3": "0.2822467", "4": "0.011081938", "5": "0.29041404", "6": "0.12782681"}}

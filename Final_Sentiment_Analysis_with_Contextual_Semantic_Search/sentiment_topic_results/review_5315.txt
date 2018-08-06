@@ -1,0 +1,1 @@
+{"text": "I always buy these slippers.  Wear them till they are almost worn out.  Comfortable and easy care.  Good value for the price.", "sentiment": "positive", "topics": {"1": "0.40691775", "2": "0.1247389", "5": "0.17229517", "6": "0.2674152"}}

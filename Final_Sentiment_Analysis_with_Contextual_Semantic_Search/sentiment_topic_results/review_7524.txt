@@ -1,0 +1,1 @@
+{"text": "4 stars because it is a nice, comfortable jacket. I removed 1 star because I do not feel that the price reflects the quality of the jacket.", "sentiment": "negative", "topics": {"0": "0.010238847", "1": "0.5034879", "2": "0.29211277", "3": "0.010236405", "4": "0.010247317", "5": "0.010218956", "6": "0.1634578"}}

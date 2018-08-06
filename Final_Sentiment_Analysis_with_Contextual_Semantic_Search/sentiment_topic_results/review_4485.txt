@@ -1,0 +1,1 @@
+{"text": "This is not the first time I but these jeans. They last a long time. They fit exactly as expected. My husband uses these and Levis all the time.", "sentiment": "negative", "topics": {"0": "0.32305843", "1": "0.20427461", "2": "0.010213189", "3": "0.010219288", "4": "0.34412387", "5": "0.010263501", "6": "0.09784712"}}

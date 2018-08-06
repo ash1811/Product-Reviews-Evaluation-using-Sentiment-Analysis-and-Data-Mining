@@ -1,0 +1,1 @@
+{"text": "The elastic band isn't very snug, and the pockets are just kind of awkwardly sewn in. They face backward more often than not. I'm going to cut out the pockets and sew them up.", "sentiment": "positive", "topics": {"1": "0.42172122", "2": "0.13443579", "5": "0.11127175", "6": "0.30991626"}}

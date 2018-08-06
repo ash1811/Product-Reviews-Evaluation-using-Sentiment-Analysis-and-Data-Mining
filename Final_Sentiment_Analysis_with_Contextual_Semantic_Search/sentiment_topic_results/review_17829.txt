@@ -1,0 +1,1 @@
+{"text": "G-Shock is a great watch for anyone! I gave it as a gift and who received it loved it!! Everybody loves a G-Shock!!! I have a few of them!!", "sentiment": "negative", "topics": {"0": "0.3191883", "1": "0.18072283", "2": "0.1537969", "3": "0.01023935", "4": "0.010244601", "5": "0.3155961", "6": "0.010211903"}}

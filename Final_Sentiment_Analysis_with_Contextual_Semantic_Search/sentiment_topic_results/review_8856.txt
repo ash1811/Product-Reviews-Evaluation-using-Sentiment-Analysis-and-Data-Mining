@@ -1,0 +1,1 @@
+{"text": "Bought these shoes for my husband and he says they are the most comfortable walking shoes, he has ever had.He bought the wide fitting and they fit him perfectly..Highly recommended.", "sentiment": "negative", "topics": {"1": "0.22986218", "2": "0.45273963", "4": "0.10731276", "5": "0.10989911", "6": "0.082288764"}}

@@ -1,0 +1,1 @@
+{"text": "This seems like a great light weight weatherproof jacket. The fit is perfect. I like the elastic sleeve ends and the light lining.  The price was right too.", "sentiment": "negative", "topics": {"0": "0.32052922", "1": "0.5318026", "2": "0.11750524"}}

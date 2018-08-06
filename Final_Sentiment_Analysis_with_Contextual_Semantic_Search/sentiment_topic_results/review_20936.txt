@@ -1,0 +1,1 @@
+{"text": "They looked good as I expected, but they didn't fit right. The bottom of the shoes were bowed and therefore lacking in support on the ball of the foot. This resulted in a rather uncomfortable and unstable fit.", "sentiment": "positive", "topics": {"1": "0.28238922", "2": "0.17546818", "4": "0.35073367", "5": "0.114170074", "6": "0.062172707"}}

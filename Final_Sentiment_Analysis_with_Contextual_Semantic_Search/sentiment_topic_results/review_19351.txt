@@ -1,0 +1,1 @@
+{"text": "I really like these baby blue color clogs, easy care and quite comfortable to wear, great for rainy days too", "sentiment": "negative", "topics": {"1": "0.7306638", "2": "0.08346273", "6": "0.14766723"}}

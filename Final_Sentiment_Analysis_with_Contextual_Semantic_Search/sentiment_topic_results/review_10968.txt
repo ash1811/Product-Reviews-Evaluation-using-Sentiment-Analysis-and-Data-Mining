@@ -1,0 +1,1 @@
+{"text": "These are the tiniest earrings I have ever seen. I did not give them as the gift for which I bought them. Best for a baby. I kept them and wear in my second hole.", "sentiment": "positive", "topics": {"0": "0.14129326", "1": "0.603244", "2": "0.14403899", "4": "0.08279419"}}

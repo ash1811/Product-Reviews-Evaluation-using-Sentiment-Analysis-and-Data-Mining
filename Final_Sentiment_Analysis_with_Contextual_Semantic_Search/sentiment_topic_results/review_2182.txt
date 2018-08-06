@@ -1,0 +1,1 @@
+{"text": "These were a Christmas gift for a family member. They fit true to size and look nice. Only time will tell if they wear well although I have bought Skechers  in the past and had no issues", "sentiment": "negative", "topics": {"0": "0.13190888", "1": "0.21710853", "3": "0.3507537", "4": "0.072879136", "5": "0.21223307"}}

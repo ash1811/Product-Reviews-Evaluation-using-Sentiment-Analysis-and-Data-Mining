@@ -1,0 +1,1 @@
+{"text": "I love these sandals.  They are very comfortable.  I wish I had a pair in every color.  I would wear them every day.", "sentiment": "negative", "topics": {"0": "0.011943342", "1": "0.648637", "2": "0.011948042", "3": "0.011946807", "4": "0.011954687", "5": "0.29165217", "6": "0.011917938"}}

@@ -1,0 +1,1 @@
+{"text": "These pants are true to size and can really take and beating!I plan to pick up a few more of them!", "sentiment": "positive", "topics": {"0": "0.014308738", "1": "0.31702533", "2": "0.014331348", "3": "0.3159996", "4": "0.014303287", "5": "0.30970147", "6": "0.014330241"}}

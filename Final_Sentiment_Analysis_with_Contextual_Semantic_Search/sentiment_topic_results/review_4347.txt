@@ -1,0 +1,1 @@
+{"text": "my grandson loved his outfit but he's a big boy and even though he was running around getting wedgies , he would not take the outfit off and all that really matters is that he loves loves loves it.", "sentiment": "negative", "topics": {"0": "0.14473836", "1": "0.42692748", "2": "0.050924655", "4": "0.26772606", "5": "0.09664647"}}

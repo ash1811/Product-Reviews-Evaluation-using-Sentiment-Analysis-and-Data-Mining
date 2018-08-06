@@ -1,0 +1,1 @@
+{"text": "I am a fan of this shoes really love them, would like the sole were thicker, any how they look so nice , have them in few colors , greats for travelling...", "sentiment": "negative", "topics": {"0": "0.2595954", "1": "0.39567786", "2": "0.11274029", "3": "0.20333768"}}

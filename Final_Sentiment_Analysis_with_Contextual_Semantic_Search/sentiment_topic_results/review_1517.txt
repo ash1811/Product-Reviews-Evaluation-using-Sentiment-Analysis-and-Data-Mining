@@ -1,0 +1,1 @@
+{"text": "Bought it for my 10 year old daughter. She is very happy with it. Great quality. The colors are brighter in real life. Great purchase!!", "sentiment": "negative", "topics": {"0": "0.23976535", "1": "0.6199676", "4": "0.10448396"}}

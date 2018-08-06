@@ -1,0 +1,1 @@
+{"text": "Umbrella is made well. Better than I would've expected. I did get caught in a bad rainstorm in Chicago, i had some water that was coming through the fabric but it wasn't bad at all considering the conditions.", "sentiment": "negative", "topics": {"0": "0.2695395", "1": "0.31692207", "2": "0.16279203", "4": "0.082204126", "5": "0.15262914"}}

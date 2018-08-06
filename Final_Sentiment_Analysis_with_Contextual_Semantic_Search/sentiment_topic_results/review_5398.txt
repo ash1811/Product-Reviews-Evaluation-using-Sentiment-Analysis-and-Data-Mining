@@ -1,0 +1,1 @@
+{"text": "This is a nice shirt made of good meteral .It is heavy weight should last for a while", "sentiment": "negative", "topics": {"0": "0.014365916", "1": "0.63168913", "2": "0.01432469", "3": "0.0143124405", "4": "0.014350248", "5": "0.18345061", "6": "0.127507"}}

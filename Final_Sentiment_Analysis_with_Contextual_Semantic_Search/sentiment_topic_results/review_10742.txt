@@ -1,0 +1,1 @@
+{"text": "Nice coloring and seems durable; husband is very happy with it. Seems comparable to the Eddie Bauer belts he usually gets for twice the price ($40). Would recommend--it's worth a try...", "sentiment": "negative", "topics": {"0": "0.09447044", "1": "0.42182195", "2": "0.16624002", "4": "0.23720494", "5": "0.0671964"}}

@@ -1,0 +1,1 @@
+{"text": "I wear this watch nearly everyday. It holds up well. Very nice looking. Can be used by people with small, medium or large wrists....but probably not extra large. The clasp holds tightly so it never slips or falls off. Great price, too.", "sentiment": "negative", "topics": {"0": "0.07042028", "1": "0.5582007", "2": "0.05731424", "3": "0.26105884", "4": "0.042783238"}}

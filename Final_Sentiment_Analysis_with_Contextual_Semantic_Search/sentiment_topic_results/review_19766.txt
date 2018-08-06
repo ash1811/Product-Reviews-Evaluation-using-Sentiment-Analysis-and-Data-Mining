@@ -1,0 +1,1 @@
+{"text": "These Russell Athletic Men's Dri-Power Fleece Pocket sweatpants have been my favorites for many many years. There very comfortable and good looking. They fit right and the last long. I have been buying them for years and I am very satisfied.", "sentiment": "negative", "topics": {"0": "0.08355986", "1": "0.52914023", "4": "0.2537421", "6": "0.11401401"}}

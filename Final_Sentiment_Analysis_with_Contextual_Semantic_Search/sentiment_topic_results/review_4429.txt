@@ -1,0 +1,1 @@
+{"text": "The color was just what I ordered. The material is of very nice quality.  Another quality product from Lee and from Amazon.  I would recommend these to anyone that asked how they fit and how I liked them.  Thank You Lee and Amazon", "sentiment": "positive", "topics": {"1": "0.4573257", "2": "0.15589283", "4": "0.114490464", "5": "0.12972628", "6": "0.12890399"}}

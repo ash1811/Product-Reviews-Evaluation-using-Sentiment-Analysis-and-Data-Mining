@@ -1,0 +1,1 @@
+{"text": "Now THIS is a bar shirt indeed !!  ;D  It's a great texture (Pique !!) and the 'basic black nice summer look. I wear it with a white Hanes tank top because the pique feel on bare skin is a little funky.... fyi ...", "sentiment": "negative", "topics": {"1": "0.27261525", "2": "0.18449786", "3": "0.19481212", "4": "0.049738217", "5": "0.12364474", "6": "0.16895755"}}

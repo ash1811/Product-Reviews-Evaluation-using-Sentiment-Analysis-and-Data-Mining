@@ -1,0 +1,1 @@
+{"text": "I normally wear a 2X, I ordered this shirt according the reviews. When I received it  was still, too small. I had to send it back..", "sentiment": "negative", "topics": {"0": "0.22282751", "1": "0.63334095", "2": "0.09978089", "3": "0.011029616", "4": "0.010996681", "5": "0.011025503", "6": "0.010998795"}}

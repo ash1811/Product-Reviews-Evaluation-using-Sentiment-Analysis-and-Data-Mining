@@ -1,0 +1,1 @@
+{"text": "good work pants good quality, will cosider to get another pair or a pair close to these, if not the carpenter type", "sentiment": "negative", "topics": {"1": "0.52158874", "3": "0.3363363", "4": "0.10383264"}}

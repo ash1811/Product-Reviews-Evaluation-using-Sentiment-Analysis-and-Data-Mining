@@ -1,0 +1,1 @@
+{"text": "I chose the black color and I wasn't mistaken. It's elegant, not transparent, a great solution for summer days. Warmly recommended. Did I mention the price???", "sentiment": "negative", "topics": {"1": "0.35201275", "2": "0.21794531", "3": "0.22445583", "6": "0.17689599"}}

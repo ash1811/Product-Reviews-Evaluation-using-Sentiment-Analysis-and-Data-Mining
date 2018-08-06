@@ -1,0 +1,1 @@
+{"text": "Can't live without these, but my only choices were black or pale beige. I was overjoyed to find this color!!!  It smooths over all the wobbly bits , takes about an inch off all over,  and on me, this color is nude.", "sentiment": "negative", "topics": {"0": "0.21209218", "1": "0.29482934", "3": "0.16994707", "4": "0.19781235", "6": "0.11168213"}}

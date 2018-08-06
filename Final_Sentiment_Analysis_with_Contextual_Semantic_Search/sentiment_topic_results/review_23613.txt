@@ -1,0 +1,1 @@
+{"text": "Santa brought it to her for Christmas. She adores ALL things Cinderella, as her Mother before her! This is a quality dress.", "sentiment": "positive", "topics": {"0": "0.11208791", "1": "0.5273713", "2": "0.13125299", "3": "0.013038275", "4": "0.013005316", "5": "0.19018511", "6": "0.013059127"}}

@@ -1,0 +1,1 @@
+{"text": "Nice colored stones and it complimented the braclet well. My friend loved it. She likes anything purple and the stones are her birthstones.", "sentiment": "negative", "topics": {"1": "0.5237002", "2": "0.2773016", "5": "0.16079108"}}

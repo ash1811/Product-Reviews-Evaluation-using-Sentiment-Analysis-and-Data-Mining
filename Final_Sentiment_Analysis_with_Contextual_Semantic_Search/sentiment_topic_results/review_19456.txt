@@ -1,0 +1,1 @@
+{"text": "This is just what I was looking for.I've wanted one for a few years now and the Kelly green is great!It has room for my CC's inside and license and most used card as you open the clutch.I am smitten and love this thing! :)", "sentiment": "negative", "topics": {"1": "0.18995892", "2": "0.27776605", "3": "0.18540417", "4": "0.10099596", "5": "0.23157258"}}

@@ -1,0 +1,1 @@
+{"text": "These are true to size.  They are very dark wash which makes them ideal for casual Friday, or a day at the mall.  They are very comfortable.", "sentiment": "negative", "topics": {"0": "0.011929084", "1": "0.21041167", "2": "0.011919879", "3": "0.1864934", "4": "0.011908923", "5": "0.20582117", "6": "0.36151588"}}

@@ -1,0 +1,1 @@
+{"text": "High quality product at a good price.  Have a vintage style and look to them.  Sometimes skimpy panties are the way to go, and other times a classic look is what you're going for.  Recommended product.", "sentiment": "negative", "topics": {"0": "0.20411143", "1": "0.12531084", "2": "0.25351924", "4": "0.112358354", "5": "0.22009712", "6": "0.078089625"}}

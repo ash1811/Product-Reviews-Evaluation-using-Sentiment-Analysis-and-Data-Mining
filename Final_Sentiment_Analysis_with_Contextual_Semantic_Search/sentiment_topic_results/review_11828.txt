@@ -1,0 +1,1 @@
+{"text": "I love them.  My granddaughter loves them.  They're bright and colorful and deeps her steady on sand/water and lets her chase the birds without getting burned toes.  Will be ordering a larger size this year.", "sentiment": "negative", "topics": {"0": "0.18193166", "1": "0.18719198", "2": "0.07668321", "3": "0.3252583", "5": "0.21646424"}}

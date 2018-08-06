@@ -1,0 +1,1 @@
+{"text": "My nine year old says they feel good, waist band is fine, not constricting. No wedgies which is very important.", "sentiment": "positive", "topics": {"0": "0.33129942", "1": "0.21823281", "2": "0.24572095", "3": "0.011042834", "4": "0.011012821", "5": "0.011011956", "6": "0.1716792"}}

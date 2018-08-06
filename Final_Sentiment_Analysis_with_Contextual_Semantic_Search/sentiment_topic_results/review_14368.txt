@@ -1,0 +1,1 @@
+{"text": "Used this on my brown leather dress shoes and it brought life back to them. Works well and easy to apply.", "sentiment": "negative", "topics": {"0": "0.0102197025", "1": "0.46889", "2": "0.3275765", "3": "0.010249064", "4": "0.010240598", "5": "0.07916609", "6": "0.09365801"}}

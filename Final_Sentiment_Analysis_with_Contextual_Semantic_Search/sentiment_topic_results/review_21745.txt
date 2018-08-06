@@ -1,0 +1,1 @@
+{"text": "My daughter is only 2 but she likes this one. she organizes the dresses, moves stuff around. definitely an item that keeps her occupied for a moment", "sentiment": "negative", "topics": {"0": "0.09744467", "3": "0.39148152", "4": "0.12614617", "5": "0.11653754", "6": "0.24923773"}}

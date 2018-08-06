@@ -1,0 +1,1 @@
+{"text": "I the first time ordered Lee jeans. Before always bought Levi's. I was waited by disappointment as jeans appeared less for the size from declared.", "sentiment": "positive", "topics": {"0": "0.19858718", "1": "0.13225098", "2": "0.07102714", "5": "0.17247832", "6": "0.40775797"}}

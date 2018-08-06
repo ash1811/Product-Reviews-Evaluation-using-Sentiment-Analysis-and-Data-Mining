@@ -1,0 +1,1 @@
+{"text": "I won't wear anything else any more.  Warm, soft, thick, supporting, tough.  I bought a size small because they were less expensive than my official size and they fit just fine, thanks.", "sentiment": "positive", "topics": {"1": "0.47773504", "2": "0.24961624", "6": "0.24399984"}}

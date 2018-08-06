@@ -1,0 +1,1 @@
+{"text": "I wasn't sure if I should get my husband the large or extra large.  He is typically a large in shirts, but i figured I would get him the extra Large.  I'm glad I did..it fits great.  great price!", "sentiment": "negative", "topics": {"0": "0.054025054", "1": "0.38546887", "2": "0.05958736", "3": "0.058983635", "4": "0.07267048", "5": "0.36276215"}}

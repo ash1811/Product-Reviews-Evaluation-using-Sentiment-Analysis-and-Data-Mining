@@ -1,0 +1,1 @@
+{"text": "It works very well for the price! The numbers are to smell for me and I can't read them without my glasses", "sentiment": "negative", "topics": {"0": "0.014363257", "1": "0.5388629", "2": "0.14589585", "3": "0.25797683", "4": "0.014305977", "5": "0.014303404", "6": "0.014291756"}}

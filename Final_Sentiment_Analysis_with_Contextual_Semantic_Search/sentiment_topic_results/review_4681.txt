@@ -1,0 +1,1 @@
+{"text": "Excellent Quality...don't try to improve it! My husband hates plastic zippers that's why he bought Carhart. This is a sturdy jacket for sturdy work!", "sentiment": "negative", "topics": {"1": "0.24481227", "2": "0.46430296", "4": "0.2570981"}}

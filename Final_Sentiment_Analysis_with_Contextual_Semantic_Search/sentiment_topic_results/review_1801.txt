@@ -1,0 +1,1 @@
+{"text": "Nice leggings a bit on the thin side, but would work for summer.  I am 5&#34;4, 125 and small was SMALL, felt like an xsmall", "sentiment": "positive", "topics": {"1": "0.6925756", "4": "0.16147421", "6": "0.11011044"}}

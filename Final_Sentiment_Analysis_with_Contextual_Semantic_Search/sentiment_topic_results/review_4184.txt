@@ -1,0 +1,1 @@
+{"text": "what  wonderful  sweatpants. The size is perfect, colors are to die for, and most important the price is just right", "sentiment": "negative", "topics": {"0": "0.096349716", "1": "0.28562656", "2": "0.012994484", "3": "0.013026669", "4": "0.013025489", "5": "0.19570726", "6": "0.3832698"}}

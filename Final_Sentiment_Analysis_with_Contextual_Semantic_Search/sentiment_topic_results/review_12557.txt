@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable shoe, but I didn't care for the tongue protruding up as far as it does.  I ended up returning the shoes and getting the Pickett model of Clarks.", "sentiment": "positive", "topics": {"0": "0.088353515", "1": "0.32068917", "2": "0.2557129", "3": "0.051276404", "4": "0.16330732", "6": "0.1111327"}}

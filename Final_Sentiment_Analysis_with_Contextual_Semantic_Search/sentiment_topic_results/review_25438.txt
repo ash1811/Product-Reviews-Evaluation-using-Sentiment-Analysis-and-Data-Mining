@@ -1,0 +1,1 @@
+{"text": "Like the title says, comfortable and durable.  These are really plush with durable soles that should hold up for many years.", "sentiment": "positive", "topics": {"0": "0.10324176", "1": "0.4439702", "2": "0.0110244", "3": "0.22181508", "4": "0.084732585", "5": "0.011006535", "6": "0.12420944"}}

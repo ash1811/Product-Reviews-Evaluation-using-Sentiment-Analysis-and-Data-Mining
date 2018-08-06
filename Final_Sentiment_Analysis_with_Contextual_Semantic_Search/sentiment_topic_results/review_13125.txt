@@ -1,0 +1,1 @@
+{"text": "Very cheap quality now, also smell like wet cloth and animal waste.  I can't get rid of the smell.", "sentiment": "positive", "topics": {"1": "0.7108475", "2": "0.16383971", "4": "0.0870541"}}

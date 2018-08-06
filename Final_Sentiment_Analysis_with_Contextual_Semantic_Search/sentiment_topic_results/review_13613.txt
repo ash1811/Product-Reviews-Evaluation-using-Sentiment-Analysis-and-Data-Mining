@@ -1,0 +1,1 @@
+{"text": "Fits just right and my daughter loves the colors. Socks are very thick and good quality and a good price.", "sentiment": "negative", "topics": {"0": "0.011934297", "1": "0.7060732", "2": "0.011914305", "3": "0.011930912", "4": "0.011952571", "5": "0.23428033", "6": "0.011914341"}}

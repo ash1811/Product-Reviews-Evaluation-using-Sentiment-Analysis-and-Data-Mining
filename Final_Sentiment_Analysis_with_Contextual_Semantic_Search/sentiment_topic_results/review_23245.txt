@@ -1,0 +1,1 @@
+{"text": "My wife has 2 of these and she uses them every night.  She says that the are very comfortable and work well for her when nursing our baby in the middle of the night and she is still half asleep.  Great product.", "sentiment": "negative", "topics": {"0": "0.08402834", "1": "0.602234", "2": "0.062337354", "5": "0.08521482", "6": "0.15108435"}}

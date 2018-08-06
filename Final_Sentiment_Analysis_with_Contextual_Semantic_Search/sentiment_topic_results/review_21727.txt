@@ -1,0 +1,1 @@
+{"text": "Love thes Spanx. Still a bit pricey for my preference but cannot deny the quality is very good. I would like to have more", "sentiment": "negative", "topics": {"0": "0.010217997", "1": "0.17169137", "2": "0.09350598", "3": "0.42651948", "4": "0.11574495", "5": "0.010217318", "6": "0.17210285"}}

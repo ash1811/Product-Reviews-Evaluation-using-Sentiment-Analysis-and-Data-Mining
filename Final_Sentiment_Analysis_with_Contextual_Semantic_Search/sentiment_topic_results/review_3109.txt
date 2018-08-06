@@ -1,0 +1,1 @@
+{"text": "I have worn this product for years.  Very comfortable every day.  I feel very supported if I bend over.  I would recommend to anyone.  Good price.", "sentiment": "negative", "topics": {"1": "0.3912516", "5": "0.2902472", "6": "0.28269207"}}

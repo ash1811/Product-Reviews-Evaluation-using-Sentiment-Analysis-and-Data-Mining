@@ -1,0 +1,1 @@
+{"text": "Size and comfort is also good. It can also be used in either outing in everyday wear, so easy to wear very.", "sentiment": "negative", "topics": {"0": "0.010224603", "1": "0.24031457", "2": "0.07952064", "3": "0.24409778", "4": "0.2757876", "5": "0.010246671", "6": "0.13980813"}}

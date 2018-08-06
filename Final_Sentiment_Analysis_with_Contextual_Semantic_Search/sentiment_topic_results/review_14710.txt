@@ -1,0 +1,1 @@
+{"text": "I rec'd this Kenneth Cole wallet, had about a month now and the stitching is coming out already. I have almost nothing in it so its not like its stretched out causing alot of pressure.", "sentiment": "positive", "topics": {"1": "0.22607848", "2": "0.16824484", "3": "0.3962011", "6": "0.18262202"}}

@@ -1,0 +1,1 @@
+{"text": "My collection would not be complete without this Timex Expedition with the Indiglo and the alarm.  This has always been one of my favorite watches and it goes great with country boots, jeans and a tee shirt.  Love it, love it, love it!!!", "sentiment": "negative", "topics": {"0": "0.290581", "2": "0.2291452", "3": "0.06646391", "4": "0.29668286", "5": "0.10611528"}}

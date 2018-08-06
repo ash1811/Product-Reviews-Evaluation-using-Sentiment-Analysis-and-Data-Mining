@@ -1,0 +1,1 @@
+{"text": "So much that I got them in black too! As anyone who has ever wore a pair of Uggs know, these boots are comfy, warm and look cute with everything. I'm a 7 1/2 normally, I bought a 7, and they fit perfectly with/without socks.", "sentiment": "negative", "topics": {"0": "0.25252253", "1": "0.21373235", "2": "0.06491049", "3": "0.35727328", "5": "0.10086945"}}

@@ -1,0 +1,1 @@
+{"text": "Great buy for the price. This thing made me look two sizes smaller!!!! Notice that it has front hooks that are a bit thick, so they may show under tight clothes. Great for looser clothes or rouching.", "sentiment": "positive", "topics": {"0": "0.08778779", "1": "0.43074507", "2": "0.12648699", "3": "0.17962013", "5": "0.16290477"}}

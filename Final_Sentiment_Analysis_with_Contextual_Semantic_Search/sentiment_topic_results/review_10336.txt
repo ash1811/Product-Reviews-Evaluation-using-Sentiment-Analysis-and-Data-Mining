@@ -1,0 +1,1 @@
+{"text": "A truly great buy for the price. Perfect size for everyday wear. The rose gold color is very rich. Would like another pair in a larger size.", "sentiment": "negative", "topics": {"1": "0.30979815", "3": "0.20358361", "4": "0.20700134", "5": "0.097479746", "6": "0.16705905"}}

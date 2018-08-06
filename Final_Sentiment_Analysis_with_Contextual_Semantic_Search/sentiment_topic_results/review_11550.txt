@@ -1,0 +1,1 @@
+{"text": "The pajamas look so good that who I bought them for doesn't want to wear them in fear that they will ruin them or that they will attract the wrong person.", "sentiment": "positive", "topics": {"0": "0.011958399", "1": "0.20284115", "2": "0.112628095", "3": "0.2700533", "4": "0.2860836", "5": "0.01195636", "6": "0.104479104"}}

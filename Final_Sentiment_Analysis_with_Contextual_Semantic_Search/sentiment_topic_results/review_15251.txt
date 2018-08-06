@@ -1,0 +1,1 @@
+{"text": "I love these scrubs.  I don't ever wear anything else.  They are comfortable and hold up really well.  I highly recommend them.", "sentiment": "positive", "topics": {"0": "0.010232676", "1": "0.30059746", "2": "0.28093496", "3": "0.37754735", "4": "0.010240778", "5": "0.010239793", "6": "0.0102069825"}}

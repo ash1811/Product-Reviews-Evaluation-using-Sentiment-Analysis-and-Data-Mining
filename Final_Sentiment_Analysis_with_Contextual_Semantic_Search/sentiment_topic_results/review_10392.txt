@@ -1,0 +1,1 @@
+{"text": "I have two pairs of Ugg boots and these fit perfectly!  They're very comfortable and warm.  I'm never disappointed with the quality of Ugg boots!", "sentiment": "negative", "topics": {"1": "0.6170737", "3": "0.09764901", "4": "0.24953842"}}

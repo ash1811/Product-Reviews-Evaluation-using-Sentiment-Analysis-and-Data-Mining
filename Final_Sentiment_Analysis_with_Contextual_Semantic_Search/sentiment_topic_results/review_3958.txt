@@ -1,0 +1,1 @@
+{"text": "I would recomend these shoes to anyone.A little more narrow in the toes that the other pair I have.But look great!  I really like K-Swiss shoes !", "sentiment": "negative", "topics": {"0": "0.21715304", "1": "0.33095464", "2": "0.1730955", "3": "0.14584467", "5": "0.115068115"}}

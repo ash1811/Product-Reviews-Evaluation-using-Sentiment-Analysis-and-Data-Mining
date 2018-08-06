@@ -1,0 +1,1 @@
+{"text": "These are the second pair of Wallabee boots I've bought for my son. He won't wear anything but these. They wear well.", "sentiment": "negative", "topics": {"0": "0.011047766", "1": "0.34484527", "2": "0.113742016", "3": "0.168327", "4": "0.09107895", "5": "0.25996274", "6": "0.0109962495"}}

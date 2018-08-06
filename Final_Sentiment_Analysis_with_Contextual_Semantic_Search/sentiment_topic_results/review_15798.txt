@@ -1,0 +1,1 @@
+{"text": "I LOVE this ring. The only thing I really have a problem with it is I rubbed it up against a wooden post and scuffed it like it was made out of butter.", "sentiment": "negative", "topics": {"0": "0.1750047", "1": "0.4227197", "2": "0.16267356", "3": "0.011020933", "4": "0.011031533", "5": "0.20653711", "6": "0.011012464"}}

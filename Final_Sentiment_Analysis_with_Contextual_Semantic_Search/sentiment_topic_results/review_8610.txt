@@ -1,0 +1,1 @@
+{"text": "Very nice!  Comfortable and run true to size.  I haven't had a pair for years and years and these are just like I remember.  Leather is heavy.......not cheaply made, but I wouldn't expect Sebago to be anything but quality.", "sentiment": "negative", "topics": {"1": "0.318248", "2": "0.21535638", "3": "0.37954682", "4": "0.06422562"}}

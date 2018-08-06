@@ -1,0 +1,1 @@
+{"text": "K.E.D.S. there is no other reliable walking shoe. Been wearing the brand for 36 years", "sentiment": "negative", "topics": {"0": "0.28002414", "1": "0.015945194", "2": "0.141881", "3": "0.37310773", "4": "0.15721065", "5": "0.015957423", "6": "0.015873868"}}

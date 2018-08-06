@@ -1,0 +1,1 @@
+{"text": "Unable to actually give feed back on fit it was purchased for someone else.  Appeared to be good quality and as described.", "sentiment": "negative", "topics": {"0": "0.01020949", "1": "0.7072875", "2": "0.2416434", "3": "0.0102085015", "4": "0.010209439", "5": "0.010235547", "6": "0.010206155"}}

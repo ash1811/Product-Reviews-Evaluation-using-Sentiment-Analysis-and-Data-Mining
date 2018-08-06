@@ -1,0 +1,1 @@
+{"text": "hard to find this size...happy with this purchase I would  buy this again.I shop on Amazon for everything and think they are great!", "sentiment": "negative", "topics": {"0": "0.118631825", "1": "0.30115753", "2": "0.09277655", "3": "0.116531014", "4": "0.23956257", "5": "0.1203502", "6": "0.010990309"}}

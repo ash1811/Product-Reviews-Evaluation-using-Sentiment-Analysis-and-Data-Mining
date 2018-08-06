@@ -1,0 +1,1 @@
+{"text": "Fast delivery, good fit, except the arm holes run small, even when opened to the end. It's not so bad as to be uncomfortable, but I won't order this bra again because of it.", "sentiment": "positive", "topics": {"0": "0.30573165", "1": "0.3646641", "2": "0.11251293", "3": "0.12072539", "6": "0.08046679"}}

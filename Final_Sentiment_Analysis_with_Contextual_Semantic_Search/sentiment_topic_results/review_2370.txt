@@ -1,0 +1,1 @@
+{"text": "The waist fit fine but the overall fit was poor.  The leg openings were tight and they would sit so low that they fell off my rear at times.  especially if I was getting up and down.  Definitely could not bend over in them.", "sentiment": "negative", "topics": {"1": "0.48362312", "2": "0.24342147", "3": "0.18097612", "6": "0.07327475"}}

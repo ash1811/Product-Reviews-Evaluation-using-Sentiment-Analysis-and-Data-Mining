@@ -1,0 +1,1 @@
+{"text": "i bought these for my husband because the ones he had like them were worn to the point of having holes in them.  He loves these and they look great and fit perfectly.", "sentiment": "negative", "topics": {"0": "0.14306243", "1": "0.35918698", "2": "0.21017514", "3": "0.010236927", "4": "0.15921047", "5": "0.010226953", "6": "0.107901126"}}

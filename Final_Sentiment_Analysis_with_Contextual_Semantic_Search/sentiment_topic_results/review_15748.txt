@@ -1,0 +1,1 @@
+{"text": "Very comfy slippers.  I'm not crazy about the looks--they look a little \"orthopedic\" but being so comfy makes up for that!", "sentiment": "negative", "topics": {"0": "0.12841773", "1": "0.23544295", "2": "0.0119340345", "3": "0.34981048", "4": "0.13759445", "5": "0.011919472", "6": "0.12488085"}}

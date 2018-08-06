@@ -1,0 +1,1 @@
+{"text": "My mother loves the style and color.Confortable.Nice looking.Fit perfect for elegant occasions.Short hills for older people.", "sentiment": "positive", "topics": {"0": "0.12735984", "1": "0.47275206", "2": "0.011947832", "3": "0.011954716", "4": "0.012010861", "5": "0.0119513115", "6": "0.3520234"}}

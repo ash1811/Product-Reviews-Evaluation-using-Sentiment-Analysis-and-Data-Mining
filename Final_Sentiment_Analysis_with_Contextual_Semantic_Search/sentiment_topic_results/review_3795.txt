@@ -1,0 +1,1 @@
+{"text": "These lenses are a dream, spectacular, I love, very nice as described, I am very pleased with these beautiful glasses.", "sentiment": "negative", "topics": {"0": "0.37529507", "1": "0.33040643", "2": "0.12820034", "3": "0.0143194", "4": "0.0144069465", "5": "0.014357713", "6": "0.123014115"}}

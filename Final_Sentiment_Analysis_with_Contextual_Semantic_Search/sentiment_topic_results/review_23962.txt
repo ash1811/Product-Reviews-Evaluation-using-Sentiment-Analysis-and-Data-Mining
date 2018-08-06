@@ -1,0 +1,1 @@
+{"text": "Great sock and a little thicker than average which is good for my boyfriend because he stays out in the weather as a mechanic. They also look just fine with dress shoes but he is a boots kinda guy so they aren't seen very often.", "sentiment": "negative", "topics": {"1": "0.32102728", "2": "0.10623693", "4": "0.36754903", "5": "0.11562872", "6": "0.07590329"}}

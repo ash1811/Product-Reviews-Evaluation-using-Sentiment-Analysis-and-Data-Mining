@@ -1,0 +1,1 @@
+{"text": "Nice scrubs. Not the softest like other Dickies scrubs, but will work. The candy orchid is such a pretty color. Subtle, not outlandish.", "sentiment": "positive", "topics": {"0": "0.010262756", "1": "0.39671397", "2": "0.07687505", "3": "0.30536655", "4": "0.010206528", "5": "0.19034114", "6": "0.0102339825"}}

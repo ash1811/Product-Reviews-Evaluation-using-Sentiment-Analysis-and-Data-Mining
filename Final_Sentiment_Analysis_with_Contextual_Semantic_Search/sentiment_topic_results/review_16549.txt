@@ -1,0 +1,1 @@
+{"text": "Very excited to get the mundi wallet...nice size holds all my cards. Very good buy..could tell my friends about the great bargain.", "sentiment": "negative", "topics": {"0": "0.010220853", "1": "0.010240984", "2": "0.09743007", "3": "0.2690236", "4": "0.35092726", "5": "0.2519351", "6": "0.010222127"}}

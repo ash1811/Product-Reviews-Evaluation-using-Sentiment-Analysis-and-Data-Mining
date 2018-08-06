@@ -1,0 +1,1 @@
+{"text": "Got these in the largest size that they came in as my husband is a big guy.  They fit him perfect and he loves them.", "sentiment": "positive", "topics": {"0": "0.011951889", "1": "0.22766627", "2": "0.011927894", "3": "0.2872939", "4": "0.3613324", "5": "0.08783236", "6": "0.011995326"}}

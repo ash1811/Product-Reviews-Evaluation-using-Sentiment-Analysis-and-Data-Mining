@@ -1,0 +1,1 @@
+{"text": "The button closure is made of plastic. The jeans broke the first time my husband wore them. They have a silver cover over the tip of the closure to make it look solid, but its not. Don't waste your money with these.", "sentiment": "positive", "topics": {"0": "0.22432938", "3": "0.14501046", "4": "0.30798715", "5": "0.13181901", "6": "0.17839438"}}

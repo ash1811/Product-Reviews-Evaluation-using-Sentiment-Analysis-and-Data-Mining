@@ -1,0 +1,1 @@
+{"text": "I've been buying this style for my son for 4 years.  We've had them in both white and black and just love the quality and fit.  Highly recommend!", "sentiment": "positive", "topics": {"1": "0.2913717", "3": "0.22374652", "5": "0.44669345"}}

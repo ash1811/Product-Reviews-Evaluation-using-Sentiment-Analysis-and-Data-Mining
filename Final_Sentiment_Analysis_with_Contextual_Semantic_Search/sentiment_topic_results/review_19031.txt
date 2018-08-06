@@ -1,0 +1,1 @@
+{"text": "The bra is not &#34;too large&#34; as to the fit, but It is flimsy and not very comfortable.  I hoped it would have some padding it but it does not.  For me, not one that I will be purchasing again.  Thanks.", "sentiment": "positive", "topics": {"0": "0.11259372", "1": "0.3400951", "3": "0.11797001", "4": "0.17640449", "5": "0.12701431", "6": "0.116963506"}}

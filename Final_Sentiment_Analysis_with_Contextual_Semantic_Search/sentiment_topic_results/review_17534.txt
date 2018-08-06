@@ -1,0 +1,1 @@
+{"text": "My father with 91 years old is happy with this watch is big number and simple function thanks a lot.", "sentiment": "negative", "topics": {"0": "0.011033939", "1": "0.42930064", "2": "0.21006823", "3": "0.011011133", "4": "0.14377323", "5": "0.011022619", "6": "0.18379022"}}

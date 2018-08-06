@@ -1,0 +1,1 @@
+{"text": "This is a well-made backpack, comfortable to wear and convenient to use.  Lots of pockets, good for everyday casual use, e.g., school, travel, light outdoor activity.", "sentiment": "positive", "topics": {"0": "0.101467565", "1": "0.29816478", "2": "0.15587485", "3": "0.10477616", "4": "0.2521193", "6": "0.080058426"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans are to size, no give, but comfortable. I wanted a darker blue color in jeans and these jeans are good. Washed them a few times and no color change or shrinkage. Well worth the price.", "sentiment": "negative", "topics": {"0": "0.19709441", "1": "0.3971242", "2": "0.07248347", "3": "0.06784238", "5": "0.25110477"}}

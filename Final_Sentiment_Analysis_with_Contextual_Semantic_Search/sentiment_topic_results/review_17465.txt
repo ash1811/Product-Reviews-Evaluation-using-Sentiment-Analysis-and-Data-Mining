@@ -1,0 +1,1 @@
+{"text": "I'm a 3XLT and this shirt fits me exactly the way I like it. It's comfortable, cool, and dries quickly after playing golf in the south Florida heat. Great material that doesn't snag as easily as other climate controlled golf shirts I own.", "sentiment": "negative", "topics": {"0": "0.34424928", "1": "0.19294003", "2": "0.15971477", "3": "0.20422846", "4": "0.08825216"}}

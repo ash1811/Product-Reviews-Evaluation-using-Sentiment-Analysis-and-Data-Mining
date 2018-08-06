@@ -1,0 +1,1 @@
+{"text": "as usual carhartt makes a great quality product.i but everything carhartt when it comes to outdoor gear.they are the best", "sentiment": "positive", "topics": {"0": "0.0109972", "1": "0.85707563", "2": "0.08784838", "3": "0.011051819", "4": "0.011042121", "5": "0.0109951375", "6": "0.010989724"}}

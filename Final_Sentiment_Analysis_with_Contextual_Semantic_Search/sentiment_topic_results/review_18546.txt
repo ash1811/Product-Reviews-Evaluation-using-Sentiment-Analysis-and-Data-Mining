@@ -1,0 +1,1 @@
+{"text": "the band is very small -too small for a medium sized man.  I went to Kohls and they put a new on on for about $8.00 and and the watch is perfect. So glad I didn't return it, as it is my husbands favorite brand", "sentiment": "positive", "topics": {"0": "0.22594213", "2": "0.15569764", "3": "0.31463802", "4": "0.12681238", "5": "0.12069887", "6": "0.049386576"}}

@@ -1,0 +1,1 @@
+{"text": "These sweats are very well made, the colors are vibrant and comfortably soft to wear.  I highly recommend them.- F. Parker", "sentiment": "negative", "topics": {"0": "0.108560815", "1": "0.45630088", "2": "0.19707826", "3": "0.010239913", "4": "0.093716905", "5": "0.12389614", "6": "0.010207109"}}

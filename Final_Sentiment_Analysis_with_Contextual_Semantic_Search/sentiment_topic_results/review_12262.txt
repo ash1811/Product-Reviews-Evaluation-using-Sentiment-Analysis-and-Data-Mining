@@ -1,0 +1,1 @@
+{"text": "Great quality, very strong, this jack makes removing my boots so easy!  I have severe arthritis, so taking off my rubber & neoprene boots was a painful endeavor.  I'm sooooo glad I got this jack!", "sentiment": "positive", "topics": {"0": "0.067811064", "1": "0.19573855", "2": "0.11968978", "3": "0.25584334", "4": "0.24353552", "6": "0.11082943"}}

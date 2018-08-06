@@ -1,0 +1,1 @@
+{"text": "These are my favorite pajamas based on comfort.  The buttons will eventually fall off but that doesn't change my opinion.", "sentiment": "negative", "topics": {"0": "0.13112053", "1": "0.15880802", "2": "0.11574799", "3": "0.12004894", "4": "0.1426628", "5": "0.014333479", "6": "0.31727824"}}

@@ -1,0 +1,1 @@
+{"text": "Elastic feels a little cheap, not expecting them to last too long. Size seems to vary ever so slightly in the pack. Some are a little smaller than others...", "sentiment": "positive", "topics": {"1": "0.29086864", "3": "0.37725097", "5": "0.19134943", "6": "0.11518211"}}

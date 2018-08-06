@@ -1,0 +1,1 @@
+{"text": "Me gustaron los enteritos, son de algod&oacute;n no tan fino, ideal para uasar debajo de otros abrigos en el invierno, lo cual fue mi idea a la hora de comprarlos.", "sentiment": "negative", "topics": {"0": "0.15621972", "1": "0.22146171", "2": "0.07634911", "3": "0.0803058", "5": "0.3062302", "6": "0.15433054"}}

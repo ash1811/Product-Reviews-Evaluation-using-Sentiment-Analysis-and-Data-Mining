@@ -1,0 +1,1 @@
+{"text": "So far, so good.  I'll post after my trip to Universal Studios.", "sentiment": "positive", "topics": {"0": "0.01793872", "1": "0.017935103", "2": "0.19607398", "3": "0.29480344", "4": "0.017907884", "5": "0.4374692", "6": "0.017871646"}}

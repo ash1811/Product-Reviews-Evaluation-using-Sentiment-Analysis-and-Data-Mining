@@ -1,0 +1,1 @@
+{"text": "Bought these for my wife for a black dress.  She says they feel great on her skin she likes them and they make her legs look wonderful.", "sentiment": "negative", "topics": {"0": "0.010237049", "1": "0.4328445", "2": "0.01022861", "3": "0.21929103", "4": "0.010229539", "5": "0.010246259", "6": "0.30692303"}}

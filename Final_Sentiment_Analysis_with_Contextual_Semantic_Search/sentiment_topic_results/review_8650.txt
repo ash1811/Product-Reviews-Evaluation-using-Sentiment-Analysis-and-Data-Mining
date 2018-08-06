@@ -1,0 +1,1 @@
+{"text": "I have had this watch for a while now. It is a very good time piece. Casio has always been a good inexpensive watch. This watch has held up well and it is still going. Would recommend.", "sentiment": "positive", "topics": {"1": "0.49340117", "2": "0.31496716", "6": "0.15978843"}}

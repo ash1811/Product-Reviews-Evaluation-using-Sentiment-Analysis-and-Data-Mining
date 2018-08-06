@@ -1,0 +1,1 @@
+{"text": "I love these tights.  It is very hard to buy anything but black tights in a store. I would buy again.", "sentiment": "positive", "topics": {"0": "0.111560486", "1": "0.33883968", "2": "0.19220835", "3": "0.011985205", "4": "0.011977356", "5": "0.3215218", "6": "0.011907142"}}

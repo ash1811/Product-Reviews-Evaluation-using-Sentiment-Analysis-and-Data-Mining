@@ -1,0 +1,1 @@
+{"text": "My husband is an EMT and fireman so needed a watch like this. Meets his needs perfectly and stands up to the abuse. Looks better in person than in the picture too. I was a little worried at first, but this hasn't let him down!", "sentiment": "positive", "topics": {"1": "0.18781443", "2": "0.28492305", "3": "0.23990452", "4": "0.14006484", "6": "0.13483697"}}

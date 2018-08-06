@@ -1,0 +1,1 @@
+{"text": "Not the trendiest or most fashionable watch...but they are cheap and last a long time.  Buy one of these before putting a battery in an old watch.  My dad has used these for years.  Surprised to find them!", "sentiment": "negative", "topics": {"0": "0.181778", "1": "0.26053917", "2": "0.22909181", "3": "0.106519714", "5": "0.16660134", "6": "0.048301864"}}

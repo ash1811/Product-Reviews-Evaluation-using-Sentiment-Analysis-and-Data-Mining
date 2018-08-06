@@ -1,0 +1,1 @@
+{"text": "My boyfriend is 12 but he is swimming in the size 12.  I got the wide version but didn't think that would make the length any different.", "sentiment": "negative", "topics": {"0": "0.010240118", "1": "0.22981746", "2": "0.01021642", "3": "0.4666284", "4": "0.010206816", "5": "0.16744806", "6": "0.105442695"}}

@@ -1,0 +1,1 @@
+{"text": "Some slippers don't grip your feet or make your heel slide to the side while you walk.  These are great, safe, and pretty too!", "sentiment": "positive", "topics": {"0": "0.14648658", "1": "0.19416475", "2": "0.011030489", "3": "0.2830596", "4": "0.1509206", "5": "0.01102236", "6": "0.20331563"}}

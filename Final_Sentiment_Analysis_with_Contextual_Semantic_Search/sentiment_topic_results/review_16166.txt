@@ -1,0 +1,1 @@
+{"text": "I used this with Blitz Jewelry Cleaner and the Ultrasonic Jewelry Cleaning Machine, and it worked fantasticly! Super simple yet so effective!", "sentiment": "negative", "topics": {"0": "0.09081683", "1": "0.3073002", "2": "0.08236325", "5": "0.19476093", "6": "0.30570266"}}

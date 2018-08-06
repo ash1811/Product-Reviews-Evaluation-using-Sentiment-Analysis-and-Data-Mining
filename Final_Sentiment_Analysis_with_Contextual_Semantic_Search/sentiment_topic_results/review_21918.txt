@@ -1,0 +1,1 @@
+{"text": "Nice grip, easy maintenance and I can still fit in my yoga sandals with them.  If you have a problem with foot odor this product has something so you won't embarrass yourself.", "sentiment": "negative", "topics": {"1": "0.43577063", "2": "0.16308422", "4": "0.14385751", "5": "0.073658735", "6": "0.16676417"}}

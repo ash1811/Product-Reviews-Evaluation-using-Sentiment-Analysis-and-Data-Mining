@@ -1,0 +1,1 @@
+{"text": "The bag as a whole is really good. As expected quality the only problem I have is the leather straps are a slightly different color I dont know if thats how its suppose to be its the same as the other bag I got. I really love the design.", "sentiment": "positive", "topics": {"1": "0.55161494", "2": "0.3235001", "5": "0.09878889"}}

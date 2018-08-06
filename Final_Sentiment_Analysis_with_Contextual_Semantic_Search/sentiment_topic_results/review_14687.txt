@@ -1,0 +1,1 @@
+{"text": "My Mom is 85 and these are her favorite type of shoes.  They slip on and have plenty of room for her toes.", "sentiment": "negative", "topics": {"0": "0.37222195", "1": "0.34599045", "2": "0.11845125", "3": "0.01430247", "4": "0.120419785", "5": "0.014323987", "6": "0.014290102"}}

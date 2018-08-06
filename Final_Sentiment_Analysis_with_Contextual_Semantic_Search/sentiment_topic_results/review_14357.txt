@@ -1,0 +1,1 @@
+{"text": "Kiwi shoe polishes are my favorite, this is high quality, easy to use, and makes my shoes look a lot better.  This is thick and covers scuffs perfectly.", "sentiment": "positive", "topics": {"1": "0.25470462", "2": "0.17218526", "3": "0.08012904", "4": "0.11243553", "5": "0.114528924", "6": "0.25806394"}}

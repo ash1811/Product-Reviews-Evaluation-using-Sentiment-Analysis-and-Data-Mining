@@ -1,0 +1,1 @@
+{"text": "These are really nice.  Great for the price.  I had to make some alterations to ours because they are for a 6 year old, but they are made really well.", "sentiment": "negative", "topics": {"0": "0.011023653", "1": "0.93385565", "2": "0.011005783", "3": "0.011069873", "4": "0.011019736", "5": "0.011027304", "6": "0.010997998"}}

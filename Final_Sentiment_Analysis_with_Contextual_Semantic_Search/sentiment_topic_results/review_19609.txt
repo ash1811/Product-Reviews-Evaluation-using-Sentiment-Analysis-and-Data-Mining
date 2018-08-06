@@ -1,0 +1,1 @@
+{"text": "This bra fits as expected (38DD).  However I find the cup mold a little hard.  But provides good support.  Shoulder straps are ok, but would be better thicker.", "sentiment": "negative", "topics": {"0": "0.08382469", "1": "0.41694102", "2": "0.13160236", "3": "0.25494292", "4": "0.09837322"}}

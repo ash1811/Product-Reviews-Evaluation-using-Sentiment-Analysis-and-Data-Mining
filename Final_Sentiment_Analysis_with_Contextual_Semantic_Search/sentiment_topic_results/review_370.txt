@@ -1,0 +1,1 @@
+{"text": "Fits like a sack, styled like something my mother might have worn - very late in life. Not nice at all. I DON'T wear tiny underwear, but there's enough fabric in these for two pair, going on three. Yuck.", "sentiment": "negative", "topics": {"1": "0.41999778", "2": "0.13071652", "3": "0.16554278", "4": "0.05955792", "5": "0.13168588", "6": "0.08675187"}}

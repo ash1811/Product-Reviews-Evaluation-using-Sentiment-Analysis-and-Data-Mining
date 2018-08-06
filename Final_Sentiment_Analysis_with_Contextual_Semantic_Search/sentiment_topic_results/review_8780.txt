@@ -1,0 +1,1 @@
+{"text": "Carhartt pants are man thing, good looking, durable and comfortable.  Put heavy starch on them and you will look like a million dollar.", "sentiment": "negative", "topics": {"1": "0.5471071", "2": "0.085896656", "3": "0.086988576", "4": "0.17322762", "6": "0.088832855"}}

@@ -1,0 +1,1 @@
+{"text": "Extremely comfortable. I'm actually a woman but black doesn't come in women's. They're not the most stylish for women, but they are so comfortable, I don't care.", "sentiment": "negative", "topics": {"0": "0.010211772", "1": "0.5121301", "2": "0.010246255", "3": "0.18372917", "4": "0.010255608", "5": "0.1818368", "6": "0.09159032"}}

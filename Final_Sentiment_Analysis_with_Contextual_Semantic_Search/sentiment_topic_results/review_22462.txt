@@ -1,0 +1,1 @@
+{"text": "Nice cottony comfort and pretty designs.  They fit well also although they do 'ride up' from time to time- even though the advertising says they won't.", "sentiment": "positive", "topics": {"1": "0.51243484", "4": "0.16601853", "6": "0.29132196"}}

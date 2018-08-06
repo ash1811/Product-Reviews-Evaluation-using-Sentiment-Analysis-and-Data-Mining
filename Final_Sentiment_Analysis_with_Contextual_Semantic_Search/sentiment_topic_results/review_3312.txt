@@ -1,0 +1,1 @@
+{"text": "The fit is the same, as they have always been. Levi's switched to a slightly lighter grade of denim, as it feels slightly thinner than in previous years.", "sentiment": "positive", "topics": {"0": "0.08751251", "1": "0.45265952", "4": "0.12756017", "5": "0.15383667", "6": "0.160527"}}

@@ -1,0 +1,1 @@
+{"text": "These are my favorite cotton blend compression shorts.  They are supportive and work well for weight-lifting, biking and walking without riding up at the legs or down in the back.  They are true to size and wash well.", "sentiment": "positive", "topics": {"0": "0.24717522", "2": "0.15537502", "3": "0.32004356", "5": "0.25591365"}}

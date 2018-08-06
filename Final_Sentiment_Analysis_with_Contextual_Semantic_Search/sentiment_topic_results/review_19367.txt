@@ -1,0 +1,1 @@
+{"text": "Im a clog nut so ordered myself one of these..was very glad i did..OH so comfy and i adore the color...try one you'll like it", "sentiment": "negative", "topics": {"0": "0.09701006", "1": "0.3039041", "2": "0.3150848", "3": "0.14606926", "4": "0.010237599", "5": "0.11746489", "6": "0.010229324"}}

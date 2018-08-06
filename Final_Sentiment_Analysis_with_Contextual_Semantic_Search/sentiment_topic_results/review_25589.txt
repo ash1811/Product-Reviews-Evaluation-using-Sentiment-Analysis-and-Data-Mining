@@ -1,0 +1,1 @@
+{"text": "Really wanted to love these socks, but 'not happening.'  They run large, and are definitely not comfortable.  I'll be continuing my search for the &#34;perfect&#34; work out socks.  Not worth the money we paid for them.  Bummer!", "sentiment": "negative", "topics": {"1": "0.07807363", "3": "0.40333077", "4": "0.07856593", "5": "0.26777253", "6": "0.15924822"}}

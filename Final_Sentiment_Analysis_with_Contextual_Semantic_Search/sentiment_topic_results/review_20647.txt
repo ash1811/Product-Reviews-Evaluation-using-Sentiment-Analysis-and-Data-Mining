@@ -1,0 +1,1 @@
+{"text": "My husband had a pair of FIRM support socks and found them to be too tight and difficult to get on and off.  These are much easier to use and control the swelling just as well, plus they are more comfortable to wear.", "sentiment": "negative", "topics": {"0": "0.09166201", "1": "0.33559144", "3": "0.22914156", "4": "0.10003808", "5": "0.1592839", "6": "0.07713046"}}

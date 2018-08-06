@@ -1,0 +1,1 @@
+{"text": "Good fit for my son who has a slender foot.  Good colors to choose from.....good fit......all good! Try a pair and see!", "sentiment": "negative", "topics": {"1": "0.47839007", "3": "0.1569797", "4": "0.3263691"}}

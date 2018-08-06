@@ -1,0 +1,1 @@
+{"text": "Very comfortable.Classic.Good looking.Don't be jealous, just get your own pair. Seriously, get them.(Do yourself a favor and buy some shoe cleaner too...you are buying white shoes, afterall.)", "sentiment": "negative", "topics": {"1": "0.14041552", "2": "0.2008532", "3": "0.17095688", "4": "0.066652395", "5": "0.18078755", "6": "0.23239003"}}

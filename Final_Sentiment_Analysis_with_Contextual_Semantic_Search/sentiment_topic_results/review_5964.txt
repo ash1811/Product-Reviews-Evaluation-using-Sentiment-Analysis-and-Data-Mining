@@ -1,0 +1,1 @@
+{"text": "Have loved all of my spanx products and thought this would be as close but really wasn't.  Not the support I was expecting.", "sentiment": "negative", "topics": {"0": "0.013010076", "1": "0.18300518", "2": "0.013075539", "3": "0.24571215", "4": "0.01302886", "5": "0.35661453", "6": "0.17555363"}}

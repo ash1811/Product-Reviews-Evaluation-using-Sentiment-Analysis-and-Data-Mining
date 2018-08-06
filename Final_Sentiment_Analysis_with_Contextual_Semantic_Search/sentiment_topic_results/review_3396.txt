@@ -1,0 +1,1 @@
+{"text": "you really need to have very big bouncers to fit into this particular style.I'll wear it cause it's comfy.  I could put my puppy in there with me.", "sentiment": "negative", "topics": {"1": "0.35487223", "2": "0.23489389", "3": "0.12815343", "5": "0.18024568", "6": "0.08273966"}}

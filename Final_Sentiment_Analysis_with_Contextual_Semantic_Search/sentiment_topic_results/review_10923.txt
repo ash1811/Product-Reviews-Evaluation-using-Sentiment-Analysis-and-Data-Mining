@@ -1,0 +1,1 @@
+{"text": "I have bought these for years and am never disappointed. Always true to size. Roomy, soft, comfortable and wash over and over and still look like new. I won't buy any other kind of slipper.", "sentiment": "negative", "topics": {"1": "0.50621206", "3": "0.2712537", "5": "0.10539053", "6": "0.094525866"}}

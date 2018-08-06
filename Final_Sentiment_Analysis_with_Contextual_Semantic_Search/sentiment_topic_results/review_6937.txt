@@ -1,0 +1,1 @@
+{"text": "These are used for work pants. They are sturdy and hold up well. My Husband likes the carpenter pocket for his cell phone. They soften up quite a bit after the first washing.", "sentiment": "positive", "topics": {"1": "0.60113525", "3": "0.10681217", "4": "0.26018512"}}

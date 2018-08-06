@@ -1,0 +1,1 @@
+{"text": "This shorts arrived on time and they look as described. Fits nice, easy to wash, goes with all his outfits. He looks like a big boy in his shorts and shirts I bought from Old Navy.", "sentiment": "negative", "topics": {"0": "0.35386384", "1": "0.47612476", "6": "0.14273931"}}

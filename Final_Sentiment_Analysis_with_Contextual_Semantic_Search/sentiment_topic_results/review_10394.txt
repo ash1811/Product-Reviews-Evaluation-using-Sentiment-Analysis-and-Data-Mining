@@ -1,0 +1,1 @@
+{"text": "I got these for my granddaughter. She hasn't had them off since! Very warm and comfortable! Fit well too! A bit pricey though!", "sentiment": "positive", "topics": {"0": "0.0119597195", "1": "0.36504817", "2": "0.011947284", "3": "0.5751851", "4": "0.011953426", "5": "0.011932275", "6": "0.011974025"}}

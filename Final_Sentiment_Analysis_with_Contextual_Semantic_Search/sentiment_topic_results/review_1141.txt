@@ -1,0 +1,1 @@
+{"text": "The quality to price is very good.  You can not go wrong with silver.  The elements are good quality, as is the clasp.  I would buy them again.", "sentiment": "positive", "topics": {"0": "0.11555353", "1": "0.60259867", "2": "0.07933721", "3": "0.010232604", "4": "0.17181228", "5": "0.0102444505", "6": "0.010221255"}}

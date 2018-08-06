@@ -1,0 +1,1 @@
+{"text": "this beanie is great serves the purpose for those living in the northeast and our cold winters. recommend this to anyone", "sentiment": "negative", "topics": {"0": "0.0130189", "1": "0.1534105", "2": "0.2370953", "3": "0.15081555", "4": "0.10980835", "5": "0.32286438", "6": "0.012987048"}}

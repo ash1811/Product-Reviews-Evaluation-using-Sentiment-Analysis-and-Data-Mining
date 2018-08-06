@@ -1,0 +1,1 @@
+{"text": "The boot looks great and is really well-made. However, it's just too large, even when wearing heavy socks. Order a size down unless you like a LOT of room in your boots.", "sentiment": "negative", "topics": {"0": "0.48004612", "4": "0.10174861", "5": "0.18642916", "6": "0.20907424"}}

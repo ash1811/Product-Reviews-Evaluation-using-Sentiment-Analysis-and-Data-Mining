@@ -1,0 +1,1 @@
+{"text": "Hanes comfortblend is the better choice for value. Bright color that did bleed red in the wash cycles so I got a few pink items now. Price is good. Pricey for this item.", "sentiment": "positive", "topics": {"1": "0.44368443", "2": "0.11272504", "6": "0.41489515"}}

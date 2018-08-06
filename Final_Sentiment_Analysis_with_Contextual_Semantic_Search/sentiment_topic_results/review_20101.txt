@@ -1,0 +1,1 @@
+{"text": "This backpack is very well mad and has so many features that are well thought out constructed well. It is certainly worth the price and much better than other packs that cost much more.", "sentiment": "negative", "topics": {"1": "0.5097447", "2": "0.09734932", "4": "0.15131378", "5": "0.14438307", "6": "0.08211724"}}

@@ -1,0 +1,1 @@
+{"text": "These are so comfortable, I bought my 90 year old mother a pair for Christmas! There are just not enough good things to say about them.", "sentiment": "negative", "topics": {"0": "0.010228635", "1": "0.29601684", "2": "0.01022957", "3": "0.33347902", "4": "0.21909052", "5": "0.010244328", "6": "0.12071108"}}

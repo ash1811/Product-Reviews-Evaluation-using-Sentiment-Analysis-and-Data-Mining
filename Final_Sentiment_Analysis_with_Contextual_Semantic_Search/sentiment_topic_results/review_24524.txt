@@ -1,0 +1,1 @@
+{"text": "I too ordered these for my Dad after reading all the great reviews. They are well made, comfortable and the velcro closure is perfect. Hush Puppies brand is traditional quality. These are great gift for a senior dad if you want to make his feet comfortable.", "sentiment": "negative", "topics": {"0": "0.13576145", "1": "0.5364462", "3": "0.22069794", "6": "0.0898886"}}

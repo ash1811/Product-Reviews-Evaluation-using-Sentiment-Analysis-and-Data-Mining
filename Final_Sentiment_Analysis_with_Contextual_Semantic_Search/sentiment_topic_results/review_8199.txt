@@ -1,0 +1,1 @@
+{"text": "very warm, very good shape. I just wearing it with one socks in -30 celcium. I like it, my previous boot is also from Merrel. It was also very very brand. I love it.", "sentiment": "negative", "topics": {"1": "0.30563256", "3": "0.22170548", "4": "0.34653684", "6": "0.103428975"}}

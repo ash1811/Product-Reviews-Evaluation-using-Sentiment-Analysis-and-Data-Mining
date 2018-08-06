@@ -1,0 +1,1 @@
+{"text": "I slipped these on upon arrival and they were more immediately comfortable than my own slippers.  Have enough support and the width was perfect.  Will buy more, definitely.", "sentiment": "negative", "topics": {"0": "0.1904956", "1": "0.31319618", "2": "0.010225811", "3": "0.26471576", "4": "0.01022496", "5": "0.13145414", "6": "0.07968754"}}

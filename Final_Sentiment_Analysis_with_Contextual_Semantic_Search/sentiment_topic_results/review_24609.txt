@@ -1,0 +1,1 @@
+{"text": "It's better then the other gaffs I have bought from other places. The sor gaff is made much better, I will be getting more of them.", "sentiment": "negative", "topics": {"0": "0.011938804", "1": "0.30378762", "2": "0.011958198", "3": "0.30911836", "4": "0.33930174", "5": "0.011943828", "6": "0.011951496"}}

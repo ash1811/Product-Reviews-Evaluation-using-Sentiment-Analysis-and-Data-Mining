@@ -1,0 +1,1 @@
+{"text": "My perfect pair. Flattering, versatile and a perfect pit. NO complaints about these. Price is right, fast shipping and goes with almost everything.", "sentiment": "positive", "topics": {"1": "0.40024507", "2": "0.33844727", "4": "0.22548953"}}

@@ -1,0 +1,1 @@
+{"text": "Love the quality of levis jeans and its very comfortable! They are also of great value compared to the retail stores.", "sentiment": "positive", "topics": {"0": "0.011925477", "1": "0.42372218", "2": "0.011997673", "3": "0.011984515", "4": "0.14901271", "5": "0.2821608", "6": "0.10919666"}}

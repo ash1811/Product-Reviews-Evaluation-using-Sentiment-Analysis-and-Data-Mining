@@ -1,0 +1,1 @@
+{"text": "I like Carhartt Henley&#8217;s.They fit well and wear well. They don&#8217;t shrink. A 3XL TALL Henley fits better than a 5X TALL shirt from china. If there was a way to make them stain proof but still breathable they would be perfect.", "sentiment": "positive", "topics": {"0": "0.20422046", "1": "0.41412392", "3": "0.0693055", "5": "0.29641232"}}

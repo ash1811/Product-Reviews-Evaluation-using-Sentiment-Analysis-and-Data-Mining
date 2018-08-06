@@ -1,0 +1,1 @@
+{"text": "I have been wearing my new jeans, and it is very nice.  Unfortunately it is a bit bigger than expected, but that is the chance you take when you can't try them on.  Other than that, they are a good pair.", "sentiment": "positive", "topics": {"0": "0.124080926", "1": "0.41576958", "3": "0.32196558", "4": "0.11291935"}}

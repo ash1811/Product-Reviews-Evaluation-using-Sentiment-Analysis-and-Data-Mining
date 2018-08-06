@@ -1,0 +1,1 @@
+{"text": "Finally a bra that fits for a decent price!  It is comfortable enough to wear all day and not bother me.", "sentiment": "positive", "topics": {"0": "0.01196486", "1": "0.4631871", "2": "0.011922982", "3": "0.21060222", "4": "0.011943924", "5": "0.104584634", "6": "0.18579425"}}

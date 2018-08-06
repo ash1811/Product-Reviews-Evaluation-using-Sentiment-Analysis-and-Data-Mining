@@ -1,0 +1,1 @@
+{"text": "has a nice support ; cup is true to size. I will not machine wash unless you do not mind replacing bras at 1 1/2 year mark", "sentiment": "negative", "topics": {"0": "0.16821691", "2": "0.059540853", "3": "0.5774057", "5": "0.16792044"}}

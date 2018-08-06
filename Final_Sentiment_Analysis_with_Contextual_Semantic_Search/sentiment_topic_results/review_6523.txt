@@ -1,0 +1,1 @@
+{"text": "Soft and comfy and thick. THey wick the moisture away from my feet and are the perfect length for my hiking boots. So far, they have held up well after being washed and dried.", "sentiment": "positive", "topics": {"0": "0.2009782", "1": "0.22928037", "2": "0.10069503", "3": "0.16440125", "4": "0.28779227"}}

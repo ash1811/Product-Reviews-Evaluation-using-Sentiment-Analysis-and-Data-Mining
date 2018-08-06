@@ -1,0 +1,1 @@
+{"text": "I am a repeat buyer of Sanuk sandals, and these are everything I have come to expect...comfortable, look nice, and love the colors.", "sentiment": "negative", "topics": {"0": "0.14745195", "1": "0.3317366", "2": "0.21147388", "3": "0.27356732", "4": "0.011943999", "5": "0.011920478", "6": "0.011905766"}}

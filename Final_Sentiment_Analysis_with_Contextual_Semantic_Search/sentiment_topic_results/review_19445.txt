@@ -1,0 +1,1 @@
+{"text": "This wallet is bigger than I originally thought it was, but it is well constructed and I am glad I purchased it. If it had a chain, it could be a small purse!", "sentiment": "negative", "topics": {"0": "0.29629835", "1": "0.2424454", "4": "0.21919622", "6": "0.21337847"}}

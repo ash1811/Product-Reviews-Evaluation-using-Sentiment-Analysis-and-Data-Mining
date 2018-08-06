@@ -1,0 +1,1 @@
+{"text": "This is a very pretty, versatile chain, perfect alone or with a pendant.  It's a excellent width and weight. I recommend it.", "sentiment": "negative", "topics": {"0": "0.011973527", "1": "0.01197148", "2": "0.4678028", "3": "0.011942665", "4": "0.13297485", "5": "0.35142133", "6": "0.011913392"}}

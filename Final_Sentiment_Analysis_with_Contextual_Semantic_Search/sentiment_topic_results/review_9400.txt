@@ -1,0 +1,1 @@
+{"text": "It's a mid-way bag, and you need to evaluate if it's the better choice. It's important to consider it's a very simple item, with no divisions for shoes or wet clothes.", "sentiment": "negative", "topics": {"0": "0.10917287", "1": "0.18673196", "2": "0.103953116", "4": "0.08134845", "5": "0.08734311", "6": "0.4219087"}}

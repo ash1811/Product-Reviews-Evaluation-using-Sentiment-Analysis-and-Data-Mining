@@ -1,0 +1,1 @@
+{"text": "Purchased this with the matching earrings. Nice color, shinny stones, delicate looking and looks expensive. Comes in a nice blue pouch.", "sentiment": "positive", "topics": {"1": "0.9461487"}}

@@ -1,0 +1,1 @@
+{"text": "Heck this belt holds nothing up much less your pants! It goes on and on i can wrap it around my waist 3xs maybe more my arms got tired of wrapping so i just gave up...maybe if your 300lbs plus you can get a size small.", "sentiment": "negative", "topics": {"1": "0.08851385", "2": "0.1421126", "3": "0.13036014", "5": "0.21009052", "6": "0.41744247"}}

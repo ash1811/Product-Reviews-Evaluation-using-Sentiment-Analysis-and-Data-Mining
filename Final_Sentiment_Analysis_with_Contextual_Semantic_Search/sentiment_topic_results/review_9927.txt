@@ -1,0 +1,1 @@
+{"text": "I have received the both watches that came in the same package. I didn't realize the universal sizing until I thought about it and worked it out. Now I have both working okay..", "sentiment": "negative", "topics": {"0": "0.22706011", "1": "0.16568843", "2": "0.124775335", "3": "0.011017237", "4": "0.011031169", "5": "0.26576242", "6": "0.19466528"}}

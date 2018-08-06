@@ -1,0 +1,1 @@
+{"text": "this sneakers is lightweight BUT the width is narrow and the instep very tight...New Balance usually makes a good shoe, but not this time", "sentiment": "negative", "topics": {"0": "0.011020036", "1": "0.011027553", "2": "0.10395677", "3": "0.19284442", "4": "0.08388244", "5": "0.5862528", "6": "0.01101596"}}

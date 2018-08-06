@@ -1,0 +1,1 @@
+{"text": "Now I know some will say well you just have to break them in. well I've worn them for several weeks now and they are still tight. other than that they are great jungle boot. just like I wore in the Army.", "sentiment": "negative", "topics": {"1": "0.16923277", "2": "0.057299156", "3": "0.38334706", "4": "0.03403172", "5": "0.1261534", "6": "0.22240531"}}

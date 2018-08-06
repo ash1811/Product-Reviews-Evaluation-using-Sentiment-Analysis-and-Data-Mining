@@ -1,0 +1,1 @@
+{"text": "Had this for about 3 years now! Still in great shape. Lovely color, comfortable though the fabric CAN feel a little rough at moment.", "sentiment": "negative", "topics": {"1": "0.41426942", "2": "0.0774852", "3": "0.29446015", "4": "0.14118452", "5": "0.05469445"}}

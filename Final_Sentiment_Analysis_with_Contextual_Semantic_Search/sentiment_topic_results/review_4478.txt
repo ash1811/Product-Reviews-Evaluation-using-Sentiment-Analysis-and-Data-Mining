@@ -1,0 +1,1 @@
+{"text": "I have been wearing Lee jeans for 40 years and still love the way they look and fit.  They give you a more room in the crotch and ride on your waste, not your hips.  I highly recommend them if these are features you like.", "sentiment": "negative", "topics": {"1": "0.52943146", "4": "0.25058788", "6": "0.19263594"}}

@@ -1,0 +1,1 @@
+{"text": "I had to return the first pair which were my normal shoe size, but these flip flops are extremely comfortable and I would recommend.", "sentiment": "negative", "topics": {"0": "0.11939433", "1": "0.23421477", "2": "0.26596814", "3": "0.2335822", "4": "0.011015965", "5": "0.011016994", "6": "0.124807596"}}

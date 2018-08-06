@@ -1,0 +1,1 @@
+{"text": "I had a pair of these many years ago and worn them down to being soulless, after 10 years. Having a new pair is great! I have received MANY compliments on them and they are so easy to wear.", "sentiment": "negative", "topics": {"3": "0.51576155", "4": "0.30724022", "6": "0.14326593"}}

@@ -1,0 +1,1 @@
+{"text": "These fit as expected based on sizing and they are good quality cotton briefs.  Like the color choices and the colors last.", "sentiment": "negative", "topics": {"0": "0.010227429", "1": "0.6334683", "2": "0.010223147", "3": "0.07273068", "4": "0.25287136", "5": "0.0102375215", "6": "0.010241611"}}

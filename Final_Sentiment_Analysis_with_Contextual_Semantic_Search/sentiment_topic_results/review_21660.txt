@@ -1,0 +1,1 @@
+{"text": "These are great socks! They are lightweight and control moisture really well! They might seem expensive for socks but they are well worth the price!", "sentiment": "negative", "topics": {"1": "0.45334497", "4": "0.11123626", "5": "0.39722168"}}

@@ -1,0 +1,1 @@
+{"text": "This purse is great. It has a lot of places to put your cards and looks nice. It is very nice quality.", "sentiment": "negative", "topics": {"0": "0.013015499", "1": "0.7239922", "2": "0.12594439", "3": "0.01300207", "4": "0.013014561", "5": "0.013027253", "6": "0.09800395"}}

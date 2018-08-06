@@ -1,0 +1,1 @@
+{"text": "This bra makes my breast feel very pointy like how those long ago bras used to fit and even thou i ordered my correct size d elastic that runs under d breast for d bra us uncomfortable.....", "sentiment": "positive", "topics": {"1": "0.2019644", "2": "0.12791672", "3": "0.38619083", "6": "0.26524907"}}

@@ -1,0 +1,1 @@
+{"text": "I feel they run small as I ordered 5 or 6 in different colors. Washes up real nice, doesn't shrink much at all.", "sentiment": "negative", "topics": {"1": "0.7389155", "3": "0.21328132"}}

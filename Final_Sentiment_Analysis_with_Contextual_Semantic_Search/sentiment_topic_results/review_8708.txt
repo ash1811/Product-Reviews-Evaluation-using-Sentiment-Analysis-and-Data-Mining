@@ -1,0 +1,1 @@
+{"text": "Or so my son tells me. My significant other now thinks he's very hip because he has the same watches as our 14 and 20 year olds.  lol", "sentiment": "negative", "topics": {"0": "0.101463675", "1": "0.29066768", "2": "0.3969559", "3": "0.010232943", "4": "0.0102731725", "5": "0.18019025", "6": "0.010216357"}}

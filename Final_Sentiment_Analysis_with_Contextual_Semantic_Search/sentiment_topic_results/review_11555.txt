@@ -1,0 +1,1 @@
+{"text": "I love these pajamas. They are cool for sleeping, never wrinkle, perfect for travel as they hardly take up any space in your bag, and they are beautiful.  I would so love finding the matching robe.", "sentiment": "negative", "topics": {"0": "0.3400805", "1": "0.18434389", "3": "0.20700055", "4": "0.07532921", "6": "0.17816295"}}

@@ -1,0 +1,1 @@
+{"text": "Clear, readable dial and contrasting hands, breathable band.  The only thing I don't particularly like is the very large bright red&#34;Timex&#34; label on the band.", "sentiment": "positive", "topics": {"0": "0.2274625", "2": "0.20492151", "5": "0.20182882", "6": "0.33885252"}}

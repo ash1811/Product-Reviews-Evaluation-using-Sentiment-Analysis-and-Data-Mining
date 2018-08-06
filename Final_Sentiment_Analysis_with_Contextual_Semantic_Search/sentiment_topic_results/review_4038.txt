@@ -1,0 +1,1 @@
+{"text": "I loved these slippers so much that I ordered another pair.  I didn't realize how comfortable they were until I put on an old pair that I already owned.", "sentiment": "negative", "topics": {"0": "0.01021653", "1": "0.4871886", "2": "0.010208115", "3": "0.010278869", "4": "0.01027301", "5": "0.38197687", "6": "0.089858025"}}

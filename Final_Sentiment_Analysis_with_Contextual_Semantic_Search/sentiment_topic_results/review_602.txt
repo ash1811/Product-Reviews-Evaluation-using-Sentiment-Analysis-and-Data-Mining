@@ -1,0 +1,1 @@
+{"text": "For my hubby, likes them comfy, but they fit well! He is old school, as he wore Wranglers since the 50's!!! And being an old Motorhead, when getting down and dirty he needs comfort!", "sentiment": "negative", "topics": {"1": "0.21133849", "2": "0.22404896", "5": "0.38111553", "6": "0.15963858"}}

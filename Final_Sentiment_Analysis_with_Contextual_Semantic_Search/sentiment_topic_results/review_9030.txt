@@ -1,0 +1,1 @@
+{"text": "The most comfortable shoes to wear in the summer.  I have a pair in white that was worn, and I bought black.  I can't find white anywhere, otherwise I would buy 5 more pair, all at the same time.  Still looking...", "sentiment": "positive", "topics": {"1": "0.42302167", "2": "0.08310534", "3": "0.19619298", "5": "0.18573646", "6": "0.098923"}}

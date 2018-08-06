@@ -1,0 +1,1 @@
+{"text": "I have a narrow foot. It's really too large.  I love rainbow, sorry these didn't work out for me. I'll know in the future to order a slim.", "sentiment": "positive", "topics": {"3": "0.31878796", "4": "0.34124744", "5": "0.3016805"}}

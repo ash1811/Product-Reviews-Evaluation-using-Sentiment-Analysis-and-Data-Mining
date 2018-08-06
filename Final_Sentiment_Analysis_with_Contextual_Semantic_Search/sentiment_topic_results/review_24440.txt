@@ -1,0 +1,1 @@
+{"text": "While these are very sexy and fit perfectly I got a run in it while putting them on.  Will not buy and again and I definitely do not recommend.  Pay a little extra and go with a different company.  In this case, inexpensive = very cheaply made.  Very disappointed.  &#62;:(", "sentiment": "positive", "topics": {"1": "0.30295694", "3": "0.5116243", "5": "0.1604893"}}

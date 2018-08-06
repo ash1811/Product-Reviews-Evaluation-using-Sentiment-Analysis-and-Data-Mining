@@ -1,0 +1,1 @@
+{"text": "Don't waste your money. Terrible fit and low quality. I have to ask &#34;Did a man design this bra?&#34; lol", "sentiment": "negative", "topics": {"0": "0.011018129", "1": "0.5950709", "2": "0.011007575", "3": "0.19879991", "4": "0.16205266", "5": "0.011042784", "6": "0.011008034"}}

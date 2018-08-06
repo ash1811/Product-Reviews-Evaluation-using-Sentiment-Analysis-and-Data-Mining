@@ -1,0 +1,1 @@
+{"text": "finally, a pair of sandals that I don't mind wearing every day", "sentiment": "positive", "topics": {"0": "0.53243196", "1": "0.3778945", "2": "0.017921146", "3": "0.01796066", "4": "0.017914664", "5": "0.017966399", "6": "0.017910654"}}

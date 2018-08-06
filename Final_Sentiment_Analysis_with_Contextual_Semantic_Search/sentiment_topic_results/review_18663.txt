@@ -1,0 +1,1 @@
+{"text": "These are great, and I have bought a few. Pretty simple product. Two things to know when buying a shemagh1) only get 100% cotton2) shemagh should be a perfect square 40x40 or so", "sentiment": "negative", "topics": {"0": "0.09664967", "1": "0.4291298", "2": "0.15676288", "4": "0.077728085", "5": "0.10870328", "6": "0.1234894"}}

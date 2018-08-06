@@ -1,0 +1,1 @@
+{"text": "I love these earrings. They look good, like catches them. Get compliments. Not heavy and go good when I wear anything black.", "sentiment": "negative", "topics": {"0": "0.11807285", "1": "0.45508257", "2": "0.304719", "6": "0.09517814"}}

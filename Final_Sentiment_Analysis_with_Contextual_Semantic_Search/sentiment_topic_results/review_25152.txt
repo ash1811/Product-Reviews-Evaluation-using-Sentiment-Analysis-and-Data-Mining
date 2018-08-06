@@ -1,0 +1,1 @@
+{"text": "My purchase arrived in a very short space of time, it was packaged beautifully, and the necklace was stunning.  Thank you", "sentiment": "negative", "topics": {"0": "0.518677", "1": "0.12086918", "2": "0.19508472", "3": "0.012993719", "4": "0.013001886", "5": "0.012997351", "6": "0.12637618"}}

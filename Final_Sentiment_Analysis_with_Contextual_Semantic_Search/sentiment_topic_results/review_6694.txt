@@ -1,0 +1,1 @@
+{"text": "These bags came in different widths.  This one was way more than 15 inches, a little too wide for me, so I returned it, but it is a very nice quality bag.  I loved the color, just as pictured.", "sentiment": "negative", "topics": {"0": "0.10554578", "1": "0.61417896", "3": "0.25156218"}}

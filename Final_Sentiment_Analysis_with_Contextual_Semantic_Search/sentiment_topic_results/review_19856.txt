@@ -1,0 +1,1 @@
+{"text": "Love this little box....I can actually carry it in a large purse.....I love it...slot are indeed wide....I highly recommend this item...", "sentiment": "positive", "topics": {"0": "0.10278781", "3": "0.17919804", "4": "0.1768021", "5": "0.37131786", "6": "0.15076496"}}

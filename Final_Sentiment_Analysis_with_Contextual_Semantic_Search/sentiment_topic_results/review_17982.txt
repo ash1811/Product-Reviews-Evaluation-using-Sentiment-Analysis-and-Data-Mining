@@ -1,0 +1,1 @@
+{"text": "No matter that it is no so easy to fix all watch things, once you get it work easy with no need to review constantly", "sentiment": "negative", "topics": {"0": "0.011941771", "1": "0.01194945", "2": "0.19454797", "3": "0.011956882", "4": "0.53805095", "5": "0.011941199", "6": "0.21961175"}}

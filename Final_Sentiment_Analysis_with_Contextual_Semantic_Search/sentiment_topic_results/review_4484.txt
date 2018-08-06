@@ -1,0 +1,1 @@
+{"text": "these relaxed jeans feel good,look good,and fit good.excellent value.shipped quickly.recommend for the mature man.", "sentiment": "negative", "topics": {"0": "0.108880736", "1": "0.09605974", "2": "0.011961154", "3": "0.011946723", "4": "0.011913341", "5": "0.4161493", "6": "0.34308898"}}

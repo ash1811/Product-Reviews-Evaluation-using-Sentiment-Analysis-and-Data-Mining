@@ -1,0 +1,1 @@
+{"text": "Ours ripped after one normal use.  Seems kind of disappointing and thought it would last longer..  Sent it back due to poor quality.", "sentiment": "positive", "topics": {"0": "0.24602588", "1": "0.47211266", "5": "0.24806903"}}

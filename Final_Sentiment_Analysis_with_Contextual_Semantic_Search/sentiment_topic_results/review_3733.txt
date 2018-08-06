@@ -1,0 +1,1 @@
+{"text": "I love everything Ray-Ban, and this ones are awesome. Super light and comfortable, they look great and the frame is matte. Love them! They are pricey for a pair of sunglasses, but the quality is perfect.", "sentiment": "negative", "topics": {"0": "0.087068275", "1": "0.5312207", "2": "0.29801068", "6": "0.062169295"}}

@@ -1,0 +1,1 @@
+{"text": "Comfy. Looks good. Small hoop great.  Great color.  Wider gold band than I expected.  I wear them all the time.  Easy for sleeping.", "sentiment": "negative", "topics": {"1": "0.48093987", "3": "0.4768835"}}

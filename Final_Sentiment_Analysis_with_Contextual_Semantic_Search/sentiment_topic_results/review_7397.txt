@@ -1,0 +1,1 @@
+{"text": "Jeans are very comfortable for the bigger guy.  I would order one size up for larger guys.  But sturdy and nice to wear to work on casual fridays.", "sentiment": "positive", "topics": {"0": "0.09296586", "1": "0.30652404", "3": "0.14591882", "4": "0.28278553", "5": "0.1549399"}}

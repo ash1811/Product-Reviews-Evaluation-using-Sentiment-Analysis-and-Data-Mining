@@ -1,0 +1,1 @@
+{"text": "These are super sexy without being too high. They run a half size big so account for that. They are a soft leather and they wear great!", "sentiment": "negative", "topics": {"1": "0.38239282", "2": "0.06961104", "3": "0.2504719", "4": "0.103690416", "6": "0.17472814"}}

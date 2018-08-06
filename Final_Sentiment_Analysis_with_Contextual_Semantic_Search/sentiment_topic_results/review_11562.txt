@@ -1,0 +1,1 @@
+{"text": "Vanity Fair Women's Short Sleeve Pajama is sized to be comfortable. It hand washes easily and dries overnight. Perfect for travel!", "sentiment": "negative", "topics": {"0": "0.10138503", "1": "0.39436886", "2": "0.07572149", "4": "0.22152814", "6": "0.18909474"}}

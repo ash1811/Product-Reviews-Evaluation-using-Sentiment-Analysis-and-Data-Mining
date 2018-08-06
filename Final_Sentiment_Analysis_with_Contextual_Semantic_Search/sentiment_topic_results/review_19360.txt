@@ -1,0 +1,1 @@
+{"text": "I got these shoes for my wife for Mother's Day. She is very pleased with the fit and quality of the shoes. She was very pleased that they are made in the USA.She said they looked so nice she hated to get them dirty in the garden.", "sentiment": "negative", "topics": {"1": "0.33095", "2": "0.19446062", "3": "0.17831549", "4": "0.09624098", "5": "0.18570408"}}

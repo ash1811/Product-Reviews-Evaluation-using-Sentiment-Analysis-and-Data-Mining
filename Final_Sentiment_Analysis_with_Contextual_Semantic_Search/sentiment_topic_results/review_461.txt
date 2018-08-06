@@ -1,0 +1,1 @@
+{"text": "Once he put them on he realize that a 35&#34; waist was what he really needed, and they're Wranglers so they are made well and will last.  And they look good on him.", "sentiment": "positive", "topics": {"1": "0.4389902", "2": "0.08419706", "5": "0.3386524", "6": "0.109508"}}

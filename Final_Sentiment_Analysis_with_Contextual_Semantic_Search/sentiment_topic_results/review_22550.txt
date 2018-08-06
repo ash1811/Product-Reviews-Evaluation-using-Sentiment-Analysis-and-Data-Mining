@@ -1,0 +1,1 @@
+{"text": "The packaging states that it's safe for silver plated jewelry.  I didn't find this to be the case.  The silver-plated came out a coppery color.  I had to throw several pieces away.  Did work great for sterling though.", "sentiment": "negative", "topics": {"0": "0.120955616", "1": "0.2755141", "2": "0.17100194", "4": "0.15558007", "5": "0.10899707", "6": "0.16111921"}}

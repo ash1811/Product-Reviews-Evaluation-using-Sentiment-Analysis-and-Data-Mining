@@ -1,0 +1,1 @@
+{"text": "Great value for given money. Very hard and durable, very roomy. Can easily carry 55 pounds. It is also very light so it is not a dead weight...", "sentiment": "negative", "topics": {"0": "0.117271945", "1": "0.29104418", "2": "0.08150099", "3": "0.07998615", "4": "0.15641989", "5": "0.26484278"}}

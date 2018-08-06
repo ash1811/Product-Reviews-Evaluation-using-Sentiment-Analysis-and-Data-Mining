@@ -1,0 +1,1 @@
+{"text": "good quality basic leotard; sizing is correct, good stretch. Nice quality garment. Women's size small, 5-7 junior fits the Small size.", "sentiment": "negative", "topics": {"0": "0.14394382", "1": "0.45900226", "2": "0.12132807", "3": "0.17577238", "6": "0.08560975"}}

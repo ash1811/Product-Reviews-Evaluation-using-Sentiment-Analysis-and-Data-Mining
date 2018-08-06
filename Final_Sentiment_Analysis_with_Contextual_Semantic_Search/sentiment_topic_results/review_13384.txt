@@ -1,0 +1,1 @@
+{"text": "If I could give a ten I would.....These she where expensive and I waited for the price to drop and It finally did. You can't go wrong with theses shoes. It's like I am walking on clouds.", "sentiment": "negative", "topics": {"0": "0.12655383", "1": "0.25670156", "2": "0.21289869", "5": "0.29618144", "6": "0.09249582"}}

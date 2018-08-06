@@ -1,0 +1,1 @@
+{"text": "This product does as expected.  It's as described and helps get the job done. No problems so far they have held up fine", "sentiment": "positive", "topics": {"0": "0.0119200945", "1": "0.35609606", "2": "0.36741248", "3": "0.011931029", "4": "0.011930611", "5": "0.12643705", "6": "0.114272706"}}

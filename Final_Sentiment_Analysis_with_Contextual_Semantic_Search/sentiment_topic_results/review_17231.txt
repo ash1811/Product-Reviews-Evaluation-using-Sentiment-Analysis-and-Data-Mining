@@ -1,0 +1,1 @@
+{"text": "very attractive shoe and they feel like I have been wearing them for a year, would I buy another/ sure would", "sentiment": "negative", "topics": {"0": "0.011939675", "1": "0.4323376", "2": "0.23168035", "3": "0.011969265", "4": "0.011919134", "5": "0.011920575", "6": "0.28823337"}}

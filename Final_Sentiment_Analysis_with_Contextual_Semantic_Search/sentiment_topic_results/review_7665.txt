@@ -1,0 +1,1 @@
+{"text": "For us chesty gals, we're always looking for a comfortable bra. This one is it!I don't buy anything but these style Glamorise MagicLift Active Support bras!Total long lasting support & comfort! AAAA+++++++", "sentiment": "negative", "topics": {"0": "0.051683336", "1": "0.1787485", "2": "0.20623773", "3": "0.16026013", "4": "0.30367535", "6": "0.09341729"}}

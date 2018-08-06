@@ -1,0 +1,1 @@
+{"text": "Love this bra.  Super inexpensive, fits great and is insanely comfortable!! Was kind of nervous to buy but it's a quality product and I'm very happy with it!", "sentiment": "negative", "topics": {"1": "0.53976", "2": "0.098126076", "3": "0.091522194", "5": "0.24532604"}}

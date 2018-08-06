@@ -1,0 +1,1 @@
+{"text": "i use this for long hours at the gym but not for long distance run outdoor.  i prefer another brand that is more comfortable.", "sentiment": "negative", "topics": {"0": "0.096226946", "1": "0.5010387", "2": "0.010996695", "3": "0.23543423", "4": "0.011093427", "5": "0.13417403", "6": "0.011035985"}}

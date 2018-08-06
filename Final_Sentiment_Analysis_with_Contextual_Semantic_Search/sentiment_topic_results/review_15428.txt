@@ -1,0 +1,1 @@
+{"text": "These are my favorite glasses; they stay on my head and the lenses keep the sun out well and still allow enough brightness. Got these on sale for $80, which i think was a good price as well!", "sentiment": "negative", "topics": {"0": "0.1771773", "1": "0.32496214", "2": "0.069213375", "3": "0.19475307", "4": "0.1287726", "5": "0.025924642", "6": "0.0791969"}}

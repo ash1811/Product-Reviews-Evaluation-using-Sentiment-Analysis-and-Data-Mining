@@ -1,0 +1,1 @@
+{"text": "The Soffee Men's brand shorts do start out a little large, but then shrink to a perfect size.  They are very comfortable and wear well.  Good for hot weather outdoor activities and walking.  Like this brand and color.  Highly recommend.", "sentiment": "negative", "topics": {"0": "0.09298645", "1": "0.4421692", "3": "0.2566506", "4": "0.11668733", "6": "0.08003197"}}

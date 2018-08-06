@@ -1,0 +1,1 @@
+{"text": "Not very easy to adjust to the right size but can be done.  Not sure what I will ever do with all the different heads it comes with.  The latch on the box was quite cheap and has already broken.", "sentiment": "positive", "topics": {"1": "0.35966966", "2": "0.26392952", "3": "0.24487941", "4": "0.10762254"}}

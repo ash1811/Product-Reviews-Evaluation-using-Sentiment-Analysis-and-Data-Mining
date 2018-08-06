@@ -1,0 +1,1 @@
+{"text": "I liked this tank top, but it runs small. But it's a nice tank top, I did keep it, cause in use it under tops that are to low and it isn't skin tight but tight to where I would not just wear it alone. Nice tank for the price.", "sentiment": "negative", "topics": {"1": "0.46960473", "3": "0.31400302", "5": "0.06356119", "6": "0.13492115"}}

@@ -1,0 +1,1 @@
+{"text": "I wear this band when I do volunteer work in the rough areas of town so I don't make myself a target.  It serves its purpose and it looks nice.", "sentiment": "negative", "topics": {"0": "0.18490027", "1": "0.31991202", "2": "0.23171687", "3": "0.23275211", "4": "0.0102375", "5": "0.010269164", "6": "0.010212027"}}

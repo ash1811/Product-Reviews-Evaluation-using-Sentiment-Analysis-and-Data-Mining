@@ -1,0 +1,1 @@
+{"text": "good but small. my daughter is very small, shes maybe 30lbs at 3.5 years old. this 2-4 fits very tight on her. looks like ill have to buy another soon.", "sentiment": "negative", "topics": {"0": "0.14851066", "1": "0.4818402", "3": "0.21683323", "4": "0.13227282"}}

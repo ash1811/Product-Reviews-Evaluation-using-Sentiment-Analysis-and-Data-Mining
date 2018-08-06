@@ -1,0 +1,1 @@
+{"text": "My friend was very happy with this product. She had a baby about a year ago and has not been able to get a good bra since. I was glad to hear from her that it was comfortable and I will try to buy a few more like it for her", "sentiment": "negative", "topics": {"0": "0.06886767", "1": "0.33484185", "3": "0.2650741", "5": "0.22135854", "6": "0.093954206"}}

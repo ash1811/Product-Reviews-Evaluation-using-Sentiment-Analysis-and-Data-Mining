@@ -1,0 +1,1 @@
+{"text": "I'm happy I found this. I usually spend twice as much for Glamorsize bras, which are comfortable, but tend to fall apart after a while. This one is also so comfortable and seems to be high quality. Great price.", "sentiment": "negative", "topics": {"1": "0.57196736", "2": "0.15425731", "3": "0.08477378", "4": "0.10325818", "5": "0.073807366"}}

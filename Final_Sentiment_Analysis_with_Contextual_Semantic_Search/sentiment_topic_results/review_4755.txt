@@ -1,0 +1,1 @@
+{"text": "The toe box is a little stiff.  I have wide with feet C/D and they hurt my toes after 30 minutes of walking.  Too bad because I love the way they look.", "sentiment": "negative", "topics": {"1": "0.40674832", "4": "0.42453375", "6": "0.13501556"}}

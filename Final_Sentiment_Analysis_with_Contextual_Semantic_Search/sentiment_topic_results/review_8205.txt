@@ -1,0 +1,1 @@
+{"text": "i bought a pair the 6th of feb for hiking they worth the money i paid for them. i believe i must get other pair again. when i saw them i like them!wheather sand, water or rocks on hilly side they are great", "sentiment": "negative", "topics": {"0": "0.18889499", "2": "0.18791515", "3": "0.19606763", "5": "0.29291275", "6": "0.12226228"}}

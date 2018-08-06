@@ -1,0 +1,1 @@
+{"text": "These jeans fit very well.  They are not baggy or loose around the thighs.  I would highly reccommend them.  They were shipped when promised, and I am well pleased", "sentiment": "positive", "topics": {"1": "0.28898042", "2": "0.18181904", "4": "0.17031226", "5": "0.26706192", "6": "0.073904574"}}

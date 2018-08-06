@@ -1,0 +1,1 @@
+{"text": "These net with wide lace top and silicone stay up strips are extremely sexy and look durable. Will certainly outlast a regular stocking by many times. Pulls on very easily.", "sentiment": "negative", "topics": {"0": "0.149753", "1": "0.20329878", "2": "0.13944007", "3": "0.14684302", "4": "0.08923568", "5": "0.16876471", "6": "0.102664776"}}

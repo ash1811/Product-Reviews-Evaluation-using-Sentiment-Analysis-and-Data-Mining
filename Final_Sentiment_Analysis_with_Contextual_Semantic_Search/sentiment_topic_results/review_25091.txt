@@ -1,0 +1,1 @@
+{"text": "The Bali Women's Lacy Skamp brief is so comfortable you may forget you are wearing briefs!!1  No tugging or pulling.  I've worn them for years and will never change.", "sentiment": "negative", "topics": {"0": "0.07809715", "1": "0.31954047", "2": "0.12561673", "3": "0.10586055", "4": "0.18088453", "5": "0.09253209", "6": "0.09746851"}}

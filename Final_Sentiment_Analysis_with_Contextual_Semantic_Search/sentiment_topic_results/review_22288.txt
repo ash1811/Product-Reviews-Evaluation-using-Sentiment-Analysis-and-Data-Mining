@@ -1,0 +1,1 @@
+{"text": "I love these and use them often. either while wearing regular shoes, my 5 toe shoes, or martial arts shoes..", "sentiment": "negative", "topics": {"0": "0.010220696", "1": "0.2641453", "2": "0.40041795", "3": "0.29451537", "4": "0.010259663", "5": "0.0102187535", "6": "0.010222239"}}

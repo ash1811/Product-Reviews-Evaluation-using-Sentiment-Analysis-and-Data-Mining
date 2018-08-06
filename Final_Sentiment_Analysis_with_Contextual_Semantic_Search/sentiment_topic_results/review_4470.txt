@@ -1,0 +1,1 @@
+{"text": "These sandals last longer than any I've ever owned, which is why I keep buying them. The leather is soft and pliable and molds to your feet after about 10-15 wears. They survive through water and sand and heat and sun. Love 'em!", "sentiment": "negative", "topics": {"0": "0.22269784", "2": "0.17858833", "3": "0.17331833", "4": "0.27117306", "6": "0.14224352"}}

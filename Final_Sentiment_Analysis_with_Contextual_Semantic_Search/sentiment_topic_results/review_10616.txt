@@ -1,0 +1,1 @@
+{"text": "This is the perfect weight and the medium was a good fit for me as a woman who wears a 12-14.  I look forward to wearing it!  The navy blue is a nice dark blue shade also.  I like that fact that it packs into the front pocket.", "sentiment": "negative", "topics": {"0": "0.07254026", "1": "0.6724034", "3": "0.064442195", "4": "0.11467344", "6": "0.06443472"}}

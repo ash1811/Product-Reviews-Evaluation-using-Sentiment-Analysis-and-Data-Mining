@@ -1,0 +1,1 @@
+{"text": "You want to buy things for loved ones that are comfortable for them to wear. This is a good example. Fits great and washes well", "sentiment": "negative", "topics": {"0": "0.010221919", "1": "0.83912295", "2": "0.010243623", "3": "0.010220126", "4": "0.109757", "5": "0.010224943", "6": "0.010209449"}}

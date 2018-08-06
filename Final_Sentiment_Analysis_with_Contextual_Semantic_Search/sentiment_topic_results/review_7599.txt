@@ -1,0 +1,1 @@
+{"text": "I love this anklet because it's colorful and the crystals kind of sparkle in their own way. It's a good fit too.", "sentiment": "negative", "topics": {"0": "0.013055979", "1": "0.21808904", "2": "0.013049082", "3": "0.013039664", "4": "0.0130788805", "5": "0.59654975", "6": "0.13313757"}}

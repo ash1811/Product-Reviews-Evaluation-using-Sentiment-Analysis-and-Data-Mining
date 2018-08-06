@@ -1,0 +1,1 @@
+{"text": "hey they are white scrubs and are cost effective. they hem easy using stitch witchery ironing tape. they are comfortable. over all a good purchase. Namaste'", "sentiment": "positive", "topics": {"0": "0.21007684", "1": "0.20414457", "3": "0.090786055", "4": "0.23505229", "5": "0.24310525"}}

@@ -1,0 +1,1 @@
+{"text": "Jeans of this size (36x36) are becoming hard to find in most catalogs (and forget about finding them in a store). I'll order these again as soon as I need them.", "sentiment": "positive", "topics": {"0": "0.18662947", "3": "0.2659261", "5": "0.24012184", "6": "0.28198072"}}

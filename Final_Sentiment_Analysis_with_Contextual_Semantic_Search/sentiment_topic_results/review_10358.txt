@@ -1,0 +1,1 @@
+{"text": "When I put these on, I realized they are too small for my ears. It was not easy to put on.", "sentiment": "negative", "topics": {"0": "0.01594393", "1": "0.6493205", "2": "0.01588019", "3": "0.015937082", "4": "0.0159816", "5": "0.015964791", "6": "0.27097195"}}

@@ -1,0 +1,1 @@
+{"text": "These are pricier than some other options but worth it to me for hiking and backpacking. I would recommend this product to friends", "sentiment": "negative", "topics": {"0": "0.3715012", "1": "0.014318203", "2": "0.014316814", "3": "0.15701778", "4": "0.0143134445", "5": "0.4142378", "6": "0.01429476"}}

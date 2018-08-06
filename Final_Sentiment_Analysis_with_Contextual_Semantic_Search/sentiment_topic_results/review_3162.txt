@@ -1,0 +1,1 @@
+{"text": "PERFECT!!!!! my son is very picky. This was a perfect fit for him. He loves it so I am happy.", "sentiment": "positive", "topics": {"0": "0.01590638", "1": "0.7879743", "2": "0.1324655", "3": "0.015903996", "4": "0.015971743", "5": "0.015902603", "6": "0.015875515"}}

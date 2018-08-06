@@ -1,0 +1,1 @@
+{"text": "I ordered this in a larger size purposely as I wasn't sure what size for my son. However decided to keep. I'm hoping for shrinkage. Some one in my family will wear it.  Fast delivery, great price and very good quality. Thank you.", "sentiment": "negative", "topics": {"1": "0.3821606", "2": "0.26865503", "3": "0.06480145", "6": "0.2678266"}}

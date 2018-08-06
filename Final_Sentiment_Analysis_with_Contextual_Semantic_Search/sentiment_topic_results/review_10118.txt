@@ -1,0 +1,1 @@
+{"text": "Fits as expected and looks good too.  Like the color Light Toast.  Shipping was just fine.  Might purchase more in the future.", "sentiment": "positive", "topics": {"1": "0.5330084", "2": "0.17919691", "4": "0.24957268"}}

@@ -1,0 +1,1 @@
+{"text": "Overall good product however, the pocket material is ruff and gives me the chills everytime I put my hand in them.If you have dry skin like me you might not like these pants.", "sentiment": "positive", "topics": {"0": "0.11237619", "1": "0.25226516", "2": "0.12042645", "5": "0.298191", "6": "0.20240495"}}

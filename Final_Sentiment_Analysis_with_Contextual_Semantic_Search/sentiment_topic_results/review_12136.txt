@@ -1,0 +1,1 @@
+{"text": "Nice case.  Well built.  I am very happy with it and recommend them it strongly.  They provide a great protection and now I always know where my goggles are.", "sentiment": "negative", "topics": {"1": "0.36129633", "2": "0.53849477", "5": "0.0620074"}}

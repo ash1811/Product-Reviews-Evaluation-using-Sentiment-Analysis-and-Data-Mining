@@ -1,0 +1,1 @@
+{"text": "Our almost 5 year old loves to dress up; it is his staple to be in costume.  This was just another addition to his collection and the quality is very good.", "sentiment": "positive", "topics": {"0": "0.16660593", "1": "0.38314092", "2": "0.101591796", "4": "0.25619525", "5": "0.07334532"}}

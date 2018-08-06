@@ -1,0 +1,1 @@
+{"text": "I had to sent them back for a larger size.I wear a 10 wide shoe.When I tried them on, they were wide enough,but too short,my toe protruded out the front.They are absolutely the softest shoes that I have ever had on my feet.I am ordering a pair for my wife.", "sentiment": "negative", "topics": {"1": "0.5962426", "2": "0.12277585", "4": "0.06750904", "5": "0.19630498"}}

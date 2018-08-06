@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable bra, it fits perfect without the bones. Supports your breast gives you a nice lift no skin left out the right bra.", "sentiment": "negative", "topics": {"1": "0.5192869", "3": "0.34085488", "6": "0.104089"}}

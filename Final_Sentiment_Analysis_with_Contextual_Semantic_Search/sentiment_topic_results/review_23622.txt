@@ -1,0 +1,1 @@
+{"text": "These are very comfortable socks.  God has blessed me not to be diabetic.  I just wanted socks with these features.  I am pleased with the purchase.", "sentiment": "negative", "topics": {"0": "0.013017972", "1": "0.20197907", "2": "0.13149382", "3": "0.11184156", "4": "0.14989348", "5": "0.28406033", "6": "0.10771374"}}

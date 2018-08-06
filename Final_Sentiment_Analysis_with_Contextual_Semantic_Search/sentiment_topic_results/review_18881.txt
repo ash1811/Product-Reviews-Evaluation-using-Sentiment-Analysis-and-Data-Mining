@@ -1,0 +1,1 @@
+{"text": "Good product and the 35 waist is just what I need. The jeans fit very well and they are of very good quality and look great.", "sentiment": "negative", "topics": {"0": "0.011020636", "1": "0.49470413", "2": "0.12172115", "3": "0.011001104", "4": "0.011006598", "5": "0.2076756", "6": "0.14287081"}}

@@ -1,0 +1,1 @@
+{"text": "I love my new glasses.  They add so much to a simple outfit and makes for a very chic look.  A must have for the summer!", "sentiment": "negative", "topics": {"0": "0.011046977", "1": "0.2310632", "2": "0.011015392", "3": "0.51079565", "4": "0.011027745", "5": "0.135737", "6": "0.08931405"}}

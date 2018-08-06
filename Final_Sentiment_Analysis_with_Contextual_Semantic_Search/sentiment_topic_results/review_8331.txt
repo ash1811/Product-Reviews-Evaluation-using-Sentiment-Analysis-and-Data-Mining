@@ -1,0 +1,1 @@
+{"text": "I put boots on. and they pinch the foot, on the instep, above toes. could not walk in them. this boot looks nice, but wow they crease when you walk. and I WALK FOR A LIVEN !!!!", "sentiment": "negative", "topics": {"1": "0.38952556", "3": "0.07715115", "4": "0.44597003", "5": "0.06474386"}}

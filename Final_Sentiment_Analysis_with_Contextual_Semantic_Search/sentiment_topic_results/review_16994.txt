@@ -1,0 +1,1 @@
+{"text": "I bought this in a size 7 and it fits perfectly for me. I wear this ring almost every day and it still shows no sign or wear and tear or tarnishing.Excellent detailing, true to size, and durable!", "sentiment": "positive", "topics": {"0": "0.22478841", "1": "0.43608636", "2": "0.16372281", "3": "0.1558639"}}

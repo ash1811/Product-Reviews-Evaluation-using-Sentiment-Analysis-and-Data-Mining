@@ -1,0 +1,1 @@
+{"text": "This is a must have item for travelers. Very sturdy, adjustable. Couldn't live without it for carrying multiple bags.", "sentiment": "negative", "topics": {"0": "0.01304723", "1": "0.26406157", "2": "0.1267255", "3": "0.24381462", "4": "0.01299012", "5": "0.013011619", "6": "0.32634938"}}

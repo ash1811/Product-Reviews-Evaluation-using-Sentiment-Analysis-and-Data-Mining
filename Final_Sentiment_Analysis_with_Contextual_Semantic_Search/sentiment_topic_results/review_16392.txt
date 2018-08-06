@@ -1,0 +1,1 @@
+{"text": "Got these for my husband because he loved his other Reefs and he loves these as well - wears them anytime he needs flip flops!", "sentiment": "positive", "topics": {"0": "0.11121538", "1": "0.45219764", "2": "0.103462644", "3": "0.011933461", "4": "0.1468721", "5": "0.011936215", "6": "0.16238256"}}

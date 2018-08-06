@@ -1,0 +1,1 @@
+{"text": "good fit good color more color options would be good and more in my size too other than that happy", "sentiment": "positive", "topics": {"0": "0.137235", "1": "0.6844774", "2": "0.012992287", "3": "0.12623945", "4": "0.013005804", "5": "0.013004332", "6": "0.013045716"}}

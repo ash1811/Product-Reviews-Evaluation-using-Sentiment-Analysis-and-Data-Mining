@@ -1,0 +1,1 @@
+{"text": "I knew this would be the handiest little thing for camping, so I got two--one for my bf, one for me. It's great--roomy, with lining for wet stuff. Absolute must-have, I won't go camping without mine!", "sentiment": "negative", "topics": {"0": "0.17987192", "1": "0.14315356", "2": "0.38413393", "3": "0.085954495", "6": "0.19387956"}}

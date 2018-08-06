@@ -1,0 +1,1 @@
+{"text": "This is a great basic piece for any wardrobe.  Glad there are some retailers out there that provide decent quality and classic styles for the ladies out there that aren't petite.  This vest is great for warmth, comfort and style.", "sentiment": "positive", "topics": {"1": "0.33377454", "2": "0.09543222", "4": "0.2535421", "5": "0.11857448", "6": "0.18359858"}}

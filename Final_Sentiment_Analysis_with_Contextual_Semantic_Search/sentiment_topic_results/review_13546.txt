@@ -1,0 +1,1 @@
+{"text": "These riding pants were very stretchy and nice and long. The size (30) seemed right for my size 8-10 curvy body, but the seam with the pocket was badly sewn and bulged outwards on the hip.  I'm returning them.  May try again.", "sentiment": "negative", "topics": {"0": "0.07596518", "1": "0.23147176", "3": "0.39946058", "4": "0.13417265", "6": "0.14832252"}}

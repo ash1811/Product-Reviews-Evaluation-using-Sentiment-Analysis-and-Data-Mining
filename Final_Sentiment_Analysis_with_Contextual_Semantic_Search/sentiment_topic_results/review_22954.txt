@@ -1,0 +1,1 @@
+{"text": "The fabric this is made of is very light and airy.  I recommend the shorts for anyone even if not the active type.", "sentiment": "negative", "topics": {"0": "0.50206417", "1": "0.013026401", "2": "0.17388305", "3": "0.012998172", "4": "0.12158734", "5": "0.16344985", "6": "0.012990949"}}

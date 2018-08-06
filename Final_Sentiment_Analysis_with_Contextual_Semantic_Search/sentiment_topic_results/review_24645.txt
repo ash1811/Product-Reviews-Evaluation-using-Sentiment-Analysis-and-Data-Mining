@@ -1,0 +1,1 @@
+{"text": "Nice quality. Was a little long for my tall 3 yr old - but not noticeably so.  Love the colour", "sentiment": "positive", "topics": {"0": "0.30970794", "1": "0.6351757", "2": "0.011020282", "3": "0.011007494", "4": "0.011050243", "5": "0.01103622", "6": "0.011002049"}}

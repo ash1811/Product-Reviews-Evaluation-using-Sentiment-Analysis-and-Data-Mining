@@ -1,0 +1,1 @@
+{"text": "I like the fit as well as the Sketchers that I wear now. Seem to be a little snug but I expect them to stretch out the more I wear them, if not  I am satisfied with the fit as is. I would purchase again.", "sentiment": "negative", "topics": {"1": "0.3360655", "3": "0.14431281", "5": "0.31875658", "6": "0.17936715"}}

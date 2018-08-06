@@ -1,0 +1,1 @@
+{"text": "If looking for an inexpensive but really quite cute Halloween costume, this is a good choice. I'm normally a small and the medium fit me perfectly, so I would say size up, for sure.", "sentiment": "negative", "topics": {"0": "0.08402337", "1": "0.4406858", "2": "0.08925067", "3": "0.30953175", "6": "0.06286403"}}

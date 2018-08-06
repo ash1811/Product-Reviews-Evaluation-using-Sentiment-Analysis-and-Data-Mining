@@ -1,0 +1,1 @@
+{"text": "I would have like to see a little more room (width) in them.  They seem quite comfy though, after broke in they may be better", "sentiment": "negative", "topics": {"0": "0.09852123", "3": "0.7670564", "4": "0.0961671"}}

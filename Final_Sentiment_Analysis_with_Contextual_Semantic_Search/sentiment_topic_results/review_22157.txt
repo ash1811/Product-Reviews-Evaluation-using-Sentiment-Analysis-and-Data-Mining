@@ -1,0 +1,1 @@
+{"text": "the one thing I will always pay the expensive &#34;carhartt price&#34; for are their jackets.this is the best jacket I've ever owned. the only down side (because I bought it online) is the size was too big.", "sentiment": "negative", "topics": {"1": "0.27619788", "2": "0.122754015", "3": "0.19080658", "4": "0.15470362", "5": "0.18997222", "6": "0.058400173"}}

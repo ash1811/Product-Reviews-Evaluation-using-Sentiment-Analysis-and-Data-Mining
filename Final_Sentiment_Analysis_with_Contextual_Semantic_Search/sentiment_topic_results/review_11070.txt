@@ -1,0 +1,1 @@
+{"text": "I give up on slippers; despite the ads, I find that there is too little support in the sole of any slippers, these included", "sentiment": "negative", "topics": {"0": "0.12331807", "1": "0.013039121", "2": "0.012997039", "3": "0.3637654", "4": "0.262776", "5": "0.013028562", "6": "0.21107587"}}

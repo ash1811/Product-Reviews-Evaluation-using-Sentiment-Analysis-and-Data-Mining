@@ -1,0 +1,1 @@
+{"text": "They come up to but do not cover the belly button.  Cut too high at the leg.  I'd send the whole 6 pack package back but had to take one out to try it on.  Therefore I'm stuck.", "sentiment": "negative", "topics": {"0": "0.1485243", "1": "0.46809423", "2": "0.1475742", "4": "0.07865871", "6": "0.14410652"}}

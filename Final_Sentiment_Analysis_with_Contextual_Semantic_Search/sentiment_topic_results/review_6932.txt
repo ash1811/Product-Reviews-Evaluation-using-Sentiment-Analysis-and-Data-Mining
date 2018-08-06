@@ -1,0 +1,1 @@
+{"text": "Love dickies jeans.  I will never buy anything else.  And they are so cheap on Amazon.  These are the most durable and long lasting pants I have ever purchased.  Amazing quality.", "sentiment": "negative", "topics": {"1": "0.4148625", "2": "0.30353224", "4": "0.2497782"}}

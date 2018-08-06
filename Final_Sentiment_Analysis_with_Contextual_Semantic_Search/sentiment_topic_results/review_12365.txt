@@ -1,0 +1,1 @@
+{"text": "My son has enjoyed the hat and wore it when the weather was cold. He likes this style and said it has a nice Bill.", "sentiment": "negative", "topics": {"0": "0.011936314", "1": "0.011991242", "2": "0.011916589", "3": "0.29750213", "4": "0.011959162", "5": "0.49793258", "6": "0.15676199"}}

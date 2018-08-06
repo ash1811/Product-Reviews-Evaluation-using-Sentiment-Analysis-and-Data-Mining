@@ -1,0 +1,1 @@
+{"text": "The confort lace bra is great. It gives good support and I love the wide strips for confort.The only problemis the lace is beautiful but it does show through some tops. I will buy it again.", "sentiment": "positive", "topics": {"0": "0.16402717", "1": "0.2934243", "2": "0.1443934", "3": "0.18055846", "4": "0.20251857"}}

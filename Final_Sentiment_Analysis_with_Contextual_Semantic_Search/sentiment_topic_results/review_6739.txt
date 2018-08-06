@@ -1,0 +1,1 @@
+{"text": "This metal casing will work well with my Hijinx and Split Jacket! It looks tough really! My friend wants it too!", "sentiment": "negative", "topics": {"0": "0.19432701", "1": "0.22259401", "2": "0.21507917", "3": "0.246785", "4": "0.010213266", "5": "0.10076045", "6": "0.010241117"}}

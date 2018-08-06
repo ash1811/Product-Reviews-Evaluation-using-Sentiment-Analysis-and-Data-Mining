@@ -1,0 +1,1 @@
+{"text": "I own 2 (black) bags and I bought them ~6 months apart.Both are great and the newer one has a zippered pouch for keys etc.", "sentiment": "negative", "topics": {"0": "0.21978812", "1": "0.51616395", "2": "0.22579125"}}

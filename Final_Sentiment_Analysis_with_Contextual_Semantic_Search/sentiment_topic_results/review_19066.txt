@@ -1,0 +1,1 @@
+{"text": "Looks as good as in the picture. I got the one on red and it's absolutely gorgeous. Great price too. I can't wait til my husband sees me in it. He's gonna love it too. ;)", "sentiment": "negative", "topics": {"0": "0.22233371", "1": "0.24051446", "2": "0.19872175", "4": "0.3188486"}}

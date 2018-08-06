@@ -1,0 +1,1 @@
+{"text": "These jeans are nice, very nice considering the price. Plan to get some more soon.You can't beat the price. Easy to get, just get on the computer and order. Sure beats going shopping. Love that Amazon!!!", "sentiment": "negative", "topics": {"0": "0.051451635", "1": "0.1929999", "2": "0.113436826", "4": "0.4576599", "5": "0.17200105"}}

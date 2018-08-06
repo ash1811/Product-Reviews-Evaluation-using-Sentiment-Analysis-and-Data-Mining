@@ -1,0 +1,1 @@
+{"text": "The best price, the best colour and fits perfect. Wrangler is , so far, the cinderella of the big jeans manufacturers and performs very well. Indeed. Much better than the big one in terms of price/quality.I do recommend to try.", "sentiment": "negative", "topics": {"1": "0.7431743", "3": "0.13003765", "4": "0.10287707"}}

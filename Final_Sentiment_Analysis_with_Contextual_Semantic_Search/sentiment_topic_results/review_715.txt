@@ -1,0 +1,1 @@
+{"text": "With this little wallet I purchased credit card sleeves so my pans pockets look nice and not full of staff.", "sentiment": "negative", "topics": {"0": "0.10937976", "1": "0.5296647", "2": "0.12307608", "3": "0.119517475", "4": "0.010992307", "5": "0.09636604", "6": "0.011003657"}}

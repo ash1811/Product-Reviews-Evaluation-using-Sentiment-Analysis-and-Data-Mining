@@ -1,0 +1,1 @@
+{"text": "Bought it to hold up my hunting pants and I'm sure it will do the job for a season or two, but I was thinking that it would be a little tougher than it turns out to be.  The buckle seems fine, it's the belt that seems a bit too light weight.", "sentiment": "negative", "topics": {"1": "0.3777719", "2": "0.38155442", "3": "0.1645551", "6": "0.058154926"}}

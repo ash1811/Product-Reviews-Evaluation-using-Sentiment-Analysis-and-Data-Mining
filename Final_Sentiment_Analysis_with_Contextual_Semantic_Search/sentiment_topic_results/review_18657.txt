@@ -1,0 +1,1 @@
+{"text": "Got this for my husband and he is thrilled with it, he does not need his glasses to see this (he hates wearing them)!!!Also likes the fact that it's just a simple watch and the Indiglo is a bonus, all around a keeper!", "sentiment": "negative", "topics": {"0": "0.13286407", "2": "0.3120975", "3": "0.1417194", "4": "0.15707967", "6": "0.24188948"}}

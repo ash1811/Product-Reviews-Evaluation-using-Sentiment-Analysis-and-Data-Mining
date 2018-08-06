@@ -1,0 +1,1 @@
+{"text": "I like this one.  The color of this one is very beautiful for me. When I first saw it, I think it is suitable for me.", "sentiment": "negative", "topics": {"0": "0.36762512", "1": "0.32010287", "2": "0.26814076", "3": "0.011010343", "4": "0.011043193", "5": "0.011056519", "6": "0.011021169"}}

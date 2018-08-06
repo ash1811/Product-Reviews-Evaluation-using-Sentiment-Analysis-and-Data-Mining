@@ -1,0 +1,1 @@
+{"text": "This item came just as pictured. It is cute on and it has been easy to have washed. Perfect for the purpose. :D", "sentiment": "negative", "topics": {"0": "0.01436532", "1": "0.01436576", "2": "0.014297007", "3": "0.35177174", "4": "0.014330094", "5": "0.3030937", "6": "0.28777635"}}

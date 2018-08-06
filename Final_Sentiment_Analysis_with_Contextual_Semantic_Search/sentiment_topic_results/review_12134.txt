@@ -1,0 +1,1 @@
+{"text": "Not sweaty in summer but warm in winter, keeps the shape and is generally a pleasure to wear.  Buy Wigwam.", "sentiment": "positive", "topics": {"0": "0.011933344", "1": "0.49325728", "2": "0.01192477", "3": "0.012004931", "4": "0.011925071", "5": "0.26986122", "6": "0.1890934"}}

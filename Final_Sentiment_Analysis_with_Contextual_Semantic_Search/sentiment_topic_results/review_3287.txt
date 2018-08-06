@@ -1,0 +1,1 @@
+{"text": "The fit is ok, but the material seems thinner than I'm used too.  Don't think they will hold up as well.  We'll just wait see how this pair stands up to the daily routine.  Wish they were still made in the USA.", "sentiment": "negative", "topics": {"0": "0.09746634", "1": "0.48718625", "3": "0.19958532", "4": "0.19707814"}}

@@ -1,0 +1,1 @@
+{"text": "Cute. Functional, Comfortable, Easy to Clean. My daughter liked the all black design. Exact same quality always delivered by Converse.", "sentiment": "negative", "topics": {"0": "0.11158945", "1": "0.32474822", "2": "0.23100403", "4": "0.1768451", "5": "0.136648"}}

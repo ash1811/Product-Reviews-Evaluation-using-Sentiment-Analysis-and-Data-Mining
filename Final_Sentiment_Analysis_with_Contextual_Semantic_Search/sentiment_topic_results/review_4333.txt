@@ -1,0 +1,1 @@
+{"text": "These are nice pants. Nothing fancy and fabric a bit thick, but if you spend $30 on your slacks these are a fine addition to your roster.", "sentiment": "negative", "topics": {"0": "0.010215732", "1": "0.2754015", "2": "0.13173571", "3": "0.12182989", "4": "0.13839285", "5": "0.18824692", "6": "0.1341774"}}

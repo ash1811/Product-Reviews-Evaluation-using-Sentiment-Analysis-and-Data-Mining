@@ -1,0 +1,1 @@
+{"text": "Comfortable. Classic. I have a pair in brown and a pair in black. Only trouble is the black show dirt more but that's just black. You've got to dust them off more in the desert.", "sentiment": "positive", "topics": {"1": "0.15873387", "2": "0.38343966", "3": "0.2765476", "4": "0.085501246", "5": "0.07789917"}}

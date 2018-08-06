@@ -1,0 +1,1 @@
+{"text": "Fits perfect, love the colors, does not shrink.  I will be buying more of these as they are a great tee for a great price.", "sentiment": "positive", "topics": {"0": "0.013028989", "1": "0.6456528", "2": "0.01300165", "3": "0.013002115", "4": "0.08765036", "5": "0.21461812", "6": "0.013045981"}}

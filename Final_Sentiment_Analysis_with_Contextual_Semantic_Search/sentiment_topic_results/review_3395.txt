@@ -1,0 +1,1 @@
+{"text": "The design of this bra is lovely, particularly the straps.  Much prettier than anything in the shops.Secure fit and comfortable.  Good value.", "sentiment": "negative", "topics": {"0": "0.099486165", "1": "0.31047183", "2": "0.22232147", "3": "0.11689203", "4": "0.09503891", "5": "0.14557204", "6": "0.010217546"}}

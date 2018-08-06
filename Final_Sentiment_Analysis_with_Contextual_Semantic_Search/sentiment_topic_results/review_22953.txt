@@ -1,0 +1,1 @@
+{"text": "I usally ware a size medium. Sometime a large. I got the in medium and they definately need to be tied to stay up.Good design and material.", "sentiment": "negative", "topics": {"0": "0.07632084", "1": "0.43991622", "3": "0.24625005", "6": "0.21055563"}}

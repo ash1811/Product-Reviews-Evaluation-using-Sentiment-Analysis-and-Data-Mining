@@ -1,0 +1,1 @@
+{"text": "I have eight of these...They are great they just fold open and are ready to use. They are sturdy and they look nice I am all about organization.", "sentiment": "negative", "topics": {"0": "0.12205466", "1": "0.2342158", "2": "0.10270088", "3": "0.5052348", "4": "0.011916087", "5": "0.011951343", "6": "0.011926479"}}

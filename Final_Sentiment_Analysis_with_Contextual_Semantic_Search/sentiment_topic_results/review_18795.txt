@@ -1,0 +1,1 @@
+{"text": "These are THE real military ACU pants, and if anyone is looking for real US ARMY ACU PANTS and solid trousers, these are the one, great and good fit! might seem a little large but it is only in order to feel at ease, so perfect", "sentiment": "positive", "topics": {"0": "0.33594018", "1": "0.3515866", "2": "0.12877151", "3": "0.11171068", "4": "0.06097992"}}

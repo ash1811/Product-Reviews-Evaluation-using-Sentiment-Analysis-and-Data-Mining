@@ -1,0 +1,1 @@
+{"text": "I am very satisfied with this purchase of the Lee brand of jeans and would highly recommend this to others who want a good name brand of quality and competitive pricing.", "sentiment": "negative", "topics": {"1": "0.35829717", "2": "0.09861681", "3": "0.39202124", "6": "0.12576401"}}

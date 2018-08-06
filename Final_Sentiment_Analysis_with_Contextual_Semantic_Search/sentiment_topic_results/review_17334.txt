@@ -1,0 +1,1 @@
+{"text": "This Carhartt shirt offers the same great quality material and stitching as other Carhartt items.  I would keep an eye on the size.  I would suggest you order one size larger then you normally do.", "sentiment": "negative", "topics": {"0": "0.3746397", "1": "0.42909974", "6": "0.17017516"}}

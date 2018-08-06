@@ -1,0 +1,1 @@
+{"text": "I love them there comfortable and easy to wear would buy more if I found cute ones I would recommend them to anyone who wants comfortable sandals.", "sentiment": "negative", "topics": {"1": "0.57182646", "3": "0.1365253", "4": "0.11090185", "5": "0.15382807"}}

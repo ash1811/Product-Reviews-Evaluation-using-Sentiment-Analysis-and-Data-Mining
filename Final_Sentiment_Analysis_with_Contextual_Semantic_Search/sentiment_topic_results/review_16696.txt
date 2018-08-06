@@ -1,0 +1,1 @@
+{"text": "I have chunky calves and have issues with boots not wanting to zip up. These fit great and have adjustable laces so you can loosen or tighten the fit. These are a great price and great quality.", "sentiment": "negative", "topics": {"1": "0.4388914", "2": "0.181738", "3": "0.11111828", "4": "0.06729537", "5": "0.18588784"}}

@@ -1,0 +1,1 @@
+{"text": "My daughter is a pain when it comes to socks. She only wears Hanes because they are not that thick and stay in place. Excellent  durability, they are for work so she has to be confy. Great buy.", "sentiment": "positive", "topics": {"1": "0.52867186", "2": "0.3128247", "5": "0.12269839"}}

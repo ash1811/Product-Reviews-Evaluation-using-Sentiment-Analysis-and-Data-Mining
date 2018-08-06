@@ -1,0 +1,1 @@
+{"text": "You can't be too big.... but they work just great for a C or smaller.  If your body is too hot, they don't stick as well for as long a period of time and you can't wear them if you are dancing and sweating.", "sentiment": "negative", "topics": {"1": "0.5837543", "3": "0.3153494", "6": "0.0690588"}}

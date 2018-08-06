@@ -1,0 +1,1 @@
+{"text": "I bought this bag as a gift for my sister-in-law and she loves it! Says its the most comfortable back bag she's got. I was pleased with the fast shipment, and the quality of the bag.", "sentiment": "positive", "topics": {"0": "0.41660422", "1": "0.37079597", "4": "0.08260211", "6": "0.10472582"}}

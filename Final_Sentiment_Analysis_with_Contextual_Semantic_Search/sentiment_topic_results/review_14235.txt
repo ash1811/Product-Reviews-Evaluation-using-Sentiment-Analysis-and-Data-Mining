@@ -1,0 +1,1 @@
+{"text": "I love these sandals!! They are the perfect lightweight casual summer sandal. They are very comfortable and the straps do not dig into your foot at all. They do not offer half sizes so I ordered a size up, still fits great.", "sentiment": "positive", "topics": {"0": "0.3220379", "1": "0.30462888", "2": "0.07253856", "3": "0.2812319"}}

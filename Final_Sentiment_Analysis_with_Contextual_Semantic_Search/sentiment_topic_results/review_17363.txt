@@ -1,0 +1,1 @@
+{"text": "Nothing like silk to keep out wind and keep in warmth without moisture.  These are really great.  Combine with silk long-johns for solid bottom half warmth.", "sentiment": "negative", "topics": {"1": "0.28686064", "3": "0.22150616", "4": "0.18324059", "5": "0.1710063", "6": "0.122314595"}}

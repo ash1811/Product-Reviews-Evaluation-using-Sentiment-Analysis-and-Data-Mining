@@ -1,0 +1,1 @@
+{"text": "I like the LoveFifi Women's Micro G-String - One Size - RedIts really tiny though but its ok I can deal with it.Shipping was fast", "sentiment": "positive", "topics": {"1": "0.2521582", "2": "0.11971575", "3": "0.16681206", "4": "0.36029553", "5": "0.08308722"}}

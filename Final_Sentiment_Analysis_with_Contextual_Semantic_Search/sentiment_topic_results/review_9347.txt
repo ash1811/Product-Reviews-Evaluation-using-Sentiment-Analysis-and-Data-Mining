@@ -1,0 +1,1 @@
+{"text": "We have been buying these for my husband for about 10 years.  They are very comfortable for him to walk in and they wear for a LONG time.", "sentiment": "negative", "topics": {"0": "0.014336335", "1": "0.48363414", "2": "0.014302654", "3": "0.01432687", "4": "0.24380663", "5": "0.21523371", "6": "0.014359673"}}

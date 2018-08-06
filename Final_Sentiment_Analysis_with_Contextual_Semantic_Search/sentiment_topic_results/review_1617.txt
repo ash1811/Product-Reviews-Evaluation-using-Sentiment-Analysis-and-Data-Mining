@@ -1,0 +1,1 @@
+{"text": "The Waistnipper does its job but after long hours of wearing the boning causes some discomfort. I ordered the small; I should have ordered a medium...my dress size is an 8 and my weight is 142 lbs.", "sentiment": "negative", "topics": {"0": "0.071768425", "1": "0.5687675", "3": "0.08451917", "4": "0.1861483", "5": "0.07367471"}}

@@ -1,0 +1,1 @@
+{"text": "These are great, classic boots.  Just be sure to order a size down.  These are fully legitimate original CDBs.  I don't think you'll find them for a better price then here on amazon.", "sentiment": "positive", "topics": {"2": "0.22117658", "4": "0.23344219", "5": "0.3698472", "6": "0.15017724"}}

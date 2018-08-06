@@ -1,0 +1,1 @@
+{"text": "This is our 2nd pair-the first lasted a couple of years. My husband wears them every day and often forgets and goes out to the mailbox or into the machine shop. Minimally lined so they don't get too ht on your feet.", "sentiment": "positive", "topics": {"0": "0.24969807", "1": "0.11665054", "2": "0.067639224", "3": "0.11058956", "4": "0.32756966", "5": "0.12133208"}}

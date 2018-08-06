@@ -1,0 +1,1 @@
+{"text": "this shoulder bag can be for either man or woman, it feels strong, looks nice and for the price is totally a nice deal. I got it for my sister for her trip to France and she loves it. I sure do recommend it..", "sentiment": "negative", "topics": {"1": "0.31041884", "2": "0.08574462", "3": "0.57888216"}}

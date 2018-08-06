@@ -1,0 +1,1 @@
+{"text": "Love my bag,it's very strong ! nice and big for all my books too ! Loving the color! I'm in college and this definitely works for me", "sentiment": "positive", "topics": {"0": "0.10996297", "1": "0.5415606", "2": "0.0110018095", "3": "0.19457394", "4": "0.01105475", "5": "0.011010074", "6": "0.120835826"}}

@@ -1,0 +1,1 @@
+{"text": "For whatever reason, i cannot get this bra to lay smooth - gapping at the top and the size down is too small....  would have made a great seamless addition but i have to return it", "sentiment": "negative", "topics": {"0": "0.21073669", "3": "0.4172789", "4": "0.114943236", "6": "0.23313934"}}

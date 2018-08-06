@@ -1,0 +1,1 @@
+{"text": "They look good the lenth is very good. But the waist a little tight don't fit like my other ones I have purchased.", "sentiment": "negative", "topics": {"0": "0.011940523", "1": "0.72716635", "2": "0.213197", "3": "0.011920051", "4": "0.011916582", "5": "0.011922817", "6": "0.01193672"}}

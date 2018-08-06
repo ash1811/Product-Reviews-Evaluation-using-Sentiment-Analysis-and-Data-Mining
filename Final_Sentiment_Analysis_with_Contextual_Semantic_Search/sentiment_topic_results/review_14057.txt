@@ -1,0 +1,1 @@
+{"text": "fun watch.gets a lot of attention.love solar power watches,will last 6 months on full charge.water resistantto 300 meters and built tough.would recommend to anyone!", "sentiment": "negative", "topics": {"0": "0.09048105", "2": "0.19830811", "3": "0.11652628", "4": "0.090590455", "5": "0.48973712"}}

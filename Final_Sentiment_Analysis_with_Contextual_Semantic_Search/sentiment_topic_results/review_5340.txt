@@ -1,0 +1,1 @@
+{"text": "These were too small even though I used the size chart when ordering. Also, I felt that they cut into the back of my heel by my achilles tendon. I returned them.", "sentiment": "negative", "topics": {"1": "0.28451055", "2": "0.0908434", "3": "0.28459185", "4": "0.1391132", "5": "0.10451108", "6": "0.08798844"}}

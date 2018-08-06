@@ -1,0 +1,1 @@
+{"text": "Good quality and the Carhartt name didn't disappoint.  Sizes run big, so prepare to order small or shrink it in dryer.  Beautiful color choices.  Given as gift so long term review not yet availble.", "sentiment": "positive", "topics": {"0": "0.13816492", "1": "0.47097144", "2": "0.15436475", "3": "0.13789453", "4": "0.08665786"}}

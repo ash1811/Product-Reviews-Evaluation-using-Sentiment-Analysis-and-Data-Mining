@@ -1,0 +1,1 @@
+{"text": "Solid, but the size 50X30 is soooo big, it's almost useless. I thought I would almost fit in there myself.Definitely not for the airports. Had it been 50X15 or 50X20 would be more appropriate.", "sentiment": "positive", "topics": {"1": "0.15737392", "2": "0.31920558", "3": "0.13560101", "5": "0.06949259", "6": "0.30232686"}}

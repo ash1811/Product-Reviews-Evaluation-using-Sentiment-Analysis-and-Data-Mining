@@ -1,0 +1,1 @@
+{"text": "Love this bra and the other one I bought from glamorise. I could not believe that much support without wire. 40G", "sentiment": "negative", "topics": {"0": "0.011026093", "1": "0.34370708", "2": "0.14711322", "3": "0.372411", "4": "0.011049145", "5": "0.011020766", "6": "0.103672706"}}

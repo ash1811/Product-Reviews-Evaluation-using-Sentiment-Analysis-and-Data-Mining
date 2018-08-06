@@ -1,0 +1,1 @@
+{"text": "I ordered these for my soon-to-be husband in a 10WWW.  They fit perfectly and were comfortable from the get-go.  He plans to wear them on our honeymoon in England.  Rockport can be counted on for good quality at reasonable prices.", "sentiment": "positive", "topics": {"0": "0.06772546", "1": "0.42352715", "3": "0.058657143", "4": "0.20392206", "5": "0.23112628"}}

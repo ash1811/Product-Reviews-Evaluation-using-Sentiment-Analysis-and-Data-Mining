@@ -1,0 +1,1 @@
+{"text": "I am very pleased with these sweatpants.  The fit is perfect, as is the warmth of the fleece. I just wish that the pants had pockets.", "sentiment": "negative", "topics": {"0": "0.13675833", "1": "0.79170537", "2": "0.014319167", "3": "0.014303626", "4": "0.014295831", "5": "0.01432693", "6": "0.01429076"}}

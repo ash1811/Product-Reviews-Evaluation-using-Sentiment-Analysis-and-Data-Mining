@@ -1,0 +1,1 @@
+{"text": "I have worn Platex for years because I can count on a consistent fit as well as comfort.  The lace on this one is bit more pronounced than I anticipated and is best worn under a loose top.", "sentiment": "negative", "topics": {"1": "0.3026408", "3": "0.20295054", "4": "0.19079123", "6": "0.27965042"}}

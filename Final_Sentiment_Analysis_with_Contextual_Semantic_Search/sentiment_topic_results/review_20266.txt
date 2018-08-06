@@ -1,0 +1,1 @@
+{"text": "I own 4 of these trees, if that says anything about what I think of them.A fine shoe tree at a reasonable price.  Ergonomic shape holds the shoe in a natural position while the shoes rest/dry.", "sentiment": "negative", "topics": {"0": "0.0674698", "1": "0.14659116", "2": "0.38789275", "3": "0.08458541", "4": "0.14283541", "6": "0.1634726"}}

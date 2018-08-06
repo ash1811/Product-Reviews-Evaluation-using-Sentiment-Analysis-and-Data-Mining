@@ -1,0 +1,1 @@
+{"text": "Super comfy, super cute!  After wearing these around for a little while, I've decided that these Reef flip flops are going to become a summer staple for me.  Love these!  I want more!", "sentiment": "negative", "topics": {"1": "0.49488926", "2": "0.14512353", "3": "0.29559547", "5": "0.045697805"}}

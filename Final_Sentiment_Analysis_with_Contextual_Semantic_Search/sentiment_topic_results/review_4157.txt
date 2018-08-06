@@ -1,0 +1,1 @@
+{"text": "Very well made sturdy pants. All the jerzee products should last for years.Washes well, warm and comfy.Especialyl like that are made in the USA.", "sentiment": "negative", "topics": {"1": "0.53924006", "3": "0.1605116", "4": "0.104415275", "5": "0.16717367"}}

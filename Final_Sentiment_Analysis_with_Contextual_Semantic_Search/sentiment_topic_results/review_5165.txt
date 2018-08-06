@@ -1,0 +1,1 @@
+{"text": "I loved the durability and style of the shoe.  It ran very large and wide.  Sorry that it did not fit my foot.  I adore the style.", "sentiment": "positive", "topics": {"0": "0.010993144", "1": "0.41208124", "2": "0.21900739", "3": "0.011009938", "4": "0.3248997", "5": "0.01101876", "6": "0.010989805"}}

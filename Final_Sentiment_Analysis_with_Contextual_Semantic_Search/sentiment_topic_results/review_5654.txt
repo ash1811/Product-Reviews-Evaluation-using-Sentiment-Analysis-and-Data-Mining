@@ -1,0 +1,1 @@
+{"text": "It fit perfectly.  Will definitely be wearing it year round under jackets and without a jacket in the Spring and Summer.", "sentiment": "negative", "topics": {"0": "0.011936553", "1": "0.4210926", "2": "0.21681903", "3": "0.22492479", "4": "0.011909761", "5": "0.101411276", "6": "0.011906009"}}

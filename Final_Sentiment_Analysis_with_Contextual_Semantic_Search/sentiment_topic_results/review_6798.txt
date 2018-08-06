@@ -1,0 +1,1 @@
+{"text": "Beautifully made shirt, but material is very heavy and thick like denim, so is not suitable as officewear. Not as fitted as I would like, but a dressmaker can always add darts for a more slender look. Washes and irons well.", "sentiment": "negative", "topics": {"0": "0.09118612", "1": "0.32221466", "2": "0.10633852", "5": "0.32786012", "6": "0.13993439"}}

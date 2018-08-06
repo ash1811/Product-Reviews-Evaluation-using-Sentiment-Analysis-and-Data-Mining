@@ -1,0 +1,1 @@
+{"text": "este producto es muy bueno diria q excelente asi que muchas gracias por todo es una buena mercancia y medida esperada", "sentiment": "positive", "topics": {"1": "0.11831009", "2": "0.37033948", "3": "0.059725314", "4": "0.4310933"}}

@@ -1,0 +1,1 @@
+{"text": "I was waiting to have a bad odor from these panties because other people's reviews spoke about a fragrance. I didn't detect a bad odor and they were exactly what I ordered", "sentiment": "positive", "topics": {"0": "0.295698", "1": "0.30583945", "2": "0.01022429", "3": "0.09908913", "4": "0.010214938", "5": "0.010327352", "6": "0.26860684"}}

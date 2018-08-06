@@ -1,0 +1,1 @@
+{"text": "I have purchased these before and they did not disappoint!!!  Beautiful product in both design and craftsmanship! The square cut of the Swarovski crystal exceptional!!", "sentiment": "positive", "topics": {"0": "0.011930634", "1": "0.28876004", "2": "0.3106585", "3": "0.011935421", "4": "0.011940138", "5": "0.27636713", "6": "0.08840813"}}

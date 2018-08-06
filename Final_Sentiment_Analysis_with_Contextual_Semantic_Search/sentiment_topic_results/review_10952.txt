@@ -1,0 +1,1 @@
+{"text": "I was really excited to see a product that would fit a DD but I should have known better. There is no way these will fit a true DD. I'm not happy with the fit at all. MAYBE they would be good for a C cup but that would be it.", "sentiment": "negative", "topics": {"1": "0.5156731", "3": "0.2117775", "4": "0.07007583", "5": "0.0628421", "6": "0.12816745"}}

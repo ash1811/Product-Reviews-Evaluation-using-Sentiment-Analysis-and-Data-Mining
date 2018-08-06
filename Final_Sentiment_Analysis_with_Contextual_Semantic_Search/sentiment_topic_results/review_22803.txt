@@ -1,0 +1,1 @@
+{"text": "I bought these for work and they fit great and perform great. They are a little rough when first bought, but after a few washes they are just fine. They have a good thickness to them as well (i.e. not cheaply made).", "sentiment": "negative", "topics": {"1": "0.538382", "2": "0.19929531", "4": "0.07693605", "5": "0.16265364"}}

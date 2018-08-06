@@ -1,0 +1,1 @@
+{"text": "THE STYLE IS NICE , BUT IT'S A LITTLE SNUG.  I SHOULD HAVE ORDERED THE NEXT SIZE.  I DO WEAR IT THOUGH.", "sentiment": "positive", "topics": {"0": "0.014309238", "1": "0.42891192", "2": "0.014304531", "3": "0.014372249", "4": "0.16704173", "5": "0.014334409", "6": "0.3467259"}}

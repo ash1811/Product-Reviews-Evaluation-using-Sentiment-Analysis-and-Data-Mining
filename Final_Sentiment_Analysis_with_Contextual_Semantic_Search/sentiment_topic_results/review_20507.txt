@@ -1,0 +1,1 @@
+{"text": "It takes a little patience to master at first but it works to quickly remove watch links and shorten the band.", "sentiment": "positive", "topics": {"0": "0.01103495", "1": "0.36191905", "2": "0.28570083", "3": "0.011018923", "4": "0.3082612", "5": "0.011044141", "6": "0.011020953"}}

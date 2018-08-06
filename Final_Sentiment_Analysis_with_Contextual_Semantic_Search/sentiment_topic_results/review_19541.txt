@@ -1,0 +1,1 @@
+{"text": "After having these as long as I have, I got 2 pairs expecting something more. They are not as comfortable & the elastic over the ball of the shoe doesn't have much give.", "sentiment": "positive", "topics": {"0": "0.08104356", "1": "0.48126632", "2": "0.13680567", "3": "0.16861561", "4": "0.11316479"}}

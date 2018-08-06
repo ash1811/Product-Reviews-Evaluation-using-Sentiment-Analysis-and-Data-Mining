@@ -1,0 +1,1 @@
+{"text": "Very pleased with purchase. Sizing was good.I am satisfied with the quality of the product. Shipping was prompt. I have not washed jacket yet so I do not know what happens after that.", "sentiment": "negative", "topics": {"1": "0.27516335", "2": "0.07589415", "3": "0.109893456", "4": "0.19546105", "5": "0.24610785", "6": "0.08853531"}}

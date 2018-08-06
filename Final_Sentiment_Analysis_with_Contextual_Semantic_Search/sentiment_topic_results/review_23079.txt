@@ -1,0 +1,1 @@
+{"text": "This hat provides enough shade to be called a sunbrella. I like everything about it, fit, shade & color. I will reorder it in another color too.", "sentiment": "negative", "topics": {"0": "0.15210707", "1": "0.24461351", "2": "0.10311845", "4": "0.3525995", "6": "0.13071634"}}

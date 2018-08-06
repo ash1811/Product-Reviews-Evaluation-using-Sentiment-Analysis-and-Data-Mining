@@ -1,0 +1,1 @@
+{"text": "My son loves it because its from Lego I was able to adjust it to my sons arm perfectly. He loves the colors and extra Lego pieces to add on he feels like he's such a big boy.", "sentiment": "negative", "topics": {"1": "0.399951", "2": "0.23975256", "3": "0.18774888", "6": "0.15101378"}}

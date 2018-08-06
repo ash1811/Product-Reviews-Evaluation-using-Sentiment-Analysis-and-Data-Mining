@@ -1,0 +1,1 @@
+{"text": "Don't even think it was the same type. Says it is a certain brand and that is not true or there is no marking I've seen as that brand. Connis...", "sentiment": "negative", "topics": {"0": "0.10847947", "1": "0.011052545", "2": "0.011021946", "3": "0.51169306", "4": "0.26933435", "5": "0.011046673", "6": "0.07737191"}}

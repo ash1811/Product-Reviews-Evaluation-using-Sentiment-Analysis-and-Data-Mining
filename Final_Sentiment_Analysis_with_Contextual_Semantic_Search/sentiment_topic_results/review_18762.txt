@@ -1,0 +1,1 @@
+{"text": "The Darth Vader Light Saber was GREAT. Grandson loved it as it was different than all the other's he has. GOOD QUALITY, Safe to use. Excellent Price.", "sentiment": "negative", "topics": {"0": "0.35388857", "1": "0.2879816", "2": "0.075563386", "4": "0.25730544"}}

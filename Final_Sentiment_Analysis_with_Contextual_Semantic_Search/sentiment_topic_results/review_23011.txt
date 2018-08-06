@@ -1,0 +1,1 @@
+{"text": "Nice shorts, more for wearing out somewhere nice, meaning not as sporty, fits great, price great, took two weeks to get to my son but worth it when he got them", "sentiment": "negative", "topics": {"0": "0.26434395", "1": "0.4944144", "2": "0.07747574", "3": "0.14112163"}}

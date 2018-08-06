@@ -1,0 +1,1 @@
+{"text": "These fruit of the loom shirts are average thickness but very comfortable. quality made, like the pocket, and price is nice! very happy!!", "sentiment": "negative", "topics": {"0": "0.010227581", "1": "0.609563", "2": "0.10366015", "3": "0.010224318", "4": "0.12550046", "5": "0.13058533", "6": "0.01023919"}}

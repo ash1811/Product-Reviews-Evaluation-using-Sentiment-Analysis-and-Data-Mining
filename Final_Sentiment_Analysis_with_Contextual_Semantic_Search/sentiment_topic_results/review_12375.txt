@@ -1,0 +1,1 @@
+{"text": "A very comfortable sandal that you can wear all day long.  The yoga mat feel gives you much more cushioning to walk longer in the sandal.", "sentiment": "negative", "topics": {"0": "0.20706402", "1": "0.62326175", "5": "0.13149443"}}

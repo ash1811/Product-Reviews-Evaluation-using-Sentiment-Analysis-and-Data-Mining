@@ -1,0 +1,1 @@
+{"text": "This Baggallini backpack is really cute but alas it was too small for me.  I don't carry a ton of stuff but as the other reviewers pointed out it barely holds a wallet, phone, cosmetic bag and misc. lipstick, comb etc.", "sentiment": "negative", "topics": {"0": "0.10745189", "1": "0.16683386", "2": "0.1951196", "3": "0.3409912", "4": "0.065935746", "5": "0.1174344"}}

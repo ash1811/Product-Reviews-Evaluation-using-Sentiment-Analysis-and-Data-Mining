@@ -1,0 +1,1 @@
+{"text": "I have exceptionally large breasts and this bra was way too padded for me to try to use. I was excited because very few strapless bras are made in my size.", "sentiment": "negative", "topics": {"0": "0.010217594", "1": "0.10635865", "2": "0.010215495", "3": "0.7527498", "4": "0.010286089", "5": "0.099940576", "6": "0.01023178"}}

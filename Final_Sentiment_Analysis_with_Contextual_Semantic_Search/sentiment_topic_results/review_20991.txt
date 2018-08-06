@@ -1,0 +1,1 @@
+{"text": "These seemed like others I have purchased in the past but as soon as I started walking they rolled down.  I had to buy replacement nylons at a gas station since I was on the way to a wedding.  Dissappointed.", "sentiment": "positive", "topics": {"1": "0.18731359", "2": "0.16574965", "3": "0.3132703", "5": "0.3121968"}}

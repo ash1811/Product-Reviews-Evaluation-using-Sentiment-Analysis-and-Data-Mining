@@ -1,0 +1,1 @@
+{"text": "I like them. they are so cute and great for all season. I would get more for my dad and brother.", "sentiment": "positive", "topics": {"0": "0.014335262", "1": "0.4253986", "2": "0.014348875", "3": "0.30851", "4": "0.014298597", "5": "0.014358468", "6": "0.20875017"}}

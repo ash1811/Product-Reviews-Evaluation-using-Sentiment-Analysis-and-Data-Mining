@@ -1,0 +1,1 @@
+{"text": "Feels nice and soft, but because it is one size fits all, too large since I am short.", "sentiment": "positive", "topics": {"0": "0.20661359", "1": "0.42099467", "2": "0.013109982", "3": "0.32015145", "4": "0.0130723035", "5": "0.01301525", "6": "0.013042786"}}

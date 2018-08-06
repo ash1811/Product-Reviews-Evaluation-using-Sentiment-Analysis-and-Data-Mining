@@ -1,0 +1,1 @@
+{"text": "A dead ringer for the Rolex  Submariner.  Same two-tone band and blue face.  Watch is sturdy and appears to be good quality.  If it only lasts a few years, it's worth the money.  My wife loves it.  I bought the man's version, less than $90.", "sentiment": "negative", "topics": {"1": "0.409841", "2": "0.05730839", "3": "0.18325241", "4": "0.2815462", "6": "0.05701097"}}

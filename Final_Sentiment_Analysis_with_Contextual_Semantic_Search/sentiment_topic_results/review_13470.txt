@@ -1,0 +1,1 @@
+{"text": "A life-long favorite that never disappoints. Strong & hard-wearing & worn with a sports-coat the color works well & is suitable for most occasions.", "sentiment": "positive", "topics": {"0": "0.21421954", "1": "0.35474274", "2": "0.0102161495", "3": "0.10801629", "4": "0.010229115", "5": "0.01023841", "6": "0.29233775"}}

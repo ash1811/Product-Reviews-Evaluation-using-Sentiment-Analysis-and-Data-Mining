@@ -1,0 +1,1 @@
+{"text": "This fit husbands and my snorkel equipment and husbands fins are extra long. Comfy to wear and easy to carry on plane.", "sentiment": "negative", "topics": {"0": "0.10078044", "1": "0.18796158", "2": "0.11422874", "3": "0.074060455", "4": "0.42759854", "5": "0.08511187", "6": "0.010258359"}}

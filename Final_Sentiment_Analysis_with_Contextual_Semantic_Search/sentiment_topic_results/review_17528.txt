@@ -1,0 +1,1 @@
+{"text": "This watch has more functions than I need, which can only be a plus. It looks nice, keeps acurate time. I like the band and the digital/analog display. If the battery last half as long as promised this well be an excellent purchase.", "sentiment": "negative", "topics": {"0": "0.1815214", "1": "0.43849114", "2": "0.11484237", "4": "0.16769208", "6": "0.08438758"}}

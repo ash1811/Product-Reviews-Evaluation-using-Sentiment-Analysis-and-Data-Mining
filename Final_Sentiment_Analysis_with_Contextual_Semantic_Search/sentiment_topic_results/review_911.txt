@@ -1,0 +1,1 @@
+{"text": "Well made, quality flip flops that hold up to wear and tear, look great, and are extremely comfortable. True to size, and by far the best flip flops I've ever owned.", "sentiment": "positive", "topics": {"0": "0.07632416", "1": "0.45181945", "2": "0.1445039", "3": "0.3078268"}}

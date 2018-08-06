@@ -1,0 +1,1 @@
+{"text": "These are good shoes at an excellent price. The inner lining is a little rough and, in my case, required a fair amount of breaking in.", "sentiment": "negative", "topics": {"0": "0.26276156", "1": "0.22939447", "2": "0.37358302", "5": "0.10742509"}}

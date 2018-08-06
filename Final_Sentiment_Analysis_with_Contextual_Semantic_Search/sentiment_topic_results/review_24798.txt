@@ -1,0 +1,1 @@
+{"text": "These shorts have no logo on them (which is why I bought them) however they are a little loose fitting. No problem.", "sentiment": "negative", "topics": {"0": "0.15939184", "1": "0.013047866", "2": "0.18304251", "3": "0.60543525", "4": "0.013025449", "5": "0.013034731", "6": "0.013022396"}}

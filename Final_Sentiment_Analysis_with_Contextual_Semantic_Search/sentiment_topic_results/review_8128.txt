@@ -1,0 +1,1 @@
+{"text": "I love these flip flops! I wear a 7 or 7.5 and the Reef size 7 fits perfect. They are very comfy and my favorites!!", "sentiment": "negative", "topics": {"0": "0.22779836", "1": "0.37789512", "2": "0.109282725", "3": "0.14374551", "4": "0.12078013", "5": "0.010242743", "6": "0.010255447"}}

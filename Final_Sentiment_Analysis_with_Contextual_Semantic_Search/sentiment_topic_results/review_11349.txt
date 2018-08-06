@@ -1,0 +1,1 @@
+{"text": "After trying these on the first time, I took another look at the box to make sure these were mens. I aint exactly &#34;John Holmes&#34; but these could use a little more room in the ol front pouch.", "sentiment": "negative", "topics": {"0": "0.4849164", "1": "0.14697887", "2": "0.068762235", "3": "0.2797872"}}

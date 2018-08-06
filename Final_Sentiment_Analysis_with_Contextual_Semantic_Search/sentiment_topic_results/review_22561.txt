@@ -1,0 +1,1 @@
+{"text": "Husband loved it didnt want me to take it off super turn on cant beat the price for a special nite!!!", "sentiment": "negative", "topics": {"0": "0.13837256", "1": "0.42285687", "2": "0.20842515", "3": "0.011017129", "4": "0.19731516", "5": "0.010999685", "6": "0.011013476"}}

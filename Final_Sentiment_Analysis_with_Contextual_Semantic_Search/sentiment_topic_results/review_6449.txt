@@ -1,0 +1,1 @@
+{"text": "These socks fit so comfortably! They are my favorite pair and can be worn when you run or work out!", "sentiment": "negative", "topics": {"0": "0.014302927", "1": "0.2733193", "2": "0.014305731", "3": "0.21880937", "4": "0.014338535", "5": "0.33098066", "6": "0.13394347"}}

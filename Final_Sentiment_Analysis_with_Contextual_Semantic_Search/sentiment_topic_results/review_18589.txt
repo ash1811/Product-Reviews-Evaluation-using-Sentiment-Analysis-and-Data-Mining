@@ -1,0 +1,1 @@
+{"text": "This coat is VERY HEAVY.  Great for heavy rain, but not something you would wear \"just in case.\"  Be advised that it runs very LARGE, I would strongly recommend ordering a size down.", "sentiment": "negative", "topics": {"1": "0.25977564", "2": "0.23723769", "3": "0.36711848", "6": "0.11438733"}}

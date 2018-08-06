@@ -1,0 +1,1 @@
+{"text": "Wish I had listened to the other reviews! The shoes just seemed REALLY too tight when I tried on my regular size. They will stretch! Even if you have wide feet like me. Great product otherwise!", "sentiment": "negative", "topics": {"1": "0.40268636", "2": "0.13506117", "5": "0.29274124", "6": "0.14795212"}}

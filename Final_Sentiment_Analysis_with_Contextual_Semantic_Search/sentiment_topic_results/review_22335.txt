@@ -1,0 +1,1 @@
+{"text": "If you want socks that let your feet breathe well and handle moisture and feel good?  This is a good choice.  No complaints.  I recommend it for anyone, just understand that it looks weird.  But, I take comfort over perception any day.", "sentiment": "negative", "topics": {"1": "0.33406624", "3": "0.073974654", "4": "0.24164228", "5": "0.17995894", "6": "0.15840316"}}

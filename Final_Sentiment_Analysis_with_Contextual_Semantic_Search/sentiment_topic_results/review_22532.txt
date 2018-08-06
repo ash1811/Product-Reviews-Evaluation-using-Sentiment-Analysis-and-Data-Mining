@@ -1,0 +1,1 @@
+{"text": "very satisfied at the results I got. My braclets looks like nice now and wearable. Although their is a slight smell but after a good rinse and you air it out a couple of hours, your good to go!", "sentiment": "negative", "topics": {"1": "0.39815187", "3": "0.13317475", "4": "0.07036946", "5": "0.25022689", "6": "0.13301252"}}

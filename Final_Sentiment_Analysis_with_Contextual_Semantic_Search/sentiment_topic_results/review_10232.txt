@@ -1,0 +1,1 @@
+{"text": "This is a very nice, shiny pendant chain. It enhances the look of any pendant I put on it and will accomodate a pendant with a small bale. I would certainly recommend these chains.", "sentiment": "negative", "topics": {"1": "0.4322688", "4": "0.24079463", "5": "0.24258251", "6": "0.059075054"}}

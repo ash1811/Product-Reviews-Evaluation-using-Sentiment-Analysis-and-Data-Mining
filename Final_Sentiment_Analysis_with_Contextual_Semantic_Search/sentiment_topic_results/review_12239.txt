@@ -1,0 +1,1 @@
+{"text": "they're the right lenght also warm, but i'm not crazy about the quality of the stitching. it's good enough for the price i think :-)", "sentiment": "negative", "topics": {"0": "0.01021456", "1": "0.60490876", "2": "0.010206943", "3": "0.010221874", "4": "0.22373508", "5": "0.13050322", "6": "0.010209583"}}

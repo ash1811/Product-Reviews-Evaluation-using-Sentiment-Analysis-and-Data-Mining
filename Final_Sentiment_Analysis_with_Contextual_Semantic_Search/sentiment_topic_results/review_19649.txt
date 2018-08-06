@@ -1,0 +1,1 @@
+{"text": "Awesome shoes! It fits perfect! I needed brown shoes to add to my wardrobe and this was perfect. I highly recommend these slip on shoes. They're very sharp and women love them!", "sentiment": "negative", "topics": {"0": "0.07238956", "1": "0.35420552", "2": "0.34871024", "4": "0.20321682"}}

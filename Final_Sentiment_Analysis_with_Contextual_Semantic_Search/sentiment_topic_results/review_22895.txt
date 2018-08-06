@@ -1,0 +1,1 @@
+{"text": "cheap feeling shorts with drawstrings that break very easily.the shorts are also very loose, so order a size smaller than you normally would", "sentiment": "negative", "topics": {"0": "0.3412998", "3": "0.3668906", "4": "0.09172109", "5": "0.07552623", "6": "0.10543661"}}

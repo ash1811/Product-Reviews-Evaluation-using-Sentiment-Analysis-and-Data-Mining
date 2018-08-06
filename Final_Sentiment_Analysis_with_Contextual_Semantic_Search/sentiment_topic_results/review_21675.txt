@@ -1,0 +1,1 @@
+{"text": "I love this. Yes, it is very, very small..so beware. It is not exactly what I expected, but when I put it on...I fell in love with it.", "sentiment": "negative", "topics": {"0": "0.15651414", "1": "0.010236132", "2": "0.4162532", "3": "0.010221322", "4": "0.16588993", "5": "0.23067324", "6": "0.010212023"}}

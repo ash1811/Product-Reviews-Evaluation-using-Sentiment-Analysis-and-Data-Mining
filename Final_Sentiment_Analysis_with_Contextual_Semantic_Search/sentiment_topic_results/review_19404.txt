@@ -1,0 +1,1 @@
+{"text": "Great shirt for keeping you dry. Plus, I love that it is very light when I work up a sweat. You can buy this same shirt at Walmart for the same or less, but I wanted to give it a try. It is a great buy and works well.", "sentiment": "positive", "topics": {"1": "0.73025006", "4": "0.1585526", "6": "0.08387703"}}

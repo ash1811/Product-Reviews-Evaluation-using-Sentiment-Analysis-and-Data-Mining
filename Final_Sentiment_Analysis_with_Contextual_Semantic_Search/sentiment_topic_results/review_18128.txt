@@ -1,0 +1,1 @@
+{"text": "This is a very nice and simple watch. The only problem is that it is so tiny! I'm not really a fan of tiny watches but I will wear it since I already have it", "sentiment": "negative", "topics": {"0": "0.11061501", "1": "0.010256669", "2": "0.19661228", "3": "0.39411876", "4": "0.18989733", "5": "0.010238133", "6": "0.088261805"}}

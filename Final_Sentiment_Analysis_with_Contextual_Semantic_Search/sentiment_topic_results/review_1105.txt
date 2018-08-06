@@ -1,0 +1,1 @@
+{"text": "The earrings are delightful. I put them on the same day they came in and have worn them everyday since.", "sentiment": "negative", "topics": {"0": "0.015971763", "1": "0.29210925", "2": "0.015884725", "3": "0.015888963", "4": "0.3607947", "5": "0.01596672", "6": "0.28338394"}}

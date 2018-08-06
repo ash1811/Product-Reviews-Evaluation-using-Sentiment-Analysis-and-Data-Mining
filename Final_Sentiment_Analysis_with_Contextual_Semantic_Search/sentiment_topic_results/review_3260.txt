@@ -1,0 +1,1 @@
+{"text": "I've worn Levi's since I was a kid and they never disappoint.  Well made, sized to fit me, wear well.", "sentiment": "positive", "topics": {"1": "0.33265254", "2": "0.11133608", "3": "0.14789045", "5": "0.19853747", "6": "0.19049548"}}

@@ -1,0 +1,1 @@
+{"text": "Love a good indiglo timex watch. Been wearing them most of my life. Nice for everyday at work, and dressy enough to wear when out at night...", "sentiment": "negative", "topics": {"0": "0.07428519", "1": "0.50168127", "2": "0.16397724", "4": "0.1511634", "6": "0.089796014"}}

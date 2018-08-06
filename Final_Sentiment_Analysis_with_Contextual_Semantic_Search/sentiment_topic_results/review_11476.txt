@@ -1,0 +1,1 @@
+{"text": "Soft and comfortable !!! This is a good t-shirt that is very soft and looks good at the same time. I will buy more when I get the chance.", "sentiment": "positive", "topics": {"0": "0.011945199", "1": "0.9284317", "2": "0.011914384", "3": "0.011923177", "4": "0.011922527", "5": "0.01193149", "6": "0.011931556"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for my mother and she loves them a lot. She said that they feel very comfortable. These are perfect for her because now she can chase after the dog and don't have to worry about falling out of her slippers! LOL", "sentiment": "positive", "topics": {"0": "0.22945067", "1": "0.39527878", "3": "0.17798598", "6": "0.1685923"}}

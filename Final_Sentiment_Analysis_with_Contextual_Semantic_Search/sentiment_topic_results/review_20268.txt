@@ -1,0 +1,1 @@
+{"text": "I've had this backpack for quite a while. I've used it a lot for traveling. I've never had any problems with it. It's comfortable and holds what I need it to.", "sentiment": "negative", "topics": {"0": "0.12501182", "1": "0.2226808", "2": "0.16101755", "3": "0.40312037", "6": "0.071306355"}}

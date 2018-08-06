@@ -1,0 +1,1 @@
+{"text": "La calidad, el material, el color, todo asi tal cual lo esperaba. Para lo que pague por esta prenda estoy mas que conforme, lo recomiendo totalmente.", "sentiment": "negative", "topics": {"0": "0.14041045", "1": "0.23883155", "2": "0.022101728", "3": "0.08471227", "4": "0.23754834", "5": "0.27110118"}}

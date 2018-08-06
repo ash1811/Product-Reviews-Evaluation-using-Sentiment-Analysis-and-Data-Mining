@@ -1,0 +1,1 @@
+{"text": "Watch face too small, can't see a thing.  I ended up giving this away.  There are better choices, thank you", "sentiment": "negative", "topics": {"0": "0.28775623", "1": "0.011102391", "2": "0.5929388", "3": "0.0110137975", "4": "0.075171724", "5": "0.011002319", "6": "0.011014717"}}

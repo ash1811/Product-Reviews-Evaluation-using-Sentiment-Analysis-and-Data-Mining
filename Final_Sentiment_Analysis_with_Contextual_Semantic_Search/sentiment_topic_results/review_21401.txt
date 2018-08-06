@@ -1,0 +1,1 @@
+{"text": "My husband will wear no other.  Izod is sometime difficult to find in stores so we purchase them on-line.  The fit is always as it should be.", "sentiment": "negative", "topics": {"0": "0.010216987", "1": "0.4438079", "2": "0.2219505", "3": "0.010220883", "4": "0.21919647", "5": "0.010243225", "6": "0.084364004"}}

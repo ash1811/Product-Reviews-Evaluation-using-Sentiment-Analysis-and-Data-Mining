@@ -1,0 +1,1 @@
+{"text": "my 3 year old loves these. They fit well and are comfy for her. They wash well. They haven't shrunk yet. I've only washed them 4-5 times so far so I would say they are just right!", "sentiment": "negative", "topics": {"0": "0.15453693", "1": "0.40351647", "2": "0.080843836", "3": "0.1398197", "4": "0.16627598", "6": "0.048483443"}}

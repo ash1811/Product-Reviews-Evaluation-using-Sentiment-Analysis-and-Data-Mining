@@ -1,0 +1,1 @@
+{"text": "I used this as a picnic tote on a beach vacation recently. It worked great. The handles and the canvas fabric are sturdy.", "sentiment": "negative", "topics": {"0": "0.17986543", "1": "0.17770942", "2": "0.42356962", "3": "0.11318118", "4": "0.011004866", "5": "0.08365366", "6": "0.011015832"}}

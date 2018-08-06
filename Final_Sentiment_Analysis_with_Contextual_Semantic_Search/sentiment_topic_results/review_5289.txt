@@ -1,0 +1,1 @@
+{"text": "I love these.  I tuck them in my purse and use them when traveling or going to friends homes who prefer you not wear shoes. I wear them on the plane (not to the bathroom though) Very comfy cushy bottom. Fit just right", "sentiment": "negative", "topics": {"0": "0.16548087", "1": "0.10408833", "2": "0.20755355", "4": "0.15161557", "5": "0.21566768", "6": "0.14936166"}}

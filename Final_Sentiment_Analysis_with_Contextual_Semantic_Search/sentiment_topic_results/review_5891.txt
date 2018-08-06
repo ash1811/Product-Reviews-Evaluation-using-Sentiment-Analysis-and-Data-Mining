@@ -1,0 +1,1 @@
+{"text": "It was a big hit with my 4 yr. old. He loved it.  It fits perfectly with room for growing.  The price was really good too.", "sentiment": "negative", "topics": {"0": "0.24720514", "1": "0.61288106", "2": "0.10413987"}}

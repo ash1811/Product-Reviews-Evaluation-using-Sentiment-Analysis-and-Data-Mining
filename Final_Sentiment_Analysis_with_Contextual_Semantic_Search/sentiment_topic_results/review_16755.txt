@@ -1,0 +1,1 @@
+{"text": "Bought these for my mom ( she loves hello kitty EVERYTHING )These pajamas are Soooooo soft and great for summer and winter! My mom loves these. Great price", "sentiment": "positive", "topics": {"0": "0.37420484", "1": "0.22556119", "2": "0.07035598", "4": "0.14593178", "6": "0.16886735"}}

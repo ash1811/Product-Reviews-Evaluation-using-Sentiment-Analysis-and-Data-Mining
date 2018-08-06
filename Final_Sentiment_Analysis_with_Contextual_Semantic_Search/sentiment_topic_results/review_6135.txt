@@ -1,0 +1,1 @@
+{"text": "They fit great except around the legs....there seems to be a little too much material.  However, this is not at all noticeable when worn under something.", "sentiment": "negative", "topics": {"0": "0.09546159", "1": "0.58864814", "2": "0.010290834", "3": "0.010242154", "4": "0.08979099", "5": "0.010219052", "6": "0.1953473"}}

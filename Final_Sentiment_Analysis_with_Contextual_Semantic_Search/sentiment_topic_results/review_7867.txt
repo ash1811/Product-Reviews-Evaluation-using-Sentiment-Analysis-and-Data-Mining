@@ -1,0 +1,1 @@
+{"text": "Fits his Flinstone feet but he had to work into it with high-instep (top part of foot below ankle bones) but is expected because they come up kinda high.  They are very comfortable for him.", "sentiment": "negative", "topics": {"0": "0.07288271", "1": "0.30325943", "3": "0.4058787", "4": "0.19270894"}}

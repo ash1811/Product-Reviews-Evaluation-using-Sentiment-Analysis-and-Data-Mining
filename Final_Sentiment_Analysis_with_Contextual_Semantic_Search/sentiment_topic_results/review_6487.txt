@@ -1,0 +1,1 @@
+{"text": "This is the most comfortable hiking sock I've bought in a while. They have the cushion of a wool sock without the weight and the heat.They grip your feet and don't move about.", "sentiment": "positive", "topics": {"0": "0.13870418", "1": "0.10411895", "2": "0.07640002", "3": "0.15960887", "4": "0.22169046", "5": "0.23020864", "6": "0.069268905"}}

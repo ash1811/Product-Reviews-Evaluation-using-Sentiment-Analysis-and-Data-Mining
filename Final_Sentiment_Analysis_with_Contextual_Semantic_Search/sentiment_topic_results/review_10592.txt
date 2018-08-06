@@ -1,0 +1,1 @@
+{"text": "The pants are of Haggar quality but the only complaint I have is that the white in the pockets shoes when you wear them.", "sentiment": "negative", "topics": {"0": "0.014296141", "1": "0.47886556", "2": "0.32358098", "3": "0.014325162", "4": "0.014285813", "5": "0.1403541", "6": "0.014292261"}}

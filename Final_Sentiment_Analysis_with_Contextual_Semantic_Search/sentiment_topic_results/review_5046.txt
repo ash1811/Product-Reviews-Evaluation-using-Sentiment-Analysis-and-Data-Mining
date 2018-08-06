@@ -1,0 +1,1 @@
+{"text": "Have been wearing birks for years,and still love them. Always fit the same , wear the same. Just wish they made more selection in bigger sizes.", "sentiment": "negative", "topics": {"0": "0.11768928", "1": "0.5207391", "3": "0.32576165"}}

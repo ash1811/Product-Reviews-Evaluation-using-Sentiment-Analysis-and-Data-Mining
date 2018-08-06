@@ -1,0 +1,1 @@
+{"text": "It looks just like it was pictured, but I don't like folding it up.  Too often the earrings hang down on each other.", "sentiment": "negative", "topics": {"0": "0.01305697", "1": "0.28349087", "2": "0.44221085", "3": "0.22211482", "4": "0.013011756", "5": "0.013064414", "6": "0.013050347"}}

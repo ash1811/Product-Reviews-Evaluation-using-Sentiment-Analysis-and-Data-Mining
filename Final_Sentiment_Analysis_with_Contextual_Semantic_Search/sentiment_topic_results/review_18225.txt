@@ -1,0 +1,1 @@
+{"text": "The tiny screws that hold the lid on fell out within a month of purchase.Poorly made", "sentiment": "positive", "topics": {"0": "0.014299675", "1": "0.15072098", "2": "0.29361352", "3": "0.1233049", "4": "0.38946202", "5": "0.014302579", "6": "0.014296266"}}

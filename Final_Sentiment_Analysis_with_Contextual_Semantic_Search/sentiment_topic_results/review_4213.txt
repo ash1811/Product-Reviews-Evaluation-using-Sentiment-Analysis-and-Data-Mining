@@ -1,0 +1,1 @@
+{"text": "These shoes.... ugh.  They are so cute.  And the quality is great.  And they fit awesome. And they don't come off easily.  I regret this purchase 0%!!!!! Love them.", "sentiment": "negative", "topics": {"1": "0.43499184", "2": "0.15063055", "4": "0.1024817", "5": "0.28322908"}}

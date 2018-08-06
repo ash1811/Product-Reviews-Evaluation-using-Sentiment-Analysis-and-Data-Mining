@@ -1,0 +1,1 @@
+{"text": "As is typical with a new bandana, this one is stiff and scratchy.  I expect that it will soften up just fine with a few washings, just as it should.  The color and weave is nice, as is the pattern.", "sentiment": "positive", "topics": {"1": "0.21026598", "2": "0.40972772", "3": "0.12566058", "5": "0.08786894", "6": "0.14856485"}}

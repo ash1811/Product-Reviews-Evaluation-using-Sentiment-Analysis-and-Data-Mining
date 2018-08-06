@@ -1,0 +1,1 @@
+{"text": "I was looking for a shoe that would take me from inside to outside. This is perfect for me! Great fashionable shoe!", "sentiment": "positive", "topics": {"0": "0.011927416", "1": "0.4252546", "2": "0.259736", "3": "0.2673184", "4": "0.01192151", "5": "0.011922996", "6": "0.011919051"}}

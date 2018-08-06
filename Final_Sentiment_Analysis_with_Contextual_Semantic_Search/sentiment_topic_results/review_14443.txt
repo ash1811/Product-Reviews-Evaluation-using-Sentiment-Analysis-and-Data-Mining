@@ -1,0 +1,1 @@
+{"text": "this shoe is not comfortable like running shoe,the sole is hard , and flat , and little heavy .", "sentiment": "negative", "topics": {"0": "0.2361001", "1": "0.2399473", "2": "0.12517178", "3": "0.013049169", "4": "0.012988822", "5": "0.22525302", "6": "0.14748982"}}

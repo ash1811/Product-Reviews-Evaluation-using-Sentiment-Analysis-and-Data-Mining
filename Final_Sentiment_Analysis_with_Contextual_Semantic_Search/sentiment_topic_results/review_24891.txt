@@ -1,0 +1,1 @@
+{"text": "i liked the idea of getting a pair of converse b/c my now fiancee has a pair he wears all the time. i found this pink pair and i love them.", "sentiment": "negative", "topics": {"1": "0.09516722", "2": "0.09078898", "3": "0.19613923", "4": "0.45910117", "6": "0.14089257"}}

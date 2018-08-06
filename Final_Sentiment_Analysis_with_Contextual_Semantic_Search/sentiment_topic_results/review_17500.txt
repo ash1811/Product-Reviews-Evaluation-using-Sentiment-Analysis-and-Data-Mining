@@ -1,0 +1,1 @@
+{"text": "A nice well made and well thought out wristwatch for the money. Well featured, easy to understand manual walks you through setting this watch up to best suit you.", "sentiment": "positive", "topics": {"1": "0.5825009", "2": "0.13486515", "5": "0.12594447", "6": "0.13401671"}}

@@ -1,0 +1,1 @@
+{"text": "For Lee's jeans, I wear w32L32. but this pants look like 34L. It is tooo long..but the cloth is really cozy.", "sentiment": "negative", "topics": {"0": "0.7017788", "1": "0.14932665", "2": "0.010212752", "3": "0.010222925", "4": "0.010211364", "5": "0.010245723", "6": "0.10800179"}}

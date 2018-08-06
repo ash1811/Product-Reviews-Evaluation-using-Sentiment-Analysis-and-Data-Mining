@@ -1,0 +1,1 @@
+{"text": "This item is smaller than the first impression I had when viewing the description. I would not order such jewelry again.", "sentiment": "negative", "topics": {"0": "0.34997323", "1": "0.11858616", "2": "0.013026982", "3": "0.13904965", "4": "0.0130613595", "5": "0.25241998", "6": "0.11388264"}}

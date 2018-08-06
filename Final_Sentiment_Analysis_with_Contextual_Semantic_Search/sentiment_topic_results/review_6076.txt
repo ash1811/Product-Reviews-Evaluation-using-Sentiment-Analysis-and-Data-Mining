@@ -1,0 +1,1 @@
+{"text": "Cute boot cover the ankle flat and comfortable, they look just like the picture and they are true to size.", "sentiment": "positive", "topics": {"0": "0.01193763", "1": "0.38841158", "2": "0.01192815", "3": "0.35576874", "4": "0.20800978", "5": "0.011939526", "6": "0.012004615"}}

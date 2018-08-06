@@ -1,0 +1,1 @@
+{"text": "I need a wire-free bra right now due to costochondritis.  This definitely has the support, but turns the girls into a cone shape.  It looked absurd under a shirt, so had to end it back.", "sentiment": "negative", "topics": {"0": "0.100693844", "2": "0.12711434", "3": "0.33664885", "4": "0.10044471", "5": "0.14303754", "6": "0.18409571"}}

@@ -1,0 +1,1 @@
+{"text": "Its not what I expected but I'll Keep it anyway. Was really looking for something warmer and more protective for winter use but wasn't sure this Balaclava would fill the bill.", "sentiment": "positive", "topics": {"1": "0.26474562", "2": "0.2310005", "3": "0.20802844", "5": "0.13921243", "6": "0.14017634"}}

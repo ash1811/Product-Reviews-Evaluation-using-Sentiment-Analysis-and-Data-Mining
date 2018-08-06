@@ -1,0 +1,1 @@
+{"text": "Great pair of long lasting sandals.  If you never owned a pair, it will take a short while to get used to them but once you are, great sandal.  Comfortable, long lasting, well made sandals.", "sentiment": "negative", "topics": {"0": "0.07598", "1": "0.6229826", "2": "0.13883299", "4": "0.14267994"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for my daughter.  She swims for exercise every morning and needed a new suit.  It was a perfect Christmas present for her.", "sentiment": "negative", "topics": {"0": "0.17081243", "1": "0.20657212", "2": "0.14809334", "3": "0.3464611", "4": "0.107520804", "5": "0.010265343", "6": "0.010274844"}}

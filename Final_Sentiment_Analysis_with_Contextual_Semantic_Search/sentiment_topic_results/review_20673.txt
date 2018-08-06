@@ -1,0 +1,1 @@
+{"text": "So far so good, been worn everyday for almost a month by my son and it hasn't shown any wear. Colors are good, we will be buying more as gifts to nieces and nephews.", "sentiment": "negative", "topics": {"0": "0.37412074", "1": "0.31661898", "2": "0.09793134", "4": "0.08064952", "6": "0.11277332"}}

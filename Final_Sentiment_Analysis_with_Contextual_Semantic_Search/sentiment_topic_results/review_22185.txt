@@ -1,0 +1,1 @@
+{"text": "I love this gown!! Was amazed to find it for such a geat price.  Very comfortable, loose, and pretty.  Highly recommend it for lounging around the house.", "sentiment": "positive", "topics": {"0": "0.25692946", "1": "0.28790474", "2": "0.10607276", "3": "0.10588197", "4": "0.22406898"}}

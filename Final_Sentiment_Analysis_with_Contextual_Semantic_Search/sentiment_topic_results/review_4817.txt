@@ -1,0 +1,1 @@
+{"text": "The pic is a bit off of what you get, they are alot more see through and the top strip is more like one inch wide not that big.Also they kept rolling down my leg all day!", "sentiment": "negative", "topics": {"1": "0.10329497", "2": "0.46503162", "3": "0.20937786", "4": "0.06337309", "5": "0.14207356"}}

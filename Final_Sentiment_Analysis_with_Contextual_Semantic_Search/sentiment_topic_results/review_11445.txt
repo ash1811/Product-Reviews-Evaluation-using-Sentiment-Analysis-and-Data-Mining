@@ -1,0 +1,1 @@
+{"text": "These are great T  not the cheapest  but long lasting like Hanes other shirts.  I usually get the Hanes products", "sentiment": "positive", "topics": {"0": "0.0119302645", "1": "0.37679777", "2": "0.237831", "3": "0.011923382", "4": "0.011938135", "5": "0.337632", "6": "0.011947431"}}

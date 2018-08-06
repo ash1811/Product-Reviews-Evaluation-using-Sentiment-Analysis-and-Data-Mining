@@ -1,0 +1,1 @@
+{"text": "Fun and flirty...just the perfect purchase to make you feel sexy.  Easy to wear and easy to come off.  Can't ask for much more.", "sentiment": "negative", "topics": {"3": "0.5929944", "4": "0.36482397"}}

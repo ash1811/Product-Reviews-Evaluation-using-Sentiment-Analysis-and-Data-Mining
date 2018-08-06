@@ -1,0 +1,1 @@
+{"text": "It is wonderful that they make thermal underwear in such soft silk, light weight and able to do the job.  Great to have for the winter.", "sentiment": "negative", "topics": {"0": "0.01100998", "1": "0.6275451", "2": "0.011012324", "3": "0.23764573", "4": "0.090710215", "5": "0.011010947", "6": "0.011065647"}}

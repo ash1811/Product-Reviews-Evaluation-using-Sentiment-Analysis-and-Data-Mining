@@ -1,0 +1,1 @@
+{"text": "Very pretty and a sure classic. Have been wearing it almost every day since it arrived. Received a lot of compliments too.", "sentiment": "negative", "topics": {"0": "0.47971198", "1": "0.010233741", "2": "0.4691266", "3": "0.010214578", "4": "0.010255471", "5": "0.0102420915", "6": "0.01021557"}}

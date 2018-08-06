@@ -1,0 +1,1 @@
+{"text": "Keds fit weird & usually run very small.  I wear a 9.5M or sometimes wide.  Ordered these in a 10 wide.  They were huge, yet the same size in the leather is tight.  Go figure.", "sentiment": "positive", "topics": {"1": "0.39970556", "2": "0.12108014", "3": "0.38811216", "4": "0.07064904"}}

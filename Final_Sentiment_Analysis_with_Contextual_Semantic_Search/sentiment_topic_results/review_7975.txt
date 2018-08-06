@@ -1,0 +1,1 @@
+{"text": "Everything about these spa sandals is great! I wear an 8.5 and they fit fine. They're a tad big, but not too noticeable. They are super comfy after a long day on my feet and am thinking of getting another pair. I say indulge!!!", "sentiment": "negative", "topics": {"0": "0.11930138", "1": "0.3438526", "2": "0.16631249", "4": "0.16690612", "6": "0.19168903"}}

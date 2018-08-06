@@ -1,0 +1,1 @@
+{"text": "It does what we wanted it to do.  It works well for winter and summer.  Many reviews objected to the smell and quality of the fabric but I don't find any issues with either.", "sentiment": "negative", "topics": {"0": "0.13021019", "1": "0.54128164", "4": "0.079542354", "5": "0.22209895"}}

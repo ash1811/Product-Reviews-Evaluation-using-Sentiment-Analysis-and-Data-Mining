@@ -1,0 +1,1 @@
+{"text": "I really like these boots. The fit is better than I expected and support my feet and ankles great. A truly well made boot with quality leather and materials. A little stiff first couple of days but feel great after that. I really like that they are made in the USA.", "sentiment": "positive", "topics": {"1": "0.5204099", "2": "0.09286832", "4": "0.36757442"}}

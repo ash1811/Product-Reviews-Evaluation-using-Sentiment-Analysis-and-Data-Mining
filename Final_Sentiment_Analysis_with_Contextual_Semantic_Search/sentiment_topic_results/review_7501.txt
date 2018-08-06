@@ -1,0 +1,1 @@
+{"text": "With 304 5 star reviews so far, what more can I say?  This ranks right up there with being either one of the best or the best purchase I've ever made from Amazon.  I love this jean jacket.", "sentiment": "negative", "topics": {"2": "0.29033816", "3": "0.17430976", "4": "0.40900058", "6": "0.10584133"}}

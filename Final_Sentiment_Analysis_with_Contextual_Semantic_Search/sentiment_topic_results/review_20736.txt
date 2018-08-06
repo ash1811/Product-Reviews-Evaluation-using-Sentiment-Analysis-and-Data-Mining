@@ -1,0 +1,1 @@
+{"text": "its paper made.. dont get this .. better off going to your local dollar store for this. get much better somewhere else.", "sentiment": "negative", "topics": {"0": "0.14163837", "1": "0.16492425", "2": "0.657582"}}

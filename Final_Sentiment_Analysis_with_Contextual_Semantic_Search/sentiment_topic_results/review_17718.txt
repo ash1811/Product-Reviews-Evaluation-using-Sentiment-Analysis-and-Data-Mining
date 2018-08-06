@@ -1,0 +1,1 @@
+{"text": "Priced nicely but sent it back because it was to small for my wrist. I have big wrists and need a big face on my watches.", "sentiment": "negative", "topics": {"0": "0.010999147", "1": "0.5615573", "2": "0.13159217", "3": "0.011002079", "4": "0.011006493", "5": "0.1803007", "6": "0.093542136"}}

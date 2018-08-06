@@ -1,0 +1,1 @@
+{"text": "I already have Timex watch before. Some how I need a new one. It is a convenient, comfortable and beautiful for its price. The expandable band makes it look much better.", "sentiment": "negative", "topics": {"0": "0.20886542", "1": "0.12239071", "2": "0.12124336", "3": "0.2324903", "4": "0.164954", "6": "0.142099"}}

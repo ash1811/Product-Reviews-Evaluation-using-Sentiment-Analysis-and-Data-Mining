@@ -1,0 +1,1 @@
+{"text": "My son loves these socks. He's a sneakerhead and style is very important to him. Made in the USA so I will only buy wigwam. For comfort, style and fit. The best!!!", "sentiment": "negative", "topics": {"1": "0.39114627", "5": "0.29056504", "6": "0.28457934"}}

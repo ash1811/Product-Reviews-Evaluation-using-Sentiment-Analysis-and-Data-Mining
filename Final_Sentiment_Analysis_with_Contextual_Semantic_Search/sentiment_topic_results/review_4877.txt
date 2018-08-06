@@ -1,0 +1,1 @@
+{"text": "grandson loves it. they really like the indglo option. wears it to bed and uses it as a night lite under the covers", "sentiment": "negative", "topics": {"0": "0.18915273", "1": "0.30044395", "2": "0.14138281", "3": "0.010233698", "4": "0.3382915", "5": "0.010235492", "6": "0.010259852"}}

@@ -1,0 +1,1 @@
+{"text": "Not only are these coveralls warm, they are very cozy.  These wewe a gift to my 88 year old Father and he was thrilled to get them.  I will never keep him in the house now...", "sentiment": "negative", "topics": {"0": "0.13376097", "1": "0.19765317", "3": "0.41001052", "5": "0.12171728", "6": "0.12002061"}}

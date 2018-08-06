@@ -1,0 +1,1 @@
+{"text": "this is my second Lee jean. i like the Walnut colour. it's perfect fit and comfortable. i will go back to buy more.", "sentiment": "negative", "topics": {"0": "0.010221235", "1": "0.5890957", "2": "0.010226305", "3": "0.010227436", "4": "0.010216318", "5": "0.24543127", "6": "0.12458173"}}

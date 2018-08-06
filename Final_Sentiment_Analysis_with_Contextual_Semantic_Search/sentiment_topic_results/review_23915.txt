@@ -1,0 +1,1 @@
+{"text": "These t-shirts are a great fit.  Long enough to stay put and don't shrink in the wash.  Just wish they came in more than a 2 pack.", "sentiment": "negative", "topics": {"0": "0.19670478", "1": "0.7521287", "2": "0.010229277", "3": "0.010214321", "4": "0.010257105", "5": "0.010243873", "6": "0.010221904"}}

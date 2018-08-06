@@ -1,0 +1,1 @@
+{"text": "Nice backpack. Very durable. Although it doesn't have water bottle holders which bothered me so if you're one to Cary a water bottle around with you, I wouldn't suggest it. Otherwise it's a pretty nice backpack and used mine for over a year of school.", "sentiment": "negative", "topics": {"0": "0.07158949", "1": "0.40608075", "2": "0.4661722", "4": "0.03890854"}}

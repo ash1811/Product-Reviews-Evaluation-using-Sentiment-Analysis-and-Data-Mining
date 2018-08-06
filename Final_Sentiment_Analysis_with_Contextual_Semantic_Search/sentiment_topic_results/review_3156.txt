@@ -1,0 +1,1 @@
+{"text": "I have always depended on Levi's and they last forever. My 17 year old son says &#34; these jeans are awesome &#34;", "sentiment": "positive", "topics": {"0": "0.13563429", "4": "0.1088979", "5": "0.3509359", "6": "0.37582982"}}

@@ -1,0 +1,1 @@
+{"text": "Once you put these slipper on they will never leave your foot around the house. Don't say I didn't warn you.", "sentiment": "positive", "topics": {"0": "0.013013325", "1": "0.013015248", "2": "0.012995423", "3": "0.3223035", "4": "0.23435026", "5": "0.0130440155", "6": "0.3912782"}}

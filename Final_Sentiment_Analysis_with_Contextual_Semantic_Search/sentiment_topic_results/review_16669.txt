@@ -1,0 +1,1 @@
+{"text": "Order a size,up..always with this style and brand as my son has bought several pairs and loves them.good quality..arrived on time well packaged", "sentiment": "negative", "topics": {"0": "0.2893387", "2": "0.26695478", "3": "0.16072658", "4": "0.18172167", "6": "0.08209499"}}

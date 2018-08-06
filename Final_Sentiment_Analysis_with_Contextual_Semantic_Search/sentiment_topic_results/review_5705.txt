@@ -1,0 +1,1 @@
+{"text": "Really pleased with these sweats. Great for laying around the house. Told my wife, that it feels like my legs are surounded by clouds.", "sentiment": "negative", "topics": {"1": "0.49900898", "4": "0.09151589", "6": "0.37127206"}}

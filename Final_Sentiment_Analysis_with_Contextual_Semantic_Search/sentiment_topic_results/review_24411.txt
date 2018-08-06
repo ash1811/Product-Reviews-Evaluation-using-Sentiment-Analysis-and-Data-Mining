@@ -1,0 +1,1 @@
+{"text": "It makes me feel warm in winter. And It is has good quality and design. I will recommend it to my friends.", "sentiment": "positive", "topics": {"0": "0.014344187", "1": "0.55336106", "2": "0.014309192", "3": "0.23806839", "4": "0.014320192", "5": "0.15123881", "6": "0.014358157"}}

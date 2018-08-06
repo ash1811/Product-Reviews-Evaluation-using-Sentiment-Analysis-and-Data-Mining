@@ -1,0 +1,1 @@
+{"text": "nice quality have had mines for a while now and have had no issues very shiny and the perfect length", "sentiment": "negative", "topics": {"0": "0.017900445", "1": "0.44026506", "2": "0.017879788", "3": "0.017934553", "4": "0.017883584", "5": "0.16691886", "6": "0.32121775"}}

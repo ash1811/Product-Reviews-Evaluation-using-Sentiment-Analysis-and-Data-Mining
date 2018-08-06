@@ -1,0 +1,1 @@
+{"text": "I purchased this for my 4 year old daughter who wears between a 3t-4t clothing. They seem to run small, because it just fits her and I am still going to have to try to stretch it out before my friend's wedding in October.", "sentiment": "negative", "topics": {"0": "0.11355305", "1": "0.275644", "3": "0.34408498", "5": "0.24520938"}}

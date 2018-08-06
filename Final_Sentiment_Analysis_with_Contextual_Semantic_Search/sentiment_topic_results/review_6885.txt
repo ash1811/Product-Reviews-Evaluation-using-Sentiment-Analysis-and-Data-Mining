@@ -1,0 +1,1 @@
+{"text": "This is the warmest sweatshirt I have ever owned. Front pockets keep my hands very warm too.", "sentiment": "positive", "topics": {"0": "0.28328446", "1": "0.31123388", "2": "0.013020647", "3": "0.23328616", "4": "0.013069818", "5": "0.01301997", "6": "0.13308504"}}

@@ -1,0 +1,1 @@
+{"text": "I used to weigh 230 LBS, so when I was looking to replace my fat pants with something nicer, This was it asnd you can't get the 501's anywhere near the price from the factory.", "sentiment": "negative", "topics": {"1": "0.44301406", "2": "0.10004799", "4": "0.05191189", "5": "0.22824232", "6": "0.16168693"}}

@@ -1,0 +1,1 @@
+{"text": "Wool is modestly flame resistant, is moderately warm even when wet and I like mittens. These work  for me at a reasonable price. they aren't wind proof and I'm sure they will wear out in time though you can sew yarn into the wear points.", "sentiment": "positive", "topics": {"0": "0.42326304", "1": "0.12888753", "2": "0.15383436", "3": "0.19396886", "4": "0.08859478"}}

@@ -1,0 +1,1 @@
+{"text": "carpenter jeans with phone pocket built in for my phone in protective case. easily accesable phone pocket is the best feature of these jeans and they are durable", "sentiment": "negative", "topics": {"1": "0.3641175", "2": "0.12587674", "4": "0.15342179", "5": "0.26539564", "6": "0.074355364"}}

@@ -1,0 +1,1 @@
+{"text": "I have wide feet so I am always looking for comfortable dress shoes. These wides are really wide. They are also a bit squeaky and scratch pretty easily. I have had Bostonians, Clarks, and Florsheims which I have preferred over the years.", "sentiment": "positive", "topics": {"0": "0.16630885", "1": "0.4586856", "2": "0.0665386", "4": "0.2192574", "5": "0.076205574"}}

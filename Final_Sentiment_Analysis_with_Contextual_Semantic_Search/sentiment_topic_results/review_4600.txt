@@ -1,0 +1,1 @@
+{"text": "Ordered for my Mom-in-law so washed them before I took them to her.  She said they are very comfortable.", "sentiment": "negative", "topics": {"0": "0.1691441", "1": "0.39590716", "2": "0.017883714", "3": "0.018016348", "4": "0.36307338", "5": "0.017904531", "6": "0.018070778"}}

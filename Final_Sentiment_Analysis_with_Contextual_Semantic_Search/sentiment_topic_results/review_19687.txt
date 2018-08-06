@@ -1,0 +1,1 @@
+{"text": "needed this for my buddy for his Deathstroke costume. bought the mask and had to use this over the face to cover the rest. and i admit. it worked ! this was awesome! material got a lil itchy after a while .. but i guess it would be expected", "sentiment": "positive", "topics": {"0": "0.287073", "1": "0.24899378", "4": "0.25032523", "6": "0.19313829"}}

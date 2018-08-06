@@ -1,0 +1,1 @@
+{"text": "I struggle with finding what feels good but found this bra to be just what I was looking for.I would recommend it to others.", "sentiment": "negative", "topics": {"0": "0.011943564", "1": "0.01196437", "2": "0.0119331805", "3": "0.63379216", "4": "0.12544475", "5": "0.19296558", "6": "0.011956344"}}

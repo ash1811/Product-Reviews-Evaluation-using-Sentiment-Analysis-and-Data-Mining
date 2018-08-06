@@ -1,0 +1,1 @@
+{"text": "I normally love Clark Sandals but  these were uncomfortable.They didn't fit my foot well so I returned them.  I ordered something else.", "sentiment": "positive", "topics": {"0": "0.12916578", "1": "0.5024759", "2": "0.1921068", "3": "0.010254605", "4": "0.14557624", "5": "0.010213956", "6": "0.0102066565"}}

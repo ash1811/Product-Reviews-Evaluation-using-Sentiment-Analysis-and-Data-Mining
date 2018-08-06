@@ -1,0 +1,1 @@
+{"text": "Great fit for a great price. This bra provides the substantial support that I need. I really like the subtle design which makes the bra pretty without showing through anything. I will get more of these.", "sentiment": "positive", "topics": {"1": "0.38086903", "2": "0.07984661", "3": "0.31472766", "4": "0.1397712", "6": "0.07174086"}}

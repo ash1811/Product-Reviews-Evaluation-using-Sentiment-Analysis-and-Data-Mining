@@ -1,0 +1,1 @@
+{"text": "I extremely like my Laredo Paris Western Boot. These are my first Western Boots and the first item in which I'll put together a Western outfit that I'll use when shooting my cowboy .45 at the range.", "sentiment": "negative", "topics": {"0": "0.10290016", "2": "0.1276422", "3": "0.17824884", "4": "0.119071506", "5": "0.17507562", "6": "0.2908318"}}

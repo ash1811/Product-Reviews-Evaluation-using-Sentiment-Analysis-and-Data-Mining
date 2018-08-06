@@ -1,0 +1,1 @@
+{"text": "This was a gift for my boyfriend who travels every week for work. He loves it. He says it fits everything he needs for a 3-4 day trip and it looks nice. Good quality and durable.", "sentiment": "negative", "topics": {"0": "0.13910133", "1": "0.38542214", "2": "0.064540416", "3": "0.09130373", "5": "0.10597733", "6": "0.20682889"}}

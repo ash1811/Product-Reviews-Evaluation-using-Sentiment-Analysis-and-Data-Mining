@@ -1,0 +1,1 @@
+{"text": "The only complaint I have about these is the left shoe is a little unglued from the sole right out of the box. Need to get that fixed.", "sentiment": "positive", "topics": {"0": "0.13613918", "1": "0.24581146", "2": "0.10662928", "3": "0.15211563", "4": "0.01195318", "5": "0.011953864", "6": "0.33539745"}}

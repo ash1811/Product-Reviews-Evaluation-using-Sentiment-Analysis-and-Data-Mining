@@ -1,0 +1,1 @@
+{"text": "Made my boobs look pointy and the material was itchy.  I did like the comfort straps, hopefully I can find that feature in a different bra that works for me.", "sentiment": "negative", "topics": {"1": "0.43024957", "2": "0.08134662", "3": "0.17462814", "4": "0.15823117", "6": "0.13869211"}}

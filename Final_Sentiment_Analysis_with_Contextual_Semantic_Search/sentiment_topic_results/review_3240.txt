@@ -1,0 +1,1 @@
+{"text": "These jeans fit true to size.  They are basic comfortable jeans and the tumbled rigid color is dark enough to be able to pair with a sweater and not look too underdressed.", "sentiment": "negative", "topics": {"1": "0.29179308", "2": "0.07245198", "3": "0.1787718", "4": "0.09155015", "5": "0.19573864", "6": "0.1617413"}}

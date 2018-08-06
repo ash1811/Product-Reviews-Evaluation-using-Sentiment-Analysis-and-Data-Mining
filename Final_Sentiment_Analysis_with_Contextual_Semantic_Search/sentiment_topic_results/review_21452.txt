@@ -1,0 +1,1 @@
+{"text": "Got one pair several years ago and decided I needed a second pair.  Very comfortable and wear like iron! I didn't get them because my old ones wore out - nope - just wanted another color and pattern. Warm, wears well, comfortable.", "sentiment": "negative", "topics": {"1": "0.56516564", "5": "0.29326048", "6": "0.121085845"}}

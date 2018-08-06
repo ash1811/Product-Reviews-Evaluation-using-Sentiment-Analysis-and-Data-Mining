@@ -1,0 +1,1 @@
+{"text": "I purchased this for my daughter who is about to start dance and it fits perfectly, and looks really cute! You cannot go wrong with Capezio!", "sentiment": "negative", "topics": {"0": "0.010247398", "1": "0.39952627", "2": "0.21205294", "3": "0.19753017", "4": "0.010212946", "5": "0.0102604", "6": "0.16016984"}}

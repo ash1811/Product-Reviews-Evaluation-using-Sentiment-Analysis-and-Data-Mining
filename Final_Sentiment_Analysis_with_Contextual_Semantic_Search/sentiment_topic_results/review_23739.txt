@@ -1,0 +1,1 @@
+{"text": "Pretty much as described. A great deal and decent quality for three pairs of glasses. Why should you pay more?", "sentiment": "positive", "topics": {"0": "0.16293168", "1": "0.41338146", "2": "0.011011996", "3": "0.3796342", "4": "0.011002151", "5": "0.011046336", "6": "0.010992159"}}

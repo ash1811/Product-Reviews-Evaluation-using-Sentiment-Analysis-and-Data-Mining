@@ -1,0 +1,1 @@
+{"text": "Be careful how you use this. It is plastic of course not metal like the professionals use. The pins do work although they bend easily. Just be careful and all will go swimmingly.", "sentiment": "negative", "topics": {"0": "0.21896607", "1": "0.24095249", "3": "0.3278525", "4": "0.10972888", "6": "0.086494535"}}

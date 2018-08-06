@@ -1,0 +1,1 @@
+{"text": "It's a bit smaller than I expected.  If you're between sizes, order up.  It is comfortable, and the padded staps are nice.", "sentiment": "negative", "topics": {"0": "0.120018534", "1": "0.24632806", "2": "0.012993962", "3": "0.39307344", "4": "0.07697423", "5": "0.012999403", "6": "0.13761243"}}

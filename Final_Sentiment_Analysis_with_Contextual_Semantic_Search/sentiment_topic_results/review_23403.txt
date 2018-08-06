@@ -1,0 +1,1 @@
+{"text": "It came two days after i oredered it. It looks sexy and my boyfriend is gonna love it on me.", "sentiment": "negative", "topics": {"0": "0.49424386", "1": "0.011974432", "2": "0.011932568", "3": "0.011940298", "4": "0.2256129", "5": "0.23237586", "6": "0.011920107"}}

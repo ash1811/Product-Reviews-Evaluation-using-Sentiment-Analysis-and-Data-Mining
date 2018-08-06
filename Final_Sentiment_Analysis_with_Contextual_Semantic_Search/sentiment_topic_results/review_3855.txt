@@ -1,0 +1,1 @@
+{"text": "Had used regular ones -- but saw these instead -- so decided to try.  Did not like it.  (Not sure why I need to enter sooo many words).", "sentiment": "positive", "topics": {"1": "0.25968182", "2": "0.29371864", "4": "0.12701991", "6": "0.29426217"}}

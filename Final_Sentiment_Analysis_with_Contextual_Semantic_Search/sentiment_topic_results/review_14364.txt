@@ -1,0 +1,1 @@
+{"text": "I've been using Kiwi polish for years. They have remained a consistently good product. In the world of rapid change it's good to have  a reliable product.", "sentiment": "negative", "topics": {"0": "0.046389025", "1": "0.108286396", "3": "0.11963052", "4": "0.3747981", "5": "0.2007688", "6": "0.14109181"}}

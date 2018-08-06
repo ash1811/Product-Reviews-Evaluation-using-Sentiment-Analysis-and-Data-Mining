@@ -1,0 +1,1 @@
+{"text": "The young lady who received this watch as a gift is enjoying the watch. It was the correct type and color for her age.", "sentiment": "negative", "topics": {"0": "0.47317946", "1": "0.012008794", "2": "0.26388237", "3": "0.0119088525", "4": "0.21517771", "5": "0.011937606", "6": "0.011905215"}}

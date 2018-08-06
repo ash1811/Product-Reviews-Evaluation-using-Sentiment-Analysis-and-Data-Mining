@@ -1,0 +1,1 @@
+{"text": "Son, wanted them, and he loves them, great true to fit....great quality, color was also liked alot. And as you know, a teen ager is all about style....", "sentiment": "negative", "topics": {"1": "0.4370722", "3": "0.36610925", "4": "0.16497059"}}

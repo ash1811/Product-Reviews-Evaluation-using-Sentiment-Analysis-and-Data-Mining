@@ -1,0 +1,1 @@
+{"text": "These moccasin boots are adorable. I love them. They are soft and of great quality. They ran a little tight in the calf and Im a small person.", "sentiment": "negative", "topics": {"1": "0.30647516", "3": "0.36668405", "4": "0.22412013", "6": "0.075811766"}}

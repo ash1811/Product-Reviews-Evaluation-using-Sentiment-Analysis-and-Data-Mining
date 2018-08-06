@@ -1,0 +1,1 @@
+{"text": "Excellent quality leather and workmanship. The color is a deep purple or what I would call eggplant and beautiful. There are enough compartments for quite a bit of stuff. Worth the money.", "sentiment": "negative", "topics": {"1": "0.3435618", "2": "0.18895993", "3": "0.22416277", "5": "0.22070129"}}

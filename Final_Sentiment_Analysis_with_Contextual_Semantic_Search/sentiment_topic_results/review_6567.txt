@@ -1,0 +1,1 @@
+{"text": "I almost returned them because they are really, really thick but thought they will work well in boots and save the feet", "sentiment": "negative", "topics": {"0": "0.011941674", "1": "0.40891698", "2": "0.14675823", "3": "0.011967637", "4": "0.3965304", "5": "0.011948557", "6": "0.011936505"}}

@@ -1,0 +1,1 @@
+{"text": "Ordered a large size and probably would be more comfortable with a medium. I am 5-3 and 135 lbs. But will keep them and tuck inside socks. No problems with snagging. Works well with jeans.", "sentiment": "positive", "topics": {"0": "0.0773372", "1": "0.38730773", "3": "0.27362353", "5": "0.18004726", "6": "0.06733346"}}

@@ -1,0 +1,1 @@
+{"text": "I have used the Hagerty just once, so far, but it did an excellent job at shining the metal jewelry. So far, I am completely satisfied and have only positive comments.", "sentiment": "negative", "topics": {"0": "0.2682066", "1": "0.24522133", "2": "0.15389125", "3": "0.10361233", "5": "0.13444293", "6": "0.08508693"}}

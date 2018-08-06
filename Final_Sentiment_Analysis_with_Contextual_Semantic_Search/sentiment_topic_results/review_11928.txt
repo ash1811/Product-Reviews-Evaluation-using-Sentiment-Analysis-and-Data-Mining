@@ -1,0 +1,1 @@
+{"text": "Very comfortable for all-day-wear.Lining does not encroach on the fit. Feel is the same as in unlined pants.", "sentiment": "negative", "topics": {"0": "0.39250734", "1": "0.51811653", "2": "0.017857302", "3": "0.017875828", "4": "0.017875513", "5": "0.017863497", "6": "0.017903982"}}

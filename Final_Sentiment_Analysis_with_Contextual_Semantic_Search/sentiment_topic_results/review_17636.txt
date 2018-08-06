@@ -1,0 +1,1 @@
+{"text": "I love it because it is small, easy to fasten, light weight, and inexpensive.  I had to cut the band for a smaller wrist, but glad I bought the watch.", "sentiment": "negative", "topics": {"1": "0.21380301", "2": "0.09137061", "4": "0.41605493", "5": "0.2500567"}}

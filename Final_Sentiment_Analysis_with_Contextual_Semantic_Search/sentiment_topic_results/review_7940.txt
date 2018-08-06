@@ -1,0 +1,1 @@
+{"text": "As described. Very durable. Has plenty of room , expands fairly well. Would purchase again. Interior roomy and easy to work with for packing.", "sentiment": "positive", "topics": {"0": "0.086673275", "1": "0.6641387", "2": "0.070024766", "4": "0.15227208"}}

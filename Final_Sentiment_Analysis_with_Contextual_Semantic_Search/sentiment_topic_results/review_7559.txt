@@ -1,0 +1,1 @@
+{"text": "The product fits.  After washing I dried it for 15 minutes and hung it to complete the drying.  It fits well, is very well constructed, and in my opinion can be worn at offices that are tie optional.", "sentiment": "negative", "topics": {"0": "0.06930744", "1": "0.24807513", "2": "0.08158352", "3": "0.28081235", "4": "0.07311477", "5": "0.06922037", "6": "0.17788638"}}

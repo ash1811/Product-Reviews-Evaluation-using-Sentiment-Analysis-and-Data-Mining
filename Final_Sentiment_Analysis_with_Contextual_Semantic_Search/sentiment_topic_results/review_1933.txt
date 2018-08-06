@@ -1,0 +1,1 @@
+{"text": "I LOVE these shoes. Minnetonka is a great brand and produce good quality items. I bought another pair of moccasins in black to have from them because I was so in love.", "sentiment": "negative", "topics": {"1": "0.39555803", "2": "0.07966251", "3": "0.33596173", "6": "0.16195136"}}

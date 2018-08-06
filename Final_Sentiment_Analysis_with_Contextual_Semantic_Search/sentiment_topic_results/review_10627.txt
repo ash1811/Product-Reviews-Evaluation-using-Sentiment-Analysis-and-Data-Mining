@@ -1,0 +1,1 @@
+{"text": "I was a little afraid to get it in size small.  But the fits was great.  I love the quality of the material.  It folds so small and that makes it a great jacket to travel with.", "sentiment": "negative", "topics": {"0": "0.0991225", "1": "0.5232318", "2": "0.14420828", "3": "0.20955549"}}

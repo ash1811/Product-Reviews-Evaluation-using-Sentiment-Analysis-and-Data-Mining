@@ -1,0 +1,1 @@
+{"text": "Very good fit but the material around the straps is cheap!  It ripped on the first time I worn the bra!  Am out $18", "sentiment": "negative", "topics": {"0": "0.25789106", "1": "0.35122538", "2": "0.12165319", "3": "0.112134345", "4": "0.011006485", "5": "0.011039818", "6": "0.1350497"}}

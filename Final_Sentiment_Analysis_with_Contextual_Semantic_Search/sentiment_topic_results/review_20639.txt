@@ -1,0 +1,1 @@
+{"text": "Would not purchase again, used this to dye a purse and it ended up with streaks all over it - would not purchase this again.", "sentiment": "negative", "topics": {"0": "0.4068175", "1": "0.011966612", "2": "0.10946277", "3": "0.011941132", "4": "0.01198242", "5": "0.35448316", "6": "0.093346395"}}

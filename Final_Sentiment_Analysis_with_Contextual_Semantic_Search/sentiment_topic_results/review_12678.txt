@@ -1,0 +1,1 @@
+{"text": "The bra seems to be of a good quality, however, the sizing is way too small. I have a variety of bra brands and all in the size that I ordered. I could not begin to close this bra!", "sentiment": "negative", "topics": {"1": "0.25849092", "2": "0.14281635", "3": "0.566895"}}

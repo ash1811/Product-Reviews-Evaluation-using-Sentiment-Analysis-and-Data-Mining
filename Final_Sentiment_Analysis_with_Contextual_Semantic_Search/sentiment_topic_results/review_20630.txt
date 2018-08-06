@@ -1,0 +1,1 @@
+{"text": "I wanted to change the color of some of my awesome danner boots. its works great, but wear gloves, lay down newspaper and don't do it in the nude, the stuff is messy and gets everywhere.", "sentiment": "positive", "topics": {"0": "0.12473336", "1": "0.20311803", "2": "0.25212085", "3": "0.2184275", "4": "0.049186613", "6": "0.14444613"}}

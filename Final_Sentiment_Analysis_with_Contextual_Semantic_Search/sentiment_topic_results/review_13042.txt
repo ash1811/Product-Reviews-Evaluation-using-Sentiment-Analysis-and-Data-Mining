@@ -1,0 +1,1 @@
+{"text": "Very decent cloth, with plenty of material to work with and spot acu digital camo to my gear. Absolutely no complaints.", "sentiment": "positive", "topics": {"0": "0.119763836", "1": "0.43671095", "2": "0.2161498", "3": "0.011009086", "4": "0.09369646", "5": "0.011007852", "6": "0.11166206"}}

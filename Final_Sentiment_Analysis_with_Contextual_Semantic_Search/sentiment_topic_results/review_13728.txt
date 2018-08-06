@@ -1,0 +1,1 @@
+{"text": "these are really nice flip flops.  They fit true to size.  Maybe not quite as comfortable as sanuk or cobian brands - but decent", "sentiment": "negative", "topics": {"1": "0.4030801", "2": "0.20838217", "3": "0.26262018", "6": "0.097322255"}}

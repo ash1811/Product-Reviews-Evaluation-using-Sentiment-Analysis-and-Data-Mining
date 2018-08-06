@@ -1,0 +1,1 @@
+{"text": "These heel cushions were perfect for not only my heels but my Doc Marten Mary Janes which were loose around the heels. They took care of the problems I had with my heels sliding out of my heels and Doc Marten Mary Janes. I can't wait to wear the shoes to test them out.", "sentiment": "negative", "topics": {"2": "0.21244395", "5": "0.33903623", "6": "0.42802057"}}

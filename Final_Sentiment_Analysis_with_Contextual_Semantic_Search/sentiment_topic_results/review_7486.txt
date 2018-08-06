@@ -1,0 +1,1 @@
+{"text": "Bought this for my Dad, who has trouble finding tall sizes that actually fit a tall man. He loves it and wears it often. Thanks Amazon, for carrying such great clothing options!", "sentiment": "negative", "topics": {"0": "0.13490236", "1": "0.25419983", "4": "0.11652515", "5": "0.36608797", "6": "0.11394707"}}

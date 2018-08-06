@@ -1,0 +1,1 @@
+{"text": "I weight 125 and the Med would not even fit over my calfs. I was disapointed with the fit or no fit. The product was nicely made but I am sorry for the miss sizing. Something should be done about the miss information on the sizing.", "sentiment": "negative", "topics": {"1": "0.67013144", "2": "0.06848663", "3": "0.11411553", "4": "0.05645585", "5": "0.07780414"}}

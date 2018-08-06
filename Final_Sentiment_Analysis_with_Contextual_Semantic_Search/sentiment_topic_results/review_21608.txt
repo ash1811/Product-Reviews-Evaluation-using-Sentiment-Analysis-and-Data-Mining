@@ -1,0 +1,1 @@
+{"text": "I use these bubble laces on all of my shoes.  They hold their position better than others that I have tried.  I strongly recommend them for all exercise shoes, not just New Balance.", "sentiment": "positive", "topics": {"0": "0.088801615", "1": "0.1886189", "2": "0.28118935", "3": "0.41457766"}}

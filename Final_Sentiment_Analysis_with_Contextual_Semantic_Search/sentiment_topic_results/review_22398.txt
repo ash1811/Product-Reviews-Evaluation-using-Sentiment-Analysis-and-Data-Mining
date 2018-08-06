@@ -1,0 +1,1 @@
+{"text": "Great value for as many as you get. Really wish they were all white but the price and the product cannot be beat anywhere!", "sentiment": "negative", "topics": {"0": "0.011019618", "1": "0.011050319", "2": "0.122616105", "3": "0.13905174", "4": "0.23659481", "5": "0.4686707", "6": "0.010996724"}}

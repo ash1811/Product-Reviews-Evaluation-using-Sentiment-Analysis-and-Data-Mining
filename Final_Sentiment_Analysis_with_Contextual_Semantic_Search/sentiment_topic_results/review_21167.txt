@@ -1,0 +1,1 @@
+{"text": "My 3 1/2 year old grand son loves to dress up & play super hero's.I think they will be a hit.  Can not speak to quality as yet.", "sentiment": "negative", "topics": {"1": "0.701202", "2": "0.0708791", "5": "0.12777746", "6": "0.074816175"}}

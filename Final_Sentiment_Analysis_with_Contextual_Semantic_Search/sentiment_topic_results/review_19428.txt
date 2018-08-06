@@ -1,0 +1,1 @@
+{"text": "This is the perfect costume. So happy with my order. This will make for a great Halloween costume. Will definitely order from them again next year.", "sentiment": "negative", "topics": {"0": "0.5781548", "1": "0.011026578", "2": "0.011046316", "3": "0.36667824", "4": "0.011049656", "5": "0.011005682", "6": "0.011038743"}}

@@ -1,0 +1,1 @@
+{"text": "The hat is very small, it covers barely to the bottom of my earlobes and I do not have a large head. One size will not fit all. be careful if you have a big head", "sentiment": "negative", "topics": {"0": "0.06740246", "1": "0.32331863", "3": "0.37963793", "4": "0.1254507", "5": "0.08624286"}}

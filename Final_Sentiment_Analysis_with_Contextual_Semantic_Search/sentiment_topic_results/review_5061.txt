@@ -1,0 +1,1 @@
+{"text": "I wear a 7 1/2 wide. Bought these in 38 and they were too long. Returning for a smaller size. Seemed very well made.", "sentiment": "negative", "topics": {"0": "0.10190327", "1": "0.0102625955", "2": "0.010230008", "3": "0.45838758", "4": "0.010213447", "5": "0.3987653", "6": "0.010237816"}}

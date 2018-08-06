@@ -1,0 +1,1 @@
+{"text": "I love the generous fit of this jacket across the shoulders. I've got very wide shoulders so it's hard to find a jacket that fits across the shoulders but isn't super baggy around the waist.", "sentiment": "negative", "topics": {"0": "0.068844855", "1": "0.35172844", "2": "0.18349275", "3": "0.09316111", "4": "0.28911537"}}

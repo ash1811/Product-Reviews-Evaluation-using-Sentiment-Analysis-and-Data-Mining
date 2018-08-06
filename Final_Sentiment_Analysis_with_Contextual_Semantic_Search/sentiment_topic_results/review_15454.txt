@@ -1,0 +1,1 @@
+{"text": "I received it yesterday, and to my delight, i got what i wanted in perfect condition, the glasses are authentic. Look real cool with them on too", "sentiment": "negative", "topics": {"0": "0.27513242", "1": "0.011023125", "2": "0.011029412", "3": "0.56623226", "4": "0.11451451", "5": "0.0110474415", "6": "0.0110208485"}}

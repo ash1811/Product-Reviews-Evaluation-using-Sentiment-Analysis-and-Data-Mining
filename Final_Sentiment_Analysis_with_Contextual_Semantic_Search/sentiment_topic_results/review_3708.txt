@@ -1,0 +1,1 @@
+{"text": "I was so excited to received my sunglasses to have a big disappointment. This sunglasses look like I hit them at the convenient store got $5.00. Don't waste your money. What a disappointment. I doesn't even look like a rayban. I had to sent them back.", "sentiment": "negative", "topics": {"1": "0.43711728", "2": "0.32639432", "4": "0.052695803", "6": "0.16501676"}}

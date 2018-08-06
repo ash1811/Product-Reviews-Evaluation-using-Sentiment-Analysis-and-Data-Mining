@@ -1,0 +1,1 @@
+{"text": "I ordered the purple, the fabric is much stiffer than other pairs of cargo pants I have gotten, they are ok but I don't love them.", "sentiment": "positive", "topics": {"0": "0.011004886", "1": "0.44537404", "2": "0.19388352", "3": "0.011047338", "4": "0.31650993", "5": "0.011174203", "6": "0.011006014"}}

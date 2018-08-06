@@ -1,0 +1,1 @@
+{"text": "I am curvy and these fit great. There is just enough stretch in the thick denim fabric to help make them really comfortable. I am 5'7\" and these are perfect with flat shoes.", "sentiment": "negative", "topics": {"0": "0.07401115", "1": "0.6764843", "2": "0.07743986", "5": "0.07709907", "6": "0.07806247"}}

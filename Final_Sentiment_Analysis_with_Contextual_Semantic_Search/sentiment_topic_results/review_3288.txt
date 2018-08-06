@@ -1,0 +1,1 @@
+{"text": "I bought these Levi's for my husband because we purchased the 550 shorts and love the look. Highly recommend these Levi's.", "sentiment": "negative", "topics": {"0": "0.17458175", "1": "0.28550363", "2": "0.011923297", "3": "0.1046701", "4": "0.22593355", "5": "0.011941846", "6": "0.18544586"}}

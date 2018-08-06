@@ -1,0 +1,1 @@
+{"text": "This was my first pair of Vans. I love the chilli pepper red color with black eyelets and black strings. The  10M fit true to size. I recommend buy this shoe from this seller.", "sentiment": "negative", "topics": {"0": "0.13796683", "1": "0.2884968", "2": "0.13856328", "3": "0.31167543", "6": "0.10962279"}}

@@ -1,0 +1,1 @@
+{"text": "Ordered them as Christmas gift. My friend loved them. The boots look REALLY nice.The color is really nice. They aren't even my style and I was tempted to keep them or order myself a pair.", "sentiment": "positive", "topics": {"0": "0.26611927", "1": "0.26180354", "3": "0.16200696", "4": "0.06176067", "5": "0.2339875"}}

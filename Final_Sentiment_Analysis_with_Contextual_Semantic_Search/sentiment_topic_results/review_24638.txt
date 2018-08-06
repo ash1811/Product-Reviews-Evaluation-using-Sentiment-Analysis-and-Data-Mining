@@ -1,0 +1,1 @@
+{"text": "Capezio makes consistently well fitting and quality ballet apparel. I was not disappointed with this purchase. My daughter was pleased to get something in this color. So far, it has held up well to multiple washings.", "sentiment": "negative", "topics": {"1": "0.544827", "2": "0.1263303", "3": "0.18843515", "6": "0.119939305"}}

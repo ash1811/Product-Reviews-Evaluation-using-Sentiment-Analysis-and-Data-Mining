@@ -1,0 +1,1 @@
+{"text": "These slippers were bought as a replacement for ones that my dogs decided were chew toys. They fit perfectly and are very warm and comfortable. Now just to keep them away from the dogs....", "sentiment": "negative", "topics": {"1": "0.45835766", "2": "0.19892654", "5": "0.17983103", "6": "0.13602301"}}

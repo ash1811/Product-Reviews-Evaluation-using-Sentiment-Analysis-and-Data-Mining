@@ -1,0 +1,1 @@
+{"text": "Read another review and went a size up in inches.  Normally a 36D, I went 38D and the fit is perfect.  Comfortable support all day long.", "sentiment": "negative", "topics": {"0": "0.16690692", "1": "0.33104223", "3": "0.21960157", "5": "0.099471755", "6": "0.16614597"}}

@@ -1,0 +1,1 @@
+{"text": "The design is great as expectedWhat I've noticed is the size is small than usual. My size is 10.5 and despite this one is 11 but it feels somewhat smallYou need to oversize by 1 if you want to feel comfortable", "sentiment": "positive", "topics": {"0": "0.23971777", "1": "0.13913251", "2": "0.14713135", "3": "0.25695258", "4": "0.12494276", "6": "0.08590527"}}

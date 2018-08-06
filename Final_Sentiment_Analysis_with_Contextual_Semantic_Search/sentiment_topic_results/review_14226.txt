@@ -1,0 +1,1 @@
+{"text": "Just didn't quite fit me right. They are attractive, and would probably work for someone else, but they aren't as easy to slip on as I'd hoped.", "sentiment": "negative", "topics": {"0": "0.10103836", "1": "0.50581115", "2": "0.08416226", "3": "0.010252555", "4": "0.1355341", "5": "0.010212271", "6": "0.15298928"}}

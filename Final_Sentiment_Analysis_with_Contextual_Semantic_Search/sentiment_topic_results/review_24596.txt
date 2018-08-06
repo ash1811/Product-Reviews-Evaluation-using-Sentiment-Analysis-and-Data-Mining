@@ -1,0 +1,1 @@
+{"text": "Dance attire for my little girl can be challenging to find locally. Fits well and Ilove how smooth the fabric is.", "sentiment": "negative", "topics": {"0": "0.0103103", "1": "0.2755802", "2": "0.010237413", "3": "0.100290105", "4": "0.30026126", "5": "0.2089505", "6": "0.09437025"}}

@@ -1,0 +1,1 @@
+{"text": "these shoes are actually pretty nice, i didn't expect them to be delivered early. they are good for sunny weather, very comfy too! i love them !", "sentiment": "negative", "topics": {"0": "0.010241318", "1": "0.23325782", "2": "0.2034793", "3": "0.010229969", "4": "0.14799523", "5": "0.38454464", "6": "0.010251671"}}

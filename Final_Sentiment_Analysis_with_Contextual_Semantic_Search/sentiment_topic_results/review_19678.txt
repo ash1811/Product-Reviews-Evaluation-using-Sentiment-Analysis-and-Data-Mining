@@ -1,0 +1,1 @@
+{"text": "This mask was everything I could hope for. It fits well, it's cozy...a bit itchy, but I expected that. Lovely product.", "sentiment": "negative", "topics": {"1": "0.4842297", "2": "0.13637313", "4": "0.18637441", "5": "0.095164634", "6": "0.07875143"}}

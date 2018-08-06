@@ -1,0 +1,1 @@
+{"text": "After a few days wearing these slippers, they form nicely to you feet.", "sentiment": "negative", "topics": {"0": "0.020495614", "1": "0.31818295", "2": "0.020435791", "3": "0.020426147", "4": "0.34185365", "5": "0.020497784", "6": "0.2581081"}}

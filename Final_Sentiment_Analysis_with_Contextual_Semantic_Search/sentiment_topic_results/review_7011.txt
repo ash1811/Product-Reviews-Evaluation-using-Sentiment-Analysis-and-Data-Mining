@@ -1,0 +1,1 @@
+{"text": "I bought these for my dad becasue hes a welder and goes through boots like crazy. He also has a wide foot and these fit him really well. I would def recomnd.", "sentiment": "negative", "topics": {"1": "0.3473301", "4": "0.22644113", "5": "0.24716829", "6": "0.15641922"}}

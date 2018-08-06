@@ -1,0 +1,1 @@
+{"text": "I love these leg warmers. I wear them all year round. My calfs get cold when sitting at my desk or watch TV so i like to wear these they work well.", "sentiment": "negative", "topics": {"2": "0.08512962", "3": "0.5681155", "4": "0.083766855", "5": "0.15299335", "6": "0.094069526"}}

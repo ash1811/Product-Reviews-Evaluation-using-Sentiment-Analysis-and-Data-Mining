@@ -1,0 +1,1 @@
+{"text": "Like&#8230;.really tight. I thought I had gotten a women's shoe by mistake or something. Maybe I did. I don't know. My foot barely fit in it and I've had a lot of size 8 Reef sandals&#8230;weird.", "sentiment": "negative", "topics": {"0": "0.045285843", "1": "0.36899185", "2": "0.07174781", "3": "0.12367879", "4": "0.19602239", "5": "0.06463412", "6": "0.12963915"}}

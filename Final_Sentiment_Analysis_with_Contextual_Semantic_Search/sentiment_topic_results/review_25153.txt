@@ -1,0 +1,1 @@
+{"text": "I gave this to my wife for mothers day and she loved it.  The detail on the cameo is excellent and the size is just right.", "sentiment": "positive", "topics": {"0": "0.011965031", "1": "0.36069244", "2": "0.16216017", "3": "0.011972083", "4": "0.011948429", "5": "0.011948787", "6": "0.42931306"}}

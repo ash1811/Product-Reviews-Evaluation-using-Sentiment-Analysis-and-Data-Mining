@@ -1,0 +1,1 @@
+{"text": "my husband has parkinsonism - these shoes are great --forming stability in his walk-they are also wonderful for a man with a long wide foot.", "sentiment": "positive", "topics": {"0": "0.17571771", "1": "0.23307848", "2": "0.09731324", "3": "0.01024595", "4": "0.46310353", "5": "0.01026188", "6": "0.010279207"}}

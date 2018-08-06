@@ -1,0 +1,1 @@
+{"text": "If you are looking for short toe socks, just buy these. Fit extremely well and the quality is high. Buy. Uh buy.", "sentiment": "negative", "topics": {"0": "0.117997006", "1": "0.57857144", "2": "0.26510078"}}

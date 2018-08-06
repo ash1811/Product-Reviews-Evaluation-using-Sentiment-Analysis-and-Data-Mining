@@ -1,0 +1,1 @@
+{"text": "Wrong color came in the mail. Did not match the description that was on the site. Be careful. Great quality though.", "sentiment": "positive", "topics": {"0": "0.13600855", "1": "0.2651389", "2": "0.27744004", "3": "0.28553423", "4": "0.012002904", "5": "0.011931942", "6": "0.01194346"}}

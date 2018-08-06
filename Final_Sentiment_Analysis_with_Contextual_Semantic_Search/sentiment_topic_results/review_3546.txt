@@ -1,0 +1,1 @@
+{"text": "My sister checked my mother's older bras, and I bought the right size for her. This bra, however, didn't give her much support.", "sentiment": "positive", "topics": {"0": "0.10997545", "2": "0.14791866", "3": "0.7039101"}}

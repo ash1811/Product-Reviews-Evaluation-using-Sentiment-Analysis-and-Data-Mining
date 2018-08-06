@@ -1,0 +1,1 @@
+{"text": "My husband loves the pants, they fit great and he loves both styles.  We can't find them in our stores here and i'm sure I'll be ordering more.  Haggars is a good brand and wears well. Our package arrived in ample time.", "sentiment": "negative", "topics": {"0": "0.20855245", "1": "0.45623398", "2": "0.053489212", "3": "0.15130597", "4": "0.11897109"}}

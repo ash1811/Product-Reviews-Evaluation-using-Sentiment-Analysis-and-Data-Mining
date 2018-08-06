@@ -1,0 +1,1 @@
+{"text": "Not to be ordered for someone in warmer climate or somewhere with off and on cold.  Very heavy.  Needs to be in a cold area.", "sentiment": "negative", "topics": {"0": "0.013021189", "1": "0.32626688", "2": "0.116628096", "3": "0.21003813", "4": "0.013092591", "5": "0.013045968", "6": "0.30790716"}}

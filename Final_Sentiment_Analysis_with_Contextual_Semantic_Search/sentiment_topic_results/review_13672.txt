@@ -1,0 +1,1 @@
+{"text": "These shoes are nice quality.  I got 9M.. They are a bit narrow so they aren't the most comfortable for me, but they are very nice shoes.  They look great.  I thought they didn't have ties due to the picture but they do.. the leather laces are good at staying tied.", "sentiment": "negative", "topics": {"1": "0.6541944", "2": "0.25544766", "5": "0.06649587"}}

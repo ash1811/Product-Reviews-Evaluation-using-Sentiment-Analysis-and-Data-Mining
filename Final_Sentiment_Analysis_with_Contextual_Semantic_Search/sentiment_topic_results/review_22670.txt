@@ -1,0 +1,1 @@
+{"text": "Promptly delivered. Well creased.  The material is sturdy. Crease remains even after laundering.  Strong material! The pants fit very well!", "sentiment": "negative", "topics": {"0": "0.1543019", "1": "0.46015427", "4": "0.2321925", "6": "0.12649688"}}

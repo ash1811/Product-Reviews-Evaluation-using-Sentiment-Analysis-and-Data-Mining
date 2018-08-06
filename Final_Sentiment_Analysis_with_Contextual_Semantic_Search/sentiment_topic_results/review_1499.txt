@@ -1,0 +1,1 @@
+{"text": "I like this bag. is nice, aesthetically appealing and looks perfect for me on weekends. recommended for young people (girls)", "sentiment": "positive", "topics": {"0": "0.15326327", "1": "0.4517244", "2": "0.16982827", "3": "0.011004933", "4": "0.011006456", "5": "0.011019139", "6": "0.19215353"}}

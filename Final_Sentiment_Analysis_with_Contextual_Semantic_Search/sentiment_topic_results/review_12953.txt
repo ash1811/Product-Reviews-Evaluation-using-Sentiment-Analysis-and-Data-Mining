@@ -1,0 +1,1 @@
+{"text": "I live in midwest and needed warm up pants for outer layer in cool/cold months.  These are my favorites to layer with leggings.  Keeps me warm on coldest of days walking the dogs.", "sentiment": "negative", "topics": {"1": "0.4456534", "3": "0.11392115", "4": "0.18621492", "5": "0.2315274"}}

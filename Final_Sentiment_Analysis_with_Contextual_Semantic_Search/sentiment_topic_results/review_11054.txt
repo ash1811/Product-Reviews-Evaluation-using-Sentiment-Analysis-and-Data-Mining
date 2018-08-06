@@ -1,0 +1,1 @@
+{"text": "I got these for my husband after our dog ate his original pair. We understand why they were irresistible to the dog: they are DELICIOUS slippers! My husband was ecstatic when the new ones arrived. He adores them.", "sentiment": "negative", "topics": {"0": "0.20881024", "1": "0.22249545", "3": "0.17317985", "4": "0.1944661", "5": "0.116515875", "6": "0.07695029"}}

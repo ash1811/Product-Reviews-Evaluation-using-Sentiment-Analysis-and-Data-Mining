@@ -1,0 +1,1 @@
+{"text": "The backpack is a good size and holds quite a bit of things. I am very pleased that I bought it.", "sentiment": "negative", "topics": {"0": "0.013035095", "1": "0.37166804", "2": "0.14896506", "3": "0.42730665", "4": "0.012999014", "5": "0.01302407", "6": "0.013002071"}}

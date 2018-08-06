@@ -1,0 +1,1 @@
+{"text": "It's tight but it does the job. I think it's a good quality-I've taken care of it per instructions and it's held up well. I don't swim a lot-maybe once a week.", "sentiment": "negative", "topics": {"0": "0.062479474", "1": "0.58963585", "3": "0.08395381", "4": "0.23533544"}}

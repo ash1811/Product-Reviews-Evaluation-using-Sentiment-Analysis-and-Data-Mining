@@ -1,0 +1,1 @@
+{"text": "A  great t to go with my summery Azules maxi skirt. Perfect fit...I usually wear a medium but ordered a large for summer comfort. Beautiful color and washed up well. (I lined dried )", "sentiment": "positive", "topics": {"0": "0.07907312", "1": "0.27820218", "3": "0.11275787", "5": "0.39184672", "6": "0.12567362"}}

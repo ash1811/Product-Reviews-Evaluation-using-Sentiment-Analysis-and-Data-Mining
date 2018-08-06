@@ -1,0 +1,1 @@
+{"text": "Very comfortableEasy to wear & washUsed with my vibram fivefinger shoes for a run. Keeps dirt and sand out & protects ankles from chaffing", "sentiment": "positive", "topics": {"0": "0.087328516", "1": "0.17534576", "2": "0.2321486", "3": "0.47454223", "4": "0.010213562", "5": "0.0102154985", "6": "0.010205807"}}

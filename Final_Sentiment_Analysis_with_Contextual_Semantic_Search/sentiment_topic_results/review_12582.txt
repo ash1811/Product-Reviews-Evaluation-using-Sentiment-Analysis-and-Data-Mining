@@ -1,0 +1,1 @@
+{"text": "Shoes are ok.But they don't have any means for air to get in and because of this your feets will sweat in it.", "sentiment": "negative", "topics": {"0": "0.22443901", "1": "0.015889421", "2": "0.16814813", "3": "0.015894486", "4": "0.1252866", "5": "0.30440444", "6": "0.14593789"}}

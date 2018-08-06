@@ -1,0 +1,1 @@
+{"text": "We were pleased when it arrived, good quality and good size, my daughter that uses it is in 8th grade, and at times has quite a few binders to drag around. Good product, nice quality, worth the purchase.", "sentiment": "negative", "topics": {"0": "0.17996573", "1": "0.5262296", "2": "0.047176674", "3": "0.12427256", "5": "0.10933807"}}

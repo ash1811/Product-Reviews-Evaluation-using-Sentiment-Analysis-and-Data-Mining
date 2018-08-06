@@ -1,0 +1,1 @@
+{"text": "I love this bracelet. Very sleek and simple and minimal care. Goes with any style of dress; be it jeans or business attire. Just an all-around stylish look and very smooth.", "sentiment": "negative", "topics": {"0": "0.31379825", "4": "0.20704101", "5": "0.17784962", "6": "0.27594662"}}

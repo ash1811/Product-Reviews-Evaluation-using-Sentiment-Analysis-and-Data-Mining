@@ -1,0 +1,1 @@
+{"text": "This shirt, like the other ones I've ordered is a large.....but it fits smaller. The quality is there....sizing continues to be an issue.", "sentiment": "negative", "topics": {"0": "0.21347308", "1": "0.42832822", "2": "0.011082956", "3": "0.19021155", "4": "0.011034268", "5": "0.13484608", "6": "0.011023837"}}

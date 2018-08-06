@@ -1,0 +1,1 @@
+{"text": "They are my son's 5th pair. He only wears Merrell jungle moc since he was 8 years old. He loves them.", "sentiment": "positive", "topics": {"0": "0.010263675", "1": "0.2814218", "2": "0.12998009", "3": "0.54754514", "4": "0.010282256", "5": "0.010275343", "6": "0.010231695"}}

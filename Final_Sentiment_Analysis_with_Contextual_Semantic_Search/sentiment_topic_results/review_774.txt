@@ -1,0 +1,1 @@
+{"text": "I'm a RN, these scrubs are comfortable and run big in sizing (I wear a 12 and got a large and they are PLENTY roomy) which is ok since I wanted some breathing room.  Good price as scrub prices have gotten ridiculous.", "sentiment": "positive", "topics": {"1": "0.41072193", "3": "0.33576712", "4": "0.15810671", "5": "0.07889254"}}

@@ -1,0 +1,1 @@
+{"text": "it is a classic jean!i buy the black color for work, the color is nice for 3 month, it means after 15 washes you notice it starting to fade. but can not complain for that... nothing is forever!anyway, the jean is true to size, the canvas is a little rough.", "sentiment": "positive", "topics": {"1": "0.5403909", "2": "0.26361862", "4": "0.055308282", "6": "0.124726884"}}

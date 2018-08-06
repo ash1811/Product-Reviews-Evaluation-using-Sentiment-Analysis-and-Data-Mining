@@ -1,0 +1,1 @@
+{"text": "nice coloration and feels soft. I like that the fringes come already knotted into tassels so that the edges don't rats nest and look terrible.", "sentiment": "negative", "topics": {"1": "0.40136322", "2": "0.18075821", "3": "0.1524368", "4": "0.09191558", "6": "0.15561332"}}

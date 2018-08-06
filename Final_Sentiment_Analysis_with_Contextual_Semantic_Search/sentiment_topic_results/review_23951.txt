@@ -1,0 +1,1 @@
+{"text": "MY husband has worn these for years cause the color is netural and works well with shorts or jeans and slacks.  The bottom of the heel wears fast but that may be his foot.  Not too heavy.", "sentiment": "negative", "topics": {"0": "0.19483991", "1": "0.24570608", "2": "0.08350321", "4": "0.10591764", "5": "0.16624449", "6": "0.19623283"}}

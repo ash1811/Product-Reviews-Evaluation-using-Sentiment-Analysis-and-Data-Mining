@@ -1,0 +1,1 @@
+{"text": "My shoe size runs somewhere between US 8 and 8 .  Originally, I was concerned about ordering size 8 xw, but the added width make the fir perfect.", "sentiment": "negative", "topics": {"0": "0.08085722", "1": "0.25251293", "2": "0.2975206", "3": "0.28400373", "6": "0.0700551"}}

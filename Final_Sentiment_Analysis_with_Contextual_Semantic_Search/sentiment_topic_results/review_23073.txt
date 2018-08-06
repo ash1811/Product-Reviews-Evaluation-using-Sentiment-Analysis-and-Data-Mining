@@ -1,0 +1,1 @@
+{"text": "I am addicted to reef sandals. I buy new pairs at least once a year. These were exactly what I wanted, cheaper than at my local retail store and arrived within the stated timeline. Happy camper.", "sentiment": "negative", "topics": {"0": "0.295326", "1": "0.23951036", "3": "0.23207821", "4": "0.07174069", "5": "0.14769141"}}

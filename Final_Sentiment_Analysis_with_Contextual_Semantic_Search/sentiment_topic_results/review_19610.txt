@@ -1,0 +1,1 @@
+{"text": "Despite having great reviews and promise, this bra was not the one for me. The cup shape was terribly pointy and un-natural looking. I have returned it and hope this review alerts you to the awkward side-profile of this lacey bra.", "sentiment": "negative", "topics": {"0": "0.16819857", "3": "0.38537216", "4": "0.3744969", "6": "0.05239505"}}

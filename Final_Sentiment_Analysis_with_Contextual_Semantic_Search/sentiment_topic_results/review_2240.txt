@@ -1,0 +1,1 @@
+{"text": "I bought them as gift & that person loves them. I bought a pair of sketchers for myself but they aren't as comfortable as I was told this pair were so make sure it's this one when you order.", "sentiment": "negative", "topics": {"0": "0.19012925", "1": "0.13768105", "2": "0.15516879", "3": "0.32036787", "5": "0.11396372", "6": "0.073707536"}}

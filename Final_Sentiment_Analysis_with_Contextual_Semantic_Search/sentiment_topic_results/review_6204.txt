@@ -1,0 +1,1 @@
+{"text": "This is a great fit for my plus sized figure.  I love the color.  This is one of my favorite colors for the fall and winter season", "sentiment": "negative", "topics": {"0": "0.010212187", "1": "0.8269072", "2": "0.1218951", "3": "0.010242132", "4": "0.010263513", "5": "0.010225423", "6": "0.01025442"}}

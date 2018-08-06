@@ -1,0 +1,1 @@
+{"text": "gildan tees are an essential part of my business, I imprint on them for my customers and they are perfect for both applications I use", "sentiment": "negative", "topics": {"0": "0.1397143", "1": "0.013037122", "2": "0.013008168", "3": "0.22978662", "4": "0.013052231", "5": "0.57840925", "6": "0.012992287"}}

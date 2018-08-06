@@ -1,0 +1,1 @@
+{"text": "The actor I had wearing this mask wanted to keep it ha! It's pretty warm and fits just about any size head. Just don't walk into a bank wearing one of these ok.", "sentiment": "negative", "topics": {"0": "0.19891058", "1": "0.4770054", "3": "0.1888599", "4": "0.10994041"}}

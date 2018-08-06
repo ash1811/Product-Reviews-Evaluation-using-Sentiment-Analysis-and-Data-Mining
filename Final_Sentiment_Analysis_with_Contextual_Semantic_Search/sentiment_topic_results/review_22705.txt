@@ -1,0 +1,1 @@
+{"text": "Not sure why these fit so small compared to other undies in size 8 but they do.  They don't feel comfy to me at all.", "sentiment": "negative", "topics": {"0": "0.011968148", "1": "0.37560058", "2": "0.20742239", "3": "0.3691777", "4": "0.011940735", "5": "0.011929474", "6": "0.011960966"}}

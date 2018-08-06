@@ -1,0 +1,1 @@
+{"text": "It took 1 month and 17 days to arrive at my door, but other than that it works just fine and i've removed several links out of watch bracelets without damaging them or anything.", "sentiment": "negative", "topics": {"0": "0.1477556", "1": "0.13321161", "2": "0.28089228", "3": "0.2502005", "5": "0.17285873"}}

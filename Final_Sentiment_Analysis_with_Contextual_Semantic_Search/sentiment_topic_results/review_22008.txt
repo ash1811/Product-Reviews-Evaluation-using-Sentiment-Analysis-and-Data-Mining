@@ -1,0 +1,1 @@
+{"text": "My husband is rough on clothing and this is an absolute necessity for working. Also, it keeps him very warm in the wintertime. The fit is perfect!", "sentiment": "negative", "topics": {"0": "0.010997395", "1": "0.35139683", "2": "0.17831708", "3": "0.1327855", "4": "0.30451125", "5": "0.010994009", "6": "0.010997942"}}

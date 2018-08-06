@@ -1,0 +1,1 @@
+{"text": "These boxers are very comfortable.  They are tagless so there is not irritation there.  Also the waistband is more like the material of the boxers than most elastic bands.  Nice inexpensive product for everyday wear.", "sentiment": "negative", "topics": {"1": "0.35069308", "3": "0.08135915", "4": "0.1678701", "5": "0.08904574", "6": "0.29513073"}}

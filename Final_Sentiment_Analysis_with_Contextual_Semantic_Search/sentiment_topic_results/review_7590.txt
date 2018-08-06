@@ -1,0 +1,1 @@
+{"text": "I really enjoy this ring because of its unique pattern. Something about it captures my eye every time I look at it.", "sentiment": "positive", "topics": {"0": "0.5151648", "1": "0.3142762", "2": "0.011018447", "3": "0.011002949", "4": "0.0109983515", "5": "0.011042342", "6": "0.12649696"}}

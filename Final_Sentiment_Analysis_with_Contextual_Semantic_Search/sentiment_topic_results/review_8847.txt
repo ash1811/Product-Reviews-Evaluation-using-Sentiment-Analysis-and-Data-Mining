@@ -1,0 +1,1 @@
+{"text": "I like them. I don't like them as much as my nuovo skechers, but I do like the black.  There's lots of good skechers out there.", "sentiment": "negative", "topics": {"0": "0.010231404", "1": "0.4264997", "2": "0.010260229", "3": "0.44342035", "4": "0.08905692", "5": "0.010235315", "6": "0.010296108"}}

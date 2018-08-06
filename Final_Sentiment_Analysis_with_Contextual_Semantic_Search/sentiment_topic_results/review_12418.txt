@@ -1,0 +1,1 @@
+{"text": "I wear a size 8.5 to 9 and ordered a 9.  They were too big.  So I returned them and got an 8.  They fit nice.These are more clunky than the old style but are fine as flip-flops.", "sentiment": "negative", "topics": {"1": "0.3705565", "2": "0.05073058", "3": "0.23705085", "4": "0.11734545", "6": "0.20840372"}}

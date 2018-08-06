@@ -1,0 +1,1 @@
+{"text": "Great Balaclava!It is a nice and stretchy material and thin so it can go under your helmet easily.I only wish is was a little thicker to provide more warmth as I ride with an open face helmet in 10-30 degrees F. But overall it rocks.", "sentiment": "negative", "topics": {"0": "0.27836645", "1": "0.40860397", "2": "0.1435507", "3": "0.086402655", "6": "0.07114651"}}

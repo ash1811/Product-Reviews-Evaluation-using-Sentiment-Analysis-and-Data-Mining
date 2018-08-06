@@ -1,0 +1,1 @@
+{"text": "Its one size fits all but fitted snuggly. Made of nylon like material that tends to be porous, allows breathabliity. Offers added comfort in cool weather but not as warm as neoprene in really chilly temperatures.", "sentiment": "positive", "topics": {"0": "0.07700803", "1": "0.31539428", "2": "0.18121386", "3": "0.21376753", "4": "0.07570165", "6": "0.13094433"}}

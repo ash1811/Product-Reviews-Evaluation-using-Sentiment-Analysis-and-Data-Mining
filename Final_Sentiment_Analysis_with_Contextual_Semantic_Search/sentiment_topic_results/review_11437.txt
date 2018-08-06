@@ -1,0 +1,1 @@
+{"text": "we use this to keep our sons kids size sleeping bag in stored in.  it is very light weight for him to carry.  you can't put the straps over your shoulder.", "sentiment": "negative", "topics": {"2": "0.085505635", "3": "0.17358705", "4": "0.11765407", "5": "0.5979376"}}

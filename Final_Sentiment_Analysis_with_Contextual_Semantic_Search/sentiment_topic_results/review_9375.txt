@@ -1,0 +1,1 @@
+{"text": "A comfortable knee hi stocking for ladies with a little fuller calf. Not overly tight, but will stay up. Love the basic colors and will be ordering more.", "sentiment": "negative", "topics": {"1": "0.48112175", "2": "0.06994888", "3": "0.11797542", "4": "0.119124345", "6": "0.19590063"}}

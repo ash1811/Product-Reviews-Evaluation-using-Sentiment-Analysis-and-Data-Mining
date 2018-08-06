@@ -1,0 +1,1 @@
+{"text": "We purchased this for my grandson's birthday and it was a huge hit.  He loves action packed heroes.  So now he can dress like them", "sentiment": "negative", "topics": {"0": "0.21471494", "1": "0.22135915", "2": "0.11864891", "3": "0.2376302", "4": "0.18372583", "5": "0.011939608", "6": "0.011981295"}}

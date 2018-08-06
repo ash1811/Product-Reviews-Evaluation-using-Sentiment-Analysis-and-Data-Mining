@@ -1,0 +1,1 @@
+{"text": "Leggings are not opaque, and run a bit small.  I normally wear a small, but I bought a medium and it fits perfectly.", "sentiment": "negative", "topics": {"0": "0.011005076", "1": "0.84398556", "2": "0.011005307", "3": "0.011087368", "4": "0.10090917", "5": "0.01100944", "6": "0.010998074"}}

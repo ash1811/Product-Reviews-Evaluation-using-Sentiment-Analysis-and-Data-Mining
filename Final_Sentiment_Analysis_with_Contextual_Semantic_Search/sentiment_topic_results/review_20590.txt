@@ -1,0 +1,1 @@
+{"text": "I have an old Seiko watch that I have to unscrew the back off to replace the battery. I was very happy to finally get it to unscrew without going to the jeweler. I bought the batteries from Amazon for .80 each and the wrench works great.", "sentiment": "negative", "topics": {"0": "0.48696518", "2": "0.21009852", "3": "0.154417", "4": "0.05583692", "6": "0.07962783"}}

@@ -1,0 +1,1 @@
+{"text": "i sent these back because i decided i didn't like the style.  good quality though and good price for leather shoes", "sentiment": "negative", "topics": {"0": "0.0110063655", "1": "0.62268317", "2": "0.20026161", "3": "0.011006845", "4": "0.13301371", "5": "0.0110131735", "6": "0.011015173"}}

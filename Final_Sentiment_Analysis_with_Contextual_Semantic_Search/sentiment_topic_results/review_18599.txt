@@ -1,0 +1,1 @@
+{"text": "This is a very good fitting and comfortable shirt. Medium to heavy weight construction great for every day wear in the fall and winter. Value priced and quick delivery, true to size shown.", "sentiment": "positive", "topics": {"1": "0.41456032", "4": "0.08757737", "5": "0.24532028", "6": "0.23300806"}}

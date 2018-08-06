@@ -1,0 +1,1 @@
+{"text": "I ordered this top in nigori and dark red in a size medium (I'm 5'5&#34;, 130 lbs) and was happy that this top is comfy and very cute.  I'm very happy with this purchase.", "sentiment": "negative", "topics": {"1": "0.20855685", "2": "0.072746255", "3": "0.4733562", "4": "0.11744857", "5": "0.112820566"}}

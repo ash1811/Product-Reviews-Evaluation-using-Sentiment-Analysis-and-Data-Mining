@@ -1,0 +1,1 @@
+{"text": "These shorts are perfect. I got them for my boyfriend and he loves them. The price is great! He uses them to work in and they allow good airflow.", "sentiment": "positive", "topics": {"0": "0.18657103", "1": "0.27496502", "2": "0.0102212755", "3": "0.2896931", "4": "0.010260231", "5": "0.21805689", "6": "0.010232449"}}

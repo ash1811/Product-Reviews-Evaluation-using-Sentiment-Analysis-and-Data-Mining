@@ -1,0 +1,1 @@
+{"text": "I ordered several more after getting the first one.  Easy on, easy off.  No itching, no sticking, no putting dents in the shoulders.It's a great product.", "sentiment": "negative", "topics": {"0": "0.24693988", "1": "0.14947903", "2": "0.07873671", "3": "0.32005885", "5": "0.1878793"}}

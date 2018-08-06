@@ -1,0 +1,1 @@
+{"text": "My  husband feels very comfortable with this shoes, they just fit perfectly. And looks very endurance too. He is wearing it right now.", "sentiment": "positive", "topics": {"0": "0.011055933", "1": "0.49628922", "2": "0.1606848", "3": "0.011014072", "4": "0.11258489", "5": "0.011007965", "6": "0.19736311"}}

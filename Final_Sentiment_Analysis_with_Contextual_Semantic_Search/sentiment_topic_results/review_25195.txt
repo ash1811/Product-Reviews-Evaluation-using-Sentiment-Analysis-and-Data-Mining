@@ -1,0 +1,1 @@
+{"text": "This is a really a great swatch, am a girl but I love big swatches that's why I ordered this one. It is according to my expectations!", "sentiment": "negative", "topics": {"0": "0.011028879", "1": "0.33182305", "2": "0.29896796", "3": "0.01105696", "4": "0.32508725", "5": "0.011029387", "6": "0.011006544"}}

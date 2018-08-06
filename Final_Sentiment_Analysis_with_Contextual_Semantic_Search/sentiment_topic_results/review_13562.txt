@@ -1,0 +1,1 @@
+{"text": "Love these shoes. Our class is on carpet and the bottoms make it easy to dance on it. As suggested by others get a full size larger.", "sentiment": "negative", "topics": {"0": "0.16395773", "1": "0.08796471", "2": "0.13422461", "3": "0.2756581", "5": "0.10897392", "6": "0.2202466"}}

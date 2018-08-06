@@ -1,0 +1,1 @@
+{"text": "I bought these because they are heavy and they have a pocket.  They are a bit more expensive than other brands; but they're worth it for the weight and the pocket.", "sentiment": "negative", "topics": {"0": "0.01300962", "1": "0.55172426", "2": "0.0130009325", "3": "0.13345934", "4": "0.16586402", "5": "0.0130569665", "6": "0.109884866"}}

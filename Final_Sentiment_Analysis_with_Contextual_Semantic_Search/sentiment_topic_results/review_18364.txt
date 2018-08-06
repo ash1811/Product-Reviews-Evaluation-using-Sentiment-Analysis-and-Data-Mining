@@ -1,0 +1,1 @@
+{"text": "fits great awesome walking sneaker first time wearing sketchers. would buy again in a heart beat. just awesome thank you", "sentiment": "negative", "topics": {"1": "0.38353315", "2": "0.070382886", "4": "0.088815846", "5": "0.35426453", "6": "0.08510015"}}

@@ -1,0 +1,1 @@
+{"text": "looked freaking huge before i washed and dryed them; on the hot cycle in both cases.  are very comfy lounging shorts.", "sentiment": "negative", "topics": {"0": "0.11238198", "1": "0.20135999", "2": "0.0110289585", "3": "0.42750344", "4": "0.2256701", "5": "0.011037046", "6": "0.011018456"}}

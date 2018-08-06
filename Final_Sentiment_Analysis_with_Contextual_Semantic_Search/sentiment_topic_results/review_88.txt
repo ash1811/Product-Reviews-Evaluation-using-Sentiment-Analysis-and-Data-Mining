@@ -1,0 +1,1 @@
+{"text": "The earings look as in picture. Some people say they are very small, i would disagree they are as shown in the photo. Cute and elegant!", "sentiment": "negative", "topics": {"0": "0.011052383", "1": "0.011063001", "2": "0.010997327", "3": "0.5594564", "4": "0.011021709", "5": "0.011018341", "6": "0.38539085"}}

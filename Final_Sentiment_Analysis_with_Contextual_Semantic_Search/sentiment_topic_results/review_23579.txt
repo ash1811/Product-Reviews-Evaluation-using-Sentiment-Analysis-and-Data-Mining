@@ -1,0 +1,1 @@
+{"text": "The fit is awesome. Totally comfortable and no blisters! I love Birkenstocks! I ditched all my poorly fitting sandals. This is my attempt at taking better care of my feet.", "sentiment": "positive", "topics": {"0": "0.0956964", "1": "0.25254962", "2": "0.121994324", "3": "0.28852165", "4": "0.135652", "5": "0.097159624"}}

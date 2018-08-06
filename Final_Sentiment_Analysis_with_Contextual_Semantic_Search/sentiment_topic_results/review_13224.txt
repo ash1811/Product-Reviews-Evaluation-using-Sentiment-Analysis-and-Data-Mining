@@ -1,0 +1,1 @@
+{"text": "The baby loves his little Dora bag, but why they can't make some of this stuff in blue or grey or any other color is beyond me.", "sentiment": "negative", "topics": {"0": "0.010231848", "1": "0.4702339", "2": "0.1808966", "3": "0.2032849", "4": "0.010239776", "5": "0.11490571", "6": "0.010207303"}}

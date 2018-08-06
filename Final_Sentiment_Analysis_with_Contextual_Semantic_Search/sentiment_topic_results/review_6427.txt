@@ -1,0 +1,1 @@
+{"text": "my husband always tries to wear his white crew socks with his sneakers and looks like a nerd.  These are just what he needed.", "sentiment": "positive", "topics": {"0": "0.011029809", "1": "0.46573967", "2": "0.011035747", "3": "0.01114414", "4": "0.09958683", "5": "0.3904254", "6": "0.0110383965"}}

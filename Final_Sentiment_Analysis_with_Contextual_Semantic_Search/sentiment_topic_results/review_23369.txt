@@ -1,0 +1,1 @@
+{"text": "It is elegant and chic... I love it, the colour is wonderful for brunettes, the fabric is nice though it feels a bit heavy in the sleeves when they are rolled.", "sentiment": "positive", "topics": {"0": "0.12463686", "1": "0.25575772", "4": "0.10922972", "5": "0.21156275", "6": "0.2809095"}}

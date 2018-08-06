@@ -1,0 +1,1 @@
+{"text": "I loved the red but they were to big on my son so had to send them back, they were shipped fast and great with returns and packaged so they could be worn right away", "sentiment": "positive", "topics": {"0": "0.12807344", "1": "0.41198704", "2": "0.10862779", "5": "0.1148746", "6": "0.21855703"}}

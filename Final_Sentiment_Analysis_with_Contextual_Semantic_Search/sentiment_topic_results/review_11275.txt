@@ -1,0 +1,1 @@
+{"text": "nice to have a black version of the clear goo! This is especially nice to use on dark or black shoes or black leather seat repair.", "sentiment": "negative", "topics": {"0": "0.07060723", "1": "0.28320244", "2": "0.45710495", "4": "0.10057994", "6": "0.070581734"}}

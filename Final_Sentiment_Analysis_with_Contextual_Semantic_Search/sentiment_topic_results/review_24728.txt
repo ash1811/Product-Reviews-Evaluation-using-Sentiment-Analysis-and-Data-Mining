@@ -1,0 +1,1 @@
+{"text": "This is a perfect little construction hat for kids. What I love about it is that it is easily adjustable so it stays put. My son is 2.5 and has already gotten so much wear out of this. I would recommend this construction hat.", "sentiment": "positive", "topics": {"2": "0.1212052", "3": "0.28918344", "4": "0.2447402", "5": "0.27744868", "6": "0.054382287"}}

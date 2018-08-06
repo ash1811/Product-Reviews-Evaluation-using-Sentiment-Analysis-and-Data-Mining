@@ -1,0 +1,1 @@
+{"text": "It shrank. Material is durable and polo is well made. color faded a bit after washing. I do love this polo but will get it in a larger size next time.", "sentiment": "negative", "topics": {"1": "0.4044831", "2": "0.45577955", "3": "0.107843146"}}

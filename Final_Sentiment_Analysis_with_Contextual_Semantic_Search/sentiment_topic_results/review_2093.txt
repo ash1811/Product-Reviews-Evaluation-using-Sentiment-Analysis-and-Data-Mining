@@ -1,0 +1,1 @@
+{"text": "I've been buying these for years for my son.  The fit him very good and are tough against pretty much everything!!!", "sentiment": "negative", "topics": {"0": "0.013040137", "1": "0.5959801", "2": "0.13234179", "3": "0.13874282", "4": "0.012995303", "5": "0.013047068", "6": "0.09385285"}}

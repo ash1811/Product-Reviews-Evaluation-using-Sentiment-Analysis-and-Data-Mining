@@ -1,0 +1,1 @@
+{"text": "The fit--size and tightness of attachment to the ear--both deliver on the brief description.  That's what I was looking for.", "sentiment": "negative", "topics": {"0": "0.15715571", "1": "0.013043868", "2": "0.013050832", "3": "0.013059489", "4": "0.23268606", "5": "0.012990259", "6": "0.5580138"}}

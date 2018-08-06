@@ -1,0 +1,1 @@
+{"text": "good enuf for me. best pre-g-shock watch ever! cmon man if u like gshock, u gotta have this! u dont have this. u no gshock fan at all.", "sentiment": "positive", "topics": {"0": "0.21134843", "1": "0.068276614", "2": "0.51202625", "5": "0.13737328", "6": "0.058534347"}}

@@ -1,0 +1,1 @@
+{"text": "Got these at a good price and now I love crocs. They are comfy and and strong. They clean well and when he outgrew them I bought them again. too cool.", "sentiment": "negative", "topics": {"0": "0.010228537", "1": "0.22894156", "2": "0.1476887", "3": "0.010245113", "4": "0.010268628", "5": "0.58238333", "6": "0.010244107"}}

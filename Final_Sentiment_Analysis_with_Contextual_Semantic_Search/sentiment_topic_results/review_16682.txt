@@ -1,0 +1,1 @@
+{"text": "These tap shoes are classy, pretty, and perfect for little girls taking dance class. My daughter loves how they fit, and she even begs to wear them to school! Totally worthwhile buy.", "sentiment": "positive", "topics": {"0": "0.15838306", "1": "0.20864204", "2": "0.25996348", "3": "0.103614286", "4": "0.20527442", "6": "0.057291877"}}

@@ -1,0 +1,1 @@
+{"text": "I LOVE these glasses. I wear these on my motorcycle and I know they will not fly off. They come with a nice case that fits them prfectly.", "sentiment": "negative", "topics": {"0": "0.011016827", "1": "0.28290835", "2": "0.2734133", "3": "0.39963248", "4": "0.011018888", "5": "0.011009859", "6": "0.01100025"}}

@@ -1,0 +1,1 @@
+{"text": "Excellent fit for grown women!!  Fits to curves without pinching, good inseam length as well!!  Even after washing and throwing in dryer they seem to adjust to fit curves!  I bought two more pairs after trying the first pair,  Highly recommend.", "sentiment": "negative", "topics": {"1": "0.5230375", "2": "0.11762069", "5": "0.23498707", "6": "0.109525286"}}

@@ -1,0 +1,1 @@
+{"text": "Purchased this coat for my husband.  He loves this coat.  We've bought several different coats trying to find the &#34;perfect&#34; one, no success until he received this coat.  Wears it everywhere!", "sentiment": "positive", "topics": {"1": "0.5631486", "4": "0.14082591", "5": "0.13802668", "6": "0.13650906"}}

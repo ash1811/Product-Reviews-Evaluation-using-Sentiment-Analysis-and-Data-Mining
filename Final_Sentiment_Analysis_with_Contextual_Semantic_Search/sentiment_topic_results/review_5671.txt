@@ -1,0 +1,1 @@
+{"text": "The first tank in this color did not fit well so I returned it. I loved the color and so I bought another in the same size and color. The second tank provides perfect coverage and I don't have to worry about straps showing.", "sentiment": "negative", "topics": {"1": "0.51728094", "2": "0.071623325", "3": "0.10190155", "4": "0.08312953", "6": "0.21304859"}}

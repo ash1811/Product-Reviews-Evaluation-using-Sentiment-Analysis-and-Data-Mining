@@ -1,0 +1,1 @@
+{"text": "These slippers run a bit small, so order one size up from your usual.  Other than that, quite nice product.", "sentiment": "positive", "topics": {"0": "0.08856868", "1": "0.24137306", "2": "0.011043036", "3": "0.3022998", "4": "0.14966731", "5": "0.10572582", "6": "0.101322256"}}

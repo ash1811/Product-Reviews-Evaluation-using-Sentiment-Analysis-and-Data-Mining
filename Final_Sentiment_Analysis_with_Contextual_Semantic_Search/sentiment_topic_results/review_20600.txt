@@ -1,0 +1,1 @@
+{"text": "GREAT SHOES THEY LOOK VERY NICE A A A A A A A A A A A A A A A", "sentiment": "negative", "topics": {"0": "0.028646255", "1": "0.6249807", "2": "0.23198994", "3": "0.028613877", "4": "0.028580252", "5": "0.02861715", "6": "0.02857184"}}

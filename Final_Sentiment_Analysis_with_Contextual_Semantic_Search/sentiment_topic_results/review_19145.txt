@@ -1,0 +1,1 @@
+{"text": "It's very good product. It's not too confortable like the other brands. So, if you spent a little more bucks, you can buy one better product.", "sentiment": "negative", "topics": {"0": "0.010227454", "1": "0.14282252", "2": "0.28806737", "3": "0.2199454", "4": "0.010214117", "5": "0.20026131", "6": "0.12846187"}}

@@ -1,0 +1,1 @@
+{"text": "The material is soft and there is no show through or panty lines. It is very stretchy, despite the comfort an stretch, there is also no riding up.", "sentiment": "positive", "topics": {"0": "0.5286832", "1": "0.011041509", "2": "0.1501274", "3": "0.011037282", "4": "0.18837474", "5": "0.011019834", "6": "0.099716015"}}

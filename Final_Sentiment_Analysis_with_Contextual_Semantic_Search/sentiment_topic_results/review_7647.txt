@@ -1,0 +1,1 @@
+{"text": "I'm going to have to give up on Glamorise.  They never feel right.  The material didn't feel great, the shape of the breast wearing this was droopy and the band under the breast rolled thus pinching me.", "sentiment": "positive", "topics": {"0": "0.50210744", "1": "0.29012436", "2": "0.062250298", "6": "0.12499603"}}

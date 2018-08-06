@@ -1,0 +1,1 @@
+{"text": "Good brand.  Would have liked a larger time piece. The larger ones seem to be in fashion right now. Might keep it.", "sentiment": "negative", "topics": {"3": "0.4247628", "4": "0.40146708", "6": "0.1399967"}}

@@ -1,0 +1,1 @@
+{"text": "It works, but if the tail of the tie is on the short side, you won't have anything to hold it behind the broad end.", "sentiment": "negative", "topics": {"0": "0.12919778", "1": "0.16969877", "2": "0.15623762", "3": "0.1777931", "4": "0.12302108", "5": "0.121454336", "6": "0.12259734"}}

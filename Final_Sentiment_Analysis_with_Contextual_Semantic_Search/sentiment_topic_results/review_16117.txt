@@ -1,0 +1,1 @@
+{"text": "These are a bit narrow so if you wear 'B' width - get 'D' f you don't like snug fitting slippers", "sentiment": "negative", "topics": {"0": "0.12352819", "1": "0.011036471", "2": "0.1315869", "3": "0.011047874", "4": "0.010995859", "5": "0.41090134", "6": "0.30090335"}}

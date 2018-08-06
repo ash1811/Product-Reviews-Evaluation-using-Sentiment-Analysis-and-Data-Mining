@@ -1,0 +1,1 @@
+{"text": "I had the rubber frames before and lost them.  I replaced them with these and I am very happy.  I prefer the smaller frames int he new wayfarer.", "sentiment": "negative", "topics": {"0": "0.20443256", "1": "0.011060705", "2": "0.011040441", "3": "0.375683", "4": "0.13840503", "5": "0.011023984", "6": "0.24835423"}}

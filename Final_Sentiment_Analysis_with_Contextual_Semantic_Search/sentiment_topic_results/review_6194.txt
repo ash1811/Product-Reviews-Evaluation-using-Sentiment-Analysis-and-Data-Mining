@@ -1,0 +1,1 @@
+{"text": "Good value! The shirts are nice, sized correctly and looked great after the initial washing. Will probably buy these again.", "sentiment": "negative", "topics": {"0": "0.010225327", "1": "0.40648016", "2": "0.25346357", "3": "0.0102260765", "4": "0.29912737", "5": "0.010247016", "6": "0.010230465"}}

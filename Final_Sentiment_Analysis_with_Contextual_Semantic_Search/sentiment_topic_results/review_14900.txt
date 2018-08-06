@@ -1,0 +1,1 @@
+{"text": "The tote bag is a perfect size.  I bought it for travel but started using it immediately for shopping and gym.", "sentiment": "negative", "topics": {"0": "0.16750212", "1": "0.011965715", "2": "0.12538688", "3": "0.34457108", "4": "0.011939414", "5": "0.32669598", "6": "0.011938803"}}

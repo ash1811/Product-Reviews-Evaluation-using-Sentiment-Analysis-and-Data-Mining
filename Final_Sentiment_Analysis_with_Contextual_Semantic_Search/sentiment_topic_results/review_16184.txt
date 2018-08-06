@@ -1,0 +1,1 @@
+{"text": "I love this cloth!!!!  The very first time I used it on some sterling silver jewelry, it made them shine as if brand new.  I used it in conjunction with a silver polish I bought at the same time and both are perfect!", "sentiment": "negative", "topics": {"0": "0.16073056", "1": "0.27813977", "3": "0.18191639", "4": "0.120902464", "5": "0.16897245", "6": "0.08218991"}}

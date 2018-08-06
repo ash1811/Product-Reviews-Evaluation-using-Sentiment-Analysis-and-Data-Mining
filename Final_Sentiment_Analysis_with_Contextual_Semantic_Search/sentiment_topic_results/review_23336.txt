@@ -1,0 +1,1 @@
+{"text": "I live by converse. I wear converse everyday. It goes with everything and I love it. I really liked the black one and had always wanted to own one so I am happy XD", "sentiment": "positive", "topics": {"2": "0.54067713", "4": "0.34563062", "5": "0.08350458"}}

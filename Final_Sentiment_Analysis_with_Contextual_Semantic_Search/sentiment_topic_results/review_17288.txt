@@ -1,0 +1,1 @@
+{"text": "Bought these before and I will buy them again. If your looking for a really comfortable boot that's not heavy, this boot isn't for you. But it polishes great and looks good in dress uniform", "sentiment": "negative", "topics": {"0": "0.09151396", "1": "0.47581393", "4": "0.22819084", "6": "0.18057348"}}

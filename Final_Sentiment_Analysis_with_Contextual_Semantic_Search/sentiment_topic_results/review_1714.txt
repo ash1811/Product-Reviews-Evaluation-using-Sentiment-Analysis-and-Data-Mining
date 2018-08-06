@@ -1,0 +1,1 @@
+{"text": "Cup is odd and puckers near the under arms.  I've never had that in a bra before. Material is cheap and feels &#34;scratchy.  This bra went back.", "sentiment": "negative", "topics": {"0": "0.25683525", "1": "0.19156963", "3": "0.42394248", "6": "0.102366425"}}

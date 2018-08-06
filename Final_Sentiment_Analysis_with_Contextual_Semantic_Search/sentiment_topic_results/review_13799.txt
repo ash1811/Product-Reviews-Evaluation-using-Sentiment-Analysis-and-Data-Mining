@@ -1,0 +1,1 @@
+{"text": "These are still one of my favorite flip flops. So comfortable and basic to go with anything and they have held up great through tons of the 'elements'.", "sentiment": "negative", "topics": {"0": "0.10134546", "1": "0.44321173", "2": "0.34184763", "3": "0.010227678", "4": "0.010227313", "5": "0.010229124", "6": "0.082911074"}}

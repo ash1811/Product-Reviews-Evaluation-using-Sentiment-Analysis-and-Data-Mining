@@ -1,0 +1,1 @@
+{"text": "I paid $12.99 / no shipping charge.  These are a good pair of shorts, deep pockets, thick material, fit well, a good value for the money.  Will update if long-term durability doesn't pan out.", "sentiment": "positive", "topics": {"0": "0.117282055", "1": "0.4596267", "2": "0.12248757", "5": "0.28107223"}}

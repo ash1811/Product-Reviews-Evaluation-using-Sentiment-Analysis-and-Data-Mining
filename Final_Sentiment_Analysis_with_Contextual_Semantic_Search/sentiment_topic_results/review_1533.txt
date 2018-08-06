@@ -1,0 +1,1 @@
+{"text": "Got this for my very picky 20 year old son and he loves it.  That's enough of a recommendation for me....lol", "sentiment": "negative", "topics": {"0": "0.011035214", "1": "0.011039485", "2": "0.48058435", "3": "0.22975136", "4": "0.011059048", "5": "0.24550797", "6": "0.0110225845"}}

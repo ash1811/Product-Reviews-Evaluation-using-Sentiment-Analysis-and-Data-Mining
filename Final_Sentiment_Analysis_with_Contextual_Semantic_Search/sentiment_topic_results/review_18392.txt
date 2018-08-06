@@ -1,0 +1,1 @@
+{"text": "These boots are smoking hot, hot, hot !!! My wife looks smashing in them. I took the advise from others and bought a size bigger, turned out to be the right move.", "sentiment": "negative", "topics": {"2": "0.07615242", "3": "0.46987122", "4": "0.124878645", "5": "0.22507283", "6": "0.088935204"}}

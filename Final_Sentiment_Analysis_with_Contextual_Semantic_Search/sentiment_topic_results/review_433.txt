@@ -1,0 +1,1 @@
+{"text": "I cannot find jeans in town that are size 30&#34; x 34&#34;,so I was happy to find them in this size.", "sentiment": "negative", "topics": {"0": "0.011943235", "1": "0.011958138", "2": "0.1812044", "3": "0.46032202", "4": "0.011987883", "5": "0.31064752", "6": "0.011936795"}}

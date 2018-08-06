@@ -1,0 +1,1 @@
+{"text": "Does a great job getting my sterling silver jewelry back to its shiny form.  Love this; so much better than the cloth.", "sentiment": "negative", "topics": {"0": "0.13185132", "1": "0.5274673", "2": "0.06519733", "4": "0.11992706", "6": "0.1364561"}}

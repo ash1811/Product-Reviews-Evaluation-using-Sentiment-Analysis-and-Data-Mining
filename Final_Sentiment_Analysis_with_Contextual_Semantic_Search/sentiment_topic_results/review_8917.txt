@@ -1,0 +1,1 @@
+{"text": "I love these shoes. I have had several pairs of white shoes for work, and these are by far the most comfortable. They fit well, I have wide feet, and they fit perfectly right out of the box.", "sentiment": "negative", "topics": {"1": "0.5341829", "2": "0.16657007", "4": "0.18205926", "5": "0.09333653"}}

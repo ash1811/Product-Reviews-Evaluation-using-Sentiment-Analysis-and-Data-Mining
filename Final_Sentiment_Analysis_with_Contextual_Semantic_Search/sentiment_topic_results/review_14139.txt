@@ -1,0 +1,1 @@
+{"text": "The tee shirt is really too long for my husband to wear anywhere.  He is tall and has a long torso, but the tee shirt is still too long.", "sentiment": "positive", "topics": {"1": "0.53237855", "4": "0.41986024"}}

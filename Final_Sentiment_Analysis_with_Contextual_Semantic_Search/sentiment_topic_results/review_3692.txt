@@ -1,0 +1,1 @@
+{"text": "I have been wearing Merrell's for about 12 years.  These are some of the best feeling, best fitting shoes I have ever worn and the Jungle Moc is my personal favorite!", "sentiment": "negative", "topics": {"1": "0.29178956", "2": "0.24836302", "3": "0.24112111", "4": "0.11304624", "6": "0.08775232"}}

@@ -1,0 +1,1 @@
+{"text": "They are a pair of Levis... not much to hate not much to love... but I like them .. they are comfortable.. and I have bought three more in the same design but different colours", "sentiment": "negative", "topics": {"0": "0.010223723", "1": "0.48706678", "2": "0.010216449", "3": "0.21516645", "4": "0.010245136", "5": "0.07268707", "6": "0.19439436"}}

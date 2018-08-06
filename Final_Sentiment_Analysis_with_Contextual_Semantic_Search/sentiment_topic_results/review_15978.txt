@@ -1,0 +1,1 @@
+{"text": "I've always loved Reef sandals.  These run small fyi.  I wear a 7 in pretty much everything and had to get these in size 8.", "sentiment": "negative", "topics": {"0": "0.21034801", "1": "0.41915202", "2": "0.1045419", "3": "0.24067828"}}

@@ -1,0 +1,1 @@
+{"text": "I like the quality of these handkerchiefs. They look nice and function as designed. Overall very happy with my purchase.", "sentiment": "positive", "topics": {"0": "0.013035209", "1": "0.56820065", "2": "0.012997966", "3": "0.115554355", "4": "0.1177243", "5": "0.013012794", "6": "0.15947475"}}

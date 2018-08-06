@@ -1,0 +1,1 @@
+{"text": "This is your average baseball cap but it is made well. The color i ordered was navy, and the color is a really deep navy.", "sentiment": "negative", "topics": {"0": "0.011011263", "1": "0.5449383", "2": "0.011005557", "3": "0.011031259", "4": "0.011046903", "5": "0.19053632", "6": "0.2204304"}}

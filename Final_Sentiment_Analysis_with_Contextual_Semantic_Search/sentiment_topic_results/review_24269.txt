@@ -1,0 +1,1 @@
+{"text": "I really like the front close on this bra. I do however have to cut the shoulder straps and add six inches for the bra to fit. This turns it into my favorite bra", "sentiment": "negative", "topics": {"0": "0.12728617", "1": "0.14467505", "2": "0.23754004", "3": "0.4124923", "4": "0.06207345"}}

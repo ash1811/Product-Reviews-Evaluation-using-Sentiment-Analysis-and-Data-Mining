@@ -1,0 +1,1 @@
+{"text": "I love this bag.  It is just the right size for work.  Big enough to hold what I need to carry, but not outlandishly huge.  I may order another one for the beach.", "sentiment": "negative", "topics": {"0": "0.15555213", "1": "0.26345077", "3": "0.2749168", "4": "0.1884106", "6": "0.10175563"}}

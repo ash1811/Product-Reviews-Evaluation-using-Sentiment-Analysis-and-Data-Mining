@@ -1,0 +1,1 @@
+{"text": "had to return these.  the did not work for me at all.  I thought they would but I was wrong.  they might work for somebody else but not me.", "sentiment": "positive", "topics": {"0": "0.011039194", "1": "0.011027606", "2": "0.44974157", "3": "0.40118", "4": "0.011006171", "5": "0.011008088", "6": "0.10499735"}}

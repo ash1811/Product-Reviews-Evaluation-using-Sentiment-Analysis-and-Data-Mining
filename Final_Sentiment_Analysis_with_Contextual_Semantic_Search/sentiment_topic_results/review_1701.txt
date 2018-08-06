@@ -1,0 +1,1 @@
+{"text": "Love this strapless because it stays put, I don't have to tug on it and it doesn't push me up so high that I spill out the top...I'm a 34DD", "sentiment": "negative", "topics": {"0": "0.23205967", "1": "0.12887228", "2": "0.012993529", "3": "0.0130059095", "4": "0.19579597", "5": "0.13439648", "6": "0.2828762"}}

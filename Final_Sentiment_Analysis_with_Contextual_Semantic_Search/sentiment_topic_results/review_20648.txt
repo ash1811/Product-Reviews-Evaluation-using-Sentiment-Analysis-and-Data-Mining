@@ -1,0 +1,1 @@
+{"text": "Not much support. I expected more. Next time will order the 15-20mmhg. More can I say about a lite weight sock. Really should not be billed as a support sock", "sentiment": "positive", "topics": {"0": "0.049521953", "1": "0.13775265", "2": "0.28016317", "3": "0.1615795", "5": "0.27539036", "6": "0.08716582"}}

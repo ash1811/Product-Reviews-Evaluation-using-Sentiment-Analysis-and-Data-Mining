@@ -1,0 +1,1 @@
+{"text": "I already had a couple pair of these socks in tan.  I wanted some that would look better with jeans.  They wash well and stay nice and cushy when washed inside out.", "sentiment": "positive", "topics": {"1": "0.42786723", "3": "0.17556857", "5": "0.21136408", "6": "0.16254896"}}

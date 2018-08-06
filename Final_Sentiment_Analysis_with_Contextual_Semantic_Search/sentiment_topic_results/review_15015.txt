@@ -1,0 +1,1 @@
+{"text": "Great! Looked awesome for a John Smith Costume. The are not too big which is great! thank you for a great product!", "sentiment": "negative", "topics": {"0": "0.31415248", "1": "0.29059908", "2": "0.1670367", "3": "0.011920247", "4": "0.011926502", "5": "0.1924528", "6": "0.011912194"}}

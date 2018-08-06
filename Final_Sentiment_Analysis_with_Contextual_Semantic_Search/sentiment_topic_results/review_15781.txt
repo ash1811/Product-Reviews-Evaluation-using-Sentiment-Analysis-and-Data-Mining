@@ -1,0 +1,1 @@
+{"text": "I loved the color and fit.  It's perfect for wearing to work when I don't want to wear full on panty hose.", "sentiment": "negative", "topics": {"0": "0.4153901", "1": "0.5249979", "2": "0.011927433", "3": "0.011929548", "4": "0.011912778", "5": "0.011929792", "6": "0.011912509"}}

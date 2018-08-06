@@ -1,0 +1,1 @@
+{"text": "I just keep buying this model year after year, they are perfect tennis shoes, very comfortable, great quality, I still have a pair from 5 years ago. Very good for training, running, nothing fancy. just perfecct.", "sentiment": "negative", "topics": {"1": "0.4593397", "2": "0.06099126", "3": "0.13461258", "5": "0.071908824", "6": "0.26070797"}}

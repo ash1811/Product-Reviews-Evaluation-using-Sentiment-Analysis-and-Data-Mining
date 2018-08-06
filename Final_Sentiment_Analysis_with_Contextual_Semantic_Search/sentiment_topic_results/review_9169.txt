@@ -1,0 +1,1 @@
+{"text": "I bought these for work.  They are a bit heavy but dont seem to tire me in any way. Slip resistant and clean up with a wet towel.  I will probably but antother pair before long.", "sentiment": "negative", "topics": {"0": "0.23723619", "1": "0.40900287", "2": "0.24864599", "6": "0.081199504"}}

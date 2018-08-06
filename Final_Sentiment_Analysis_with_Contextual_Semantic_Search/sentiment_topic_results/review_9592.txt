@@ -1,0 +1,1 @@
+{"text": "I really enjoy my &#34;everyday&#34; watch.  It is sturdy and always reliable.  It is worth the price and seems to keep on ticking--even in soapy water.", "sentiment": "negative", "topics": {"2": "0.28461495", "4": "0.14787908", "5": "0.43672997", "6": "0.102058075"}}

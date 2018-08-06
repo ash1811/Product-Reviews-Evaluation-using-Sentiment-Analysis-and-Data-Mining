@@ -1,0 +1,1 @@
+{"text": "Very well made shoes. Nice and very good looking. They worth the price. Comfortable when standing most of the day.", "sentiment": "negative", "topics": {"0": "0.011949738", "1": "0.8263185", "2": "0.113898195", "3": "0.011921029", "4": "0.011932745", "5": "0.012006007", "6": "0.011973776"}}

@@ -1,0 +1,1 @@
+{"text": "Who doesn't love having their feet surrounded in lamb's wool? What a great solution for Uggs that I wear all winter.", "sentiment": "negative", "topics": {"0": "0.2961765", "1": "0.35784677", "2": "0.012987948", "3": "0.29384547", "4": "0.013129767", "5": "0.013026144", "6": "0.012987382"}}

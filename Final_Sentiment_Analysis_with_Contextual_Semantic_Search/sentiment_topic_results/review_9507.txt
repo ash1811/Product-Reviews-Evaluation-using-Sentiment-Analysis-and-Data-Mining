@@ -1,0 +1,1 @@
+{"text": "It's a Timex and it's ok for everyday and work , my wife likes it  and she is the one wearing it.", "sentiment": "negative", "topics": {"0": "0.38805747", "1": "0.3408493", "2": "0.014378903", "3": "0.014314884", "4": "0.21373606", "5": "0.014307149", "6": "0.014356199"}}

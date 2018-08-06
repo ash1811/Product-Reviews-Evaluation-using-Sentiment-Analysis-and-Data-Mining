@@ -1,0 +1,1 @@
+{"text": "This is a really cute watch and works very well.  The indiglo is an added bonus!  The second hand is flowers that work their way around the clock.  My daughter loves it!", "sentiment": "negative", "topics": {"0": "0.118258804", "1": "0.20518403", "2": "0.18027832", "3": "0.47366464"}}

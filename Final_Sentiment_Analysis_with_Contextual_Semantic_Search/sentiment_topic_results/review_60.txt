@@ -1,0 +1,1 @@
+{"text": "in the picture they are very impresive but in reallity nothing to talk about but i live overseas so i cannot return anything so i will be left with themruthi", "sentiment": "negative", "topics": {"0": "0.011001512", "1": "0.011008905", "2": "0.22266065", "3": "0.3373508", "4": "0.011020585", "5": "0.011007522", "6": "0.39595002"}}

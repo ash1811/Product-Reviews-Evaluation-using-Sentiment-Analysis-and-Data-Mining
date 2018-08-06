@@ -1,0 +1,1 @@
+{"text": "Sexy, comfortable and nice. Wear well and wash well also. Perfect for the dress/skirts to wear underneath. Never knew what hit him lol", "sentiment": "positive", "topics": {"0": "0.19338548", "1": "0.6736585", "4": "0.09927705"}}

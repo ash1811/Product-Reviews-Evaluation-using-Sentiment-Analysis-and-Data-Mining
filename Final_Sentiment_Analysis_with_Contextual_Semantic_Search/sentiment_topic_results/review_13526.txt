@@ -1,0 +1,1 @@
+{"text": "fits very well, am pleased with it, as I am a big girl, no gap in the top of the bra", "sentiment": "negative", "topics": {"0": "0.014355556", "1": "0.4444658", "2": "0.14147379", "3": "0.25507313", "4": "0.01430996", "5": "0.01432974", "6": "0.11599207"}}

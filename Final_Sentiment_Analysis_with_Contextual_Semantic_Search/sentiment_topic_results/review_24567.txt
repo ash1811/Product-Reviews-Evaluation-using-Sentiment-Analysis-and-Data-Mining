@@ -1,0 +1,1 @@
+{"text": "Exactly as expected.  Doesn't ride too high on the sides.  Cap sleeves are just the right length.  Quite pleased overall.", "sentiment": "positive", "topics": {"0": "0.13150285", "1": "0.33710194", "2": "0.011006549", "3": "0.0110465605", "4": "0.011045", "5": "0.011024039", "6": "0.4872731"}}

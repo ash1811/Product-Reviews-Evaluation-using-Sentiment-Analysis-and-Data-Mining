@@ -1,0 +1,1 @@
+{"text": "i love ugg!!!love all this brand shoes!!!wear them so nice!i love ugg!!!love all this brand shoes!!!wear them so nice!i love ugg!!!love all this brand shoes!!!wear them so nice!", "sentiment": "negative", "topics": {"0": "0.44397792", "1": "0.20934793", "3": "0.3108995"}}

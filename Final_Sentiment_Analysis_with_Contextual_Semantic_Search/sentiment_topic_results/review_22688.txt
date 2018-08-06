@@ -1,0 +1,1 @@
+{"text": "good will be ordering more would like to see tee-shirts in 9 pack assortment  or  how about long johns winter", "sentiment": "negative", "topics": {"0": "0.011010546", "1": "0.46493006", "2": "0.3068548", "3": "0.011010268", "4": "0.071557455", "5": "0.011020451", "6": "0.12361639"}}

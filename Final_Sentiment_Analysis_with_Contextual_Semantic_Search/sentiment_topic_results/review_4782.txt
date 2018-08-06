@@ -1,0 +1,1 @@
+{"text": "I must say I was sad that these were too small for me, as I jut knew I ordered the right size, but I guess you no longer had my size in the style I wanted and it automatically went to the style that was in my size.", "sentiment": "positive", "topics": {"0": "0.08969627", "3": "0.29835537", "4": "0.31270716", "5": "0.08426024", "6": "0.20064959"}}

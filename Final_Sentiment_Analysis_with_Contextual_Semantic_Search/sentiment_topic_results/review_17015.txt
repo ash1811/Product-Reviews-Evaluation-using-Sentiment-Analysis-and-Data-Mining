@@ -1,0 +1,1 @@
+{"text": "Shirt fits well and I'll probably buy at least one more.  It's also has very comfortable collar compared to my previous tux dress shirt of the same size.", "sentiment": "positive", "topics": {"1": "0.59917986", "3": "0.16467243", "4": "0.11420767", "6": "0.09932683"}}

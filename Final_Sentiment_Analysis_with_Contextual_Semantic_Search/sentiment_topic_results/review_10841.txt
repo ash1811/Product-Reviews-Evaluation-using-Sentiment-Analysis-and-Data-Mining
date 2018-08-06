@@ -1,0 +1,1 @@
+{"text": "This is a comfy winter to summer slipper. The insole padding is thick and wears well. Haven't washed yet but feel confident they will wash well.", "sentiment": "negative", "topics": {"1": "0.23269916", "2": "0.21569534", "5": "0.40138698", "6": "0.12334224"}}

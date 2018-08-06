@@ -1,0 +1,1 @@
+{"text": "i bought it some days ago , it fits somewhat big , anyway i'm giving it 5 stars. wery comfortable to wear, i am very satisfied with my purchease ! highl7y recommended,", "sentiment": "negative", "topics": {"1": "0.39216053", "2": "0.3449133", "6": "0.23275714"}}

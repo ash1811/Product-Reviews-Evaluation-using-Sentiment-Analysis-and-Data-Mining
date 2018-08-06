@@ -1,0 +1,1 @@
+{"text": "we are always buying him carhartt and the stores never have his size.  i will be buying them on here from now on", "sentiment": "positive", "topics": {"0": "0.017907169", "1": "0.46239445", "2": "0.017919106", "3": "0.01791009", "4": "0.01791217", "5": "0.01794711", "6": "0.4480099"}}

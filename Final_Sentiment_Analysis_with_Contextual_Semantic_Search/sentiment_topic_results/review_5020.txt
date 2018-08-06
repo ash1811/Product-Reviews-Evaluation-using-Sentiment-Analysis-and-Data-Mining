@@ -1,0 +1,1 @@
+{"text": "bought these for my dad who buys his shoes at kmart. He absolutely loved them and called twice after wearing them to say how gret they are...", "sentiment": "negative", "topics": {"0": "0.010212932", "1": "0.5686878", "2": "0.24018535", "3": "0.010213587", "4": "0.088329844", "5": "0.010217128", "6": "0.072153404"}}

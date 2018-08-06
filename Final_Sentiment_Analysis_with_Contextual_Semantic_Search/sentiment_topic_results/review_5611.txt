@@ -1,0 +1,1 @@
+{"text": "Shorts are sized to fit.  There is no pocket on them.  Elastic works great.  Has a drawstring.  Good value for the money.", "sentiment": "negative", "topics": {"0": "0.113328084", "1": "0.45987108", "2": "0.20230326", "3": "0.011046618", "4": "0.011011323", "5": "0.011059706", "6": "0.19137993"}}

@@ -1,0 +1,1 @@
+{"text": "Was skeptical about quality because of the price, but this set turned out to be more than I was expecting.  Of course it's all plastic, but it's all very sturdy and has held up to many, many play times.", "sentiment": "positive", "topics": {"1": "0.39648458", "2": "0.11002795", "4": "0.3922377", "5": "0.07255754"}}

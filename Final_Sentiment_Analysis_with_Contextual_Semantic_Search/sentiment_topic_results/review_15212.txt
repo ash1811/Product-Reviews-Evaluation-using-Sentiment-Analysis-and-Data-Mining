@@ -1,0 +1,1 @@
+{"text": "good, comfortable boxer briefs for the price.  you get four for the price that you can buy one.  If you don't care about the designer stuff, these will work well for you.", "sentiment": "negative", "topics": {"1": "0.56032026", "3": "0.117606334", "4": "0.21191926", "6": "0.084883414"}}

@@ -1,0 +1,1 @@
+{"text": "I love this ring for it's sparkle, durability, and comfort.  It's my &#34;go to&#34; ring for my everyday !!  So reasonably priced as well.", "sentiment": "negative", "topics": {"0": "0.010996385", "1": "0.39561492", "2": "0.011033475", "3": "0.010995661", "4": "0.39436284", "5": "0.011006486", "6": "0.16599028"}}

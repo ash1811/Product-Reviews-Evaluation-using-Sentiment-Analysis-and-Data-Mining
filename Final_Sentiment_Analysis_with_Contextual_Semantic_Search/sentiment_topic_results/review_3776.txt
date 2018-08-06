@@ -1,0 +1,1 @@
+{"text": "i love this shade, perfect if you have oval shape face or big head :-) . I always receive a compliment whenever I wear this one..came on time and packaging was great..", "sentiment": "negative", "topics": {"0": "0.21776062", "1": "0.34332302", "4": "0.40704095"}}

@@ -1,0 +1,1 @@
+{"text": "I got this for my kids to wear when they are playing with the Matchbox Smokey fire truck.  They just love trucks.", "sentiment": "negative", "topics": {"0": "0.21743871", "1": "0.013000805", "2": "0.012991481", "3": "0.3050739", "4": "0.14215863", "5": "0.29631382", "6": "0.013022616"}}

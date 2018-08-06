@@ -1,0 +1,1 @@
+{"text": "This watch is small and thin.  I keep this watch on the work bench and wear it when working on tasks that my ordinary watch would get in the way.  5 stars for being a value at $9.", "sentiment": "negative", "topics": {"1": "0.3184615", "2": "0.35190344", "5": "0.13944648", "6": "0.16867594"}}

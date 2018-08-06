@@ -1,0 +1,1 @@
+{"text": "This hat is warm and not itchy. It's made in the USA and less than ten bucks. What's not to love?", "sentiment": "positive", "topics": {"0": "0.012993214", "1": "0.23658063", "2": "0.11851408", "3": "0.013029179", "4": "0.48932183", "5": "0.0129984375", "6": "0.116562605"}}

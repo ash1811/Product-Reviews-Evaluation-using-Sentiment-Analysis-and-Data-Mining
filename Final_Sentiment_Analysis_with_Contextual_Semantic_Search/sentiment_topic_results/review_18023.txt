@@ -1,0 +1,1 @@
+{"text": "Was very happy with watch as I had purchased the same one in black a couple of years ago. Reason for buying it had the Velcro strap buckle which gave a perfect fit and easy to put on.", "sentiment": "negative", "topics": {"0": "0.18101218", "1": "0.32484093", "2": "0.2535241", "6": "0.2190851"}}

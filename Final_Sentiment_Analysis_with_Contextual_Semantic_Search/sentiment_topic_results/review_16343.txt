@@ -1,0 +1,1 @@
+{"text": "This is a simple and light sandals perfect for my choice. The description matches and fitted as expected. Recommended to anyone", "sentiment": "positive", "topics": {"0": "0.2342525", "1": "0.35453743", "2": "0.27244702", "3": "0.0119752595", "4": "0.011918889", "5": "0.011960172", "6": "0.102908745"}}

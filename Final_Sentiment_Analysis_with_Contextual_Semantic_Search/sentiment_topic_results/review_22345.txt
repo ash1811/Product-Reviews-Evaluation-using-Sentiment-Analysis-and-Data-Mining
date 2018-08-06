@@ -1,0 +1,1 @@
+{"text": "Very comfortable. Easy to wear & wash.Got medium sized pairs for my wife and large sized pairs for myself to use on vibram fivefinger shoes.Keeps dirt and sand out & protects ankles from chaffing.", "sentiment": "negative", "topics": {"0": "0.06980535", "1": "0.16944255", "2": "0.19142334", "3": "0.48108763", "5": "0.074590825"}}

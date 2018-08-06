@@ -1,0 +1,1 @@
+{"text": "Got a large, the arms are way to long. But its a nice shirt. If you can deal with elbow length arms then I would recommend", "sentiment": "negative", "topics": {"0": "0.010236593", "1": "0.34578124", "2": "0.010225718", "3": "0.42754978", "4": "0.01024065", "5": "0.010239327", "6": "0.18572669"}}

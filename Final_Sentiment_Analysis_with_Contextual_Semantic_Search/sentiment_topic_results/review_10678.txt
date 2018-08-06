@@ -1,0 +1,1 @@
+{"text": "Good product, the boots are very nice, soft and light but strong and durable, they have come out very good quality", "sentiment": "negative", "topics": {"0": "0.011936158", "1": "0.6848348", "2": "0.011919342", "3": "0.011936129", "4": "0.115673155", "5": "0.15176949", "6": "0.011930953"}}

@@ -1,0 +1,1 @@
+{"text": "Bought it to protect myself from the harsh desert elements in my locale when I'm out at the range. Fits well and comfortably. It was inexpensive and it works.", "sentiment": "negative", "topics": {"0": "0.11060227", "1": "0.18799065", "2": "0.01025933", "3": "0.12768437", "4": "0.30898595", "5": "0.24426115", "6": "0.01021631"}}

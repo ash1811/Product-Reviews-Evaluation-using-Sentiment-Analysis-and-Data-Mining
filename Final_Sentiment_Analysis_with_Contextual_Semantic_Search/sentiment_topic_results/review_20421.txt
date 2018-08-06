@@ -1,0 +1,1 @@
+{"text": "These shoe are extremely comfortable.  Did not give it five stars because they are not too cute.  They are somewhat homely looking.", "sentiment": "positive", "topics": {"0": "0.15580279", "1": "0.32266867", "2": "0.46942312", "3": "0.013063442", "4": "0.012996771", "5": "0.013052294", "6": "0.0129929455"}}

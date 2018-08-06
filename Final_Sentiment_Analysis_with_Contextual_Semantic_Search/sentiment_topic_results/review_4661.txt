@@ -1,0 +1,1 @@
+{"text": "Oh I mean, handsome son wearing this pair of shoes. Very good quality. Wouldn't buy any other brand but Sperry. Hm...might be because handsome son won't wear anything else but Sperry. Wait. Why not have him buy his own shoes?", "sentiment": "positive", "topics": {"1": "0.5269272", "2": "0.27945304", "3": "0.10547082", "6": "0.06943816"}}

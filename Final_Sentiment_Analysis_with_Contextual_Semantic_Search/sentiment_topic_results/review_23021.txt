@@ -1,0 +1,1 @@
+{"text": "A bit tight on the back. I like champion double dry much better, Shape wise.This one is not good for running.", "sentiment": "negative", "topics": {"1": "0.45889837", "2": "0.3643851", "5": "0.13846542"}}

@@ -1,0 +1,1 @@
+{"text": "I bought thes earrings(and pendant)for myself. They are absolutely beautiful, they have so much shine and sparkle to them. Everyone keeps asking me where i got them, i'm reluctant to tell but I do. :-)", "sentiment": "negative", "topics": {"0": "0.11410175", "2": "0.27138275", "3": "0.18160112", "4": "0.21258181", "5": "0.13911204", "6": "0.074393556"}}

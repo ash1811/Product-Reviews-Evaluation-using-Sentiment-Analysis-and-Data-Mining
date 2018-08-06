@@ -1,0 +1,1 @@
+{"text": "I wear 32x32 jeans, which I bought.  But they're too baggy in the thigh and seat for me.  I don't want skinny jeans, but these have almost a relaxed character.The color is very dark, the fabric quite soft.  Well made.", "sentiment": "negative", "topics": {"0": "0.19014788", "1": "0.18146658", "2": "0.1530402", "4": "0.08548081", "5": "0.29081893", "6": "0.09281166"}}

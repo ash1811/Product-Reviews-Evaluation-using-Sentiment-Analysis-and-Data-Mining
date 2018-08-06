@@ -1,0 +1,1 @@
+{"text": "I love these sneakers. I need a shoe fast these are great to just slip on in a hurry.They are great.", "sentiment": "negative", "topics": {"0": "0.49457574", "1": "0.014349552", "2": "0.14545417", "3": "0.014302425", "4": "0.2024794", "5": "0.014351735", "6": "0.11448695"}}

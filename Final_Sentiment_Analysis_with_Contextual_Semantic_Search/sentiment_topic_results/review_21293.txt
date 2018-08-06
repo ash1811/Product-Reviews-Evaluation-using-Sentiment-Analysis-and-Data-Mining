@@ -1,0 +1,1 @@
+{"text": "every pain of heel i own (over 80) has this on place.. I have narrow heels and without these my shoes slpi off and I fall every step I take.. not with these ! love them to death!", "sentiment": "negative", "topics": {"1": "0.47146782", "2": "0.17747684", "3": "0.23784187", "6": "0.08927763"}}

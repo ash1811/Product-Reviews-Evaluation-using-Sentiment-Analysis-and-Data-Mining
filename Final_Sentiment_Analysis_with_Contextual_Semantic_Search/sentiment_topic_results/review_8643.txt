@@ -1,0 +1,1 @@
+{"text": "Been using it for the past 5 years and I haven't changed the battery. Tough built. Strap has faded in color but still going strong.Highly recommended.", "sentiment": "negative", "topics": {"0": "0.2300879", "1": "0.260101", "2": "0.26526645", "3": "0.21768373"}}

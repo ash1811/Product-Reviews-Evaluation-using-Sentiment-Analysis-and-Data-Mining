@@ -1,0 +1,1 @@
+{"text": "These fit well and seem to be durable.  I wish they were made in America though.  Fit well on our 1 year niece, so I would suggest ordering them a bit big for your baby.", "sentiment": "negative", "topics": {"0": "0.21886392", "1": "0.68589735", "4": "0.066603795"}}

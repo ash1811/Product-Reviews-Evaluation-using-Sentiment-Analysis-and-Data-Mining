@@ -1,0 +1,1 @@
+{"text": "It is cute, pink, and well made.  The numbers are large and easy to read and it is great for a child learning to tell time on a analog watch.  My daughter loves hers.", "sentiment": "negative", "topics": {"2": "0.19917868", "3": "0.5488209", "4": "0.16034804", "6": "0.06897395"}}

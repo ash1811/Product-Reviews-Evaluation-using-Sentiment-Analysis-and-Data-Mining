@@ -1,0 +1,1 @@
+{"text": "These were quite heavy.  My son said his feet sweat when he wore them with his boots.  So he wears them around the house instead of slippers.  They have held up to many washings.  I would recommend them.", "sentiment": "positive", "topics": {"1": "0.13367802", "3": "0.3633893", "4": "0.30224708", "6": "0.17916079"}}

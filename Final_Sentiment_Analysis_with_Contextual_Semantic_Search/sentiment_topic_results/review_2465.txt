@@ -1,0 +1,1 @@
+{"text": "Happy with my Rainbows. The color I received was lighter than depicted but I am fine with it. Hopefully they'll darken up as I break them in.", "sentiment": "positive", "topics": {"0": "0.18932503", "1": "0.010285556", "2": "0.09035168", "3": "0.08120513", "4": "0.2586368", "5": "0.2857683", "6": "0.08442752"}}

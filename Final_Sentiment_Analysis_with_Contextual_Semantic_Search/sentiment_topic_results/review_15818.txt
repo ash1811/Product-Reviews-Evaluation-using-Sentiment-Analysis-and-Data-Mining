@@ -1,0 +1,1 @@
+{"text": "My mom loved her necklace. I would recommend this necklace as a gift for any occasion for that special woman in your life.", "sentiment": "negative", "topics": {"0": "0.43778512", "1": "0.5026079", "2": "0.011933873", "3": "0.011917222", "4": "0.01190964", "5": "0.011916851", "6": "0.011929414"}}

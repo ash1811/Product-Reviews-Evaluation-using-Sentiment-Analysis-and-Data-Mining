@@ -1,0 +1,1 @@
+{"text": "My 15 year daughter who refuses to carry a purse used this when traveling. Was PERFECT! fit cell phone, money, cards, etc.I want one myself!", "sentiment": "positive", "topics": {"0": "0.20472294", "1": "0.34466907", "2": "0.12488184", "4": "0.1390348", "5": "0.12424706", "6": "0.05487907"}}

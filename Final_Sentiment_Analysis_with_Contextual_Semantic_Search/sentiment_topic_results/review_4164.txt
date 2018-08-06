@@ -1,0 +1,1 @@
+{"text": "Great pants but they are a tad too big. But that is not the order fault of the seller. I am small boned and only 5-3 so. I will reorder for a small size.", "sentiment": "negative", "topics": {"0": "0.26118067", "1": "0.3935337", "2": "0.1100797", "6": "0.20656487"}}

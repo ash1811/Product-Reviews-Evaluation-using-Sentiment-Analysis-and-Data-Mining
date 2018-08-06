@@ -1,0 +1,1 @@
+{"text": "My sister-in-law loved these slippers.  Not a skimpy slipper.........she tossed her old ones and said these slippers are the ones for her.", "sentiment": "positive", "topics": {"0": "0.4789757", "1": "0.011079818", "2": "0.2492962", "3": "0.01112519", "4": "0.011082", "5": "0.011041527", "6": "0.22739953"}}

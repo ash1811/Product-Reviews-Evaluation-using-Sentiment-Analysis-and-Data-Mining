@@ -1,0 +1,1 @@
+{"text": "Ordered and delivered as stated. Would definitely use again. Fruit of the loom is good quality for the money. Washed and did not run.", "sentiment": "negative", "topics": {"1": "0.24147448", "2": "0.090588085", "3": "0.21534108", "4": "0.11399868", "5": "0.31952927"}}

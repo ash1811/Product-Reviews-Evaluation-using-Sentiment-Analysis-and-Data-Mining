@@ -1,0 +1,1 @@
+{"text": "We always feel confident buying underwear from this company.  It washes well, holds its shape and is comfortable for all day wear.", "sentiment": "positive", "topics": {"0": "0.010240952", "1": "0.1565713", "2": "0.16696823", "3": "0.2996584", "4": "0.010222893", "5": "0.34607825", "6": "0.010260005"}}

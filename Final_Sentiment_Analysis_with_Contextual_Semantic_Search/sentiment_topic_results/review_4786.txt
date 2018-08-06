@@ -1,0 +1,1 @@
+{"text": "they would be a dark blue with yellow seem. I like these jeans. I am wearing them now! I dig them. probably going to buy 2 more next month and get both colors for fun....", "sentiment": "positive", "topics": {"0": "0.6222752", "1": "0.34355867"}}

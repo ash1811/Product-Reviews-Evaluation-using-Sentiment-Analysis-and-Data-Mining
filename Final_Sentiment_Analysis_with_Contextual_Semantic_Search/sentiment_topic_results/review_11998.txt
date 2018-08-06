@@ -1,0 +1,1 @@
+{"text": "Good sized for me to go to the gym and carry my shoes and stuff for spin class. Decent quality for the price.", "sentiment": "negative", "topics": {"0": "0.011020854", "1": "0.2199219", "2": "0.1930085", "3": "0.39626774", "4": "0.15772454", "5": "0.011053521", "6": "0.011002962"}}

@@ -1,0 +1,1 @@
+{"text": "I have large size 14 feet and this shoe is generally massive and very bulky so at size 14 it was like a boat. I sent it back as I didn't like the style. Quality looked ok", "sentiment": "negative", "topics": {"0": "0.20293386", "1": "0.24830408", "2": "0.12978223", "5": "0.17140536", "6": "0.23318544"}}

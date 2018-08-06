@@ -1,0 +1,1 @@
+{"text": "I LOVE shoes.  constantly ordering new shoes.  these, by far, are my favorite.  I ordered a 1/2 size smaller then id normally buy.  I have wide feet so this concerned me in the beginning but they break in very nicely.", "sentiment": "positive", "topics": {"1": "0.36973625", "2": "0.18469296", "3": "0.33629626", "4": "0.09059231"}}

@@ -1,0 +1,1 @@
+{"text": "Cute Boot - delivery was slow and the boot will fit smaller framed girls but not bigger girls. Get a half size bigger than you normally would.", "sentiment": "positive", "topics": {"1": "0.08782926", "3": "0.43871468", "4": "0.287606", "6": "0.16193938"}}

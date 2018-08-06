@@ -1,0 +1,1 @@
+{"text": "My husband purchased these overshoes to protect his loafers from light rain and snow.  He is happy, they fit his shoes and seem durable.", "sentiment": "negative", "topics": {"0": "0.010223071", "1": "0.40438744", "2": "0.11278664", "3": "0.010211678", "4": "0.35587293", "5": "0.096308716", "6": "0.010209487"}}

@@ -1,0 +1,1 @@
+{"text": "I thought these were blue lenses but they are like a rainbow color, Not just traditional blue lenses.  I kept them and they will work fine, but not what I expected.", "sentiment": "negative", "topics": {"0": "0.28181225", "1": "0.39031035", "2": "0.091518916", "3": "0.11730991", "4": "0.010239554", "5": "0.098571315", "6": "0.010237692"}}

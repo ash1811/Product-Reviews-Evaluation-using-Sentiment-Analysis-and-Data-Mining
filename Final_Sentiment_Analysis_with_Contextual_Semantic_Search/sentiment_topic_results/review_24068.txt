@@ -1,0 +1,1 @@
+{"text": "Flimsy construction and fastening. A waste of money. Possible usable but cannot reommend due to poor quality & poor choice of fastenting device.", "sentiment": "negative", "topics": {"0": "0.25742784", "1": "0.13304536", "2": "0.18147391", "3": "0.16776717", "5": "0.24342187"}}

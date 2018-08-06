@@ -1,0 +1,1 @@
+{"text": "My son who is 3 and we can't seem to get him potty train at night. Order these to help us with the night bed wets. It fits him perfect and lets him know when he pee's.", "sentiment": "negative", "topics": {"0": "0.11247845", "1": "0.39854082", "2": "0.18062411", "4": "0.14004438", "6": "0.1539792"}}

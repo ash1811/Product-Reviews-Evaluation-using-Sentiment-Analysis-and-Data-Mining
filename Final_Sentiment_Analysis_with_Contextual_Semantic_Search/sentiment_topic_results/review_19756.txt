@@ -1,0 +1,1 @@
+{"text": "I was looking for sweats for my bf & read a review from someone else who purchased these.  Based on his review, I purchased them and I am so glad.  These sweats are nice and heavy and soft!", "sentiment": "negative", "topics": {"1": "0.40977538", "2": "0.17508325", "3": "0.09741684", "4": "0.24890842", "6": "0.052886635"}}

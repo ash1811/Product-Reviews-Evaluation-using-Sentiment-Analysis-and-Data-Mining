@@ -1,0 +1,1 @@
+{"text": "Perfect quality work pants! Great price and great fit! I would highly recommend these pants for nurses ad culinary workers!", "sentiment": "negative", "topics": {"1": "0.6547935", "2": "0.06940348", "4": "0.07372225", "5": "0.17683578"}}

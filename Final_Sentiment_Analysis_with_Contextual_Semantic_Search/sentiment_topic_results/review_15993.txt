@@ -1,0 +1,1 @@
+{"text": "i love these flip flops.  they're so much more comfortable than my rainbows.  i only wish i had discovered them sooner.  they're soft on my feet, yet i can still wear them a decent distance (as far as flip flops go).", "sentiment": "negative", "topics": {"1": "0.3187343", "2": "0.15212473", "4": "0.12214378", "5": "0.38910007"}}

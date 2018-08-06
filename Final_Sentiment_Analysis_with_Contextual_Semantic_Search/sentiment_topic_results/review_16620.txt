@@ -1,0 +1,1 @@
+{"text": "this watch functions great but now that I have it I really dont care for the looks of it. I shoulda opted for a more expensive one or a cheep knock off walmart one...", "sentiment": "negative", "topics": {"1": "0.36435136", "2": "0.51793605", "5": "0.084043756"}}

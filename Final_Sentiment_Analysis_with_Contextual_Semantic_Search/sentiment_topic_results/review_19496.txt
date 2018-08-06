@@ -1,0 +1,1 @@
+{"text": "Do like this shoe but wish it was not a &#34;tie&#34; shoe.  Love the other sketchers that you can just slip on.  But the fit is good and very comfortable.", "sentiment": "negative", "topics": {"0": "0.12260755", "1": "0.38196677", "2": "0.2524454", "3": "0.011018167", "4": "0.01104474", "5": "0.09660481", "6": "0.124312565"}}

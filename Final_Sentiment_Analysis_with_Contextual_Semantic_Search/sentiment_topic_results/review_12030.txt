@@ -1,0 +1,1 @@
+{"text": "I purchased these shoes for my mother. They are suppose to be the color pewter but are light gold. She does not like them. Therefore I am returning them.", "sentiment": "positive", "topics": {"0": "0.14996937", "1": "0.21420512", "2": "0.2844572", "3": "0.32071254", "4": "0.01020923", "5": "0.010217378", "6": "0.010229155"}}

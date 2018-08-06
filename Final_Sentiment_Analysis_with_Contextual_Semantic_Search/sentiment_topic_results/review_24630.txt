@@ -1,0 +1,1 @@
+{"text": "This is a quality leotard. I have washed this a lot and have not had a problem with the construction. I have had no unraveling or pilling. This is a great leotard. Fits my daughter very well.", "sentiment": "negative", "topics": {"0": "0.113604255", "1": "0.37941617", "2": "0.01022613", "3": "0.26833475", "4": "0.010220877", "5": "0.20799147", "6": "0.010206326"}}

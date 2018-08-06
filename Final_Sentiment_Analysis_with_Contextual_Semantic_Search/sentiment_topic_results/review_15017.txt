@@ -1,0 +1,1 @@
+{"text": "These boot tops look great.  One of the buttons was falling off, but it was an easy fix.  The boot tops are knee high and fit great. Several people thought I was wearing actual boots.", "sentiment": "negative", "topics": {"1": "0.3272114", "3": "0.1704404", "4": "0.27889186", "6": "0.20476219"}}

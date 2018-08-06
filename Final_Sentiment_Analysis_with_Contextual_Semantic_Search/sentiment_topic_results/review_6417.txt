@@ -1,0 +1,1 @@
+{"text": "This is the second pair of socks I own from Thorlo they are very padded in the right areas for comfort.  Excellant Socks for running.", "sentiment": "positive", "topics": {"0": "0.011909919", "1": "0.33593392", "2": "0.011908669", "3": "0.0119370585", "4": "0.140155", "5": "0.31750652", "6": "0.1706489"}}

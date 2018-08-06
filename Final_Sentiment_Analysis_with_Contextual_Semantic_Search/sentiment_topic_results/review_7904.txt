@@ -1,0 +1,1 @@
+{"text": "- Warm enough for ~10 celsius degree night- Help to protect muscles- Not ugly-looking- fits well in size", "sentiment": "negative", "topics": {"0": "0.010208629", "1": "0.43410188", "2": "0.16179368", "3": "0.010251335", "4": "0.19945104", "5": "0.010216175", "6": "0.17397724"}}

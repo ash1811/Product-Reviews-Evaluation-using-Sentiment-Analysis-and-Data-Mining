@@ -1,0 +1,1 @@
+{"text": "Great Crocs, as always. I love how durable they are. My son wears them all year, outdoors in summer and as slippers in winter. The yellow is very bright, but looks awesome. My son wears size 9 shoes but does well with the 10/11 Crocs.", "sentiment": "positive", "topics": {"1": "0.44965002", "2": "0.15878946", "3": "0.075167604", "5": "0.19379877", "6": "0.11157649"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans look great, feel great, fit great! The material is very nice and feels very high quality! and at an awesome price!!", "sentiment": "negative", "topics": {"0": "0.2290506", "1": "0.5911176", "6": "0.14160644"}}

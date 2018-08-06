@@ -1,0 +1,1 @@
+{"text": "They are comfortable, but just a little big.  I am sure he will grow into these.  The fabric is soft and the color holds up well.", "sentiment": "negative", "topics": {"0": "0.011960247", "1": "0.5040932", "2": "0.12663238", "3": "0.24831362", "4": "0.011908286", "5": "0.085178025", "6": "0.011914194"}}

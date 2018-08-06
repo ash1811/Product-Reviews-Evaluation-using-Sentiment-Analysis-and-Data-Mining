@@ -1,0 +1,1 @@
+{"text": "They were comfortable right out of the box. They seem to be well constructed..For my purpose needed more arch support so added an insert and now shoes are perfect.My second pair of ECCO shoes and very pleased with both pair.", "sentiment": "negative", "topics": {"1": "0.31667918", "2": "0.25875548", "3": "0.33072314", "6": "0.07332682"}}

@@ -1,0 +1,1 @@
+{"text": "Nice, fits well, got large and my feet are 10&#34;. Soft enough, I buy Haynes all the time. It's the right price and durability for me.", "sentiment": "positive", "topics": {"1": "0.61166906", "2": "0.12510046", "4": "0.13355233", "6": "0.1043922"}}

@@ -1,0 +1,1 @@
+{"text": "I had no problems with these aqua socks since receiving them.  They were priced well and I haven't experienced any issues with the insoles separating, bunching, etc.  They do the trick.", "sentiment": "negative", "topics": {"1": "0.112769336", "3": "0.28057796", "4": "0.27491203", "5": "0.17505452", "6": "0.13875097"}}

@@ -1,0 +1,1 @@
+{"text": "it carried my husbands and mine ammo with no issues. It makes it easier to have and less to carry, since you are already carrying enough for anyone who has been hunting. Perfect size and woudl recommend", "sentiment": "positive", "topics": {"0": "0.27295607", "2": "0.11948854", "3": "0.22533217", "4": "0.17104796", "5": "0.07686426", "6": "0.12715548"}}

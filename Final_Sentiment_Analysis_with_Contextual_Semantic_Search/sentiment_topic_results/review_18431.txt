@@ -1,0 +1,1 @@
+{"text": "I love these legwarmers. They are long enough for legs or arms.  They stay up.  The assortment of colors is great.  I now own 7 pairs. They are the best for the cost by far.", "sentiment": "negative", "topics": {"0": "0.10588433", "1": "0.3543618", "2": "0.20146376", "4": "0.3129816"}}

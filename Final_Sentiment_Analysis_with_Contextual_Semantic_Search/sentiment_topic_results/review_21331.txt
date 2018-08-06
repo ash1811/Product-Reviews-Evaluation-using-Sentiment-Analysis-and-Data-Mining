@@ -1,0 +1,1 @@
+{"text": "This is a nice shirt and it looks nice.  It is Paciific Legend and has a different cut but a nice shirt", "sentiment": "negative", "topics": {"0": "0.19754918", "1": "0.61665004", "2": "0.012990981", "3": "0.013011765", "4": "0.012994558", "5": "0.13377842", "6": "0.013025017"}}

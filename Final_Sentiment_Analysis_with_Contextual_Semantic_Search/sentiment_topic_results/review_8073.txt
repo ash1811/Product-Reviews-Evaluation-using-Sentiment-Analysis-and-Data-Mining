@@ -1,0 +1,1 @@
+{"text": "This are the best dressing shoes I've purchased in a long while! Unfortunately I got the brown instead of black, but I'll get a new pair next month.", "sentiment": "negative", "topics": {"0": "0.09591267", "1": "0.23678124", "2": "0.16789821", "3": "0.36514714", "4": "0.11916661"}}

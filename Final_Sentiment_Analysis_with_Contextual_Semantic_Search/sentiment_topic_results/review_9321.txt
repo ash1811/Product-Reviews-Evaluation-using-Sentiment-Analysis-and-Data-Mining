@@ -1,0 +1,1 @@
+{"text": "Warm, comfortable, great fitting slippers...perfect for winter wearing around the house. Good value and well made. What more can I say...", "sentiment": "negative", "topics": {"1": "0.56669766", "6": "0.38548175"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband.  He loves them, I think they are not a fashion statement.  He thought he was wearing socks with them but I nixed that.  They are great for slipping on since he cant bend to put on shoes.", "sentiment": "negative", "topics": {"0": "0.11794759", "1": "0.164988", "2": "0.15315421", "3": "0.19849227", "4": "0.27913573", "5": "0.07913392"}}

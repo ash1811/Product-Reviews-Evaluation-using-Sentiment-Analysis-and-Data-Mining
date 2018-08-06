@@ -1,0 +1,1 @@
+{"text": "I love the color, the way it fits and looks.  It is perfect for me because I swim every day and go snorkeling several times a year.", "sentiment": "negative", "topics": {"0": "0.27112997", "1": "0.35852963", "4": "0.33210653"}}

@@ -1,0 +1,1 @@
+{"text": "My two year old loves these. She is in a size 6 and I ordered her the 6-7's and they are perfect. She can also wear them with socks. Considering she hates closed toe shoes, these ones passed the test!", "sentiment": "negative", "topics": {"0": "0.1927583", "1": "0.31163147", "2": "0.08481934", "3": "0.082179956", "4": "0.11995384", "5": "0.20213951"}}

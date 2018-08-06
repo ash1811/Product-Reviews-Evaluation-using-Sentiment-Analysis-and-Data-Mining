@@ -1,0 +1,1 @@
+{"text": "I am not much for fashion so I enjoy the simply look that Carhartt offers. Worked great all winter long would recommend to other users.", "sentiment": "negative", "topics": {"0": "0.17871556", "1": "0.501947", "3": "0.10431051", "5": "0.08742899", "6": "0.10850508"}}

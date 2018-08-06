@@ -1,0 +1,1 @@
+{"text": "Sterling Silver Channel Set Clear CZ Toe Ring is nice, but due to the weight of the stones it slides downwards, showing the opening of toe ring on back...", "sentiment": "negative", "topics": {"0": "0.04144803", "1": "0.47524506", "2": "0.18600546", "5": "0.19279985", "6": "0.09017206"}}

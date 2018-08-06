@@ -1,0 +1,1 @@
+{"text": "I really like this bag.  It's really durable and surprising the suits stay wrinkle free.  Plus it has several compartments to put other things.", "sentiment": "negative", "topics": {"1": "0.5270795", "2": "0.19922523", "3": "0.11479445", "6": "0.13201466"}}

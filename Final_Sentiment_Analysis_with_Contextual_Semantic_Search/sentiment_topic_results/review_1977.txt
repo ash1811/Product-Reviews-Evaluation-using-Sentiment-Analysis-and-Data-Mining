@@ -1,0 +1,1 @@
+{"text": "I wear these with professional orthotics as a nurse.  I am on my feet for 12 hours a day.  I used to have horrible foot pain after work but that is completely gone!", "sentiment": "negative", "topics": {"0": "0.4922551", "5": "0.46290976"}}

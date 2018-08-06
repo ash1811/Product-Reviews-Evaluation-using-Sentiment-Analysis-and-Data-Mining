@@ -1,0 +1,1 @@
+{"text": "My son loved this costume and wore to Disney when he was 8 years old.  Great product at reasonable price.", "sentiment": "negative", "topics": {"0": "0.25292835", "1": "0.3623939", "2": "0.088148795", "3": "0.011012925", "4": "0.011005482", "5": "0.26350814", "6": "0.011002402"}}

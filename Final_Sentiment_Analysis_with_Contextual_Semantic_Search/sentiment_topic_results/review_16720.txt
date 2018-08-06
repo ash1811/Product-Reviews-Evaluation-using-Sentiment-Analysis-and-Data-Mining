@@ -1,0 +1,1 @@
+{"text": "Great quality cargo pants period.  The service is Excellent.  To help a little, I am 32w 30L.  I flirt around with both sizes of small and medium but the small fits more snub.", "sentiment": "positive", "topics": {"1": "0.44486317", "2": "0.12983015", "5": "0.16861062", "6": "0.23521955"}}

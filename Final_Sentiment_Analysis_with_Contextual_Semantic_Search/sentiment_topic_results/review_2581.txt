@@ -1,0 +1,1 @@
+{"text": "I just love having no tags.. I wish more items would have no tags. Panties are cotton making them cool and they breath.", "sentiment": "positive", "topics": {"0": "0.011982433", "1": "0.25705206", "2": "0.18287224", "3": "0.30216748", "4": "0.011950457", "5": "0.011994161", "6": "0.22198115"}}

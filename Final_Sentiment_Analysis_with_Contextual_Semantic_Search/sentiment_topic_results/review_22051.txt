@@ -1,0 +1,1 @@
+{"text": "Product is just what my hubby wanted and needs. He says they are comfortble and they do the job of keeping him warm. Size up one size was what I ordered for him and he is happy with fit.", "sentiment": "negative", "topics": {"1": "0.44465998", "5": "0.23589338", "6": "0.28360227"}}

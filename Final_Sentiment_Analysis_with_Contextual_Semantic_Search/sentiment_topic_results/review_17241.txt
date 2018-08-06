@@ -1,0 +1,1 @@
+{"text": "These shoes were replacements for a larger pair that I had ordered and returned.  I wear a size 9M in most all of my shoes but apparently a size 8 in these.  These were nice looking shoes but did not run true to size.", "sentiment": "negative", "topics": {"1": "0.13962953", "2": "0.4052918", "3": "0.42781684"}}

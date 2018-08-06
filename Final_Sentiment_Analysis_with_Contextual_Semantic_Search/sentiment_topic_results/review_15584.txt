@@ -1,0 +1,1 @@
+{"text": "Washes and dries nicely, and my hubby looks good in it.  I plan to buy him more such PJ's as needed.", "sentiment": "positive", "topics": {"0": "0.01196501", "1": "0.4680545", "2": "0.011944051", "3": "0.1167968", "4": "0.0120076025", "5": "0.3672929", "6": "0.011939119"}}

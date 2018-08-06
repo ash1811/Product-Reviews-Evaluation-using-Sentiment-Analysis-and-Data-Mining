@@ -1,0 +1,1 @@
+{"text": "Great UGG comfort.  My only issue is that i've bought a couple pair of these and the sherpa lining always wears off.  I wear slippers a lot around the house and the sherpa wears off at the heel in a matter of months.", "sentiment": "negative", "topics": {"0": "0.07342989", "1": "0.18550071", "3": "0.16716427", "4": "0.061722513", "5": "0.40875372", "6": "0.09745454"}}

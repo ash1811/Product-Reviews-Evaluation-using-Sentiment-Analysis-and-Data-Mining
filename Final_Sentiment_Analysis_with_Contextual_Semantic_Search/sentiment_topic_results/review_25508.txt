@@ -1,0 +1,1 @@
+{"text": "Oh my gosh, even Bra Discs aren't this bad.  These are like a cruel joke on women seeking a nipple concealment solution.  They make you look like you have BIG, PROTRUDING, HARD, areolas.", "sentiment": "positive", "topics": {"0": "0.2786893", "1": "0.23807907", "2": "0.05286448", "3": "0.16798386", "4": "0.05387311", "6": "0.20201033"}}

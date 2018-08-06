@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Sanuk yoga mat flip flops. These are the most comfortable flip flops I have worn. They stand up to grimy conditions and don't absorb stinky odors. Highly recommended.", "sentiment": "negative", "topics": {"0": "0.06232826", "1": "0.40001827", "2": "0.40788198", "6": "0.10818583"}}

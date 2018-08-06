@@ -1,0 +1,1 @@
+{"text": "I'm loving these!  Definitely worth the money in my book.  I've paid just as much - and more - for sunglasses w/ less lens clarity. Go for it!  You won't be sorry.", "sentiment": "positive", "topics": {"0": "0.36645553", "2": "0.05928689", "3": "0.29751357", "4": "0.18574049", "6": "0.07586446"}}

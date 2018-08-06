@@ -1,0 +1,1 @@
+{"text": "Look ok seems to have a good quality non slip shoes, Fit ok if your feet are skinny otherwise i do not recomend it to buy it.", "sentiment": "negative", "topics": {"0": "0.11486393", "1": "0.48688793", "2": "0.1507122", "3": "0.12050967", "5": "0.11004958"}}

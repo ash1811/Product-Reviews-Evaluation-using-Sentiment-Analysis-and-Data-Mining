@@ -1,0 +1,1 @@
+{"text": "If you don't know how to self tie this will get you by at a party or for a costume.", "sentiment": "negative", "topics": {"0": "0.38625348", "1": "0.020462597", "2": "0.24147895", "3": "0.29043704", "4": "0.020432837", "5": "0.020440435", "6": "0.020494675"}}

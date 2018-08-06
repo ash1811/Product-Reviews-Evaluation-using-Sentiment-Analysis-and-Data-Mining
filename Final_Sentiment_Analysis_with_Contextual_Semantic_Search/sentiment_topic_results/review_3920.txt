@@ -1,0 +1,1 @@
+{"text": "I needed to get these for their arch support.  And they are perfect!  These are the highest quality slippers I've ever worn.", "sentiment": "positive", "topics": {"0": "0.011941221", "1": "0.17663561", "2": "0.011936345", "3": "0.3880796", "4": "0.011919479", "5": "0.11855101", "6": "0.28093672"}}

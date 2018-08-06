@@ -1,0 +1,1 @@
+{"text": "it is okay because you can ease a choking neck from a buttoned up neck from a shirt or pretty blouse.for all these reasons I like it.so i recommend it too everyone who has to deal with a too tight a shirt or blouse neck.", "sentiment": "negative", "topics": {"1": "0.34387985", "2": "0.18665947", "3": "0.10417233", "4": "0.10991963", "5": "0.0990932", "6": "0.14910875"}}

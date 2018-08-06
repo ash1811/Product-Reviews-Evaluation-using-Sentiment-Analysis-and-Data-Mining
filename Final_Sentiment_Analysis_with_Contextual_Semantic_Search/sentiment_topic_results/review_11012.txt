@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Acorns. They do run a tad big but they are sturdy and comfy and always a good value. Not sure if I'll throw the Chinchilla's in the washer but I have my other pair and they've held up just fine.", "sentiment": "positive", "topics": {"1": "0.3057182", "2": "0.22643752", "3": "0.28864008", "4": "0.05446978", "6": "0.11110742"}}

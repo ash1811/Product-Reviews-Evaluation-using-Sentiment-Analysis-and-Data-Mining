@@ -1,0 +1,1 @@
+{"text": "I bought a new watch on amazon and used this to ajust the band.  I look up how to do it on Utube and had not problem doing the work myself.", "sentiment": "negative", "topics": {"0": "0.011066209", "1": "0.3411763", "2": "0.19652432", "3": "0.27292752", "4": "0.15628552", "5": "0.011013944", "6": "0.01100617"}}

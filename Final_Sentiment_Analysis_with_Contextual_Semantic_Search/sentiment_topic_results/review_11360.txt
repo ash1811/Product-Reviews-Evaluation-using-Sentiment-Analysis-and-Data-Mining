@@ -1,0 +1,1 @@
+{"text": "Basic briefs are perfect: the fabric and the cut. The fabric stretches--but not too much! The cut is also part of the comfort factor; roomy where they need to be, but tight where they need to be", "sentiment": "positive", "topics": {"1": "0.3963171", "4": "0.12768586", "5": "0.10432338", "6": "0.34909263"}}

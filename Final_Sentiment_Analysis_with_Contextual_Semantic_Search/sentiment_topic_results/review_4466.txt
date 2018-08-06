@@ -1,0 +1,1 @@
+{"text": "This article conforms to the reality of the announcement.good finish, excellent modelcontinue satisfying the customer with your service, greetings", "sentiment": "negative", "topics": {"0": "0.011918741", "1": "0.30402148", "2": "0.24642205", "3": "0.0119251115", "4": "0.31593534", "5": "0.011950529", "6": "0.09782679"}}

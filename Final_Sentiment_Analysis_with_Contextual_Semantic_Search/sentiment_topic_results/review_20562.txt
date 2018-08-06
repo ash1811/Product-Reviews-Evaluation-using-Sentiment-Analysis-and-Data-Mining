@@ -1,0 +1,1 @@
+{"text": "I have feet that are difficult to fit, as well as difficult to keep pain free. These sandals make it possible every spring and summer to walk with no pain. This is a color that will go with anything. I love this shoe.", "sentiment": "positive", "topics": {"1": "0.22813791", "2": "0.26889932", "3": "0.18450993", "5": "0.18021333", "6": "0.12516035"}}

@@ -1,0 +1,1 @@
+{"text": "I love these water sandals.  They are very comfortable and great protection.  Great purchase.and I would buy them again. Thank you.", "sentiment": "negative", "topics": {"0": "0.0102251405", "1": "0.4413981", "2": "0.2333266", "3": "0.010264129", "4": "0.15311743", "5": "0.1414604", "6": "0.010208167"}}

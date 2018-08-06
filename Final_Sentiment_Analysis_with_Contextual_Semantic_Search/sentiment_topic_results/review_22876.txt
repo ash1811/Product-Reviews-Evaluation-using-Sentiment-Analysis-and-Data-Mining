@@ -1,0 +1,1 @@
+{"text": "Nothing bad yet, will update as they wear. Been through the wash a few times, not much shrinking or color fading.", "sentiment": "negative", "topics": {"0": "0.011918862", "1": "0.23975809", "2": "0.011909426", "3": "0.011918911", "4": "0.11746621", "5": "0.5951037", "6": "0.011924811"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are a bit bulkier for warmth.  They may make your shoes fit tighter.  They are very soft as described.", "sentiment": "negative", "topics": {"0": "0.0119279185", "1": "0.45986632", "2": "0.202981", "3": "0.23216207", "4": "0.011909287", "5": "0.06923964", "6": "0.011913723"}}

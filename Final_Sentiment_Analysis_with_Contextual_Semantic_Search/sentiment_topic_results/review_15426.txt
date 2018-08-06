@@ -1,0 +1,1 @@
+{"text": "I saw other reviews stating these didn't seem authentic. I disagree. They are perfect. The 55 mm fits an average adult face fine. I would by these again.", "sentiment": "negative", "topics": {"0": "0.09831257", "1": "0.23950112", "2": "0.24036404", "3": "0.14528015", "5": "0.18965338", "6": "0.078445084"}}

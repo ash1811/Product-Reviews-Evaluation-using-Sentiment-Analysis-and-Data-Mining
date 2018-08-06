@@ -1,0 +1,1 @@
+{"text": "These are the panties that serve the everyday with durablabilty , breathability and comfort! I will get another 6 and have them because everything I like ends up being discontinued!", "sentiment": "positive", "topics": {"0": "0.0102267675", "1": "0.1297355", "2": "0.5525662", "3": "0.010212819", "4": "0.010361732", "5": "0.010228416", "6": "0.27666864"}}

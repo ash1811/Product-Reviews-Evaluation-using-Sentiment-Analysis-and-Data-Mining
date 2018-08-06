@@ -1,0 +1,1 @@
+{"text": "Kinda snug on the sides, wish the wide version was availble, but overall their comfy for everyday use. A recommend", "sentiment": "negative", "topics": {"0": "0.011003137", "1": "0.41976434", "2": "0.011067387", "3": "0.01103227", "4": "0.15765558", "5": "0.011011094", "6": "0.37846622"}}

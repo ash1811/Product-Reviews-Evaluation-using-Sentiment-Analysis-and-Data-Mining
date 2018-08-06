@@ -1,0 +1,1 @@
+{"text": "Selected this bag in the 11x9 size, received a 10x8 bag.  Waiting for UPS to pick it up for a return.  Was very disappointed.", "sentiment": "negative", "topics": {"0": "0.17021091", "1": "0.12875289", "2": "0.11480132", "3": "0.1654202", "4": "0.09211728", "5": "0.2193808", "6": "0.109316595"}}

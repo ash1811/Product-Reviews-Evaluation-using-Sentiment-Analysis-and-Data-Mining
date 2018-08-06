@@ -1,0 +1,1 @@
+{"text": "This dark blue denim shirt is exactly as described.GOOD quality, well made and very comfortable. Can be used as a shirt or jacket.", "sentiment": "negative", "topics": {"0": "0.12370225", "1": "0.623358", "2": "0.09717289", "3": "0.010217367", "4": "0.010244499", "5": "0.1250855", "6": "0.010219459"}}

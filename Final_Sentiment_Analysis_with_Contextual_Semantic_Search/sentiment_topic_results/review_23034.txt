@@ -1,0 +1,1 @@
+{"text": "Child sized, plastic, if you have a Harry fan, they find these fun and doable.  Absolutely party friendly! Recommended for fun factor", "sentiment": "negative", "topics": {"0": "0.1644666", "2": "0.3602403", "3": "0.09148345", "4": "0.35516277"}}

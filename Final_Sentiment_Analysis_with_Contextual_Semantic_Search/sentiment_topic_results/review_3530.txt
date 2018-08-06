@@ -1,0 +1,1 @@
+{"text": "The lining is synthetic and it doesn't breathe well, so they bra can feel itch and hot. It'd liked it more without the lining.", "sentiment": "negative", "topics": {"0": "0.4277846", "1": "0.011048561", "2": "0.10220309", "3": "0.12650892", "4": "0.21997237", "5": "0.011008033", "6": "0.10147442"}}

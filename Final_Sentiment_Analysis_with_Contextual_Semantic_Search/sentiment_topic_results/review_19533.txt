@@ -1,0 +1,1 @@
+{"text": "Could have done with a bit more padding on the heel for extra comfort other than that, good walking shoe", "sentiment": "negative", "topics": {"0": "0.0119270785", "1": "0.011971747", "2": "0.2917625", "3": "0.011996885", "4": "0.11975797", "5": "0.5406188", "6": "0.011965089"}}

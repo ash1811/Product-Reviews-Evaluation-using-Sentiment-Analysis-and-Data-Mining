@@ -1,0 +1,1 @@
+{"text": "Jambu sure does it right.  These flips are the right size, the right amount of comfort, the right amount of tread, and the right amount of cute.  Even my husband says they were a good purchase.", "sentiment": "negative", "topics": {"1": "0.3941125", "2": "0.1861021", "3": "0.18397455", "4": "0.08976091", "6": "0.13239485"}}

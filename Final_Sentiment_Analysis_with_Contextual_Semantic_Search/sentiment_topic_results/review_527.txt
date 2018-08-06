@@ -1,0 +1,1 @@
+{"text": "The jeans was ok and some how l like it, I Cannot really fault it, it is good buy anyway.", "sentiment": "negative", "topics": {"0": "0.011051612", "1": "0.5375247", "2": "0.2028215", "3": "0.21548948", "4": "0.0110095395", "5": "0.011085205", "6": "0.011017988"}}

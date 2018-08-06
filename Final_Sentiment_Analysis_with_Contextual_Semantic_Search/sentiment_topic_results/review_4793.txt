@@ -1,0 +1,1 @@
+{"text": "The pockets are made of a strange material, I'm hoping they hold up well. The jeans themselves fit well on my large misshapen body and are comfortable.", "sentiment": "negative", "topics": {"0": "0.13133481", "1": "0.591962", "3": "0.12905559", "6": "0.12077091"}}

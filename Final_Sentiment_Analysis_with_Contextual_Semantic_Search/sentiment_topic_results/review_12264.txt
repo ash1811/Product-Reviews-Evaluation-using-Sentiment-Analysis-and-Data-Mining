@@ -1,0 +1,1 @@
+{"text": "It's a sturdy little boot jack. A bit small for a big boot and a bit short. Hard to balance on and pull boot. Maybe I'm the one who needs balance?", "sentiment": "positive", "topics": {"0": "0.14192493", "1": "0.1627006", "2": "0.092868954", "3": "0.3450585", "4": "0.18790837", "6": "0.062389493"}}

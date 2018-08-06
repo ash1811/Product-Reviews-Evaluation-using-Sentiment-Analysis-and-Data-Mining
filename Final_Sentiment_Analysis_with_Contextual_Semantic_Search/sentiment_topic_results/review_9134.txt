@@ -1,0 +1,1 @@
+{"text": "I wear these to work (I work in an office at night) and they are perfect, more than a slipper but not quite a shoe and comfortable like you are walking on air. I love 'em!", "sentiment": "negative", "topics": {"1": "0.33274865", "2": "0.0886162", "4": "0.25423154", "5": "0.1965172", "6": "0.111022204"}}

@@ -1,0 +1,1 @@
+{"text": "I have been looking for these same Hanes for awhile as they don't have them in the store, I like the band on them. They don't roll or ride up like the ones with the smaller band.", "sentiment": "negative", "topics": {"0": "0.15143807", "1": "0.4030181", "2": "0.010302622", "3": "0.40447325", "4": "0.010269086", "5": "0.010225338", "6": "0.010273565"}}

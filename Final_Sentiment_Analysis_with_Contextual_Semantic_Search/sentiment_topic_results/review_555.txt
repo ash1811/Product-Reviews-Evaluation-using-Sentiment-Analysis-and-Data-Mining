@@ -1,0 +1,1 @@
+{"text": "I bought them for work pants. They fit great and look great.as a millwright's you need some thing comforebul but also rugged. These fit the bill.", "sentiment": "positive", "topics": {"0": "0.17188667", "1": "0.54967475", "4": "0.120574616", "5": "0.061620694", "6": "0.078313574"}}

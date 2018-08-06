@@ -1,0 +1,1 @@
+{"text": "We have to wear solid color uniforms for work now.  The tops fit as expected.  We do use bleach and it changes the color a bit, but I will have to deal with it.", "sentiment": "negative", "topics": {"0": "0.086933196", "1": "0.42341223", "2": "0.16327949", "3": "0.23855254", "4": "0.07098576"}}

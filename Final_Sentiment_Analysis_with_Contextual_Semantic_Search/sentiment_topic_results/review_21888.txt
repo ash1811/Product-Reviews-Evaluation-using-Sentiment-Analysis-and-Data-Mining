@@ -1,0 +1,1 @@
+{"text": "I have bought several of these body stockings and your ads are correct and the stockings are very well made I am very happy with product and will purchase more as needed", "sentiment": "positive", "topics": {"0": "0.010232725", "1": "0.21947403", "2": "0.117696054", "3": "0.010222162", "4": "0.13686417", "5": "0.27102306", "6": "0.23448782"}}

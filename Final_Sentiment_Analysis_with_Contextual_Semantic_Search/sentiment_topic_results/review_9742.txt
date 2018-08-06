@@ -1,0 +1,1 @@
+{"text": "Ended up sending back...just didn't like them the way we thought we did. They shipped on time, not a thing wrong with them. Will keep looking for another style", "sentiment": "positive", "topics": {"0": "0.0809212", "2": "0.09494363", "3": "0.36250946", "5": "0.32623017", "6": "0.11851802"}}

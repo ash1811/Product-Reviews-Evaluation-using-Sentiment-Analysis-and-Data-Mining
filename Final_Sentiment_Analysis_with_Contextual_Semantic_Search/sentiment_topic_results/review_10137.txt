@@ -1,0 +1,1 @@
+{"text": "I have lots of cross pendants, this one is so cute- I get lots of compliments and its a perfect size. Not too small, nor big. Just make sure your chain is smaller links, otherwise it might look odd..", "sentiment": "negative", "topics": {"1": "0.25600436", "2": "0.27401778", "3": "0.25210685", "4": "0.092441075", "5": "0.11240027"}}

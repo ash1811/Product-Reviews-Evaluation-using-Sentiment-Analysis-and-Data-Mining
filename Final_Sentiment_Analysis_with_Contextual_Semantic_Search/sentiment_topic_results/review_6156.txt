@@ -1,0 +1,1 @@
+{"text": "Nice for a baby in Florida that needs to be comfortable in a natural cotton material in hot weather. Easy to change them.", "sentiment": "negative", "topics": {"0": "0.010219991", "1": "0.3077447", "2": "0.09753984", "3": "0.30099732", "4": "0.08588477", "5": "0.010215589", "6": "0.18739775"}}

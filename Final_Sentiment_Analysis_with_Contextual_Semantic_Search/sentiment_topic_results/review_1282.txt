@@ -1,0 +1,1 @@
+{"text": "Great pair of classic Adidas!  Don't have any complaints.  If the shoe don't fit, then you got the wrong size!?  Item looks exactly as pictured.", "sentiment": "positive", "topics": {"0": "0.07111973", "1": "0.3048547", "2": "0.22052221", "5": "0.18511693", "6": "0.19925956"}}

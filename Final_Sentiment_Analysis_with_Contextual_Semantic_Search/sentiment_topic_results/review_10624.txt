@@ -1,0 +1,1 @@
+{"text": "These were exactly as described on the website.  Nice size and good gold color.  Slip beautifully into my ears and the clasps are not week.", "sentiment": "negative", "topics": {"0": "0.16784403", "1": "0.32782584", "2": "0.08707521", "3": "0.2914027", "4": "0.0102599235", "5": "0.010210998", "6": "0.10538129"}}

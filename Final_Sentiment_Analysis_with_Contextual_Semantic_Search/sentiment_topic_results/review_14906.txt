@@ -1,0 +1,1 @@
+{"text": "Seems like it will hold up.  Haven't has the chance to use yet. Wanted a packable extra bag in case I needed it for vacation purchases", "sentiment": "positive", "topics": {"0": "0.3487906", "3": "0.4267403", "6": "0.18859275"}}

@@ -1,0 +1,1 @@
+{"text": "All the colors needed to complete my projects and just the right size.prompt delivery .reasonable price for your projects to wow your customers!", "sentiment": "negative", "topics": {"0": "0.14935884", "1": "0.2990762", "2": "0.011014105", "3": "0.25696415", "4": "0.01102096", "5": "0.011060513", "6": "0.26150525"}}

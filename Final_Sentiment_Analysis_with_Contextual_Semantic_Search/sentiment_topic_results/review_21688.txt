@@ -1,0 +1,1 @@
+{"text": "Being filigree makes them light enough to wear while still giving enough silvery impact! The picture makes them look like there is a lot of black, but that is really just the open design. The oval itself is about 1/2 inch long - perfect for a little movement.", "sentiment": "positive", "topics": {"0": "0.34535104", "3": "0.6281192"}}

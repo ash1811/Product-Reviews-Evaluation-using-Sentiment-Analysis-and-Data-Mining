@@ -1,0 +1,1 @@
+{"text": "Loved the boots but the extra wide was too wide and there were no boots available in a 1E only a 2E, so unfortunately I had to send them back.", "sentiment": "positive", "topics": {"0": "0.19406815", "1": "0.3223642", "2": "0.12267168", "3": "0.17414758", "4": "0.1647184", "5": "0.011036986", "6": "0.010993023"}}

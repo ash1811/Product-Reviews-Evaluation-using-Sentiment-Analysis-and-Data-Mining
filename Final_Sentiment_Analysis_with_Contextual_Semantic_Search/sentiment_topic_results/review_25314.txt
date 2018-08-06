@@ -1,0 +1,1 @@
+{"text": "I just wrote a review for the 15th pair of Merrell's so these must be my 16th pair of Merrell's.  I wear one of my Merrell's everyday for work and enjoy the comfort and the protection when I'm walking around a jobsite.", "sentiment": "negative", "topics": {"0": "0.064622216", "2": "0.069701694", "3": "0.15052038", "4": "0.31739935", "5": "0.2741354", "6": "0.11710889"}}

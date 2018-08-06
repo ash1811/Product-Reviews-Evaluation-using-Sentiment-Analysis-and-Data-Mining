@@ -1,0 +1,1 @@
+{"text": "After initial washing design tightens into what was advertised.With rope halo in place fixed to head with out flapping to much in high wind.", "sentiment": "negative", "topics": {"0": "0.16222669", "2": "0.14431983", "3": "0.22429165", "5": "0.23030138", "6": "0.2197458"}}

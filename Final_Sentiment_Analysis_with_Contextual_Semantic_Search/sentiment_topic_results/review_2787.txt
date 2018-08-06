@@ -1,0 +1,1 @@
+{"text": "I really like these shoes, but they were a bit large. I'm generally a 6-6.5 in women's shoes. I ordered a 6 and they were a little too big. I ended up buying a size 5.5 in black and they fit perfectly.", "sentiment": "negative", "topics": {"0": "0.122633986", "1": "0.4601455", "2": "0.22915186", "6": "0.1685332"}}

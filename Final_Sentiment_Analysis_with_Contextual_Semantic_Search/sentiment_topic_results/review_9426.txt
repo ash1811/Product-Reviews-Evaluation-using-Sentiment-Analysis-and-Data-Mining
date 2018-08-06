@@ -1,0 +1,1 @@
+{"text": "These slippers are blue and made of wool felt with suede trim. Deceiving ad.description. I returned them. Box they were shipped in says clearly wool....not ad on website it says suede.Very dissatisfied.", "sentiment": "negative", "topics": {"2": "0.20827295", "3": "0.2950687", "4": "0.16856651", "5": "0.15980853", "6": "0.15524767"}}

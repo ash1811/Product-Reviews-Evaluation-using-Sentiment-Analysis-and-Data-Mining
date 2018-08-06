@@ -1,0 +1,1 @@
+{"text": "This polo is of standard quality material for casual wear.  The extra large size fits as expected.  I needed a bright gold color and this fufills that need perfectly.", "sentiment": "negative", "topics": {"1": "0.5178963", "3": "0.18161228", "6": "0.27032256"}}

@@ -1,0 +1,1 @@
+{"text": "bought these for my carhartt loving son in law. these jeans are very nice , but the sizing was a little off to the standards i usually buy him . he could stand to lose a few pounds though..", "sentiment": "negative", "topics": {"0": "0.13342565", "1": "0.604399", "2": "0.07022021", "4": "0.11475476", "6": "0.061242256"}}

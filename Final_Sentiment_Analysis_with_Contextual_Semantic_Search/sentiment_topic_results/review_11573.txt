@@ -1,0 +1,1 @@
+{"text": "Material is very soft and drapes on the body.  It fits true to size. I ordered the violet and it is a muted shade of purple..  Very nice. I recommend it highly.", "sentiment": "negative", "topics": {"1": "0.51986235", "3": "0.112763494", "4": "0.08091662", "6": "0.25963408"}}

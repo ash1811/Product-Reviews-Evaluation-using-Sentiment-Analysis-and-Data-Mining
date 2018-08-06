@@ -1,0 +1,1 @@
+{"text": "Exactly what is in the picture an perfect for sunny days. I have to say that they are a little bit bigger than I thought which makes my eyes and cheeks sweat a little bit.", "sentiment": "negative", "topics": {"0": "0.17456546", "3": "0.5592326", "4": "0.07839231", "5": "0.094739184", "6": "0.076232105"}}

@@ -1,0 +1,1 @@
+{"text": "Got this for my husband we love any Carhartt products this hat is one size ,is thick and warm covers his ears perfect ,I recommend this hat for anyone looking for good quality.", "sentiment": "negative", "topics": {"1": "0.27848217", "3": "0.15579756", "4": "0.28547332", "5": "0.14326003", "6": "0.12396862"}}

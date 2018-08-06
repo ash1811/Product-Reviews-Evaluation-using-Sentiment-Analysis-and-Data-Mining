@@ -1,0 +1,1 @@
+{"text": "The hat looked perfect in the picture, but it was very puffy and looked funny. I had purchased it for my sister, and she said she didn't want it.", "sentiment": "positive", "topics": {"0": "0.011035649", "1": "0.14710693", "2": "0.01101149", "3": "0.64739573", "4": "0.16145325", "5": "0.010998731", "6": "0.01099817"}}

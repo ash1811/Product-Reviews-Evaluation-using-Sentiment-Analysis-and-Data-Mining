@@ -1,0 +1,1 @@
+{"text": "nice dark color, thick and comfortable design, nice and warm and cozy, a great find if you have cold floors at your job wearing dress shoes.  a good deal too.  thanks.", "sentiment": "negative", "topics": {"1": "0.6677591", "2": "0.090894505", "3": "0.16070707", "4": "0.061100353"}}

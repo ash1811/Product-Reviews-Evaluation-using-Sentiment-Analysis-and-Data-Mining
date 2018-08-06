@@ -1,0 +1,1 @@
+{"text": "These shoes are so very nice. There is solved inside. As well as attractive. My husband has worn them Everyday since he's had them. Well worth the price of 55 dollars. THIS PRODUCT IS EXCELLENT !", "sentiment": "positive", "topics": {"1": "0.1221629", "2": "0.42450374", "4": "0.22399993", "5": "0.09377352", "6": "0.12124278"}}

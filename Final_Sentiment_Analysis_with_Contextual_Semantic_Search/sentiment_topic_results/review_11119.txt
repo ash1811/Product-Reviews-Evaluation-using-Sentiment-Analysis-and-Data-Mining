@@ -1,0 +1,1 @@
+{"text": "My husband loves his new vest.  its a little big though I measured him but the vest was a little bigger, he can still wear it.", "sentiment": "positive", "topics": {"0": "0.22187725", "1": "0.1269338", "3": "0.430348", "4": "0.19220136"}}

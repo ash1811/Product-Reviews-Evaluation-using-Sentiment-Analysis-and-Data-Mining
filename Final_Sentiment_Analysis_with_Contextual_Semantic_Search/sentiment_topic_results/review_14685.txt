@@ -1,0 +1,1 @@
+{"text": "Love these! They are super comfortable. I ordered my usual size and found them to be true to size despite what others have mentioned. I want to buy them in other colors they are so great!", "sentiment": "negative", "topics": {"0": "0.13923086", "1": "0.54062265", "3": "0.25317648", "5": "0.043099694"}}

@@ -1,0 +1,1 @@
+{"text": "Russell clothing have always been very good--and we buy a lot of them throughout the year for birthdays, etc.  We are always able to get extra large sizes and/or tall sizes for our boys.", "sentiment": "positive", "topics": {"1": "0.38219926", "2": "0.24190812", "3": "0.34850556"}}

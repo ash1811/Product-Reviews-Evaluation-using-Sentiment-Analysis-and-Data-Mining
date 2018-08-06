@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Birkenstock Milano's, I just love the footbed, the fit is great (I am a narrow and they work great for me), I expect these to last as long as the previous pair and I will again get Birkenstock.", "sentiment": "negative", "topics": {"0": "0.071523", "1": "0.38418978", "3": "0.24984255", "5": "0.27400118"}}

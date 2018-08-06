@@ -1,0 +1,1 @@
+{"text": "Very nice ring for the price.  Stone is a very pretty blue.  Arrived very quickly. The ring is smaller than I thought it would be.", "sentiment": "negative", "topics": {"0": "0.13096365", "1": "0.63601935", "2": "0.08950877", "3": "0.11285657", "4": "0.010226543", "5": "0.010214011", "6": "0.010211108"}}

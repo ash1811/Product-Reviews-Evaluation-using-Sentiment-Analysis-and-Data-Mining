@@ -1,0 +1,1 @@
+{"text": "I had no problem with this item except for the fact it was too small. I ordered the size from the sizing chart, but couldn't even get it on.  I returned it for a quick and easy refund!", "sentiment": "positive", "topics": {"1": "0.22015211", "3": "0.53820306", "4": "0.112434305", "6": "0.103855245"}}

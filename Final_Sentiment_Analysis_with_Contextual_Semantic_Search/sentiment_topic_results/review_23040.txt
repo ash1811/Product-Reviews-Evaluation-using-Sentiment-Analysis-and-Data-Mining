@@ -1,0 +1,1 @@
+{"text": "These earrings are just perfect-in size, sparkle and design. I would recommend to anyone who loves the heart shape dangle.", "sentiment": "negative", "topics": {"0": "0.37263238", "1": "0.011044665", "2": "0.011014332", "3": "0.29996204", "4": "0.1908942", "5": "0.011027255", "6": "0.103425115"}}

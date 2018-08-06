@@ -1,0 +1,1 @@
+{"text": "Not a Fan of the House Coat.  Somewhat small for the size.  the background color looks dingy.. Brought it for a gift and will not give it.......", "sentiment": "negative", "topics": {"0": "0.24655585", "1": "0.28893742", "2": "0.15947963", "3": "0.27634647"}}

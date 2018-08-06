@@ -1,0 +1,1 @@
+{"text": "Fit good, put them on and spent the day in them. Easy slide on and would recommend them to any one.", "sentiment": "negative", "topics": {"0": "0.01195752", "1": "0.40708736", "2": "0.29706684", "3": "0.011966743", "4": "0.011967854", "5": "0.011975274", "6": "0.24797843"}}

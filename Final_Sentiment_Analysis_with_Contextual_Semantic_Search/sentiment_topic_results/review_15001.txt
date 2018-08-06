@@ -1,0 +1,1 @@
+{"text": "I choose this rating because this little mans Firehat is so darn cute, and now he can pretendhe is a fireman when he plays with his firetruck", "sentiment": "negative", "topics": {"0": "0.011961948", "1": "0.22627704", "2": "0.011923838", "3": "0.2081235", "4": "0.42735735", "5": "0.011962683", "6": "0.102393664"}}

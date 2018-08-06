@@ -1,0 +1,1 @@
+{"text": "it doesn't make for an easy set of bags to move about the airport.  Use it only id you have to.  A samrt cart is better", "sentiment": "negative", "topics": {"0": "0.011024757", "1": "0.011052077", "2": "0.123453066", "3": "0.56489414", "4": "0.011018903", "5": "0.26754135", "6": "0.011015742"}}

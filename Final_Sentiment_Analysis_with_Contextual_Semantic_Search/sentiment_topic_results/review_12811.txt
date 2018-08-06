@@ -1,0 +1,1 @@
+{"text": "Pros:Nice compartments for organizing.Had large and small compartments.Pretty color.Cons: when rolled up it ended up being as large as my other bathroom organizer that I thought too bulky.When layed flat it still took up too much room.", "sentiment": "negative", "topics": {"0": "0.2304492", "1": "0.38041678", "2": "0.16976894", "5": "0.10956652", "6": "0.096148945"}}

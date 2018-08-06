@@ -1,0 +1,1 @@
+{"text": "My husband was introduced to these shows some 10 years back and since has not bought another pair. This is his everyday, all time footwear. He even tried to wear it to the gym!", "sentiment": "positive", "topics": {"1": "0.46599314", "2": "0.236997", "4": "0.26515788"}}

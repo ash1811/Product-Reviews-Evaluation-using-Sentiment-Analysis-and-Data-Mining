@@ -1,0 +1,1 @@
+{"text": "Warning: you will have to stretch the straps out so be prepared. But eventually, like all rainbow's, they will form to your foot and be oh-so-comfortable.", "sentiment": "positive", "topics": {"0": "0.013012827", "1": "0.013001633", "2": "0.14079659", "3": "0.115142725", "4": "0.41604736", "5": "0.28895876", "6": "0.013040107"}}

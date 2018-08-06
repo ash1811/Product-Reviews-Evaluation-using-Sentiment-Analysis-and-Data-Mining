@@ -1,0 +1,1 @@
+{"text": "Great fit, great socks, I love them both the black and the grey, I only wish they came in brown as well.", "sentiment": "negative", "topics": {"0": "0.09104315", "1": "0.49202254", "2": "0.011976579", "3": "0.1127514", "4": "0.011965462", "5": "0.26828238", "6": "0.011958513"}}

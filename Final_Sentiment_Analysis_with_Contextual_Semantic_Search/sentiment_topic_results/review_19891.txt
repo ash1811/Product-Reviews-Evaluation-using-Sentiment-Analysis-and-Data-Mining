@@ -1,0 +1,1 @@
+{"text": "Haven't put them on yet but they do look sexy and can't wait to wear them. cant wait to put them on", "sentiment": "negative", "topics": {"0": "0.011976958", "1": "0.011963054", "2": "0.0119453715", "3": "0.17109106", "4": "0.4070156", "5": "0.37409595", "6": "0.011912017"}}

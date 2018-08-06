@@ -1,0 +1,1 @@
+{"text": "Quality product and well stitched. also the Jeans arrived on time. highly recommend this purchase. price is comparably good and reasonable.", "sentiment": "negative", "topics": {"0": "0.46903625", "1": "0.22622357", "4": "0.116581336", "5": "0.16134991"}}

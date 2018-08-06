@@ -1,0 +1,1 @@
+{"text": "I love love love these boots. I love them so much that when my old pair war out I was afraid I wouldn't be able to find a replacement. I was completely thrilled when I found the exact same item on Amazon.", "sentiment": "negative", "topics": {"0": "0.12974292", "2": "0.06563627", "3": "0.15075162", "4": "0.576064", "6": "0.06345005"}}

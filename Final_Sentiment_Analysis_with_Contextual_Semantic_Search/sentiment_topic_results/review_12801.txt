@@ -1,0 +1,1 @@
+{"text": "These were sturdy, well-made rain boots. My son loves them and they seem to fit true to size. They came in a colorful, whimsical shoe box, too.", "sentiment": "negative", "topics": {"0": "0.19445409", "1": "0.20718095", "2": "0.12549984", "3": "0.18408147", "4": "0.18826005", "5": "0.09209488"}}

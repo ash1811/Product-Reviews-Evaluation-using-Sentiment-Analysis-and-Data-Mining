@@ -1,0 +1,1 @@
+{"text": "I absolutely love these socks.  I bought these after my toe surgery because I wanted something soft touching my toes.  These socks were perfect, and to prove it I bought several more pairs in different colors.", "sentiment": "positive", "topics": {"1": "0.577952", "2": "0.07450337", "3": "0.08266691", "5": "0.1662941", "6": "0.08425253"}}

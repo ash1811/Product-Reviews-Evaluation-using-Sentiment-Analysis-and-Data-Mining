@@ -1,0 +1,1 @@
+{"text": "Not the stereotypical shoe woman. These are soft and attractive. enough. Not too much. I like the slip on comfortable style and different material. Keep making different styles and focus on comfort.", "sentiment": "negative", "topics": {"0": "0.1002969", "1": "0.29657277", "2": "0.06339173", "4": "0.24113433", "6": "0.2842806"}}

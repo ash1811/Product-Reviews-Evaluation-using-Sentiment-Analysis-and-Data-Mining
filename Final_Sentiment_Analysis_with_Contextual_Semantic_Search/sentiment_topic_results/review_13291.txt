@@ -1,0 +1,1 @@
+{"text": "How can anyone go wrong with Levi's 501's?  They look good on every man and fit all the right places.", "sentiment": "negative", "topics": {"0": "0.01104132", "1": "0.3196352", "2": "0.08326279", "3": "0.011034176", "4": "0.011009715", "5": "0.3824617", "6": "0.1815551"}}

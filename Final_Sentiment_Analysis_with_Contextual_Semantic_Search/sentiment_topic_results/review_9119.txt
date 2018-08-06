@@ -1,0 +1,1 @@
+{"text": "My husband loves these, they fit really well, and he  wears them at home all the time, especially great in these cold winters!", "sentiment": "negative", "topics": {"0": "0.0102709215", "1": "0.6531172", "2": "0.010220635", "3": "0.010275206", "4": "0.16341218", "5": "0.14249007", "6": "0.010213783"}}

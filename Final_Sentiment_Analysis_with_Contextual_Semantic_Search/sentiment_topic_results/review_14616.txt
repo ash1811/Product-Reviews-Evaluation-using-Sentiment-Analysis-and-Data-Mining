@@ -1,0 +1,1 @@
+{"text": "These pants are good quality and wearable.  They come in great colors and always fit.  Can be used for dress or casual.", "sentiment": "negative", "topics": {"0": "0.011010713", "1": "0.83961934", "2": "0.0110002905", "3": "0.01099315", "4": "0.105368614", "5": "0.011002828", "6": "0.011005038"}}

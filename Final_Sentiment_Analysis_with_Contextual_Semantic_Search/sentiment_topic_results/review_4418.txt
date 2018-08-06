@@ -1,0 +1,1 @@
+{"text": "Lee Men's Regular Fit Straight Leg Jean, Fatigue, 34x32 fits as expired good quality and price. Will purchase again soon.", "sentiment": "negative", "topics": {"1": "0.5978254", "2": "0.25796625", "6": "0.11037389"}}

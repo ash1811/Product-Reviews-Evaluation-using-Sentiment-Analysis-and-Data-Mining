@@ -1,0 +1,1 @@
+{"text": "We have owned a number of Crocs for our daughter and as she grows out of them we get her the next size up.  She loved the pink color and have been living in them since we got them delivered.  Nice to get them at a discounted price.", "sentiment": "negative", "topics": {"1": "0.16077124", "2": "0.046909615", "4": "0.22505406", "5": "0.22919911", "6": "0.3244186"}}

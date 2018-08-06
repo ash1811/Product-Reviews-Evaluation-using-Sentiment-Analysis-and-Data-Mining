@@ -1,0 +1,1 @@
+{"text": "This costume is super well made of durable fabric.  It should last for years.  It fits true to size.  I bought a size larger in order to maximize the use it will get.  My son wore it for Halloween and was paid many compliments.", "sentiment": "positive", "topics": {"0": "0.11546865", "1": "0.36051038", "4": "0.20320213", "5": "0.14454517", "6": "0.16479552"}}

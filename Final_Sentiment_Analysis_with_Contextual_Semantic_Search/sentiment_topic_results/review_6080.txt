@@ -1,0 +1,1 @@
+{"text": "These socks are lightweight, yet very cushiony. They make my feet feel great inside my hiking boots. I think they're especially good for older feet that are getting more sensitive in the heel area.", "sentiment": "negative", "topics": {"0": "0.112031005", "1": "0.2338203", "2": "0.102353066", "3": "0.15479688", "4": "0.25139725", "5": "0.13906963"}}

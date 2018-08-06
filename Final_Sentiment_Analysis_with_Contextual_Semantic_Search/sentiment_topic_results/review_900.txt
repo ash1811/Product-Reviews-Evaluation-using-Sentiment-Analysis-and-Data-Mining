@@ -1,0 +1,1 @@
+{"text": "These are replacing a pair that I had to retire after 6 years.  Love the built in bottle opener.  Love the comfort!!", "sentiment": "negative", "topics": {"0": "0.011916555", "1": "0.20684558", "2": "0.29501244", "3": "0.01197902", "4": "0.18002182", "5": "0.2822264", "6": "0.011998146"}}

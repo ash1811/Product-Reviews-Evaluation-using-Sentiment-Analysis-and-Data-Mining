@@ -1,0 +1,1 @@
+{"text": "This hat is perfect insect, rain and sun protection all in one. The netting design can be dark, but it does a geat job of keeping the insects out so we may enjoy the outdoors.", "sentiment": "negative", "topics": {"0": "0.07088304", "1": "0.27875245", "2": "0.17243478", "3": "0.280164", "4": "0.09807942", "6": "0.09165034"}}

@@ -1,0 +1,1 @@
+{"text": "this is a great jewelry cleaner - I use it with an ultrasonic cleaner and my jewelry comes out clean and sparkling!", "sentiment": "positive", "topics": {"0": "0.1195714", "1": "0.49286512", "2": "0.21904911", "3": "0.013019129", "4": "0.013015425", "5": "0.12949038", "6": "0.012989413"}}

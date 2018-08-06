@@ -1,0 +1,1 @@
+{"text": "Great looking boots and at a great price, worn them around the streets and will take them to work when I start my new job, need comfy boots for the amount of time that I wear them at work.", "sentiment": "negative", "topics": {"1": "0.48129585", "3": "0.11454002", "4": "0.15506136", "6": "0.22864428"}}

@@ -1,0 +1,1 @@
+{"text": "I just wore this pair the other day, everyone that saw them loved them.  The color is so delicate; and, looks like real amethyst.  I certainly will be buying more of these earrings.  The price is definitely right, and they look good, too!", "sentiment": "negative", "topics": {"0": "0.18497352", "1": "0.42929485", "2": "0.09368155", "3": "0.13884097", "6": "0.14125751"}}

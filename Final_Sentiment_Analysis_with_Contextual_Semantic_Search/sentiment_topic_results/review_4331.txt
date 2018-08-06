@@ -1,0 +1,1 @@
+{"text": "I have several pair of these because they fit. They look great after washing with no special care. You can pay more and not get a better pair of pants.", "sentiment": "negative", "topics": {"0": "0.01025075", "1": "0.60948217", "2": "0.01027531", "3": "0.0102617545", "4": "0.010259906", "5": "0.33921683", "6": "0.010253251"}}

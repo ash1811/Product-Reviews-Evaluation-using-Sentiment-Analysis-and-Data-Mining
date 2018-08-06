@@ -1,0 +1,1 @@
+{"text": "i got these hoping they would be good enough for running and every time i use them i never have to worry about blisters i love these socks !", "sentiment": "negative", "topics": {"0": "0.13289444", "5": "0.7007627", "6": "0.12810174"}}

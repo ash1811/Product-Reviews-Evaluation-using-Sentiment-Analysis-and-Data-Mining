@@ -1,0 +1,1 @@
+{"text": "not wide enough to actually help. it kept folding on itself and did not seem to really do much at all except add bulk. i would not recomend this for support, its not really supportive.", "sentiment": "negative", "topics": {"1": "0.3523312", "2": "0.13048607", "3": "0.15367135", "4": "0.09610375", "5": "0.1917787", "6": "0.067677036"}}

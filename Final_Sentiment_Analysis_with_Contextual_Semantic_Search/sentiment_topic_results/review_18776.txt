@@ -1,0 +1,1 @@
+{"text": "My husband wore this to hand out candy to the kids and he was a huge hit.  I thought he looked handsome in it as well!", "sentiment": "positive", "topics": {"0": "0.011947758", "1": "0.28988996", "2": "0.09616373", "3": "0.18913025", "4": "0.1808709", "5": "0.2200638", "6": "0.011933592"}}

@@ -1,0 +1,1 @@
+{"text": "The Easy spirit slip ons are okay but the heel is too large and they slip off my heel.  I wish they would taper the fit so the heel is smaller then I would love them.", "sentiment": "positive", "topics": {"0": "0.18785407", "1": "0.16885357", "3": "0.43253994", "4": "0.09927376", "6": "0.096382916"}}

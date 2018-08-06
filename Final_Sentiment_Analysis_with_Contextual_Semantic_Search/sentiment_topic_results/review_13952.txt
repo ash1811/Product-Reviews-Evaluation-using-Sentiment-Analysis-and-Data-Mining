@@ -1,0 +1,1 @@
+{"text": "This watch is great, inexpensive and flash looking. It has a fancy sound name and looks good on your wrist for any occasion. I highly recommend this product.", "sentiment": "negative", "topics": {"0": "0.1954991", "1": "0.39596593", "2": "0.1644919", "5": "0.21722221"}}

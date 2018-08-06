@@ -1,0 +1,1 @@
+{"text": "These are beautiful Easy Spirit's. A great color, too. So it was too bad they were enormous on my foot and they were returned.", "sentiment": "negative", "topics": {"0": "0.21743259", "1": "0.24458458", "2": "0.14830972", "3": "0.013028062", "4": "0.35059348", "5": "0.0130223455", "6": "0.0130292475"}}

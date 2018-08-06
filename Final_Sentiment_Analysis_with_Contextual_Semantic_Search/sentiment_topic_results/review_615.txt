@@ -1,0 +1,1 @@
+{"text": "Very thick pants. I even wear them during summer where our temperatures hit 115 plus but since I do HVAC work kneeling down on a roof creates padding against the hot roof.  I have bought these for years and will continue to do so....", "sentiment": "negative", "topics": {"1": "0.5552246", "4": "0.061140276", "5": "0.3586304"}}

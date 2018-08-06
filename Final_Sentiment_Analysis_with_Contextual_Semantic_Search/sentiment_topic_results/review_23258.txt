@@ -1,0 +1,1 @@
+{"text": "My mother needs cotton socks.  She loves the fit and feel.  I have ordered them a couple of times before and will order them again.", "sentiment": "negative", "topics": {"0": "0.17608072", "1": "0.27117735", "2": "0.011005699", "3": "0.1794299", "4": "0.011064709", "5": "0.23062643", "6": "0.1206152"}}

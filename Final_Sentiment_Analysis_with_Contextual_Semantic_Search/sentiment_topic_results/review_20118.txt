@@ -1,0 +1,1 @@
+{"text": "I have only used the backpack a few times and it seems great so far. I absolutely love the color.", "sentiment": "negative", "topics": {"0": "0.014343349", "1": "0.59566736", "2": "0.33261907", "3": "0.014351306", "4": "0.0143911075", "5": "0.014336106", "6": "0.014291694"}}

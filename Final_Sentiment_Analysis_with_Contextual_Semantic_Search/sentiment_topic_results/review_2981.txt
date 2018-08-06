@@ -1,0 +1,1 @@
+{"text": "have stayed away from this brand for years thinking cheap, no support but this proves me wrong.  Definitely going back for more.", "sentiment": "negative", "topics": {"0": "0.010254318", "1": "0.06809976", "2": "0.339008", "3": "0.47953436", "4": "0.010217634", "5": "0.010261344", "6": "0.08262461"}}

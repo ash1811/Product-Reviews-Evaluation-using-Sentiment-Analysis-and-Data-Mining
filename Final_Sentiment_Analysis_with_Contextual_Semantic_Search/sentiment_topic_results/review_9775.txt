@@ -1,0 +1,1 @@
+{"text": "My husband does everything in this slipper except sleep with it so far - he loves it and wears it all the time", "sentiment": "negative", "topics": {"0": "0.014333907", "1": "0.3104445", "2": "0.16134489", "3": "0.014338605", "4": "0.33994097", "5": "0.014360337", "6": "0.14523679"}}

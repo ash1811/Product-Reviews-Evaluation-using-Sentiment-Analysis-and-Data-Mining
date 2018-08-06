@@ -1,0 +1,1 @@
+{"text": "Love these shoes.  Second pair.  They don't last forever, but they last long enough to get your moneys worth out of them.  I had an insert to add more arch support and a bit more cushioning.", "sentiment": "positive", "topics": {"2": "0.07951238", "3": "0.27592224", "4": "0.20983", "5": "0.41321856"}}

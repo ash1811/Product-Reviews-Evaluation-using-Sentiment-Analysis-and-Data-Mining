@@ -1,0 +1,1 @@
+{"text": "I Love This Pants!At first I doubt it since I have never heard about the brand, but I tried them on, I was in love.The fabric is very soft but also strong.You can use them for sleeping or jogging for that matter.I highly recommend them!", "sentiment": "positive", "topics": {"1": "0.25835612", "2": "0.08213222", "3": "0.34565496", "4": "0.1814026", "6": "0.119954936"}}

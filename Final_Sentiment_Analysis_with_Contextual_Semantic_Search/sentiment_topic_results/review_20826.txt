@@ -1,0 +1,1 @@
+{"text": "Far too baggy in the seat and thigh area.  Fabric and tailoring were nice, but the fit was 'comical' according to my wife.", "sentiment": "positive", "topics": {"0": "0.11451657", "1": "0.28434235", "2": "0.11224541", "3": "0.011004919", "4": "0.0959105", "5": "0.18494138", "6": "0.19703887"}}

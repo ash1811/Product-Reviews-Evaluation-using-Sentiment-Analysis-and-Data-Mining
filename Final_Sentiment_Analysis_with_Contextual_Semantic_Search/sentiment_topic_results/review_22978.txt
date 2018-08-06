@@ -1,0 +1,1 @@
+{"text": "I like these shorts as they are good for exercising in.I run in these shorts. They are actually long and kind of light weight.", "sentiment": "positive", "topics": {"0": "0.2843644", "1": "0.28905886", "2": "0.011057971", "3": "0.011156376", "4": "0.010996356", "5": "0.38235393", "6": "0.011012102"}}

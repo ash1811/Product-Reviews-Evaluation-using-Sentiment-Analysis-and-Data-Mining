@@ -1,0 +1,1 @@
+{"text": "I bought this type of shirt 13 years ago from the same company and have just worn it out.While this is not exactly the same  is very good so far ...time will tell", "sentiment": "negative", "topics": {"0": "0.2455949", "1": "0.24786375", "4": "0.230192", "6": "0.24764286"}}

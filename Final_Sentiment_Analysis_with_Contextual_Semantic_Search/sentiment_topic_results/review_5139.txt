@@ -1,0 +1,1 @@
+{"text": "Great socks just the right weight of wool appearance complimentaryReceived promptly good package... Pricey but worth it for the great quality", "sentiment": "negative", "topics": {"0": "0.29101524", "1": "0.34035966", "3": "0.1019191", "5": "0.15196", "6": "0.09566681"}}

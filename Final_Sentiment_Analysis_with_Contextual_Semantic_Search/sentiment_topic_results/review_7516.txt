@@ -1,0 +1,1 @@
+{"text": "Couldn't agree more with other reviews. A great product. Size was as described by Amazon. Punctual delivery. What more to say...A great product & great service. Recommended for other buyers.", "sentiment": "positive", "topics": {"0": "0.09436375", "1": "0.25769457", "2": "0.12472826", "3": "0.12574704", "4": "0.064026535", "5": "0.24278831", "6": "0.090651505"}}

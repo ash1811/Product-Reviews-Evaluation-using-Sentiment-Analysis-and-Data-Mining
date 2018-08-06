@@ -1,0 +1,1 @@
+{"text": "I have purchased from Hanes for years. I love the quality, they last and don't fall apart or get all wonky after you wash them.", "sentiment": "positive", "topics": {"0": "0.12239383", "1": "0.47288293", "2": "0.011029267", "3": "0.1121428", "4": "0.011035802", "5": "0.25951672", "6": "0.010998641"}}

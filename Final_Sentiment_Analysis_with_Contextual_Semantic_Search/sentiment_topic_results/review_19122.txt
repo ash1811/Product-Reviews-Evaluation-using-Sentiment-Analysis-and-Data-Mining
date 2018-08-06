@@ -1,0 +1,1 @@
+{"text": "Be sure to buy wider than you usually wear, they are quite snug, I've never needed a wide shoe, but in this case it would have mad  for a much more  comfortable sneaker.", "sentiment": "negative", "topics": {"1": "0.4133393", "2": "0.19708268", "3": "0.10628565", "5": "0.1979776", "6": "0.07025897"}}

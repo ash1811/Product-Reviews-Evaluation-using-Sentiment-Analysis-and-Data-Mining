@@ -1,0 +1,1 @@
+{"text": "for the price. 15 dollars.. is ok.. for my daily dutys is ok. work, gym, home. thats all. 5 stars.", "sentiment": "positive", "topics": {"0": "0.14067394", "1": "0.44520324", "3": "0.18536396", "4": "0.20008023"}}

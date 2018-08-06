@@ -1,0 +1,1 @@
+{"text": "I love these flip flops so much, I only wear Reef. However, I find they run small so I had to order one size larger. They are very comfortable.", "sentiment": "negative", "topics": {"0": "0.10136955", "1": "0.4175053", "2": "0.2514718", "3": "0.20276542"}}

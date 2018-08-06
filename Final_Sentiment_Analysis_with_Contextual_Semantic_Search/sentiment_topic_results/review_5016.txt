@@ -1,0 +1,1 @@
+{"text": "I purchased them, and got just what I expected!! I love them they are so comfy and fit great as always!!!!", "sentiment": "positive", "topics": {"0": "0.014320182", "1": "0.5707402", "2": "0.01436914", "3": "0.35753137", "4": "0.014366472", "5": "0.014324596", "6": "0.014348017"}}

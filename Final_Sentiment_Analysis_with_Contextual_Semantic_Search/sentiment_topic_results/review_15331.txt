@@ -1,0 +1,1 @@
+{"text": "They were huge on my face so I had to send them back, Wish I could have tried them on before I purchased them", "sentiment": "negative", "topics": {"0": "0.13413249", "1": "0.6634215", "2": "0.015946727", "3": "0.1388474", "4": "0.01588513", "5": "0.015891764", "6": "0.01587502"}}

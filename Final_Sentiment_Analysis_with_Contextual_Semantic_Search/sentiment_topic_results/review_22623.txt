@@ -1,0 +1,1 @@
+{"text": "Soft, nice fit and really delightedwith such a quick response.  If you wantnine more words about these briefs, youwant longwindedness and not brevity...", "sentiment": "negative", "topics": {"0": "0.0102186855", "1": "0.2649432", "2": "0.2504348", "3": "0.010219262", "4": "0.29663798", "5": "0.010211907", "6": "0.15733413"}}

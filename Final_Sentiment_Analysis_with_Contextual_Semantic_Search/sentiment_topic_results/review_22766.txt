@@ -1,0 +1,1 @@
+{"text": "This is a good bracelet.  It just slips on and easy to wear.  The coral is a beautiful red and the irregularity makes it more interesting.  The price was nice, too.", "sentiment": "positive", "topics": {"0": "0.35176814", "1": "0.24910608", "3": "0.18790387", "5": "0.18252108"}}

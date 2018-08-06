@@ -1,0 +1,1 @@
+{"text": "This is my second pair.I'm very pleased with the quality,fit and support of these shoes. They do run small, I wear a size 8 normally but in these I wear a 9.", "sentiment": "negative", "topics": {"1": "0.33742014", "2": "0.08337475", "3": "0.36479986", "5": "0.105419114", "6": "0.08991989"}}

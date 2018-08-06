@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift for a woman who has a collection of buckle style jewelry. It's a great gift, looks nice and a good product.", "sentiment": "negative", "topics": {"0": "0.3696294", "1": "0.46386817", "2": "0.0102110375", "3": "0.010213164", "4": "0.010224067", "5": "0.12564461", "6": "0.0102095455"}}

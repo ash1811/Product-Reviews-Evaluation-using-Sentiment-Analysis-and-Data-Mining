@@ -1,0 +1,1 @@
+{"text": "This is pretty to look at. My seven year old son thinks it's too girly. I wore it once but the links won't stay in place. Thought I was going to lose it every minute. Just too distracting", "sentiment": "negative", "topics": {"1": "0.52601844", "2": "0.14134751", "5": "0.23663993", "6": "0.07447226"}}

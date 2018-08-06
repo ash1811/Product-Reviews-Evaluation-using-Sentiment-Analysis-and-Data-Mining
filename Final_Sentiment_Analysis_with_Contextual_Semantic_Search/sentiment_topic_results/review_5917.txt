@@ -1,0 +1,1 @@
+{"text": "These are very pretty earrings! I absolutely love these. I may get more for gifts!", "sentiment": "negative", "topics": {"0": "0.5294572", "1": "0.25653157", "2": "0.1502852", "3": "0.015919603", "4": "0.015974691", "5": "0.015942167", "6": "0.015889572"}}

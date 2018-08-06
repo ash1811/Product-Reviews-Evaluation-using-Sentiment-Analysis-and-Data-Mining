@@ -1,0 +1,1 @@
+{"text": "this shirt is verry comfortable and it washes nicely without shrinking or color fading. the price was right on this one", "sentiment": "positive", "topics": {"0": "0.011014218", "1": "0.5620693", "2": "0.12459792", "3": "0.010999253", "4": "0.14137425", "5": "0.13894404", "6": "0.011001081"}}

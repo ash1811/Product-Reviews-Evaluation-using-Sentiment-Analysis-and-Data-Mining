@@ -1,0 +1,1 @@
+{"text": "The sizing on these is all wrong.  I wear 10.5 shoes and the XL size of these didn't fit many of my shoes.  I picked up some Tingley Rubbers (specifically the 10&#34; work boot) that are great.", "sentiment": "negative", "topics": {"0": "0.16611281", "1": "0.3211948", "2": "0.27257064", "4": "0.102247745", "6": "0.12276039"}}

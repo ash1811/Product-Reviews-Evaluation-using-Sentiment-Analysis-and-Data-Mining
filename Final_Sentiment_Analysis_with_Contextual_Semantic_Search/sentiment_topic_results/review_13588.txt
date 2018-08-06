@@ -1,0 +1,1 @@
+{"text": "my wife loves these earings.  she wears them mostly when we are out on a date because it goes with almost everything she wears.  very elegant!!!", "sentiment": "positive", "topics": {"0": "0.011950447", "1": "0.5211528", "2": "0.20062548", "3": "0.011946924", "4": "0.01200028", "5": "0.011970763", "6": "0.23035334"}}

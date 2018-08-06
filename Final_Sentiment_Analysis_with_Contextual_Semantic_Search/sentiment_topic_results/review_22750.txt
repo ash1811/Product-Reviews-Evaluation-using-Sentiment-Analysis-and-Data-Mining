@@ -1,0 +1,1 @@
+{"text": "I got this for my 14 yr old sons 1st girlfriends birthday present, and was surprised at how nice it was for the price. I want one of my own, and I am pretty picky when it comes to jewelry for myself.", "sentiment": "negative", "topics": {"0": "0.3047818", "1": "0.30826208", "2": "0.21837677", "5": "0.062629", "6": "0.09228834"}}

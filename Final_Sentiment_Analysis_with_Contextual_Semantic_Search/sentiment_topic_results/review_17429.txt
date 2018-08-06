@@ -1,0 +1,1 @@
+{"text": "These are the regular thick Champions we all grew up wearing. They're incredibly durable for cotton - wear like iron. And, very nice for this price I think. I would buy again.", "sentiment": "positive", "topics": {"0": "0.08035547", "1": "0.39207023", "3": "0.23405136", "5": "0.27201807"}}

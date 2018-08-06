@@ -1,0 +1,1 @@
+{"text": "These had great potential, but they were too small. I usually wear a 7.5 so I thought this size would be a little large. It wasn't. It was too small. My heel was a little too close to the edge of the shoe and I walked out of them.", "sentiment": "positive", "topics": {"2": "0.17579547", "3": "0.43849233", "5": "0.2808307", "6": "0.08440576"}}

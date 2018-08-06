@@ -1,0 +1,1 @@
+{"text": "Knocks the links out with ease, No more paying $15 to pay someone to bag on my watch and charge me crazy prices anymore.", "sentiment": "negative", "topics": {"0": "0.010229999", "1": "0.52186674", "2": "0.24041748", "3": "0.010222491", "4": "0.0102209505", "5": "0.196835", "6": "0.010207322"}}

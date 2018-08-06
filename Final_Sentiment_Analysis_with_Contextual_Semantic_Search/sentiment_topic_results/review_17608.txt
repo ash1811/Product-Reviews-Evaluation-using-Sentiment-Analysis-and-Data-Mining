@@ -1,0 +1,1 @@
+{"text": "Es un reloj muy economico, excelente para un regalo sencillo. Muy delgado y f&aacute;cil de leer los n&uacute;meros. Con la calidad Casio de siempre.", "sentiment": "positive", "topics": {"0": "0.049131487", "1": "0.11261707", "3": "0.1836013", "4": "0.1920178", "5": "0.230415", "6": "0.22626263"}}

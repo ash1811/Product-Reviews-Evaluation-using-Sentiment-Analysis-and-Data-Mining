@@ -1,0 +1,1 @@
+{"text": "These last a long time and go well with any outfit. I love wearing these for laid back days or going out.", "sentiment": "positive", "topics": {"0": "0.010244362", "1": "0.5594928", "2": "0.010216273", "3": "0.010223262", "4": "0.010260872", "5": "0.3893495", "6": "0.010212921"}}

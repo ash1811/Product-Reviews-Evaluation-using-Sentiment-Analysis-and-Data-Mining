@@ -1,0 +1,1 @@
+{"text": "Columbia t-shirt is as would be expected, nice material and made well.  I would buy this again and probably will.", "sentiment": "negative", "topics": {"0": "0.108440526", "1": "0.836551", "2": "0.010998975", "3": "0.0110113565", "4": "0.010996559", "5": "0.010998288", "6": "0.0110032875"}}

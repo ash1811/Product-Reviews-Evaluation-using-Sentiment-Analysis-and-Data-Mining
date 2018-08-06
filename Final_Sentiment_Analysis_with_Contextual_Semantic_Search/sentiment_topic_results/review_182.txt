@@ -1,0 +1,1 @@
+{"text": "the only thing thats costing it a 5 star is that they are a bit long, but thats not really an issue if you tuck in anyway.", "sentiment": "negative", "topics": {"0": "0.011010698", "1": "0.24786201", "2": "0.6969828", "3": "0.01105522", "4": "0.011008094", "5": "0.011060172", "6": "0.011021018"}}

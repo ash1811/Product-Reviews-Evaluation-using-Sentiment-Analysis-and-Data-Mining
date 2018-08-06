@@ -1,0 +1,1 @@
+{"text": "This is nOt my first pair of Minnetonka Mocs and they won't be my last.  Consistently good.  Classic styling and well made.", "sentiment": "positive", "topics": {"0": "0.24785925", "1": "0.4521244", "2": "0.122040175", "3": "0.14209567", "4": "0.011977091", "5": "0.011985076", "6": "0.011918337"}}

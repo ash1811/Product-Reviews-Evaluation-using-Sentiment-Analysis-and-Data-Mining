@@ -1,0 +1,1 @@
+{"text": "I tried SO MANY boots and this Keen is the only one that was comfortable for my wide foot.  I wear medium weight socks with it. They are not clunky at all.  I love the charcoal/green color.  I also got a pair in brown.", "sentiment": "negative", "topics": {"1": "0.52121264", "4": "0.35386926", "6": "0.099951185"}}

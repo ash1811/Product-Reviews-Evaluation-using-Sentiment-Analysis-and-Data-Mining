@@ -1,0 +1,1 @@
+{"text": "My husband works in heavy highway construction and they do not sag, slide around or bunch up.Good to wear with work boots. Good Price. Recommend!!", "sentiment": "positive", "topics": {"1": "0.24231799", "2": "0.14206834", "4": "0.38526464", "6": "0.20504187"}}

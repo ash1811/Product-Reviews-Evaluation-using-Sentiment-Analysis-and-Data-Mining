@@ -1,0 +1,1 @@
+{"text": "I've always been a fan of Champion. These shorts are really comfy, and half the price of a pair of Nike basketball shorts.", "sentiment": "negative", "topics": {"0": "0.41323063", "1": "0.0102408", "2": "0.010236445", "3": "0.45270902", "4": "0.010283991", "5": "0.010235377", "6": "0.09306371"}}

@@ -1,0 +1,1 @@
+{"text": "The bra fits really well and gives adequate support. I would love this bra, if only I could get over the itchy fabric and that my breasts look like two cones in the bra!", "sentiment": "negative", "topics": {"1": "0.35557327", "3": "0.39883476", "4": "0.085774586", "5": "0.03496245", "6": "0.11122011"}}

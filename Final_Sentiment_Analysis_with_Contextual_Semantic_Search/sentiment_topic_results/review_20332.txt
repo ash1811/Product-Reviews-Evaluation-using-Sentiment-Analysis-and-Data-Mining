@@ -1,0 +1,1 @@
+{"text": "Excellent quality, light weight, exact fit/true to size, perfectly comfortable on immediate 12 mile hike and would order again. Love the shoestring &#34;secures&#34; at the top of the boot.", "sentiment": "negative", "topics": {"0": "0.07000387", "1": "0.34963375", "2": "0.11447389", "3": "0.15343887", "4": "0.23481633", "6": "0.071071796"}}

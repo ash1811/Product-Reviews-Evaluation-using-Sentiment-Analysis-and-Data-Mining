@@ -1,0 +1,1 @@
+{"text": "I bought this bra along with three others (same size, different companies). The others were fine, but the Olga was very small - as if it was sized incorrectly. I returned it immediately. Wish I had something better to say", "sentiment": "negative", "topics": {"1": "0.29921043", "2": "0.20864838", "3": "0.38228416", "6": "0.090339616"}}

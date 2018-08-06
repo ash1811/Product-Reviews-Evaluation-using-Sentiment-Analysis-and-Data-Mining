@@ -1,0 +1,1 @@
+{"text": "seems to be holding up really well- had it for about 3 months. The colors are great and it's unique.", "sentiment": "negative", "topics": {"0": "0.0143443", "1": "0.7118696", "2": "0.014322514", "3": "0.014343065", "4": "0.21648367", "5": "0.014324049", "6": "0.014312813"}}

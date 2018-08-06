@@ -1,0 +1,1 @@
+{"text": "Soft (but not too soft) material, and fits my tall/unthin frame well. Many big & tall jeans are too long/large in the torso, but these guys fit comfortably after one shrink-on-propose washing.", "sentiment": "positive", "topics": {"1": "0.34575644", "4": "0.4759105", "5": "0.15098101"}}

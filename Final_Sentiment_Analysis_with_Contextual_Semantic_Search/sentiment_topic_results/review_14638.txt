@@ -1,0 +1,1 @@
+{"text": "I love these and I'm on my 2nd pair now. The first pair I wore out so much that the cork cracked right along the ball of my foot on one of the shoes. They are stiff at first but once you break them in, they are amazing!", "sentiment": "negative", "topics": {"2": "0.12867606", "3": "0.19166972", "4": "0.40858468", "5": "0.14348027", "6": "0.115135014"}}

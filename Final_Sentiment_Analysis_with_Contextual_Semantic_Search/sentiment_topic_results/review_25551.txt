@@ -1,0 +1,1 @@
+{"text": "I thought I would be using it on a daily basis, but it just never got out. The chest size is fine but the length is almost dragging. Maybe next winter...", "sentiment": "positive", "topics": {"0": "0.21292138", "1": "0.09966169", "2": "0.30737984", "3": "0.18730567", "6": "0.17675671"}}

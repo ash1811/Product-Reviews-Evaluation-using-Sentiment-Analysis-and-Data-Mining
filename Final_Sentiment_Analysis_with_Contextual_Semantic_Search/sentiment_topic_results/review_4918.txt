@@ -1,0 +1,1 @@
+{"text": "I use watch to run and other exercises. My wrist is the size of a 2x4. Really. Only the last 3 holes can be used. 3rd to last kind of tight. 2nd to last a little too loose.", "sentiment": "negative", "topics": {"1": "0.26907423", "2": "0.23026103", "3": "0.16779633", "5": "0.24873336", "6": "0.07048885"}}

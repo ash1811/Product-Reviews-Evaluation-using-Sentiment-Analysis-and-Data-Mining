@@ -1,0 +1,1 @@
+{"text": "I wear a 14 4e and this shoe was perfect with some nice dress socks...Great looking shoe with a quality build..Worth the money big time!", "sentiment": "negative", "topics": {"0": "0.06687574", "1": "0.47621262", "2": "0.15019938", "4": "0.08129699", "5": "0.13377222", "6": "0.08269675"}}

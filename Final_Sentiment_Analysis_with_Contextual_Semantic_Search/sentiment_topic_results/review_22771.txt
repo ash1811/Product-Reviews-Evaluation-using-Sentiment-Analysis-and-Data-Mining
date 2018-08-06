@@ -1,0 +1,1 @@
+{"text": "I Love this bracelet. I wear it with practically everything and it always look good . You have excellent bracelets and the colors are wonderful. I will be buying more.", "sentiment": "negative", "topics": {"1": "0.4317614", "2": "0.52038467"}}

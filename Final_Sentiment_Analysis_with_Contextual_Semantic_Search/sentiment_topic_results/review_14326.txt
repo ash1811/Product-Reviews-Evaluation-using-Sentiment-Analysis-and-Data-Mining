@@ -1,0 +1,1 @@
+{"text": "Well made, utterly comfortable, gives me the opportunity to \"earth\" (be right on the ground, not removed by a rubber sole). I bought two pair since I like them that much! Highly recommend!", "sentiment": "negative", "topics": {"0": "0.069960035", "1": "0.6534537", "3": "0.11337462", "6": "0.1436665"}}

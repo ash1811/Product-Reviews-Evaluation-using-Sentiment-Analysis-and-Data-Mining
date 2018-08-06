@@ -1,0 +1,1 @@
+{"text": "This fruit of the loom hoodie fits great is what I wanted not to heavy or uncomfortable I'm pleased with what I ordered", "sentiment": "negative", "topics": {"0": "0.011927985", "1": "0.47105893", "2": "0.15741545", "3": "0.09634435", "4": "0.011920645", "5": "0.15220238", "6": "0.09913024"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these pants as a gift for my son. The quality is very good and the price is excellent for carhart.", "sentiment": "positive", "topics": {"0": "0.16059396", "1": "0.55876493", "2": "0.2234458", "3": "0.014291634", "4": "0.014303225", "5": "0.014314217", "6": "0.014286229"}}

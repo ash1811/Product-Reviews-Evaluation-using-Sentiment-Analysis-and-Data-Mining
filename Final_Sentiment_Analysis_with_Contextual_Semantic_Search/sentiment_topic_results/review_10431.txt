@@ -1,0 +1,1 @@
+{"text": "The sole came apart from my other Uggs and this newer version seems like it is more well made. They are very comfortable although they do not offer much support.", "sentiment": "positive", "topics": {"0": "0.29025623", "1": "0.3621682", "3": "0.17084685", "5": "0.14986163"}}

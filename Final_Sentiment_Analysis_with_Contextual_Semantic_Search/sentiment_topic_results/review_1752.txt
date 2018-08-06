@@ -1,0 +1,1 @@
+{"text": "Loved the look. Has nice lace trim around waste & legs, and that's what I was looking for. Also like the colors. Straight guy & love to wear them.", "sentiment": "negative", "topics": {"1": "0.41083723", "3": "0.25459272", "4": "0.15692507", "6": "0.1561608"}}

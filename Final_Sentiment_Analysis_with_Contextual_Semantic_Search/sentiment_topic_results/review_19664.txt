@@ -1,0 +1,1 @@
+{"text": "And not grossly overpriced like all-too-many of their competitors.  The recipient was pleased, but is insisting on totally wearing out her current pair of flip flops before starting to wear these.", "sentiment": "negative", "topics": {"0": "0.21134634", "1": "0.4017669", "2": "0.10502636", "4": "0.11477591", "6": "0.15116137"}}

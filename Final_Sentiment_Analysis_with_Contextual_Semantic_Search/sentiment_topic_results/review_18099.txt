@@ -1,0 +1,1 @@
+{"text": "The body of the watch is a little thick, but at this price, that is to be expected. It is otherwise light, stylish and very comfortable, perfect for my 11 year-old. His only complaint is the lack of built-in lighting.", "sentiment": "negative", "topics": {"1": "0.39763412", "2": "0.07639158", "4": "0.15337048", "6": "0.34857297"}}

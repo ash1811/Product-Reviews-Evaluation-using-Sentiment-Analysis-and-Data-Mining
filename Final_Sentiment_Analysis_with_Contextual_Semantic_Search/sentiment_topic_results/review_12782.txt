@@ -1,0 +1,1 @@
+{"text": "I researched all kinds of rainboots and these are great boots.  They don't leak, they are comfortable, and they aren't terribly expensive.", "sentiment": "negative", "topics": {"0": "0.0142964", "1": "0.33890176", "2": "0.014370685", "3": "0.09218631", "4": "0.2791142", "5": "0.13916281", "6": "0.12196781"}}

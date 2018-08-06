@@ -1,0 +1,1 @@
+{"text": "Yes this jacket is quality and you know it! I bought for my nephew almost a year ago, he loves it while at work on the ski slopes. He says he is warm and sometimes if he is real busy start sweating cause it keeps him so warm.", "sentiment": "negative", "topics": {"1": "0.32814994", "2": "0.18951884", "3": "0.206716", "5": "0.115457304", "6": "0.14870614"}}

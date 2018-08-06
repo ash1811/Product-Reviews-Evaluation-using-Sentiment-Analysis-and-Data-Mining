@@ -1,0 +1,1 @@
+{"text": "This is the perfect hat for cold weather. The material is not aggravating to the skin, however, it holds warmth very well.", "sentiment": "negative", "topics": {"0": "0.11396313", "1": "0.43690863", "2": "0.102072835", "3": "0.31122756", "4": "0.0119195925", "5": "0.011943118", "6": "0.011965132"}}

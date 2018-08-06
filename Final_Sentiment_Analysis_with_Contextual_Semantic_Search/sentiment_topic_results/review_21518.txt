@@ -1,0 +1,1 @@
+{"text": "I bought a large as a gag gift, I woudl say it's more of an extra large. The shirt isn't very soft either but it's hilarious non-the-less.", "sentiment": "negative", "topics": {"0": "0.20379512", "1": "0.14989755", "2": "0.010227541", "3": "0.010261191", "4": "0.010208531", "5": "0.3691198", "6": "0.24649027"}}

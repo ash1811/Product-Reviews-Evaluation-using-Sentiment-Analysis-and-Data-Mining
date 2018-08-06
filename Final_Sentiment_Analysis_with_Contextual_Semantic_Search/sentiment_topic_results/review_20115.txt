@@ -1,0 +1,1 @@
+{"text": "I wanted a bag that had a middle pouch for my pickle ball racket. This does and it fits in well. Well made and comfortable.", "sentiment": "negative", "topics": {"0": "0.011010425", "1": "0.5965673", "2": "0.0110151535", "3": "0.010999253", "4": "0.34840256", "5": "0.011012526", "6": "0.0109927645"}}

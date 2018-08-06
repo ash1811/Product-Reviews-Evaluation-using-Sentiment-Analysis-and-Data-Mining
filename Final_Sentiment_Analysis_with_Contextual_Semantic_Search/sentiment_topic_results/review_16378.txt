@@ -1,0 +1,1 @@
+{"text": "Reef sandals in general are durable and very comfortable. These ones are very supportive and are able to be worn for long periods. The part that touches the top of your foot is padded. Finally, they look decent and I would recommend them.", "sentiment": "negative", "topics": {"1": "0.43124962", "3": "0.38656497", "4": "0.08779227", "6": "0.07569045"}}

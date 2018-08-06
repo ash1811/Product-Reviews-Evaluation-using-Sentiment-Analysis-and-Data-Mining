@@ -1,0 +1,1 @@
+{"text": "Great product - my husband wears them very often and he's 'picky' about shoes.  Good quality!", "sentiment": "positive", "topics": {"0": "0.013000368", "1": "0.3778475", "2": "0.2920588", "3": "0.013006145", "4": "0.12210869", "5": "0.16897576", "6": "0.013002794"}}

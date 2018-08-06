@@ -1,0 +1,1 @@
+{"text": "What can you say about a white turtleneck.  It is soft, as advertised.  It fits, is comfortable and washes well.", "sentiment": "positive", "topics": {"0": "0.014320766", "1": "0.6634927", "2": "0.014310746", "3": "0.01429253", "4": "0.014288182", "5": "0.16850165", "6": "0.11079345"}}

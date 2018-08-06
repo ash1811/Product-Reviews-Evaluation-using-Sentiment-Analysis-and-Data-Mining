@@ -1,0 +1,1 @@
+{"text": "While these covered my hands the fit was weird. Rothko makes a lot of military products so I trusted their products. I used these for my Santa suit and they got the job done better than &#34;Santa gloves&#34;.", "sentiment": "negative", "topics": {"0": "0.07515843", "1": "0.1881537", "2": "0.13131587", "3": "0.23660517", "4": "0.13151716", "5": "0.23042676"}}

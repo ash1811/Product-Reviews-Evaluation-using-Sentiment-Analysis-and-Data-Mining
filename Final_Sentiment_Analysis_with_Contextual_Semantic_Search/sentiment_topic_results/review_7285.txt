@@ -1,0 +1,1 @@
+{"text": "Heavy duty but not uncomfortable.  The fit is good, they seem to be an accurate 32x36,  and they are nice looking pants.  I reviewed 2 other colors, really liked them both.", "sentiment": "negative", "topics": {"0": "0.074788325", "1": "0.5806555", "2": "0.07252201", "4": "0.06749253", "5": "0.059681017", "6": "0.13691042"}}

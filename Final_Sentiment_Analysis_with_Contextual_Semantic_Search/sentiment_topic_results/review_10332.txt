@@ -1,0 +1,1 @@
+{"text": "I recieved the item as expected and I was impressed with the quality of the item. The comfort level was more than I expected. The shipping container was damaged but the item was not damaged.Overall I was very pleased.", "sentiment": "positive", "topics": {"1": "0.15596879", "2": "0.06834782", "4": "0.22562532", "5": "0.1703374", "6": "0.36183044"}}

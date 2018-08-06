@@ -1,0 +1,1 @@
+{"text": "Very heavy duty material. Quite long and actually is a little too big. Next time I will get a 3x.", "sentiment": "negative", "topics": {"0": "0.011025034", "1": "0.39355934", "2": "0.011038518", "3": "0.011024577", "4": "0.18868597", "5": "0.16417119", "6": "0.22049539"}}

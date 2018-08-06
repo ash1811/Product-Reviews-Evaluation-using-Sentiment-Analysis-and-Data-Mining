@@ -1,0 +1,1 @@
+{"text": "I loved the color and generous size of this shirt.  A little thinner than expected but over all comfortable.  I hope it lasts as long as the last one I ordered.  Item came earlier than promised and in good shape.  Thank you USPS.", "sentiment": "negative", "topics": {"1": "0.4706309", "2": "0.031820197", "4": "0.32782", "6": "0.15180682"}}

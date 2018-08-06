@@ -1,0 +1,1 @@
+{"text": "ummm i have a big head i can wear it with my hair but not with a wig on i was going to use this for my Jane crocker cosplay it fit but a bit tight but i have big and i know that so it a good hat for the price", "sentiment": "negative", "topics": {"1": "0.47354525", "3": "0.3105313", "5": "0.06348963", "6": "0.13095945"}}

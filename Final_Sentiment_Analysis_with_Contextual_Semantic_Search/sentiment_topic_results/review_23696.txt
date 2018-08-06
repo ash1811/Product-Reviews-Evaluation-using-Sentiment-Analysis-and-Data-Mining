@@ -1,0 +1,1 @@
+{"text": "Great fit and just what we needed. Never can find good stock in store so getting from here is breeze and saves us from having to deal with the stores.", "sentiment": "negative", "topics": {"1": "0.6858943", "2": "0.09826267", "3": "0.08618215", "4": "0.10103622"}}

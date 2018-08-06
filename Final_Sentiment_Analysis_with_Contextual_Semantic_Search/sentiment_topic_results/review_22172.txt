@@ -1,0 +1,1 @@
+{"text": "I have worn Vanity Fair nightgowns for many years.  They are absolutely the most comfortable ones I have found.  They wear really well and will last for years.  The Amazon price is the best I have seen lately.", "sentiment": "negative", "topics": {"1": "0.34658876", "2": "0.06607264", "4": "0.48682237", "6": "0.08003665"}}

@@ -1,0 +1,1 @@
+{"text": "These are hard to find around me, and they seem to be a nice thigh high.  No problems with them at all.", "sentiment": "positive", "topics": {"0": "0.18919379", "1": "0.41317815", "2": "0.013037598", "3": "0.013064226", "4": "0.0130335195", "5": "0.013034972", "6": "0.3454578"}}

@@ -1,0 +1,1 @@
+{"text": "I got this for my 8 year old son. He's kind of a math nerd, so he really digs this watch. He's also learning karate, so don't make fun of the watch, or you might get a chop to the throat.", "sentiment": "positive", "topics": {"0": "0.13987398", "1": "0.22924608", "2": "0.3310472", "3": "0.1658303", "4": "0.122056454"}}

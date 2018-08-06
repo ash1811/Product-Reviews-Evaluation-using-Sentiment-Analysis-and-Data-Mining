@@ -1,0 +1,1 @@
+{"text": "These slippers are very soft and comfy.  The top band was a little snug, but worked loose a bit after one wear.  I really like how they fit and they are so pretty.", "sentiment": "positive", "topics": {"1": "0.44614106", "3": "0.19624175", "6": "0.32383314"}}

@@ -1,0 +1,1 @@
+{"text": "This is just what I was looking for. I needed a shorter chain for a silver pendent charm. The quality is good and the price is perfect.", "sentiment": "negative", "topics": {"0": "0.011002375", "1": "0.392416", "2": "0.010997355", "3": "0.011011641", "4": "0.2347987", "5": "0.1916998", "6": "0.14807414"}}

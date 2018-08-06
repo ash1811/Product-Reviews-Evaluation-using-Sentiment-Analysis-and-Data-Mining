@@ -1,0 +1,1 @@
+{"text": "Loved, loved, loved this costume.  Very nicely made with tons of detail!!!  Would highly recommend this costume. Received so many compliments :)", "sentiment": "negative", "topics": {"0": "0.22627649", "1": "0.54890597", "2": "0.099810444", "4": "0.09818723"}}

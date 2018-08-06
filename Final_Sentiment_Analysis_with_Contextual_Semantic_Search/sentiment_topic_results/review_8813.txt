@@ -1,0 +1,1 @@
+{"text": "I like the jeans except for the front pockets... they are so narrow I can't get my hand into them.", "sentiment": "negative", "topics": {"0": "0.49347016", "1": "0.44125625", "2": "0.013062099", "3": "0.013080478", "4": "0.01302013", "5": "0.013066979", "6": "0.013043913"}}

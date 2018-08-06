@@ -1,0 +1,1 @@
+{"text": "Very good polo shirts, cheap, fast shipping and very good quality exactly as described, gave to my dad and he loved it...", "sentiment": "negative", "topics": {"0": "0.33097005", "1": "0.6212457"}}

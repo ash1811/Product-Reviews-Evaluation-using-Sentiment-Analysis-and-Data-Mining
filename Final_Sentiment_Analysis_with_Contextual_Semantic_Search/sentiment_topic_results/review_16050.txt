@@ -1,0 +1,1 @@
+{"text": "I love Reef's and for the price you can't pass it up! I went to a store to try them on to make sure my size was accurate and then ordered them on here. I LOVE them!!!!", "sentiment": "positive", "topics": {"0": "0.13603419", "1": "0.25439686", "2": "0.085075535", "3": "0.43376938", "6": "0.07469464"}}

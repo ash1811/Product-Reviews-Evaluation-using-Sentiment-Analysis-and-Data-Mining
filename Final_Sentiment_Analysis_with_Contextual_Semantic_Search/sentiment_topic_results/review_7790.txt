@@ -1,0 +1,1 @@
+{"text": "I had a Fossil watch that needed a link taken out.  This product took it out perfectly without damaging the watch or using much force on my part.", "sentiment": "negative", "topics": {"0": "0.13286325", "1": "0.46592453", "2": "0.25024396", "5": "0.12566094"}}

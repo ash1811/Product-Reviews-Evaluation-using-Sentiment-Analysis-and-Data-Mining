@@ -1,0 +1,1 @@
+{"text": "this cloth is a wonderful and simple way to clean your sterling silver jewelry that has become tarnished from every day use or non-use. the cloth is both soft, sturdy and thick.  a great cleaning tool!", "sentiment": "positive", "topics": {"0": "0.041238215", "1": "0.31794238", "3": "0.07781046", "4": "0.08805328", "5": "0.1749389", "6": "0.29350784"}}

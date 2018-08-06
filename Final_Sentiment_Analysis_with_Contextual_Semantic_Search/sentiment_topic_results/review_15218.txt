@@ -1,0 +1,1 @@
+{"text": "These are my husband's favorite! Thank you for the quick delivery and great price! I love not having to deal with going to the store with a baby and yet still getting competitive pricing.", "sentiment": "negative", "topics": {"1": "0.42575663", "2": "0.05800006", "3": "0.17210166", "4": "0.25387412", "6": "0.074357666"}}

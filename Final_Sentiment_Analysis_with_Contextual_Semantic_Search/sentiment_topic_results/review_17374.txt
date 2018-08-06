@@ -1,0 +1,1 @@
+{"text": "I got these to wear with my uniform and they were warm but a little short and lost, especially after the first wash.", "sentiment": "positive", "topics": {"0": "0.27322546", "1": "0.38647154", "2": "0.012995618", "3": "0.013028126", "4": "0.013009085", "5": "0.013060734", "6": "0.28820944"}}

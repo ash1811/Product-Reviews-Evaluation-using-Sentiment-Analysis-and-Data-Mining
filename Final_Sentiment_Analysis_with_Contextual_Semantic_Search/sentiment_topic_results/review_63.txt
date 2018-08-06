@@ -1,0 +1,1 @@
+{"text": "Perfect size, sparkly and beautiful! Very happy with this purchase. The crystals are so vivid and catches the light well. Thanks and would recommend. Arrived fast and was well packed in a small cute gift box.", "sentiment": "negative", "topics": {"0": "0.76934856", "2": "0.06777398", "3": "0.1379292"}}

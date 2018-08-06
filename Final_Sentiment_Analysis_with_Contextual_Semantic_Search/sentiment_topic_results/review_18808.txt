@@ -1,0 +1,1 @@
+{"text": "I ordered these for my 6'2\", 200 lbs husband, in 34 w, 36 l. They were too small round the waist, but in any case they were much too heavy for summer. Well made, but not what he wanted. I returned them.", "sentiment": "negative", "topics": {"0": "0.09615985", "1": "0.18249035", "2": "0.23715578", "3": "0.29230696", "4": "0.09085087", "6": "0.09450883"}}

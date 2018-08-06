@@ -1,0 +1,1 @@
+{"text": "I bought this for my son's First Communion and we were pleased with it.  It is good quality, attractive, and unique.", "sentiment": "negative", "topics": {"0": "0.013077855", "1": "0.6040276", "2": "0.013012088", "3": "0.013017648", "4": "0.19488296", "5": "0.013047413", "6": "0.14893445"}}

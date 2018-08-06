@@ -1,0 +1,1 @@
+{"text": "The sizes for this product are not true. It runs small, which I wish I would've known sooner seeing as how I can't wear the thing at all now.", "sentiment": "positive", "topics": {"1": "0.48536232", "3": "0.20034398", "4": "0.094040416", "5": "0.1915868"}}

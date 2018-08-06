@@ -1,0 +1,1 @@
+{"text": "Very nice looking, but tha't all positve I can say, but very basic construction too: No lining, not Footbed.This is not a shoe I can consider confortable. And I used to work for a shoe manufacturing company.", "sentiment": "negative", "topics": {"0": "0.12406151", "2": "0.22099142", "3": "0.2648911", "4": "0.07687906", "5": "0.16223262", "6": "0.14337234"}}

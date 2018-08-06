@@ -1,0 +1,1 @@
+{"text": "I wear these all the time!  I really like that they came with the yellow and white laces.  They have become a total staple in my wardrobe.  Comfortable, cute, and versatile.", "sentiment": "positive", "topics": {"0": "0.30451906", "1": "0.11075882", "3": "0.23404431", "5": "0.32382813"}}

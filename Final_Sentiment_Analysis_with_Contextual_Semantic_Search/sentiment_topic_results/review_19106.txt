@@ -1,0 +1,1 @@
+{"text": "Perhaps the pair that I received were incorrectly marked.  They clearly said 13 2E, yet they were 1/2&#34; shorter than other New Balance shoes I own.  The toe box was narrower as well.  I was very disappointed.", "sentiment": "positive", "topics": {"0": "0.08136812", "1": "0.18542914", "2": "0.24665713", "3": "0.24253134", "5": "0.14177698", "6": "0.095723346"}}

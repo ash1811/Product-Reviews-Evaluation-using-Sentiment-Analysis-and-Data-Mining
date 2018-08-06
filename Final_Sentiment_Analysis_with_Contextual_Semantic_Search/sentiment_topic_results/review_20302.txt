@@ -1,0 +1,1 @@
+{"text": "I didn't know exactly what these were when I got them, but couldn't be happier with what I have.  They are very thick and great for my construction work.  They shipped fast and the sizing was accurate. Tough product.", "sentiment": "negative", "topics": {"0": "0.167786", "3": "0.27639458", "5": "0.22887102", "6": "0.30165213"}}

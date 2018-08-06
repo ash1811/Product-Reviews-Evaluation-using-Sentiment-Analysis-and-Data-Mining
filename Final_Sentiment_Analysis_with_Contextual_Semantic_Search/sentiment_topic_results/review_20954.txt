@@ -1,0 +1,1 @@
+{"text": "A very nice ring. Heavy too.  Excellent value but I think next time I'll go with the 6mm size. The 8mm is really bigger than I thought.", "sentiment": "positive", "topics": {"0": "0.14536795", "1": "0.1877915", "2": "0.28398216", "3": "0.25603396", "6": "0.11090821"}}

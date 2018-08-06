@@ -1,0 +1,1 @@
+{"text": "These are just what you would expect.  Nice quality and the size is correct.  If you want good cotton old lady panties these are what you need. :)", "sentiment": "negative", "topics": {"0": "0.01025181", "1": "0.27299073", "2": "0.16737176", "3": "0.2175594", "4": "0.06723111", "5": "0.14508076", "6": "0.11951444"}}

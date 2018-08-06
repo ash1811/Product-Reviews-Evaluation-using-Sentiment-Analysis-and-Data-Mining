@@ -1,0 +1,1 @@
+{"text": "Love them if you are just kicking around the house or maybe to the gym. Comfortable I love them cause they aren't like the other ones with pockets and if you put anything in them you don't feel like they are pulling down to your knees. Great price!!", "sentiment": "positive", "topics": {"1": "0.31522834", "2": "0.21267194", "4": "0.12409815", "6": "0.32751182"}}

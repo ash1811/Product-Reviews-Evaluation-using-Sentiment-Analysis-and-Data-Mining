@@ -1,0 +1,1 @@
+{"text": "I have purchased many Levi's jeans over the years.  They are a quality, comfortable product.  They arrived sooner than I expected.", "sentiment": "negative", "topics": {"0": "0.09037365", "1": "0.40950042", "2": "0.0119109005", "3": "0.011931514", "4": "0.08960661", "5": "0.28400588", "6": "0.10267101"}}

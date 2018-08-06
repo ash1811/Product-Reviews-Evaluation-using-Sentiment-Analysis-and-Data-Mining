@@ -1,0 +1,1 @@
+{"text": "My husband loves these sweats.  They are lightweight and very comfortable and were perfectly sized.  I would highly recommend these and the price is right!", "sentiment": "positive", "topics": {"0": "0.011023811", "1": "0.36664093", "2": "0.011017248", "3": "0.011021556", "4": "0.47665706", "5": "0.01102525", "6": "0.11261415"}}

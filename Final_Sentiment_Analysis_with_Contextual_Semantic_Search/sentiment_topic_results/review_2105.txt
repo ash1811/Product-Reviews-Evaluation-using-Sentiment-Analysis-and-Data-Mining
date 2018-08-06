@@ -1,0 +1,1 @@
+{"text": "I may never take them off. Best cool pants ever. ................. Dickies, the short pants with style. The fit is just perfect.", "sentiment": "negative", "topics": {"0": "0.3330178", "1": "0.619223"}}

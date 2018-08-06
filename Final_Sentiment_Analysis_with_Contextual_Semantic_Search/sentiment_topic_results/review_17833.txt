@@ -1,0 +1,1 @@
+{"text": "excelente reloj, 100% original muy es muy elegante, lo recomiendo a las persinas de buen gusto y bestir, es tal cual como lo describe el vendedor, y llego en el tiempo estimado.", "sentiment": "positive", "topics": {"0": "0.040603872", "1": "0.08848228", "2": "0.078421324", "3": "0.11155882", "4": "0.18100335", "5": "0.44915786", "6": "0.050772466"}}

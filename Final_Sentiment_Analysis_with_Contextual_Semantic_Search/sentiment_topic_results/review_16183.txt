@@ -1,0 +1,1 @@
+{"text": "Nice size!  I enjoy wearing silver jewelry, and a polishing cloth is a must-have.  It can be used for other metals also, of course, and for silver tableware.", "sentiment": "negative", "topics": {"0": "0.19654024", "1": "0.33113623", "2": "0.07335771", "4": "0.15122953", "5": "0.09038127", "6": "0.14837866"}}

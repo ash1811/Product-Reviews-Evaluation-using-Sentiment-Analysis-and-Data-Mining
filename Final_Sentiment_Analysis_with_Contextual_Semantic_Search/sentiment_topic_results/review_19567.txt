@@ -1,0 +1,1 @@
+{"text": "good fit good everything except maybe not as good as the gucci loafers and church's?needs to concentrate on fitting if it wants to be a legend.", "sentiment": "positive", "topics": {"0": "0.40700024", "1": "0.3805311", "2": "0.17397217"}}

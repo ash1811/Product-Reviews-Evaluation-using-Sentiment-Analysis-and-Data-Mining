@@ -1,0 +1,1 @@
+{"text": "They fit perfectly. Not as wrinkle resistant as I would have liked, but they look and fit very well", "sentiment": "negative", "topics": {"0": "0.0143026905", "1": "0.8070604", "2": "0.1214491", "3": "0.01430593", "4": "0.014299673", "5": "0.014295069", "6": "0.014287064"}}

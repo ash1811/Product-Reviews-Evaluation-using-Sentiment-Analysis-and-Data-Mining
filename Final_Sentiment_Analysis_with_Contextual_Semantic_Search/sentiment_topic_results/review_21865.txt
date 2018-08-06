@@ -1,0 +1,1 @@
+{"text": "Nice big duffle bag, fits quite a lot of clothes. The footwear compartment takes up almost half the space on the inside but at least you can have a second pair of kicks and keep your clothes clean from them.", "sentiment": "negative", "topics": {"1": "0.34113407", "2": "0.42372084", "3": "0.2112877"}}

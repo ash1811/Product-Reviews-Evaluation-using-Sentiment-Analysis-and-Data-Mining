@@ -1,0 +1,1 @@
+{"text": "I sthe 4 casio watch like that I bought for my dad, and he really love it, he loves the big numbers and the quality of the watch... very good and cheap option", "sentiment": "negative", "topics": {"0": "0.12446732", "1": "0.41275904", "2": "0.25365075", "5": "0.11735497", "6": "0.07666424"}}

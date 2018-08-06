@@ -1,0 +1,1 @@
+{"text": "This shoe is true to the Trotters' name. Soft as butter they fit like a kid glove. Trotters has,for many years, made shoes of uncompromising quality. These promise to be a favorite this fall and winter.", "sentiment": "negative", "topics": {"1": "0.40338418", "2": "0.22345689", "3": "0.1251178", "5": "0.06153769", "6": "0.17398728"}}

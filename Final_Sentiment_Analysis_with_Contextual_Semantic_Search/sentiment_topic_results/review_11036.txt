@@ -1,0 +1,1 @@
+{"text": "I Love my acorn Tex slippers.  This is my second pair.  I absolutely wore the other pair out.  I wear them everyday.  They are so comfortable and they are washable.", "sentiment": "negative", "topics": {"1": "0.21913776", "2": "0.079438806", "3": "0.17530662", "4": "0.29688275", "6": "0.21013312"}}

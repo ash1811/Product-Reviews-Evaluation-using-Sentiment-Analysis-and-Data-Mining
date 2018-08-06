@@ -1,0 +1,1 @@
+{"text": "I am used to buying juniors clothing but this pant runs small, which is quite disappointing.  Fabric and stitching seem well otherwise.", "sentiment": "negative", "topics": {"0": "0.25611177", "1": "0.505821", "5": "0.063712746", "6": "0.14563745"}}

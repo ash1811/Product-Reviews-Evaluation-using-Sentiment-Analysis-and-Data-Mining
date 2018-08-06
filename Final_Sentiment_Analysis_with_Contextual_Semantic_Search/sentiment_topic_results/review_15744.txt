@@ -1,0 +1,1 @@
+{"text": "I like the 6&#34; boot, light-weight, and durable.  I use this shoe mostly for riding my motorcycle.  Very comfortable fit.", "sentiment": "positive", "topics": {"0": "0.011007976", "1": "0.4001501", "2": "0.19709468", "3": "0.0110142995", "4": "0.24619156", "5": "0.011013581", "6": "0.12352782"}}

@@ -1,0 +1,1 @@
+{"text": "delivery was very good, item color was as shown on the internet site, fit from ankle to just below knee.very soft material and they stayed up the whole day.would order again if needed more.", "sentiment": "negative", "topics": {"0": "0.11898264", "1": "0.30885214", "2": "0.055129442", "3": "0.31750605", "6": "0.18446007"}}

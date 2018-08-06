@@ -1,0 +1,1 @@
+{"text": "Purchased this for a wedding I attended.  It worked very well and made me look good in my little black dress.  Very comfortable to wear.", "sentiment": "negative", "topics": {"0": "0.010229899", "1": "0.5945517", "2": "0.010245528", "3": "0.12626809", "4": "0.010213648", "5": "0.0870388", "6": "0.16145238"}}

@@ -1,0 +1,1 @@
+{"text": "I've purchased a pair before and loved them. They feel great while wearing over the calf riding boots. the cushioning is perfect. My feet feel great all day.", "sentiment": "negative", "topics": {"1": "0.3192066", "3": "0.38653347", "4": "0.18067509", "5": "0.08970317"}}

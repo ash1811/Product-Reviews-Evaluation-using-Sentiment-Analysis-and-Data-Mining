@@ -1,0 +1,1 @@
+{"text": "this one met the expectations. i was requested by my son a red bag with a monkey hanging (he doesn't know the was actually asking for a brand). i got this....he loves it. roomy perfect. i want it for myself.great quality.", "sentiment": "negative", "topics": {"1": "0.24401976", "2": "0.18682796", "3": "0.20162836", "4": "0.19023588", "6": "0.16532227"}}

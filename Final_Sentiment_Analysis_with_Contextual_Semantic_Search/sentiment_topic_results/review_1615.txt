@@ -1,0 +1,1 @@
+{"text": "I personally was looking for something more firm, it's going to hold you in, but if you've got a &#34;belly&#34; it won't cinch.", "sentiment": "negative", "topics": {"0": "0.18248805", "1": "0.13807684", "2": "0.13741654", "3": "0.37395045", "4": "0.013006509", "5": "0.14203954", "6": "0.013022081"}}

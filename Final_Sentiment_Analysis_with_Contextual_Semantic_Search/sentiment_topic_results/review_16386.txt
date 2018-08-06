@@ -1,0 +1,1 @@
+{"text": "It's a flip flop. The price is right.  The fit is nice and tight but not too tight.  I like the Reef fit and have repeatedly bought more and more of their flip flops.", "sentiment": "negative", "topics": {"1": "0.8015745", "2": "0.15372987"}}

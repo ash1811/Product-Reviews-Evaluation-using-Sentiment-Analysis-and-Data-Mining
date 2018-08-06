@@ -1,0 +1,1 @@
+{"text": "This shirt is Alright, the material is pretty thin so that's why I choose to give it a 4. But the price made up for what its lacked.", "sentiment": "negative", "topics": {"0": "0.011020387", "1": "0.7180427", "2": "0.22680698", "3": "0.011044113", "4": "0.011032875", "5": "0.011026812", "6": "0.011026129"}}

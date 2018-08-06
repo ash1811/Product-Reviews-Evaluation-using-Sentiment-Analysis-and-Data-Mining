@@ -1,0 +1,1 @@
+{"text": "I bought this watch because I am out on the golf course a lot and I also walk and run daily. Hardly know that I have it on.", "sentiment": "positive", "topics": {"0": "0.22964907", "1": "0.16357033", "2": "0.12275544", "3": "0.25663006", "4": "0.10158621", "5": "0.011107712", "6": "0.1147012"}}

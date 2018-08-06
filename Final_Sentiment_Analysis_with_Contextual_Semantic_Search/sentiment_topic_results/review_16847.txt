@@ -1,0 +1,1 @@
+{"text": "Everyone loves Keens, got these for my hubby for fathers day, unfortunately these seem to run a bit narrow so we had to return them.  He wears normal sizes (not wide).", "sentiment": "positive", "topics": {"0": "0.13941965", "3": "0.21657929", "5": "0.25655565", "6": "0.36594796"}}

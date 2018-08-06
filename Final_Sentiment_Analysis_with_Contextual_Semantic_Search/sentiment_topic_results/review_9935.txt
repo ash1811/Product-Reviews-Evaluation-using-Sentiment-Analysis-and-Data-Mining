@@ -1,0 +1,1 @@
+{"text": "Beautiful just sent them back for reason they are to small and plan order larger onesDuragold is a beautiful glowing 14K gold, I have a couple of duragold.", "sentiment": "positive", "topics": {"0": "0.4194202", "1": "0.18422745", "2": "0.18269172", "5": "0.18679284"}}

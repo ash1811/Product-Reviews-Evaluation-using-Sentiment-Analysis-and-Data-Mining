@@ -1,0 +1,1 @@
+{"text": "Fits true to size and the wide calf is about an inch bigger that what they don't call wide.  Really nice boot.  I'd buy it again.", "sentiment": "negative", "topics": {"1": "0.43082097", "3": "0.29636645", "4": "0.13446653", "5": "0.11150136"}}

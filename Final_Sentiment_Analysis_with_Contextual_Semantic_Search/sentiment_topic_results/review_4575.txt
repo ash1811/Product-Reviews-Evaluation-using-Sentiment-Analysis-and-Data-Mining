@@ -1,0 +1,1 @@
+{"text": "it is not fit ,it is very loose. and it's fading very hard and it still attract dust.I am slim so I can't wear it.", "sentiment": "negative", "topics": {"0": "0.2366129", "1": "0.3460301", "2": "0.0110099055", "3": "0.011033302", "4": "0.1861807", "5": "0.12028606", "6": "0.08884703"}}

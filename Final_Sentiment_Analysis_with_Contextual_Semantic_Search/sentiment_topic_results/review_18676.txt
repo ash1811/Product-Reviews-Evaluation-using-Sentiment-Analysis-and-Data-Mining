@@ -1,0 +1,1 @@
+{"text": "The wife wanted these to go along with an old time looking outfit she did for a church dance, and looked very sexy in it all.", "sentiment": "negative", "topics": {"0": "0.29469922", "1": "0.010254697", "2": "0.010230377", "3": "0.0102412915", "4": "0.5511765", "5": "0.010239418", "6": "0.11315849"}}

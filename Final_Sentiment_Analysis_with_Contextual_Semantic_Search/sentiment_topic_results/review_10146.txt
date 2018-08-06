@@ -1,0 +1,1 @@
+{"text": "These earrings are even more beautiful in person! I love the blue color, its more of a baby blue color. Its absolutely beautiful, they look beautiful on and it completes any set and brings out my eyes! And my eyes are brown!", "sentiment": "positive", "topics": {"0": "0.50751865", "1": "0.40291744", "2": "0.062265795"}}

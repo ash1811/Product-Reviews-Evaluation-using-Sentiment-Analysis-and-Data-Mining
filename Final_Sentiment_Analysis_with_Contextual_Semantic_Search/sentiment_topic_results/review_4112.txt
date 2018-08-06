@@ -1,0 +1,1 @@
+{"text": "I have the all black one, the black dial with the chrome band and this one.  I will get the silver dial next, just have to conserve for a while.  This watch is perfect and a big time eye catcher.", "sentiment": "negative", "topics": {"0": "0.13035388", "1": "0.08616614", "2": "0.38522178", "3": "0.13280398", "5": "0.078271866", "6": "0.18001013"}}

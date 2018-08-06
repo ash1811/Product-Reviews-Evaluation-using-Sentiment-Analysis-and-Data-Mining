@@ -1,0 +1,1 @@
+{"text": "These are great retro looking shoes.They are very comfy so far, only time will tell if they last very long", "sentiment": "negative", "topics": {"0": "0.0130269285", "1": "0.3182054", "2": "0.013024353", "3": "0.013026644", "4": "0.51335007", "5": "0.013040797", "6": "0.116325855"}}

@@ -1,0 +1,1 @@
+{"text": "Very very comfortable! I can't say much more than that. I was satisfied with the quality for how much they cost.", "sentiment": "negative", "topics": {"0": "0.014305343", "1": "0.5959836", "2": "0.014293702", "3": "0.01431115", "4": "0.1335694", "5": "0.014316617", "6": "0.21322012"}}

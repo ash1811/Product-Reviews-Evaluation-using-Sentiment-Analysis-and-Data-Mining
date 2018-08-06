@@ -1,0 +1,1 @@
+{"text": "I have no complaints.  This sock has been fine for hiking.  I did lots of backpacking during the summer.  Works well.", "sentiment": "negative", "topics": {"0": "0.16262077", "1": "0.29299065", "2": "0.24135356", "3": "0.15395616", "4": "0.014297428", "5": "0.12048055", "6": "0.014300853"}}

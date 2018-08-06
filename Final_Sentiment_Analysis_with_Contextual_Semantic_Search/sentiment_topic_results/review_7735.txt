@@ -1,0 +1,1 @@
+{"text": "I ordered this for my son-inlaw to wear at work during the winter.  He loves them and worn them on days that it was cold enough.", "sentiment": "negative", "topics": {"0": "0.013014183", "1": "0.3401347", "2": "0.012996993", "3": "0.013061822", "4": "0.0130582", "5": "0.366683", "6": "0.24105111"}}

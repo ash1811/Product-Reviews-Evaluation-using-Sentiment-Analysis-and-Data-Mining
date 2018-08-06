@@ -1,0 +1,1 @@
+{"text": "I had several pairs of Birkenstock. LOVE THEM. They are so comfortable. Well worth the money:)  They fit great. I order a 2nd pair. These are my favorite.", "sentiment": "negative", "topics": {"0": "0.07396807", "1": "0.39729035", "2": "0.09533836", "3": "0.25151244", "5": "0.16398431"}}

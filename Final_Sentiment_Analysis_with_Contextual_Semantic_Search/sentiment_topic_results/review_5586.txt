@@ -1,0 +1,1 @@
+{"text": "the t-s*** came out way too big even when I selected the size you usually use. also the quality of the fabric is low, I do not think you can use more than 1 time. arrepiendo me to have made this purchase.", "sentiment": "negative", "topics": {"1": "0.4323036", "2": "0.07816158", "3": "0.07705533", "4": "0.29752755", "5": "0.10127121"}}

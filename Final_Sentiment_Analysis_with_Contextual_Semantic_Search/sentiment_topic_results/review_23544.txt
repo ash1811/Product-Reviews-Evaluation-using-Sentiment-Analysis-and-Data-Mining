@@ -1,0 +1,1 @@
+{"text": "There are no negatives, well made, fit well, comfortable, useful in a thousand settings.  I've had mine for several years, they're perfect.  Everyone needs a pair (or three).", "sentiment": "negative", "topics": {"1": "0.43641886", "3": "0.23791897", "4": "0.14948742", "6": "0.1557213"}}

@@ -1,0 +1,1 @@
+{"text": "i have been a pretty standard 36c for many years.  i ordered this with two others.  this one was the only one that did not fit.  It was 35% cheaper than the other two, but, it just seemed off.  cup size was too full", "sentiment": "positive", "topics": {"0": "0.08022387", "1": "0.36803606", "3": "0.1720692", "4": "0.28093722", "6": "0.08505374"}}

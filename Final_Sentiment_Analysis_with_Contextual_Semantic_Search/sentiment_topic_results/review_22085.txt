@@ -1,0 +1,1 @@
+{"text": "it feels warm when you wear it. But i am a 18 year-old girl and the middle size is a little bit big for me, i wish i ordered the small size.. and it's actually not very soft. Overall, it's good! i like the color and the style!", "sentiment": "negative", "topics": {"0": "0.12300797", "1": "0.5199572", "2": "0.102020845", "4": "0.0676115", "6": "0.17591135"}}

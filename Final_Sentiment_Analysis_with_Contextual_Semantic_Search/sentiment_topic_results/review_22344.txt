@@ -1,0 +1,1 @@
+{"text": "I like Toesocks, but they aren't for everyone.  These fit perfectly and very little shrinkage when washed. I ware a size 8 shoe and ordered the medium... if your shoe size is larger order the next size up.", "sentiment": "positive", "topics": {"0": "0.10426796", "1": "0.3567239", "2": "0.1545664", "6": "0.36489666"}}

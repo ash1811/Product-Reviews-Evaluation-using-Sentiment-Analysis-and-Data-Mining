@@ -1,0 +1,1 @@
+{"text": "i bought this shoes for my friend and he love it , he is very happyi can give for him 5 star", "sentiment": "positive", "topics": {"0": "0.18443546", "1": "0.015941737", "2": "0.28261462", "3": "0.015926573", "4": "0.015989644", "5": "0.46919072", "6": "0.015901271"}}

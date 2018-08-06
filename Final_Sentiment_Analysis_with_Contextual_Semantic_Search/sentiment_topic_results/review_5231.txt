@@ -1,0 +1,1 @@
+{"text": "They are so light, compact and comfy that I take them with me to parties where hosts prefer you to take off your shoes.", "sentiment": "negative", "topics": {"0": "0.35068008", "1": "0.30502486", "2": "0.21653238", "3": "0.014314676", "4": "0.0143130375", "5": "0.084794894", "6": "0.014340025"}}

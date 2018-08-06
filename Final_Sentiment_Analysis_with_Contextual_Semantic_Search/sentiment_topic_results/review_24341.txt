@@ -1,0 +1,1 @@
+{"text": "My son has a large head and this hat fits him well. Looks great on him! The color is very nice.", "sentiment": "positive", "topics": {"0": "0.011922814", "1": "0.8039373", "2": "0.011912899", "3": "0.1364627", "4": "0.011929395", "5": "0.011925958", "6": "0.011908952"}}

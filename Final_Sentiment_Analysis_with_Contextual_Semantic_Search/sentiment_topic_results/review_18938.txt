@@ -1,0 +1,1 @@
+{"text": "I DON'T LIKE SO TIGHT. I'm REALLY 34 BUT THE 36 IT'S A LITLE WIDE, BUT IT IS COMFORTABLE. I LOVE LEVIS JEANS.", "sentiment": "negative", "topics": {"0": "0.011030468", "1": "0.6006932", "2": "0.011005597", "3": "0.011025352", "4": "0.011038565", "5": "0.12236079", "6": "0.232846"}}

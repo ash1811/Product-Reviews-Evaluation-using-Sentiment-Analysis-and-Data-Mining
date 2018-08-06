@@ -1,0 +1,1 @@
+{"text": "These are perfect, love the size (not HUGE but big enough to be noticed)! I am happy with the quality and price of these as well. These are great, everyday earrings. I had these on my wish list forever and am glad I finally got them.", "sentiment": "positive", "topics": {"1": "0.35523078", "3": "0.1745909", "4": "0.2570714", "5": "0.099702075", "6": "0.10093903"}}

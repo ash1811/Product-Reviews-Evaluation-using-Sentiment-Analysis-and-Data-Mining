@@ -1,0 +1,1 @@
+{"text": "I was in the market for a tough pair of jeans, something that wouldn't blow in the wind. These jeans fit well for a reasonable price. I love the stiffness.", "sentiment": "negative", "topics": {"0": "0.12802133", "1": "0.30558485", "2": "0.0991204", "3": "0.08221399", "4": "0.36593255"}}

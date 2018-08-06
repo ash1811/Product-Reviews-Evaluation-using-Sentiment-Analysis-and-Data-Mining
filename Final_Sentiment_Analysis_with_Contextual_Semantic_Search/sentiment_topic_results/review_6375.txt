@@ -1,0 +1,1 @@
+{"text": "The description says lightweight, but these socks are very thick at the heel and toe.  Don't buy these unless your shoes have space for this considerable bulk.", "sentiment": "negative", "topics": {"0": "0.19243458", "1": "0.18711035", "2": "0.15186818", "3": "0.010234778", "4": "0.093460694", "5": "0.010302207", "6": "0.3545892"}}

@@ -1,0 +1,1 @@
+{"text": "These pants must have looked great since they were stolen from my gym locker less than 20 minutes after opening the package and trying them on....Love the product, Hate the thief", "sentiment": "negative", "topics": {"0": "0.0809959", "1": "0.17710823", "2": "0.06928002", "3": "0.24838287", "4": "0.061477687", "5": "0.21410766", "6": "0.14864759"}}

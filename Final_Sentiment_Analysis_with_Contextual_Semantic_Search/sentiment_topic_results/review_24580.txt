@@ -1,0 +1,1 @@
+{"text": "Item sizes are not true to size. Didn't fit. Had to buy another at Boscov's for more money. Too small.", "sentiment": "negative", "topics": {"0": "0.013000191", "1": "0.43982026", "2": "0.0129975565", "3": "0.013051327", "4": "0.11287751", "5": "0.013032603", "6": "0.39522055"}}

@@ -1,0 +1,1 @@
+{"text": "I love Carhartt jeans but these ran a bit smaller than usual but they are nice jeans just the same", "sentiment": "negative", "topics": {"0": "0.0143067585", "1": "0.37769204", "2": "0.014353086", "3": "0.22312419", "4": "0.0143584935", "5": "0.34187657", "6": "0.014288847"}}

@@ -1,0 +1,1 @@
+{"text": "They keep my $150-$300 shoes in great shape. I believe they'll last for 20 years at least! Can't expect to keep your shoes nice if you don't take care of them!", "sentiment": "negative", "topics": {"0": "0.108482815", "1": "0.13825575", "2": "0.21310695", "3": "0.3034776", "5": "0.22235438"}}

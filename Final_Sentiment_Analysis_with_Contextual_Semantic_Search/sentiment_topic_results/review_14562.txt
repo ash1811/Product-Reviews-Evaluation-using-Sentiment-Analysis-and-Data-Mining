@@ -1,0 +1,1 @@
+{"text": "These are comfortable and for the price work great.  Certainly helps reduce the glare and with spotting fish in pools or rapids", "sentiment": "negative", "topics": {"0": "0.011062248", "1": "0.3411649", "2": "0.09374103", "3": "0.01100026", "4": "0.011000852", "5": "0.35643768", "6": "0.17559306"}}

@@ -1,0 +1,1 @@
+{"text": "Doesn't seem true to size.  It is a little tight which is unusual.  I normally buy this size and have no problem with comfort.", "sentiment": "negative", "topics": {"0": "0.01191406", "1": "0.3604238", "2": "0.011922705", "3": "0.44323635", "4": "0.011915023", "5": "0.0119236335", "6": "0.14866443"}}

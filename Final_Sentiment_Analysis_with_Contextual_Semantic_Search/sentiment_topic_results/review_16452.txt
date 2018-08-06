@@ -1,0 +1,1 @@
+{"text": "I like these, I prefer white sunglasses vs other colors. They keep the sun out of my eyes and so dfar haven't broken. They seem like they will hold up.", "sentiment": "positive", "topics": {"0": "0.25094637", "1": "0.12852003", "2": "0.171109", "3": "0.12533952", "4": "0.08694587", "5": "0.09455703", "6": "0.14258212"}}

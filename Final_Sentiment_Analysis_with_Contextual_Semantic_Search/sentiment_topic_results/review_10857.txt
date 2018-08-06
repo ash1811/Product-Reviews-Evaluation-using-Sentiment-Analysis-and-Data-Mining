@@ -1,0 +1,1 @@
+{"text": "I've went through several gold hoops before settling on these. They're the perfect size - not too big, not too small. My only complaint is that the closure bends very easily. I feel like I'm going to brake them every time I take them off.", "sentiment": "positive", "topics": {"0": "0.16916816", "1": "0.3859752", "3": "0.33691564", "4": "0.09139954"}}

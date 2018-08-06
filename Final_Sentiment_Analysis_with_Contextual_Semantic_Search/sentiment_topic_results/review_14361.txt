@@ -1,0 +1,1 @@
+{"text": "The oxblood color is not easy to come by in NYC.  I was glad Amazon has it!  This is a classic polish.", "sentiment": "negative", "topics": {"0": "0.013032056", "1": "0.24633215", "2": "0.35508037", "3": "0.013028875", "4": "0.1945277", "5": "0.0130144525", "6": "0.16498438"}}

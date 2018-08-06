@@ -1,0 +1,1 @@
+{"text": "The bra has no support at all for an underwire bra, will not buy this bra again.  Use to lounge around house, cannot wear under good clothing because no support.", "sentiment": "positive", "topics": {"1": "0.25799698", "3": "0.5495504", "4": "0.08077104", "6": "0.086363755"}}

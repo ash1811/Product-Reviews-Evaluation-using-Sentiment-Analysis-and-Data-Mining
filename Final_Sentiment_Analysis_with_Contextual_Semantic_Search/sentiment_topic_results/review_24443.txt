@@ -1,0 +1,1 @@
+{"text": "I love Berkshire stockings and these are no different. They feel so soft and look so sexy. Buy these stockings.", "sentiment": "negative", "topics": {"0": "0.013050524", "1": "0.35334894", "2": "0.012992346", "3": "0.013035652", "4": "0.013070127", "5": "0.3061324", "6": "0.28836995"}}

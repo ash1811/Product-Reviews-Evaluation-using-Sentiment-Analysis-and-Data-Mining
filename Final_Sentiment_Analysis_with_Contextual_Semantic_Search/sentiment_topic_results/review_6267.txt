@@ -1,0 +1,1 @@
+{"text": "Great styling.  Well made.  Runs a bit large, but I'm wearing it in the summer.  Will be just right in the fall, over a sweater.  Very comfortable", "sentiment": "positive", "topics": {"1": "0.62949115", "3": "0.24556369", "4": "0.08680076"}}

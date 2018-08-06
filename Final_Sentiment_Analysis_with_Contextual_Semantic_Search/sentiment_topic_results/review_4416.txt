@@ -1,0 +1,1 @@
+{"text": "He like me has short legs and I had to hem them up. He loves them anyway. These are for school and they are fine.", "sentiment": "positive", "topics": {"0": "0.17772713", "1": "0.014302412", "2": "0.5184775", "3": "0.014345002", "4": "0.24649274", "5": "0.0143197775", "6": "0.014335473"}}

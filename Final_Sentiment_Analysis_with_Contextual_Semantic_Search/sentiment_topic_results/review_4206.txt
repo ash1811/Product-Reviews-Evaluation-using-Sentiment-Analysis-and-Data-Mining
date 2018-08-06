@@ -1,0 +1,1 @@
+{"text": "For some reason, this shirt is a bit small.  I think it is because I am larger.  It is of good quality the stitching is first class.", "sentiment": "positive", "topics": {"0": "0.011963889", "1": "0.4827809", "2": "0.011947837", "3": "0.011946634", "4": "0.011969076", "5": "0.4574733", "6": "0.011918333"}}

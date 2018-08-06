@@ -1,0 +1,1 @@
+{"text": "A couple buddies and I picked up this bag for the gym and our soccer games. Good bag for a good price. As others have pointed out, there are not many pockets. I usually just throw all my stuff in and go, so this was not a problem for me.", "sentiment": "negative", "topics": {"0": "0.0755539", "1": "0.6194118", "3": "0.15182745", "4": "0.050222557", "5": "0.090539135"}}

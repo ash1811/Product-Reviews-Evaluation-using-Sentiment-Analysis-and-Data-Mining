@@ -1,0 +1,1 @@
+{"text": "I bought for my wife and she loved it. We like to walk around a beach that has many reefs and tide pools to get in you need to be careful not to cut yourself and these shoes really protect your feet.", "sentiment": "negative", "topics": {"1": "0.5449642", "2": "0.074961655", "3": "0.08896828", "4": "0.18099527", "6": "0.09645856"}}

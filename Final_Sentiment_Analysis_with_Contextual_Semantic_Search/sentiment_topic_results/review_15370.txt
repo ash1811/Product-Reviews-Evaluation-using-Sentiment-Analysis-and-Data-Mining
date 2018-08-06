@@ -1,0 +1,1 @@
+{"text": "Very very nice.  Small frame (not kids size, small adult size), but that is what I wanted.  Very happy with these sunglasses.", "sentiment": "negative", "topics": {"0": "0.011027405", "1": "0.01106604", "2": "0.1364576", "3": "0.36827534", "4": "0.01103724", "5": "0.33358133", "6": "0.12855503"}}

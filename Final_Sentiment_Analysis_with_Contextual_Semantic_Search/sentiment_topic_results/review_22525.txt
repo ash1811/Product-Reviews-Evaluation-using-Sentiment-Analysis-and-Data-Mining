@@ -1,0 +1,1 @@
+{"text": "I ordered a pair for my husband but the quality of the fabric just seems too harsh for skin. Very stiff and course.", "sentiment": "negative", "topics": {"0": "0.013007971", "1": "0.3869235", "2": "0.013090315", "3": "0.013073647", "4": "0.31801996", "5": "0.24289304", "6": "0.012991548"}}

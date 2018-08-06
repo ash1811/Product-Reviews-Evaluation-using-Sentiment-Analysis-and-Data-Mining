@@ -1,0 +1,1 @@
+{"text": "This bag is everything i wanted! the look and the feel. It is exactly like the picture showed and i wasn't expecting it to be big (like everyone else assumed, it is NOT a backpack size). Take it everywhere with me! Love,love,love this bag!", "sentiment": "positive", "topics": {"0": "0.05253131", "1": "0.27156878", "2": "0.24704906", "4": "0.0638422", "6": "0.35252824"}}

@@ -1,0 +1,1 @@
+{"text": "simple, clean, geeky, stylish, dummy proof, awesome. just hope the feds don't bother me. this watch is just like i remember it.", "sentiment": "negative", "topics": {"0": "0.123326726", "1": "0.32633188", "2": "0.1393382", "3": "0.06353942", "4": "0.08381296", "6": "0.25470534"}}

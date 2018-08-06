@@ -1,0 +1,1 @@
+{"text": "My husband really loves these jeans. It is the only type he will wear. He loves the fit, style and color.", "sentiment": "negative", "topics": {"0": "0.013029221", "1": "0.32977358", "2": "0.0129951", "3": "0.013019162", "4": "0.37401584", "5": "0.2441781", "6": "0.012989026"}}

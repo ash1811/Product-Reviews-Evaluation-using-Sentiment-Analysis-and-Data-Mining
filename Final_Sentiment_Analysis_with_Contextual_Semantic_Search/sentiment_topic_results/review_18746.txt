@@ -1,0 +1,1 @@
+{"text": "Big Bold Basic Beautyful , Very eazy to read ,Reliabl,Durable Great style ,you can't go wrong.This is my 2nd TIMEX from Amazon.With such a vast choice of styles to choose from I've narrowed this one amongst my favorites.", "sentiment": "negative", "topics": {"1": "0.24810311", "2": "0.060372446", "3": "0.17190003", "4": "0.4209531", "6": "0.087606326"}}

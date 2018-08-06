@@ -1,0 +1,1 @@
+{"text": "A long time fan of Dockers, I prefere the never-iron line because they look nicer longer.  Great for any casual and even slightly dressy occassions.  Have held up very well.", "sentiment": "negative", "topics": {"0": "0.16741277", "1": "0.17909285", "2": "0.11196056", "5": "0.45136794", "6": "0.07510366"}}

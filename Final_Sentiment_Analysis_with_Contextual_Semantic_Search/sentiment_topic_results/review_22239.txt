@@ -1,0 +1,1 @@
+{"text": "I use them with Vibram Five finger shoes and they are great, very comfortable to wear. They look great and feel greta", "sentiment": "negative", "topics": {"0": "0.011022311", "1": "0.41294053", "2": "0.10451623", "3": "0.20020962", "4": "0.12631871", "5": "0.0110239405", "6": "0.13396867"}}

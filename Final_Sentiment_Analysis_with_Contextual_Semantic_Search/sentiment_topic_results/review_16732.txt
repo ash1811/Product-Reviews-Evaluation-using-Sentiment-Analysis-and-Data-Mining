@@ -1,0 +1,1 @@
+{"text": "Bought these jeans right before i found out I was pregnant- They fit for a while after I started showing as they are stretchy. Man was I glad I bought these ones!", "sentiment": "positive", "topics": {"0": "0.010247461", "1": "0.17758195", "2": "0.15977044", "3": "0.010234987", "4": "0.010264283", "5": "0.621694", "6": "0.010206827"}}

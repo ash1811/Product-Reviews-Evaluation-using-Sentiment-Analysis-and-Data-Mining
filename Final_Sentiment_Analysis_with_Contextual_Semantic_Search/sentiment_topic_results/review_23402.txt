@@ -1,0 +1,1 @@
+{"text": "This is &#34;pricey&#34; but nice quality.  The backpack is sort of big for my 2 year old grandson but it's super cute and he will grow!", "sentiment": "negative", "topics": {"0": "0.22244124", "1": "0.352375", "2": "0.16615972", "3": "0.14274772", "4": "0.095807664", "5": "0.010245418", "6": "0.01022325"}}

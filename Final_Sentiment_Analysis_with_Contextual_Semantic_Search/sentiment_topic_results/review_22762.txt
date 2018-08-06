@@ -1,0 +1,1 @@
+{"text": "I love the new Sea Bamboo Coral bracelet I bought before Christmas. It matches a ring I have, and they made me feel very festive. Thanks Amazon!", "sentiment": "negative", "topics": {"1": "0.30393088", "3": "0.22557111", "4": "0.22678155", "5": "0.21840422"}}

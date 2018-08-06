@@ -1,0 +1,1 @@
+{"text": "The shoe is a real hassle to put on. The foot bed also is never very comfortable. Little to no arch support. Returned to Amazon.", "sentiment": "positive", "topics": {"1": "0.22831996", "2": "0.079930216", "3": "0.23038541", "4": "0.4345425"}}

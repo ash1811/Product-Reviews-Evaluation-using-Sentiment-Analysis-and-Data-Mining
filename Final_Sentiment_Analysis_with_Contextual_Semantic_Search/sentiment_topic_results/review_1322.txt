@@ -1,0 +1,1 @@
+{"text": "I've been wanting a pare of this shoe for a few years now... So so happy I finally have them. There awesome.. Thank you so much.....", "sentiment": "negative", "topics": {"0": "0.011073147", "1": "0.37174177", "2": "0.18754768", "3": "0.39649403", "4": "0.01100733", "5": "0.011050538", "6": "0.011085523"}}

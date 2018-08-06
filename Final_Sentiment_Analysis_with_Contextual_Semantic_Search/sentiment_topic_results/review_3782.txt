@@ -1,0 +1,1 @@
+{"text": "I have another pair of ray bans andi would say this feels authentic for those who have doubts about its authenticity.", "sentiment": "positive", "topics": {"0": "0.011923941", "1": "0.012044669", "2": "0.0119515145", "3": "0.5877214", "4": "0.01202228", "5": "0.10395813", "6": "0.2603781"}}

@@ -1,0 +1,1 @@
+{"text": "Great looking shoes, but I had to send them back because they fell off my feet.  If this were a physical store, I could have kept trying on different sizes until I found the right one, but I don't want to keep ordering and returning.", "sentiment": "positive", "topics": {"0": "0.11430974", "1": "0.35045817", "2": "0.14842154", "3": "0.29142693", "5": "0.08233288"}}

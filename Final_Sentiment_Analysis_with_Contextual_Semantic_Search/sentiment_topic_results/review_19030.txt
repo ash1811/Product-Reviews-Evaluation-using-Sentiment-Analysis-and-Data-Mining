@@ -1,0 +1,1 @@
+{"text": "The material is soft and the bra it self is lovely.  Anyone buying this should get a size larger.  Needed to get a 38-D.", "sentiment": "negative", "topics": {"0": "0.24807096", "1": "0.010243833", "2": "0.12049589", "3": "0.13237122", "4": "0.119196706", "5": "0.010251106", "6": "0.3593703"}}

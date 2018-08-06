@@ -1,0 +1,1 @@
+{"text": "My seven-year old son really enjoyed wearing this costume and I like that we received it rather quickly since it was close to Halloween.", "sentiment": "negative", "topics": {"0": "0.4743438", "2": "0.3438128", "4": "0.14363284"}}

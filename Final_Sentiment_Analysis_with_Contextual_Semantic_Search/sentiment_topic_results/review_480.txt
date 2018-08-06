@@ -1,0 +1,1 @@
+{"text": "Great pants made &#8203;&#8203;in very good cotton denim and fit is perfect according to the measure. I will recommend this to my friends!", "sentiment": "negative", "topics": {"0": "0.010218382", "1": "0.46290275", "2": "0.10701134", "3": "0.06949017", "4": "0.1431296", "5": "0.19703849", "6": "0.010209254"}}

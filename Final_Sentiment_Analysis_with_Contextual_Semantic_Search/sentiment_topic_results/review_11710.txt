@@ -1,0 +1,1 @@
+{"text": "it is perfect for a big girls. make you looks tighten and could be used for regular life, not only for a trainings.", "sentiment": "negative", "topics": {"0": "0.011933922", "1": "0.7132659", "2": "0.18357547", "3": "0.05544658", "4": "0.011926029", "5": "0.0119235255", "6": "0.011928572"}}

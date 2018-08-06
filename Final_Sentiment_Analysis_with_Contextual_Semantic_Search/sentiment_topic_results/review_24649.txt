@@ -1,0 +1,1 @@
+{"text": "I like the brightness of this white...  The long sleeves are perfect for winter dance class for my daughter.  No neckline embellishment...", "sentiment": "positive", "topics": {"0": "0.2735205", "1": "0.27741972", "2": "0.1359633", "3": "0.011009049", "4": "0.01099641", "5": "0.16238514", "6": "0.1287059"}}

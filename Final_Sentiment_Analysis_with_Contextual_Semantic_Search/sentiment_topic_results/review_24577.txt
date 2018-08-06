@@ -1,0 +1,1 @@
+{"text": "I am using this as part of my Halloween costume, so not frequent use.  But it is made well, lined in the front and fits me.  I am a size L to XL.", "sentiment": "negative", "topics": {"0": "0.2331422", "1": "0.36345965", "3": "0.21333086", "5": "0.07848126", "6": "0.09361708"}}

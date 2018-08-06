@@ -1,0 +1,1 @@
+{"text": "These earrings I had to send back because they weren't that big like I wanted them to be and they were flimsy and for the price I expected to be a bolder look, and a heavier weight.", "sentiment": "negative", "topics": {"0": "0.15251908", "1": "0.4569335", "2": "0.010229007", "3": "0.010213846", "4": "0.010226727", "5": "0.17244555", "6": "0.18743232"}}

@@ -1,0 +1,1 @@
+{"text": "These look nothing like the picture shown. They are almost white with a little bit of black.Also, the leather is not buttery soft like other Sam Edelmans I have which make them much less comfortable. These went back right away.", "sentiment": "negative", "topics": {"0": "0.12562265", "1": "0.37179145", "2": "0.1999534", "5": "0.12255302", "6": "0.16858955"}}

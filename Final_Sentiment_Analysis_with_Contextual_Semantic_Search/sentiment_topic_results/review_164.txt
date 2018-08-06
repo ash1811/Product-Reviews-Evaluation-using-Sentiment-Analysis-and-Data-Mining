@@ -1,0 +1,1 @@
+{"text": "Great shirt for my big husband.  Thick cotton, well made, I like it.  He does too!", "sentiment": "negative", "topics": {"0": "0.2263849", "1": "0.5015519", "2": "0.011952498", "3": "0.13125555", "4": "0.10494118", "5": "0.0119497515", "6": "0.011964183"}}

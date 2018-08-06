@@ -1,0 +1,1 @@
+{"text": "My six year old granddaughter is learning to tell time and will just love this Christmas gift.  It is absolutely delightful with the daisy circling the face of the watch. It arrived very quickly and I am very happy with the purchase.", "sentiment": "negative", "topics": {"0": "0.17674945", "1": "0.08914554", "2": "0.23183762", "3": "0.22508635", "4": "0.2635413"}}

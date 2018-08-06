@@ -1,0 +1,1 @@
+{"text": "Simple and perfect. Carhartt is the best. The color is very nice as well. The tall shirts are really tall. Perfect fit", "sentiment": "positive", "topics": {"0": "0.0102544855", "1": "0.6638605", "2": "0.010225051", "3": "0.010218283", "4": "0.010257327", "5": "0.20434472", "6": "0.090839624"}}

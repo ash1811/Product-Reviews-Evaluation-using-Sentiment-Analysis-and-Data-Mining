@@ -1,0 +1,1 @@
+{"text": "great product from jockey. very comfy and good fit. would get these again without a doubt. no regrets this time!", "sentiment": "negative", "topics": {"0": "0.011059262", "1": "0.35663933", "2": "0.011048974", "3": "0.01104945", "4": "0.29694894", "5": "0.30225205", "6": "0.011002011"}}

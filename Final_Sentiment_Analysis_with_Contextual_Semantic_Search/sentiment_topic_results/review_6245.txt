@@ -1,0 +1,1 @@
+{"text": "Bought this for a Star Wars loving boy to play pretend.  He can put it on all by himself due to easy Velcro closures.  Fits very well.  Don't wear the hat and can just be a Jedi, with hat he becomes Yoda.", "sentiment": "negative", "topics": {"0": "0.045354", "1": "0.35666546", "2": "0.10267395", "3": "0.25207067", "5": "0.10103071", "6": "0.13536029"}}

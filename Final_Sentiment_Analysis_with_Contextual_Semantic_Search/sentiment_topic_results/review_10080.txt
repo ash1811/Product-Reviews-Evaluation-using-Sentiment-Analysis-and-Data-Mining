@@ -1,0 +1,1 @@
+{"text": "Secure latch and easy to open and close.  Great for activity like golf because they are secure on your ears.  Beautiful gold color...", "sentiment": "negative", "topics": {"0": "0.13126317", "1": "0.07980103", "3": "0.44703874", "4": "0.14256568", "6": "0.18022679"}}

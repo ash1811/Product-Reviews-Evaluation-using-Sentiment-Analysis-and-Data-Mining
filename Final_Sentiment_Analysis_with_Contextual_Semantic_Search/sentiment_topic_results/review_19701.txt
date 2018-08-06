@@ -1,0 +1,1 @@
+{"text": "I never did figure out how to set this and neither has anyone else I've asked.  The time is correct twice a day, though.", "sentiment": "negative", "topics": {"0": "0.010252418", "1": "0.2376779", "2": "0.23997532", "3": "0.10816277", "4": "0.18642792", "5": "0.20729241", "6": "0.010211276"}}

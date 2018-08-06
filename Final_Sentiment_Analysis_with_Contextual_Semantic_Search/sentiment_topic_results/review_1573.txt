@@ -1,0 +1,1 @@
+{"text": "this little backpack is basically perfect. i'm never going back to purses when these things are around. it can hold: a sweater and jeans; four beer bottles; a foot-long sub; medium-bulky headphones and a stolen baguette.", "sentiment": "negative", "topics": {"0": "0.07134865", "2": "0.22408819", "3": "0.3337237", "4": "0.0643388", "5": "0.26008067", "6": "0.04044163"}}

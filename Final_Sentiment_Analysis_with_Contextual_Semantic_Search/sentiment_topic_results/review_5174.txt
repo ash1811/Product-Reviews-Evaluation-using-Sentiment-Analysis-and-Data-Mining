@@ -1,0 +1,1 @@
+{"text": "Very sturdy, bad-a looking belt. I used it for a costume so I can't comment on it's merits for a useful application. It is heavy-duty material with a large metal buckle. Adjustable to at least a size 26 waist. Made in Korea.", "sentiment": "negative", "topics": {"0": "0.24572976", "2": "0.2242855", "3": "0.20394306", "5": "0.30811945"}}

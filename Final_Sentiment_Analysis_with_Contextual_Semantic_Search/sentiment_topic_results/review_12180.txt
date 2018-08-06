@@ -1,0 +1,1 @@
+{"text": "They are the most comfortable. I buy many of these in black. I wear to the gym and under dresses and tops. They are luxurious.  AND they last through many  many washings and come out like brand new.  I could not live without them in my wardrobe.", "sentiment": "negative", "topics": {"1": "0.25486258", "3": "0.4373946", "4": "0.28166944"}}

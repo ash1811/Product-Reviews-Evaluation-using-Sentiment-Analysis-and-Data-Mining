@@ -1,0 +1,1 @@
+{"text": "Very nice slippers but way too small. Order at least a size larger. Am returning as too small. Tryed to replace but not available.", "sentiment": "positive", "topics": {"0": "0.20134054", "1": "0.010264817", "2": "0.15057734", "3": "0.4225862", "4": "0.0102532795", "5": "0.010230183", "6": "0.19474761"}}

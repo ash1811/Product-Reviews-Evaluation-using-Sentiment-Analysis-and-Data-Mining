@@ -1,0 +1,1 @@
+{"text": "Cotton is forgotten.....love 'em!  These are very comfortable and I hope that they hold up over the long term.  Easily recommended as of now though.", "sentiment": "negative", "topics": {"0": "0.0119116595", "1": "0.35971186", "2": "0.09690986", "3": "0.21327744", "4": "0.294352", "5": "0.011929121", "6": "0.0119081065"}}

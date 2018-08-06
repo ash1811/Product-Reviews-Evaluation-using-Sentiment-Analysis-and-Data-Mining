@@ -1,0 +1,1 @@
+{"text": "It drew up like a window shade after laundering.  I have no intention of purchasing this product again.  The end..", "sentiment": "negative", "topics": {"0": "0.013036754", "1": "0.0130021125", "2": "0.15508877", "3": "0.22130038", "4": "0.23776323", "5": "0.34675154", "6": "0.01305719"}}

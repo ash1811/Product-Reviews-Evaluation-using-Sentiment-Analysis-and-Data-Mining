@@ -1,0 +1,1 @@
+{"text": "Bought this for work (need second hand to take pulse rate). I would have preferred the second hand to be more prominent, (my fault for not noticing). The strap is a little too snug.", "sentiment": "positive", "topics": {"1": "0.29175213", "2": "0.06936531", "3": "0.32614082", "4": "0.04616185", "5": "0.072422676", "6": "0.1870018"}}

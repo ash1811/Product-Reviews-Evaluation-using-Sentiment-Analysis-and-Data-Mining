@@ -1,0 +1,1 @@
+{"text": "I like the look and feel of Rainbow flip flops, but to be honest, they hurt my feet.  There is little support.  Whenever I wear them, I get blisters on the bottom of my feet.", "sentiment": "negative", "topics": {"0": "0.22878657", "2": "0.18523663", "3": "0.18477817", "5": "0.25446716", "6": "0.13156198"}}

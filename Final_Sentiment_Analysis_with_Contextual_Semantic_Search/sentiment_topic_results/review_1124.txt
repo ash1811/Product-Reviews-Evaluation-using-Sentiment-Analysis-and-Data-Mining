@@ -1,0 +1,1 @@
+{"text": "Bought these on a whim to match a blue sweater I like to wear.  I've had SOOO many compliments on these earrings.  They have flash & sparkle but not gawdy.  Can wear them with several outfits.  They are very nice & price was reasonable.", "sentiment": "negative", "topics": {"0": "0.2273115", "1": "0.2754152", "3": "0.11166707", "4": "0.2457295", "6": "0.12685873"}}

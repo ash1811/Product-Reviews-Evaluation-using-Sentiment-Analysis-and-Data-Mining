@@ -1,0 +1,1 @@
+{"text": "These tights are exactly as listed and seem to fit my daughter comfortably. The color comes as a perfect match as listed on the website as well!", "sentiment": "positive", "topics": {"0": "0.094135605", "1": "0.32348523", "5": "0.34364572", "6": "0.2100561"}}

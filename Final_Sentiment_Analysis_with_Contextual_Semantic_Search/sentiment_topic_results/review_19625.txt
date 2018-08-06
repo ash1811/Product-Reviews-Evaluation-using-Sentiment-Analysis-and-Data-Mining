@@ -1,0 +1,1 @@
+{"text": "my son got me this for my birthday what a big surprise I had no idea, that was in December and now it is already full.", "sentiment": "positive", "topics": {"0": "0.1958028", "1": "0.20723982", "2": "0.15393737", "3": "0.12944452", "4": "0.014286625", "5": "0.014339326", "6": "0.28494954"}}

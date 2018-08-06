@@ -1,0 +1,1 @@
+{"text": "This jeans are top notch, I use them for work & to go out too. This jeans are durable & strong.", "sentiment": "positive", "topics": {"0": "0.013041392", "1": "0.013033178", "2": "0.013029816", "3": "0.32579654", "4": "0.013017212", "5": "0.60907644", "6": "0.013005366"}}

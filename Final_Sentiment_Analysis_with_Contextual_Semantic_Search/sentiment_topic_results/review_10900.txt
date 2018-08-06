@@ -1,0 +1,1 @@
+{"text": "I ordered a size large due to previous reviews. I normally wear a size 7 to 7-1/2, but the toes are too tight.  I do have socks on, but often do wear socks with slippers.  Maybe they'll stretch over time.", "sentiment": "negative", "topics": {"0": "0.2043888", "1": "0.40693077", "5": "0.21340124", "6": "0.15737362"}}

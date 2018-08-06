@@ -1,0 +1,1 @@
+{"text": "Fits super cute. Perfect for my daughters dance class. I may order a few more in other colors. Definitely recommended. Fits true to size.", "sentiment": "negative", "topics": {"0": "0.13327523", "1": "0.4148972", "2": "0.10973216", "3": "0.2289291", "6": "0.09526892"}}

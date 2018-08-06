@@ -1,0 +1,1 @@
+{"text": "OK, these are pretty unattractive, but my 83 year old mother has terrible bunions, and she LOVES these.  I just wish they came in more colors for her.  She wears them all the time, as shoes.", "sentiment": "negative", "topics": {"0": "0.24589814", "1": "0.3480792", "2": "0.16335283", "3": "0.123238616", "4": "0.104365565"}}

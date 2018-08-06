@@ -1,0 +1,1 @@
+{"text": "muy buenos jeans comodos , frescos , resistenten . Arman bien en el curpo el tiro y el ancho de bastas estan muy bien.", "sentiment": "negative", "topics": {"3": "0.5573753", "4": "0.22437504", "5": "0.1418424", "6": "0.055975977"}}

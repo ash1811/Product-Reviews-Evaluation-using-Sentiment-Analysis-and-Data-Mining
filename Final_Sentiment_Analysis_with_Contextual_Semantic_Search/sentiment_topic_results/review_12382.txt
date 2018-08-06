@@ -1,0 +1,1 @@
+{"text": "This is our 9 year olds second pair.  He said they are very comfortable right out of the package. No break in period. He chose the same camoflage design twice.  Lasts nicely, until outgrown.", "sentiment": "positive", "topics": {"0": "0.110236034", "1": "0.43502045", "3": "0.22058879", "4": "0.09384441", "6": "0.12522814"}}

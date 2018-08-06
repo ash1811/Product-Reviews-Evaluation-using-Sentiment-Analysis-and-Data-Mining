@@ -1,0 +1,1 @@
+{"text": "Dickies pants have varying cuts so be careful when ordering.  Otherwise, very nice original Dickies.  Son needs straight leg cut, even though he wears Big Mens.", "sentiment": "negative", "topics": {"1": "0.46715277", "2": "0.22899282", "3": "0.14656194", "5": "0.059140556", "6": "0.08447542"}}

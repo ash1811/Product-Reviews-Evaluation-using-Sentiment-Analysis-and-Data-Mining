@@ -1,0 +1,1 @@
+{"text": "These sweatpants look and feel nice but are too short for a 5'8&#34; teenage boy. He has to wear them low on his waist to fit for now.", "sentiment": "negative", "topics": {"0": "0.33894786", "1": "0.49158743", "2": "0.010258676", "3": "0.010231687", "4": "0.010218516", "5": "0.12851487", "6": "0.010240987"}}

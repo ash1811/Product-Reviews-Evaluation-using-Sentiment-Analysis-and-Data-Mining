@@ -1,0 +1,1 @@
+{"text": "I ordered XL coz I'm well-endowed. The top part fits well but it was a little bit loose below coz I have small hips. The sleeves are very long for me so I just fold them.", "sentiment": "negative", "topics": {"1": "0.38376087", "2": "0.083119884", "3": "0.18813598", "4": "0.10506817", "5": "0.16931483", "6": "0.06344523"}}

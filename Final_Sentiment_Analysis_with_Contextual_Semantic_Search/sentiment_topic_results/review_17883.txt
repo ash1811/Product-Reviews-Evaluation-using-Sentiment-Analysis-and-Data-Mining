@@ -1,0 +1,1 @@
+{"text": "Quite a disappointment, although I will say some of the problems may be my own fault.  I didn't read the description carefully enough, and didn't choose well.  Eventually I found paying to have my old watch repaired was more worthwhile.", "sentiment": "positive", "topics": {"1": "0.22332577", "2": "0.3154947", "3": "0.19829786", "4": "0.14676608", "6": "0.102476984"}}

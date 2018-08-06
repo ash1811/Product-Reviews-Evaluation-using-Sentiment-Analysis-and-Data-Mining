@@ -1,0 +1,1 @@
+{"text": "I am so happy that I will never have to walk in these because they are impossibly tall and ridiculously stiff.  Wow.", "sentiment": "negative", "topics": {"0": "0.410478", "1": "0.22569889", "2": "0.015902448", "3": "0.015924873", "4": "0.015979096", "5": "0.3001193", "6": "0.015897373"}}

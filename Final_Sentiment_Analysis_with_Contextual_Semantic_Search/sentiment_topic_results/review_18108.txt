@@ -1,0 +1,1 @@
+{"text": "My wife inherited a 20 year version of this watch and needed another.The face is easy to read.  Replacing the whole watch was less expensivethan buying a new band!", "sentiment": "negative", "topics": {"1": "0.08270813", "2": "0.21855028", "3": "0.24393272", "5": "0.14182642", "6": "0.29865745"}}

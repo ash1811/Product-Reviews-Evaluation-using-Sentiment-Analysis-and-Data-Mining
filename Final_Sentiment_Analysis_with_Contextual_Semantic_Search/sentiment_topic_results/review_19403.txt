@@ -1,0 +1,1 @@
+{"text": "Good product, very practical, good fit. Excellent price / benefits ratio. Quick wash and dry / ready to be used again cycle time. Have not had it long enough to talk about durability but looks good.", "sentiment": "positive", "topics": {"0": "0.074112594", "1": "0.35693085", "2": "0.07459321", "4": "0.27323607", "5": "0.16133215", "6": "0.053556748"}}

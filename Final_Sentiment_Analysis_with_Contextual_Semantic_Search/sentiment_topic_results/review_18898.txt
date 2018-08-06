@@ -1,0 +1,1 @@
+{"text": "Yes, my son's use the wish list option for Christmas and birthdays.  These were a Christmas present and he loves them.  Enough of a recommendation as far as I'm concerned.", "sentiment": "negative", "topics": {"0": "0.09451", "2": "0.3098685", "3": "0.23262368", "5": "0.33910343"}}

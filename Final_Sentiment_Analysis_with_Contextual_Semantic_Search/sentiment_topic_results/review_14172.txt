@@ -1,0 +1,1 @@
+{"text": "My husband and I recently ordered a few pairs of these pants.  We couldn't be any happier with this purchase.  They are comfortable, durable and priced perfectly.", "sentiment": "negative", "topics": {"0": "0.011912946", "1": "0.6047756", "2": "0.10218143", "3": "0.11837086", "4": "0.13885866", "5": "0.011915072", "6": "0.011985405"}}

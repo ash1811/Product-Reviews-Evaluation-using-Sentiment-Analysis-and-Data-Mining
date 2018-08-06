@@ -1,0 +1,1 @@
+{"text": "I use this watch for casual occasions, which for me include coaching when I don't have to get to hands on involved. It just looks like it is more than it is but the fact that it has a stop watch and looks like more than it is makes me satisfied.", "sentiment": "negative", "topics": {"1": "0.3852945", "2": "0.16946258", "3": "0.18409052", "6": "0.2385467"}}

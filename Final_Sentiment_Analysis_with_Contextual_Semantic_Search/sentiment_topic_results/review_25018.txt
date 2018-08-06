@@ -1,0 +1,1 @@
+{"text": "I have been trying to cure a foot problem and these were recommended as a cure for my Plantar Fascitius.  Within 3 weeks the problem as cured.", "sentiment": "negative", "topics": {"0": "0.010209878", "1": "0.10641156", "2": "0.28597322", "3": "0.19358687", "4": "0.3106734", "5": "0.010212129", "6": "0.08293296"}}

@@ -1,0 +1,1 @@
+{"text": "The reviews said the shorts were sized correctly and the fit fine. The product was sized correctly and were a great value.", "sentiment": "positive", "topics": {"0": "0.11413868", "1": "0.119827665", "2": "0.2337045", "3": "0.011032576", "4": "0.28064343", "5": "0.22963768", "6": "0.011015443"}}

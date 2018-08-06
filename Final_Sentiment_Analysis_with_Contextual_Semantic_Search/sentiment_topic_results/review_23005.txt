@@ -1,0 +1,1 @@
+{"text": "Love these, play tennis and basketball in these. They are very lightweight, and let me move easily. Awesome that they have pockets too. Can't beat the price either!! Bought a few of them", "sentiment": "negative", "topics": {"0": "0.24423233", "1": "0.28787303", "2": "0.11746242", "4": "0.16100383", "5": "0.17430978"}}

@@ -1,0 +1,1 @@
+{"text": "These used to be 100% cotton, but they aren't anymore.  Now they are 75% cotton 25% polyester.  My husband hasn't complained about it though.", "sentiment": "negative", "topics": {"0": "0.011931618", "1": "0.25358918", "2": "0.011911201", "3": "0.20869511", "4": "0.38347015", "5": "0.011927995", "6": "0.118474744"}}

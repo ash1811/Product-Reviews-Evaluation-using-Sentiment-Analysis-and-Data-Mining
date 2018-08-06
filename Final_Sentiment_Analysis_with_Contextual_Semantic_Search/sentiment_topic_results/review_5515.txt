@@ -1,0 +1,1 @@
+{"text": "Perfect...love it! These shirts always have lasted me a long time. I will always buy these t-shirts from now on.", "sentiment": "positive", "topics": {"0": "0.011972283", "1": "0.6585458", "2": "0.011967465", "3": "0.1391312", "4": "0.15450756", "5": "0.011948851", "6": "0.0119268345"}}

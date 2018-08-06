@@ -1,0 +1,1 @@
+{"text": "Stylish and protection from the sun.  What more can you ask for?  I have two pairs.  One that I keep in my car and another that I keep in my truck.  I reserve the Oakley's for around the neighborhood...", "sentiment": "negative", "topics": {"0": "0.081412286", "2": "0.16729924", "3": "0.25619355", "5": "0.14712673", "6": "0.33205265"}}

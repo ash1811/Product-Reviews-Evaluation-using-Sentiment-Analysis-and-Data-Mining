@@ -1,0 +1,1 @@
+{"text": "Should have waited for the updated model...Band fit without adjacent good thing seems the band is a pain to adj.", "sentiment": "negative", "topics": {"0": "0.3163892", "1": "0.20499434", "2": "0.13957709", "3": "0.14069141", "4": "0.011006046", "5": "0.010995254", "6": "0.17634667"}}

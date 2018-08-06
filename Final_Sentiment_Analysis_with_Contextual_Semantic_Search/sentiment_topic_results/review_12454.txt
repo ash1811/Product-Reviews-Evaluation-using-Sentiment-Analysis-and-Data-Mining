@@ -1,0 +1,1 @@
+{"text": "I like the style, quality and the yoga mat like top a lot.But, maybe because I'm sort of heavy, it seemed pretty thinand not very cushy.  If your a tiny thing you might not care or notice.", "sentiment": "negative", "topics": {"0": "0.114024185", "1": "0.20490818", "2": "0.2297528", "3": "0.1874463", "4": "0.07696446", "6": "0.18038133"}}

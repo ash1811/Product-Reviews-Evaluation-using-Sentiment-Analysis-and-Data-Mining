@@ -1,0 +1,1 @@
+{"text": "This is my third pair of keen sandals.  Very comfortable with excellent support.  The sandals are sturdy and wears well. I wasn't quite ready to get another pair but they were on sale and what woman cant use another pair of shoes in a different color", "sentiment": "negative", "topics": {"1": "0.6798567", "2": "0.109802976", "4": "0.072409034", "6": "0.1214008"}}

@@ -1,0 +1,1 @@
+{"text": "I had a hard time finding pool shoes in the middle of winter for my toddler.  Found these on Amazon and her shoe size is right between the small and medium.  I opted for the medium and it fit her perfectly, with just a little room to grow.", "sentiment": "negative", "topics": {"0": "0.07563104", "1": "0.4338794", "2": "0.20355369", "3": "0.20940267", "4": "0.06507934"}}

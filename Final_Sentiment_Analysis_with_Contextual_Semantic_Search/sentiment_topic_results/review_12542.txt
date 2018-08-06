@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable flip flops I have ever worn. They do fit a tiny bit small, but it's not that big of  a difference.", "sentiment": "negative", "topics": {"0": "0.121825896", "1": "0.5292708", "2": "0.124287106", "3": "0.011931438", "4": "0.101102896", "5": "0.011912904", "6": "0.09966895"}}

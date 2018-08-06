@@ -1,0 +1,1 @@
+{"text": "I love playtex bras. Ive sold bras and was a certified bra fitter for JCPenney so I know bras. This is a great underwire bra from playtex that has great support, great wear and lets you feel feminine at the same time.", "sentiment": "negative", "topics": {"1": "0.11551479", "3": "0.58793306", "4": "0.06190805", "5": "0.09937051", "6": "0.1238231"}}

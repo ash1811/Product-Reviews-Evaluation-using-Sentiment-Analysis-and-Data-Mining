@@ -1,0 +1,1 @@
+{"text": "Very nice time piece,  but size is very small hard to read the time.  This watch is better suited for a petite women with a very small wrist.  It's a great watch through.", "sentiment": "negative", "topics": {"0": "0.12067565", "1": "0.14713824", "2": "0.13815098", "3": "0.3427465", "5": "0.16906683", "6": "0.07469319"}}

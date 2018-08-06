@@ -1,0 +1,1 @@
+{"text": "Love these sandals. It's extremely hard to find sandals for women with support and these are awesome. Fits true to size. I'm normally a US Women's 9.5 so I got the size 40. No regrets", "sentiment": "negative", "topics": {"0": "0.06521683", "1": "0.43910542", "2": "0.1471239", "3": "0.27695036", "4": "0.058574416"}}

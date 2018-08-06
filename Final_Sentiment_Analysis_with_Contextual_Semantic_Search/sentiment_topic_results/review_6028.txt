@@ -1,0 +1,1 @@
+{"text": "Nice addition to floating charm lockets. Very inexpensive, yet all the crystals are clear and beautiful. Thinking of ordering another set!", "sentiment": "positive", "topics": {"0": "0.094919324", "1": "0.23870555", "2": "0.2337134", "4": "0.085510984", "5": "0.32805738"}}

@@ -1,0 +1,1 @@
+{"text": "This size fits great! However, I returned from a 40 to a 42. In my opinion, they were a bit tight at 40. Recommend 2 sizes larger if you order. Hope I am not steering you wrong - just my body style. Hope this helps.", "sentiment": "negative", "topics": {"0": "0.29038727", "1": "0.29455844", "2": "0.16055602", "6": "0.23654707"}}

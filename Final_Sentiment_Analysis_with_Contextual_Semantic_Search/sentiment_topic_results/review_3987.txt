@@ -1,0 +1,1 @@
+{"text": "I ordered them because they are Isotoner slippers at a good value.  They are very sofrt and comfortable, and I enjoy the fact that they are clogs.", "sentiment": "negative", "topics": {"0": "0.11522216", "1": "0.39878312", "2": "0.0131444", "3": "0.1286366", "4": "0.11654243", "5": "0.013156696", "6": "0.21451463"}}

@@ -1,0 +1,1 @@
+{"text": "I love the socks because of how super soft they feel. My big complaint is that after a few runs through the dish washer they start to pill.  I have not figured out how to prevent this yet.", "sentiment": "positive", "topics": {"0": "0.28901964", "1": "0.42473337", "5": "0.069364265", "6": "0.18995012"}}

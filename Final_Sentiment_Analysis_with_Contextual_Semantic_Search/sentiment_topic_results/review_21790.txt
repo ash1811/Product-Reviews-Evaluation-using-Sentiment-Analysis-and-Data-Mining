@@ -1,0 +1,1 @@
+{"text": "Came on time.  Spacious nice bright color. Lots of space for all toiletries, stationary  or lunch items. Great for travel.", "sentiment": "negative", "topics": {"0": "0.316438", "1": "0.1983187", "4": "0.11537965", "5": "0.24721894", "6": "0.10355903"}}

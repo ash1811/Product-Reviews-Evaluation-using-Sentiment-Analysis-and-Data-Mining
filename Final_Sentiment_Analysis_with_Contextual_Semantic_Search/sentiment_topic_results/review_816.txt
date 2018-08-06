@@ -1,0 +1,1 @@
+{"text": "Wonderful shaper, very comfortable. Fits down to my thighs eliminating need for panty girdle. Highly recommend for smoothing and slimming.", "sentiment": "negative", "topics": {"0": "0.010276702", "1": "0.33344015", "2": "0.0102563435", "3": "0.24066003", "4": "0.096608885", "5": "0.107633345", "6": "0.20112456"}}

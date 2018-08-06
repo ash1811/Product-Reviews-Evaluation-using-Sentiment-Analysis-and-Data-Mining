@@ -1,0 +1,1 @@
+{"text": "I bought one of these for my husband to see if they would fit his long torso.  I was surprised to see the quality of the fabric for such a reasonable price.  I purchased the XL tall and it fits great and is very comfortable.  I will buy more in the future.", "sentiment": "negative", "topics": {"0": "0.06562687", "1": "0.45195085", "4": "0.35651305", "6": "0.10719968"}}

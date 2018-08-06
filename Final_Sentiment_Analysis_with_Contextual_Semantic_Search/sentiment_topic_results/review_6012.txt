@@ -1,0 +1,1 @@
+{"text": "This two-toned chocolate/brown paisley pashmina scarf arrived exactly as pictured and described. It adds the finishing touch to and coordinates with so many outfits. Have received many compliments on it. Beautiful, soft, and very practical!", "sentiment": "positive", "topics": {"0": "0.2909402", "2": "0.11501299", "4": "0.32451075", "5": "0.1049215", "6": "0.15212673"}}

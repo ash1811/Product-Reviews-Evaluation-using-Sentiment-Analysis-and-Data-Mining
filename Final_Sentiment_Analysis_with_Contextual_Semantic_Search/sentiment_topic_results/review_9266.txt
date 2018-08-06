@@ -1,0 +1,1 @@
+{"text": "If you wear them w/ bare feet, order your regular size.If you wear a thick sock,go up a size.If you wear a half size, go up to the next size.All nI can tell you.", "sentiment": "positive", "topics": {"0": "0.45449525", "3": "0.32295522", "4": "0.19523855"}}

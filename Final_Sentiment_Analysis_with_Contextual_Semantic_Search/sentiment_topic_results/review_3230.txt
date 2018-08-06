@@ -1,0 +1,1 @@
+{"text": "I love this brand! Jeans look great on the figure, size fits perfectly! Pants are very qualitatively sewn. Fabric durable and will serve a long time.", "sentiment": "negative", "topics": {"1": "0.532184", "2": "0.07082285", "3": "0.22992659", "5": "0.14318839"}}

@@ -1,0 +1,1 @@
+{"text": "These are beautiful, well made, but very narrow!I had to return mine.  Hopefully they will create a wider variety.", "sentiment": "negative", "topics": {"0": "0.13521974", "1": "0.23905832", "2": "0.118275456", "3": "0.013027344", "4": "0.16777353", "5": "0.20198415", "6": "0.1246615"}}

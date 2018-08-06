@@ -1,0 +1,1 @@
+{"text": "I love Teva Mush flip flops all styles and colors...I don't think I could have enough.  I bought 2 pair last year and wore them out so I restocked this year and love this style, it's a little fancier than standard flip flops.", "sentiment": "negative", "topics": {"0": "0.056833588", "1": "0.40108335", "2": "0.08712734", "5": "0.40046346", "6": "0.043452375"}}

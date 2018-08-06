@@ -1,0 +1,1 @@
+{"text": "They do run a little snug in the foot, so probably not great for wide footed people. However, I love them! They are very light-weight and the material is very soft and comfy!", "sentiment": "negative", "topics": {"1": "0.33919662", "3": "0.2897502", "5": "0.13525793", "6": "0.21040763"}}

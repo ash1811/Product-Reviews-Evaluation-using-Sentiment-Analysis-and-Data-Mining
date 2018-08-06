@@ -1,0 +1,1 @@
+{"text": "I bought a pair last winter (I'm in NYC). Unfortunately, these boots haven't seen much action because there wasn't much snow. However, they do look great and feel good.", "sentiment": "negative", "topics": {"0": "0.1417991", "1": "0.30458266", "2": "0.13580278", "4": "0.24640098", "5": "0.15633583"}}

@@ -1,0 +1,1 @@
+{"text": "this 874 is now my standard working pants that the quality is damn good and also the style is just fit my body.", "sentiment": "positive", "topics": {"0": "0.011912465", "1": "0.55003566", "2": "0.01190567", "3": "0.01190778", "4": "0.12424344", "5": "0.11439196", "6": "0.17560303"}}

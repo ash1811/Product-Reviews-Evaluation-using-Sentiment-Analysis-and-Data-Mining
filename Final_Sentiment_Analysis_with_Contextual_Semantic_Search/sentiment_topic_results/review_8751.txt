@@ -1,0 +1,1 @@
+{"text": "Not cheap but worth the money for wool socks.  I have found that these type of socks are very comfortable to wear. Prefer the wool/nylon mix to extend the life of the socks.", "sentiment": "positive", "topics": {"0": "0.10597737", "1": "0.17561765", "3": "0.07513759", "4": "0.07489101", "5": "0.48752263", "6": "0.07243281"}}

@@ -1,0 +1,1 @@
+{"text": "I've worn these nightgowns for years. Very comfortable, I just wish they would come up with some new colors to choose from.", "sentiment": "positive", "topics": {"0": "0.010998004", "1": "0.35273188", "2": "0.12946774", "3": "0.29739386", "4": "0.011050246", "5": "0.0110125", "6": "0.18734573"}}

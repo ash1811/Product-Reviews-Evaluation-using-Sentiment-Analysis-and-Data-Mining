@@ -1,0 +1,1 @@
+{"text": "My Acorn slippers were a bit more comfortable than these but these are fine for around the house in the morning.  I like the fit and feel better than the embroidered Isotoners.", "sentiment": "positive", "topics": {"1": "0.2624043", "2": "0.05294486", "3": "0.138216", "6": "0.51783854"}}

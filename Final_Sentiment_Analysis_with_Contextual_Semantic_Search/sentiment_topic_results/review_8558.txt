@@ -1,0 +1,1 @@
+{"text": "These are my first pair of Carhart jeans.  Good quality and have worn well so far.  I have never seen so many belt loops in a pair of jeans.  I found that different.  Seem to be a good  and solid build.", "sentiment": "negative", "topics": {"1": "0.19637366", "2": "0.12537944", "4": "0.55502117", "6": "0.104513675"}}

@@ -1,0 +1,1 @@
+{"text": "Returned this watch for a refund-was the band in the photo hidden for a reason?  I have canvas bands that are presentable-this was not", "sentiment": "positive", "topics": {"0": "0.6487262", "1": "0.012996739", "2": "0.2861315", "3": "0.013097335", "4": "0.013058764", "5": "0.012997904", "6": "0.012991576"}}

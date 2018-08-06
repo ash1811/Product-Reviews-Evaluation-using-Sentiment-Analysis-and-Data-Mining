@@ -1,0 +1,1 @@
+{"text": "These fit very well, elastic isn't too loose or too tight.  These are pretty warm though so keep that in mind, it's what I was going for but if you want something to keep you cooler these are not what you want. Super comfortable though.", "sentiment": "negative", "topics": {"1": "0.7157301", "4": "0.1760549", "5": "0.07953866"}}

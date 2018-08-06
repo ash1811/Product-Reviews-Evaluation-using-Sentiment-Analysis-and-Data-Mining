@@ -1,0 +1,1 @@
+{"text": "Nice shoe but it runs small and narrow.  I returned to Amazon for one size larger.  No hassle at all. Waiting for new ones to arrive.  Order one size larger than your normal shoe size or you will be doing what I had to do.", "sentiment": "negative", "topics": {"0": "0.18173213", "1": "0.10899895", "2": "0.28942704", "3": "0.33353287", "4": "0.07485331"}}

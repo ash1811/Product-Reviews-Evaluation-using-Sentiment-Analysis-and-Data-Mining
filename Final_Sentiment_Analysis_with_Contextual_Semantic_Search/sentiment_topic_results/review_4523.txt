@@ -1,0 +1,1 @@
+{"text": "I bought these for appointments and some shopping around town. I've worn them a couple times and they are in the closet. I will most likely wear them once more before washing. They are the same Lees as always. From a 1 to a 10= 10", "sentiment": "negative", "topics": {"2": "0.16552737", "3": "0.07444816", "4": "0.22915436", "5": "0.3837594", "6": "0.13201362"}}

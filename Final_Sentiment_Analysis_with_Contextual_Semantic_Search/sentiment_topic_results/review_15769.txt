@@ -1,0 +1,1 @@
+{"text": "These knee-high hose are quite comfortable.  They are quite silky and a bit longer than other brands, which is nice.  If one had a large calf, the &#34;one size&#34; might too snug, however.", "sentiment": "negative", "topics": {"0": "0.11963369", "1": "0.23450196", "2": "0.16902232", "3": "0.39288655", "6": "0.068906285"}}

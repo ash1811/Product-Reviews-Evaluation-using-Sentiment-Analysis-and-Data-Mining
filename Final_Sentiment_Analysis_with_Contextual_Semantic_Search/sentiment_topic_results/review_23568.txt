@@ -1,0 +1,1 @@
+{"text": "These socks are very comfortable for anyone.  But they are really nice for bigger men.  The top of the tube sock is bigger than normal socks.  This means you don't get restriction you might get with a normal tube sock.  I like them a lot.", "sentiment": "negative", "topics": {"0": "0.383494", "1": "0.108292885", "3": "0.14178881", "5": "0.27841422", "6": "0.07608043"}}

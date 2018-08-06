@@ -1,0 +1,1 @@
+{"text": "I love mine. I wear them hiking and they prevent my toes from rubbing together and getting blistered. The only thing I'd change is to put some padding in the soles, the way Thorlos are made. I'll buy more of these.", "sentiment": "negative", "topics": {"0": "0.26286876", "1": "0.3252145", "2": "0.06083185", "3": "0.17117466", "5": "0.11594285", "6": "0.057730176"}}

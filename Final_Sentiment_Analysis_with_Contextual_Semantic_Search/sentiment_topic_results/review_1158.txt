@@ -1,0 +1,1 @@
+{"text": "They look great and I get compliments all the time when I am wearing these. They shimmer nicely in the light, and look very much as pictured. I would buy this again.", "sentiment": "positive", "topics": {"0": "0.24441254", "1": "0.55639714", "5": "0.16548015"}}

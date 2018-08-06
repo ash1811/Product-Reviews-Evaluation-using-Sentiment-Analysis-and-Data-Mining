@@ -1,0 +1,1 @@
+{"text": "Nice little braclet the makes a good compliment to the necklace and earrings. Great to wear with black outfits. Inexpensive.", "sentiment": "negative", "topics": {"0": "0.12452628", "1": "0.5720088", "2": "0.122183345", "3": "0.1505678", "4": "0.010234796", "5": "0.010228842", "6": "0.010250134"}}

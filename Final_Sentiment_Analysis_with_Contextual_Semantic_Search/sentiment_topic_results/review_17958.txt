@@ -1,0 +1,1 @@
+{"text": "very light material and look very cheap... with first wash shrank and became loose. very unhappy with this purchase. I regret buying them.", "sentiment": "negative", "topics": {"0": "0.64345765", "4": "0.095678814", "5": "0.22261135"}}

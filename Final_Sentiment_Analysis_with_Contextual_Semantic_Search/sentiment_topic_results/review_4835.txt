@@ -1,0 +1,1 @@
+{"text": "Really good product. High quality. I got this for my GF. She likes it. Looks cute on her. Get this!", "sentiment": "negative", "topics": {"0": "0.27474928", "1": "0.17897245", "2": "0.24421565", "5": "0.17828551", "6": "0.10469022"}}

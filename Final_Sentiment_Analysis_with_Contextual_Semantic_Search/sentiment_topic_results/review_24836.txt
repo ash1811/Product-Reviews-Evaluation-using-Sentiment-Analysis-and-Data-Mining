@@ -1,0 +1,1 @@
+{"text": "Love this bra. It's very comfortable, it lifts the girls up, and the straps never slip! Would buy again for sure!", "sentiment": "positive", "topics": {"0": "0.1381779", "1": "0.3607316", "2": "0.25925446", "3": "0.20877811", "4": "0.011048009", "5": "0.011014421", "6": "0.010995494"}}

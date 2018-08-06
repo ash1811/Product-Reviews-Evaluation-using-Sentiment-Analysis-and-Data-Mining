@@ -1,0 +1,1 @@
+{"text": "The Marvel Captain America Shield is great for child play. I purchased this product for my nephew who loves Marvel characters. This product is very well-made and child safe.", "sentiment": "negative", "topics": {"0": "0.17874406", "1": "0.2378313", "2": "0.05568642", "3": "0.21464424", "5": "0.2972062"}}

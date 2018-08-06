@@ -1,0 +1,1 @@
+{"text": "I use this bag to tote school books, food and all kinds of goodies to and from work.  Its really sturdy, but it also looks cute.  I tied a pink ribbon on the handle to accent the soft grey color and its super cute.", "sentiment": "negative", "topics": {"0": "0.2541045", "1": "0.21153454", "2": "0.21212667", "4": "0.124278806", "5": "0.13030118", "6": "0.061924633"}}

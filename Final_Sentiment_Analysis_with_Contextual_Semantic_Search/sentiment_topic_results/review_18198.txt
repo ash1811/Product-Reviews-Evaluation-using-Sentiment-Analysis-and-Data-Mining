@@ -1,0 +1,1 @@
+{"text": "the pictures don't lie.  It doesn't look bad but when I saw it, it dissapointed me. It's not very \"shiny\" and the hands are not very noticible.  A little bit hard to operate.", "sentiment": "negative", "topics": {"0": "0.13957702", "1": "0.28019318", "2": "0.19833845", "3": "0.21840784", "5": "0.088450216", "6": "0.06609572"}}

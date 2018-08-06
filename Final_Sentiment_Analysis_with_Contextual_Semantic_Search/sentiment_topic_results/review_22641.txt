@@ -1,0 +1,1 @@
+{"text": "These are good quality and they fit well and not tight.  I also like to have them around for female family members that unexpectedly spend the night and need undies after a shower. The 100% cotton is a definite plus also.", "sentiment": "negative", "topics": {"0": "0.08169952", "1": "0.38791624", "4": "0.121741086", "5": "0.10163055", "6": "0.29450032"}}

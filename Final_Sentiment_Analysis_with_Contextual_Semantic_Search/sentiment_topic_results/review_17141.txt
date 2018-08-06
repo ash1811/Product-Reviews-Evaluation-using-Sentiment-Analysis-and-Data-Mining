@@ -1,0 +1,1 @@
+{"text": "I choose the name. I haven't had a Buxton wallet in years. So I tried again very happy and a fan. Thank-you.", "sentiment": "positive", "topics": {"0": "0.1569423", "1": "0.1992338", "2": "0.26109314", "3": "0.1847485", "4": "0.014341454", "5": "0.16934541", "6": "0.014295426"}}

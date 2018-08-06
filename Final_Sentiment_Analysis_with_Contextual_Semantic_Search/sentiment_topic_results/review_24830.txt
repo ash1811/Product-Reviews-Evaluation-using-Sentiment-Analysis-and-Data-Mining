@@ -1,0 +1,1 @@
+{"text": "My husband loves these shoes but the sizing is so off.  His last pair were 13s and they were too big, so we ordered 12s and they were way too small...", "sentiment": "negative", "topics": {"0": "0.010230883", "1": "0.2237545", "2": "0.11536468", "3": "0.24014683", "4": "0.32020193", "5": "0.0102424575", "6": "0.0800587"}}

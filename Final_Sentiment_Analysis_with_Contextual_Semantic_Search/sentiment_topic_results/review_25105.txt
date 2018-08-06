@@ -1,0 +1,1 @@
+{"text": "I bought this Insole for my rain boots, they fit perfect and it's more comfortable wearing them, specially on winter time, thank you Amazon", "sentiment": "negative", "topics": {"1": "0.39086115", "2": "0.3239115", "4": "0.24706955"}}

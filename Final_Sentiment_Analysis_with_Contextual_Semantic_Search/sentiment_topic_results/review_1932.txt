@@ -1,0 +1,1 @@
+{"text": "Love the look and feel of these moccasins and the size is just perfect.  In regards to these types of shoes I wouldn't buy any other brand.  Thank you.", "sentiment": "negative", "topics": {"0": "0.010257194", "1": "0.17810366", "2": "0.14883395", "3": "0.4136438", "4": "0.010249547", "5": "0.010235855", "6": "0.22867598"}}

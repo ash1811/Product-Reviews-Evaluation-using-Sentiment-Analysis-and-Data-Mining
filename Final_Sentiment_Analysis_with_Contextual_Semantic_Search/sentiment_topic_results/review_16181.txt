@@ -1,0 +1,1 @@
+{"text": "Cleaned my silver as advertise..but i should have ordered smaller size so easy to keep and cost savings as will discard as utilized..but anyway works well in cleaning my tarnished silver..", "sentiment": "positive", "topics": {"0": "0.16512801", "2": "0.07285338", "3": "0.31350756", "4": "0.21262766", "6": "0.22078037"}}

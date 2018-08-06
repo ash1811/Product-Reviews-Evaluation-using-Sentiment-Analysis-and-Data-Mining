@@ -1,0 +1,1 @@
+{"text": "I am a bigger hipped person and find that I have a hard time finding cuter, sexier underwear that fit right. These work perfect.", "sentiment": "positive", "topics": {"0": "0.13258035", "1": "0.16438608", "2": "0.18902585", "4": "0.48532274"}}

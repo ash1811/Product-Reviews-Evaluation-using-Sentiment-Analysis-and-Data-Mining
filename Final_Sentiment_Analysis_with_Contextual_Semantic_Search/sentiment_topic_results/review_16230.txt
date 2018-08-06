@@ -1,0 +1,1 @@
+{"text": "I ordered a 13 M which was way too small so I am returning them and will be getting a 14 3E. When they arrive I will be updating this post.", "sentiment": "positive", "topics": {"0": "0.2324475", "1": "0.038867917", "2": "0.011921602", "3": "0.45071074", "4": "0.011926677", "5": "0.011946631", "6": "0.2421789"}}

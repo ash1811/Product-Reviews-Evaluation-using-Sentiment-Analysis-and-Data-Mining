@@ -1,0 +1,1 @@
+{"text": "These are great little slippers. Perfect for when u don't need too much warmth. I'm a size 8 and medium is perfect. Thoroughly recommend - this is my second pair!", "sentiment": "negative", "topics": {"0": "0.05980689", "1": "0.6435925", "2": "0.07452629", "6": "0.1981983"}}

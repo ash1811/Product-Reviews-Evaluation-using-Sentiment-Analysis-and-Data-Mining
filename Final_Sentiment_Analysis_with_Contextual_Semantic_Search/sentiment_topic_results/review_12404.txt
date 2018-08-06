@@ -1,0 +1,1 @@
+{"text": "These are the perfect sandals. Seriously, so comfy, and fit perfectly. Then look nice too! Buy them, I have two pairs.", "sentiment": "positive", "topics": {"0": "0.010248627", "1": "0.60711384", "2": "0.26156703", "3": "0.010260096", "4": "0.010226583", "5": "0.010239442", "6": "0.090344384"}}

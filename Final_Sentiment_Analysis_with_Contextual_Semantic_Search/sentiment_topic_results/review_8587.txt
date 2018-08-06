@@ -1,0 +1,1 @@
+{"text": "I've worn these for years and got the best price here. They're comfortable and not bulky like a lot of athletic shoes. Great for walking.", "sentiment": "negative", "topics": {"1": "0.23273185", "2": "0.1686645", "3": "0.12362981", "4": "0.16420166", "5": "0.13420868", "6": "0.16813268"}}

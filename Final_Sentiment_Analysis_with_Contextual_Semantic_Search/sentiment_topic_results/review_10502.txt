@@ -1,0 +1,1 @@
+{"text": "These earrings are a lot smaller than they appear on the website, I am returning them since they are much to small for me.", "sentiment": "positive", "topics": {"0": "0.013033774", "1": "0.25670677", "2": "0.013024085", "3": "0.4954765", "4": "0.19573008", "5": "0.013030403", "6": "0.012998375"}}

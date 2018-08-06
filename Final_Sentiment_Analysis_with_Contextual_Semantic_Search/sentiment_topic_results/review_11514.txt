@@ -1,0 +1,1 @@
+{"text": "When I first received these I was not sure if I was going to like them.  But after wearing them a few time I do like the color and while the size is a little bigger than I would normally wear, they are still very pretty.", "sentiment": "negative", "topics": {"0": "0.1559698", "1": "0.32129297", "2": "0.102672264", "3": "0.39742354"}}

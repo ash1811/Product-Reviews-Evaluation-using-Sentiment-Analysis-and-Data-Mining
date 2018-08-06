@@ -1,0 +1,1 @@
+{"text": "LIke most scrubs this material is a bit rough but durable wash after wash. Hard color and fit to find.", "sentiment": "negative", "topics": {"0": "0.11073926", "1": "0.63835365", "2": "0.102257", "3": "0.11558344", "4": "0.011002486", "5": "0.011031905", "6": "0.011032228"}}

@@ -1,0 +1,1 @@
+{"text": "It is very uncomfortable and very bumpy around the cup. Doesn't look good under blouses or t-shirts. I would send it back but I can't find the box for it.- Beverly Redd", "sentiment": "negative", "topics": {"0": "0.27489325", "1": "0.36642012", "4": "0.2157965", "5": "0.119029865"}}

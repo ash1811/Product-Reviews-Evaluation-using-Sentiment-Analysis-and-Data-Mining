@@ -1,0 +1,1 @@
+{"text": "its a classic, it fits great, and looks amazing .... cant really complain about any thing levi is always is one of the best jeans out there", "sentiment": "negative", "topics": {"1": "0.4902324", "2": "0.22608165", "4": "0.17141327", "6": "0.083545834"}}

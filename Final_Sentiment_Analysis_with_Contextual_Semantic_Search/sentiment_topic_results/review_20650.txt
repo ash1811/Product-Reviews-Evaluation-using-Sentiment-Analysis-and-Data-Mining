@@ -1,0 +1,1 @@
+{"text": "Jobst is still the best support hose on the market.  I have tried many others-not all, but many. Jobst is the one line that is consistently high quality,  durable and effective. There is little else to say.", "sentiment": "negative", "topics": {"0": "0.058972318", "1": "0.3545998", "2": "0.36656058", "4": "0.096095875", "5": "0.059127677", "6": "0.05840246"}}

@@ -1,0 +1,1 @@
+{"text": "Very pretty earrings and the detail is dainty, yet perfect for every occasion. I bought the matching pendant also and it make such a nice pairing. Casual, but classy.", "sentiment": "negative", "topics": {"0": "0.11186086", "1": "0.45952764", "4": "0.13846141", "5": "0.26625043"}}

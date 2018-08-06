@@ -1,0 +1,1 @@
+{"text": "The straps on this bra are very comfortable, and I guess if you can stand underwires, it's a good bra. Good fit, overall good bra, I just found the underwires to be very uncomfortable.", "sentiment": "negative", "topics": {"1": "0.5284361", "2": "0.078059405", "3": "0.22335862", "4": "0.08299046", "6": "0.07030159"}}

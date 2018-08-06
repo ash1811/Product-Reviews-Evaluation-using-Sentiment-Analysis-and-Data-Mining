@@ -1,0 +1,1 @@
+{"text": "Put these and wore them the same day, Fit and comfort was amazing.  They are not styleish, but practical, and useful", "sentiment": "negative", "topics": {"0": "0.014310757", "1": "0.12758124", "2": "0.014307395", "3": "0.0142933475", "4": "0.34535053", "5": "0.014366952", "6": "0.4697898"}}

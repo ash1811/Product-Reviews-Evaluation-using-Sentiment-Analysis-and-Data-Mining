@@ -1,0 +1,1 @@
+{"text": "Great Schemagh, very durable and everything you would want in one and more, I would definitely recommend to all my friends!", "sentiment": "negative", "topics": {"0": "0.011017861", "1": "0.19283792", "2": "0.32122675", "3": "0.19993399", "4": "0.11190736", "5": "0.15208158", "6": "0.010994544"}}

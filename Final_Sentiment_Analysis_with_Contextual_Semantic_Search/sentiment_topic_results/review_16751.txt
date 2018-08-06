@@ -1,0 +1,1 @@
+{"text": "love this shirt I orderered in extra large because it all cotton like I dint want make the mistake of ordering large for my stocky thick self beautiful color and classy champion emlem on left sleeve", "sentiment": "negative", "topics": {"1": "0.10245967", "2": "0.1647233", "3": "0.19304706", "5": "0.45123497", "6": "0.0765909"}}

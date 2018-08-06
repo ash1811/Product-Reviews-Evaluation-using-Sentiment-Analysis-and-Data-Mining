@@ -1,0 +1,1 @@
+{"text": "They are OK.  I do prefer pockets, but they will suffice.  Thank you for all you do for me.larry", "sentiment": "negative", "topics": {"0": "0.16607344", "1": "0.2596912", "2": "0.34427544", "3": "0.16869459", "4": "0.020411124", "5": "0.020409817", "6": "0.02044441"}}

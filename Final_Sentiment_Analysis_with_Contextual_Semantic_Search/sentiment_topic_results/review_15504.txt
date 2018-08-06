@@ -1,0 +1,1 @@
+{"text": "Like these pants. Good for the price. Comfortable.  They were a little on the big side.  I ordered a large which i usually ordered, but they seemed a little big.  Which can be good...or bad!  Would recommend.", "sentiment": "positive", "topics": {"1": "0.745411", "5": "0.15908773", "6": "0.0668821"}}

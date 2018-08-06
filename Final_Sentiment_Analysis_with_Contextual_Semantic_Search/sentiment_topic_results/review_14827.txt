@@ -1,0 +1,1 @@
+{"text": "This cleaner really improves the cleaning ability of my hydrosonic jewelry cleaner.  Much better than just water.  Make sure to follow the directions for the type of stones recommended.  I will buy this again.", "sentiment": "negative", "topics": {"1": "0.2803678", "2": "0.2731565", "3": "0.18923312", "5": "0.08630134", "6": "0.15727428"}}

@@ -1,0 +1,1 @@
+{"text": "they match my night gown and are fine for my usual evening perambulations around the bedroom. I'm adding black to these satin pairs.", "sentiment": "positive", "topics": {"1": "0.10578354", "2": "0.24446629", "3": "0.3450131", "5": "0.18763609", "6": "0.097969346"}}

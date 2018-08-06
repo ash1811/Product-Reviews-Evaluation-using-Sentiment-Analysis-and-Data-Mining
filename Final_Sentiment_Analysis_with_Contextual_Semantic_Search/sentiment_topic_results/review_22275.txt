@@ -1,0 +1,1 @@
+{"text": "He really loves the socks and said they make his skel -a -toe shoes fit more comfortable. This was a great bargin", "sentiment": "negative", "topics": {"0": "0.102159046", "1": "0.39106736", "2": "0.08811145", "3": "0.31922188", "4": "0.01024087", "5": "0.07897159", "6": "0.010227794"}}

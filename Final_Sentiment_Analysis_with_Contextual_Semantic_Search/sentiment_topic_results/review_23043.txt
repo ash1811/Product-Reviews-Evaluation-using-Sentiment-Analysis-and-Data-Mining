@@ -1,0 +1,1 @@
+{"text": "Didn't like these so much. The earrings seemed small and the backs were not as secure as I wanted. I like the clip backing so I don't lose the earring and they click into place.", "sentiment": "negative", "topics": {"1": "0.41247603", "2": "0.28054312", "3": "0.18949565", "4": "0.09057973"}}

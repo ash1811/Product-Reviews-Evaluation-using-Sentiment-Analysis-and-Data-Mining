@@ -1,0 +1,1 @@
+{"text": "Very soft and comfortable, flattering and wearable every day. I purchased one pair and then bought two more shortly after.", "sentiment": "negative", "topics": {"0": "0.010225905", "1": "0.37477708", "2": "0.010236694", "3": "0.12692581", "4": "0.22723864", "5": "0.24038316", "6": "0.010212696"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for a Costa Rica vacation. Serve their purpose, I will use them for summer sporting activities, but they're not flattering and never will be.", "sentiment": "negative", "topics": {"0": "0.095006436", "1": "0.112940386", "2": "0.16962798", "3": "0.22586839", "4": "0.29672197", "5": "0.09029345"}}

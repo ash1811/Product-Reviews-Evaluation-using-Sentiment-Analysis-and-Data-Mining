@@ -1,0 +1,1 @@
+{"text": "My son wanted these warm socks to wear while shoveling snow. They came in the mail very quickly, are just as described and he loved them.", "sentiment": "positive", "topics": {"0": "0.220033", "1": "0.30939907", "2": "0.191937", "3": "0.010236336", "4": "0.01021796", "5": "0.24795209", "6": "0.0102245305"}}

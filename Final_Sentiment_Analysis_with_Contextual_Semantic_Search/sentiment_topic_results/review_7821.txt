@@ -1,0 +1,1 @@
+{"text": "I made the mistake of buying the $2 pin remover, and it's garbage.  So I spend another $10 or so to get this one, and it's much, much nicer.", "sentiment": "negative", "topics": {"0": "0.14315602", "1": "0.3732285", "2": "0.30920377", "4": "0.1475207"}}

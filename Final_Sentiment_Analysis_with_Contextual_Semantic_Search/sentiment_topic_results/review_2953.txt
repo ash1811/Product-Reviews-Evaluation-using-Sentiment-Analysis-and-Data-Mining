@@ -1,0 +1,1 @@
+{"text": "After searching for the correct bra, I finally found the one that fits perfectly, feel great, and is a breeze to keep clean.  I am in the process of replacing old bras and will do so with more of these (in different colors).", "sentiment": "positive", "topics": {"1": "0.32699025", "2": "0.08203297", "3": "0.1689677", "4": "0.13674375", "5": "0.27158612"}}

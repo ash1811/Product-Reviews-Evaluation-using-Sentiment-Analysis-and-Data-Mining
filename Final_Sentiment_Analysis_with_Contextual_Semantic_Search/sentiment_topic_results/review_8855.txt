@@ -1,0 +1,1 @@
+{"text": "These shoes are comfortable and fit well. However, they are splitting and have not had a rough life.  Sketchers are my favorite brand and I am disappointed this pair has not lived up to expectation.", "sentiment": "positive", "topics": {"0": "0.08768532", "1": "0.3186279", "2": "0.210222", "3": "0.20570073", "4": "0.08495199", "5": "0.08387742"}}

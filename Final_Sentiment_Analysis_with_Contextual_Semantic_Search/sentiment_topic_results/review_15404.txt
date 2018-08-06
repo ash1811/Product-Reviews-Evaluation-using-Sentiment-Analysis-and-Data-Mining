@@ -1,0 +1,1 @@
+{"text": "I've been wearing the RB2132 for decades. I use them both for regular prescription and sunglasses prescription. They are classic.", "sentiment": "positive", "topics": {"0": "0.013038775", "1": "0.013067294", "2": "0.34145463", "3": "0.49109384", "4": "0.11535747", "5": "0.012990782", "6": "0.012997214"}}

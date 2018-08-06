@@ -1,0 +1,1 @@
+{"text": "These shoes are comfortable and offer good support for light hikes. Run a little small as most Keen shoes do. Nice looking= bonus.", "sentiment": "positive", "topics": {"0": "0.21002471", "1": "0.3541261", "2": "0.16985819", "3": "0.11838603", "6": "0.1307818"}}

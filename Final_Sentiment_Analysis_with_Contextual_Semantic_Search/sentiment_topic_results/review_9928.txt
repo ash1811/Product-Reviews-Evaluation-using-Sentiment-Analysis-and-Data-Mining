@@ -1,0 +1,1 @@
+{"text": "Kids love it, great watch.  Band is good quality and great design for smaller kids.  I would recommend or buy similar.", "sentiment": "negative", "topics": {"1": "0.4213354", "2": "0.10359656", "3": "0.21388069", "5": "0.2358422"}}

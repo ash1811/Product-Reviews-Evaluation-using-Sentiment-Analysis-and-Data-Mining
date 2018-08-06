@@ -1,0 +1,1 @@
+{"text": "works well and does the job. i needed it for my pregnancy and ordered 2 sets since i only wear black bra's", "sentiment": "negative", "topics": {"0": "0.11056156", "1": "0.46431372", "2": "0.011016305", "3": "0.38106367", "4": "0.0110033965", "5": "0.011018763", "6": "0.0110225985"}}

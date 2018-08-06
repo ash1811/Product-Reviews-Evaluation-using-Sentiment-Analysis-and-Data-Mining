@@ -1,0 +1,1 @@
+{"text": "WOW!  Am I blind because I cannot see the skull.  The company says they are 3/16 of an inch, but really they seem much smaller.  I wouldn't buy these again.", "sentiment": "negative", "topics": {"1": "0.12651357", "3": "0.3912224", "4": "0.19284178", "6": "0.26257262"}}

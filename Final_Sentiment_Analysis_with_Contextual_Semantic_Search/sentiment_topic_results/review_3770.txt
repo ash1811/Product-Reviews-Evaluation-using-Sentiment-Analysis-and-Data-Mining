@@ -1,0 +1,1 @@
+{"text": "I have these in brown too!  All the aviators seems so large these are the perfect size for my face.", "sentiment": "positive", "topics": {"0": "0.015944164", "1": "0.23364107", "2": "0.015974738", "3": "0.686777", "4": "0.01588205", "5": "0.015889687", "6": "0.015891291"}}

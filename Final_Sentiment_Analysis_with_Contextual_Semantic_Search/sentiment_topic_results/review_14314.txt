@@ -1,0 +1,1 @@
+{"text": "Although the right size, they fit wrong and felt funny on my feet. I have always wanted a pair, but they just did not work for me. I will keep searching for the right pair.", "sentiment": "negative", "topics": {"1": "0.1293101", "2": "0.27466324", "3": "0.5641509"}}

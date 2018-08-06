@@ -1,0 +1,1 @@
+{"text": "There is nothing really special about this tee, but I use it to sleep in so it meets my needs.", "sentiment": "negative", "topics": {"0": "0.0159119", "1": "0.01593634", "2": "0.1890513", "3": "0.2887477", "4": "0.1863298", "5": "0.015958317", "6": "0.28806463"}}

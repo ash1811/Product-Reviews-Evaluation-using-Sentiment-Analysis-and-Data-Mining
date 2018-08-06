@@ -1,0 +1,1 @@
+{"text": "These really cool retro sunglasses fit well, are comfortable and provide excellent UV protection. We have three pairs within our family.", "sentiment": "negative", "topics": {"0": "0.10581725", "1": "0.24897103", "2": "0.17770931", "3": "0.13356711", "4": "0.06669197", "5": "0.1343096", "6": "0.13293375"}}

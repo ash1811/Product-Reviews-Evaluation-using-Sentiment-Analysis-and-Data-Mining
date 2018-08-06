@@ -1,0 +1,1 @@
+{"text": "The fit and wuality was as expected for the Maidenform brand. Color was very nice. Comfy didn't ride down or up!", "sentiment": "negative", "topics": {"0": "0.013000628", "1": "0.36167046", "2": "0.013006553", "3": "0.45291826", "4": "0.013012286", "5": "0.0129962", "6": "0.13339557"}}

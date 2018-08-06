@@ -1,0 +1,1 @@
+{"text": "this was purchased for our 14 year old son as a Christmas gift. He loves this watch. Happy made this purchase", "sentiment": "negative", "topics": {"0": "0.342563", "1": "0.42378202", "2": "0.18932803", "3": "0.0110624535", "4": "0.011053809", "5": "0.011081423", "6": "0.011129301"}}

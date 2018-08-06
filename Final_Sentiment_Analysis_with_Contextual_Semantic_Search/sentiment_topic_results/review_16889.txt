@@ -1,0 +1,1 @@
+{"text": "Got these in beige. Gotta say that they are a little bit too big for a Queen size, even though I have pretty full legs, I am short, and they feel  like they would look better if I was taller. The material is very-very soft.", "sentiment": "negative", "topics": {"0": "0.47446266", "1": "0.08121834", "2": "0.050129853", "3": "0.26458767", "6": "0.118140176"}}

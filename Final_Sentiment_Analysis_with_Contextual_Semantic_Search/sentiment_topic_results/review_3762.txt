@@ -1,0 +1,1 @@
+{"text": "ready to shine on it, i really love it i want to put clear lenses with prescription on these babies, i hope it works, great sunglasses", "sentiment": "negative", "topics": {"0": "0.20274186", "1": "0.18257436", "2": "0.17321464", "3": "0.2741725", "5": "0.1493744"}}

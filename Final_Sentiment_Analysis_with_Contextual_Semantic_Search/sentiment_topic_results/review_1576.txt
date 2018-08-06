@@ -1,0 +1,1 @@
+{"text": "Excellent bag at an excellent price. REALLY solid construction.  Just be forewarned:  This bag is SMALL.  Too small for back to school (3 ring-binder, folders, etc. don't fit).  This would be a great bag for a netbook though.", "sentiment": "negative", "topics": {"1": "0.4006266", "2": "0.20650613", "4": "0.12628613", "5": "0.24868894"}}

@@ -1,0 +1,1 @@
+{"text": "I've worn these insoles in all of my running shoes for years, pavement and trail.  I especially like them in my trail shoes in that they provide a sturdier heel cup that helps on very uneven trail.", "sentiment": "negative", "topics": {"1": "0.07928986", "2": "0.4368205", "3": "0.21761855", "5": "0.07784779", "6": "0.17410268"}}

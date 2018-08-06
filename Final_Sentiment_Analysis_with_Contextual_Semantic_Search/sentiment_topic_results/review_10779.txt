@@ -1,0 +1,1 @@
+{"text": "My twin cousins loved this! They are not yet two but said &#34;ohhhh&#34; and sighed like they were so elated :)", "sentiment": "positive", "topics": {"0": "0.1370655", "1": "0.2430531", "2": "0.11061514", "3": "0.01194499", "4": "0.2760068", "5": "0.20936997", "6": "0.011944509"}}

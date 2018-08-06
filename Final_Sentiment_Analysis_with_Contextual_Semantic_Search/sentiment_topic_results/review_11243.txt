@@ -1,0 +1,1 @@
+{"text": "i'm 5'7'' and my chemise was short, like a short cami top, that's the downside , on a good note, the fabric is nice and comfortable", "sentiment": "positive", "topics": {"0": "0.34145856", "1": "0.3700709", "3": "0.21707758", "5": "0.04451671"}}

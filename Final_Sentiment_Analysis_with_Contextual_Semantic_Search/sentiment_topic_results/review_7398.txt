@@ -1,0 +1,1 @@
+{"text": "The shoes run small.  They are also not good for summer because they are lined.  They make my feet hot.", "sentiment": "negative", "topics": {"0": "0.013026435", "1": "0.013050547", "2": "0.1819593", "3": "0.40201792", "4": "0.25259784", "5": "0.124356836", "6": "0.012991101"}}

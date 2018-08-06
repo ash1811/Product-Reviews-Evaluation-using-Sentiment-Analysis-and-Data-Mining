@@ -1,0 +1,1 @@
+{"text": "Can't go wrong with Zebra and print for a too-be teenage girl!  THis is perfect, very well made and my daughter loves it!! Highly recommended!", "sentiment": "positive", "topics": {"2": "0.45879406", "4": "0.2260048", "5": "0.2814594"}}

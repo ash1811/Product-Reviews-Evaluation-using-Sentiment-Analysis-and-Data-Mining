@@ -1,0 +1,1 @@
+{"text": "This pant is awesome, but because I have huge quadriceps and hamstrings, making my thighs a lot bigger, it feels like my range of motion is limited. I will still wear it though. Purchased 32X30, athletic built, 5'7&#34;, 168 lbs.", "sentiment": "negative", "topics": {"0": "0.058649216", "1": "0.3179802", "3": "0.2800064", "5": "0.06714636", "6": "0.26474962"}}

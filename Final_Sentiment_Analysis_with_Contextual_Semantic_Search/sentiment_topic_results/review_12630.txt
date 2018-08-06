@@ -1,0 +1,1 @@
+{"text": "I fluxuate between a 7.5 and 8...  most of the time I am a 7.5This time I had to send 7.5 back and order the 8... nice and comfy, but almost wonder now if I should have gotten the narrow with the 8?  But, over all pleased.", "sentiment": "negative", "topics": {"0": "0.14965113", "1": "0.35122257", "2": "0.14799611", "4": "0.15553111", "5": "0.18198355"}}

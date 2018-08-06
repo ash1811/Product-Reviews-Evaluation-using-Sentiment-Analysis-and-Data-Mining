@@ -1,0 +1,1 @@
+{"text": "These don't have very much padding.I have other Skecher shoes that are really alot better.Am disapointed in these will wear them around town,but are not good for working.", "sentiment": "negative", "topics": {"0": "0.01021361", "1": "0.33229074", "2": "0.20881194", "3": "0.010222862", "4": "0.010210866", "5": "0.4180391", "6": "0.010210856"}}

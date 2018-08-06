@@ -1,0 +1,1 @@
+{"text": "Your work is professional...for which I thank you.  I wear black or dark color socks when I don't have on a pair of shorts i.e. the summertime when I wear white footies...I'm 75 years old...", "sentiment": "negative", "topics": {"0": "0.07620308", "2": "0.05841913", "3": "0.3850459", "5": "0.398978", "6": "0.06702079"}}

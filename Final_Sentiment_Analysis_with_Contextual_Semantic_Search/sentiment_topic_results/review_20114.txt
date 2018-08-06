@@ -1,0 +1,1 @@
+{"text": "Nice pair of pants but when compared to a pair of 30 x 30 carhartts that I currently own this new pair was 3&#34; longer.", "sentiment": "positive", "topics": {"1": "0.2572024", "2": "0.062326804", "3": "0.47358048", "4": "0.1782635"}}

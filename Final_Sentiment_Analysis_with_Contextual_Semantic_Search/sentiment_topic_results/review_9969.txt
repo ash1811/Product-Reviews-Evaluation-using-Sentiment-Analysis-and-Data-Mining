@@ -1,0 +1,1 @@
+{"text": "Bought 2 of those !Only problem is the wristband !Breaks pretty easy !So treat it well !", "sentiment": "positive", "topics": {"0": "0.2708419", "1": "0.18127142", "2": "0.011948172", "3": "0.23658524", "4": "0.011937214", "5": "0.27545175", "6": "0.011964265"}}

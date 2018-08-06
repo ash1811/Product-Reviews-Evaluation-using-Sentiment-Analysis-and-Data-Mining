@@ -1,0 +1,1 @@
+{"text": "My wife loves these slippers. They run true to size as far as we can tell. They are very well made and she says they are super comfortable and very warm. Really couldn't be any better. Highly recommended.", "sentiment": "positive", "topics": {"1": "0.5232878", "2": "0.22073281", "6": "0.22575448"}}

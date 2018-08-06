@@ -1,0 +1,1 @@
+{"text": "Both of these were smaller than any 13 shoe I've ever worn, especially the right shoe, which is too small to even wear. The silver finish is worn off around the edge like they'd already been used. Not a good purchase", "sentiment": "positive", "topics": {"1": "0.20330366", "2": "0.2112377", "3": "0.21659137", "5": "0.110726856", "6": "0.2461974"}}

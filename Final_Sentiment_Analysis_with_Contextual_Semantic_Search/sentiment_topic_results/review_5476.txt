@@ -1,0 +1,1 @@
+{"text": "I am used to heavy T, I found this one to be a little thin.  It was ok, but will look for something more substantial next time.", "sentiment": "negative", "topics": {"0": "0.010240945", "1": "0.47197884", "2": "0.010239208", "3": "0.010222923", "4": "0.32219377", "5": "0.010224588", "6": "0.1648997"}}

@@ -1,0 +1,1 @@
+{"text": "I've bought a few bags of these.  Great feel and hey I even wear them a few days in a row.  Nice and comfy.", "sentiment": "negative", "topics": {"0": "0.5561332", "1": "0.010279794", "2": "0.09957332", "3": "0.30331406", "4": "0.010222136", "5": "0.010255576", "6": "0.010221834"}}

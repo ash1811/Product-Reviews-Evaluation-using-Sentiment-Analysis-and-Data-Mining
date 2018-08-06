@@ -1,0 +1,1 @@
+{"text": "Going by the picture, these shoes look like real leather- what I got was some type of fake leather that is really glossy. They seem like they'll hold up OK, but I would not have gotten them had I seen them in person.", "sentiment": "negative", "topics": {"0": "0.11231949", "2": "0.22564574", "3": "0.37663725", "4": "0.15569654", "5": "0.11719558"}}

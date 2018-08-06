@@ -1,0 +1,1 @@
+{"text": "Wear them 24/7 several weeks in a row and am very happy with the quality, the 7mm size, and of course-Amazon's bargains!Try the 7mm Yellow Gold Ball Earrings...you will love them too!", "sentiment": "positive", "topics": {"0": "0.12814856", "1": "0.16929676", "2": "0.054656774", "3": "0.17452265", "4": "0.10259414", "5": "0.21649526", "6": "0.15428585"}}

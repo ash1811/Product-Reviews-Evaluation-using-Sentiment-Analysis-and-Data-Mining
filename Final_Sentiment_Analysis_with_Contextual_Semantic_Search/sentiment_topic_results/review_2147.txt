@@ -1,0 +1,1 @@
+{"text": "Maybe I got the wrong size although I went by the chart they had.  I think is too tight around the legs and the waist rolls down a little bit.", "sentiment": "positive", "topics": {"0": "0.19343235", "1": "0.22255793", "2": "0.17471765", "3": "0.38398692"}}

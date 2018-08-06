@@ -1,0 +1,1 @@
+{"text": "This light weight bra will give you a natural shape and not dig into your shoulders.  While this bra will not keep you from bouncing while jogging, it is very comfy for routine daily life.", "sentiment": "negative", "topics": {"0": "0.21866865", "1": "0.10831606", "3": "0.44308266", "4": "0.2046892"}}

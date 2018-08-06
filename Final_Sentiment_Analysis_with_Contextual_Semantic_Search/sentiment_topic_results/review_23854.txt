@@ -1,0 +1,1 @@
+{"text": "They have a great fit. They have a great quality and feel. I wear them all the time and never any indication of foot soreness.", "sentiment": "negative", "topics": {"0": "0.0119754225", "1": "0.52044016", "2": "0.19394918", "3": "0.011949074", "4": "0.23776467", "5": "0.011958695", "6": "0.011962761"}}

@@ -1,0 +1,1 @@
+{"text": "Jansport backpacks are sturdy and comfortable.  I used this backpack for a daytrip, and it was comfortable, didn't shift around on my back, and was sturdy.", "sentiment": "positive", "topics": {"0": "0.01100191", "1": "0.51341444", "2": "0.3824011", "3": "0.060156465", "4": "0.010994355", "5": "0.011009276", "6": "0.011022443"}}

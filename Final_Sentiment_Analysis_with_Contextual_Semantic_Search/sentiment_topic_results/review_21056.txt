@@ -1,0 +1,1 @@
+{"text": "This is the best ever shoes that I have bought....fit perfectly on my feet... The black color is some shiny., but it's ok to use it with a tuxedo o formal dress.", "sentiment": "negative", "topics": {"1": "0.45340824", "2": "0.124309056", "3": "0.1844473", "4": "0.09525268", "5": "0.05877775", "6": "0.07425792"}}

@@ -1,0 +1,1 @@
+{"text": "This is well made sturdy silver with a quality clasp. My only real complaint is that it looks surprisingly small compared to the photo here.", "sentiment": "negative", "topics": {"0": "0.2810386", "1": "0.6711848"}}

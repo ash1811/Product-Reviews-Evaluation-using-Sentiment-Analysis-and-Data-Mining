@@ -1,0 +1,1 @@
+{"text": "I love my knees and my knees love these CW-X expert tights that support the knee and hip muscles - worth a try.", "sentiment": "positive", "topics": {"0": "0.20327201", "1": "0.44810486", "2": "0.010235692", "3": "0.01031585", "4": "0.21042407", "5": "0.10740679", "6": "0.010240755"}}

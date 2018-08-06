@@ -1,0 +1,1 @@
+{"text": "Bought this for a good friend. She is delighted to have it and put it on the next day when going walking around., The colors arealso excellent for her.  I am very pleased., Thank you.", "sentiment": "negative", "topics": {"0": "0.1195542", "2": "0.18418396", "4": "0.087821335", "5": "0.58452994"}}

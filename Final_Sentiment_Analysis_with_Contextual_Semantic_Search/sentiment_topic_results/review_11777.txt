@@ -1,0 +1,1 @@
+{"text": "These are great aqua shoes.  The best quality and very sturdy.  The provide good protection in older pools and on rough surfaces.", "sentiment": "positive", "topics": {"0": "0.010221666", "1": "0.5252026", "2": "0.22701904", "3": "0.010215581", "4": "0.09472305", "5": "0.122411944", "6": "0.010206151"}}

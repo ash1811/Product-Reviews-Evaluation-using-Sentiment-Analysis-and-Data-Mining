@@ -1,0 +1,1 @@
+{"text": "These are my favorite slippers.  At this point, I cannot imagine wearing any others, they are so comfortable.  I try to purchase them when I find a deal, so I will always have a pair handy.", "sentiment": "negative", "topics": {"0": "0.1250537", "1": "0.29833353", "2": "0.09491179", "3": "0.29381755", "5": "0.10828729", "6": "0.0706392"}}

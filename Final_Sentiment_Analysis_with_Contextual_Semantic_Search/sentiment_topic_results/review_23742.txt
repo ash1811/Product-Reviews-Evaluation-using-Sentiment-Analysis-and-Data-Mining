@@ -1,0 +1,1 @@
+{"text": "Love them! I bought two pairs ( that are 6 sunglasses!for me and others). I love them and get compliments on them.", "sentiment": "negative", "topics": {"0": "0.12952957", "1": "0.17367342", "2": "0.01102258", "3": "0.43252206", "4": "0.23123735", "5": "0.011017048", "6": "0.010997971"}}

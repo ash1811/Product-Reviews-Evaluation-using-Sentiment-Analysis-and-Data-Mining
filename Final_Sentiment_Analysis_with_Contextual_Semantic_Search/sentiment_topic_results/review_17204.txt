@@ -1,0 +1,1 @@
+{"text": "This is a roomy, comfortable shoe for the money. Just watch the size - it runs big. I wear 11.5, but in this shoe, 11 is plenty.", "sentiment": "positive", "topics": {"0": "0.010207713", "1": "0.40867835", "2": "0.24222831", "3": "0.16313301", "4": "0.15526", "5": "0.010256504", "6": "0.010236079"}}

@@ -1,0 +1,1 @@
+{"text": "easy purchase and fast delivery for this colorful and fun watch.  Great gift for Christmas or birthday, adult or child.", "sentiment": "negative", "topics": {"0": "0.21671239", "1": "0.010241889", "2": "0.16715084", "3": "0.09848316", "4": "0.010232972", "5": "0.21979104", "6": "0.2773877"}}

@@ -1,0 +1,1 @@
+{"text": "Got this for my 5 year old who learned to tell time.  This had taken a beating and still works perfectly. It's the love of his life and wears it 24/7.  Going strong after a year of beating and getting wet.  Cute and well made.", "sentiment": "negative", "topics": {"0": "0.084038846", "1": "0.5027455", "4": "0.082049996", "5": "0.3146223"}}

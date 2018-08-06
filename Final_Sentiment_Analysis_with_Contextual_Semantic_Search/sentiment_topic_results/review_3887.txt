@@ -1,0 +1,1 @@
+{"text": "This is a very simple but well made and easy to use passport holder.  Getting through customs with this holder was a breeze", "sentiment": "positive", "topics": {"0": "0.0119129075", "1": "0.5463255", "2": "0.011920691", "3": "0.01194223", "4": "0.011960995", "5": "0.21033907", "6": "0.1955986"}}

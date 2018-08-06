@@ -1,0 +1,1 @@
+{"text": "This slipper fits like a glove and is extremely comfortable.  Not only is it my &#34;go to&#34; slipper at home, but I even take it with me and  change into it on transatlantic flights.", "sentiment": "negative", "topics": {"1": "0.27410442", "2": "0.33783585", "4": "0.08291783", "6": "0.27830702"}}

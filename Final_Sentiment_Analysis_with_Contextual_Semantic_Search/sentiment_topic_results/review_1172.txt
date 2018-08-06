@@ -1,0 +1,1 @@
+{"text": "These earrings are so beautiful! I have wanted a pair like this for a long time when I accidentally stumbled upon them on Amazon. They have not left my ears. I wear them 24/7. I am so happy with them.", "sentiment": "negative", "topics": {"0": "0.62573606", "4": "0.18004262", "6": "0.16231446"}}

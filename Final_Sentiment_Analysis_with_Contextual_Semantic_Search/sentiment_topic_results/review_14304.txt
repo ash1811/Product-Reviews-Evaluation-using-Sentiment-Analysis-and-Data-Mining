@@ -1,0 +1,1 @@
+{"text": "These are the best flip flops I've ever purchased.  They form to my foot and feel great.  I lost a pair in Ecuador and ordered a new pair the minute I got home.  I wear them every day in the summer and my feet never get tired.", "sentiment": "negative", "topics": {"1": "0.27937204", "2": "0.06673539", "3": "0.28660047", "4": "0.18665299", "6": "0.17038628"}}

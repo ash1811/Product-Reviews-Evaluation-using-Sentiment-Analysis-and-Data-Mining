@@ -1,0 +1,1 @@
+{"text": "i did not expect it to be this small.  But it is very light.  I have yet to see its durability.", "sentiment": "negative", "topics": {"0": "0.17807436", "1": "0.020508885", "2": "0.020568335", "3": "0.020456307", "4": "0.44137913", "5": "0.2985936", "6": "0.020419333"}}

@@ -1,0 +1,1 @@
+{"text": "these are great socks.  they do not slide down like the socks i've purchased in the past and provide adequate comfort and coolness", "sentiment": "negative", "topics": {"0": "0.011003692", "1": "0.26908815", "2": "0.011024703", "3": "0.25461134", "4": "0.010999041", "5": "0.20589708", "6": "0.23737599"}}

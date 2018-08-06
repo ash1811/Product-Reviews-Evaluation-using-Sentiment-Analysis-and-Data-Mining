@@ -1,0 +1,1 @@
+{"text": "It's great to have a few caps on hand that don't advertise some sports team, beverage or company logo on there. All I want is to keep the sun out of my eyes so why should I be a walking advertisement to achieve that end?", "sentiment": "positive", "topics": {"0": "0.38316518", "1": "0.2129897", "4": "0.21868962", "6": "0.1624788"}}

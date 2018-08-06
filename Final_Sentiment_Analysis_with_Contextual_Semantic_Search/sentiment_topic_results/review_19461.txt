@@ -1,0 +1,1 @@
+{"text": "The Honey Ombre color looks even better in person. It's on the larger side for a wallet, but everything has a place and it's easy to keep organized.", "sentiment": "negative", "topics": {"1": "0.15828767", "2": "0.3404671", "3": "0.2654324", "6": "0.20891555"}}

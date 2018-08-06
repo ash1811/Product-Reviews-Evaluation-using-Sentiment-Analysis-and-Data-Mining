@@ -1,0 +1,1 @@
+{"text": "Great hat, it is durable, well made, and is very warm on the job site. I would highly recommend this to any contractor", "sentiment": "negative", "topics": {"0": "0.011006183", "1": "0.6631257", "2": "0.10530381", "3": "0.11485178", "4": "0.01102704", "5": "0.011013644", "6": "0.08367188"}}

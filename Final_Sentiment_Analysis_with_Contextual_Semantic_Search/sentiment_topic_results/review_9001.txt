@@ -1,0 +1,1 @@
+{"text": "The shoes look nice,conformity  and strong.my brother he in Cuba he need strong shoes.He is very happy and he like when sent the shoes to him he was happy.Thankyou", "sentiment": "negative", "topics": {"2": "0.17536606", "4": "0.11278785", "5": "0.45508638", "6": "0.2280287"}}

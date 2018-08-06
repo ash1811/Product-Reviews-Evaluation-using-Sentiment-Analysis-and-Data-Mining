@@ -1,0 +1,1 @@
+{"text": "I embraced my inner 80's with this.  Since it was pretty cold here for Halloween I decided to spark up a costume with these.  It worked and they kept my legs warm.", "sentiment": "positive", "topics": {"0": "0.22253911", "1": "0.28156802", "2": "0.20596573", "3": "0.17397134", "4": "0.099101484"}}

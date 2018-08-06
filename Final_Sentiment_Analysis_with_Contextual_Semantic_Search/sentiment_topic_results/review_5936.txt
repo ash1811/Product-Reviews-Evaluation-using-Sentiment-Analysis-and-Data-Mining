@@ -1,0 +1,1 @@
+{"text": "He's not a tiny guy so this was perfect!  Very heavy and is wearing well.  Would definitely buy more in other colors.", "sentiment": "positive", "topics": {"0": "0.011925954", "1": "0.4666663", "2": "0.011956958", "3": "0.09701169", "4": "0.21143347", "5": "0.011921212", "6": "0.18908444"}}

@@ -1,0 +1,1 @@
+{"text": "When I ordered this bra it was listed under Mastecomy bras.  I liked the way it looked and the fact it had the front opening, but when I got it, it was not what I thought I had ordered.  It was a regular bra and that's the only reason I sent it back.", "sentiment": "negative", "topics": {"0": "0.13493921", "1": "0.20137872", "3": "0.46874857", "6": "0.17538898"}}

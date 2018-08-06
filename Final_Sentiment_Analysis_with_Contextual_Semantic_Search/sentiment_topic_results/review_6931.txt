@@ -1,0 +1,1 @@
+{"text": "These are supposed to be the same Dickies carpenter jeans that sell at the big-box store, but they seem to be of higher quality. The fact that I paid a lower price and got free shipping makes me a happy customer!", "sentiment": "negative", "topics": {"0": "0.12927759", "1": "0.2320553", "3": "0.22135201", "4": "0.19886611", "5": "0.20477161"}}

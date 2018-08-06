@@ -1,0 +1,1 @@
+{"text": "They are Dockers, so you know it's good quality. Fit right as expected. Don't know anything about the pockets being too small, seem fine to me", "sentiment": "positive", "topics": {"0": "0.010245451", "1": "0.628655", "2": "0.20939256", "3": "0.010262979", "4": "0.120915465", "5": "0.010268964", "6": "0.010259566"}}

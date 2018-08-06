@@ -1,0 +1,1 @@
+{"text": "Love these boxers. They are very comfortable and relaxing to wear. I hope they continue to make these, I think I will stick to them.", "sentiment": "negative", "topics": {"0": "0.011048968", "1": "0.5665931", "2": "0.011018995", "3": "0.29338592", "4": "0.0110343285", "5": "0.011035006", "6": "0.09588369"}}

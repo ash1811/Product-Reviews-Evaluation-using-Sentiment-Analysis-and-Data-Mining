@@ -1,0 +1,1 @@
+{"text": "This is a good watch for the money! 2nd one in ten years, used for work in the concrete field. it does take a licking for sure. the band it comes with is bad! I just replaced mine with a leather band.", "sentiment": "negative", "topics": {"1": "0.43463352", "2": "0.27644274", "4": "0.26284373"}}

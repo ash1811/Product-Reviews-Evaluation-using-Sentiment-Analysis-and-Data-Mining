@@ -1,0 +1,1 @@
+{"text": "I purchased them because my sister had a pair and they were very SOFT to step in/on. After getting them, mine weren't anywhere close to as soft as hers, but they are still better then the average flip flop.", "sentiment": "positive", "topics": {"0": "0.095192015", "1": "0.29342926", "2": "0.082266316", "3": "0.5065202"}}

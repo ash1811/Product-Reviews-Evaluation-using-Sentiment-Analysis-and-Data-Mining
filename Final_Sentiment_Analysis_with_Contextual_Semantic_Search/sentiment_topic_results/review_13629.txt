@@ -1,0 +1,1 @@
+{"text": "Stylish, elegant Top Sider that fits well, is very comfortable and goes with just about any casual or &#34;dressy casual&#34; attire. Made from leather, I expect to get my money's worth from this shoe.", "sentiment": "negative", "topics": {"1": "0.19673547", "2": "0.12782864", "3": "0.19063398", "5": "0.2612076", "6": "0.20928815"}}

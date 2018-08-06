@@ -1,0 +1,1 @@
+{"text": "I didn't care for this product at all. It is not puffy enough to secure my heel and the adhesive is prone to falling out. I had to stick another cushion over this one for it to be substantial.", "sentiment": "negative", "topics": {"0": "0.09280723", "2": "0.24169153", "3": "0.184352", "4": "0.18044937", "5": "0.1828518", "6": "0.10940587"}}

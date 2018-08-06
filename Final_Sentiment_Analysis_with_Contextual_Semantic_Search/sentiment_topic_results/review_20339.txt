@@ -1,0 +1,1 @@
+{"text": "It's a fabulous top that doesn't look like a nursing top, it just runs a little small so order a size up from what you think you need.", "sentiment": "negative", "topics": {"0": "0.23970763", "1": "0.010259475", "2": "0.0102162445", "3": "0.49569008", "4": "0.010207925", "5": "0.010234641", "6": "0.22368401"}}

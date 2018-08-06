@@ -1,0 +1,1 @@
+{"text": "He picked it out and it has worked well for him. He managed not to destroy it so it must be tough.", "sentiment": "positive", "topics": {"0": "0.015878323", "1": "0.36697683", "2": "0.32135096", "3": "0.24800736", "4": "0.015885046", "5": "0.015920259", "6": "0.015981192"}}

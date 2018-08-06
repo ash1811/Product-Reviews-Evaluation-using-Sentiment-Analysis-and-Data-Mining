@@ -1,0 +1,1 @@
+{"text": "These are wonderful panties. They are very sheer, though, so don't expect to wear these dozens of times like your cotton Hanes. High waisted but high thigh, I love them!", "sentiment": "negative", "topics": {"3": "0.21826813", "4": "0.19238347", "5": "0.22341102", "6": "0.3420116"}}

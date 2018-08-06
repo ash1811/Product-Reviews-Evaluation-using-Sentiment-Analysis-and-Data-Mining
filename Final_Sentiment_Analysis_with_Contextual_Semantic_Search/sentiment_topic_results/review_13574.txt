@@ -1,0 +1,1 @@
+{"text": "my hubby loves these flip flops from skechers. his last pair lasted two summers...even got wet several times. ive had several things from skechers and every pair fit great and wore well. great product", "sentiment": "negative", "topics": {"1": "0.3220385", "2": "0.053258423", "3": "0.30359897", "5": "0.30519405"}}

@@ -1,0 +1,1 @@
+{"text": "The fit was pretty good for my 8 narrow foot. I got a great deal on Amazon, but in the end I decided they looked too clunky. So, reluctantly, they went back.", "sentiment": "negative", "topics": {"0": "0.14466493", "1": "0.5174859", "2": "0.1058615", "3": "0.08718798", "4": "0.1297108"}}

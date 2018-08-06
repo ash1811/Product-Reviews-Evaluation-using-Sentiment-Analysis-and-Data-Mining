@@ -1,0 +1,1 @@
+{"text": "i have worn these socks for over 12 years . maybe even longer!!! I go through about 8 pair a year.!!! I will buy no other sock.", "sentiment": "negative", "topics": {"0": "0.010242941", "1": "0.32890943", "2": "0.010226362", "3": "0.27232188", "4": "0.010216981", "5": "0.27542576", "6": "0.092656605"}}

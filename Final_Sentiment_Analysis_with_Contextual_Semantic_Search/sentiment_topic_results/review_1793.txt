@@ -1,0 +1,1 @@
+{"text": "We got these to use overnight for potty training..They wash and dry nice too..also they are comfy and absorbent--unlike just wearing regular boys briefs to bed....we used them for a few months and now dont need them", "sentiment": "negative", "topics": {"1": "0.18251276", "2": "0.21714562", "3": "0.35643172", "4": "0.13317306", "6": "0.09709261"}}

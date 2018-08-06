@@ -1,0 +1,1 @@
+{"text": "If you like some extra room at the end of your flip flops, I'd order a size up. My husband wears a size 11 and we ordered two other sizes before this. Give them time to break in too!", "sentiment": "negative", "topics": {"0": "0.12657784", "1": "0.12270971", "2": "0.16459326", "3": "0.4594785", "4": "0.11417293"}}

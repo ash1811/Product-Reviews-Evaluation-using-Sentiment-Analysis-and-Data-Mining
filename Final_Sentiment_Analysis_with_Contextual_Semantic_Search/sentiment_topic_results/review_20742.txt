@@ -1,0 +1,1 @@
+{"text": "Aaahhhhh finally found an A shirt that fits great. I am a big boy 6' 300lbs so its kind of hard to find these kind of products that fit. recommend a good buy", "sentiment": "positive", "topics": {"0": "0.09137188", "1": "0.47767624", "2": "0.08548437", "5": "0.32400453"}}

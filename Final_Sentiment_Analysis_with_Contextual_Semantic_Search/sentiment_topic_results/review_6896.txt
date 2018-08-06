@@ -1,0 +1,1 @@
+{"text": "It does its job, I work outside and it keeps me warm on the days where its in the 40's. I thought it was the thermal kind like I have already but it comfy", "sentiment": "negative", "topics": {"0": "0.010234186", "1": "0.23014031", "2": "0.2768807", "3": "0.36294433", "4": "0.0992658", "5": "0.0102687795", "6": "0.010265871"}}

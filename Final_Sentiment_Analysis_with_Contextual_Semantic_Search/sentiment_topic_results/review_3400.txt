@@ -1,0 +1,1 @@
+{"text": "Really comfortable and fits great. In the summer weather very very light weight and good to wear.Will order in more colors.", "sentiment": "negative", "topics": {"0": "0.13387568", "1": "0.7234207", "2": "0.011002558", "3": "0.09868265", "4": "0.010998777", "5": "0.011013758", "6": "0.011005866"}}

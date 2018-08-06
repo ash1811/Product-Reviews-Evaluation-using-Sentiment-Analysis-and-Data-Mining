@@ -1,0 +1,1 @@
+{"text": "Works as advertised. Fixed our leather couch after I got out of the hot tub and forgot to put a towel behind my wet hair.", "sentiment": "positive", "topics": {"0": "0.13705558", "1": "0.21196589", "2": "0.18788306", "3": "0.11618403", "4": "0.2127952", "6": "0.124566466"}}

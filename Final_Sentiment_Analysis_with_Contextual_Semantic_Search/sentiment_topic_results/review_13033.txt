@@ -1,0 +1,1 @@
+{"text": "It's a good Bandana, I washed it and it kept it's shape. I will be using it for camping to wrap around my head. I think you will be happy with it, it kept it's color well, and did not fade after a wash.", "sentiment": "negative", "topics": {"0": "0.06279945", "1": "0.75590366", "2": "0.15116493"}}

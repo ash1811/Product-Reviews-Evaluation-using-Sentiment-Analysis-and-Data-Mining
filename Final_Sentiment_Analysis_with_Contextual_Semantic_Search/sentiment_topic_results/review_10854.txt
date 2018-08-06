@@ -1,0 +1,1 @@
+{"text": "These are the greatest slippers I have ever purchased. The support and comfort is outstanding. I have washed both pairs a few times and they come out like new. Worth every penny and then some!!!", "sentiment": "negative", "topics": {"1": "0.42792988", "2": "0.077095", "3": "0.1436781", "5": "0.20609523", "6": "0.12928744"}}

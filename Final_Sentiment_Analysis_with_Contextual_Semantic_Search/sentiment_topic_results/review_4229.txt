@@ -1,0 +1,1 @@
+{"text": "We have been using these shorts for months. They have held up very well in the washer and dryer. They were a good price and I didn't expect much. I am very pleased!", "sentiment": "negative", "topics": {"0": "0.3161243", "1": "0.49645373", "2": "0.011004945", "3": "0.011014436", "4": "0.011015596", "5": "0.14339156", "6": "0.010995468"}}

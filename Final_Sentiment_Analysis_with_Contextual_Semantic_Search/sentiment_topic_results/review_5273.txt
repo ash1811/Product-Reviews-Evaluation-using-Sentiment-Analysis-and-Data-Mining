@@ -1,0 +1,1 @@
+{"text": "I've gotten these slippers several times over the past several years, and they haven't changed. I like how light and comfortable they feel.", "sentiment": "negative", "topics": {"0": "0.24629818", "1": "0.13362356", "2": "0.010227361", "3": "0.2824472", "4": "0.120931745", "5": "0.010230402", "6": "0.19624157"}}

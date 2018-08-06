@@ -1,0 +1,1 @@
+{"text": "Bought these as a gift for my sister and she loved them.. Smokey charcoal grey color.  Not super long but just right for boots.", "sentiment": "negative", "topics": {"0": "0.22134061", "1": "0.43112555", "2": "0.01027569", "3": "0.010302449", "4": "0.088040955", "5": "0.22870062", "6": "0.010214134"}}

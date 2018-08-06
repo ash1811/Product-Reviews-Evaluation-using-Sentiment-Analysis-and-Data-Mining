@@ -1,0 +1,1 @@
+{"text": "Beautiful! My daughter loves them! They fit her just right! They are perfect in every way, and don't look or feel like plastic. They are true to their color in the picture. What a great buy!", "sentiment": "negative", "topics": {"1": "0.5106063", "3": "0.20534718", "4": "0.25380635"}}

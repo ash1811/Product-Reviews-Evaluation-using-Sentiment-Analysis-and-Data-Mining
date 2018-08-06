@@ -1,0 +1,1 @@
+{"text": "I loved buying these jeans, the color and cut of the pants make quite the male figure, buy them for my boyfriend and I loved", "sentiment": "negative", "topics": {"0": "0.010227091", "1": "0.6422861", "2": "0.09676301", "3": "0.010292282", "4": "0.010208626", "5": "0.21998647", "6": "0.0102364365"}}

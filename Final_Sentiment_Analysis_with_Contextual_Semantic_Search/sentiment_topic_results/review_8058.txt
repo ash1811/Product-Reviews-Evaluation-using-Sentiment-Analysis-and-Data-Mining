@@ -1,0 +1,1 @@
+{"text": "Nice belt but the buckle shows sign of rusting. I was dissapointed when I saw theinitial stage of rusting on the buckle. Decided to keep it so I do not have to hassle with shipping & handling.", "sentiment": "negative", "topics": {"0": "0.25990736", "1": "0.17896801", "2": "0.29392987", "4": "0.2433532"}}

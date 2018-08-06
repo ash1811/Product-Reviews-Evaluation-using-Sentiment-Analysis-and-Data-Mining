@@ -1,0 +1,1 @@
+{"text": "It's ok for the price, but I found the cups to be a bit big. Otherwise, it is nice and long so you don't get a weird line where it ends.", "sentiment": "negative", "topics": {"0": "0.010225428", "1": "0.6756941", "2": "0.010240226", "3": "0.17481397", "4": "0.01024831", "5": "0.010238565", "6": "0.10853945"}}

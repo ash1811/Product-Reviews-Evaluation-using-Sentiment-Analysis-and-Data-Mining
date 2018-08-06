@@ -1,0 +1,1 @@
+{"text": "super fit  super quality !!!after i received thethe  jeans i told to my frends how nice they are, and my friends bought them too. we ordered 3 more jeans , they are very contented with their purchease!", "sentiment": "negative", "topics": {"1": "0.4215756", "2": "0.07796622", "3": "0.07188927", "4": "0.053753775", "5": "0.19843313", "6": "0.1695462"}}

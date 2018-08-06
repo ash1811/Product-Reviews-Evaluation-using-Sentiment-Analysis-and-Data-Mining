@@ -1,0 +1,1 @@
+{"text": "I would purchase these shoes again.  I would purchase these shoes every color if I could afford them. Take a chance on them.", "sentiment": "negative", "topics": {"1": "0.4550215", "2": "0.33272052", "5": "0.17640528"}}

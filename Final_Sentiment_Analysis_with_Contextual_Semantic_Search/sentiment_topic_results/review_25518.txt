@@ -1,0 +1,1 @@
+{"text": "I think these did exactly what I wanted them to do. I would buy them again. They are easy to use. I am hoping the adhesive lasts since I have only used them once.", "sentiment": "negative", "topics": {"0": "0.1345809", "1": "0.19020618", "2": "0.114999294", "4": "0.20102388", "5": "0.3412223"}}

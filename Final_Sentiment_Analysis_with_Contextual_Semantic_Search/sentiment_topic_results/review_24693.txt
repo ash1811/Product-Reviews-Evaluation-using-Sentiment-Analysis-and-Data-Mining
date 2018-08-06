@@ -1,0 +1,1 @@
+{"text": "Bought these slippers and wear it all the time. These sandals are worth every cent. They are very comfortable. It arrived on time.", "sentiment": "negative", "topics": {"0": "0.3070907", "1": "0.22101957", "2": "0.10592473", "3": "0.011917618", "4": "0.011927095", "5": "0.23479454", "6": "0.10732577"}}

@@ -1,0 +1,1 @@
+{"text": "This was a pretty little necklace for my daughter. She loves it, and I like that I know she is wearing real silver instead of the junky play jewelry.", "sentiment": "negative", "topics": {"0": "0.37539056", "1": "0.47403362", "2": "0.1146881"}}

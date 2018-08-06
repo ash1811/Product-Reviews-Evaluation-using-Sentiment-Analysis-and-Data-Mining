@@ -1,0 +1,1 @@
+{"text": "This sweatshirt was great quality for the price ,it's hard to find 4x tall and it fit great on my 6'7 husband.I will definately be ordering more.", "sentiment": "positive", "topics": {"0": "0.34177265", "1": "0.44568753", "2": "0.17883773"}}

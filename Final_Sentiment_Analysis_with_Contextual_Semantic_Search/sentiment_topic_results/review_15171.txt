@@ -1,0 +1,1 @@
+{"text": "It's hard to have it stay on.  It's a bit heavy so it didn't help when its a bit big", "sentiment": "negative", "topics": {"0": "0.16090864", "1": "0.5104499", "2": "0.015879605", "3": "0.015955612", "4": "0.01595169", "5": "0.015887553", "6": "0.26496702"}}

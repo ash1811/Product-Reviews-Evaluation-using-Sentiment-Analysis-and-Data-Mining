@@ -1,0 +1,1 @@
+{"text": "These are very comfortable for zumba.  The low tread works on all floors and the hightop is good for no rolling your ankle.", "sentiment": "positive", "topics": {"0": "0.11737133", "1": "0.30277115", "2": "0.11311246", "3": "0.19707634", "4": "0.15642408", "5": "0.10025094", "6": "0.012993681"}}

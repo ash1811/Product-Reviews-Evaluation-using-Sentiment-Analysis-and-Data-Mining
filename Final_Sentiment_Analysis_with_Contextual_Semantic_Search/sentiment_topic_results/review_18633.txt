@@ -1,0 +1,1 @@
+{"text": "I don't know what I was expecting but what I got was not it. I personally am not a fan. The material is super thin and it feels like a cheap tablecloth around my neck and face.", "sentiment": "negative", "topics": {"0": "0.29774997", "2": "0.20847875", "4": "0.11163638", "6": "0.35682923"}}

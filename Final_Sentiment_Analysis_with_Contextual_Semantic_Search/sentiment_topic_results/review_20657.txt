@@ -1,0 +1,1 @@
+{"text": "The girl's love it.  They can tell time so much easier with hands the same color as the numbers  The little butterfly for a second hand adds the finishing touch to a nice first timepiece.", "sentiment": "positive", "topics": {"0": "0.108035736", "1": "0.31524", "2": "0.091458715", "4": "0.31474486", "6": "0.15687361"}}

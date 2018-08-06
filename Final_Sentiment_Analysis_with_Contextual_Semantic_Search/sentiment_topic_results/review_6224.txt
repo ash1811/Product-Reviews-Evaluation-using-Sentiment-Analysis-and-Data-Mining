@@ -1,0 +1,1 @@
+{"text": "This lock does the job when I go to the gym. It feels pretty cheap though. They dont make them like they used too.I am more concerned with not unlocking vs someone breaking it.", "sentiment": "positive", "topics": {"0": "0.29726523", "1": "0.1359699", "2": "0.22237507", "3": "0.07005744", "4": "0.26001415"}}

@@ -1,0 +1,1 @@
+{"text": "The Item was great it was soft and looked great the only thing was the opening didnt open far enough to the back (rubed a little but was still great. would buy another.", "sentiment": "negative", "topics": {"1": "0.60870135", "3": "0.2873369", "6": "0.07532178"}}

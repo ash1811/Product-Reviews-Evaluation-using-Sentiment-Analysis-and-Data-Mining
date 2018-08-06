@@ -1,0 +1,1 @@
+{"text": "order this before school started back and my daughter has kept it in good condition this is a heavy duty back pack with good support for a high school kid she loves it will be getting more", "sentiment": "negative", "topics": {"1": "0.34640902", "2": "0.07891302", "4": "0.06922825", "5": "0.39269108", "6": "0.09838812"}}

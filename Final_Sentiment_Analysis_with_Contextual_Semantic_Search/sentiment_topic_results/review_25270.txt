@@ -1,0 +1,1 @@
+{"text": "these have good ventilation. and are light for walking. the wide width makes them comfortable across the toe which makes for a good walking shoe", "sentiment": "negative", "topics": {"1": "0.48968732", "2": "0.09367691", "3": "0.20461531", "5": "0.1834081"}}

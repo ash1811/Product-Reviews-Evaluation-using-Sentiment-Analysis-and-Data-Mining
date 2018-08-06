@@ -1,0 +1,1 @@
+{"text": "Some slimy material.  Unable to wear.  It is AWFUL.  How can it be advertised as cotton when it is NOT?", "sentiment": "negative", "topics": {"0": "0.015964651", "1": "0.6729104", "2": "0.015910834", "3": "0.12690955", "4": "0.015883815", "5": "0.015925046", "6": "0.13649568"}}

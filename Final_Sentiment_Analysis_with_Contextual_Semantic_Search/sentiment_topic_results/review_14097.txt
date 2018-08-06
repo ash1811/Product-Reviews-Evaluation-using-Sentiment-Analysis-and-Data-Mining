@@ -1,0 +1,1 @@
+{"text": "The pins do fall out when the unit is turned upside down (the best way to open the case).  You get what you pay for (in this case, very little).  It does work, though, and will pay for itself in only a few battery changes.", "sentiment": "positive", "topics": {"1": "0.311457", "2": "0.24010141", "4": "0.0848086", "5": "0.29269862", "6": "0.057272714"}}

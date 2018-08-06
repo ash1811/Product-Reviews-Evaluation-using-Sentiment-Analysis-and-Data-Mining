@@ -1,0 +1,1 @@
+{"text": "Used in and Easter program at church. It worked out very well. A good piece to add to your costume collection.", "sentiment": "negative", "topics": {"0": "0.3581607", "1": "0.2544165", "2": "0.011941916", "3": "0.011918171", "4": "0.13411385", "5": "0.011930663", "6": "0.21751821"}}

@@ -1,0 +1,1 @@
+{"text": "Great for baby on a chilly night and excellent to sleep in good quality and holds up in the wash worth the purchase", "sentiment": "negative", "topics": {"0": "0.011003924", "1": "0.63338816", "2": "0.100928016", "3": "0.10760066", "4": "0.12504382", "5": "0.011025939", "6": "0.011009434"}}

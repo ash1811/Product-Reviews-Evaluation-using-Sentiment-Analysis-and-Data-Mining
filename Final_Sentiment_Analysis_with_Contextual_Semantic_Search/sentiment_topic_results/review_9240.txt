@@ -1,0 +1,1 @@
+{"text": "My husband has sensitive feet, these did the trick and were the perfect Christmas gift. He is wearing them without comment, a good thing. Size is right on, well made, warm lining and secure no slip sole. Happy that I ordered them.", "sentiment": "negative", "topics": {"0": "0.23655051", "1": "0.22383244", "2": "0.061361875", "3": "0.32644135", "4": "0.14079688"}}

@@ -1,0 +1,1 @@
+{"text": "Like the closed bottom, expandable waist, and the light grey color. Lightweight and fit as requested is very satisfactory and as requested.", "sentiment": "positive", "topics": {"0": "0.13567732", "1": "0.15929164", "2": "0.2213345", "3": "0.010205453", "4": "0.08343146", "5": "0.22034645", "6": "0.16971318"}}

@@ -1,0 +1,1 @@
+{"text": "Received the chain in about a week. Very nicely packaged to prevent damage. The chain was exactly what I was looking for.", "sentiment": "negative", "topics": {"0": "0.2612016", "1": "0.0120555805", "2": "0.0119146025", "3": "0.1459187", "4": "0.2394696", "5": "0.11237794", "6": "0.217062"}}

@@ -1,0 +1,1 @@
+{"text": "Love this tote bag!  It's nylon but it looks and feels like canvas, great color (purchased light pink/black), roomy, light weight, has a zipper closure on top, can be used as a handbag and is a great price. Thinking of purchasing another.", "sentiment": "negative", "topics": {"0": "0.1646257", "1": "0.5219531", "2": "0.16702127", "3": "0.13046199"}}

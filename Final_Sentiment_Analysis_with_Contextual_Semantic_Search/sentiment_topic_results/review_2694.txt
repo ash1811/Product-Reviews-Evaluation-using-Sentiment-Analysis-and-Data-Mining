@@ -1,0 +1,1 @@
+{"text": "I bought this for my husband for a belated fathers day gift. He's absolutely in love with it and it looks amazing on him! We are both thrilled with this project!", "sentiment": "negative", "topics": {"0": "0.118960865", "1": "0.13105112", "2": "0.1136879", "3": "0.14831883", "4": "0.21053238", "5": "0.16458093", "6": "0.11286794"}}

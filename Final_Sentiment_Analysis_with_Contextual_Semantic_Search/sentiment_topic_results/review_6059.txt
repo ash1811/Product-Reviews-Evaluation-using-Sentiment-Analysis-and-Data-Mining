@@ -1,0 +1,1 @@
+{"text": "Bought these for my sister for Christmas. She loves them! Great sole that won't break down quickly and warm, soft, plushy lining.", "sentiment": "positive", "topics": {"0": "0.16108374", "1": "0.17689888", "2": "0.11133773", "3": "0.400615", "4": "0.12958454", "5": "0.010247382", "6": "0.010232692"}}

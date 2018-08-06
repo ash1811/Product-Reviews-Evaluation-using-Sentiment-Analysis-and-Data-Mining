@@ -1,0 +1,1 @@
+{"text": "Cup size is off and the wide band t the bottom rolls. I returned it to Amazon and kept on searching.", "sentiment": "negative", "topics": {"0": "0.013035575", "1": "0.18538356", "2": "0.013018569", "3": "0.16739053", "4": "0.28518453", "5": "0.3229477", "6": "0.013039486"}}

@@ -1,0 +1,1 @@
+{"text": "This is an OK hat, although I'm not sure I like it.  It definitely makes me feel hotter when I wear it, despite that it keeps the sun off.  It also just seems slightly heavy to me.", "sentiment": "negative", "topics": {"0": "0.20215341", "2": "0.07469724", "3": "0.43774182", "4": "0.062897995", "5": "0.068443246", "6": "0.14780888"}}

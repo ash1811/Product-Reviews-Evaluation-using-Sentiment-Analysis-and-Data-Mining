@@ -1,0 +1,1 @@
+{"text": "These jeans wear exceptionally well, look nice and still fit after washing.  Have bought several pair for my son, he won't wear any other brand (used to wear only Levi's).", "sentiment": "negative", "topics": {"1": "0.58747804", "3": "0.16090411", "5": "0.14980751", "6": "0.07917456"}}

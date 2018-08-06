@@ -1,0 +1,1 @@
+{"text": "Item arrived when promised, and was well packaged. I like the feel and fit of these pants. They are well made, are comfortable, and look good. They are prone for lint, so have the lint brush ready.", "sentiment": "negative", "topics": {"0": "0.2921041", "1": "0.3524596", "4": "0.061865658", "6": "0.27211374"}}

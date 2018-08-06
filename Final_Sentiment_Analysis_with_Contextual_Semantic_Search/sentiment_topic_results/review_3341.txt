@@ -1,0 +1,1 @@
+{"text": "size 46c, usually have trouble finding a pretty, well fitting, supportive and comfortable bra.  This one does it all. Only suggestion would be a slightly narrower strap.", "sentiment": "positive", "topics": {"1": "0.14106485", "2": "0.22940071", "3": "0.23739117", "4": "0.07396112", "5": "0.22165005", "6": "0.08897647"}}

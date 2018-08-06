@@ -1,0 +1,1 @@
+{"text": "Perfect fit for my big guy. Great color on the jeans and they washed well every time. He is very happy and we would purchase more in e future.", "sentiment": "negative", "topics": {"1": "0.59656096", "4": "0.2164885", "5": "0.07940923", "6": "0.08225304"}}

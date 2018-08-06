@@ -1,0 +1,1 @@
+{"text": "i like the beefy tees, they feel thicker then other tees. i smoke so the pocket is handy in the winter i put thermals under,in summer i wear as is. they hold up great to washing and minumal shrinkage", "sentiment": "negative", "topics": {"1": "0.23485798", "2": "0.077585936", "3": "0.15006664", "4": "0.34853142", "6": "0.17593037"}}

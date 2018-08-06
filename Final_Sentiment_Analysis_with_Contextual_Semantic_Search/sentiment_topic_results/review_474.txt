@@ -1,0 +1,1 @@
+{"text": "These jeans are nice looking, but they fit smaller than they should, they gather too small at the bottom of the leg; they don't look like the picture at the bottom.", "sentiment": "negative", "topics": {"1": "0.4312348", "3": "0.18583468", "5": "0.24684526", "6": "0.10746838"}}

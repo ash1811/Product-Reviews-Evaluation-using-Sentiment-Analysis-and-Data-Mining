@@ -1,0 +1,1 @@
+{"text": "well built, very sturdy I am very impressed and now I want the purple ones also.  Good job exactly what I wanted", "sentiment": "positive", "topics": {"0": "0.13810438", "1": "0.52464974", "2": "0.011043518", "3": "0.011003556", "4": "0.2931925", "5": "0.011008289", "6": "0.010998046"}}

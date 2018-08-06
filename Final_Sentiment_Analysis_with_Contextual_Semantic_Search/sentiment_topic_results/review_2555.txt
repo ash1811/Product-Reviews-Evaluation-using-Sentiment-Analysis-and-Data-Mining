@@ -1,0 +1,1 @@
+{"text": "I got this for my Mom when my sister passed away. Not a day goes by that we don't miss her & this was EXACTLY the item we were looking for. It was such a struggle to find, until i found it here.", "sentiment": "negative", "topics": {"0": "0.23027702", "1": "0.21945001", "2": "0.07564181", "4": "0.22471678", "6": "0.23305063"}}

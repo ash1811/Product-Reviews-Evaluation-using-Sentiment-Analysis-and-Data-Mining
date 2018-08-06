@@ -1,0 +1,1 @@
+{"text": "I have purchased other heel liners in the past (the gel kind) which do not work as well as these.  The foam on these liners really help my feet from slipping out of my shoes.", "sentiment": "positive", "topics": {"0": "0.13730113", "1": "0.13432717", "2": "0.43280736", "3": "0.15183091", "6": "0.12775582"}}

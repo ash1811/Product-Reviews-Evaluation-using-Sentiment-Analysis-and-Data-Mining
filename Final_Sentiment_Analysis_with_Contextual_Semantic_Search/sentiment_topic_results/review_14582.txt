@@ -1,0 +1,1 @@
+{"text": "These are extremely lightweight. While some may find this attractive, I do not. They are exactly as advertised, and reasonable for the money.", "sentiment": "positive", "topics": {"0": "0.30534688", "1": "0.013038243", "2": "0.013035877", "3": "0.013050119", "4": "0.013018433", "5": "0.38819432", "6": "0.25431612"}}

@@ -1,0 +1,1 @@
+{"text": "This is an excellent quality t-shirt, but the large is more like a 2XL.  My boyfriend can't use it, so I have a new nightgown.  The fabric is really nice, thick and soft.", "sentiment": "positive", "topics": {"1": "0.35350567", "2": "0.08902088", "3": "0.16150771", "5": "0.17650692", "6": "0.20354539"}}

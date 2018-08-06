@@ -1,0 +1,1 @@
+{"text": "I'm an amature at costume makeup, but on the bright side the makeup didn't cause a reaction to my skin. I have sensitive skin, and applying and removal wasn't defficult at all.", "sentiment": "negative", "topics": {"0": "0.39468592", "2": "0.2890184", "5": "0.22940384", "6": "0.061637703"}}

@@ -1,0 +1,1 @@
+{"text": "These are reasonable,  comfortable, but much, much too long.  They come down well below my knees, which is not the way they're described.  This makes them less comfortable, and I'll have to return them or cut them off.", "sentiment": "negative", "topics": {"0": "0.0670416", "1": "0.5102507", "3": "0.18138683", "4": "0.08176169", "6": "0.14448619"}}

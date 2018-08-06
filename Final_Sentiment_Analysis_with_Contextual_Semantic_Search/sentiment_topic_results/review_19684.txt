@@ -1,0 +1,1 @@
+{"text": "Not as well made as I thought it would be and the color was off some minor pulls in the material", "sentiment": "negative", "topics": {"0": "0.015913917", "1": "0.5788119", "2": "0.341634", "3": "0.015929269", "4": "0.015900692", "5": "0.01590687", "6": "0.015903393"}}

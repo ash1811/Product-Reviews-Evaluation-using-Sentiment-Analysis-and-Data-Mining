@@ -1,0 +1,1 @@
+{"text": "When I bought this top I expected just another so-so quality tank, but I was really pleasantly surprised. Very comfortable (do make sure you get the correct cup size), easy to maintain and is flattering to the postpartum figure :)", "sentiment": "negative", "topics": {"1": "0.31614497", "2": "0.13758732", "3": "0.27135798", "6": "0.25694528"}}

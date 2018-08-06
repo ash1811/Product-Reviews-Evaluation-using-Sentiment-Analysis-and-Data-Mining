@@ -1,0 +1,1 @@
+{"text": "This balaclava is pretty warm. I'm sure a fleece lined one would be warmer but for the price I won't complain. Didn't perform too badly in brisk winds either. I'd recommend them.", "sentiment": "negative", "topics": {"0": "0.104781866", "1": "0.22554713", "2": "0.2788237", "3": "0.26907507", "6": "0.108092345"}}

@@ -1,0 +1,1 @@
+{"text": "I wear white hanes for past 10 years. Just can not beat quality and price.Feet are not getting smelly and stay dry long. Confortable and enjoyable.Now I found them in colours - so I can look nicer and get them to match some more outfits.", "sentiment": "positive", "topics": {"0": "0.12790664", "1": "0.3236483", "3": "0.22148772", "4": "0.18081695", "5": "0.13415231"}}

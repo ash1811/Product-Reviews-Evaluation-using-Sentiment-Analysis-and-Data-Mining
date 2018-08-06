@@ -1,0 +1,1 @@
+{"text": "A little delicate and tight around the top but not by much.  For the price I am satisfied with this purchase.", "sentiment": "negative", "topics": {"0": "0.014312759", "1": "0.6114108", "2": "0.014297957", "3": "0.20095268", "4": "0.014308457", "5": "0.014320592", "6": "0.1303968"}}

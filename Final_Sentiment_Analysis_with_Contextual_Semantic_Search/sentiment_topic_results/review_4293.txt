@@ -1,0 +1,1 @@
+{"text": "Had these for 6 months and they are my favourite jeans.They fit well & show little signs of wear. Crotch is not to baggy for larger size men. material & workmanship is good.", "sentiment": "negative", "topics": {"0": "0.22301234", "1": "0.3978825", "2": "0.09134592", "4": "0.0847736", "5": "0.10128815", "6": "0.094135225"}}

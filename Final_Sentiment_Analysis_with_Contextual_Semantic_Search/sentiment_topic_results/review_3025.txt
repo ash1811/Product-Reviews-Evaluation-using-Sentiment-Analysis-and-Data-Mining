@@ -1,0 +1,1 @@
+{"text": "My boys go through shoes like water, but this is one sturdy shoe!  Strong, durable, really nice looking and comfortable.  Would definitely buy again!", "sentiment": "positive", "topics": {"1": "0.49333125", "2": "0.30701402", "3": "0.08235679", "4": "0.094676286"}}

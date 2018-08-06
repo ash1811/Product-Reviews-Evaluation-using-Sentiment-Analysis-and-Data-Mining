@@ -1,0 +1,1 @@
+{"text": "they were too large, so I sent them back for a refund with the intention of purchasing another pair. the originals were only $87  , but amazon wanted over $ 100 for the next pair , and that is just too much money for a pair of  shoes made in another country", "sentiment": "negative", "topics": {"1": "0.4076805", "2": "0.19337267", "3": "0.26614922", "4": "0.11409817"}}

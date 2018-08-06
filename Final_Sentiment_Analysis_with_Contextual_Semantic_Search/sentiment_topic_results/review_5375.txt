@@ -1,0 +1,1 @@
+{"text": "Made in Mexico. Good quality to be honest, but the size is much too big for me. So I can say the &#34;Carhartt&#34; should always got a one size samller one if u want.", "sentiment": "negative", "topics": {"1": "0.31113818", "2": "0.3094595", "6": "0.35066482"}}

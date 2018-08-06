@@ -1,0 +1,1 @@
+{"text": "This work perfect, they are not to thick nor to thin, and they diffently help prevent sores on the back of feet.", "sentiment": "positive", "topics": {"0": "0.1480797", "1": "0.30390394", "2": "0.012996662", "3": "0.013019789", "4": "0.21518707", "5": "0.1722936", "6": "0.13451923"}}

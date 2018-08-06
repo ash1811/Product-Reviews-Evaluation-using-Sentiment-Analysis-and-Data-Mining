@@ -1,0 +1,1 @@
+{"text": "I went On line christmas shopping  early  for my husband  (  a month early  )  &  he loves this & the color  & he loves green,  Its worth the price  & it will be nice for  summer  camping trips,", "sentiment": "positive", "topics": {"0": "0.095308416", "1": "0.15588161", "2": "0.19744405", "4": "0.19109993", "5": "0.34519362"}}

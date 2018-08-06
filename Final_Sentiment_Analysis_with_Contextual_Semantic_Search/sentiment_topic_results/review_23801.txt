@@ -1,0 +1,1 @@
+{"text": "I'm very happy with this purchase. The postage to Australia was quick. I love the shoes and the service was A++", "sentiment": "negative", "topics": {"0": "0.013016197", "1": "0.013027712", "2": "0.10904071", "3": "0.1688038", "4": "0.52999914", "5": "0.15309553", "6": "0.013016909"}}

@@ -1,0 +1,1 @@
+{"text": "This is your typical sports short, great price and happy to have the pockets.Champion is consistent with it's shorts.", "sentiment": "negative", "topics": {"0": "0.4906866", "1": "0.0143859135", "2": "0.014366354", "3": "0.4375845", "4": "0.014329573", "5": "0.014348308", "6": "0.014298722"}}

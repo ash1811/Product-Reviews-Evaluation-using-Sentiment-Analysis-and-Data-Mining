@@ -1,0 +1,1 @@
+{"text": "If only these came in a double wide...they were exactly what my husband needed for working on his boat without damaging the surface, but they were just too narrow for his feet.", "sentiment": "positive", "topics": {"0": "0.25659952", "1": "0.46778613", "2": "0.09000902", "3": "0.0102096", "4": "0.15491772", "5": "0.010243981", "6": "0.010234028"}}

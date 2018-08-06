@@ -1,0 +1,1 @@
+{"text": "Dickies is great work wear. Lasting color and durable as well. The fit is relaxed but not too loose. I will be getting another set.", "sentiment": "positive", "topics": {"0": "0.108863436", "1": "0.7187924", "2": "0.13417628"}}

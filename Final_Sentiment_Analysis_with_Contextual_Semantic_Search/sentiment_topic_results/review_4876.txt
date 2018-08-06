@@ -1,0 +1,1 @@
+{"text": "I am a very small petite person and the hose were just a little loose but I expected this due to the one size. It looks ok even though they are a little loose.", "sentiment": "negative", "topics": {"0": "0.14172933", "1": "0.36407235", "3": "0.16467522", "4": "0.1185242", "5": "0.19412887"}}

@@ -1,0 +1,1 @@
+{"text": "Item was as ordered.  However they seem to scuff far more easily than the black sketchers I have worn in the past.  I suppose the leather finish is a bit different.", "sentiment": "positive", "topics": {"2": "0.45378092", "5": "0.25011668", "6": "0.2623394"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect fit and true to size for my 15 yr old daughter.  I chose the black for her and she loves them!", "sentiment": "negative", "topics": {"0": "0.20016073", "1": "0.17562403", "2": "0.011015465", "3": "0.58009285", "4": "0.0110578425", "5": "0.011044754", "6": "0.011004365"}}

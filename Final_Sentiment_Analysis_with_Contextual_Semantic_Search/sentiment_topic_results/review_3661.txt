@@ -1,0 +1,1 @@
+{"text": "The leather case is OK.  I expected the leather to be soft and supple but it is fairly stiff. Also, the case is not lined which I would have expected for the price.", "sentiment": "negative", "topics": {"1": "0.39142558", "2": "0.34084684", "3": "0.1338932", "4": "0.106921926"}}

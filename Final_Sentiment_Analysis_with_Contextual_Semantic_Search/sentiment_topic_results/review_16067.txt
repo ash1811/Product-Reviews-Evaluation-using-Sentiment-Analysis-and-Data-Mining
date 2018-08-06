@@ -1,0 +1,1 @@
+{"text": "I love Reef flip flops and these are very cute too.  Love the pink and purple colors because they go with lots of my clothes.", "sentiment": "negative", "topics": {"0": "0.010266489", "1": "0.58464086", "2": "0.27307054", "3": "0.010273782", "4": "0.010295408", "5": "0.010288866", "6": "0.10116408"}}

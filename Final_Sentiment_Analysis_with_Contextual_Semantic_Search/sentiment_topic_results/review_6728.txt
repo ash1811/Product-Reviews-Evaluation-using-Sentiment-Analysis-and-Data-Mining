@@ -1,0 +1,1 @@
+{"text": "There's a reason these boots are preferred by law enforcement - they're both rugged & comfortable.  Only after years on rough concrete do the soles wear down.  This is my second pair in almost 30 years.  BEST BUY AROUND!!!!!", "sentiment": "negative", "topics": {"0": "0.056965742", "1": "0.46058568", "2": "0.15329935", "4": "0.31124052"}}

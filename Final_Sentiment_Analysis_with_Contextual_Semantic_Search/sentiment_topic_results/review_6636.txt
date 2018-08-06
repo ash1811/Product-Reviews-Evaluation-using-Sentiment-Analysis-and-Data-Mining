@@ -1,0 +1,1 @@
+{"text": "the fit is perfect and the quality is excellent.  these are the best walking crew socks I ever had.  I will purchase again.", "sentiment": "negative", "topics": {"0": "0.011037042", "1": "0.4811536", "2": "0.10703853", "3": "0.010998439", "4": "0.011038019", "5": "0.36773565", "6": "0.010998756"}}

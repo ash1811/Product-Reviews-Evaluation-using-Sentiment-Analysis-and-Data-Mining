@@ -1,0 +1,1 @@
+{"text": "Great product. Works very well in cleaning jewelry especially in a jewelry cleaner.  I definitely would purchase this product again.", "sentiment": "negative", "topics": {"1": "0.4605406", "2": "0.086374305", "3": "0.078277715", "5": "0.26284876", "6": "0.09286128"}}

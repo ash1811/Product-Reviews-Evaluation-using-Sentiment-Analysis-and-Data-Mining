@@ -1,0 +1,1 @@
+{"text": "Kinda impossible to go wrong with Kiwi Brown. It's been around forever and it just does what it's supposed to do. Definitely recommend. Great packaging design, too.", "sentiment": "negative", "topics": {"1": "0.2566073", "2": "0.24102885", "3": "0.14563091", "4": "0.22284144", "6": "0.11702734"}}

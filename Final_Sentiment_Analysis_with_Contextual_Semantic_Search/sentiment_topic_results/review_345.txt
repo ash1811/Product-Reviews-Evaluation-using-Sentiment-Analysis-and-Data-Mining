@@ -1,0 +1,1 @@
+{"text": "Great for light wait shirt for vegas to wear on pool days.  Would not recomment as a shirt to go out with.  but it does have a chest pocket which seens hard to get these days.", "sentiment": "negative", "topics": {"0": "0.2227204", "1": "0.34216264", "2": "0.11778331", "6": "0.29576394"}}

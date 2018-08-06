@@ -1,0 +1,1 @@
+{"text": "Based on the plastic fabrication, no high expectations for this hanging bag. However, it works well for now at a good price and very convenient.", "sentiment": "negative", "topics": {"0": "0.010245612", "1": "0.34446013", "2": "0.01024896", "3": "0.01024138", "4": "0.22105007", "5": "0.010245629", "6": "0.39350823"}}

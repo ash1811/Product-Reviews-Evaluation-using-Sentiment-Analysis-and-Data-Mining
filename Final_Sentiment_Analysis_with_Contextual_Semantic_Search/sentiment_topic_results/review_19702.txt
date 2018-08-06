@@ -1,0 +1,1 @@
+{"text": "It is a great little learning watch for small children. The strap is not as well made as one would expect.", "sentiment": "positive", "topics": {"0": "0.011015779", "1": "0.17250262", "2": "0.3458039", "3": "0.26018822", "4": "0.10506784", "5": "0.094428726", "6": "0.010992924"}}

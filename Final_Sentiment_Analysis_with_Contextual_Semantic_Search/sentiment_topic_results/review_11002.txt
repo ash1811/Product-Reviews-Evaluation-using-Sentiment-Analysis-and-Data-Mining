@@ -1,0 +1,1 @@
+{"text": "I purchased the 14k yellow gold 4mm ball earrings, and one of the balls fell off and was lost within a day.", "sentiment": "positive", "topics": {"0": "0.010255959", "1": "0.41551852", "2": "0.09840611", "3": "0.16701731", "4": "0.28821647", "5": "0.01025065", "6": "0.010334963"}}

@@ -1,0 +1,1 @@
+{"text": "does the trick and will last a  long time, like Bali usually does...will buy another. Bali quality for affordable price", "sentiment": "positive", "topics": {"1": "0.69573027", "4": "0.25652114"}}

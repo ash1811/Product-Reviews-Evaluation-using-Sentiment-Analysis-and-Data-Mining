@@ -1,0 +1,1 @@
+{"text": "More appropriate for a child or a female.  I won't be caught dead walking around town with this little makeup bag on my shoulder.", "sentiment": "negative", "topics": {"0": "0.12038478", "1": "0.13156761", "2": "0.092783995", "3": "0.35819176", "4": "0.011015124", "5": "0.2750551", "6": "0.011001651"}}

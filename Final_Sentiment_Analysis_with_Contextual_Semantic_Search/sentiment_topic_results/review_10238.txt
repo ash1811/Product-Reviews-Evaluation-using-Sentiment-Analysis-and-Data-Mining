@@ -1,0 +1,1 @@
+{"text": "Fits great~ Not made for really cold weather though. It works good to break the wind on a cold day.", "sentiment": "negative", "topics": {"0": "0.010232284", "1": "0.41955847", "2": "0.010217757", "3": "0.52924937", "4": "0.010241339", "5": "0.010254929", "6": "0.0102458205"}}

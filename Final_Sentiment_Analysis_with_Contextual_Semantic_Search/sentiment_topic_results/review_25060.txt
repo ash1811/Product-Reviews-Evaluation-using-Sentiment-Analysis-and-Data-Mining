@@ -1,0 +1,1 @@
+{"text": "My son likes the button fly and the covered waistband. The fabric is soft and gentle, and the fit is accurate, and not too baggy.And the price is right!", "sentiment": "negative", "topics": {"1": "0.32316008", "2": "0.097655214", "3": "0.20546903", "6": "0.3449722"}}

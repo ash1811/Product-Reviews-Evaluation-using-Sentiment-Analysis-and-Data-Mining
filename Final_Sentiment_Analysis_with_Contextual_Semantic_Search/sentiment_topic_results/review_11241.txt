@@ -1,0 +1,1 @@
+{"text": "The straps on top are pretty flimsy feeling,  I doubt they'll last too long... also it's a little rough but otherwise seriously, really nice.", "sentiment": "negative", "topics": {"0": "0.1732512", "1": "0.1866656", "2": "0.25521162", "3": "0.1291092", "4": "0.10993725", "6": "0.13738026"}}

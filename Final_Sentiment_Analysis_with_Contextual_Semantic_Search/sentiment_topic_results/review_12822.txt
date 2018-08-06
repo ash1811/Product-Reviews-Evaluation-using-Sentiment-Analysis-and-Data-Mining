@@ -1,0 +1,1 @@
+{"text": "The bag, and the individual pockets, are large enough to hold everything I want to carry, without being bulky.  I also like that the bottom compartment is detachable.  It is well made.", "sentiment": "positive", "topics": {"1": "0.35674718", "2": "0.25131333", "3": "0.12925465", "4": "0.13860269", "5": "0.10900756"}}

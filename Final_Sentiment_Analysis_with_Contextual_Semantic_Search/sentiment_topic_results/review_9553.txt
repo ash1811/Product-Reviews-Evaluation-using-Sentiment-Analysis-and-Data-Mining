@@ -1,0 +1,1 @@
+{"text": "Best price for the quality of these boots...fit is good. Possibly a bit long, but if I went smaller in size they might be a bit too tight, so kept to my regular size 11. The extra room in the toe should be fine......", "sentiment": "negative", "topics": {"0": "0.11835968", "1": "0.4375814", "2": "0.04028466", "3": "0.33097106", "4": "0.060358826"}}

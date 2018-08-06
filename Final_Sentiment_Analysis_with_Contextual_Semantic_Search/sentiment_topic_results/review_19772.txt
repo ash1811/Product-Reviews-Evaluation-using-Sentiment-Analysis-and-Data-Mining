@@ -1,0 +1,1 @@
+{"text": "good running pants for moderatly cold weather, have held up well so far.nicely made and nice material for the price.", "sentiment": "positive", "topics": {"0": "0.096016936", "1": "0.6897503", "2": "0.010212713", "3": "0.010248134", "4": "0.010215238", "5": "0.17333603", "6": "0.010220649"}}

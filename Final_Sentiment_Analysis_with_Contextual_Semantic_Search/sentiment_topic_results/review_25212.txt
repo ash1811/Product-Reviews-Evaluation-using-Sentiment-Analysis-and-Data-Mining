@@ -1,0 +1,1 @@
+{"text": "I'm a staff nurse who routinely works busy 12-hour shifts. These insoles are a lifesaver. I can now focus on my patients, instead of my aching skeleton ;)", "sentiment": "positive", "topics": {"0": "0.09233414", "1": "0.09328285", "3": "0.14969598", "4": "0.38776883", "5": "0.14221618", "6": "0.12574494"}}

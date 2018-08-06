@@ -1,0 +1,1 @@
+{"text": "this is my fourth pair of these shoes and i love them.  I am on my feet a lot at work but they hold up well and you don't slip on a wet surface.  Great shoe!", "sentiment": "negative", "topics": {"0": "0.13226685", "1": "0.3125823", "2": "0.23770404", "3": "0.2304304", "4": "0.06913829"}}

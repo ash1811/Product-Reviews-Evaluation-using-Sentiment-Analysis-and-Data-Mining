@@ -1,0 +1,1 @@
+{"text": "Flip Flop met my expectations. They are true to size and very comfortable.  I like the color aqua and highly recommend it.", "sentiment": "negative", "topics": {"0": "0.010245635", "1": "0.5304845", "2": "0.13202548", "3": "0.010260921", "4": "0.103239365", "5": "0.01023829", "6": "0.20350581"}}

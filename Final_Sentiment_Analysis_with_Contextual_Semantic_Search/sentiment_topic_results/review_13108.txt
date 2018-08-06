@@ -1,0 +1,1 @@
+{"text": "Cute bag. I wish it was lined and thicker.  It was quite smaller than I expected.  The pictures should reflect the actual size.", "sentiment": "positive", "topics": {"0": "0.011033081", "1": "0.33981827", "2": "0.011053522", "3": "0.40140134", "4": "0.011008569", "5": "0.21465208", "6": "0.011033131"}}

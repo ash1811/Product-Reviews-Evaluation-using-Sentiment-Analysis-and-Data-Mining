@@ -1,0 +1,1 @@
+{"text": "This is a think very warm shirt but it came a little small and then shrunk badly. Still wearable as a work shirt.", "sentiment": "negative", "topics": {"0": "0.24162284", "1": "0.49302837", "2": "0.011001551", "3": "0.011036157", "4": "0.22127476", "5": "0.011013892", "6": "0.01102242"}}

@@ -1,0 +1,1 @@
+{"text": "Smart wool socks are awesome. These socks are very warm and very good quality. The only reason I'm not giving them five stars is because they tend to slide down on me a little bit. Overall though, I'm happy with them and will buy again.", "sentiment": "negative", "topics": {"0": "0.09209772", "1": "0.42278636", "3": "0.24142699", "5": "0.22573464"}}

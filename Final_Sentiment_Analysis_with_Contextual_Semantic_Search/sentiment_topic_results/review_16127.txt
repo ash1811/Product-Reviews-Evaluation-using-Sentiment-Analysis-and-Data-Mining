@@ -1,0 +1,1 @@
+{"text": "This shoe seems to run small and I first got a 9.5 and exchanged for a 10.0 but disappointed that I didn't return for a 10.5 because it would have been more comfortable.", "sentiment": "positive", "topics": {"0": "0.09807515", "1": "0.25041616", "2": "0.0903053", "3": "0.338977", "5": "0.111975424", "6": "0.1007069"}}

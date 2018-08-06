@@ -1,0 +1,1 @@
+{"text": "the color and fit is great and the size is great the only thing that could be better is the front pockets could be larger", "sentiment": "negative", "topics": {"0": "0.2409966", "1": "0.5811078", "2": "0.011029233", "3": "0.13374539", "4": "0.011044169", "5": "0.011029409", "6": "0.011047376"}}

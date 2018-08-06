@@ -1,0 +1,1 @@
+{"text": "I got this for my two year old granddaughter...she loved it...it is safe and the different objects in the purse are very appealing.", "sentiment": "negative", "topics": {"0": "0.011020677", "1": "0.0111086415", "2": "0.011011591", "3": "0.25794557", "4": "0.011010279", "5": "0.2147092", "6": "0.48319405"}}

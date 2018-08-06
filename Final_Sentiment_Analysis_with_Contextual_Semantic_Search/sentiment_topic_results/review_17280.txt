@@ -1,0 +1,1 @@
+{"text": "Fits great, is comfortable for yoga, can be worn casually, is not too short, and has pockets! What more can you ask for?", "sentiment": "negative", "topics": {"0": "0.14410406", "1": "0.48814157", "2": "0.013000962", "3": "0.01299902", "4": "0.012988105", "5": "0.12025147", "6": "0.20851478"}}

@@ -1,0 +1,1 @@
+{"text": "they so comfortable and lovely cute I can wear them all they long, walk around all day they very soft", "sentiment": "positive", "topics": {"0": "0.014320282", "1": "0.49306592", "2": "0.014296335", "3": "0.014322108", "4": "0.1198902", "5": "0.3297934", "6": "0.014311748"}}

@@ -1,0 +1,1 @@
+{"text": "This is my most favorite bra!  Very comfortable and easy to adjust straps. I have several, both black and beige.", "sentiment": "negative", "topics": {"0": "0.1549687", "1": "0.17659722", "2": "0.2798616", "3": "0.3455276", "4": "0.014348227", "5": "0.01434194", "6": "0.014354733"}}

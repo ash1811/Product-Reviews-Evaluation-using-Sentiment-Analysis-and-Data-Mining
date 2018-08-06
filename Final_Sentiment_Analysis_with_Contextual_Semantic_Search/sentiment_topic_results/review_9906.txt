@@ -1,0 +1,1 @@
+{"text": "Havent owned one in years and years, but it works great, it doesnt cost much, and after buying it again the setup and settings are still very easy to remember and operate.", "sentiment": "positive", "topics": {"0": "0.19655943", "1": "0.4075333", "3": "0.23656996", "5": "0.13537864"}}

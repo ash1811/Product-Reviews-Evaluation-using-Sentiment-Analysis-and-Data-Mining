@@ -1,0 +1,1 @@
+{"text": "This garment fits very snug.  The support is good, but a bit tight.  The comfort is fair to good. The color is great. After wearing this for a hour, I measured the band it is too small.  It was mislabeled. It is 6 inches too small.", "sentiment": "positive", "topics": {"0": "0.0983927", "1": "0.53736293", "4": "0.09566693", "6": "0.24903746"}}

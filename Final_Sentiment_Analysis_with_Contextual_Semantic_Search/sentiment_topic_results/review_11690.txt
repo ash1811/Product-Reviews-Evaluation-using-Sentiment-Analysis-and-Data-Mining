@@ -1,0 +1,1 @@
+{"text": "I purchased this as a gift for a young girl and I'm very happy with the quality.  The box is beautiful and the quality is good for being lighter materials.  It was worth the cost and looks great with little drawers on all sides.", "sentiment": "negative", "topics": {"0": "0.31117824", "1": "0.580115", "6": "0.08141134"}}

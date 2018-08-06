@@ -1,0 +1,1 @@
+{"text": "Bought these for my 17-year old son.  They seem to be great and he loves them so far.  Great value, too.", "sentiment": "negative", "topics": {"0": "0.011960163", "1": "0.011951895", "2": "0.2127564", "3": "0.011937108", "4": "0.011966724", "5": "0.7275111", "6": "0.011916565"}}

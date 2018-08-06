@@ -1,0 +1,1 @@
+{"text": "nice watch, well it is a timex. it does take a lot of light to getit to glow. but I'm sure it will be good for camping. even thoughmy internal clock works just fine. it has about a 20 min window.", "sentiment": "positive", "topics": {"0": "0.3008667", "1": "0.21805003", "2": "0.29609168", "3": "0.10569239", "6": "0.066819556"}}

@@ -1,0 +1,1 @@
+{"text": "The band is easy to adjust, it's soft and pretty. My daughter loves the glow feature. And it even took a trip through our HE washing machine and SURVIVED! lol.", "sentiment": "positive", "topics": {"0": "0.27589858", "1": "0.111551195", "2": "0.19731152", "4": "0.2913162", "6": "0.10707061"}}

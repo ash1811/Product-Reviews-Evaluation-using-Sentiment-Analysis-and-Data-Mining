@@ -1,0 +1,1 @@
+{"text": "looks great but  little  narrow.i have only new balance  and always  size is correct no this shoes .but its ok i think for running its good", "sentiment": "positive", "topics": {"0": "0.10030177", "1": "0.24219297", "2": "0.19365734", "3": "0.26121327", "5": "0.18474242"}}

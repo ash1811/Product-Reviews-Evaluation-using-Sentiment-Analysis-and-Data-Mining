@@ -1,0 +1,1 @@
+{"text": "Dickies is such a great brand to buy can't go wrong with them looks great fits great great price just great", "sentiment": "positive", "topics": {"1": "0.71006405", "2": "0.15811907", "3": "0.09363998"}}

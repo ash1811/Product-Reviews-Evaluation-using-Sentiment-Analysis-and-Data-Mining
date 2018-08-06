@@ -1,0 +1,1 @@
+{"text": "This product is perfect for late fall and early spring temperatures, but it is also great to be used as a wind breaker of sorts", "sentiment": "positive", "topics": {"0": "0.010221223", "1": "0.24897566", "2": "0.114158645", "3": "0.09634626", "4": "0.19223993", "5": "0.32784158", "6": "0.010216666"}}

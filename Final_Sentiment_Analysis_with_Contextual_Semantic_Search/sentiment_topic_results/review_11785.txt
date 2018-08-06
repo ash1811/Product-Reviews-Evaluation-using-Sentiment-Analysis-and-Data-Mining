@@ -1,0 +1,1 @@
+{"text": "My husband was skeptical, he didn't want to try them, but after a day at the beach, he admitted that a person would be crazy not to wear these in the water. Kept the out, protected his feet, and were very comfortable. Great water shoes!", "sentiment": "negative", "topics": {"1": "0.30364022", "2": "0.35131478", "4": "0.14754356", "5": "0.14255212", "6": "0.041895475"}}

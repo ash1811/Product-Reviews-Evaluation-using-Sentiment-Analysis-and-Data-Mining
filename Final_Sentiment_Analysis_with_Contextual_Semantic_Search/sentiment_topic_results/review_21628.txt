@@ -1,0 +1,1 @@
+{"text": "The cutest little outfit you will ever see on your little boy!  We had to buy one of each in different sizes for all the baby boys we know.  WOW!  They are just so adorable!  You cannot get enough pictures taken!", "sentiment": "negative", "topics": {"0": "0.078587554", "1": "0.38957846", "3": "0.28422156", "4": "0.12630586", "6": "0.10827224"}}

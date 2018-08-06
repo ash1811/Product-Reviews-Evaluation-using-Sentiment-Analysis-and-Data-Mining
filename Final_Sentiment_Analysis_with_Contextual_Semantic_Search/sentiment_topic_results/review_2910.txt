@@ -1,0 +1,1 @@
+{"text": "Great pants.  My husband really likes them.  He says they fit well, have deep pockets and are very comfortable. I love them because the price is right and I don't have to exchange or return them.  Very happy with my purchase.", "sentiment": "positive", "topics": {"1": "0.61530626", "3": "0.12762897", "4": "0.09379743", "6": "0.14280203"}}

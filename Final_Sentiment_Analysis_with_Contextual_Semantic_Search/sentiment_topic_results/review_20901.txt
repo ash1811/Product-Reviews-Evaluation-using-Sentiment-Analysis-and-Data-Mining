@@ -1,0 +1,1 @@
+{"text": "This straight leg jean is very nice. It has good quality. But price of this jeans looks expensive. It used to fit me well. Since I began to do many different exercises it is becoming tight to me.", "sentiment": "positive", "topics": {"1": "0.6743061", "2": "0.07171461", "3": "0.06359452", "4": "0.061669588", "5": "0.11569138"}}

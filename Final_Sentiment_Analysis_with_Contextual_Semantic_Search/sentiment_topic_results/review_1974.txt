@@ -1,0 +1,1 @@
+{"text": "for a trip to London. I may have been jet lagged, achy, and wet, but my feet never hurt. highly recommend.", "sentiment": "negative", "topics": {"0": "0.011010895", "1": "0.22711737", "2": "0.011068857", "3": "0.24870545", "4": "0.26760665", "5": "0.13939157", "6": "0.09509922"}}

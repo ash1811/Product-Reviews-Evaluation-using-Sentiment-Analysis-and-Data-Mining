@@ -1,0 +1,1 @@
+{"text": "These are ok, the boxer brief version of these is much better. The legs are shorter and don't support as much.", "sentiment": "negative", "topics": {"0": "0.012999997", "1": "0.61625904", "2": "0.013028291", "3": "0.0130777275", "4": "0.13251723", "5": "0.013067552", "6": "0.1990502"}}

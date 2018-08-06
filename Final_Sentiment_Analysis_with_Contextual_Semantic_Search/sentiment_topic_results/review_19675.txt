@@ -1,0 +1,1 @@
+{"text": "Poor fit, poor quality, non-existent insulation. This item was to be used for the purpose of skiing. I can only imagine it now used to scare the neighbors throwing out the trash with this item included in it.", "sentiment": "positive", "topics": {"1": "0.3367079", "2": "0.15726809", "3": "0.09331042", "4": "0.057561647", "5": "0.11310123", "6": "0.23487368"}}

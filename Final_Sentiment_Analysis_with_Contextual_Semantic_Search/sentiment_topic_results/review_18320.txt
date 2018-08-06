@@ -1,0 +1,1 @@
+{"text": "My daughter tells me that these run a little big. The mediums were too big for her and she is 5'3&#34; and about 125 lbs. They do run long. Anyway, the small fit perfectly, no bagginess, and not too tight.", "sentiment": "positive", "topics": {"1": "0.77561873", "2": "0.18666966"}}

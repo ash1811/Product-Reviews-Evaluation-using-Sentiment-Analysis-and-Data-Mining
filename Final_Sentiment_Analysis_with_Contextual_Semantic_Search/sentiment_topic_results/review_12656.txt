@@ -1,0 +1,1 @@
+{"text": "These shoes are so comfortable, they are amazing. I have a bone spur at the base of my heal tendon and can't wear normal shoes that hit the back of my foot. These are nice looking and very comfortable.", "sentiment": "negative", "topics": {"0": "0.22714208", "1": "0.36269966", "2": "0.14504416", "4": "0.18859679", "6": "0.061335895"}}

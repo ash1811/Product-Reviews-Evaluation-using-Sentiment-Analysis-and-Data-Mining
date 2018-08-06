@@ -1,0 +1,1 @@
+{"text": "I bought 2 black and 2 coyote color. All are pretty much same as military issue. Fit me great, fast delivery, great caps.", "sentiment": "negative", "topics": {"0": "0.35236", "1": "0.23507378", "3": "0.08908355", "5": "0.23537454", "6": "0.07124111"}}

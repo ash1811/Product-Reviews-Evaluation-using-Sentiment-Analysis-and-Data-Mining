@@ -1,0 +1,1 @@
+{"text": "item is exactly as ordered and advertised; this is very heartening because lately I have returned many items ordered through amazon", "sentiment": "negative", "topics": {"0": "0.15489046", "1": "0.28559837", "2": "0.011935725", "3": "0.011932342", "4": "0.2998777", "5": "0.011919066", "6": "0.2238463"}}

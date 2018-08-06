@@ -1,0 +1,1 @@
+{"text": "These are so adorable. A little bigger than I hoped, even according to Minnetonka website, but he will grow into them.", "sentiment": "positive", "topics": {"0": "0.013038332", "1": "0.013160569", "2": "0.2598616", "3": "0.55251396", "4": "0.13539726", "5": "0.013018913", "6": "0.013009402"}}

@@ -1,0 +1,1 @@
+{"text": "We are otherwise quite satisfied with these jeans, but they were a tad longer than 30. The material is as expected and the relaxed fit is comfortable.", "sentiment": "negative", "topics": {"0": "0.15381497", "1": "0.38153195", "2": "0.011007657", "3": "0.01102262", "4": "0.116032004", "5": "0.011069366", "6": "0.31552145"}}

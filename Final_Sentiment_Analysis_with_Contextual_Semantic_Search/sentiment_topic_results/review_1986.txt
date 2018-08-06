@@ -1,0 +1,1 @@
+{"text": "Very comfortable, supportive shoes.  Just perfect for daily wear in winter weather.  Never met a Merrill I did not like.", "sentiment": "negative", "topics": {"0": "0.11601709", "1": "0.4009977", "2": "0.11288051", "3": "0.17338368", "4": "0.011004119", "5": "0.011014215", "6": "0.17470267"}}

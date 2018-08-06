@@ -1,0 +1,1 @@
+{"text": "The product is as advertised, and the service was outstanding.  Shipped by the third party provider the day it was ordered, and delivered to my home two days later -- on \"standard shipping\"!", "sentiment": "negative", "topics": {"0": "0.14432609", "1": "0.18945678", "4": "0.1356564", "5": "0.44408542", "6": "0.070578545"}}

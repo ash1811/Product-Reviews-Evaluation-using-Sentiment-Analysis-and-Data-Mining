@@ -1,0 +1,1 @@
+{"text": "Bought these for my son and he absolutely loves them. They are well made, good looking, and comfortable. It took a few days for the mocs to become \"form fitted\" and now these are his favorite shoes.", "sentiment": "positive", "topics": {"0": "0.112936206", "1": "0.40378228", "2": "0.213443", "3": "0.15053284", "4": "0.10420996"}}

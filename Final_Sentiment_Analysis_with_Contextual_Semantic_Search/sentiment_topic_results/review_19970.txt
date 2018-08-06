@@ -1,0 +1,1 @@
+{"text": "It's really pretty BACKPACK, I like it.. One of my teacher said its really nice and colorful not like other students backpack:)", "sentiment": "positive", "topics": {"1": "0.19791903", "2": "0.49031684", "4": "0.11473914", "5": "0.16831839"}}

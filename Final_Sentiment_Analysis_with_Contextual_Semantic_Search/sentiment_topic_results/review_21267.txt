@@ -1,0 +1,1 @@
+{"text": "This shoe was wider than expected and the arch seemed to fit in an uncomfortable way.  It is good looking but must feel good.", "sentiment": "negative", "topics": {"0": "0.0102228215", "1": "0.4401422", "2": "0.089736305", "3": "0.42920575", "4": "0.010231936", "5": "0.010229348", "6": "0.010231601"}}

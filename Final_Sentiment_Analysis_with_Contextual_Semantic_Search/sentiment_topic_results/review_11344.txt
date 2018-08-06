@@ -1,0 +1,1 @@
+{"text": "i bought this as a gift for one of my Grand Children.  my grand child did not like dressing for P.E., this helps.", "sentiment": "negative", "topics": {"0": "0.118036814", "1": "0.12964933", "2": "0.29016766", "3": "0.20288064", "4": "0.11926013", "5": "0.011928431", "6": "0.12807696"}}

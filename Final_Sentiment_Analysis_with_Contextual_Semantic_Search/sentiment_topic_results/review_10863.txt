@@ -1,0 +1,1 @@
+{"text": "Very comfortable to wear -- easy to walk in don't slip on the floor.The ease of just slipping your foot in & they don't slide off when you walk.", "sentiment": "positive", "topics": {"0": "0.23601913", "1": "0.35409713", "2": "0.11308368", "3": "0.011948788", "4": "0.0738947", "5": "0.011932031", "6": "0.19902451"}}

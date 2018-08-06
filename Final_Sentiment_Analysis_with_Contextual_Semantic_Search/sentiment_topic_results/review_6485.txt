@@ -1,0 +1,1 @@
+{"text": "This sock appears to be a good choice for both warm (absorbent) and cold (thick) weather.  They are a much better choice than the department store brands.  Thorlo's reputation is well deserved.", "sentiment": "negative", "topics": {"0": "0.06631781", "1": "0.4809236", "3": "0.11055722", "4": "0.061312754", "5": "0.14714788", "6": "0.12655064"}}

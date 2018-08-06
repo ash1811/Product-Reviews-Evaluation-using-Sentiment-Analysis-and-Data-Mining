@@ -1,0 +1,1 @@
+{"text": "Every type of Smartwool sock that I have purchased has been great.  They are true to size and do not shrink.  They last and last too!", "sentiment": "negative", "topics": {"0": "0.2956695", "1": "0.26175132", "2": "0.011008075", "3": "0.11177754", "4": "0.011012549", "5": "0.2977408", "6": "0.011040197"}}

@@ -1,0 +1,1 @@
+{"text": "I returned the shorts.  They were definitely small to size. I was quite disappointed in them. Cannot recommend based on my experience.", "sentiment": "positive", "topics": {"0": "0.112767145", "1": "0.011017419", "2": "0.011021125", "3": "0.75310767", "4": "0.09009123", "5": "0.010998842", "6": "0.01099663"}}

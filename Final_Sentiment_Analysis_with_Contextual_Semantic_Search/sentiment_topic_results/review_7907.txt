@@ -1,0 +1,1 @@
+{"text": "I have these in several colors now and they have held up very well.  I would definitely buy them again.  They are very true to size as well.", "sentiment": "positive", "topics": {"0": "0.011922016", "1": "0.53392786", "2": "0.011929109", "3": "0.28825197", "4": "0.13007809", "5": "0.011957364", "6": "0.011933594"}}

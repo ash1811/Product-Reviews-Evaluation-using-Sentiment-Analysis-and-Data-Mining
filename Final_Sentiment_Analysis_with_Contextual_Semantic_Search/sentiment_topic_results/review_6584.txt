@@ -1,0 +1,1 @@
+{"text": "My husband has worn Thorlo for years.  These arrived in new packaging and we will give him as part of his b-day presents. We love the equality and reinforced heel in these socks.  Highly recommend.", "sentiment": "negative", "topics": {"0": "0.03070757", "3": "0.23427142", "4": "0.3274024", "5": "0.26740754", "6": "0.12513417"}}

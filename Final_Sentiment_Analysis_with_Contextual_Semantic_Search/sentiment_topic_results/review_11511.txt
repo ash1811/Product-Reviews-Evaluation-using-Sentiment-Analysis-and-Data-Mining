@@ -1,0 +1,1 @@
+{"text": "I saw on another review that Noble has some poor-quality wands mixed in with their original high quality ones. I kept my fingers crossed for a good wand, and I got it!", "sentiment": "negative", "topics": {"1": "0.24108626", "2": "0.22604927", "4": "0.13058078", "5": "0.15476243", "6": "0.2324553"}}

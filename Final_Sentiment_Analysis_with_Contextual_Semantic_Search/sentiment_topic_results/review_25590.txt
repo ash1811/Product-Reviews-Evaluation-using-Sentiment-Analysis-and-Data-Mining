@@ -1,0 +1,1 @@
+{"text": "I love Hanes socks, especially these with the pink toes and heels.  They provide extra padding that I love in a sock.  These were slightly smaller than when I purchased them previously but I kept them since they were not too tight.", "sentiment": "negative", "topics": {"1": "0.45536637", "3": "0.1290736", "5": "0.32320535", "6": "0.070877336"}}

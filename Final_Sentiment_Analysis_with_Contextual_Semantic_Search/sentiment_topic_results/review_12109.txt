@@ -1,0 +1,1 @@
+{"text": "Very nice, very comfortable.  I normally wouldn't buy underwear online, however I've owned this brand before so was confident that I knew what I was purchasing.", "sentiment": "negative", "topics": {"0": "0.0102068875", "1": "0.3344338", "2": "0.1761476", "3": "0.34997582", "4": "0.10873134", "5": "0.010258103", "6": "0.010246445"}}

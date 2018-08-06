@@ -1,0 +1,1 @@
+{"text": "Great for having just moved to a very cold climate, fits great.  He wears them just about everyday to work.", "sentiment": "negative", "topics": {"0": "0.0144011695", "1": "0.37001196", "2": "0.014295292", "3": "0.014346892", "4": "0.16872337", "5": "0.40392652", "6": "0.014294785"}}

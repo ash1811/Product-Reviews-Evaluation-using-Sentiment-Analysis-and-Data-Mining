@@ -1,0 +1,1 @@
+{"text": "Like:Great look.Dislike:This item weights a ton!Tongue moves around.Insole is so flat, I get sore feet after just 10 minutes walking.", "sentiment": "negative", "topics": {"4": "0.66307515", "5": "0.1287285", "6": "0.16999783"}}

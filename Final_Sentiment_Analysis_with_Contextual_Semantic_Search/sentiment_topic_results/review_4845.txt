@@ -1,0 +1,1 @@
+{"text": "Wasn't sure if these would stay up or not, if they'd be durable, etc. They're really soft, sexy, and men WILL love them. A great price for something so hot!", "sentiment": "positive", "topics": {"1": "0.466525", "2": "0.1530879", "4": "0.16486558", "5": "0.14832012", "6": "0.052103948"}}

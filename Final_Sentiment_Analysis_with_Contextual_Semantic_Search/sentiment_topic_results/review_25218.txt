@@ -1,0 +1,1 @@
+{"text": "Hard plastic under the heel with hardly any cushion and no cushion at all in the forefoot area. Definitely not worth 40 bucks. Returned. Spencos are better and cheaper.", "sentiment": "negative", "topics": {"0": "0.088481165", "2": "0.5398258", "4": "0.14305174", "6": "0.20326608"}}

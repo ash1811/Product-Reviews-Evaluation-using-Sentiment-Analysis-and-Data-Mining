@@ -1,0 +1,1 @@
+{"text": "another pair to wear around the house. my other &#34;revo&#34; adidas fits a lot better , these have too much in the droopy crotch area", "sentiment": "negative", "topics": {"0": "0.18822594", "1": "0.48758063", "3": "0.15806271", "5": "0.13747157"}}

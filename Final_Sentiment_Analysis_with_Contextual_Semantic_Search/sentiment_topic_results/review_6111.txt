@@ -1,0 +1,1 @@
+{"text": "Very nice product. I embroider the fronts and give them away as gift to needy new mothers. I always get a smile and a big thank you and hug.", "sentiment": "negative", "topics": {"0": "0.14155628", "1": "0.27371338", "2": "0.23528947", "3": "0.11488658", "4": "0.13084954", "5": "0.0952939"}}

@@ -1,0 +1,1 @@
+{"text": "They're a little loose, but what the heck---they don't stay on too long!  He loved them and they're comfy and very attractive!", "sentiment": "negative", "topics": {"0": "0.12562475", "1": "0.29116356", "2": "0.013017646", "3": "0.013032325", "4": "0.40946046", "5": "0.013024352", "6": "0.13467696"}}

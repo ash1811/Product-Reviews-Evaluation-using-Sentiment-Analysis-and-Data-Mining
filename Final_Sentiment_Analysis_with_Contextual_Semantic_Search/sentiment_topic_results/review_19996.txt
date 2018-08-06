@@ -1,0 +1,1 @@
+{"text": "I love this bag. I plan on using it for school that will be starting soon. Looks big and sturdy and very pretty. It's bigger than my old bag that I used for school last year.", "sentiment": "negative", "topics": {"0": "0.18225639", "1": "0.40970257", "2": "0.12110534", "5": "0.2642748"}}

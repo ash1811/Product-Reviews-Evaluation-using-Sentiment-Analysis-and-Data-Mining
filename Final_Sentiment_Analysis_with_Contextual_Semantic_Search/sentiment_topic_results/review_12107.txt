@@ -1,0 +1,1 @@
+{"text": "Very soft fabric... hardly know they are on. If you don't need too much control these are great. Fabric does get some pulls after a lot of washings", "sentiment": "negative", "topics": {"1": "0.34154642", "2": "0.14447153", "5": "0.2273972", "6": "0.25793535"}}

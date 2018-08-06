@@ -1,0 +1,1 @@
+{"text": "They are comfortable, stay on well (don't you hate it when your shoes eat your socks !!) and fit appropriately on the foot!", "sentiment": "negative", "topics": {"0": "0.1081753", "1": "0.26832172", "2": "0.20067905", "3": "0.011917554", "4": "0.13919578", "5": "0.18119258", "6": "0.090518035"}}

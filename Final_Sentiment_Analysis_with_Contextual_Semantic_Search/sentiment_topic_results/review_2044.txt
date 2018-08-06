@@ -1,0 +1,1 @@
+{"text": "Never buy a real SEBAGO in China, this should be true, the price also feel not expensive. Very nice Very nice", "sentiment": "negative", "topics": {"0": "0.011019832", "1": "0.54090595", "2": "0.010995039", "3": "0.011022582", "4": "0.30028135", "5": "0.11475232", "6": "0.01102291"}}

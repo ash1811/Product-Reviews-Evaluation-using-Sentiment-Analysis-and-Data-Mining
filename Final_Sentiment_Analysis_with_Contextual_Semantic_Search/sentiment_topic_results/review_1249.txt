@@ -1,0 +1,1 @@
+{"text": "I have had three pairs of these over the past 12 or so years.For a while the quality seemed to go down;the nubs broke off after a couple of months.I have worn this current pair for at least six months and not one nub has come off!", "sentiment": "negative", "topics": {"0": "0.21965708", "1": "0.20679861", "3": "0.31108147", "6": "0.24447362"}}

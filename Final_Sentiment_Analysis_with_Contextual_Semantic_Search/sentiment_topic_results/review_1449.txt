@@ -1,0 +1,1 @@
+{"text": "Bought it for my granddaughter she loves it all her classmates ask her where she got they all want oneS", "sentiment": "positive", "topics": {"0": "0.015947048", "1": "0.01594435", "2": "0.2082108", "3": "0.54263854", "4": "0.015991455", "5": "0.015947782", "6": "0.18532003"}}

@@ -1,0 +1,1 @@
+{"text": "The interior quality of this set of slippers wasn't very good & they didn't last but one winter. The interior started to fall apart.", "sentiment": "negative", "topics": {"0": "0.19122641", "1": "0.43870145", "2": "0.011070692", "3": "0.010990446", "4": "0.011040213", "5": "0.25909373", "6": "0.077877045"}}

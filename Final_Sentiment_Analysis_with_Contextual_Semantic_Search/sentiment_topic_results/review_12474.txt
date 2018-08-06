@@ -1,0 +1,1 @@
+{"text": "These are great and really comfortable! However, they do not provide enough support if you plan on being in them all day long. My feet began to ache after a few hours in them walking around during a festival.", "sentiment": "positive", "topics": {"0": "0.0983343", "1": "0.18225636", "2": "0.14243947", "4": "0.08218748", "5": "0.47883695"}}

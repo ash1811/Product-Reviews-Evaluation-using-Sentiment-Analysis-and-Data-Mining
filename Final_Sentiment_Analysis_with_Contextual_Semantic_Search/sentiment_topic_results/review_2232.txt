@@ -1,0 +1,1 @@
+{"text": "I bought these because my last pair was killing my feet! I wore these about 14 hours last weekend and I felt perfectly fine after running around all night!", "sentiment": "positive", "topics": {"0": "0.064728975", "1": "0.20263955", "2": "0.1931966", "5": "0.5140896"}}

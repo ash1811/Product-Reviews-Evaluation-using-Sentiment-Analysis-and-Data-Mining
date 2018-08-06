@@ -1,0 +1,1 @@
+{"text": "Love the pattern and how soft it is.  Just runs a bit big.  The medium was more like and extra large.  Great price though and very cozy", "sentiment": "negative", "topics": {"1": "0.3551122", "3": "0.48582265", "5": "0.12320763"}}

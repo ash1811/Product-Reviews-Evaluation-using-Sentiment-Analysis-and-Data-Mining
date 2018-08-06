@@ -1,0 +1,1 @@
+{"text": "estas camisetas son muy comodas y frescas, las puedes usar como ropa interior o hasta como para hacer deporte . buenas", "sentiment": "positive", "topics": {"0": "0.13111", "2": "0.060971387", "3": "0.11999312", "4": "0.2167892", "5": "0.29731178", "6": "0.16629787"}}

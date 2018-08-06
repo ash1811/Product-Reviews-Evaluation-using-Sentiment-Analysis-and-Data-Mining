@@ -1,0 +1,1 @@
+{"text": "These pants are thick, and they don't compress me very much, so they actually make my clothes fit tighter. Expensive and a waste of money.", "sentiment": "negative", "topics": {"0": "0.01099285", "1": "0.43058184", "2": "0.20994852", "3": "0.3153856", "4": "0.010994441", "5": "0.011075233", "6": "0.0110214995"}}

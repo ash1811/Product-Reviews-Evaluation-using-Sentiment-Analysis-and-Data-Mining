@@ -1,0 +1,1 @@
+{"text": "Nice color, very comfortable and practical.  Can wear with just about anything and not look like you're going to play tennis.  Good stuff.", "sentiment": "negative", "topics": {"0": "0.010230516", "1": "0.5739743", "2": "0.1473432", "3": "0.16357963", "4": "0.08439913", "5": "0.010231069", "6": "0.01024216"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband at Christmas. He wears them around the house all the time -- and loves them. I took other reviewer's advice and bought them one size bigger (he wears an 11 and I bought a 12) -- they fit perfectly.", "sentiment": "negative", "topics": {"1": "0.20169178", "3": "0.29121757", "4": "0.18920735", "5": "0.21621343", "6": "0.08972279"}}

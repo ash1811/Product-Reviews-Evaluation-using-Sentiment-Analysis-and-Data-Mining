@@ -1,0 +1,1 @@
+{"text": "For me this is a perfect fit and oh so easy on the old feet.  It was sized correctly and looks exactly as I wanted it.  To go on would be redundant.", "sentiment": "negative", "topics": {"0": "0.24729894", "1": "0.1579819", "4": "0.45750755", "5": "0.1103166"}}

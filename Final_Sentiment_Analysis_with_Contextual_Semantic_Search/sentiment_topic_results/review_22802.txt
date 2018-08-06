@@ -1,0 +1,1 @@
+{"text": "My wife loved her earrings. They matched her coral necklace perfectly but were very, very reasonably priced.", "sentiment": "negative", "topics": {"0": "0.13642345", "1": "0.42803666", "2": "0.08791519", "3": "0.012993325", "4": "0.3085781", "5": "0.013000041", "6": "0.013053203"}}

@@ -1,0 +1,1 @@
+{"text": "Great hat! Very Warm and tough.  It isn't too tight or too loose.  Carhartt is always excellent quality!", "sentiment": "negative", "topics": {"0": "0.012999774", "1": "0.7066576", "2": "0.13370696", "3": "0.10758858", "4": "0.013039887", "5": "0.012999997", "6": "0.013007212"}}

@@ -1,0 +1,1 @@
+{"text": "Shirt looks great and fits well.  Great business casual shirt.  Very comfortable and is very versatile with my casual outfits.", "sentiment": "negative", "topics": {"0": "0.19907011", "1": "0.66671735", "2": "0.010254773", "3": "0.093231", "4": "0.01021915", "5": "0.0102519225", "6": "0.010255729"}}

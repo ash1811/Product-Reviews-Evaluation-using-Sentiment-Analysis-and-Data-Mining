@@ -1,0 +1,1 @@
+{"text": "Cut was good but the material was not.Had to throw it out after just 4 months of daily use due to the suit wearing away and eventually becoming see-thru in several spots.", "sentiment": "positive", "topics": {"0": "0.08722072", "1": "0.39672756", "2": "0.30625677", "3": "0.09235962", "5": "0.10236797"}}

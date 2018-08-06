@@ -1,0 +1,1 @@
+{"text": "Even though I returned these flip flops because the sizes run small, I would definitely purchase them in the future. They are so comfortable. They feel like you're walking on air.", "sentiment": "positive", "topics": {"1": "0.19311376", "2": "0.103624955", "3": "0.34863985", "4": "0.17202458", "5": "0.16664612"}}

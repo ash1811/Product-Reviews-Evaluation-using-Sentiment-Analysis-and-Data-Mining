@@ -1,0 +1,1 @@
+{"text": "Very comfortable (either with or without socks), well built shoe for the money. I'll buy Vans shoes again in a different color or style.", "sentiment": "positive", "topics": {"1": "0.50905526", "2": "0.1736498", "3": "0.07852789", "5": "0.123336755", "6": "0.09753063"}}

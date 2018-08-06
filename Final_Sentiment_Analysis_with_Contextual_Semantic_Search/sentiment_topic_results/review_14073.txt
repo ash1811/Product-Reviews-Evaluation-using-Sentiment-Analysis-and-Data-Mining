@@ -1,0 +1,1 @@
+{"text": "CHEAP AND SMALL!! and they didn't let me return it. no, thanks", "sentiment": "negative", "topics": {"0": "0.5346095", "1": "0.017911829", "2": "0.017929297", "3": "0.01790623", "4": "0.15764745", "5": "0.017887952", "6": "0.2361078"}}

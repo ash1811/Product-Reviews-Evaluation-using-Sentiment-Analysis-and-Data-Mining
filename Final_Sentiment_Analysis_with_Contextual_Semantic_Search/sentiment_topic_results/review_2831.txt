@@ -1,0 +1,1 @@
+{"text": "I really like the Keds sneakers.. I ordered Navy and they look black.  I would order again but in another color.", "sentiment": "negative", "topics": {"0": "0.28774637", "1": "0.245191", "2": "0.011011954", "3": "0.24774545", "4": "0.010993913", "5": "0.011033345", "6": "0.18627797"}}

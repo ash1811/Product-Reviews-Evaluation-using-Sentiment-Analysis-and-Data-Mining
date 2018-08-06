@@ -1,0 +1,1 @@
+{"text": "I purchased this jacket several months ago and have worn it countless times. It's comfortable, washes well and does not fade. I also have the matching pants, which are just as comfortable. I would highly recommend this product.", "sentiment": "negative", "topics": {"1": "0.542399", "2": "0.07164938", "4": "0.07587347", "5": "0.11068143", "6": "0.18574658"}}

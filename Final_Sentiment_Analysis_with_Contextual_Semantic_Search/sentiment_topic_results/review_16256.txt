@@ -1,0 +1,1 @@
+{"text": "Warm, soft and easy to put on.  My husband loves them and they keep his feet warm when our floors are freezing!", "sentiment": "negative", "topics": {"0": "0.011012631", "1": "0.40879598", "2": "0.010994118", "3": "0.011037176", "4": "0.53613895", "5": "0.011008018", "6": "0.01101307"}}

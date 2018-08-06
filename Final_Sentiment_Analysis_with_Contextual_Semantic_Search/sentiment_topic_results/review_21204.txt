@@ -1,0 +1,1 @@
+{"text": "love the feel of the material in these shirts.  they are definitely oversized, and the v's seem to rest really low", "sentiment": "negative", "topics": {"0": "0.011956856", "1": "0.42425877", "2": "0.011918815", "3": "0.20767352", "4": "0.32025096", "5": "0.011958882", "6": "0.011982208"}}

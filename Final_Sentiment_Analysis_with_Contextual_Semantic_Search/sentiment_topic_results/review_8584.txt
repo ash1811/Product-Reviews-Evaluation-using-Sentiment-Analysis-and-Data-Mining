@@ -1,0 +1,1 @@
+{"text": "This shoe was way small than the size info suggested. I don't know it was a bad buy, but I lost money sending it back.", "sentiment": "negative", "topics": {"0": "0.010213545", "1": "0.29430526", "2": "0.09121906", "3": "0.18551907", "4": "0.010220506", "5": "0.010243641", "6": "0.39827892"}}

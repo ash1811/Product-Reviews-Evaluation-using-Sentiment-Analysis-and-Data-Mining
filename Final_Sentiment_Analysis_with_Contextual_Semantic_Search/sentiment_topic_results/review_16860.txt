@@ -1,0 +1,1 @@
+{"text": "They do fit well but I always feel awkward when something just covers my toes. Given the way I walk it can slip a bit when feet are sweaty.", "sentiment": "positive", "topics": {"0": "0.10270675", "1": "0.38516667", "4": "0.31055385", "5": "0.17469275"}}

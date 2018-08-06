@@ -1,0 +1,1 @@
+{"text": "Feels more durable than sports duffle bags. It comes folded inside its own bag. Bagception, if you will. Absolutely love it.", "sentiment": "negative", "topics": {"1": "0.37151018", "2": "0.37181664", "4": "0.21842179"}}

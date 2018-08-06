@@ -1,0 +1,1 @@
+{"text": "I like levis but I do not like them to fit tight and everyone knows 569 are designed to fit loose but, these pants fitted tight. They were smaller than any 569 Levis I own.", "sentiment": "negative", "topics": {"1": "0.3399281", "2": "0.089997835", "4": "0.15230492", "6": "0.39624542"}}

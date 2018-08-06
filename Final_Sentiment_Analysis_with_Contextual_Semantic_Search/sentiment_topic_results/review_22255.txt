@@ -1,0 +1,1 @@
+{"text": "I wear these with my 5-Finger shoes when I teach martial arts.  They are great and well made.  Good buy.", "sentiment": "positive", "topics": {"0": "0.011918519", "1": "0.5495807", "2": "0.20100398", "3": "0.112847485", "4": "0.10081235", "5": "0.011931308", "6": "0.011905632"}}

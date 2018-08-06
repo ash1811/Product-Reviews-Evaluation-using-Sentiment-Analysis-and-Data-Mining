@@ -1,0 +1,1 @@
+{"text": "I purchased these to wear for my wedding on 04/18/2009. They are very pretty! I like them a lot!", "sentiment": "positive", "topics": {"0": "0.017920276", "1": "0.5971272", "2": "0.017912146", "3": "0.017885838", "4": "0.017865187", "5": "0.31334776", "6": "0.01794164"}}

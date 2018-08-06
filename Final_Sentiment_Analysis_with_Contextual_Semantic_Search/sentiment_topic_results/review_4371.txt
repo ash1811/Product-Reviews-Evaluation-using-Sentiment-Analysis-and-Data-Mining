@@ -1,0 +1,1 @@
+{"text": "Very good buy for the money, they always seem to hold up well.  I wish they were offered in a shorter inseam, so that I wouldn't have to pay to have them altered.", "sentiment": "positive", "topics": {"0": "0.010230656", "1": "0.29466683", "2": "0.010263622", "3": "0.106255956", "4": "0.19788231", "5": "0.37048718", "6": "0.01021343"}}

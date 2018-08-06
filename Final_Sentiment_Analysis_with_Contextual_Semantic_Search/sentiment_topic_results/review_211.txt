@@ -1,0 +1,1 @@
+{"text": "I had been looking at local stores for shorts in my size and the type i was looking for without success.  I'm so glad that i lookedat amazon and found all that i wanted .", "sentiment": "negative", "topics": {"0": "0.1441329", "1": "0.2759303", "3": "0.32005113", "4": "0.2330317"}}

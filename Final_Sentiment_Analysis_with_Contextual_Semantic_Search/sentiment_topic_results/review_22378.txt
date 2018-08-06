@@ -1,0 +1,1 @@
+{"text": "I have several pairs that I wear with my Vibram 5Fingers.  They fit well and have held up well over several years.", "sentiment": "negative", "topics": {"0": "0.0119251115", "1": "0.48536825", "2": "0.15478216", "3": "0.3121106", "4": "0.011940673", "5": "0.011947787", "6": "0.011925404"}}

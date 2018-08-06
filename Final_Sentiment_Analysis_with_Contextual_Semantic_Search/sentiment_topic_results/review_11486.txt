@@ -1,0 +1,1 @@
+{"text": "This will be a Christmas gift, so don't know all the details about fit, etc.  However, the color is absolutely stunning, and the picture is true.  The cotton is strong and not flimsy.  I hope it makes a great gift hit!", "sentiment": "negative", "topics": {"0": "0.14049694", "1": "0.4470482", "2": "0.16175887", "3": "0.23021148"}}

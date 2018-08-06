@@ -1,0 +1,1 @@
+{"text": "im 6'1 250ish and ordered a reg XL and it fits great with room to wear a hoodie under if needed", "sentiment": "negative", "topics": {"0": "0.0110058235", "1": "0.37312248", "2": "0.10032248", "3": "0.26861528", "4": "0.010993688", "5": "0.011016035", "6": "0.2249242"}}

@@ -1,0 +1,1 @@
+{"text": "My head is not that big, and this hat was still a bit too small for me. It was very tight and I just did not care for it.", "sentiment": "positive", "topics": {"0": "0.013024793", "1": "0.51442444", "2": "0.013009236", "3": "0.42054173", "4": "0.013000808", "5": "0.01299825", "6": "0.013000778"}}

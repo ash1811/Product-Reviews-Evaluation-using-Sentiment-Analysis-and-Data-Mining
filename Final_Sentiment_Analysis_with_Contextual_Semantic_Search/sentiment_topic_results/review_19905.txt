@@ -1,0 +1,1 @@
+{"text": "This is the second pair of Keen Presidio shoes I have bought.  I now own them in two colors and they are extremely comfortable and wear well.", "sentiment": "positive", "topics": {"0": "0.010999147", "1": "0.5944241", "2": "0.27249053", "3": "0.011044326", "4": "0.011005031", "5": "0.011023902", "6": "0.08901289"}}

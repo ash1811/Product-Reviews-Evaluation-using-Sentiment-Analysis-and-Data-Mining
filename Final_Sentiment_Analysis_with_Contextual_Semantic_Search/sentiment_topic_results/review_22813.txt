@@ -1,0 +1,1 @@
+{"text": "long enough to be jaunty without dragging on my shoulder. comfortable enough to leave in for several days, not heavy. a good purchase!", "sentiment": "negative", "topics": {"0": "0.3337367", "1": "0.32945353", "2": "0.090395294", "3": "0.14516456", "6": "0.08206086"}}

@@ -1,0 +1,1 @@
+{"text": "As a bigger woman I was very impressed at how flattering this item is to my figure. It is so pretty and covers the tummy well.", "sentiment": "negative", "topics": {"0": "0.013054002", "1": "0.39208516", "2": "0.012998265", "3": "0.013031735", "4": "0.28278476", "5": "0.013006326", "6": "0.27303973"}}

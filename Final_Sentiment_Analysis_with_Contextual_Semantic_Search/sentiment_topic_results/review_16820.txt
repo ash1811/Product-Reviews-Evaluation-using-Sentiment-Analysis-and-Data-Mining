@@ -1,0 +1,1 @@
+{"text": "as everyone by now should know, classic crocs will perform great. Nice to wear near the pool.", "sentiment": "negative", "topics": {"0": "0.013005077", "1": "0.22629274", "2": "0.108218454", "3": "0.013022927", "4": "0.012989682", "5": "0.25761333", "6": "0.36885774"}}

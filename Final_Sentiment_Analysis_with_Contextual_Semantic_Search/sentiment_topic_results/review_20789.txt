@@ -1,0 +1,1 @@
+{"text": "nice hoodie, fast delivery..fit well and made well.  Never go wrong with Carhatt, excellent products, made well and fits according to size", "sentiment": "positive", "topics": {"1": "0.2838074", "2": "0.48283532", "3": "0.12056701", "5": "0.09019624"}}

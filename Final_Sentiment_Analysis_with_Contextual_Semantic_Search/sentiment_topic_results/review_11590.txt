@@ -1,0 +1,1 @@
+{"text": "This was a gift for my mom and she loved it. Stated the pajamas are very comfy and provided her much relaxation. I would recommend this to a friend.", "sentiment": "negative", "topics": {"0": "0.24238314", "1": "0.13320756", "2": "0.010234356", "3": "0.33621153", "4": "0.010221527", "5": "0.16790314", "6": "0.09983875"}}

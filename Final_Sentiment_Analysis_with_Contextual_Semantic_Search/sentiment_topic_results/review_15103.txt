@@ -1,0 +1,1 @@
+{"text": "Easy Spirit Women's Romy Sneaker,White/Medium Blue Leather,9.5 W", "sentiment": "negative", "topics": {"0": "0.20866434", "1": "0.15651193", "2": "0.015873218", "3": "0.01590437", "4": "0.2758933", "5": "0.31119925", "6": "0.015953606"}}

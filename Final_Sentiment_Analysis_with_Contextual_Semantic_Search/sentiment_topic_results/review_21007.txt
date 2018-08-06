@@ -1,0 +1,1 @@
+{"text": "These are nice hose, good quality, they stay up well. Not as silky as I had hoped, but very nice hose.", "sentiment": "negative", "topics": {"0": "0.2134311", "1": "0.46807805", "2": "0.012990969", "3": "0.12697159", "4": "0.15254666", "5": "0.012994546", "6": "0.012987039"}}

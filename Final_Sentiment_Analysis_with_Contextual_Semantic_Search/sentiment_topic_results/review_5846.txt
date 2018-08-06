@@ -1,0 +1,1 @@
+{"text": "These Bella shirts are nice to for light workouts. They are great for casual wear and for working outside in the spring/summer in your yard and activities like that.", "sentiment": "positive", "topics": {"1": "0.53467524", "2": "0.08178372", "3": "0.098044015", "4": "0.1439234", "5": "0.12365259"}}

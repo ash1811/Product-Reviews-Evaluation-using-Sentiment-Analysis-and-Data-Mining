@@ -1,0 +1,1 @@
+{"text": "I bought these for special occations.  I probably would not wear them out as everyday pants but they fit exactly the way you buy them and are comfortable.", "sentiment": "negative", "topics": {"0": "0.07981553", "1": "0.6384342", "2": "0.010230681", "3": "0.010236104", "4": "0.14626947", "5": "0.010231278", "6": "0.10478279"}}

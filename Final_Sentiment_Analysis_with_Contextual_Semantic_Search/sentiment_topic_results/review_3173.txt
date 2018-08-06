@@ -1,0 +1,1 @@
+{"text": "This is not my first pair of this jeans so I am comfortable with the fit. The colour I sent for was medium stone wash and I got dark stonewash. I already have that colour", "sentiment": "positive", "topics": {"1": "0.5699787", "3": "0.3852229"}}

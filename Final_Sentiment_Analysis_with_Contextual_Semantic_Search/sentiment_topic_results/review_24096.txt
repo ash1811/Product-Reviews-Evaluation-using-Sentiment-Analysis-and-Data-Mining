@@ -1,0 +1,1 @@
+{"text": "Bought this for my daughter who has a full bosom and is a runner.  This bra hold her nicely while running.", "sentiment": "positive", "topics": {"0": "0.31100884", "1": "0.08241284", "2": "0.13569528", "3": "0.25582722", "4": "0.014297204", "5": "0.18646404", "6": "0.014294547"}}

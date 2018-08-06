@@ -1,0 +1,1 @@
+{"text": "Very comfortable and supportive, would recommend this. Great fit and love the wire free support and wonderful colours they come in", "sentiment": "negative", "topics": {"1": "0.51667213", "2": "0.09165848", "3": "0.24781586", "6": "0.11521617"}}

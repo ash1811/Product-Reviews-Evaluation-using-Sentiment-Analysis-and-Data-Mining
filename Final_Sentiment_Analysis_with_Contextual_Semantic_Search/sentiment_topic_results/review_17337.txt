@@ -1,0 +1,1 @@
+{"text": "This shirt fit great at first, but shrank a lot (especially in length and we got a Tall) after the first wash.", "sentiment": "negative", "topics": {"0": "0.011032158", "1": "0.24171486", "2": "0.011028281", "3": "0.011007918", "4": "0.011030072", "5": "0.39681017", "6": "0.31737655"}}

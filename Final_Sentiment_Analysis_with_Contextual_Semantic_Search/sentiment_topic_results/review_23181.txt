@@ -1,0 +1,1 @@
+{"text": "enjoy the slippers and they are what i am used to and glad they came from national will order again", "sentiment": "negative", "topics": {"0": "0.4170679", "1": "0.017952438", "2": "0.017862638", "3": "0.017938236", "4": "0.017970704", "5": "0.017974583", "6": "0.49323356"}}

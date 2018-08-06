@@ -1,0 +1,1 @@
+{"text": "Got these for my Husband, was unsure of the size so went with the medium and they are perfect, and he Loves having his Ray-Ban's back..... Just wish I could find them in Polarized.", "sentiment": "positive", "topics": {"0": "0.08997696", "1": "0.34082007", "2": "0.11821246", "3": "0.1665705", "4": "0.26529187"}}

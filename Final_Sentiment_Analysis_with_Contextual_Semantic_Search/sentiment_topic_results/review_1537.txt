@@ -1,0 +1,1 @@
+{"text": "Great item.  My daughter will love decorating it.  It's great quality, and I'm glad Jansport is that go-to back pack brand that has been around for what seems like forever!  They always hold up really well.", "sentiment": "negative", "topics": {"1": "0.41474417", "3": "0.29386136", "4": "0.14089599", "6": "0.13254298"}}

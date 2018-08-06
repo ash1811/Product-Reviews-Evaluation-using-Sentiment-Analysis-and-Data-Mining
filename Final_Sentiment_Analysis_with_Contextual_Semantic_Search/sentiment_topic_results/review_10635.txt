@@ -1,0 +1,1 @@
+{"text": "These ear rings are the perfect size. They are a good quality and are shiny and bright. I would recommend them.", "sentiment": "negative", "topics": {"0": "0.011937504", "1": "0.5098296", "2": "0.01195129", "3": "0.21679024", "4": "0.011917739", "5": "0.011923325", "6": "0.22565037"}}

@@ -1,0 +1,1 @@
+{"text": "Good, not great but gets the job done.  I recommend these for light work and wet conditions when needed. Good.", "sentiment": "positive", "topics": {"0": "0.01101291", "1": "0.8226247", "2": "0.12219785", "3": "0.011076577", "4": "0.010999931", "5": "0.011074866", "6": "0.011013216"}}

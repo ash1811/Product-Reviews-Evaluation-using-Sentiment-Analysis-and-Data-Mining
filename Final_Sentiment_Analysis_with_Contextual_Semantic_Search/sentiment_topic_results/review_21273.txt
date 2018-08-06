@@ -1,0 +1,1 @@
+{"text": "I have often worn these when I had to stand or walk for hours.  They were comfortable and my feet didn't hurt.  Would have given them five stars, but the toe box is a tad too flat.", "sentiment": "positive", "topics": {"1": "0.56210274", "3": "0.091842525", "4": "0.0729288", "6": "0.2478259"}}

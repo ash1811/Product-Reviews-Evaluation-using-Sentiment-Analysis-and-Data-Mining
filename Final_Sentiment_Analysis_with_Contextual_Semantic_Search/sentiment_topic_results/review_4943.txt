@@ -1,0 +1,1 @@
+{"text": "My daughter wore a pair of these out and loved them so much that we had to get her another pair.  They are durable - she just wore them all the time!", "sentiment": "positive", "topics": {"0": "0.01192842", "1": "0.53031766", "2": "0.011915065", "3": "0.011957207", "4": "0.011940077", "5": "0.40999857", "6": "0.01194301"}}

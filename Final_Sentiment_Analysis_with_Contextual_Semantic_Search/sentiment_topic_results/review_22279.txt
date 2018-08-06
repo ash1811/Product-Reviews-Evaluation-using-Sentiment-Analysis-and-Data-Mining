@@ -1,0 +1,1 @@
+{"text": "Bought these for my son who wears those toe shoes: Vibrams.  He loves the socks! they wash up nicely and wear well.", "sentiment": "negative", "topics": {"0": "0.011004557", "1": "0.61055017", "2": "0.09201588", "3": "0.011008249", "4": "0.0110217435", "5": "0.25340727", "6": "0.010992089"}}

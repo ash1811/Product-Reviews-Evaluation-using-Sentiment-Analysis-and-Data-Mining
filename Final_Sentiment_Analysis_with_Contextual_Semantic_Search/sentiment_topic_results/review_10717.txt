@@ -1,0 +1,1 @@
+{"text": "Got them to replace my everyday boots.  They seem to fit ok, they are a little low in the toe, but the arch support is good, and the footbed is comfy.", "sentiment": "negative", "topics": {"1": "0.4698052", "3": "0.2578105", "4": "0.19061561", "5": "0.054896384"}}

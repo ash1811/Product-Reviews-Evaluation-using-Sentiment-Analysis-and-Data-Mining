@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband at his request. He needed something to help with the brightness of the sun but not make things too dim. Tried them out this past weekend. He loves them. Will buy an extra pair.", "sentiment": "negative", "topics": {"1": "0.25462097", "2": "0.14725164", "3": "0.30887952", "4": "0.089002475", "6": "0.18593316"}}

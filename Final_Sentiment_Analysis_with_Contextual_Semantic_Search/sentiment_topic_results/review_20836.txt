@@ -1,0 +1,1 @@
+{"text": "Other reviews are right! These jeans run a size too small. I returned them and ordered a larger size, hoping they fit!", "sentiment": "negative", "topics": {"0": "0.011027833", "1": "0.18856226", "2": "0.01102322", "3": "0.54162824", "4": "0.01104464", "5": "0.22566658", "6": "0.011047235"}}

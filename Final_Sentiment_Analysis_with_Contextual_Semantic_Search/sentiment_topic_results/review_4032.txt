@@ -1,0 +1,1 @@
+{"text": "The color was very nice and the clogs were as comfortable as I expected, good buy for the winter season...", "sentiment": "positive", "topics": {"0": "0.014289702", "1": "0.9142534", "2": "0.014296866", "3": "0.014291129", "4": "0.014291473", "5": "0.01428967", "6": "0.014287717"}}

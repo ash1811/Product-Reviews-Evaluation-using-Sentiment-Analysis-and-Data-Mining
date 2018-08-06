@@ -1,0 +1,1 @@
+{"text": "The price is cheap, fabrics in general, this can't be satisfied at the same time?Casual wear is acceptable. After all, the price is very cheap!", "sentiment": "positive", "topics": {"0": "0.33783057", "1": "0.3211652", "2": "0.011024593", "3": "0.011036605", "4": "0.011006946", "5": "0.10494612", "6": "0.20298998"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loves these shirts. Short sleeved in warm weather and the long sleeved ones in the winter. Threy wear well and are very comfortable", "sentiment": "negative", "topics": {"0": "0.08291737", "1": "0.43978834", "4": "0.14869684", "5": "0.21176647", "6": "0.09893908"}}

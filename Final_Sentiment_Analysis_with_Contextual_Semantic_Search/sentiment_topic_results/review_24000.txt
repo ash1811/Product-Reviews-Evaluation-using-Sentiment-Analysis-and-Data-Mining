@@ -1,0 +1,1 @@
+{"text": "Socks fit good and they are comfortable. I know some other socks are to thick or thin these sock are good.. The color don't fade for a while and I do wash them with my whites..", "sentiment": "negative", "topics": {"1": "0.5621253", "5": "0.3901828"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this bookbag as my other Jansport was just a lil to small for me....I love love love the color! and it holds all I need!", "sentiment": "negative", "topics": {"0": "0.32122785", "1": "0.011081472", "2": "0.011009687", "3": "0.25069115", "4": "0.20186359", "5": "0.10712529", "6": "0.097000934"}}

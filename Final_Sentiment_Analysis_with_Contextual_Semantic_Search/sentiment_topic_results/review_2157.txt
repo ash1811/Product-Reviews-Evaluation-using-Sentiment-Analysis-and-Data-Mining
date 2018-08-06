@@ -1,0 +1,1 @@
+{"text": "bought as a gift loved it they will definitely last skechers always holds up to there word quality.....good makes a comfy walking shoe", "sentiment": "positive", "topics": {"0": "0.12346312", "2": "0.13917829", "3": "0.34970564", "5": "0.27253124", "6": "0.09593172"}}

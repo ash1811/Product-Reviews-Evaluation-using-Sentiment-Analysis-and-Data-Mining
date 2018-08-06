@@ -1,0 +1,1 @@
+{"text": "Great shirts, I use them for work & play. They last a long time and the neck does not get out of shape.", "sentiment": "negative", "topics": {"0": "0.011958583", "1": "0.4066492", "2": "0.011930524", "3": "0.25167134", "4": "0.011956462", "5": "0.29390284", "6": "0.011931068"}}

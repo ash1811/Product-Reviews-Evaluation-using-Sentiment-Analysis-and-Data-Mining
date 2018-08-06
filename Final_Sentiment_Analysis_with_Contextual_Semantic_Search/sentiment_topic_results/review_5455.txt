@@ -1,0 +1,1 @@
+{"text": "It'll probably shrink a little, so I'm not disappointed it's a little larger than I thought it would be. The color material and workmanship are good quality. As everything is these days, the price factor is an important element in the value of things", "sentiment": "negative", "topics": {"0": "0.14836676", "1": "0.48519775", "2": "0.25110444", "3": "0.09812219"}}

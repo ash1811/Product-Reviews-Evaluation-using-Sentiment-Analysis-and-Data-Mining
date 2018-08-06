@@ -1,0 +1,1 @@
+{"text": "This item arrived at my doorstep in 1 week. AND this was throughout the height of the hecticness of the holidays. I bought them as a spare--I did not want my holidays to be spoiled because I could not wear the dresses I had wanted to.", "sentiment": "negative", "topics": {"0": "0.506333", "3": "0.22960015", "4": "0.17950542", "6": "0.06307451"}}

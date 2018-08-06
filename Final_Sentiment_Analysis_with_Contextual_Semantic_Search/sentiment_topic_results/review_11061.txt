@@ -1,0 +1,1 @@
+{"text": "read the previous reviews - and have a pair of acorns of my own - got them a size larger for my guy and he says indeed, they are like walking on pillows (referring to another review) rock on acorns!", "sentiment": "negative", "topics": {"0": "0.18039376", "1": "0.11490382", "2": "0.11723175", "3": "0.3126678", "4": "0.09963535", "6": "0.16798374"}}

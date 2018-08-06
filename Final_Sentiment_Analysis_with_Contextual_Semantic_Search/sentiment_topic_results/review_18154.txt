@@ -1,0 +1,1 @@
+{"text": "Comfortable fit, glow in the dark features are very vibrant. Good looking watch, sharp. Not too large, a female could wear this watch.", "sentiment": "positive", "topics": {"1": "0.5273598", "2": "0.280702", "4": "0.1561639"}}

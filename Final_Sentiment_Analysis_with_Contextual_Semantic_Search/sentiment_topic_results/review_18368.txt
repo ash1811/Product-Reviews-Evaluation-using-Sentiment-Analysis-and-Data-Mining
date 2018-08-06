@@ -1,0 +1,1 @@
+{"text": "This is comfortable, has a good foot bed, seems to be good quality, has good traction, flexible and I would buy again", "sentiment": "negative", "topics": {"0": "0.011002522", "1": "0.5061904", "2": "0.010997559", "3": "0.280623", "4": "0.16910556", "5": "0.011089638", "6": "0.010991264"}}

@@ -1,0 +1,1 @@
+{"text": "Been wearing birks for a long time. These don't measure up to my older ones but I hope I will end up enjoying them", "sentiment": "negative", "topics": {"0": "0.58200556", "1": "0.013078714", "2": "0.14073753", "3": "0.013009709", "4": "0.22510213", "5": "0.013060468", "6": "0.013005934"}}

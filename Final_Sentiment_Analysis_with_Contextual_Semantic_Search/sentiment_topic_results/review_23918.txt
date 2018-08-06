@@ -1,0 +1,1 @@
+{"text": "They are good quality last and are comfortable but they tend to shrink when they go in hot water or the dryer", "sentiment": "negative", "topics": {"0": "0.013020544", "1": "0.64012694", "2": "0.09328819", "3": "0.013010756", "4": "0.013039613", "5": "0.21452624", "6": "0.012987657"}}

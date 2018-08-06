@@ -1,0 +1,1 @@
+{"text": "These boots look great and the more you wear them the better they get! They are comfortable and look great with skinny jeans! Size was same as shoe size. If say these would not fit someone who has a wide foot.", "sentiment": "negative", "topics": {"1": "0.44682822", "2": "0.075669095", "3": "0.20449397", "4": "0.15588704", "6": "0.103450455"}}

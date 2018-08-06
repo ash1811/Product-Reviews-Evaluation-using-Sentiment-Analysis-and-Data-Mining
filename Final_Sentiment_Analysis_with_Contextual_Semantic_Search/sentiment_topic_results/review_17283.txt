@@ -1,0 +1,1 @@
+{"text": "Nike Men's NIKE DOWNSHIFTER 5 RUNNING SHOES 10.5 (BLACK/BLACK/WHITE/MTLLC...", "sentiment": "positive", "topics": {"0": "0.13484433", "1": "0.014300064", "2": "0.42026642", "3": "0.014294123", "4": "0.014300066", "5": "0.1317591", "6": "0.2702359"}}

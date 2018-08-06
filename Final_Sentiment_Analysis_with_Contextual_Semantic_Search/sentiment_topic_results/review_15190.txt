@@ -1,0 +1,1 @@
+{"text": "These are my main shoes for the summer.  They are very comfortable, do not rub anywhere on my foot, dry fast, lets foot breath on hot day.  Can give you some funky tan lines, wash up easily.", "sentiment": "positive", "topics": {"1": "0.36302483", "2": "0.17691195", "3": "0.19024149", "4": "0.16221464", "6": "0.09394397"}}

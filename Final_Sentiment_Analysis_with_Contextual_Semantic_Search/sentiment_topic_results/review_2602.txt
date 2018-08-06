@@ -1,0 +1,1 @@
+{"text": "It fits well and it is just what i expected. Took a little longer to receive than I expected, but it wasnt too long", "sentiment": "negative", "topics": {"0": "0.013013361", "1": "0.6748116", "2": "0.118614055", "3": "0.0130734155", "4": "0.013029785", "5": "0.1543296", "6": "0.013128215"}}

@@ -1,0 +1,1 @@
+{"text": "I've been buying these for years because they are so comfortable. Easy to wash and easy to stick in drawer. They feel good and last a long time.", "sentiment": "positive", "topics": {"1": "0.3244323", "3": "0.18253045", "5": "0.25411117", "6": "0.21027686"}}

@@ -1,0 +1,1 @@
+{"text": "I bought two colors.  I loved the fact that it was self-closing and whatever inside would not fall out.  I think I will use for my pens instead of my sunglasses though.", "sentiment": "negative", "topics": {"1": "0.36639467", "2": "0.18940488", "3": "0.35146952", "6": "0.06884667"}}

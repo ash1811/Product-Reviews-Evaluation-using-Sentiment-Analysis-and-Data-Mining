@@ -1,0 +1,1 @@
+{"text": "No need to spend more than this.  Classic jeans.  Fit nice like classic jeans.  Don't pay for someone's branding.  This is the real thing.", "sentiment": "negative", "topics": {"1": "0.30154052", "2": "0.3389143", "5": "0.24535024", "6": "0.08735511"}}

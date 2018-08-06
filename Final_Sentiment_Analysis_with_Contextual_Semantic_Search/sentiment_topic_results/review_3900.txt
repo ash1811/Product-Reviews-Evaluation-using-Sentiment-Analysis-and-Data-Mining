@@ -1,0 +1,1 @@
+{"text": "Love, love, love these belts. I have one in each color. I ordered size small as I only weigh 98 pounds and the size works for me but a larger person say 120 lbs could wear the size small also.", "sentiment": "negative", "topics": {"0": "0.06629639", "1": "0.1832487", "3": "0.20381907", "4": "0.36645645", "5": "0.030303318", "6": "0.14413422"}}

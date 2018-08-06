@@ -1,0 +1,1 @@
+{"text": "very very good! perfect quality ! same as described! i like it very much! very beautiful and cool! thank you", "sentiment": "positive", "topics": {"0": "0.014327025", "1": "0.52698123", "2": "0.15604669", "3": "0.014309892", "4": "0.014327431", "5": "0.2596608", "6": "0.014346898"}}

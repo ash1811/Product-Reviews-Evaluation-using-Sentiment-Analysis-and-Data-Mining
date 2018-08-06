@@ -1,0 +1,1 @@
+{"text": "my son tried these on and they are a bit too big, but that's a good thing, because he will grow into them.  they are not too big to wear right now and somewhat easy to put on..", "sentiment": "negative", "topics": {"1": "0.5198597", "2": "0.084426776", "3": "0.36200836"}}

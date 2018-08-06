@@ -1,0 +1,1 @@
+{"text": "I'm a tall woman and this leotard fit perfectly.  The sleeves went just past my wrists so I wasn't having to tug them down the whole time.  Very comfortable and I hardly knew I even had it on!", "sentiment": "negative", "topics": {"0": "0.26534918", "1": "0.45452666", "3": "0.12469369", "5": "0.055630013", "6": "0.084732495"}}

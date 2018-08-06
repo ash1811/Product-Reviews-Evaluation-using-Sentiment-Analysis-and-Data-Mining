@@ -1,0 +1,1 @@
+{"text": "no me gusto nada la calidad de la tela es terrible para haber ofrecido 100% cotton esperaba otra cosa, sin hablar del color de la tela.", "sentiment": "negative", "topics": {"0": "0.051730826", "1": "0.12977357", "2": "0.14442448", "4": "0.19216749", "5": "0.34659213", "6": "0.12954836"}}

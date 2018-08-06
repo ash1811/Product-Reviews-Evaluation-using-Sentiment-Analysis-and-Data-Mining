@@ -1,0 +1,1 @@
+{"text": "This was for my grandson for Halloween and he loved it.  He is a huge spider man fan.  He look great in it.", "sentiment": "negative", "topics": {"0": "0.3838035", "1": "0.1226843", "2": "0.14614145", "3": "0.17845476", "4": "0.14508028", "5": "0.011925756", "6": "0.011909972"}}

@@ -1,0 +1,1 @@
+{"text": "Fits as I expected.  Great brand and nice neutral colors.  The pale pink was a nice surprise.  They did a nice job with this bra.  It's old school and very cool to wear.", "sentiment": "negative", "topics": {"1": "0.506413", "2": "0.063131675", "3": "0.17142901", "4": "0.14201349", "6": "0.10188772"}}

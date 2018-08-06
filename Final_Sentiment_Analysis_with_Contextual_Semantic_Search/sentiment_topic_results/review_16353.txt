@@ -1,0 +1,1 @@
+{"text": "These were very tight on my feet. But they are very comfortable and well made. Had to return it with no hassle thanks to Amazon's no hassle return policy.", "sentiment": "positive", "topics": {"0": "0.011017189", "1": "0.5379316", "2": "0.0823333", "3": "0.010996664", "4": "0.17750385", "5": "0.011007003", "6": "0.16921037"}}

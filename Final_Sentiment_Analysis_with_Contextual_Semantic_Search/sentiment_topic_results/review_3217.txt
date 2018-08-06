@@ -1,0 +1,1 @@
+{"text": "Pretty light weight.  Fit OK.  Too expensive.  I won't buy any more of these.  You can buy 3 sets of other jeans for what one pair of these cost.", "sentiment": "negative", "topics": {"1": "0.857921", "5": "0.097297445"}}

@@ -1,0 +1,1 @@
+{"text": "This is just the medium wt., but it is the warmest , thickest sweatshirt ever.  Good buy!  I'd highly recommend  this to anyone who wears lot of sweatshirts. I bought a gray and a navy.", "sentiment": "positive", "topics": {"1": "0.5740897", "2": "0.09060992", "5": "0.19542925", "6": "0.1172666"}}

@@ -1,0 +1,1 @@
+{"text": "This is a nice confortable boot if you are looking for something causual. If was looking for a dress boot I returned them.", "sentiment": "negative", "topics": {"0": "0.011909004", "1": "0.2666797", "2": "0.12083355", "3": "0.28383914", "4": "0.29292318", "5": "0.011906349", "6": "0.011909046"}}

@@ -1,0 +1,1 @@
+{"text": "Needed to return because of size.didn't care for this color on me, however this sandal isgreat. One of my favorites. Especially with the soft bed.Will be back in Spring Amazon to look for a different pair.", "sentiment": "negative", "topics": {"1": "0.43645817", "4": "0.29173172", "5": "0.071178354", "6": "0.1801469"}}

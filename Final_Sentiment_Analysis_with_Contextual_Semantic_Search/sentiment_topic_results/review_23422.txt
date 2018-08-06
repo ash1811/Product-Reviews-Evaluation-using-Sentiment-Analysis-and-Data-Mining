@@ -1,0 +1,1 @@
+{"text": "Arrived on time and well packaged.  Son loves them and say fit is great. Wash well and little to none press. Thanks for great service.", "sentiment": "positive", "topics": {"0": "0.15391548", "1": "0.5715737", "6": "0.24258222"}}

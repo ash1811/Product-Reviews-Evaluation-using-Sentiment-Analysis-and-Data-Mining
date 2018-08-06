@@ -1,0 +1,1 @@
+{"text": "Very comfortable from the very first wearing.  Looks good also.  Can be worn for casual or dress.  Love the style.", "sentiment": "negative", "topics": {"0": "0.011943321", "1": "0.49582717", "2": "0.011909638", "3": "0.011919926", "4": "0.31553766", "5": "0.011936486", "6": "0.14092581"}}

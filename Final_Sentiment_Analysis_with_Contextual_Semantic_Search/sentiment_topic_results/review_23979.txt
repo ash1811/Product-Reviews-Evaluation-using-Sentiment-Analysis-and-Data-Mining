@@ -1,0 +1,1 @@
+{"text": "Great socks for every day wear.  Not as thick as I would have hoped, but all in all, a nice sock for the money.  Would definitely buy them again.  Best for warmer days, not for cold weather.", "sentiment": "positive", "topics": {"1": "0.21799253", "3": "0.09742994", "4": "0.06897827", "5": "0.5043043", "6": "0.09828718"}}

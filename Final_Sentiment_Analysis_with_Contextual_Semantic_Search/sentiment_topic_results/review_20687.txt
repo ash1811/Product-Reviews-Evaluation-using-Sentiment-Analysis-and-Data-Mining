@@ -1,0 +1,1 @@
+{"text": "Simple belt with that is decently made. While not super high quality, the belt does what it needs to...hold my pants up in casual style. The gold buckle's finish seems to be OK and the grasp on the clasp does its job. Good value belt.", "sentiment": "negative", "topics": {"0": "0.14137784", "1": "0.3229516", "2": "0.2536383", "4": "0.087749526", "6": "0.1827994"}}

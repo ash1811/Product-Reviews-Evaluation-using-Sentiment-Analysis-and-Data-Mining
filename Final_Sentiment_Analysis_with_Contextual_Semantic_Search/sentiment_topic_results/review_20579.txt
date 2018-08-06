@@ -1,0 +1,1 @@
+{"text": "A 10 was too tight. The size 11 is way too loose. Go figure. I like the shoe, they look much nicer than a Croc, but their sizing needs work.", "sentiment": "negative", "topics": {"0": "0.09279852", "1": "0.3516811", "2": "0.16350377", "4": "0.19799982", "6": "0.17808734"}}

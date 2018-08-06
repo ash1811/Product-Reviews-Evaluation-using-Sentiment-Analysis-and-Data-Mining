@@ -1,0 +1,1 @@
+{"text": "I ordered 1 size smaller.  I knew this beforehand so I got a perfect fit. I just love my sperry tops!", "sentiment": "negative", "topics": {"0": "0.011005549", "1": "0.4408112", "2": "0.010995178", "3": "0.40832064", "4": "0.011016738", "5": "0.10680854", "6": "0.011042176"}}

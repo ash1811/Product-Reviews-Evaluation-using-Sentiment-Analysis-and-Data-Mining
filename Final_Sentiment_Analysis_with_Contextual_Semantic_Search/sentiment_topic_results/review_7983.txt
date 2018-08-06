@@ -1,0 +1,1 @@
+{"text": "These slippers are very Comfy and very cushiony-  but also ugly and dated looking. I kept them, but was not impressed.", "sentiment": "negative", "topics": {"0": "0.012997174", "1": "0.1157815", "2": "0.013006971", "3": "0.5016808", "4": "0.23479246", "5": "0.012994894", "6": "0.108746216"}}

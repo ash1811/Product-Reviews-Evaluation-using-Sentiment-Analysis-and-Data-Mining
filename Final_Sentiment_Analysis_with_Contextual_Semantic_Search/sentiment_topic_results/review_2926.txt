@@ -1,0 +1,1 @@
+{"text": "The shirt is stylish, cool, and easy to care for.  The only negative is the price. The items from this company seem a bit pricey.", "sentiment": "negative", "topics": {"0": "0.010249912", "1": "0.14942749", "2": "0.010226674", "3": "0.17796704", "4": "0.010260344", "5": "0.010265361", "6": "0.6316032"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect size for my average height, slim built three year old. Bought these to hold up his pants for t-ball games, and it does just that! Nothing to look at, really, but does the job.", "sentiment": "positive", "topics": {"1": "0.33112016", "3": "0.33999962", "4": "0.16489622", "5": "0.14351767"}}

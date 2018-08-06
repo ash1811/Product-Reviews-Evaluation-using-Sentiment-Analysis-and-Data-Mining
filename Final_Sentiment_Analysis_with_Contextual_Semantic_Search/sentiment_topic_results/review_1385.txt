@@ -1,0 +1,1 @@
+{"text": "Bought this for my husband.  He needed a black backpack for work and it was the perfect size.  He still uses it and it's big enough for him to carry all the stuff he needs.", "sentiment": "negative", "topics": {"1": "0.19364011", "2": "0.09371184", "3": "0.3013018", "4": "0.25593394", "6": "0.13752733"}}

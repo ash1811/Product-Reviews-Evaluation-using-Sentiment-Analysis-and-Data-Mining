@@ -1,0 +1,1 @@
+{"text": "This shoe has the right fit with the right heel lift for my difficult feet and it looks good too.", "sentiment": "negative", "topics": {"0": "0.011963223", "1": "0.51017857", "2": "0.20856655", "3": "0.011953422", "4": "0.12777247", "5": "0.011932711", "6": "0.11763307"}}

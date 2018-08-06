@@ -1,0 +1,1 @@
+{"text": "I have been pining for these shoes for the last 8 years.  Finally got them.  My son had bought my first pair and I lost those by an unexpected move.  Now I have them again.  I am happy.", "sentiment": "positive", "topics": {"1": "0.124569744", "2": "0.07721607", "3": "0.21576267", "4": "0.12835671", "5": "0.4381339"}}

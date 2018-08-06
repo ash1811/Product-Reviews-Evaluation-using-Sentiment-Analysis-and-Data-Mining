@@ -1,0 +1,1 @@
+{"text": "This shirt looks good enough for a country man to go out to eat in. It is that attractive on!", "sentiment": "negative", "topics": {"0": "0.0119680585", "1": "0.011976459", "2": "0.10673269", "3": "0.011963916", "4": "0.01193412", "5": "0.6264898", "6": "0.2189349"}}

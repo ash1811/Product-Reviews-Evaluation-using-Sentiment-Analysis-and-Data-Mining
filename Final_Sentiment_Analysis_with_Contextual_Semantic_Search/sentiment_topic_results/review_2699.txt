@@ -1,0 +1,1 @@
+{"text": "Nice dress watch with a blue color dail makes it impressive..", "sentiment": "negative", "topics": {"0": "0.015932435", "1": "0.5855533", "2": "0.12819587", "3": "0.22262771", "4": "0.015905559", "5": "0.015907012", "6": "0.015878163"}}

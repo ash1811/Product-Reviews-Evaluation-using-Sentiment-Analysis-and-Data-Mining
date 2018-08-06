@@ -1,0 +1,1 @@
+{"text": "Hubby Loves them. He takes our 2 year old to the pool and he would always get hurt since the floor in the pool is too rough. so i decided i'd buy him these. He loves them! :)", "sentiment": "negative", "topics": {"0": "0.15921605", "1": "0.33568707", "2": "0.16261707", "4": "0.14028236", "5": "0.134529", "6": "0.061417233"}}

@@ -1,0 +1,1 @@
+{"text": "Nothing fancy, but for the price exactly what we need. Not overly thin, just straightforward white sweatpants. Great for a Luke Skywalker costume!", "sentiment": "negative", "topics": {"0": "0.40704334", "1": "0.22126585", "5": "0.23561841", "6": "0.10744123"}}

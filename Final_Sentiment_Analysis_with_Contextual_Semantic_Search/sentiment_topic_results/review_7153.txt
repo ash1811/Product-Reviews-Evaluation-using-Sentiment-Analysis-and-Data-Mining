@@ -1,0 +1,1 @@
+{"text": "They are very nice and very small. Well made and are holding up well. Satisfied and would buy again. A+", "sentiment": "negative", "topics": {"0": "0.011923221", "1": "0.59837526", "2": "0.011919553", "3": "0.0119389435", "4": "0.23199047", "5": "0.011936214", "6": "0.12191629"}}

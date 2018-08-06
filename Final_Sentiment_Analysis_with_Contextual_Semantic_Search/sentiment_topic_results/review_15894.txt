@@ -1,0 +1,1 @@
+{"text": "I bought this watch for my son so he would have a good watch for boot camp....sad... it started falling apart in the first month", "sentiment": "negative", "topics": {"0": "0.010233154", "1": "0.010249197", "2": "0.20037489", "3": "0.010232817", "4": "0.092912294", "5": "0.5811883", "6": "0.09480936"}}

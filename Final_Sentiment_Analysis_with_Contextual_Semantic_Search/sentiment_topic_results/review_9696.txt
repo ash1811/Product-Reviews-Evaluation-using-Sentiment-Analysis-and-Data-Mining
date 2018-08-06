@@ -1,0 +1,1 @@
+{"text": "What a great bra!  Support is excellent and the wide straps really relieve shoulder strain.  I would recommend this bra to even the largest of cup sized women.", "sentiment": "negative", "topics": {"1": "0.16829455", "2": "0.24650428", "3": "0.24966662", "4": "0.21614178", "5": "0.10426316"}}

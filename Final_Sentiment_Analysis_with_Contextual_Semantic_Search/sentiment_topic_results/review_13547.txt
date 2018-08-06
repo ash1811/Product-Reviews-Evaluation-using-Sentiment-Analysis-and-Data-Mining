@@ -1,0 +1,1 @@
+{"text": "We needed 30-34 Levis for my grandson in Paris.  They are NEVER available in stock at stores, and certainly not it the style and color we want.  I count on Amazon.com for everything", "sentiment": "negative", "topics": {"0": "0.15391791", "1": "0.2171343", "2": "0.18297102", "4": "0.21867408", "6": "0.21046902"}}

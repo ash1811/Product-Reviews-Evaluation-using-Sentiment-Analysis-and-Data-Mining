@@ -1,0 +1,1 @@
+{"text": "First with the pants and now this denim jacket, Wrangler is definitely kicking Levi's butt. Better fitting, awesome quality and very good prices. Cannot find one single thing to complaint about. Get it, you won't regret it!", "sentiment": "negative", "topics": {"1": "0.3262508", "2": "0.14293742", "3": "0.16356048", "4": "0.21139403", "6": "0.14524168"}}

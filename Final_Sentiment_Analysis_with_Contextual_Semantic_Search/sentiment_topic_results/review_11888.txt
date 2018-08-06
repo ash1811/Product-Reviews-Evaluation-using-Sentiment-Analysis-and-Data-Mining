@@ -1,0 +1,1 @@
+{"text": "This is my second pair of Trotters Ash Loafer in black.  I also have them in navy and brown.  Very comfortable shoe and stylish.  I wear with dress slacks and love them.", "sentiment": "positive", "topics": {"1": "0.33243263", "2": "0.08447431", "3": "0.21873234", "4": "0.10935268", "6": "0.23912045"}}

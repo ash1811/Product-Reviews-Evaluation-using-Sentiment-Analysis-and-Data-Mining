@@ -1,0 +1,1 @@
+{"text": "I ordered these suspenders to use in a play. They worked quite well. The brass clips are shiny and the material is of a finer mesh than typical. They aren't work suspenders, but they work well as a pair of dress suspenders.", "sentiment": "positive", "topics": {"0": "0.27432492", "1": "0.31746632", "2": "0.19802484", "4": "0.093431205", "6": "0.10371771"}}

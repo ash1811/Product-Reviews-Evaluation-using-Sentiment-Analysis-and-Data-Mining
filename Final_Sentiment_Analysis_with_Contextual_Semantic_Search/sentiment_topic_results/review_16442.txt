@@ -1,0 +1,1 @@
+{"text": "These glasses are perfect and I love them. I wear them when I go to the pool and they are a perfect accessory!", "sentiment": "negative", "topics": {"0": "0.014350442", "1": "0.661508", "2": "0.014330828", "3": "0.2668262", "4": "0.014349193", "5": "0.014346727", "6": "0.014288612"}}

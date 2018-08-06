@@ -1,0 +1,1 @@
+{"text": "I bought a bigger size because I have really long arms, and it fits great and super warm!! The green color is perfect not too dark not too light.", "sentiment": "negative", "topics": {"1": "0.7269246", "2": "0.069361", "3": "0.16788645"}}

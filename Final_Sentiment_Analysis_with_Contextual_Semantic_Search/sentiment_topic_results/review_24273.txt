@@ -1,0 +1,1 @@
+{"text": "This jean is very good but it's a little wide on the hip. but on the waist it's feets good!", "sentiment": "negative", "topics": {"0": "0.015927918", "1": "0.26528814", "2": "0.24083379", "3": "0.015911035", "4": "0.016002664", "5": "0.43014866", "6": "0.015887775"}}

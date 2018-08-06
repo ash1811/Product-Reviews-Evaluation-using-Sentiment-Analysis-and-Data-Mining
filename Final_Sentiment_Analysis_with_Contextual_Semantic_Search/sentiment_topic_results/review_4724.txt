@@ -1,0 +1,1 @@
+{"text": "Well made, warm, rugged, perfect! The person that got this absolutely loved it, I am happy I went with this option!", "sentiment": "positive", "topics": {"0": "0.42026398", "1": "0.37858975", "2": "0.16014935", "3": "0.010251933", "4": "0.0102425115", "5": "0.010233724", "6": "0.010268786"}}

@@ -1,0 +1,1 @@
+{"text": "These beads were a perfect accessory to my flapper girl costume for Halloween.  Also,these beads arrived in no time at all.", "sentiment": "negative", "topics": {"0": "0.30907556", "1": "0.120517276", "2": "0.011026104", "3": "0.011010601", "4": "0.3332995", "5": "0.11365182", "6": "0.10141913"}}

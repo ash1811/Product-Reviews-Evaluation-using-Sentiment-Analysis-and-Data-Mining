@@ -1,0 +1,1 @@
+{"text": "True to size, did not shrink and did not fade in the wash, great for layering, I love these Hanes Shirts!", "sentiment": "negative", "topics": {"0": "0.013006052", "1": "0.68713146", "2": "0.012993502", "3": "0.013047776", "4": "0.013045534", "5": "0.013025839", "6": "0.24774982"}}

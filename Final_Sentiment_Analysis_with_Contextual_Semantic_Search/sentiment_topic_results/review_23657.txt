@@ -1,0 +1,1 @@
+{"text": "I  bought this hat in 3 colors.Due to migraines, I had to cut into the back of the material and cut elastic.NOW I can wear all day without a migraine.", "sentiment": "positive", "topics": {"0": "0.14067721", "1": "0.49782345", "4": "0.15614863", "6": "0.17667463"}}

@@ -1,0 +1,1 @@
+{"text": "I am on a quest to find a better, less chemical laden silver cleaner. this product works but it can't be good given the way it smells. however, it does leave silver looking brand new.", "sentiment": "negative", "topics": {"2": "0.17062542", "3": "0.5205131", "4": "0.06807729", "5": "0.08159644", "6": "0.14616552"}}

@@ -1,0 +1,1 @@
+{"text": "Sketchers are the best value in the market.  Style is great, tough and rugged.  Very comfortable.  Would recommend highly to everyone..", "sentiment": "positive", "topics": {"0": "0.010238863", "1": "0.391293", "2": "0.22470436", "3": "0.010232243", "4": "0.010262254", "5": "0.24991393", "6": "0.10335535"}}

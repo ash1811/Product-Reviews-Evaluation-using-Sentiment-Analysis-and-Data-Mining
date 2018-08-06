@@ -1,0 +1,1 @@
+{"text": "Shoes are not like other Keds I've worn in the past. They have little support, are flimsy, and look cheap.", "sentiment": "negative", "topics": {"0": "0.011951096", "1": "0.011951784", "2": "0.23137975", "3": "0.49902844", "4": "0.011909774", "5": "0.011925928", "6": "0.22185321"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are great for work boots. I notice the feel as soon as I put my working boots on. These protected my feet from the steel toes shoes I wear at work. And that they come in two colors are nice as well.", "sentiment": "negative", "topics": {"1": "0.5050223", "2": "0.11838848", "4": "0.1852852", "6": "0.17334306"}}

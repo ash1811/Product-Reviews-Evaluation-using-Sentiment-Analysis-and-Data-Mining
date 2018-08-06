@@ -1,0 +1,1 @@
+{"text": "Wonder my niece wears it every single day, yellow is her favorite color right now an this cute little tutu made he da. It is well built and we hope she gets lots of wear out of it.", "sentiment": "positive", "topics": {"0": "0.1502202", "1": "0.42003894", "3": "0.08138888", "5": "0.32966605"}}

@@ -1,0 +1,1 @@
+{"text": "i had a pair of these for 7 years and they were always comfortable and never leaked.  hopefully the boot has not changed.", "sentiment": "positive", "topics": {"0": "0.22663511", "1": "0.25832018", "2": "0.013006615", "3": "0.013056725", "4": "0.33542094", "5": "0.14055374", "6": "0.013006652"}}

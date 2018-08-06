@@ -1,0 +1,1 @@
+{"text": "Love the different color of these, makes for fun matching with different outfits. And they're no longer continued so I can feel a little special.", "sentiment": "positive", "topics": {"0": "0.60432637", "3": "0.11929664", "5": "0.24048977"}}

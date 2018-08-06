@@ -1,0 +1,1 @@
+{"text": "These are the best every-day-comfy sandals. I have them in three colors and they are the most comfortable pair of summer sandals I have worn.", "sentiment": "negative", "topics": {"0": "0.013015545", "1": "0.5995098", "2": "0.013024908", "3": "0.13243312", "4": "0.12482779", "5": "0.013001407", "6": "0.10418746"}}

@@ -1,0 +1,1 @@
+{"text": "I've been wearing Thorlo tennis crews for many years, and these running crews have better cushioning.  I find them very comfortable.", "sentiment": "positive", "topics": {"0": "0.010219187", "1": "0.38443604", "2": "0.010230252", "3": "0.20886455", "4": "0.07785219", "5": "0.17336705", "6": "0.13503072"}}

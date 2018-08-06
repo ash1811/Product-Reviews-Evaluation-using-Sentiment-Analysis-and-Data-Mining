@@ -1,0 +1,1 @@
+{"text": "Love this Jewelry Box  so well put together holds plendy... Love the pink & looks so nice on my vanity.", "sentiment": "negative", "topics": {"0": "0.118964635", "1": "0.3232365", "2": "0.08407338", "3": "0.10359399", "4": "0.2777077", "5": "0.010223888", "6": "0.08219992"}}

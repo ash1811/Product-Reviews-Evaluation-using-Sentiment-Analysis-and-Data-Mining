@@ -1,0 +1,1 @@
+{"text": "Got these for my boyfriend and he loves them. He said they fit well and he loves the style and color. They look just like they are shown in the picture. I am definitely happy with this purchase.", "sentiment": "negative", "topics": {"1": "0.50016814", "3": "0.31346905", "5": "0.15449306"}}

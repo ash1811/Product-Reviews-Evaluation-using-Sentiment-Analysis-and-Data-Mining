@@ -1,0 +1,1 @@
+{"text": "Both the material and the fit are excellent. They're very comfortable as well. I'd recommend these to anyone that wants a nice looking semi dressy pair of jeans.", "sentiment": "negative", "topics": {"0": "0.13737653", "1": "0.5146451", "2": "0.08711103", "5": "0.17139529", "6": "0.072588965"}}

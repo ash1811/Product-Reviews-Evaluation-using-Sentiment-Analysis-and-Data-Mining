@@ -1,0 +1,1 @@
+{"text": "these shoes do run a little small i find, and also the toe is very pointy. I though it would be more rounded.", "sentiment": "positive", "topics": {"0": "0.011924052", "1": "0.14917214", "2": "0.1617376", "3": "0.38190046", "4": "0.27144238", "5": "0.011915222", "6": "0.011908119"}}

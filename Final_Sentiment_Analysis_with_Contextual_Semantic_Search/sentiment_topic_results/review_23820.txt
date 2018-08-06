@@ -1,0 +1,1 @@
+{"text": "I love Vans, I just need a pair in every color! If only it was easier to clean white Vans...", "sentiment": "negative", "topics": {"0": "0.10281429", "1": "0.31909966", "2": "0.012992403", "3": "0.013043141", "4": "0.013082928", "5": "0.22170979", "6": "0.3172578"}}

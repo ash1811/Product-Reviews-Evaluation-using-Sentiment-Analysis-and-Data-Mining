@@ -1,0 +1,1 @@
+{"text": "I got this for my husband to wear for an 80's theme party, but then my 7 year old started wearing it all the time.  He even figured out how to use the calculator by himself.", "sentiment": "positive", "topics": {"0": "0.2779221", "1": "0.074232854", "2": "0.0642935", "3": "0.16668516", "4": "0.17260553", "5": "0.13566117", "6": "0.10859969"}}

@@ -1,0 +1,1 @@
+{"text": "This is a very cheap wath and looks well.  I was looking for a weekend/sport watch and decided to buy this one by the price.  I m very satisfied because was more than I expected and looks prety weel for \"office using\" also", "sentiment": "negative", "topics": {"0": "0.046940897", "1": "0.40159196", "2": "0.0997928", "4": "0.15611392", "6": "0.28125983"}}

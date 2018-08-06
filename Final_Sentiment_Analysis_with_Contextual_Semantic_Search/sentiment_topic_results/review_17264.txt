@@ -1,0 +1,1 @@
+{"text": "I have had these since 2002 and wear them often. I've had to re-dye the toe portion but they've fared really well. I paid around $70 back in 2002 and have been worth every penny!", "sentiment": "positive", "topics": {"0": "0.074831426", "1": "0.21063866", "2": "0.26550362", "3": "0.08493518", "4": "0.1356324", "5": "0.22164899"}}

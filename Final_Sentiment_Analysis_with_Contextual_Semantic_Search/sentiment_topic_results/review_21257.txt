@@ -1,0 +1,1 @@
+{"text": "I buy Saucony walkers because they all plenty of toe room.  Their comfortable and I do walk a lot for long periods.  I have tried other brands but got blisters.  I bought two pairs to alternate.", "sentiment": "positive", "topics": {"0": "0.06542537", "1": "0.67885464", "3": "0.17426328", "5": "0.05999471"}}

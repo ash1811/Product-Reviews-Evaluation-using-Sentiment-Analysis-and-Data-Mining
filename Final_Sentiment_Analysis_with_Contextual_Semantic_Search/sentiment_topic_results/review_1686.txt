@@ -1,0 +1,1 @@
+{"text": "Lilyette uses an excellent design for their minimizer bras.  In addition, the effectiveness to minimize is fantastic. The straps are comfortable.", "sentiment": "negative", "topics": {"0": "0.24922715", "1": "0.12390241", "2": "0.20903221", "3": "0.20837629", "4": "0.11679811", "5": "0.01099251", "6": "0.08167131"}}

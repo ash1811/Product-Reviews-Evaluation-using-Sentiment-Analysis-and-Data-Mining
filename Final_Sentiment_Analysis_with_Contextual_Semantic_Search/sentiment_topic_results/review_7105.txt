@@ -1,0 +1,1 @@
+{"text": "This bra fits great and washes beautifully.  I will purchase another soon.  [Bali Women's Double Support Spa Closure Wire-Free Bra]", "sentiment": "positive", "topics": {"1": "0.46601897", "2": "0.24254948", "3": "0.18020222", "6": "0.08597367"}}

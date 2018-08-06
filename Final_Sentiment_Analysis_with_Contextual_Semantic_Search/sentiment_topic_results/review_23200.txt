@@ -1,0 +1,1 @@
+{"text": "Everything I need for a 1 or 2 day road trip, or just humming round the city. Strong sturdy durable and plenty of safe storage.", "sentiment": "positive", "topics": {"0": "0.14836484", "1": "0.28689408", "2": "0.14271498", "3": "0.22350638", "6": "0.18166347"}}

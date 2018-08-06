@@ -1,0 +1,1 @@
+{"text": "I give these watches to less fortunate hard working kids.  They love them and wear them every day.  Great gifts.", "sentiment": "negative", "topics": {"0": "0.23811837", "1": "0.15782915", "2": "0.08809238", "3": "0.09861811", "4": "0.010236169", "5": "0.31673935", "6": "0.09036649"}}

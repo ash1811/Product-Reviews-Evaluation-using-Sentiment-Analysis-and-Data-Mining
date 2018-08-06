@@ -1,0 +1,1 @@
+{"text": "I have purchased these socks quite sometime ago.  I enjoy the warmth and also the tighter fit on my calves.  I had surgery on one leg.  These socks are perfect for helping strengthening my leg.", "sentiment": "positive", "topics": {"0": "0.062317215", "1": "0.4032716", "3": "0.27165702", "4": "0.08378096", "5": "0.09428393", "6": "0.077495776"}}

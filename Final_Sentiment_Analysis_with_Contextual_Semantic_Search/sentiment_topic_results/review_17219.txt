@@ -1,0 +1,1 @@
+{"text": "This is the second pair I have purchased & I live in them 6 days a week. It was hard to get my size on the first order. They are sold in an \"E\" size, but shipped in a \"W\" size, but I will order another pair in a few years. Thanks", "sentiment": "positive", "topics": {"0": "0.23755373", "1": "0.17374307", "3": "0.26294163", "5": "0.13504623", "6": "0.17878963"}}

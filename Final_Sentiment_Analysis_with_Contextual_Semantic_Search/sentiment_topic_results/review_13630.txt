@@ -1,0 +1,1 @@
+{"text": "I ordered these for my husband, didn't tell him I had, they arrived, he tried them on and immediately loved them.  They fit perfectly and were exactly what he had been searching for all over - the hard way - going to the stores.", "sentiment": "negative", "topics": {"0": "0.37513027", "1": "0.37333933", "4": "0.21967886"}}

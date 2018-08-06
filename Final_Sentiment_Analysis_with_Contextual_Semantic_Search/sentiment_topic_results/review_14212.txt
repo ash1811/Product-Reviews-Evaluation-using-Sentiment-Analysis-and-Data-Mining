@@ -1,0 +1,1 @@
+{"text": "Bought these as a present,am sure she will love them,cannot beat Tevas for comfort and looks. Great,super comfy,summer shoe. My teenage and middle school grandchildren love this shoe.", "sentiment": "positive", "topics": {"0": "0.08097544", "1": "0.21811345", "2": "0.2802381", "4": "0.17177735", "6": "0.23381612"}}

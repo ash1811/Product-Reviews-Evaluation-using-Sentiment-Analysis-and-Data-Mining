@@ -1,0 +1,1 @@
+{"text": "I am very pleased with the quality and performance of this sock.  I am on my feet all day and it's cool and comfy.  Ordered 3 pairs and plan on ordering 4 more pairs.", "sentiment": "positive", "topics": {"1": "0.3076792", "4": "0.21143378", "5": "0.44508317"}}

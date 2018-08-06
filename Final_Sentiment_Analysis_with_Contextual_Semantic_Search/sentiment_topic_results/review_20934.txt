@@ -1,0 +1,1 @@
+{"text": "great shoes light and durable i often wear them to work and walking back and forth 1.5 miles to get there and no fatigue or anything great looking too", "sentiment": "negative", "topics": {"1": "0.6752445", "2": "0.13433306", "5": "0.09558676", "6": "0.07096716"}}

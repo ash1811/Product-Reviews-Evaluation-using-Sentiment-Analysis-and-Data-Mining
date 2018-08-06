@@ -1,0 +1,1 @@
+{"text": "These are pretty good training pants, although I would recommend that you order one size up. The quality is ok, but the colors faded a little after a few washes.", "sentiment": "positive", "topics": {"0": "0.0980676", "1": "0.6580804", "2": "0.10558459", "3": "0.11439378"}}

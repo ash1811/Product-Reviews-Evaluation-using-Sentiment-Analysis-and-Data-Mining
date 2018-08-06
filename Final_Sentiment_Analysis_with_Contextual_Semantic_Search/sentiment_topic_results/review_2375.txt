@@ -1,0 +1,1 @@
+{"text": "Excellent quality; lightweight and comfortable.  Wear these daily for work and they are a good value.  Run true to size.", "sentiment": "positive", "topics": {"0": "0.20389576", "1": "0.34611836", "2": "0.18091734", "3": "0.23593129", "4": "0.010993548", "5": "0.01105022", "6": "0.011093476"}}

@@ -1,0 +1,1 @@
+{"text": "Great quality.  Love the extra lining on the front.  I also ordered a black leotard and white tights and love them all!", "sentiment": "negative", "topics": {"0": "0.19100618", "1": "0.14387543", "3": "0.26583973", "4": "0.14197196", "5": "0.23823941"}}

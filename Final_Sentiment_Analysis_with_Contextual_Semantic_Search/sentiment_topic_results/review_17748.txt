@@ -1,0 +1,1 @@
+{"text": "This Casio watch G-Shock watch is rugged and keeps excellent time.  It is a bit thicker than I prefer but it is an excellent every day watch.", "sentiment": "negative", "topics": {"0": "0.21033272", "2": "0.5031667", "5": "0.16622137", "6": "0.093350746"}}

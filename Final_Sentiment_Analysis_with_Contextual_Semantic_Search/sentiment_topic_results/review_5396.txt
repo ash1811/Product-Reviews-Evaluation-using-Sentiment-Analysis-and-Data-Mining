@@ -1,0 +1,1 @@
+{"text": "I wear this in a relaxed office environment.  The cloth is warm and thick, and comfortable to wear.  I've had this for about 18 months, and it still looks brand new.", "sentiment": "negative", "topics": {"0": "0.19016626", "1": "0.27341005", "3": "0.3052867", "4": "0.07851503", "5": "0.135791"}}

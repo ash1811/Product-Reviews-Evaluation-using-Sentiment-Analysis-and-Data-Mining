@@ -1,0 +1,1 @@
+{"text": "I loved these underwear. They are so lightweight that you feel you have nothing on. Yet, they provide support and breath for a very comfortable fit and feel. Definitely worth the money because they are designed extremely well.", "sentiment": "positive", "topics": {"1": "0.2787119", "3": "0.40207613", "4": "0.083676964", "5": "0.052728545", "6": "0.16848782"}}

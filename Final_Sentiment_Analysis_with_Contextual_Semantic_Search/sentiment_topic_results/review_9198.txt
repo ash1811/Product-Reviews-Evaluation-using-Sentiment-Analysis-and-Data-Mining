@@ -1,0 +1,1 @@
+{"text": "Love the slippers. Can be worn with or without socks, indoors or out.Nice to have next to the bed when I'm in need of a midnight snack (haha).", "sentiment": "positive", "topics": {"0": "0.2521712", "2": "0.08822839", "4": "0.30399466", "6": "0.32692444"}}

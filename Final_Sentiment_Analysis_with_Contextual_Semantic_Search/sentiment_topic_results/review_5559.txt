@@ -1,0 +1,1 @@
+{"text": "A great shirt, cut for a full size man, wished they made bigger (when I was bigger) glad I fit in this, in fact it is a little big, or am I a little small, hope it's the latter", "sentiment": "negative", "topics": {"0": "0.23619218", "1": "0.35187265", "3": "0.32530773", "4": "0.06707601"}}

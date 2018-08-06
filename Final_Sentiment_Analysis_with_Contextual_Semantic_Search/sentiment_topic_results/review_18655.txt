@@ -1,0 +1,1 @@
+{"text": "Haven't given this the field test yet but it seems to be of good quality. Great price point. We'll see hw it holds up in the wash and out in the field but right out of the box looks good.", "sentiment": "positive", "topics": {"0": "0.077176146", "1": "0.32545277", "3": "0.12997803", "4": "0.32292733", "5": "0.13085191"}}

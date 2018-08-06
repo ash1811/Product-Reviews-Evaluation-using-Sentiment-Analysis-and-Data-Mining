@@ -1,0 +1,1 @@
+{"text": "Bought it for a gift, liked it so much I kept it and it is easy to read, wears well and this Nurse is using it!", "sentiment": "positive", "topics": {"0": "0.2355136", "1": "0.3746365", "2": "0.01099808", "3": "0.22904573", "4": "0.011032194", "5": "0.12773192", "6": "0.011041948"}}

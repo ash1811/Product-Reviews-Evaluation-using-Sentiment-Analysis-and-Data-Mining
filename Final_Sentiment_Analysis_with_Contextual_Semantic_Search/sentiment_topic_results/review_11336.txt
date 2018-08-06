@@ -1,0 +1,1 @@
+{"text": "It's very durable, perfect for your &#34;little princess&#34;.  Now my 2 year old princess is using it, and loves it, now she has her bag /phone and make-up too!  So cute!", "sentiment": "negative", "topics": {"0": "0.34411895", "1": "0.1743965", "2": "0.28849974", "5": "0.16910236"}}

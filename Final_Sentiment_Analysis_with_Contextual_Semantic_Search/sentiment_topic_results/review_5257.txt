@@ -1,0 +1,1 @@
+{"text": "Love these slippers!  I wear them at home all the time and gave a pair to my daughter in law who also loved hers!  I had to order a pair for my granddaughter and my other daughter in law as well.  They are comfy but not too heavy for in home wear.", "sentiment": "negative", "topics": {"0": "0.3914938", "3": "0.30356872", "4": "0.1801478", "6": "0.106057964"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for my son.  He loves them!  My husband put them on and said they were very comfortable.  We are a croc wearing family, and my guys said these are every bit as good as crocs.", "sentiment": "negative", "topics": {"0": "0.23694022", "1": "0.18617415", "3": "0.100298345", "4": "0.2448194", "5": "0.21586044"}}

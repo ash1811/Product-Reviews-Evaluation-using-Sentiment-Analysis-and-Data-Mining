@@ -1,0 +1,1 @@
+{"text": "Bought this for a costume (I was Rosie the Riveter) and it worked just fine. Basically what you'd expect from a bandana. Took a while to ship, though.", "sentiment": "positive", "topics": {"0": "0.0880519", "1": "0.11292296", "2": "0.06558679", "3": "0.010239358", "4": "0.114313126", "5": "0.23257302", "6": "0.37631282"}}

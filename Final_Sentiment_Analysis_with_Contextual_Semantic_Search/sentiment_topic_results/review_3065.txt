@@ -1,0 +1,1 @@
+{"text": "The fit is not as expected. The cup is too big and loose. You can see the bad fit through my shirts", "sentiment": "positive", "topics": {"0": "0.014300333", "1": "0.76094323", "2": "0.014295275", "3": "0.014299926", "4": "0.16754666", "5": "0.014308954", "6": "0.014305628"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased this for my Aunt who loved the necklace. Its very simple but different looking. It came in a little velvet pouch inside a black box. Which was great for gift giving.", "sentiment": "positive", "topics": {"0": "0.35133162", "1": "0.2587458", "3": "0.09695006", "4": "0.09932768", "6": "0.17772879"}}

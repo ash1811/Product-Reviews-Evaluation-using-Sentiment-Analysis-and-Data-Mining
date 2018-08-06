@@ -1,0 +1,1 @@
+{"text": "May not have all the bells and whistles of some running watches, but is great and very easy to use while on the move.", "sentiment": "negative", "topics": {"0": "0.014294689", "1": "0.20323543", "2": "0.12539946", "3": "0.014353079", "4": "0.014357398", "5": "0.51103646", "6": "0.11732344"}}

@@ -1,0 +1,1 @@
+{"text": "I have worn these shoes for years.  They are made well, last for years and washable... which I love.  Always comfortable, and the price is great!", "sentiment": "positive", "topics": {"0": "0.010233721", "1": "0.5531526", "2": "0.11161214", "3": "0.010238567", "4": "0.14571895", "5": "0.01025583", "6": "0.15878822"}}

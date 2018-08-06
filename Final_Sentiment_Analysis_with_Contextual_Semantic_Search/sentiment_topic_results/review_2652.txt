@@ -1,0 +1,1 @@
+{"text": "The Dress would be fine except the sleeve is sewn in such a way as to restrict the arm movement and it makes the dress uncomfortable.  I'm not sure I can fix it or not.  It's a disappointment.", "sentiment": "negative", "topics": {"0": "0.039745208", "1": "0.42102963", "2": "0.29344624", "4": "0.15164591", "6": "0.079007216"}}

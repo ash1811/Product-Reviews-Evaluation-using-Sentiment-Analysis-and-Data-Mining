@@ -1,0 +1,1 @@
+{"text": "What a beautiful color and the fit is great.  I love to have a wide selection of color in my undies and this bra is beautiful.  The quality is excellent and the price was great.  I wear a 34DDD and am glad AMAZON carries all the things I desire.", "sentiment": "positive", "topics": {"1": "0.5861957", "2": "0.065695114", "3": "0.059114218", "4": "0.2703129"}}

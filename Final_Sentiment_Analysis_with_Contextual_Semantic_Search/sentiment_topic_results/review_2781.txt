@@ -1,0 +1,1 @@
+{"text": "my son loves it. Wish the face mask is more breathable or he can see better, but the suit is great.", "sentiment": "negative", "topics": {"0": "0.011966242", "1": "0.28842524", "2": "0.45501444", "3": "0.011930826", "4": "0.15145302", "5": "0.011940933", "6": "0.06926931"}}

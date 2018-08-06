@@ -1,0 +1,1 @@
+{"text": "I normally wear a size 9 but the shoe was too small.  So I had to return the shoes and got my credit back on my Amazon points.", "sentiment": "negative", "topics": {"0": "0.10812239", "1": "0.30909672", "2": "0.17215", "3": "0.010244139", "4": "0.0856789", "5": "0.010235817", "6": "0.30447206"}}

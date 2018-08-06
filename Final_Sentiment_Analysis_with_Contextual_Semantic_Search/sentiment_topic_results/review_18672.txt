@@ -1,0 +1,1 @@
+{"text": "These were perfect! I wore them for Halloween and received so many compliments. I'm sure I'll be wearing them again!", "sentiment": "negative", "topics": {"0": "0.15216115", "1": "0.011977229", "2": "0.14097317", "3": "0.20165217", "4": "0.38404703", "5": "0.09725034", "6": "0.011938895"}}

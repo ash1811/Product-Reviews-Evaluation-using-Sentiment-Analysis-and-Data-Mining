@@ -1,0 +1,1 @@
+{"text": "This is a quality wallet. If you don't mind how large the wallet is then this is the wallet to own. It will hold just about everything you need to hold in a wallet.", "sentiment": "positive", "topics": {"0": "0.010999811", "1": "0.11161212", "2": "0.4299304", "3": "0.31425983", "4": "0.010993325", "5": "0.011002478", "6": "0.11120201"}}

@@ -1,0 +1,1 @@
+{"text": "Get these! They stay on!! Yes they are a pain to get on.. But they stay on... And are super stylish. Good for playing or dressing you little one up on showing him off!", "sentiment": "negative", "topics": {"0": "0.1623445", "1": "0.13119204", "3": "0.19442514", "4": "0.31201416", "5": "0.093951374", "6": "0.09889828"}}

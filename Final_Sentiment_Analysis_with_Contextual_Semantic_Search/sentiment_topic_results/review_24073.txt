@@ -1,0 +1,1 @@
+{"text": "I love that this sports bra has the clasp closing in the back and I don't have to pull it over my head. It supports great and has breath ability. It isn't as soft as normal sports bras, but after a few wearings it gets &#34;broken in&#34;.", "sentiment": "negative", "topics": {"0": "0.07220421", "1": "0.35445887", "2": "0.16018957", "3": "0.3217589", "5": "0.0777336"}}

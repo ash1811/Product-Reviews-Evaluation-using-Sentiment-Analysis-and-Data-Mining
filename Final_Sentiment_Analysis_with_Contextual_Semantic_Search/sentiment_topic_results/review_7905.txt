@@ -1,0 +1,1 @@
+{"text": "This item is made of quality materials and brilliant colors. It will make a great stocking stuffer this season for the men in the family", "sentiment": "negative", "topics": {"0": "0.010231964", "1": "0.5571719", "2": "0.08427012", "3": "0.010295057", "4": "0.010219307", "5": "0.010231835", "6": "0.3175799"}}

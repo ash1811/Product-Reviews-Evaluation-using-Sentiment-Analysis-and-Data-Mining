@@ -1,0 +1,1 @@
+{"text": "Great pair of earrings to compliment the braclet I purchased. Inexpensive and comes in a mice little blue pouch. Great gift.", "sentiment": "negative", "topics": {"0": "0.27465308", "1": "0.595951", "2": "0.091210924"}}

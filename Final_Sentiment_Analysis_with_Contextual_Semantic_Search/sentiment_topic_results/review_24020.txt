@@ -1,0 +1,1 @@
+{"text": "just what one could expect about socks........nothing more.....nothing less.don't feel flimsy at all....and the price was right.....don't know what else to say about socks.........just but them.", "sentiment": "positive", "topics": {"0": "0.10594318", "2": "0.25177795", "5": "0.36628804", "6": "0.2506964"}}

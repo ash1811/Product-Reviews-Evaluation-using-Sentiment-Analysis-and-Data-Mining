@@ -1,0 +1,1 @@
+{"text": "These are rugged, well made and quality Levi's at a great price.  Color is as shown in the pic.  I will definitely buy again!", "sentiment": "positive", "topics": {"0": "0.010229115", "1": "0.52302706", "2": "0.010222865", "3": "0.10317182", "4": "0.25399074", "5": "0.010228043", "6": "0.089130364"}}

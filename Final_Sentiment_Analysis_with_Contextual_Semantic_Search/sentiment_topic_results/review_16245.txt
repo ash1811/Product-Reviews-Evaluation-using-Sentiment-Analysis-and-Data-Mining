@@ -1,0 +1,1 @@
+{"text": "Was pleased at the quality and comfort (according to my husband) of these slippers. Would recommend these slippers.", "sentiment": "negative", "topics": {"0": "0.014323838", "1": "0.34539032", "2": "0.16047554", "3": "0.014318372", "4": "0.12859315", "5": "0.0143301245", "6": "0.32256868"}}

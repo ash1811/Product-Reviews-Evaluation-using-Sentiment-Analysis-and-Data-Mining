@@ -1,0 +1,1 @@
+{"text": "I already had a pair of these in brown so I needed black too. These shoes are worth every penny. They are very comfortable and I am very pleaded with them. I would buy them again if needed  but they wear very well.", "sentiment": "negative", "topics": {"0": "0.10964878", "1": "0.41512984", "2": "0.27972406", "3": "0.17287134"}}

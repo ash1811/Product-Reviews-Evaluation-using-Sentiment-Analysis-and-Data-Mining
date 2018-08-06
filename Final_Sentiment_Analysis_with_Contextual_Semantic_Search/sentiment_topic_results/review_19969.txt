@@ -1,0 +1,1 @@
+{"text": "My daughter didn't have a problem with this bag. She is in middle school and with all the books she carries, it worked perfect.", "sentiment": "negative", "topics": {"0": "0.23208554", "1": "0.20901778", "2": "0.37856945", "3": "0.01432398", "4": "0.13734129", "5": "0.014332938", "6": "0.014328986"}}

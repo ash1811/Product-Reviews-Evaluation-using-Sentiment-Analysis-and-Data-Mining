@@ -1,0 +1,1 @@
+{"text": "These fit great - I am 5'10&#34; and 150# -- and the pants are the perfect length, just loose enough to be comfortable around the waist and hips. And black.  Like my soul.", "sentiment": "negative", "topics": {"0": "0.27481607", "1": "0.39666712", "2": "0.1547662", "4": "0.14843205"}}

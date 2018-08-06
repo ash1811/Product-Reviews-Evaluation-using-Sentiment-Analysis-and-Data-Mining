@@ -1,0 +1,1 @@
+{"text": "I love the classic Levi's style and 5 pocket design. The jeans fit as expected and are always comfortable and in style.", "sentiment": "negative", "topics": {"0": "0.010230661", "1": "0.4275465", "2": "0.1355308", "3": "0.010235118", "4": "0.30038247", "5": "0.010275231", "6": "0.105799176"}}

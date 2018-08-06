@@ -1,0 +1,1 @@
+{"text": "I really like the Flying Fisherman glasses - Great value, great materials, durable, excellent polarization. This model is VERY small, like for kids & petite ladies. Otherwise, nice glasses", "sentiment": "positive", "topics": {"0": "0.120973535", "1": "0.39878252", "2": "0.103301734", "3": "0.047663067", "5": "0.17722093", "6": "0.1455276"}}

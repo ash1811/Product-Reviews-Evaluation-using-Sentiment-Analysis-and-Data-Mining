@@ -1,0 +1,1 @@
+{"text": "This item is a little junky. I wish I had found a better quality jewelry box. The fairy is not very cute. The music is ok.", "sentiment": "negative", "topics": {"0": "0.16332498", "1": "0.54611623", "2": "0.14791457", "3": "0.010252243", "4": "0.010241295", "5": "0.010250795", "6": "0.11189985"}}

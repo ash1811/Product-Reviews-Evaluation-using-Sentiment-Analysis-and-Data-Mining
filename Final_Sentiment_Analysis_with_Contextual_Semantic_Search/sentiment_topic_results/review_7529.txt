@@ -1,0 +1,1 @@
+{"text": "Perfect jacket if you don't want a warmer liner.  My husband Loves the jacket.  Would suggest this product to others.", "sentiment": "positive", "topics": {"0": "0.16465026", "1": "0.011036983", "2": "0.40709236", "3": "0.011057829", "4": "0.20123032", "5": "0.10027837", "6": "0.10465389"}}

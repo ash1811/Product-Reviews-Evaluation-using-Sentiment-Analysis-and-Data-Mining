@@ -1,0 +1,1 @@
+{"text": "Got this watch to wear for semi-formal occasions but also donned it on casual situations. Very comfortable and looks great!", "sentiment": "negative", "topics": {"0": "0.011016711", "1": "0.4177592", "2": "0.0943402", "3": "0.13416523", "4": "0.16642779", "5": "0.16523984", "6": "0.011050999"}}

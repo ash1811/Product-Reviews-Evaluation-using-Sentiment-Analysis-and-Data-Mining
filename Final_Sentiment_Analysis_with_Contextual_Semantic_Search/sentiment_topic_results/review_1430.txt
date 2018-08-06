@@ -1,0 +1,1 @@
+{"text": "I'm very happy with my purchase, durable perfect size, affordable.  I know this will be a great backpack for years to come!", "sentiment": "positive", "topics": {"0": "0.011016822", "1": "0.6622444", "2": "0.09226741", "3": "0.20143011", "4": "0.011007845", "5": "0.011006998", "6": "0.011026436"}}

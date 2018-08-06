@@ -1,0 +1,1 @@
+{"text": "I have a pair of these scuff slippers in lilac and like them.  When I needed a new pair, I purchased the same style in gray. Lovely!", "sentiment": "negative", "topics": {"0": "0.010211884", "1": "0.17014672", "2": "0.010229654", "3": "0.29242468", "4": "0.13310368", "5": "0.20972297", "6": "0.17416039"}}

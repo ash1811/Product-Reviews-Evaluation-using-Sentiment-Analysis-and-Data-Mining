@@ -1,0 +1,1 @@
+{"text": "My husband received this gift today for Christmas. He is picky so I wasn't sure if he would like this beanie. He loves it says it is super warm. Looks good on him as well well worth the money", "sentiment": "negative", "topics": {"0": "0.13968875", "1": "0.39025307", "2": "0.19945724", "4": "0.1279706", "6": "0.12896168"}}

@@ -1,0 +1,1 @@
+{"text": "This over the calf boot sock is one of my favorites because it's like a support sock which helps improve circulation", "sentiment": "negative", "topics": {"0": "0.011916224", "1": "0.011926378", "2": "0.011943416", "3": "0.13494556", "4": "0.34557894", "5": "0.21327712", "6": "0.2704124"}}

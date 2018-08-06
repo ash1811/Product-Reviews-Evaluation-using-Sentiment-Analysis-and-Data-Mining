@@ -1,0 +1,1 @@
+{"text": "beautiful!  Goes with everything.  Mainly blue and silver, but picks up other surrounding colors too.  Just the right size.  Nice.", "sentiment": "negative", "topics": {"0": "0.010266165", "1": "0.34829825", "2": "0.15386564", "3": "0.29715192", "4": "0.010246058", "5": "0.1699416", "6": "0.010230347"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these or style not to ride in. They are well made (except for the stray stitching around the thigh pad- which can be snipped with a small pair of sciccors). Fit's great.", "sentiment": "positive", "topics": {"1": "0.5504621", "5": "0.108798735", "6": "0.31060818"}}

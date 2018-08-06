@@ -1,0 +1,1 @@
+{"text": "Bought these for my 20 yr. old daughter and she is very pleased with them. I am happy that she is happy.", "sentiment": "negative", "topics": {"0": "0.75168025", "1": "0.014335567", "2": "0.17669432", "3": "0.014319504", "4": "0.014330198", "5": "0.014350496", "6": "0.014289622"}}

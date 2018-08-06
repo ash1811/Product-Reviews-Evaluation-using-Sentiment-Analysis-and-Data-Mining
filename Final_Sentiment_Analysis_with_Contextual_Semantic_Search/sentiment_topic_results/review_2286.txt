@@ -1,0 +1,1 @@
+{"text": "Stylish, comfortable and look good with jeans or slacks.  Fits well and has plenty of room to wiggle my toes.", "sentiment": "positive", "topics": {"0": "0.011022525", "1": "0.6125727", "2": "0.010998448", "3": "0.011010534", "4": "0.011004033", "5": "0.08900972", "6": "0.254382"}}

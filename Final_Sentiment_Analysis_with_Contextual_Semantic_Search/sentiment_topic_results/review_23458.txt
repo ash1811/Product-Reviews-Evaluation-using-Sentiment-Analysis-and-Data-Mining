@@ -1,0 +1,1 @@
+{"text": "THE POOR MANS ROLEX THIS Invicta Men's 8926OB Pro Diver Collection Coin-Edge Automatic Watch by InvictaYOU WILL NEED TO HAVE SIZED FOR YOUR WRIST OR BUY THE ADJUSTMENT TOOL AND THE WINDER.", "sentiment": "positive", "topics": {"0": "0.09633801", "1": "0.11440463", "2": "0.209825", "3": "0.08258907", "4": "0.1390531", "5": "0.23535173", "6": "0.12243851"}}

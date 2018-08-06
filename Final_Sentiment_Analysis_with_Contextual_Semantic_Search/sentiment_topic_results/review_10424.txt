@@ -1,0 +1,1 @@
+{"text": "These are very nice hoop earrings for a child. Very small. They did not work for me, but if you like small earrings they might.", "sentiment": "positive", "topics": {"0": "0.011945173", "1": "0.49887285", "2": "0.0119268615", "3": "0.4414637", "4": "0.011917321", "5": "0.011930272", "6": "0.0119437985"}}

@@ -1,0 +1,1 @@
+{"text": "did not fit my daughter and i went with the size chart, on thing I am very grateful was that it arrived super fast", "sentiment": "negative", "topics": {"0": "0.40681753", "1": "0.29455587", "2": "0.013034141", "3": "0.013082974", "4": "0.013006971", "5": "0.13632475", "6": "0.12317779"}}

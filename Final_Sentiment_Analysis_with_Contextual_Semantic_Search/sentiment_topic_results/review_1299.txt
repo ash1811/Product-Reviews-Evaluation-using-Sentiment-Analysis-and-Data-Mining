@@ -1,0 +1,1 @@
+{"text": "I love these shows, shipping was fast. They only thing I did not like about them was at first they were a little tight, I have wide feet. After wearing them for a while they broke in and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.14321736", "1": "0.41377544", "2": "0.20583543", "4": "0.20852636"}}

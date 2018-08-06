@@ -1,0 +1,1 @@
+{"text": "I'm go to school and choose not to pay rent. I live somewhere that does not have heat.  I wear this when I sleep in the cold 20-30 degree nights.  My head stays nice and warm.  I'll buy again.", "sentiment": "positive", "topics": {"1": "0.23477294", "2": "0.27604577", "3": "0.22462623", "4": "0.14421877", "5": "0.10788179"}}

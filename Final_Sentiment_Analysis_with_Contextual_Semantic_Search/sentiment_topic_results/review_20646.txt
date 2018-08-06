@@ -1,0 +1,1 @@
+{"text": "We gave this watch to a six-year-old girl for her birthday and, according to her mother, she hasn't taken it off yet.", "sentiment": "negative", "topics": {"0": "0.2128287", "1": "0.013025529", "2": "0.58184165", "3": "0.15316425", "4": "0.0130482055", "5": "0.013085234", "6": "0.0130064"}}

@@ -1,0 +1,1 @@
+{"text": "Although I still put these on my son, the legs are HUGE! They look more like a skirt at times because of how wide the legs are. I wouldn't buy again.", "sentiment": "negative", "topics": {"1": "0.2991656", "2": "0.12932429", "3": "0.19259065", "5": "0.35204595"}}

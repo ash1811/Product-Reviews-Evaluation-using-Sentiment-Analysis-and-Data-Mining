@@ -1,0 +1,1 @@
+{"text": "i'm returning these because, 1. they itch my skin, feet and ankle. 2. not warm enough. did not meet my needs. but the itching was enough to consider returning them.", "sentiment": "negative", "topics": {"0": "0.09958043", "1": "0.17617898", "2": "0.09245557", "3": "0.38412356", "4": "0.17497444", "6": "0.065128885"}}

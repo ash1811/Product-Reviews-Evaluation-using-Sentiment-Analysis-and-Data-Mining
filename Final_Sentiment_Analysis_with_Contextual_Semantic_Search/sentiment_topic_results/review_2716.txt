@@ -1,0 +1,1 @@
+{"text": "Wow - very beautiful! My husband will only wear a Skagen watch and this one is the best looking yet. Perfect in every way - and what a great buy.", "sentiment": "negative", "topics": {"0": "0.14482178", "1": "0.3071505", "2": "0.0972456", "4": "0.42390645"}}

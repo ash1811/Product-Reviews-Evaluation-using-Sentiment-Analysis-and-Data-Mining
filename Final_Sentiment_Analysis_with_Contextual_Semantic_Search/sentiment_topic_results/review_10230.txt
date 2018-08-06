@@ -1,0 +1,1 @@
+{"text": "I was looking for a crisp shiny necklace that would sparkle and this one doesn't.  It's duller than I wanted.", "sentiment": "negative", "topics": {"0": "0.39701596", "1": "0.18982883", "2": "0.25837752", "3": "0.013043189", "4": "0.0130460225", "5": "0.013006658", "6": "0.1156818"}}

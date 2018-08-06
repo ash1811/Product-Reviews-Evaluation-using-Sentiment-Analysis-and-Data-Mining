@@ -1,0 +1,1 @@
+{"text": "The lenses are truly mirrored and the sunglasses are exactly what you'd expect. I rated four stars just cause the're pretty large and look a bit goofy on my face.", "sentiment": "negative", "topics": {"0": "0.18929255", "1": "0.17960118", "2": "0.28182846", "3": "0.09923851", "4": "0.06504441", "5": "0.17705622"}}

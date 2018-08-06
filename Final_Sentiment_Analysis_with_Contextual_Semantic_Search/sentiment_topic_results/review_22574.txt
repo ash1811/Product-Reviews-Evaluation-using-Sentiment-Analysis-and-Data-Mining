@@ -1,0 +1,1 @@
+{"text": "The rise was a little low and the flare was a little wide compared to the similar pants from southpole. I consider it more of a junior style but have no issue with the quality.Good pants, just not for me at 24.", "sentiment": "negative", "topics": {"0": "0.14803632", "1": "0.36553657", "3": "0.22934511", "4": "0.07741873", "5": "0.16377075"}}

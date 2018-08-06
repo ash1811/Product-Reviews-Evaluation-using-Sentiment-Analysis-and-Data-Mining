@@ -1,0 +1,1 @@
+{"text": "The price was amazing and it goes with a bracelet I ordered to go with it.  Makes a beautiful gift.", "sentiment": "positive", "topics": {"0": "0.53775287", "1": "0.013043172", "2": "0.01304435", "3": "0.14609732", "4": "0.2640328", "5": "0.013034744", "6": "0.012994811"}}

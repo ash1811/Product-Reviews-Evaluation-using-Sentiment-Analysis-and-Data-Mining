@@ -1,0 +1,1 @@
+{"text": "I am very impressed with this bracelet.  It is bigger than I expected.  I just recently starting wearing more silver jewelry and needed a bracelet to go with my other jewelry.  Hopefully I'll get a lot of use out of it.", "sentiment": "negative", "topics": {"1": "0.3770803", "2": "0.16297413", "3": "0.23232958", "4": "0.20612077"}}

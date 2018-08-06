@@ -1,0 +1,1 @@
+{"text": "My husband will not wear anything  but Merrell shoes anymore. He has  een wearing them for a number of years now and absolutely loves them", "sentiment": "negative", "topics": {"0": "0.011013375", "1": "0.12017064", "2": "0.36151582", "3": "0.20033725", "4": "0.28495002", "5": "0.01102179", "6": "0.010991158"}}

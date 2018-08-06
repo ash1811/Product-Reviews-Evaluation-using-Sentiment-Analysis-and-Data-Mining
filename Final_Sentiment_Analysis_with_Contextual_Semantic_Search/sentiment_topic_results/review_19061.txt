@@ -1,0 +1,1 @@
+{"text": "I liked it so much I had to create a stash of them in my closet. Feels like your own skin except it realy naturally and comfortably lifts your breast.", "sentiment": "negative", "topics": {"0": "0.20435213", "1": "0.3196961", "2": "0.16620074", "5": "0.28106344"}}

@@ -1,0 +1,1 @@
+{"text": "The quality of the shoe seems high though the width is narrower than the norm.  I will have to exchange them for a wider width so my father can wear them.", "sentiment": "negative", "topics": {"1": "0.26135603", "2": "0.17168927", "3": "0.2365555", "6": "0.3017369"}}

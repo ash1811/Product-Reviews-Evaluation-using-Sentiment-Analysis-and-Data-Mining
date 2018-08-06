@@ -1,0 +1,1 @@
+{"text": "This provided some needed support when I was walking around Ikea and getting beckoned by cheap colorful furniture. However, it cuts into me when I sit down and I have to remove it. It's still helpful, though I can't give it 4 or 5 stars.", "sentiment": "negative", "topics": {"0": "0.072450735", "1": "0.28264743", "2": "0.2054183", "3": "0.16750175", "5": "0.26049775"}}

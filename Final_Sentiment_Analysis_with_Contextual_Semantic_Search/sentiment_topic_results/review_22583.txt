@@ -1,0 +1,1 @@
+{"text": "My only complaint is that they pretty much need to be ironed -- even right out of the dryer.They fit nice, and are so comfy.", "sentiment": "negative", "topics": {"0": "0.011969269", "1": "0.63243175", "2": "0.011961922", "3": "0.20930701", "4": "0.011933744", "5": "0.011941061", "6": "0.1104553"}}

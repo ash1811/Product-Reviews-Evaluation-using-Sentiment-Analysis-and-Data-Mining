@@ -1,0 +1,1 @@
+{"text": "My daughter was impressed with this ring.  It is danty and looks good on her finger.  I forget what we paid for it, but her reaction was priceless.", "sentiment": "negative", "topics": {"0": "0.26149696", "1": "0.24995826", "2": "0.12782857", "3": "0.011015294", "4": "0.22804657", "5": "0.011019161", "6": "0.11063518"}}

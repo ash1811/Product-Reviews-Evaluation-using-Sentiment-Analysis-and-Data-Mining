@@ -1,0 +1,1 @@
+{"text": "This is definitely not the most attractive watch in the world but when it comes to functionality, it does the job.I bought it because it has a feature where it beeps every hour.It's reliable and works great.", "sentiment": "negative", "topics": {"1": "0.35578206", "2": "0.16504668", "3": "0.051864196", "4": "0.32415023", "6": "0.0852397"}}

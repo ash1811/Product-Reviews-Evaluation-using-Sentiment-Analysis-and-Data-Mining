@@ -1,0 +1,1 @@
+{"text": "Bought these for my wife (3rd pair). She likes the support and padding in them when she goes for her excercise walkes.", "sentiment": "positive", "topics": {"0": "0.1607812", "1": "0.37165967", "2": "0.0130039845", "3": "0.013096234", "4": "0.013041667", "5": "0.41539133", "6": "0.013025954"}}

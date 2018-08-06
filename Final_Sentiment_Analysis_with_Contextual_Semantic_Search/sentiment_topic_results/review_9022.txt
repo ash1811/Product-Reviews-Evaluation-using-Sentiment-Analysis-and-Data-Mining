@@ -1,0 +1,1 @@
+{"text": "I bought these shoes for my mom for Christmas and she really likes them. I own several pairs of Skechers like these and they are very comfortable.  I highly recommend this shoe.", "sentiment": "positive", "topics": {"0": "0.12636732", "1": "0.19145782", "2": "0.39067826", "3": "0.264596"}}

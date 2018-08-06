@@ -1,0 +1,1 @@
+{"text": "Nice boots, somewhat wide, but 2E, so i knew they were wide.. comfortable, light, and good quality. so i would recommend", "sentiment": "negative", "topics": {"0": "0.010220028", "1": "0.6686021", "2": "0.22035834", "3": "0.01021677", "4": "0.07016837", "5": "0.010215915", "6": "0.010218496"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these because they were so cheap.  Almost immediately they began to fray.  I should have bought leather gloves.", "sentiment": "negative", "topics": {"0": "0.01433571", "1": "0.2064387", "2": "0.61731565", "3": "0.014324482", "4": "0.014324267", "5": "0.014354493", "6": "0.11890668"}}

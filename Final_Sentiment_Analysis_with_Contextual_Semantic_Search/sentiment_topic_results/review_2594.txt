@@ -1,0 +1,1 @@
+{"text": "I have pretty skinny legs, and the tops of the boots were a little snug, but they are adorable on!", "sentiment": "negative", "topics": {"0": "0.11646954", "1": "0.014363867", "2": "0.014319996", "3": "0.56879956", "4": "0.138648", "5": "0.014325234", "6": "0.13307379"}}

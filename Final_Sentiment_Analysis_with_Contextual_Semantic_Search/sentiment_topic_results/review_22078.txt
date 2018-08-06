@@ -1,0 +1,1 @@
+{"text": "I ordered these for a christmas gift.  It is one pair of a nice fuzzy, warm, and very soft pair of socks.  I got the blue pair and it appears pretty close to the picture on amazon.  No complaints.", "sentiment": "negative", "topics": {"0": "0.0727831", "1": "0.62466884", "4": "0.10396882", "6": "0.17804608"}}

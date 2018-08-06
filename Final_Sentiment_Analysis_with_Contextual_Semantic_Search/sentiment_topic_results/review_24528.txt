@@ -1,0 +1,1 @@
+{"text": "it was a good fit. i have a small waist and chest but a big butt! it worked out fine!", "sentiment": "negative", "topics": {"0": "0.014311892", "1": "0.38780922", "2": "0.4336141", "3": "0.12106092", "4": "0.014501566", "5": "0.014332399", "6": "0.014369938"}}

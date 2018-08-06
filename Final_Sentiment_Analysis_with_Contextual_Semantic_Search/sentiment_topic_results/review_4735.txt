@@ -1,0 +1,1 @@
+{"text": "I got this for my son for Christmas. He is doing Welding and wears this all the time - even when he isn't welding.", "sentiment": "positive", "topics": {"0": "0.015932932", "1": "0.40657914", "2": "0.015905827", "3": "0.015920695", "4": "0.015880994", "5": "0.51379657", "6": "0.015983872"}}

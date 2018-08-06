@@ -1,0 +1,1 @@
+{"text": "I really like these. they fit the curvy girl, are long enough and opaque! I got the navy and I love them. Havent pilled at the thighs yet.", "sentiment": "positive", "topics": {"0": "0.46815512", "1": "0.25329658", "6": "0.24662887"}}

@@ -1,0 +1,1 @@
+{"text": "My feet have become more sensitve as I age and seams over the top of toes, even turned inside out still irritate. These are a dream. I am wearing a pair right now...no seams means no soreness, worth the extra cost .", "sentiment": "negative", "topics": {"1": "0.11638171", "2": "0.2599709", "3": "0.3567964", "4": "0.121572435", "6": "0.13333207"}}

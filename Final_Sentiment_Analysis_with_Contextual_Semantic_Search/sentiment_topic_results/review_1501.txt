@@ -1,0 +1,1 @@
+{"text": "My 8 year old son loves this backpack. We are hoping to get several years of school out of this backpack.", "sentiment": "negative", "topics": {"0": "0.011015696", "1": "0.37008202", "2": "0.30091593", "3": "0.011048872", "4": "0.011049831", "5": "0.28485605", "6": "0.011031619"}}

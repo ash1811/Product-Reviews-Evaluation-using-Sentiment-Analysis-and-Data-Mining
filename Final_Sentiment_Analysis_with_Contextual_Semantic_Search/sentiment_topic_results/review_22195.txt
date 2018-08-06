@@ -1,0 +1,1 @@
+{"text": "For me this belt was just ok. It was very long somewhat flimsy and more of a neon pik color which was not my cup of tea.", "sentiment": "negative", "topics": {"0": "0.012994104", "1": "0.28466204", "2": "0.34819788", "3": "0.12278163", "4": "0.013024465", "5": "0.2053019", "6": "0.01303805"}}

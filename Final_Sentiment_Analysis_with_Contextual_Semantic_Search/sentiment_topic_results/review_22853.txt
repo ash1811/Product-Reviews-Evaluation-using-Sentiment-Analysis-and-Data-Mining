@@ -1,0 +1,1 @@
+{"text": "Ah, they are shoe laces. Good color, nice feel and they look good with my shoes.", "sentiment": "negative", "topics": {"0": "0.013037327", "1": "0.5395062", "2": "0.21038333", "3": "0.013015092", "4": "0.013007004", "5": "0.013011396", "6": "0.19803964"}}

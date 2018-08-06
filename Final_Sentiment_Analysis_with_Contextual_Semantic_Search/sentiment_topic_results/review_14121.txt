@@ -1,0 +1,1 @@
+{"text": "Really gorgeous the design is so beautiful I wear it everyday because its pretty strong too. has a really great shine", "sentiment": "positive", "topics": {"0": "0.011072327", "1": "0.011045372", "2": "0.011043484", "3": "0.011040483", "4": "0.19763635", "5": "0.74716115", "6": "0.011000827"}}

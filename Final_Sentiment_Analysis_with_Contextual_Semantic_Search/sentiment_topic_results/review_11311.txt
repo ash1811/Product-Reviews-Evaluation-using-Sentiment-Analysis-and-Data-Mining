@@ -1,0 +1,1 @@
+{"text": "These are nice sweatpants and wash well. They are very comfortable and slimming. Black color is true to word. Excellent purchase.", "sentiment": "negative", "topics": {"0": "0.098528996", "1": "0.6004681", "2": "0.17709571", "3": "0.011047994", "4": "0.010995204", "5": "0.011023601", "6": "0.090840355"}}

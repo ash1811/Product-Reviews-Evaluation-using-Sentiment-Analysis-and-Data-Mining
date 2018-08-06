@@ -1,0 +1,1 @@
+{"text": "I would have like a firmer support, but the only way to do that would be to tighten the straps, thus causing shoulder pain.", "sentiment": "negative", "topics": {"0": "0.011035336", "1": "0.011007617", "2": "0.45070595", "3": "0.23869857", "4": "0.26652518", "5": "0.011011244", "6": "0.011016142"}}

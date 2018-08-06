@@ -1,0 +1,1 @@
+{"text": "if you wear a large buy an extra large that way they will fit.they are a little thin but make a good under shirt.", "sentiment": "negative", "topics": {"0": "0.011004414", "1": "0.38278177", "2": "0.010997823", "3": "0.46545205", "4": "0.011014263", "5": "0.011026731", "6": "0.10772295"}}

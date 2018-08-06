@@ -1,0 +1,1 @@
+{"text": "I ordered these for my Mother who is recovering from Cancer surgery on her leg and needed a sandlal with a good grip.  She absolutely loves the fit and how well they breathe.", "sentiment": "negative", "topics": {"1": "0.4507995", "2": "0.09521023", "3": "0.14005858", "4": "0.1990082", "6": "0.097045906"}}

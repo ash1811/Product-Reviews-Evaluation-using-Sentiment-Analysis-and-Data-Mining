@@ -1,0 +1,1 @@
+{"text": "can't beat these!! Match any outfit and look stunning! These are my second pair after i lost the first pair. That's how much I love them!", "sentiment": "negative", "topics": {"1": "0.48219275", "3": "0.35543272", "4": "0.12859881"}}

@@ -1,0 +1,1 @@
+{"text": "These seem to run a little big. Had to get a size down from what my boyfriend wears. We ended up having to return the first pair because they were too big, but the second pair fit great and he says they are very comfortable. He is very happy with them.", "sentiment": "negative", "topics": {"1": "0.44826984", "3": "0.24066046", "5": "0.088053726", "6": "0.20344123"}}

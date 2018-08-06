@@ -1,0 +1,1 @@
+{"text": "This was purchased for my son who has been buying this exact same shoe for many years and he will have none other.  His word on them is 5 stars, so I'll take him at his word.", "sentiment": "negative", "topics": {"1": "0.21550372", "2": "0.26154217", "3": "0.124743976", "6": "0.3711939"}}

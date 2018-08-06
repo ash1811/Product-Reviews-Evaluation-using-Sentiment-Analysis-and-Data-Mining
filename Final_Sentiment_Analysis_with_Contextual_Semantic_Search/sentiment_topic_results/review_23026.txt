@@ -1,0 +1,1 @@
+{"text": "These Champion shorts fit great and are as cool and comfortable as can be for exercising. Champion quality is as expected, the same as all their athletic wear. I bought three other colors and will buy again.", "sentiment": "negative", "topics": {"0": "0.09038076", "1": "0.6095164", "3": "0.08862341", "5": "0.18760161"}}

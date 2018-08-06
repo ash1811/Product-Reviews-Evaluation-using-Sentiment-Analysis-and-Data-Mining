@@ -1,0 +1,1 @@
+{"text": "I bought this watch -- actually, I almost stole it -- to work in the gardens of our local arboretum where I volunteer. Perfect. Lightweight, comfortable, and I don't have to worry about getting it muddy or scratched.", "sentiment": "negative", "topics": {"1": "0.2616091", "2": "0.2684618", "4": "0.14025241", "5": "0.100699715", "6": "0.21306081"}}

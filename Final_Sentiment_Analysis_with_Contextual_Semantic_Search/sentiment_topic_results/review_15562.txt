@@ -1,0 +1,1 @@
+{"text": "I love these scrubs.  I will be purchasing more of them.  The matching top is a great scrub too.  Lots of pockets in both of them.", "sentiment": "negative", "topics": {"0": "0.011046141", "1": "0.1231478", "2": "0.0110438485", "3": "0.8217148", "4": "0.011014058", "5": "0.011022052", "6": "0.0110112475"}}

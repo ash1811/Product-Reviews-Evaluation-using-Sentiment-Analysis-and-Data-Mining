@@ -1,0 +1,1 @@
+{"text": "a very stylish,durable and comfortable pants.i use this for work as a tour operator who spends most of my hours outdoors. my clients all compliment how smart they look. excellent price too.", "sentiment": "negative", "topics": {"1": "0.19315173", "2": "0.3379148", "4": "0.22542334", "6": "0.2196104"}}

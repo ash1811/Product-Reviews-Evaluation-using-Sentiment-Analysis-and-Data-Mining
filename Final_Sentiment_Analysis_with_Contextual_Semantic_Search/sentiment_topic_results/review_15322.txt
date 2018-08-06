@@ -1,0 +1,1 @@
+{"text": "Bought these for work as I need to wear khakis! These where the worst! Fell off my butt all day! Waste of money! Im buying scrubs from Wal-Mart!", "sentiment": "positive", "topics": {"2": "0.07420924", "3": "0.3094951", "5": "0.44486102", "6": "0.14458098"}}

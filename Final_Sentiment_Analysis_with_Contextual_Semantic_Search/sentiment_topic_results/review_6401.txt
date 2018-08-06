@@ -1,0 +1,1 @@
+{"text": "Very plush and cozy for long walks. No blisters, no slipping, just happy tootsies. One of my favorite Thorlo styles.", "sentiment": "negative", "topics": {"0": "0.50361824", "1": "0.36251694", "2": "0.0110824555", "3": "0.010996505", "4": "0.011077843", "5": "0.011023411", "6": "0.08968459"}}

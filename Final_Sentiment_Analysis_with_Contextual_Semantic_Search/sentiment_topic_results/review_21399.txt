@@ -1,0 +1,1 @@
+{"text": "I used them The whole summer, they are elegant and simple, love this shoes, you can wear them anytime Thank you!!!!!!", "sentiment": "negative", "topics": {"0": "0.28581202", "1": "0.011972926", "2": "0.21599703", "3": "0.22993243", "4": "0.011964354", "5": "0.011960388", "6": "0.23236088"}}

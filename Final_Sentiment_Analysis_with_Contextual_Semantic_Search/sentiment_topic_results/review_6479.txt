@@ -1,0 +1,1 @@
+{"text": "I own a lot of good socks, smart wool , thorlo, and I bought these for the summer, they are shorter than my other thorlos. Its winter now, so I put them away for 6 weeks. thorlo socks are wonderful.", "sentiment": "negative", "topics": {"0": "0.075488225", "1": "0.22074309", "2": "0.0760299", "3": "0.14951739", "5": "0.2852947", "6": "0.18577453"}}

@@ -1,0 +1,1 @@
+{"text": "Nice new wrangler jeans. Fit better than levis. Good shade of blue and some other colors. Good with shoes or boots.", "sentiment": "negative", "topics": {"1": "0.43303546", "2": "0.109649174", "3": "0.12128063", "4": "0.2162789", "6": "0.10062299"}}

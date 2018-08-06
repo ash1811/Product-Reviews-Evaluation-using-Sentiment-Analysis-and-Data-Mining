@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift for my wife--\"my angel.\" It is nicely designed and looks great on her reminding her always what I think of her.", "sentiment": "negative", "topics": {"0": "0.41497007", "1": "0.2878421", "2": "0.011005868", "3": "0.010999078", "4": "0.080690436", "5": "0.011018857", "6": "0.18347357"}}

@@ -1,0 +1,1 @@
+{"text": "I wear these after running for recovery and just when a want to wear something cushioned and comfy, love them.", "sentiment": "negative", "topics": {"0": "0.013014596", "1": "0.14054292", "2": "0.013026867", "3": "0.48804215", "4": "0.013027492", "5": "0.31934807", "6": "0.0129979495"}}

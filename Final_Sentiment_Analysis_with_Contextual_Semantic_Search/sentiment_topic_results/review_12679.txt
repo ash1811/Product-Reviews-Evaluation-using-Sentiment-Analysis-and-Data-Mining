@@ -1,0 +1,1 @@
+{"text": "On behalf of my friend that I bought this for here is her review &#34;I love this bra, it fits perfectly&#34; She is  a petite person and the length was just right. She would recommend this to someone of a smaller stature.", "sentiment": "positive", "topics": {"0": "0.13230033", "1": "0.10982128", "3": "0.26720774", "4": "0.2608256", "5": "0.21478495"}}

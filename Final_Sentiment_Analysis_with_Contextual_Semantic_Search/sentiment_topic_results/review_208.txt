@@ -1,0 +1,1 @@
+{"text": "I was just planning a 5 day visit to my sis's in Tucson, but her health was so bad, I stayed 6 weeks. The temp here climbed to 95, and I was miserable. I ordered these shirts, and man instant cooling. I ordered 2 more.", "sentiment": "negative", "topics": {"0": "0.09811649", "1": "0.3894113", "3": "0.48857006"}}

@@ -1,0 +1,1 @@
+{"text": "These are very nice pants -- they're quite baggy but still look and feel great on me. I've always worn Adidas over anything else.", "sentiment": "negative", "topics": {"1": "0.33306035", "2": "0.1602118", "3": "0.16086367", "4": "0.1345294", "5": "0.10736315", "6": "0.095544234"}}

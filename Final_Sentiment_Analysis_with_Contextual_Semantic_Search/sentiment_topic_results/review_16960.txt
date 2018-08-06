@@ -1,0 +1,1 @@
+{"text": "Got these today...extremely well made and good quality....very happy with the fit and quality...wasn't sure when I ordered them...but am very glad I did and the price was a little high but worth the money..", "sentiment": "negative", "topics": {"0": "0.083990335", "1": "0.68505055", "2": "0.20073429"}}

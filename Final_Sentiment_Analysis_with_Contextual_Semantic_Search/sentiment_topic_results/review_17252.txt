@@ -1,0 +1,1 @@
+{"text": "The item was delivered quickly and without any problems. I am very happy!", "sentiment": "negative", "topics": {"0": "0.24737115", "1": "0.020512287", "2": "0.2592873", "3": "0.020463958", "4": "0.26467907", "5": "0.0204497", "6": "0.16723655"}}

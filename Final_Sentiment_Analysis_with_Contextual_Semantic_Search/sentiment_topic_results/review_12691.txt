@@ -1,0 +1,1 @@
+{"text": "My aunt only wears these types of bras and she liked this one, no complaints and trust me I would have heard it if there was any,,,,,", "sentiment": "negative", "topics": {"0": "0.011967447", "1": "0.38973856", "2": "0.30328318", "3": "0.1615789", "4": "0.011943733", "5": "0.011952698", "6": "0.109535545"}}

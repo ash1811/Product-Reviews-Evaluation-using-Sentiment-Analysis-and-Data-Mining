@@ -1,0 +1,1 @@
+{"text": "I did not like the fabric. It just looks very cheap, too white and shiny. I do give credit to the support. I guess its good for someone who wants good support without wires. Like the wide straps.", "sentiment": "positive", "topics": {"1": "0.52167463", "2": "0.10040642", "4": "0.0703861", "5": "0.12850328", "6": "0.16536903"}}

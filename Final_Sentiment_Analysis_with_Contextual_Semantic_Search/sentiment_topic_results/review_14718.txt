@@ -1,0 +1,1 @@
+{"text": "Great product! Just as expected! The leather is perfect and the im never disappointed when i buy something from Kenneth Cole.", "sentiment": "negative", "topics": {"0": "0.011001855", "1": "0.42933908", "2": "0.08381152", "3": "0.25515598", "4": "0.011009045", "5": "0.112179905", "6": "0.09750259"}}

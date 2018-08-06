@@ -1,0 +1,1 @@
+{"text": "A great bra for the money.  And for the full-busted woman.  Love this type of bra and always buy the same.", "sentiment": "positive", "topics": {"0": "0.011947901", "1": "0.5835051", "2": "0.011925937", "3": "0.26269886", "4": "0.011955936", "5": "0.011977329", "6": "0.10598899"}}

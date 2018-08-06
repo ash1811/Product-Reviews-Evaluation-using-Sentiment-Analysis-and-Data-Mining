@@ -1,0 +1,1 @@
+{"text": "The quality is good.  The fabric is soft, and this is a very very nice cut.Definitely will buy them again.bought this from amazon at a way better price than a retail store.", "sentiment": "negative", "topics": {"1": "0.4814532", "4": "0.117939405", "5": "0.36235735"}}

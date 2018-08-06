@@ -1,0 +1,1 @@
+{"text": "These are very nice shoes for wearing in the mud.  I have had them for a couple years and so far they have worn well.", "sentiment": "positive", "topics": {"0": "0.014315081", "1": "0.43841678", "2": "0.19154742", "3": "0.21022597", "4": "0.01429711", "5": "0.0143018635", "6": "0.116895795"}}

@@ -1,0 +1,1 @@
+{"text": "These flip flops are comfortable, squishy, and easy to walk in for long periods of time. Simple style and my favorite color~~black!", "sentiment": "positive", "topics": {"0": "0.11014256", "1": "0.6154145", "2": "0.08400269", "3": "0.01022235", "4": "0.010246451", "5": "0.010234083", "6": "0.15973733"}}

@@ -1,0 +1,1 @@
+{"text": "The cups of this thing were so crushed that I can't seem to get them back into their proper shape.  It also fits strangely.  Tight, but the cups were just a tad large, and I wear a 42DDD in every brand I buy.", "sentiment": "negative", "topics": {"1": "0.42642915", "3": "0.22090806", "4": "0.1895209", "6": "0.14360303"}}

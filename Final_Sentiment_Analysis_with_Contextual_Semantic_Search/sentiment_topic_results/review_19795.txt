@@ -1,0 +1,1 @@
+{"text": "I bought these watches for my wife to wear to work. She says they feel good and work fine but not sure how long they will last. Fairly cheaply made but that's why they are cheaply priced.", "sentiment": "negative", "topics": {"1": "0.34089348", "2": "0.3368365", "3": "0.20203368", "6": "0.098610625"}}

@@ -1,0 +1,1 @@
+{"text": "i'm not sure about the double dry but when I wore this to a spin class, the black dye bled all over my white top :(otherwise it fits well and supports. although it has underwire, I still get a slight uniboob effect at the top of the bra.", "sentiment": "negative", "topics": {"1": "0.05813342", "2": "0.191185", "3": "0.44169047", "5": "0.16421229", "6": "0.13376206"}}

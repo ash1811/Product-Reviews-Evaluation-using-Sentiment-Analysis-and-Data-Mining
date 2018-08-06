@@ -1,0 +1,1 @@
+{"text": "This is well-made and durable, should last a long time. However, for a proper fit, order one cup size smaller than you would normally.", "sentiment": "positive", "topics": {"0": "0.2386702", "1": "0.383171", "2": "0.1602107", "3": "0.19102925"}}

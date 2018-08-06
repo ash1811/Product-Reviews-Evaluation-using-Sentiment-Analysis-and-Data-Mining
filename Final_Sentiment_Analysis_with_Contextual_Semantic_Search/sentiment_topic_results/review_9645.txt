@@ -1,0 +1,1 @@
+{"text": "This is exactly the kind of watch I was looking for.  Large face, big numbers, comfortable band and the super feature is the glow in the dark by pressing on stem.  So far, keeping perfect time and am very happy with this purchase.", "sentiment": "negative", "topics": {"0": "0.17291237", "1": "0.39597115", "2": "0.23029417", "4": "0.13623945", "6": "0.052614536"}}

@@ -1,0 +1,1 @@
+{"text": "They are perfect. The are a wonderful gold color. They are large enough to go with any outfit and small enough to be ladylike.", "sentiment": "negative", "topics": {"0": "0.011936586", "1": "0.5250945", "2": "0.011913959", "3": "0.1946262", "4": "0.2325327", "5": "0.011950621", "6": "0.0119454255"}}

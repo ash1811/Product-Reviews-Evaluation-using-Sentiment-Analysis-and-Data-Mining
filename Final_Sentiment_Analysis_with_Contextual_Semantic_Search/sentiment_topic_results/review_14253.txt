@@ -1,0 +1,1 @@
+{"text": "I'm sure this would be a comfortable sandal but I have a narrow foot and not a high instep so the straps were too big and gapped.  I have this problem with most sandals though.", "sentiment": "positive", "topics": {"1": "0.33316576", "2": "0.3226766", "4": "0.22238149", "5": "0.09490701"}}

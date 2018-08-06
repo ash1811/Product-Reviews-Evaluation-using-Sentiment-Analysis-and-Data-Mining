@@ -1,0 +1,1 @@
+{"text": "I got a black one and it looks very pretty but I had to exchange it for a large size since it runs small.I have a 7 1/2 shoe size and with the large slipper I feel very comfortable.", "sentiment": "negative", "topics": {"0": "0.15125623", "1": "0.12446308", "2": "0.121483944", "3": "0.38582444", "6": "0.2026581"}}

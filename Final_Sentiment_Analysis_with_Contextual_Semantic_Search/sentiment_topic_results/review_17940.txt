@@ -1,0 +1,1 @@
+{"text": "love the light. can be an everyday watch. you can count on accuracy and water resistance, band is adjustable/ u just gotta love these vintage watches", "sentiment": "positive", "topics": {"0": "0.14061293", "2": "0.34081995", "4": "0.38312373", "5": "0.108637236"}}

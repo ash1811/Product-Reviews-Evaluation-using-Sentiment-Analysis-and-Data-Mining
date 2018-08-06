@@ -1,0 +1,1 @@
+{"text": "These are very comfortable and are easy to wash.  I would recomment them to anyone who is looking for great lounging.", "sentiment": "positive", "topics": {"0": "0.014329238", "1": "0.3380764", "2": "0.014318394", "3": "0.014359539", "4": "0.33591777", "5": "0.2686563", "6": "0.014342263"}}

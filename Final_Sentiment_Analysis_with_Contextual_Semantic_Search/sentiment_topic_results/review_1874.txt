@@ -1,0 +1,1 @@
+{"text": "They are very comfortable and well made. I am happy that the black soles do not leave streaks on my floor.  I am not happy that the black color rubs off onto my socks. I have tried wiping the interior off, but it continues to rub off.", "sentiment": "positive", "topics": {"0": "0.06542767", "1": "0.45624313", "3": "0.27639142", "4": "0.06523121", "5": "0.12426456"}}

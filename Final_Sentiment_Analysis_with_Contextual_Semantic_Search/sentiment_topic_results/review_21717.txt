@@ -1,0 +1,1 @@
+{"text": "A great wig.  Incredibly high quality for the price.  This is nothing like most chintzy wigs you buy at a Halloween store.  It is thick, beautiful, shiny, and fit our daughter's head well.  An excellent value.  Rubies has very good quality stuff.", "sentiment": "positive", "topics": {"1": "0.36927006", "2": "0.2565391", "3": "0.16628481", "6": "0.19194527"}}

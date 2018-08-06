@@ -1,0 +1,1 @@
+{"text": "Greaqt shoes, and a even better price. They look and feel great all day long. Especially commuting to the city.Walking around in these shoes, is like walking around in comfort all day long.", "sentiment": "positive", "topics": {"2": "0.1314574", "3": "0.22767253", "5": "0.44435132", "6": "0.17694904"}}

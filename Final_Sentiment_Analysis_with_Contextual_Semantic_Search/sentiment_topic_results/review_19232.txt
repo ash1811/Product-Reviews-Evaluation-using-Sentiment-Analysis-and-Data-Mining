@@ -1,0 +1,1 @@
+{"text": "Great wallet for the price!!  My only complaint is that I wish there was more expansion room - it can be difficult to snap the flat down.", "sentiment": "negative", "topics": {"0": "0.011927999", "1": "0.527017", "2": "0.011964161", "3": "0.20710807", "4": "0.011940353", "5": "0.108359784", "6": "0.121682614"}}

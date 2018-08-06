@@ -1,0 +1,1 @@
+{"text": "This shirt is a beautiful color and the material is nice and soft.  It fits my husband perfectly and looks great on.  Can't go wrong with this purchase.  Delivered ahead of scheduled time which is always a delight.", "sentiment": "negative", "topics": {"1": "0.5598359", "2": "0.22815493", "4": "0.18709636"}}

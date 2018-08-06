@@ -1,0 +1,1 @@
+{"text": "They were shipped quickly and my daughter loves the color and the comfort!  She wears them all the time for everyday use.  I didn't buy them for Yoga.", "sentiment": "negative", "topics": {"0": "0.011010783", "1": "0.29944956", "2": "0.09948205", "3": "0.011012253", "4": "0.1680474", "5": "0.3999567", "6": "0.011041252"}}

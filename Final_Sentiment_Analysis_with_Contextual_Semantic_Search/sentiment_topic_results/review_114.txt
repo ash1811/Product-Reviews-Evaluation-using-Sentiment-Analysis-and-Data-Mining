@@ -1,0 +1,1 @@
+{"text": "My dad travels a lot and that is an understatement. I got this item for him for when he was going to some shady places and he got a lot of use out of it.", "sentiment": "negative", "topics": {"0": "0.17316027", "1": "0.51313835", "2": "0.010245768", "3": "0.010253604", "4": "0.010249975", "5": "0.010243799", "6": "0.27270824"}}

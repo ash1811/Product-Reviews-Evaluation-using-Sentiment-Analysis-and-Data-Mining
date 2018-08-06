@@ -1,0 +1,1 @@
+{"text": "sexy as hell, low cut, no padding but still a generous pushup.  my only complaint is it feels a taaad small for a 34B.  nonetheless, I will be buying more in every color.", "sentiment": "negative", "topics": {"1": "0.4083024", "2": "0.06670883", "5": "0.3588684", "6": "0.14220828"}}

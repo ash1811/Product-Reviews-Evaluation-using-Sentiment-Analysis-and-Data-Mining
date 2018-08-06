@@ -1,0 +1,1 @@
+{"text": "im buying another pair of these shoes i only had them two days when i got compliments on them im an 8 to an 8 in a half and i ordered the 8 perfect fit not big or small great shoes if you have wider feet they are perfect", "sentiment": "negative", "topics": {"1": "0.72695506", "2": "0.11780505", "4": "0.06878814", "6": "0.069229305"}}

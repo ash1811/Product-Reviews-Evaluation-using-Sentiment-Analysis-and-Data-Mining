@@ -1,0 +1,1 @@
+{"text": "the waist size was big for me so i returned it. but i am planning to get one with 1 inch smaller waist", "sentiment": "negative", "topics": {"0": "0.011022338", "1": "0.12215264", "2": "0.39200994", "3": "0.4417703", "4": "0.011010405", "5": "0.011008989", "6": "0.011025358"}}

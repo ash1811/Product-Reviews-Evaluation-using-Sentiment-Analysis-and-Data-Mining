@@ -1,0 +1,1 @@
+{"text": "Ended up giving them to a friend (no, I never wore them, just tried them on). Only come in S, M, and L sizes. I wear an 8.5 shoe and I fell between the S and M. Neither fit just right. Wish they made more sizes", "sentiment": "negative", "topics": {"0": "0.10356939", "1": "0.35889116", "2": "0.12374716", "3": "0.16470751", "4": "0.13988996", "5": "0.10367583"}}

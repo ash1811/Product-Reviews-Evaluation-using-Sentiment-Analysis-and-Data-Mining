@@ -1,0 +1,1 @@
+{"text": "These are my goto flip flops when I'm looking for comfort. 5 stars for comfort and 3 stars for style/looks, which is merely personal preference.", "sentiment": "negative", "topics": {"1": "0.19307314", "2": "0.33172312", "3": "0.10951795", "4": "0.18248124", "6": "0.1653269"}}

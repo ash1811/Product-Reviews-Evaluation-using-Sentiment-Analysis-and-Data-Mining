@@ -1,0 +1,1 @@
+{"text": "i just wanted to say this is a super product the moccusons wear a perfect fit well made for the price.exc.as i order.", "sentiment": "positive", "topics": {"0": "0.08808883", "1": "0.39655998", "2": "0.011013975", "3": "0.23267739", "4": "0.0110057425", "5": "0.16540375", "6": "0.09525033"}}

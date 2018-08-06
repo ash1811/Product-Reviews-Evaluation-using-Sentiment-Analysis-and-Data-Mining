@@ -1,0 +1,1 @@
+{"text": "This is my favorite pj and I have been wearing these for a few years.  I do like the way they move with you and you do not ever wake up tangled .  They are very slippy.", "sentiment": "positive", "topics": {"0": "0.0119701", "1": "0.14607887", "2": "0.011947957", "3": "0.2274714", "4": "0.011928516", "5": "0.4420596", "6": "0.1485436"}}

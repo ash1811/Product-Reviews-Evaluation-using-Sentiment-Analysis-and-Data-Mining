@@ -1,0 +1,1 @@
+{"text": "Can't really go wrong with skechers shoes. They are very comfortable and I will definatly continue to buy skechers shoes.", "sentiment": "negative", "topics": {"0": "0.011007822", "1": "0.3535187", "2": "0.29890695", "3": "0.21095552", "4": "0.103607364", "5": "0.011012608", "6": "0.0109910155"}}

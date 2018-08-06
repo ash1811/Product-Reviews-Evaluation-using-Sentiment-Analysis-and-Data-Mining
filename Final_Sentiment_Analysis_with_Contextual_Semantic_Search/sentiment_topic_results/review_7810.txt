@@ -1,0 +1,1 @@
+{"text": "This product includes a few pins and works very well. It's always best to read the instructions for first in order to learn a few good tips to make the tool more useful.", "sentiment": "negative", "topics": {"0": "0.1718291", "1": "0.2832092", "3": "0.1370374", "4": "0.21089701", "5": "0.093097284", "6": "0.09595837"}}

@@ -1,0 +1,1 @@
+{"text": "These panties are cute, comfortable, and don't give the dreaded \"panty line\" under trousers. The cotton boy shorts are stretchier and fit a bit closer than the microfiber version. I wear both styles and enjoy them equally. A+!", "sentiment": "positive", "topics": {"0": "0.11819893", "1": "0.3067773", "3": "0.1387335", "5": "0.33004212", "6": "0.09379166"}}

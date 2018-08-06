@@ -1,0 +1,1 @@
+{"text": "Bought this for my spouse to bring on cruises to wear going back/forth to the pool area.  Great light weight and great for just slipping on/off when in a hurry and don't want to put on shoes.  Great for everyday as well.", "sentiment": "negative", "topics": {"0": "0.22612266", "1": "0.40764153", "2": "0.10944234", "3": "0.11534466", "4": "0.12899736"}}

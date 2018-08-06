@@ -1,0 +1,1 @@
+{"text": "First off I know these are guys sweats and I'm a female but I've always like the baggy sweeat pants look but they don't have that in womens so I got it in mens small. I love them there soft warm and the pockets are so deep(:", "sentiment": "negative", "topics": {"1": "0.58085847", "3": "0.124628946", "4": "0.2695813"}}

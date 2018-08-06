@@ -1,0 +1,1 @@
+{"text": "feels good and looks nice lots of space in the wallet. I like the logo swiss good buy for $10", "sentiment": "negative", "topics": {"0": "0.23565713", "1": "0.45109504", "2": "0.010246144", "3": "0.010244409", "4": "0.14090595", "5": "0.14159413", "6": "0.010257216"}}

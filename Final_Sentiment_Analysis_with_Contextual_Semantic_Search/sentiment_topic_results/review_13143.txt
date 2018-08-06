@@ -1,0 +1,1 @@
+{"text": "Nice, silk-like ties. regular men's length. Went well with the Great Gatsby costume. I would recommend this item. came quickly as well.", "sentiment": "negative", "topics": {"0": "0.27478963", "1": "0.32229418", "2": "0.099856965", "5": "0.083050475", "6": "0.20409599"}}

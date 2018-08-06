@@ -1,0 +1,1 @@
+{"text": "You can not go to far wrong with lee jeans.  These are your mothers jeans with that in mind They are a nice pair of pants", "sentiment": "positive", "topics": {"0": "0.011932026", "1": "0.2752595", "2": "0.13895218", "3": "0.2504389", "4": "0.011938908", "5": "0.20507336", "6": "0.10640511"}}

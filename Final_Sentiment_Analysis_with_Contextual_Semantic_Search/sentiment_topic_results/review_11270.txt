@@ -1,0 +1,1 @@
+{"text": "These are beautiful and came in a lovely presentation box for gift giving. They come in many sizes to suit your earlobes! They are well worth the price.", "sentiment": "negative", "topics": {"0": "0.2638967", "1": "0.18204986", "2": "0.05749408", "4": "0.39205575", "6": "0.0865676"}}

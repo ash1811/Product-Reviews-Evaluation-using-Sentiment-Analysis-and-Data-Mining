@@ -1,0 +1,1 @@
+{"text": "I do like these earrings. The only thing I warn about is they are not like the picture. They are not two toned, and they are quite thin. However, catches the light and pretty - just not well depicted in the picture.", "sentiment": "negative", "topics": {"1": "0.64309573", "6": "0.31708062"}}

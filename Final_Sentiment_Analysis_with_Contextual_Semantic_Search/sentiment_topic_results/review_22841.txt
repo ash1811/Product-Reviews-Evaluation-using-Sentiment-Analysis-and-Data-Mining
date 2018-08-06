@@ -1,0 +1,1 @@
+{"text": "Very nice costume, especially for the price.  Fast shipping.  Higher quality than I expected.  My daughter used it for 3 parties in one year and it held up just fine and looked great each time.  I was impressed.", "sentiment": "negative", "topics": {"0": "0.34062755", "1": "0.49902028", "2": "0.091430634", "4": "0.04941275"}}

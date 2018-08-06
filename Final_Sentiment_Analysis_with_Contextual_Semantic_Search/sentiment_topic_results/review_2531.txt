@@ -1,0 +1,1 @@
+{"text": "I thought these were so adorable and they fit like a glove. I had to order a larger size in some other sperry topsiders but these fit perfectly.  The colors are so adoable and I cant wait till spring.", "sentiment": "negative", "topics": {"1": "0.3123647", "2": "0.08252839", "3": "0.24439874", "5": "0.33798248"}}

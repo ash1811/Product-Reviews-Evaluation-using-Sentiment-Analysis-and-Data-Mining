@@ -1,0 +1,1 @@
+{"text": "I am in the trades and find these pants fit the budget and do the job. Comfort all day long with no unnecessary binding in the wrong spot. Hope Lee continues the line.", "sentiment": "positive", "topics": {"1": "0.5003631", "2": "0.2584387", "6": "0.20938152"}}

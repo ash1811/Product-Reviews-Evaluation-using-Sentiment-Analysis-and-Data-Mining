@@ -1,0 +1,1 @@
+{"text": "Comfortable and practical...good support and well cushioned indeed, nice color combo and washable to boot...can't beat it for the price.", "sentiment": "negative", "topics": {"0": "0.010213786", "1": "0.41183168", "2": "0.26840976", "3": "0.10390824", "4": "0.10148997", "5": "0.010215988", "6": "0.09393059"}}

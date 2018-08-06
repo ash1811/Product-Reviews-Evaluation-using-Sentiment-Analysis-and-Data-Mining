@@ -1,0 +1,1 @@
+{"text": "Not easy to spread, making lumps on the bottom of the shoe.  I wouldn't buy it again; would just go to a cobbler.", "sentiment": "negative", "topics": {"0": "0.011917147", "1": "0.11368355", "2": "0.23293887", "3": "0.16547498", "4": "0.24024959", "5": "0.13843276", "6": "0.09730307"}}

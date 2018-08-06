@@ -1,0 +1,1 @@
+{"text": "I love the style. and the fit is on the money. I am glad that I made this purchase. The curved bill is the way to go.", "sentiment": "negative", "topics": {"0": "0.011965275", "1": "0.19825886", "2": "0.011941944", "3": "0.011930436", "4": "0.23860067", "5": "0.5153889", "6": "0.011913933"}}

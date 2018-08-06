@@ -1,0 +1,1 @@
+{"text": "These socks wrinkle.  There is absolutely no stretch in them.  I love all cotton, but have worn these only once.  They will be given to charity.  I do not recommend them.", "sentiment": "negative", "topics": {"0": "0.010227797", "1": "0.010286346", "2": "0.17054538", "3": "0.4637837", "4": "0.16771397", "5": "0.08795826", "6": "0.08948455"}}

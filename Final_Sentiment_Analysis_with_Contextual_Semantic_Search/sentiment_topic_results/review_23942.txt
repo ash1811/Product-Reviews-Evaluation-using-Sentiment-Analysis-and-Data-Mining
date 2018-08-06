@@ -1,0 +1,1 @@
+{"text": "Thanks for providing a quality item at an affordable price. If you get these socks on sale, you will be extremely happy. They are of great quality and are soft.", "sentiment": "negative", "topics": {"1": "0.5543352", "4": "0.11678348", "5": "0.2164811", "6": "0.083685935"}}

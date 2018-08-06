@@ -1,0 +1,1 @@
+{"text": "This belt is very well made, sturdy yet light, and I  love that it so adjustable---no holes to deal with. Fashionable too!", "sentiment": "negative", "topics": {"0": "0.010244096", "1": "0.32705057", "2": "0.25149062", "3": "0.22080292", "4": "0.010240818", "5": "0.1699538", "6": "0.010217167"}}

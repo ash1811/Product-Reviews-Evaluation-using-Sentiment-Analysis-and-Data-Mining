@@ -1,0 +1,1 @@
+{"text": "This shoe fits well and is comfortable.  It stays on your heels, doesn't slide up and down.  Very sturdy for walking", "sentiment": "negative", "topics": {"0": "0.013028333", "1": "0.48030117", "2": "0.22962712", "3": "0.013048813", "4": "0.23787871", "5": "0.013107607", "6": "0.013008233"}}

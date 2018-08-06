@@ -1,0 +1,1 @@
+{"text": "Very nice slipper.  The slipper was true to size and the leather and sheepskin was good quality.  I would buy this again.", "sentiment": "negative", "topics": {"0": "0.010999669", "1": "0.43654495", "2": "0.18324122", "3": "0.0110353315", "4": "0.0942862", "5": "0.011035289", "6": "0.2528573"}}

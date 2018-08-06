@@ -1,0 +1,1 @@
+{"text": "Great shine and well made. I can even sleep in them comfortably which is not the case with most other jewelry.", "sentiment": "positive", "topics": {"0": "0.014323285", "1": "0.33671856", "2": "0.2086167", "3": "0.01432966", "4": "0.014303809", "5": "0.3973949", "6": "0.014313092"}}

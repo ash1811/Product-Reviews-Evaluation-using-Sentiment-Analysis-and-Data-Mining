@@ -1,0 +1,1 @@
+{"text": "I am sold on these Elance briefs. They fit me well, are comfortable, and give me the support I need. They are hard to find. The dept. store carries white or black and I like the colors available at Amazon.", "sentiment": "positive", "topics": {"0": "0.12058861", "1": "0.3668386", "3": "0.08247352", "4": "0.26458973", "5": "0.08268223", "6": "0.076000415"}}

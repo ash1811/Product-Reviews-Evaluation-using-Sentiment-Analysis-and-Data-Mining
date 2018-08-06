@@ -1,0 +1,1 @@
+{"text": "This bra is practically a sheer cloth. It's nice to provide something to wear at night while learning to nurse. It is thin enough it doesn't hurt sore nipples. I would never wear this out of the house, though.", "sentiment": "negative", "topics": {"1": "0.32966623", "2": "0.05622735", "3": "0.19460262", "4": "0.25823042", "5": "0.08942136", "6": "0.06535085"}}

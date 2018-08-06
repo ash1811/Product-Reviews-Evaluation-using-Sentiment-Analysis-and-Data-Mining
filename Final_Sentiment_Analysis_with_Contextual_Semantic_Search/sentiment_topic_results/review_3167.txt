@@ -1,0 +1,1 @@
+{"text": "Great jeans, great fit, a bit darker than anticipated .... but wearing them will soon bring out the right look without being shabby-looking.", "sentiment": "positive", "topics": {"0": "0.39366958", "1": "0.40747696", "3": "0.16067004"}}

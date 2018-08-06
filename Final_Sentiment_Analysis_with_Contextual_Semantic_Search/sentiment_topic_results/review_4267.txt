@@ -1,0 +1,1 @@
+{"text": "With my bad back, it's hard to do lace-up shoes, but I love Converse. Slip on is the answer. I wish they'd make it available in more colors!", "sentiment": "negative", "topics": {"0": "0.19510907", "1": "0.30198804", "2": "0.3224686", "3": "0.060981505", "5": "0.10036662"}}

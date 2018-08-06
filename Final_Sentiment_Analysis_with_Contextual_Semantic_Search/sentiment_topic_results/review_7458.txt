@@ -1,0 +1,1 @@
+{"text": "Ordinary socks don't cut it for hiking. These are fantastic!  They are soft and comfortable and I recommend Wool and/or Silk for hiking as either will help prevent blisters on the feet.", "sentiment": "positive", "topics": {"0": "0.40269583", "1": "0.27127323", "3": "0.08644078", "5": "0.13382934", "6": "0.08983651"}}

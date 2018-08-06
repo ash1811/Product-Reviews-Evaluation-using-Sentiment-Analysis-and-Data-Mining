@@ -1,0 +1,1 @@
+{"text": "My husbands choice for decades. He can't stand the cold and this takes care of the problem, and holds up to the hard work he does.", "sentiment": "positive", "topics": {"0": "0.10806895", "1": "0.32762358", "2": "0.010248533", "3": "0.36377403", "4": "0.16982172", "5": "0.01023225", "6": "0.010230903"}}

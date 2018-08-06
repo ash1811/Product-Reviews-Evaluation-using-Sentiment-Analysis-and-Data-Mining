@@ -1,0 +1,1 @@
+{"text": "Great full coverage bra, fits as expected. Comfortable. A great buy for the money. I have purchased these before and will do so again!", "sentiment": "negative", "topics": {"0": "0.09572259", "1": "0.5485952", "2": "0.010991337", "3": "0.18091986", "4": "0.011054956", "5": "0.14172202", "6": "0.010994068"}}

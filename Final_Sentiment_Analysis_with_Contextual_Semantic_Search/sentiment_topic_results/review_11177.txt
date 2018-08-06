@@ -1,0 +1,1 @@
+{"text": "I bought these earrings for my cartilage piercings, and I love them! They're small, but noticeable and match anything. Very happy with this purchase!", "sentiment": "negative", "topics": {"0": "0.389365", "1": "0.010246911", "2": "0.12521522", "3": "0.010263914", "4": "0.1340397", "5": "0.235479", "6": "0.09539027"}}

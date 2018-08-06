@@ -1,0 +1,1 @@
+{"text": "I bought myself two liked them so much I bought 6 more for my grandsons they love them no tarnishing O wear mine all the time and no problems with them at all they deserve a 10 star.", "sentiment": "negative", "topics": {"0": "0.094896354", "1": "0.6166673", "4": "0.25473168"}}

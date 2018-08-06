@@ -1,0 +1,1 @@
+{"text": "Liked it. This goes well with the snap on shirts. Less hassles, good material, smooth elastic waist, moreover it was on Amazon eligible list. Good buy!", "sentiment": "positive", "topics": {"1": "0.50926054", "2": "0.12642501", "4": "0.07646013", "5": "0.14110698", "6": "0.132406"}}

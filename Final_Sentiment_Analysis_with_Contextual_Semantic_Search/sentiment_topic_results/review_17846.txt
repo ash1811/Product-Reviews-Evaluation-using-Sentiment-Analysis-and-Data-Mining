@@ -1,0 +1,1 @@
+{"text": "I also like the watch. Was In a good condition its work so well and I really empress it looks like very expensive when you wear it. It's absolutelynice!! I have no regrets to choose this watch. Thank you.", "sentiment": "negative", "topics": {"0": "0.21929854", "1": "0.23596546", "2": "0.28535366", "3": "0.12870169", "4": "0.11702679"}}

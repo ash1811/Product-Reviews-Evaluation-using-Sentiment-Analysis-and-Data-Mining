@@ -1,0 +1,1 @@
+{"text": "Fits as expected and comfortable.Great everyday casual shoes.Will go well with jeans.It's a great buy. I recommend it.", "sentiment": "negative", "topics": {"0": "0.16558988", "1": "0.5103817", "2": "0.12087577", "3": "0.010218906", "4": "0.08167188", "5": "0.010225228", "6": "0.10103662"}}

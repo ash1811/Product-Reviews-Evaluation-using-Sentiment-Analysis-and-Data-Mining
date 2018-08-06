@@ -1,0 +1,1 @@
+{"text": "I really like Sketchers shoes and this shoe is no different. They look great, fit great, and I'm thinking about buying the same shoes in a different color. Overall, great shoes.", "sentiment": "negative", "topics": {"1": "0.41158277", "2": "0.31039053", "5": "0.07509336", "6": "0.18145815"}}

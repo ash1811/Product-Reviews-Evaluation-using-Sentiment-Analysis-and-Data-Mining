@@ -1,0 +1,1 @@
+{"text": "Levi's jeans...need I say more.  Great well made jean.  Purchased for my son, he loves this slim fit boot cut.", "sentiment": "negative", "topics": {"1": "0.4864484", "2": "0.11120299", "4": "0.23870794", "6": "0.13673268"}}

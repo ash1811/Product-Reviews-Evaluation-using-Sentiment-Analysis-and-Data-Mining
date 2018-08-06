@@ -1,0 +1,1 @@
+{"text": "Ample size (I wear a 9 1/2 shoe), shoe goes on easily over it, footsie stays on all day without slipping due to little anti-slip pads, well constructed. All in all a good buy for a reasonable price.", "sentiment": "negative", "topics": {"0": "0.14803989", "1": "0.2766988", "2": "0.092582844", "3": "0.13468982", "5": "0.21129896", "6": "0.13138036"}}

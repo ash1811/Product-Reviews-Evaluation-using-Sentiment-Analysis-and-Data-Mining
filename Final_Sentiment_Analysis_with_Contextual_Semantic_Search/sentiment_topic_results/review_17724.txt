@@ -1,0 +1,1 @@
+{"text": "A little thinner than ones purchased for $20 more - but seem well made for the price - have not worn as yet - but will change rating if it does not wear or last well.", "sentiment": "negative", "topics": {"1": "0.39612317", "2": "0.20601022", "4": "0.23128124", "6": "0.14128435"}}

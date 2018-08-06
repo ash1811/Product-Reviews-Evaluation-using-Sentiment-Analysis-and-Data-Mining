@@ -1,0 +1,1 @@
+{"text": "stone is not that pretty and sparkly.  it's ok for a child. the silver is pretty though. I am wearing it.", "sentiment": "negative", "topics": {"0": "0.39403298", "1": "0.2918789", "2": "0.013001512", "3": "0.2619901", "4": "0.013087249", "5": "0.013004407", "6": "0.013004865"}}

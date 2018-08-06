@@ -1,0 +1,1 @@
+{"text": "a little thin, but it's alright. it works fine and it looks nice with casual wear, for ten bucks, it is well worth it", "sentiment": "negative", "topics": {"0": "0.010226026", "1": "0.7730447", "2": "0.17579125", "3": "0.010225817", "4": "0.010252355", "5": "0.010240855", "6": "0.010219009"}}

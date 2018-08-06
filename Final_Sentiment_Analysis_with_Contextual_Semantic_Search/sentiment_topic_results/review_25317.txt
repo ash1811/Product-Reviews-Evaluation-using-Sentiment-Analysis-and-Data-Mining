@@ -1,0 +1,1 @@
+{"text": "Merrell Men's Moab Ventilator Shoe,Granite/Kryptonite,10.5 M US", "sentiment": "positive", "topics": {"0": "0.020427879", "1": "0.020427631", "2": "0.48376805", "3": "0.116064094", "4": "0.16995345", "5": "0.020423979", "6": "0.1689349"}}

@@ -1,0 +1,1 @@
+{"text": "My 5 year old wore these to my sister's wedding.  They were perfect for the occasion and didn't require any breaking in.", "sentiment": "positive", "topics": {"0": "0.011944943", "1": "0.23232077", "2": "0.10034844", "3": "0.01196218", "4": "0.1824339", "5": "0.44906232", "6": "0.011927468"}}

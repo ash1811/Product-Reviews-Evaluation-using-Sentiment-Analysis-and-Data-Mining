@@ -1,0 +1,1 @@
+{"text": "I bought these crocs for my granddaughter and was very dissapointed that they were too big for her.  The sizing is odd so I had to return them", "sentiment": "positive", "topics": {"0": "0.14448872", "1": "0.32633048", "2": "0.12535083", "3": "0.12068895", "4": "0.0143172955", "5": "0.15654293", "6": "0.11228075"}}

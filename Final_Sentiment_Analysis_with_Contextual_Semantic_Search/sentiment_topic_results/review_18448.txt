@@ -1,0 +1,1 @@
+{"text": "Love love love these.  This is my second pair - watch out for puppies - they love to chew on these!So cushy and comfortable.  Best price I've seen for Montrails.", "sentiment": "negative", "topics": {"1": "0.16713697", "2": "0.076133355", "3": "0.14925553", "4": "0.47114217", "6": "0.12123957"}}

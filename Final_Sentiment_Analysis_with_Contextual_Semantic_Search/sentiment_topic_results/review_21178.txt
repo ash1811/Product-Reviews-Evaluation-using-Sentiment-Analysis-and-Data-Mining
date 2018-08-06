@@ -1,0 +1,1 @@
+{"text": "This was purchased for my three year old son who always wants to participate in dress up with his big sister, but never had anything of his own, so I have started him a box of his own.", "sentiment": "negative", "topics": {"1": "0.3470772", "2": "0.2639228", "3": "0.10279092", "4": "0.16424526", "5": "0.10605857"}}

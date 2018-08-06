@@ -1,0 +1,1 @@
+{"text": "Son muy buenos compr&eacute; en 30 y me quedaron excelente, luego volv&iacute; a comprar en 30 y me qued&oacute; muy peque&ntilde;o de la cintura. Hay que tener en cuenta eso.", "sentiment": "negative", "topics": {"0": "0.082531504", "1": "0.13165055", "3": "0.20375773", "4": "0.14454131", "5": "0.27748024", "6": "0.15454291"}}

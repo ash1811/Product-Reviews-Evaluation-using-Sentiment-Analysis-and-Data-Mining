@@ -1,0 +1,1 @@
+{"text": "This gift was given as a gift to a young boy in the neighborhood. I understand from his father, the young man likes the watch and wears it constanctly. It was pretty neat. No he can tell the time around the world.", "sentiment": "negative", "topics": {"0": "0.4073429", "2": "0.07777052", "4": "0.12206694", "5": "0.18136981", "6": "0.19780429"}}

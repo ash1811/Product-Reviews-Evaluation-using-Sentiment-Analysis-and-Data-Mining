@@ -1,0 +1,1 @@
+{"text": "The charcoal heather color is just charcoal grey. They are pretty dark. I still like the color but was looking for more of a heather grey. The weaveis pretty loose on these and they get pretty stretched out while wearing them. But overall they work just fine for me.", "sentiment": "positive", "topics": {"1": "0.5369587", "2": "0.10595532", "5": "0.3350248"}}

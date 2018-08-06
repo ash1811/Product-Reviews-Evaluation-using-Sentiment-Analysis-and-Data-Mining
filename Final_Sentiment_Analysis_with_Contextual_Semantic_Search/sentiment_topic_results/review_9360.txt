@@ -1,0 +1,1 @@
+{"text": "The pants shipped are not what is shown online.  The pants I wanted had a button front and the ones shipped have a clasp and button tab", "sentiment": "negative", "topics": {"0": "0.010319998", "1": "0.18909743", "2": "0.010250775", "3": "0.010365754", "4": "0.36942488", "5": "0.23273548", "6": "0.1778057"}}

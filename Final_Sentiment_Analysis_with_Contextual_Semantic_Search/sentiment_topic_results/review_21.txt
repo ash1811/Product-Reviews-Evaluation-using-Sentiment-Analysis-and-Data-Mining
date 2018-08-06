@@ -1,0 +1,1 @@
+{"text": "All the Russell Athletic T-shirts are great shirts for the money. Comfortable, tag less and do not shrink up or fade.", "sentiment": "positive", "topics": {"0": "0.011924409", "1": "0.7225724", "2": "0.011928269", "3": "0.0119180335", "4": "0.0119184675", "5": "0.011957563", "6": "0.21778084"}}

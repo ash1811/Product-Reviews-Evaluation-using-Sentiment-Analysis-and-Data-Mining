@@ -1,0 +1,1 @@
+{"text": "They are itchy at the end of the day.  They do not wash well and &#34;pill&#34;.  I bought a few different brands to try.  I would not buy Wigwam again.", "sentiment": "negative", "topics": {"0": "0.14050654", "1": "0.34467766", "3": "0.16927633", "5": "0.19923487", "6": "0.12720391"}}

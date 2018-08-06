@@ -1,0 +1,1 @@
+{"text": "It is not excatly a prescion instrument but it does the job if you use it right. For the price it is worth it.", "sentiment": "negative", "topics": {"0": "0.014354356", "1": "0.2922303", "2": "0.014320147", "3": "0.19854604", "4": "0.34671304", "5": "0.014325224", "6": "0.11951091"}}

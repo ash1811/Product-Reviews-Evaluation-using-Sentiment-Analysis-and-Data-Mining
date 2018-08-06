@@ -1,0 +1,1 @@
+{"text": "I only wore this pants once and it didnt rain so I havent really tested it but it fits well and looks like it would keep the water out.", "sentiment": "negative", "topics": {"0": "0.26587594", "1": "0.38579994", "2": "0.22627375", "5": "0.09516631"}}

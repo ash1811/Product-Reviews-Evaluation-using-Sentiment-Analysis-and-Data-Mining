@@ -1,0 +1,1 @@
+{"text": "This cloth works so well. Every piece of jewelry that I clean comes out sparkling. I just get the urge to clean and clean.", "sentiment": "negative", "topics": {"0": "0.18647374", "1": "0.6709683", "2": "0.010215016", "3": "0.010224126", "4": "0.010214633", "5": "0.01024229", "6": "0.10166191"}}

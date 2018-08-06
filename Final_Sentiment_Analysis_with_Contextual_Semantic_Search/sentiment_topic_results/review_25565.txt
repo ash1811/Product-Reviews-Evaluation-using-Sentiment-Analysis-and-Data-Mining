@@ -1,0 +1,1 @@
+{"text": "dont like them they made my feet funky and swaety and I would not reccommend amy version of these sweaty pucky socks!!", "sentiment": "negative", "topics": {"0": "0.117343344", "1": "0.31473067", "2": "0.20030378", "3": "0.12594298", "4": "0.010296457", "5": "0.22115822", "6": "0.010224566"}}

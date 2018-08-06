@@ -1,0 +1,1 @@
+{"text": "Great product! Super colors and very fast shipping. Don't get the insides too wet or the insole moves around and bunches up -that, I did not like.", "sentiment": "positive", "topics": {"1": "0.2875068", "2": "0.16172059", "4": "0.28171262", "5": "0.2421927"}}

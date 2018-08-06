@@ -1,0 +1,1 @@
+{"text": "Very soft and thin material; I like it! Fits right and easy to use! I would recommend it as a night bra.", "sentiment": "negative", "topics": {"0": "0.010237499", "1": "0.6038645", "2": "0.010230283", "3": "0.34493962", "4": "0.010236444", "5": "0.010224039", "6": "0.0102676535"}}

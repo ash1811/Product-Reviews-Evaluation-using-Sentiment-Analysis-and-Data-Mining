@@ -1,0 +1,1 @@
+{"text": "This bra is a good sports bra but itchy at first.  It's breaking in a little now after several weeks of wear.  It is much more comfortable on the shoulders and near the sides of my neck than the T strap style.", "sentiment": "negative", "topics": {"1": "0.28057072", "2": "0.14489417", "3": "0.4211266", "6": "0.13187997"}}

@@ -1,0 +1,1 @@
+{"text": "I have had these sandals in the past. I love them and they seem to take a beating. I wear them around the house and for short walks to the store. I will keep on buying addidas sandals.", "sentiment": "negative", "topics": {"0": "0.13030273", "1": "0.33858955", "2": "0.13474602", "3": "0.2208973", "5": "0.15858907"}}

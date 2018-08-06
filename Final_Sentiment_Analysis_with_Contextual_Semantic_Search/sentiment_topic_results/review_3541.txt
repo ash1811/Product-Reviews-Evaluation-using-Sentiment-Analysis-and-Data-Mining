@@ -1,0 +1,1 @@
+{"text": "did not fit to small and i put in with the salvation army for someone with small bobbies, my size but way to small", "sentiment": "positive", "topics": {"0": "0.011931852", "1": "0.19718285", "2": "0.117955424", "3": "0.33881065", "4": "0.31026515", "5": "0.011930215", "6": "0.011923893"}}

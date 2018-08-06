@@ -1,0 +1,1 @@
+{"text": "Great fit , out of all the boat shoes I have worn sperry offers the best sock free comfort and fit.", "sentiment": "negative", "topics": {"0": "0.12794796", "1": "0.35059783", "2": "0.089878835", "3": "0.09009036", "4": "0.010995802", "5": "0.17717174", "6": "0.15331748"}}

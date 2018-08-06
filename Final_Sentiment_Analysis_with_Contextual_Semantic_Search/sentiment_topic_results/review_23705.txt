@@ -1,0 +1,1 @@
+{"text": "I needed some socks to stay up and not fall into the abyss of my boots.  These did not even come close.  I was still getting ready to leave and these were rolled up around my ankles.", "sentiment": "negative", "topics": {"1": "0.27397943", "3": "0.33276665", "4": "0.09619337", "5": "0.27175274"}}

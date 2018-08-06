@@ -1,0 +1,1 @@
+{"text": "Grand daughter is a VANS aficionado and loves them. They wear well and go with everything. Multiple colors and patterns of fabric.", "sentiment": "positive", "topics": {"2": "0.22962388", "3": "0.21972336", "5": "0.4111957", "6": "0.11077825"}}

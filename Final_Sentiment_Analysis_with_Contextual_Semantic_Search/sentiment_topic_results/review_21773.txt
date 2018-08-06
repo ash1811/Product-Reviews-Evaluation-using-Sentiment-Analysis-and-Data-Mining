@@ -1,0 +1,1 @@
+{"text": "This nighty is great. Very Elegant, Very sexy, and comfortable. a great purchase for my wife. AWESOME BUY ! ! !", "sentiment": "negative", "topics": {"0": "0.013051137", "1": "0.666249", "2": "0.012992341", "3": "0.013012782", "4": "0.013067962", "5": "0.013059605", "6": "0.26856717"}}

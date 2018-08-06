@@ -1,0 +1,1 @@
+{"text": "They were somewhat snug but I felt they would stretch over time.  The squeaky noise they made upon every step was very annoying.  I returned them.", "sentiment": "positive", "topics": {"0": "0.31891567", "2": "0.30328307", "4": "0.16297655", "5": "0.12275076", "6": "0.07415342"}}

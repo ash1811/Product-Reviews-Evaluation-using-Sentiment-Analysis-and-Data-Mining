@@ -1,0 +1,1 @@
+{"text": "Lightweight, can roll up and be carried anywhere! Good sun & rain protection w/chin strap and brim holder--vented for comfort! Digital Camo is consistent w/other Army products so should pass inspection! Washing instructions inside!", "sentiment": "negative", "topics": {"2": "0.15425572", "3": "0.12109352", "4": "0.1134272", "5": "0.44201916", "6": "0.15775631"}}

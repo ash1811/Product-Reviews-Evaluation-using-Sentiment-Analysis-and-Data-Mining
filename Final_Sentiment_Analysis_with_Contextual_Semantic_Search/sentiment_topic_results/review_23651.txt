@@ -1,0 +1,1 @@
+{"text": "Inexpensive and fun has to wear. I love the design, plus the color goes with all outfits. I think hats really dress up an outfit. Plus, quick service.", "sentiment": "negative", "topics": {"1": "0.68183064", "4": "0.27836284"}}

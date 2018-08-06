@@ -1,0 +1,1 @@
+{"text": "The fit and style of this lace garter is perfect! Hold up really well and fits nicely as an under garmet, doesn't show lines.", "sentiment": "negative", "topics": {"0": "0.10180231", "1": "0.56112343", "2": "0.11086365", "3": "0.102177426", "4": "0.0102249095", "5": "0.103600025", "6": "0.010208212"}}

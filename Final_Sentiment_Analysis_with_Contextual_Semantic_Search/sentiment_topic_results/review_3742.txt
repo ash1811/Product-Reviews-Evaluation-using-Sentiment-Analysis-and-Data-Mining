@@ -1,0 +1,1 @@
+{"text": "Perfect for what I want..easy to wear with everything and every situation.  Optics not the best, but passable. Worst part... Easy to lose!", "sentiment": "positive", "topics": {"0": "0.010238082", "1": "0.010258781", "2": "0.3336818", "3": "0.3286395", "4": "0.16419896", "5": "0.14275403", "6": "0.010228844"}}

@@ -1,0 +1,1 @@
+{"text": "when i bourht this product i was afraid because of the fabric, i did not know how would it feel if it was on contact with my skin, but now i can see that it is so soft. it is comfortable, and a good way to save your money and cards", "sentiment": "negative", "topics": {"1": "0.1957664", "2": "0.15386896", "4": "0.18824087", "5": "0.4381738"}}

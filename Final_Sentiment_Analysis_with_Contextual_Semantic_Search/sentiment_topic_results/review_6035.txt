@@ -1,0 +1,1 @@
+{"text": "I used these in my living locket.  They are brilliant.  I get all 12 for the cost of one from the company I purchased my locket from.  They fit perfectly!", "sentiment": "negative", "topics": {"0": "0.30555388", "1": "0.50774604", "4": "0.14836568"}}

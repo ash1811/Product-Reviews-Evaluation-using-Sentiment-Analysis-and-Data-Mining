@@ -1,0 +1,1 @@
+{"text": "These pair of pants will go along way;  especially since my husband has a habit of NOT hanging them up after he wears them.  The design cut and style is of exceptional quality which Lee's brand is known for.", "sentiment": "positive", "topics": {"0": "0.06313866", "1": "0.27594808", "2": "0.07337313", "3": "0.22414584", "4": "0.1893311", "6": "0.16755411"}}

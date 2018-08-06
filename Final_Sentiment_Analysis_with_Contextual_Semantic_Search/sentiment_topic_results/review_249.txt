@@ -1,0 +1,1 @@
+{"text": "It is a little annoying to cinch, but the size is fantastic. My husband and I took it to Hawaii and it fit towels and change of clothes for 2. I think it would have been a stretch to put both our flippers in though.", "sentiment": "negative", "topics": {"0": "0.2484277", "1": "0.12192796", "2": "0.32976532", "3": "0.1360353", "4": "0.14949234"}}

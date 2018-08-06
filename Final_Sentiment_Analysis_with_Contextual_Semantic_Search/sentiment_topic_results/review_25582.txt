@@ -1,0 +1,1 @@
+{"text": "I haven't actually used them yet.  I have to wait for the snow to go and the weather to warm up but they look just fine.", "sentiment": "negative", "topics": {"0": "0.013021266", "1": "0.36794826", "2": "0.11697152", "3": "0.013010814", "4": "0.13903385", "5": "0.33696336", "6": "0.013050873"}}

@@ -1,0 +1,1 @@
+{"text": "These will never go out of style for me. I love them. They are comfortable and was not expensive. LOVE them.", "sentiment": "negative", "topics": {"0": "0.013015597", "1": "0.36063913", "2": "0.013027582", "3": "0.33497757", "4": "0.25232688", "5": "0.01302486", "6": "0.012988415"}}

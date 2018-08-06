@@ -1,0 +1,1 @@
+{"text": "wish there was just a tad give in the waistline but other than that a very nice pair of jeans.", "sentiment": "negative", "topics": {"0": "0.017891021", "1": "0.49408814", "2": "0.017945664", "3": "0.017944131", "4": "0.01791092", "5": "0.1568856", "6": "0.27733454"}}

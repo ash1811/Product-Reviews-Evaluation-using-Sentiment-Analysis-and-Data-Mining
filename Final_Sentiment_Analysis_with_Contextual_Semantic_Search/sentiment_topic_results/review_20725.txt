@@ -1,0 +1,1 @@
+{"text": "I feel this bra does add some bulk to your figure. I like bras to stay true to my figure and not add to it. But the design is very nice and is made quite well, so I am pleased overall with my purchase", "sentiment": "positive", "topics": {"1": "0.49985123", "3": "0.29587063", "4": "0.092422694", "6": "0.091377266"}}

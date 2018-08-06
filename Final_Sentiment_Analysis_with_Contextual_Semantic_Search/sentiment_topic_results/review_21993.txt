@@ -1,0 +1,1 @@
+{"text": "My legs are always cold in these northern winters and these are a fashionable way to keep yourself warm when wearing a dress.Stockings alone just don't cut it for me.", "sentiment": "negative", "topics": {"1": "0.4389035", "3": "0.30480734", "5": "0.21811315"}}

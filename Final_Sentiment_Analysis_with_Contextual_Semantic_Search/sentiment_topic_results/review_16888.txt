@@ -1,0 +1,1 @@
+{"text": "My girlfriend wore them once, although they were flattering they stretched out and became loose around the lace top. She threw them away. As they were cheep i'm not disappointed but my girlfriend was", "sentiment": "negative", "topics": {"0": "0.30678755", "2": "0.08024762", "3": "0.318648", "5": "0.19897051", "6": "0.07942607"}}

@@ -1,0 +1,1 @@
+{"text": "My granddaughter got this for her 15th birthday and absolutely loves it. Now my other two granddaughters would like these for Christmas.", "sentiment": "negative", "topics": {"0": "0.011011134", "1": "0.01101257", "2": "0.40848178", "3": "0.5363877", "4": "0.011025341", "5": "0.0110168625", "6": "0.011064649"}}

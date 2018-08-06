@@ -1,0 +1,1 @@
+{"text": "Not sure what problem is same size marked in shoe and on box as my Keds I have but would not fit.  As always Amazon gave me no problem with the return!!", "sentiment": "negative", "topics": {"1": "0.12033323", "2": "0.32860184", "3": "0.21180688", "4": "0.20741244", "6": "0.11266657"}}

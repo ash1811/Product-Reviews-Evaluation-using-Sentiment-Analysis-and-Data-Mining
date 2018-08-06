@@ -1,0 +1,1 @@
+{"text": "UGG truly makes great boots. This fits perfect and I absolutey love them.", "sentiment": "negative", "topics": {"0": "0.013005915", "1": "0.33729392", "2": "0.013015468", "3": "0.22235085", "4": "0.2833149", "5": "0.11802948", "6": "0.0129894195"}}

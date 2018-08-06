@@ -1,0 +1,1 @@
+{"text": "We plan to return them, the waistband is really odd and teenagers and elastic waist like this just is not fashionable enough, even at the barn.", "sentiment": "positive", "topics": {"1": "0.22619715", "2": "0.09475115", "3": "0.2896725", "5": "0.14453116", "6": "0.22572237"}}

@@ -1,0 +1,1 @@
+{"text": "Their Keen, The toe box is wide, the support is good and they look good. Is there more you can ask for?", "sentiment": "negative", "topics": {"0": "0.013025678", "1": "0.73993945", "2": "0.013007925", "3": "0.013043257", "4": "0.013012853", "5": "0.013008023", "6": "0.1949628"}}

@@ -1,0 +1,1 @@
+{"text": "they are ok for a day or two then they totally stretch out way to much. I did by a second pair and returned them with out even opening them. not worth the little amount of money they cost. wear socks", "sentiment": "negative", "topics": {"1": "0.37420058", "3": "0.3158008", "5": "0.28268397"}}

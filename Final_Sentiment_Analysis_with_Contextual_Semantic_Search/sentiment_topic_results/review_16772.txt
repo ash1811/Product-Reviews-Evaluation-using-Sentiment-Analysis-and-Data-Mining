@@ -1,0 +1,1 @@
+{"text": "If you are a fan of large face watches,then this product is for you. The watch met all of my expectations and looks great!A real bargain and highly recommended.", "sentiment": "positive", "topics": {"0": "0.32988206", "2": "0.20114478", "5": "0.37090477", "6": "0.07115948"}}

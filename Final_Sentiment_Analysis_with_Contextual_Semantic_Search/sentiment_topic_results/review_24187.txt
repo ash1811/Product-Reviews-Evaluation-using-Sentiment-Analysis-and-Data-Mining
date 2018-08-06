@@ -1,0 +1,1 @@
+{"text": "i normally wear this brand snd style size 36d, i ordered a dd cup but found it to be smaller than my 36d.dont know if the company restyled it or what buti was dissapointed it did not fit.", "sentiment": "negative", "topics": {"0": "0.052602917", "1": "0.138611", "2": "0.063127056", "3": "0.35947752", "4": "0.09812888", "5": "0.20193723", "6": "0.08611544"}}

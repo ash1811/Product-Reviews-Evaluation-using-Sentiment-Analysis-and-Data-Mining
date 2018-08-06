@@ -1,0 +1,1 @@
+{"text": "I found the support of this Wacoal bra was not the same as the back closure products.  This style may work better for smaller framed and sized women.  This is the first Wacoal bra which I have needed to return.", "sentiment": "negative", "topics": {"1": "0.14776646", "3": "0.29072466", "4": "0.23999396", "5": "0.11387931", "6": "0.1940113"}}

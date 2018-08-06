@@ -1,0 +1,1 @@
+{"text": "This leotard is has nice fabric, stays in place and the straps do not slip; however, for an XL, it is somewhat snug.", "sentiment": "negative", "topics": {"0": "0.101657905", "1": "0.20144278", "2": "0.2839027", "3": "0.16335486", "4": "0.0119932825", "5": "0.0120686935", "6": "0.22557975"}}

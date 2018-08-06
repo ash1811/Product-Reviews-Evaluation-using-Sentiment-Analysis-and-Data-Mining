@@ -1,0 +1,1 @@
+{"text": "This is my fifth pair of Originals and first in this colour. Anything else just doesn't compare, close but no cigar. Excellent workmanship, first-rate quality.", "sentiment": "negative", "topics": {"0": "0.09278582", "1": "0.1934774", "2": "0.37858889", "3": "0.21591981", "5": "0.10008518"}}

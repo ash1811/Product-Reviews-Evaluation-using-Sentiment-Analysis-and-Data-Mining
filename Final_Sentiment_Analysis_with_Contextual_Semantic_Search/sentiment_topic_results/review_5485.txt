@@ -1,0 +1,1 @@
+{"text": "The fabric used is not skimpy; it feels both thick enough and soft. The workmanship is very nice. The fit is very good too (I am tall and slender, so that is not always a given). I would buy these shirts again!", "sentiment": "negative", "topics": {"0": "0.1789406", "1": "0.36704364", "5": "0.4266804"}}

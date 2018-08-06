@@ -1,0 +1,1 @@
+{"text": "The color is beautiful ... it is  great size not too big and not too small  .. has a sophisticated look and is easy to open and close:-)  I guess you can tell I like this umbrella", "sentiment": "negative", "topics": {"0": "0.25800017", "1": "0.20959291", "3": "0.27812812", "4": "0.2273684"}}

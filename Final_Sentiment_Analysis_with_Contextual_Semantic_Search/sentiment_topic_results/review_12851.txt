@@ -1,0 +1,1 @@
+{"text": "My niece was familiar with this brand and she needed it for my ballet, she simply loves it because it sturdy and I think she's is neat and because we also buy it online she made it last and doesn't throw it anywhere.", "sentiment": "negative", "topics": {"0": "0.09313753", "1": "0.33102268", "3": "0.08147595", "4": "0.24855836", "6": "0.22989398"}}

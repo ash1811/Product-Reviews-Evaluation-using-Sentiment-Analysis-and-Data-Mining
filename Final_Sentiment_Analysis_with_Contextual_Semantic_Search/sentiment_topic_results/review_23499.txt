@@ -1,0 +1,1 @@
+{"text": "its alittle heavy and the band does come large, but was easy to adjust with taking out links.  Overall looks are nice and as one individual stated  &#34;makes ya look like you are in the mafia, with all that gold and silver&#34;!!", "sentiment": "negative", "topics": {"0": "0.21472141", "2": "0.106252216", "3": "0.3790585", "5": "0.17519784", "6": "0.11230269"}}

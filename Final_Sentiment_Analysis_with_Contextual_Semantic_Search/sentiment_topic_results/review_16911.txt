@@ -1,0 +1,1 @@
+{"text": "Says his pants fit fine and feel comfy.  He bought the gray, brown, and black.  Love him in the black!", "sentiment": "negative", "topics": {"0": "0.011012519", "1": "0.38367778", "2": "0.14193545", "3": "0.31197086", "4": "0.011039477", "5": "0.011009513", "6": "0.1293544"}}

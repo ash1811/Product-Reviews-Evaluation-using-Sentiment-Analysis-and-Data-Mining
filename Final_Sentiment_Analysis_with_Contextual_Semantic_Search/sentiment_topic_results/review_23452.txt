@@ -1,0 +1,1 @@
+{"text": "This watch, i got a lot of compliments when i wore it for the first time, a lot of people thought it was a Rolex submariner, very good quality and the movement is amazing! it barely loses time .. its my daily watch", "sentiment": "negative", "topics": {"0": "0.29870063", "1": "0.22358225", "2": "0.15150295", "4": "0.20180054", "6": "0.11137139"}}

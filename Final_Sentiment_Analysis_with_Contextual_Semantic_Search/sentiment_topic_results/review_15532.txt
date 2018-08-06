@@ -1,0 +1,1 @@
+{"text": "These scrubs pants are nice enough and fit as expected. The color is a little lighter than pictured. I would recommend them to anyone needing cheap scrub pants.", "sentiment": "negative", "topics": {"1": "0.5802254", "3": "0.21399271", "4": "0.07714869", "5": "0.10473013"}}

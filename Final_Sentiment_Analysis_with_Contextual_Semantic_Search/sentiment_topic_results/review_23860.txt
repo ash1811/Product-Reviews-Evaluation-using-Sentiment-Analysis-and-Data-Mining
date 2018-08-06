@@ -1,0 +1,1 @@
+{"text": "Perfect for a casual sporty look.  The removable support lining is absolutely perfect.  I can wear these with or without socks.", "sentiment": "negative", "topics": {"0": "0.41182062", "1": "0.24745631", "2": "0.09701875", "3": "0.011072801", "4": "0.12838568", "5": "0.09323837", "6": "0.0110074775"}}

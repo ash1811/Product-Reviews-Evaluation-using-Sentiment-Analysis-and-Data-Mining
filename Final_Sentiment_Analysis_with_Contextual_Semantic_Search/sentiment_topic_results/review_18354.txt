@@ -1,0 +1,1 @@
+{"text": "Good deal for dress shoes that won't be worn much. They did give my son a little rub mark right at his ankle but only on one foot. So it could have been how he walked. (18 months old, size 7.5, huge boy :) )", "sentiment": "negative", "topics": {"0": "0.080656044", "1": "0.1782181", "2": "0.1695838", "3": "0.24907842", "4": "0.25410298", "6": "0.06262711"}}

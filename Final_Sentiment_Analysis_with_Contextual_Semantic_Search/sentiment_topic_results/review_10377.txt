@@ -1,0 +1,1 @@
+{"text": "My wife originally bought a pair of UGG slippers but they were too THICK. These are the opposite and are THIN soled. These are exactly what she expected and the size was perfect as well. The thick ones are about $50 more.", "sentiment": "negative", "topics": {"0": "0.14570837", "1": "0.5152387", "3": "0.14314698", "6": "0.17439897"}}

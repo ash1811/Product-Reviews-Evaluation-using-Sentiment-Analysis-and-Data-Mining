@@ -1,0 +1,1 @@
+{"text": "Front-closing bras just stay on my shoulders!  Almost every other kind has straps that fall off my shoulders.  This is very comfortable, with great (wireless!) support in front, and serious support in the back.", "sentiment": "positive", "topics": {"0": "0.08306867", "1": "0.37191725", "2": "0.13835293", "3": "0.1628238", "5": "0.22874556"}}

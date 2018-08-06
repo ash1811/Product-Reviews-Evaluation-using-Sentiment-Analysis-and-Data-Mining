@@ -1,0 +1,1 @@
+{"text": "These are awesome for their price.  I order a bunch ever summer, because they're so cheap you can afford to loose them, replace them, and give them away to friends.  They look a lot more expensive than they are.", "sentiment": "negative", "topics": {"0": "0.08665715", "1": "0.21941939", "2": "0.4249679", "4": "0.09567818", "5": "0.15964371"}}

@@ -1,0 +1,1 @@
+{"text": "Nice scrub pants, however way too big. I wear 2-4 and am swimming in x- smalls. Too much trouble to send back. Time to get out the sewing machine. These fit at the waist not low rise.", "sentiment": "negative", "topics": {"0": "0.12158891", "1": "0.33562922", "2": "0.15803982", "3": "0.22649693", "4": "0.06301098", "5": "0.08923312"}}

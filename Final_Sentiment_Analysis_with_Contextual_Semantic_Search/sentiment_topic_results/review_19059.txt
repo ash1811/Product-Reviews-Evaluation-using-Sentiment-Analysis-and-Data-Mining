@@ -1,0 +1,1 @@
+{"text": "Have found that the Barely There line of intimates does perform as advertised.  This bra serves me well under knits and almost every blouse and sweater I own.", "sentiment": "negative", "topics": {"0": "0.084474035", "2": "0.42599165", "3": "0.098132655", "4": "0.096799426", "5": "0.14005245", "6": "0.14559697"}}

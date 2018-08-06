@@ -1,0 +1,1 @@
+{"text": "These jeans are made of a very heavy denim.  My only complaint is that the pockets are smaller than most other jeans and makes it difficult to fit a large touch-screen phone in your front pocket.", "sentiment": "positive", "topics": {"0": "0.122564636", "1": "0.5042343", "3": "0.20516282", "6": "0.14268735"}}

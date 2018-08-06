@@ -1,0 +1,1 @@
+{"text": "This removal tool is a bit better than the one I have, but still not as precise as I would like. For the price I think I got a pretty good deal.", "sentiment": "negative", "topics": {"0": "0.274883", "1": "0.15151963", "2": "0.17583382", "3": "0.37244675"}}

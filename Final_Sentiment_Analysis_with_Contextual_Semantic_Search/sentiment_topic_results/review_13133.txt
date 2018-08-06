@@ -1,0 +1,1 @@
+{"text": "This ring looks real and expensive. What can I say it's $35 bucks and not $3,500. I'm sure my son-to-be fake wife will love it.", "sentiment": "positive", "topics": {"1": "0.32595557", "2": "0.21579294", "3": "0.13706203", "5": "0.21085496", "6": "0.09240411"}}

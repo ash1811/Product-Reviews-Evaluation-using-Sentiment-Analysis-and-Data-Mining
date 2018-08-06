@@ -1,0 +1,1 @@
+{"text": "I recently had to take a cold weather trip and this item sure came in handy. However a little warm for my head, my dad made good use of it. The fit was good & service was prompt.", "sentiment": "negative", "topics": {"1": "0.41199034", "2": "0.20127434", "3": "0.2000725", "6": "0.16792537"}}

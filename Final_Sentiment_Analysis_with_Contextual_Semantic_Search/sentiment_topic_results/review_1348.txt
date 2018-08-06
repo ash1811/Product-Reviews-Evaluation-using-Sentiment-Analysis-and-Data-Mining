@@ -1,0 +1,1 @@
+{"text": "I really like these. They are very comfortable, no matter what I'm doing (sleeping, exercising, sitting around). And they last a long time. They were my favorite underwear colors to, especially the dark grey. I wish they were still available.", "sentiment": "negative", "topics": {"1": "0.5115648", "3": "0.119329415", "4": "0.07013423", "5": "0.2810326"}}

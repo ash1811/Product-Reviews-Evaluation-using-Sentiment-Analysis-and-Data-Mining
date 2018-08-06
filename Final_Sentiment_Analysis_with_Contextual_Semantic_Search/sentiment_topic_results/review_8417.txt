@@ -1,0 +1,1 @@
+{"text": "They hypnotized me. I had to get them, and I'm glad I did. I wear stockings often, and these are great! Totally worth the price!", "sentiment": "negative", "topics": {"1": "0.47756013", "3": "0.20958583", "5": "0.27459368"}}

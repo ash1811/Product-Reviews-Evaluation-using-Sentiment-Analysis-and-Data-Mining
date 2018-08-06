@@ -1,0 +1,1 @@
+{"text": "I bought these locally, but could not find them again.  Bought these on line and they are just as good.  They wear and wash very well.", "sentiment": "positive", "topics": {"0": "0.011926454", "1": "0.6668889", "2": "0.011924402", "3": "0.011928081", "4": "0.27345288", "5": "0.01197178", "6": "0.0119075505"}}

@@ -1,0 +1,1 @@
+{"text": "Nice value for a slim fit as noted by others. A Medium will fit the way a Lee Large fits.", "sentiment": "negative", "topics": {"0": "0.010996597", "1": "0.5208162", "2": "0.011021622", "3": "0.01104659", "4": "0.1357854", "5": "0.20341434", "6": "0.10691923"}}

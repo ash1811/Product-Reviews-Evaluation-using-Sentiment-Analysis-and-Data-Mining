@@ -1,0 +1,1 @@
+{"text": "If you are petite and want scrub pants that dont fall off dont get this pants. I'm 5'3 and 129lbs and I got an xs and they fall off. I have to constantly pull them up. It's a bit annoying, but other than that they are ok.", "sentiment": "negative", "topics": {"0": "0.06761521", "1": "0.32697678", "2": "0.29724956", "3": "0.21288046", "5": "0.08280712"}}

@@ -1,0 +1,1 @@
+{"text": "I am a big fan of Timex ladies watches, I was hoping that I could swap the band out with my Ladies Ironman watch, but they are not exactly the same size, but I still love the watch.", "sentiment": "negative", "topics": {"0": "0.28363168", "1": "0.23914522", "2": "0.17705433", "4": "0.17390577", "6": "0.11032489"}}

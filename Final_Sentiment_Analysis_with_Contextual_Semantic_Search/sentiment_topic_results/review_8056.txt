@@ -1,0 +1,1 @@
+{"text": "These shoes are the best. No real break in time needed. Slightly large at 10M but OK. The only gripe is that the soles are not sewn on but only \"fake\" imprints. Very good over-all for the price.", "sentiment": "negative", "topics": {"1": "0.38248172", "2": "0.07333628", "3": "0.20649694", "5": "0.20085543", "6": "0.121753596"}}

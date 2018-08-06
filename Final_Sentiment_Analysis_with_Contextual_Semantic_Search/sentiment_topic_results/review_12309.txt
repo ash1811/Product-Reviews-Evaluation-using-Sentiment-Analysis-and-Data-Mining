@@ -1,0 +1,1 @@
+{"text": "The fabric is high quality, has a liner too so material is resilient.Use in steam room and whirlpool and fabric has held up to washing machine, no dry. I spin dry in the gym's suit machine too and all holds up.", "sentiment": "negative", "topics": {"1": "0.11030266", "2": "0.22897674", "3": "0.16788132", "4": "0.1452787", "5": "0.16905776", "6": "0.17198707"}}

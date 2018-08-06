@@ -1,0 +1,1 @@
+{"text": "Lots of cushion and will make your feet look tiny. I am a size 6 and so I look like I have the feet of a little girl when I wear these. Nice way to look cute around the house and have some comfort as well.", "sentiment": "negative", "topics": {"1": "0.26491216", "2": "0.12711227", "3": "0.35869527", "4": "0.14432618", "6": "0.0929888"}}

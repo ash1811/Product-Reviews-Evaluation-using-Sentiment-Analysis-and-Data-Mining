@@ -1,0 +1,1 @@
+{"text": "work as expected, and look as shown, but they have a funky smell to em. not sure if washing will change anything. might just be the material used.", "sentiment": "negative", "topics": {"1": "0.5342782", "2": "0.29734886", "4": "0.13017482"}}

@@ -1,0 +1,1 @@
+{"text": "Even big, i like it. Nice fabric. Can use go out by formally. Really comfort and cozy. If you asian, please prefer petite. Because the regular really long.", "sentiment": "positive", "topics": {"0": "0.4185745", "1": "0.23420277", "5": "0.2317651", "6": "0.09395908"}}

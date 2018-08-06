@@ -1,0 +1,1 @@
+{"text": "Great product for the price. Fits perfect, very easy to clean. It was much needed since we are always at the pool.", "sentiment": "positive", "topics": {"0": "0.011013946", "1": "0.6401705", "2": "0.011011485", "3": "0.011021948", "4": "0.011042366", "5": "0.19089286", "6": "0.12484688"}}

@@ -1,0 +1,1 @@
+{"text": "I love how small and subtle they are. My ears are very sensitive with earring and these were quite perfect. I can sleep in them and they don't hurt.", "sentiment": "negative", "topics": {"0": "0.011945969", "1": "0.21294838", "2": "0.2291916", "3": "0.30890182", "4": "0.011968161", "5": "0.011929447", "6": "0.21311459"}}

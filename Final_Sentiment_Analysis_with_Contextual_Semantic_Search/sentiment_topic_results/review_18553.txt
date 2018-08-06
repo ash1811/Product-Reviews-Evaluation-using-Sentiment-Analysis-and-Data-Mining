@@ -1,0 +1,1 @@
+{"text": "product is decent looking, perfect for traveling. Will recommend to others so please enjoy the product, should suit your needs", "sentiment": "negative", "topics": {"0": "0.18515131", "1": "0.011050497", "2": "0.14305842", "3": "0.26435822", "4": "0.01101374", "5": "0.2529092", "6": "0.13245866"}}

@@ -1,0 +1,1 @@
+{"text": "Nice shoe, fits well, comfortable too!  Soles a little on the stiff side.  Brown/taupe and Pebble colors are different than the usual black, white, bright colors.  I bought both.  Another good shoe from Skechers!", "sentiment": "positive", "topics": {"1": "0.5406057", "2": "0.1630041", "3": "0.08050151", "4": "0.044743624", "5": "0.11588116", "6": "0.049752053"}}

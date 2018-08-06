@@ -1,0 +1,1 @@
+{"text": "Love it! Love it! Love it! Love it! Love it! Very comfortable shoe.  It has a good fit.  The quality is very high.  I will be buying more TEVA sandals.", "sentiment": "positive", "topics": {"0": "0.17908329", "1": "0.34470212", "2": "0.2034506", "4": "0.16997024", "5": "0.088443056"}}

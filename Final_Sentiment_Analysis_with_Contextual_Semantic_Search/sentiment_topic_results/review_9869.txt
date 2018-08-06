@@ -1,0 +1,1 @@
+{"text": "This is a nice looking casual shoe.  Unfortunately, I have wide feet and bunions and these shoes simply weren't comfortable.  They could work very well for someone else.", "sentiment": "positive", "topics": {"0": "0.18565367", "1": "0.4236771", "2": "0.22261317", "3": "0.1009477", "4": "0.05026758"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect fit, the neck doesn't stretch out so the tshirt is the best hands down. That's why I bought the 6 pack.", "sentiment": "negative", "topics": {"0": "0.011014028", "1": "0.6803136", "2": "0.011011166", "3": "0.26459476", "4": "0.011033202", "5": "0.011015599", "6": "0.0110176755"}}

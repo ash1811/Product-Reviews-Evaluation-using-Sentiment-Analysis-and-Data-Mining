@@ -1,0 +1,1 @@
+{"text": "This is a very sturdy and comfortable boonie. The vents and built in sweat band, along with the wicking affect of the material keeps you dry for sure.", "sentiment": "positive", "topics": {"1": "0.25346678", "2": "0.099667534", "3": "0.12582311", "4": "0.40931842", "6": "0.09261033"}}

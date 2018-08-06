@@ -1,0 +1,1 @@
+{"text": "This is a great scarf or shemagh. I bought this a few weeks ago and really enjoy it. It is very nice quality.", "sentiment": "positive", "topics": {"0": "0.011939296", "1": "0.5942126", "2": "0.011921135", "3": "0.12361827", "4": "0.011909723", "5": "0.13290495", "6": "0.11349407"}}

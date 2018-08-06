@@ -1,0 +1,1 @@
+{"text": "Perfect work pants. Repeat customer and do not buy anything else for work. Highly recommend Dickies 874 to all my friends.", "sentiment": "negative", "topics": {"1": "0.44732407", "2": "0.31305453", "3": "0.0895561", "5": "0.12145295"}}

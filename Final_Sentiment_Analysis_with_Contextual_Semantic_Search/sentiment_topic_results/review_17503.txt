@@ -1,0 +1,1 @@
+{"text": "Perfect in every way. Why pay more and not get the same results. I find it does all that I asked for and I wear it everyday. Has not lost any time .", "sentiment": "negative", "topics": {"0": "0.011036444", "1": "0.011032692", "2": "0.011022199", "3": "0.011027993", "4": "0.24903463", "5": "0.6957775", "6": "0.011068568"}}

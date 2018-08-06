@@ -1,0 +1,1 @@
+{"text": "This shirt is a great value for the price.  It is snug and fits me perfectly,  There is enough room to wear the shirt with a under-shirt as well, giving me warmth.Leo", "sentiment": "negative", "topics": {"1": "0.59171563", "5": "0.11549404", "6": "0.25696263"}}

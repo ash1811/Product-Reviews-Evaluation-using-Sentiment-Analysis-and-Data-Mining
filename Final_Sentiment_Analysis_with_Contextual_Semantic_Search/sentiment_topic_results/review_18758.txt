@@ -1,0 +1,1 @@
+{"text": "It is really flimsy! it is also curved to one side. button to turn it on is tiny and requires quite an effort to slide.Save your money!", "sentiment": "negative", "topics": {"2": "0.22874431", "3": "0.19438553", "4": "0.31336924", "6": "0.23478827"}}

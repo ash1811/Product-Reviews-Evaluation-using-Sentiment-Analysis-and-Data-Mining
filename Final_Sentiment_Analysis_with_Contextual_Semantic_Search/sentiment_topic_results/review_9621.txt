@@ -1,0 +1,1 @@
+{"text": "nice simplistic watch that keeps good time.  like the indiglow dial but just like the classy face and the ease in which i can see what time it is", "sentiment": "negative", "topics": {"0": "0.20902729", "1": "0.08747068", "2": "0.24657585", "3": "0.1660868", "4": "0.05923426", "6": "0.22264902"}}

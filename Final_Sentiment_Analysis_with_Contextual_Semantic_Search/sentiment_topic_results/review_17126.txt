@@ -1,0 +1,1 @@
+{"text": "These are my daughters favorite shoes to wear. They are comfortable and she likes the color. My also has a pair and they are his favorite shoes as well.", "sentiment": "positive", "topics": {"0": "0.011023063", "1": "0.5846366", "2": "0.24890366", "3": "0.011021545", "4": "0.12234698", "5": "0.011056218", "6": "0.01101189"}}

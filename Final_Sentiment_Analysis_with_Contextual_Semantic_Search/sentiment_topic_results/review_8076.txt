@@ -1,0 +1,1 @@
+{"text": "bought this pair for middle school age son. sizing is accurate. comfort and ease to put on and take off is main key for him. he has wide feet and this fits well.", "sentiment": "negative", "topics": {"1": "0.58212864", "2": "0.12434337", "4": "0.14528002", "6": "0.12676412"}}

@@ -1,0 +1,1 @@
+{"text": "I didn't realize that this was specifically for jewelry! Oops. And it does work great for jewelry. Unfortunately, I meant to get it for silver candle sticks.", "sentiment": "positive", "topics": {"0": "0.23523794", "1": "0.3533928", "2": "0.010216334", "3": "0.010258208", "4": "0.09304843", "5": "0.18638031", "6": "0.11146599"}}

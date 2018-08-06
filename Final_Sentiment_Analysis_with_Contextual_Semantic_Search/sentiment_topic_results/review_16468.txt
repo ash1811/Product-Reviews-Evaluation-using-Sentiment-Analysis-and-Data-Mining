@@ -1,0 +1,1 @@
+{"text": "Buyer, beware, these are not oversized sunglasses. They are quite regular size, any smaller sunglasses would be called tiny or undersized. I am very disappointed with this purchase.", "sentiment": "negative", "topics": {"0": "0.14474303", "2": "0.16028084", "3": "0.36903423", "4": "0.15399513", "5": "0.15403466"}}

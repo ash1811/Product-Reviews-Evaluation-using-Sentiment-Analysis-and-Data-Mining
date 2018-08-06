@@ -1,0 +1,1 @@
+{"text": "I like how smooth these are but I ordered them too large to help slim me, but still wear them as they are very comfortable and wash well.", "sentiment": "negative", "topics": {"0": "0.011033753", "1": "0.73949564", "2": "0.010999567", "3": "0.0110228015", "4": "0.09035719", "5": "0.011022089", "6": "0.12606898"}}

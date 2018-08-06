@@ -1,0 +1,1 @@
+{"text": "These are very pretty earrings! Just enough sparkle without being over the top. I got them for my sister-in-law for Christmas, and I think she is going to be very pleased.", "sentiment": "positive", "topics": {"0": "0.42026326", "1": "0.011052153", "2": "0.011001677", "3": "0.1568302", "4": "0.011016385", "5": "0.37879512", "6": "0.01104121"}}

@@ -1,0 +1,1 @@
+{"text": "bought this as a gift for my husband and the size perfectly fits for him. quality is great! thanks a lot", "sentiment": "negative", "topics": {"0": "0.145131", "1": "0.6129369", "2": "0.011919217", "3": "0.10186294", "4": "0.104248896", "5": "0.011929075", "6": "0.011971949"}}

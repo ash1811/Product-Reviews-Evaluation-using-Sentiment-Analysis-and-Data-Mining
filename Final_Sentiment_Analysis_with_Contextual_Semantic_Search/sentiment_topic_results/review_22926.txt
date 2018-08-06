@@ -1,0 +1,1 @@
+{"text": "About what they seem to be - mesh, performance-fabric shorts.  Decent fit and quality.  Durability is yet to be determined.", "sentiment": "negative", "topics": {"0": "0.25710326", "1": "0.23168059", "2": "0.013072616", "3": "0.013017666", "4": "0.3506293", "5": "0.013022847", "6": "0.12147372"}}

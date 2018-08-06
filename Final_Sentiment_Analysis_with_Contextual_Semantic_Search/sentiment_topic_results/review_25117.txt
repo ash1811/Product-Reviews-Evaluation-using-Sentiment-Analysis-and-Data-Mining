@@ -1,0 +1,1 @@
+{"text": "I work from home and wear my slippers almost every day.  Even in the summer.  So I've been using these a lot, for months, and they still are working great.In the winter they made a big difference in keeping my feet warmer.", "sentiment": "positive", "topics": {"0": "0.220356", "1": "0.36840382", "2": "0.0742299", "3": "0.08309489", "5": "0.13946275", "6": "0.10846489"}}

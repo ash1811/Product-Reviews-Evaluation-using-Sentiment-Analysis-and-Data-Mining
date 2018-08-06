@@ -1,0 +1,1 @@
+{"text": "I wanted small gold earrings.  I found small gold earrings.  I like them.  They've held up well.  No complaints.", "sentiment": "negative", "topics": {"1": "0.48945954", "3": "0.3584304", "4": "0.113887876"}}

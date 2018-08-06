@@ -1,0 +1,1 @@
+{"text": "I wear this for running at it is great. No blister and allows my toes to spread when I land. A bit difficult to put on, but it comes with the territory.", "sentiment": "positive", "topics": {"0": "0.10737371", "1": "0.5211802", "2": "0.07972264", "4": "0.07187074", "5": "0.12791383", "6": "0.08239147"}}

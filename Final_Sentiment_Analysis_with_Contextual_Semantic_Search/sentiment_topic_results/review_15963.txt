@@ -1,0 +1,1 @@
+{"text": "Cool cap, not much to say- just another happy buyer! PS: quality is not super as expected of course, but for me fit is way more important.", "sentiment": "negative", "topics": {"0": "0.09645529", "1": "0.35346127", "5": "0.2478167", "6": "0.2753936"}}

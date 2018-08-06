@@ -1,0 +1,1 @@
+{"text": "Don't know if it's the pants or my hustand, but these pants fit him perfectly and are easy to maintain.  Just wish they came in more colors.", "sentiment": "negative", "topics": {"0": "0.12056578", "1": "0.53586584", "2": "0.0119352145", "3": "0.011922404", "4": "0.011919706", "5": "0.011908229", "6": "0.2958828"}}

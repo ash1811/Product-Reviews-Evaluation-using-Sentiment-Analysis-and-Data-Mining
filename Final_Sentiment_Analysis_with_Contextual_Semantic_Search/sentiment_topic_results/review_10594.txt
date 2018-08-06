@@ -1,0 +1,1 @@
+{"text": "not right at all, there was a pair of Haggars mens slacks, slick and smooth yet very comfortable to wear with summer and fall....I thought thee were the ones, I have to look again, thats all.", "sentiment": "negative", "topics": {"0": "0.16934939", "1": "0.15406874", "2": "0.08976547", "3": "0.2808056", "5": "0.22279684", "6": "0.0763793"}}

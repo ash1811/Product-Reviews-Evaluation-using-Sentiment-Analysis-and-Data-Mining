@@ -1,0 +1,1 @@
+{"text": "I have always had problems finding comfortable bras.  This one is VERY comfortable.  I highly recommend.  Great support without any little areas that scratch or pinch.", "sentiment": "positive", "topics": {"0": "0.106225275", "1": "0.6086025", "3": "0.14609013", "4": "0.113810346"}}

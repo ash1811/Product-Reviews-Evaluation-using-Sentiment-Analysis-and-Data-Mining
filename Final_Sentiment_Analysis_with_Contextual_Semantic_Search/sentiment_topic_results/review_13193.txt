@@ -1,0 +1,1 @@
+{"text": "My 10 month old is 17 lbs and it fit perfect. It wasn't too bulky under her suit either. Great price too!", "sentiment": "positive", "topics": {"0": "0.18619278", "1": "0.33849004", "2": "0.30930957", "3": "0.010218825", "4": "0.135348", "5": "0.010227028", "6": "0.01021377"}}

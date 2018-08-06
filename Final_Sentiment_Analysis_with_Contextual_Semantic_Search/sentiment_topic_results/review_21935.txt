@@ -1,0 +1,1 @@
+{"text": "Out of all of the Carhartt shirts/sweaters/jackets I own, this is another good one. Its heavy, rugged, and is true to size.", "sentiment": "positive", "topics": {"0": "0.14325716", "1": "0.27344102", "2": "0.28880146", "3": "0.013041809", "4": "0.013024458", "5": "0.012992737", "6": "0.25544137"}}

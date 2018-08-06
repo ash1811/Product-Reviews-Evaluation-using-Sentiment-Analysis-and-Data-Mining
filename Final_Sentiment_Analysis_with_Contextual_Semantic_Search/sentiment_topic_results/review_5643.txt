@@ -1,0 +1,1 @@
+{"text": "I wear an XS top and the Large barely fit.  I ordered several and returned them all.  The look and feel is good, but not the fit.", "sentiment": "negative", "topics": {"0": "0.1429374", "1": "0.3986283", "2": "0.08600869", "3": "0.34377939"}}

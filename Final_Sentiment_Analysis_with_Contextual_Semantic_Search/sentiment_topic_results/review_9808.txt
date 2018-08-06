@@ -1,0 +1,1 @@
+{"text": "I got these for my son, he is so happy I got these for him! He uses them all the time, they seem conformable and look better than most teenager shoes.", "sentiment": "negative", "topics": {"0": "0.30217192", "1": "0.26775187", "2": "0.10181151", "3": "0.010228197", "4": "0.010239956", "5": "0.010234875", "6": "0.29756168"}}

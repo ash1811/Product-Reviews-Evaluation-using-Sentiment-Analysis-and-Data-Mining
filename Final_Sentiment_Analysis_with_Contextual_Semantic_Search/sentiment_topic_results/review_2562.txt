@@ -1,0 +1,1 @@
+{"text": "Perfect hat if u want that vintage look without looking like u just came back from fishing. I wear a 7 1/8 ball hat and a size small/med fit me perfectly.", "sentiment": "negative", "topics": {"0": "0.36869204", "1": "0.22135814", "2": "0.11103376", "3": "0.16802248", "4": "0.11844012"}}

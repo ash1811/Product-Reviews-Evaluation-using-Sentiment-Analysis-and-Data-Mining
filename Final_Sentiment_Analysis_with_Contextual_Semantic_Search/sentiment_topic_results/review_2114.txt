@@ -1,0 +1,1 @@
+{"text": "Its been a couple of years since I last bought Spanx, but these aren't exactly like the ones I already have.  The panty isn't as substantial (the older ones are double layers) and the thighs don't stay in place like they use to.", "sentiment": "negative", "topics": {"0": "0.077784896", "2": "0.37569278", "3": "0.20196256", "4": "0.21453537", "6": "0.11854307"}}

@@ -1,0 +1,1 @@
+{"text": "I have been using this for almost 2 years now with no problems at all. I use it to carry my heavy nursing books and it has outlasted many of my classmates book bags.", "sentiment": "negative", "topics": {"0": "0.36360928", "2": "0.10062995", "3": "0.12156398", "4": "0.16777197", "6": "0.22950794"}}

@@ -1,0 +1,1 @@
+{"text": "This toe ring is very cute, but runs small.  If you have chubby toes (like me) it isn't very comfortable.  I wear it anyway, but really wish they would have stated the diameter.", "sentiment": "positive", "topics": {"1": "0.5763258", "2": "0.13158226", "4": "0.06846546", "5": "0.11630807", "6": "0.09136285"}}

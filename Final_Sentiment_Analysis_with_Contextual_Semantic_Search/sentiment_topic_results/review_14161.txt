@@ -1,0 +1,1 @@
+{"text": "This robe is very high quality.  The fabric is substantial without being bulky.  It is tailored and comfortable. Very flattering even on my small frame and that is hard to find in a robe.  This will last for years.", "sentiment": "positive", "topics": {"0": "0.39814547", "1": "0.24218574", "2": "0.10106321", "5": "0.13730872", "6": "0.10616492"}}

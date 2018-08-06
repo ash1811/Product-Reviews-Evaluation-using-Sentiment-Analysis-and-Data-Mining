@@ -1,0 +1,1 @@
+{"text": "I love the look. The body fit and arms are perfect, although the neck is a little snug. Still, a quality sweater, and seems to be holding up to wear/abuse fairly well.", "sentiment": "negative", "topics": {"1": "0.5580783", "2": "0.0790343", "4": "0.19971219", "6": "0.14055914"}}

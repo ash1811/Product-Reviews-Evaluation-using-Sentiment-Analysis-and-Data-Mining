@@ -1,0 +1,1 @@
+{"text": "I would buy again love the fit .I'm in my fifties and let's just say the twins are not saluting the sun any more they are more at half mass. This bra changed that the twins look perky again. Hope this was helpful.", "sentiment": "negative", "topics": {"0": "0.066990994", "1": "0.22890238", "2": "0.10583616", "3": "0.1545857", "4": "0.21766004", "6": "0.21951918"}}

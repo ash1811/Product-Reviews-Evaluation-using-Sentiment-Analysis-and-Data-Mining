@@ -1,0 +1,1 @@
+{"text": "These slacks have what used to be the normal waist for a lady...they actually fit the true waist, not the low cut that is very unflattering unless you top out at 100 lbs.  Feel comfortable...exactly as described.  Thanks Lee Jeans.", "sentiment": "positive", "topics": {"0": "0.20344248", "1": "0.4133071", "2": "0.12128158", "3": "0.12345173", "6": "0.12605195"}}

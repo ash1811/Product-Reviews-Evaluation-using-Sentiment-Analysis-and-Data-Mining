@@ -1,0 +1,1 @@
+{"text": "This is what you get when you start making products overseas and don't have good oversight - you get a sloppy fitting slipper where the fabric doesn't come up far enough on the top of the foot for a comfortable fitting, or warm enough.", "sentiment": "positive", "topics": {"1": "0.180956", "3": "0.13068011", "5": "0.30178303", "6": "0.36702093"}}

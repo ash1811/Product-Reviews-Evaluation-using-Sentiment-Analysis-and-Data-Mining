@@ -1,0 +1,1 @@
+{"text": "I owned a pair before so this is my second pair they wear really well fit well and last.They are durable great for indoors and will last ot side, even to get the paper or mail", "sentiment": "negative", "topics": {"0": "0.29806823", "1": "0.46301088", "4": "0.16992977", "6": "0.048517022"}}

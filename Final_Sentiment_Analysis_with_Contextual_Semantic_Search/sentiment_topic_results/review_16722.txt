@@ -1,0 +1,1 @@
+{"text": "I wear these paratrooper pants when riding my Harley because the lagers have ties at bottom to keep them from blowing in the wind. There is two adjusters at the waist so anyone from 34 to 38 can adjust to fit great.", "sentiment": "negative", "topics": {"1": "0.18980923", "2": "0.22917023", "3": "0.1623596", "4": "0.06670815", "5": "0.24172181", "6": "0.10341466"}}

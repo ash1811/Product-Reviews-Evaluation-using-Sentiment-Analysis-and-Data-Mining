@@ -1,0 +1,1 @@
+{"text": "Tamarac by Slippers International Women's Fluff Slipperr,Pink,9 M are soft and comfortable - I have a pair in forrest green and love them. I bought these as a birthday for a December 2013 gift.", "sentiment": "negative", "topics": {"0": "0.13999534", "1": "0.27157578", "2": "0.2628772", "4": "0.10879322", "5": "0.14584623", "6": "0.06336846"}}

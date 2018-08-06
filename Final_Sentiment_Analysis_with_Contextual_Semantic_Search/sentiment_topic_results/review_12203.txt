@@ -1,0 +1,1 @@
+{"text": "This brand, this style is GREAT, comfortable, great fabric, great support, have several  and will continue to buy more of this style", "sentiment": "negative", "topics": {"0": "0.011005686", "1": "0.55870396", "2": "0.010997451", "3": "0.15317637", "4": "0.011032641", "5": "0.24408582", "6": "0.010998092"}}

@@ -1,0 +1,1 @@
+{"text": "these jeans work great for my kind of work .I can kneel and work on my knees and I don't have to worry about any thing.", "sentiment": "negative", "topics": {"0": "0.011930525", "1": "0.39730826", "2": "0.0119574135", "3": "0.011966449", "4": "0.15969458", "5": "0.28028205", "6": "0.12686071"}}

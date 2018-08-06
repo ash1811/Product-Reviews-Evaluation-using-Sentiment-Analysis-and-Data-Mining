@@ -1,0 +1,1 @@
+{"text": "Very good buy, came in excelente conditions, these is my first Tissot and I love it, I will continue buying Tissot's.", "sentiment": "negative", "topics": {"0": "0.35889295", "1": "0.24189168", "2": "0.011002187", "3": "0.20482334", "4": "0.16130283", "5": "0.011052433", "6": "0.011034543"}}

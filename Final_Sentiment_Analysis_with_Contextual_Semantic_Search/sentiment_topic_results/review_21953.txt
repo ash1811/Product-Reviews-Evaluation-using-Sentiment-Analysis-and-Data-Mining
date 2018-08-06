@@ -1,0 +1,1 @@
+{"text": "Size are ok, not fit fit. Jst a little bit big but not to much. I'm 5 feets 122 lbs. The color is great also. The delivery was on time.", "sentiment": "negative", "topics": {"1": "0.56171286", "4": "0.06927549", "5": "0.21978796", "6": "0.1277438"}}

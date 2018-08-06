@@ -1,0 +1,1 @@
+{"text": "I bought these shoes to wear to work, as I am on my feet a lot, and they don't look like a sneaker.  Are very comfortable, but do tend to pinch after a few hours, at the point of where I tie the laces, even if I let them looser.", "sentiment": "positive", "topics": {"0": "0.2424994", "1": "0.52349776", "2": "0.105732776", "4": "0.10673414"}}

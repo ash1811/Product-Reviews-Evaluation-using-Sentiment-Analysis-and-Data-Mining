@@ -1,0 +1,1 @@
+{"text": "The only garden boots for our family...we have to replace our boots when another family member has to have our old ones!That's fine with us...we love these old favorites!  Never had a pair wear out.  Highly Recommended.", "sentiment": "positive", "topics": {"2": "0.1592041", "4": "0.505765", "5": "0.09422992", "6": "0.22125965"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans are comfortable and well made.  Just what I expected from Wrangler!  I expect to buy this product again!", "sentiment": "negative", "topics": {"0": "0.012997486", "1": "0.5119194", "2": "0.013007146", "3": "0.012997466", "4": "0.013025668", "5": "0.42306232", "6": "0.01299058"}}

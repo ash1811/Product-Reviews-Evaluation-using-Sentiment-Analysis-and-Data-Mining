@@ -1,0 +1,1 @@
+{"text": "Bought these for my dad (ex USAF Flight Engineer) and he says they are super hi quality.  Got myself a pair and fully agree with him.  Optical glass, sturdy metal frames and studly good looks.", "sentiment": "negative", "topics": {"0": "0.18387319", "1": "0.35174415", "2": "0.08927468", "4": "0.10615211", "5": "0.13391781", "6": "0.1290731"}}

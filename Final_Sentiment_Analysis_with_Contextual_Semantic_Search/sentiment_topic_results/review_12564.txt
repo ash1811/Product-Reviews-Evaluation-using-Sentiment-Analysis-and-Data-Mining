@@ -1,0 +1,1 @@
+{"text": "These are a high quality very comfortable shoe that I bought for my husband. He LOVES them! Fast shipping, secure packaging and solid shoes.", "sentiment": "negative", "topics": {"1": "0.1770677", "2": "0.32588786", "3": "0.11345982", "4": "0.35495943"}}

@@ -1,0 +1,1 @@
+{"text": "I had it ordered for my husband but I did not get the right size for him so I had to returned it. The hoody was very good quality, thick, soft and warm. :)", "sentiment": "negative", "topics": {"0": "0.010234417", "1": "0.5345657", "2": "0.010222515", "3": "0.20002179", "4": "0.114299305", "5": "0.120418444", "6": "0.010237842"}}

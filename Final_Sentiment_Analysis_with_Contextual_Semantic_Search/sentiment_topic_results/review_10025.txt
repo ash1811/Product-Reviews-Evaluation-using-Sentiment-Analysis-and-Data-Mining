@@ -1,0 +1,1 @@
+{"text": "I wear mine for weeks at a time and forget I have them on.  They are high quality and very attractive hoop earrings, but much smaller than I had imagined.  They are keepers and the price was right!", "sentiment": "negative", "topics": {"1": "0.3434641", "2": "0.06904163", "3": "0.3374798", "6": "0.22612824"}}

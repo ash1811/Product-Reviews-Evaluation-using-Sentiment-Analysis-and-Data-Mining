@@ -1,0 +1,1 @@
+{"text": "Its nice and I guess I cant complain because just like everything else you get what you pair for. This I bought for my wife and chain has already broke.... But the pendant is nice.", "sentiment": "negative", "topics": {"0": "0.07278192", "1": "0.23699564", "2": "0.16277894", "4": "0.19983819", "5": "0.2168877", "6": "0.10272726"}}

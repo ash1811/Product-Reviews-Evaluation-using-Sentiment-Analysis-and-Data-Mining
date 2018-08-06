@@ -1,0 +1,1 @@
+{"text": "This necklace is beautiful!  Not too big, not too small.  It looks great and isn't too heavy. Great for any occasion!", "sentiment": "negative", "topics": {"0": "0.26020068", "1": "0.52454895", "2": "0.014296748", "3": "0.014303526", "4": "0.014355384", "5": "0.014371143", "6": "0.15792358"}}

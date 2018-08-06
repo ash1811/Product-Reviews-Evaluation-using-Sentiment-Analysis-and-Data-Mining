@@ -1,0 +1,1 @@
+{"text": "This is the first time I purchased a belt online with out looking at it in person, I love the color and it is great belt.", "sentiment": "negative", "topics": {"0": "0.011939769", "1": "0.3578385", "2": "0.1991442", "3": "0.011932947", "4": "0.3952372", "5": "0.011961307", "6": "0.011946057"}}

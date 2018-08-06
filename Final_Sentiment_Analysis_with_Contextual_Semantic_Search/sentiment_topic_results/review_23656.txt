@@ -1,0 +1,1 @@
+{"text": "The hat was cute but was way too tight on my head...even though it's one size fits most...so beware it may not fit if you buy it..I am disappointed because of that.", "sentiment": "positive", "topics": {"0": "0.19108549", "1": "0.298866", "3": "0.31536102", "4": "0.17082687"}}

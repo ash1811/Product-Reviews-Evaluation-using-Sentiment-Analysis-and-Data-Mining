@@ -1,0 +1,1 @@
+{"text": "5 stars due to the fact that it fits perfectly,it seems like a tough material (hard to tear),and looks...wow! My gf loves it and she enjoys wearing it. I highly recommend.", "sentiment": "positive", "topics": {"0": "0.08899427", "1": "0.4512553", "2": "0.28295833", "3": "0.08765852", "5": "0.07545916"}}

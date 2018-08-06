@@ -1,0 +1,1 @@
+{"text": "I wear a 36 B and that is what I ordered but it was way to big. Not sure if the Lilyette Strapless will work for me. Will try 34 B next time.", "sentiment": "positive", "topics": {"1": "0.31973243", "2": "0.33575124", "5": "0.13122246", "6": "0.18796165"}}

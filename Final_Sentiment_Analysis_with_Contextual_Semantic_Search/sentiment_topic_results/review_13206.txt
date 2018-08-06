@@ -1,0 +1,1 @@
+{"text": "I child is 2yrs old.  2T & 3T should fit well.  I ordered a 2T, and it was too small.  So I exchanged for a 4T, and that is still too small.  Now the 2nd try, there's no link to exchange.  Very disappointing.", "sentiment": "positive", "topics": {"0": "0.07040519", "1": "0.45606035", "2": "0.1207716", "3": "0.119679965", "5": "0.21946274"}}

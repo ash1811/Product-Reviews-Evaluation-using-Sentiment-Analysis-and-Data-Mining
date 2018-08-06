@@ -1,0 +1,1 @@
+{"text": "I weight 138 lbs, 5'2in, and I have a round good size bottom.The size M fits perfect on my waist and bottom.The fabric is very comfortable and the look is great!", "sentiment": "positive", "topics": {"0": "0.122920245", "1": "0.38233766", "3": "0.23366314", "6": "0.23711967"}}

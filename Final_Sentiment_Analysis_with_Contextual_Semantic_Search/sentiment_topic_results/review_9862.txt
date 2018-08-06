@@ -1,0 +1,1 @@
+{"text": "this shoe feels great one of the best felling shoes I have fits like a glove love love this shoe", "sentiment": "negative", "topics": {"0": "0.010241769", "1": "0.19012752", "2": "0.41139886", "3": "0.010224335", "4": "0.35752597", "5": "0.010230723", "6": "0.01025085"}}

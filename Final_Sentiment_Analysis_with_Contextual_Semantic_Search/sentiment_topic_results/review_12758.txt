@@ -1,0 +1,1 @@
+{"text": "I was happy to find an analog watch for my child who is learning to read the clock. This one is holding up well to a young boys wear and tear. He is proud of his watch and tries to be responsible with it.", "sentiment": "negative", "topics": {"0": "0.24530423", "2": "0.21994543", "3": "0.3249816", "4": "0.18931459"}}

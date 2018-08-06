@@ -1,0 +1,1 @@
+{"text": "Very happy with the purchase.  The shirts fit well and are very durable. Heavy cotton construction, good for cooler climates", "sentiment": "positive", "topics": {"0": "0.011018819", "1": "0.5517318", "2": "0.010996281", "3": "0.11150123", "4": "0.011057024", "5": "0.20848359", "6": "0.09521123"}}

@@ -1,0 +1,1 @@
+{"text": "this was a good item to have if you have watches with screwed on backs.", "sentiment": "negative", "topics": {"0": "0.02384894", "1": "0.33771008", "2": "0.19828594", "3": "0.023825575", "4": "0.023824634", "5": "0.023872703", "6": "0.36863214"}}

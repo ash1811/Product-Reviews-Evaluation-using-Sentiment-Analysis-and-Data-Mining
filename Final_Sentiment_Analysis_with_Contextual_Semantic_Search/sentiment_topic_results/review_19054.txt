@@ -1,0 +1,1 @@
+{"text": "This bra will fit like a charm. The bra fits comfortably as if you are not wearing a bra at all.  The fabric in the bra reminds me of the Coobie Strappy V-Neck Lace Trim Bras. You should no trouble with this bra and you may never need another one.", "sentiment": "negative", "topics": {"1": "0.33594012", "3": "0.3297471", "5": "0.24411872", "6": "0.07427029"}}

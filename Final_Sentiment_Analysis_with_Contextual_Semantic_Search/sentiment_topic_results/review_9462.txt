@@ -1,0 +1,1 @@
+{"text": "fits perfect, love playtex---been buying them for years and always have had good success on fit and style--great great great", "sentiment": "positive", "topics": {"0": "0.010250755", "1": "0.6224947", "2": "0.010234243", "3": "0.22467636", "4": "0.010235558", "5": "0.11182094", "6": "0.0102874525"}}

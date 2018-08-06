@@ -1,0 +1,1 @@
+{"text": "Wrangler is a top grand. Bought this as a gift and haven't heard any feedback yet but wrangler has the best quality and fit.", "sentiment": "negative", "topics": {"0": "0.12012242", "1": "0.5519006", "2": "0.19476983", "3": "0.10016494", "4": "0.011017006", "5": "0.011033856", "6": "0.010991299"}}

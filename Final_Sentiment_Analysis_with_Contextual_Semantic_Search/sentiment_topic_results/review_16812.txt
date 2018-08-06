@@ -1,0 +1,1 @@
+{"text": "I bought these as to replace another pair I had to use as a basic summer shoe to wear around when shopping, etc...Wonderful, comfy shoes.", "sentiment": "negative", "topics": {"2": "0.34375408", "3": "0.115096785", "5": "0.26174495", "6": "0.2507361"}}

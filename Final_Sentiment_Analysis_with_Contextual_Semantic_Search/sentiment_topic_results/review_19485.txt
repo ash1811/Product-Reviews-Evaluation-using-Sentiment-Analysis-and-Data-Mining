@@ -1,0 +1,1 @@
+{"text": "I had a heavy cross that needed a thick rope chain to hold it. I found exactly what I wanted and delivery was quick.", "sentiment": "negative", "topics": {"0": "0.11998493", "1": "0.010224077", "2": "0.121935554", "3": "0.12144329", "4": "0.21402931", "5": "0.12276854", "6": "0.2896143"}}

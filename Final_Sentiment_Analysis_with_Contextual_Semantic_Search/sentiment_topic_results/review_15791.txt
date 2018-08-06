@@ -1,0 +1,1 @@
+{"text": "I found these to be very soft and complimentary.  They do stretch considerably and should be treated with some care.  That being said, for this price how can you beat them?  I like the different colors they offer as well.", "sentiment": "negative", "topics": {"0": "0.18910134", "1": "0.3623511", "2": "0.09590378", "3": "0.21951754", "4": "0.11626933"}}

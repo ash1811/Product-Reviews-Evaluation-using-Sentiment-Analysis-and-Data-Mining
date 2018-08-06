@@ -1,0 +1,1 @@
+{"text": "I have these in black, so glad to have found these in brown, the seller was a pleasure to deal with!", "sentiment": "negative", "topics": {"0": "0.015891256", "1": "0.40125334", "2": "0.01589221", "3": "0.33166173", "4": "0.015947351", "5": "0.20348102", "6": "0.015873093"}}

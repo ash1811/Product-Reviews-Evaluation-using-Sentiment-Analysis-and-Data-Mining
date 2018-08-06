@@ -1,0 +1,1 @@
+{"text": "These come with great elastic banding on the top. An fit snuggly without being uncomfortable. As always Hanes offers best value and best prices.", "sentiment": "negative", "topics": {"0": "0.24294926", "1": "0.5436966", "3": "0.08455159", "6": "0.10334632"}}

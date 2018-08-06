@@ -1,0 +1,1 @@
+{"text": "For a size 8 shoe, it suggested a 5 sock. I should have known better. I can wear them but not what I expected.", "sentiment": "negative", "topics": {"0": "0.013006067", "1": "0.36888635", "2": "0.128864", "3": "0.013034978", "4": "0.013022598", "5": "0.1080183", "6": "0.35516775"}}

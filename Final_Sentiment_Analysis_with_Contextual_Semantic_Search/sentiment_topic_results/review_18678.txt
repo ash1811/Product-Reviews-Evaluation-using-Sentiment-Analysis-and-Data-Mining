@@ -1,0 +1,1 @@
+{"text": "no complaints, they are fishnets. did the trick. they were comfortable and fit fine. i am 5'5&#34; and 120 lbs.", "sentiment": "negative", "topics": {"0": "0.11692997", "1": "0.4030027", "2": "0.23570152", "3": "0.014295736", "4": "0.09984034", "5": "0.11593912", "6": "0.0142905805"}}

@@ -1,0 +1,1 @@
+{"text": "I got 1 black, 1 white, and a gray.  I am very happy with all of them!  Fit me well (medium).", "sentiment": "negative", "topics": {"0": "0.011939654", "1": "0.46388003", "2": "0.011937963", "3": "0.3416617", "4": "0.011920301", "5": "0.14672737", "6": "0.011932962"}}

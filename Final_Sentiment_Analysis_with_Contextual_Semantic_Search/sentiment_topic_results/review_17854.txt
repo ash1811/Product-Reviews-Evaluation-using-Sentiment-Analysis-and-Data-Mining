@@ -1,0 +1,1 @@
+{"text": "Got it as a graduation gift for my son's friends.Stylish and dependable; feels and looks more expensive than it really is.", "sentiment": "negative", "topics": {"0": "0.5143072", "1": "0.18755792", "2": "0.12301853", "3": "0.011977144", "4": "0.1391413", "5": "0.011945423", "6": "0.012052424"}}

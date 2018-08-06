@@ -1,0 +1,1 @@
+{"text": "I've tried other bras but keep coming back to this one.  It gives great support without excessive strain on the shoulders and the strap adjustment is on the front -- a big plus.", "sentiment": "negative", "topics": {"0": "0.13812724", "1": "0.38358754", "2": "0.08102807", "3": "0.22986664", "4": "0.15298711"}}

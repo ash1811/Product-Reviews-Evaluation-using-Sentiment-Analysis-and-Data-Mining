@@ -1,0 +1,1 @@
+{"text": "Comes in cute colors, is comfy and warm.  What more can you ask for in a sock!  Also holds up well wash after wash.", "sentiment": "negative", "topics": {"0": "0.011017527", "1": "0.3349674", "2": "0.011017665", "3": "0.21034685", "4": "0.11076324", "5": "0.31088796", "6": "0.010999346"}}

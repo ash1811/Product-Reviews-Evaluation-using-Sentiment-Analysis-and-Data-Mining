@@ -1,0 +1,1 @@
+{"text": "I just wanted a nice, simple watch to wear as an everyday/non-dressy add-on and this watch works perfectly. Easy to read, fairly simple to figure out and very comfortable.", "sentiment": "negative", "topics": {"1": "0.38796446", "2": "0.22324838", "3": "0.09825722", "5": "0.08237068", "6": "0.19133703"}}

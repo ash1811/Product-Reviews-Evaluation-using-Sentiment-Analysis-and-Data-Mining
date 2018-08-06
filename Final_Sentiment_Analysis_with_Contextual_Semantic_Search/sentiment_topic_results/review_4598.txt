@@ -1,0 +1,1 @@
+{"text": "I have purchased these jeans for about 10 years.  They wear well, are comfortable, and have no back pockets to wear holes in the fabric at the upper tack stitching.  I hope Lee never discontinues this style!", "sentiment": "positive", "topics": {"1": "0.47927588", "2": "0.09243665", "4": "0.07286603", "5": "0.27127585", "6": "0.07051774"}}

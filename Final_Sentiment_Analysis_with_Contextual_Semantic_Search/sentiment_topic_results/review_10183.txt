@@ -1,0 +1,1 @@
+{"text": "Came promptly, double packed.  They are soooo pretty, I love them and get complements all the time. Would definitely look at this sellers products again", "sentiment": "positive", "topics": {"0": "0.38109347", "2": "0.082014255", "3": "0.07978972", "5": "0.28942105", "6": "0.14973119"}}

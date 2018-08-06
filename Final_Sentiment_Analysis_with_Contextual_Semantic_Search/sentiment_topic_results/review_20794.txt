@@ -1,0 +1,1 @@
+{"text": "This is a good costume for a child. My grandson whom I purchased this for, just loves dressing up as a Police Officer.  He looks so cute in it.", "sentiment": "negative", "topics": {"0": "0.20082982", "1": "0.27742133", "2": "0.010212756", "3": "0.1330268", "4": "0.21072729", "5": "0.0102306735", "6": "0.15755133"}}

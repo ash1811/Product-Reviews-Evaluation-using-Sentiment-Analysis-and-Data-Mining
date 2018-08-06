@@ -1,0 +1,1 @@
+{"text": "Great costume for dress up. Normal costume quality fabric. My son loves dressing up and pretending to be a pirate.", "sentiment": "negative", "topics": {"0": "0.31934014", "1": "0.28510067", "2": "0.010206914", "3": "0.01021788", "4": "0.1724384", "5": "0.19248417", "6": "0.010211833"}}

@@ -1,0 +1,1 @@
+{"text": "this scarf is the perfect accesory - light weight, soft material, subtle / beautiful pattern.  I gave this as a gift and they loved it too.  Almost kept it for myself.", "sentiment": "negative", "topics": {"0": "0.44324553", "1": "0.2125768", "2": "0.0916263", "3": "0.087137744", "5": "0.14951514"}}

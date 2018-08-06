@@ -1,0 +1,1 @@
+{"text": "This is hot. I can't really add more, but it turns any woman into a sexy diva! Oh yea! Hot!", "sentiment": "negative", "topics": {"0": "0.011023167", "1": "0.296408", "2": "0.011032021", "3": "0.34423167", "4": "0.011026582", "5": "0.31528047", "6": "0.010998115"}}

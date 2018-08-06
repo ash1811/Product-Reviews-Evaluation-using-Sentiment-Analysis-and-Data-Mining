@@ -1,0 +1,1 @@
+{"text": "Not worth the money. Very thin and poor quality.  I would not purchase this again. Delivery was expensive too!!! Seems like it will fall apart easily.", "sentiment": "negative", "topics": {"1": "0.55909157", "5": "0.31232867", "6": "0.09475401"}}

@@ -1,0 +1,1 @@
+{"text": "Good solid T-shirt w/heavy weight fabric - the ONLY T-shirt I will buy (Kirkland (Costco) however is a close 2nd", "sentiment": "positive", "topics": {"0": "0.010219199", "1": "0.21034999", "2": "0.3625432", "3": "0.010217309", "4": "0.069599934", "5": "0.010317951", "6": "0.3267524"}}

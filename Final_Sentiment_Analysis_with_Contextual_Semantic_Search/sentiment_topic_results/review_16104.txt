@@ -1,0 +1,1 @@
+{"text": "We are a family that likes to laugh so we put on these kind of hats to lighten the mood and keep the stress at bay.", "sentiment": "negative", "topics": {"0": "0.011939763", "1": "0.012076668", "2": "0.18083362", "3": "0.19729663", "4": "0.011963092", "5": "0.5739122", "6": "0.011977986"}}

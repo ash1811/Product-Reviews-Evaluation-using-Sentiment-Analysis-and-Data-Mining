@@ -1,0 +1,1 @@
+{"text": "fits well, looks nice, easy to put on, feels soft like wearing socks,make feet appear smaller.good color,great price quickly shipped", "sentiment": "negative", "topics": {"1": "0.35561138", "2": "0.066226624", "4": "0.21943149", "5": "0.3372045"}}

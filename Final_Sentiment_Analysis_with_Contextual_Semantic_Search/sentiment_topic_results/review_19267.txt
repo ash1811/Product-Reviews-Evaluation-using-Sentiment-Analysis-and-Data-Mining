@@ -1,0 +1,1 @@
+{"text": "excelente reloj de muy buena fabricacion y calidad, ha llegado en tiempo y forma a destino, recomiendo a este vendedor.", "sentiment": "negative", "topics": {"1": "0.2442022", "2": "0.14142822", "3": "0.2510799", "4": "0.22304429", "5": "0.123433895"}}

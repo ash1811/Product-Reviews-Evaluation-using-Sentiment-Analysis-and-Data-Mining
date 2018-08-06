@@ -1,0 +1,1 @@
+{"text": "for a very inexpensive shoe...I was pleased with the product...great for just out of the bath and around the house...they have much better support than I expected...I would buy again.", "sentiment": "positive", "topics": {"1": "0.32955998", "3": "0.3393436", "4": "0.17763194", "6": "0.12481618"}}

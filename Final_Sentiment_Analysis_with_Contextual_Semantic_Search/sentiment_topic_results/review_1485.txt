@@ -1,0 +1,1 @@
+{"text": "I purchased the purple backpack and love the color. There are plenty of compartments for books and other school supplies. I would purchase this again.", "sentiment": "positive", "topics": {"0": "0.09845358", "1": "0.4030532", "2": "0.23565829", "3": "0.103408396", "4": "0.13898733", "5": "0.010233794", "6": "0.010205427"}}

@@ -1,0 +1,1 @@
+{"text": "Very nice slim watch, keeps perfect time, watch is backlit, this is all the review I can add as this was a purchase for my spouse, he seems very happy with the purchase.", "sentiment": "negative", "topics": {"0": "0.21372184", "1": "0.24139804", "2": "0.29655063", "4": "0.22147389"}}

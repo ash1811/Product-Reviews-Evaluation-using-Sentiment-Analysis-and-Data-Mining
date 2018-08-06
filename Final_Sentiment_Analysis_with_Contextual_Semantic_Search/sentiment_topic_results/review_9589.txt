@@ -1,0 +1,1 @@
+{"text": "I lost my watch like this one 2 years ago....I missed it so much...It was the indiglo part and the easy reader that I loved...And when I saw this one Amazon; I couldn't resist getting it...Thank you so much for the prompt shipping.", "sentiment": "negative", "topics": {"0": "0.112606496", "2": "0.24611713", "3": "0.09173759", "4": "0.20746677", "5": "0.33005247"}}

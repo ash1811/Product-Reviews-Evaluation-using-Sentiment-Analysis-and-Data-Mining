@@ -1,0 +1,1 @@
+{"text": "They fit fine. Husband likes them. He had an old pair he uses for work, and wanted another pair to wear out and about.", "sentiment": "negative", "topics": {"1": "0.34670365", "2": "0.16509253", "3": "0.16442116", "4": "0.29510093"}}

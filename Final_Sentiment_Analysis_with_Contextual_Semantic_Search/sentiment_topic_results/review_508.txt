@@ -1,0 +1,1 @@
+{"text": "bought this for the brand but sizing is a bit small than what I wanted. I recommend it but has to know it runs small.", "sentiment": "negative", "topics": {"0": "0.013036621", "1": "0.013060884", "2": "0.01304434", "3": "0.92179257", "4": "0.01302335", "5": "0.013040505", "6": "0.013001775"}}

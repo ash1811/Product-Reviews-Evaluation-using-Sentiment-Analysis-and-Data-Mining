@@ -1,0 +1,1 @@
+{"text": "My 20 year old son is an outdoorsy sort of guy and he is very big. These pants fit him perfectly, he loves the way they feel and they keep him warm! A successful gift from Mom. Thank you!", "sentiment": "negative", "topics": {"0": "0.23698543", "1": "0.35899627", "2": "0.16174184", "4": "0.22272275"}}

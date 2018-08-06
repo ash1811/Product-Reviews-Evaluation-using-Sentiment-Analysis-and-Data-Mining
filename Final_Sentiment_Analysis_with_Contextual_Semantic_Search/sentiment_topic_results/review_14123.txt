@@ -1,0 +1,1 @@
+{"text": "I read reviews before I ordered. They said it sparkled,etc. When I saw it I knew they were telling the truth. This is a beautiful little anklet that is sturdy and sparkles and shines! I love it!", "sentiment": "negative", "topics": {"1": "0.23104136", "2": "0.09485885", "3": "0.14609523", "5": "0.41809478", "6": "0.09398093"}}

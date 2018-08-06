@@ -1,0 +1,1 @@
+{"text": "I bought two of these for the grand kids.  They loved them and wear them every day.  Was very pleased with my purchase!", "sentiment": "positive", "topics": {"0": "0.013022878", "1": "0.30623606", "2": "0.12054834", "3": "0.013002161", "4": "0.013006977", "5": "0.5211872", "6": "0.012996453"}}

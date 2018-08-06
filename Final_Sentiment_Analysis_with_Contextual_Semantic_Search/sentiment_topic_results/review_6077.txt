@@ -1,0 +1,1 @@
+{"text": "I finally got my shoe back. I only wish they had been soft sole in stead of hard.I like to walk softly, like a black panther.", "sentiment": "positive", "topics": {"0": "0.20731914", "1": "0.26472571", "2": "0.16421905", "3": "0.12981234", "6": "0.21603015"}}

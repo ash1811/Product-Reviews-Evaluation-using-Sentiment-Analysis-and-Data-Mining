@@ -1,0 +1,1 @@
+{"text": "Needed a larger size shorts due to a medical condition for a relative.  These shorts fulfilled our needs and his.", "sentiment": "positive", "topics": {"0": "0.29963544", "1": "0.010999119", "2": "0.011018281", "3": "0.26777896", "4": "0.011039654", "5": "0.12847184", "6": "0.2710567"}}

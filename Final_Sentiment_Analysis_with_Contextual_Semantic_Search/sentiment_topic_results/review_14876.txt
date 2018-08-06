@@ -1,0 +1,1 @@
+{"text": "Should have looked closer at size. It small almost child sized. But it's fine as long as you don't try to fit more than one subject worth of stuff n at a time.", "sentiment": "negative", "topics": {"0": "0.12475385", "1": "0.14492877", "2": "0.23076664", "3": "0.40049803", "6": "0.083096065"}}

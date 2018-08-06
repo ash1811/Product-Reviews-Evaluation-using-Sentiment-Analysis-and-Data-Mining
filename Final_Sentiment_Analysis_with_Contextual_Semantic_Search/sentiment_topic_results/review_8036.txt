@@ -1,0 +1,1 @@
+{"text": "Does it's job as a baseball pants belt.  Color was accurate to the description.  I have a 34 waiste and this worked perfect.", "sentiment": "negative", "topics": {"0": "0.011934183", "1": "0.33252406", "2": "0.13936155", "3": "0.011914892", "4": "0.13049687", "5": "0.012052931", "6": "0.36171553"}}

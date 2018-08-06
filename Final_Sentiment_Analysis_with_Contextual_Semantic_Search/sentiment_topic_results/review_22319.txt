@@ -1,0 +1,1 @@
+{"text": "my 91 year old mother loves these socks - they separate her toes and give her warmth she is always looking for.  She has one toe growing under another and this sock relieves the pain when she wears shoes.", "sentiment": "positive", "topics": {"1": "0.4576204", "2": "0.19517203", "4": "0.16627175", "5": "0.106872134", "6": "0.06160298"}}

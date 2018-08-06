@@ -1,0 +1,1 @@
+{"text": "My Husband loves these I by a tall so they do not pull out of pants and he loves the pocket. They are a thicker materiel and last a long time.", "sentiment": "positive", "topics": {"0": "0.011016669", "1": "0.43535504", "2": "0.09858995", "3": "0.010998476", "4": "0.42201787", "5": "0.011026112", "6": "0.010995859"}}

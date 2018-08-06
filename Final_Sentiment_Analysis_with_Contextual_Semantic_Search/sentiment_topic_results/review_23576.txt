@@ -1,0 +1,1 @@
+{"text": "100% cotton, not stiff or scratchy; good weight to the fabric; not a fancy t-shirt, but very good basic garment.  The coral is vibrant, not an angelskin coral color.  It's very flattering on a blonde (me).", "sentiment": "negative", "topics": {"1": "0.44219384", "2": "0.07710773", "3": "0.13879196", "4": "0.1944408", "6": "0.1337622"}}

@@ -1,0 +1,1 @@
+{"text": "I ordered this set for my nephew. He loved it. It is such a great deal for the amount of items you get. The tops and cape are all connected. The outfits don't have pants connected but that's okay. Very cute and the masks are good quality.", "sentiment": "negative", "topics": {"1": "0.50852823", "2": "0.23360445", "3": "0.17455211", "6": "0.064637944"}}

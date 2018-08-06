@@ -1,0 +1,1 @@
+{"text": "Serviceable, but not soft like a real cotton bandana.  Color is good, and did not fade after a hot wash and dry", "sentiment": "positive", "topics": {"0": "0.011023853", "1": "0.614646", "2": "0.011014033", "3": "0.10488741", "4": "0.09960591", "5": "0.011036735", "6": "0.147786"}}

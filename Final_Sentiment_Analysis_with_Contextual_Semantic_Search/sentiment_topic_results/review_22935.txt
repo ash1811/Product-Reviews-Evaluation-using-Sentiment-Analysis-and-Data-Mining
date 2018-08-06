@@ -1,0 +1,1 @@
+{"text": "Delivered fast, Love this Short, this one is great quality with a great price.. Soft and comfortable.. Would definitely recommend this product to others.", "sentiment": "negative", "topics": {"0": "0.20964015", "1": "0.45936054", "3": "0.08222157", "4": "0.14557356", "5": "0.08634573"}}

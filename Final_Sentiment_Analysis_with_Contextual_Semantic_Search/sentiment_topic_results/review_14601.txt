@@ -1,0 +1,1 @@
+{"text": "this was a xmas present for my husband, he loves these jeans, he told me they are the most comfortable jeans he's ever had so with that said go get a pair. Didn't have any problems with delivery or packaging, he was satisfied with the fit and quality, I recommend", "sentiment": "positive", "topics": {"1": "0.2763293", "4": "0.48807374", "6": "0.20948675"}}

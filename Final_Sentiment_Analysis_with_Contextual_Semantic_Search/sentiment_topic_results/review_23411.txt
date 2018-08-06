@@ -1,0 +1,1 @@
+{"text": "You'd think the item would be fragile but it's actually surprisingly flexible.  This is a must buy if you like this.", "sentiment": "negative", "topics": {"0": "0.14317495", "1": "0.15157987", "2": "0.115422845", "3": "0.20213825", "4": "0.011907894", "5": "0.2455566", "6": "0.1302196"}}

@@ -1,0 +1,1 @@
+{"text": "My son is 14 and recently had a great growth spurt. These shoes fit him very comfortably and it was nice to see him excited about that!", "sentiment": "negative", "topics": {"0": "0.081130646", "1": "0.2536264", "2": "0.08922221", "3": "0.16948926", "4": "0.32645115", "5": "0.06986839", "6": "0.010211891"}}

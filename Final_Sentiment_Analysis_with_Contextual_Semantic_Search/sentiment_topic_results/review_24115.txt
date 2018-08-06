@@ -1,0 +1,1 @@
+{"text": "easy to wearwide with five hooksno sagging as the day winds ontend to be a bit tight the first several times they're worn, then they're okay.  the larger size is too large.", "sentiment": "negative", "topics": {"1": "0.1682186", "3": "0.27200988", "4": "0.3097004", "6": "0.22960629"}}

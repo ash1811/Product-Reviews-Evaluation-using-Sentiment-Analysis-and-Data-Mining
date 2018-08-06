@@ -1,0 +1,1 @@
+{"text": "Excellent bedroom slipper.  Easy on and off and very comfortable.  They are of sturdy construction and should last a long time.", "sentiment": "positive", "topics": {"0": "0.013024147", "1": "0.30541736", "2": "0.22303078", "3": "0.013021813", "4": "0.268595", "5": "0.013055827", "6": "0.16385508"}}

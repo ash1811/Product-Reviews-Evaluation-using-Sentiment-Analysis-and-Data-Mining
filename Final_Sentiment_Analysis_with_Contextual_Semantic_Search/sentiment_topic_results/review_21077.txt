@@ -1,0 +1,1 @@
+{"text": "I needed a tote bag that zipped to keep misc items in the car for the kids ... games, pencils, books, etc.  It has worked out well for us so far.", "sentiment": "negative", "topics": {"0": "0.084208265", "1": "0.19880168", "2": "0.36523268", "4": "0.07372092", "5": "0.12297203", "6": "0.14710623"}}

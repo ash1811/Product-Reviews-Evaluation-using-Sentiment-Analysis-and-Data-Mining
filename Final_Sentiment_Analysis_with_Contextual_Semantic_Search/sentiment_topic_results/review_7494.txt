@@ -1,0 +1,1 @@
+{"text": "Great quality jacket - couldn't decide which size to buy so settled on the large which was too big.  No problem with exchange, free shipping both ways, and received medium two days later.  Great service!", "sentiment": "negative", "topics": {"1": "0.48799035", "2": "0.064970486", "3": "0.21140327", "4": "0.09323906", "5": "0.12937076"}}

@@ -1,0 +1,1 @@
+{"text": "Nice box. Keeps many rings organized. Good quality. Small but mighty. Great for travel. Will get another soon. Compact and durable.", "sentiment": "positive", "topics": {"0": "0.10649721", "1": "0.5771773", "4": "0.094462834", "5": "0.054880597", "6": "0.15105532"}}

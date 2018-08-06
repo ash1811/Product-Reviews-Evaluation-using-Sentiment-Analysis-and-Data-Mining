@@ -1,0 +1,1 @@
+{"text": "love this color and the roominess of this bag. The material is substantial and it washes well, actually. I'm using it as a regular handbag for summer.", "sentiment": "positive", "topics": {"0": "0.1659429", "1": "0.194072", "3": "0.3078968", "5": "0.30341783"}}

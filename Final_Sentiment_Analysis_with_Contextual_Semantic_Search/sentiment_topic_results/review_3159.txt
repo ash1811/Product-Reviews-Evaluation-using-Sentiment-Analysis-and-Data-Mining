@@ -1,0 +1,1 @@
+{"text": "These relaxed fit jeans fits my body type well. There is plenty of room in the waist and seat and the cut is comfortable.", "sentiment": "negative", "topics": {"0": "0.2708998", "1": "0.5094275", "2": "0.010257604", "3": "0.010223153", "4": "0.010216775", "5": "0.010260363", "6": "0.17871478"}}

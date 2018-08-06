@@ -1,0 +1,1 @@
+{"text": "I am a size 7 and ordered a 7 and they fit perfectly.  Also, the back doesn't slip off of my foot at all which is usually a characteristic of non-strapped heels.", "sentiment": "negative", "topics": {"0": "0.18426187", "1": "0.3326348", "2": "0.08725485", "4": "0.14365506", "6": "0.23308478"}}

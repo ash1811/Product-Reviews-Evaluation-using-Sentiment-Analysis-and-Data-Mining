@@ -1,0 +1,1 @@
+{"text": "I ordered this chain for my husband - it looks very nice and saved me from running to the malls.  Price was good as well.  Very satisfied.", "sentiment": "negative", "topics": {"0": "0.011011349", "1": "0.4166741", "2": "0.010994439", "3": "0.011002842", "4": "0.19042775", "5": "0.12458033", "6": "0.23530923"}}

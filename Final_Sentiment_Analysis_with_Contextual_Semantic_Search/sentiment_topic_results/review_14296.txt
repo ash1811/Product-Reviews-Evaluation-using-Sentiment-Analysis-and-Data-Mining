@@ -1,0 +1,1 @@
+{"text": "they are okay, but too pricey for what they are.  Basically, they are a rubber flip flop with extra straps.  Not what I expected and I won't buy them again.  Ten dollars would have been a better price.  Oh well, I know for next time.", "sentiment": "negative", "topics": {"1": "0.3784666", "2": "0.22167343", "3": "0.11237155", "4": "0.18194816", "6": "0.09306963"}}

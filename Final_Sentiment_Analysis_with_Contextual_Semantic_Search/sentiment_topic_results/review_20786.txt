@@ -1,0 +1,1 @@
+{"text": "This is a great hoodie for work or play. Its warm, durable and comfortable. Like all Carhartt products its quality.", "sentiment": "negative", "topics": {"0": "0.011921404", "1": "0.7230084", "2": "0.0119306445", "3": "0.11182487", "4": "0.01190743", "5": "0.1174672", "6": "0.011940019"}}

@@ -1,0 +1,1 @@
+{"text": "Generally Amazon has prices that are better then the stores in the area, if they are the same product shy not save some money on them.  Good fit, as expected and good price.  I'll be back for more.", "sentiment": "negative", "topics": {"1": "0.5147197", "3": "0.15972441", "4": "0.12695931", "5": "0.11005988", "6": "0.074208"}}

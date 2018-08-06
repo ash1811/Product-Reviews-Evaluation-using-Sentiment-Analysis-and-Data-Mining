@@ -1,0 +1,1 @@
+{"text": "Plenty of room, ruggedly made.  I like the improvement on the utility pocket, the little inset keeps things like cell phones from falling out when you sit or bend down.", "sentiment": "positive", "topics": {"1": "0.35538954", "2": "0.31536907", "4": "0.12129487", "5": "0.1864445"}}

@@ -1,0 +1,1 @@
+{"text": "We've bought these before and he still likes them.  So we give them a five star rating and will buy them again when these wear out.", "sentiment": "negative", "topics": {"0": "0.011008433", "1": "0.4720949", "2": "0.1947355", "3": "0.011055729", "4": "0.011004195", "5": "0.17353055", "6": "0.12657069"}}

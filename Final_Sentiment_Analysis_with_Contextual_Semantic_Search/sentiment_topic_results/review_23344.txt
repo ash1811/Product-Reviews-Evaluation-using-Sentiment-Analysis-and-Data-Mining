@@ -1,0 +1,1 @@
+{"text": "Nice weight and really good length, not long over knees. Fits better than expected. Carhartt always comes through. Always have liked these.", "sentiment": "negative", "topics": {"0": "0.107318304", "1": "0.7525316", "3": "0.10829698"}}

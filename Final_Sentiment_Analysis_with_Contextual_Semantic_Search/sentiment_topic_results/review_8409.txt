@@ -1,0 +1,1 @@
+{"text": "Love this cute cuddly costume for my 8 month old. he's average size and height and it fits him nicely. Some tissue paper got stuck to the cape a little but u can't really see. Bought the 6-12 size.", "sentiment": "positive", "topics": {"0": "0.14487304", "1": "0.23240791", "2": "0.13160768", "3": "0.24611066", "4": "0.1297282", "6": "0.1099641"}}

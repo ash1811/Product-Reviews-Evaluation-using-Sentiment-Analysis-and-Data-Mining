@@ -1,0 +1,1 @@
+{"text": "These shoes are super comfortable and keep you dry.  I can tredge through anything and they clean up in a snap.", "sentiment": "negative", "topics": {"0": "0.014329581", "1": "0.3393302", "2": "0.33374798", "3": "0.014355591", "4": "0.014398204", "5": "0.12739399", "6": "0.15644445"}}

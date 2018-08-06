@@ -1,0 +1,1 @@
+{"text": "bought for my husband.  he liked them but only for walking.  no climbing small hills.  Won't buy these again though.  Shoelaces were cheap.", "sentiment": "negative", "topics": {"0": "0.38382348", "1": "0.17597239", "2": "0.011928736", "3": "0.081126966", "4": "0.3232746", "5": "0.011962502", "6": "0.011911319"}}

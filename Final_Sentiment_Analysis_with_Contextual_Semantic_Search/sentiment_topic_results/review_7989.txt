@@ -1,0 +1,1 @@
+{"text": "I ordered wide since my feet were swollen from pregnancy.  I was so excited when they arrived by my feet wouldn't fit into them until all of the swelling was gone!  I do not normally have wide feet", "sentiment": "positive", "topics": {"0": "0.085350655", "1": "0.3129767", "2": "0.09237228", "3": "0.21048526", "4": "0.20482555", "5": "0.085050106"}}

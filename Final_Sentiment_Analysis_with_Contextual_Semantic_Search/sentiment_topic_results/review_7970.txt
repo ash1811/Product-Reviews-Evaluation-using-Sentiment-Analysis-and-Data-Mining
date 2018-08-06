@@ -1,0 +1,1 @@
+{"text": "They are true to size and very comfortable. They are cushioned nicely  and look quite attractive. Don't know how much more to say about a pair of slippers.", "sentiment": "negative", "topics": {"0": "0.01021531", "1": "0.36375627", "2": "0.010211392", "3": "0.29033694", "4": "0.010213857", "5": "0.010210514", "6": "0.30505568"}}

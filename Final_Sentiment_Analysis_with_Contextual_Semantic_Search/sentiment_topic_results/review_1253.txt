@@ -1,0 +1,1 @@
+{"text": "I wish these sandals had a smooth sole. I bought these because I teach ballroom dancing 25 hours a week, and my feet need something soft to relax. These don't cut it.", "sentiment": "negative", "topics": {"1": "0.3822643", "3": "0.3485316", "4": "0.10040933", "6": "0.14614856"}}

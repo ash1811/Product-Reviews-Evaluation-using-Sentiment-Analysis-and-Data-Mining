@@ -1,0 +1,1 @@
+{"text": "Thesese bibs are beautiful, they are so well made and great looking.  Bought these for my son who works outside in the cold and it keeps him warmn and toasty.", "sentiment": "negative", "topics": {"0": "0.11095684", "1": "0.4859385", "5": "0.22661088", "6": "0.1496072"}}

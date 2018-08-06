@@ -1,0 +1,1 @@
+{"text": "Good product clear views. They are perfect for driving. I sue them all them time rain or shine. you could see clearly", "sentiment": "negative", "topics": {"0": "0.27629024", "1": "0.010249817", "2": "0.22267315", "3": "0.010223336", "4": "0.15254454", "5": "0.24176124", "6": "0.08625766"}}

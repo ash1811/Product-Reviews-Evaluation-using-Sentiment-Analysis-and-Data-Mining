@@ -1,0 +1,1 @@
+{"text": "I wear 42c and have bought the same size from lilyette, bali and vanity fair.  Both Vanity fair bras that i bought fit nicely while the size for the other two brands seem to be off.", "sentiment": "negative", "topics": {"0": "0.112620965", "1": "0.27318752", "3": "0.2799185", "4": "0.15321247", "6": "0.16673979"}}

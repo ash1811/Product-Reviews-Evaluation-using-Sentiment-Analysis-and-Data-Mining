@@ -1,0 +1,1 @@
+{"text": "these are a really durable and comfortable scrub...they wear like iron. will be back for more eventually. not sorry that i bought these.", "sentiment": "negative", "topics": {"0": "0.011053068", "1": "0.3111564", "2": "0.011013592", "3": "0.11969753", "4": "0.091827944", "5": "0.44423258", "6": "0.011018859"}}

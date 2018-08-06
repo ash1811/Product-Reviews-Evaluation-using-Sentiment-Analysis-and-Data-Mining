@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable shoes I've ever worn.  I've been wearing Merrill shoes for years and refuse to put my feet in anything else.", "sentiment": "positive", "topics": {"0": "0.17725258", "1": "0.12967573", "2": "0.30486438", "3": "0.2975329", "6": "0.07270398"}}

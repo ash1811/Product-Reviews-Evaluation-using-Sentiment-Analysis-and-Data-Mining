@@ -1,0 +1,1 @@
+{"text": "The color gets rave reviews and you really do not need a slip under it for going shopping.", "sentiment": "negative", "topics": {"0": "0.2444212", "1": "0.014377144", "2": "0.014307086", "3": "0.014315916", "4": "0.014313594", "5": "0.4464748", "6": "0.2517903"}}

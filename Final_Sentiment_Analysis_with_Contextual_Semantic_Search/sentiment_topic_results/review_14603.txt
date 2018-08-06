@@ -1,0 +1,1 @@
+{"text": "These jeans behave like shrink to fit jeans.  So make sure that you buy a large enough size.  Also, they wrinkle A LOT, and it's next to impossible to get rid of the wrinkles.", "sentiment": "positive", "topics": {"1": "0.3768993", "2": "0.08455752", "3": "0.08874718", "4": "0.07956745", "5": "0.10430908", "6": "0.2591021"}}

@@ -1,0 +1,1 @@
+{"text": "The band pulls apart from the watch case, the buttons pop off, and the paint flakes off.In short, a rather fragile watch that will work for anyone that won't really do much with it.", "sentiment": "positive", "topics": {"0": "0.2879272", "1": "0.11345202", "2": "0.36731097", "4": "0.06424572", "5": "0.097638145", "6": "0.062596045"}}

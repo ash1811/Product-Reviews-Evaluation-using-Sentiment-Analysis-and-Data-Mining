@@ -1,0 +1,1 @@
+{"text": "I like the slippers, but they do tend to slide off your feet at times. They are comfortable and have a nice hard sole on the bottom, so you could actually walk outside on the concrete with them, no problem.", "sentiment": "negative", "topics": {"0": "0.09692264", "1": "0.33823645", "2": "0.18967302", "5": "0.29514846", "6": "0.06488073"}}

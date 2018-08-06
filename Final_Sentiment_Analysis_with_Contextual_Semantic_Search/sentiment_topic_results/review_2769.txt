@@ -1,0 +1,1 @@
+{"text": "It might work for a Superman costume, but Spider man is supposed to be a weedy teenager.  So it looks funny.  My little boy's Spiderman PJs are more convincing than this thing.", "sentiment": "negative", "topics": {"0": "0.10677144", "1": "0.13596432", "2": "0.14752302", "3": "0.33947384", "6": "0.2543714"}}

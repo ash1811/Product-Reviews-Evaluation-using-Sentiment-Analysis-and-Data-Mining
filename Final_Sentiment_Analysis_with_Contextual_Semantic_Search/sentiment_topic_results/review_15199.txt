@@ -1,0 +1,1 @@
+{"text": "These sandals are not as comfortable as Keen Whisper sandals.  I have wide feet and the Keen Venice is just not that comfortable.  I wish I could return them, but I wore them outside the first day, so now it is too late.", "sentiment": "negative", "topics": {"0": "0.1048874", "1": "0.31602275", "2": "0.19705826", "4": "0.056529917", "6": "0.31115073"}}

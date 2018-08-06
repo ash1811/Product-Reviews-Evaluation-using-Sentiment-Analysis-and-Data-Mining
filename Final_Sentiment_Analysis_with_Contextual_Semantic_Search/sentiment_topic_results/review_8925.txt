@@ -1,0 +1,1 @@
+{"text": "Good fit, good-looking, good support.  My husband loves them.  He wears them several times a week and they still look like new", "sentiment": "positive", "topics": {"1": "0.2948716", "3": "0.45895356", "4": "0.12000255", "6": "0.100890934"}}

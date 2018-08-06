@@ -1,0 +1,1 @@
+{"text": "its suppose to be a dress not a tube top. i am tall but it was way too short. it was not true to size or even close to it.", "sentiment": "negative", "topics": {"0": "0.42034966", "1": "0.011037799", "2": "0.011022932", "3": "0.4007411", "4": "0.13480258", "5": "0.011011132", "6": "0.011034807"}}

@@ -1,0 +1,1 @@
+{"text": "It is definitely a sleep/leisure bra, but the bottom hook scratches...at least on me. Don't try to wear this in public, unless you're going to Wal-Mart...if you know what I mean.", "sentiment": "positive", "topics": {"0": "0.32482967", "3": "0.2944101", "5": "0.2726666", "6": "0.08285249"}}

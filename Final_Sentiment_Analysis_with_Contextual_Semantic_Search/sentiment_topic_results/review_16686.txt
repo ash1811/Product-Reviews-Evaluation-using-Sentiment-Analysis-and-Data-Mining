@@ -1,0 +1,1 @@
+{"text": "Great price, true to size amazing quality. No complaints whatsoever, my daughter absolutely loves her new tap shoes. No need to ever buy them anywhere else.", "sentiment": "negative", "topics": {"1": "0.40089983", "2": "0.20963049", "3": "0.22591102", "4": "0.08312782", "6": "0.06611173"}}

@@ -1,0 +1,1 @@
+{"text": "This ring has both the quality AND the look of a $500+ ring.  The stones are flawless and beautiful. The fit is perfect!  It is breathtaking and so beautiful.  If you don't buy this, you will regret it!", "sentiment": "negative", "topics": {"0": "0.23601072", "1": "0.45217037", "3": "0.074552014", "4": "0.21195686"}}

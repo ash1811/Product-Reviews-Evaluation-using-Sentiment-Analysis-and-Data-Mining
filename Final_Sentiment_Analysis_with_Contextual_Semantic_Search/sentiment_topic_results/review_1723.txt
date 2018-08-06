@@ -1,0 +1,1 @@
+{"text": "Love these boy shorts.  They're comfortable, non-binding, don't ride up, and there are no panty-lines to contend with.  Wish they came in another light color besides white.", "sentiment": "negative", "topics": {"0": "0.13322859", "1": "0.34473953", "2": "0.2156137", "4": "0.08995837", "5": "0.090335965", "6": "0.11858797"}}

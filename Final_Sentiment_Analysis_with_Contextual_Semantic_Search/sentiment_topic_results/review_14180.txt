@@ -1,0 +1,1 @@
+{"text": "levis original el mejor de todos los pantalones ,comodo ,duras&iexcl;dero y lo mejor viste muy bien no los cambio por nada", "sentiment": "negative", "topics": {"0": "0.46810475", "1": "0.15832494", "3": "0.057950623", "4": "0.13887466", "5": "0.11031107", "6": "0.05922001"}}

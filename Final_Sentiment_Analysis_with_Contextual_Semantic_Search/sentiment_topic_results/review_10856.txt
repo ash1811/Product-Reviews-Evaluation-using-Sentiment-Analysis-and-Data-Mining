@@ -1,0 +1,1 @@
+{"text": "Very comfortable and they are useful for outdoor and indoor use, especially around the deck. They sustain a lot of abuse put to it, after several months and a wash, they're good as new.", "sentiment": "negative", "topics": {"1": "0.28054595", "3": "0.16948369", "4": "0.25258464", "5": "0.2758693"}}

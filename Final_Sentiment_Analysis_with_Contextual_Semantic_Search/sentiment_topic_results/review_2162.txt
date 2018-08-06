@@ -1,0 +1,1 @@
+{"text": "He loves them. Says he,s feet don't hurt in theses shoes. The quality is wonderful and very sturdy. I recommend sketchers to anyone", "sentiment": "negative", "topics": {"1": "0.15897934", "2": "0.1957723", "3": "0.10119359", "4": "0.088398665", "5": "0.21520196", "6": "0.23090069"}}

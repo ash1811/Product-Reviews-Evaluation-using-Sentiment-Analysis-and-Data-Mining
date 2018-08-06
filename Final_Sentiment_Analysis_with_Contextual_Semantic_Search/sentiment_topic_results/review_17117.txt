@@ -1,0 +1,1 @@
+{"text": "Bought this for my toddler son, it is true to size durable and perfect for spring/summer months. He out grew his last pair so this is a replacement since it worked out so nicely last summer", "sentiment": "positive", "topics": {"0": "0.12396279", "1": "0.29461163", "2": "0.24555568", "3": "0.09575679", "4": "0.22499639"}}

@@ -1,0 +1,1 @@
+{"text": "lo compre para mi hijo y le gusta aunque aun no ha aprendido a controlarlo porque ea muy flojo y no le gusta leer las instrucciones", "sentiment": "negative", "topics": {"0": "0.48391283", "2": "0.052469913", "4": "0.13820301", "5": "0.21218823", "6": "0.100235336"}}

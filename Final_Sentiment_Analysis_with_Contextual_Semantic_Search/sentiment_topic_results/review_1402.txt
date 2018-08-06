@@ -1,0 +1,1 @@
+{"text": "I absolutely love this backpack. I am a college student and sometimes I have 3 classes a day so I needed a bag big enough to carry all my books and notebooks. Also this backpack is really pretty!", "sentiment": "positive", "topics": {"0": "0.11743812", "1": "0.2961766", "2": "0.3914833", "4": "0.17444603"}}

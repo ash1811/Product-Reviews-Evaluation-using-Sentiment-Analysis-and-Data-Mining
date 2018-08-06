@@ -1,0 +1,1 @@
+{"text": "nice set of underwear. I like the feel and the fit. Colors are very soft/pastel like.will recommend and buy againthanks RauL", "sentiment": "negative", "topics": {"0": "0.010229311", "1": "0.46216667", "2": "0.0102430135", "3": "0.21785544", "4": "0.27900317", "5": "0.010224162", "6": "0.010278223"}}

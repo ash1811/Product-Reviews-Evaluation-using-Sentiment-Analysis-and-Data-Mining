@@ -1,0 +1,1 @@
+{"text": "i didn't know the word &#34;beefy&#34; was a size issue. i thought it was more of a discriptive quality issue, so when it arrived and my whole family could wear it together i wasn't happy", "sentiment": "negative", "topics": {"0": "0.3626665", "1": "0.12282653", "5": "0.24072377", "6": "0.24851695"}}

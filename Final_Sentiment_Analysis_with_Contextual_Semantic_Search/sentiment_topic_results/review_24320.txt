@@ -1,0 +1,1 @@
+{"text": "It's really hard to find brown maternity tights in the stores. These are great. While they are mostly opaque - they have a teeny bit of sheerness to break up the solid leg-look. The panel was breathable and comfy.", "sentiment": "positive", "topics": {"0": "0.25285253", "1": "0.35532025", "3": "0.15949059", "4": "0.15147793", "5": "0.06650104"}}

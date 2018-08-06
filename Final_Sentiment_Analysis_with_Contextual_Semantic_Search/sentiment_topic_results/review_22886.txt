@@ -1,0 +1,1 @@
+{"text": "Way too baggy. they look like MC Hammer pants. They are more fitting for basketball than for the gym itself. Even for jogging these would not be comfy.", "sentiment": "positive", "topics": {"1": "0.15406573", "2": "0.2898161", "3": "0.27303216", "4": "0.25619826"}}

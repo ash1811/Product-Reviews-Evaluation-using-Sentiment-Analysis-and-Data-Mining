@@ -1,0 +1,1 @@
+{"text": "I bought these for my 13 year old son, and he loves them. He said they were better than the expensive jeans... That = A Happy Dad!", "sentiment": "negative", "topics": {"0": "0.010241871", "1": "0.29131427", "2": "0.010229306", "3": "0.23832133", "4": "0.010256134", "5": "0.34497482", "6": "0.09466229"}}

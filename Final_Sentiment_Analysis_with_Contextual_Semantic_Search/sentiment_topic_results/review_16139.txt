@@ -1,0 +1,1 @@
+{"text": "This wa s a gift to a special person in my life. She loved it. It took over a week to get it but it was worth it.", "sentiment": "negative", "topics": {"0": "0.38500324", "1": "0.31255135", "2": "0.011049708", "3": "0.25828475", "4": "0.011027626", "5": "0.011043742", "6": "0.011039583"}}

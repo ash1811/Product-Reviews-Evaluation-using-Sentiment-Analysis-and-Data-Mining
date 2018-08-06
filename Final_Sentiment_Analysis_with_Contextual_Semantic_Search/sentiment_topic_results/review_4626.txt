@@ -1,0 +1,1 @@
+{"text": "I have had the same jeans for about 15 years, and my wife finally talked me in to buying a new pair. These jeans are very comfortable, and they seem to be made well.", "sentiment": "negative", "topics": {"1": "0.35551685", "3": "0.25117108", "5": "0.3551043"}}

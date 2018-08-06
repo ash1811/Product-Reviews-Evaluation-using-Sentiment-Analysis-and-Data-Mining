@@ -1,0 +1,1 @@
+{"text": "I ordered these gangster spats as a gag gift and am very happy with the purchase. Amazon makes ordering on line so easy and secure.", "sentiment": "negative", "topics": {"0": "0.23841853", "1": "0.010268569", "2": "0.010238119", "3": "0.26614872", "4": "0.12844701", "5": "0.23106134", "6": "0.11541774"}}

@@ -1,0 +1,1 @@
+{"text": "the fabric is thick. it seems to least for a long time even with hard work and several washing. I return this back because the size was big. But I recommend it if you look for thick fabric.", "sentiment": "negative", "topics": {"0": "0.16669786", "1": "0.21055852", "3": "0.09141593", "5": "0.38930666", "6": "0.1276848"}}

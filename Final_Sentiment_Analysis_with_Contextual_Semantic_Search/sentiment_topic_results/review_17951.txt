@@ -1,0 +1,1 @@
+{"text": "I got this watch for my dad who hasn't bought a watch for a real long time and the one he was wearing was twenty five years old. He really enjoys wearing it.", "sentiment": "negative", "topics": {"1": "0.5978899", "2": "0.25009167", "3": "0.121838585"}}

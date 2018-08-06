@@ -1,0 +1,1 @@
+{"text": "I bought these socks for my hubbie for his racquet ball games. I want to make sure he doesn't get blisters or any slipping socks. So far so good!", "sentiment": "negative", "topics": {"0": "0.22159666", "1": "0.12754019", "2": "0.20447794", "3": "0.085127085", "4": "0.17876208", "5": "0.17355797"}}

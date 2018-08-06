@@ -1,0 +1,1 @@
+{"text": "A very nice watch.Very nice presentation.The watch is very good. The price is ec&oacute;nomico clock, so the clock is keeping the price.Recommended 100%", "sentiment": "negative", "topics": {"0": "0.010214433", "1": "0.3420064", "2": "0.08398148", "3": "0.43651757", "4": "0.1068617", "5": "0.010213462", "6": "0.010204965"}}

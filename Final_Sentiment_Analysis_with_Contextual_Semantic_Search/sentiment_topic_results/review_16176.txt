@@ -1,0 +1,1 @@
+{"text": "This item is just as described.  Works perfectly fine and it's huge.  Excellent for the price and serves it's purpose perfectly fine.", "sentiment": "negative", "topics": {"0": "0.011000786", "1": "0.3437946", "2": "0.34095353", "3": "0.18889078", "4": "0.011002395", "5": "0.010994668", "6": "0.0933632"}}

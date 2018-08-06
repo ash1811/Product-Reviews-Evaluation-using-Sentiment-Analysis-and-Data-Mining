@@ -1,0 +1,1 @@
+{"text": "Thick and comfortable; and USA made! Well made. A bit tight on the cuff (I just fold them down), but I love them.", "sentiment": "positive", "topics": {"1": "0.42744437", "2": "0.10976739", "3": "0.26967338", "4": "0.16446519"}}

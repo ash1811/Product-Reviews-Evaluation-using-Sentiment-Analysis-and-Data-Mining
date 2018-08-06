@@ -1,0 +1,1 @@
+{"text": "This white t-shirt is a great value. At only $9 it is the least expensive Haynes shirt I can find.", "sentiment": "negative", "topics": {"0": "0.013013796", "1": "0.23172046", "2": "0.013016723", "3": "0.013011789", "4": "0.01303317", "5": "0.38555837", "6": "0.3306457"}}

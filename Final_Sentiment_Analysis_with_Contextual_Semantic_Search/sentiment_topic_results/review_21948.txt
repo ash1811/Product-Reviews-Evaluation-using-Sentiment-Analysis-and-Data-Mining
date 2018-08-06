@@ -1,0 +1,1 @@
+{"text": "I have been searching a long time for an exercise bra that had hooks in the back. I just can't get those other darn bras over my head anymore and this one is fantastic. Gives great support and is very comfortable.", "sentiment": "positive", "topics": {"0": "0.111014165", "1": "0.32168132", "3": "0.26789597", "4": "0.10673989", "5": "0.17834605"}}

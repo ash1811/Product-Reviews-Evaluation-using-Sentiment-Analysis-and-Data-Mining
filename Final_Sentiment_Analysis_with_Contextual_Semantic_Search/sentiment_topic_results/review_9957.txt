@@ -1,0 +1,1 @@
+{"text": "These are smaller than they look  on the website.  A little smaller than a dime I think.  I like them - easy to wear etc", "sentiment": "negative", "topics": {"0": "0.011930518", "1": "0.29210716", "2": "0.011925649", "3": "0.5449375", "4": "0.11518528", "5": "0.011939343", "6": "0.011974583"}}

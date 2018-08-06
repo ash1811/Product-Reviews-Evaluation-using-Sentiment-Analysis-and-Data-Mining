@@ -1,0 +1,1 @@
+{"text": "Forget about cheap winders and buy an inexpensive one. check the Internet like I did once mine broke after 10 days. I now have all sorts of winders and am grateful for the deals. And thanks Amazon.com for the speedy refund.", "sentiment": "negative", "topics": {"0": "0.17803483", "1": "0.07218249", "3": "0.18302746", "4": "0.1712195", "5": "0.382484"}}

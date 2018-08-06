@@ -1,0 +1,1 @@
+{"text": "item is as described-they fit her very nice-they look amazzzzin on her (& she aint no young woman &#9786;)-love them", "sentiment": "negative", "topics": {"0": "0.3493601", "1": "0.23259822", "2": "0.012991408", "3": "0.074447036", "4": "0.20663404", "5": "0.012992242", "6": "0.110976964"}}

@@ -1,0 +1,1 @@
+{"text": "...giving to my grand daughter who should be able to wear it.", "sentiment": "positive", "topics": {"0": "0.41448408", "1": "0.0204622", "2": "0.21196485", "3": "0.29174346", "4": "0.020410072", "5": "0.020510396", "6": "0.020424956"}}

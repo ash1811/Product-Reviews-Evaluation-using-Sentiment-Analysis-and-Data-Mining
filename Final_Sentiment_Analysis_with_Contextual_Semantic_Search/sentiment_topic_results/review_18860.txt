@@ -1,0 +1,1 @@
+{"text": "I'm 6'1&#34; about 180 lbs. and I have finally found a slim fit jean stylish enough to wear out with the comfort to lounge around the house. Put 'em on in the morning and you are done.", "sentiment": "negative", "topics": {"1": "0.2859459", "2": "0.060150918", "4": "0.1630409", "5": "0.29803103", "6": "0.17917342"}}

@@ -1,0 +1,1 @@
+{"text": "Used in an ultrasonic cleaner to take years of goop off of heirloom jewelry. Works as advertised and seems to make the goo go.", "sentiment": "positive", "topics": {"0": "0.24625437", "1": "0.28356746", "2": "0.10183339", "3": "0.17752562", "4": "0.084676385", "5": "0.09660585"}}

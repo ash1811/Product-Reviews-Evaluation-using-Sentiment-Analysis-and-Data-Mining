@@ -1,0 +1,1 @@
+{"text": "Very nice shirt. It is comfortable as heck. Was wary since I prefer all cotton, but this shirt holds up well. Also, it has no scratchy tag in the back, saves me the trouble off ripping it off. I like this shirt.", "sentiment": "negative", "topics": {"0": "0.15018821", "1": "0.26209494", "3": "0.14519607", "4": "0.12631129", "5": "0.18319222", "6": "0.12651402"}}

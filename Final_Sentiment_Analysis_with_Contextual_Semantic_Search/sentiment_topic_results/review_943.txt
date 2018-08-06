@@ -1,0 +1,1 @@
+{"text": "the bushacre are way better than the desert boot by clarks. the suede was nice but not as nice as the leather. the suede to me was seasonal. the sole is crepe, not as hardy and looked just ok", "sentiment": "positive", "topics": {"1": "0.26675075", "2": "0.08801886", "3": "0.25235623", "4": "0.36901805"}}

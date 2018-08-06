@@ -1,0 +1,1 @@
+{"text": "Great pants. There are adjustable tabs on the sides so I can make them fit perfectly. Good quality fabric. I'm using for air soft so they will get a workout. So far so good.", "sentiment": "positive", "topics": {"0": "0.05542571", "1": "0.45919546", "2": "0.071867384", "3": "0.13177055", "5": "0.21593067", "6": "0.05865733"}}

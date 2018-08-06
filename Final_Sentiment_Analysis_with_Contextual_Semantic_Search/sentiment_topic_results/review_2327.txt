@@ -1,0 +1,1 @@
+{"text": "Quality pair of dress shoes by dockers. The shoes are comfortable and long lasting since they have a rubber sole. The leather quality is mediocre. on par with a $50 pair of shoes", "sentiment": "negative", "topics": {"1": "0.5527751", "2": "0.27679253", "5": "0.14176947"}}

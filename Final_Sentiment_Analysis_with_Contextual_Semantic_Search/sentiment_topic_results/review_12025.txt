@@ -1,0 +1,1 @@
+{"text": "Just saw these one day and thought I'd give them a try. They've become my 'go to' earrings for everyday wear.  Just the right size.  Not too chunky, but substantial.", "sentiment": "positive", "topics": {"3": "0.3389882", "4": "0.2895459", "5": "0.34128615"}}

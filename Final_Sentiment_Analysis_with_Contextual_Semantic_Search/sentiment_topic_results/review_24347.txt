@@ -1,0 +1,1 @@
+{"text": "And by American fit, I mean it is larger.  I once bought a bra that was a 40 C that if closed I could not get around my head.This one is an actual large bra and very comfortable.", "sentiment": "negative", "topics": {"0": "0.0813925", "1": "0.24284539", "2": "0.25254217", "3": "0.18382807", "4": "0.10927358", "6": "0.12256921"}}

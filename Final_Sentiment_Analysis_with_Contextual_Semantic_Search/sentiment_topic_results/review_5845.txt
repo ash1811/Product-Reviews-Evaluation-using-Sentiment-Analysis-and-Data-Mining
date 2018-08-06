@@ -1,0 +1,1 @@
+{"text": "this shirt is very comfortable-washes well, and wears well-would recommened to any woman who likes comfort. like the style and color", "sentiment": "negative", "topics": {"0": "0.011007151", "1": "0.44173235", "2": "0.010997763", "3": "0.011006095", "4": "0.011025547", "5": "0.011039626", "6": "0.50319153"}}

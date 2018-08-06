@@ -1,0 +1,1 @@
+{"text": "fits well easy on off they are nicely priced,for the money the toes do not bunch up either,highly recommended,fast delivery", "sentiment": "negative", "topics": {"0": "0.096372776", "1": "0.36734107", "2": "0.011909707", "3": "0.011922522", "4": "0.011963024", "5": "0.011943799", "6": "0.4885471"}}

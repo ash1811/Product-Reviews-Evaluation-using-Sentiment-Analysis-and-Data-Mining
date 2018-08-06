@@ -1,0 +1,1 @@
+{"text": "I bought this costume for my 5yr old and it fits great she is now the super hero we both love!", "sentiment": "positive", "topics": {"0": "0.23575822", "1": "0.44616762", "2": "0.12766287", "3": "0.14738847", "4": "0.014377895", "5": "0.014341073", "6": "0.014303841"}}

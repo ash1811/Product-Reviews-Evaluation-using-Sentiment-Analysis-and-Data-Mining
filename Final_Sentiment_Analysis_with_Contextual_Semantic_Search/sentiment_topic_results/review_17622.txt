@@ -1,0 +1,1 @@
+{"text": "I actually bought this for myself (female...) because I really liked the look of the larger face! It's sleek, classy, easy to read, and very lightweight!", "sentiment": "negative", "topics": {"0": "0.08448891", "1": "0.33391374", "2": "0.010260012", "3": "0.12330476", "4": "0.010258612", "5": "0.24523069", "6": "0.19254328"}}

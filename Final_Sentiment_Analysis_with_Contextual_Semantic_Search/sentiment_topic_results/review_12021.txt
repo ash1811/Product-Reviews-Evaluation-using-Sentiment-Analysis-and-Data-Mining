@@ -1,0 +1,1 @@
+{"text": "The shoes are nice and good quality but the size is not at all as it suppose to be 7.5! If one insist to buy them u've to order 2 sizes less! Unfortunately am going to return them.", "sentiment": "positive", "topics": {"0": "0.2378799", "1": "0.20877934", "2": "0.14933963", "5": "0.16293679", "6": "0.22671525"}}

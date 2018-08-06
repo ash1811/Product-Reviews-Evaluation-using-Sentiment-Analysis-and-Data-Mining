@@ -1,0 +1,1 @@
+{"text": "I thought these onesies were made weird, they were really wide and really short.  They didn't fit my baby at all.", "sentiment": "positive", "topics": {"0": "0.1426475", "1": "0.50861573", "2": "0.011933719", "3": "0.1771871", "4": "0.011916268", "5": "0.13577664", "6": "0.011923025"}}

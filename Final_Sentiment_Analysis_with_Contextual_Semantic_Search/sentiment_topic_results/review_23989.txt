@@ -1,0 +1,1 @@
+{"text": "I do a lot of walking at work, and dress socks don't seem to last because of it.  However, these seem pretty durable. The sole and toe are particularly thick, but they are not bulky.", "sentiment": "negative", "topics": {"1": "0.31218567", "2": "0.21090178", "5": "0.4450585"}}

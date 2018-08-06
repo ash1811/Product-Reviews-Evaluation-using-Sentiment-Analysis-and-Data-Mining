@@ -1,0 +1,1 @@
+{"text": "My daughter asked for gardening clogs for her birthday.  I found these and she is delighted with them.  Her word: \"Perfect\".She says the size 10 is a tiny bit short - her big toe touches the end.  But not painfully so.", "sentiment": "negative", "topics": {"0": "0.22671212", "1": "0.2298763", "3": "0.1690131", "4": "0.11090091", "5": "0.06904002", "6": "0.18821505"}}

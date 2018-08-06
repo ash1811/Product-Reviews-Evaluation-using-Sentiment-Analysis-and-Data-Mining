@@ -1,0 +1,1 @@
+{"text": "fits a little tight for a size 8. but overall its exactly like the picture its just the sizing may be a bit off", "sentiment": "negative", "topics": {"0": "0.0958805", "1": "0.6362464", "2": "0.0109997885", "3": "0.011043911", "4": "0.0109904995", "5": "0.011007557", "6": "0.22383136"}}

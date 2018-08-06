@@ -1,0 +1,1 @@
+{"text": "Quality is good, very confortable, good service and fast shipping. If you want that this gloves work good to you, you Have to choose a bigger size.Overall, i recomend it", "sentiment": "positive", "topics": {"1": "0.24415165", "2": "0.20756623", "3": "0.21037315", "4": "0.22617388", "5": "0.09489441"}}

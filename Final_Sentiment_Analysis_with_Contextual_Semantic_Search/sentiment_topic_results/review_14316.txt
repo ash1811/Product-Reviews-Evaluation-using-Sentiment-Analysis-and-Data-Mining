@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable moccassins I have owned in a long time.  They are the real deal!  I couldn't be more pleased with this purchase!", "sentiment": "negative", "topics": {"0": "0.014339236", "1": "0.5612961", "2": "0.014293219", "3": "0.27109772", "4": "0.014378056", "5": "0.014358328", "6": "0.11023737"}}

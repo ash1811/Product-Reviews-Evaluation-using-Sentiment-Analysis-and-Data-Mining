@@ -1,0 +1,1 @@
+{"text": "Danskins have been around for quite a while.  I have purchase these as gifts and for myself.  Always happy with their products..", "sentiment": "negative", "topics": {"0": "0.19923043", "1": "0.60193104", "2": "0.013028863", "3": "0.013040072", "4": "0.013052403", "5": "0.14671256", "6": "0.0130047"}}

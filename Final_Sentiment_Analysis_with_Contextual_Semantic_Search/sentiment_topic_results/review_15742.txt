@@ -1,0 +1,1 @@
+{"text": "The boot fits well I just had to buy soles that were fitted for me and thats all. great buy", "sentiment": "positive", "topics": {"0": "0.013007041", "1": "0.7252345", "2": "0.013053749", "3": "0.12741941", "4": "0.09525068", "5": "0.013003119", "6": "0.013031439"}}

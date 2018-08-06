@@ -1,0 +1,1 @@
+{"text": "Very soft both inside and out. My mother's feet greatly appreciate these slippers. They are easy for her to get on and off and offer some arch support.", "sentiment": "negative", "topics": {"0": "0.12279187", "1": "0.27605894", "2": "0.010225545", "3": "0.4394011", "4": "0.0103007015", "5": "0.010225127", "6": "0.13099673"}}

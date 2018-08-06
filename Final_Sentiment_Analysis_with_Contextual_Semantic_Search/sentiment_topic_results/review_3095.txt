@@ -1,0 +1,1 @@
+{"text": "Some bra sizes are slightly off when you purchase them online.  But this bra is true to its size - not too big, and not too small....", "sentiment": "negative", "topics": {"0": "0.013012883", "1": "0.23476185", "2": "0.012994132", "3": "0.49769628", "4": "0.013038298", "5": "0.21548726", "6": "0.013009351"}}

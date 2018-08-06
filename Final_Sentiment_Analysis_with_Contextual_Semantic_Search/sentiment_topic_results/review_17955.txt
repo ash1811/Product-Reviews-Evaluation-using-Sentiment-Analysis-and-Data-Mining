@@ -1,0 +1,1 @@
+{"text": "I received the Casio Men's AQ150W-1EV Ana-Digi Chronograph Sport Watch.It is a great watch.Everybody loves the way it looks and works.", "sentiment": "negative", "topics": {"2": "0.17753652", "3": "0.21269551", "5": "0.4234432", "6": "0.1576271"}}

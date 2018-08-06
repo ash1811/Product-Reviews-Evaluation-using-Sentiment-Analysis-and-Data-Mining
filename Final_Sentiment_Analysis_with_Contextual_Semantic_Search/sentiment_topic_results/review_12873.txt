@@ -1,0 +1,1 @@
+{"text": "My girlfriend loves these boots. I am pretty sure she would sleep in them if she could. buy the ugg spray as well.. they wont wear them unless they are protected.. go figure", "sentiment": "negative", "topics": {"0": "0.2904646", "1": "0.44337234", "2": "0.079121575", "4": "0.102509014", "6": "0.069450445"}}

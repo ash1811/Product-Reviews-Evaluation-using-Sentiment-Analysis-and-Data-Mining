@@ -1,0 +1,1 @@
+{"text": "When you find the jean you love, in your size, it's time to buy.  local stores usually only carry blue and black.", "sentiment": "positive", "topics": {"0": "0.011027302", "1": "0.32517475", "2": "0.011014726", "3": "0.3238414", "4": "0.30685836", "5": "0.011062492", "6": "0.011020993"}}

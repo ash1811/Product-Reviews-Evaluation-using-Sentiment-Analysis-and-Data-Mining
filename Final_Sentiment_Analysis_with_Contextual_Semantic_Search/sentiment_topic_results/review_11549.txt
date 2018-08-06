@@ -1,0 +1,1 @@
+{"text": "this pajama set is comfortable and cool enough to wear on these hot summer nights, perfect, great seller; Amazon pulls through again and again!", "sentiment": "negative", "topics": {"1": "0.43086076", "2": "0.09460509", "4": "0.17583309", "5": "0.19563681", "6": "0.08516532"}}

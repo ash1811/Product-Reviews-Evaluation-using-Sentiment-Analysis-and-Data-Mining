@@ -1,0 +1,1 @@
+{"text": "Too crowded with stuff on the face, no kid would figure it out till they are adolescents. For learners, something less complex would be better.", "sentiment": "negative", "topics": {"1": "0.21398786", "2": "0.13686068", "3": "0.15568598", "5": "0.3833875", "6": "0.091010444"}}

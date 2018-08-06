@@ -1,0 +1,1 @@
+{"text": "Great fitting and extremely comfortable. I have wide feet and these fit perfectly without the needTo break them in or your feet.", "sentiment": "negative", "topics": {"0": "0.011013314", "1": "0.46362278", "2": "0.011009216", "3": "0.35327193", "4": "0.13906024", "5": "0.011016851", "6": "0.011005669"}}

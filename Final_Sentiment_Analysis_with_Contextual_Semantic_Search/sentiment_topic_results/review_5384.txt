@@ -1,0 +1,1 @@
+{"text": "you cant go wrong with carhartt. ans as expected it is built well and fits great. keep it up . I'll buy more", "sentiment": "positive", "topics": {"0": "0.01022839", "1": "0.60889244", "2": "0.100550346", "3": "0.14380153", "4": "0.11608954", "5": "0.0102287065", "6": "0.0102090705"}}

@@ -1,0 +1,1 @@
+{"text": "I loved this messenger bag! I bough it in beige and it is just perfect for my boyfriend! Inside has a divider and some pockets, on the outside as well, the strap is strong and adjustable. The fabric is strong as well, I would recommend this to anyone.", "sentiment": "negative", "topics": {"0": "0.09113656", "1": "0.3239623", "2": "0.33810264", "5": "0.22727448"}}

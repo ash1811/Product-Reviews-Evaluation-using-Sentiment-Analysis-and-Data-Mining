@@ -1,0 +1,1 @@
+{"text": "Excelente compra para mi mama, totalmente complacida, encantada. Todo bien. Hermoso. Buena calidad. Muy resistente. Recomendado totalmente. Buena atencion y envio.", "sentiment": "negative", "topics": {"0": "0.056974474", "1": "0.05650789", "3": "0.10749988", "4": "0.06345274", "5": "0.60399204", "6": "0.10475234"}}

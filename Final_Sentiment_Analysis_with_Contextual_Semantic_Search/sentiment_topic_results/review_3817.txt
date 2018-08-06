@@ -1,0 +1,1 @@
+{"text": "(that's what she said). It fits perfectly in my pocket and when it gets too fat, I'm forced to do get rid of receipts, etc. I am forced to keep this wallet lean.", "sentiment": "positive", "topics": {"1": "0.45175397", "3": "0.41556928", "5": "0.10085377"}}

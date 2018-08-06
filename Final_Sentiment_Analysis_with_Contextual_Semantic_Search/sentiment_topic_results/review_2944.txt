@@ -1,0 +1,1 @@
+{"text": "Horrible bras ever. Makes ur boobs look like cones and so not comfortable which was the main reason I ordered them for comfort. Do not purchase.", "sentiment": "positive", "topics": {"1": "0.45904416", "3": "0.19672297", "4": "0.10105005", "5": "0.16934428", "6": "0.055929273"}}

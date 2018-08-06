@@ -1,0 +1,1 @@
+{"text": "I like the 501 jeans. The fit was perfect. Levi's are the best and I am sure these jeans will last several years. Some people are put off by the button fly. I actually prefer it to the zipper fly.", "sentiment": "negative", "topics": {"0": "0.08937644", "1": "0.22672589", "2": "0.08758241", "3": "0.15469557", "5": "0.29020697", "6": "0.14458516"}}

@@ -1,0 +1,1 @@
+{"text": "This is the second Skechers I ordered, the first pair was black. They fit comfortable and run fine in hard territory with good protection.", "sentiment": "negative", "topics": {"0": "0.09727351", "1": "0.35735843", "2": "0.08471462", "3": "0.29614222", "4": "0.0855753", "5": "0.06939841"}}

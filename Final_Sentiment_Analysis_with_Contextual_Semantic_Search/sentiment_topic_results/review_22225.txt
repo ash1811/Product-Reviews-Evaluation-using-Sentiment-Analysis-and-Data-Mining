@@ -1,0 +1,1 @@
+{"text": "She has long somewhat wide feet and she wears these every damn day.  I love that she likes them so much but she never wants to take them off. She says they are very comfortable.", "sentiment": "negative", "topics": {"1": "0.3119024", "2": "0.11770197", "5": "0.44596496", "6": "0.100494854"}}

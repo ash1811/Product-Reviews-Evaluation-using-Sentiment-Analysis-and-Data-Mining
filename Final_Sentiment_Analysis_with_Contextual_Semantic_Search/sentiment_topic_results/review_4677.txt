@@ -1,0 +1,1 @@
+{"text": "maybe i got the wrong size but it seems to be inferior to the timberland one. china made not as good as the timberland boat shoe....get two and you dont need shoes for the rest of your life", "sentiment": "positive", "topics": {"1": "0.18903488", "2": "0.40990138", "3": "0.13159516", "5": "0.12770733", "6": "0.12812178"}}

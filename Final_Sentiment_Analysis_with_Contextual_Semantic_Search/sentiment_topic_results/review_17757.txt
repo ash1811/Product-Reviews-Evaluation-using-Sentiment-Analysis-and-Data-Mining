@@ -1,0 +1,1 @@
+{"text": "True to size, very warm and light weight.  I often did not need a coat when I was wearing these.", "sentiment": "positive", "topics": {"0": "0.013082149", "1": "0.71967214", "2": "0.0130161075", "3": "0.013040807", "4": "0.013003179", "5": "0.013011319", "6": "0.21517429"}}

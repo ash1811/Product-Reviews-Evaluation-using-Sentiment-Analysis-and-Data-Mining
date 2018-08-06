@@ -1,0 +1,1 @@
+{"text": "Fits well and improves my appearance. I find it hard to buy bras in department stores and boutiques because they do not come in my size.  This one fits well and despite not having an under wire is very supportive.", "sentiment": "positive", "topics": {"0": "0.17407572", "1": "0.4159243", "2": "0.06928535", "3": "0.20347328", "5": "0.0340971", "6": "0.095985785"}}

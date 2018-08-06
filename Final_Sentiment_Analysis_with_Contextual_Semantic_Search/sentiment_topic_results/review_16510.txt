@@ -1,0 +1,1 @@
+{"text": "This looks like something you would buy in a .99 store. Cheap looking and weights less then 1 ounce. I returned it immediately. I would never give this to someone as a gift.", "sentiment": "positive", "topics": {"0": "0.09097451", "1": "0.66000825", "4": "0.09832024", "6": "0.13023211"}}

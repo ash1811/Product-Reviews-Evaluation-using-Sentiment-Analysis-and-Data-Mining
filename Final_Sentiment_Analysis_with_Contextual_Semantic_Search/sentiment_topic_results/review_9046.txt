@@ -1,0 +1,1 @@
+{"text": "Great walking shoes but can still dress up decently.  very comfy and practical for walking in the summer.  these also seem to have an awesome arch support for my feet.", "sentiment": "negative", "topics": {"0": "0.1978777", "2": "0.09616891", "3": "0.28193653", "4": "0.39869872"}}

@@ -1,0 +1,1 @@
+{"text": "I pulled these out of the box and was impressed before I even put them on. The burnished brown looks like it cost WAY more than it did. As expected from Clark, they fit well and are extremely comfortable when walking. Just what I was looking for.....", "sentiment": "negative", "topics": {"1": "0.47299656", "4": "0.16923524", "5": "0.2648382", "6": "0.07422439"}}

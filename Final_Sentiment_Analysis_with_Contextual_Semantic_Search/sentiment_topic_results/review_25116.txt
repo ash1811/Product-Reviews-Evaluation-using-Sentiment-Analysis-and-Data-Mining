@@ -1,0 +1,1 @@
+{"text": "I bought these to put in a pair of rain boots. They are a little thick, but they are very warm.", "sentiment": "positive", "topics": {"0": "0.0159112", "1": "0.51285666", "2": "0.015920818", "3": "0.01593728", "4": "0.40752804", "5": "0.015940802", "6": "0.015905194"}}

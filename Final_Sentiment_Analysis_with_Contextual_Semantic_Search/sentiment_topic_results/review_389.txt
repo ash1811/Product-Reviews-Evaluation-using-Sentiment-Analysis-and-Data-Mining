@@ -1,0 +1,1 @@
+{"text": "however after washing the shirt is actually to small. I can wear it, but it is tight. From a 1 to a 10=7", "sentiment": "negative", "topics": {"0": "0.013048691", "1": "0.42750084", "2": "0.37699157", "3": "0.013029813", "4": "0.013010854", "5": "0.013059991", "6": "0.14335822"}}

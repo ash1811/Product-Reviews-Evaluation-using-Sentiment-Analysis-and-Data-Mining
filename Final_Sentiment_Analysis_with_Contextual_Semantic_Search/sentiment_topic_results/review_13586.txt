@@ -1,0 +1,1 @@
+{"text": "It provides a little too much grip and makes it hard to turn at times.", "sentiment": "negative", "topics": {"0": "0.18913971", "1": "0.015938729", "2": "0.015906304", "3": "0.43003032", "4": "0.3171984", "5": "0.01590056", "6": "0.015885968"}}

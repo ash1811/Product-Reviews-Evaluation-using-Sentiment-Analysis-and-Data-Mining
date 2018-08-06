@@ -1,0 +1,1 @@
+{"text": "Just what my husband was looking for in colors. The pants seem to stretch as you wear them. He doesn't like that but they are comfortable for knock about he said. The length is good. The price was good. I like the way they look on him.", "sentiment": "positive", "topics": {"1": "0.5586785", "2": "0.101462066", "3": "0.18970105", "4": "0.12964122"}}

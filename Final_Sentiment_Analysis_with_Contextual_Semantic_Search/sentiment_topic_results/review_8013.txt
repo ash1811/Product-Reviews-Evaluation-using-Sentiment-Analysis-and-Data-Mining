@@ -1,0 +1,1 @@
+{"text": "as a long-time fan of champion/duo-fold, bit on a shirt.  Love it, warm but not overly so.  Good length, for my 6'1&#34; frame.  Have warmer, but again this is right-sized for Eastern Pa and its' mostly less frigid temps.", "sentiment": "positive", "topics": {"0": "0.117221385", "1": "0.31866482", "2": "0.17998767", "4": "0.08216436", "6": "0.29001793"}}

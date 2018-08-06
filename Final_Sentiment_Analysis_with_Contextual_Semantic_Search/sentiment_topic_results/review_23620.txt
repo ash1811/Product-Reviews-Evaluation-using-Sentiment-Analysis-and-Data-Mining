@@ -1,0 +1,1 @@
+{"text": "We've wasted far too much money on socks advertised as extra-wide or extra-roomy that turned out to be anything but. These are the exception. They're stretchy, accommodating, and truly diabetic-friendly. Will buy again.", "sentiment": "positive", "topics": {"0": "0.22644931", "1": "0.07864221", "2": "0.06464225", "4": "0.21455283", "5": "0.31112453", "6": "0.09777832"}}

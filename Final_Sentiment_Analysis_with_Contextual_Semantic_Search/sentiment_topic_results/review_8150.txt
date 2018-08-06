@@ -1,0 +1,1 @@
+{"text": "I love that these have the cloth piece that goes between your toes vs plastic that is found in many other flip flops", "sentiment": "negative", "topics": {"0": "0.011920369", "1": "0.21833253", "2": "0.10191908", "3": "0.011918362", "4": "0.5428956", "5": "0.011925776", "6": "0.101088226"}}

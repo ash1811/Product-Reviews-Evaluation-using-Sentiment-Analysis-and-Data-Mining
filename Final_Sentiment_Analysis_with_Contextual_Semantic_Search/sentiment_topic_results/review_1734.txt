@@ -1,0 +1,1 @@
+{"text": "These panties are cute, comfortable, and don't give the dreaded \"panty line\" under trousers. I also find them to be breathable, unlike some microfiber undies. A+!", "sentiment": "negative", "topics": {"1": "0.19242544", "2": "0.14823905", "3": "0.10205124", "4": "0.1177911", "5": "0.36082193", "6": "0.06970544"}}

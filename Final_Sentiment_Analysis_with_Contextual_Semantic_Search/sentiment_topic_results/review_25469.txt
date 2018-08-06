@@ -1,0 +1,1 @@
+{"text": "The shorts are good length and the fabric is soft on the skin. However, the waistband is a bit tighter than I thought it should be. I felt like I was wearing a pair of slacks rather than exercise shorts.", "sentiment": "negative", "topics": {"0": "0.18015309", "1": "0.26761463", "2": "0.09251721", "3": "0.26277766", "4": "0.06248316", "6": "0.1275753"}}

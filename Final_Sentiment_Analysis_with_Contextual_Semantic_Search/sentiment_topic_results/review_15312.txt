@@ -1,0 +1,1 @@
+{"text": "I love the color the style is comfortable soft dries fast I feel good in it easy to iron and wear", "sentiment": "positive", "topics": {"0": "0.164397", "1": "0.33947262", "2": "0.011041388", "3": "0.011023307", "4": "0.33013391", "5": "0.1328925", "6": "0.011039252"}}

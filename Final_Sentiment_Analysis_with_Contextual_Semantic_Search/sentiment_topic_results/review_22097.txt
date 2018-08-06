@@ -1,0 +1,1 @@
+{"text": "Great fit, and wonderfully warm, even in temps near zero or below.  As long as you don't need to be super dexterous while wearing these, they are fantastic.", "sentiment": "negative", "topics": {"0": "0.27518457", "1": "0.37550977", "4": "0.077203274", "5": "0.08764571", "6": "0.16762052"}}

@@ -1,0 +1,1 @@
+{"text": "Good quality, and high on comfort.  My dad has worn these for years and swears by them.  That's good enough for me!", "sentiment": "negative", "topics": {"0": "0.010220021", "1": "0.44295773", "2": "0.15752758", "3": "0.12974484", "4": "0.010228537", "5": "0.010235054", "6": "0.23908623"}}

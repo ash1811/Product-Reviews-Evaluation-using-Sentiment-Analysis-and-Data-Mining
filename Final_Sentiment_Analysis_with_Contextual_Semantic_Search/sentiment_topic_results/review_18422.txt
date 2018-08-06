@@ -1,0 +1,1 @@
+{"text": "I love the soft squishy feel!! Lots of fun to wear with a variety of shoes.  Makes my legs look thinner too!!!", "sentiment": "negative", "topics": {"0": "0.35713053", "2": "0.26133648", "3": "0.19869944", "4": "0.15416609"}}

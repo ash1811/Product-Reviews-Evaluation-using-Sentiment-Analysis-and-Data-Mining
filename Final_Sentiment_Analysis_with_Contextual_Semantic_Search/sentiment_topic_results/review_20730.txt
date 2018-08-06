@@ -1,0 +1,1 @@
+{"text": "This bra just didnt fit me right.  I have very round, heavy, normally F cup breasts and this bra just smooshed me flat and didnt hold me up at all.", "sentiment": "negative", "topics": {"0": "0.069223255", "1": "0.35008916", "3": "0.4605805", "6": "0.09483157"}}

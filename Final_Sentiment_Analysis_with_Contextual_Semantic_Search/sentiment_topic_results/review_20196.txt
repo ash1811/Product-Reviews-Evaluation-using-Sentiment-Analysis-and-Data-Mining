@@ -1,0 +1,1 @@
+{"text": "I highly recommend this costume if your little one wants to be Snow White! It's very detailed and of a higher quality than most &#34;princess&#34; type costumes. My daughter loves it so much, and a happy child makes a happy mom! Two thumbs up :)", "sentiment": "positive", "topics": {"0": "0.29873446", "1": "0.3644587", "3": "0.17580466", "5": "0.14379972"}}

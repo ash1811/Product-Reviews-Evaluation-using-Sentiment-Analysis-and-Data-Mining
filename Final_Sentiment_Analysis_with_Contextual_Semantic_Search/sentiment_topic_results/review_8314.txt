@@ -1,0 +1,1 @@
+{"text": "I love these pads they are exactly what they say. Excellent coverage well made I use the often I just love them", "sentiment": "negative", "topics": {"0": "0.10535418", "1": "0.011997458", "2": "0.1694021", "3": "0.25620937", "4": "0.26288632", "5": "0.011951774", "6": "0.18219876"}}

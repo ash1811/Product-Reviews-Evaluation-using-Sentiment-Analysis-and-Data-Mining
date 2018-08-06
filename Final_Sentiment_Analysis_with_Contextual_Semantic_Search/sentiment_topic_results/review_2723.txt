@@ -1,0 +1,1 @@
+{"text": "Very classy watch. It is light but you can also tell it's good quality. Excellent buy for a dress watch that isn't too flashy but shows quality.", "sentiment": "negative", "topics": {"0": "0.09231588", "1": "0.3451967", "2": "0.32225147", "4": "0.21164395"}}

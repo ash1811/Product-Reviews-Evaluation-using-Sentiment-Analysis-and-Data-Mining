@@ -1,0 +1,1 @@
+{"text": "I have small shoulders and these straps were only halfway adjustable so I could not make the straps small enough to stay on. I returned it.", "sentiment": "negative", "topics": {"2": "0.29902706", "3": "0.35661858", "4": "0.30615726"}}

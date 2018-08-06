@@ -1,0 +1,1 @@
+{"text": "This tried and true style fits and supports well.  It is even comfortable!  Bonus!  I would recommend this style to anyone with a &#34;full figure&#34; who needs the support to look her best.", "sentiment": "negative", "topics": {"0": "0.19708544", "1": "0.5170178", "2": "0.0707683", "3": "0.14256719", "6": "0.058219742"}}

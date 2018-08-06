@@ -1,0 +1,1 @@
+{"text": "I bought these for my teenager and she wears them all the time. Fits great and very durable. We are going to get more soon and i will order from this company every time...", "sentiment": "negative", "topics": {"1": "0.1732393", "5": "0.69709176", "6": "0.091460586"}}

@@ -1,0 +1,1 @@
+{"text": "Nice shirt, as expected. Thicker than most t-shirts. I probably could have used a large but it may shrink a bit. I think it does run a little on the big side. Other than that great shirt.", "sentiment": "negative", "topics": {"1": "0.90296", "6": "0.061243545"}}

@@ -1,0 +1,1 @@
+{"text": "rate 5, I order this product for a male friend, I guess he enjoy it, I think he would recommend to a friend", "sentiment": "negative", "topics": {"0": "0.11486479", "1": "0.010246428", "2": "0.12421169", "3": "0.15403369", "4": "0.09929917", "5": "0.48711282", "6": "0.010231415"}}

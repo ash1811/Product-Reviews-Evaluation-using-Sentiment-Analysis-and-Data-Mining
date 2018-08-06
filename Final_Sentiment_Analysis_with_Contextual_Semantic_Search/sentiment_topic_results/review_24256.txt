@@ -1,0 +1,1 @@
+{"text": "These were thinner than I expected, but I am very glad I got these instead of what I'd intended.They are thin so they aren't bulky at all, yet they do help keep you warm.And very comfortable.", "sentiment": "negative", "topics": {"0": "0.29278713", "1": "0.31780967", "2": "0.077685356", "4": "0.15087107", "6": "0.14290504"}}

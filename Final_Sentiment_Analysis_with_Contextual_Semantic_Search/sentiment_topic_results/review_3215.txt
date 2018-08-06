@@ -1,0 +1,1 @@
+{"text": "My son is very picky, will only wear Levi's 550's. ( convinced him to go up one size on waist) He LOVES them!!!  The all fit great, & he says they are very comfortable.  I did good on this one!  Will order from them again!!  :)", "sentiment": "positive", "topics": {"0": "0.14881988", "1": "0.24177559", "2": "0.23289898", "5": "0.21102011", "6": "0.15180811"}}

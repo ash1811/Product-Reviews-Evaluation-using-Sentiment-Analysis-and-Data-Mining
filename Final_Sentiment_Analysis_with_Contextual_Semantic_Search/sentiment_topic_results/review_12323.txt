@@ -1,0 +1,1 @@
+{"text": "This device works but it is very noisy. The part that secures the watch to the system is not well designed.  If all you need is a device for keeping your watch wound then this machine does the job and the price is right.", "sentiment": "positive", "topics": {"0": "0.2982364", "1": "0.27805546", "2": "0.18427496", "4": "0.1335329", "6": "0.09082754"}}

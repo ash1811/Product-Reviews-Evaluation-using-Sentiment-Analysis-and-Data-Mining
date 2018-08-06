@@ -1,0 +1,1 @@
+{"text": "Wore these all day for an event. They were quite comfortable and not hot at all, which was great because it was a hot day. They also stayed put.", "sentiment": "negative", "topics": {"0": "0.010245137", "1": "0.21914516", "2": "0.010220884", "3": "0.16507372", "4": "0.1115561", "5": "0.4735385", "6": "0.010220489"}}

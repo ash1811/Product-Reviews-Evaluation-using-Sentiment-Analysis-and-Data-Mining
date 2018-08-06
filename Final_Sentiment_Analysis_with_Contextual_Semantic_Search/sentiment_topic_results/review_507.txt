@@ -1,0 +1,1 @@
+{"text": "These are great basic jeans in hard to find sizes.  My long and lanky teen is hard to fit, so we are glad these are available.  They have been washed and dried repeatedly and have held up well.", "sentiment": "negative", "topics": {"0": "0.23725961", "1": "0.54808843", "6": "0.1844515"}}

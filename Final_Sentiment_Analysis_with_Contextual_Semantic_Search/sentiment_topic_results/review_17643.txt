@@ -1,0 +1,1 @@
+{"text": "Surprisingly good for the price.  I really like the slim profile of this watch as well as the looks!  Definitely worth the price.", "sentiment": "negative", "topics": {"0": "0.2691634", "1": "0.3442843", "2": "0.13353033", "3": "0.095494315", "4": "0.13705902", "5": "0.010239258", "6": "0.010229355"}}

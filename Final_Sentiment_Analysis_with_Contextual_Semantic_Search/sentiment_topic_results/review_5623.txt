@@ -1,0 +1,1 @@
+{"text": "I ordered a couple of these for my brother who needs a polo-type open neck.  He loves these jerseys.  They fit perfectly, launder well, and are very attractive.", "sentiment": "negative", "topics": {"1": "0.5039288", "3": "0.15810737", "6": "0.29973906"}}

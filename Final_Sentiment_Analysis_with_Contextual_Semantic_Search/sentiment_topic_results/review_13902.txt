@@ -1,0 +1,1 @@
+{"text": "Great watch, great price...cheesy band (and it was too small).  Replaced it and I am fully satisfied.", "sentiment": "negative", "topics": {"0": "0.1569042", "1": "0.013066787", "2": "0.124196745", "3": "0.2831996", "4": "0.013017901", "5": "0.2870815", "6": "0.12253323"}}

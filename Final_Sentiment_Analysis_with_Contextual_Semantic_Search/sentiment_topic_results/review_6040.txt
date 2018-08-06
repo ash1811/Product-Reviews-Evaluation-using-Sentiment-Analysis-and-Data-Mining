@@ -1,0 +1,1 @@
+{"text": "These jewels are awesome. they came quickly and the fit in the origami owl living lockets pefectly! if you are going to be buying 3 or more for a locket, you might as weel gets these they are a much better deal!", "sentiment": "positive", "topics": {"0": "0.18101177", "1": "0.25299698", "2": "0.064659975", "3": "0.08639549", "4": "0.21555449", "6": "0.19256274"}}

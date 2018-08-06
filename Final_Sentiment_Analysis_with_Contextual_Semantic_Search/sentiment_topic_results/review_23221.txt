@@ -1,0 +1,1 @@
+{"text": "This is the best nursing bra I have found.  There are 4 options for band size hooks in the back.  The clips are easy to access for nursing.  The fabric is soft and the bra provides enough support for the growing girls.", "sentiment": "negative", "topics": {"0": "0.1129511", "2": "0.09762515", "3": "0.21937136", "4": "0.22829717", "5": "0.17919092", "6": "0.15632577"}}

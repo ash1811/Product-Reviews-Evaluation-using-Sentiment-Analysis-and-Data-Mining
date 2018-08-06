@@ -1,0 +1,1 @@
+{"text": "These shoes are so comfortable and are true to size. My husband wears a 12 W which are hard to find in stores so Amazon had them for half the price as in stores. High recommend these shoes!", "sentiment": "negative", "topics": {"0": "0.15198846", "1": "0.2843651", "2": "0.16186595", "3": "0.23761511", "4": "0.14906722"}}

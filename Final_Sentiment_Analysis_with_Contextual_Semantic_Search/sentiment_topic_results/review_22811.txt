@@ -1,0 +1,1 @@
+{"text": "These are really small and look like a craft project that my niece would make at school. I wouldn't recommend them.", "sentiment": "negative", "topics": {"0": "0.21649992", "1": "0.011030614", "2": "0.31027135", "3": "0.42917582", "4": "0.010997799", "5": "0.011013213", "6": "0.0110112885"}}

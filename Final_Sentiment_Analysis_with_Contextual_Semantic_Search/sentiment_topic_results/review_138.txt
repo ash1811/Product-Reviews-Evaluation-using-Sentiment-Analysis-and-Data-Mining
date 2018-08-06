@@ -1,0 +1,1 @@
+{"text": "I really like this sweatshirt. I am a tall and big guy who loves to wear my clothes a bit baggy. This sweatshirt is great for that. Really comfortable. Keeps me warm, looks good.", "sentiment": "negative", "topics": {"1": "0.67812216", "4": "0.2877379"}}

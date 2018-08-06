@@ -1,0 +1,1 @@
+{"text": "The fit wasn't what I was expecting. Guess my body type and this bra just didn't see eye to eye.", "sentiment": "negative", "topics": {"0": "0.29544282", "1": "0.13272862", "2": "0.014341377", "3": "0.119041204", "4": "0.32264218", "5": "0.014315861", "6": "0.10148792"}}

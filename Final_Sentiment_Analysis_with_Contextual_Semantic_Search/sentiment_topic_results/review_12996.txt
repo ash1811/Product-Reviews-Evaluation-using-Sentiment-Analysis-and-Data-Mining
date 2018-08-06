@@ -1,0 +1,1 @@
+{"text": "Long lasting easy to buff spit shine look.  Works better than Kiwi (though Parade Gloss is close) in my experience. Doesn't rub off on clothes like the creme polishes.", "sentiment": "negative", "topics": {"0": "0.0872004", "1": "0.14304435", "4": "0.22864641", "5": "0.1407964", "6": "0.38665453"}}

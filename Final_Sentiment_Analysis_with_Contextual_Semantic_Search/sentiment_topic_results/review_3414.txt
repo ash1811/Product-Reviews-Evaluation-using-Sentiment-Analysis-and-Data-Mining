@@ -1,0 +1,1 @@
+{"text": "These shoes are the most comfortable and durable that I have found.  My feet are big and wide, and I am greatly satisfied.  The sizes do vary a little depending on the color (I have found that Charcoal runs smaller than Gunsmoke).", "sentiment": "negative", "topics": {"1": "0.41381", "2": "0.06552504", "3": "0.2330112", "4": "0.1540924", "6": "0.11993305"}}

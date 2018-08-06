@@ -1,0 +1,1 @@
+{"text": "This is very long and roomy even for an extra large, comfy, washes up great and nice colors available, bought two for dad and hubbie.  Great buy!", "sentiment": "negative", "topics": {"1": "0.67478585", "4": "0.11174594", "5": "0.18161316"}}

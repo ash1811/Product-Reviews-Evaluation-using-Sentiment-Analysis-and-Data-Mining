@@ -1,0 +1,1 @@
+{"text": "these run a little small. had to get a larger size for them to fit. 38 to a 40. great quality thou", "sentiment": "negative", "topics": {"0": "0.01107679", "1": "0.3013535", "2": "0.011108981", "3": "0.4424995", "4": "0.0111488765", "5": "0.011072153", "6": "0.21174018"}}

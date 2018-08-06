@@ -1,0 +1,1 @@
+{"text": "These are very sturdy, comfortable dress shoes and they were reasonably priced, I have more and more confidence in buying shoes on line now.", "sentiment": "negative", "topics": {"0": "0.011934959", "1": "0.3501447", "2": "0.35110214", "3": "0.011909593", "4": "0.25094017", "5": "0.0119595155", "6": "0.012008882"}}

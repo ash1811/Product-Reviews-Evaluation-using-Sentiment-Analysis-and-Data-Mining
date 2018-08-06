@@ -1,0 +1,1 @@
+{"text": "I have always loved Levis jeans and the price on this jean were very good priced and my husband loves them", "sentiment": "negative", "topics": {"0": "0.013034807", "1": "0.16824815", "2": "0.013016591", "3": "0.013011762", "4": "0.66428864", "5": "0.013090674", "6": "0.11530938"}}

@@ -1,0 +1,1 @@
+{"text": "Durable, and they function just as advertized. I use these for the silver rings on my bagpipes, and the tarnish comes right off.", "sentiment": "negative", "topics": {"0": "0.124018915", "1": "0.63140297", "2": "0.011940936", "3": "0.011958844", "4": "0.19679227", "5": "0.011956028", "6": "0.011929973"}}

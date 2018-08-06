@@ -1,0 +1,1 @@
+{"text": "A great pair of riveted blue jeans for the traditionalist who does NOT want his new jeans already faded by stone washing and other &#34;aging&#34; techniques. The quality seems plenty good enough for the price.", "sentiment": "negative", "topics": {"1": "0.3020607", "2": "0.06340278", "3": "0.16934247", "4": "0.31496152", "5": "0.13722035"}}

@@ -1,0 +1,1 @@
+{"text": "I don't know how many vector series watches I have bought. It is the basic Suunto model but it has everything that I need, not only for everyday use but for my job in the military.", "sentiment": "negative", "topics": {"0": "0.15578976", "1": "0.0905752", "2": "0.2212802", "4": "0.2519146", "6": "0.2625509"}}

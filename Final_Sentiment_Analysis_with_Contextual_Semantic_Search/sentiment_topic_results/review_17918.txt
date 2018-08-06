@@ -1,0 +1,1 @@
+{"text": "This watch is lightweight, the face is very readable, and it keeps great time.The price is cheap and so I highly recommend it.", "sentiment": "negative", "topics": {"0": "0.011044156", "1": "0.5027352", "2": "0.27451664", "3": "0.01104082", "4": "0.011017342", "5": "0.011027824", "6": "0.17861803"}}

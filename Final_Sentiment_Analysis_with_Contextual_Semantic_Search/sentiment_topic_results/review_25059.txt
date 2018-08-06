@@ -1,0 +1,1 @@
+{"text": "They came just as you expect, my son says they are a little longer then he is used to, so if you like them to be on the shot side then you might want to pass.", "sentiment": "negative", "topics": {"0": "0.23727968", "5": "0.41220665", "6": "0.31227115"}}

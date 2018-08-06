@@ -1,0 +1,1 @@
+{"text": "I love my new Minnetonka Women's Fringed Kitty Moccasin's. I love the blue ones also and can't wait for it to get warmer to wear them also.", "sentiment": "negative", "topics": {"1": "0.30751777", "3": "0.08628807", "4": "0.38140497", "6": "0.20093188"}}

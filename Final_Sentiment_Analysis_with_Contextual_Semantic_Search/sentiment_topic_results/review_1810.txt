@@ -1,0 +1,1 @@
+{"text": "My daughter and I wear leggings.  They fit great and are not too short, tight in crotch area or waist.  Perfect", "sentiment": "negative", "topics": {"0": "0.29106387", "1": "0.5519832", "2": "0.012006246", "3": "0.011922687", "4": "0.10916224", "5": "0.0119411", "6": "0.011920645"}}

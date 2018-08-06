@@ -1,0 +1,1 @@
+{"text": "The buckle is metal and not coated with lead based paint like some of the chinese belt buckles. Its a decent belt and has held up well.", "sentiment": "negative", "topics": {"0": "0.2569324", "1": "0.24194725", "2": "0.40568528", "4": "0.066779085"}}

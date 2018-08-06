@@ -1,0 +1,1 @@
+{"text": "The black and white scarf has a nice and authentic design. However, the material leaves a lot of hairs specially if worn with darker clothes. Somewhat poor quality, I believe.", "sentiment": "negative", "topics": {"0": "0.07791665", "1": "0.22249253", "2": "0.2787374", "3": "0.12786111", "5": "0.13374655", "6": "0.15210101"}}

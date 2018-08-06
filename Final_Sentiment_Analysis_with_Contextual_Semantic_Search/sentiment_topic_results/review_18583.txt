@@ -1,0 +1,1 @@
+{"text": "Very good quality, if you order these pants you must order the next size up. I am a true 33 waist and these pants are 34 and just fit.", "sentiment": "negative", "topics": {"0": "0.21804646", "1": "0.36570552", "3": "0.121967666", "4": "0.051558517", "6": "0.22480859"}}

@@ -1,0 +1,1 @@
+{"text": "Attractive and small homage to the Rolex Submariner (which I don't even know if there is a woman's submariner).  It looks great on her.", "sentiment": "negative", "topics": {"0": "0.16387172", "1": "0.46923202", "2": "0.010217221", "3": "0.15769336", "4": "0.08944849", "5": "0.010223878", "6": "0.09931329"}}

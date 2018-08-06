@@ -1,0 +1,1 @@
+{"text": "I bought a medium and I always am a medium in men's shorts but I found this one to be a bit snug around the thighs. So go up a size/", "sentiment": "positive", "topics": {"0": "0.15901546", "2": "0.2048915", "3": "0.40907553", "6": "0.19830786"}}

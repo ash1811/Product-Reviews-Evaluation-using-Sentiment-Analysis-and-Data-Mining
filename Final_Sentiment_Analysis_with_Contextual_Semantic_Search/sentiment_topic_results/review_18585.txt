@@ -1,0 +1,1 @@
+{"text": "Once you know your size, getting them via Amazon is great.  These pants are durable and fit great.", "sentiment": "negative", "topics": {"0": "0.012998474", "1": "0.5814815", "2": "0.012991519", "3": "0.2592332", "4": "0.10726166", "5": "0.013004941", "6": "0.0130286785"}}

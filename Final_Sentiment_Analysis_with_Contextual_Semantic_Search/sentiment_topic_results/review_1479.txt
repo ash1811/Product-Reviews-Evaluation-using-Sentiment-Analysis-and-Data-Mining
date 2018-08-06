@@ -1,0 +1,1 @@
+{"text": "Very nice backpack. Great size with a lot of pockets. Very light when empty and has padded straps. Bright, almost neon pink.", "sentiment": "positive", "topics": {"0": "0.12277166", "1": "0.22504729", "2": "0.39008197", "4": "0.08039859", "6": "0.16259734"}}

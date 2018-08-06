@@ -1,0 +1,1 @@
+{"text": "I think it runs a little big. it was flimsier feeling than I thought it would be. I ended up returning it.", "sentiment": "negative", "topics": {"0": "0.13260843", "1": "0.38246584", "2": "0.11139879", "3": "0.34052357", "4": "0.010995974", "5": "0.011003851", "6": "0.011003537"}}

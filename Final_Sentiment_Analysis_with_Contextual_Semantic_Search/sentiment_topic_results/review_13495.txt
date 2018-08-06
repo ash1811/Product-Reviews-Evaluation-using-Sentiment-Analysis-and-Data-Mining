@@ -1,0 +1,1 @@
+{"text": "This shoe feels so good for high arches.  It has that type of EVO footbed and it cradles wonderfully. Was true to size.", "sentiment": "negative", "topics": {"0": "0.0110385725", "1": "0.011041994", "2": "0.21926485", "3": "0.37949604", "4": "0.011009978", "5": "0.13021713", "6": "0.23793142"}}

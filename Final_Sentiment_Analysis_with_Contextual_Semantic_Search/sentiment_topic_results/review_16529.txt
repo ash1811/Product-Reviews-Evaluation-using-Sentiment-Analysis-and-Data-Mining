@@ -1,0 +1,1 @@
+{"text": "Fast shipping! Really nice leather! This is a darker tan color. I like the color though. Has lots of room for credit cards, receipts and so on. Definitely recommend!", "sentiment": "negative", "topics": {"0": "0.09434021", "1": "0.38609573", "2": "0.21679923", "3": "0.07047029", "4": "0.0787403", "5": "0.078036845", "6": "0.07551739"}}

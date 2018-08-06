@@ -1,0 +1,1 @@
+{"text": "Great socks, I wear four different running shoes/sneakers and these fit well in all of them. The thick ankle line is nice too since my feet are wider in the front. Feet stay dry as well.", "sentiment": "negative", "topics": {"0": "0.24224447", "1": "0.36282602", "4": "0.20642014", "5": "0.16979349"}}

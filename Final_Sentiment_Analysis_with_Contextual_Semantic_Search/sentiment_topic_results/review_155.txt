@@ -1,0 +1,1 @@
+{"text": "I really like this shirt. It is big and long, just want I wanted. The fabric is a little thin, but that is what you get for the price. Fast delivery and I will order more.", "sentiment": "negative", "topics": {"0": "0.3155762", "1": "0.37251073", "5": "0.15707123", "6": "0.12953688"}}

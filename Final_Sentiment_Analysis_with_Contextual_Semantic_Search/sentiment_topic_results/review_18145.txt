@@ -1,0 +1,1 @@
+{"text": "Simple watch. Very easy to read dial. Was given to my dad who has vision problems so he can see the watch.", "sentiment": "negative", "topics": {"0": "0.01190865", "1": "0.10124734", "2": "0.21622723", "3": "0.34335157", "4": "0.07628587", "5": "0.011961534", "6": "0.23901784"}}

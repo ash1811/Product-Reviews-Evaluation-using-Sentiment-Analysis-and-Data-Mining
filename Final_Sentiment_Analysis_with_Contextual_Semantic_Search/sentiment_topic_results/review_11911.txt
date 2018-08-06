@@ -1,0 +1,1 @@
+{"text": "very useful thing to tuck my tie and make sure it doesn't get in the way when  i have to move a lot at work.", "sentiment": "positive", "topics": {"0": "0.011919824", "1": "0.011949165", "2": "0.55452627", "3": "0.26802027", "4": "0.011935568", "5": "0.12972085", "6": "0.011928007"}}

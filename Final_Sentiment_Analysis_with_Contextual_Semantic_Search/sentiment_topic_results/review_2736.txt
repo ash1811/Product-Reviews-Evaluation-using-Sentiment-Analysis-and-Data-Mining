@@ -1,0 +1,1 @@
+{"text": "These briefs are the only style my husband will wear.  They fit very comfortably, and they wash and last very well.  they can be ordered in all black, which is what he likes.", "sentiment": "negative", "topics": {"0": "0.011009305", "1": "0.28076583", "2": "0.011035459", "3": "0.11090039", "4": "0.2331135", "5": "0.34215158", "6": "0.011023957"}}

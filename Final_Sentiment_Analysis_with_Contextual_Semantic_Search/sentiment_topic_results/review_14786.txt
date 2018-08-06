@@ -1,0 +1,1 @@
+{"text": "A few caps of this work great in my ultrasonic cleaner - a little goes a long way!  It's amazing how much dirt and grime this cleaner can get out of your jewelry.  Some tarnished jewelry I have has literally come back to life with this!", "sentiment": "negative", "topics": {"1": "0.46702668", "2": "0.24430054", "4": "0.121832795", "5": "0.08741521", "6": "0.067416586"}}

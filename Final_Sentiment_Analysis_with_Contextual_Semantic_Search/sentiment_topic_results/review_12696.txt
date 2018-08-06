@@ -1,0 +1,1 @@
+{"text": "Nice, but stiff fabric and not exactly true to size (40 felt like my old 38's).  Cups sized okay, but overall a little tighter than I expected", "sentiment": "negative", "topics": {"0": "0.050579898", "1": "0.13815847", "2": "0.10371459", "3": "0.246912", "6": "0.44548693"}}

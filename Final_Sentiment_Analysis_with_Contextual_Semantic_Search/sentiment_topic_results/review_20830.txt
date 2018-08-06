@@ -1,0 +1,1 @@
+{"text": "These pants are great for the bigger guy.  Pockets do not hang out.  Hubby was so pleased with these pants we bought 3 more in different colors.  We dry clean them however, so I don't know how they would hold up in regular washings.", "sentiment": "positive", "topics": {"1": "0.5171269", "2": "0.13299215", "3": "0.13302276", "4": "0.13799174", "5": "0.066400416"}}

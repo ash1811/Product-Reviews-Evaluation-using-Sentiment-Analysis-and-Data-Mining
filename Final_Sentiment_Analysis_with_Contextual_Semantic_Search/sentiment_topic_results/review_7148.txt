@@ -1,0 +1,1 @@
+{"text": "I purchased this fanny pack to use while I jog.  It is of good quality.  The product was received on time and in good condition.", "sentiment": "negative", "topics": {"0": "0.14256416", "1": "0.4311722", "2": "0.010996049", "3": "0.011022372", "4": "0.011012148", "5": "0.3822425", "6": "0.010990571"}}

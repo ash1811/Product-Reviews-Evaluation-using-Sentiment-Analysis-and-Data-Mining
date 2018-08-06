@@ -1,0 +1,1 @@
+{"text": "got this for a cosplay. its very comfortable. accurate. sizing can be iffy. but if you choose correctly its a great shirt", "sentiment": "negative", "topics": {"0": "0.013010189", "1": "0.18093649", "2": "0.013018012", "3": "0.013012034", "4": "0.13452272", "5": "0.4636246", "6": "0.18187596"}}

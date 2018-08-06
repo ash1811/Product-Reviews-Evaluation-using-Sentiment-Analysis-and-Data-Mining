@@ -1,0 +1,1 @@
+{"text": "This slipper is actually cuter than I expected from the picture. It fits well and is wearing well. The elastic is not too tight, and the warmth is appropriate for temperate weather.", "sentiment": "negative", "topics": {"0": "0.07880627", "1": "0.5743351", "2": "0.1473311", "3": "0.08841934", "6": "0.09320667"}}

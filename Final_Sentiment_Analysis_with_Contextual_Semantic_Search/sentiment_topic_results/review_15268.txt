@@ -1,0 +1,1 @@
+{"text": "Itchy, stiff fabric. I normally buy another brand but I tried dickies because they have a good name. I personally do not care for them, and will return to buying my normal brand.", "sentiment": "positive", "topics": {"0": "0.21191855", "1": "0.32006404", "2": "0.120608754", "3": "0.19931261", "6": "0.13297641"}}

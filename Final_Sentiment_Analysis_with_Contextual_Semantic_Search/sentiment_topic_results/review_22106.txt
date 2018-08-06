@@ -1,0 +1,1 @@
+{"text": "Glad I ordered these. I live in north carolina so the winters arent too bad. Its enogh of a glove to keep my hands warm.", "sentiment": "positive", "topics": {"1": "0.47990745", "2": "0.24189636", "4": "0.12651818", "6": "0.122994475"}}

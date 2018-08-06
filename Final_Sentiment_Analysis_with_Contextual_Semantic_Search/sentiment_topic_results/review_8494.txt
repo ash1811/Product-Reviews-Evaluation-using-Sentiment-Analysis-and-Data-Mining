@@ -1,0 +1,1 @@
+{"text": "Only thing that stinks is it looks like Reebok is discontinuing them in favor of a slightly different, more expensive (!!!) \"classic\" shoe. You suck, Reebok, although these shoes are still great.", "sentiment": "negative", "topics": {"0": "0.09920431", "1": "0.28380844", "2": "0.241672", "4": "0.16144025", "5": "0.19878168"}}

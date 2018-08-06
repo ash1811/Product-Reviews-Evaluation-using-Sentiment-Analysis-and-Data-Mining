@@ -1,0 +1,1 @@
+{"text": "I bought a set of these quite some time ago, followed by a purchase of an additional set also a while back.  They have held up quite well with frequent use.  I wear black pants on a pretty regular basis, and these have always worked well.", "sentiment": "positive", "topics": {"1": "0.614018", "2": "0.2298056", "4": "0.063428216", "6": "0.07616968"}}

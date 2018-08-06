@@ -1,0 +1,1 @@
+{"text": "The brief tore at the waist band after 2 wearings.  No I have to sew it.  Too pricey for one pair of briefs that tore.", "sentiment": "negative", "topics": {"0": "0.18868993", "1": "0.23088777", "2": "0.21370314", "3": "0.010236354", "4": "0.25560993", "5": "0.0102077", "6": "0.09066518"}}

@@ -1,0 +1,1 @@
+{"text": "This brand is the only one I buy. They are very comfortable & hold up wash & wash.The best buy for your money.", "sentiment": "negative", "topics": {"0": "0.012994233", "1": "0.56803316", "2": "0.16060503", "3": "0.2192999", "4": "0.013009309", "5": "0.01306039", "6": "0.012997985"}}

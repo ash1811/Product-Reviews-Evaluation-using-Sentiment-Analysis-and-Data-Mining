@@ -1,0 +1,1 @@
+{"text": "Awesome fast shipping,they respond day & night,& are great people to deal with!They also carry a size 13 which few places do.. I will buy from them again for sure!! :) Oh and did I mention best price!!", "sentiment": "positive", "topics": {"1": "0.3377934", "2": "0.2765297", "3": "0.092063144", "4": "0.13132544", "6": "0.1498274"}}

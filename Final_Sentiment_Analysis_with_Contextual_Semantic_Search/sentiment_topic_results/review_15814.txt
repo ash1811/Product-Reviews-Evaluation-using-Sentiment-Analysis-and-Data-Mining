@@ -1,0 +1,1 @@
+{"text": "These had a great color that matched skin tone and fit as expected. I would recommend this product. Exactly as expected", "sentiment": "negative", "topics": {"0": "0.09316657", "1": "0.5158742", "2": "0.011013201", "3": "0.011028652", "4": "0.10895093", "5": "0.24897042", "6": "0.0109960055"}}

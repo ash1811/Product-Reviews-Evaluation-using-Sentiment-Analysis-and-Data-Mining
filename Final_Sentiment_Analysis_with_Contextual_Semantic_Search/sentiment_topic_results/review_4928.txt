@@ -1,0 +1,1 @@
+{"text": "This was a replacement that got covered in bleach in a repair job. I highly recommend this watch to everyone.", "sentiment": "positive", "topics": {"0": "0.013002817", "1": "0.1483003", "2": "0.41698453", "3": "0.013015044", "4": "0.20220675", "5": "0.013020066", "6": "0.19347054"}}

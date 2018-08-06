@@ -1,0 +1,1 @@
+{"text": "Hola Gente:Just great, for everything!! I used this boots to go to my job too.Saludos, Allan.", "sentiment": "negative", "topics": {"0": "0.30753553", "1": "0.20560184", "2": "0.110144995", "3": "0.012996572", "4": "0.3377169", "5": "0.013011094", "6": "0.012993049"}}

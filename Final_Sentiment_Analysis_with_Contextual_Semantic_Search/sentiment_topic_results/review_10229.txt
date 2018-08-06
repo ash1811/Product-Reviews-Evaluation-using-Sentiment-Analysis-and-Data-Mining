@@ -1,0 +1,1 @@
+{"text": "it just took some time to get it like 10 days .it just be nice to get it in the 3 to 5 days like Amazon said .my wife love it and I got this for her.", "sentiment": "negative", "topics": {"0": "0.21791571", "1": "0.15413813", "4": "0.2678273", "6": "0.33963934"}}

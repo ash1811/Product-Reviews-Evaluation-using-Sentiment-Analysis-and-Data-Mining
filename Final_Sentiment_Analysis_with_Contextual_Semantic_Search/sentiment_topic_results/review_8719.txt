@@ -1,0 +1,1 @@
+{"text": "Watch was as shown. Only thing I dislike is how hands block the digital display.  I knew that going in so no big deal. Love it otherwise.", "sentiment": "negative", "topics": {"0": "0.1351032", "1": "0.17062733", "2": "0.11010647", "3": "0.18532051", "6": "0.37962896"}}

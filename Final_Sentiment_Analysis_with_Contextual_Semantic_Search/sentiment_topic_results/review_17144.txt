@@ -1,0 +1,1 @@
+{"text": "this has a lot of compartments  .I have always carried buxton..they last forever..good quality..I would recommend this brand to everyone..", "sentiment": "negative", "topics": {"0": "0.010227719", "1": "0.010221257", "2": "0.32203645", "3": "0.34337372", "4": "0.010235124", "5": "0.21483152", "6": "0.08907421"}}

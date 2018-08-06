@@ -1,0 +1,1 @@
+{"text": "These are the best. Hubby now has 3 pairs and LOVES them. He HIGHLY recommends these.", "sentiment": "negative", "topics": {"0": "0.014370938", "1": "0.43174905", "2": "0.2680168", "3": "0.014384955", "4": "0.014397068", "5": "0.24279079", "6": "0.01429043"}}

@@ -1,0 +1,1 @@
+{"text": "this hat is a gift for my grand child, have not given it to  her as of yet. I did sew the black skull on itvery hard material for sewing decades onto.", "sentiment": "negative", "topics": {"0": "0.20662454", "2": "0.17777017", "3": "0.57982785"}}

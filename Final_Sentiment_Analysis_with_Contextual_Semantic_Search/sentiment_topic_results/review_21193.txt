@@ -1,0 +1,1 @@
+{"text": "Live in Wimington, NC and 3 minutes from  Wrightsville Beach, NC. Summers hot and very humid. Needed crew and V neck, very light wieght Tees. These were exactly what I had been looking for. Re-Ordered 6 more.", "sentiment": "positive", "topics": {"0": "0.14385307", "1": "0.29188165", "2": "0.077670425", "3": "0.1714976", "4": "0.17131342", "6": "0.13804492"}}

@@ -1,0 +1,1 @@
+{"text": "found the tiny date windows in reg day datewatches to hasrd to see watch keeps good time and has other functions and alarm if needed great watch at a reasonable price", "sentiment": "negative", "topics": {"0": "0.11730731", "1": "0.14231803", "2": "0.12191332", "4": "0.3448283", "5": "0.103966065", "6": "0.16284636"}}

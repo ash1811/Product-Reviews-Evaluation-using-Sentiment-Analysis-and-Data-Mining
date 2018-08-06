@@ -1,0 +1,1 @@
+{"text": "Good gift.  Decent quality.  Probably not something that you'd want to wear in the rain or around snow.  Good driving gloves and decent for walking outside.", "sentiment": "negative", "topics": {"0": "0.20229286", "1": "0.39208594", "2": "0.18959169", "5": "0.1921656"}}

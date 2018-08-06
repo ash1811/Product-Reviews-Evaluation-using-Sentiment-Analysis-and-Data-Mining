@@ -1,0 +1,1 @@
+{"text": "soft and shipper than in their webside, perfect size and soft as I was expecting them to be, they are the best", "sentiment": "negative", "topics": {"0": "0.014312498", "1": "0.5210051", "2": "0.014336308", "3": "0.13427025", "4": "0.17176439", "5": "0.12995335", "6": "0.014358069"}}

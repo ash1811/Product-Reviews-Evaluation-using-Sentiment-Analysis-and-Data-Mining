@@ -1,0 +1,1 @@
+{"text": "rockports mens walking shoe is a very comfotable shoe . it looks great with jeans . good quality and color .", "sentiment": "positive", "topics": {"0": "0.011018434", "1": "0.33830482", "2": "0.20391294", "3": "0.010997985", "4": "0.09942096", "5": "0.32535473", "6": "0.010990168"}}

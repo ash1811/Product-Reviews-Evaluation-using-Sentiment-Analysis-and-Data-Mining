@@ -1,0 +1,1 @@
+{"text": "My husband loves it.  Nice leather that's not going to fall apart, well constructed.  No problems with fitting into pocket.", "sentiment": "negative", "topics": {"1": "0.3541618", "2": "0.17953916", "4": "0.15711975", "5": "0.12181532", "6": "0.16823322"}}

@@ -1,0 +1,1 @@
+{"text": "shoulda ordered another size up I guess,  On the pic, the skinny model  makes it look like the belt is wide and gives some coverage.  ALL my junk hangs out.  But that's ok...it's not about my junk, now is it? lol", "sentiment": "positive", "topics": {"1": "0.18741761", "2": "0.16661079", "3": "0.31794113", "4": "0.06656812", "6": "0.24953598"}}

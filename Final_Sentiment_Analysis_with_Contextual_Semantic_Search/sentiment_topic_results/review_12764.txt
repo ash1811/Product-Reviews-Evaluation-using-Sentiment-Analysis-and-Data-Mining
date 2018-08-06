@@ -1,0 +1,1 @@
+{"text": "I previously purchased the air grant driver-- and the toe section was too tight. Not a problem with this pair of shoes. It fits true to size and so far has been very comfortable to wear either with or without socks.", "sentiment": "negative", "topics": {"0": "0.06538072", "1": "0.64824045", "2": "0.07166245", "3": "0.0841716", "5": "0.11690859"}}

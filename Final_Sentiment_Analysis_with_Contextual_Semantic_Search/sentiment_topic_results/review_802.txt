@@ -1,0 +1,1 @@
+{"text": "I like this band a lot.  It is the older style Seiko rubber watch band, which is what I wanted.  It was delivered promptly and was exactly as described in the ad.", "sentiment": "negative", "topics": {"0": "0.19422019", "1": "0.082370974", "2": "0.20436704", "4": "0.31926048", "6": "0.18189432"}}

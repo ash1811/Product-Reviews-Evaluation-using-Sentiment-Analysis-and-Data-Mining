@@ -1,0 +1,1 @@
+{"text": "Love these sun glasses, yellow/ amber color is great, polarization is great. They are light weight and easy to clean.", "sentiment": "negative", "topics": {"0": "0.2809134", "1": "0.4374557", "2": "0.010213095", "3": "0.108800605", "4": "0.010253568", "5": "0.010230039", "6": "0.14213356"}}

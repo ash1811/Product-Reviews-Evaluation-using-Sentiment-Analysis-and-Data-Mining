@@ -1,0 +1,1 @@
+{"text": "Had to have them hemmed since I use them like regular pants but other than that, they are great pants for work especially in the summer", "sentiment": "negative", "topics": {"0": "0.011012558", "1": "0.76722443", "2": "0.011017765", "3": "0.011051963", "4": "0.17762095", "5": "0.011018106", "6": "0.011054236"}}

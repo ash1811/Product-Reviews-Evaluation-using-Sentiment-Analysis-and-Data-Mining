@@ -1,0 +1,1 @@
+{"text": "Ordered these for my daughter for Christmas....she loves them!  We have never been let down by Sorel; top quality, true to size boot.", "sentiment": "negative", "topics": {"0": "0.01022671", "1": "0.28747526", "2": "0.13281997", "3": "0.43404096", "4": "0.11497851", "5": "0.010232478", "6": "0.010226118"}}

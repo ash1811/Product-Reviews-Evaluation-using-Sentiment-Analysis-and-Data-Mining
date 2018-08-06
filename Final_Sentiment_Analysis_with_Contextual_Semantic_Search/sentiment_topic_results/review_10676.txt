@@ -1,0 +1,1 @@
+{"text": "My husband likes the fit ,He goes thru work shoes and Boots every 5 months .So we'll be reordering this one soon .Thanx", "sentiment": "negative", "topics": {"1": "0.1155361", "2": "0.46037373", "4": "0.16562514", "6": "0.23584267"}}

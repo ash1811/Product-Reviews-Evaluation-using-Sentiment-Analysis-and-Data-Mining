@@ -1,0 +1,1 @@
+{"text": "These shoes are comfortable, but the are a little bigger than normal.That doesn't bother me because they are slip ons anyway.", "sentiment": "positive", "topics": {"0": "0.13990529", "1": "0.15240638", "2": "0.3596801", "3": "0.014348434", "4": "0.16520372", "5": "0.014294669", "6": "0.15416142"}}

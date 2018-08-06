@@ -1,0 +1,1 @@
+{"text": "I feel this would be more fall/winter/spring use if anything. I was planning on using it hiking in the Arizona desert but I think it's just too heavy. plus, I'm still trying to memorize the ways to wrap this thing ;-)", "sentiment": "negative", "topics": {"0": "0.18149628", "1": "0.120288454", "2": "0.12999797", "3": "0.29609686", "4": "0.0802234", "6": "0.18508206"}}

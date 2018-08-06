@@ -1,0 +1,1 @@
+{"text": "I haven't worn briefs in a very, very long time. However, these have made me change my tune. Excellent buy.", "sentiment": "negative", "topics": {"0": "0.011937007", "1": "0.23261781", "2": "0.40544382", "3": "0.011916429", "4": "0.12692425", "5": "0.011940527", "6": "0.19922017"}}

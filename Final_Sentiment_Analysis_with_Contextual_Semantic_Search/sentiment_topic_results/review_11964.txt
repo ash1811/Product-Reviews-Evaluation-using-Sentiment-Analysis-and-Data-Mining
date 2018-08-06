@@ -1,0 +1,1 @@
+{"text": "The socks are decent and filt well, but they do make your feet too warm and don't wick away much moisture.", "sentiment": "negative", "topics": {"0": "0.011918771", "1": "0.1705996", "2": "0.12594147", "3": "0.28052217", "4": "0.3221602", "5": "0.07694223", "6": "0.011915526"}}

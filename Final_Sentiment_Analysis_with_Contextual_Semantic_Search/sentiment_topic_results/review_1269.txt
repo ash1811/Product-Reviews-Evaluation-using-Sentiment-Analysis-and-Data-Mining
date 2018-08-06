@@ -1,0 +1,1 @@
+{"text": "Why change a classic?  I used to ear these in grade school, and if it ain't broke don't fix it.  Their stylish, comfortable and lightweight.  I will ear these for the rest of my life.", "sentiment": "positive", "topics": {"0": "0.059090286", "1": "0.25626865", "2": "0.25359288", "6": "0.4056422"}}

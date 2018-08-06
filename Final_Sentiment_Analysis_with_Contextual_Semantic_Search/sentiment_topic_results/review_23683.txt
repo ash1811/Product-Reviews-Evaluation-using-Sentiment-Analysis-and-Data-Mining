@@ -1,0 +1,1 @@
+{"text": "I purchased these along with the tactical vest for my son. I know he loves it since he wears them all the time!", "sentiment": "positive", "topics": {"0": "0.4639861", "1": "0.47073185", "2": "0.013027343", "3": "0.013081461", "4": "0.013072068", "5": "0.013042597", "6": "0.013058615"}}

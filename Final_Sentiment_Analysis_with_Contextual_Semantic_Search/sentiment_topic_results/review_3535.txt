@@ -1,0 +1,1 @@
+{"text": "This bra fits perfectly and is exactly what I wanted. Have been unable to order more. When I click on, it will not go into my cart.  I assume they are no longer available.", "sentiment": "positive", "topics": {"0": "0.19206806", "1": "0.34877932", "3": "0.25584826", "4": "0.17646864"}}

@@ -1,0 +1,1 @@
+{"text": "Love the fit and comfort.  Some bras are to scratchy or they pull in the band area.  I feel this are not only attrative but make you look and feel good.", "sentiment": "positive", "topics": {"0": "0.22513665", "1": "0.22920968", "2": "0.078316726", "3": "0.22385448", "6": "0.22437648"}}

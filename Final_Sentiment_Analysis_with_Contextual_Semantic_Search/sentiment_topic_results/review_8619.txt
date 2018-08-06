@@ -1,0 +1,1 @@
+{"text": "I love my new sebago shoes, it came in its original box well packaged and it arrived on time, its so great and i am really satisfied.", "sentiment": "positive", "topics": {"0": "0.3341054", "2": "0.18067703", "3": "0.106160186", "4": "0.20186567", "6": "0.15805097"}}

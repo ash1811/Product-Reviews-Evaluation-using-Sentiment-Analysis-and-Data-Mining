@@ -1,0 +1,1 @@
+{"text": "If you're tired of those WalMart $30 shoes that last 6 months, maybe, then you owe it to your feet to get these.I noticed the price has gone up, but they are still worth it.Perfect fit and very comfortable.Thanks Amazon.", "sentiment": "negative", "topics": {"1": "0.23841833", "2": "0.100660354", "4": "0.47113273", "6": "0.17108701"}}

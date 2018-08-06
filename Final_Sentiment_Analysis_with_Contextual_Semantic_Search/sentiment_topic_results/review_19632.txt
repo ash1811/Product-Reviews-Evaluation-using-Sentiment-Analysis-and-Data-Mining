@@ -1,0 +1,1 @@
+{"text": "this case is so elegant with a good quality.. the leather is nice looking and it fit my husband big watches.. i highly recommend", "sentiment": "positive", "topics": {"0": "0.0102114575", "1": "0.52899903", "2": "0.25815144", "3": "0.010223644", "4": "0.100109085", "5": "0.010216209", "6": "0.082089074"}}

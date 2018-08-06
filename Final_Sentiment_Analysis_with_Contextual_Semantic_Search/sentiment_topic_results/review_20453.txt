@@ -1,0 +1,1 @@
+{"text": "While I am not a fan of the terry material, they really are comfortable slippers.  I haven't got any complaints.", "sentiment": "negative", "topics": {"0": "0.17088313", "1": "0.3851646", "2": "0.015884476", "3": "0.015894145", "4": "0.015874604", "5": "0.015894108", "6": "0.38040492"}}

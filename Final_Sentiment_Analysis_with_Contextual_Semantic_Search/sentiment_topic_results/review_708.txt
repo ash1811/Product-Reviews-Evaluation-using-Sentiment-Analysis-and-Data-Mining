@@ -1,0 +1,1 @@
+{"text": "The watch band looks very nice, but the dial is a little small. It would be better if it could be bigger to fit my fat hand.", "sentiment": "negative", "topics": {"1": "0.25811246", "2": "0.089096546", "3": "0.5071089", "6": "0.11699419"}}

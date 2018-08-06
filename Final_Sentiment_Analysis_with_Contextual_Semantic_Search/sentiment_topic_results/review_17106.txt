@@ -1,0 +1,1 @@
+{"text": "You cant go wrong with Crocs.  I love to have my kids wear these in the summer outside.  They are easy to clean.  Spray with a hose and dry and they are new again.", "sentiment": "negative", "topics": {"0": "0.19244495", "1": "0.10937872", "2": "0.07391956", "3": "0.1681948", "4": "0.1272757", "5": "0.32035735"}}

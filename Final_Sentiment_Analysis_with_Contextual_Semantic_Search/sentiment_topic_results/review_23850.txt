@@ -1,0 +1,1 @@
+{"text": "nice enough for long johns, but this was a bit to baggy for long underware, my old ones are the same size just seems to be manufacture differences or maybe it's the times maybe they are intended to be baggy", "sentiment": "negative", "topics": {"0": "0.2136236", "2": "0.10209237", "3": "0.29404336", "4": "0.3687206"}}

@@ -1,0 +1,1 @@
+{"text": "I still wear this all the time. The white seems stretchier than the black for some reason. Have ordered another black one instead.", "sentiment": "negative", "topics": {"0": "0.010252776", "1": "0.010268043", "2": "0.121387765", "3": "0.44470263", "4": "0.010265415", "5": "0.24416402", "6": "0.15895933"}}

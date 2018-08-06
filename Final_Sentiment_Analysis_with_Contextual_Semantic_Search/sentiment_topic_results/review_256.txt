@@ -1,0 +1,1 @@
+{"text": "This is a nice size bag I purchased for 6 year old. It hold extra set of clothing, swim shoes, towel & misc items.  It is well ventilated but I keep a plastic bag for wet clothing.", "sentiment": "negative", "topics": {"1": "0.41475084", "2": "0.158422", "3": "0.17303737", "4": "0.11920915", "6": "0.122634046"}}

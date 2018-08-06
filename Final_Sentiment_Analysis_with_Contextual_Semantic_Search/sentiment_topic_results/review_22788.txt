@@ -1,0 +1,1 @@
+{"text": "I am wearing this bracelet as I type, and I have to say, it is truly magnificent. The seller shipped the bracelet very quickly. The clasp is extremely secure so you'll never lose it. Very classy and elegant.", "sentiment": "negative", "topics": {"0": "0.24612918", "2": "0.27421355", "3": "0.08141685", "4": "0.1846054", "5": "0.09708658", "6": "0.10899934"}}

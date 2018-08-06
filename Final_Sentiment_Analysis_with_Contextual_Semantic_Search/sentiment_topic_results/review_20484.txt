@@ -1,0 +1,1 @@
+{"text": "I brought these sandal for my son. He likes them and he said that they are very comfortable,  The only thing he does not like is that they are a bit difficult to put on.", "sentiment": "positive", "topics": {"0": "0.011028721", "1": "0.515252", "2": "0.12745303", "3": "0.13910729", "4": "0.0110331755", "5": "0.011042947", "6": "0.18508285"}}

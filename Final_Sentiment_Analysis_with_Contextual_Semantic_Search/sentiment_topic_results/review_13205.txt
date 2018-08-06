@@ -1,0 +1,1 @@
+{"text": "Fits well under swimsuit. I may get a different color to match tops instead of using this and swimsuit bottoms.", "sentiment": "negative", "topics": {"0": "0.17497768", "1": "0.28322107", "2": "0.01021699", "3": "0.15121551", "4": "0.010209567", "5": "0.35993055", "6": "0.010228661"}}

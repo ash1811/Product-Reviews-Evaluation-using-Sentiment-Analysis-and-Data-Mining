@@ -1,0 +1,1 @@
+{"text": "It seems like they are making these thinner than they used to. I also noticed while some fit fine, others in the package were cut smaller and didn't for as well.", "sentiment": "positive", "topics": {"0": "0.10562757", "1": "0.31221893", "2": "0.093465395", "3": "0.12094381", "4": "0.2652022", "6": "0.09360147"}}

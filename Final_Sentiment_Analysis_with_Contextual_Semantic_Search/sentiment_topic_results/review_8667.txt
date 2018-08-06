@@ -1,0 +1,1 @@
+{"text": "Keeps time well and even shows the day and the date. Perfect if you just want a very basic disposable sports/outdoors/work watch. I have gotten it wet a few times and it still works. All you can ask from a $10 beater watch.", "sentiment": "positive", "topics": {"1": "0.19557841", "2": "0.27646366", "3": "0.1579354", "4": "0.23355496", "6": "0.12398479"}}

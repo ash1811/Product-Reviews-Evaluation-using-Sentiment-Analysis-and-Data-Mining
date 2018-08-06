@@ -1,0 +1,1 @@
+{"text": "Second pair of birkenstock, fit great. Like the Habana Leather, nice look. Wore them right away, no problem. Thinking about another pair.", "sentiment": "negative", "topics": {"1": "0.4412464", "2": "0.21631253", "3": "0.24357758", "4": "0.074901946"}}

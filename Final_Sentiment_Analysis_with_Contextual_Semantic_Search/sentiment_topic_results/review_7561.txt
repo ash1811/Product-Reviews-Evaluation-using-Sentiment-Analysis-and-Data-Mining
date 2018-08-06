@@ -1,0 +1,1 @@
+{"text": "Almost perfect. I had to sew on two buttons that were not sewn on well.Other than that, it was the right weight of denim for a shirt and the stitching of the garment had good quality thread and seams.", "sentiment": "negative", "topics": {"1": "0.33793756", "2": "0.32407174", "3": "0.118001886", "4": "0.1973406"}}

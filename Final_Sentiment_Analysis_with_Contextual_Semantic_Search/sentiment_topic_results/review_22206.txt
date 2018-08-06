@@ -1,0 +1,1 @@
+{"text": "I was buying the Neumanns, which are more expensive but the stitching would come out and they deteriorated too quickly. I like these Tasmans, they seem better made.", "sentiment": "positive", "topics": {"0": "0.0102416035", "1": "0.28083962", "2": "0.38043436", "3": "0.29772353", "4": "0.01022559", "5": "0.010251839", "6": "0.010283457"}}

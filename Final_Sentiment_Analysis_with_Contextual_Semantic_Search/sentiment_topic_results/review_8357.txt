@@ -1,0 +1,1 @@
+{"text": "These shoes are so comfortable and I love the color - very soft shade.  This is the first pair of Edelman shoes I have purchased and will definitely look for more.  Very well made", "sentiment": "positive", "topics": {"1": "0.49168715", "2": "0.17162625", "3": "0.1027026", "4": "0.14128451", "6": "0.07585194"}}

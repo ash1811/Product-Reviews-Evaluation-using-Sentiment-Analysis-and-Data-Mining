@@ -1,0 +1,1 @@
+{"text": "Fantastic, even better than pictured.  Fits true to size, wife is 4' 10&#34; 34D and 104lbs and the small fits her perfect.  This is our favorite one purchased to date.", "sentiment": "positive", "topics": {"0": "0.16216011", "1": "0.46594524", "2": "0.11127417", "3": "0.14088617", "4": "0.10539161"}}

@@ -1,0 +1,1 @@
+{"text": "Exactly what I needed, cheaper than the retailer, fast service! Will definitely use again and will refer friends and co-workers to.", "sentiment": "negative", "topics": {"0": "0.37850428", "1": "0.14515057", "2": "0.011032026", "3": "0.120948754", "4": "0.011038029", "5": "0.1883162", "6": "0.14501013"}}

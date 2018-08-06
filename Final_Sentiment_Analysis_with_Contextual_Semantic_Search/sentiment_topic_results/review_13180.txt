@@ -1,0 +1,1 @@
+{"text": "Easy, fast shipping, everything as expected.  It's hard to find pants of this size and we were delighted with everything.", "sentiment": "negative", "topics": {"0": "0.120916754", "1": "0.16534106", "2": "0.2628078", "3": "0.01196523", "4": "0.17634863", "5": "0.10269975", "6": "0.15992081"}}

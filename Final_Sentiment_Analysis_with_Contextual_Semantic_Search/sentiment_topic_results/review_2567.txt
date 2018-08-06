@@ -1,0 +1,1 @@
+{"text": "I love this hat, I was afraid of getting the wrong size because they had the choices of medium-xl so I guessed and ordered a medium and it fit great.", "sentiment": "negative", "topics": {"0": "0.010255096", "1": "0.3910926", "2": "0.075239755", "3": "0.21179555", "4": "0.010237076", "5": "0.29115388", "6": "0.01022605"}}

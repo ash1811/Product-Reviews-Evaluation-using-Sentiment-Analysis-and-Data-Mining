@@ -1,0 +1,1 @@
+{"text": "I'm a fan of SPANX and decided to order these black tights.  The quality is much better than some other brands.  They fit as I expected and after washing in cold water, retained their shape.", "sentiment": "negative", "topics": {"0": "0.12976229", "1": "0.26028475", "2": "0.094963014", "3": "0.27459615", "5": "0.08501964", "6": "0.14784093"}}

@@ -1,0 +1,1 @@
+{"text": "Great shoe for wearing to work-related events. I initially sized up based on reviews, but the sized up was HUGE. This item fits to size--the leather stretches ever so slightly during the day.", "sentiment": "negative", "topics": {"1": "0.16246317", "2": "0.21867284", "3": "0.123872064", "4": "0.13913658", "5": "0.1972982", "6": "0.15138857"}}

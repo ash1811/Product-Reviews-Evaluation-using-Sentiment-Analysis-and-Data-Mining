@@ -1,0 +1,1 @@
+{"text": "It fits great and does not draw up. I like the medium weight. For the price I doubt you could do better.", "sentiment": "positive", "topics": {"0": "0.011960276", "1": "0.59048384", "2": "0.34971118", "3": "0.01196899", "4": "0.01195798", "5": "0.011955428", "6": "0.011962323"}}

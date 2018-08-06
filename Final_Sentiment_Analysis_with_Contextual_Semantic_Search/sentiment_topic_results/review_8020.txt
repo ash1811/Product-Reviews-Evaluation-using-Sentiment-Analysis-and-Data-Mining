@@ -1,0 +1,1 @@
+{"text": "I was afraid by other reviewers reports of small sizing.  However, these arrived true to size and as expected.  Satisfied.", "sentiment": "positive", "topics": {"0": "0.31127784", "1": "0.14856832", "2": "0.011973554", "3": "0.011971646", "4": "0.011923263", "5": "0.11051854", "6": "0.39376688"}}

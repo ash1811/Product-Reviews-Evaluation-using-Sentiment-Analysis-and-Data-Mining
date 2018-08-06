@@ -1,0 +1,1 @@
+{"text": "Worked great - would have liked an instruction sheet to save a few minutes, but it did what it was supposed to do.", "sentiment": "negative", "topics": {"0": "0.013057417", "1": "0.39715758", "2": "0.013051359", "3": "0.013010019", "4": "0.24773502", "5": "0.013018633", "6": "0.30297"}}

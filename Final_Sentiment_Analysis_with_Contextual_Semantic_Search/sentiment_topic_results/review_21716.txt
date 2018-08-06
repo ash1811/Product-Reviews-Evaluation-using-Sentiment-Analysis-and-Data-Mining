@@ -1,0 +1,1 @@
+{"text": "Very cute!  It fit my average-size 5 year old well and went perfectly with her Dorothy costume.  It is not super high quality, but for the price, it was perfect for a one-time use item.", "sentiment": "negative", "topics": {"0": "0.16505209", "1": "0.41279894", "5": "0.20336536", "6": "0.19729991"}}

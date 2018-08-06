@@ -1,0 +1,1 @@
+{"text": "If you're looking for a basic backpack this one's perfect gets the job done it's very reasonable I promise you won't be disappointed first starter backpack.", "sentiment": "positive", "topics": {"0": "0.094632484", "1": "0.14074787", "2": "0.3010837", "3": "0.12982538", "4": "0.14097539", "6": "0.18319426"}}

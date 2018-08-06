@@ -1,0 +1,1 @@
+{"text": "Needed a pair to match a lingerie set I bought. They are adorable on and the color is vibrant.Id recommend this item many times over.", "sentiment": "negative", "topics": {"1": "0.43378696", "3": "0.13171846", "4": "0.22408928", "6": "0.18175139"}}

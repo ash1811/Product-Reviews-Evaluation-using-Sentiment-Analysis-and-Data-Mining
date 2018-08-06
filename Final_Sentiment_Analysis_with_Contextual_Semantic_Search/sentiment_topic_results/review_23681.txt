@@ -1,0 +1,1 @@
+{"text": "i liked these stockings a lot. the queen size was def queen size and fit my chubby thighs...however my 5'4&#34; height almost turned these fishnets into a body stocking...", "sentiment": "negative", "topics": {"1": "0.09059121", "2": "0.2552337", "3": "0.16757628", "4": "0.090818554", "5": "0.06766207", "6": "0.32059726"}}

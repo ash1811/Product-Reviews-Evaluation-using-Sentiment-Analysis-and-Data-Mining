@@ -1,0 +1,1 @@
+{"text": "For dockers cap toe shoes these are good so far. Size was right on and no glaring imperfections or pitfalls in the early running so to speak", "sentiment": "negative", "topics": {"1": "0.11237375", "2": "0.088308685", "3": "0.17708817", "4": "0.28625706", "5": "0.23503003", "6": "0.091404215"}}

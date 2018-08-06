@@ -1,0 +1,1 @@
+{"text": "Thorlo are my favorite socks.  The feel soft and cushiony on your feet, wash well, and last forever.  Worth the money!", "sentiment": "negative", "topics": {"0": "0.010242119", "1": "0.010259852", "2": "0.0102129765", "3": "0.089274175", "4": "0.1980519", "5": "0.56804204", "6": "0.11391692"}}

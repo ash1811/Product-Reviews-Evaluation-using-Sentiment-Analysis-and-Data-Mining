@@ -1,0 +1,1 @@
+{"text": "I am keeping these shoes but I don't think that they will last very long.  They look good but are a little flimsy.", "sentiment": "positive", "topics": {"0": "0.014328701", "1": "0.589054", "2": "0.15881702", "3": "0.01431164", "4": "0.01432801", "5": "0.19481519", "6": "0.014345443"}}

@@ -1,0 +1,1 @@
+{"text": "Buy pants for work pants, and the results have exceeded the expected, the material is extremely good quality pants leaves no room for doubt, and ultimately the pants for any cowboy.", "sentiment": "positive", "topics": {"1": "0.5883886", "3": "0.0949363", "4": "0.1685147", "5": "0.07717523", "6": "0.05588779"}}

@@ -1,0 +1,1 @@
+{"text": "My husband got me these and they fit great. i just have to be sure to wear them with socks so my feet don't sweat in them.", "sentiment": "negative", "topics": {"0": "0.013012914", "1": "0.1834817", "2": "0.22393836", "3": "0.013066796", "4": "0.28607658", "5": "0.26736072", "6": "0.013063004"}}

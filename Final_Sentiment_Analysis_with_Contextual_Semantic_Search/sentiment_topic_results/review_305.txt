@@ -1,0 +1,1 @@
+{"text": "Polo shirt for work, needed one with long enough sleeves to cover tattoos and the women's style just wouldn't work. Not my typical style, but serves it's purpose well.", "sentiment": "negative", "topics": {"1": "0.4056535", "2": "0.2863629", "3": "0.10728926", "4": "0.17806166"}}

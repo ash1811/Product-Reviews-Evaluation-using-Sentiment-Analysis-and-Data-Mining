@@ -1,0 +1,1 @@
+{"text": "These are so warm over my yoga pants on the cold days when I head out to exercise.  The quality is great.  They also may fantastic gifts.", "sentiment": "positive", "topics": {"0": "0.2178869", "1": "0.48030525", "2": "0.010212973", "3": "0.18284789", "4": "0.088282354", "5": "0.010246297", "6": "0.010218297"}}

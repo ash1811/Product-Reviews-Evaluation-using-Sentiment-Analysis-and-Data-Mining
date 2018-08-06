@@ -1,0 +1,1 @@
+{"text": "I love it! I love the color, the material and the lenses! I have Ray Ban's in many colors, but this is my favorite and matches jeans perfectly!", "sentiment": "negative", "topics": {"0": "0.21615979", "1": "0.44038832", "4": "0.30523556"}}

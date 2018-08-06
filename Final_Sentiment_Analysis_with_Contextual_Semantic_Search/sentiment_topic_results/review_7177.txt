@@ -1,0 +1,1 @@
+{"text": "They are nice and small and look great in your ear. they are comfortable and so have been sturdy enough for every day wear", "sentiment": "negative", "topics": {"0": "0.0119430795", "1": "0.63584435", "2": "0.011915148", "3": "0.011931465", "4": "0.011929421", "5": "0.20509195", "6": "0.11134458"}}

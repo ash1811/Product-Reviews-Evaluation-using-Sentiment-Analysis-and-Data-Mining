@@ -1,0 +1,1 @@
+{"text": "Thank goodness for maternity pantyhose in the winter. Otherwise there would be no skirts in my near future. I have black, navy blue, and opaque bisque. More colors would be a plus, but this is a good start.", "sentiment": "negative", "topics": {"0": "0.146119", "1": "0.22131307", "2": "0.16423498", "4": "0.15039696", "6": "0.3042849"}}

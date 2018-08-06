@@ -1,0 +1,1 @@
+{"text": "I love this bra, at least for me it works well and is comfortable and supports well.  Until I find something else that works this well, this is it for me.  Price is excellent and they last a long time, however, I hand wash and hang dry.", "sentiment": "negative", "topics": {"1": "0.46435842", "2": "0.23153399", "3": "0.103595115", "4": "0.18332286"}}

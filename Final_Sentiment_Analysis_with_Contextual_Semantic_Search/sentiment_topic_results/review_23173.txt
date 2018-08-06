@@ -1,0 +1,1 @@
+{"text": "I orderd these to wear in the hospital with my youngest son...and liked them so much I continue to wear them! They are super cozy and soft!!", "sentiment": "positive", "topics": {"0": "0.0102413", "1": "0.56803083", "2": "0.15425423", "3": "0.01026178", "4": "0.010214828", "5": "0.010229752", "6": "0.23676734"}}

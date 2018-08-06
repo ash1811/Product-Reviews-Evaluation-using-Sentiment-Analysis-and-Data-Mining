@@ -1,0 +1,1 @@
+{"text": "Enjopy the fit as working out with conventional socks is a little tuff at times especially when doing yoga. I prefer my feet to be covered with a sock.", "sentiment": "negative", "topics": {"0": "0.12310431", "1": "0.41497347", "3": "0.1413886", "5": "0.20029472", "6": "0.10108015"}}

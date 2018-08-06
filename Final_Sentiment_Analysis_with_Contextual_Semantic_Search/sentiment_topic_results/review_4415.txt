@@ -1,0 +1,1 @@
+{"text": "They fit well and are well made Lee makes good jeans even after being around for so long thats probably why this is the case.", "sentiment": "negative", "topics": {"1": "0.52984023", "3": "0.3352531", "6": "0.09659857"}}

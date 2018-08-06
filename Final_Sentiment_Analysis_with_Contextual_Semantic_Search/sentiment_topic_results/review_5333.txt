@@ -1,0 +1,1 @@
+{"text": "Love the slippers- feel great with lots of cushion.  Cheetah pattern is very fun.  Liked them so much I sent my daughter a pair!", "sentiment": "negative", "topics": {"1": "0.26688603", "2": "0.24600801", "4": "0.34222618", "6": "0.11617196"}}

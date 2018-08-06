@@ -1,0 +1,1 @@
+{"text": "I found it to be difficult to find a good sports bra that had underwire and a clasp in the back.  Bras with no catches are so difficult to put on!  I'm going to dislocate my shoulder.  Thank goodness I found these.", "sentiment": "negative", "topics": {"0": "0.13299358", "2": "0.130235", "3": "0.32385492", "4": "0.22845669", "6": "0.17195942"}}

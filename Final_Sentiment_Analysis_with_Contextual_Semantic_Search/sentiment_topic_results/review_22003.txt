@@ -1,0 +1,1 @@
+{"text": "Classic military look, very comfortable, and very well made, been through a couple of washes and still looks brand new.", "sentiment": "negative", "topics": {"0": "0.12253423", "1": "0.50283515", "2": "0.10557176", "3": "0.23606035", "4": "0.0109931035", "5": "0.011014221", "6": "0.010991237"}}

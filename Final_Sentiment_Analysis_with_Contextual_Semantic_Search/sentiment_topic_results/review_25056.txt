@@ -1,0 +1,1 @@
+{"text": "the waist band folds over, material very light, ok for price, wanted a better fit, ordered to packs by mistake guess I will learn to like them", "sentiment": "negative", "topics": {"1": "0.4459084", "2": "0.15735707", "4": "0.13154359", "6": "0.24131086"}}

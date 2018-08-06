@@ -1,0 +1,1 @@
+{"text": "These have a gorgeous  finish and are very comfortable, however they are truly a &#34;driving shoe&#34; and are really not  made for walking.  They are more like a nice slipper.", "sentiment": "negative", "topics": {"0": "0.010223888", "1": "0.22660492", "2": "0.19477098", "3": "0.084122725", "4": "0.18461975", "5": "0.17331536", "6": "0.12634237"}}

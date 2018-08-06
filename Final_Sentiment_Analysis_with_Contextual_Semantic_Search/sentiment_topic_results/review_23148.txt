@@ -1,0 +1,1 @@
+{"text": "I've worn these for years since I broke my shoulder and lost some range of motion, not being able to reach behind my back to hook my bra.  I love these bras.", "sentiment": "positive", "topics": {"0": "0.04276478", "1": "0.091773406", "2": "0.067368366", "3": "0.34136367", "4": "0.1259197", "5": "0.2100453", "6": "0.120764814"}}

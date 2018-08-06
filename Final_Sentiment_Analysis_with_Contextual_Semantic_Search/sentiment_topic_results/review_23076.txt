@@ -1,0 +1,1 @@
+{"text": "It's a protective, good looking, comfortable, light, durable, outdoor hat. It accompanies our family everywhere: gardening, walking, hiking,farming, beach, mountain. Whatever you do outdoors and wherever you go.", "sentiment": "negative", "topics": {"0": "0.08271842", "1": "0.3133356", "2": "0.04273988", "4": "0.22590625", "5": "0.12787533", "6": "0.20059139"}}

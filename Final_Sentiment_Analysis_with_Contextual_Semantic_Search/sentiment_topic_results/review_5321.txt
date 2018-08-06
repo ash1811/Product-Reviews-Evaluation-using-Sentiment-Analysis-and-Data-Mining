@@ -1,0 +1,1 @@
+{"text": "I love these slippers.  They fit perfectly (once I realized I needed medium!).  They last and are washable, what more could I ask?  (this is Carolyn Robert's wife)", "sentiment": "negative", "topics": {"1": "0.35395303", "2": "0.084738664", "5": "0.35974544", "6": "0.17626816"}}

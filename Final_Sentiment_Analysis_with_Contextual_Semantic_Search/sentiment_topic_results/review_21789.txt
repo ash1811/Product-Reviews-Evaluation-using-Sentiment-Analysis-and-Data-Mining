@@ -1,0 +1,1 @@
+{"text": "Big enough to hold his full-size shaving cream, lotion, brushes and other toiletries. And it was so easy to find and . Keep track of. Much lighter than his leather  one.", "sentiment": "negative", "topics": {"0": "0.06237525", "1": "0.09195213", "2": "0.22568923", "3": "0.107401885", "4": "0.27202785", "5": "0.06111942", "6": "0.17943421"}}

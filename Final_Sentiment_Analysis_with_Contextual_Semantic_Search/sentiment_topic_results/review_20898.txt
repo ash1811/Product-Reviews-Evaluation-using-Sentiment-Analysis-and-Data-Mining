@@ -1,0 +1,1 @@
+{"text": "Fits exactly like my other size 9 Levis, including the pair of 524s I bought a few years ago. Keep in mind, Levis seems to make jeans with different fabric thicknesses - this is one of the thinner ones. My 518s are generally a bit thicker.", "sentiment": "negative", "topics": {"1": "0.11529575", "3": "0.20783958", "4": "0.33449954", "6": "0.3274948"}}

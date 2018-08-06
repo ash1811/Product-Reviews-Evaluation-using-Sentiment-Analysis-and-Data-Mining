@@ -1,0 +1,1 @@
+{"text": "Love the material - does NOT need ironing, and that makes me VERY happy.  Material &#34;breathes&#34; - doesn't make you feel hot like some brands do.", "sentiment": "negative", "topics": {"0": "0.35093823", "1": "0.17847617", "3": "0.30153465", "6": "0.1404036"}}

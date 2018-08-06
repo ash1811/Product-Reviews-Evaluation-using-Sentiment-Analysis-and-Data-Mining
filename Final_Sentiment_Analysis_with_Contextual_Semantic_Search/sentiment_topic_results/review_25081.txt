@@ -1,0 +1,1 @@
+{"text": "Nice ring but dont be fooled looks fake.  If your trying to find a ring to pass as an engagement ring keep looking.", "sentiment": "negative", "topics": {"0": "0.09278403", "1": "0.44473633", "2": "0.08246793", "3": "0.31411102", "5": "0.04683078"}}

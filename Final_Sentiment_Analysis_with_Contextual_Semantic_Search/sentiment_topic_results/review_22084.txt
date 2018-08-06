@@ -1,0 +1,1 @@
+{"text": "Purchased these as a gift.  Fit well and feel wonderful (or so I've been told)  They also wash well and are colorsafe.", "sentiment": "negative", "topics": {"0": "0.10139734", "1": "0.41601044", "2": "0.0102080405", "3": "0.09441203", "4": "0.08998412", "5": "0.12374526", "6": "0.16424277"}}

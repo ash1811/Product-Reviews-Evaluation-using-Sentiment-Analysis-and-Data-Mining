@@ -1,0 +1,1 @@
+{"text": "Not my favorite.  I wanted pockets but it really runs large.  Try it in a size smaller and see what you think.  Washes very well!  I put it in the dryer and it did not shrink.", "sentiment": "negative", "topics": {"1": "0.52863646", "3": "0.33465344", "4": "0.103015915"}}

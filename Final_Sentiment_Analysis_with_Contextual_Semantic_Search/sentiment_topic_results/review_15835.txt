@@ -1,0 +1,1 @@
+{"text": "The bra did not fit the description. No lift or good support. Also the bra is so thin that you can totally when your nipping. I don't recommend this bra.", "sentiment": "negative", "topics": {"0": "0.01023712", "1": "0.28845504", "2": "0.010262316", "3": "0.3039336", "4": "0.36669356", "5": "0.010214249", "6": "0.010204123"}}

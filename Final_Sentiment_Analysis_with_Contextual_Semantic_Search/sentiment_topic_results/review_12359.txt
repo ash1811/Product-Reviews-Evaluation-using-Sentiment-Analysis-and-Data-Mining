@@ -1,0 +1,1 @@
+{"text": "I'm a size 12 and these were perfect. Soft thick material holds its shape, yet conforms to your curves. A quality look that goes with a variety of outfits, from casual/athletic to stylish. Length was perfect for my 31&#34; inseams.", "sentiment": "negative", "topics": {"1": "0.2633179", "3": "0.32339966", "4": "0.06621303", "5": "0.10066501", "6": "0.2343794"}}

@@ -1,0 +1,1 @@
+{"text": "smooth fit  sexy fabric nice fits well just what i wanted a full panty but good looking not frumpish and school marmish", "sentiment": "negative", "topics": {"0": "0.2066687", "1": "0.3946943", "2": "0.27949485", "5": "0.09230835"}}

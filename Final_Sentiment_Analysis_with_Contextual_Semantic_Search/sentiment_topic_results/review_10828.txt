@@ -1,0 +1,1 @@
+{"text": "so soft but good support i would recommend these to any-one!! these are also very warm great for cold feet!!!", "sentiment": "positive", "topics": {"0": "0.011954297", "1": "0.45500144", "2": "0.011920568", "3": "0.07269254", "4": "0.21620612", "5": "0.22031827", "6": "0.011906761"}}

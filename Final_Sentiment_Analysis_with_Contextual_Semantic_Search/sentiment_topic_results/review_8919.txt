@@ -1,0 +1,1 @@
+{"text": "Love Love Love these shoes. These are my second pair I have purchased and they have held up just as well as the first. I'm very hard on shoes but these can take even the beating my feet put on them.", "sentiment": "negative", "topics": {"0": "0.11212134", "1": "0.29190782", "2": "0.19687632", "4": "0.30491355", "5": "0.07985679"}}

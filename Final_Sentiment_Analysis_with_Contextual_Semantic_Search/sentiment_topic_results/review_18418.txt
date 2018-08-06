@@ -1,0 +1,1 @@
+{"text": "When my daughter moved north, she was freezing and asked where to get leg warmers. I said the 80s R Us? Seriously, no one but Amazon seems to carry them so I ordered her 2 pair.", "sentiment": "negative", "topics": {"0": "0.1694377", "1": "0.07902675", "2": "0.13331148", "3": "0.2987619", "4": "0.14999263", "6": "0.16264708"}}

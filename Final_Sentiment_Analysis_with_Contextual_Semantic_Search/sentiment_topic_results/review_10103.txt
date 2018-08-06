@@ -1,0 +1,1 @@
+{"text": "This tight is very soft and easy to put on. It runs a little small. Still,  My daughter loves it!", "sentiment": "negative", "topics": {"0": "0.01104573", "1": "0.3969191", "2": "0.01100851", "3": "0.54791796", "4": "0.011050568", "5": "0.011046515", "6": "0.011011606"}}

@@ -1,0 +1,1 @@
+{"text": "Fits very very well and is great under skirts in warm weather.  Great for traveling as they wash and dry quickly.  They are surprisingly durable in spite of how thin and light and sheer they are.", "sentiment": "positive", "topics": {"0": "0.22550476", "1": "0.45696455", "2": "0.11627584", "4": "0.1786586"}}

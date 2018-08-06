@@ -1,0 +1,1 @@
+{"text": "I'm on my feet for 16 hours a day at work and these socks provide the extra cushioning I need to comfort my feet. They also wick the sweat away really well.", "sentiment": "negative", "topics": {"2": "0.07160827", "3": "0.26490432", "4": "0.21791764", "5": "0.28413177", "6": "0.14711481"}}

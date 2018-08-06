@@ -1,0 +1,1 @@
+{"text": "Nice cut, will wear these for a long time, looks like they will hold up to some punishment this winter.", "sentiment": "negative", "topics": {"0": "0.013027272", "1": "0.67732036", "2": "0.013005976", "3": "0.15452272", "4": "0.11605859", "5": "0.013030628", "6": "0.013034444"}}

@@ -1,0 +1,1 @@
+{"text": "Retired nurse who depended on many timex watches over the years.  Looks great, easy to read and LOVE the indigo light.  Keeps great time and reasonable price.", "sentiment": "negative", "topics": {"0": "0.3659706", "2": "0.06089043", "3": "0.16244449", "4": "0.19938323", "5": "0.13127309", "6": "0.07286412"}}

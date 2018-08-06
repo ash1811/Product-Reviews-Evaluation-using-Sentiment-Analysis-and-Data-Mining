@@ -1,0 +1,1 @@
+{"text": "Really happy with the quality of these sturdy kids work-boots with soft uppers and sturdy build, my son just loves them, and I was really pleased too, fast ship too!", "sentiment": "negative", "topics": {"1": "0.4301501", "2": "0.27823386", "3": "0.096811794", "5": "0.11426629", "6": "0.06618895"}}

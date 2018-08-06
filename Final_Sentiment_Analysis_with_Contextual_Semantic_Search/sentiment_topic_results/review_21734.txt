@@ -1,0 +1,1 @@
+{"text": "I will never buy knock off spanx ever again! I love these stockings! They are a really nice quality, good material. Under a dress or skirt, they smooth out every and all bump. The make my rear end look magnificent! Buy them now!!", "sentiment": "negative", "topics": {"1": "0.7354631", "2": "0.056103762", "4": "0.123091355", "6": "0.06878103"}}

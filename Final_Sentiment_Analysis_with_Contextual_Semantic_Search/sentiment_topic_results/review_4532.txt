@@ -1,0 +1,1 @@
+{"text": "Dits great and looks good on!  Came quickly and absolutely clean.  Would recommend Lee over Levi for quality at the price point.", "sentiment": "negative", "topics": {"0": "0.16102001", "1": "0.50660723", "2": "0.14775772", "6": "0.15936606"}}

@@ -1,0 +1,1 @@
+{"text": "Very happy with the earrings. Price was great and I love getting shipping free.", "sentiment": "negative", "topics": {"0": "0.01591415", "1": "0.57884526", "2": "0.015875524", "3": "0.14030716", "4": "0.21728009", "5": "0.015903477", "6": "0.015874334"}}

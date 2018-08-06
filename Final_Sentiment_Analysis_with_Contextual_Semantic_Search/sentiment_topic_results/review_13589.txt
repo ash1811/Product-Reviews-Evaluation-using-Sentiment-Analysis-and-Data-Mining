@@ -1,0 +1,1 @@
+{"text": "Great sale. Love the earrings!!Thanks for offering Swarovski-wonderful crystal-the best crystal in jewelry!!Sparkly and Pretty and just the right length!!", "sentiment": "negative", "topics": {"0": "0.3513887", "1": "0.0102378335", "2": "0.0102072535", "3": "0.010223928", "4": "0.17310537", "5": "0.3489404", "6": "0.09589653"}}

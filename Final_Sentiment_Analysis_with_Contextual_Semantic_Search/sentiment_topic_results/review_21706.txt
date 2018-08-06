@@ -1,0 +1,1 @@
+{"text": "The pendant is very nice and just as described. I was very disappointed with the chain. It's not as pictured, it doors not have the extension and is a very thin, cheap chain.", "sentiment": "positive", "topics": {"0": "0.01193612", "1": "0.27245715", "2": "0.011946976", "3": "0.123401076", "4": "0.20521627", "5": "0.27086273", "6": "0.10417971"}}

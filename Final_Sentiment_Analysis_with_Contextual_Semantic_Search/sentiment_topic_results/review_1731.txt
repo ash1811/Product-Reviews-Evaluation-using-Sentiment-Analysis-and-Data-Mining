@@ -1,0 +1,1 @@
+{"text": "I would recommend these panties because they are so comfortable.  They look good on a wide bottom and don't cut into the leg.", "sentiment": "negative", "topics": {"0": "0.013041098", "1": "0.6458598", "2": "0.013051244", "3": "0.013034776", "4": "0.012997359", "5": "0.28901735", "6": "0.012998387"}}

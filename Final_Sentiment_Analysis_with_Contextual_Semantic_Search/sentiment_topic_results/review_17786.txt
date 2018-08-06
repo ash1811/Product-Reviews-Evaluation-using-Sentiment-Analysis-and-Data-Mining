@@ -1,0 +1,1 @@
+{"text": "This watch does exactly what I need it to and didn't cost a fortune.  I got it on sale during the holidays and I think it is a very attractive watch.  It has your basic features necessary for law enforcement use.", "sentiment": "negative", "topics": {"0": "0.20772201", "2": "0.14183988", "3": "0.21325845", "4": "0.20145606", "6": "0.21976015"}}

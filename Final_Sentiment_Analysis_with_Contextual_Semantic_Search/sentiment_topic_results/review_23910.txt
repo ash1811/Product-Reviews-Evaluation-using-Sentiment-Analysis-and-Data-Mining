@@ -1,0 +1,1 @@
+{"text": "I love these shirts because of their length.  i am 6' 2&#34; and can't stand the regular shirts.  They come untucked too easily.  These shirts stay tucked in because of the extra length.", "sentiment": "negative", "topics": {"0": "0.2501197", "1": "0.35441405", "2": "0.083866924", "3": "0.1689631", "4": "0.1266797"}}

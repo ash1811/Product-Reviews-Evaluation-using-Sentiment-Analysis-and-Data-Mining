@@ -1,0 +1,1 @@
+{"text": "Bought this for my nephew, he isnt to  trilled about it but it fits well and looks good.  He still struggles a bit to get his feet in because he has wide feet, the elastic at the side could probably be more flexable", "sentiment": "positive", "topics": {"0": "0.07573964", "1": "0.5340575", "2": "0.06266679", "4": "0.2548124", "6": "0.05908335"}}

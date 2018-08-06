@@ -1,0 +1,1 @@
+{"text": "Great shoe.  The heal cup hold my boy's foot in place.  This shoe has been around along time.  Best classic soccer flat for indoor.  Can't go wrong.", "sentiment": "negative", "topics": {"1": "0.21649699", "2": "0.26913607", "3": "0.0844788", "5": "0.40940043"}}

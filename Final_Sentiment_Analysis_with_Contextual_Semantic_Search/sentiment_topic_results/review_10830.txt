@@ -1,0 +1,1 @@
+{"text": "This is the first pair of Isotoners that I've purchased with this type of heel and arch support. They are really comfortable for me - when I'm at home, I'm in my house shoes. I'm seriously thinking of ordering another pair!", "sentiment": "negative", "topics": {"1": "0.24802573", "2": "0.100636184", "3": "0.47772124", "6": "0.15492047"}}

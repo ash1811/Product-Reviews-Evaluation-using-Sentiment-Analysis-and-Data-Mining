@@ -1,0 +1,1 @@
+{"text": "they are hard to get completely in place so that the backs dont get hung up in shirt or underwear.", "sentiment": "negative", "topics": {"0": "0.2764692", "1": "0.23380321", "2": "0.23997326", "3": "0.21065235", "4": "0.0130176", "5": "0.013047836", "6": "0.013036548"}}

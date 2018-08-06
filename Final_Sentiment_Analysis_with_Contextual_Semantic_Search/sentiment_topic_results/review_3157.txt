@@ -1,0 +1,1 @@
+{"text": "Belt loop broke 2nd week into having these and hardly worn. I called Levis and sent them back to them for examination. Still waiting to hear back from them", "sentiment": "positive", "topics": {"0": "0.20907149", "1": "0.13677523", "2": "0.15533848", "3": "0.20682189", "4": "0.047937416", "6": "0.23563242"}}

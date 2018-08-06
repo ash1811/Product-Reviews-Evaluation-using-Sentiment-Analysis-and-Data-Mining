@@ -1,0 +1,1 @@
+{"text": "Love these sandals! They're so comfy that I wear them to school and everywhere pretty much! I couldn't find my size in stores so I order through amazon and they arrived promptly and wow! love em", "sentiment": "negative", "topics": {"0": "0.18624435", "1": "0.16506547", "2": "0.079609364", "4": "0.41423059", "6": "0.14050026"}}

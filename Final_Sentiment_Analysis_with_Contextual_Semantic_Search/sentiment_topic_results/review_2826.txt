@@ -1,0 +1,1 @@
+{"text": "I wear Ked sneakers always and I was over joyed to find this show at such a low price.  It is just as expected, great quality and reliable shoe!", "sentiment": "positive", "topics": {"0": "0.29262403", "1": "0.39352375", "2": "0.17108533", "4": "0.11414314"}}

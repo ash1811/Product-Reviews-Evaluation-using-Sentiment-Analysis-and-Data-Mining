@@ -1,0 +1,1 @@
+{"text": "To protect my new carpet after I make short trips in side the condo building I wear these in stead of changing shoes all the time. The do a great job of keeping the dirt out of the unit.", "sentiment": "positive", "topics": {"0": "0.08073414", "1": "0.39302695", "2": "0.1699178", "3": "0.14367622", "4": "0.10126319", "6": "0.104225956"}}

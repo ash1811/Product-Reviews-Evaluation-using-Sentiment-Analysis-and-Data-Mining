@@ -1,0 +1,1 @@
+{"text": "My 16 year old granddaughter was going on a trip to France for 10 days with a student group and needed some security that her documents and money would be safe. Worked just fine, also handy at airport", "sentiment": "negative", "topics": {"2": "0.33423263", "3": "0.4612786", "4": "0.17951548"}}

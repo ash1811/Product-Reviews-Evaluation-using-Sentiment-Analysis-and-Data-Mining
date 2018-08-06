@@ -1,0 +1,1 @@
+{"text": "I machine wash/dry these and they have held up great.  Well worth the money.  They are a nice height and weight for hiking socks.  I ordered two more pair.  The sizing is accurate as well.", "sentiment": "negative", "topics": {"0": "0.0926028", "1": "0.45023617", "3": "0.17800945", "5": "0.15816912", "6": "0.10591832"}}

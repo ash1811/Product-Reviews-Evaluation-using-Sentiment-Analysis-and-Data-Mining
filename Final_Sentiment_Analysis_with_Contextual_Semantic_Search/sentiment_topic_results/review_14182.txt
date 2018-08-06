@@ -1,0 +1,1 @@
+{"text": "Really well made pants. Nice adjustments with the waist straps on both sides, I love these, I have 4 pairs now.", "sentiment": "negative", "topics": {"1": "0.5029586", "2": "0.21031533", "4": "0.16524746", "6": "0.0928136"}}

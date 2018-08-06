@@ -1,0 +1,1 @@
+{"text": "OUTSTANDING! it's a happy day when my mom can actually find a shoe to fit her comfortably and at such a low price. She loves the color and comfort. Fast, excellent shipping.", "sentiment": "positive", "topics": {"0": "0.10379174", "1": "0.27545998", "2": "0.18375425", "4": "0.09245775", "5": "0.3286232"}}

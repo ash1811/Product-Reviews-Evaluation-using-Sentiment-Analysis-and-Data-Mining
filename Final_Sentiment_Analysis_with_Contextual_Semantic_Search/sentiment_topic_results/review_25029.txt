@@ -1,0 +1,1 @@
+{"text": "I have a narrow foot and skinny feet.  Jambu fits better than most brands.  I wear a 9 and a 9 fits in Jambu. I don't size up as others do.  There was too much volume in the front, so I returned them.", "sentiment": "negative", "topics": {"0": "0.059750535", "1": "0.22259478", "2": "0.2138525", "3": "0.26762635", "4": "0.10880764", "6": "0.120856114"}}

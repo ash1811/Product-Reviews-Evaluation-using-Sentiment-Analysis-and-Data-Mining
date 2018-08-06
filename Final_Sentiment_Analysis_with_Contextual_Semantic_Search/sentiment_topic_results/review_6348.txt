@@ -1,0 +1,1 @@
+{"text": "The right price, my son loved it.  Thin material, but we aren't going to be wearing it everyday.  An easy enjoyable costume for Halloween.  I recommend to anyone.", "sentiment": "positive", "topics": {"0": "0.34951955", "1": "0.23993397", "4": "0.3768576"}}

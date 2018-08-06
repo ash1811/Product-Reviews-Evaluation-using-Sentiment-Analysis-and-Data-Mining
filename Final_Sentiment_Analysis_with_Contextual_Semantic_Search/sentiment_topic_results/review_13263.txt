@@ -1,0 +1,1 @@
+{"text": "They fit perfectly...just know that there is a top and a bottom. Bottom is narrower. They are just the slouchy thing I remember from college in the 1980's.", "sentiment": "negative", "topics": {"0": "0.010992409", "1": "0.32245463", "2": "0.011000573", "3": "0.12488782", "4": "0.092267066", "5": "0.32139096", "6": "0.11700658"}}

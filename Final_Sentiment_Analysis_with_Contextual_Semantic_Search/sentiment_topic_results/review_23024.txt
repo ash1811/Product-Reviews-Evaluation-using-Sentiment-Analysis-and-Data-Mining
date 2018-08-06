@@ -1,0 +1,1 @@
+{"text": "Good shorts, great fit for my husband.  He wears them to the gym and they are great for his work outs.", "sentiment": "negative", "topics": {"0": "0.14807437", "1": "0.665939", "2": "0.012998589", "3": "0.013021966", "4": "0.13394524", "5": "0.013023897", "6": "0.012996913"}}

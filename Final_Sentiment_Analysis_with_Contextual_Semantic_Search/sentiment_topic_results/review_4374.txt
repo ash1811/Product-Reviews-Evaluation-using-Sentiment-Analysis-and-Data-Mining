@@ -1,0 +1,1 @@
+{"text": "A little longer than Levi's, I think I'll find a way to make it short.I like the material and the design, not too tight.", "sentiment": "positive", "topics": {"0": "0.11126647", "1": "0.32367614", "2": "0.010220334", "3": "0.37732124", "4": "0.010227569", "5": "0.010226524", "6": "0.15706171"}}

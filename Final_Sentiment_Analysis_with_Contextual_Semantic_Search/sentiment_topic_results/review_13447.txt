@@ -1,0 +1,1 @@
+{"text": "The bag is great. The map seems to be a little cheap. It's connected to a small piece of rope. The map is hard for my 3 year old to roll up & Velcro back together.. Otherwise, the bag is sturdy.", "sentiment": "positive", "topics": {"0": "0.16216645", "1": "0.4039819", "2": "0.07983725", "4": "0.11752843", "5": "0.081576385", "6": "0.14867476"}}

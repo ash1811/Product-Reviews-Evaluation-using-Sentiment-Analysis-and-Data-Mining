@@ -1,0 +1,1 @@
+{"text": "These are great shoes and they were perfect on sizing. Good on timing. I got them a week early and I plan on buying at least another pair in a different color.", "sentiment": "positive", "topics": {"0": "0.13879105", "1": "0.3313187", "2": "0.086502686", "3": "0.14128397", "5": "0.28521338"}}

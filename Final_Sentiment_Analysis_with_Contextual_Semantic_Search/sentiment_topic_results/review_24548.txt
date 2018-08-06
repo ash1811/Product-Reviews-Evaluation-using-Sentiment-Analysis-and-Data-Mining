@@ -1,0 +1,1 @@
+{"text": "this leotard was exactly what it claimed it was. it fits true to the size and the quality was good.", "sentiment": "positive", "topics": {"0": "0.17915386", "1": "0.43703556", "2": "0.014342792", "3": "0.32653812", "4": "0.014297241", "5": "0.014317537", "6": "0.0143149"}}

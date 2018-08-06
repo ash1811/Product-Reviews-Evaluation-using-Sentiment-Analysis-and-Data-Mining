@@ -1,0 +1,1 @@
+{"text": "These sunglasses by Oakley are great.  They block the sun perfectly and are fashionably cool.  I have a large head, and they fit me snug and well.  I highly recommend them.", "sentiment": "negative", "topics": {"1": "0.2908175", "2": "0.10851051", "3": "0.15707986", "5": "0.2817922", "6": "0.14496928"}}

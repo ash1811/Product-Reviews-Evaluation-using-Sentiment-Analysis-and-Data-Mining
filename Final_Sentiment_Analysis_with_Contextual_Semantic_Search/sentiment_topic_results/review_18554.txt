@@ -1,0 +1,1 @@
+{"text": "This is a great size toiletry bag.  The leather is very rich looking and feeling.  Would have liked it better if it had inside pockets or dividers.", "sentiment": "negative", "topics": {"1": "0.42236042", "2": "0.26948738", "4": "0.107882656", "6": "0.17159957"}}

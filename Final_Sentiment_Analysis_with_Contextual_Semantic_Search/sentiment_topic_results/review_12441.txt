@@ -1,0 +1,1 @@
+{"text": "Extremely comfortable.  A little short, compared to my Niki flip flops.  However, I can still wear them.  Well made and looks great.  Highly recommend.", "sentiment": "negative", "topics": {"0": "0.08538733", "1": "0.46439648", "2": "0.19198796", "3": "0.23564251"}}

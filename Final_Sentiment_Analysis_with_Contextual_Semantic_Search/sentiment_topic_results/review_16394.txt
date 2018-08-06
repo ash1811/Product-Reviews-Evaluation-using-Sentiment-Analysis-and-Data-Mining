@@ -1,0 +1,1 @@
+{"text": "This is my first Reef Sandal and I liked it.  My main concern was the weight of the sandal, it is light weight and fit perfectly.", "sentiment": "negative", "topics": {"0": "0.010247568", "1": "0.9385885", "2": "0.010227983", "3": "0.010233855", "4": "0.010234989", "5": "0.010241755", "6": "0.010225365"}}

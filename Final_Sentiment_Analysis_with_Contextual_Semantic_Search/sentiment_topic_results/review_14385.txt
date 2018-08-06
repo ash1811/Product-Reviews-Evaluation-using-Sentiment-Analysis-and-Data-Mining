@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband.  I saw that these shoes had gotten good reviews and my primary reason for the purchase was because they were water resistant.  He liked them so much, that we bought another color.", "sentiment": "positive", "topics": {"0": "0.10361237", "1": "0.4105222", "2": "0.21806155", "4": "0.24393898"}}

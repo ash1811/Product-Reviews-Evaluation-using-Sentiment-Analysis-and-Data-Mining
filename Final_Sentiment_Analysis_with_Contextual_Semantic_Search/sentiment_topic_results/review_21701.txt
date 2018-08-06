@@ -1,0 +1,1 @@
+{"text": "These look lovely, a combination of brilliant silver and vivid blackening.  Nice proportions.  They're well suited to dressing up in the evening.", "sentiment": "negative", "topics": {"0": "0.10858037", "1": "0.24905294", "2": "0.1123082", "3": "0.093803495", "4": "0.3298906", "6": "0.09680725"}}

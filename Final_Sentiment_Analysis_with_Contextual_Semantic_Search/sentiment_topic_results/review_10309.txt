@@ -1,0 +1,1 @@
+{"text": "Purchased for my grandson. Am very pleased with product. Washes well and holds shape. Will be purchasing more soon. Very happy with purchase", "sentiment": "negative", "topics": {"0": "0.011018366", "1": "0.35353518", "2": "0.011009671", "3": "0.22212109", "4": "0.13266584", "5": "0.25864202", "6": "0.01100786"}}

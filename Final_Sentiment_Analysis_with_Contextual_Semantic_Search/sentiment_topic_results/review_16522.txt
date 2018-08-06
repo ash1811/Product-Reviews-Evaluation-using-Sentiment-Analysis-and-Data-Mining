@@ -1,0 +1,1 @@
+{"text": "I ordered this boot in the size I normally purchase 11, but it was way too big.  I returned it immediately and I am waiting to go to a store to try on which size Bates works for me.", "sentiment": "negative", "topics": {"0": "0.07536188", "1": "0.30602494", "3": "0.32702646", "4": "0.26899642"}}

@@ -1,0 +1,1 @@
+{"text": "This is an eye catcher!  I have gotten many compliments on this little ring which costs very little.  It has a very nice shine and design and really is a great bargain!", "sentiment": "negative", "topics": {"0": "0.08982939", "1": "0.36184102", "3": "0.15700772", "4": "0.17285794", "5": "0.20058912"}}

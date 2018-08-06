@@ -1,0 +1,1 @@
+{"text": "the backpack are good in texture. my children use them for school. bright in color. they are durable. i would recommend to a friend . they arrived in good timing.", "sentiment": "negative", "topics": {"0": "0.18580155", "1": "0.26930666", "2": "0.17589253", "3": "0.23010771", "5": "0.12101742"}}

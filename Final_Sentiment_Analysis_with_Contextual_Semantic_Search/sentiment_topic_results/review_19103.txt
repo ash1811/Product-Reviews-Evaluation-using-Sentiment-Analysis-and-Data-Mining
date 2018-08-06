@@ -1,0 +1,1 @@
+{"text": "krasovki great! obazhaet their husband, take the time! This time I will try to take yourself and your child :) soft, comfortable, warm!", "sentiment": "negative", "topics": {"0": "0.010239367", "1": "0.5370304", "2": "0.090529196", "3": "0.14974104", "4": "0.19201791", "5": "0.010225096", "6": "0.01021698"}}

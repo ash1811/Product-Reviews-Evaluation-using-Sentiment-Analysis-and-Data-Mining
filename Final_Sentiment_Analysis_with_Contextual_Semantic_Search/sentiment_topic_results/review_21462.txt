@@ -1,0 +1,1 @@
+{"text": "Soft and cozy, great house slipper you might get away with a few quick trips to front porch for wood but really it's just ment for inside, but so nice and warm", "sentiment": "positive", "topics": {"0": "0.17685586", "1": "0.22050759", "2": "0.092633285", "3": "0.2567673", "4": "0.057509214", "6": "0.18813223"}}

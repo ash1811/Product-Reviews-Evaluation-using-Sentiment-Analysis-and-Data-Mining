@@ -1,0 +1,1 @@
+{"text": "This shirt was exactly like the picture and the color was spot-on.  It matches the color of green that Dollar Tree sales people wear.", "sentiment": "positive", "topics": {"0": "0.10371746", "1": "0.43521786", "2": "0.066297546", "4": "0.15161319", "6": "0.22399572"}}

@@ -1,0 +1,1 @@
+{"text": "This is a good buy and an even better price.  The Mrs has 5 now and this is the best deal so far.", "sentiment": "positive", "topics": {"0": "0.013094343", "1": "0.5734962", "2": "0.013056755", "3": "0.19514605", "4": "0.013027842", "5": "0.013052285", "6": "0.17912653"}}

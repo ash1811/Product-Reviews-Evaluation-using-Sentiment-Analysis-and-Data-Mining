@@ -1,0 +1,1 @@
+{"text": "Color is great and the fit is perfect as well.  Was not too sure if I should purchase the Classic or the Relaxed fit. Happy I decided on the Relaxed.", "sentiment": "positive", "topics": {"0": "0.19111504", "1": "0.6005548", "2": "0.16748072", "3": "0.010209513", "4": "0.010218473", "5": "0.010215009", "6": "0.010206437"}}

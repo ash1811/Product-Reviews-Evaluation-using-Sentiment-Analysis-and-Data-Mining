@@ -1,0 +1,1 @@
+{"text": "I absolutely love these sandals but my pinkie toe slips out. They are beautiful and comfortable. I am hoping the stretch just a little so that my pinkie stays in.", "sentiment": "negative", "topics": {"0": "0.30121386", "1": "0.31823274", "2": "0.089394175", "4": "0.09912685", "5": "0.17412941"}}

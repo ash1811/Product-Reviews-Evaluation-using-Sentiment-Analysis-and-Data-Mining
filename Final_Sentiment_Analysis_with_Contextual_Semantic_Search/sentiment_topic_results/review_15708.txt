@@ -1,0 +1,1 @@
+{"text": "Soft as cashmere, cool, breathable, gentle unbinding support; probably the best underwear I've yet to slip into! The waist is a little high, giving that old fashioned grampy look but the uncompromising comfort trumps styling here!", "sentiment": "negative", "topics": {"0": "0.39643294", "2": "0.11257857", "3": "0.16586153", "4": "0.06939147", "6": "0.24548726"}}

@@ -1,0 +1,1 @@
+{"text": "looks great on my 3X hubby who has amazing blue eyes.  Nice quality and no ironing necessary YAY", "sentiment": "negative", "topics": {"0": "0.11746069", "1": "0.39604387", "2": "0.010989614", "3": "0.09719189", "4": "0.17316453", "5": "0.19416018", "6": "0.010989241"}}

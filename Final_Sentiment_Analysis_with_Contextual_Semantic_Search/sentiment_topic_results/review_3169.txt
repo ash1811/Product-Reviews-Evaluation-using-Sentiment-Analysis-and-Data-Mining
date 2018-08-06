@@ -1,0 +1,1 @@
+{"text": "These are comfortable shoes and do fit good all around but the vendor could have but a more deeper tread on them for a better grip on trail walks.", "sentiment": "positive", "topics": {"0": "0.010216144", "1": "0.46770367", "2": "0.2991144", "3": "0.110189795", "4": "0.09232488", "5": "0.010224726", "6": "0.010226377"}}

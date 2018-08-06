@@ -1,0 +1,1 @@
+{"text": "It did not meet my expectations. It had this bluish shine on the leather I used it for. I totally ruined a good pair of shoe which I could have left well alone. Oh well....", "sentiment": "negative", "topics": {"1": "0.31905517", "2": "0.14674298", "3": "0.15437703", "5": "0.19070923", "6": "0.17401773"}}

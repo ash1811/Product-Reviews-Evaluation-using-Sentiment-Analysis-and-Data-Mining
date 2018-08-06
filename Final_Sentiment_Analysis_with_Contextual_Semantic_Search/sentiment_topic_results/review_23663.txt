@@ -1,0 +1,1 @@
+{"text": "Well made ,sizing allowed good fit and the sweat band makes a perfect addition to any one's work out gear.Plan to buy more.", "sentiment": "positive", "topics": {"0": "0.113024965", "1": "0.57270086", "4": "0.28053045"}}

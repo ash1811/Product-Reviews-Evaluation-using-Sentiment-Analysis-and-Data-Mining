@@ -1,0 +1,1 @@
+{"text": "Well designed, nice quality, and the red is a nice color.  I really like how my drivers liscence and makeup mirror are in a handy little hidden holder that slides in and out safely without having to open my wallet.  It fits all my cards and then some!", "sentiment": "negative", "topics": {"0": "0.06887111", "1": "0.44336754", "2": "0.21622291", "3": "0.25491187"}}

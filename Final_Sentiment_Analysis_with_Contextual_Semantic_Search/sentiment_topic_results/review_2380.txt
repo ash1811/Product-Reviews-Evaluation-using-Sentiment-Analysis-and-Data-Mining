@@ -1,0 +1,1 @@
+{"text": "Not quite five stars because the sole is thicker than most. It makes the shoes look a tad clunky but will probably prolong the life.", "sentiment": "negative", "topics": {"1": "0.43053296", "2": "0.21866399", "3": "0.1670758", "6": "0.15512617"}}

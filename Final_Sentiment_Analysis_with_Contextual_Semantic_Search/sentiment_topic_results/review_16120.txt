@@ -1,0 +1,1 @@
+{"text": "Fits perfectly using a ruler to measure heal to to and using your normal shoe width. Very nice shoe for the price. A two inch heel would have been nice but this is a slipper. Nice leather and well constructed.", "sentiment": "negative", "topics": {"0": "0.23839219", "1": "0.36831713", "2": "0.25910485", "6": "0.116216265"}}

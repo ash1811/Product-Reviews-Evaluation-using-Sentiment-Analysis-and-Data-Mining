@@ -1,0 +1,1 @@
+{"text": "I was a little disappointed in the quality of this studded earrings. I love the size of the stone but the stones in both earrings seem to be a little lose so I am sure they won't last long.", "sentiment": "negative", "topics": {"0": "0.2003078", "1": "0.40593812", "2": "0.15046002", "3": "0.21797861"}}

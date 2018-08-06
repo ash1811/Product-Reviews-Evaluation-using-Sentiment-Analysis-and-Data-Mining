@@ -1,0 +1,1 @@
+{"text": "This merchant really cares.  They have gone out of their way to be sure that I am happy.  The bag is wonderful, of course; but I want to thank the merchant for the exceptional service.", "sentiment": "positive", "topics": {"2": "0.28662172", "3": "0.39527857", "5": "0.28219134"}}

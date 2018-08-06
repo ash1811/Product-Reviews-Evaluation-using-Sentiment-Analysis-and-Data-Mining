@@ -1,0 +1,1 @@
+{"text": "This costs about the same as one package of disposable swim diapers, and I used it all summer long, several times a week.  Admittedly, we never REALLY tested it (you know what i mean), but I was pleased with it.", "sentiment": "negative", "topics": {"0": "0.33601257", "3": "0.26738116", "4": "0.12727143", "5": "0.12634389", "6": "0.12993218"}}

@@ -1,0 +1,1 @@
+{"text": "Very happy with this bag. It's a good size. It's lightweight. The color is nice, too! It's also washable, which makes it really convenient!", "sentiment": "negative", "topics": {"0": "0.010305473", "1": "0.3995376", "2": "0.010264742", "3": "0.15561825", "4": "0.10318154", "5": "0.010240252", "6": "0.31085217"}}

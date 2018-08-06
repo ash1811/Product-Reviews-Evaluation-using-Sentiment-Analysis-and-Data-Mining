@@ -1,0 +1,1 @@
+{"text": "i'm a female with an average size american head and this hat fits me perfect, plus adjusts well.  The style is what i'd been looking for and I'd like to buy some more in the future", "sentiment": "negative", "topics": {"1": "0.46599922", "2": "0.068783954", "3": "0.28378078", "4": "0.08976913", "5": "0.07733132"}}

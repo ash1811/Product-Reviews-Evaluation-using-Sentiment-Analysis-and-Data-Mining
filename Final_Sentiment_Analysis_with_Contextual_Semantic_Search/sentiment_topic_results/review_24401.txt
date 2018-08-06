@@ -1,0 +1,1 @@
+{"text": "Bought several in various colors for stocking stuffers and they fit all the men that received them!  Everyone was happy!", "sentiment": "positive", "topics": {"0": "0.011088004", "1": "0.46693146", "2": "0.23594896", "3": "0.011038323", "4": "0.011014309", "5": "0.011056675", "6": "0.25292227"}}

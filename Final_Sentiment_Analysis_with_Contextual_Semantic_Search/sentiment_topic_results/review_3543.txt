@@ -1,0 +1,1 @@
+{"text": "I have worn Playtex most of my like (and that is a lot of years) and I find that they fit better then most.  They wash well and don't wear out fast.", "sentiment": "positive", "topics": {"1": "0.3919617", "2": "0.23883612", "3": "0.20605296", "6": "0.13448906"}}

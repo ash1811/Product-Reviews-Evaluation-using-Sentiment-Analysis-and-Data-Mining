@@ -1,0 +1,1 @@
+{"text": "These shorts would have been 5 stars if they had two front pockets! Otherwise, they are fabulous in fit and comfort.", "sentiment": "positive", "topics": {"0": "0.32303083", "1": "0.39602628", "2": "0.012001761", "3": "0.01192918", "4": "0.011920322", "5": "0.011921591", "6": "0.23317002"}}

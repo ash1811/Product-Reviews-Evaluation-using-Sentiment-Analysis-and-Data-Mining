@@ -1,0 +1,1 @@
+{"text": "Very nice looking shirt.  It fits good.  Very good quality.  I would recommend it to all the men in my family.", "sentiment": "negative", "topics": {"0": "0.0119564375", "1": "0.8336661", "2": "0.011927899", "3": "0.011928895", "4": "0.011916862", "5": "0.011945647", "6": "0.10665821"}}

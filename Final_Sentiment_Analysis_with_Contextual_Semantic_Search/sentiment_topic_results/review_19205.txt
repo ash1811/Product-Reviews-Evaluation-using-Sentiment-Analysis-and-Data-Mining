@@ -1,0 +1,1 @@
+{"text": "I got this wallet for my mom to go w/the purse I got her and she loves it.  Looks great and holds all her stuff.  TY so much.", "sentiment": "positive", "topics": {"0": "0.18402648", "2": "0.1029495", "3": "0.4481942", "5": "0.12887464", "6": "0.11802726"}}

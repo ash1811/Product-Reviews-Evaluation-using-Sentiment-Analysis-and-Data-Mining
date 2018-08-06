@@ -1,0 +1,1 @@
+{"text": "These boots are so comfortable I wear them almost every day, I combine everything. I am very happy with this purchase.", "sentiment": "negative", "topics": {"0": "0.013027554", "1": "0.22127095", "2": "0.21128254", "3": "0.012997252", "4": "0.15247545", "5": "0.37594762", "6": "0.012998622"}}

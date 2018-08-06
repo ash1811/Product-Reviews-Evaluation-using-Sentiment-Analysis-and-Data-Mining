@@ -1,0 +1,1 @@
+{"text": "These are socks. You wear them on your feet.  They fit well and last about six months.  If you wear shoes you probably should own a pair.  Plus, these are a good deal.  Just be prepared to replace them around six months.", "sentiment": "negative", "topics": {"1": "0.38160732", "2": "0.097184815", "3": "0.09441606", "4": "0.23549636", "5": "0.17765634"}}

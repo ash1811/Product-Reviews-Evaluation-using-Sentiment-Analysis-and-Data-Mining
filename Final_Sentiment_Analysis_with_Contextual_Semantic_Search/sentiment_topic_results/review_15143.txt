@@ -1,0 +1,1 @@
+{"text": "look nice feel comfortable but I like moresoft tennis shoes that dont mean less supportbut I think this ones are ok", "sentiment": "negative", "topics": {"1": "0.30514637", "2": "0.24056052", "5": "0.16495411", "6": "0.26250726"}}

@@ -1,0 +1,1 @@
+{"text": "This is my second &#34;exact&#34; Carhartt Jacket. First one lasted ten years of rough duty. I especialty like to fit...not too bulkie like you would expect for a warm jacket.", "sentiment": "negative", "topics": {"1": "0.2616566", "2": "0.24848263", "3": "0.17278726", "4": "0.16128509", "5": "0.14215295"}}

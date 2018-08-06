@@ -1,0 +1,1 @@
+{"text": "Always can count on Keen shoes for a perfect fit, great support!", "sentiment": "negative", "topics": {"0": "0.015897498", "1": "0.44225067", "2": "0.17005736", "3": "0.015957123", "4": "0.20462589", "5": "0.015896695", "6": "0.1353148"}}

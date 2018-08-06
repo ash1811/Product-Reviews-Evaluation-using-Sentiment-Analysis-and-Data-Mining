@@ -1,0 +1,1 @@
+{"text": "These pants (and the matching jackets) are exceptionally well-made - very comfortable and good looking to boot. And the people at Code Four really understand customer service.", "sentiment": "negative", "topics": {"0": "0.1846886", "1": "0.5278348", "2": "0.081726894", "4": "0.18189228"}}

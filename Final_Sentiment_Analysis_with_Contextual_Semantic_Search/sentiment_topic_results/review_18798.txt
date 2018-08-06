@@ -1,0 +1,1 @@
+{"text": "Bought these sunglasses for myself but had to give them to 6 year old boy - This is how small those sunglasses are.I think Ray-Ban RB3183 may work for guys with small faces, and by small I mean REALLY small.Quality wise those are as expected.", "sentiment": "negative", "topics": {"1": "0.6399291", "2": "0.1692419", "4": "0.116282225", "6": "0.05736516"}}

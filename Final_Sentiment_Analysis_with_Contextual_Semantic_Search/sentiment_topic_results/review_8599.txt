@@ -1,0 +1,1 @@
+{"text": "This sneaker runs very small and had I known that it wasn't leather like they used to be, I never would have ordered them.", "sentiment": "negative", "topics": {"0": "0.011046071", "1": "0.5014101", "2": "0.17011571", "3": "0.1758721", "4": "0.011010374", "5": "0.11952822", "6": "0.011017386"}}

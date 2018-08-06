@@ -1,0 +1,1 @@
+{"text": "I bought the Awol and bought 2 more different styles. Comfort not the same. The color is nice and pretty just not as comfortable", "sentiment": "negative", "topics": {"0": "0.1548614", "1": "0.5351426", "2": "0.01099231", "3": "0.010996308", "4": "0.01100842", "5": "0.26591104", "6": "0.011087966"}}

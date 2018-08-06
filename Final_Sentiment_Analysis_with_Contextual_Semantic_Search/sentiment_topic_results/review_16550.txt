@@ -1,0 +1,1 @@
+{"text": "this wallet came as expected. the color is beautiful it has all the space you need to put your cards, cash, pictures you name it. i am thinking on buying another color also.", "sentiment": "positive", "topics": {"1": "0.23529254", "2": "0.25001872", "4": "0.27777663", "6": "0.21424414"}}

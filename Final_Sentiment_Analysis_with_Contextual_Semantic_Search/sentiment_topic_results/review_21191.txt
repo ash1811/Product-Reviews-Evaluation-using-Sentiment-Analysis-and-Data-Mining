@@ -1,0 +1,1 @@
+{"text": "Love these.  They aren't the prettiest shoe in my closet but could be one of the most comfortable!  I love that you can wash them off & be ready to go again.  And they came in a size 5!!!  So hard to find.", "sentiment": "negative", "topics": {"0": "0.14419568", "1": "0.121910244", "2": "0.15437055", "3": "0.235153", "4": "0.32925636"}}

@@ -1,0 +1,1 @@
+{"text": "The shirt arrived before the expected date.  It is a very body conscious in fit, but comfortable.  Glad I purchased it.", "sentiment": "negative", "topics": {"0": "0.17931907", "1": "0.55866647", "2": "0.011917775", "3": "0.104301035", "4": "0.011936023", "5": "0.011930388", "6": "0.12192923"}}

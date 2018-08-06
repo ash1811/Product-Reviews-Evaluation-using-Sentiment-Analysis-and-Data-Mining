@@ -1,0 +1,1 @@
+{"text": "It is onen of my favorite casual boots. Goes ith everything and any weather. Sooo sexy and for me a must have. True to size because it stretches abit after a while.", "sentiment": "positive", "topics": {"1": "0.24998426", "2": "0.070862696", "3": "0.21040404", "4": "0.44484589"}}

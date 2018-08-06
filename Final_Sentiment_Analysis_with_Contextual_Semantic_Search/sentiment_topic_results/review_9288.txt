@@ -1,0 +1,1 @@
+{"text": "I purchase these slippers for my husband and he loves them.  They are very comfortable and easy to put on and take off.", "sentiment": "negative", "topics": {"0": "0.013028863", "1": "0.25800207", "2": "0.01304984", "3": "0.14494158", "4": "0.3697345", "5": "0.01301645", "6": "0.1882267"}}

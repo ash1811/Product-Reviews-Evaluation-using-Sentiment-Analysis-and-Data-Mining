@@ -1,0 +1,1 @@
+{"text": "Fits well, looks like pictured. Hasn't tarnished or changed color and Ive had it for a few years now. Pretty decent quality for the price.", "sentiment": "negative", "topics": {"0": "0.12844458", "1": "0.53744024", "3": "0.19222781", "6": "0.11504447"}}

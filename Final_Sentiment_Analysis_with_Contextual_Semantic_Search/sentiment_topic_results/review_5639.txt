@@ -1,0 +1,1 @@
+{"text": "admittedly, I bought a few raglan tee shirts as pajama tops to wear with sweats. The Bella was the nicest. Definitely the best feminine fit. Its flattering and soft. I ordered more because its so nice.", "sentiment": "negative", "topics": {"1": "0.30484557", "2": "0.17955922", "3": "0.21771821", "4": "0.15892008", "6": "0.1246325"}}

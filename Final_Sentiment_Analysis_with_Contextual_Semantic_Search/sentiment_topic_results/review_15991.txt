@@ -1,0 +1,1 @@
+{"text": "I purchased this to use as extra storage for our small bathroom.  It hangs on the back of the door and is used for my cosmetics.  The zippers are a bit stiff, but other than that, it seems fine for my needs.", "sentiment": "negative", "topics": {"1": "0.19129166", "2": "0.29566425", "3": "0.23777987", "4": "0.088834666", "5": "0.103743434", "6": "0.07514924"}}

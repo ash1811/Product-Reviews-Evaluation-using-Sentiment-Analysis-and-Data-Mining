@@ -1,0 +1,1 @@
+{"text": "These look much better in the pictures than they did when I received them. I bought them as a gift and was too embarrassed to give them. I sent them back and bought a better ( but more expensive) pair.", "sentiment": "positive", "topics": {"0": "0.17477709", "1": "0.46952063", "2": "0.11427123", "3": "0.21757239"}}

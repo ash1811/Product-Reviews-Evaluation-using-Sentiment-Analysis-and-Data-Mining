@@ -1,0 +1,1 @@
+{"text": "this trousers size too large!it doesn't fit!this trousers size too large!it doesn't fit!this trousers size too large!it doesn't fit!this trousers size too large!it doesn't fit", "sentiment": "negative", "topics": {"1": "0.0672206", "2": "0.40930513", "3": "0.24425869", "4": "0.2538914"}}

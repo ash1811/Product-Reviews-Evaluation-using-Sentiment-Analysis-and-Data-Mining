@@ -1,0 +1,1 @@
+{"text": "I really like these, and of course as i get them, the east coast is slammed with bad weather, but i love when i actually do wear them. However, i recommend some high and tight socks, the opening tends to pull my socks down.", "sentiment": "negative", "topics": {"0": "0.074513465", "1": "0.17867507", "2": "0.44429958", "4": "0.07707218", "5": "0.21439062"}}

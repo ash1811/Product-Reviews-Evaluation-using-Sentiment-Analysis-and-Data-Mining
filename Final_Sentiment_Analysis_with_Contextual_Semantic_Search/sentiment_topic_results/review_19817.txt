@@ -1,0 +1,1 @@
+{"text": "It's a watch, it's a stopwatch, it can light up. This is all I needed it to do, and it does it well. Worth the money!", "sentiment": "negative", "topics": {"0": "0.014401175", "1": "0.014389786", "2": "0.40045297", "3": "0.014322877", "4": "0.1581746", "5": "0.38390392", "6": "0.014354675"}}

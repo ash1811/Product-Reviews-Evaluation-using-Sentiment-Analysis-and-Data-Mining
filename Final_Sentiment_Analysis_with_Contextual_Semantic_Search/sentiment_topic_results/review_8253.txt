@@ -1,0 +1,1 @@
+{"text": "The fit around my legs and calves are plenty roomy. The waist is kind of loose though and the material is not thick, but these jeans are very comfortable.  I figure after one wash/dry cycle, it should be a bit more snug.", "sentiment": "negative", "topics": {"1": "0.45742175", "2": "0.17585103", "3": "0.26792362", "6": "0.07830417"}}

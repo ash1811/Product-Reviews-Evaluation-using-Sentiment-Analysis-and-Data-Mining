@@ -1,0 +1,1 @@
+{"text": "I bought these for my daughter and she absolutely loved them . They are very comfortable and help to support her ankles when she goes walking . great price was helpful in purchase . recommend this product .", "sentiment": "negative", "topics": {"1": "0.46557117", "2": "0.08225059", "3": "0.11181809", "5": "0.25633582", "6": "0.067146756"}}

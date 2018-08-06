@@ -1,0 +1,1 @@
+{"text": "The material is too thin and won't last and there is no pockets at all; not even a locker key pocket in the waist band.  They'll go to the rag bin within a couple of months.", "sentiment": "positive", "topics": {"0": "0.42654428", "1": "0.2845459", "4": "0.1687312", "5": "0.09754752"}}

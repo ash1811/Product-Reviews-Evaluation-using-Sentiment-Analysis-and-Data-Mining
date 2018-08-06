@@ -1,0 +1,1 @@
+{"text": "My Hubby has wanted this dark color for a long while.  These are well made and should last him for years.", "sentiment": "negative", "topics": {"0": "0.0130124", "1": "0.53665614", "2": "0.013035976", "3": "0.013023576", "4": "0.013065088", "5": "0.39821348", "6": "0.012993347"}}

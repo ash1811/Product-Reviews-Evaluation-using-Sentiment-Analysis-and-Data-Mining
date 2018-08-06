@@ -1,0 +1,1 @@
+{"text": "The fit was perfect on these tights and they are a true ballet pink.  The convertible foot allows a dancer to go seamlessly from classic to modern and offers flexibility without additional cost. Love these tights!", "sentiment": "negative", "topics": {"0": "0.13359044", "1": "0.26706517", "2": "0.15865973", "4": "0.19207484", "5": "0.14287135", "6": "0.09923407"}}

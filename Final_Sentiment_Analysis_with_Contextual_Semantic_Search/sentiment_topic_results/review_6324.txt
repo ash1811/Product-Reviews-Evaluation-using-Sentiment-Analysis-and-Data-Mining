@@ -1,0 +1,1 @@
+{"text": "These shirts do run big.  I ordered an XL at first and it is WAY big on me, so I ordered a few more in a Large and they are great.", "sentiment": "negative", "topics": {"0": "0.01101482", "1": "0.5764536", "2": "0.011005779", "3": "0.22194678", "4": "0.011027373", "5": "0.011028543", "6": "0.1575231"}}

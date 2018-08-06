@@ -1,0 +1,1 @@
+{"text": "What can I say?  It fits well, and provides good support, including side support.  The front closure makes it easy to put on.  I'd recommend this to anyone looking for a bra with good support, but without wires.", "sentiment": "negative", "topics": {"0": "0.12437114", "1": "0.32119682", "3": "0.25314108", "4": "0.1474203", "6": "0.1424158"}}

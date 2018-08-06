@@ -1,0 +1,1 @@
+{"text": "These seem sturdy and well-made, and they've held up so far.  I use them for running in the snow, which is pretty demanding.", "sentiment": "negative", "topics": {"0": "0.27838722", "1": "0.114939876", "2": "0.0119445855", "3": "0.0119318", "4": "0.27464113", "5": "0.29624155", "6": "0.0119138025"}}

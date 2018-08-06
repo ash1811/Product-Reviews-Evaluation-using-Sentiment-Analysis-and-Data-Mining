@@ -1,0 +1,1 @@
+{"text": "Love these pants. I have freedom of movement with this type. I like the tape pad it prevents wear for myself as I always carry one. Very durable. Have been buying these for over 6 years once I discovered them.", "sentiment": "positive", "topics": {"0": "0.1835775", "1": "0.21402237", "3": "0.14229271", "4": "0.19727707", "5": "0.24845517"}}

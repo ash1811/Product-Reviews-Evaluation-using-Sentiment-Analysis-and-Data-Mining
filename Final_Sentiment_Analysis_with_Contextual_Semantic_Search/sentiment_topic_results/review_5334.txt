@@ -1,0 +1,1 @@
+{"text": "I'm size 7.5-8 but bought a 8-9 (large) after reading the reviews - it's a perfect fit. Now I'm going to buy another pair for my mother.", "sentiment": "negative", "topics": {"1": "0.5849346", "3": "0.19848998", "5": "0.07462443", "6": "0.11669828"}}

@@ -1,0 +1,1 @@
+{"text": "the first version of the G shock, this item is a collection jewel, is a part of watch history! amazing price! thanks", "sentiment": "negative", "topics": {"0": "0.010257465", "1": "0.28205043", "2": "0.18589352", "3": "0.010219062", "4": "0.30052245", "5": "0.010257157", "6": "0.20079994"}}

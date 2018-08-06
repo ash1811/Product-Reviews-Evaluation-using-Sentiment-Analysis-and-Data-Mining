@@ -1,0 +1,1 @@
+{"text": "i really love this watch.  the color is hot and the slimness is really cool.  shipped quickly and packaged safely", "sentiment": "positive", "topics": {"0": "0.16839872", "1": "0.011056606", "2": "0.30679995", "3": "0.0110206", "4": "0.011044507", "5": "0.39815348", "6": "0.09352612"}}

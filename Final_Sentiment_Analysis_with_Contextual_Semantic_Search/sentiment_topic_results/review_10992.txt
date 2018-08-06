@@ -1,0 +1,1 @@
+{"text": "Reasonable price, very comfortable and extremely durable. I've had these for over a year and they are still like new. They get wet at least daily, and no problems, remain comfortable even after 10 straight hours of wear.", "sentiment": "negative", "topics": {"0": "0.15472075", "1": "0.4139282", "3": "0.24537055", "4": "0.060332295", "5": "0.11318885"}}

@@ -1,0 +1,1 @@
+{"text": "These seem to be oddly cut.  The upside is they can be washed in very hot water and dried and I'm not afraid of damaging or shrinking them.", "sentiment": "negative", "topics": {"0": "0.010279329", "1": "0.3745871", "2": "0.0955189", "3": "0.1428413", "4": "0.1133927", "5": "0.25316903", "6": "0.010211661"}}

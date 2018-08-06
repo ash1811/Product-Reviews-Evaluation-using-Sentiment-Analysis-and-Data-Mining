@@ -1,0 +1,1 @@
+{"text": "They fit great and are warm and comfortable. I recommend to all. They fit true to size to a little small but still fit good. Just snug in length.", "sentiment": "positive", "topics": {"1": "0.756907", "6": "0.20098552"}}

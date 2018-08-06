@@ -1,0 +1,1 @@
+{"text": "To buy this gorgeous watch! I love gold and silver combined. The colors are beautiful.This watch is very classy. I went to Macy's and had 3 links removed for free.", "sentiment": "negative", "topics": {"0": "0.20039387", "1": "0.32926658", "2": "0.12309636", "3": "0.23156776", "4": "0.09976667"}}

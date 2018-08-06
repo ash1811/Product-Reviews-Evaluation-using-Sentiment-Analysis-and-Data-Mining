@@ -1,0 +1,1 @@
+{"text": "This is a very functional and attractive watch. It keeps great time and has easy to read numbers. Just right size, not too big & not too small.", "sentiment": "negative", "topics": {"0": "0.15981118", "1": "0.17568253", "2": "0.16594897", "3": "0.33627227", "4": "0.010230494", "5": "0.010228686", "6": "0.14182588"}}

@@ -1,0 +1,1 @@
+{"text": "Seemed to be better made than some other costumes we've bought and it really did look adorable on her.  She really liked it!", "sentiment": "negative", "topics": {"0": "0.40026206", "1": "0.1799664", "2": "0.010226024", "3": "0.010253371", "4": "0.010240631", "5": "0.37883443", "6": "0.010217117"}}

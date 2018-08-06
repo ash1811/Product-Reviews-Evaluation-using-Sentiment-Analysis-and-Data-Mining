@@ -1,0 +1,1 @@
+{"text": "What can I say, it's a birkenstock.  They fit well, look good and this one was affordable.  Nice casual shoe.", "sentiment": "negative", "topics": {"0": "0.011938155", "1": "0.60670954", "2": "0.16129018", "3": "0.08031953", "4": "0.011921745", "5": "0.011920744", "6": "0.11590006"}}

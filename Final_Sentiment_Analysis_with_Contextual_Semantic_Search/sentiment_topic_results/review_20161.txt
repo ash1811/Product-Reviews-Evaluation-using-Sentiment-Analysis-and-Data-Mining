@@ -1,0 +1,1 @@
+{"text": "Needed a bag for trekking on a trip to California,I just loved this bag when I received it,it has so many compartments ,and the colour is very pretty too..", "sentiment": "negative", "topics": {"1": "0.3343141", "2": "0.1609961", "3": "0.09518448", "4": "0.06922863", "5": "0.32232928"}}

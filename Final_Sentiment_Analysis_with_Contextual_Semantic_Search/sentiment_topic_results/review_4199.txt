@@ -1,0 +1,1 @@
+{"text": "This is like a heavy-ish T shirt with a polo collar. Reasonably soft and seems well-made for the price. If you are used to $30 generously cut polos, it will run small after washing.", "sentiment": "positive", "topics": {"0": "0.11883635", "1": "0.26874292", "2": "0.06759543", "3": "0.08938125", "4": "0.24463764", "5": "0.11209268", "6": "0.09871369"}}

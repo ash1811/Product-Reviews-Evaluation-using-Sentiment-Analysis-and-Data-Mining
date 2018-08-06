@@ -1,0 +1,1 @@
+{"text": "They fit true to size, soft pliable material light and comfortable for weekends or running errands. Look great with jeans or casual slacks, could also work with dark color shorts.", "sentiment": "negative", "topics": {"0": "0.1276975", "1": "0.43722782", "4": "0.05737399", "5": "0.12717879", "6": "0.23807047"}}

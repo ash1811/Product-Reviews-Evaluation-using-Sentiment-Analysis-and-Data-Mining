@@ -1,0 +1,1 @@
+{"text": "I was very pleased with this shirt.  It was made of good quality material and the construction was perfect.  It fit nicely and served the purpose I purchased it for, so I was happy.", "sentiment": "positive", "topics": {"1": "0.7329458", "3": "0.14078411", "6": "0.090473674"}}

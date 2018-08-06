@@ -1,0 +1,1 @@
+{"text": "I was so happy to find a pair of 501's in my size after all these years. Fit was as I remembered.", "sentiment": "negative", "topics": {"0": "0.015898332", "1": "0.45054162", "2": "0.12934841", "3": "0.20391852", "4": "0.015950058", "5": "0.015902169", "6": "0.16844086"}}

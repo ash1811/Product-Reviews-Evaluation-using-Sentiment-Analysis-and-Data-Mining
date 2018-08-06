@@ -1,0 +1,1 @@
+{"text": "Covers very nicely and is comfortable.  Good fit.  Did not like it though.  Thought is was too frumpy and cups are pointed.", "sentiment": "positive", "topics": {"0": "0.011916923", "1": "0.39543393", "2": "0.011916912", "3": "0.011973612", "4": "0.33495748", "5": "0.0119210705", "6": "0.22188003"}}

@@ -1,0 +1,1 @@
+{"text": "The quality of the show was great and nice and durable.  However the thong material was very tough and the toe area was very narrow.", "sentiment": "negative", "topics": {"0": "0.010996484", "1": "0.6969423", "2": "0.16760008", "3": "0.09145636", "4": "0.01099175", "5": "0.011001807", "6": "0.011011226"}}

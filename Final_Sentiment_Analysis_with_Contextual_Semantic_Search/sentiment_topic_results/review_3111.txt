@@ -1,0 +1,1 @@
+{"text": "Wonderful bra with excellent fit.  Supports and lifts in comfort.  This is the only bra I wear.  Can not beat the price either.", "sentiment": "negative", "topics": {"0": "0.010997916", "1": "0.38573754", "2": "0.100822754", "3": "0.2595657", "4": "0.103207596", "5": "0.011020581", "6": "0.12864791"}}

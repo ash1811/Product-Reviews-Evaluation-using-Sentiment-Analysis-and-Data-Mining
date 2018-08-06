@@ -1,0 +1,1 @@
+{"text": "We live in the midwest and it gets very cold.  These are great boots for everyday wear as well as out in the snow.", "sentiment": "negative", "topics": {"0": "0.013011903", "1": "0.013032547", "2": "0.013022573", "3": "0.013030552", "4": "0.31001985", "5": "0.624841", "6": "0.013041559"}}

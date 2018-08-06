@@ -1,0 +1,1 @@
+{"text": "I ordered these for my husband for work.  They have a great fit and are heavy enough to sustain hard wear.", "sentiment": "negative", "topics": {"0": "0.14014934", "1": "0.40930673", "2": "0.0129960915", "3": "0.17553933", "4": "0.14752592", "5": "0.01302959", "6": "0.10145299"}}

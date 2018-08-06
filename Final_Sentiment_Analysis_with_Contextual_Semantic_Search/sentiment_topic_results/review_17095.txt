@@ -1,0 +1,1 @@
+{"text": "My daughter loves these. They are so easy to put on and convenient. And, her fav color is purple so that is a plus too!", "sentiment": "negative", "topics": {"0": "0.36782995", "1": "0.28413334", "2": "0.011012409", "3": "0.011030158", "4": "0.011068491", "5": "0.011038469", "6": "0.3038872"}}

@@ -1,0 +1,1 @@
+{"text": "these gloves are horrible, the fingers are extremely long only my 3 year old could fit his hands in them, but the fingers were cut longer than adult gloves, look elsewhere for this accessory", "sentiment": "positive", "topics": {"1": "0.41960645", "2": "0.20051445", "4": "0.14513482", "5": "0.15892303", "6": "0.062165726"}}

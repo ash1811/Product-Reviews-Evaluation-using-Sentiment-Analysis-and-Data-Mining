@@ -1,0 +1,1 @@
+{"text": "Wanted something compact that would hold all of my toiletries in one place without having to unpack them at my destination.  This holds everything compactly and easy to hang and use daily", "sentiment": "negative", "topics": {"0": "0.103105284", "1": "0.12075305", "2": "0.18122892", "3": "0.2797805", "4": "0.30001307"}}

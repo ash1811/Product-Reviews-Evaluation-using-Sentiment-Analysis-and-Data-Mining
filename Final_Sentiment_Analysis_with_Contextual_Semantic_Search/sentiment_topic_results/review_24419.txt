@@ -1,0 +1,1 @@
+{"text": "This product is small.  I haven't worn it much since it is too snug for my man head.  However the product is warm.  Unimpressed.", "sentiment": "negative", "topics": {"0": "0.011024896", "1": "0.17541218", "2": "0.011043947", "3": "0.011051049", "4": "0.011016999", "5": "0.39403856", "6": "0.38641235"}}

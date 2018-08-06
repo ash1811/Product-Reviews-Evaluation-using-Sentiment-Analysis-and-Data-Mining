@@ -1,0 +1,1 @@
+{"text": "The boots are adorable and good quality! But they have a slight heel making it difficult for my toddler to walk as normal.", "sentiment": "negative", "topics": {"0": "0.10438806", "1": "0.27671832", "2": "0.1139599", "3": "0.011999582", "4": "0.10267013", "5": "0.16094728", "6": "0.22931673"}}

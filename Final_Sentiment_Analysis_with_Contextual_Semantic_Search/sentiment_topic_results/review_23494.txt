@@ -1,0 +1,1 @@
+{"text": "I bought this  watch for my husband , it is beautiful all the way !! We have a lot of Invicta watches and each one of them works perfect  .", "sentiment": "negative", "topics": {"0": "0.011934025", "1": "0.011954152", "2": "0.41248512", "3": "0.011946334", "4": "0.36727276", "5": "0.17248553", "6": "0.011922104"}}

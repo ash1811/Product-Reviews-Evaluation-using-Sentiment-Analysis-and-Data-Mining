@@ -1,0 +1,1 @@
+{"text": "This purse is very cute and my 15 month old g-daughter loves it.  It's her favorite purse of the two she has.", "sentiment": "negative", "topics": {"0": "0.011049962", "1": "0.011037963", "2": "0.011024953", "3": "0.4191356", "4": "0.33629644", "5": "0.011049825", "6": "0.20040528"}}

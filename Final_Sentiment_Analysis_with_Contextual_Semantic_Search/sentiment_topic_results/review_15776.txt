@@ -1,0 +1,1 @@
+{"text": "I purchased this hat in the burnt orange color which is really nice (not at all like the hunter orange I was afraid it would be).  The quality is good and I would definitely purchase another.", "sentiment": "negative", "topics": {"0": "0.06974777", "1": "0.53910667", "2": "0.12409796", "3": "0.11994145", "4": "0.06944121", "6": "0.07084562"}}

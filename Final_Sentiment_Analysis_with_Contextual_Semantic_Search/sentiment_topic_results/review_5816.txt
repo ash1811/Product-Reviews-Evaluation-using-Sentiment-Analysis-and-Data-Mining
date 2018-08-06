@@ -1,0 +1,1 @@
+{"text": "This shirt is a high quality shirt, but it is too large for hubby. I got him an X-L but when it arrived it looked like it could fit two dinosaurs.", "sentiment": "negative", "topics": {"0": "0.09125749", "1": "0.34989986", "5": "0.14080898", "6": "0.39118373"}}

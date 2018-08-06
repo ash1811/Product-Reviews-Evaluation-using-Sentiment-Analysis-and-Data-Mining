@@ -1,0 +1,1 @@
+{"text": "I like the color.  I have a narrow foot but they fit okay.  Work well in wet grass and on the golf cart", "sentiment": "negative", "topics": {"0": "0.13136439", "1": "0.5271758", "2": "0.011003003", "3": "0.14703439", "4": "0.011116532", "5": "0.161272", "6": "0.011033889"}}

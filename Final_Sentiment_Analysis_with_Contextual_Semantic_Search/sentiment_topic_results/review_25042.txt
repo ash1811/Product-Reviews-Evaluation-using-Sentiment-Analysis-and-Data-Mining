@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband to try out. He likes them. He was wearing the Polo brand but they were on the shorter side. These are a couple inches longer and the material feels nice.", "sentiment": "negative", "topics": {"1": "0.45588386", "3": "0.25758258", "4": "0.101070434", "6": "0.16154028"}}

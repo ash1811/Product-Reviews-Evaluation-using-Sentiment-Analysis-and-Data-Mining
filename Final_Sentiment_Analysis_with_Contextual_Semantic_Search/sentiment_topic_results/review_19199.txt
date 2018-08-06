@@ -1,0 +1,1 @@
+{"text": "The leather feels nice, and this closes even when completely filled. My wife is able to carry all of her cards and check book. She was really happy with this purchase. For the price, this was an excellent purchase.", "sentiment": "positive", "topics": {"0": "0.44048896", "1": "0.0973555", "2": "0.23171954", "3": "0.037027955", "4": "0.1090443", "5": "0.07720157"}}

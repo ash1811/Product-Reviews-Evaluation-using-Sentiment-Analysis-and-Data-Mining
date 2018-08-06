@@ -1,0 +1,1 @@
+{"text": "I am small and almost gave up finding a bra that would fit well. This one is perfect and seems to be made with the &#34;small girls &#34; in mind !", "sentiment": "negative", "topics": {"0": "0.11463218", "1": "0.2256229", "2": "0.38098928", "3": "0.19623128", "6": "0.06567027"}}

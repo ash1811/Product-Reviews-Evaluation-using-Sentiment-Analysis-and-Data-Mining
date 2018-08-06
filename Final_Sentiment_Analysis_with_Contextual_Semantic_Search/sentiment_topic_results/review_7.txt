@@ -1,0 +1,1 @@
+{"text": "it's a good shirt with a comfortable feel.  Only problem was on my part, I may have ordered a size to big.  I would recommand to others.", "sentiment": "positive", "topics": {"0": "0.0102331415", "1": "0.54565567", "2": "0.010213852", "3": "0.40320203", "4": "0.010221546", "5": "0.010230906", "6": "0.010242877"}}

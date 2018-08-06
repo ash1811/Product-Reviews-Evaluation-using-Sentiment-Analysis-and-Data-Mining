@@ -1,0 +1,1 @@
+{"text": "I work in mostly Carhartt clothing because I am a welder/fabricator, and you can go through shirts pretty quick.  This is a good quality thick work shirt.", "sentiment": "positive", "topics": {"1": "0.867106", "4": "0.0851682"}}

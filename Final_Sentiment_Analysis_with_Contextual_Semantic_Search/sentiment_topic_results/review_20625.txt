@@ -1,0 +1,1 @@
+{"text": "I needed some dark brown leather boots to be black, and now they are.  Worked as I hoped it would", "sentiment": "negative", "topics": {"0": "0.013007287", "1": "0.167976", "2": "0.575649", "3": "0.013040203", "4": "0.20428486", "5": "0.013007999", "6": "0.013034675"}}

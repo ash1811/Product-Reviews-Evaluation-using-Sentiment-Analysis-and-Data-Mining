@@ -1,0 +1,1 @@
+{"text": "and theyre more purple than brownish-purple like i was expecting  with the color description. I love Ugg boots, but i like this short size better than the long size, theyre just less work to take off", "sentiment": "positive", "topics": {"0": "0.16340238", "1": "0.2528", "4": "0.25478613", "6": "0.30853313"}}

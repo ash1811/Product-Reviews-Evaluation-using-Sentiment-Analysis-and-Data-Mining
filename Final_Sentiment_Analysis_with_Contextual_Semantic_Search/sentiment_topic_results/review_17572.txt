@@ -1,0 +1,1 @@
+{"text": "It's small and cute! I'm not a pink fan but I love this watch. Casio's just last forever. I love love love it.", "sentiment": "positive", "topics": {"0": "0.27359015", "2": "0.09146844", "4": "0.4506028", "6": "0.15566856"}}

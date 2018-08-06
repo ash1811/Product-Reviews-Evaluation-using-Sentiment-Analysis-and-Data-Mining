@@ -1,0 +1,1 @@
+{"text": "I bought this bag 2 weeks ago and finally delivered to saudi arabia, the product made well with a good quality and nice size for 12 years old girl.5 out of 5 :)", "sentiment": "negative", "topics": {"0": "0.11193793", "1": "0.24283193", "2": "0.17901587", "3": "0.19089608", "4": "0.04454216", "5": "0.14360146", "6": "0.087174594"}}

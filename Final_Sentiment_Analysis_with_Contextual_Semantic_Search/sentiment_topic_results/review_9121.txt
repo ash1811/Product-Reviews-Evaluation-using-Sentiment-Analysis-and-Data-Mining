@@ -1,0 +1,1 @@
+{"text": "The slippers are very sturdy, they are almost shoe like, and very comfortable. Extremely soft inside. I would definitely recommend them.", "sentiment": "negative", "topics": {"0": "0.010223812", "1": "0.24960096", "2": "0.45844644", "3": "0.15642197", "4": "0.010210307", "5": "0.010219916", "6": "0.10487663"}}

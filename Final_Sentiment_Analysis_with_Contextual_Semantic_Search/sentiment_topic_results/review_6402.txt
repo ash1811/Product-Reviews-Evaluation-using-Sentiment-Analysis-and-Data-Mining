@@ -1,0 +1,1 @@
+{"text": "Very good quality.These fit very well, a size large doesn't shrink to a size medimum afer washing. Heavyweight and comfortable.", "sentiment": "negative", "topics": {"0": "0.35478368", "1": "0.3682235", "2": "0.010235438", "3": "0.2360654", "4": "0.010226826", "5": "0.010222515", "6": "0.010242644"}}

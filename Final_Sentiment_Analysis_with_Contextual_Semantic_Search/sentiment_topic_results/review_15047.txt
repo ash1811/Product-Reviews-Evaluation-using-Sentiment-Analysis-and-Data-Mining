@@ -1,0 +1,1 @@
+{"text": "Fits great, color iconic black is interesting, not really black.My husband wear it everyday. And it's for any occasion.", "sentiment": "negative", "topics": {"0": "0.011000855", "1": "0.33779287", "2": "0.011026679", "3": "0.10152701", "4": "0.16676103", "5": "0.36090067", "6": "0.0109909065"}}

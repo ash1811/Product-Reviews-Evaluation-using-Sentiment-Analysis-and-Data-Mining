@@ -1,0 +1,1 @@
+{"text": "They were expensoiv e. I hope they live up to the hype. My wife loves them, so we will have to see if they wear well.", "sentiment": "negative", "topics": {"0": "0.42523658", "1": "0.011955214", "2": "0.011952887", "3": "0.36140156", "4": "0.16549817", "5": "0.011954588", "6": "0.012000994"}}

@@ -1,0 +1,1 @@
+{"text": "OK, this is my new favorite bra!  It's soft and comfy like a t-shirt bra, but with underwire and a little push up.  Underwire doesn't pinch or cut at all. Perfect.  It gives a little oomph without you feeling like you're going to fall out if you bend over.", "sentiment": "positive", "topics": {"0": "0.06937891", "1": "0.3694573", "3": "0.27238998", "6": "0.2739205"}}

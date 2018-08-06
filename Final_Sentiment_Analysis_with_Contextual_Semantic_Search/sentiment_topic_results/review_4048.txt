@@ -1,0 +1,1 @@
+{"text": "These were the perfect solution for my wife as she hates to be barefoot and all the others we tried did not feel comfy until we got this and boy is she happy!! Highly recommend it!", "sentiment": "positive", "topics": {"1": "0.42263684", "3": "0.3085267", "5": "0.23295872"}}

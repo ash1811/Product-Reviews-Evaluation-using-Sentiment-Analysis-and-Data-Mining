@@ -1,0 +1,1 @@
+{"text": "Very nice color. Fit great. However the inseam was sewn too close to the edge and I had to sew a small tear at the seam. Nice fabric, no fading.", "sentiment": "negative", "topics": {"1": "0.37252018", "2": "0.20734921", "3": "0.09031745", "5": "0.30453038"}}

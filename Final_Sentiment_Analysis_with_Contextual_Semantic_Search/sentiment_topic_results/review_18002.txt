@@ -1,0 +1,1 @@
+{"text": "Well made, wider cut than adult version to fit blocky toddler feet and chubby ankles.  Completes that old school hip hop everyone wants for their kid.", "sentiment": "positive", "topics": {"0": "0.06819775", "1": "0.27490807", "2": "0.12793325", "3": "0.08025611", "4": "0.26943716", "5": "0.120353244", "6": "0.058914423"}}

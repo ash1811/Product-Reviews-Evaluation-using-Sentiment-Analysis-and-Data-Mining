@@ -1,0 +1,1 @@
+{"text": "Well,  let me tell you.  My butt looked so good in these jeans Victoria Secret Models were asking me to try on sexy men's clothing.  I recommend these jeans for everything.", "sentiment": "negative", "topics": {"2": "0.18256591", "3": "0.10879059", "4": "0.20109873", "5": "0.4076372", "6": "0.085560076"}}

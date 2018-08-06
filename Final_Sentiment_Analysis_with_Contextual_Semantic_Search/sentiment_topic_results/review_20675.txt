@@ -1,0 +1,1 @@
+{"text": "For my purposes. I bought this to tint it yellow (for a superman costume). Not only was this belt cheap, it also seems to be very good quality.", "sentiment": "negative", "topics": {"0": "0.2009196", "1": "0.23059735", "2": "0.010259011", "3": "0.13596064", "4": "0.17515291", "5": "0.010219894", "6": "0.23689057"}}

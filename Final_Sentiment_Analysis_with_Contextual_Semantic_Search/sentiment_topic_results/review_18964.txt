@@ -1,0 +1,1 @@
+{"text": "The fit was just off for my body type.  It fit ok at the waist, but way overly baggy in the seat and thigh.", "sentiment": "negative", "topics": {"0": "0.011955998", "1": "0.30029875", "2": "0.16631028", "3": "0.011926064", "4": "0.16449308", "5": "0.011957929", "6": "0.33305785"}}

@@ -1,0 +1,1 @@
+{"text": "I expected a decent pair of jeans when I ordered these and I was not disappointed. They feel like they will last and I will be buying more.", "sentiment": "negative", "topics": {"0": "0.011954524", "1": "0.011981218", "2": "0.0119455485", "3": "0.5108203", "4": "0.01195858", "5": "0.27455297", "6": "0.16678685"}}

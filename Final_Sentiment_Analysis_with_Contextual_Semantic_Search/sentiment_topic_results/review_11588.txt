@@ -1,0 +1,1 @@
+{"text": "She likes it therefore I like it. There is nothing more to say. It is all the womansl prerogative. No man can deny this.", "sentiment": "negative", "topics": {"0": "0.011943589", "1": "0.011915944", "2": "0.27176914", "3": "0.31614134", "4": "0.09248275", "5": "0.011926058", "6": "0.2838212"}}

@@ -1,0 +1,1 @@
+{"text": "Great hat and value. Shopped around for a replace flap hat and found this one . Very pleased with the quality and comfort. I would recommend this hat to my friends and family.", "sentiment": "negative", "topics": {"1": "0.21574658", "2": "0.1764149", "3": "0.23562758", "5": "0.34955096"}}

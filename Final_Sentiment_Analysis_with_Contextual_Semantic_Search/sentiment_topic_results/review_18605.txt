@@ -1,0 +1,1 @@
+{"text": "have been looking for a garter belt that fit, thank you. Plan to order more just to have a back up, put out more colors like red and white", "sentiment": "negative", "topics": {"1": "0.3020312", "2": "0.15458876", "5": "0.5074774"}}

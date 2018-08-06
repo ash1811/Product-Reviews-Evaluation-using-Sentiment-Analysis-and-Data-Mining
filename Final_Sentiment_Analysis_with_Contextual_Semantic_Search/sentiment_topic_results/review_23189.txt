@@ -1,0 +1,1 @@
+{"text": "These are nice ballerina slippers. Nice material, not too thin. I am a size 9 and this fits fine. Washes well.", "sentiment": "negative", "topics": {"0": "0.01099852", "1": "0.52010643", "2": "0.06880068", "3": "0.011011484", "4": "0.010997721", "5": "0.011010645", "6": "0.36707452"}}

@@ -1,0 +1,1 @@
+{"text": "I gave this to my 4 year old granddaughter who loved it!  I gave one to her mother years ago!  For any budding ballerina!", "sentiment": "negative", "topics": {"0": "0.18600178", "3": "0.3234369", "4": "0.2399655", "6": "0.22184691"}}

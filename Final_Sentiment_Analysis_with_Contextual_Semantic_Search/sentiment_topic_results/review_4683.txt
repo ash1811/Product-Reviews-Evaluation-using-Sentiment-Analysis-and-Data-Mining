@@ -1,0 +1,1 @@
+{"text": "My son and husband both wear this style.  The price on Amazon was competitive with the store prices.  Easier than going to the store if you know your size.", "sentiment": "negative", "topics": {"0": "0.093469694", "1": "0.36494857", "3": "0.23481959", "4": "0.2781281"}}

@@ -1,0 +1,1 @@
+{"text": "These are a little snug for the size 6 my daughter wears.  The crotch is a little low.  Very soft and durable though.  They wash well.", "sentiment": "negative", "topics": {"1": "0.6467152", "3": "0.21558069", "6": "0.09946467"}}

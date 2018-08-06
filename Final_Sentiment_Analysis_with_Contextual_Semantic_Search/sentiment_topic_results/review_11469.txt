@@ -1,0 +1,1 @@
+{"text": "This is well worth the money, had to have links taken out as it was too large now it fits great.", "sentiment": "negative", "topics": {"0": "0.13282253", "1": "0.4293941", "2": "0.01588244", "3": "0.015904695", "4": "0.01588801", "5": "0.37422788", "6": "0.015880352"}}

@@ -1,0 +1,1 @@
+{"text": "Very fancy and classy. It is very wel made. I love it. Is not that hot and you can use it everyday on the house. I will definately recommend it.", "sentiment": "negative", "topics": {"0": "0.3471428", "1": "0.2601495", "2": "0.010231494", "3": "0.15028337", "4": "0.21172799", "5": "0.0102351755", "6": "0.010229674"}}

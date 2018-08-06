@@ -1,0 +1,1 @@
+{"text": "My neighbor had a pair and she said tehy were so comfortable. and since i have arch issues I thought I would give them a try. They are very comfortable! Love them!", "sentiment": "positive", "topics": {"1": "0.1960575", "2": "0.09744602", "3": "0.5289046", "5": "0.081474006", "6": "0.07821906"}}

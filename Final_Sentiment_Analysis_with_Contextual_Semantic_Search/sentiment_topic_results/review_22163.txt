@@ -1,0 +1,1 @@
+{"text": "This is really a nice watch case. It will hold eight watches and is fairly well built. Impressed when I received it.", "sentiment": "negative", "topics": {"0": "0.010283369", "1": "0.29017997", "2": "0.3026239", "3": "0.28779683", "4": "0.088666596", "5": "0.010244005", "6": "0.0102053275"}}

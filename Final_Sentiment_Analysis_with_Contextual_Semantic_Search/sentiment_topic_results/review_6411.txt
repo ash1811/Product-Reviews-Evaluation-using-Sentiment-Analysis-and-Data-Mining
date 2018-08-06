@@ -1,0 +1,1 @@
+{"text": "These are so thick you may need to go up a size in your running shoes! But they are VERY comfortable.", "sentiment": "negative", "topics": {"0": "0.015890572", "1": "0.24091527", "2": "0.13875729", "3": "0.015937306", "4": "0.015890414", "5": "0.29137626", "6": "0.28123283"}}

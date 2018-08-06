@@ -1,0 +1,1 @@
+{"text": "Comfortable, basic and just what I needed. Completely lacks annoying frills,lace and other irritating materials. Cool, breathable cotton. Wears and washeswell. Highly recommended!", "sentiment": "positive", "topics": {"0": "0.1582034", "1": "0.20743781", "2": "0.0972699", "6": "0.51172876"}}

@@ -1,0 +1,1 @@
+{"text": "didnt like it as much as the liquid cleaner scrub scrub scrub and still didnt look to hot", "sentiment": "negative", "topics": {"0": "0.011022581", "1": "0.011046637", "2": "0.31705362", "3": "0.62784475", "4": "0.011001069", "5": "0.011015869", "6": "0.011015433"}}

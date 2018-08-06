@@ -1,0 +1,1 @@
+{"text": "These socks are wonderful.  They are so soft.  They don't bind at all although I usually wear them slouched.  I plan on getting a few more.", "sentiment": "negative", "topics": {"0": "0.011930351", "1": "0.32606876", "2": "0.18561865", "3": "0.011937517", "4": "0.011922316", "5": "0.44058597", "6": "0.011936442"}}

@@ -1,0 +1,1 @@
+{"text": "After reading many reviews, I took the sizing advice and am very happy with the fit.No more knee pain after using these instead of regular gym shoes!I have poor arches and these seem to do the trick for support!", "sentiment": "negative", "topics": {"0": "0.15435924", "1": "0.31639403", "2": "0.098136924", "3": "0.29294097", "4": "0.1245232"}}

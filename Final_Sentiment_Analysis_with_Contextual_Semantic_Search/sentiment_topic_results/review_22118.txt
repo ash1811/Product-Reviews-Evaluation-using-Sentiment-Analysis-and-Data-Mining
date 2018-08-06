@@ -1,0 +1,1 @@
+{"text": "Well made, warm and just what the doctor ordered for my mother.  Price was much better than the local stores and they were shipped in record time.", "sentiment": "positive", "topics": {"0": "0.119333915", "1": "0.5591172", "5": "0.10661421", "6": "0.18628211"}}

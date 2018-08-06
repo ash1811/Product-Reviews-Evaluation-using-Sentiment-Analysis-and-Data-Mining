@@ -1,0 +1,1 @@
+{"text": "Very cute costume.  My daughter loved it.  Only downside was the mask left a little mark on her face (which is why I gave it 4 stars).  However, if you don't use the mask then the costume itself would be a 5.", "sentiment": "negative", "topics": {"0": "0.36895144", "2": "0.38333282", "3": "0.118130304", "6": "0.11000814"}}

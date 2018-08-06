@@ -1,0 +1,1 @@
+{"text": "This is a high quality piece of jewelry for the price.  The chain is well made and it is very light to wear.  I purchased the Sterling Silver Filigree Teardrop Earrings to go with it. - Beautiful. - F. Parker", "sentiment": "positive", "topics": {"0": "0.20867366", "1": "0.42985317", "3": "0.07367144", "4": "0.06513422", "5": "0.11065237", "6": "0.105510265"}}

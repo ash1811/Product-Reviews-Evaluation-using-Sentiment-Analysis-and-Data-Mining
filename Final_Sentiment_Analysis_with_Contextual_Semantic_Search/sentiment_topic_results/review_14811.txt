@@ -1,0 +1,1 @@
+{"text": "I used a cap of this in my black hills gold model 890 ultrasonic cleaner.  I ran the machine for 3 minutes per the instructions.  The machine and cleaner removed the irritant under my channel ring.  Happy!", "sentiment": "negative", "topics": {"0": "0.25290725", "1": "0.19022359", "2": "0.22473902", "4": "0.10537873", "5": "0.05852681", "6": "0.16197158"}}

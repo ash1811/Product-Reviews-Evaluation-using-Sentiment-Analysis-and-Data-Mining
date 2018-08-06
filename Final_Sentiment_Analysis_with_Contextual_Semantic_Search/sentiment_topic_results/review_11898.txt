@@ -1,0 +1,1 @@
+{"text": "The styling is very nice. I bought this for my mother because she kept saying how much she wanted one after she saw the Hermione wand I purchased for my daughter. It's a fun, whimsical gift that looks nice on display.", "sentiment": "negative", "topics": {"0": "0.16488281", "1": "0.49825972", "3": "0.14748666", "5": "0.09087176", "6": "0.084826276"}}

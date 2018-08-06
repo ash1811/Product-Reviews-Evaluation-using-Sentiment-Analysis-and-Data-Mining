@@ -1,0 +1,1 @@
+{"text": "These socks have the perfect amount of padding to protect the foot while walking. They fit perfectly and last well. I think they are the best socks made and highly recommend them.", "sentiment": "negative", "topics": {"1": "0.39287737", "3": "0.07003405", "4": "0.14519486", "5": "0.36927205"}}

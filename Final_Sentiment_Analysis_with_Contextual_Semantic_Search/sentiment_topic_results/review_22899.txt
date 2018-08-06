@@ -1,0 +1,1 @@
+{"text": "I needed some workout shorts but didn't want to spend more than $20.  This was half the price, has pockets, are super soft and comfy.  Perfect.", "sentiment": "negative", "topics": {"0": "0.13050267", "1": "0.4853727", "2": "0.3430081", "3": "0.010318332", "4": "0.010225356", "5": "0.010334289", "6": "0.01023855"}}

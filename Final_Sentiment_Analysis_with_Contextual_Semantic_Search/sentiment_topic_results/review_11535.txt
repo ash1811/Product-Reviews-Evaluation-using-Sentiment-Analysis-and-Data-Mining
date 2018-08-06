@@ -1,0 +1,1 @@
+{"text": "I Love these handkerchieves they are wonderful..... They fit right in your pocket and are ready for when you need them. Well made and fit easily in your pocket for even the snottiest events :)", "sentiment": "negative", "topics": {"1": "0.5287885", "3": "0.31612533", "6": "0.12324104"}}

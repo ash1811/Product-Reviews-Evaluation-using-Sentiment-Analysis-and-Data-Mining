@@ -1,0 +1,1 @@
+{"text": "Comfortably light weight, yet warm enough for chilly days.  The pocket allows for note cards and a pen.  I use it when driving a student van.  Easily layered with a T-shirt or a vest.", "sentiment": "negative", "topics": {"0": "0.09701445", "1": "0.366627", "2": "0.15706867", "3": "0.09391646", "4": "0.08013123", "5": "0.124233216", "6": "0.08100901"}}

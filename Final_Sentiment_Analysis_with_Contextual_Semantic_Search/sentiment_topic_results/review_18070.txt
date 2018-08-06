@@ -1,0 +1,1 @@
+{"text": "nice piece. it is very slender and works for casual and work wear. I would recommend as a day to day watch.", "sentiment": "negative", "topics": {"0": "0.011034004", "1": "0.44651684", "2": "0.1326092", "3": "0.011040215", "4": "0.011002926", "5": "0.011052344", "6": "0.37674445"}}

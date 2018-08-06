@@ -1,0 +1,1 @@
+{"text": "Warm, cozy, affordable.  As another reviewer said they seem to need to be broken in a little bit first, but I can tell these are going to make this Wisconsin winter a little easier.", "sentiment": "negative", "topics": {"0": "0.10790362", "1": "0.38434198", "2": "0.12865339", "3": "0.24870794", "6": "0.116034165"}}

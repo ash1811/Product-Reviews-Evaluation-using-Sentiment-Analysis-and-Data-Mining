@@ -1,0 +1,1 @@
+{"text": "Buy a better one this is plastic and pot metal I broke it after 2 uses.", "sentiment": "negative", "topics": {"0": "0.5404156", "1": "0.14234051", "2": "0.014357316", "3": "0.014303224", "4": "0.25997028", "5": "0.014296137", "6": "0.014316915"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these as I like the Rockport line of shoes. They are comfortable and go with a lot of my casual trousers. They are also okay where you dress up, like a wedding, but still good to go dancing in later on.", "sentiment": "negative", "topics": {"1": "0.42014885", "2": "0.117905505", "3": "0.10513113", "4": "0.19252035", "5": "0.15180857"}}

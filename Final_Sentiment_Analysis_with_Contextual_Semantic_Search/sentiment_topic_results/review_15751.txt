@@ -1,0 +1,1 @@
+{"text": "Super comfy, durable and love the adjustable upper.  The soles are thick and solid which is unusal for a slipper.  Guess that's why they're not cheap.", "sentiment": "negative", "topics": {"1": "0.23550192", "2": "0.21242502", "3": "0.118665434", "4": "0.26697177", "6": "0.14854558"}}

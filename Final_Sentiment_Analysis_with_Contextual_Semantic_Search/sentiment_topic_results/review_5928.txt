@@ -1,0 +1,1 @@
+{"text": "I have bought these in the past and loved them, then couldn't find them for a long time.  Now that I have found them again these will be all I will buy.", "sentiment": "positive", "topics": {"0": "0.01433477", "1": "0.6041312", "2": "0.014322223", "3": "0.32423434", "4": "0.014347767", "5": "0.014340239", "6": "0.014289481"}}

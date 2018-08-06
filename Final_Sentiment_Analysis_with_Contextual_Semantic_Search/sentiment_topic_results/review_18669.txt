@@ -1,0 +1,1 @@
+{"text": "I love timex watches.  The last one I bought lasted about 15 years. It still works but I thought it was time for a new one.  I am female but bought the mens watch because the face it bigger.  I am truly happy with this purchase.", "sentiment": "negative", "topics": {"0": "0.0651231", "1": "0.2069658", "2": "0.20469102", "3": "0.27171066", "4": "0.24005896"}}

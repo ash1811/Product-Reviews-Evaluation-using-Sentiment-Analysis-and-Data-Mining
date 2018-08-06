@@ -1,0 +1,1 @@
+{"text": "I needed this tie to complete my husbands great gatsby look for our New Year's eve party. It worked perfectly with the white suspenders we bought.", "sentiment": "positive", "topics": {"0": "0.16659442", "1": "0.17571962", "3": "0.29966325", "4": "0.07278701", "5": "0.17881581", "6": "0.09799099"}}

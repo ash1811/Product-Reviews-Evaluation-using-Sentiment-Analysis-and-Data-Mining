@@ -1,0 +1,1 @@
+{"text": "These shirts have a nice substantial feel.  The color is great.  Hubby just loves it and really likes the 'tagless' feature.  No shrinkage on laundering.", "sentiment": "negative", "topics": {"0": "0.21907397", "1": "0.21263753", "4": "0.25218987", "5": "0.19935513", "6": "0.097659916"}}

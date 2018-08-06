@@ -1,0 +1,1 @@
+{"text": "Was a little larger than expected but is VERY comfortable!  Cups were larger than normal, suprising because 48DDD is usually spot-on.  Durable.", "sentiment": "negative", "topics": {"0": "0.13708907", "1": "0.42939052", "2": "0.14991279", "3": "0.011006553", "4": "0.12116679", "5": "0.011039389", "6": "0.14039488"}}

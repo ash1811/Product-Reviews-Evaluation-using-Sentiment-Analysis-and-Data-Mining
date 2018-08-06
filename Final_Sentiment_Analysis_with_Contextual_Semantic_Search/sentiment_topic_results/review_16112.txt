@@ -1,0 +1,1 @@
+{"text": "I have very swollen feet due to a heart condition. I thought these would be wide enough, but sometimes they're a little tight. I'm hoping they'll stretch. Otherwise, they are fine. Color is great.", "sentiment": "positive", "topics": {"0": "0.056457937", "1": "0.21893963", "2": "0.19529733", "4": "0.08718342", "5": "0.31132966", "6": "0.12427163"}}

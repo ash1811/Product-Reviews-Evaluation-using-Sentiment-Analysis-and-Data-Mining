@@ -1,0 +1,1 @@
+{"text": "fit to size,  however the length was very short compared to other size 3s that i have.good quality though. shipped and delivered very fast.", "sentiment": "negative", "topics": {"0": "0.15799159", "1": "0.30765706", "2": "0.11091305", "3": "0.22143023", "4": "0.11157187", "5": "0.08085605"}}

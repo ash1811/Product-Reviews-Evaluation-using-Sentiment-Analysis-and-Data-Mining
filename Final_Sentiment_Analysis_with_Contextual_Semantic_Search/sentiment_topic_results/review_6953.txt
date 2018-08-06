@@ -1,0 +1,1 @@
+{"text": "This thermal top is well made and, as the name suggest, made from thicker material than traditional thermal underwear.  Overall, it is a solid bargain for the quality and heft.", "sentiment": "negative", "topics": {"0": "0.12408194", "1": "0.23284872", "2": "0.110537365", "3": "0.17740397", "4": "0.19996822", "5": "0.14759505"}}

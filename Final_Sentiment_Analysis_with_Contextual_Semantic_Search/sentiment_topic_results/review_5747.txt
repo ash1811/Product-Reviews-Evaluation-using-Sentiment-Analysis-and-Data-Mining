@@ -1,0 +1,1 @@
+{"text": "has them in every color. they get a work out and wash up nicely & last a long time. good quality & a handsome look for almost any body type", "sentiment": "positive", "topics": {"1": "0.41685188", "2": "0.14594099", "5": "0.40343225"}}

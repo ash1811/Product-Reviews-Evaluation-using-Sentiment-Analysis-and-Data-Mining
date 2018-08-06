@@ -1,0 +1,1 @@
+{"text": "Bought these for Christmas for my 78 year old aunt. She has been wearing this style slipper for many years and absolutely loved them!", "sentiment": "negative", "topics": {"1": "0.35635737", "2": "0.28283614", "4": "0.13514468", "6": "0.19696598"}}

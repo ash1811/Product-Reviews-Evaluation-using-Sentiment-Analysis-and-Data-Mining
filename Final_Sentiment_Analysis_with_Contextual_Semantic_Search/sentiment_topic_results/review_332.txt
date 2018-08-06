@@ -1,0 +1,1 @@
+{"text": "Molds to the body, ordered a 4 XL, too tight a fit.  Shows every bulge.  Will not order again. .", "sentiment": "negative", "topics": {"0": "0.097262494", "1": "0.37636822", "2": "0.09760376", "3": "0.010996387", "4": "0.011045074", "5": "0.22597502", "6": "0.18074901"}}

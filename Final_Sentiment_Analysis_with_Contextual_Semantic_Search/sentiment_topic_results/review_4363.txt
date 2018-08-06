@@ -1,0 +1,1 @@
+{"text": "I dress business casual for work every day, and these pants hold up well to regular use. They fit well, look good, and are sturdy. I'll wear them multiple times before washing and never have any issues.", "sentiment": "positive", "topics": {"0": "0.10471346", "1": "0.44478533", "3": "0.2643024", "5": "0.16827863"}}

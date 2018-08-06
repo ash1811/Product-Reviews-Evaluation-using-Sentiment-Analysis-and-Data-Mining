@@ -1,0 +1,1 @@
+{"text": "Comfortable and they do not seem to wear out as fast as some of the other socks I have bought.  These are definitely a great sock investment!!", "sentiment": "positive", "topics": {"0": "0.013026745", "1": "0.18226625", "2": "0.23349427", "3": "0.11602843", "4": "0.013007412", "5": "0.42917594", "6": "0.0130009195"}}

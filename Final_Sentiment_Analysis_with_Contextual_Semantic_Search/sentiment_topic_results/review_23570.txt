@@ -1,0 +1,1 @@
+{"text": "Like I said I now know that I hate back seams it was just such a pain getting them in place and making them stay there but the thigh high them selves where really nice.", "sentiment": "negative", "topics": {"1": "0.30690047", "2": "0.17416432", "3": "0.21742378", "6": "0.27615026"}}

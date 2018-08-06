@@ -1,0 +1,1 @@
+{"text": "This was my first turquoise bracelet,and worked quite well for me until I got one that is a little flashier.  If you are wanting simplicity for your look this is perfect... just depends on what look you are putting together.", "sentiment": "negative", "topics": {"0": "0.27865502", "2": "0.14881119", "3": "0.34238076", "4": "0.0855058", "6": "0.12953216"}}

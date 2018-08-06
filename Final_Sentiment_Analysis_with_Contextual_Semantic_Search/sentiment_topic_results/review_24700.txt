@@ -1,0 +1,1 @@
+{"text": "We love our Reefs.  This is probably my fourth pair.  I live in flipflops 75% of the year in TX.  So, Reefs are the best quality for the money.  They last for years and are the most comfortable sandals ever. Now I need a pair in brown!", "sentiment": "negative", "topics": {"1": "0.56655574", "2": "0.14360903", "5": "0.21059695", "6": "0.061289307"}}

@@ -1,0 +1,1 @@
+{"text": "This bra fits amazing. It's really soft, cute looking, and supports well. The only issue is that it fits me a little big, but it's my own fault for getting the wrong size.", "sentiment": "negative", "topics": {"1": "0.52150935", "2": "0.068894", "3": "0.24926025", "4": "0.0680371", "5": "0.076403916"}}

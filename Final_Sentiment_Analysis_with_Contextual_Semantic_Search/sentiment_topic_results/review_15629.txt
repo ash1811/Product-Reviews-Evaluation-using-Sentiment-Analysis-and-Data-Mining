@@ -1,0 +1,1 @@
+{"text": "it was SO adorable on my daughter but it was very small. in fact though it fit her just fine the skirt was WAY too short to look appropriate for a child. She only tried it on and never wore it again.", "sentiment": "positive", "topics": {"0": "0.093916945", "1": "0.15954186", "2": "0.05314171", "3": "0.4515953", "4": "0.1993118", "5": "0.03453918"}}

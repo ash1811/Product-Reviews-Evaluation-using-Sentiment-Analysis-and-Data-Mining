@@ -1,0 +1,1 @@
+{"text": "These body suits are excellent.  They were a great fit and soft and thick, but stretchy.  The problem with some other brands is that they are either too thin or the fabric doesn't give. These were perfect. I'm glad I found them.", "sentiment": "positive", "topics": {"1": "0.47808108", "2": "0.16166711", "3": "0.18800119", "5": "0.10153259", "6": "0.056390874"}}

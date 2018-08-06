@@ -1,0 +1,1 @@
+{"text": "This tends to be too big for my head, but if you have big hair it may fit better. I do know it can shrink if you put it in the dryer so maybe wash and dry it to make it fit better.It does do a great job to protect from the sun", "sentiment": "positive", "topics": {"1": "0.6052608", "2": "0.052706916", "3": "0.1408436", "4": "0.110317335", "6": "0.07841793"}}

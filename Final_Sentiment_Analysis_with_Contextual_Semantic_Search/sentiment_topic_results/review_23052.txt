@@ -1,0 +1,1 @@
+{"text": "Measured my head and ordered a size up as other reviewers had advised. Good quality and execellent value. Digital Camo matches military bdu.", "sentiment": "negative", "topics": {"0": "0.24510296", "1": "0.1624269", "2": "0.13496129", "3": "0.14136425", "4": "0.14032413", "6": "0.1668438"}}

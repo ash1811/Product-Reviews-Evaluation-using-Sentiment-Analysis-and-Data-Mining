@@ -1,0 +1,1 @@
+{"text": "I had to get insoles but I love the side zip.  Comfortable and easy to put on.  Lightweight.  Woman's work boots are hard to find.", "sentiment": "negative", "topics": {"0": "0.10851845", "1": "0.21509817", "3": "0.12393707", "4": "0.34717566", "6": "0.18737265"}}

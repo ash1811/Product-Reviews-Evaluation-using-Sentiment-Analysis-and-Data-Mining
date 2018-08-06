@@ -1,0 +1,1 @@
+{"text": "I ordered 7s too small, ordered 7.5. quick exchange, perfect packing, been wearing them to work, I walk about 11 miles a day and needed a very very sturdy shoe, these sketchers work are awesome, I  highly recommend them.", "sentiment": "negative", "topics": {"0": "0.080098", "1": "0.58954674", "2": "0.11391521", "4": "0.13960691", "5": "0.06536144"}}

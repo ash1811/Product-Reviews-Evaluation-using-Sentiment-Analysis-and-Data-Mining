@@ -1,0 +1,1 @@
+{"text": "This watch was only $9 but it literally started fraying after one weeks wear and the battery we thought went out. After buying a new battery, it was indeed the watch. It's too bad, maybe we got a bad one.", "sentiment": "negative", "topics": {"0": "0.08844614", "1": "0.2549518", "2": "0.23828351", "3": "0.13074738", "5": "0.12031796", "6": "0.16102992"}}

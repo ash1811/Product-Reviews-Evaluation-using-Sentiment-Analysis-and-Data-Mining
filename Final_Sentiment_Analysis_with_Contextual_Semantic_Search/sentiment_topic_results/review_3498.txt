@@ -1,0 +1,1 @@
+{"text": "i am older and need lift badly...have tried many brasbut always the pull on shoulders.this bra fit and i wore all day in comfort..need more.", "sentiment": "positive", "topics": {"0": "0.08581668", "1": "0.23388845", "2": "0.16820432", "3": "0.087059766", "4": "0.20044646", "6": "0.21613635"}}

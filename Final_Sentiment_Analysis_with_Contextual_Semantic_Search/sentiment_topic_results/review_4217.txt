@@ -1,0 +1,1 @@
+{"text": "I like it. This was a gift. This was excelent. this t-shirt like it. They arrived on time and has the quality and desing that amazons offers.", "sentiment": "negative", "topics": {"0": "0.54378533", "1": "0.15829925", "2": "0.010226734", "3": "0.088168465", "4": "0.056109224", "5": "0.083738245", "6": "0.05967276"}}

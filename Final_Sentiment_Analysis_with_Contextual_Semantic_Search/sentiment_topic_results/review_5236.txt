@@ -1,0 +1,1 @@
+{"text": "Got the canvas pant as well and Grandson was so pleased.  These are a little stiffer, but quality is unmistakable!  He will be wearing these forever!", "sentiment": "positive", "topics": {"0": "0.11572989", "1": "0.49318936", "2": "0.11370897", "3": "0.011038387", "4": "0.24422225", "5": "0.011020209", "6": "0.011090918"}}

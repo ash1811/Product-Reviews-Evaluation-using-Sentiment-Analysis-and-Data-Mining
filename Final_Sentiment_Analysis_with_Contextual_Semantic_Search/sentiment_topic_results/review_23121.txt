@@ -1,0 +1,1 @@
+{"text": "I have always been a fan of Playtex, the white front hooked bra is great for people with arthritus in the shoulders. No pain putting it on. It fits well. The price is much better than in the store.", "sentiment": "negative", "topics": {"0": "0.29418012", "1": "0.29638305", "3": "0.16121113", "5": "0.17084858", "6": "0.063707426"}}

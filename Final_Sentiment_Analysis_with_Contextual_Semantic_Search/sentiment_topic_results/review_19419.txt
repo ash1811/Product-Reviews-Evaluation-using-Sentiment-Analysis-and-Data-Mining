@@ -1,0 +1,1 @@
+{"text": "A nice, plain shirt for  daily wear but the color is not much different than e plum one I got", "sentiment": "negative", "topics": {"0": "0.2716169", "1": "0.48626855", "2": "0.011063831", "3": "0.011012135", "4": "0.011030565", "5": "0.011016842", "6": "0.19799118"}}

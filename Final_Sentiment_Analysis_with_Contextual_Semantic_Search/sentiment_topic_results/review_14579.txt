@@ -1,0 +1,1 @@
+{"text": "Can't be beaten for the price. Makes seeing into windows, water and stuff that reflects so much easier. Frame isn't as flimsy as I was fearing and while they aren't exactly stylish I was also fearing they would look worse.", "sentiment": "positive", "topics": {"0": "0.18448049", "2": "0.3394346", "3": "0.20911568", "4": "0.1027915", "6": "0.15107748"}}

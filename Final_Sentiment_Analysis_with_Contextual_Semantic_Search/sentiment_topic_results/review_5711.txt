@@ -1,0 +1,1 @@
+{"text": "I like sweatpants with pockets and ordered some that came without. Always before all the sweatpants I bought had pocket, but you have to make sure it says pocketed to get pockets. I love these!!!", "sentiment": "negative", "topics": {"0": "0.39163157", "1": "0.3822756", "2": "0.09229154", "6": "0.1111132"}}

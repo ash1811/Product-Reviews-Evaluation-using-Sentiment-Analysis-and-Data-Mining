@@ -1,0 +1,1 @@
+{"text": "VERY well made.  It is a beautiful coat and my husband just loves it.  It is heavy and warm but it does run quite large.  My husband is an extra large in everything, but the XLarge drowned him.", "sentiment": "negative", "topics": {"0": "0.08561811", "1": "0.32109946", "2": "0.08461762", "3": "0.22205599", "4": "0.18929927", "6": "0.09013689"}}

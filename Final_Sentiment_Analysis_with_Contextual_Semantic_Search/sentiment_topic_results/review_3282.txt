@@ -1,0 +1,1 @@
+{"text": "Levis never disappoints... for the quality of the denim, the fit and comfort I can't seem to find anywhere else.", "sentiment": "negative", "topics": {"0": "0.011009882", "1": "0.5308119", "2": "0.09822654", "3": "0.14240271", "4": "0.011071229", "5": "0.011020354", "6": "0.19545732"}}

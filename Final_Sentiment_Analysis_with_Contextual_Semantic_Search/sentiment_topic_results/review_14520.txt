@@ -1,0 +1,1 @@
+{"text": "lenses are big and arms are not long enough; So, glasses fit very tight around the ears. sure wish they had one size fits all. those wrap around the ear arms are the worst", "sentiment": "negative", "topics": {"0": "0.08014242", "1": "0.40802544", "2": "0.25745514", "6": "0.23566698"}}

@@ -1,0 +1,1 @@
+{"text": "It was more than i expect, fit me perfectly as I am size 8 US. I found it very cute and sexy too.", "sentiment": "negative", "topics": {"0": "0.013043776", "1": "0.3140559", "2": "0.15900229", "3": "0.2089236", "4": "0.013026765", "5": "0.27892378", "6": "0.013023925"}}

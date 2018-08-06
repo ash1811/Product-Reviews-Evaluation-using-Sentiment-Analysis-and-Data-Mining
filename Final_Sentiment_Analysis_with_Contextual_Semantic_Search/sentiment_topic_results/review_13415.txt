@@ -1,0 +1,1 @@
+{"text": "I have over 40 pairs of shoes, but these are the most comfortable.  Are they pretty or trendy?  Not at all, but they are incredibly comfortable for shopping, market, and traveling.  They fit perfectly.", "sentiment": "negative", "topics": {"0": "0.09519101", "1": "0.39467946", "2": "0.313585", "4": "0.08955245", "5": "0.08789309"}}

@@ -1,0 +1,1 @@
+{"text": "Having only one grandda!ughter, she was the belle of Camp Memaw and Grandaddy a la Star Wars in her perfect garb", "sentiment": "positive", "topics": {"0": "0.08700679", "1": "0.4599556", "2": "0.09724875", "3": "0.096532896", "4": "0.011951018", "5": "0.14746092", "6": "0.099843994"}}

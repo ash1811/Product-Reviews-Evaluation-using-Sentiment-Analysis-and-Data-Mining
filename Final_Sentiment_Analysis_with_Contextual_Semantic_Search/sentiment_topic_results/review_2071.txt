@@ -1,0 +1,1 @@
+{"text": "Bought this for my husband who wears 11.5D. This shoe was too tight for him so it was sent back.", "sentiment": "negative", "topics": {"0": "0.01589474", "1": "0.55799663", "2": "0.13229117", "3": "0.015894296", "4": "0.13906085", "5": "0.01592996", "6": "0.12293238"}}

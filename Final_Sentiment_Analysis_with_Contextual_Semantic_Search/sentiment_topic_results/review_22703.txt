@@ -1,0 +1,1 @@
+{"text": "My Dad was very pleased with the pants. It is also manufactured of sturdy material. It was a good purchase.", "sentiment": "negative", "topics": {"0": "0.014311421", "1": "0.7010106", "2": "0.014289157", "3": "0.11721705", "4": "0.124569155", "5": "0.01431161", "6": "0.014291091"}}

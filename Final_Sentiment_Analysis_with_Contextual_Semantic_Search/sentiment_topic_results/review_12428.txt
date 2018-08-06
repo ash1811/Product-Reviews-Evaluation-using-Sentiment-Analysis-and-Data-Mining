@@ -1,0 +1,1 @@
+{"text": "Very comfortable flip flops that always spring back to original shape after taking them off! I have all colors and love them all!!", "sentiment": "negative", "topics": {"0": "0.010222926", "1": "0.51709074", "2": "0.30778465", "3": "0.010256552", "4": "0.010260096", "5": "0.13416943", "6": "0.01021561"}}

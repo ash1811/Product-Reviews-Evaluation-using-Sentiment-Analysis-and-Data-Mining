@@ -1,0 +1,1 @@
+{"text": "Smart wool hiking socks are awesome best socks I've ever bought they were so comfortable I love them and yes I will buy more and I would recommend this family or friends.", "sentiment": "negative", "topics": {"0": "0.12953061", "1": "0.21986392", "3": "0.21979578", "5": "0.40820956"}}

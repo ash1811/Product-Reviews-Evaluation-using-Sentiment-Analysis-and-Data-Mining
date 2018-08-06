@@ -1,0 +1,1 @@
+{"text": "My husband loves his slippers.  They are warm.  They are well made.  They are true to size.  Glad I found them.  They were a very good price for the quality.", "sentiment": "negative", "topics": {"1": "0.47789493", "3": "0.19474094", "4": "0.20305568", "6": "0.09567458"}}

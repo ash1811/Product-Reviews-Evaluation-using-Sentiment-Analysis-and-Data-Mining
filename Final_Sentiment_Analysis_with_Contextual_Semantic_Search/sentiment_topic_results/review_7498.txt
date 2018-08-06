@@ -1,0 +1,1 @@
+{"text": "This is a nice jacket.  I would recommend it to my friends.  It has two interior pockets besides the outside pockets. Definately worth the price.", "sentiment": "positive", "topics": {"0": "0.15471806", "1": "0.4648703", "2": "0.19170095", "5": "0.16009651"}}

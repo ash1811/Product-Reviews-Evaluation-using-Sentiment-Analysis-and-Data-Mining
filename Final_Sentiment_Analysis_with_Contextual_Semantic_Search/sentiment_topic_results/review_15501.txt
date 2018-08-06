@@ -1,0 +1,1 @@
+{"text": "Durable and comfortable. I usually wear a small shirt/jacket size. The small is roomy enough to comfortably wear a long sleeved shirt or regular scrub top under it.", "sentiment": "positive", "topics": {"1": "0.2945791", "3": "0.4179887", "5": "0.25881678"}}

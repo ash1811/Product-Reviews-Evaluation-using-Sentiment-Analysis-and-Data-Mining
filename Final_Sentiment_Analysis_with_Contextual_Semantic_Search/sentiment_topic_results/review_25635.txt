@@ -1,0 +1,1 @@
+{"text": "They fit very well for me.  I wear a size 11-12 shoe (depending on the shoe) and these fit very comfortably.", "sentiment": "negative", "topics": {"0": "0.011922262", "1": "0.36884868", "2": "0.23185502", "3": "0.2527403", "4": "0.011910637", "5": "0.11079204", "6": "0.0119311"}}

@@ -1,0 +1,1 @@
+{"text": "These truly are as comfortable as they look.  And the rubber soles mean I can take out the trash in them too.  Not sure why that's so wonderful, but they fit my lifestyle to a T.", "sentiment": "negative", "topics": {"1": "0.44200015", "2": "0.1441186", "4": "0.13673005", "6": "0.25029054"}}

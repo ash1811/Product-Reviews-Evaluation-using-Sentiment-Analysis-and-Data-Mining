@@ -1,0 +1,1 @@
+{"text": "I purchased a large being a 7.5 normally. It fit me perfectly and very comfortable for my wedding reception. Now they are used around teh house and its great padding on the hard wood floors.", "sentiment": "positive", "topics": {"0": "0.07745443", "1": "0.45912734", "3": "0.12463975", "4": "0.08204637", "5": "0.16318078", "6": "0.08603015"}}

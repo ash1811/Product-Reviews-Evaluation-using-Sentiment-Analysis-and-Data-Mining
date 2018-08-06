@@ -1,0 +1,1 @@
+{"text": "Very comfortable for a big man.  The expandable waist is a PLUS for comfort.  I will order these in other colors in the future.", "sentiment": "negative", "topics": {"0": "0.25064763", "1": "0.3081382", "2": "0.013058169", "3": "0.013034782", "4": "0.15103553", "5": "0.013019541", "6": "0.25106618"}}

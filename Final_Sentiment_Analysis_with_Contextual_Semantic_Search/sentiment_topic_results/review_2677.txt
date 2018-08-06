@@ -1,0 +1,1 @@
+{"text": "These earrings came carefully packet to ensure they would not be damaged. The color is exactly like to picture. Very Pretty and they will not dissappoint. Very happy with them!", "sentiment": "positive", "topics": {"0": "0.35406944", "1": "0.403527", "2": "0.20661987"}}

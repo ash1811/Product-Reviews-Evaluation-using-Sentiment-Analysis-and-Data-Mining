@@ -1,0 +1,1 @@
+{"text": "Love theses scrubs. Vey comfortable and easy care, may need light occasional ironing but usually not. Great color verity. Flattering fit.", "sentiment": "negative", "topics": {"1": "0.45666012", "2": "0.11557293", "3": "0.1303893", "4": "0.115320966", "6": "0.16774204"}}

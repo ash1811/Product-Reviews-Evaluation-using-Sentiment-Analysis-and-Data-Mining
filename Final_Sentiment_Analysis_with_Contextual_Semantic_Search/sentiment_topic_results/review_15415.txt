@@ -1,0 +1,1 @@
+{"text": "I have sun damage so these are just what the doctor ordered. Love the fit which is perfect and works for my facial shape.", "sentiment": "positive", "topics": {"0": "0.13272458", "1": "0.2805398", "2": "0.012997196", "3": "0.32776767", "4": "0.013037737", "5": "0.11910126", "6": "0.113831714"}}

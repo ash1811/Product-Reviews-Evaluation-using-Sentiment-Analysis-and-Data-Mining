@@ -1,0 +1,1 @@
+{"text": "My girlfriend really like them she looks great in them and very sexy professional for her workplace, she gets good complements", "sentiment": "negative", "topics": {"0": "0.6563177", "1": "0.011962596", "2": "0.011922796", "3": "0.14811294", "4": "0.011928089", "5": "0.01194932", "6": "0.14780656"}}

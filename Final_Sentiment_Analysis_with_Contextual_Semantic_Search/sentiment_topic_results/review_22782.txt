@@ -1,0 +1,1 @@
+{"text": "Compliments the earrings I purchased and looks nice with m6y denim shirts. Great little gift for someone or yourself. Inexpensive and comes in a nice little pouch.", "sentiment": "positive", "topics": {"0": "0.098974094", "1": "0.71810794", "2": "0.15277338"}}

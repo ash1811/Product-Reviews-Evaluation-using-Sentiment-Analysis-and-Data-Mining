@@ -1,0 +1,1 @@
+{"text": "These are made of very soft lace, and are very comfortable!  I have them in white, black and this beautiful Rose/pink! You won't be disappointed.", "sentiment": "negative", "topics": {"0": "0.014315036", "1": "0.27090216", "2": "0.014320071", "3": "0.2501901", "4": "0.014306235", "5": "0.42167664", "6": "0.014289739"}}

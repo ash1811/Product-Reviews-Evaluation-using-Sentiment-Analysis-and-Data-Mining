@@ -1,0 +1,1 @@
+{"text": "Comfy...just don't run.  Too much stretch, too much bounce, not enough coverage.  Better than most.  Really, the bra manufacturers don't want us big women to do high impact workouts.", "sentiment": "negative", "topics": {"0": "0.14263687", "1": "0.19044623", "2": "0.16094369", "3": "0.35529533", "5": "0.13703759"}}

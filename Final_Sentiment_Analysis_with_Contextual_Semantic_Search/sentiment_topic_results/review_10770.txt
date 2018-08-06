@@ -1,0 +1,1 @@
+{"text": "I have purchased several jackets and now these overalls and as always Carhart makes a quality product . Not only that but i Purchased theses at a lower cost than buying from a local store and that was with shipping costs", "sentiment": "negative", "topics": {"1": "0.3651479", "2": "0.24525397", "3": "0.124157816", "5": "0.16317971", "6": "0.08716728"}}

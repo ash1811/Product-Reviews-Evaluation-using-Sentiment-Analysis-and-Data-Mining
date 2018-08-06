@@ -1,0 +1,1 @@
+{"text": "make a great Christmas gift as it is very comfy.  Not sure what else to say but you should enjoy your shoes from them also", "sentiment": "positive", "topics": {"0": "0.14215471", "1": "0.011974305", "2": "0.34531152", "3": "0.13512644", "4": "0.11235235", "5": "0.011954349", "6": "0.24112636"}}

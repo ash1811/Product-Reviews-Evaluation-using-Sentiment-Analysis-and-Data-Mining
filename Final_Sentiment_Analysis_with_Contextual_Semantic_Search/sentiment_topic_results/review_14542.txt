@@ -1,0 +1,1 @@
+{"text": "ACORN Women's New Spa Slide Slipper Natural,Xlarge Med,(9.5-10.5 M US)  I've had several pairs of these.  This pair is a little big but wearable.  So very soft.  Excellent price for these on Amazon.", "sentiment": "negative", "topics": {"0": "0.16423601", "1": "0.17829111", "2": "0.12778676", "3": "0.2768441", "4": "0.1358173", "6": "0.110524066"}}

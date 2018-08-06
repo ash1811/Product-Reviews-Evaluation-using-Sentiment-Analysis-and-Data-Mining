@@ -1,0 +1,1 @@
+{"text": "No complaints here.  Works just as it should to remove tarnish.  However, I can't help but wonder if regular flannel would work just as well.", "sentiment": "negative", "topics": {"1": "0.33617905", "2": "0.26551804", "3": "0.1724873", "6": "0.19711308"}}

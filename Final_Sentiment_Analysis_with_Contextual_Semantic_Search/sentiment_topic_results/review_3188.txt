@@ -1,0 +1,1 @@
+{"text": "This is a typical LEVI product.  Good quality and just what I ordered.  Very satisfied.", "sentiment": "positive", "topics": {"0": "0.017875606", "1": "0.35082075", "2": "0.01788557", "3": "0.017894438", "4": "0.017863141", "5": "0.23419498", "6": "0.3434655"}}

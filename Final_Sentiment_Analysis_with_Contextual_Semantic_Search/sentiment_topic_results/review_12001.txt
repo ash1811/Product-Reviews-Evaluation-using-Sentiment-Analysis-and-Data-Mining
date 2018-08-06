@@ -1,0 +1,1 @@
+{"text": "It has the perfect space for a short weekend out or to go to the gym, and the quality is very good.", "sentiment": "positive", "topics": {"0": "0.5441692", "1": "0.37621376", "2": "0.015890237", "3": "0.015922088", "4": "0.015901837", "5": "0.01594811", "6": "0.01595479"}}

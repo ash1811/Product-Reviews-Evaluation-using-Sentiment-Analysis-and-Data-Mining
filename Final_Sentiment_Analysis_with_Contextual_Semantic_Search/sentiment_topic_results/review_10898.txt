@@ -1,0 +1,1 @@
+{"text": "Wanted washable slippers for my Mom, these wash nice and are very comfortable for her.  Color is nice too... sort of periwinkle.", "sentiment": "positive", "topics": {"0": "0.23835878", "1": "0.3442907", "2": "0.010251522", "3": "0.010218941", "4": "0.010214166", "5": "0.1700644", "6": "0.21660149"}}

@@ -1,0 +1,1 @@
+{"text": "Sorry for the pun but they feel like old school socks. They have a wool feel to them and feel itchy on warm days", "sentiment": "positive", "topics": {"0": "0.0102406535", "1": "0.22478656", "2": "0.06316798", "3": "0.10961994", "4": "0.13818648", "5": "0.15928888", "6": "0.2947095"}}

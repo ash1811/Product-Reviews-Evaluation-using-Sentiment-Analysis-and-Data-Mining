@@ -1,0 +1,1 @@
+{"text": "this slipper is one of the best quality slippers I've purchased to-date. The lining is 100% shearling and the hard sole is great for going outdoors to get fire wood", "sentiment": "positive", "topics": {"0": "0.16678865", "1": "0.24205771", "2": "0.15472962", "3": "0.27973744", "6": "0.14235646"}}

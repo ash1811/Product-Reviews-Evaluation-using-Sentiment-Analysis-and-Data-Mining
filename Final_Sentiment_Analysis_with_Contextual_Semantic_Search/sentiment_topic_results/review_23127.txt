@@ -1,0 +1,1 @@
+{"text": "I normally wear a 46DD, this bra was somewhat tight.  I will order a 48DD.  This bra is very comfortable otherwise.  The uncomfortable place is under the right side of the right breast.  The flex-back is very comfortable.", "sentiment": "negative", "topics": {"0": "0.065141894", "1": "0.44364986", "2": "0.06026026", "3": "0.15317822", "6": "0.26346105"}}

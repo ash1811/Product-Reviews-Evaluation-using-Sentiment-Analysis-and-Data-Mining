@@ -1,0 +1,1 @@
+{"text": "Fits as expected, true to size, same hoodie found at local discount store. Bought for husband, he wears it but says it's thin and be careful not to over dry in the wash. It'll shrink quickly. Decent for price but average quality", "sentiment": "positive", "topics": {"1": "0.38828063", "2": "0.11413429", "3": "0.3027145", "4": "0.13252991", "6": "0.05088714"}}

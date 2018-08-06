@@ -1,0 +1,1 @@
+{"text": "they are well made and seem to do a real good job of keeping my feet warm in this cold weather", "sentiment": "negative", "topics": {"0": "0.01192365", "1": "0.7016174", "2": "0.011919833", "3": "0.13689384", "4": "0.11375609", "5": "0.011956922", "6": "0.011932278"}}

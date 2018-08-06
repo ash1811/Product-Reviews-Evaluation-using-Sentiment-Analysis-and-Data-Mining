@@ -1,0 +1,1 @@
+{"text": "The 8 mm size is large and stunning. The quality is very good. I would consider buying another pair with a smaller diameter,", "sentiment": "negative", "topics": {"0": "0.09781317", "1": "0.43475053", "3": "0.23604639", "6": "0.2027859"}}

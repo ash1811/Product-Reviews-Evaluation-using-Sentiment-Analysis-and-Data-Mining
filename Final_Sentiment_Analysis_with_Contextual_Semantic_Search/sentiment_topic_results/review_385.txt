@@ -1,0 +1,1 @@
+{"text": "I don't know what I was thinking buying such a cheap shirt. It looks like I got what I paid for.If it had cost more I would have sent it back.Very cheap,wrinkly looking and needs ironing after the dryer to look anywhere near presentable. Don't waste your money.", "sentiment": "negative", "topics": {"0": "0.07338976", "1": "0.50478065", "6": "0.39972562"}}

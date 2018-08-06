@@ -1,0 +1,1 @@
+{"text": "Nice watch for proce but the controls are a little hard to manage. I do like the lit dial feature though.", "sentiment": "negative", "topics": {"0": "0.09773711", "1": "0.21050523", "2": "0.19262312", "3": "0.011033871", "4": "0.16453885", "5": "0.095179155", "6": "0.22838266"}}

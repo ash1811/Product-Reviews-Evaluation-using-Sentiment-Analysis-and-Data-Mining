@@ -1,0 +1,1 @@
+{"text": "These socks are really well made for the money and can be used for work and for dress codes too.", "sentiment": "negative", "topics": {"0": "0.01311414", "1": "0.4445987", "2": "0.013079598", "3": "0.013032359", "4": "0.13471411", "5": "0.36845067", "6": "0.013010419"}}

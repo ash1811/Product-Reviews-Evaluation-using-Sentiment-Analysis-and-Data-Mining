@@ -1,0 +1,1 @@
+{"text": "This is a perfect case if you want to protect your glasses without adding a lot of bulk to your bag. Nice quality and color.", "sentiment": "negative", "topics": {"0": "0.010250489", "1": "0.551073", "2": "0.010266569", "3": "0.24325678", "4": "0.16472699", "5": "0.010217094", "6": "0.010209047"}}

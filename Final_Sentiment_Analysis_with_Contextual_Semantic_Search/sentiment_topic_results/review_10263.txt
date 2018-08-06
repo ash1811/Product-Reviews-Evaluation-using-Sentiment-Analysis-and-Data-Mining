@@ -1,0 +1,1 @@
+{"text": "I love the size of this bandana!  The color is good for now but it's only been washed once and faded just a little already.", "sentiment": "negative", "topics": {"0": "0.014304248", "1": "0.5140675", "2": "0.110271715", "3": "0.3183862", "4": "0.01433765", "5": "0.014320267", "6": "0.0143124815"}}

@@ -1,0 +1,1 @@
+{"text": "i bought this wrist watch for my wife and although when i saw it, i felt it looked a bit too small and tiny. But my wife loved it and so that's fine with me.", "sentiment": "negative", "topics": {"1": "0.3941796", "2": "0.40263227", "4": "0.17125593"}}

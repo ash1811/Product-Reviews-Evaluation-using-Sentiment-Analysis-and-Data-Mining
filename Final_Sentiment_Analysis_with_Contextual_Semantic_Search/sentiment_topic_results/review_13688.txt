@@ -1,0 +1,1 @@
+{"text": "works as it should, cheap so it doesn't break the bank. in Cleveland snow. my guys used it on a new carpet and it was perfect", "sentiment": "positive", "topics": {"0": "0.14904137", "1": "0.21464477", "2": "0.12845221", "3": "0.2117134", "4": "0.09745415", "5": "0.09583665", "6": "0.10285742"}}

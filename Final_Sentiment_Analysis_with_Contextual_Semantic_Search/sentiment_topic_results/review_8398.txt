@@ -1,0 +1,1 @@
+{"text": "Excellent, hardy tights. Tight elastic band keeps the stocking put, but the loose lace top gives your legs a sleek appearance.I wore these out and about and they still were not damaged!", "sentiment": "negative", "topics": {"1": "0.15829013", "2": "0.13410568", "3": "0.2151843", "4": "0.1147792", "5": "0.16723992", "6": "0.20323536"}}

@@ -1,0 +1,1 @@
+{"text": "handles, alot, nice sperate compartments, and good back support. Though the mesh in front is not really designed for most of today's smartphones. That aside, well worth the price.", "sentiment": "negative", "topics": {"0": "0.15826753", "1": "0.26256925", "2": "0.24705371", "4": "0.2593825", "6": "0.05839306"}}

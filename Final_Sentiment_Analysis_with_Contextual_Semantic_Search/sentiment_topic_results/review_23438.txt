@@ -1,0 +1,1 @@
+{"text": "I got the XL size and it fits great in the sleaves and shoulders, with lots of room.  I wish it was more fitted around the waste though.  It's just a little too baggy like it's made for a person with a pot belly.  Still a good shirt for the price.", "sentiment": "negative", "topics": {"0": "0.08129019", "1": "0.47197935", "4": "0.16003202", "6": "0.27014384"}}

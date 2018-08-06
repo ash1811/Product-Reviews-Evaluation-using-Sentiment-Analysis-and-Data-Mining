@@ -1,0 +1,1 @@
+{"text": "These were a gift for my husband. The quality is excellent but the size was wrong. He buy's these all the time at a local place and never has had a size problem.", "sentiment": "negative", "topics": {"0": "0.109790705", "1": "0.26563677", "2": "0.21583843", "3": "0.2833398", "4": "0.10492958", "5": "0.010225089", "6": "0.010239607"}}

@@ -1,0 +1,1 @@
+{"text": "I have found that the Sandy/Reef flip flops are consistent in size and quality - I wear nothing else.  Wonderful product.", "sentiment": "negative", "topics": {"0": "0.010994674", "1": "0.21429951", "2": "0.17819807", "3": "0.21222521", "4": "0.011004452", "5": "0.36220407", "6": "0.0110739805"}}

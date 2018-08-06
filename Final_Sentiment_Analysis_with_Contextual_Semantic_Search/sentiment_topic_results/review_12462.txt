@@ -1,0 +1,1 @@
+{"text": "For warm weather, this is a great shoe.  Soft & comfortable, true to size.  I wear lots of Crocs, but think this flip flop is even more comfortable.  I'll be wearing it all summer.", "sentiment": "negative", "topics": {"1": "0.6189204", "2": "0.17837283", "3": "0.13647005", "5": "0.044762306"}}

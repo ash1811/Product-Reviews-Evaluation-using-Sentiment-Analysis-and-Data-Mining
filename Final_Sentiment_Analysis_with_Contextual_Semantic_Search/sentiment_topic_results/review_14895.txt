@@ -1,0 +1,1 @@
+{"text": "There is a uniformity, latch that works well, and delicacy that are lovely. The set looks good on, as well.", "sentiment": "negative", "topics": {"0": "0.2854512", "1": "0.46735284", "2": "0.01191856", "3": "0.011931923", "4": "0.19950704", "5": "0.011926816", "6": "0.011911653"}}

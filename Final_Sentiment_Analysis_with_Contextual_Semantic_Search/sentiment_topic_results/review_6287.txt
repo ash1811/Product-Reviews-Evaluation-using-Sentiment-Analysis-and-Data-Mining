@@ -1,0 +1,1 @@
+{"text": "Very nice - exactly what I wanted - delicate, sterling silver, nice catch.  I only wish I'd gotten another for my daughter.", "sentiment": "negative", "topics": {"0": "0.3441253", "1": "0.51804596", "2": "0.010246353", "3": "0.010241843", "4": "0.09686036", "5": "0.010242937", "6": "0.010237289"}}

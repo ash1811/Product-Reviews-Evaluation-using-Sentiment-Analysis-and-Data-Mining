@@ -1,0 +1,1 @@
+{"text": "I bought these exclusively to be worn for my daughter's Mavis Halloween Costume and they were perfect!! She was comfy for a few hours of trick-or-treating with no issues of sore feet:)", "sentiment": "negative", "topics": {"0": "0.3660157", "4": "0.3081117", "5": "0.15389116", "6": "0.14332245"}}

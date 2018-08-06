@@ -1,0 +1,1 @@
+{"text": "I love everything about this hanging cosmetic bag. The bottom section snaps off which is a plus when only a few items need to be taken for an over night visit. The material is strong and the section sizes are perfect.", "sentiment": "negative", "topics": {"0": "0.25299594", "2": "0.061644234", "3": "0.10653523", "5": "0.16065948", "6": "0.40382355"}}

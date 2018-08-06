@@ -1,0 +1,1 @@
+{"text": "The suit is sized well and looks great. A good price for a quality suit, this will last a long time with regular use.", "sentiment": "negative", "topics": {"1": "0.6024931", "2": "0.25804335", "5": "0.10117595"}}

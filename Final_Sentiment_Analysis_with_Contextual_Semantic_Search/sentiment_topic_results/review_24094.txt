@@ -1,0 +1,1 @@
+{"text": "more supportive than i have found at most local stores without making me look odd shaped. although i do sweat a lot more between my breasts while wearing this than i usually do with others.", "sentiment": "negative", "topics": {"1": "0.47696412", "3": "0.2694546", "4": "0.10816235", "6": "0.120128565"}}

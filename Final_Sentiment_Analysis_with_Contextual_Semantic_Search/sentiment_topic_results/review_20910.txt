@@ -1,0 +1,1 @@
+{"text": "These fit like a glove. I wear them a lot.  They are comfortable and stylish. The spandex really makes them move with you. However they do hold their shape.", "sentiment": "negative", "topics": {"0": "0.08881188", "1": "0.2155838", "2": "0.17751704", "3": "0.3034565", "5": "0.10351711", "6": "0.102180645"}}

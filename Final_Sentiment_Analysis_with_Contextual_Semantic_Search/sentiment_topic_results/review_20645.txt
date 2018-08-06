@@ -1,0 +1,1 @@
+{"text": "My husband loves these. They look just like regular dress hose, but they help so much with &#34;tired legs&#34; at the end of the day.", "sentiment": "negative", "topics": {"0": "0.24876885", "2": "0.18428968", "4": "0.28635034", "6": "0.25187796"}}

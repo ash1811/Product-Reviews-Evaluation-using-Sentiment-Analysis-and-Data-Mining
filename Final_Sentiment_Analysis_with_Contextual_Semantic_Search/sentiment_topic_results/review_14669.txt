@@ -1,0 +1,1 @@
+{"text": "I wanted a watch to wear when working in the yard, this fits the need.  I had to go on line to find out how to change the time, but that was easy.", "sentiment": "negative", "topics": {"0": "0.010234135", "1": "0.53453934", "2": "0.26159757", "3": "0.010237055", "4": "0.010249708", "5": "0.010247624", "6": "0.16289456"}}

@@ -1,0 +1,1 @@
+{"text": "If you are like me and Love Camouflage clothing you will Love the soft,stretchability and feel of this shirt.If you're smaller or Larger it fits real nicely.It feels good against the body too.", "sentiment": "positive", "topics": {"0": "0.43701687", "1": "0.24551328", "3": "0.059330054", "4": "0.13526109", "6": "0.10697451"}}

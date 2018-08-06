@@ -1,0 +1,1 @@
+{"text": "This is my second pair of the Skechers Mariner style.  They are a great casual looking boot for everyday wear.  The first pair has moved to the closet for yard work, but they have held up well.", "sentiment": "negative", "topics": {"1": "0.38854194", "2": "0.064563334", "3": "0.108048834", "4": "0.19891098", "5": "0.22558644"}}

@@ -1,0 +1,1 @@
+{"text": "I bought two of these and they are great for working out and just around the house. Unfortunately the string broke on one of them the first day. So that pair is now no good for working out.", "sentiment": "negative", "topics": {"0": "0.22861204", "1": "0.4847425", "2": "0.13545999", "3": "0.12586197"}}

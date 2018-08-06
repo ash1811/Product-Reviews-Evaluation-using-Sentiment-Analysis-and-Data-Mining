@@ -1,0 +1,1 @@
+{"text": "...because I got a pair that is to my unprofessional eye, flawless , clear, brilliant! FOr $49 what do you want anyway? Guess I was just one of the lucky ones cuz I'm happy with mine ;-)", "sentiment": "negative", "topics": {"0": "0.072801486", "1": "0.15344492", "2": "0.22702959", "3": "0.15651336", "4": "0.37584272"}}

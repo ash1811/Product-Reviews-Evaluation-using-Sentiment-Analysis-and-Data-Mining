@@ -1,0 +1,1 @@
+{"text": "My husband only wears the Wrangler Carpenter Fit Jeans. He loves them. And if he is happy I am happy. They are a great fit and a great price.", "sentiment": "positive", "topics": {"1": "0.49418867", "3": "0.100714676", "4": "0.36686382"}}

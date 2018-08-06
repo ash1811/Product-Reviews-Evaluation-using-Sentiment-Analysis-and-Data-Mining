@@ -1,0 +1,1 @@
+{"text": "Best invention ever, I should have bought two or more though since the slots are becoming a bit wore down.  If you buy this, buy a pack so you only pay shipping once.", "sentiment": "negative", "topics": {"1": "0.364649", "2": "0.1504598", "4": "0.15066485", "5": "0.24847913", "6": "0.07140766"}}

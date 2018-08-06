@@ -1,0 +1,1 @@
+{"text": "I bought this one for my boyfriend. This is the third shirt for him in the past couple of years. It fit him very well. The quality of the material is still the same as the first shirt we bought. The earlier one is a little worn but still works well.I recommend this product.", "sentiment": "positive", "topics": {"1": "0.73545253", "5": "0.13866869", "6": "0.10381155"}}

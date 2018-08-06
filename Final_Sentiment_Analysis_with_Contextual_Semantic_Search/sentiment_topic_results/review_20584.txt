@@ -1,0 +1,1 @@
+{"text": "I have used this on several watches, and it works well.  The case is pretty flimsy, but what would you expect at this price.  The adjustments work well, and there are tips for about any case back.", "sentiment": "positive", "topics": {"0": "0.13742773", "1": "0.35891914", "2": "0.28981712", "4": "0.081138074", "5": "0.1167697"}}

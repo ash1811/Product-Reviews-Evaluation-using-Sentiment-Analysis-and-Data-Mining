@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable and cute flip flop. I love the polka dots! Does run a bit large, as most flip flops do. I normally wear a size 10 in shoes and ordered these in a 9, which is perfect.", "sentiment": "negative", "topics": {"1": "0.35153046", "2": "0.2478528", "3": "0.19663563", "4": "0.12700762", "6": "0.06395383"}}

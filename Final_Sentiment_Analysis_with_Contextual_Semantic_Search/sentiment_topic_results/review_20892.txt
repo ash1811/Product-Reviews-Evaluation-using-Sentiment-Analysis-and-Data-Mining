@@ -1,0 +1,1 @@
+{"text": "These Dockers Women's soft tapered pants in Teaberry are great!  True to size and very slimming.  Will be great heading out to picnics with family this summer!", "sentiment": "negative", "topics": {"1": "0.41515854", "2": "0.20760591", "3": "0.17514022", "5": "0.17517415"}}

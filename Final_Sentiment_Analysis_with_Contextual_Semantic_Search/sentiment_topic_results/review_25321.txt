@@ -1,0 +1,1 @@
+{"text": "Best shoes I have owned.  I have feet issues and they are my most comfortable everyday shoes.  Highly reommend these shoes.", "sentiment": "negative", "topics": {"0": "0.11602489", "1": "0.1304545", "2": "0.35968572", "3": "0.011915594", "4": "0.357971", "5": "0.012042969", "6": "0.0119053135"}}

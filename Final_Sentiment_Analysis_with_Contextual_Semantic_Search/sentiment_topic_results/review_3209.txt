@@ -1,0 +1,1 @@
+{"text": "I would say that it matched my expectation and it best relaxed one.color is nice toosize is fit also", "sentiment": "negative", "topics": {"0": "0.11982579", "1": "0.24954623", "2": "0.011911985", "3": "0.17849427", "4": "0.33820638", "5": "0.011926553", "6": "0.09008881"}}

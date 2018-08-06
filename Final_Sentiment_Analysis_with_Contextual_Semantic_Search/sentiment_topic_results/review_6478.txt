@@ -1,0 +1,1 @@
+{"text": "This is are the best sucks for hiking, it reduces te bumps and impacts of long walking, this are for warm to cold climate not for snow, but are amazing.", "sentiment": "negative", "topics": {"0": "0.21195129", "1": "0.07952676", "4": "0.25734693", "5": "0.33169743", "6": "0.10040141"}}

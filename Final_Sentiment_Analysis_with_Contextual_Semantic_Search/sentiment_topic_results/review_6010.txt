@@ -1,0 +1,1 @@
+{"text": "This wrap looks very elegant with my black cocktail dress.  It added warmth around my shoulders for the evening strolls after dinner.", "sentiment": "negative", "topics": {"0": "0.010280192", "1": "0.34989914", "2": "0.10105178", "3": "0.18947534", "4": "0.010242197", "5": "0.24501471", "6": "0.094036646"}}

@@ -1,0 +1,1 @@
+{"text": "Ecco makes fabulous shoes.  Though these are stylish, but they are great utility and walking shoes.  Handsome, well made, great sole.  They last forever!", "sentiment": "negative", "topics": {"0": "0.099374086", "2": "0.26259202", "3": "0.10253807", "4": "0.14645743", "5": "0.26331046", "6": "0.1177539"}}

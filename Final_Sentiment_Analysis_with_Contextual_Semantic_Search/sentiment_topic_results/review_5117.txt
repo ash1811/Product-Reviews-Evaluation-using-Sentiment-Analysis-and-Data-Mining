@@ -1,0 +1,1 @@
+{"text": "I wore these with military boots for numerous forced marches and during the Spartan Death Race in Vermont. I had no blisters and they are warm when wet. Durable also.", "sentiment": "positive", "topics": {"0": "0.33733234", "1": "0.31401023", "4": "0.19911174", "5": "0.122736946"}}

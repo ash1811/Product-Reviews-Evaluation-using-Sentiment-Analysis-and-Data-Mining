@@ -1,0 +1,1 @@
+{"text": "these were way too big for my kid so I gave them to someone else. They said they are extremely warm and comfortable.  My only complaint is the blue pictured here is not what the socks look like", "sentiment": "negative", "topics": {"1": "0.4082315", "2": "0.121394955", "5": "0.43662423"}}

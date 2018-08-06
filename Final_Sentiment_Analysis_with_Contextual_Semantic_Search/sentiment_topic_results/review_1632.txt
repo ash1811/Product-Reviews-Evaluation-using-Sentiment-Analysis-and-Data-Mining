@@ -1,0 +1,1 @@
+{"text": "Years ago it was a great product.  Not sure why all products similar have become worthless for their expected use.", "sentiment": "positive", "topics": {"0": "0.10359957", "1": "0.0119831115", "2": "0.136507", "3": "0.32366303", "4": "0.011942979", "5": "0.28165585", "6": "0.13064846"}}

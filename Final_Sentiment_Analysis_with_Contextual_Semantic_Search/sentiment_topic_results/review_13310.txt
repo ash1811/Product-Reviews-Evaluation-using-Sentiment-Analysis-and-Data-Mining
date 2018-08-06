@@ -1,0 +1,1 @@
+{"text": "Now that the snow is off the ground I find these shoes just perfect to weak when puttering in the yard", "sentiment": "positive", "topics": {"0": "0.15637249", "1": "0.19516714", "2": "0.37717265", "3": "0.015914356", "4": "0.015937788", "5": "0.22353345", "6": "0.015902095"}}

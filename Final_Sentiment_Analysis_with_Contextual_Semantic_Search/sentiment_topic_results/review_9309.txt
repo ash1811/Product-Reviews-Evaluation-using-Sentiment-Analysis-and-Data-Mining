@@ -1,0 +1,1 @@
+{"text": "I ordered these for my husband for a Christmas gift. He really liked them and wore them a lot. After about a month, the stitching started coming undone from the sole. These were not expensive, so I guess you get what you pay for.", "sentiment": "negative", "topics": {"0": "0.15977691", "1": "0.28789407", "4": "0.14313476", "5": "0.29976246", "6": "0.0950848"}}

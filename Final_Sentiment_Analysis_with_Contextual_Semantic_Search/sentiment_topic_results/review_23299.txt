@@ -1,0 +1,1 @@
+{"text": "I Love the brand but this shoe fits a bit tighter / smaller than the others I have...but I still like them!!", "sentiment": "negative", "topics": {"0": "0.10588372", "1": "0.11621438", "2": "0.116496846", "3": "0.6283723", "4": "0.011011742", "5": "0.011001383", "6": "0.01101962"}}

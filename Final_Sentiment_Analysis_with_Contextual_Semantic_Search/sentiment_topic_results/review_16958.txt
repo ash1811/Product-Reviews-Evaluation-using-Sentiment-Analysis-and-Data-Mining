@@ -1,0 +1,1 @@
+{"text": "The smart wool socks are very easy to wash and dry, they have a great fit and are so easy on the feet. We all wear them and enjoy the  quality the most.", "sentiment": "positive", "topics": {"1": "0.26161164", "3": "0.15932043", "4": "0.14225976", "5": "0.17061158", "6": "0.24707396"}}

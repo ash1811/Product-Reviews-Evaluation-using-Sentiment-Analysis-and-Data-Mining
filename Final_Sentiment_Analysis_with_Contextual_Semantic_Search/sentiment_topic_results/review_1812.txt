@@ -1,0 +1,1 @@
+{"text": "Perfect thickness and tight fit. Excellent for working out. They are of good quality and look good as well!", "sentiment": "positive", "topics": {"0": "0.011002319", "1": "0.75200623", "2": "0.09521491", "3": "0.010998583", "4": "0.10878681", "5": "0.010999524", "6": "0.01099158"}}

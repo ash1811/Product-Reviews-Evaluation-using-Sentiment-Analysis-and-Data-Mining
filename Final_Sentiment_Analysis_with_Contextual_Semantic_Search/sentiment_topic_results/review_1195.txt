@@ -1,0 +1,1 @@
+{"text": "Bought for my dad was very happy but he said it was a bit pricey, never the less he wears it a lot and has no complains that cheat man.", "sentiment": "positive", "topics": {"0": "0.010231578", "1": "0.27315113", "2": "0.010233315", "3": "0.010268341", "4": "0.010231704", "5": "0.5257649", "6": "0.16011904"}}

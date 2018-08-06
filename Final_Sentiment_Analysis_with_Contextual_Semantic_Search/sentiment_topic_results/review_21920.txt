@@ -1,0 +1,1 @@
+{"text": "One might consider purchasing the Toesox without toes to allow more freedom to expand the toes during Yoga practice.Good quality and gave me a more substantial grip when in difficult positions where I found I could slip.", "sentiment": "negative", "topics": {"0": "0.09160623", "1": "0.40747398", "4": "0.3287079", "5": "0.10053129", "6": "0.05923316"}}

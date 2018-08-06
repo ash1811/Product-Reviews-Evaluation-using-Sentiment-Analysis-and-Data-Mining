@@ -1,0 +1,1 @@
+{"text": "My wife wanted this bag because it the many large compartments.  She like the fact that it separates and can hang from a door.  We will take this on several trips coming up.", "sentiment": "negative", "topics": {"1": "0.2458438", "2": "0.20864363", "3": "0.14390878", "4": "0.24492747", "5": "0.13979979"}}

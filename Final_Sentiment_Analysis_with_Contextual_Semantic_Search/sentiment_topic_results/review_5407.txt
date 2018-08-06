@@ -1,0 +1,1 @@
+{"text": "A good choice for an everyday wearing top.  Color is true to the description and also the size is comfortable and gives the body space to move and work in.", "sentiment": "negative", "topics": {"1": "0.36860248", "3": "0.19472758", "4": "0.19596596", "5": "0.15179911", "6": "0.072911814"}}

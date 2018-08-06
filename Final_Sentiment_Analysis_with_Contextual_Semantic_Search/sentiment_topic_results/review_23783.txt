@@ -1,0 +1,1 @@
+{"text": "4 stars cause it's really cool, color wasn't as shown but fits great and its comfortable.i definitely would recommend it.", "sentiment": "positive", "topics": {"1": "0.57756805", "2": "0.26211274", "3": "0.12201282"}}

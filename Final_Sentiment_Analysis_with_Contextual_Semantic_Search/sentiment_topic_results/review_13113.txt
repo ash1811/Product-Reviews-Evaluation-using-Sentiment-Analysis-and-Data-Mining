@@ -1,0 +1,1 @@
+{"text": "Bought this for my husband-great watch.  However, we had to take to a jeweler to remove links.  Lightweight-goes with everything.", "sentiment": "negative", "topics": {"0": "0.013013136", "1": "0.10856869", "2": "0.48321217", "3": "0.106632136", "4": "0.012993686", "5": "0.26253197", "6": "0.0130481925"}}

@@ -1,0 +1,1 @@
+{"text": "Very soft and comfortable. Soles are durable enough to run outside to get the mail or paper.I would definitely recommend", "sentiment": "negative", "topics": {"0": "0.113437295", "1": "0.54729205", "2": "0.010224312", "3": "0.29837567", "4": "0.010224231", "5": "0.0102343215", "6": "0.010212162"}}

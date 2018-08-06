@@ -1,0 +1,1 @@
+{"text": "Used this bag as a carry-on during a trip to the Carribean.  Sturdy zippers and many compartments but found the velcro on the outside pocket isn't sewn on as well as it should be.", "sentiment": "negative", "topics": {"1": "0.4906524", "2": "0.08389814", "4": "0.27317357", "6": "0.12700492"}}

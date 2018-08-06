@@ -1,0 +1,1 @@
+{"text": "I have never had a problem with buying Nike. These are great for walking and running. Very comfortable and great cushioning", "sentiment": "positive", "topics": {"0": "0.013011667", "1": "0.19358568", "2": "0.0130068455", "3": "0.013011894", "4": "0.013003024", "5": "0.6305546", "6": "0.12382633"}}

@@ -1,0 +1,1 @@
+{"text": "The comfort and fit of my Acorn spa thongs is unmatched...as a long time Acorn customer...I was delighted when I discovered.. I could order online through Amazon....PERFECT!", "sentiment": "negative", "topics": {"1": "0.08931269", "3": "0.20548712", "5": "0.38348448", "6": "0.296416"}}

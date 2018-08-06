@@ -1,0 +1,1 @@
+{"text": "The pants is okay but the size is kind of big for me i can put it on though but ok.", "sentiment": "negative", "topics": {"0": "0.015884548", "1": "0.42988127", "2": "0.01595961", "3": "0.01597615", "4": "0.2034145", "5": "0.15806271", "6": "0.16082117"}}

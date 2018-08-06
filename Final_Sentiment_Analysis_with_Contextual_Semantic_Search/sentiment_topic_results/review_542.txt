@@ -1,0 +1,1 @@
+{"text": "For value,IMHO this is a worth the price.  I'd read the earlier review and ordered a slightly larger fit. The pockets are quite deep and overall if it doesn't shrink too much, I'll will order more.", "sentiment": "negative", "topics": {"0": "0.11522176", "1": "0.4561516", "3": "0.22613794", "5": "0.18201797"}}

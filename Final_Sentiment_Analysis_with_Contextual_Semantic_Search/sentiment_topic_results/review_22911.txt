@@ -1,0 +1,1 @@
+{"text": "They are comfortable shorts. I use them for bumming around he house mostly. They are not really go anywhere shorts but they are great for kicking around the house.", "sentiment": "negative", "topics": {"0": "0.23559378", "1": "0.28556967", "2": "0.13916446", "3": "0.31280133"}}

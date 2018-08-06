@@ -1,0 +1,1 @@
+{"text": "Very comfy!  The stockings are sturdy , nice material and is great for a rave or a Halloween costume. I recommend it.", "sentiment": "negative", "topics": {"0": "0.16955316", "1": "0.3839521", "2": "0.23627467", "3": "0.011950549", "4": "0.011955536", "5": "0.011932167", "6": "0.17438179"}}

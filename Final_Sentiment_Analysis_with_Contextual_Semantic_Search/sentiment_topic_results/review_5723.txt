@@ -1,0 +1,1 @@
+{"text": "If you're looking for plain sweatpants that do not have a logo, look no further. These are them. Enjoy. 10", "sentiment": "positive", "topics": {"0": "0.19684769", "1": "0.47883397", "2": "0.014352098", "3": "0.11619651", "4": "0.16511428", "5": "0.014325408", "6": "0.01433002"}}

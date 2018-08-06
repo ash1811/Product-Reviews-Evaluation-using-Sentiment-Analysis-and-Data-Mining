@@ -1,0 +1,1 @@
+{"text": "These (vegan) shoes are easy to put on/ take off, wore well, fit well. I put a pair of insoles in the to give them more bounce. Love the gray color.", "sentiment": "negative", "topics": {"0": "0.06725148", "1": "0.5061521", "2": "0.08642794", "4": "0.1590744", "6": "0.16674061"}}

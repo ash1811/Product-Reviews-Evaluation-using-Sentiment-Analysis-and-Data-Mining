@@ -1,0 +1,1 @@
+{"text": "a real solid and comfortable boot great for work as they are not to heavy even good for the weekend hanging around", "sentiment": "positive", "topics": {"0": "0.011067132", "1": "0.47521928", "2": "0.011033621", "3": "0.0110137295", "4": "0.18441011", "5": "0.011053541", "6": "0.2962026"}}

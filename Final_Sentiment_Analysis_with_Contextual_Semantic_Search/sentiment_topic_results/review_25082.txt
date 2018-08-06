@@ -1,0 +1,1 @@
+{"text": "this ring is cheap, so maybe for the price it should be okay to have scratches all over on day 2...", "sentiment": "positive", "topics": {"0": "0.5717833", "1": "0.34861752", "2": "0.015905416", "3": "0.015901165", "4": "0.01593547", "5": "0.015904108", "6": "0.015953073"}}

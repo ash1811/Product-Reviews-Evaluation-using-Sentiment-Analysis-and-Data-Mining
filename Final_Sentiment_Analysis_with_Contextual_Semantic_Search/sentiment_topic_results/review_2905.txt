@@ -1,0 +1,1 @@
+{"text": "never had a problem with em. drawstring is good. elastic is good. sizing is spot on.", "sentiment": "positive", "topics": {"0": "0.013016795", "1": "0.5371792", "2": "0.12895578", "3": "0.013044235", "4": "0.17533445", "5": "0.013022094", "6": "0.11944744"}}

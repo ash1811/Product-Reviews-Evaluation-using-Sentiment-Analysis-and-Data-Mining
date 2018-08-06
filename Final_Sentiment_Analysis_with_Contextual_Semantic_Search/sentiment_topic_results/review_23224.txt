@@ -1,0 +1,1 @@
+{"text": "While I have to agree that these seemed better years ago, they were still what I was looking for and what I expected.  Received quickly and fit well.  You can't beat the classics.", "sentiment": "negative", "topics": {"1": "0.33702722", "2": "0.23820168", "3": "0.24222474", "4": "0.08153466", "6": "0.08306362"}}

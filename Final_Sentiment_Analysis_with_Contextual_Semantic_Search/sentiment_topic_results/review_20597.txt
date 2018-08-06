@@ -1,0 +1,1 @@
+{"text": "When I got this is was almost impossible to use.  Then I realized that all of the screws holding it together were lose.  I tightened them up and found that it works like a charm.", "sentiment": "negative", "topics": {"0": "0.17665222", "1": "0.09973114", "2": "0.17916116", "4": "0.2481483", "5": "0.10126855", "6": "0.18548377"}}

@@ -1,0 +1,1 @@
+{"text": "I love this bra....  For an underwire bra, it is very comfortable.  The straps are thick enough they don't cut into my shoulders and besides, it's very feminine to look at too.", "sentiment": "negative", "topics": {"1": "0.1805145", "2": "0.18280298", "3": "0.44202974", "6": "0.16592123"}}

@@ -1,0 +1,1 @@
+{"text": "Once again from Amazon... a watch with a short watch band. That's one thing i like about going in a store is they have special long watches you can try on...not having any luck here. Otherwise nice! Band barely meets together on my wrist.", "sentiment": "positive", "topics": {"0": "0.258221", "2": "0.38937193", "3": "0.25598705", "4": "0.07982507"}}

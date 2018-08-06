@@ -1,0 +1,1 @@
+{"text": "I have been wearing this flop flop for weeks.  They cushion the foot, but feel like wearing slippers. I will look for the reef name if I want more colors.", "sentiment": "positive", "topics": {"1": "0.46623853", "2": "0.18447082", "3": "0.1021766", "4": "0.070340425", "6": "0.15886489"}}

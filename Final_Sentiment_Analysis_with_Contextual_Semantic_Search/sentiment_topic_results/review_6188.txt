@@ -1,0 +1,1 @@
+{"text": "Looking for comfort? If yes, this is what you want. I love my pink sweatshirt! Might order in more colors!", "sentiment": "negative", "topics": {"0": "0.15112692", "1": "0.43685836", "2": "0.013008228", "3": "0.013052271", "4": "0.013064585", "5": "0.17241822", "6": "0.20047142"}}

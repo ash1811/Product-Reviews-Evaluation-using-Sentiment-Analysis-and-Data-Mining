@@ -1,0 +1,1 @@
+{"text": "I have purchased this particular bra numerous times and always buy another, if available. It fits well. The 4-hook closure makes me feel very secure and it supports the &#34;girls&#34; in comfort", "sentiment": "negative", "topics": {"1": "0.37590942", "3": "0.3239125", "4": "0.19291764", "6": "0.08577991"}}

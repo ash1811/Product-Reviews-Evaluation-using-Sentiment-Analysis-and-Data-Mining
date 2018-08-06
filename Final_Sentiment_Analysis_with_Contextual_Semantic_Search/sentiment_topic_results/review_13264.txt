@@ -1,0 +1,1 @@
+{"text": "Granddaughter hasn't unwrapped them yet but looked nice and I can see they will fit her. Good color and feel nice to the touch. Great for this cold weather", "sentiment": "negative", "topics": {"0": "0.10061507", "1": "0.4555032", "3": "0.17495327", "4": "0.24365489"}}

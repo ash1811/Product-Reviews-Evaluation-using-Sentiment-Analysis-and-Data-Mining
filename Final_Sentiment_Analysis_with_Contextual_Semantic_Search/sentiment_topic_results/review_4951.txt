@@ -1,0 +1,1 @@
+{"text": "I choose this shoes becuase since I was a child they were on popular and they still. My son love them they are very comfortable and the advices about they were a little bit bigger help me when choosing the size.", "sentiment": "negative", "topics": {"1": "0.27084053", "2": "0.10624242", "3": "0.29486963", "5": "0.15633713", "6": "0.15578428"}}

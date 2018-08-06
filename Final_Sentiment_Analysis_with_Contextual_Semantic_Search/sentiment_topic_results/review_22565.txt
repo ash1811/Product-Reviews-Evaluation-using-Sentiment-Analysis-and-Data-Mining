@@ -1,0 +1,1 @@
+{"text": "I reccommend this bodystocking - looks very sexy but a woman should be not BBW, fits rather to tall and average size body", "sentiment": "negative", "topics": {"0": "0.01102511", "1": "0.25240326", "2": "0.07205105", "3": "0.011028022", "4": "0.36932313", "5": "0.011019718", "6": "0.2731497"}}

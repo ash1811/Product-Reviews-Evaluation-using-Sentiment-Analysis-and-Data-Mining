@@ -1,0 +1,1 @@
+{"text": "This is my second pair of leather Reefs. I purchased my first pair almost 4 years ago and they are starting to show some wear. I like them because they are very comfortable, extremely durable, and they look great. I'd wear them all year if the weather stayed warm.", "sentiment": "positive", "topics": {"1": "0.74183154", "2": "0.17231524", "6": "0.06461692"}}

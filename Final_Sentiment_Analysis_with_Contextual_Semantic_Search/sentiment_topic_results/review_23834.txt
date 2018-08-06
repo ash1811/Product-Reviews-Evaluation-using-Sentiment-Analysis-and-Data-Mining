@@ -1,0 +1,1 @@
+{"text": "good deal for the price. I don't know what else to write about this.  It's okay is all I have to say.he says it helps keep him warm", "sentiment": "negative", "topics": {"0": "0.13499203", "1": "0.18406287", "2": "0.1556292", "3": "0.15494196", "4": "0.010231585", "5": "0.010217691", "6": "0.34992462"}}

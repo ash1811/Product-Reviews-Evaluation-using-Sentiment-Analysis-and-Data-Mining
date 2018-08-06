@@ -1,0 +1,1 @@
+{"text": "i love this product, i'm going to use this for padding for the chainmail coif i have ordered and also for a pirate costume i will be working on,you also can be use with a biker costume, a very multi-use product, go and buy today.", "sentiment": "negative", "topics": {"0": "0.27458808", "1": "0.19520508", "2": "0.052197926", "4": "0.22403716", "5": "0.24205033"}}

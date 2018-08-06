@@ -1,0 +1,1 @@
+{"text": "This T-shirt is made of nice material and is well made.  I like the fact that this is not a thin, flimsy T-shirt.  I would order this again.", "sentiment": "positive", "topics": {"0": "0.10269088", "1": "0.57726836", "3": "0.107309885", "4": "0.08677824", "6": "0.10682686"}}

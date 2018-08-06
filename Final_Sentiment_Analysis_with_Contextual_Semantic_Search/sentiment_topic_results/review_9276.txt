@@ -1,0 +1,1 @@
+{"text": "This slipper was returned only because the size was a bit small.  Quality looked good.  The order and return was easy.", "sentiment": "negative", "topics": {"0": "0.14095803", "1": "0.2199493", "2": "0.011918558", "3": "0.30907765", "4": "0.011948242", "5": "0.011922911", "6": "0.2942253"}}

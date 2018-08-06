@@ -1,0 +1,1 @@
+{"text": "These are the only brand of pants that fit me for some reason.  I always have a problem with length.", "sentiment": "negative", "topics": {"0": "0.29105544", "1": "0.4249809", "2": "0.017917985", "3": "0.21225569", "4": "0.017954908", "5": "0.017927052", "6": "0.017908053"}}

@@ -1,0 +1,1 @@
+{"text": "Carhartt quality through and through. No need to look any farther for a quality tee. Great selection of colors as well.", "sentiment": "negative", "topics": {"0": "0.011000679", "1": "0.6203217", "2": "0.010991572", "3": "0.093603574", "4": "0.09036641", "5": "0.011027258", "6": "0.1626888"}}

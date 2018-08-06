@@ -1,0 +1,1 @@
+{"text": "good watch for the price. looks and operates as described. smaller than the large watches, but nice dress watch. have not tested the water resistance", "sentiment": "positive", "topics": {"0": "0.089244395", "1": "0.36003226", "2": "0.26624295", "3": "0.18122223", "5": "0.08537878"}}

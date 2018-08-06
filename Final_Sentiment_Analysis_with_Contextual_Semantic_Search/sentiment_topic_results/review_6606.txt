@@ -1,0 +1,1 @@
+{"text": "I use these for inline skating and they prevent blisters. They are very thick and have plenty of cushioning. These are VERY high quality socks.", "sentiment": "negative", "topics": {"0": "0.20452541", "1": "0.19875379", "2": "0.011921391", "3": "0.011934272", "4": "0.13670875", "5": "0.21042635", "6": "0.22573"}}

@@ -1,0 +1,1 @@
+{"text": "These glasses reflect the excellent standards that Ray Ban sets for their products. They feel like a quality product that will last a long time.", "sentiment": "negative", "topics": {"0": "0.17674686", "1": "0.2282606", "2": "0.09267934", "4": "0.10997404", "5": "0.26858553", "6": "0.11480502"}}

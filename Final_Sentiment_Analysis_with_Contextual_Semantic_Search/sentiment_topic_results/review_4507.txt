@@ -1,0 +1,1 @@
+{"text": "They are not baggy. I have a problem with some pant that have too much material in the rear. These fit very well.", "sentiment": "negative", "topics": {"0": "0.015892232", "1": "0.79487896", "2": "0.015896523", "3": "0.015903708", "4": "0.1256511", "5": "0.015894722", "6": "0.015882785"}}

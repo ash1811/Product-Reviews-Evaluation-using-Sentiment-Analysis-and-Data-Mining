@@ -1,0 +1,1 @@
+{"text": "I broke my last band and didn't want to spend a lot of money on white gold until I found the perfect set of wedding rings, so I wear this as my wedding band. Good width and quality. Will order from this seller again", "sentiment": "positive", "topics": {"0": "0.37596667", "1": "0.22818714", "5": "0.37093902"}}

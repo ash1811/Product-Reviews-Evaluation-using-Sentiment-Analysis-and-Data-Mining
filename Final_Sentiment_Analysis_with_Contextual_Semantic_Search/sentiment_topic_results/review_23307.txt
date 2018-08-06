@@ -1,0 +1,1 @@
+{"text": "I ordered 1/2 size up and they fit wonderfully! I have already run over 30 miles in them with no blisters or sore feet. I have tried many shoes over the past year and these are the best!Thank you!!", "sentiment": "negative", "topics": {"0": "0.120455146", "1": "0.22063653", "2": "0.06297637", "3": "0.39660573", "4": "0.185022"}}

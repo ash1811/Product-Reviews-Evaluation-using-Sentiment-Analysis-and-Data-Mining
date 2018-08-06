@@ -1,0 +1,1 @@
+{"text": "Worked great when working out. I did squats going below parallel and they did not rip. I have bought more than one.", "sentiment": "negative", "topics": {"0": "0.1534316", "1": "0.4524769", "2": "0.20206445", "3": "0.15288542", "4": "0.013050926", "5": "0.013028077", "6": "0.013062657"}}

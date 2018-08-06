@@ -1,0 +1,1 @@
+{"text": "These sketchers shoes is the best shoes I have ever had in my life. I am going to save the information on this pair of shoes and order the same ones next time I need new ones.", "sentiment": "positive", "topics": {"0": "0.108993165", "1": "0.20410445", "2": "0.35714915", "3": "0.08695923", "4": "0.10943312", "5": "0.05645652", "6": "0.07690435"}}

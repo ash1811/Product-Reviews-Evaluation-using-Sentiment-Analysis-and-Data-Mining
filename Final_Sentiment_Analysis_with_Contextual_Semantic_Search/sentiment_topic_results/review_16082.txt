@@ -1,0 +1,1 @@
+{"text": "The only reason I dont have these shoes anymore was because of my new puppy. They are fantastic! made super well and so freaking comfortable. Best ever!", "sentiment": "negative", "topics": {"0": "0.16378479", "1": "0.48337874", "2": "0.17738245", "3": "0.14681569"}}

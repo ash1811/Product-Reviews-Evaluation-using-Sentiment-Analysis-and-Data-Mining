@@ -1,0 +1,1 @@
+{"text": "Good looking, quartz, stylish watch. Keeps good time. Sporty yet has a bit of flash (that isn't really picked up in the promo pics). Definitely a good value!", "sentiment": "negative", "topics": {"0": "0.19560146", "2": "0.0976074", "3": "0.2439358", "4": "0.0941449", "5": "0.3047554", "6": "0.057110243"}}

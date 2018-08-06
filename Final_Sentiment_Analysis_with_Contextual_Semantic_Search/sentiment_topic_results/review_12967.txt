@@ -1,0 +1,1 @@
+{"text": "The cotton is not as soft as the Jockey underwear I have bought him in the past, but the price is good and hubby likes the color variety and the tagless waistband.", "sentiment": "negative", "topics": {"1": "0.26939866", "2": "0.09304962", "3": "0.3540735", "5": "0.14480212", "6": "0.119570285"}}

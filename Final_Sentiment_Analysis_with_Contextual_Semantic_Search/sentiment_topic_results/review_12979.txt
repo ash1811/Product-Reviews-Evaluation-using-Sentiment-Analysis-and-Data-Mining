@@ -1,0 +1,1 @@
+{"text": "Bra is very comfortable.  I've worn Olga bras for years but the old style was discontinued; this was a new one.  I'm liking it.", "sentiment": "negative", "topics": {"0": "0.13183126", "1": "0.3810443", "3": "0.37878117", "6": "0.081402"}}

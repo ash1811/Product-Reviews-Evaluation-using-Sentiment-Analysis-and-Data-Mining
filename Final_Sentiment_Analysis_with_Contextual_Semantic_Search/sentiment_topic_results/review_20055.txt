@@ -1,0 +1,1 @@
+{"text": "I bought this for my daughter for Christmas. I searched all sites and found that this was the best backpack for the money!!", "sentiment": "negative", "topics": {"0": "0.014318608", "1": "0.01431994", "2": "0.24150744", "3": "0.014313729", "4": "0.014322041", "5": "0.68690675", "6": "0.014311557"}}

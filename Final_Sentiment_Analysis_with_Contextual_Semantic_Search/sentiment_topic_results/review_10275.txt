@@ -1,0 +1,1 @@
+{"text": "Gave this as a present to my nephew for his golden retriever and it looks very spiffy on him, both of them, really.", "sentiment": "positive", "topics": {"0": "0.3589971", "1": "0.2762777", "2": "0.013062793", "3": "0.013110218", "4": "0.19105197", "5": "0.13450462", "6": "0.012995598"}}

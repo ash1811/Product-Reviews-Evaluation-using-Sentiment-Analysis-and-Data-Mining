@@ -1,0 +1,1 @@
+{"text": "I have bunions and this shoe makes room for that.  They are well made and look nice with jeans or slacks.  I love them.", "sentiment": "negative", "topics": {"0": "0.010236437", "1": "0.1857317", "2": "0.12193636", "3": "0.4636754", "4": "0.13179633", "5": "0.010252809", "6": "0.07637095"}}

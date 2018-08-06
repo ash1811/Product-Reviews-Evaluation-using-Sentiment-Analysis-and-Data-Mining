@@ -1,0 +1,1 @@
+{"text": "Summer time and I was looking for a hat for my 9 yrs boy. The stone color  was available at a good price and the delivery was quick as always.", "sentiment": "negative", "topics": {"1": "0.613949", "4": "0.20950171", "6": "0.14070494"}}

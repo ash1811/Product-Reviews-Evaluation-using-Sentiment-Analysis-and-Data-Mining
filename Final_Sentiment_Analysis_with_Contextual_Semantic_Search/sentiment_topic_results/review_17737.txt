@@ -1,0 +1,1 @@
+{"text": "I wanted a watch that showed time day and date. This watch does all things, and keeps excellent time .I would recommend this timepiece to all.", "sentiment": "negative", "topics": {"2": "0.4646231", "4": "0.49316698"}}

@@ -1,0 +1,1 @@
+{"text": "Uggs are very comfy and this color is different for me but brought them anyway so glad I did fun color brought a purse the same color beyond happy about that .... Jus wish they had more on sale", "sentiment": "negative", "topics": {"0": "0.1072463", "1": "0.2349501", "2": "0.34577233", "4": "0.13238014", "5": "0.088296354", "6": "0.083411306"}}

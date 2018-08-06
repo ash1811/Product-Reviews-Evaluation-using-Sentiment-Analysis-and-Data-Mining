@@ -1,0 +1,1 @@
+{"text": "&#34;Black quartz&#34; is NOT black.. It's actually a deep dark navy.  If I'd known, I would have looked for other options.", "sentiment": "positive", "topics": {"0": "0.12066342", "1": "0.3832265", "2": "0.01105305", "3": "0.18826652", "4": "0.01102057", "5": "0.10535114", "6": "0.18041882"}}

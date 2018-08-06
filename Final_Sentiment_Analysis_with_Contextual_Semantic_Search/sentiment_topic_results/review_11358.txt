@@ -1,0 +1,1 @@
+{"text": "I went to a Jockey outlet and they did not have these.  They are a little pricey but very impressed with the prompt delivery and product quality", "sentiment": "negative", "topics": {"0": "0.31113514", "1": "0.11690581", "2": "0.01191425", "3": "0.011936135", "4": "0.011958537", "5": "0.2420808", "6": "0.29406932"}}

@@ -1,0 +1,1 @@
+{"text": "My daughters have had pair after pair of Vans after growing out of the prior ones.  Nothing much to say except these are perfect as always!", "sentiment": "negative", "topics": {"0": "0.010221521", "1": "0.4073863", "2": "0.20850146", "3": "0.0102557745", "4": "0.010250092", "5": "0.14100175", "6": "0.21238312"}}

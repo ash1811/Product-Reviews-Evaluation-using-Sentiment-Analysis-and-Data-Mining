@@ -1,0 +1,1 @@
+{"text": "Carry your phone, calculator, pen, scissors, pocket knife, camera.  Large enough for a lot of stuff--maybe even a small pistol.", "sentiment": "negative", "topics": {"1": "0.16039863", "2": "0.38704383", "4": "0.3461566", "6": "0.07951961"}}

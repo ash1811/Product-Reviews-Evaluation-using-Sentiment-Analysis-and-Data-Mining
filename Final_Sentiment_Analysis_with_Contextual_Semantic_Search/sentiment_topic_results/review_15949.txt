@@ -1,0 +1,1 @@
+{"text": "This is a well made low profile hat with an adjustable band. It's a great hat for people that don't particularity like hats.", "sentiment": "positive", "topics": {"0": "0.18910064", "1": "0.3125691", "2": "0.11729721", "3": "0.35034442", "4": "0.010234873", "5": "0.010223073", "6": "0.010230677"}}

@@ -1,0 +1,1 @@
+{"text": "Worked great for my tummy not so much for my thighs. To get these things on your going to have to do the getting on too tight pants dance they are tight! I had to have my husband help me pull these things up", "sentiment": "positive", "topics": {"1": "0.47997898", "2": "0.08655348", "4": "0.087425694", "6": "0.3221825"}}

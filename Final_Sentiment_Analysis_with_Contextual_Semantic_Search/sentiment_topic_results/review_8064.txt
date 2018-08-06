@@ -1,0 +1,1 @@
+{"text": "I've worn these to work every day to work over the summer and they are great. They fit well on my wide feet and are extremely comfortable. It was a bit tight on the top but loosened up after a bit of wear. Excellent shoe.", "sentiment": "negative", "topics": {"1": "0.403386", "2": "0.15011473", "3": "0.3059164", "6": "0.121848695"}}

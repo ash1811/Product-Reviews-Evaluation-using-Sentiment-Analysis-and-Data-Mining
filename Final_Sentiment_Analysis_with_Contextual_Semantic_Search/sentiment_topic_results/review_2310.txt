@@ -1,0 +1,1 @@
+{"text": "Really nice purchase. They do require some buffing as any leather product does over time. They fit my fiance well, but took awhile to break in. Be sure to give yourself plenty of time to wear them to break them in.", "sentiment": "positive", "topics": {"1": "0.26515484", "2": "0.10926644", "3": "0.25023353", "4": "0.06256747", "5": "0.30033067"}}

@@ -1,0 +1,1 @@
+{"text": "These are a great value, very warm and a nice heavy weight.  They come small so I would order the next size up because they will srink a little when you wash them.  Don't forget the bottoms.  They are great too.", "sentiment": "negative", "topics": {"0": "0.11083485", "1": "0.33708617", "2": "0.1894822", "5": "0.15076876", "6": "0.19816889"}}

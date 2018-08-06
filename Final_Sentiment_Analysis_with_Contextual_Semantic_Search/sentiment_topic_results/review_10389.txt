@@ -1,0 +1,1 @@
+{"text": "After going back and forth for about 3 years, I finally broke down and bought them for my daughter. She has the other brand and immediately felt the difference.", "sentiment": "negative", "topics": {"0": "0.34805277", "1": "0.3651165", "2": "0.0102889845", "3": "0.161497", "4": "0.010217029", "5": "0.010240702", "6": "0.09458701"}}

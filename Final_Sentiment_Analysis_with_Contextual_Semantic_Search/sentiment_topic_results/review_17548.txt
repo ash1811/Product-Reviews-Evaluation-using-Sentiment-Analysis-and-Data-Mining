@@ -1,0 +1,1 @@
+{"text": "Can't beat a classic.  Starting a new generation on the watch I had forever.  Nicely sized for a pre-teen.  Hasn't been in use long, so cannot confirm if durability is the same as it used to be.", "sentiment": "negative", "topics": {"0": "0.06233506", "1": "0.34096053", "2": "0.20233141", "3": "0.15138456", "4": "0.16251367", "6": "0.072946966"}}

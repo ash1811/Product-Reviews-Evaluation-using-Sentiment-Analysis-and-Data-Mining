@@ -1,0 +1,1 @@
+{"text": "Love the size of this backpack.  The red is so vibrant, this backpack holds my high schoolers array of books.", "sentiment": "positive", "topics": {"0": "0.11129513", "1": "0.13003592", "2": "0.39608553", "3": "0.32676134", "4": "0.011949667", "5": "0.011919693", "6": "0.011952687"}}

@@ -1,0 +1,1 @@
+{"text": "I've been wearing the 514 for years, mainly in rigid. Ordered my size in the 3D finish fabric toChange things up.  The jeans were about 2 inches too small. Order up a size or two from your regular if you go with this fabric.", "sentiment": "positive", "topics": {"0": "0.13558228", "1": "0.085703194", "2": "0.26742423", "3": "0.39992002", "5": "0.09992126"}}

@@ -1,0 +1,1 @@
+{"text": "Very comfortable and very good fit.  Tag less is kind of a standard now but still worth mentioning that this product has this feature.  Seems very well made.", "sentiment": "negative", "topics": {"1": "0.5790095", "4": "0.0838643", "5": "0.17613459", "6": "0.1341393"}}

@@ -1,0 +1,1 @@
+{"text": "A really great bag. Sort of small, but very durable and stylish. I got it in black and absolutely love it.", "sentiment": "negative", "topics": {"0": "0.0110312", "1": "0.4672588", "2": "0.3373106", "3": "0.011055447", "4": "0.011052883", "5": "0.0110323215", "6": "0.15125869"}}

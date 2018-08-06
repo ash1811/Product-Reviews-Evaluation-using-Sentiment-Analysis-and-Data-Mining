@@ -1,0 +1,1 @@
+{"text": "I bought these for my 16 year old so for Christmas.  The style is exactly what he wanted. He reports they are very comfortable.Be alerted: these run big.  The size that fits him best is a full size below what he normally wears.", "sentiment": "negative", "topics": {"0": "0.14437592", "1": "0.2893631", "3": "0.26359603", "5": "0.17945004", "6": "0.10957969"}}

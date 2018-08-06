@@ -1,0 +1,1 @@
+{"text": "I am glad I ordered them and getting them so quickly through Amazon Prime was the best!  I am thoroughly satisfied with the jeans and my husband is happy.  Thanks.", "sentiment": "negative", "topics": {"0": "0.21355036", "1": "0.30665737", "2": "0.08941085", "3": "0.010218705", "4": "0.28204036", "5": "0.010251282", "6": "0.08787104"}}

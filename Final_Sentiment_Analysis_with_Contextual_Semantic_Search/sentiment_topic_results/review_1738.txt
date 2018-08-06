@@ -1,0 +1,1 @@
+{"text": "The hubby just loves these. they run true to size and just the right amount of butt cheek shows. The lace around the leg openings is not scratchy and lays flat. They flatter the VaJJ and leave something to the imagination.", "sentiment": "negative", "topics": {"1": "0.22375314", "2": "0.06866805", "3": "0.4669945", "5": "0.16055825", "6": "0.0680696"}}

@@ -1,0 +1,1 @@
+{"text": "I bought some white shoes similiar to these in the summer that were so comfortable. So, when I saw these, I didn't hesitate to purchase them. I got the black patent & they look pretty cute. I wear them with jeans or dress pants.", "sentiment": "negative", "topics": {"0": "0.20418029", "1": "0.2715104", "2": "0.13892442", "3": "0.13555253", "5": "0.23738746"}}

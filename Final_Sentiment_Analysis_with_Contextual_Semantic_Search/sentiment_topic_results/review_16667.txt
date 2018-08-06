@@ -1,0 +1,1 @@
+{"text": "The sunglasses are reflective which I was looking for, and very dark on the inside. Will make a great gift for yourself or others!", "sentiment": "positive", "topics": {"0": "0.15042557", "1": "0.2850565", "2": "0.15267223", "3": "0.27718914", "4": "0.013002007", "5": "0.013007507", "6": "0.10864708"}}

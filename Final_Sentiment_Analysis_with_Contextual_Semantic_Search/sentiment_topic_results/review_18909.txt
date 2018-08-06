@@ -1,0 +1,1 @@
+{"text": "fine jean, it came the size i needed and it's very confortably day by day everyday.. I recommended for everyone", "sentiment": "negative", "topics": {"0": "0.23221467", "1": "0.011912093", "2": "0.21254492", "3": "0.011930761", "4": "0.07964195", "5": "0.011980374", "6": "0.43977526"}}

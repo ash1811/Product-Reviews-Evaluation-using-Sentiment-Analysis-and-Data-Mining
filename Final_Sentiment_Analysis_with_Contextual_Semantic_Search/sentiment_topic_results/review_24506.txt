@@ -1,0 +1,1 @@
+{"text": "i am a about a 2/3x and i always order a size up in tights. the crotch didnt even go past my knees :(", "sentiment": "negative", "topics": {"0": "0.16607438", "1": "0.46445122", "2": "0.011977845", "3": "0.16912402", "4": "0.011931292", "5": "0.16448459", "6": "0.011956618"}}

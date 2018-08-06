@@ -1,0 +1,1 @@
+{"text": "If you are looking for fun undies you can't go wrong with these. Great value and what I like is the elastic which is just the right size to be comfortable but hold in place.", "sentiment": "negative", "topics": {"1": "0.50915647", "2": "0.21664089", "3": "0.24044497"}}

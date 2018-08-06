@@ -1,0 +1,1 @@
+{"text": "The stitch shoes are the only ones my mom can wear with all her foot problems.  She wanted red and the style she has was out of red so I tried these.  This style was too tight in the toes.", "sentiment": "negative", "topics": {"0": "0.13369797", "1": "0.44077945", "2": "0.13696805", "4": "0.10987267", "5": "0.16184573"}}

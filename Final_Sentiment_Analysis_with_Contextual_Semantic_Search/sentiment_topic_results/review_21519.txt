@@ -1,0 +1,1 @@
+{"text": "comfortable, soft, good product, good vendor, price good.On my feed all day, give soft padding and comfort all day", "sentiment": "negative", "topics": {"1": "0.46130875", "2": "0.06789802", "5": "0.31265518", "6": "0.13131373"}}

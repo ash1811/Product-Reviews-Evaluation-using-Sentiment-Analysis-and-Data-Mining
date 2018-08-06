@@ -1,0 +1,1 @@
+{"text": "Too small to fit two sets of keys (house and car), a mobile and cards / cash. I Returned it.", "sentiment": "negative", "topics": {"0": "0.011007437", "1": "0.21244656", "2": "0.52465093", "3": "0.14709035", "4": "0.08278329", "5": "0.011001074", "6": "0.011020411"}}

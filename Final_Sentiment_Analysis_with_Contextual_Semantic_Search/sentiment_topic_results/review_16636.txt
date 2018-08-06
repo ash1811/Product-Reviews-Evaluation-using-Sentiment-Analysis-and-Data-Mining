@@ -1,0 +1,1 @@
+{"text": "This watch is a great equipment for mtb. I'm a mountainbiker and I used it for locations view and altimeter. It is easy to use it and confortable.", "sentiment": "positive", "topics": {"0": "0.19748165", "1": "0.01026831", "2": "0.27478108", "3": "0.16611321", "4": "0.010231787", "5": "0.010245338", "6": "0.3308786"}}

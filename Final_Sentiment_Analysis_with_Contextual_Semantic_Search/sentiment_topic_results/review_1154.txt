@@ -1,0 +1,1 @@
+{"text": "Comfortable and now I never want to go back to straps.  It is great with tank tops and off the shoulder.", "sentiment": "negative", "topics": {"0": "0.0130495485", "1": "0.38197154", "2": "0.14275545", "3": "0.32500365", "4": "0.01311341", "5": "0.013077294", "6": "0.11102912"}}

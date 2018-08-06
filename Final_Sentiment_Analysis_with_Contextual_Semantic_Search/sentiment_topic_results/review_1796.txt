@@ -1,0 +1,1 @@
+{"text": "Purchased these for grandson! They are so soft. They wash very well. Will be purchasing more soon. Seem to be very comfortable", "sentiment": "negative", "topics": {"0": "0.014339593", "1": "0.7308189", "2": "0.014381793", "3": "0.01440266", "4": "0.19728567", "5": "0.014385244", "6": "0.014386108"}}

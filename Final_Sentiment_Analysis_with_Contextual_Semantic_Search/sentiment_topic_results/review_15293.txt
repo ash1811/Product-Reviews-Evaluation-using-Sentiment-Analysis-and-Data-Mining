@@ -1,0 +1,1 @@
+{"text": "Shipping was quick and on time, fits good true to size. I like the pockets they're nice and big to keep your phone or whatever else you would need to have with you through out the day. Would recommend and buy from the company again.", "sentiment": "negative", "topics": {"1": "0.5380281", "2": "0.055684928", "4": "0.19771612", "6": "0.19135842"}}

@@ -1,0 +1,1 @@
+{"text": "I think it is somewhat aqua, and an Aurora Borealis color.  I reserve this for special occasions.  Very ethereal.  Goes good with bright stuff.", "sentiment": "negative", "topics": {"0": "0.31249985", "1": "0.31682387", "2": "0.124222785", "3": "0.04973031", "4": "0.17757711"}}

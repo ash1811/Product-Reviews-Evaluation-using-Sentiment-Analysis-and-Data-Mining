@@ -1,0 +1,1 @@
+{"text": "Excelente producto, de muy buena calidad, fue un regalo a mi sobrino y le gustaron muchisimo. El producto llego en el tiempo estipulado y es exactamente lo que se pidio. Excelente vendedor.", "sentiment": "negative", "topics": {"1": "0.34548053", "2": "0.14012514", "3": "0.17880811", "5": "0.17894198", "6": "0.14705864"}}

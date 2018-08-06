@@ -1,0 +1,1 @@
+{"text": "my male hairdresser really wanted these when he saw me unbox them for my son.  A teenage dream style.  Good for boys and cute but a bit on the wide side for girl feet.", "sentiment": "negative", "topics": {"1": "0.41363835", "2": "0.26184347", "3": "0.1675147", "4": "0.09032522", "6": "0.051574327"}}

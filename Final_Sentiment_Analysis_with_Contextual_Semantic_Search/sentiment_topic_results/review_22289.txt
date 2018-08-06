@@ -1,0 +1,1 @@
+{"text": "these socks are extremely comfortable, i really do recommend these to everyone, the keep your toes separated and are pretty affordable.", "sentiment": "negative", "topics": {"0": "0.011949158", "1": "0.44223735", "2": "0.011952121", "3": "0.011982757", "4": "0.011916209", "5": "0.41004416", "6": "0.09991825"}}

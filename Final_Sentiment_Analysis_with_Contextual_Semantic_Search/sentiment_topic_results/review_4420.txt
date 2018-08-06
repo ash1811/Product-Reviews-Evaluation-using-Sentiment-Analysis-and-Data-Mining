@@ -1,0 +1,1 @@
+{"text": "Bought 4 pair of these jeans since size is hard to find on stores.  Gave as a gift because they couldn't find locally.", "sentiment": "negative", "topics": {"0": "0.27548805", "1": "0.010312744", "2": "0.010218077", "3": "0.13388637", "4": "0.54959995", "5": "0.010246491", "6": "0.010248358"}}

@@ -1,0 +1,1 @@
+{"text": "what can I say about New Balance except that it fits my feet, is comfortable to wear is great looking and I can walk for miles without my feet feeling tired.  great support", "sentiment": "negative", "topics": {"1": "0.5576112", "3": "0.2240663", "4": "0.10578853", "6": "0.089928605"}}

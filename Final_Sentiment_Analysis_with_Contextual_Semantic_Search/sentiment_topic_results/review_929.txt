@@ -1,0 +1,1 @@
+{"text": "Good for the price.. It is very light but not comfortable. Overall it is okay and I recommend it over other brands", "sentiment": "negative", "topics": {"0": "0.015944244", "1": "0.6326271", "2": "0.015896069", "3": "0.14251322", "4": "0.015908357", "5": "0.015906163", "6": "0.16120487"}}

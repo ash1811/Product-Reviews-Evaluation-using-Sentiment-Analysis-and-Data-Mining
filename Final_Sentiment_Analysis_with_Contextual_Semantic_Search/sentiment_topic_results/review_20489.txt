@@ -1,0 +1,1 @@
+{"text": "It get the job done, that's all I needed it to do. To use the Link Remover doesn't take much trouble, it's easy to use.", "sentiment": "negative", "topics": {"1": "0.4157364", "2": "0.18760058", "5": "0.19241989", "6": "0.17554934"}}

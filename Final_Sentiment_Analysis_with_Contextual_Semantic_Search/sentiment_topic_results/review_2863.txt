@@ -1,0 +1,1 @@
+{"text": "Nice, I have bought three different colors already and all of them are great!The cotton seems just right for temp around 15~20 degree Celsius.", "sentiment": "negative", "topics": {"1": "0.34939146", "2": "0.078406", "3": "0.43105847", "6": "0.114278495"}}

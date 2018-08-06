@@ -1,0 +1,1 @@
+{"text": "These are good basic jeans. Durable fabric. Fit well. Not as stylish as a boot cut jean, but work well for casual wear.", "sentiment": "positive", "topics": {"1": "0.4520896", "4": "0.06144243", "5": "0.28209737", "6": "0.17753845"}}

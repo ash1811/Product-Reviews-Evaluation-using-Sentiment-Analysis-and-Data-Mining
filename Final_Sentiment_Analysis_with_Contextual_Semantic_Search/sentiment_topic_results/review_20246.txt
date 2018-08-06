@@ -1,0 +1,1 @@
+{"text": "Well, these are shoe trees.  The cedar is very nice and holds the shape of the shoe better than other mediums (plastic, et al).  If you use shoe trees, these are perfect for what you need.", "sentiment": "negative", "topics": {"1": "0.35844356", "2": "0.20531109", "3": "0.15305139", "4": "0.07471191", "6": "0.19343096"}}

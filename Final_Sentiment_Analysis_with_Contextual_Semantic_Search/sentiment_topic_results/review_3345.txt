@@ -1,0 +1,1 @@
+{"text": "This bra is well made and the color lovely. The only problem is that the cups are to big for me and need to be returned.", "sentiment": "negative", "topics": {"0": "0.012997905", "1": "0.44639105", "2": "0.013014021", "3": "0.21459985", "4": "0.19573128", "5": "0.013013047", "6": "0.10425287"}}

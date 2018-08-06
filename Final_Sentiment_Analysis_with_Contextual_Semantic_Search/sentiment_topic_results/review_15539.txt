@@ -1,0 +1,1 @@
+{"text": "I was hoping these would soften up in the wash but so far they have not.  I don't wear them but since I washed them, I can't return.  I would if I could.", "sentiment": "negative", "topics": {"1": "0.5138114", "3": "0.22561216", "6": "0.22229542"}}

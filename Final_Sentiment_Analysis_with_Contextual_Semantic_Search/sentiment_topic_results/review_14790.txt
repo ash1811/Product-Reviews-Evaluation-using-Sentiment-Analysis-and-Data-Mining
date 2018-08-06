@@ -1,0 +1,1 @@
+{"text": "Cleans jewelery well enough to lift of grime and dirt but not the &#34;right ouf of the Jewelery store&#34; look.", "sentiment": "positive", "topics": {"0": "0.61100835", "1": "0.26672906", "2": "0.07823891", "3": "0.011002009", "4": "0.011014651", "5": "0.0110155055", "6": "0.0109914895"}}

@@ -1,0 +1,1 @@
+{"text": "Very cheaply made with a thin covering of leather over padding to add substance. A disappointing product. Older versions of the same shoe were made much better.", "sentiment": "negative", "topics": {"0": "0.08042655", "1": "0.25458747", "2": "0.36157095", "5": "0.2223841", "6": "0.064167015"}}

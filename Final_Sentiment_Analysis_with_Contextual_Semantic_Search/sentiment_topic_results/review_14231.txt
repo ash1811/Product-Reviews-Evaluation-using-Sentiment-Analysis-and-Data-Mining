@@ -1,0 +1,1 @@
+{"text": "Good quality flip flops, comfortable and true size. Planning on getting another pair. Really good for the price. Love them.", "sentiment": "negative", "topics": {"1": "0.619728", "2": "0.08272141", "3": "0.26385897"}}

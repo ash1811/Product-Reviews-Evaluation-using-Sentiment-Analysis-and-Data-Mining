@@ -1,0 +1,1 @@
+{"text": "I couldn't believe this.  It's so small in size and there is no give to the elasticity in it at all.  Going back.  I ordered the biggest size and I'm not sure even a stick figure could fit into it.  It's sooooo tiny.", "sentiment": "negative", "topics": {"1": "0.3054277", "2": "0.1485633", "3": "0.26917896", "4": "0.055577222", "5": "0.20878568"}}

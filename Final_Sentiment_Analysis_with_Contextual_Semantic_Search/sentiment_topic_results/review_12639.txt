@@ -1,0 +1,1 @@
+{"text": "these are great slip on shoes.....for casual wear or walking.  I would recommend.  They fit perfectly and easy to get on or off.I bought four pairs.....great for a vacation or summer wear with shorts or pants or capris", "sentiment": "positive", "topics": {"0": "0.33870992", "1": "0.32091227", "5": "0.16260651", "6": "0.1591064"}}

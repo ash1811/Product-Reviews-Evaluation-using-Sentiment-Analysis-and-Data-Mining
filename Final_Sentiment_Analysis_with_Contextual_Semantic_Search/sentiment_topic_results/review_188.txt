@@ -1,0 +1,1 @@
+{"text": "I ordered the same size in the Russell No Pocket Cotton Shorts -- and they fit perfectly. These were way too big - and came down past my husband's knees.", "sentiment": "negative", "topics": {"0": "0.12931691", "1": "0.47361645", "3": "0.24396296", "4": "0.124459885"}}

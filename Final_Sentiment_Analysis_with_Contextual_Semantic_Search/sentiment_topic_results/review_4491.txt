@@ -1,0 +1,1 @@
+{"text": "I needed black pants for a trip and these were easy to find and fit as expected. I have a hard time finding my rather short leg length in stores.  Price was full retail, but reasonable enough.", "sentiment": "negative", "topics": {"0": "0.32973883", "1": "0.30994293", "3": "0.21499094", "4": "0.1257699"}}

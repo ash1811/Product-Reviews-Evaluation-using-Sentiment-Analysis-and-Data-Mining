@@ -1,0 +1,1 @@
+{"text": "I purchased this chain to match with a silver locket I had...and it works great! The chain is delicate looking but has proven to be very resilient.", "sentiment": "negative", "topics": {"0": "0.102795474", "1": "0.19833235", "2": "0.010209796", "3": "0.2806112", "4": "0.17341805", "5": "0.13788989", "6": "0.096743226"}}

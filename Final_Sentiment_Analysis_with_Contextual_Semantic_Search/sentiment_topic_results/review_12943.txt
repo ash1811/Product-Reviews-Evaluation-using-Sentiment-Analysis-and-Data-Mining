@@ -1,0 +1,1 @@
+{"text": "Wife loves Skechers. She owns too many, but the price is right compared to shoe stores. They fit great, comfortable, and they last.", "sentiment": "negative", "topics": {"1": "0.44570878", "2": "0.08213948", "3": "0.10753119", "4": "0.2513685", "5": "0.094171695"}}

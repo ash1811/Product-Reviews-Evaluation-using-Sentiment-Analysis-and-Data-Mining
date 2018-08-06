@@ -1,0 +1,1 @@
+{"text": "I normally wear Dockers but they don't have this shade of grey.  Fits me just a good a Dockers at a much lower price.", "sentiment": "negative", "topics": {"0": "0.011926406", "1": "0.3875438", "2": "0.01194131", "3": "0.011919695", "4": "0.15569475", "5": "0.40905586", "6": "0.011918162"}}

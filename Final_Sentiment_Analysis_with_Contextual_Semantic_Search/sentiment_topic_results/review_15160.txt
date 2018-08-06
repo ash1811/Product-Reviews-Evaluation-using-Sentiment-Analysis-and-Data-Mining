@@ -1,0 +1,1 @@
+{"text": "Cute, true to size, and comfortable as can be!  Love the memory foam insoles & I might buy another pair in different color!", "sentiment": "positive", "topics": {"0": "0.10910988", "1": "0.5239796", "3": "0.23418798", "4": "0.10586165"}}

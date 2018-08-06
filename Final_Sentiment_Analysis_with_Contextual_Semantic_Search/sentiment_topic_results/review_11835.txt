@@ -1,0 +1,1 @@
+{"text": "I got these for my daughter at 16 months. She loves to jump in puddles and play at the water park, and these were perfect!", "sentiment": "positive", "topics": {"0": "0.011947933", "1": "0.2036105", "2": "0.089310564", "3": "0.41437134", "4": "0.011947357", "5": "0.2568737", "6": "0.011938614"}}

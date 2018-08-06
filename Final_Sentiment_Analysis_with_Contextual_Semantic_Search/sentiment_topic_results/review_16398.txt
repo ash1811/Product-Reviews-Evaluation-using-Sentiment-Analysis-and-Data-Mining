@@ -1,0 +1,1 @@
+{"text": "Since I live in SoCal I'm in my sandals/flip flops a lot! These are nice causal sandals to wear around the house and they're very comfortable!*I'm reviewing the Black Charcoal sandals*", "sentiment": "positive", "topics": {"0": "0.06947472", "1": "0.2534111", "2": "0.185444", "3": "0.14473878", "4": "0.09236447", "5": "0.24739484"}}

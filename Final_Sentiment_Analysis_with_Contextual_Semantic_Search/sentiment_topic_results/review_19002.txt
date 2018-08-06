@@ -1,0 +1,1 @@
+{"text": "Excellent article.It was what I expected.Excellent Shoe and good service delivery.I am satisfied with the package.I recommend them.My daughter loves it.", "sentiment": "negative", "topics": {"0": "0.1630558", "1": "0.25993142", "2": "0.23872302", "4": "0.2420013", "6": "0.077190556"}}

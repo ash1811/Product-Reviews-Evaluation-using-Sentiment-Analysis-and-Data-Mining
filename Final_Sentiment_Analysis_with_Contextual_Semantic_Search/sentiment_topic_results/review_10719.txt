@@ -1,0 +1,1 @@
+{"text": "was too narrow for my fathers foot. So make sure you don't have a wide foot when purchasing.", "sentiment": "negative", "topics": {"0": "0.015891744", "1": "0.21919511", "2": "0.16385184", "3": "0.20257743", "4": "0.23737091", "5": "0.015952364", "6": "0.14516062"}}

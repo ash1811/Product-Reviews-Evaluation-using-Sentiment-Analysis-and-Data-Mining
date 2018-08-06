@@ -1,0 +1,1 @@
+{"text": "These slippers are fine. They look nice and are comfortable, the sole is sturdy. They are just too wide for my feet but I have skinny feet. Otherwise they are great.", "sentiment": "negative", "topics": {"0": "0.010219911", "1": "0.4405207", "2": "0.08621601", "3": "0.11242242", "4": "0.19144787", "5": "0.010256781", "6": "0.14891629"}}

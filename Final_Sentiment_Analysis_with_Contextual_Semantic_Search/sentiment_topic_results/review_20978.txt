@@ -1,0 +1,1 @@
+{"text": "Yep, pretty happy with these.. a bit tight at first, wish i could have tried on first in a shop.  But they serve the purpose, comfortable and love the colour pink!", "sentiment": "positive", "topics": {"1": "0.49700502", "3": "0.088309266", "4": "0.23148479", "5": "0.087636985", "6": "0.08042422"}}

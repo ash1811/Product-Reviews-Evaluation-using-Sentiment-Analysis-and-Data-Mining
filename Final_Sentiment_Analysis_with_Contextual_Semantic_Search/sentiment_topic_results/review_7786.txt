@@ -1,0 +1,1 @@
+{"text": "Inside of the boot there's a weird chunk of material that hurts when I walked just a couple steps in these boots. A shame because otherwise these seem like pretty great boots.", "sentiment": "negative", "topics": {"1": "0.3880187", "2": "0.13569789", "3": "0.07951381", "4": "0.22174633", "6": "0.15994798"}}

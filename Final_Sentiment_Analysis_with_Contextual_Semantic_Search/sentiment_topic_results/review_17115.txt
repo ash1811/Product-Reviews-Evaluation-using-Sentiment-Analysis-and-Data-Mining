@@ -1,0 +1,1 @@
+{"text": "Our very active 5 year old wears these everyday to summer camp for swimming, bike riding, climbing trees ect without socks or injuries.  He simply loves them!", "sentiment": "negative", "topics": {"1": "0.15503389", "3": "0.24554802", "4": "0.2853877", "5": "0.1590172", "6": "0.14134762"}}

@@ -1,0 +1,1 @@
+{"text": "perfect for me. cheep, stylish, strong, waterproof. great for everyday use. i love the pink and gray. very easy to use and would buy it again.", "sentiment": "positive", "topics": {"1": "0.221352", "3": "0.20598927", "4": "0.28651515", "5": "0.09610379", "6": "0.17414218"}}

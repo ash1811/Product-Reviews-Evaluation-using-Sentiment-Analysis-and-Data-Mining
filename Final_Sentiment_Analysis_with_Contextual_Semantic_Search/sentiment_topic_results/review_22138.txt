@@ -1,0 +1,1 @@
+{"text": "These are truly well made liners, thicker than some, but warm enough for mild tempertures without an over glove and fits well under outdoor gloves.  Very pleased.", "sentiment": "negative", "topics": {"1": "0.6323547", "2": "0.1653474", "4": "0.120366134", "6": "0.05809233"}}

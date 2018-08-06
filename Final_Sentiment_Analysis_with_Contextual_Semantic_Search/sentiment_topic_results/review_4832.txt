@@ -1,0 +1,1 @@
+{"text": "Very pretty, durable and amazingly warm..!! A great addition to any outfit, they fit perfectly, and they come up high on me and I'm 5'4&#34;, they fit perfect.", "sentiment": "positive", "topics": {"1": "0.8091636", "5": "0.080638446", "6": "0.07437199"}}

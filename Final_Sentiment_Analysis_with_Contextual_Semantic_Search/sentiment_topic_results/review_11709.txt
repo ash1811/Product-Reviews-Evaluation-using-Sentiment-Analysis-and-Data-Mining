@@ -1,0 +1,1 @@
+{"text": "I was a little nervous about shopping for bras online, worrying about the size won't fit. They actually fit perfectly! Very comfortable. Recommend!", "sentiment": "positive", "topics": {"0": "0.010211914", "1": "0.43996525", "2": "0.010235108", "3": "0.17725955", "4": "0.010224246", "5": "0.3418634", "6": "0.010240511"}}

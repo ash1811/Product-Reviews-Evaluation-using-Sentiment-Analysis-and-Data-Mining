@@ -1,0 +1,1 @@
+{"text": "I have had several abdominal surgeries and have no muscles that work in that area.  After the last one two months ago I was having trouble fitting into pants.  This holds me in firmly and is very comfortable.", "sentiment": "negative", "topics": {"1": "0.41567603", "3": "0.13779205", "4": "0.17609948", "5": "0.13960852", "6": "0.114887595"}}

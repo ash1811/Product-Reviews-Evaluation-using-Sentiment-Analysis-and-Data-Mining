@@ -1,0 +1,1 @@
+{"text": "it is acrylic.  I new when I bought them.  I just expected for WIGWAM to have used something of a blend to help with softness.  The sock fits fine but it doesn't have that Wigwam feel to them.", "sentiment": "negative", "topics": {"1": "0.2860316", "2": "0.20337571", "3": "0.14118898", "6": "0.34549946"}}

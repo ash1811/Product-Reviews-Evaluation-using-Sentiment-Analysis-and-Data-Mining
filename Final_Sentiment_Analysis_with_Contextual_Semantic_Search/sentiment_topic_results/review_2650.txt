@@ -1,0 +1,1 @@
+{"text": "Runs large. Consider sizing down when ordering. XL fits like a 2X. Colour is not as bright as shown in the photo. Material is not see thru and is good weight.", "sentiment": "negative", "topics": {"1": "0.5657111", "2": "0.08200217", "3": "0.17244504", "4": "0.05709416", "6": "0.10763496"}}

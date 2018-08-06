@@ -1,0 +1,1 @@
+{"text": "Fit great. Love them. Wish they had more colors. Only black and white in my size. Otherwise I would have given them 5 stars.", "sentiment": "negative", "topics": {"1": "0.26145926", "2": "0.25379145", "3": "0.33205605", "5": "0.124008276"}}

@@ -1,0 +1,1 @@
+{"text": "This shirt shrinks a lot after washed. It was cut over-sized, so I bought a size smaller, but after washed, it became true to size. That said, the shirt I bought for my husband ended up being one size too small.", "sentiment": "positive", "topics": {"0": "0.15143093", "1": "0.41546908", "3": "0.31728578", "4": "0.09626805"}}

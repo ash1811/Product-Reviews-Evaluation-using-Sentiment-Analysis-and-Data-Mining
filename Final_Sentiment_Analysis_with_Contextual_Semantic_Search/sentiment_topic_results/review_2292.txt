@@ -1,0 +1,1 @@
+{"text": "Have not been able to find in stores for a few years. Husband loves these. Most undies are to baggie in the butt for him. These provide the support he likes and are not baggie.", "sentiment": "negative", "topics": {"1": "0.2835475", "3": "0.2397178", "4": "0.25459063", "5": "0.19525303"}}

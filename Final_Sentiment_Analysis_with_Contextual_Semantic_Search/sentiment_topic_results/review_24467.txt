@@ -1,0 +1,1 @@
+{"text": "I bought these for my girlfriend.  Jewelry can be hit or miss with her, but she really likes these.  For the price they are a must buy if you are considering.", "sentiment": "positive", "topics": {"0": "0.4727023", "1": "0.39606807", "2": "0.010216189", "3": "0.09034629", "4": "0.010218567", "5": "0.010223053", "6": "0.010225562"}}

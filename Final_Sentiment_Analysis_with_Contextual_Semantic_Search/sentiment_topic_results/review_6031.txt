@@ -1,0 +1,1 @@
+{"text": "This was a gift for my mother in law. She loved it as she is able to add to her heart locket as her grandchildren are welcomed into the world.", "sentiment": "negative", "topics": {"0": "0.3173655", "1": "0.012058425", "2": "0.22518553", "3": "0.1945722", "4": "0.1267481", "5": "0.011921604", "6": "0.11214862"}}

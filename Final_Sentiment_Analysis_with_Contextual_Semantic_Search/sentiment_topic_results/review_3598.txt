@@ -1,0 +1,1 @@
+{"text": "this bra fits well. I like it a lot. I do like under wire best so its a good fit and true to size", "sentiment": "positive", "topics": {"0": "0.011009683", "1": "0.5609814", "2": "0.011016228", "3": "0.14440258", "4": "0.010998047", "5": "0.011011005", "6": "0.25058106"}}

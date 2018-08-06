@@ -1,0 +1,1 @@
+{"text": "great for someone on your feet. if you work on your feet these are great. fit well. nice thick cushions good for a day of strong movement.", "sentiment": "negative", "topics": {"0": "0.14596285", "1": "0.5454142", "2": "0.09149265", "4": "0.1902424"}}

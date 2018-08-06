@@ -1,0 +1,1 @@
+{"text": "These shoes fit true to size and are super comfortable.  I wear a size 7, so ordered 38 in these shoes. After wearing these Birks for a week, I ordered another pair in red. No breaking in period.", "sentiment": "positive", "topics": {"0": "0.10800578", "1": "0.43864697", "2": "0.15472254", "3": "0.27910462"}}

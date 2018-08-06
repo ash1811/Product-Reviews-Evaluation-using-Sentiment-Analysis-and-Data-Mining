@@ -1,0 +1,1 @@
+{"text": "Looks great and seems well made - runs narrow though.  They feel alright for length, but were too narrow in wide need extra, extra wide for better fit. Regrettably had to send back due to width.", "sentiment": "negative", "topics": {"0": "0.07672542", "1": "0.3971517", "3": "0.17881207", "4": "0.07162569", "5": "0.19028112", "6": "0.07967703"}}

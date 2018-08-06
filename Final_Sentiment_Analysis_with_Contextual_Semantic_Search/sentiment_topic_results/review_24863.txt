@@ -1,0 +1,1 @@
+{"text": "Kewl slipper (s).Soft and nice on the feet.The fur banting is good too.Dog loves them, so they must me great", "sentiment": "positive", "topics": {"0": "0.010218255", "1": "0.010275768", "2": "0.010217937", "3": "0.26483804", "4": "0.1128276", "5": "0.5361752", "6": "0.055447184"}}

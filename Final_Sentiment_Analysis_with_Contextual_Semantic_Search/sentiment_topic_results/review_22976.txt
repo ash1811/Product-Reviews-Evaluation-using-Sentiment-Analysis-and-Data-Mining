@@ -1,0 +1,1 @@
+{"text": "The holes in the white color can make it seem like you are being indecent, so be careful with that.", "sentiment": "negative", "topics": {"0": "0.014308834", "1": "0.014416779", "2": "0.29146692", "3": "0.26511753", "4": "0.150809", "5": "0.24954684", "6": "0.01433411"}}

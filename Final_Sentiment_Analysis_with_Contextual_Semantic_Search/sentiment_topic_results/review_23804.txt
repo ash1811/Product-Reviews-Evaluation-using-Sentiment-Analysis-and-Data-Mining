@@ -1,0 +1,1 @@
+{"text": "Made a teenager very happy on his sixteenth birthday!  He said they fit perfectly and was excited about wearing them.", "sentiment": "negative", "topics": {"0": "0.14406465", "1": "0.3792161", "2": "0.011960317", "3": "0.2848087", "4": "0.011930446", "5": "0.011921226", "6": "0.15609856"}}

@@ -1,0 +1,1 @@
+{"text": "the rockports are sold as walking shoes but they hurt my feet after about 10 minutes of walking.", "sentiment": "positive", "topics": {"0": "0.014319814", "1": "0.014285921", "2": "0.12693968", "3": "0.014289968", "4": "0.5937336", "5": "0.014401418", "6": "0.22202957"}}

@@ -1,0 +1,1 @@
+{"text": "My husband usually wears a size 12 shoe, but found these to be too tight for his wide foot. Returning the shoes was as quick and efficient as the purchase!", "sentiment": "negative", "topics": {"1": "0.21455616", "2": "0.22862706", "3": "0.24594486", "4": "0.2840134"}}

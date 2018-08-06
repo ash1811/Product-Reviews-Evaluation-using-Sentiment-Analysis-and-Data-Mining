@@ -1,0 +1,1 @@
+{"text": "it is a great shirt for any occasion or just relaxing in. washes well with no wrinkles, and don't shrink", "sentiment": "positive", "topics": {"0": "0.014300764", "1": "0.73189974", "2": "0.014290829", "3": "0.014295836", "4": "0.014308269", "5": "0.19660541", "6": "0.0142992195"}}

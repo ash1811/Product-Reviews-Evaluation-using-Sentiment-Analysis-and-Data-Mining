@@ -1,0 +1,1 @@
+{"text": "I bought this for my one year old for Halloween because I couldn't resist. It's not the typical baby costume and it made me LOL. It's well made and should keep her warm enough. The hat is a bit big but I plan on sewing it a bit to make it smaller to fit.", "sentiment": "negative", "topics": {"0": "0.10977442", "1": "0.3992173", "3": "0.3372219", "4": "0.13724545"}}

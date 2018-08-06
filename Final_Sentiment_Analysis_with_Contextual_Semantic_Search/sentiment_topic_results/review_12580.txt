@@ -1,0 +1,1 @@
+{"text": "This is a nice slip on shoe. Comfortable. Takes a little while to break in however. Buying the right size is important as it stretches a lot, so may feel tight at first", "sentiment": "positive", "topics": {"0": "0.13836838", "1": "0.37016773", "2": "0.1413786", "3": "0.108448416", "6": "0.22655788"}}

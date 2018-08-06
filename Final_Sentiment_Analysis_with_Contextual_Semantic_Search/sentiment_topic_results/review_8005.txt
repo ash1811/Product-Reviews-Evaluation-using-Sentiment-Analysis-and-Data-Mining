@@ -1,0 +1,1 @@
+{"text": "The shoe is fine but it's just too small.  I'm normally a 6M in Sanshas.  I sized up to 6.5 for these, but they're way too small.  I need at least a 7, maybe 7.5.  Material doesn't seem to stretch much.", "sentiment": "negative", "topics": {"0": "0.12909418", "1": "0.08603438", "2": "0.19656807", "4": "0.17137054", "5": "0.21424219", "6": "0.19644888"}}

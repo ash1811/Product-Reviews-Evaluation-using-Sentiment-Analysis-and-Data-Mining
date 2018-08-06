@@ -1,0 +1,1 @@
+{"text": "I like this watch a lot. Is 300 meters water ressistant and never needs batteries. To be sure is full charged I puy it in front a window once a month. Fine!", "sentiment": "negative", "topics": {"0": "0.3508151", "2": "0.37074077", "4": "0.17238036", "6": "0.08346757"}}

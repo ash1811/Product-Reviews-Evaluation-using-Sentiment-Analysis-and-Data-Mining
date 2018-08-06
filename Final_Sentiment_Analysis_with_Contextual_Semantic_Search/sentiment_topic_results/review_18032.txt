@@ -1,0 +1,1 @@
+{"text": "Keep your instructions when you toss the rest of the packing away. You'll want them when you adjust any setting until you get used to it. No second hand, which is fine for me. Nice appearance, and fairly small on your wrist.", "sentiment": "positive", "topics": {"1": "0.5177961", "2": "0.33184105", "4": "0.124231696"}}

@@ -1,0 +1,1 @@
+{"text": "I'm a Cabinetmaker with 35 years of experience. I've been wearing this type of Carhartt pants for years. They are very comfortable, have plenty of pockets for various tools and pencils, etc. They get excellent wear and run tru to size.", "sentiment": "negative", "topics": {"1": "0.42375192", "2": "0.2209817", "3": "0.21655561", "4": "0.07716269", "5": "0.05009585"}}

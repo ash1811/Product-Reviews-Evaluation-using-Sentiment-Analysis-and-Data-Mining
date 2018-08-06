@@ -1,0 +1,1 @@
+{"text": "I'm a pretty standard 34C, but the band was a bit too tight on the widest set of closures. I'm going to order a size up and see, but the fabric and workmanship are great for such an inexpensive bra!", "sentiment": "positive", "topics": {"0": "0.22846483", "1": "0.19217373", "3": "0.17069833", "4": "0.11045443", "5": "0.19388728", "6": "0.09750919"}}

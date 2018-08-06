@@ -1,0 +1,1 @@
+{"text": "When I have such bad luck with it.  Bottomline: good fit; inferior fabric.  Worn two times washed w/dark clothes and there are several small bleached spots.", "sentiment": "positive", "topics": {"0": "0.14511508", "1": "0.36906558", "2": "0.31383365", "4": "0.07533076", "6": "0.08152038"}}

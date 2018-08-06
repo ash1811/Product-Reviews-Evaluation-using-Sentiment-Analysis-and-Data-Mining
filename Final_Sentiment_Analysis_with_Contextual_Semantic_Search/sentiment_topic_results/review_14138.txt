@@ -1,0 +1,1 @@
+{"text": "Bought this as a gift for my niece. The picture was exactly as shown, the material was typical t-shirt material, and the size fit just as expected. No complaints.", "sentiment": "negative", "topics": {"0": "0.30007556", "1": "0.44477212", "6": "0.21693291"}}

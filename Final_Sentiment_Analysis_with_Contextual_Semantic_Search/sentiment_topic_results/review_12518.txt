@@ -1,0 +1,1 @@
+{"text": "Comfly fit...They feel like you are walking on a cloud...Wore them every day this summer and they have held up well..I can use them next summer too", "sentiment": "negative", "topics": {"2": "0.31904835", "5": "0.31621054", "6": "0.3265285"}}

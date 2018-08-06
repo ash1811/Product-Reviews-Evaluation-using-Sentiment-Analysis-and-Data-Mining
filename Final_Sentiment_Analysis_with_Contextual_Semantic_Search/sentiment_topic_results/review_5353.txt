@@ -1,0 +1,1 @@
+{"text": "this is a nice shirt, not to thick or to light its great on hot days and I like that it has apocket. Fits perfict and did not shrink", "sentiment": "negative", "topics": {"0": "0.2791989", "1": "0.54874283", "2": "0.011007918", "3": "0.12796621", "4": "0.011001191", "5": "0.011042295", "6": "0.011040682"}}

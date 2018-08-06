@@ -1,0 +1,1 @@
+{"text": "The jeans are good. It's a little wierd though. I bought these and the &#34;Rugged Wear Relaxed IT Jean,Antique Indigo&#34; jeans. TheThis pair of jean is the same cut and same size but it it tighter than the other pair.", "sentiment": "negative", "topics": {"0": "0.06162124", "3": "0.42591462", "4": "0.4838038"}}

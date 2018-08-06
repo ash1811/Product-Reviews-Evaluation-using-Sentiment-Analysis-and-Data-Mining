@@ -1,0 +1,1 @@
+{"text": "I have been buying Wrangler's forever and you just can't find a better value IMO. They look good and fit just right.", "sentiment": "positive", "topics": {"0": "0.011035492", "1": "0.39282688", "2": "0.011039437", "3": "0.011022607", "4": "0.2718741", "5": "0.29115158", "6": "0.011049925"}}

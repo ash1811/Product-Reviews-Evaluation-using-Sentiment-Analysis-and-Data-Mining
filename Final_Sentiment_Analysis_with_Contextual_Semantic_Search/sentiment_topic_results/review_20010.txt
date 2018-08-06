@@ -1,0 +1,1 @@
+{"text": "The package came in a few short days ( Great! ).. and in excellent condition - It's durable and lightweight which, is exactly what i was hoping for.  Well worth the investment..", "sentiment": "positive", "topics": {"0": "0.3157636", "2": "0.13162819", "5": "0.3954528", "6": "0.13186549"}}

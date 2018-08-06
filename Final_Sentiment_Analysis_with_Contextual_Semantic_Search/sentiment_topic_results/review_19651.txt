@@ -1,0 +1,1 @@
+{"text": "Not as comfortable as the Grenada--my all-time favorite Eastland and, in fact, favorite shoe--but reasonably comfortable for a long day. If I'm on my feet for more than four hours, it starts to hurt.", "sentiment": "negative", "topics": {"0": "0.08388521", "1": "0.22878616", "3": "0.07585203", "4": "0.27263716", "5": "0.1734101", "6": "0.15828249"}}

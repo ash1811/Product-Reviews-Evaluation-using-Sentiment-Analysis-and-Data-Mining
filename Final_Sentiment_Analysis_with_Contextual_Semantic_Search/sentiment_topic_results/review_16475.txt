@@ -1,0 +1,1 @@
+{"text": "This is a very inexpensive, stylish pair of sunglasses that goes well with most outfits. It is also UV protective.", "sentiment": "negative", "topics": {"0": "0.20877138", "1": "0.17189987", "2": "0.11634683", "3": "0.013031835", "4": "0.24783239", "5": "0.013029796", "6": "0.22908792"}}

@@ -1,0 +1,1 @@
+{"text": "I bought a pair of these flip flops at a store and loved them, but couldn't find them so I was happy to see them on Amazon.", "sentiment": "negative", "topics": {"0": "0.011927673", "1": "0.4084576", "2": "0.1898706", "3": "0.011961631", "4": "0.35395017", "5": "0.011923808", "6": "0.01190851"}}

@@ -1,0 +1,1 @@
+{"text": "My fault as I accidently ordered the incorrect size and had to return it.  Waiting until after the holidays to re-order the correct size.  Pat", "sentiment": "positive", "topics": {"0": "0.39417052", "1": "0.010308072", "2": "0.1923599", "3": "0.010239457", "4": "0.08204426", "5": "0.01020675", "6": "0.300671"}}

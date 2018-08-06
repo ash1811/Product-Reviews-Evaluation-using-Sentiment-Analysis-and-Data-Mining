@@ -1,0 +1,1 @@
+{"text": "These are great,not see thru,so even better! I have long legs,and these do hit at the ankle.suppkex is what yoy want,no fading or pilling.I will be getting at least one other pair!", "sentiment": "positive", "topics": {"1": "0.15971445", "2": "0.21968569", "3": "0.102810495", "4": "0.07214353", "5": "0.19145143", "6": "0.2462048"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are very warm, but they also slide off very easily! There is no seam so that is a plus since you can't feel it!", "sentiment": "negative", "topics": {"0": "0.01196085", "1": "0.2846636", "2": "0.0119436085", "3": "0.40545025", "4": "0.15121002", "5": "0.12281111", "6": "0.011960559"}}

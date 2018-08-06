@@ -1,0 +1,1 @@
+{"text": "These thigh highs are built pretty tough, but are a little scratchy and the scalloped tops have a tendacy to roll at the edges.", "sentiment": "negative", "topics": {"0": "0.30021855", "1": "0.01104206", "2": "0.011024839", "3": "0.13161664", "4": "0.011010309", "5": "0.0110189505", "6": "0.5240687"}}

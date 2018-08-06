@@ -1,0 +1,1 @@
+{"text": "Bought these for a teen who hates wearing slippers, but because they slide on so easily she wears them almost every day.  Good purchase.", "sentiment": "positive", "topics": {"0": "0.0102376165", "1": "0.3263259", "2": "0.20874377", "3": "0.010226521", "4": "0.010217959", "5": "0.3404719", "6": "0.09377636"}}

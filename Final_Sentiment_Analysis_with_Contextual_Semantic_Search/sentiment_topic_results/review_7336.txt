@@ -1,0 +1,1 @@
+{"text": "My husband loves this brand and he loves these T-Shirts that I just got him.  I did let him pick the colors though! The fit is great and they wash up nice without any shrinking!!  No ironing  if you take them right out of the dryer!!", "sentiment": "negative", "topics": {"1": "0.6228174", "3": "0.11691423", "4": "0.2342127"}}

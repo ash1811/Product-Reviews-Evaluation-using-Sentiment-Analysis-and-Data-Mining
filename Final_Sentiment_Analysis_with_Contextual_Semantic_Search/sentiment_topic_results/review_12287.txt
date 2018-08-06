@@ -1,0 +1,1 @@
+{"text": "Really liked this item for my curler or flat iron. Has a velcro flap at the top. Really comes in handy when you unplug your iron and you are running late and want to bring it with you for later! Good price too. Thanks!!", "sentiment": "negative", "topics": {"1": "0.40052736", "2": "0.14714912", "3": "0.06474269", "5": "0.16285704", "6": "0.21278654"}}

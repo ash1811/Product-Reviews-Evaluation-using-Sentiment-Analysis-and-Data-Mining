@@ -1,0 +1,1 @@
+{"text": "I hate when my feet look too wide for flip flops.  These flip flops are a little wider than most other ones so I feel like my feet fit better on them. They also last for years.  I had my old pair for 6 years before the strap between the toes broke.", "sentiment": "negative", "topics": {"0": "0.06485378", "1": "0.4336185", "2": "0.26162407", "4": "0.22451015"}}

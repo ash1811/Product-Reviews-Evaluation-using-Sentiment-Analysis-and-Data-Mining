@@ -1,0 +1,1 @@
+{"text": "this dockers fit perfectly and was just what I was looking for. soft and tapered at the ends making me feel slimmer", "sentiment": "positive", "topics": {"0": "0.011963942", "1": "0.3540487", "2": "0.0119319605", "3": "0.1717335", "4": "0.011969277", "5": "0.12302622", "6": "0.3153264"}}

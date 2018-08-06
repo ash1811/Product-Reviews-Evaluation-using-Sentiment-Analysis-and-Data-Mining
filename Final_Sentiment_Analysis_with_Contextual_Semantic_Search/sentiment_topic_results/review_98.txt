@@ -1,0 +1,1 @@
+{"text": "These are roomy, comfortable, and VERY warm. They are now my official winter Saturday morning loafing-around pants.", "sentiment": "negative", "topics": {"0": "0.014292602", "1": "0.76939493", "2": "0.014293283", "3": "0.014297734", "4": "0.15900928", "5": "0.0143142985", "6": "0.0143978195"}}

@@ -1,0 +1,1 @@
+{"text": "I only wish that they were rubber in the inside also so thay can be submerged in muddy waters while gardening... but I love them!! The green ones are pretty too!!", "sentiment": "positive", "topics": {"1": "0.25764585", "2": "0.5766204", "4": "0.12997124"}}

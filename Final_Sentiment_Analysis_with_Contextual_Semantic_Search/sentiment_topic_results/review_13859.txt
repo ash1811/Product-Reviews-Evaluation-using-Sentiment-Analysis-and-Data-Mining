@@ -1,0 +1,1 @@
+{"text": "These are great.  They fit perfect and look very nice.  They are great for everyday wear or boating and even hiking.", "sentiment": "positive", "topics": {"0": "0.21915157", "1": "0.547604", "2": "0.011918553", "3": "0.0119248815", "4": "0.1855544", "5": "0.011938746", "6": "0.011907811"}}

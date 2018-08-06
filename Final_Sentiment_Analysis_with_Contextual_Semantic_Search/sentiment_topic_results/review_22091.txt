@@ -1,0 +1,1 @@
+{"text": "Great product that fits good and is secure around the wrist and above all is very warm. Also as a mitten it's easy to handle objects.", "sentiment": "negative", "topics": {"0": "0.1117291", "1": "0.2507827", "2": "0.010221746", "3": "0.12126805", "4": "0.18846333", "5": "0.30728883", "6": "0.010246266"}}

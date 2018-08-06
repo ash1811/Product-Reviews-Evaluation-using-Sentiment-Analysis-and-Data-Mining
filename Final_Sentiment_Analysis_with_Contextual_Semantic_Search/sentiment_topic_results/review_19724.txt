@@ -1,0 +1,1 @@
+{"text": "I hope the watch lives up to the Timex reputation, although it didn't cost much was still running when I opened the package. I hope the battery last her more than a couple of months. I hate to see kids bummed out.", "sentiment": "negative", "topics": {"0": "0.1875918", "1": "0.2218593", "2": "0.06103128", "4": "0.16202885", "5": "0.30781224", "6": "0.053443123"}}

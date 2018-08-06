@@ -1,0 +1,1 @@
+{"text": "Wrangler seems to have this product right. Sturdy and a nice fit. Looks good and blends well with their Denim jeans.  I still own Wrangler jackets that I bought 20 years ago. May be best buy on Amazon.", "sentiment": "negative", "topics": {"1": "0.61162585", "2": "0.15739068", "4": "0.074209884", "5": "0.098939024", "6": "0.046378806"}}

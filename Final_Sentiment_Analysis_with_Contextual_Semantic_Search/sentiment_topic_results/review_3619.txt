@@ -1,0 +1,1 @@
+{"text": "I will definitely get some more of these. They are light, comfortable, beautiful. Pity they did not have black.I recommend it to those who need  DD and DDD.", "sentiment": "negative", "topics": {"0": "0.1780886", "1": "0.3744474", "2": "0.011015748", "3": "0.17678307", "4": "0.011040962", "5": "0.011051878", "6": "0.23757228"}}

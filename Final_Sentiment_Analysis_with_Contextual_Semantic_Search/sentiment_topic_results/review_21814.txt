@@ -1,0 +1,1 @@
+{"text": "This item fits well and is stretchy. I love the back cut out. I would recommend to others. Nice dress.", "sentiment": "negative", "topics": {"0": "0.010229228", "1": "0.86313426", "2": "0.01021641", "3": "0.010234532", "4": "0.0102466205", "5": "0.010221326", "6": "0.08571768"}}

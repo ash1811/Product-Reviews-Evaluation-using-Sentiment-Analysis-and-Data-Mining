@@ -1,0 +1,1 @@
+{"text": "Should be noted in discription that they are slim pants. The legs are a bit tight waist is great. Nice and heavy material wil wear for very long time.", "sentiment": "negative", "topics": {"1": "0.42785707", "2": "0.06801557", "3": "0.11317716", "4": "0.074363105", "5": "0.2255893", "6": "0.082568675"}}

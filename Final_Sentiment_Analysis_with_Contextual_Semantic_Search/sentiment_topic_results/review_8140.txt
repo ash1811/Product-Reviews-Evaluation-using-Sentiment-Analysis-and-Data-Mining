@@ -1,0 +1,1 @@
+{"text": "This sandal is supportive, simple, comfortable (doesn't rub or blister).  So far, so good.  I think they will be worth the ~$20.", "sentiment": "negative", "topics": {"0": "0.3269027", "1": "0.38368398", "2": "0.15253958", "3": "0.0110317925", "4": "0.011013364", "5": "0.011021704", "6": "0.10380689"}}

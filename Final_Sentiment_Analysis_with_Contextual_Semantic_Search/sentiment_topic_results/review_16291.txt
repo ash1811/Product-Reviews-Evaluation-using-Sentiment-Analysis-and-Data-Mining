@@ -1,0 +1,1 @@
+{"text": "These fit perfectly and were just as described.  Sperrys are such a classic shoe and no problems with shipment. Would recommend for future purchases.", "sentiment": "negative", "topics": {"0": "0.011004699", "1": "0.5286197", "2": "0.23365317", "3": "0.011010472", "4": "0.19370736", "5": "0.010999613", "6": "0.011004979"}}

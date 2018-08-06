@@ -1,0 +1,1 @@
+{"text": "My bag has remained fresh since its still wrapped in plastic, but everyone should know what to expect from Jansport bags: durability, comfort and versatility.", "sentiment": "negative", "topics": {"1": "0.12509653", "3": "0.2502109", "4": "0.2346299", "5": "0.22803347", "6": "0.14410529"}}

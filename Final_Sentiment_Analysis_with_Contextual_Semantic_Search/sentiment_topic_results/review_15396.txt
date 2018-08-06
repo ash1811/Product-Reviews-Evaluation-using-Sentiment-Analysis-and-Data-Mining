@@ -1,0 +1,1 @@
+{"text": "A Christmas gift for my daughter that arrived in record time and in perfect shape.  Very cool classes that I didn't know were on so many famous faces in recent history.", "sentiment": "positive", "topics": {"0": "0.23075742", "2": "0.1865269", "3": "0.13219576", "4": "0.07465421", "5": "0.2388731", "6": "0.12856096"}}

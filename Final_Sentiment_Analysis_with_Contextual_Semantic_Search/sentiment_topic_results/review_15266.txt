@@ -1,0 +1,1 @@
+{"text": "It fits well.  It is comfortable, and has nice pockets- a must!  I bought in crisp white, and am happy with the color.", "sentiment": "negative", "topics": {"0": "0.11239741", "1": "0.63163334", "2": "0.011908936", "3": "0.1020289", "4": "0.011917352", "5": "0.11820517", "6": "0.011908922"}}

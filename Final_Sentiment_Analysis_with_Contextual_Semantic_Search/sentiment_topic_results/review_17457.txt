@@ -1,0 +1,1 @@
+{"text": "I'll be sending these back. When you describe shorts and say 22&#34; , that should describe the inseam. NOT the length from the waist.", "sentiment": "negative", "topics": {"0": "0.22717758", "1": "0.011924304", "2": "0.0119909085", "3": "0.30782738", "4": "0.01190659", "5": "0.28741544", "6": "0.1417578"}}

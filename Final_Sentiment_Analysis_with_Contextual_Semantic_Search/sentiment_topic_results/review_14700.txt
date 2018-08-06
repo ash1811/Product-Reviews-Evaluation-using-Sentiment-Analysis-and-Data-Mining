@@ -1,0 +1,1 @@
+{"text": "This works wonders on my gold jewelry and cleans the stones excellently. You have to leave the jewelry in the solution for longer than stated in the directions to get the intended results.", "sentiment": "negative", "topics": {"1": "0.47840557", "2": "0.08049204", "3": "0.20883632", "5": "0.20692945"}}

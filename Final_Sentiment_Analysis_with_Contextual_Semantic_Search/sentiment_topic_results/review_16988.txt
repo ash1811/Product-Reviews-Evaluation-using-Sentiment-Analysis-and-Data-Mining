@@ -1,0 +1,1 @@
+{"text": "I bought this ring as a promise ring for my girlfriend, and she really liked it.  The product was very well made, and arrived promptly.  A++", "sentiment": "positive", "topics": {"0": "0.22167303", "1": "0.5061336", "5": "0.103821464", "6": "0.13975742"}}

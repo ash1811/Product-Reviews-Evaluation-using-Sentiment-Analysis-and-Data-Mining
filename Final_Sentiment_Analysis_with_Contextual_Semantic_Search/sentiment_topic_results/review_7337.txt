@@ -1,0 +1,1 @@
+{"text": "Arrived quick and in perfect condition.  The material is a little stiff and the color doesn't appear the same as on the website. However, for work pants, they're alright.", "sentiment": "negative", "topics": {"0": "0.099287204", "1": "0.39006272", "2": "0.08906091", "3": "0.14454076", "4": "0.25913507"}}

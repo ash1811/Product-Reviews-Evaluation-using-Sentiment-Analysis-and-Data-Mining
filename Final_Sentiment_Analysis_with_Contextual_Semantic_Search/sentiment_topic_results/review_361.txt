@@ -1,0 +1,1 @@
+{"text": "One of the best fitting shirts I have bought in a long time and even after washing it one time.", "sentiment": "positive", "topics": {"0": "0.0119606815", "1": "0.011954085", "2": "0.29658335", "3": "0.011926833", "4": "0.011961653", "5": "0.6436806", "6": "0.011932828"}}

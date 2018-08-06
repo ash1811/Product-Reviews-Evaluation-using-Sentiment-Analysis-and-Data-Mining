@@ -1,0 +1,1 @@
+{"text": "I had seen these on someone else and liked them but they had smaller feet, maybe that made a difference. They also seem very flimsy. I ended up donating them. Someone else will appreciate them, I'm sure.", "sentiment": "negative", "topics": {"0": "0.12948123", "1": "0.09468425", "2": "0.4256861", "4": "0.3305962"}}

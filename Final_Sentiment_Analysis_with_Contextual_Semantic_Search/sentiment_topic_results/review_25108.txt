@@ -1,0 +1,1 @@
+{"text": "I put these in my Uggs and my Merrells They are very comfortable.  These were a gift my gf loves them.", "sentiment": "positive", "topics": {"0": "0.3298621", "1": "0.14219837", "2": "0.20082736", "3": "0.01592465", "4": "0.27941597", "5": "0.0158985", "6": "0.015873058"}}

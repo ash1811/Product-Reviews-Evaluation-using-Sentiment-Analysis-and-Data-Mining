@@ -1,0 +1,1 @@
+{"text": "Great costume, I got this for my fiance and it looked great. The boot covered sucked but the rest of the costume was good. He got a separate hat to supplement the outfit.", "sentiment": "negative", "topics": {"0": "0.28771117", "4": "0.43846372", "5": "0.14790256", "6": "0.1020226"}}

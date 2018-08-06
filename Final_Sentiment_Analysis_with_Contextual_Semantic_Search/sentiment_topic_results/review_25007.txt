@@ -1,0 +1,1 @@
+{"text": "forty bucks for insoles? you have got to be kidding.  I get better results from generic gel insoles from the department store.", "sentiment": "negative", "topics": {"0": "0.010212464", "1": "0.13990061", "2": "0.2526771", "3": "0.010219193", "4": "0.16425498", "5": "0.09553962", "6": "0.32719603"}}

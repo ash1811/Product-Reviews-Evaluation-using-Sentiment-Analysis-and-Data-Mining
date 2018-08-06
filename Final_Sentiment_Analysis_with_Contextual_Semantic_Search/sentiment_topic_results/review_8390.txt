@@ -1,0 +1,1 @@
+{"text": "Polypropylene is a great material for winter, I'm a fan. So to find this for a cheap price is great. It's simple and works. No complaints.", "sentiment": "positive", "topics": {"0": "0.2798852", "1": "0.58652246", "2": "0.010217303", "3": "0.01022295", "4": "0.01022388", "5": "0.010221565", "6": "0.09270668"}}

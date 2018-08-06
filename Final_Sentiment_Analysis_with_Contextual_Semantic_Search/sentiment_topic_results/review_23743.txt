@@ -1,0 +1,1 @@
+{"text": "These glasses are excellent for the bright Florida sun.  I keeps pairs all around.  I am easy on glasses and they have lasted over a year despite the low price!", "sentiment": "negative", "topics": {"0": "0.19037259", "1": "0.15637414", "2": "0.093191475", "3": "0.43895623", "6": "0.10321297"}}

@@ -1,0 +1,1 @@
+{"text": "Nice to work with and fairly sturdy. Good way to keep track of her earrings. My grand daughter love this as much as new earrings.", "sentiment": "negative", "topics": {"1": "0.51693594", "2": "0.17915717", "3": "0.2680973"}}

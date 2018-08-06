@@ -1,0 +1,1 @@
+{"text": "Don't get me wrong- these things are COMFY. However, when I wear them they feel like I'm wearing a pair of shorts. They're very big and the elastic is weak, so they do not like to stay up.", "sentiment": "positive", "topics": {"0": "0.1481336", "1": "0.25759915", "2": "0.29689863", "4": "0.2758333"}}

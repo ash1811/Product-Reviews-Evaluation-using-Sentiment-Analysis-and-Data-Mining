@@ -1,0 +1,1 @@
+{"text": "Have bought these before. Fit well and are comfortable. They are a little snugger than Dockers. If I loose a little more weight they will be fine. I.E. current 190 lbs 33&#34; waist", "sentiment": "negative", "topics": {"1": "0.33555818", "2": "0.20922683", "5": "0.28754517", "6": "0.14505963"}}

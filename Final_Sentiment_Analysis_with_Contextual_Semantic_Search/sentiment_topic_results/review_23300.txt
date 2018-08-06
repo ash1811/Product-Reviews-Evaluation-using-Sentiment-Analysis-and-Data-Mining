@@ -1,0 +1,1 @@
+{"text": "I have liked the kinavara line for a while. I think the 3 was better than the 4. The 4 is slightly tighter and also a little bit more stiff. Requires some more breaking in time. Overall would get them again.", "sentiment": "negative", "topics": {"0": "0.16231422", "1": "0.22272019", "2": "0.09040772", "3": "0.1359923", "4": "0.26248452", "5": "0.119840756"}}

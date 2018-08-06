@@ -1,0 +1,1 @@
+{"text": "A dressier jean. Washes well. Nice looking. True to size. Great price. Does not look as gray in person as it does in the picture.", "sentiment": "negative", "topics": {"1": "0.65963686", "3": "0.29256773"}}

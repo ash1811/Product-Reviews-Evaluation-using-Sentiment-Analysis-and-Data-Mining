@@ -1,0 +1,1 @@
+{"text": "These are just what I wanted.  They fit great and look very nice.  I like the thigh highs because they don't cut into my knee.", "sentiment": "negative", "topics": {"0": "0.013013276", "1": "0.59802985", "2": "0.013025105", "3": "0.013012153", "4": "0.013003695", "5": "0.013010965", "6": "0.33690497"}}

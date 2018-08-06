@@ -1,0 +1,1 @@
+{"text": "These pants are great. Solid construction, roomy fit for comfort over shorts going to and from gym or just to wear on their own.", "sentiment": "negative", "topics": {"0": "0.11945978", "1": "0.48278353", "2": "0.09816838", "3": "0.011031326", "4": "0.18016751", "5": "0.011045606", "6": "0.097343855"}}

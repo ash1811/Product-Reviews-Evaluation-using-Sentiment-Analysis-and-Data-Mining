@@ -1,0 +1,1 @@
+{"text": "Tried so many jeans in the past- these are the BEST! Always fit Great & comfortable! Last a long time.", "sentiment": "negative", "topics": {"0": "0.011026855", "1": "0.5842351", "2": "0.0110273305", "3": "0.011039858", "4": "0.22369477", "5": "0.14798166", "6": "0.010994433"}}

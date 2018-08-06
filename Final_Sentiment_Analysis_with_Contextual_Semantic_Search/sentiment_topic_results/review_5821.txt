@@ -1,0 +1,1 @@
+{"text": "Good price...nice shirt. Not real thick, but didn't want thick. Beautiful powder blue color. No 5 stars, though...2 tags sticking out from back collar. Not a real problem, but I know they're there. Prefer tagless....but still a nice shirt.", "sentiment": "negative", "topics": {"0": "0.12680358", "1": "0.5710849", "5": "0.15888983", "6": "0.12839422"}}

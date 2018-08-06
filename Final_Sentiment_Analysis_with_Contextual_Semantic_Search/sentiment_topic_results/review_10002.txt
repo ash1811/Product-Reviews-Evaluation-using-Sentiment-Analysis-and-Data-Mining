@@ -1,0 +1,1 @@
+{"text": "I bought this when I saw it on Amazon. I also bought a book (Lillie's Purple Plastic Purse) to go along with it as a gift for my 2 year old niece. Lots of fun for a little girl.", "sentiment": "negative", "topics": {"0": "0.39504367", "1": "0.28329217", "4": "0.25778058", "6": "0.044339683"}}

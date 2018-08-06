@@ -1,0 +1,1 @@
+{"text": "Seems a lot of these shirts lack a front pocket.  This is a nice cool shirt, great if your out in the hot sun all day as I am.", "sentiment": "positive", "topics": {"0": "0.20546897", "1": "0.47538263", "6": "0.28089797"}}

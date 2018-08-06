@@ -1,0 +1,1 @@
+{"text": "I got this as a gift for my dad for his birthday. He needed a new pair and these were perfect. They fit him perfect and they were a really good price compared to the same brand at other stores.", "sentiment": "negative", "topics": {"0": "0.08426982", "1": "0.5305614", "3": "0.3514171"}}

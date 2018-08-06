@@ -1,0 +1,1 @@
+{"text": "Good fit, quality seems reasonable. I was hoping it would be softer but it's a bit abrasive. I might order another given the price but I would look for a softer one first.", "sentiment": "negative", "topics": {"0": "0.22879346", "1": "0.41258818", "3": "0.16198911", "6": "0.17613785"}}

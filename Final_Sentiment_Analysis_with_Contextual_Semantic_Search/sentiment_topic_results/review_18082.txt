@@ -1,0 +1,1 @@
+{"text": "The product was smaller that it showed on the site. BUT it is sturdy and functional . My daughters hands are small so she is in love with it.", "sentiment": "positive", "topics": {"0": "0.22643276", "1": "0.012018457", "2": "0.15297423", "3": "0.12426906", "4": "0.23833205", "5": "0.23406272", "6": "0.01191074"}}

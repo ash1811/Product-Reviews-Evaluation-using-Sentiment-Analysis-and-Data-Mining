@@ -1,0 +1,1 @@
+{"text": "Very nice with nice fit. The white color is perfect for adding your own embroidery accents or other colorful accents to customize it.", "sentiment": "negative", "topics": {"0": "0.20783493", "1": "0.34776226", "2": "0.010211946", "3": "0.105724305", "4": "0.010209033", "5": "0.23856476", "6": "0.07969274"}}

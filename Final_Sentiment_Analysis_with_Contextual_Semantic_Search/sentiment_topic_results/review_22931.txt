@@ -1,0 +1,1 @@
+{"text": "Great fit during play and exercise, very comfortable so I purchased two more. Color, feel, and easy washing makes this a great set of shorts.....", "sentiment": "negative", "topics": {"0": "0.12862585", "1": "0.5490619", "3": "0.28855357"}}

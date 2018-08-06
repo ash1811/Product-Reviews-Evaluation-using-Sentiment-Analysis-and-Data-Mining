@@ -1,0 +1,1 @@
+{"text": "What can I say, but UGLY. But comfort won out. They stay on your feet and you don't have to worry about them if you are exploring.", "sentiment": "positive", "topics": {"0": "0.13360105", "1": "0.01589251", "2": "0.015879571", "3": "0.1423101", "4": "0.30572775", "5": "0.015889747", "6": "0.37069926"}}

@@ -1,0 +1,1 @@
+{"text": "Love these, have had about 1 month and perfect for my heat flashes.  slip on and off, comfortable to wear, and so far no problems like some have had.", "sentiment": "negative", "topics": {"0": "0.5869082", "1": "0.2086483", "4": "0.1685981"}}

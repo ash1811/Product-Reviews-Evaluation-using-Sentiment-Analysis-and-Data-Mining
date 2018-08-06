@@ -1,0 +1,1 @@
+{"text": "They are very cute and comfortable , my nephew love them! Easy to clean and great colors choice too! Great buy", "sentiment": "positive", "topics": {"0": "0.01028738", "1": "0.6260554", "2": "0.010260214", "3": "0.32267955", "4": "0.010238378", "5": "0.010240027", "6": "0.010239021"}}

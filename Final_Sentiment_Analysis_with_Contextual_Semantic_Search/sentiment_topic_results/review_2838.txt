@@ -1,0 +1,1 @@
+{"text": "If you have wide feet, try breaking them in a little barefoot before you wear them with socks. Or size up. After a couple days they're comfortable. The yellow laces are super cute.", "sentiment": "negative", "topics": {"1": "0.30891043", "2": "0.07221828", "3": "0.19556317", "5": "0.4006519"}}

@@ -1,0 +1,1 @@
+{"text": "Just had surgery and they are the most comfortable pants I can wear.  Quick dry and no fade.  I like it that they are light weight.", "sentiment": "negative", "topics": {"0": "0.013025856", "1": "0.7224827", "2": "0.0130158225", "3": "0.013000822", "4": "0.21240407", "5": "0.013028395", "6": "0.013042337"}}

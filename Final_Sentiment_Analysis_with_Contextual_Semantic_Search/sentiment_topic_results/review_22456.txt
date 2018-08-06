@@ -1,0 +1,1 @@
+{"text": "This underwear fits wonderfully,good. And it feels good also. I bought the big pack as you can see. And you can't even see them under the lightest, tightest fitting pants. Thank again.", "sentiment": "negative", "topics": {"1": "0.30836788", "2": "0.18782687", "3": "0.115358695", "4": "0.28680724", "5": "0.08730118"}}

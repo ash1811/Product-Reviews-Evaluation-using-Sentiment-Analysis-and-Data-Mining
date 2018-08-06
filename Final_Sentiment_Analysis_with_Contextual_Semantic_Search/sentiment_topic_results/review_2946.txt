@@ -1,0 +1,1 @@
+{"text": "Playtex has always been my go to brand. These were a little tighter around the strap than I was expecting. Fortunately, being an 18 hour I had to order a 36 so it fit. Just keep that in mind when ordering. I like them.", "sentiment": "negative", "topics": {"0": "0.19737965", "1": "0.1943297", "2": "0.2690176", "3": "0.31877974"}}

@@ -1,0 +1,1 @@
+{"text": "the well engineering designed in shape, color, texture, comfort, balance leg weight distribution designed, color is stunning, appearance is eye catching.", "sentiment": "positive", "topics": {"0": "0.101663284", "1": "0.4241193", "3": "0.18585178", "4": "0.20356423", "6": "0.06889614"}}

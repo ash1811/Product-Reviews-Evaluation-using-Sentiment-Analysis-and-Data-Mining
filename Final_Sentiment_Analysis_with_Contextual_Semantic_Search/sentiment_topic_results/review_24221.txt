@@ -1,0 +1,1 @@
+{"text": "This is a great entry price level sports bra.  I wear them for everyday and enjoy the extra support.  I have found the band size to be as measured, but the cup size needs to be ordered at least one or even two sizes bigger for comfort.", "sentiment": "positive", "topics": {"0": "0.07787857", "3": "0.37159476", "4": "0.23511429", "5": "0.17032722", "6": "0.13445161"}}

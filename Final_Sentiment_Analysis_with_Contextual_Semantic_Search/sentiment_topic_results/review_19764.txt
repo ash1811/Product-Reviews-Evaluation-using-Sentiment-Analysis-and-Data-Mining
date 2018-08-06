@@ -1,0 +1,1 @@
+{"text": "I prefer Russell Athletic products.  Their products are made heavier than other brands and made well. I am pleased with their products.", "sentiment": "positive", "topics": {"0": "0.11683799", "1": "0.17743762", "2": "0.011015938", "3": "0.1103293", "4": "0.011005759", "5": "0.56236285", "6": "0.011010603"}}

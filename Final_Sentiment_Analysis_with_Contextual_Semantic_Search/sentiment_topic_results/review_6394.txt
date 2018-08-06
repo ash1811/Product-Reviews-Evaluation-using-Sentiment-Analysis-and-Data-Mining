@@ -1,0 +1,1 @@
+{"text": "I use Thorlo socks for exercising.  They are comfortable and wear well, I wouldn't wear anything else for my feet.", "sentiment": "negative", "topics": {"0": "0.011922573", "1": "0.29880616", "2": "0.23689419", "3": "0.011944663", "4": "0.086168386", "5": "0.25500157", "6": "0.09926245"}}

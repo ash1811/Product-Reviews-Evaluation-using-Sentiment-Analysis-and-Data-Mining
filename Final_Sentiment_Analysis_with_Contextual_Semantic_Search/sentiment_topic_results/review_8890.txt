@@ -1,0 +1,1 @@
+{"text": "Nice and puffy tutu skirt. I would recommend this for girls under 10 yr. old.  It will be too short and small for older girls.", "sentiment": "negative", "topics": {"0": "0.25943238", "1": "0.13059704", "2": "0.26110616", "4": "0.32023343"}}

@@ -1,0 +1,1 @@
+{"text": "i like them as they are light and so nice with dress pands or wearing a suit they are comfortable", "sentiment": "positive", "topics": {"0": "0.20044655", "1": "0.57965755", "2": "0.15629971", "3": "0.015885135", "4": "0.015891679", "5": "0.015887864", "6": "0.015931483"}}

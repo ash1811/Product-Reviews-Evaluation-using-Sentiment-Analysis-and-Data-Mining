@@ -1,0 +1,1 @@
+{"text": "I usually wear an 11 and after reading reviews decided to order size 12.  Fits perfectly -  great slippers and expect them to last for several years.", "sentiment": "negative", "topics": {"1": "0.3658851", "4": "0.07758678", "5": "0.4118126", "6": "0.12078982"}}

@@ -1,0 +1,1 @@
+{"text": "Great thong or flip flop. Very comfortable and very nice fit.", "sentiment": "negative", "topics": {"0": "0.017865445", "1": "0.62988603", "2": "0.14515641", "3": "0.15350574", "4": "0.017859854", "5": "0.017867936", "6": "0.01785863"}}

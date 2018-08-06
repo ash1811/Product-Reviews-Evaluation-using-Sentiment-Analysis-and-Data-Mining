@@ -1,0 +1,1 @@
+{"text": "I like to wear these Levi's once a week. They look nice and wear well. They match a number of shirts that I have so they are versatile.", "sentiment": "negative", "topics": {"0": "0.011020104", "1": "0.24641277", "2": "0.10130579", "3": "0.45726", "4": "0.01099505", "5": "0.01103819", "6": "0.16196808"}}

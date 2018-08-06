@@ -1,0 +1,1 @@
+{"text": "plastic is a little fragile, but it will probably last as long as his attention, my grandson just loved it", "sentiment": "positive", "topics": {"0": "0.01433702", "1": "0.34246814", "2": "0.1284602", "3": "0.15319997", "4": "0.33287388", "5": "0.014363706", "6": "0.014297074"}}

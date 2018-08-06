@@ -1,0 +1,1 @@
+{"text": "The sleeves are long enough, but oddly tight in size Medium, even on my skinny arms.  Will serve as an undershirt in cooler weather.", "sentiment": "negative", "topics": {"1": "0.43244103", "2": "0.08956943", "5": "0.3256262", "6": "0.12367015"}}

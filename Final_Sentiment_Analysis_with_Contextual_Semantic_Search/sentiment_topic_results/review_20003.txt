@@ -1,0 +1,1 @@
+{"text": "Solid work pants that last forever.a little longer than I wanted for size 30 inseam but still great pants", "sentiment": "negative", "topics": {"1": "0.3446446", "3": "0.26332602", "4": "0.2509954", "6": "0.11235949"}}

@@ -1,0 +1,1 @@
+{"text": "My husband likes long wearing jeans and these are well made and reasonably priced. I got him these for a Christmas gift though I used to buy at our local farm store for more money.", "sentiment": "negative", "topics": {"0": "0.17497233", "1": "0.36712018", "4": "0.21708386", "6": "0.21930106"}}

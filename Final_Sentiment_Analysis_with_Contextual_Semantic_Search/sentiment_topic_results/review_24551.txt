@@ -1,0 +1,1 @@
+{"text": "I use leotards with baggy pants and the look beautiful! they make you look soooo much skinnier! I love them", "sentiment": "negative", "topics": {"0": "0.011019502", "1": "0.23405068", "2": "0.01099283", "3": "0.27425316", "4": "0.22625375", "5": "0.15225321", "6": "0.09117684"}}

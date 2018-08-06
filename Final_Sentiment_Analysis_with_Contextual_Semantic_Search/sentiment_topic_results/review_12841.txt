@@ -1,0 +1,1 @@
+{"text": "They fit very good nice and warm and soft. Danskin is  the best in  cold weather These tights fit very well, nice and snug.", "sentiment": "negative", "topics": {"1": "0.6430626", "4": "0.081616245", "5": "0.15535195", "6": "0.09134225"}}

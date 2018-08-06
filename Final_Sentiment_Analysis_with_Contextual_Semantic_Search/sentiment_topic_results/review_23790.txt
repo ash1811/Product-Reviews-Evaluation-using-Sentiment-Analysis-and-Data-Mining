@@ -1,0 +1,1 @@
+{"text": "I have always loved the classic Vans. Never disappointed. The color is really nice and it matches the picture exactly.", "sentiment": "positive", "topics": {"0": "0.09575115", "1": "0.4416283", "2": "0.12468731", "3": "0.21976039", "4": "0.011006632", "5": "0.011015354", "6": "0.09615089"}}

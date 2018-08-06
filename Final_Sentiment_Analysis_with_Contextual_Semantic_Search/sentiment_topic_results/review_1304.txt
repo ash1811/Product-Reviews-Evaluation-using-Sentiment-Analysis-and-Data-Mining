@@ -1,0 +1,1 @@
+{"text": "I love these shoes.  They can be worn for many occasions.  If you get them dirty, no problem, just throw them in the washing machine and let them air dry.  They come out just like new, every time.", "sentiment": "negative", "topics": {"1": "0.18189536", "2": "0.20052786", "3": "0.1110595", "4": "0.167522", "5": "0.14320518", "6": "0.18862061"}}

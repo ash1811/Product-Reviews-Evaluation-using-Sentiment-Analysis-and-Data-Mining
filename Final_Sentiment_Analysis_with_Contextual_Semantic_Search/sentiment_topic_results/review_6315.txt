@@ -1,0 +1,1 @@
+{"text": "My Grand-daughter loved it.  This is a plus, because most of the time I am at a loss as to what to get for her...", "sentiment": "negative", "topics": {"0": "0.31830704", "1": "0.16134393", "2": "0.01589825", "3": "0.45670044", "4": "0.015914347", "5": "0.015907925", "6": "0.0159281"}}

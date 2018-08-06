@@ -1,0 +1,1 @@
+{"text": "I will continue to purchase this brand for my daughter.  They held up well through an entire year of ballet class and maybe a few accidental trips into the dryer.", "sentiment": "negative", "topics": {"0": "0.21534957", "1": "0.33437836", "3": "0.18382478", "5": "0.16972952", "6": "0.07759819"}}

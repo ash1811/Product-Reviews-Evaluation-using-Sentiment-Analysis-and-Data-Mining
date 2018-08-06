@@ -1,0 +1,1 @@
+{"text": "Fits to size and is very comfortable. I am slightly of bigger stout, so worked great for me. I used this in California weather where it tends to get a bit chilly after hours. Perfect for casual and regular ware. Hope this helps.", "sentiment": "positive", "topics": {"1": "0.38686323", "4": "0.0481904", "5": "0.19930248", "6": "0.34764323"}}

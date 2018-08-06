@@ -1,0 +1,1 @@
+{"text": "I am bad about going shoe-less all the time, so I need a really thick sock.  These feel like they'll be around awhile, and without holes in them.  Great price for a good sock.", "sentiment": "negative", "topics": {"0": "0.27275425", "1": "0.21331435", "2": "0.09192377", "5": "0.30763996", "6": "0.10070731"}}

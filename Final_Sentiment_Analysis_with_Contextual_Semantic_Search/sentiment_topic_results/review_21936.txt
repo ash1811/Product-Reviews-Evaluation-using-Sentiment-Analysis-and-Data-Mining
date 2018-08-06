@@ -1,0 +1,1 @@
+{"text": "I really like wearing this bra.  It's comfortable and fits like a big binder.  However, I don't agree that it keeps the bust in place as described.  I am a 38DD and I still bounce around; just not as bad.", "sentiment": "positive", "topics": {"0": "0.059881847", "1": "0.5427543", "2": "0.19185236", "3": "0.18505663"}}

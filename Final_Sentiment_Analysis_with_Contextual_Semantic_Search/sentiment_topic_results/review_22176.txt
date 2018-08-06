@@ -1,0 +1,1 @@
+{"text": "Quality, Price, Fit...what more can you ask for?  It is all right here. I love Vanity Fair short gowns. They have yummy colors and are so soft I don't think I could sleep without it?  Perfect length!  Its all wonderful. Thank you", "sentiment": "negative", "topics": {"0": "0.189384", "1": "0.39777535", "2": "0.15218061", "4": "0.13770628", "6": "0.111476116"}}

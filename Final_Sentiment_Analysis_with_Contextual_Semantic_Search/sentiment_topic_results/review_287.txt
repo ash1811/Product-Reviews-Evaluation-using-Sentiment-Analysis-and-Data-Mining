@@ -1,0 +1,1 @@
+{"text": "Nice, long, simple. Great price, don't waste your money on something else. Perfect for storing wedding dress. This is the one to buy!", "sentiment": "positive", "topics": {"0": "0.094571166", "1": "0.5764473", "2": "0.10917336", "5": "0.101734005", "6": "0.10017189"}}

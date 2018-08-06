@@ -1,0 +1,1 @@
+{"text": "THese boots fit really snug. I would suggest getting them a half size bigger than you normally wear. I love them though and wear them often.", "sentiment": "negative", "topics": {"1": "0.3299628", "3": "0.3289184", "4": "0.15623064", "6": "0.15956911"}}

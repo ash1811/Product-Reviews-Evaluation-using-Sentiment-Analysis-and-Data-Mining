@@ -1,0 +1,1 @@
+{"text": "Great bright pink color.  Comfy and well-made flip flop as are all Reefs.  I need the ones with the &#34;ribbon: between the toes so it doesn't hurt and Reef never lets me down.", "sentiment": "negative", "topics": {"0": "0.07325234", "1": "0.4129725", "2": "0.2608598", "6": "0.23026118"}}

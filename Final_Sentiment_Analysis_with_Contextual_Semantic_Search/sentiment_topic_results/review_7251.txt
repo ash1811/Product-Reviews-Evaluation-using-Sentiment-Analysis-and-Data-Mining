@@ -1,0 +1,1 @@
+{"text": "Very rugged. Fit comfortably. Crotch very relaxed. Love the padding for tape measure, helps extend the life of pocket. Buy one and I'm sure you'll buy more.", "sentiment": "positive", "topics": {"0": "0.12401303", "1": "0.35189712", "2": "0.107828654", "4": "0.22679068", "5": "0.11910115", "6": "0.06321099"}}

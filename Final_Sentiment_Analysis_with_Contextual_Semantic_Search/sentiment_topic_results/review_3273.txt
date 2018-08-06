@@ -1,0 +1,1 @@
+{"text": "I purchased these jeans for my fianc&eacute; because he likes jeans that are not the cutting edge of fashion, but are also not too unflattering. They're comfortable, they wash well and they match all of his shirts: success.", "sentiment": "positive", "topics": {"1": "0.31402522", "3": "0.16795155", "4": "0.15919746", "5": "0.3349578"}}

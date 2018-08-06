@@ -1,0 +1,1 @@
+{"text": "Warm enough to keep the chill off alone and permit use of the hands in a way most gloves don't for me. Also good on bitter days inside an outer glove. Good fit. I bought three pairs for different uses.", "sentiment": "negative", "topics": {"1": "0.3151766", "2": "0.11709078", "3": "0.13577165", "4": "0.15892331", "5": "0.080757625", "6": "0.18677169"}}

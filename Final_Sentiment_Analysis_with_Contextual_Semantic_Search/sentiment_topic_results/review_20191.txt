@@ -1,0 +1,1 @@
+{"text": "Just a little note to say these jeans are extremely stiff. I washed them and used extra fabric softener but they still are stiff.  I am hoping once my husband starts to use them they will break in.", "sentiment": "negative", "topics": {"2": "0.064545356", "3": "0.39750645", "4": "0.07388549", "5": "0.2819869", "6": "0.16772078"}}

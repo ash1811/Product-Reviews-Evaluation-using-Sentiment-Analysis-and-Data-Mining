@@ -1,0 +1,1 @@
+{"text": "These sneakers are perfect and comfortable! I needed something khaki colored I can wear to work so I chose wisely here and I am not disappointed", "sentiment": "negative", "topics": {"0": "0.011037316", "1": "0.35416538", "2": "0.10599004", "3": "0.13102037", "4": "0.011012039", "5": "0.37575862", "6": "0.011016255"}}

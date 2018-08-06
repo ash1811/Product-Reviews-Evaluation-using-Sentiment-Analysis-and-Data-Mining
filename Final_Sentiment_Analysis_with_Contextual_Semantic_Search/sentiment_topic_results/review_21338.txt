@@ -1,0 +1,1 @@
+{"text": "this band does not give you any support, It is just useless. I returned it immediately.  Would not recommend it.", "sentiment": "negative", "topics": {"0": "0.014397798", "1": "0.014344284", "2": "0.22021842", "3": "0.7080747", "4": "0.01434128", "5": "0.01431686", "6": "0.014306654"}}

@@ -1,0 +1,1 @@
+{"text": "My husband really likes these sweatpants, there are heavier weight and fit just right. The length is a little bit long but they are just sweats, and comfort is everything.", "sentiment": "negative", "topics": {"1": "0.25504503", "2": "0.089784294", "4": "0.16212313", "5": "0.40995035", "6": "0.06514445"}}

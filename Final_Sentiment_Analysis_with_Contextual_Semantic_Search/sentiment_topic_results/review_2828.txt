@@ -1,0 +1,1 @@
+{"text": "I bought these because I like to have a spare pair on hand at all times. Have worn these (this style/color) for years. and find them very versatile. So this particular pair will sit in the closet until I need them.", "sentiment": "negative", "topics": {"0": "0.1457572", "2": "0.18383856", "3": "0.45030358", "6": "0.19745561"}}

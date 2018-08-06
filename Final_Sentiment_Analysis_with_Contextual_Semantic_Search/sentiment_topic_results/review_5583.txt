@@ -1,0 +1,1 @@
+{"text": "This shirt sized for someone large and in charge or, who needs extra room for buffet style dinning. The material is made from a potato sack from a farm in Idaho.", "sentiment": "positive", "topics": {"0": "0.068050526", "1": "0.2842714", "2": "0.08621695", "4": "0.09113937", "5": "0.3709007", "6": "0.09187763"}}

@@ -1,0 +1,1 @@
+{"text": "Despite all the care I took when putting them on they still broke a hole in the toe seam. These are almost one-use disposable stockings. But nonetheless still very pretty.", "sentiment": "negative", "topics": {"0": "0.17694472", "1": "0.12484256", "2": "0.13468292", "3": "0.22889817", "5": "0.09723564", "6": "0.2289887"}}

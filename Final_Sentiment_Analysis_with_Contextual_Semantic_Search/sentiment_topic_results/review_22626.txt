@@ -1,0 +1,1 @@
+{"text": "It is hard to find a package with white underpants.  Especially in summer when one wears white or khaki it is nice to have.", "sentiment": "negative", "topics": {"0": "0.18117763", "1": "0.3266068", "2": "0.01024514", "3": "0.010298714", "4": "0.16200733", "5": "0.29945013", "6": "0.010214233"}}

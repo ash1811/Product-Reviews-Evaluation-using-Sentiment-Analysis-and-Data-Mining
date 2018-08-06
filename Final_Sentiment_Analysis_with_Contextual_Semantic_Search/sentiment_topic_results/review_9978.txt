@@ -1,0 +1,1 @@
+{"text": "This watch is an excellent value.  The band is super comfortable, the numbers are easy to read , even for old eyes, & the setup is simple. it is everything that I want or need in a timepiece.", "sentiment": "negative", "topics": {"0": "0.1431114", "1": "0.14243996", "2": "0.3564612", "3": "0.070574455", "4": "0.04141065", "6": "0.23846915"}}

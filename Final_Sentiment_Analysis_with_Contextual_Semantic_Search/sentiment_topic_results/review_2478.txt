@@ -1,0 +1,1 @@
+{"text": "These sandals take some major breaking in, but hopefully will be worth it. Also the sizes run pretty large. An extra large is supposed to be 8.5 to 9.5 but its probably as large as a ten", "sentiment": "negative", "topics": {"1": "0.4541785", "2": "0.056038212", "3": "0.1909629", "4": "0.19495548", "5": "0.09085035"}}

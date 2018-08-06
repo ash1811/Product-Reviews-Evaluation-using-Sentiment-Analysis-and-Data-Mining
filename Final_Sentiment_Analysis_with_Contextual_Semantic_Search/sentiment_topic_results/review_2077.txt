@@ -1,0 +1,1 @@
+{"text": "These slippers are the epitome of \"you get what you pay for\"!  Certainly not cheap, but an excellent product.  Very comfortable.", "sentiment": "positive", "topics": {"0": "0.16614003", "1": "0.15852787", "2": "0.24122916", "3": "0.012012311", "4": "0.011916916", "5": "0.20879103", "6": "0.20138268"}}

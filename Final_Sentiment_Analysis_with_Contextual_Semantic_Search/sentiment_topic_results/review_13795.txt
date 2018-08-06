@@ -1,0 +1,1 @@
+{"text": "The only beef I have with these is that they were a little stiff when I first received them, but they are good now.", "sentiment": "negative", "topics": {"0": "0.3122654", "1": "0.33355007", "2": "0.29040045", "3": "0.015966738", "4": "0.015913442", "5": "0.015954502", "6": "0.015949376"}}

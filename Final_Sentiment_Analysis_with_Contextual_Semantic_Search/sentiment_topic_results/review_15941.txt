@@ -1,0 +1,1 @@
+{"text": "This hat was not quite what I expected.  I noticed that when I put it on it did not look right.  The top portion was too soft, and kind of \"mushroomed\" out when I put it on my head, making it kind of silly looking.  I returned it. At least that was easy.", "sentiment": "negative", "topics": {"2": "0.27625757", "3": "0.3553587", "4": "0.24593242", "6": "0.10372035"}}

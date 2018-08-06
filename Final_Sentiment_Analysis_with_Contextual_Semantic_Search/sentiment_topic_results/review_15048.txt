@@ -1,0 +1,1 @@
+{"text": "Bought this for my son's birthday at a discounted price at Amazon. He's worn them previously and really likes them.", "sentiment": "negative", "topics": {"0": "0.011028252", "1": "0.26270387", "2": "0.20963405", "3": "0.011029737", "4": "0.105239935", "5": "0.19301094", "6": "0.20735319"}}

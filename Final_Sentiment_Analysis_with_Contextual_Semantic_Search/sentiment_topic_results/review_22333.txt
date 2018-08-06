@@ -1,0 +1,1 @@
+{"text": "Not for me.....OK.....would not buy again......injinji Performance Mini Crew Toesocks,Black,Small ...overpriced in my opinion and I decided against the toe shoes....just not for me!~", "sentiment": "positive", "topics": {"0": "0.11060343", "1": "0.49766403", "2": "0.010207608", "3": "0.010223987", "4": "0.098823704", "5": "0.18587472", "6": "0.08660252"}}

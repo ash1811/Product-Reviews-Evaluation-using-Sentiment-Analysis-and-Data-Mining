@@ -1,0 +1,1 @@
+{"text": "Perfect. Gotta love Converse!  I added laces, but love that the elastic means I don't have to untie the laces to put them on.", "sentiment": "negative", "topics": {"0": "0.23954287", "1": "0.010259494", "2": "0.0978598", "3": "0.36324272", "4": "0.18204118", "5": "0.010245798", "6": "0.09680813"}}

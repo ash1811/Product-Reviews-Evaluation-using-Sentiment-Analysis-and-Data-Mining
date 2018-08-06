@@ -1,0 +1,1 @@
+{"text": "this shoes were for my 11 year old Little one. she wanted them to take for schooll they are confortable", "sentiment": "negative", "topics": {"0": "0.2811426", "1": "0.013108218", "2": "0.24937247", "3": "0.25246567", "4": "0.17781536", "5": "0.013019392", "6": "0.013076269"}}

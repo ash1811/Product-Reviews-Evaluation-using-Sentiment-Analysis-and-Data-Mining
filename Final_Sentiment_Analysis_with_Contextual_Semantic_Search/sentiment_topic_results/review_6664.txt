@@ -1,0 +1,1 @@
+{"text": "These are so nice.  They are a little heavier spandex but they last through multiple washings  -- even if they get thrown in the washing machine with other clothes!  My favorites -- I never buy from the mall or other providers.", "sentiment": "negative", "topics": {"0": "0.113029055", "1": "0.16498964", "5": "0.43640795", "6": "0.2629322"}}

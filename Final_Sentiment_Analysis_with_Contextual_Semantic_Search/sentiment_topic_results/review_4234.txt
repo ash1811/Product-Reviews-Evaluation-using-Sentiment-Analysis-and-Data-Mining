@@ -1,0 +1,1 @@
+{"text": "These shorts are very soft and cute. The colors are great for girl's outfits. I'll probably buy the next size up.", "sentiment": "negative", "topics": {"0": "0.39308527", "1": "0.35002095", "2": "0.010264042", "3": "0.21588962", "4": "0.01021879", "5": "0.010230837", "6": "0.010290476"}}

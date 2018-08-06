@@ -1,0 +1,1 @@
+{"text": "This is so comfortable and I bought 3 of them.  The shoulder straps help make it so wearable.  Will buy more.", "sentiment": "positive", "topics": {"0": "0.011924946", "1": "0.3543466", "2": "0.15917267", "3": "0.19163471", "4": "0.17637034", "5": "0.011936437", "6": "0.0946143"}}

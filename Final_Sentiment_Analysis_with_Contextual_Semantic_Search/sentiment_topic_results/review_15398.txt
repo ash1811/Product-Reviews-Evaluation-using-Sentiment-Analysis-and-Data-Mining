@@ -1,0 +1,1 @@
+{"text": "I bought imitation sunglasses and ended up with peeling of the tortoise shell off the glasses and problems all around. This was worth getting. They are the real thing.", "sentiment": "negative", "topics": {"0": "0.26199946", "1": "0.15112749", "2": "0.12000051", "3": "0.14506613", "4": "0.10815661", "5": "0.2040511"}}

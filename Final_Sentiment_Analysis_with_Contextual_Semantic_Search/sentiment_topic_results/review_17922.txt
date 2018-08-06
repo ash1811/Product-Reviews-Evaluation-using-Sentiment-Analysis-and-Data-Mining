@@ -1,0 +1,1 @@
+{"text": "I ordered this as a replacement for a similar watch that I lost.I like an analog watch and especially the white face and clear numbers.The watch is light and thin, great for activities. I highly recommend this watch!", "sentiment": "positive", "topics": {"1": "0.2880572", "2": "0.4300838", "3": "0.08145653", "5": "0.18088357"}}

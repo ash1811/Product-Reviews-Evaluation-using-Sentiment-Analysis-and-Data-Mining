@@ -1,0 +1,1 @@
+{"text": "These toppers were used at the Renaissance Fair and they made my husbands costume complete.", "sentiment": "negative", "topics": {"0": "0.50583184", "1": "0.01593485", "2": "0.015896931", "3": "0.13871488", "4": "0.29182276", "5": "0.015900772", "6": "0.015897995"}}

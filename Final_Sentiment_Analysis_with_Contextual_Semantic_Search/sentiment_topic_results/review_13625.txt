@@ -1,0 +1,1 @@
+{"text": "For my and all my friends this it's the perfect jeans , always bought this brand and this model love it", "sentiment": "negative", "topics": {"0": "0.0159292", "1": "0.015955955", "2": "0.01592655", "3": "0.2782499", "4": "0.015983349", "5": "0.50887626", "6": "0.14907874"}}

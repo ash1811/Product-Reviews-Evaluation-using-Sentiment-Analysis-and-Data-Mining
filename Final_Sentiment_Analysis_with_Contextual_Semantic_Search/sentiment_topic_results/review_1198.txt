@@ -1,0 +1,1 @@
+{"text": "Recommend anyone looking for a nice bucket/fish hat for a reasonable price. Like having the strap for extra security on windy days. Fits perfect and is great looking.Great pick!", "sentiment": "negative", "topics": {"0": "0.119484365", "1": "0.27384904", "2": "0.16151465", "4": "0.24226649", "5": "0.18854046"}}

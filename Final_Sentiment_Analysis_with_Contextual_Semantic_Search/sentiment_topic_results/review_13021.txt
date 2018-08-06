@@ -1,0 +1,1 @@
+{"text": "Not quite the absorbent soft cotton I was hoping for but this will do the job in most cases.  Color and pattern are as shown.", "sentiment": "positive", "topics": {"0": "0.013025149", "1": "0.609372", "2": "0.201553", "3": "0.13689126", "4": "0.013010802", "5": "0.013071096", "6": "0.013076647"}}

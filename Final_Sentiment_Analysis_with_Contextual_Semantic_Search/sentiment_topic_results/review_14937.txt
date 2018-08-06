@@ -1,0 +1,1 @@
+{"text": "I love it, it carries a lot of items and it has seperate compartments to keep them separated. I also love the company Baggallini ...because its bags are made of quality material.", "sentiment": "positive", "topics": {"1": "0.21328083", "2": "0.11731758", "3": "0.10765456", "4": "0.29144034", "5": "0.13187756", "6": "0.13088071"}}

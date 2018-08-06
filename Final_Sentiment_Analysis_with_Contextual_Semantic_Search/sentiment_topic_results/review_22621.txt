@@ -1,0 +1,1 @@
+{"text": "The fit and quality are good. I really like that they are tagless. The downfall is they claim to not ride up. I don't think I've fould a pair yet that doesn't ride up a little especially when jeans are worn. Would recommend.", "sentiment": "negative", "topics": {"1": "0.5251353", "3": "0.16237386", "5": "0.1390729", "6": "0.1547463"}}

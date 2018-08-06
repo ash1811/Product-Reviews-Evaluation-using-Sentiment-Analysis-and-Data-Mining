@@ -1,0 +1,1 @@
+{"text": "A good quality shirt.  I can't say much about the sizing because I don't regularly buy clothing for kids, but it did fit the recipient child.", "sentiment": "negative", "topics": {"0": "0.0970327", "1": "0.61691", "3": "0.09172893", "5": "0.095422186", "6": "0.07984337"}}

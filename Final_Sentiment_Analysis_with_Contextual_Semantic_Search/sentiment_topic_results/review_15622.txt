@@ -1,0 +1,1 @@
+{"text": "It is so real! My 6 years dauhgter love this costume. It looks like leather but it is a kind of plastic very light and soft. Superb", "sentiment": "negative", "topics": {"0": "0.15376814", "1": "0.35922858", "2": "0.25727236", "4": "0.20107059"}}

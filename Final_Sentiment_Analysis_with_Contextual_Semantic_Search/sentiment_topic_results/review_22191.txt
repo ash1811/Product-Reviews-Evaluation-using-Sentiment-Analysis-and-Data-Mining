@@ -1,0 +1,1 @@
+{"text": "Item arrived 3 days after purchase. Very pleased with product.I ordered the metallic blue and it is so beautiful in person. I have about a 30 in. waist and 40 in. hips. It fits my waist just fine, but not my hips.", "sentiment": "positive", "topics": {"0": "0.0725969", "1": "0.2423437", "2": "0.18356124", "4": "0.12842612", "5": "0.29947588", "6": "0.067380555"}}

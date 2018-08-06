@@ -1,0 +1,1 @@
+{"text": "This bra fits, is very comfortable and the best thing is it keeps the girls up. I love the fact it is not an underwire.", "sentiment": "positive", "topics": {"0": "0.0119601535", "1": "0.31058535", "2": "0.0119964145", "3": "0.35028332", "4": "0.2009958", "5": "0.011942615", "6": "0.102236345"}}

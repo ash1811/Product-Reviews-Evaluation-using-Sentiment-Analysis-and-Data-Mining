@@ -1,0 +1,1 @@
+{"text": "Neat color of red, like a Macintosh apple!  Washed it already, no shrink, looks great, feels great - great buy!", "sentiment": "positive", "topics": {"1": "0.56790817", "2": "0.07569391", "3": "0.08901263", "6": "0.24053526"}}

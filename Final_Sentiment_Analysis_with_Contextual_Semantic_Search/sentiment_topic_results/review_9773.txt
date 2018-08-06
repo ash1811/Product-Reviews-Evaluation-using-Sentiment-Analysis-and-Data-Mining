@@ -1,0 +1,1 @@
+{"text": "son loved it. he wore these till they fell apart. every single day. lived in them . would get again", "sentiment": "negative", "topics": {"0": "0.21196425", "1": "0.07435512", "2": "0.10735845", "3": "0.010229607", "4": "0.01021411", "5": "0.5756447", "6": "0.010233818"}}

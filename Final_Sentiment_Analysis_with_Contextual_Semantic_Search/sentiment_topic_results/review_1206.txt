@@ -1,0 +1,1 @@
+{"text": "These were much more cheaply built than other toy handcuffs I have seen.  Still fine for play but there are better choices out there for the same money.", "sentiment": "negative", "topics": {"0": "0.0110138375", "1": "0.5220982", "2": "0.3360759", "3": "0.01107816", "4": "0.09766841", "5": "0.011051179", "6": "0.011014349"}}

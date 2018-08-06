@@ -1,0 +1,1 @@
+{"text": "But after I wore it and washed it a few times the inside elastic on the bottom of the bra turned sticky and I can't get it to off.", "sentiment": "negative", "topics": {"0": "0.011035845", "1": "0.011044903", "2": "0.011037277", "3": "0.28193566", "4": "0.011036431", "5": "0.4079129", "6": "0.26599696"}}

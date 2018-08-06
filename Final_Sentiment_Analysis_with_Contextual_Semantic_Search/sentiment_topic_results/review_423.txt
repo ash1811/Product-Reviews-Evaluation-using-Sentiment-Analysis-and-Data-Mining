@@ -1,0 +1,1 @@
+{"text": "well today I was pleasantly surprised by the arrival of the wipes at my doorstep, packaging is different than shown it is a flat case which i love and works out 10x better than a cylinder stye container!", "sentiment": "negative", "topics": {"0": "0.389065", "2": "0.07399375", "4": "0.19396433", "5": "0.07713429", "6": "0.25147012"}}

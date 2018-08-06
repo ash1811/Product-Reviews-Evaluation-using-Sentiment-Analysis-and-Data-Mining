@@ -1,0 +1,1 @@
+{"text": "For the money its very nice. Band seems a little cheap but thats the only fault. Overall what can you ask for at $20? Its worth the money.", "sentiment": "positive", "topics": {"0": "0.14743422", "1": "0.23441242", "2": "0.22517419", "3": "0.13159393", "4": "0.010224504", "5": "0.240893", "6": "0.010267759"}}

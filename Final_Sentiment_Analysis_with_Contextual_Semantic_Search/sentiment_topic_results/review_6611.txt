@@ -1,0 +1,1 @@
+{"text": "Great socks. Padded in the right places and don't get too hot, well made, good quality. I would definitely recommend them.", "sentiment": "positive", "topics": {"1": "0.46909392", "3": "0.39159268", "5": "0.103439614"}}

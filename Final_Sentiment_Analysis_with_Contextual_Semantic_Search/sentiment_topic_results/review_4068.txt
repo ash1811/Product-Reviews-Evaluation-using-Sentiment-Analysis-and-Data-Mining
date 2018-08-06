@@ -1,0 +1,1 @@
+{"text": "This expander works just as described.  I feel like it should cost like $0.25 as it's very small and simple, but it really does what they say and I'm the one who paid for it.", "sentiment": "negative", "topics": {"1": "0.3455237", "2": "0.31620914", "6": "0.30454072"}}

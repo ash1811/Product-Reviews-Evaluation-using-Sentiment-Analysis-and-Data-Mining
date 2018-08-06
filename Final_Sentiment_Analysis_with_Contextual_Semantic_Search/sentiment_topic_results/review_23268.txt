@@ -1,0 +1,1 @@
+{"text": "I wear a 36D and ordered the extra large, but this still rides up in the back really bad. Its not comfortable to sleep in for sure!", "sentiment": "negative", "topics": {"0": "0.010215737", "1": "0.6338589", "2": "0.09485758", "3": "0.010267828", "4": "0.010210491", "5": "0.23036571", "6": "0.010223759"}}

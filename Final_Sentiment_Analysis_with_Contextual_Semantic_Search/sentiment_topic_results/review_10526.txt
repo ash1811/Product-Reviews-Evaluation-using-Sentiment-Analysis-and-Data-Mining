@@ -1,0 +1,1 @@
+{"text": "Great sock still but are not a soft as a few years ago. But is still the softest out there that I know of.", "sentiment": "negative", "topics": {"0": "0.013017393", "1": "0.013074299", "2": "0.11177396", "3": "0.44177103", "4": "0.012990659", "5": "0.28467634", "6": "0.12269637"}}

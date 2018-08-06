@@ -1,0 +1,1 @@
+{"text": "my husband goes through flip flops like underwear, so I convinced him to buy rainbows. He loves them and they've lasted for more than a month on his schedule.", "sentiment": "negative", "topics": {"0": "0.0984176", "1": "0.16123907", "2": "0.1574371", "3": "0.13447705", "4": "0.23121998", "5": "0.20764442"}}

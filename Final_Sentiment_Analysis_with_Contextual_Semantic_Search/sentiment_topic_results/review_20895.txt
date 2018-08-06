@@ -1,0 +1,1 @@
+{"text": "these Docker shorts fit comfortably and well.  The fabric is summer light,the color,dusty blue, attractive and all in all a satisfying purchase.", "sentiment": "negative", "topics": {"0": "0.15617013", "1": "0.33274475", "2": "0.18683057", "3": "0.010209103", "4": "0.010225432", "5": "0.21934648", "6": "0.08447353"}}

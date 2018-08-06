@@ -1,0 +1,1 @@
+{"text": "These jeans are vastly superior to the Levi jeans I bought on amazon.com. These jeans fit properly. The Levi jeans did not. The hardware stays on the Lee jeans. The Levi jeans had buttons fall off.Buy stead of Levi.", "sentiment": "negative", "topics": {"0": "0.061480455", "1": "0.18952817", "4": "0.18655157", "5": "0.20769812", "6": "0.34328392"}}

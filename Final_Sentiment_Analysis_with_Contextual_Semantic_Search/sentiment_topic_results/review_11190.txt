@@ -1,0 +1,1 @@
+{"text": "I have bought these from an another source and I have to say... I LOVE these !! They are so soft which was what I was looking for, although you might want to try and get a wider version because they run narrow at the toe area.", "sentiment": "positive", "topics": {"1": "0.59091425", "3": "0.16928811", "4": "0.07861003", "6": "0.1397194"}}

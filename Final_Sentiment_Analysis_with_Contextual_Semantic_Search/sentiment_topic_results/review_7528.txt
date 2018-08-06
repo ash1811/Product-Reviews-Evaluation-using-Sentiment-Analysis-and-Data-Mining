@@ -1,0 +1,1 @@
+{"text": "Reminds me of the jacket I had back in the '60s.  It's a good fit and feels great. Perfect for causal wear on a cool day.", "sentiment": "positive", "topics": {"0": "0.010236671", "1": "0.273737", "2": "0.088892914", "3": "0.010226666", "4": "0.010221495", "5": "0.4652143", "6": "0.14147092"}}

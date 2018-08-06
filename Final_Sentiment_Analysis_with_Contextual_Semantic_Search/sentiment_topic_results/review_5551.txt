@@ -1,0 +1,1 @@
+{"text": "My husband is very happy with these Polo shirts.  The sleeves come down to almost the elbow, which is what he wanted.  It fits true to size, not too tight or too baggy.  We will buy more of these in the future.", "sentiment": "negative", "topics": {"1": "0.53944355", "2": "0.108060725", "4": "0.23844074", "6": "0.08877241"}}

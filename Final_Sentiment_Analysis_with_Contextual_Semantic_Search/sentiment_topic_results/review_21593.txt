@@ -1,0 +1,1 @@
+{"text": "This was perfect for my makeup. This is by far the best one out! I thought it was too expensive until I received it. Quality and worth the $119!", "sentiment": "negative", "topics": {"0": "0.010256899", "1": "0.51468843", "2": "0.22840689", "3": "0.010234828", "4": "0.010245847", "5": "0.21595016", "6": "0.010216975"}}

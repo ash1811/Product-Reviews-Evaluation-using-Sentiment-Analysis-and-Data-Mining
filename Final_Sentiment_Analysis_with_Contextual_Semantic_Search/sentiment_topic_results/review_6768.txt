@@ -1,0 +1,1 @@
+{"text": "This watch well earn you many jealous glances and will be a conversation starter.  Watch lovers will take notice.  And it speaks success.", "sentiment": "positive", "topics": {"0": "0.19141959", "1": "0.13303259", "2": "0.19382489", "4": "0.1391561", "5": "0.2308144", "6": "0.10222531"}}

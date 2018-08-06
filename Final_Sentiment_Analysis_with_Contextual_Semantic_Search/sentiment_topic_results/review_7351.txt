@@ -1,0 +1,1 @@
+{"text": "I am a ranger and I like good quality clothes especially when they hold weight and they do not crash on you, jeans looks good on people, but it has to hold true to rough terrains.", "sentiment": "negative", "topics": {"0": "0.20032421", "1": "0.33348912", "2": "0.0859632", "3": "0.26128232", "6": "0.10385746"}}

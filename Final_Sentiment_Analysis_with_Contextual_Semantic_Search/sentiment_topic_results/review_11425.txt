@@ -1,0 +1,1 @@
+{"text": "These were a great earring for the price.  If backing is loose change for another.  Great Shine and Polish to them.", "sentiment": "negative", "topics": {"0": "0.011935807", "1": "0.46514928", "2": "0.23794086", "3": "0.011937039", "4": "0.01192802", "5": "0.13027619", "6": "0.13083276"}}

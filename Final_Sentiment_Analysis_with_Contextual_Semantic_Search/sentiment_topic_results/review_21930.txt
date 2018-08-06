@@ -1,0 +1,1 @@
+{"text": "Great support, super tight and I'm a C so I like that for jogging-- fits a bit funny-- straps go right over your nipples really, rather than off to the side more-- but that's not a big deal.  Great underwire sports bra.", "sentiment": "negative", "topics": {"1": "0.3890337", "2": "0.07007336", "3": "0.37890154", "4": "0.045874193", "6": "0.10551854"}}

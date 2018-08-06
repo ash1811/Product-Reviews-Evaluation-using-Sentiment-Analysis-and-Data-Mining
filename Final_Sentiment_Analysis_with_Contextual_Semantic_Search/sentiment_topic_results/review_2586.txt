@@ -1,0 +1,1 @@
+{"text": "they are true to size and you can spray them with a weather spray to keep them safe from snow", "sentiment": "negative", "topics": {"0": "0.3244094", "1": "0.01592714", "2": "0.015890025", "3": "0.2958989", "4": "0.015885767", "5": "0.1568373", "6": "0.17515144"}}

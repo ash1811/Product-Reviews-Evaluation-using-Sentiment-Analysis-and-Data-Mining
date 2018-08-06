@@ -1,0 +1,1 @@
+{"text": "These briefs are comfortable and fit beautifully, but they're not the best quality. After only a month of usage, the threads are already starting to unravel in a couple of them. I expected better from Hanes.", "sentiment": "negative", "topics": {"1": "0.4010362", "2": "0.29934266", "3": "0.080799416", "4": "0.19621797"}}

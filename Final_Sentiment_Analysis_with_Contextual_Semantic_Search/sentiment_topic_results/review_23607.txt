@@ -1,0 +1,1 @@
+{"text": "I am 250 and 5'5 and these fit great. I was very happy with the quality and fit. Glad I bought them.", "sentiment": "negative", "topics": {"0": "0.013016014", "1": "0.62600565", "2": "0.1371535", "3": "0.18479118", "4": "0.013021823", "5": "0.013021407", "6": "0.012990415"}}

@@ -1,0 +1,1 @@
+{"text": "This shoe goes for over $90 in Nordstroms, etc.  I paid $68.  Not bad.  The shoe isn't the most comfortable, but it seems to be well made and goes with the outfit I bought it for.", "sentiment": "positive", "topics": {"1": "0.5756891", "2": "0.2511891", "4": "0.08484924", "6": "0.06441126"}}

@@ -1,0 +1,1 @@
+{"text": "Good quality and stays up on the leg! Washes well without any color fadding. I would like a pair in every color!", "sentiment": "negative", "topics": {"0": "0.13648339", "1": "0.8157387"}}

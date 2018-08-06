@@ -1,0 +1,1 @@
+{"text": "I have a number of pairs of Wrangler Jeans. They fit well wear well and Amazon has great prices and selection.", "sentiment": "positive", "topics": {"0": "0.011021022", "1": "0.6477806", "2": "0.098109834", "3": "0.011020008", "4": "0.15266676", "5": "0.06840917", "6": "0.010992631"}}

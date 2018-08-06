@@ -1,0 +1,1 @@
+{"text": "I love my ring! It came crazy fast, first of all, and the fit and width is perfect. Even though the cz's are square, they fit well with the round stones in my engagement ring. Would recommend this ring.", "sentiment": "positive", "topics": {"0": "0.18670432", "1": "0.48625958", "2": "0.16487256", "3": "0.071087904", "4": "0.079147555"}}

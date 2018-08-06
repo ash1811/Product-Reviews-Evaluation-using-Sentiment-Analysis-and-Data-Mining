@@ -1,0 +1,1 @@
+{"text": "comfortable, just a little thinner than i thought they would be.  my husband and i got them for air soft matches....and they do a good job.  fit is good.", "sentiment": "negative", "topics": {"0": "0.09268633", "1": "0.62186855", "4": "0.15820388", "5": "0.10035618"}}

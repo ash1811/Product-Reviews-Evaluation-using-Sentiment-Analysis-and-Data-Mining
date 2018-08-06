@@ -1,0 +1,1 @@
+{"text": "Great pair of shoes , they are almost made for all kind of use and they look great whit jeans. Super comfortable.", "sentiment": "positive", "topics": {"0": "0.010237214", "1": "0.4482911", "2": "0.29142216", "3": "0.21931155", "4": "0.010235048", "5": "0.010291613", "6": "0.010211327"}}

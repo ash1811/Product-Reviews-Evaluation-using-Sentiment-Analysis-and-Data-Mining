@@ -1,0 +1,1 @@
+{"text": "Great purchase. protects the car seat from being thrown all over while in the airport. My sons car seat is still intact", "sentiment": "positive", "topics": {"0": "0.011025045", "1": "0.24236856", "2": "0.24943858", "3": "0.20615162", "4": "0.011005393", "5": "0.11157494", "6": "0.16843587"}}

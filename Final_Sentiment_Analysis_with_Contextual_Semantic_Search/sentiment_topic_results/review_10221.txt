@@ -1,0 +1,1 @@
+{"text": "U Won y Regret Buying this Silver Chain ! U Can Tell Its of Fine QUALITY. Buy It You ll Like It !!", "sentiment": "positive", "topics": {"0": "0.01192537", "1": "0.21153304", "2": "0.38292533", "3": "0.011927486", "4": "0.23064394", "5": "0.011941588", "6": "0.13910325"}}

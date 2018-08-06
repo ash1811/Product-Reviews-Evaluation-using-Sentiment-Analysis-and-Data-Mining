@@ -1,0 +1,1 @@
+{"text": "The fit is true and the roominess is appreciated. The owner is a happy camper and is looking to purchase more in the future.", "sentiment": "positive", "topics": {"0": "0.27233917", "1": "0.3067064", "2": "0.09811627", "3": "0.13879503", "4": "0.15802976", "5": "0.012995445", "6": "0.013017913"}}

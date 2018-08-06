@@ -1,0 +1,1 @@
+{"text": "Lee's jeans fit so well on my husband.  He is handicapped and they do not constrict him.  Good denim, plenty of room for comfort..length was true, Always buy Lee jeans for both of us.", "sentiment": "negative", "topics": {"0": "0.19445029", "1": "0.40393004", "2": "0.07400352", "4": "0.19665281", "6": "0.11662458"}}

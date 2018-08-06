@@ -1,0 +1,1 @@
+{"text": "I love these shoes.  This is my 3rd pair of these. I have worn 2 pair out.  they are so comfortable but also have a great deal of arch support for my high arches", "sentiment": "negative", "topics": {"0": "0.10267916", "1": "0.20776318", "2": "0.07667317", "3": "0.3893089", "4": "0.12576143", "6": "0.08986682"}}

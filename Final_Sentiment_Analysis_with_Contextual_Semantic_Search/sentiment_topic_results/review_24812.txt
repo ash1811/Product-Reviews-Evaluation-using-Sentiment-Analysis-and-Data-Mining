@@ -1,0 +1,1 @@
+{"text": "Just too small for my husband - and he preferred another line they had - this was too laid back for him", "sentiment": "negative", "topics": {"0": "0.017882384", "1": "0.618078", "2": "0.017902486", "3": "0.017885374", "4": "0.29248214", "5": "0.01787477", "6": "0.017894838"}}

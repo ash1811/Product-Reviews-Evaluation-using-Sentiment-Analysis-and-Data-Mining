@@ -1,0 +1,1 @@
+{"text": "Nicely made and can be worn with a dressy or casual outfit.  Add a bit of glam to any outfit.", "sentiment": "negative", "topics": {"0": "0.013024125", "1": "0.68421435", "2": "0.013017104", "3": "0.01301787", "4": "0.013028923", "5": "0.013022635", "6": "0.25067493"}}

@@ -1,0 +1,1 @@
+{"text": "I needed fingerless gloves, these are them!  Honestly they are good quality and great for the obvious uses so if you need fingerless gloves, get these!", "sentiment": "negative", "topics": {"1": "0.30008492", "2": "0.564004", "6": "0.1001109"}}

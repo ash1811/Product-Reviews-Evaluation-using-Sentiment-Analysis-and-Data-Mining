@@ -1,0 +1,1 @@
+{"text": "Easy to read time and date - easy to set for services - easy to put on, take off. Always on time. What else could one want? and just look at the low price!", "sentiment": "positive", "topics": {"1": "0.4092984", "2": "0.09426835", "3": "0.13323686", "4": "0.3436372"}}

@@ -1,0 +1,1 @@
+{"text": "This bag is a sturdy, airplane friendly travel bag that also has the convenience of a removable backpack.  Very useable and convenient.", "sentiment": "negative", "topics": {"0": "0.011011307", "1": "0.3144108", "2": "0.10459513", "3": "0.17988785", "4": "0.22821423", "5": "0.011012873", "6": "0.1508678"}}

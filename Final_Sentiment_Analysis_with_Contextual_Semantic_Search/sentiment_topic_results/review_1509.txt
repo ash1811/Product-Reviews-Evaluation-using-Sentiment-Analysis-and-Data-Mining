@@ -1,0 +1,1 @@
+{"text": "This Jansport backpack has held up very well. It lasted throughout the whole school year for my daughter. Very pleased.", "sentiment": "negative", "topics": {"0": "0.011953679", "1": "0.354239", "2": "0.26584664", "3": "0.33207244", "4": "0.012012762", "5": "0.0119629335", "6": "0.0119126085"}}

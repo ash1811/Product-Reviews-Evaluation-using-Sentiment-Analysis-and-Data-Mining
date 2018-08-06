@@ -1,0 +1,1 @@
+{"text": "I was hesitant to purchase, because I loved my old ones so much, & it took me years to find something just as good., But these are Great shoes! From a far, when wearing jeans, people think I'm wearing boots!", "sentiment": "negative", "topics": {"0": "0.10708578", "1": "0.60840636", "2": "0.09381821", "4": "0.17111799"}}

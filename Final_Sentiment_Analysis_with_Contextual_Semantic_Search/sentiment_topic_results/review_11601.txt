@@ -1,0 +1,1 @@
+{"text": "Very happy with them. The color is great and the fit as expected. They also feel as they will last just as long as jeans if not longer.", "sentiment": "positive", "topics": {"0": "0.01104641", "1": "0.44292244", "2": "0.011024297", "3": "0.15246643", "4": "0.3604535", "5": "0.01106652", "6": "0.011020363"}}

@@ -1,0 +1,1 @@
+{"text": "I love these studs. They look great with gold hoops or just alone. They were actually a bit bigger than I anticipated, which was even better.", "sentiment": "negative", "topics": {"0": "0.21251594", "1": "0.010235797", "2": "0.11813001", "3": "0.38642645", "4": "0.010233949", "5": "0.2522407", "6": "0.010217182"}}

@@ -1,0 +1,1 @@
+{"text": "I actually returned it cuz It came and was too of a nice size so never fully used it but I'm sure if I had it would had been wonderful.", "sentiment": "negative", "topics": {"0": "0.010254956", "1": "0.11760978", "2": "0.10803337", "3": "0.24962744", "4": "0.010237907", "5": "0.3438651", "6": "0.16037142"}}

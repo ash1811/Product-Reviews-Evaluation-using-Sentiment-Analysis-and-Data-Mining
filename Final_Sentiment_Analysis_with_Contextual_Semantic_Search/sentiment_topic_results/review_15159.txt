@@ -1,0 +1,1 @@
+{"text": "These are comfy and have support which is missing in most flats.  My only downside for these is that they cut a bit across the ball of my foot.", "sentiment": "negative", "topics": {"0": "0.0129983025", "1": "0.51030755", "2": "0.013016951", "3": "0.013068964", "4": "0.4245203", "5": "0.013023182", "6": "0.013064718"}}

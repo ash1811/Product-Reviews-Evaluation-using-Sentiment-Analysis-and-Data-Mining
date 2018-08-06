@@ -1,0 +1,1 @@
+{"text": "The pant is thicker than silk, but thin enough that it doesn't show through my work slacks. It is tightly knit and warm, and I expect it will outlast a silk pair.", "sentiment": "negative", "topics": {"1": "0.5391935", "2": "0.101672284", "5": "0.09736876", "6": "0.23492052"}}

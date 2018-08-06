@@ -1,0 +1,1 @@
+{"text": "First pair of Sperry Top-Siders, and couldn't be happier. They fit extremely well and look amazing. Recommend to anyone looking for a good pair of summer shoes!", "sentiment": "negative", "topics": {"1": "0.4068791", "2": "0.18314096", "3": "0.19666821", "4": "0.09474804", "5": "0.10263289"}}

@@ -1,0 +1,1 @@
+{"text": "I love Oakley sunglasses, I've been wearing tightrope, but this one are very good sunglasses, not too heavy, so comfortable and even they're not polarized, it protect pretty good on the sunshine.", "sentiment": "positive", "topics": {"1": "0.31620905", "2": "0.18675971", "3": "0.12441413", "4": "0.15980978", "5": "0.09454724", "6": "0.11071491"}}

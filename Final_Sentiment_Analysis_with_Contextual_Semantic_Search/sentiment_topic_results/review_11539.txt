@@ -1,0 +1,1 @@
+{"text": "what can you say about handkercheif, they came in a nice package and were a great quality, the edges were clean and not frayed, worked great for my grooms men", "sentiment": "negative", "topics": {"0": "0.13216071", "1": "0.39292243", "3": "0.07752884", "5": "0.09676499", "6": "0.28154758"}}

@@ -1,0 +1,1 @@
+{"text": "These are actually very nice bras.  They just didn't fit.  Overall it was a very poor fit.  Cups too big, straps too short,  Just not for me.", "sentiment": "negative", "topics": {"0": "0.21384199", "1": "0.4452213", "2": "0.18458644", "3": "0.12323223", "4": "0.011015204", "5": "0.011053156", "6": "0.011049713"}}

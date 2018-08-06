@@ -1,0 +1,1 @@
+{"text": "A nice low profile shoe and they fit true to size. They are pretty comfortable but do not have a lot of support.", "sentiment": "positive", "topics": {"0": "0.011926374", "1": "0.60140055", "2": "0.13967077", "3": "0.21124448", "4": "0.011912777", "5": "0.011914889", "6": "0.011930182"}}

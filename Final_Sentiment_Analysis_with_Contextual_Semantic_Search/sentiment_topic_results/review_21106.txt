@@ -1,0 +1,1 @@
+{"text": "I returned this swim suit.  I ordered my size but it fits very tight and I couldn't get it on so I returned it.", "sentiment": "negative", "topics": {"0": "0.013020566", "1": "0.35032675", "2": "0.15668143", "3": "0.29814494", "4": "0.15580341", "5": "0.013001992", "6": "0.013020939"}}

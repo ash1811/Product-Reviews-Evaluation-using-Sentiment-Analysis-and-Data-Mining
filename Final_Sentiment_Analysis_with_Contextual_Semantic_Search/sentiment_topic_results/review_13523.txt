@@ -1,0 +1,1 @@
+{"text": "The cut was flattering enough to more than make up for it. Anyway, my husband loved it, so I'm a satisfied customer.", "sentiment": "negative", "topics": {"0": "0.01103613", "1": "0.25407952", "2": "0.20528494", "3": "0.26472238", "4": "0.17357096", "5": "0.011041382", "6": "0.08026468"}}

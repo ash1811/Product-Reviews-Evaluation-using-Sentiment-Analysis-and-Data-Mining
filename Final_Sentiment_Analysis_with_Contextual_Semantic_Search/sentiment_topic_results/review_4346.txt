@@ -1,0 +1,1 @@
+{"text": "They wrinkle, the material has an unusual feel to it.  The size is small and when you buy a relaxed fit you do not expect stretch pants.", "sentiment": "negative", "topics": {"0": "0.19962668", "1": "0.47506592", "2": "0.010213725", "3": "0.28431043", "4": "0.010221406", "5": "0.010325573", "6": "0.010236244"}}

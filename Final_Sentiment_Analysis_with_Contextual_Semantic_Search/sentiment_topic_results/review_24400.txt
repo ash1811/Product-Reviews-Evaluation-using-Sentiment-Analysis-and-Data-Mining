@@ -1,0 +1,1 @@
+{"text": "it's just not very thick and has a tendency to shift on your head cause it does not fit snug ,and i don't have a big head..it's ok", "sentiment": "negative", "topics": {"0": "0.011922919", "1": "0.3813258", "2": "0.2862583", "3": "0.011929876", "4": "0.011914606", "5": "0.13076453", "6": "0.16588396"}}

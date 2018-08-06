@@ -1,0 +1,1 @@
+{"text": "these are the same hanes I have been wearing for years.  they are a nice snug fit so they will help keep you warm without adding a thick layer under your clothing.", "sentiment": "negative", "topics": {"1": "0.6333397", "3": "0.15827052", "6": "0.17023297"}}

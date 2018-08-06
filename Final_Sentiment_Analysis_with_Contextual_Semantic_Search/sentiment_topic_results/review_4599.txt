@@ -1,0 +1,1 @@
+{"text": "These jeans fit very well.  The heavier denim will be perfect for the colder weather.  I particularly like the elastic on the waist.  It makes for a much more comfortable fit, and no binding at the waist.  I would definitely buy these again.", "sentiment": "negative", "topics": {"1": "0.5066085", "2": "0.20694833", "3": "0.104218744", "5": "0.1635171"}}

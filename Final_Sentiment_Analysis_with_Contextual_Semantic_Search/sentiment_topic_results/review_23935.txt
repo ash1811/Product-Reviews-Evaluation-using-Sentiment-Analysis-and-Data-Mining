@@ -1,0 +1,1 @@
+{"text": "I love these socks because they don't fade!  Very comfortable! I also bought the womens version and they are my favorites socks to wear with pants/jeans/leggins!", "sentiment": "negative", "topics": {"0": "0.010999166", "1": "0.456755", "2": "0.010991418", "3": "0.010999981", "4": "0.24577728", "5": "0.25348252", "6": "0.010994656"}}

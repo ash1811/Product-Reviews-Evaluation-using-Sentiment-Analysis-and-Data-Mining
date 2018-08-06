@@ -1,0 +1,1 @@
+{"text": "I bought the shoes that have the toes and needed socks, these run a bit small but have held up well. I would rather a sock is snug as opposed to my foot swimming in it.", "sentiment": "negative", "topics": {"0": "0.09359316", "1": "0.26485476", "2": "0.104066536", "3": "0.15660769", "4": "0.1257992", "5": "0.1617155", "6": "0.09336319"}}

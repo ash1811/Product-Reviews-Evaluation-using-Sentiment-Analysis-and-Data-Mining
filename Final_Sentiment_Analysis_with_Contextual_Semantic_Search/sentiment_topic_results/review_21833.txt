@@ -1,0 +1,1 @@
+{"text": "what we got are the normal non-glowing underwear. We love those but I can not give a good rating if items being shipped are different from what is being ordered.", "sentiment": "negative", "topics": {"0": "0.17994572", "1": "0.011070286", "2": "0.011008961", "3": "0.011036785", "4": "0.0110410545", "5": "0.3772487", "6": "0.39864847"}}

@@ -1,0 +1,1 @@
+{"text": "Not true to size run small, nice fabric an elastic but will keep for later time losing weight,  nice white", "sentiment": "negative", "topics": {"1": "0.3470586", "3": "0.39574006", "5": "0.21901466"}}

@@ -1,0 +1,1 @@
+{"text": "It's quite comfortable, by my only issue is the straps a little loose. Otherwise it's great. Very comfortable despite the straps a little to big", "sentiment": "negative", "topics": {"0": "0.09599755", "1": "0.4993551", "2": "0.3636875", "3": "0.010226413", "4": "0.010207427", "5": "0.010279567", "6": "0.010246456"}}

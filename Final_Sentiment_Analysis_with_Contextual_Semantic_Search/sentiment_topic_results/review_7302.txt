@@ -1,0 +1,1 @@
+{"text": "The neck is a little tight on my husband (football player), but otherwise it fits - he likes it and wanted me to order more.  The material seems to wick the moisture out after a workout, and does not stick to your skin.", "sentiment": "negative", "topics": {"1": "0.20945601", "3": "0.25569698", "4": "0.11770346", "5": "0.30857518", "6": "0.094190866"}}

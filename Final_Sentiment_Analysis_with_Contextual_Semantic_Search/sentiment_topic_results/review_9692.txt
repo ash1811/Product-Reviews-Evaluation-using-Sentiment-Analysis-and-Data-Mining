@@ -1,0 +1,1 @@
+{"text": "For some reason my wife felt that these did not fit right as per their size. We returned them as she would not wear them.", "sentiment": "negative", "topics": {"0": "0.011955905", "1": "0.5140486", "2": "0.011996704", "3": "0.34333244", "4": "0.094788454", "5": "0.011949449", "6": "0.0119285025"}}

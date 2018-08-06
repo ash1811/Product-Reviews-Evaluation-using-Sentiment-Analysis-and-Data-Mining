@@ -1,0 +1,1 @@
+{"text": "These are a great product if you dont want to buy orthotics.  They are great for running shoes.  They can tend to &#34;squeak&#34; as you walk if the fit is too big for the shoe, but trimming it down more usually helps.", "sentiment": "negative", "topics": {"1": "0.52017796", "2": "0.24954355", "5": "0.14700066", "6": "0.06065109"}}

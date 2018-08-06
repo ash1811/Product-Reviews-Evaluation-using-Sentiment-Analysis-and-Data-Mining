@@ -1,0 +1,1 @@
+{"text": "They are small-ish, so that is why I give them four stars, but otherwise they look nice and they even look more expensive than they actually are.", "sentiment": "negative", "topics": {"0": "0.011027653", "1": "0.49139944", "2": "0.45352334", "3": "0.011002331", "4": "0.010991148", "5": "0.011032977", "6": "0.011023094"}}

@@ -1,0 +1,1 @@
+{"text": "this product is comfortable and an all year round wear. I wear it even in the winter with socks in my car. I love the massaging beads.", "sentiment": "negative", "topics": {"0": "0.010222715", "1": "0.2482085", "2": "0.17781894", "3": "0.12407571", "4": "0.12607054", "5": "0.30339864", "6": "0.01020495"}}

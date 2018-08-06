@@ -1,0 +1,1 @@
+{"text": "A little loose for being a large, but I can live with it.  Keep you a bit warmer that way anyway.", "sentiment": "negative", "topics": {"0": "0.013022035", "1": "0.013035923", "2": "0.20496418", "3": "0.56241983", "4": "0.013012073", "5": "0.013010635", "6": "0.18053535"}}

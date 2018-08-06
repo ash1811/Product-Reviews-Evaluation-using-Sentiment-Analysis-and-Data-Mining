@@ -1,0 +1,1 @@
+{"text": "My husband loves these. They're comfy and roomy and they have pockets (a must have for him). They're affordable and durable and I'll purchase probably a million more pairs over his lifetime.", "sentiment": "positive", "topics": {"1": "0.40475473", "2": "0.069638856", "3": "0.16142872", "4": "0.34268975"}}

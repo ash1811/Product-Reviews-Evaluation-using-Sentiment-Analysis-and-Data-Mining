@@ -1,0 +1,1 @@
+{"text": "My fit of these jeans were expected, as me and weight have been fighting to stay in one place.  But today I maintain a good weight, it's now the size we get to enjoy.", "sentiment": "negative", "topics": {"0": "0.1250526", "1": "0.3761969", "4": "0.2803911", "6": "0.19145772"}}

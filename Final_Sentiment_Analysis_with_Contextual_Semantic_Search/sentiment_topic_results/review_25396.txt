@@ -1,0 +1,1 @@
+{"text": "Bag is well made.  Great every day bag. Great bag for the price. Holds everything.  Looks like a more expensive bag.", "sentiment": "positive", "topics": {"1": "0.7095909", "2": "0.09408816", "3": "0.08074937", "5": "0.09028978"}}

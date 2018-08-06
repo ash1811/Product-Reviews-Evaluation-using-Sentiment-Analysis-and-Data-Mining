@@ -1,0 +1,1 @@
+{"text": "These boots look amazing. I bought the shoe polish that is made by frye; it made them considerably darker. I still like the color and look of the boot. Plus they are super comfortable.", "sentiment": "negative", "topics": {"0": "0.07825221", "1": "0.42614365", "2": "0.06840119", "3": "0.08622784", "4": "0.16871417", "5": "0.07503967", "6": "0.09722123"}}

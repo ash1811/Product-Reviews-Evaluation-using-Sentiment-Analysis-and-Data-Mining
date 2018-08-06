@@ -1,0 +1,1 @@
+{"text": "I have been looking for this particular bra for several months.  My daughter suggested I try it.  It is wonderful.  So comfortable and fits great.  Lots of support and easy on the shoulders.  I highly recommend this one.", "sentiment": "negative", "topics": {"1": "0.45406148", "3": "0.40698647", "6": "0.11157269"}}

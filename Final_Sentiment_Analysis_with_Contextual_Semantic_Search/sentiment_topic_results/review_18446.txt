@@ -1,0 +1,1 @@
+{"text": "ive always been a huge fan of converse but when i received these i was amazed at the quality and look. they fit perfectly and i will wear these so much!", "sentiment": "negative", "topics": {"0": "0.260408", "1": "0.4154892", "2": "0.09630097", "3": "0.19715638", "4": "0.010212601", "5": "0.010225609", "6": "0.0102071855"}}

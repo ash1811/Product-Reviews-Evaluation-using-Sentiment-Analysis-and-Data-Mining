@@ -1,0 +1,1 @@
+{"text": "I bought this backpack for my 7 year old daughter. She loves it. The only drawback is there is not water bottle holder on the outside, so she has to put her water bottle inside of the bag. Nice color and the price was good.", "sentiment": "negative", "topics": {"0": "0.09052981", "1": "0.3179979", "2": "0.3305656", "4": "0.1167518", "5": "0.13170122"}}

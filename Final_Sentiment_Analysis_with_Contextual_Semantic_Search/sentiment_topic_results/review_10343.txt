@@ -1,0 +1,1 @@
+{"text": "Great bra. The only issue I have is the elastic around the top and bottom &#34;bite&#34; a little. I solved the issue with an extension. Next one, I will order a size larger.", "sentiment": "positive", "topics": {"0": "0.14625305", "2": "0.18875468", "3": "0.25361153", "5": "0.25296974", "6": "0.14248781"}}

@@ -1,0 +1,1 @@
+{"text": "Very Comfy!.........Hanes 3-Pack Comfort Soft Waistband Knit Boxers MKCST Assorted - Large............my husband is happy with them they wash well and I like that amazon has such a great selection and good prices!~", "sentiment": "negative", "topics": {"1": "0.35429358", "3": "0.113497086", "4": "0.12584795", "5": "0.19834363", "6": "0.19438064"}}

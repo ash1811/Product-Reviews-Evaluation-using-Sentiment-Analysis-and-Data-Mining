@@ -1,0 +1,1 @@
+{"text": "I always like Kiwi shoes shine products because they are good.  It is a great idea to take some of Kiwi shoes shine products with you on business or vacation trips.", "sentiment": "positive", "topics": {"0": "0.21401617", "2": "0.15466607", "4": "0.144587", "5": "0.3498094", "6": "0.12100601"}}

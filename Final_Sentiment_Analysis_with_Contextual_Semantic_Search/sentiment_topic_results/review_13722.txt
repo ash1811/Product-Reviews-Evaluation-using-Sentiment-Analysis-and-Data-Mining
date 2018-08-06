@@ -1,0 +1,1 @@
+{"text": "very comfy. true to size. My best friend has a pair as well, and she's worn them all over for at least 5 years.", "sentiment": "negative", "topics": {"0": "0.011948739", "1": "0.011986215", "2": "0.011935496", "3": "0.51861197", "4": "0.011957203", "5": "0.29361472", "6": "0.13994567"}}

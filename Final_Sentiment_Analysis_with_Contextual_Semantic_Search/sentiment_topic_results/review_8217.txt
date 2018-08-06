@@ -1,0 +1,1 @@
+{"text": "made well, leather stretches to fit your foot. cut with jeans. a little heavy, but good exercise for your calves, lol.", "sentiment": "negative", "topics": {"1": "0.4552069", "2": "0.089703746", "3": "0.28211436", "4": "0.0809363", "6": "0.072892144"}}

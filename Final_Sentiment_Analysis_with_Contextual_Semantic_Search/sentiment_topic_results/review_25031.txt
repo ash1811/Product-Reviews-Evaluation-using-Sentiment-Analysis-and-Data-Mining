@@ -1,0 +1,1 @@
+{"text": "Great shoe but I had to send them back as they didn't fit my foot which is wide with bunions. The width was good overall.  Good color for wearing in summer with lighter colors and very comfortable.", "sentiment": "negative", "topics": {"0": "0.1996981", "1": "0.62312126", "2": "0.07598738", "3": "0.07847867"}}

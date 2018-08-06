@@ -1,0 +1,1 @@
+{"text": "The original ones I ordered were my normal size, but were just a little too small.  These fit perfect and I love the Velcro closing.", "sentiment": "positive", "topics": {"0": "0.111596085", "1": "0.4955292", "2": "0.01105887", "3": "0.011051166", "4": "0.18235597", "5": "0.011003421", "6": "0.17740528"}}

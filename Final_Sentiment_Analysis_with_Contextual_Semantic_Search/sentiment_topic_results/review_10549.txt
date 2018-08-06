@@ -1,0 +1,1 @@
+{"text": "Not only did it shrink to half the size when I washed it, but it came completely apart as well. Would not buy again under any circumstances. Poorly made and too tight for my head anyway", "sentiment": "positive", "topics": {"1": "0.40362275", "2": "0.20052499", "3": "0.15327941", "4": "0.14218314", "5": "0.08440186"}}

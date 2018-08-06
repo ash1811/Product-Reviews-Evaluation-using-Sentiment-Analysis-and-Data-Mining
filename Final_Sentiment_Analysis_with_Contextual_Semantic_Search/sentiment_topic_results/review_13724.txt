@@ -1,0 +1,1 @@
+{"text": "Love these flip flops.  I had the last pair over 10 years and loved them.  Only replaced them because I lost them when traveling cross country!", "sentiment": "positive", "topics": {"0": "0.09194025", "1": "0.38786998", "2": "0.2846382", "4": "0.20678475"}}

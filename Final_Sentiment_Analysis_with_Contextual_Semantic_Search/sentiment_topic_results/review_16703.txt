@@ -1,0 +1,1 @@
+{"text": "These shoes were an excellent fit so true to sizing chart. These shoes are $249 dollars in NZ and i managed to purchase for $148.00. My husband was pleased with my choice. Thankyou", "sentiment": "negative", "topics": {"1": "0.26088226", "2": "0.2233947", "3": "0.08822683", "4": "0.12831146", "5": "0.22420761", "6": "0.06702265"}}

@@ -1,0 +1,1 @@
+{"text": "These slippers are wonderful.  Very comfortable and warm. Thick sole and heavy materials used. Very good quality. Would recommend these to anyone that is looking for a great slipper.", "sentiment": "positive", "topics": {"1": "0.5597773", "5": "0.1715461", "6": "0.23685949"}}

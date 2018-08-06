@@ -1,0 +1,1 @@
+{"text": "I like this shirt, but the XXL is tighter than expected as this is what I usually wear. Shirt looks good and is very heavy (a bit heavier than i'd like, but it's a flannel and will be good to wear in the winter!", "sentiment": "positive", "topics": {"1": "0.46215984", "3": "0.077221975", "5": "0.13600157", "6": "0.30417782"}}

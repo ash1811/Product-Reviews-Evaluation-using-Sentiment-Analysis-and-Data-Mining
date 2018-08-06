@@ -1,0 +1,1 @@
+{"text": "They don't make it clear that these have polyester. If you wear 100 % cotton most of the time, you will really notice the difference, and not in a good way.", "sentiment": "negative", "topics": {"0": "0.36176115", "1": "0.011057009", "2": "0.1136762", "3": "0.4804252", "4": "0.011038225", "5": "0.011039362", "6": "0.011002855"}}

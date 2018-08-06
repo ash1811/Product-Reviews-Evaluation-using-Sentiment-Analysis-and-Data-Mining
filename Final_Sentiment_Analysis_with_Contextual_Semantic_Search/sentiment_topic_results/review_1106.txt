@@ -1,0 +1,1 @@
+{"text": "Great colors, these are beautiful!  I love that the backings of these earrings are attached!  I have not lost them yet!", "sentiment": "negative", "topics": {"0": "0.014321061", "1": "0.47769862", "2": "0.0143030975", "3": "0.014296417", "4": "0.4505232", "5": "0.014366357", "6": "0.014491243"}}

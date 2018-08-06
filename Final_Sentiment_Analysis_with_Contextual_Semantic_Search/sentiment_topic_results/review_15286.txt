@@ -1,0 +1,1 @@
+{"text": "These scrubs are durable and comfy! Nice thick material but still roomy. A little big but I think most scrubs run a little bigger.", "sentiment": "negative", "topics": {"1": "0.47473204", "3": "0.48056218"}}

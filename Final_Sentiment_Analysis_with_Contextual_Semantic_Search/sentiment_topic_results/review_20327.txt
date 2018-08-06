@@ -1,0 +1,1 @@
+{"text": "these fit ok a bit wider than expected and stiff  but the look is nice and they are as promised waterproof. great grips on the bottom and easy to clean.thanks!", "sentiment": "negative", "topics": {"1": "0.4893714", "3": "0.11261073", "4": "0.29180887", "5": "0.07937995"}}

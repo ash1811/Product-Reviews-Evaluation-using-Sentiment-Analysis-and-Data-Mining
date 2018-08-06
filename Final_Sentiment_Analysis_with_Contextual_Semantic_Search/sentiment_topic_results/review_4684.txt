@@ -1,0 +1,1 @@
+{"text": "These are quality shoes, except they're still too narrow.  I wear 4E width.  Package arrived in great shape.  I would recommend them to anyone.", "sentiment": "negative", "topics": {"0": "0.25087094", "1": "0.49512112", "2": "0.08855822", "4": "0.14015757"}}

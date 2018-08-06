@@ -1,0 +1,1 @@
+{"text": "Good quality cotton, one of the few companies who make covered elastic binding -- important to those allergic to elastic.", "sentiment": "negative", "topics": {"0": "0.011048421", "1": "0.25588548", "2": "0.27319473", "3": "0.32820487", "4": "0.011041115", "5": "0.10951742", "6": "0.011107943"}}

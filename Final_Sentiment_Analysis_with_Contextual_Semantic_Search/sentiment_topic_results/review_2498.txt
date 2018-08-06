@@ -1,0 +1,1 @@
+{"text": "I have purchased Dickie Jeans at several locations thru the years.  These are just like all the rest, well made, long lasting and a good fit.", "sentiment": "positive", "topics": {"1": "0.43307588", "2": "0.23474093", "5": "0.29635775"}}

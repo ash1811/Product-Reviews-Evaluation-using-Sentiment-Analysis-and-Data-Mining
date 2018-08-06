@@ -1,0 +1,1 @@
+{"text": "The scarf is well made no issue with it, it just looks great too.  I would recommend this to anyone living in a cold environment.", "sentiment": "negative", "topics": {"0": "0.25708905", "4": "0.0875457", "5": "0.61714894"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans fit perfectly. As you can expect from wrangler, you get high quality, rugged wearing  jeans for an excellent price. No matter what color you order you (I have ordered other colors) can can expect excellent quality for very little money.", "sentiment": "negative", "topics": {"1": "0.40963182", "2": "0.18245777", "4": "0.07821886", "5": "0.31246132"}}

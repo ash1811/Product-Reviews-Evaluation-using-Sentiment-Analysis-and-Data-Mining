@@ -1,0 +1,1 @@
+{"text": "Love this hat! I wear these bucket hats all the time for work. I love that it fits perfectly and it has no writing on it. It far surpasses my expectations. I bought two of them and I will buy more when these wear out. Very happy with the purchase!", "sentiment": "negative", "topics": {"0": "0.10909851", "1": "0.55711305", "3": "0.20421197", "5": "0.11085846"}}

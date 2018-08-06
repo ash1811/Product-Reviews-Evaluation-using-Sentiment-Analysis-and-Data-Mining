@@ -1,0 +1,1 @@
+{"text": "I wear these all the time they keep me from getting those awful leg cramps.  They are soft and fit great.  I recommend them.  They are a little tight at first but they stretch out some.", "sentiment": "negative", "topics": {"1": "0.78613657", "3": "0.17405386"}}

@@ -1,0 +1,1 @@
+{"text": "This undershirt is big so make sure to order a a shirt with one size smaller than you wear.Other than this, the shirt is soft and comfortable.", "sentiment": "negative", "topics": {"0": "0.10543295", "1": "0.3406287", "2": "0.28394884", "3": "0.24135908"}}

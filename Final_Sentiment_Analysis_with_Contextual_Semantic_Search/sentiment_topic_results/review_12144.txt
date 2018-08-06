@@ -1,0 +1,1 @@
+{"text": "These are so far the best socks I have bought for everyday wear. They was h easily and have lasted three months without a problem.", "sentiment": "negative", "topics": {"0": "0.010251631", "1": "0.2678933", "2": "0.010225299", "3": "0.3643047", "4": "0.10946361", "5": "0.22764687", "6": "0.010214592"}}

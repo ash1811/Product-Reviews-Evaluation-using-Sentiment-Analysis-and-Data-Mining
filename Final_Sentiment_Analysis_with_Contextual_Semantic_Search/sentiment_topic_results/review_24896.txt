@@ -1,0 +1,1 @@
+{"text": "I chose the gown because I thought the lace was very attractive. The gown fit as expected, the gown was well made.  The gown is sheerer than I would like, however if my body was younger and in better shape I wouldn't mind.", "sentiment": "negative", "topics": {"1": "0.441996", "2": "0.37358978", "6": "0.1583183"}}

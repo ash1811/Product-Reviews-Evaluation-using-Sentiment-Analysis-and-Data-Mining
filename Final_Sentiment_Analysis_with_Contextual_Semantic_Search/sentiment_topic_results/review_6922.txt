@@ -1,0 +1,1 @@
+{"text": "Best price around.better than walmarts crap.feels great. Love my dickies cargos. Wouldn't trade them for any other brand .will stick with them.", "sentiment": "negative", "topics": {"1": "0.22272833", "2": "0.18179806", "3": "0.22858089", "5": "0.2686638", "6": "0.07910466"}}

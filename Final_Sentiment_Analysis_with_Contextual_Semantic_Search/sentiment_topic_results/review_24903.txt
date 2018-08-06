@@ -1,0 +1,1 @@
+{"text": "This bra is comfortable, but does run small. I always like to have a racerback bra to wear with tank tops and T-back shirts.", "sentiment": "negative", "topics": {"0": "0.010227524", "1": "0.293238", "2": "0.0102335075", "3": "0.40679023", "4": "0.010219794", "5": "0.01023097", "6": "0.25906"}}

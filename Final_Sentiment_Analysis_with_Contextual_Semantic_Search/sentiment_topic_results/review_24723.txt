@@ -1,0 +1,1 @@
+{"text": "We have this one grandaughter who lives  on one coast and we live in the SW. She'll call and ask if I can find a construction hat because shenotices all the construction on the way to day care. OK off it goes from Amazon!", "sentiment": "negative", "topics": {"1": "0.14380738", "4": "0.45002416", "5": "0.26196516", "6": "0.12464862"}}

@@ -1,0 +1,1 @@
+{"text": "Sketchers energy after burn sneakers are a great shoe. They support you and are very comfortable. They are also true to size and width.", "sentiment": "positive", "topics": {"0": "0.011012856", "1": "0.28765628", "2": "0.107281394", "3": "0.28628638", "4": "0.092826", "5": "0.20393243", "6": "0.011004641"}}

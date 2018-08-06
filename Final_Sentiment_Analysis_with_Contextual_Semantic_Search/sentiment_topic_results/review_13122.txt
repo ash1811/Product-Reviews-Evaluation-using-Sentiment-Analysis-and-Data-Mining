@@ -1,0 +1,1 @@
+{"text": "I'm using this as a bag to carry my toddlers gadgets, a change of clothes, snacks and first aid kit. It is a great size, not too bulky and heavy duty. Love it.", "sentiment": "negative", "topics": {"0": "0.06758967", "1": "0.2193611", "2": "0.29225433", "4": "0.26773098", "6": "0.13869588"}}

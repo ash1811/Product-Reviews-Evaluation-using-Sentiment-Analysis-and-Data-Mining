@@ -1,0 +1,1 @@
+{"text": "I got these for $9 on the Friday Sale.  They are well made and the perfect size.  You absolutely will not find a better pair for the price.  Wait for the Friday Sale if you can.", "sentiment": "negative", "topics": {"2": "0.10252306", "4": "0.39332402", "5": "0.1974239", "6": "0.28281397"}}

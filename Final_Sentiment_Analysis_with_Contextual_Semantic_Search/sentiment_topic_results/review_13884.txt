@@ -1,0 +1,1 @@
+{"text": "The watch is cute, but I bought it because the hands were supposed to be visible in the dark.  Maybe it's my eyes, but the face was to small for the hands to show up.", "sentiment": "negative", "topics": {"0": "0.39134368", "1": "0.11808485", "2": "0.2998155", "4": "0.16208154"}}

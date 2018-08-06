@@ -1,0 +1,1 @@
+{"text": "Able to sleep more comfortable, It is truely ment for sleeping though. the Bra does not offer much in the way of support but that helps with sleeping, its like im not even wearing a bra", "sentiment": "negative", "topics": {"0": "0.12427636", "1": "0.123177506", "3": "0.48083836", "4": "0.09511823", "6": "0.16227695"}}

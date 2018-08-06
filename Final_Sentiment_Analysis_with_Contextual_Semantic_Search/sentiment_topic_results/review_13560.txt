@@ -1,0 +1,1 @@
+{"text": "bellisimo pantalon capri, queda a la figura al cuerpo, la calidad de la tela es muy buena, el color es exacto a la foto, excelente responsabilidad en el tiempo de entrega", "sentiment": "negative", "topics": {"0": "0.1352022", "1": "0.17214423", "3": "0.11882039", "5": "0.46878004", "6": "0.0954551"}}

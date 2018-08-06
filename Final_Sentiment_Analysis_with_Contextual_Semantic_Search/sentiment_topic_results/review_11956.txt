@@ -1,0 +1,1 @@
+{"text": "very comfortable and durable socks. I run and tumble in them and I have no problems with them while they are on", "sentiment": "negative", "topics": {"0": "0.02042531", "1": "0.40469116", "2": "0.34314775", "3": "0.020639867", "4": "0.020418439", "5": "0.17025958", "6": "0.020417895"}}

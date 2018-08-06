@@ -1,0 +1,1 @@
+{"text": "These are probably the best socks I have ever owned. I wish they weren't quite so much because I'd love to get some more.", "sentiment": "negative", "topics": {"0": "0.011019787", "1": "0.58485055", "2": "0.01104125", "3": "0.1765971", "4": "0.011061609", "5": "0.19443204", "6": "0.0109976325"}}

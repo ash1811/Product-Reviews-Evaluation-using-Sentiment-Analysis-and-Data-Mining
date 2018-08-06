@@ -1,0 +1,1 @@
+{"text": "Please get these slippers back in stock, other slippers do not compare.I have tryed others and none can compare.", "sentiment": "negative", "topics": {"0": "0.0119880745", "1": "0.24280554", "2": "0.27644876", "3": "0.011980527", "4": "0.01191605", "5": "0.011939537", "6": "0.4329215"}}

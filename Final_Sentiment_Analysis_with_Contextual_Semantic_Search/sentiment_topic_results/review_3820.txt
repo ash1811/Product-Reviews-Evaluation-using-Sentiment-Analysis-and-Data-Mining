@@ -1,0 +1,1 @@
+{"text": "The brown leather looks nice, but the stitching looks orange in person (unlike photo online). I ended up exchanging for the black one - it looks much more expensive.", "sentiment": "negative", "topics": {"0": "0.17379527", "1": "0.38815475", "2": "0.26152328", "4": "0.15391134"}}

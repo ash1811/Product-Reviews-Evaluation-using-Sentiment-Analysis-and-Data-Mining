@@ -1,0 +1,1 @@
+{"text": "Baggier than expected, very firm and heavy canvas.  OK, good for those baggy days.  Won't buy more of the same. .  ok. . .", "sentiment": "positive", "topics": {"0": "0.11877966", "1": "0.46350405", "2": "0.098968714", "3": "0.011009962", "4": "0.19241555", "5": "0.01101626", "6": "0.1043058"}}

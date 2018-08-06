@@ -1,0 +1,1 @@
+{"text": "The color of these look as they do in the photo. They are comfy of course as all Uggs are. I ordered a soze 8 when i should have ordered a 7.", "sentiment": "positive", "topics": {"0": "0.43591598", "1": "0.29189235", "2": "0.15108214", "3": "0.011031137", "4": "0.011010905", "5": "0.0880625", "6": "0.011005014"}}

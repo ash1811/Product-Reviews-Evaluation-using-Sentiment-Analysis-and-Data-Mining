@@ -1,0 +1,1 @@
+{"text": "Ordered for my wife. She loved it.  Great quality and looks perfect on her. Arrived early. Will order from this seller again.", "sentiment": "negative", "topics": {"0": "0.39660415", "1": "0.38393447", "5": "0.18129703"}}

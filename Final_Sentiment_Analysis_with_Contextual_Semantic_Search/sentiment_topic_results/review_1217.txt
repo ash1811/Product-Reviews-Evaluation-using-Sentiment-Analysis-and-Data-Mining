@@ -1,0 +1,1 @@
+{"text": "They are comfortable and are closest to the sports bra comfort that I was looking for but I would prefer a little more coverage.  These are cut lower than I would prefer.", "sentiment": "negative", "topics": {"0": "0.1619475", "1": "0.36400616", "3": "0.31593287", "6": "0.129422"}}

@@ -1,0 +1,1 @@
+{"text": "The boots are beauties!  My foot slip in the back, not the best fit.  But I kept them, because I like to just slip on a pair of boots to do outdoor chores.", "sentiment": "negative", "topics": {"0": "0.3485514", "1": "0.23961186", "4": "0.37599504"}}

@@ -1,0 +1,1 @@
+{"text": "I love these slippers. They fit great and are super comfortable.  They have a nice sole on the bottom which prevents slipping, perfect for our tile floors. The design is cute too. Definitely would buy another pair!", "sentiment": "negative", "topics": {"0": "0.08320237", "1": "0.37649342", "3": "0.26320794", "4": "0.06714282", "5": "0.14476278", "6": "0.058969"}}

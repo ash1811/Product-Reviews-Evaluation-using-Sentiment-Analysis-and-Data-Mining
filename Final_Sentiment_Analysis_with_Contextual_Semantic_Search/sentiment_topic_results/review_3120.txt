@@ -1,0 +1,1 @@
+{"text": "This bra does exactly as it claims, comfortable straps, and after all for us big breasted women/goddesses that is hard to find.Pretty too.", "sentiment": "negative", "topics": {"0": "0.18965171", "1": "0.24273817", "2": "0.2826545", "3": "0.2519841", "4": "0.0109896045", "5": "0.010991056", "6": "0.010990841"}}

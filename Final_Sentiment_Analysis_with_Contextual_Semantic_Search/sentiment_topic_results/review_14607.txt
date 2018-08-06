@@ -1,0 +1,1 @@
+{"text": "this are used on a daily basis as my husband uniforms so they came to very good use almost immediately.", "sentiment": "positive", "topics": {"0": "0.5109322", "1": "0.013059813", "2": "0.1297103", "3": "0.013035681", "4": "0.22564854", "5": "0.09460822", "6": "0.013005271"}}

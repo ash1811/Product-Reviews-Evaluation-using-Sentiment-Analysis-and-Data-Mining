@@ -1,0 +1,1 @@
+{"text": "Above average quality, for sure.  Nice shirt, in spite of the unnecessary label on the pocket.  Size runs about right on the medium I bought.", "sentiment": "positive", "topics": {"0": "0.11985395", "1": "0.499403", "2": "0.08264204", "3": "0.2694614"}}

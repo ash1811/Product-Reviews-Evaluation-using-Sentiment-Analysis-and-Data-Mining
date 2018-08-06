@@ -1,0 +1,1 @@
+{"text": "This slipper is constructed well. The only reason for 4 stars is that I wish it had more arch support.  But then again, it is a slipper.  The material does seem to resist odors.", "sentiment": "negative", "topics": {"0": "0.14762814", "2": "0.17958207", "3": "0.16037704", "4": "0.15825884", "6": "0.3362048"}}

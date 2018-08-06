@@ -1,0 +1,1 @@
+{"text": "Good bibs to keep you warm in cold working conditions. They fit slightly large but have a hard section through the stomach area that is uncomfortable when you sit down", "sentiment": "negative", "topics": {"0": "0.22728308", "1": "0.37823877", "3": "0.24325034", "5": "0.12599044"}}

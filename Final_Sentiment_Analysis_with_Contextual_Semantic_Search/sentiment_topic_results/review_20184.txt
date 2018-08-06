@@ -1,0 +1,1 @@
+{"text": "It was a great find for my roaring twenties party, most of the party goers did not even think of the pearls... I did...", "sentiment": "positive", "topics": {"0": "0.27305257", "1": "0.011949416", "2": "0.011914098", "3": "0.110565476", "4": "0.12371988", "5": "0.3738399", "6": "0.09495866"}}

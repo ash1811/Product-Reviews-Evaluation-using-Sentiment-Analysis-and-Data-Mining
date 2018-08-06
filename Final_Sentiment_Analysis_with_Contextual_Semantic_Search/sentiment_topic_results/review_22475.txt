@@ -1,0 +1,1 @@
+{"text": "These are nice everyday underwear. I used to buy Victoria's Secret and gap undies but their fabric has gotten so thin for how much you pay. So these are great for the price.", "sentiment": "negative", "topics": {"1": "0.36603063", "4": "0.17401765", "5": "0.2999914", "6": "0.13467549"}}

@@ -1,0 +1,1 @@
+{"text": "This gift is appreciated and beloved!It fits well and is nicely made.This aunt is very happy to have given it to her nephew!", "sentiment": "negative", "topics": {"0": "0.25868717", "1": "0.35350922", "2": "0.0119228205", "3": "0.09857592", "4": "0.0119174635", "5": "0.011972729", "6": "0.25341463"}}

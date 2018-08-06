@@ -1,0 +1,1 @@
+{"text": "As always the brand Casio cheap watches, high quality, comfortable, economical and elegant. My mother and my mother were happy to receive this gift.", "sentiment": "positive", "topics": {"0": "0.20655327", "1": "0.25504836", "2": "0.17636447", "3": "0.15923184", "6": "0.18491997"}}

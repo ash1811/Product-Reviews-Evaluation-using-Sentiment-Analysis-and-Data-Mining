@@ -1,0 +1,1 @@
+{"text": "This is a great, basic leotard.  As long as you follow the sizing chart, the fit is right on!  The leotard also keeps its shape nicely after washing in cold.", "sentiment": "negative", "topics": {"1": "0.264541", "3": "0.52264464", "4": "0.11367214", "6": "0.075280786"}}

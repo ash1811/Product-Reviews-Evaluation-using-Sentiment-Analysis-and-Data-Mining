@@ -1,0 +1,1 @@
+{"text": "I think I would have loved this but it is smaller than any Size 38 I have and the cups are more of a C than D. Very skimpy. I have ordered other size 38's in different brands and this one is 1.5 &#34; smaller when I lay them on top of another.", "sentiment": "negative", "topics": {"0": "0.08124269", "1": "0.27179652", "3": "0.46748054", "6": "0.16075628"}}

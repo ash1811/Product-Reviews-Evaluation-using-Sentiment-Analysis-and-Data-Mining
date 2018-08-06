@@ -1,0 +1,1 @@
+{"text": "was looking for a good work sock as im in boots all day, was directed to these by a friend. now im directing you, these are quality socks and all i wear now. try a pair you wont be sorry", "sentiment": "negative", "topics": {"0": "0.14489949", "1": "0.1833751", "3": "0.23551573", "4": "0.13457069", "5": "0.28801054"}}

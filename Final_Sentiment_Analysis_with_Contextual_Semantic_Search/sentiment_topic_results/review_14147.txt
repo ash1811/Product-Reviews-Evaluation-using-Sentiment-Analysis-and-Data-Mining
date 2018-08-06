@@ -1,0 +1,1 @@
+{"text": "These jeans fit well, launder well and just continue to be a favorite.  What more could you want or expect!", "sentiment": "negative", "topics": {"0": "0.013031358", "1": "0.49202624", "2": "0.0130221285", "3": "0.013018126", "4": "0.013007485", "5": "0.34517792", "6": "0.1107167"}}

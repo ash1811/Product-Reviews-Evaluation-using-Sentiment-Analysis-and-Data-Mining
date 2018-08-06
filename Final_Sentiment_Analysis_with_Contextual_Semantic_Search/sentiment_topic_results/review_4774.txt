@@ -1,0 +1,1 @@
+{"text": "These are nice heavy but not to stiff.They are a really dark blue when new and have lightened slightly after 3-4 washes.They fit my 13 yr old well and look good too.", "sentiment": "negative", "topics": {"0": "0.109795846", "1": "0.47418657", "3": "0.07656737", "4": "0.062002897", "5": "0.101255596", "6": "0.16903195"}}

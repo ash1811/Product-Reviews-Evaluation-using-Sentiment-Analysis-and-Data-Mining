@@ -1,0 +1,1 @@
+{"text": "These were a hard to find item for me.  Husband needs 33X34 and they just dont stock that in stores regularly.  So he is getting new Carthartt's from Santa. Shipped fast, jeans look fine.", "sentiment": "positive", "topics": {"0": "0.09873371", "1": "0.26699674", "2": "0.15248744", "3": "0.06574312", "4": "0.0700921", "5": "0.107004665", "6": "0.23894227"}}

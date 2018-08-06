@@ -1,0 +1,1 @@
+{"text": "Great earrings,bought a set for my girlfriend.She loves them! Style glow and style they have are second to none! People compliment her all the time.", "sentiment": "positive", "topics": {"1": "0.40903106", "3": "0.12874147", "4": "0.3219245", "6": "0.111632064"}}

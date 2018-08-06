@@ -1,0 +1,1 @@
+{"text": "I would recommend this product.  I think some of my sisters will be purchasing for this year's Race for the Cure also.  They fit nice and were fun.", "sentiment": "negative", "topics": {"0": "0.17814195", "1": "0.45122382", "2": "0.083859615", "3": "0.010264566", "4": "0.12929115", "5": "0.13699399", "6": "0.010224909"}}

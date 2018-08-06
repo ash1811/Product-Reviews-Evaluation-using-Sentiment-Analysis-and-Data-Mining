@@ -1,0 +1,1 @@
+{"text": "Cheap material and construction. I'll be surprised to see it intact in more than a few weeks. Low price, lower quality.", "sentiment": "positive", "topics": {"0": "0.0110210925", "1": "0.3864838", "2": "0.01108489", "3": "0.29386142", "4": "0.10944915", "5": "0.011025946", "6": "0.17707373"}}

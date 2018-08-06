@@ -1,0 +1,1 @@
+{"text": "i have never loved my sunglasses this much! it shields the glare, fits well and makes me look cool! it looks like it's going to serve me a looong time... thank you!!!", "sentiment": "positive", "topics": {"1": "0.40429622", "2": "0.43568593", "3": "0.13133472"}}

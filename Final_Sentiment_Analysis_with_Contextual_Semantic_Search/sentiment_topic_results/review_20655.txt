@@ -1,0 +1,1 @@
+{"text": "The softest material, very comfortable.Also very long in the front.Love this shirtI would recommend this shirt to everyone who loves this style", "sentiment": "negative", "topics": {"0": "0.3870811", "1": "0.011040413", "2": "0.11071266", "3": "0.01102444", "4": "0.011054488", "5": "0.36143667", "6": "0.10765028"}}

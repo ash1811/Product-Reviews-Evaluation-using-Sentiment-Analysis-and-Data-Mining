@@ -1,0 +1,1 @@
+{"text": "not too tight,not too loose,soft,plenty of room for privates,and it keeps you drythe perfect underwear.", "sentiment": "negative", "topics": {"0": "0.015893972", "1": "0.01591566", "2": "0.015887834", "3": "0.64232165", "4": "0.015886988", "5": "0.015887497", "6": "0.2782064"}}

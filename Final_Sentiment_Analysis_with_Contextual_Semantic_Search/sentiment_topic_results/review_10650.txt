@@ -1,0 +1,1 @@
+{"text": "Cute little earrings at a low price, what more could you ask for? I really like the green color and the sterling silver gleams nicely. I would recommend these earrings and this seller.", "sentiment": "positive", "topics": {"0": "0.160904", "1": "0.59643334", "2": "0.13920727", "6": "0.08298486"}}

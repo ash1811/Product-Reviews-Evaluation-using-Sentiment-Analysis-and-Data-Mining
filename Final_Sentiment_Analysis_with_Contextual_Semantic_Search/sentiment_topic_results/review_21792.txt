@@ -1,0 +1,1 @@
+{"text": "Used for all toiletries need for a two wk vacation, held everything.  Better than putting in plastic bags Very strong material, well worth", "sentiment": "negative", "topics": {"0": "0.25227362", "1": "0.18457979", "2": "0.115969226", "4": "0.32246947", "6": "0.107812114"}}

@@ -1,0 +1,1 @@
+{"text": "It's not warm and shrank the very 1st washing, I would never buy them again if you live in the south it mite work?", "sentiment": "negative", "topics": {"0": "0.31369394", "1": "0.3235743", "2": "0.18732187", "3": "0.011946937", "4": "0.011940864", "5": "0.13956039", "6": "0.01196174"}}

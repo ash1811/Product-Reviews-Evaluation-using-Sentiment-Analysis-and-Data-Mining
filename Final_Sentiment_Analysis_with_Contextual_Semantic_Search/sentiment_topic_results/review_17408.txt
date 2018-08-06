@@ -1,0 +1,1 @@
+{"text": "These fell apart after 2 washings. Are you kidding me putting this up for sale?  Don't buy, look elseware, forget about it. These are cheap at best.", "sentiment": "negative", "topics": {"0": "0.18444926", "1": "0.23161718", "2": "0.23320943", "4": "0.18351585", "5": "0.14812724"}}

@@ -1,0 +1,1 @@
+{"text": "great quality, did what other reviewers said and ordered a size small.  the boot was a little tight at first, but had then stretched out at a shoe smith and now they fit perfectly.  no complaints!", "sentiment": "positive", "topics": {"0": "0.091373175", "1": "0.57483506", "2": "0.06919247", "3": "0.17558138", "4": "0.07308474"}}

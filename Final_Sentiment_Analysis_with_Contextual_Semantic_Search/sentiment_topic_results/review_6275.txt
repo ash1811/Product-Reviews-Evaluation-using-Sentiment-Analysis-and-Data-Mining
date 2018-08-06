@@ -1,0 +1,1 @@
+{"text": "Jacket is very nice.  I could have used an XLT, because the sleeves are a bit short.  But, evidently, it doesn't come in a TALL.", "sentiment": "negative", "topics": {"0": "0.15275395", "1": "0.5708724", "2": "0.13331959", "3": "0.011007129", "4": "0.01105756", "5": "0.109957844", "6": "0.011031528"}}

@@ -1,0 +1,1 @@
+{"text": "I normally wear a 10 or 12.  I ordered a size bigger since they look like a juniors cut.  They were way to small.  Cute though.", "sentiment": "negative", "topics": {"0": "0.12684307", "3": "0.7226978", "4": "0.1167292"}}

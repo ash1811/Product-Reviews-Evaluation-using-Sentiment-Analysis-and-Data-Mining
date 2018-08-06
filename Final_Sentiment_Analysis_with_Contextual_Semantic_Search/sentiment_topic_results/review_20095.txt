@@ -1,0 +1,1 @@
+{"text": "just as i expected and wanted, worth the price, and has a ton of room. good school book bag use", "sentiment": "negative", "topics": {"0": "0.1740528", "1": "0.4814544", "2": "0.2967157", "3": "0.011940926", "4": "0.011965134", "5": "0.011958908", "6": "0.0119121205"}}

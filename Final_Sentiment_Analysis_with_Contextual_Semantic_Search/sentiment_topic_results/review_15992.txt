@@ -1,0 +1,1 @@
+{"text": "Sooooo comfortable but they do run small I'm usually. True size 7 and I had to return for a size 8 they fit perfectly! Most amazing sandles I've owned.", "sentiment": "negative", "topics": {"1": "0.3208347", "3": "0.2889483", "4": "0.08458406", "5": "0.13414294", "6": "0.15641302"}}

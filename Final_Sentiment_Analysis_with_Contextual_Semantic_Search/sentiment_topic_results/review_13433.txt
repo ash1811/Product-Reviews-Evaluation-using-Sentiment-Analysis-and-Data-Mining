@@ -1,0 +1,1 @@
+{"text": "I ordered a half size larger than I normally wear and wish I hadn't but very pleased with my winter sox makes them pretty close to perfect.", "sentiment": "negative", "topics": {"0": "0.1937037", "1": "0.42459866", "3": "0.34346238"}}

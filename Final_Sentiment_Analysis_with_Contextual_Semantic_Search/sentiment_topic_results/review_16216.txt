@@ -1,0 +1,1 @@
+{"text": "Very comfortable.  Only problem was the label where my heel came down on.  Simple fix- I removed the label!", "sentiment": "negative", "topics": {"0": "0.013041675", "1": "0.30402988", "2": "0.013030055", "3": "0.013081235", "4": "0.4362346", "5": "0.013008118", "6": "0.20757447"}}

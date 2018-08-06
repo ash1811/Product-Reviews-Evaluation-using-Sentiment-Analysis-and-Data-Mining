@@ -1,0 +1,1 @@
+{"text": "Hubby loves these pants and he looks good in them.  The Carhartt brand is great.  Clothes wash and dry great. The fit was perfect.", "sentiment": "positive", "topics": {"1": "0.53539836", "3": "0.2175174", "4": "0.08336628", "5": "0.13686264"}}

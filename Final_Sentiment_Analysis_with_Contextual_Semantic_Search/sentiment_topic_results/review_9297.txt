@@ -1,0 +1,1 @@
+{"text": "Came on time and in great shape. Warm if not too warm some times, but over all I like the look and the feel.", "sentiment": "negative", "topics": {"0": "0.49529254", "1": "0.43955594", "2": "0.0130074285", "3": "0.013054737", "4": "0.013020766", "5": "0.013017992", "6": "0.01305057"}}

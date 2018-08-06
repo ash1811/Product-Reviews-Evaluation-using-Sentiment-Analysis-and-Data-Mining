@@ -1,0 +1,1 @@
+{"text": "A no frills watch that does what it is supposed to do - tell time and tell it accurately-  always a dedicated Casio owner", "sentiment": "negative", "topics": {"0": "0.15644857", "1": "0.01202056", "2": "0.3947261", "3": "0.011913685", "4": "0.2849466", "5": "0.012054025", "6": "0.12789044"}}

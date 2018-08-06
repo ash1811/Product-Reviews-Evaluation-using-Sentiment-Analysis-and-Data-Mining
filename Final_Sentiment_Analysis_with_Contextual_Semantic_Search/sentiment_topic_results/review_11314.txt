@@ -1,0 +1,1 @@
+{"text": "These ball earrings are great for my second set of ear piercings.  They are just the right side and they are not obnoxious to wear to the office.", "sentiment": "negative", "topics": {"0": "0.011007546", "1": "0.4298108", "2": "0.09258724", "3": "0.011005794", "4": "0.19178854", "5": "0.01103905", "6": "0.25276107"}}

@@ -1,0 +1,1 @@
+{"text": "They look great and the also give you a carrying pouch. The frames are pretty light. But don't expect a rayban quality sunglasses for this price.They are great glasses for the price.", "sentiment": "positive", "topics": {"1": "0.45338002", "2": "0.28810558", "4": "0.07608626", "5": "0.09997343", "6": "0.066521116"}}

@@ -1,0 +1,1 @@
+{"text": "good dickies work jeans.they fade kind of quick, but not a big deal.i've bought these a few times, and will buy em again.", "sentiment": "negative", "topics": {"0": "0.15373684", "1": "0.3602291", "2": "0.12126071", "3": "0.0932968", "4": "0.25237018"}}

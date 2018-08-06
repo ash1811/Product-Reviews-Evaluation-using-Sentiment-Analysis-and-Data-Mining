@@ -1,0 +1,1 @@
+{"text": "This is the perfect costume to teach children blind allegiance to a fascist state and willingness to become a faceless disposable minion for the ambition of corrupt officials.", "sentiment": "positive", "topics": {"0": "0.47030064", "3": "0.14614531", "4": "0.13784057", "5": "0.060584195", "6": "0.16830261"}}

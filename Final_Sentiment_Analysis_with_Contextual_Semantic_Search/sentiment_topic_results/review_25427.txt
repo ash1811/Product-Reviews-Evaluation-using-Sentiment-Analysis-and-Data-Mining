@@ -1,0 +1,1 @@
+{"text": "These are the most comfy indoor shoes ever. I dunno how they made it feel like clouds inside the shoes but they are that comfy. Well made not too much grip on the button. Worth a shot if you're looking for indoor shoes.", "sentiment": "negative", "topics": {"0": "0.08758784", "1": "0.17118932", "2": "0.40174112", "4": "0.104692705", "5": "0.22231643"}}

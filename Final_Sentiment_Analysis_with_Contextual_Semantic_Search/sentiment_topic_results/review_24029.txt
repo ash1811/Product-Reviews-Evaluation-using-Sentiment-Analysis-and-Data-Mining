@@ -1,0 +1,1 @@
+{"text": "these red crotchless hose are so sexy and make it so easy to look sexy and have sex at the same time  lol", "sentiment": "positive", "topics": {"0": "0.396881", "1": "0.15693034", "2": "0.011907208", "3": "0.17324854", "4": "0.2371493", "5": "0.011935562", "6": "0.011947994"}}

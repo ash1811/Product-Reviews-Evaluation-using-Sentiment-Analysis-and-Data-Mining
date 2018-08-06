@@ -1,0 +1,1 @@
+{"text": "Runs a little small.......Champion Women's Double Dry Distance Underwire Bra....good but not great...Better than most....I would buy again unless I can find better!~", "sentiment": "positive", "topics": {"0": "0.10949058", "1": "0.25394303", "2": "0.12797934", "5": "0.18057634", "6": "0.31107348"}}

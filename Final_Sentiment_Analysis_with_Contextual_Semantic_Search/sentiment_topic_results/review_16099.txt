@@ -1,0 +1,1 @@
+{"text": "this is a favorite accessory around the house! we use it for every party no matter what! so very cool!", "sentiment": "negative", "topics": {"0": "0.21730322", "1": "0.13553287", "2": "0.013001624", "3": "0.15301405", "4": "0.1748997", "5": "0.29319683", "6": "0.01305173"}}

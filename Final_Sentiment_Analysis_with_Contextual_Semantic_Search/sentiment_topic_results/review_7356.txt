@@ -1,0 +1,1 @@
+{"text": "I have been buying these for my husband for the past few years from wrangler.com -  these are not the same im thinking they may have been seconds were cut HUGE my hubby is drowned by them.", "sentiment": "negative", "topics": {"0": "0.19135872", "1": "0.14792858", "2": "0.0922764", "3": "0.3485114", "4": "0.08254702", "5": "0.12782606"}}

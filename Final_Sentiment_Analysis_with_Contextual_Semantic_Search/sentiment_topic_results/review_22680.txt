@@ -1,0 +1,1 @@
+{"text": "I always buy Hanes for the girls because they are breathable, well-made, and affordable. I will definitely be buying again.", "sentiment": "negative", "topics": {"0": "0.33167374", "1": "0.266475", "2": "0.0130500635", "3": "0.069502406", "4": "0.149921", "5": "0.013053504", "6": "0.1563243"}}

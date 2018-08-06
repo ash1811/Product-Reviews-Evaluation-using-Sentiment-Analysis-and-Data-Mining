@@ -1,0 +1,1 @@
+{"text": "Another great fitting Wacoal bra.  It also helps that it is so pretty.  The straps are comfy and are not always slipping off the shoulder and the support is good as well.", "sentiment": "negative", "topics": {"0": "0.1350191", "1": "0.19318369", "2": "0.10637827", "3": "0.1573431", "4": "0.26906106", "6": "0.13058655"}}

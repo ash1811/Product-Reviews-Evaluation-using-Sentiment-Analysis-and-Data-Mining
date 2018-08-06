@@ -1,0 +1,1 @@
+{"text": "These are well made slippers and would be very comfortable if they didn't run so large, I wear an 8.5 and any other brand I have bought I have to size up because they end up way too small, these you need to size down.", "sentiment": "positive", "topics": {"1": "0.23243947", "3": "0.48890847", "4": "0.0712379", "6": "0.1848001"}}

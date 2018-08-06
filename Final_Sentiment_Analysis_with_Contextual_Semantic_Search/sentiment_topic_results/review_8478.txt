@@ -1,0 +1,1 @@
+{"text": "I always have a pair of black Reebok all-around shoes in my closet and this pair stands up to that long line of predecessors. Well made and substantial. Sort of like the little black dress that the Mrs. has in her side of the closet.", "sentiment": "negative", "topics": {"2": "0.40753338", "3": "0.19105919", "4": "0.10135195", "5": "0.15992913", "6": "0.12817678"}}

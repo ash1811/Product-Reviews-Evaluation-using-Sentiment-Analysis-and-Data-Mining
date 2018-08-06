@@ -1,0 +1,1 @@
+{"text": "I like how it looks on my girlfriend, but she claims it is a little tight.  Otherwise it is fine.", "sentiment": "negative", "topics": {"0": "0.18265748", "1": "0.43075758", "2": "0.17828606", "3": "0.015902486", "4": "0.015875177", "5": "0.01589096", "6": "0.16063026"}}

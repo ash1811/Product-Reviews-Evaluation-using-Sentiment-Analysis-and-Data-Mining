@@ -1,0 +1,1 @@
+{"text": "These are lightweight, tons of pockets, fit well, and are comfy when riding a quad or walking in the woods.", "sentiment": "positive", "topics": {"0": "0.013019913", "1": "0.26562855", "2": "0.14978023", "3": "0.22007225", "4": "0.013019804", "5": "0.32540667", "6": "0.013072604"}}

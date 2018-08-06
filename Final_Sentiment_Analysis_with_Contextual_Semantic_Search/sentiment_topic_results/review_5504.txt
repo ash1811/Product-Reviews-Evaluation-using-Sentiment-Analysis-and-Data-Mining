@@ -1,0 +1,1 @@
+{"text": "This is a good long-sleeve white t-shirt that can be worn without an undershirt if need to. They look great and are very comfy!", "sentiment": "negative", "topics": {"0": "0.20889458", "1": "0.35799313", "2": "0.011028683", "3": "0.011028633", "4": "0.011030277", "5": "0.13550888", "6": "0.26451582"}}

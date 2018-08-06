@@ -1,0 +1,1 @@
+{"text": "My husband has very wide feet and it's difficult to find slippers that he likes and that  are comfy. These slippers are both. He loves them, they fit well, and they are comfortable. He wears them everywhere and they are made to last. A great buy!", "sentiment": "negative", "topics": {"1": "0.4445099", "3": "0.07272273", "4": "0.23015289", "6": "0.23305616"}}

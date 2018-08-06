@@ -1,0 +1,1 @@
+{"text": "The Inflatable buzz lightyear costume jet pack did arrived on time.  My son did like it but it did not last long. It was OK gift for my son.", "sentiment": "negative", "topics": {"0": "0.30205187", "1": "0.19567478", "2": "0.080705225", "5": "0.39473897"}}

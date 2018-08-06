@@ -1,0 +1,1 @@
+{"text": "I love my Isotoner clogs.  They're soft and comfortable and keep my feet warm on our cold evenings.  My house has tile floors and they can get very cold in the winter so these clogs were the perfect solution.  I love them!", "sentiment": "negative", "topics": {"1": "0.3143086", "3": "0.28383684", "4": "0.24985711", "5": "0.13330232"}}

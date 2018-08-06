@@ -1,0 +1,1 @@
+{"text": "I really liked. Ordered several times already. Attracts the price. Comfortable. Put on under the shirt without bra or dress with supporting cups but deep neckline. No embarrassment. Easy to wash. Dry quickly.", "sentiment": "negative", "topics": {"0": "0.07962421", "1": "0.39298037", "2": "0.16185232", "3": "0.12793714", "4": "0.1504728", "6": "0.08115544"}}

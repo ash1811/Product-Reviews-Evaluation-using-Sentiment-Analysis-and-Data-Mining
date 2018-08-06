@@ -1,0 +1,1 @@
+{"text": "I like a relaxed but not loose fit and these fit the bill perfectly.  Very well made as is expected of a Levi's product.", "sentiment": "negative", "topics": {"0": "0.08308655", "1": "0.5498062", "2": "0.011008174", "3": "0.010998327", "4": "0.010999827", "5": "0.19672345", "6": "0.13737753"}}

@@ -1,0 +1,1 @@
+{"text": "These arrived earlier than I expected, that made me happy, and I just plainly love Reebok shoes.  There are none more comfy to me.", "sentiment": "positive", "topics": {"0": "0.14895271", "1": "0.011073619", "2": "0.2533141", "3": "0.26051617", "4": "0.011071474", "5": "0.30405954", "6": "0.011012406"}}

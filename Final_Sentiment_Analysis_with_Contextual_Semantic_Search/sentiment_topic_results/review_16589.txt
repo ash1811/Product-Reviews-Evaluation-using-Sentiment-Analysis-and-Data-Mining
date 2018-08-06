@@ -1,0 +1,1 @@
+{"text": "anniversay  gift to myself.. ost 40 lbs and wanted to looks sexy for the husband.. he said I was beautiful.", "sentiment": "negative", "topics": {"0": "0.2321681", "1": "0.33629963", "2": "0.0934589", "3": "0.011064542", "4": "0.30493098", "5": "0.011030906", "6": "0.011046912"}}

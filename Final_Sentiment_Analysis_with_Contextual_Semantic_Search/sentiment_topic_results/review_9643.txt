@@ -1,0 +1,1 @@
+{"text": "I go swimming every day and this watch is perfect because I can wear it all day long.  I am concerned about the colorful band wearing out.  I'll go to the Timex website and see if I can get replacements.", "sentiment": "negative", "topics": {"0": "0.22406349", "2": "0.17839447", "3": "0.15732539", "4": "0.085078865", "5": "0.34211096"}}

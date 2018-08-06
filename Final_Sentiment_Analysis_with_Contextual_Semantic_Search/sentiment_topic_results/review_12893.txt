@@ -1,0 +1,1 @@
+{"text": "Bought these for my granddaughter for Christmas and she loves them.  All girls know about UGGs and the price on these was really good.", "sentiment": "negative", "topics": {"0": "0.44408655", "1": "0.011965315", "2": "0.011955026", "3": "0.496112", "4": "0.011969226", "5": "0.011961966", "6": "0.011949968"}}

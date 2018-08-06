@@ -1,0 +1,1 @@
+{"text": "I love this sneaker.. It fits great, also I need it for comfort... I wear Skechers for about 10 years and there awesome..", "sentiment": "positive", "topics": {"0": "0.011016054", "1": "0.24595508", "2": "0.010990312", "3": "0.16082314", "4": "0.21914996", "5": "0.20605206", "6": "0.14601341"}}

@@ -1,0 +1,1 @@
+{"text": "These house slippers are so comfortable.  It's like slipping your feet into cotton. They fit me just fine.  I plan to order another pair.  I would recommend this product.", "sentiment": "negative", "topics": {"0": "0.16994241", "1": "0.2193963", "2": "0.064825356", "3": "0.19110043", "5": "0.18736786", "6": "0.15889858"}}

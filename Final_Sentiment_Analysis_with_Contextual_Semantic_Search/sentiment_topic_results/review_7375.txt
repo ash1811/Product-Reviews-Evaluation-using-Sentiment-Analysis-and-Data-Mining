@@ -1,0 +1,1 @@
+{"text": "I appreciated the quality and durability of the pants while I used them, the cargo pockets were spacious, and fyi, you can fit a Kindle or a Fire in them!", "sentiment": "positive", "topics": {"0": "0.26098076", "1": "0.30744866", "2": "0.29663807", "3": "0.10633002"}}

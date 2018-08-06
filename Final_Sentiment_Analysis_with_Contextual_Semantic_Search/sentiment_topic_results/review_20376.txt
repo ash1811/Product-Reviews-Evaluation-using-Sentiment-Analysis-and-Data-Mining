@@ -1,0 +1,1 @@
+{"text": "This small pad works great on mule type shoes.  Your foot definitely does not slip and slide so much and it makes walking more comfortable.  Would definitely recommend anyone to get this product.", "sentiment": "negative", "topics": {"0": "0.22155681", "1": "0.1070345", "2": "0.072729096", "3": "0.3229604", "5": "0.26268178"}}

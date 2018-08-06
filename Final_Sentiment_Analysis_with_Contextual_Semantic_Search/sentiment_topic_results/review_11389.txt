@@ -1,0 +1,1 @@
+{"text": "These slippers are the best buy for your money!! Not only are they soft and warm on your feet, They look GREAT with what ever your wearing. L.B. Evans has my business for life!! I give these slippers 6 STARS ******", "sentiment": "negative", "topics": {"0": "0.105723575", "1": "0.6307345", "2": "0.088804", "4": "0.044724964", "6": "0.11568731"}}

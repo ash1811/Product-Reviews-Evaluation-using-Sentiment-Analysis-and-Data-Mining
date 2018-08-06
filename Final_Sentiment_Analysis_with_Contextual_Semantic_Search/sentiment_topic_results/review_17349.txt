@@ -1,0 +1,1 @@
+{"text": "I got these because I get rubs when walking long distances and my boots come most of the way up my calf.  These socks come up to my knees and stay there.  Very comfortable, no rubs.", "sentiment": "negative", "topics": {"1": "0.3847962", "3": "0.23137988", "4": "0.12687036", "5": "0.2330789"}}

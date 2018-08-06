@@ -1,0 +1,1 @@
+{"text": "I have always liked their brand of slippers by Isotoner, they fit me well.  I have been buying this brand for years because they are comfortable and they hold up well.", "sentiment": "negative", "topics": {"0": "0.010225065", "1": "0.41637158", "2": "0.010228111", "3": "0.28202364", "4": "0.10727624", "5": "0.010232068", "6": "0.16364329"}}

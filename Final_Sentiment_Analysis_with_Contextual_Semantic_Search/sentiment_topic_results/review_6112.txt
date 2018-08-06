@@ -1,0 +1,1 @@
+{"text": "I like these but the opening at the neck is so huge - my baby is 8 months and 25 lbs (big) and even on him the shoulders fall off by end of day. but soft and nice anyways.", "sentiment": "positive", "topics": {"1": "0.6202283", "3": "0.17823441", "6": "0.17125466"}}

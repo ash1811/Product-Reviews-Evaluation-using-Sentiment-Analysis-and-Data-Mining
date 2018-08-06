@@ -1,0 +1,1 @@
+{"text": "The price that I paid for six pairs of crew socks was very low.  It felt like a more expensive pair when I first put it on.  It is very thick for the price and very comfortable to wear.  I think these socks will last a long time.", "sentiment": "positive", "topics": {"1": "0.63185155", "5": "0.33830327"}}

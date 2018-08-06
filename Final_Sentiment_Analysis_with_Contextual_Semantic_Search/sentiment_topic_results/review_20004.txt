@@ -1,0 +1,1 @@
+{"text": "My niece picked this out and she couldn't be happier. She will be the envy of her classmates.Well made and functional.", "sentiment": "negative", "topics": {"0": "0.28995407", "1": "0.23974834", "2": "0.25774136", "3": "0.017864145", "4": "0.017871866", "5": "0.15890506", "6": "0.01791517"}}

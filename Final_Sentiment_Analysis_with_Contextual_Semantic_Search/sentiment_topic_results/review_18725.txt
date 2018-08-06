@@ -1,0 +1,1 @@
+{"text": "I am a curvy girl. Weighing around 165 and I am 5 foot 4 inches tall. I love stockings that go up to my rear and these don't. They do look cute and they do the job.", "sentiment": "negative", "topics": {"0": "0.19982618", "1": "0.31372586", "2": "0.27615616", "4": "0.18760867"}}

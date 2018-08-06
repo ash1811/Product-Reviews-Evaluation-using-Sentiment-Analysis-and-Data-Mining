@@ -1,0 +1,1 @@
+{"text": "The crystals are of very good quality. The anklet itself is not only beautiful, but looks wonderful on. Order with confdence.", "sentiment": "negative", "topics": {"0": "0.17114413", "1": "0.34517968", "2": "0.105090335", "3": "0.013023234", "4": "0.013025034", "5": "0.1771939", "6": "0.17534372"}}

@@ -1,0 +1,1 @@
+{"text": "My husband likes these - loose, comfortable and modern. Not &#34;metro&#34; and definitely not baggy. Amazon had the best price I've been able to find.", "sentiment": "positive", "topics": {"0": "0.12044982", "1": "0.17325684", "3": "0.32533392", "4": "0.35230288"}}

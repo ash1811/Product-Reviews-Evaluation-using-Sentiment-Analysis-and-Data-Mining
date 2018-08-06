@@ -1,0 +1,1 @@
+{"text": "i love my timex watches, wont go to these fancy types of watches as they all fancy and not reliable.", "sentiment": "negative", "topics": {"0": "0.18958855", "1": "0.013057213", "2": "0.26660144", "3": "0.013017419", "4": "0.49168107", "5": "0.013042257", "6": "0.013012016"}}

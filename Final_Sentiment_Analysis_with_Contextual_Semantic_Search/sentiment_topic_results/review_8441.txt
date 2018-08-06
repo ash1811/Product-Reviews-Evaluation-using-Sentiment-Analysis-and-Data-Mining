@@ -1,0 +1,1 @@
+{"text": "Basically just a gimmick set of socks. Cute and affordable. I'm guessing this isn't too much more than a costume-ish set of hosieries, so it'll be right up your alley if that's your goal.", "sentiment": "positive", "topics": {"0": "0.062491946", "1": "0.24618874", "2": "0.15123421", "3": "0.1577149", "5": "0.3664764"}}

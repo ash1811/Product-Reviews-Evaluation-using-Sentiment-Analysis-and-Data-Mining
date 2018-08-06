@@ -1,0 +1,1 @@
+{"text": "Its a nice piece but is a bit short for my liking. I wish it was a tad bit longer. I got the L and it is still too short and I am 5'5' the robe is great and the hanger is a nice add on.", "sentiment": "positive", "topics": {"0": "0.273886", "1": "0.4082658", "2": "0.14370915", "6": "0.15367445"}}

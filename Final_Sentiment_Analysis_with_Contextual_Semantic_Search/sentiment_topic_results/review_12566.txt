@@ -1,0 +1,1 @@
+{"text": "Good quality, modern look (might be too modern for a more conservative environment).In the first week, I got blisters on my ankle. It only got better after 2 weeks of usage.", "sentiment": "negative", "topics": {"0": "0.39376473", "1": "0.16448326", "2": "0.06920774", "3": "0.34991792"}}

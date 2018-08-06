@@ -1,0 +1,1 @@
+{"text": "My son thought this was a cool shirt, dragon graphic.  Shirt is washed/pre-shrunk,  100% heavyweight cotton. The black shirt looks great.", "sentiment": "positive", "topics": {"2": "0.08976662", "3": "0.22367032", "5": "0.5527161", "6": "0.106962934"}}

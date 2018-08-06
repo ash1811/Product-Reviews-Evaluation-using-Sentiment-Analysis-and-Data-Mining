@@ -1,0 +1,1 @@
+{"text": "This is a handy tool to have, but the forked end of this tool is not sharp enough to get into the tight space between the bands and the edge of the watch. The pin end is a good size, but it bent since the metal is pretty soft.", "sentiment": "negative", "topics": {"0": "0.18529457", "1": "0.2595016", "2": "0.23296218", "4": "0.18284239", "6": "0.12742622"}}

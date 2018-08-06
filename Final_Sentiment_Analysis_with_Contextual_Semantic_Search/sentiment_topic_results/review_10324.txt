@@ -1,0 +1,1 @@
+{"text": "I found the earrings to be well made, shiny, and just right for everyday wear. Not at all uncomfortable if you happen to sleep with them on:)", "sentiment": "negative", "topics": {"0": "0.01101413", "1": "0.57902133", "2": "0.011002341", "3": "0.01102952", "4": "0.16006532", "5": "0.011025781", "6": "0.21684155"}}

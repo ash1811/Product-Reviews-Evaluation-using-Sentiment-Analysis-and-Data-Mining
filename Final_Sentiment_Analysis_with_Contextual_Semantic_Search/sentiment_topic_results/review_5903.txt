@@ -1,0 +1,1 @@
+{"text": "The work shirt is made well, it's durable and it washes well.  It was very true to size, and fit him well.", "sentiment": "positive", "topics": {"0": "0.011921421", "1": "0.81016386", "2": "0.011919463", "3": "0.13018258", "4": "0.011912104", "5": "0.011936812", "6": "0.011963796"}}

@@ -1,0 +1,1 @@
+{"text": "excellent balaclava.  use it when using a half- motorcycle helmet.  helps warm up your exposed skin but isn't so heavy that it prevents you from hearing traffic around you.", "sentiment": "positive", "topics": {"2": "0.29238847", "3": "0.301461", "5": "0.1452819", "6": "0.2368945"}}

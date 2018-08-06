@@ -1,0 +1,1 @@
+{"text": "I have a muscular XL frame and this brand shirt is my favorite due to loose, comfortable fit, fron pocket, thick yet cool cotton manufacture. Its a great casual shirt, about as classy as a t shirt can get.", "sentiment": "negative", "topics": {"0": "0.11451804", "1": "0.227762", "3": "0.10825664", "4": "0.0570306", "5": "0.28880146", "6": "0.19766963"}}

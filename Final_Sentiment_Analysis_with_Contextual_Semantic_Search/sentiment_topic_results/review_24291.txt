@@ -1,0 +1,1 @@
+{"text": "the bra is very comforted. but it doesn't have the support you need in a bra maybe if you are small. otherwise like the bra. thank you", "sentiment": "negative", "topics": {"0": "0.12491557", "1": "0.0119203385", "2": "0.08293328", "3": "0.48423705", "4": "0.011912471", "5": "0.011911407", "6": "0.27216992"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this in the 2x and it was very stretchy.  I could have actually used a smaller size but it is really a nice belt and works very well.", "sentiment": "positive", "topics": {"0": "0.010237222", "1": "0.5541875", "2": "0.17201506", "3": "0.23284529", "4": "0.010216819", "5": "0.01026051", "6": "0.010237615"}}

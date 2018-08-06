@@ -1,0 +1,1 @@
+{"text": "Works just fine, and under $7 is very cheap, I once had to buy a face mask at a ski resort for $30 just like this.", "sentiment": "negative", "topics": {"0": "0.11215016", "1": "0.119291745", "2": "0.47149733", "3": "0.087398715", "4": "0.011079912", "5": "0.18754819", "6": "0.011033963"}}

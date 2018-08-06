@@ -1,0 +1,1 @@
+{"text": "I spray this in my gloves, hats, coats, jackets and suede boots.  It works very well and I highly recommend you use this product on your clothing so that they don't get soaking wet during rain / snow storms.", "sentiment": "negative", "topics": {"0": "0.041488018", "1": "0.31697625", "2": "0.19849078", "3": "0.18269448", "4": "0.09365747", "5": "0.15988138"}}

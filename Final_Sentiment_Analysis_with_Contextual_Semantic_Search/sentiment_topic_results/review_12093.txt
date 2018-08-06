@@ -1,0 +1,1 @@
+{"text": "This pretty anklet will look great with the Colored Swarovski anklet! I have purchased both and can't wait to wear them in Florida. Order with confidence.", "sentiment": "positive", "topics": {"0": "0.3543604", "1": "0.22391754", "3": "0.09991805", "4": "0.14876595", "6": "0.15395671"}}

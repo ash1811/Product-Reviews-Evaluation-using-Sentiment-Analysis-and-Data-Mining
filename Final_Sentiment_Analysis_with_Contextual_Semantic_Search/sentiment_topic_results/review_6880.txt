@@ -1,0 +1,1 @@
+{"text": "It's a good t shirt.  I almost feel like I should wear only carhartt because their stuff is comfortable, fits well, and lasts longer.", "sentiment": "negative", "topics": {"0": "0.010264963", "1": "0.5315188", "2": "0.10503046", "3": "0.18062125", "4": "0.010250805", "5": "0.15203092", "6": "0.010282789"}}

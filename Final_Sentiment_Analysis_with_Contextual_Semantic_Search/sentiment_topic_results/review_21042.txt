@@ -1,0 +1,1 @@
+{"text": "Great basic pair of black leggings. I am 5 foot 3, 100 pounds, and the x-small size fits great. The length is just a bit long, but I prefer them long rather than too short.", "sentiment": "negative", "topics": {"0": "0.14766918", "1": "0.39569768", "3": "0.16750912", "4": "0.189982", "6": "0.08613137"}}

@@ -1,0 +1,1 @@
+{"text": "I love these retro inspired sunglasses! They are large enough so they fit over my regular glasses. I got these for wearing at the beach! Very Jackie O!", "sentiment": "positive", "topics": {"1": "0.23214595", "2": "0.0751435", "3": "0.4716843", "6": "0.19236583"}}

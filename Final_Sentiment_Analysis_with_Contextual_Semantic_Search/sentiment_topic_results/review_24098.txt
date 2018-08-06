@@ -1,0 +1,1 @@
+{"text": "Bra fits great. Very comfortable on shoulders. Did buy band one size larger than normal. Keep everything where it should be.", "sentiment": "negative", "topics": {"0": "0.23576541", "1": "0.35026726", "2": "0.15568247", "3": "0.22960435"}}

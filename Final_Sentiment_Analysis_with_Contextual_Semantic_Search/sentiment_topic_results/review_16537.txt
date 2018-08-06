@@ -1,0 +1,1 @@
+{"text": "I really like this wallet!  Just what I needed and I especially love this color!  Fits well in my purse and is easy to access what I need when I get into it!", "sentiment": "negative", "topics": {"1": "0.41057557", "4": "0.13967744", "6": "0.41392168"}}

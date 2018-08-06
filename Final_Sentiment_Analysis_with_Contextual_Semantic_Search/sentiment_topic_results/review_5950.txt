@@ -1,0 +1,1 @@
+{"text": "I am normally a 32 c and this was 34c and way to small on my waiste my waiste is a 26 and it had like 3 inch before it would buckle.", "sentiment": "negative", "topics": {"0": "0.19630297", "1": "0.26341876", "4": "0.2679149", "5": "0.06923411", "6": "0.18400407"}}

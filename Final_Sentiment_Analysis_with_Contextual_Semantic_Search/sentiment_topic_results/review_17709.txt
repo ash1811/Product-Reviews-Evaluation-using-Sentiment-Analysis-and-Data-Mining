@@ -1,0 +1,1 @@
+{"text": "very nice i gift it to my father he is happy and he like it thank you very nice watch", "sentiment": "positive", "topics": {"0": "0.16698486", "1": "0.33738083", "2": "0.26021177", "3": "0.015896058", "4": "0.015900644", "5": "0.01589133", "6": "0.18773451"}}

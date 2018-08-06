@@ -1,0 +1,1 @@
+{"text": "I purchased these earrings as a birthday gift for my Mother - she loves swarovski jewelry and she loved these.  They are gorgeous and the price is unbeatable. Beautiful earrings.  Highly recommended!!", "sentiment": "negative", "topics": {"0": "0.281153", "1": "0.40763685", "2": "0.12910181", "4": "0.15824062"}}

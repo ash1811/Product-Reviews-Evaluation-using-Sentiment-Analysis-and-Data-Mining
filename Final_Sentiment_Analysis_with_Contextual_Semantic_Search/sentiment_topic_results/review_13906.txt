@@ -1,0 +1,1 @@
+{"text": "Always been a Citizen Eco-drive fan.  Have several watches from them and have never failed.This is perfect for the summer on my bike with easy read and constant charge.", "sentiment": "positive", "topics": {"0": "0.19897337", "2": "0.12893361", "3": "0.36229873", "4": "0.11273863", "5": "0.17915168"}}

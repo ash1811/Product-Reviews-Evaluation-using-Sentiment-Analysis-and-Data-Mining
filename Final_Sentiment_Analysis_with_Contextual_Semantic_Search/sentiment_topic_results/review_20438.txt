@@ -1,0 +1,1 @@
+{"text": "I usually buy a similar shoe for 40.00 more and wanted to try the Clark. The croc look is perfect and the price is affordable. I saved 40.00 from Alegria shoe.", "sentiment": "negative", "topics": {"0": "0.14409862", "1": "0.3328442", "2": "0.15856986", "3": "0.27912784", "6": "0.069424644"}}

@@ -1,0 +1,1 @@
+{"text": "the sunglasses is good but it's kind of hard to decide which size you wear,unlike aviator ones you can actually alter the shape of the frame,this one is plastic so won't do that.the only thing that is bad about it.", "sentiment": "negative", "topics": {"0": "0.074592344", "1": "0.11069165", "2": "0.3313747", "3": "0.20974514", "4": "0.07570143", "6": "0.19069135"}}

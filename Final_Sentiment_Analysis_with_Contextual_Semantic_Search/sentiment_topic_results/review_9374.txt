@@ -1,0 +1,1 @@
+{"text": "these knee highs are a great fit, they are not to tight on my large size calves, i'm pleased with this product", "sentiment": "positive", "topics": {"0": "0.011920794", "1": "0.4612405", "2": "0.011934013", "3": "0.3605189", "4": "0.011909176", "5": "0.1304712", "6": "0.0120054595"}}

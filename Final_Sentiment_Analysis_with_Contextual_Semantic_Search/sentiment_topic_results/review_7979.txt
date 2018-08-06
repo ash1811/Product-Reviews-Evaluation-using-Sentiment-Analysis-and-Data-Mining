@@ -1,0 +1,1 @@
+{"text": "The length of the shoe was ample but  the top of the shoe was too tight over my foot. I was very disappointed and returned it.  The shoe felt very cushy but not supportive, almost too soft?", "sentiment": "negative", "topics": {"1": "0.18099199", "2": "0.3691605", "3": "0.3309108", "6": "0.09360322"}}

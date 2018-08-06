@@ -1,0 +1,1 @@
+{"text": "Perfectly priced, sexy, and an absolute must for bedroom action. This product came in a perfectly packaged box, and is highly appealing. You will absolutely be pleased with this purchase, especially if you like lace.", "sentiment": "positive", "topics": {"1": "0.34081215", "2": "0.20834896", "3": "0.059850782", "5": "0.1759316", "6": "0.20138802"}}

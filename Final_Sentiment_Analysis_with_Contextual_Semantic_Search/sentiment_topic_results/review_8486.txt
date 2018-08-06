@@ -1,0 +1,1 @@
+{"text": "My husband has been in the army 18 years and still likes these shoes the best for enduring PT in any weather.", "sentiment": "positive", "topics": {"0": "0.12684222", "1": "0.011966026", "2": "0.10565572", "3": "0.2629093", "4": "0.12106245", "5": "0.24824405", "6": "0.12332023"}}

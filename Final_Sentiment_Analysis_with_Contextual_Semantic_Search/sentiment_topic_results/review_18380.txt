@@ -1,0 +1,1 @@
+{"text": "Easy to read dial, date box and a good leather band make this watch a good deal at the price.", "sentiment": "negative", "topics": {"0": "0.010249218", "1": "0.01027657", "2": "0.16289018", "3": "0.3191859", "4": "0.36887947", "5": "0.010224131", "6": "0.118294515"}}

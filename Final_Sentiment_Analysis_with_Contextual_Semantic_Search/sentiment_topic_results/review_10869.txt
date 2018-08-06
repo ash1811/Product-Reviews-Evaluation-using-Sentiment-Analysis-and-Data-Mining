@@ -1,0 +1,1 @@
+{"text": "I bought these for my mom for Christmas and she was really happy with them. She compared them to some nice Dearfoam slippers I bought her a couple years ago that are no longer made. She said they're really soft and cushiony and fit well.", "sentiment": "negative", "topics": {"0": "0.081130646", "1": "0.43091735", "3": "0.237803", "4": "0.116476886", "6": "0.121733494"}}

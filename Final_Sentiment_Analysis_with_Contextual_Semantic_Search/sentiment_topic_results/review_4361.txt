@@ -1,0 +1,1 @@
+{"text": "Excellent fit (just as advertised), not too baggy.  The fabric is mid-weight and very resistant to wrinkling. A terrific bargain relative to Dockers", "sentiment": "positive", "topics": {"0": "0.09637815", "1": "0.109854504", "2": "0.37325633", "3": "0.01022474", "4": "0.17054823", "5": "0.22947565", "6": "0.010262389"}}

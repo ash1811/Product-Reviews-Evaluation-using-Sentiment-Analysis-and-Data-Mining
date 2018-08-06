@@ -1,0 +1,1 @@
+{"text": "Thorlo is the new sock in our house.  These socks help your feet feel invigorated, and loved.  In fact, I have ordered 2 more pairs already.  It's just a shame that they are a little expensive.", "sentiment": "negative", "topics": {"0": "0.07880625", "1": "0.20336118", "3": "0.3483227", "5": "0.10337377", "6": "0.25104973"}}

@@ -1,0 +1,1 @@
+{"text": "I love these ray bans and was a bit confused on where to buy matte black on black. I read reviews that the green lens are in fact black, this is the case and are quality sunglasses. Came in ray ban case with lens wipe.", "sentiment": "negative", "topics": {"0": "0.18376671", "1": "0.17264614", "2": "0.14544281", "3": "0.38670573", "4": "0.06495669", "6": "0.0407633"}}

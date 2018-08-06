@@ -1,0 +1,1 @@
+{"text": "I have worn these off and on all summer.  They are comfortable.  They keep their shape and color well.  Nice purchase.", "sentiment": "positive", "topics": {"0": "0.014322151", "1": "0.80800474", "2": "0.014310616", "3": "0.014406515", "4": "0.014316996", "5": "0.014311167", "6": "0.120327786"}}

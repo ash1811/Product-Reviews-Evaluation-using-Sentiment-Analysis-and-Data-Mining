@@ -1,0 +1,1 @@
+{"text": "Hola Gente:Like the old ones, heavy and made to fit very well.Saludos, Allan.", "sentiment": "positive", "topics": {"0": "0.55657685", "1": "0.18641266", "2": "0.111867905", "3": "0.014291818", "4": "0.014346449", "5": "0.014306707", "6": "0.10219757"}}

@@ -1,0 +1,1 @@
+{"text": "For walk, for travel or just for day use, a great shoe.  My feet are comfortable with this shoe, great buy.", "sentiment": "negative", "topics": {"0": "0.011943147", "1": "0.54354376", "2": "0.22642785", "3": "0.011935897", "4": "0.18224363", "5": "0.011968511", "6": "0.011937263"}}

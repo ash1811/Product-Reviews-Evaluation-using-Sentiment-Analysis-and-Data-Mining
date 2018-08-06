@@ -1,0 +1,1 @@
+{"text": "The air soles and support (I put inserts under the pad) have ended by back pain. I purchased a second pair as a spare.", "sentiment": "positive", "topics": {"0": "0.17171168", "1": "0.41692188", "5": "0.37310043"}}

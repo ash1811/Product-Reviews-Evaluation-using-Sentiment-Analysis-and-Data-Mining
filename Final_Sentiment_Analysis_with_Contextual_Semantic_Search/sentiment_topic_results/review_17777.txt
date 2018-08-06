@@ -1,0 +1,1 @@
+{"text": "Love this watch. It is a workhorse. Very durable and will last a long time. The price was great too. Plus, I love the look of this watch on my arm. Buy it esp. if you are an exercise junkie like me. You will love this watch.", "sentiment": "positive", "topics": {"1": "0.3378968", "2": "0.25854722", "3": "0.22865188", "4": "0.15697974"}}

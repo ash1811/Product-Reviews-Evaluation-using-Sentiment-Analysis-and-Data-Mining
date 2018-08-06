@@ -1,0 +1,1 @@
+{"text": "Bought these for my son for school.  Excellent quality, very durable.  He liked the fit and styling of these pants,  I didn't expect anything less from Dickies.", "sentiment": "negative", "topics": {"1": "0.45770925", "2": "0.29373205", "3": "0.051013686", "5": "0.09764011", "6": "0.080828056"}}

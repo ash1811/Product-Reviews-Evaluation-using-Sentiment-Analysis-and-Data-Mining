@@ -1,0 +1,1 @@
+{"text": "i love this jeans first time i do not like but now i love it and every day i were it", "sentiment": "negative", "topics": {"0": "0.01592644", "1": "0.015904067", "2": "0.0158936", "3": "0.015913693", "4": "0.015997496", "5": "0.90444046", "6": "0.015924212"}}

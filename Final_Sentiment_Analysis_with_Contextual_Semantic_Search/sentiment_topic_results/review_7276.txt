@@ -1,0 +1,1 @@
+{"text": "Nice looking well fitting pants but they come out of the dryer wrinkled. I hate to iron. The material also has a slight plastic feel.", "sentiment": "negative", "topics": {"1": "0.36235648", "4": "0.30905378", "5": "0.29278332"}}

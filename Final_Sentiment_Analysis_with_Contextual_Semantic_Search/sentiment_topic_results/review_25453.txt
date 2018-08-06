@@ -1,0 +1,1 @@
+{"text": "they also seem to run closer to actual size not like other slippers sold.  do not expect arch support, these are for warm comfort around the house, not for walking around the store", "sentiment": "positive", "topics": {"3": "0.25960463", "4": "0.07944022", "5": "0.16076733", "6": "0.47867018"}}

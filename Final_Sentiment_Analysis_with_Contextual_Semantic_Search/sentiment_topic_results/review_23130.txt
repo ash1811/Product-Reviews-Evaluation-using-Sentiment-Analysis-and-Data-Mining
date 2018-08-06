@@ -1,0 +1,1 @@
+{"text": "The bra is much smaller than my Bali bras.  I think there are discrepancies with sizes.  I wish there were some kind of standard,  I have tried other brands, too, and they do not fit like Bali.", "sentiment": "positive", "topics": {"1": "0.34255406", "2": "0.13861655", "3": "0.33954564", "4": "0.06654235", "6": "0.09682554"}}

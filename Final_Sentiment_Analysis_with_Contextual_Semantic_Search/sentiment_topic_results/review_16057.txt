@@ -1,0 +1,1 @@
+{"text": "I love these shoes - flip flops.  They are very cute and comfortable.  My boyfriend even commented on them.  He liked them too.", "sentiment": "negative", "topics": {"0": "0.011029502", "1": "0.29197323", "2": "0.45630422", "3": "0.011028374", "4": "0.01106118", "5": "0.20761107", "6": "0.010992414"}}

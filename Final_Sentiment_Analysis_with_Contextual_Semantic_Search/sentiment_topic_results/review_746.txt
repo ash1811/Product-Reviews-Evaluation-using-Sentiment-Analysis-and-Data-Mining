@@ -1,0 +1,1 @@
+{"text": "Itchy fabric, wash multiple times before wearing. Runs very large. drawstring doesnt help with size much. Also the petite is still quite long. However I am quite short so that could just be me.", "sentiment": "negative", "topics": {"0": "0.119233966", "1": "0.30430788", "3": "0.18218486", "4": "0.05641408", "5": "0.13693877", "6": "0.19493993"}}

@@ -1,0 +1,1 @@
+{"text": "This is a very warm and well made watch hat. As with all Carhartt apparel it is comfortable to wear and does a great job of helping you to deal with the elements.", "sentiment": "negative", "topics": {"0": "0.08346488", "1": "0.6453395", "2": "0.08135456", "3": "0.16124451"}}

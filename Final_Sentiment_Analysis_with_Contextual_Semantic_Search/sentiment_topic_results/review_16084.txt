@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable flip flops ever!  I like all Reef flip flops, but for comfort and walkability, these are tops!  I can even hike in these.  Highly recommend.", "sentiment": "positive", "topics": {"1": "0.35092977", "2": "0.38849774", "3": "0.07805011", "6": "0.15724523"}}

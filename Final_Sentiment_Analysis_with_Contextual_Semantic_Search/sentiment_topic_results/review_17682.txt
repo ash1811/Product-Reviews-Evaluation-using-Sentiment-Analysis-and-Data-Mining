@@ -1,0 +1,1 @@
+{"text": "I saw it on the site and immediately I liked it. When it arrived, I liked it so much. Nice price, nice presentation, excellent funcionalities.", "sentiment": "positive", "topics": {"0": "0.098500736", "1": "0.49080616", "2": "0.18376526", "4": "0.11701305", "5": "0.09084981"}}

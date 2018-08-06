@@ -1,0 +1,1 @@
+{"text": "pointy cups and I didnt think it flattered my shape i wouldnt buy this bra again maybe a different one", "sentiment": "negative", "topics": {"0": "0.011027605", "1": "0.5659373", "2": "0.011069273", "3": "0.28843713", "4": "0.011035755", "5": "0.10147527", "6": "0.011017676"}}

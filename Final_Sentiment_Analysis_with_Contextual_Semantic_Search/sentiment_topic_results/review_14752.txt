@@ -1,0 +1,1 @@
+{"text": "I like the button which opens and closes it. It collapses to a small size, so it's handy to travel with.", "sentiment": "negative", "topics": {"0": "0.16202861", "1": "0.12905137", "2": "0.17187318", "3": "0.25142637", "4": "0.011920478", "5": "0.011928186", "6": "0.2617718"}}

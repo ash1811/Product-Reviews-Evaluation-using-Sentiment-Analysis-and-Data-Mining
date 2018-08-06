@@ -1,0 +1,1 @@
+{"text": "This is my third pair of the same design.  It is a simple design that stands the test of time.  These tennis shoes go great with many different looks.", "sentiment": "negative", "topics": {"1": "0.45491496", "2": "0.20417099", "4": "0.08375183", "5": "0.10775641", "6": "0.13147232"}}

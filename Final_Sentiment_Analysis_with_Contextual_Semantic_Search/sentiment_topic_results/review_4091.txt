@@ -1,0 +1,1 @@
+{"text": "Wonderful fit! Very light and comfy. My husband is very picky about his shoes and he really enjoys wearing these. If he's happy, I'm happy. They look very nice as well.", "sentiment": "negative", "topics": {"1": "0.6242601", "2": "0.25973237", "4": "0.0858427"}}

@@ -1,0 +1,1 @@
+{"text": "They fit nice but too thin; wanted something a bit more sturdy.  Still they will work to carry in my purse when I fly (I'm going to slip them on before I get in the line to pass through the TSA system).", "sentiment": "negative", "topics": {"0": "0.15787213", "1": "0.41262498", "3": "0.26446104", "4": "0.08733471", "6": "0.06400083"}}

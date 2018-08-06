@@ -1,0 +1,1 @@
+{"text": "The price was great and they are even better. Look good and go with anything. Always get compliments in them and even got my gf a pair", "sentiment": "negative", "topics": {"1": "0.48548105", "2": "0.46966067"}}

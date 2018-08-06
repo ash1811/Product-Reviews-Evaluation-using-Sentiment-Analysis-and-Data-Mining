@@ -1,0 +1,1 @@
+{"text": "My granddaughter wears these shoes everywhere. The pool the beach, and at home. Easy to put on and remove too.", "sentiment": "positive", "topics": {"0": "0.011971347", "1": "0.01195012", "2": "0.25790304", "3": "0.1759986", "4": "0.011979967", "5": "0.3615201", "6": "0.16867682"}}

@@ -1,0 +1,1 @@
+{"text": "I got these to accompany my Joker costume. They worked great. A bit small, and the fabric is a bit shiny, but they did the trick.", "sentiment": "negative", "topics": {"0": "0.40664372", "1": "0.011059513", "2": "0.011012948", "3": "0.011078801", "4": "0.18949357", "5": "0.09789892", "6": "0.27281255"}}

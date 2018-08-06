@@ -1,0 +1,1 @@
+{"text": "These socks are made well and fit well,i wear a size 12 shoe and these socks work for me.They keep their color after several washings.", "sentiment": "negative", "topics": {"1": "0.32804918", "2": "0.124866135", "3": "0.14563154", "5": "0.2747662", "6": "0.109845705"}}

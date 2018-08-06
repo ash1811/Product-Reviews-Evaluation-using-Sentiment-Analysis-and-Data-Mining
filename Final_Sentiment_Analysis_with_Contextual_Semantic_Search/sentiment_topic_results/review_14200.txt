@@ -1,0 +1,1 @@
+{"text": "I love these sandals.  I have arthritis in both big toes, and these cushion perfectly so I can walk without pain. I own several pair in different colors.  First thing on my feel summer mornings.", "sentiment": "negative", "topics": {"0": "0.1975685", "1": "0.68349284", "2": "0.0902622"}}

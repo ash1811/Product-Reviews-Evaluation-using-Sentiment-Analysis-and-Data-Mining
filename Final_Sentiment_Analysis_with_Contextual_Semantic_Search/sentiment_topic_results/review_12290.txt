@@ -1,0 +1,1 @@
+{"text": "No need to wait for your curling or flatiron to cool, just don't put the cord inside the pouch, when hot. Great of course for traveling, but for stashing in a drawer right after use.", "sentiment": "positive", "topics": {"0": "0.11323019", "1": "0.10165039", "2": "0.08034146", "3": "0.18269578", "4": "0.2612011", "5": "0.15567629", "6": "0.10520479"}}

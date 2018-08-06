@@ -1,0 +1,1 @@
+{"text": "I have narrow feet and it's hard to find shoes that fit well. These fit wonderfully throughout the toe box and the arch, but the heel will take some breaking in as it is painful currently", "sentiment": "negative", "topics": {"0": "0.1495709", "1": "0.5252375", "2": "0.12742582", "3": "0.092303626", "4": "0.09039726"}}

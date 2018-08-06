@@ -1,0 +1,1 @@
+{"text": "Love this beanie: thick, snug (without being tight), and keeps its shape after washing. Oh, and Made in the USA.", "sentiment": "negative", "topics": {"0": "0.011031968", "1": "0.33798036", "2": "0.1435745", "3": "0.15887569", "4": "0.18375239", "5": "0.01101664", "6": "0.15376845"}}

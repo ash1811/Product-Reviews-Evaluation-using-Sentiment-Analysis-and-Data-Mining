@@ -1,0 +1,1 @@
+{"text": "I'm pretty sure I reviewed this product already, but here goes again. These are a little higher than some out there, but I have problems with my feet so the soft insides of these are just what I needed.", "sentiment": "negative", "topics": {"0": "0.15306056", "1": "0.20964748", "2": "0.2606844", "5": "0.35125664"}}

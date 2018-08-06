@@ -1,0 +1,1 @@
+{"text": "these are just like the picture and so light to wear, and look so nice on, go with most things too", "sentiment": "negative", "topics": {"0": "0.01433547", "1": "0.9140348", "2": "0.014317739", "3": "0.014337045", "4": "0.014305155", "5": "0.014332953", "6": "0.014336859"}}

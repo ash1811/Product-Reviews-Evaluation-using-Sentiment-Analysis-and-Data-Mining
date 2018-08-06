@@ -1,0 +1,1 @@
+{"text": "Thinner than other smart wool socks, this sock is great for boots with leggings because it will fit snugly but without causing discomfort.  Cute pattern too!", "sentiment": "negative", "topics": {"1": "0.14911126", "3": "0.15508078", "4": "0.35282683", "5": "0.31760973"}}

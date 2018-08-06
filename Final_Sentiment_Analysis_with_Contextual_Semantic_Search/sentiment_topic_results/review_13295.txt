@@ -1,0 +1,1 @@
+{"text": "Following an MVA I have Considerable edema in my feet and finding shoes to fit has been a challenge.  Thank you New Balance for actually making a true 4e clog.", "sentiment": "negative", "topics": {"1": "0.14009517", "2": "0.34337842", "3": "0.22804396", "4": "0.16776071", "6": "0.10483213"}}

@@ -1,0 +1,1 @@
+{"text": "Does what I need it to do, and does it well. Good for a young man like myself who can't spend a bunch of money on a great watch, but still wants to look stylish.", "sentiment": "negative", "topics": {"0": "0.3158309", "1": "0.27729124", "2": "0.13859515", "6": "0.24432948"}}

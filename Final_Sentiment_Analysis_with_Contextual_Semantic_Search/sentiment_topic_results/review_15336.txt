@@ -1,0 +1,1 @@
+{"text": "This watch has a nice, elegant look. It's also really comfortable, and not too expensive. The latching mechanism is a little tricky to get used to, but after you get the hang of it, no problem.", "sentiment": "positive", "topics": {"1": "0.4458282", "2": "0.1777736", "4": "0.1326534", "5": "0.09085261", "6": "0.13856019"}}

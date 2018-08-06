@@ -1,0 +1,1 @@
+{"text": "I've worn these (& other brands I like) for many years.  I like the cotton because it \"breathes\", & is cool during the hot months here in Las Vegas.  Size is accurate as well & price is right.", "sentiment": "positive", "topics": {"2": "0.069360815", "3": "0.48087358", "4": "0.12516725", "6": "0.30305138"}}

@@ -1,0 +1,1 @@
+{"text": "for any man. We keep an extra one on hand at all times. My son and hubby love them, they each have one for work and a nice clean one for when they are off.", "sentiment": "positive", "topics": {"1": "0.24265054", "2": "0.22405607", "3": "0.34395453", "5": "0.1640531"}}

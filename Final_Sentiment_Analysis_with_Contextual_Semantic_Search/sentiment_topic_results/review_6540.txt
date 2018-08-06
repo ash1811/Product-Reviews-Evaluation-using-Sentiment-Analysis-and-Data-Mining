@@ -1,0 +1,1 @@
+{"text": "Perfect weight. Finding an over the calf sock that stays up and isn't too thick or thin is often a challenge but this sock seems to be just right. I'm anxious to see how long this pair holds up to everyday wear. Love the color.", "sentiment": "positive", "topics": {"2": "0.0352798", "3": "0.29310882", "4": "0.34955266", "5": "0.30414796"}}

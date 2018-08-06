@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband and he loves them.  Very comfortable and can use to walk or go fishing.", "sentiment": "negative", "topics": {"0": "0.16491446", "1": "0.3181484", "2": "0.014345805", "3": "0.13356529", "4": "0.34041297", "5": "0.014322681", "6": "0.014290357"}}

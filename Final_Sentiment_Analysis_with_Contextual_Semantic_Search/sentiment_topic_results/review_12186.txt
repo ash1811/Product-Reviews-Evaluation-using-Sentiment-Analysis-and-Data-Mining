@@ -1,0 +1,1 @@
+{"text": "Love, Love, Love the way this bra lifts the girls...I could do without the thickness but still love the way I look in a tee...I loved it so much I have bought 3..", "sentiment": "negative", "topics": {"1": "0.4719104", "3": "0.10790241", "4": "0.3375575", "6": "0.06117218"}}

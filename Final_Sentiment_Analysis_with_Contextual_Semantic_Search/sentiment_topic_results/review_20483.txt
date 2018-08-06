@@ -1,0 +1,1 @@
+{"text": "I have never found a sandal to be so comfortable and sturdy. Works for dry and wet weather. They also look cool.", "sentiment": "negative", "topics": {"0": "0.011030619", "1": "0.5920222", "2": "0.0110132955", "3": "0.01101491", "4": "0.24502999", "5": "0.11886208", "6": "0.01102691"}}

@@ -1,0 +1,1 @@
+{"text": "Most Excellent purchase. This was much better than expected. I would recommend to everyone, price was perfect, delivery was fast...bought 2 pair", "sentiment": "positive", "topics": {"0": "0.24467508", "1": "0.4401296", "2": "0.10393118", "6": "0.18260844"}}

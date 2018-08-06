@@ -1,0 +1,1 @@
+{"text": "The quality and the outlook is good, but it's kind of longer at the tip of the shoes and make it loose when I walk.", "sentiment": "positive", "topics": {"0": "0.119881265", "1": "0.5182029", "2": "0.3097529", "3": "0.01315965", "4": "0.012993958", "5": "0.013012975", "6": "0.012996325"}}

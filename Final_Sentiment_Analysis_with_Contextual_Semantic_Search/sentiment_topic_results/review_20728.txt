@@ -1,0 +1,1 @@
+{"text": "Unfortunately this bra did not fit even though I ordered it in my usual size, 40d. I did notice that the bra was made well, good quality bra. Disappointed it did not work for me.", "sentiment": "negative", "topics": {"0": "0.16934942", "1": "0.3584716", "3": "0.38412884", "6": "0.06657173"}}

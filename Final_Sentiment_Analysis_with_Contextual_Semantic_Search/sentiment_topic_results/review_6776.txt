@@ -1,0 +1,1 @@
+{"text": "light weight and comfortable to wear.  Nice to feel that your belongings are safely tucked away and easy to access by only you", "sentiment": "positive", "topics": {"0": "0.16760167", "1": "0.39765185", "2": "0.0929412", "3": "0.011021983", "4": "0.30872494", "5": "0.011016866", "6": "0.0110414615"}}

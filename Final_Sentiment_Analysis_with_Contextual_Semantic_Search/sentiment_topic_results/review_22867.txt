@@ -1,0 +1,1 @@
+{"text": "The color is a beautiful blue, just as pictured. The size and shape make it incredibly versatile for any number of uses.", "sentiment": "negative", "topics": {"0": "0.011947717", "1": "0.15806137", "2": "0.13975145", "3": "0.44993725", "4": "0.21641713", "5": "0.011959147", "6": "0.011925936"}}

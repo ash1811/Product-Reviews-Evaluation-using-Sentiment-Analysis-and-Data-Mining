@@ -1,0 +1,1 @@
+{"text": "I like jerzees sweatpants.  Cannot find them locally so I had to buy online.  Paid more than I wanted but had no choice.", "sentiment": "negative", "topics": {"0": "0.1251847", "1": "0.35434142", "2": "0.011942733", "3": "0.21316591", "4": "0.2714394", "5": "0.011966184", "6": "0.011959669"}}

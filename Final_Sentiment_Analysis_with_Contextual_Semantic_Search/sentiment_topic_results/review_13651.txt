@@ -1,0 +1,1 @@
+{"text": "I have been wanting some of these for awhile but put it off.  These are very comfortable shoes.  Love them.  I wear a 7.5 and they fit snug and comfortable, just the right size.  Would recommend", "sentiment": "negative", "topics": {"1": "0.44680738", "2": "0.100902684", "3": "0.20286432", "4": "0.13948219", "6": "0.094017476"}}

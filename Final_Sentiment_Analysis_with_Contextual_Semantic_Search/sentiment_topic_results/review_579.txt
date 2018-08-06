@@ -1,0 +1,1 @@
+{"text": "Overall good buying experience. Looks tough and lasting. Also it fits as expected especially my waist, a little loose about thigh part but perfect.", "sentiment": "negative", "topics": {"1": "0.5112956", "4": "0.15373376", "6": "0.30308878"}}

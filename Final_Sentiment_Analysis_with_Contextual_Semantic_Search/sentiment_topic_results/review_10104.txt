@@ -1,0 +1,1 @@
+{"text": "My preschool ballerina has worn these several times, and they seem to fit well. The sizing is accurate for her age, and she says they are fairly comfortable. If they hold up well, I will continue to buy this brand and style.", "sentiment": "negative", "topics": {"1": "0.4490523", "3": "0.13749588", "4": "0.16737418", "6": "0.22563098"}}

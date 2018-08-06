@@ -1,0 +1,1 @@
+{"text": "No stays to dig into you and the wide straps feel good on  your shoulders. I bought 2 and am going to buy more, they fit so well.", "sentiment": "negative", "topics": {"0": "0.369072", "1": "0.48090354", "2": "0.11176424"}}

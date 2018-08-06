@@ -1,0 +1,1 @@
+{"text": "great pair of pants. True to size, but very stretchy so a belt is needed.  Great color, good with flats.", "sentiment": "negative", "topics": {"0": "0.011010751", "1": "0.7455149", "2": "0.01103735", "3": "0.011034915", "4": "0.011000229", "5": "0.011003172", "6": "0.19939862"}}

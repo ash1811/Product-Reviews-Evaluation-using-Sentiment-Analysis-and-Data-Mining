@@ -1,0 +1,1 @@
+{"text": "the sleeves do not let you raise arms so you can work with comfort...other brands are roomier...I will not order these again", "sentiment": "positive", "topics": {"0": "0.12317292", "1": "0.1533134", "2": "0.15731958", "3": "0.2049286", "4": "0.18114814", "5": "0.16576454", "6": "0.0143528255"}}

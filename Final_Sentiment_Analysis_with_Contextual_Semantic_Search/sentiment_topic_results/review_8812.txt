@@ -1,0 +1,1 @@
+{"text": "very comfortable (yet not loose), does very good at minimizing at wicking sweat, looks durable for sure too, i'm very satisfied", "sentiment": "negative", "topics": {"0": "0.010249354", "1": "0.4236104", "2": "0.23784514", "3": "0.010232139", "4": "0.13259384", "5": "0.010253284", "6": "0.17521587"}}

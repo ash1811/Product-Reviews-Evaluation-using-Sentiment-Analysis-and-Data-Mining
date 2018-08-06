@@ -1,0 +1,1 @@
+{"text": "My Wife is really happy that I got her this for her travelling. She is loving it. Very sturdy and water proof.", "sentiment": "negative", "topics": {"0": "0.45278075", "1": "0.32408383", "2": "0.1709196", "3": "0.013034812", "4": "0.0130497245", "5": "0.013029722", "6": "0.013101517"}}

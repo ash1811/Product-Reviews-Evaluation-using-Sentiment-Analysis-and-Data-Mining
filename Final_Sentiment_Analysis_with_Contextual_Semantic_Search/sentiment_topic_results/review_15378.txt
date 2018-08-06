@@ -1,0 +1,1 @@
+{"text": "These are classic Ray-Bans made in Italy.  They are authentic with case and lens cloth.  I have these in black, too, and love them!", "sentiment": "negative", "topics": {"0": "0.18283741", "1": "0.011024787", "2": "0.24679819", "3": "0.36081234", "4": "0.17651835", "5": "0.011013439", "6": "0.010995483"}}

@@ -1,0 +1,1 @@
+{"text": "Going to return the size 10s or a pair of 11s to see if they fit my husband better.  He likes to have the option of wearing socks with them so the 10 is just too tight.", "sentiment": "negative", "topics": {"0": "0.09936832", "1": "0.20940295", "4": "0.41249055", "6": "0.25341043"}}

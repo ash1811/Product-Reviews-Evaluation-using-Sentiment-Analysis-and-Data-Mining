@@ -1,0 +1,1 @@
+{"text": "but I thought the entire shoe would be leather as described. I was wrong. The sandals are super comfy with the extra cushion sole, but the upper part is not leather.", "sentiment": "positive", "topics": {"1": "0.1667999", "2": "0.56784075", "3": "0.23167405"}}

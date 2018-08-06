@@ -1,0 +1,1 @@
+{"text": "I have bought 3 pairs of fold ball studs.  The 2 prior were very fragile and dented easily.  I wear these just about everyday and they have kept their shape and color.", "sentiment": "negative", "topics": {"0": "0.09666564", "1": "0.35990086", "2": "0.13333374", "4": "0.17199926", "5": "0.16173473", "6": "0.06790788"}}

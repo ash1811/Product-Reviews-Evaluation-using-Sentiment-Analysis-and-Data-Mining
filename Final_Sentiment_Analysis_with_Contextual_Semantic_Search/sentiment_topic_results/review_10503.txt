@@ -1,0 +1,1 @@
+{"text": "These are really adorable. Unfortunately, the velcro fastener is flimsy and doesn't stay fastened, so the shoes don't stay on. Keeping them on is kind of the point, no?", "sentiment": "negative", "topics": {"0": "0.26335552", "1": "0.10615501", "2": "0.16334967", "4": "0.33090857", "6": "0.11826148"}}

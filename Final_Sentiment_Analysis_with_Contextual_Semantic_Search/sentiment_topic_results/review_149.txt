@@ -1,0 +1,1 @@
+{"text": "I have two XLT Russell sweatshirts and they have a nice, modern, trim fit.But this XLT Russell t-shirt is like a tent on me. It's wider and taller than some 2XLT shirts I have from other companies. Other than that it's a nice shirt - soft, breathable, and tough.", "sentiment": "positive", "topics": {"0": "0.10483244", "1": "0.5577598", "6": "0.3144822"}}

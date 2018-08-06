@@ -1,0 +1,1 @@
+{"text": "Get compliments on these sunglasses every time I wear them.  Glad I looked on Amazon, and got them less expensive that some stores!", "sentiment": "negative", "topics": {"1": "0.33225766", "2": "0.19118612", "4": "0.27903193", "6": "0.16879256"}}

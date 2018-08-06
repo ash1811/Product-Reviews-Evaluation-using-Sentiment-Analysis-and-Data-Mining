@@ -1,0 +1,1 @@
+{"text": "Lots of room in this Big Boy. Color was as described so I was not disappointed. Use when traveling to put all doggie stuffs in. Good buy at good price.", "sentiment": "negative", "topics": {"0": "0.17310981", "1": "0.5510665", "3": "0.1541757", "5": "0.09780484"}}

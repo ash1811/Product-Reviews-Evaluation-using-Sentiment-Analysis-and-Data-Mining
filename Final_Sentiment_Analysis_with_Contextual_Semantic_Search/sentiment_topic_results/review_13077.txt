@@ -1,0 +1,1 @@
+{"text": "I needed something to carry with me when I hunt that wouldn't get in my way while shooting the crossbow or rifle. this is perfect", "sentiment": "positive", "topics": {"0": "0.01299864", "1": "0.29970378", "2": "0.013006437", "3": "0.013011686", "4": "0.32271084", "5": "0.12916802", "6": "0.20940064"}}

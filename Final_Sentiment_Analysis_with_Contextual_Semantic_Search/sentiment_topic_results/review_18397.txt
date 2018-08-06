@@ -1,0 +1,1 @@
+{"text": "This bra fit well at first, but quickly lost support in the cups. Now it isn't even wearable. Very disappointing.", "sentiment": "negative", "topics": {"0": "0.18052386", "1": "0.22395808", "2": "0.12241257", "3": "0.19328101", "4": "0.18783103", "5": "0.011952411", "6": "0.080041036"}}

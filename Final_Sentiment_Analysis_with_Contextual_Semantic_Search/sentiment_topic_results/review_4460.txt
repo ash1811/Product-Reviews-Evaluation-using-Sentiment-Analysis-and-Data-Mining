@@ -1,0 +1,1 @@
+{"text": "I grew up in LEE jeans and now I'm retired and buy them again. They fit well in 1948 and now fit well in 2014.", "sentiment": "positive", "topics": {"0": "0.22085775", "1": "0.38447714", "2": "0.010211767", "3": "0.010222112", "4": "0.27758035", "5": "0.010252432", "6": "0.08639846"}}

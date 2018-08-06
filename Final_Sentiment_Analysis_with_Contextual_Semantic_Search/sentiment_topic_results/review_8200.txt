@@ -1,0 +1,1 @@
+{"text": "high quality product, very happy with my boots, I recommend to other buyers, the service was very fast and timely. I'm interested in other reference Merrel.", "sentiment": "negative", "topics": {"0": "0.22280046", "1": "0.10711772", "3": "0.17147326", "4": "0.0894875", "5": "0.38992333"}}

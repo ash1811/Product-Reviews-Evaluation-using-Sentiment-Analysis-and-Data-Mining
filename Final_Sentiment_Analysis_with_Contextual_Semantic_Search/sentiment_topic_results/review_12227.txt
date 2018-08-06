@@ -1,0 +1,1 @@
+{"text": "long, wide, great scarf at a fantastic price. I like the fleece, easy to wash and rinse quickly and dries fast. warm for cold windy days its long enough to go around a couple times.", "sentiment": "negative", "topics": {"0": "0.113065645", "1": "0.1500135", "2": "0.113894336", "3": "0.07587233", "4": "0.1398198", "5": "0.40159476"}}

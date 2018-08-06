@@ -1,0 +1,1 @@
+{"text": "classic Adidas shoe. great fit for my son. i bought for indoor soccer but he loves wearing them all the time.", "sentiment": "negative", "topics": {"0": "0.011022303", "1": "0.291063", "2": "0.18266144", "3": "0.011001434", "4": "0.011027029", "5": "0.4822348", "6": "0.010990012"}}

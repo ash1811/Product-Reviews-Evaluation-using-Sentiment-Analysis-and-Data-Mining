@@ -1,0 +1,1 @@
+{"text": "Comfortable, good looking shoes purchased for a male that walks a lot.  Fit is true to size.  Expect this brand to wear well.", "sentiment": "negative", "topics": {"1": "0.5336809", "2": "0.16452909", "3": "0.26595104"}}

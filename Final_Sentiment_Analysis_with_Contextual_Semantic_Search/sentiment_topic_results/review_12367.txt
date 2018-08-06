@@ -1,0 +1,1 @@
+{"text": "This beanie is so small that it wont even fit on my 2 year olds head without some struggle.. Its baby size. I regret spending the few bucks on it that I did.", "sentiment": "negative", "topics": {"0": "0.1562965", "1": "0.31529555", "2": "0.17519885", "4": "0.08469576", "5": "0.11188964", "6": "0.1486412"}}

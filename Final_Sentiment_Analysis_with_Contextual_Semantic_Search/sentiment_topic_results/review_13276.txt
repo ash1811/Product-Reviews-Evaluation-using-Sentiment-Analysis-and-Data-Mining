@@ -1,0 +1,1 @@
+{"text": "I wear these everyday to walk our dogs.  Purchased them when I had a knee revision done last October.  The only complaint I have is Keen make the best shoes - but uses the cheapest laces.  I am getting ready to order another pair soon.", "sentiment": "positive", "topics": {"0": "0.1455311", "1": "0.46049052", "2": "0.15666403", "4": "0.06261476", "6": "0.16319847"}}

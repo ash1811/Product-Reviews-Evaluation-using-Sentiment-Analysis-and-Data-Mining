@@ -1,0 +1,1 @@
+{"text": "I use these slippers when I go visiting at a place where you have to remove your shoes.  They fit in my purse and are comfy but not very warm, but they fit what I use them for...They are also quality made.", "sentiment": "negative", "topics": {"1": "0.3505767", "2": "0.17952468", "4": "0.24263102", "5": "0.08640426", "6": "0.12496397"}}

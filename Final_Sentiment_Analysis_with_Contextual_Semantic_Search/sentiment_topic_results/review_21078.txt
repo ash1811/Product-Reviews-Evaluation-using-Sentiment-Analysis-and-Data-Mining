@@ -1,0 +1,1 @@
+{"text": "This a great size for a gym bag or small carry on.  The strap is a good length and the zipper works.  It's definitely made of cheaper materials and has a slightly funky smell at first.  It works though and I'm glad I bought it.", "sentiment": "negative", "topics": {"1": "0.3317936", "2": "0.059570234", "3": "0.3380191", "4": "0.1366104", "5": "0.12338049"}}

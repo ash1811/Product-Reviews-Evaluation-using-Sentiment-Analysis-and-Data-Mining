@@ -1,0 +1,1 @@
+{"text": "It fits comfortably. Lifts my breast. I recommended it to any one who wants comfort and a good fit. You can really wear it for 18 hours and not be pinched or feel all bound up.", "sentiment": "negative", "topics": {"0": "0.12639423", "1": "0.32750344", "2": "0.20384216", "3": "0.111753486", "6": "0.21537253"}}

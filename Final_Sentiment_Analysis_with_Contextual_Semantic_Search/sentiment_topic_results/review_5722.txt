@@ -1,0 +1,1 @@
+{"text": "love em, they are great ! I wear them around the house. they keep me warm better then those thinflannel p.j's", "sentiment": "negative", "topics": {"0": "0.011926812", "1": "0.32728964", "2": "0.011921686", "3": "0.49335396", "4": "0.13162237", "5": "0.011944159", "6": "0.0119413575"}}

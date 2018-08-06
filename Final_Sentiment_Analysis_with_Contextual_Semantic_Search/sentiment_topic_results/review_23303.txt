@@ -1,0 +1,1 @@
+{"text": "My daughter tried these on and immediately hated them.  Arch supports aren't there and honestly, I can't see anyone running for a long period of time in these.  Cushion is non-existent.", "sentiment": "positive", "topics": {"1": "0.20820832", "2": "0.20958869", "3": "0.19805957", "4": "0.049023077", "5": "0.320039"}}

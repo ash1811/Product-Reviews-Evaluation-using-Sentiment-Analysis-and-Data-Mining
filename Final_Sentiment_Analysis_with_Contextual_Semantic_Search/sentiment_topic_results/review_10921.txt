@@ -1,0 +1,1 @@
+{"text": "This slipper fit true to size and looks good.  Hard to find in stores, but they fit well and are comfortable.", "sentiment": "positive", "topics": {"0": "0.10615122", "1": "0.68182373", "2": "0.010994477", "3": "0.011039418", "4": "0.011001872", "5": "0.0109995995", "6": "0.16798963"}}

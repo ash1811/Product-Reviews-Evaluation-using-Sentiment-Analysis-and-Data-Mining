@@ -1,0 +1,1 @@
+{"text": "My wife has 3 or 4 pair of these in different colors. They are very high quality and wear for a long time with regular use.", "sentiment": "positive", "topics": {"0": "0.010238242", "1": "0.7891494", "2": "0.010222073", "3": "0.010261216", "4": "0.010247701", "5": "0.01023798", "6": "0.15964338"}}

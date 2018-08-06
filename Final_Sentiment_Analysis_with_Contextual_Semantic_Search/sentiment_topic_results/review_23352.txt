@@ -1,0 +1,1 @@
+{"text": "These are very cute shoes and would have been quite comfortable but I had an issue with the straps around the toe area.  The straps were probably an inch too loose but just in the toe area. Looked strange to me.  I was disappointed.  I sent them back.", "sentiment": "negative", "topics": {"0": "0.0732265", "1": "0.54134655", "2": "0.2602602", "3": "0.10646381"}}

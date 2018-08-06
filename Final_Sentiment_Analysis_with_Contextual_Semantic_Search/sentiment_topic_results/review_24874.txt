@@ -1,0 +1,1 @@
+{"text": "Purchased these for my father and he basically wore them constantly for two years until I finally ordered him another pair.  They give him traction, are comfortable on his feet, easy to get on and off and look nice enough to wear out if he wants.", "sentiment": "negative", "topics": {"1": "0.5204817", "3": "0.17133968", "4": "0.0992375", "6": "0.19024323"}}

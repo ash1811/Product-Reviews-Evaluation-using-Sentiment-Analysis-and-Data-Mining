@@ -1,0 +1,1 @@
+{"text": "I'm 5\"7 and the medium jacket runs a little big for me. Still not going to return it though. The jacket looks great, is probably indestructible and should be very warm.", "sentiment": "positive", "topics": {"0": "0.058425058", "1": "0.5199644", "2": "0.13551964", "3": "0.21251869", "6": "0.058475375"}}

@@ -1,0 +1,1 @@
+{"text": "The Anvil Men's Heavyweight Performance Tank Top - Black - Medium is stylish and fits very well. It is especially comfortable in the gym for upper body exercises or cardio movements. I recommend this product.", "sentiment": "negative", "topics": {"0": "0.06618914", "1": "0.24493308", "3": "0.29861012", "5": "0.09026099", "6": "0.28698128"}}

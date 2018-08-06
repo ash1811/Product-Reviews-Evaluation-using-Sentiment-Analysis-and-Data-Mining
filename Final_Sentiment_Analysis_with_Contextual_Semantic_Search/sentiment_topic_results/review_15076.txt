@@ -1,0 +1,1 @@
+{"text": "These shoes are so comfortable.  I am on my feet all day.  Lots of walking involved in my job and standing in one position.  Feel like pillows under my feet.", "sentiment": "negative", "topics": {"1": "0.24012381", "2": "0.22299223", "4": "0.2559415", "6": "0.2540424"}}

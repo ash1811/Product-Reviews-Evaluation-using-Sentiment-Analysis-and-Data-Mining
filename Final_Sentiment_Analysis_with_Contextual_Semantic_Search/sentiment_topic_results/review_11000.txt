@@ -1,0 +1,1 @@
+{"text": "Great shoes. Good construction, excellent anti-slip sole, good air flow, light weight, not waterproof but resists water spills well. very nice", "sentiment": "negative", "topics": {"1": "0.3110409", "2": "0.18450604", "3": "0.18306687", "5": "0.24404244", "6": "0.062278654"}}

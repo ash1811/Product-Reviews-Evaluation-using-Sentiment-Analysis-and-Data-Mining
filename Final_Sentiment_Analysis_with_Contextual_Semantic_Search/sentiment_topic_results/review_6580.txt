@@ -1,0 +1,1 @@
+{"text": "I normally wear an XL, but that was giant on me. I returned the LX for an L but the L is still fairly big on me, I'm just going to deal with it though. Didn't notice any shrinking.", "sentiment": "positive", "topics": {"0": "0.05592814", "1": "0.5336956", "3": "0.18640356", "4": "0.13358615", "6": "0.07604491"}}

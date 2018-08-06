@@ -1,0 +1,1 @@
+{"text": "I am so sad I can't wear these year round! They are super warm and stylish for the miserable winter months. They feel good on your feet too, I never have had a moment of discomfort wearing them. Worth the price!", "sentiment": "negative", "topics": {"1": "0.41364852", "3": "0.25216445", "4": "0.13858144", "5": "0.11104104", "6": "0.07208021"}}

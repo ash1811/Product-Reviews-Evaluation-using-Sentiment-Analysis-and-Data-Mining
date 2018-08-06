@@ -1,0 +1,1 @@
+{"text": "Nice looking, lightweight, comfortable shirt with pocket.  Perfect for those semi-casual summer days.", "sentiment": "negative", "topics": {"0": "0.013035101", "1": "0.6310087", "2": "0.1359196", "3": "0.013016796", "4": "0.013037374", "5": "0.013054833", "6": "0.18092757"}}

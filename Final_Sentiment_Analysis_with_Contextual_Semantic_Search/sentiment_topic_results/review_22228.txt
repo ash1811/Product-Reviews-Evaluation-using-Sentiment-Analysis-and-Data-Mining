@@ -1,0 +1,1 @@
+{"text": "Got these for my runner husband. They keep him cool and wick the sweat away and are comfortable and yet lightweight.", "sentiment": "negative", "topics": {"0": "0.011945451", "1": "0.105383314", "2": "0.21042533", "3": "0.2042642", "4": "0.2505063", "5": "0.01199969", "6": "0.20547575"}}

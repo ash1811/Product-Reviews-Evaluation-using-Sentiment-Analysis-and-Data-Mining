@@ -1,0 +1,1 @@
+{"text": "Love how this feels on... but being someone who is small chested... I probably needed something with a little more padding. It feels great on though... and I would definitely recommend this for summer events... :)", "sentiment": "negative", "topics": {"1": "0.38892573", "3": "0.37920183", "5": "0.08124335", "6": "0.12912275"}}

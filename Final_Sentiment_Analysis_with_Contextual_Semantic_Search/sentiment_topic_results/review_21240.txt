@@ -1,0 +1,1 @@
+{"text": "It's been a while since I've found a decent walking shoe. The Saucony Men's Grid Omni Walking Shoe fits quite nicely and is very confortable. The white is too much for me I'm going for black. Quality +, fit +, comfort +.", "sentiment": "positive", "topics": {"1": "0.35933015", "2": "0.12724471", "3": "0.19797215", "5": "0.2982667"}}

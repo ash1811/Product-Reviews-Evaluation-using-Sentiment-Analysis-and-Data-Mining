@@ -1,0 +1,1 @@
+{"text": "This are great!! Felt before that they were only for Ladies but they keep the feet nice and warm. They work great with my workout and martial arts shoes.", "sentiment": "positive", "topics": {"0": "0.010224092", "1": "0.34186667", "2": "0.2574385", "3": "0.17748569", "4": "0.15629598", "5": "0.046475086", "6": "0.0102139795"}}

@@ -1,0 +1,1 @@
+{"text": "My watch arrived on time in good condition and I loved the price. I thought the band would be a bit thicker but that is something that gets lost through pictures. I am please with my product, its price, and the condition it arrived in.", "sentiment": "positive", "topics": {"0": "0.24917121", "1": "0.38752297", "2": "0.057890054", "5": "0.28671178"}}

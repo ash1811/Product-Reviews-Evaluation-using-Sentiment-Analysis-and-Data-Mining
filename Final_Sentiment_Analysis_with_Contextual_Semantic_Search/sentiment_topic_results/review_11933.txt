@@ -1,0 +1,1 @@
+{"text": "The zipper could come down just a tad lower, but otherwise, the item we bought is great! The material is probably on the heavy side but the lining was pretty nice.", "sentiment": "positive", "topics": {"0": "0.11991828", "1": "0.41010275", "6": "0.43629444"}}

@@ -1,0 +1,1 @@
+{"text": "We bought a plus size for my tall 8 year old and she absolutely loves it.  It fits her perfectly.", "sentiment": "positive", "topics": {"0": "0.011044363", "1": "0.50762326", "2": "0.13282023", "3": "0.1662737", "4": "0.16016078", "5": "0.011039814", "6": "0.011037855"}}

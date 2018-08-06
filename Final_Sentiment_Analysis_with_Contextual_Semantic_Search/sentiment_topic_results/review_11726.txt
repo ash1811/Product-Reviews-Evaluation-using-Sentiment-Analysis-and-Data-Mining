@@ -1,0 +1,1 @@
+{"text": "Excellent quality construction and great fit.  Sole is much sturdier than other I've tried.  Wore them almost non-stop for a week's vacation at the beach and they still look like brand new. Definitely worth the extra money to purchase these.", "sentiment": "negative", "topics": {"0": "0.071866386", "1": "0.28513497", "2": "0.17657076", "3": "0.45105904"}}

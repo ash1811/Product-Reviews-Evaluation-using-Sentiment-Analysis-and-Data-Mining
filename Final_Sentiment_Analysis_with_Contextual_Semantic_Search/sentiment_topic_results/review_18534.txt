@@ -1,0 +1,1 @@
+{"text": "The style is very large and pointy-- my poor husband was tripping on them!", "sentiment": "negative", "topics": {"0": "0.21194649", "1": "0.017887188", "2": "0.017886346", "3": "0.47601706", "4": "0.24051283", "5": "0.017891238", "6": "0.017858852"}}

@@ -1,0 +1,1 @@
+{"text": "These slippers are very warm and the bottom has good traction for a slipper.  They fit a tiny bit narror but they stretch nicely if they are snug at first.", "sentiment": "negative", "topics": {"1": "0.35004023", "2": "0.082745746", "3": "0.067840666", "4": "0.11122709", "5": "0.11687927", "6": "0.2617184"}}

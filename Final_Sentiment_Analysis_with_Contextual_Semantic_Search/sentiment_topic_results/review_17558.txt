@@ -1,0 +1,1 @@
+{"text": "It does not feel like I am wearing anything. It is very warm and comfortable under any sweater or shirt.", "sentiment": "negative", "topics": {"0": "0.01593366", "1": "0.4131595", "2": "0.15728985", "3": "0.015899915", "4": "0.16094509", "5": "0.015901616", "6": "0.2208704"}}

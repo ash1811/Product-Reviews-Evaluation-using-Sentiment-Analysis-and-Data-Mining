@@ -1,0 +1,1 @@
+{"text": "Love the boot and the quick release zipper on the side.  I wear these for everything that requires water proof shoes. . .  not to mention during tactical maneuvers.  So far they have held up longer than I do for my training!", "sentiment": "negative", "topics": {"0": "0.14577807", "1": "0.2039607", "2": "0.3364828", "4": "0.245442", "6": "0.054015815"}}

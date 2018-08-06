@@ -1,0 +1,1 @@
+{"text": "This is a really great swim diaper.  It keeps the bad stuff in and out of the pool!  We've purchased this brand in a few sizes and really like them.  It fits as expected.", "sentiment": "positive", "topics": {"1": "0.37509942", "3": "0.33968166", "4": "0.06960017", "5": "0.19175333"}}

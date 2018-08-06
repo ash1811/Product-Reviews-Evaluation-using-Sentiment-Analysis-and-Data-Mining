@@ -1,0 +1,1 @@
+{"text": "This is the best T shirt ever.  Well made and durable for the price.  No scimping on the fit either.  I will purchase more.", "sentiment": "negative", "topics": {"0": "0.011022964", "1": "0.80271435", "2": "0.011024379", "3": "0.01101193", "4": "0.011004592", "5": "0.1422251", "6": "0.010996649"}}

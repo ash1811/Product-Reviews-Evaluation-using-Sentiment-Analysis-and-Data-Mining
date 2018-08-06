@@ -1,0 +1,1 @@
+{"text": "I love the feel and durability of these pants. Works great. The pants do fit real high up on the waist though but excellent room and comfort", "sentiment": "negative", "topics": {"1": "0.43401623", "2": "0.20900188", "4": "0.15015753", "6": "0.17996208"}}

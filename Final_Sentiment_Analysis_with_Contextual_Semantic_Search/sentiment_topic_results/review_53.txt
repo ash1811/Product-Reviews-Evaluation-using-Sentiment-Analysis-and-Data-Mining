@@ -1,0 +1,1 @@
+{"text": "I love Swarovski jewelry!!! Gem Avenue has some really great ones and their prices are very reasonable! These earrings are really lovely and will look great on my baby! :)", "sentiment": "negative", "topics": {"0": "0.13974835", "1": "0.53211", "4": "0.23477757", "6": "0.068098344"}}

@@ -1,0 +1,1 @@
+{"text": "The size X-Large fit 16-18 well, my daughter is 6&#34; and her size if between 16-18 and this legging fit very nice.  I really like that is the material it not a see throught at all.  For the price this quality is just excellent!", "sentiment": "negative", "topics": {"1": "0.38735726", "2": "0.08288461", "4": "0.2005693", "6": "0.30962768"}}

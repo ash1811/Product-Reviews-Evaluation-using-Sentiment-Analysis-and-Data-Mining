@@ -1,0 +1,1 @@
+{"text": "These are the best things to walk on ever!! However, like any plastic flop the toe part will give you blisters!!! I continue to wear them just so I can feel the pain to know my feet are alive &#128533;", "sentiment": "positive", "topics": {"0": "0.16889966", "1": "0.4095225", "2": "0.08450283", "3": "0.22155367", "4": "0.101865396"}}

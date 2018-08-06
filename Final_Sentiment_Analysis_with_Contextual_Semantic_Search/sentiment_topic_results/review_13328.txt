@@ -1,0 +1,1 @@
+{"text": "This choker looks very sexy on the wife and goes well with just about anything she wears, at least in the bedroom!", "sentiment": "negative", "topics": {"0": "0.013066041", "1": "0.013060926", "2": "0.27052972", "3": "0.18753843", "4": "0.0130427", "5": "0.48975363", "6": "0.013008598"}}

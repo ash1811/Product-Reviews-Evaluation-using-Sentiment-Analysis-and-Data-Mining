@@ -1,0 +1,1 @@
+{"text": "I love these. No stress on shoulders yet great support.  this is the second time around I've chosen these, stock up.", "sentiment": "negative", "topics": {"0": "0.30148864", "1": "0.08635448", "3": "0.22367561", "5": "0.36160395"}}

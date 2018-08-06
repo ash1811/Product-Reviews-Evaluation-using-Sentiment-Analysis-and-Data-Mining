@@ -1,0 +1,1 @@
+{"text": "I love this skirt. Size is good. I wore it to dinner and got several remarks on how nice it was. I would recommend this product.", "sentiment": "positive", "topics": {"3": "0.30591515", "4": "0.16704051", "5": "0.4888104"}}

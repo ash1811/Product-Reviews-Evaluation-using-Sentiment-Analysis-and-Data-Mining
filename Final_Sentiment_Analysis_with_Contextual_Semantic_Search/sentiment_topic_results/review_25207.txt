@@ -1,0 +1,1 @@
+{"text": "Great support with light cushioning, can't beat it! I have the blue and green ones and love them. This color will be added as my new favorite!", "sentiment": "negative", "topics": {"1": "0.35659578", "2": "0.15922797", "3": "0.28123248", "4": "0.17738122"}}

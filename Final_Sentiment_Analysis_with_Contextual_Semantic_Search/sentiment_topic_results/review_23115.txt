@@ -1,0 +1,1 @@
+{"text": "Of the bras I've bought recently from Playtex, this has got to be my favourite!!Fits perfectly, comfortable, and has a minimizing effect when I wear my shirts for work.Love it, would buy more if they came in the colour I want for my size.", "sentiment": "negative", "topics": {"1": "0.2624955", "2": "0.123774745", "3": "0.35758877", "5": "0.072128765", "6": "0.1709917"}}

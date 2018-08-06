@@ -1,0 +1,1 @@
+{"text": "Nothing special  Great bi-fold wallet.  I like the look and the feel of it in my hands and in my back pocket.", "sentiment": "negative", "topics": {"0": "0.011947244", "1": "0.48410854", "2": "0.011958518", "3": "0.011935817", "4": "0.011926662", "5": "0.011945714", "6": "0.45617756"}}

@@ -1,0 +1,1 @@
+{"text": "Thanks for the expedient service.My boyfriend loves them-maybe more than me-hehe.  They truly are like a sandal with more coverage.", "sentiment": "negative", "topics": {"0": "0.1980507", "1": "0.011962779", "2": "0.011976703", "3": "0.1081373", "4": "0.50216204", "5": "0.1557418", "6": "0.011968634"}}

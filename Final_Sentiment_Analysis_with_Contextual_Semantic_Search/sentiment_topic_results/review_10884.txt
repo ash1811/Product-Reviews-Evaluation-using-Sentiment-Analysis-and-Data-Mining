@@ -1,0 +1,1 @@
+{"text": "These are cuter than pictured and very soft.  The fit is as described. 2 thumbs up (Oh, I mean 5 stars.)", "sentiment": "positive", "topics": {"0": "0.24928427", "1": "0.42348537", "2": "0.17353594", "3": "0.012013424", "4": "0.011922571", "5": "0.012032874", "6": "0.11772555"}}

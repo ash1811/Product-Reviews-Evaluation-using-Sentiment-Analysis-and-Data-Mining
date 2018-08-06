@@ -1,0 +1,1 @@
+{"text": "The quality of the necklace is excellent and the price is such a deal. The shipping was very fast also. Excellent purchase.", "sentiment": "positive", "topics": {"0": "0.170767", "1": "0.16963696", "2": "0.26374462", "3": "0.10386972", "4": "0.26595804", "5": "0.0129935285", "6": "0.013030121"}}

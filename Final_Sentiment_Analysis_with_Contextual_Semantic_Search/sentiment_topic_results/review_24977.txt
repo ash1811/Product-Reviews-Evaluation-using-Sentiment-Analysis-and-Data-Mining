@@ -1,0 +1,1 @@
+{"text": "Have had plantar fasciitis a few times and these have been the remedy every time! New running shoes get their insoles removed and these green gems inserted! Highly recommend these - check out the Superfeet site to be sure you get the right color for your feet.", "sentiment": "negative", "topics": {"2": "0.2361405", "3": "0.0701566", "4": "0.3210216", "5": "0.35612768"}}

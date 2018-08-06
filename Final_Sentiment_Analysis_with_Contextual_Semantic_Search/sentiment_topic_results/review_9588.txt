@@ -1,0 +1,1 @@
+{"text": "This watch is as expected, it will be used on a daily basis so it fits the bill. It was given as a gift.", "sentiment": "positive", "topics": {"0": "0.27178302", "1": "0.24416032", "2": "0.13121895", "3": "0.014323744", "4": "0.014299968", "5": "0.30991358", "6": "0.014300396"}}

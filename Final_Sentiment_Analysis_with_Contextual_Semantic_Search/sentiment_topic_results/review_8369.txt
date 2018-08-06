@@ -1,0 +1,1 @@
+{"text": "They are well made and a good fit for a reasonable price. The relaxed fit is a tad baggy but  I woukd buy them again and recomnend them. I like them better than Levi's.", "sentiment": "negative", "topics": {"0": "0.1712575", "1": "0.37358478", "3": "0.20846646", "4": "0.046405196", "6": "0.18438098"}}

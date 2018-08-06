@@ -1,0 +1,1 @@
+{"text": "I was looking for a dainty and simple bracelet for my granddaughter and this one is perfect.  The 7&#34; size makes it a perfect fit, too.  I couldn't be happier with this purchase!", "sentiment": "positive", "topics": {"1": "0.20049262", "2": "0.2959633", "3": "0.24961068", "4": "0.12933873", "6": "0.10670486"}}

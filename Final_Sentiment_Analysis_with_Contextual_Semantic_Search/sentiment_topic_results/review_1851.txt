@@ -1,0 +1,1 @@
+{"text": "when lacing the boot the holes weren't lined up exactly also the way the laces look was weird, but its alright", "sentiment": "negative", "topics": {"0": "0.29935923", "1": "0.097502895", "2": "0.1078426", "3": "0.13373032", "4": "0.26949438", "5": "0.08014422", "6": "0.011926352"}}

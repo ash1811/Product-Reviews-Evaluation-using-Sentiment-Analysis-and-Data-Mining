@@ -1,0 +1,1 @@
+{"text": "good plain aviators. they are mirrorlike. problem is their quality is pretty lacking. screws fell out of half of them and they break sooo easily.", "sentiment": "negative", "topics": {"0": "0.11871604", "1": "0.2830138", "2": "0.092272505", "3": "0.24878092", "4": "0.17047898", "5": "0.07719967"}}

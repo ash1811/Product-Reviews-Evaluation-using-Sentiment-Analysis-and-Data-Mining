@@ -1,0 +1,1 @@
+{"text": "After reading the reviews I knew it ran small. A 4-6 size is usually big on my daughter so I decided to give it a try. It worked very well and there's a bit of room for growing. The leotard is OK. The price seemed reasonable.", "sentiment": "negative", "topics": {"0": "0.12653959", "1": "0.48509347", "2": "0.1530182", "3": "0.21814668"}}

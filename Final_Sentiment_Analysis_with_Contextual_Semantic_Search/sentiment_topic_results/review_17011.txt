@@ -1,0 +1,1 @@
+{"text": "I needed this shirt for work on a fine dining dinner boat. It was exactly what I needed, and has served me well for almost a year now. I find the material to be of good quality, but almost 1/2 the price of Men's Warehouse.", "sentiment": "negative", "topics": {"0": "0.0502622", "1": "0.38257372", "2": "0.19661856", "3": "0.09628422", "5": "0.26232415"}}

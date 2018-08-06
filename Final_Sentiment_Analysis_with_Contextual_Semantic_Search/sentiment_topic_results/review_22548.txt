@@ -1,0 +1,1 @@
+{"text": "It is as described.  It cleans very well and effective.  I chose this one because Hagerty is a reliable brand.", "sentiment": "negative", "topics": {"0": "0.12252839", "1": "0.31951588", "2": "0.01433629", "3": "0.12781712", "4": "0.25967175", "5": "0.14184245", "6": "0.01428805"}}

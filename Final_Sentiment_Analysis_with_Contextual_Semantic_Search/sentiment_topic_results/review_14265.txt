@@ -1,0 +1,1 @@
+{"text": "My shoe size is a 6 C.  The 6 Medium fits me fine.  It is a comfortable, nice-looking sandal and seems sturdy.", "sentiment": "positive", "topics": {"0": "0.010209055", "1": "0.56956154", "2": "0.23252033", "3": "0.010261445", "4": "0.010208197", "5": "0.010209224", "6": "0.15703021"}}

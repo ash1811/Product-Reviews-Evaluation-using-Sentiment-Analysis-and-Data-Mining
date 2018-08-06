@@ -1,0 +1,1 @@
+{"text": "Hard to beat the price but I didn't expect that Casio still made this bad back lighting for night viewing.  I gave the watch away a day after I got it.", "sentiment": "negative", "topics": {"0": "0.19694252", "1": "0.315813", "2": "0.14870113", "4": "0.07891814", "5": "0.10203304", "6": "0.15004888"}}

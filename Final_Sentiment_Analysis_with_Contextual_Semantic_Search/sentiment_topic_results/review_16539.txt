@@ -1,0 +1,1 @@
+{"text": "I bought this as a present. If I was a girl, I would buy this for myself. It feels like good quality leather. It can fit absolutely anything you can possibly want to put into a wallet.", "sentiment": "negative", "topics": {"1": "0.43097532", "2": "0.37290242", "3": "0.16589467"}}

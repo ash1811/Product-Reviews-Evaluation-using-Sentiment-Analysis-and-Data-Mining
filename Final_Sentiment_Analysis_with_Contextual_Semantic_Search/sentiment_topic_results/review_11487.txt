@@ -1,0 +1,1 @@
+{"text": "Have fallen in love with the Gildan Ultra Cotton brand of t-shirts.  They're well made, comfortable, and fit so well!", "sentiment": "positive", "topics": {"0": "0.010280658", "1": "0.3719893", "2": "0.14333472", "3": "0.2601967", "4": "0.19371453", "5": "0.010230141", "6": "0.010253961"}}

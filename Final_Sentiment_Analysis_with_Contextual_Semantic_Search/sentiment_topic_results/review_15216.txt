@@ -1,0 +1,1 @@
+{"text": "Very Comfy!.....Hanes Comfortsoft Boxer Brief P4, Assorted Solids, Large....my husband is happy with them they wash well and I like that amazon has such a great selection and good prices!~", "sentiment": "negative", "topics": {"1": "0.20832412", "3": "0.1881079", "4": "0.2892909", "5": "0.21813375", "6": "0.08108479"}}

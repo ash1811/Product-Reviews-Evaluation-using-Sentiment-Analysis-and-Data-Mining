@@ -1,0 +1,1 @@
+{"text": "What a find! This brief has one seam going up the back. Other than that it is seamlessly smooth and comfortable with just enough stretch to make it so. Pretty much the perfect pantie.", "sentiment": "positive", "topics": {"0": "0.15827064", "1": "0.37716097", "3": "0.124477215", "4": "0.31622553"}}

@@ -1,0 +1,1 @@
+{"text": "The balls on these earrings are too small. They are barely larger than the posts, so as a result, the earrings pull through the ears and fall out the back.", "sentiment": "negative", "topics": {"0": "0.25683022", "1": "0.22378302", "2": "0.10338124", "3": "0.01099867", "4": "0.11897315", "5": "0.19649026", "6": "0.08954348"}}

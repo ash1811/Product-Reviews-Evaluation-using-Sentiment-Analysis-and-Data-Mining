@@ -1,0 +1,1 @@
+{"text": "The product is of fine quality and provides ample space and an extra pocket for both storage and travel of longer and more formal garments.", "sentiment": "negative", "topics": {"0": "0.010241966", "1": "0.36132386", "2": "0.23480208", "3": "0.25767556", "4": "0.010281525", "5": "0.11544971", "6": "0.010225338"}}

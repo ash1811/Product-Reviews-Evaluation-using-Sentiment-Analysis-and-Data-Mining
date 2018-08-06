@@ -1,0 +1,1 @@
+{"text": "If the gentleman is a narrow, buy narrow.  A medium has room and will not work on the narrow foot.", "sentiment": "negative", "topics": {"0": "0.0143054295", "1": "0.7112615", "2": "0.014291982", "3": "0.014324431", "4": "0.11861913", "5": "0.014334905", "6": "0.11286265"}}

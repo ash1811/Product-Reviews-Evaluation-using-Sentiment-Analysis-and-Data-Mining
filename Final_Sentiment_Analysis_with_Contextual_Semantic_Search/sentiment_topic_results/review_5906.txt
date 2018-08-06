@@ -1,0 +1,1 @@
+{"text": "I bought these on a whim and love them!  They go with any outfit and dress up casual wear too.  I get lots of compliments on them.  I plan on ordering a pair for my mom too.", "sentiment": "negative", "topics": {"0": "0.5382988", "3": "0.08647651", "4": "0.29594854", "6": "0.057737958"}}

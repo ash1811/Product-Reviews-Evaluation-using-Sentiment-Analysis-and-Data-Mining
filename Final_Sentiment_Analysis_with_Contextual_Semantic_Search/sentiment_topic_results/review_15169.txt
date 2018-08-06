@@ -1,0 +1,1 @@
+{"text": "And my expectations in line, it's a pity that the pants on the right side have obvious flaws, seems to be the cause of the fabric, I don't know why", "sentiment": "negative", "topics": {"0": "0.011006778", "1": "0.3370396", "2": "0.2665004", "3": "0.011060346", "4": "0.011007954", "5": "0.23379762", "6": "0.12958732"}}

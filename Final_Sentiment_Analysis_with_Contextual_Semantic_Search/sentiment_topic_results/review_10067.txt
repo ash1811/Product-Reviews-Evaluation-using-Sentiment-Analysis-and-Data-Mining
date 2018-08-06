@@ -1,0 +1,1 @@
+{"text": "These are cute pearls as a nice price. They are being worn on a weekly basis. They are a nice size as well.", "sentiment": "positive", "topics": {"0": "0.013010508", "1": "0.33812", "2": "0.10206518", "3": "0.013054806", "4": "0.013001576", "5": "0.31648576", "6": "0.20426212"}}

@@ -1,0 +1,1 @@
+{"text": "Not the best fit for advertised product. It comes up much higher then regular briefs,especially sine they carry a higher brief.Fruit of the Loom has more traditional sizing", "sentiment": "positive", "topics": {"0": "0.21306762", "1": "0.22774021", "4": "0.27597564", "5": "0.16465685", "6": "0.10168454"}}

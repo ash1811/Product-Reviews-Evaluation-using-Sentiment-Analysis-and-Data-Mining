@@ -1,0 +1,1 @@
+{"text": "Excellent fit for 6ft, 180lb man. Material is a little coarse. .attracts cat hair and lint like crazy but maybe after a few washes that will diminish. I'm pleased with these scrubs and would recommend.", "sentiment": "positive", "topics": {"0": "0.07913573", "1": "0.38753146", "2": "0.18994363", "3": "0.2000577", "4": "0.049042195", "5": "0.088063575"}}

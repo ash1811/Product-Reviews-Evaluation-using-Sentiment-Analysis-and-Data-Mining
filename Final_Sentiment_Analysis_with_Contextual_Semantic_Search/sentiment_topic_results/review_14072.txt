@@ -1,0 +1,1 @@
+{"text": "Loved this dress for our Prohibition party. Got a lot of compliments on how cute it was. It is of costume-quality so by the end of the night the red fringe were falling out, but I would highly recommend this for a costume party.", "sentiment": "negative", "topics": {"0": "0.24224669", "1": "0.345111", "5": "0.24316153", "6": "0.14992891"}}

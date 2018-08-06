@@ -1,0 +1,1 @@
+{"text": "nice concept but it doesn't look as good as it does in the picture. I won't return it but will need to get creative.", "sentiment": "positive", "topics": {"0": "0.014315158", "1": "0.44442225", "2": "0.01429488", "3": "0.014325717", "4": "0.12954447", "5": "0.014309257", "6": "0.36878824"}}

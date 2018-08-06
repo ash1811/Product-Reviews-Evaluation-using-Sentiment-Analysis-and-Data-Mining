@@ -1,0 +1,1 @@
+{"text": "They seem like they would stay put, but I never wear them because the form shows through all of my tank tops.", "sentiment": "negative", "topics": {"0": "0.011934776", "1": "0.011950164", "2": "0.1244637", "3": "0.32648382", "4": "0.35074338", "5": "0.011969723", "6": "0.16245446"}}

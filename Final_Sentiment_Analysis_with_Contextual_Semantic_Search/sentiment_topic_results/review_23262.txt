@@ -1,0 +1,1 @@
+{"text": "Support?  What support?  I have tank-tops that hold up my breasts better than this thing.  You buy Mandela because it is a trusted brand but this thing is cheap and flimsy as can be.", "sentiment": "negative", "topics": {"1": "0.27980736", "3": "0.33263236", "4": "0.08871295", "5": "0.08553697", "6": "0.19538923"}}

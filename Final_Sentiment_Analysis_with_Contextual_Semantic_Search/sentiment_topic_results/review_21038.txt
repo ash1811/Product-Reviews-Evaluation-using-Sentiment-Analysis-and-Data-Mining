@@ -1,0 +1,1 @@
+{"text": "I have several of these leggings and they a great. They are thick so you can see through them and long enough to cover the ankles. The color does not fade with washing. I recommend these leggings", "sentiment": "negative", "topics": {"1": "0.37607318", "4": "0.57618535"}}

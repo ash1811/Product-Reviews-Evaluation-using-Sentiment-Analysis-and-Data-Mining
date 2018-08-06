@@ -1,0 +1,1 @@
+{"text": "I've had these over a year now, they wear and fit just like the day I got them.  Very warm and comfortable, I don't find myself in the house during the winter without them on.", "sentiment": "negative", "topics": {"1": "0.5877319", "3": "0.37010744"}}

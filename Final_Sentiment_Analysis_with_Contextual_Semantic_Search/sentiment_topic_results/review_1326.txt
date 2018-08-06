@@ -1,0 +1,1 @@
+{"text": "This is my 4th pair, second in this style. Perfect for walking, wearing all day! Love the color!!!I absolutely cannot live without my Keens!", "sentiment": "positive", "topics": {"1": "0.293198", "2": "0.08894146", "3": "0.24115872", "5": "0.25257415", "6": "0.10618987"}}

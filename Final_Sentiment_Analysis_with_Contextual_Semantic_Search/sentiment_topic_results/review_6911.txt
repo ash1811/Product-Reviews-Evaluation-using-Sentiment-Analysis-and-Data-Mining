@@ -1,0 +1,1 @@
+{"text": "They look nice, I'm glad I got them.  I hope they have some pants with bigger side pockets. Feel nice too.", "sentiment": "positive", "topics": {"1": "0.3510397", "3": "0.45115402", "6": "0.1595744"}}

@@ -1,0 +1,1 @@
+{"text": "I'm very pleased with these shoes.  Since I wear a size 16, I am somewhat limited in my choices.  I lucked out with this one.", "sentiment": "negative", "topics": {"0": "0.011007261", "1": "0.26908365", "2": "0.25698197", "3": "0.26214468", "4": "0.011035597", "5": "0.17873463", "6": "0.0110122375"}}

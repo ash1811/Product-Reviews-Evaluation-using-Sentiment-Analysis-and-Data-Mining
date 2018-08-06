@@ -1,0 +1,1 @@
+{"text": "I am not used to spending this much on one pair if socks. But for certain shoes I have these are perfect. I like that there are size choices so I could choose my size, small. They are very comfortable and nicely cushioned.", "sentiment": "negative", "topics": {"1": "0.46046138", "2": "0.18945493", "3": "0.32135287"}}

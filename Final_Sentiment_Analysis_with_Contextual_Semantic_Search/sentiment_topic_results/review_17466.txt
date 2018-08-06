@@ -1,0 +1,1 @@
+{"text": "These boots are so comfortable. I can wear them with skirts, dresses or pants. I have skinny calves and these fit perfectly.", "sentiment": "positive", "topics": {"0": "0.01299273", "1": "0.55175376", "2": "0.012990162", "3": "0.106257364", "4": "0.28999302", "5": "0.013020127", "6": "0.012992883"}}

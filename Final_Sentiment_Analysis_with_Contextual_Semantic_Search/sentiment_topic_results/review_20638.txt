@@ -1,0 +1,1 @@
+{"text": "It arrived quickly and the directions were easy to follow.  I will buy again if I decide to change color on another pair of shoes.", "sentiment": "negative", "topics": {"0": "0.095165335", "1": "0.228732", "2": "0.26737767", "3": "0.15411082", "4": "0.01101638", "5": "0.011140119", "6": "0.2324577"}}

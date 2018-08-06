@@ -1,0 +1,1 @@
+{"text": "Comfortable for everyday.  Wears and cleans well.", "sentiment": "negative", "topics": {"0": "0.023830947", "1": "0.6983179", "2": "0.02382146", "3": "0.02384324", "4": "0.18249595", "5": "0.023875017", "6": "0.02381552"}}

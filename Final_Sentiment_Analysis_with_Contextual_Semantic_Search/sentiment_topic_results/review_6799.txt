@@ -1,0 +1,1 @@
+{"text": "The is the a lovely shirt  the colour is great the quality is wonderful,it fits good only thing is I wish it had a pocket.", "sentiment": "positive", "topics": {"0": "0.011918339", "1": "0.7379962", "2": "0.011935109", "3": "0.0119145475", "4": "0.105370075", "5": "0.10894114", "6": "0.011924591"}}

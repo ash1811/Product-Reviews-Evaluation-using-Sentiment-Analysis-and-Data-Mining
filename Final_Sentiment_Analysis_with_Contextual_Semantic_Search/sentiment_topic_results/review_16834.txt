@@ -1,0 +1,1 @@
+{"text": "i love my crocs. Ive had them for years and they're still good. They're comfortable and last a long time", "sentiment": "negative", "topics": {"0": "0.011010101", "1": "0.23810267", "2": "0.010993106", "3": "0.21393889", "4": "0.1250043", "5": "0.38995975", "6": "0.010991157"}}

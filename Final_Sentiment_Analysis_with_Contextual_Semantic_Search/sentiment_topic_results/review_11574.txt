@@ -1,0 +1,1 @@
+{"text": "Wonderful pajamas that make me feel feminine and pretty.  Very comfortable and practical.  Sleeping is a dream.  They don't bunch up or twist.  Very lightweight.", "sentiment": "negative", "topics": {"0": "0.14297223", "1": "0.12070375", "2": "0.08687785", "3": "0.15749538", "4": "0.1056966", "5": "0.010216051", "6": "0.37603816"}}

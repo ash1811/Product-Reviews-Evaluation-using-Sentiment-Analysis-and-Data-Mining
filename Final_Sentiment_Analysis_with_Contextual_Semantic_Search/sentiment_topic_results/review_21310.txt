@@ -1,0 +1,1 @@
+{"text": "I have a pair of see though shoes that I was walking out of.  I put the flesh colored petals on the back of the shoes  and they blended in nicely.  Now I no longer walk out of them.", "sentiment": "positive", "topics": {"1": "0.20908958", "2": "0.29610828", "4": "0.17785956", "5": "0.23336588", "6": "0.067634344"}}

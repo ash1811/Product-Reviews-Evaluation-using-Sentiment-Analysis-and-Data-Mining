@@ -1,0 +1,1 @@
+{"text": "Got a great deal on these from Amazon.  Husband says they are comfortable.  Bought 2 pair, one for work and one for play.  Holding up well after a month of winter weather and outdoor work.", "sentiment": "positive", "topics": {"0": "0.06941357", "1": "0.39728907", "3": "0.08326285", "4": "0.33392885", "6": "0.10308788"}}

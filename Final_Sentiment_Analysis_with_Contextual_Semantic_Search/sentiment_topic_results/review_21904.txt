@@ -1,0 +1,1 @@
+{"text": "I really appreciate that they have large sizes for men's big feet.  My problem was that the toe sizes were still too narrow.  Also the length of the smaller three toes of the socks was much longer than my actual toes so they rolled under my feet.", "sentiment": "negative", "topics": {"1": "0.40603748", "3": "0.30790603", "4": "0.10671534", "5": "0.16214773"}}

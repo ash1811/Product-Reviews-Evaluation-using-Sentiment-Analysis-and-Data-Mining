@@ -1,0 +1,1 @@
+{"text": "I have many kinds and colours of 524 jeans and will buy again :) Usually buy 0 Medium for 88-65-88 (sm), fits perfect.", "sentiment": "negative", "topics": {"1": "0.47450432", "4": "0.15522383", "5": "0.3321219"}}

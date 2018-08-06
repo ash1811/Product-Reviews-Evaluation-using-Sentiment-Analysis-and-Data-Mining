@@ -1,0 +1,1 @@
+{"text": "Every Christmas and birthday I buy my Son a new pair of jeans.  Buying them on line made the job a little easier.", "sentiment": "negative", "topics": {"0": "0.13463075", "1": "0.36340508", "3": "0.19939241", "5": "0.12752104", "6": "0.15593944"}}

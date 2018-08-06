@@ -1,0 +1,1 @@
+{"text": "I am very pleased with the Wigwam socks. I have tried the fruits and other brands and they just don't compare. These fit well wear well and hold there shape longer then any other I've had so far.", "sentiment": "negative", "topics": {"1": "0.34400946", "2": "0.11175145", "3": "0.39395997", "5": "0.061387945", "6": "0.07206066"}}

@@ -1,0 +1,1 @@
+{"text": "It is very sparkly and has beautiful colors.  Good craftsmanship.  Shipping from this seller is very fast.  I will definitely buy from them again.", "sentiment": "negative", "topics": {"0": "0.23397684", "1": "0.2643831", "2": "0.011948913", "3": "0.06398819", "4": "0.31921393", "5": "0.011940301", "6": "0.09454871"}}

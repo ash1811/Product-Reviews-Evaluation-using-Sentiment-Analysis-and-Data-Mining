@@ -1,0 +1,1 @@
+{"text": "Loden is Green!!! Just wanted to make sure you knew since from the pictures I expected a grayish color. Nice pants. I like the leather on the pocket to protect it when you clip anything to it like a measuring tape.", "sentiment": "negative", "topics": {"0": "0.11332282", "1": "0.30725244", "2": "0.32560933", "3": "0.18090352", "4": "0.06045331"}}

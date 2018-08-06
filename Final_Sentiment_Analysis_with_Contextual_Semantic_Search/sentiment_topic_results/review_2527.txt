@@ -1,0 +1,1 @@
+{"text": "Overall good shoes. But they are much stiffer and tighter than my other pair. Maybe the leather will stretch out and become softer after a few wears.", "sentiment": "negative", "topics": {"0": "0.010258562", "1": "0.01027713", "2": "0.21456143", "3": "0.56634384", "4": "0.010268001", "5": "0.010253535", "6": "0.17803752"}}

@@ -1,0 +1,1 @@
+{"text": "This bra is very comfortable and it fits perfect! Sometimes when ordering a bra, the sizing can be off, not this bra it is exactly the size in the cup and around, so no guessing!", "sentiment": "positive", "topics": {"0": "0.16762815", "1": "0.27109125", "2": "0.07445027", "3": "0.45998475"}}

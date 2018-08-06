@@ -1,0 +1,1 @@
+{"text": "Cool, stylish, comfortable classic shoes. Fits the look for casual wear or slightly dressed up, can almost double as a sneaker and a dressier shoes. very comfortable for work as well.", "sentiment": "positive", "topics": {"0": "0.12072765", "1": "0.35111594", "2": "0.27873203", "5": "0.16093759", "6": "0.074861415"}}

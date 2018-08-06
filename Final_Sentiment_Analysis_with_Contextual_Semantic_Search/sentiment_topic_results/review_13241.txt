@@ -1,0 +1,1 @@
+{"text": "If I bought this I don't know what happened to it.  Didn't wear it.", "sentiment": "negative", "topics": {"0": "0.31526956", "1": "0.020510837", "2": "0.020460378", "3": "0.42893416", "4": "0.17385404", "5": "0.020511016", "6": "0.020459993"}}

@@ -1,0 +1,1 @@
+{"text": "The watch is very beautiful and shiny. I love it so much. Never regret buying it.Love Skagen my favorite new brand.", "sentiment": "negative", "topics": {"0": "0.12669383", "1": "0.0102362195", "2": "0.17776771", "3": "0.22248639", "4": "0.33552057", "5": "0.010253981", "6": "0.117041335"}}

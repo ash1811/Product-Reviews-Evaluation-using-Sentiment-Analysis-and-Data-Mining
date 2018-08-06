@@ -1,0 +1,1 @@
+{"text": "the band is a bit too narrow, but its a nice looking boxer, very fitting and stays well in shape, even after an active day", "sentiment": "positive", "topics": {"0": "0.010290303", "1": "0.5182343", "2": "0.010239416", "3": "0.0102683725", "4": "0.2554701", "5": "0.010268614", "6": "0.18522884"}}

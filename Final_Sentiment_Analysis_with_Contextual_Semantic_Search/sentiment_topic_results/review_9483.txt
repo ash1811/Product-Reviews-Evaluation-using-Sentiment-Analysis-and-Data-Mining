@@ -1,0 +1,1 @@
+{"text": "poor quality. the costume came in pieces. i had to pretty much assemble the whole thing by myself. the hood was not attached to the shirt. the little black ties where not attached either and kept sliding off arms and legs.", "sentiment": "positive", "topics": {"0": "0.13229863", "1": "0.3438935", "2": "0.1011068", "3": "0.14738823", "4": "0.1902119", "6": "0.07913611"}}

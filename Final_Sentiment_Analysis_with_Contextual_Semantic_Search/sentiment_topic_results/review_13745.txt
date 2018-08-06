@@ -1,0 +1,1 @@
+{"text": "This is the second pair of these flip flops we've purchased and they are as expected. Our daughter loves them.", "sentiment": "negative", "topics": {"0": "0.013016549", "1": "0.53795516", "2": "0.23224649", "3": "0.013070678", "4": "0.013060313", "5": "0.17765938", "6": "0.012991427"}}

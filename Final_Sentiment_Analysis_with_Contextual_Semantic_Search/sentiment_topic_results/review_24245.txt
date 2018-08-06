@@ -1,0 +1,1 @@
+{"text": "Sent as a Birthday gift, and was excited to see the Lego watch. I am sure he will wear it and show all his buddys.", "sentiment": "negative", "topics": {"0": "0.2455644", "1": "0.012052902", "2": "0.51652664", "3": "0.13107508", "4": "0.07089923", "5": "0.011955122", "6": "0.011926592"}}

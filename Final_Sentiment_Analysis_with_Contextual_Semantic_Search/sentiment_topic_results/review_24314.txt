@@ -1,0 +1,1 @@
+{"text": "The look of this ring is very flattering and elegant. Size is good, stones look good too and are well held to the structure. Too bad it has no matching earrings. Won't disappoint you!", "sentiment": "negative", "topics": {"1": "0.6495253", "2": "0.058772758", "3": "0.104411386", "5": "0.08186564", "6": "0.089500815"}}

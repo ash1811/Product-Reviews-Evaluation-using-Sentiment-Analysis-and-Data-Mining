@@ -1,0 +1,1 @@
+{"text": "I have purchased several of these wind shirts. They are not constricting. They are VERY warm. I have spent MUCH more on other Wind Shirts that are NOT as good in quality as the Badger.", "sentiment": "negative", "topics": {"0": "0.01022183", "1": "0.6369189", "2": "0.010215745", "3": "0.19112043", "4": "0.010221689", "5": "0.010227625", "6": "0.1310738"}}

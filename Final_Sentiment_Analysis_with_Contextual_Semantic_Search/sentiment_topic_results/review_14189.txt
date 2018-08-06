@@ -1,0 +1,1 @@
+{"text": "great fit nice material wore them the same day they arrived will probably get a few more with different camo designs", "sentiment": "negative", "topics": {"0": "0.17248988", "1": "0.5221105", "2": "0.011005316", "3": "0.011018089", "4": "0.08937119", "5": "0.18296756", "6": "0.011037448"}}

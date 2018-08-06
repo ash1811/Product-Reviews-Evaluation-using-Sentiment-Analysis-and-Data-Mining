@@ -1,0 +1,1 @@
+{"text": "Fit is fine. Feel really good. Bought these because the ones. I have cut into Mr. These feel good and have that padded feeling without the bulky feel.", "sentiment": "positive", "topics": {"1": "0.46735698", "2": "0.16488758", "4": "0.1204426", "6": "0.22201693"}}

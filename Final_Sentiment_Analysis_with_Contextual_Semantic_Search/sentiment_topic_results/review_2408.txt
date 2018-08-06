@@ -1,0 +1,1 @@
+{"text": "excelente producto, muy linda y el producto 100% original, sencillamente encantada con la calidad, pronta entrega y sobre todo mi esposo muy contento, gracias", "sentiment": "negative", "topics": {"1": "0.14964876", "2": "0.13148846", "3": "0.22071119", "4": "0.09000384", "5": "0.25783318", "6": "0.14409885"}}

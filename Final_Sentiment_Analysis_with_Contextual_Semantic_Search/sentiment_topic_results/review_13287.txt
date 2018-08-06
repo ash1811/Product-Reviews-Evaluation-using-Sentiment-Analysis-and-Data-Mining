@@ -1,0 +1,1 @@
+{"text": "Box and shoe state 9.5 2E but fit like a 9.5 D.I couldn't get my foot in half way. Tbe material itself looks like it was worn out, faded. I am returning the shoes today for I'll full refund.", "sentiment": "negative", "topics": {"0": "0.076180495", "1": "0.27480677", "2": "0.19652614", "3": "0.21863401", "4": "0.09074119", "5": "0.06724018", "6": "0.07587125"}}

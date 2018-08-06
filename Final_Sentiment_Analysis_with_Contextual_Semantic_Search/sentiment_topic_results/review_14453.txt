@@ -1,0 +1,1 @@
+{"text": "My husband really likes these shoes.  He has trouble finding good shoes in his size and Rockport shoes not only fit perfect but look great.", "sentiment": "negative", "topics": {"1": "0.33644137", "2": "0.2771006", "3": "0.10865353", "4": "0.15633564", "5": "0.10354042"}}

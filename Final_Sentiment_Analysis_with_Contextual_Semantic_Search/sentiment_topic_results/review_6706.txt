@@ -1,0 +1,1 @@
+{"text": "Bought two for my 12 and 13 years old girls. They love this watch. The design is simple and clean. No worry about out-of-fashion as time goes by. This watch has 33-foot waterproof. For this price, I think it's a good buy.", "sentiment": "negative", "topics": {"0": "0.079630904", "1": "0.41046044", "2": "0.16002788", "3": "0.20885298", "6": "0.12955119"}}

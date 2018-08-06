@@ -1,0 +1,1 @@
+{"text": "The Shoo Goo arrived quickly and has done a great job repairing three pairs of shoes that I would have otherwise had to throw away!  Thank you!", "sentiment": "negative", "topics": {"0": "0.20575285", "1": "0.16022769", "2": "0.3585498", "3": "0.1847414", "4": "0.07482354"}}

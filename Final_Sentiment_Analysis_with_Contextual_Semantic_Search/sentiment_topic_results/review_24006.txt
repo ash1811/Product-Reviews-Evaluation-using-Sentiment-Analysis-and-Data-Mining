@@ -1,0 +1,1 @@
+{"text": "It's always good when you get a quality product for a good price. Not only are these socks heavy but they have a strong elastic band at the top designed to prevent slouchy socks!", "sentiment": "negative", "topics": {"0": "0.13428243", "1": "0.16705607", "3": "0.08859722", "4": "0.16024317", "5": "0.36307058", "6": "0.07880113"}}

@@ -1,0 +1,1 @@
+{"text": "this was almost a good fit, but too much material on the side and the cup size was just a tad too big, It would be nice if all the manufacturers could get together and have standard sizes!!!!!!!!!!!!!!!!!!", "sentiment": "negative", "topics": {"0": "0.07465485", "1": "0.43561736", "2": "0.06486818", "3": "0.14419071", "6": "0.265595"}}

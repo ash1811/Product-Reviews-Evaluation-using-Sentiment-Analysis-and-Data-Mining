@@ -1,0 +1,1 @@
+{"text": "She like the way they look, the way they fit and their comfort. So do I. She feels that there is no need to look around for anything else.", "sentiment": "positive", "topics": {"0": "0.010241418", "1": "0.19695774", "2": "0.18430254", "3": "0.19780731", "4": "0.010247889", "5": "0.01024497", "6": "0.39019814"}}

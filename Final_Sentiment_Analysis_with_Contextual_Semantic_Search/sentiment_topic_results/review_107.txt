@@ -1,0 +1,1 @@
+{"text": "Not the best fabric or deal at $29 (in Oct '12), but my son needed it soon. He needed a 2XT but settled for a 3XT. It shrunk a little in length. My son also thinks the neck opening is too tight.", "sentiment": "negative", "topics": {"1": "0.30882132", "3": "0.14448722", "4": "0.2396185", "5": "0.19846962", "6": "0.09666603"}}

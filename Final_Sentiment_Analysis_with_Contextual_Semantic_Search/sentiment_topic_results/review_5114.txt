@@ -1,0 +1,1 @@
+{"text": "These cushion my feet and they stay up. They also keep my fit warm. The sock is thick and won't fit into snug shoes which was to be expected. The work great in my regular shoes and hiking shoes.", "sentiment": "negative", "topics": {"0": "0.08206033", "1": "0.3423008", "2": "0.24775791", "4": "0.19041443", "6": "0.12376295"}}

@@ -1,0 +1,1 @@
+{"text": "I'm glad thy are still making this loafer. Good looking and comfortable, true to size and quick delivery. I had a pair a few years ago that are worn around the toe, so I feel lucky that I could replace them.", "sentiment": "negative", "topics": {"0": "0.058367897", "1": "0.48517892", "3": "0.17145053", "6": "0.26775092"}}

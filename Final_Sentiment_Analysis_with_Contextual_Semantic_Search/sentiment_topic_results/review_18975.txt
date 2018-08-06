@@ -1,0 +1,1 @@
+{"text": "Bra is comfy but not pretty AT ALL. I also think the cups are slightly large and seem to crease, strange because none of my other bras have this issue. It's comfy for work.", "sentiment": "positive", "topics": {"0": "0.11252728", "3": "0.45327213", "4": "0.18486641", "5": "0.22545454"}}

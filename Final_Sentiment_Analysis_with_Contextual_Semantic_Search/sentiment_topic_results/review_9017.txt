@@ -1,0 +1,1 @@
+{"text": "Great for work or every day! I wear them almost all the time (except when it snows). They are very comfortable and I get lots of complements about how cute they are. Love these shoes!!", "sentiment": "negative", "topics": {"1": "0.24510016", "2": "0.2366781", "5": "0.42550787", "6": "0.06883341"}}

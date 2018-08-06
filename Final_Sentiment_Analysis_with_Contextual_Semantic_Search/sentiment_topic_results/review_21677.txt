@@ -1,0 +1,1 @@
+{"text": "I love these earrings.  Well made and just the right size.  After I received them, I ordered the pendant and it is also very nice.  I am very pleased with the quality and value of my Amazon jewlery purchases.", "sentiment": "negative", "topics": {"1": "0.42723787", "3": "0.19999512", "4": "0.16258894", "5": "0.18756016"}}

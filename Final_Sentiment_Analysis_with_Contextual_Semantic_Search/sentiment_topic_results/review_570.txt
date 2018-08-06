@@ -1,0 +1,1 @@
+{"text": "I like the quality and fit. I would recommend and plan to purchase more if they have more pastel colors.", "sentiment": "negative", "topics": {"0": "0.014327796", "1": "0.77794325", "2": "0.014319611", "3": "0.014308369", "4": "0.014341524", "5": "0.15042835", "6": "0.014331083"}}

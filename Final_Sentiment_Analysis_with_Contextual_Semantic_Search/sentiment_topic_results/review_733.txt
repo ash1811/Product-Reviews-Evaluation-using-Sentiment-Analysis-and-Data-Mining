@@ -1,0 +1,1 @@
+{"text": "Very nice scrub pants. Tie front with elastic back. Nice charcoal color. Length runs longer than most. Too large eventho I always wear a medium. Had to return. Probably style that runs a little large.", "sentiment": "negative", "topics": {"0": "0.062410586", "1": "0.5397674", "2": "0.09600559", "3": "0.2283361", "6": "0.062463667"}}

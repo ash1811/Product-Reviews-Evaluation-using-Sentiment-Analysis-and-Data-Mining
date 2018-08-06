@@ -1,0 +1,1 @@
+{"text": "These guys have proven themselves in the prison system where the unexpected is expected. However, I don't recommend these guys in severe cold weather.", "sentiment": "negative", "topics": {"0": "0.09646154", "1": "0.011054837", "2": "0.30519903", "3": "0.011044098", "4": "0.3910807", "5": "0.17402676", "6": "0.011133028"}}

@@ -1,0 +1,1 @@
+{"text": "These are my go-to undies for everyday wear. A friend suggested them years ago and I've worn them ever since. They stay put without the sticky bands that some other brands use. Comfy, flattering.", "sentiment": "positive", "topics": {"0": "0.102813914", "3": "0.24860965", "4": "0.3356988", "5": "0.094359964", "6": "0.2054938"}}

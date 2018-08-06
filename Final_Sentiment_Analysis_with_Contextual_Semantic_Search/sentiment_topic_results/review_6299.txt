@@ -1,0 +1,1 @@
+{"text": "Makes your feet a lot warmer!  Very soft, non itchy, and comfortable also.  Wear it alone or with other socks.", "sentiment": "positive", "topics": {"0": "0.011004124", "1": "0.29950035", "2": "0.011002567", "3": "0.15032765", "4": "0.1544041", "5": "0.28332967", "6": "0.09043154"}}

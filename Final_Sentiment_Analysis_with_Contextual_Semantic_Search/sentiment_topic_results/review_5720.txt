@@ -1,0 +1,1 @@
+{"text": "the ones i got seem to be well made very comfy and they fit perfect previous review stated a little small so i ordered size up and came out good", "sentiment": "negative", "topics": {"1": "0.6377616", "6": "0.32232833"}}

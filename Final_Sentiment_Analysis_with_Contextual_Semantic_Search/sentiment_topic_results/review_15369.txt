@@ -1,0 +1,1 @@
+{"text": "I like to buy watches for gifts,they are a great gift.This watch,is great,easy to read,keeps great time.No complaints from anyone that I bought themfor presents.They love this watch!", "sentiment": "positive", "topics": {"0": "0.19494507", "1": "0.27887926", "2": "0.12789182", "3": "0.26695564", "5": "0.11626465"}}

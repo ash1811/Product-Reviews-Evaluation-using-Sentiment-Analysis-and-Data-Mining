@@ -1,0 +1,1 @@
+{"text": "As always keen is a good shoe.  This one, however,has a bad squeak in the left one that I can't find or get rid of", "sentiment": "negative", "topics": {"1": "0.306179", "2": "0.30487248", "6": "0.35075188"}}

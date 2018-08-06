@@ -1,0 +1,1 @@
+{"text": "Before I bought this pair this, I already a lot of comm...... and I felt people like , but after I got , i felt different, the sole very thin and is ok to keep.", "sentiment": "negative", "topics": {"1": "0.35623387", "2": "0.32576695", "3": "0.2842612"}}

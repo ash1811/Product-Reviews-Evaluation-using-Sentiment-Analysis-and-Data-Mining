@@ -1,0 +1,1 @@
+{"text": "Ok. So, my husband is a crocs lover. I bought these in hope he would like style/comfort. And, after wear and tear the crocs are still his favorite. Sorry Sanuk.", "sentiment": "negative", "topics": {"0": "0.19529057", "1": "0.1905999", "2": "0.09690481", "4": "0.15388782", "5": "0.2773062", "6": "0.07845213"}}

@@ -1,0 +1,1 @@
+{"text": "The fit is great and feels true to size.  They are so comfortable, almost as good as walking barefoot!  I would highly recommend these shoes to someone who does a lot of walking.", "sentiment": "negative", "topics": {"1": "0.3714596", "2": "0.18058656", "3": "0.1312859", "5": "0.29275316"}}

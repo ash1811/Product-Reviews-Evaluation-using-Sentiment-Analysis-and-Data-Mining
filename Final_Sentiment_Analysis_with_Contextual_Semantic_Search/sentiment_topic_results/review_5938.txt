@@ -1,0 +1,1 @@
+{"text": "These panties are very luxurious and silky.  I feel comfortable wearing them.  They seem to run a little large, so bear this in mind when ordering them.", "sentiment": "negative", "topics": {"1": "0.18246384", "2": "0.21568123", "3": "0.56602496"}}

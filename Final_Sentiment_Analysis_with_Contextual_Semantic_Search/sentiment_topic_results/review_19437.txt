@@ -1,0 +1,1 @@
+{"text": "Our son looked great.  Well made, looks like who you are supposed to be, and is still being played with.", "sentiment": "negative", "topics": {"0": "0.011016803", "1": "0.82777536", "2": "0.011005764", "3": "0.011013585", "4": "0.11715558", "5": "0.011011149", "6": "0.011021718"}}

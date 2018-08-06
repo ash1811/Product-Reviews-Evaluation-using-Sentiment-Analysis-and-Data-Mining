@@ -1,0 +1,1 @@
+{"text": "I like the style and the airflow is just right. Better than some other athletic mesh type shirts I've tried.", "sentiment": "positive", "topics": {"0": "0.36912492", "1": "0.17812479", "2": "0.011930889", "3": "0.40488937", "4": "0.011973898", "5": "0.011967343", "6": "0.011988762"}}

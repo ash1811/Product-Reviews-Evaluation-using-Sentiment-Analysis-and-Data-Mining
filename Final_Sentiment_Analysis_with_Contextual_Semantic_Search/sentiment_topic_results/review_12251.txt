@@ -1,0 +1,1 @@
+{"text": "I needed slippers to match a navy, terry bathrobe, and these are perfect.  They are not your typical slipper; they have features that support the foot like a good shoe. I highly recommend this purchase.", "sentiment": "positive", "topics": {"2": "0.10464697", "3": "0.09828545", "4": "0.27617767", "5": "0.16230464", "6": "0.34347314"}}

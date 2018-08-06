@@ -1,0 +1,1 @@
+{"text": "I've always worn Levis jeans.They just fit my body type the best and last many many years. The last pair I purchased was around ten years ago. I'm a dedicated customer.", "sentiment": "negative", "topics": {"0": "0.18748643", "1": "0.2215864", "3": "0.123265564", "4": "0.24980348", "6": "0.2059067"}}

@@ -1,0 +1,1 @@
+{"text": "Love these. First time purchasing, fit well and comfortably.  They seem well made much better than multipack undies from a box store.  Flattering and wash and dry well. Pefect everyday functional underwear.", "sentiment": "negative", "topics": {"0": "0.12319663", "1": "0.3115459", "4": "0.20691408", "5": "0.22424148", "6": "0.123066634"}}

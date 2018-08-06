@@ -1,0 +1,1 @@
+{"text": "I already had a pair of these in plain black leather but I love them so much I wear them all the time.  I decided to change it up a little and got the patent leather ones.  They are soooo cute!!!  Next on my list are the red patent leather ones.", "sentiment": "positive", "topics": {"2": "0.3985989", "3": "0.37391332", "5": "0.20454276"}}

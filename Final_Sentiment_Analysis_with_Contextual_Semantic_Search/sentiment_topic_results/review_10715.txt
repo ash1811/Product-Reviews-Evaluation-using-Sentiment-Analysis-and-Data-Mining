@@ -1,0 +1,1 @@
+{"text": "wore them twice and sold them on ebay. left one fit and felt good but the right one was somewhat crooked.", "sentiment": "positive", "topics": {"0": "0.09382973", "1": "0.37376148", "2": "0.33496633", "3": "0.0102233365", "4": "0.010233743", "5": "0.01026833", "6": "0.16671705"}}

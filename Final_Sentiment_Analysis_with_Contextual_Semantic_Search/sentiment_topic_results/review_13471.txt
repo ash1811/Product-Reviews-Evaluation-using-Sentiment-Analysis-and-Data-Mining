@@ -1,0 +1,1 @@
+{"text": "I put them on and kept them on all day,they are so comfortable.I should have gotten them a long time ago.", "sentiment": "positive", "topics": {"0": "0.015911732", "1": "0.3897964", "2": "0.01587914", "3": "0.015882459", "4": "0.19057998", "5": "0.23784712", "6": "0.13410315"}}

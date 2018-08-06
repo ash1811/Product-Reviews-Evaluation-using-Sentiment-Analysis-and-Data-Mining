@@ -1,0 +1,1 @@
+{"text": "This coverup is a very thin material and the designs were full of untrimmed strings.  When it arrived, it had loose dirt on it as if had been untouched in a warehouse for a while.  I wanted it to be a little better quality.", "sentiment": "negative", "topics": {"0": "0.35055444", "1": "0.20248026", "2": "0.27273527", "4": "0.11243796", "5": "0.045883168"}}

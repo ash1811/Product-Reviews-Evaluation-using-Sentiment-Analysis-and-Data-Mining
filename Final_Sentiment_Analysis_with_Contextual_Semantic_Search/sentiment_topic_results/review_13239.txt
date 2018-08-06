@@ -1,0 +1,1 @@
+{"text": "I think it is meant for someone without hips.  Which is not cool.  I was dissatisfied. Also not a fan of the back, weird pattern/design.", "sentiment": "negative", "topics": {"0": "0.22055875", "1": "0.011049309", "2": "0.011002585", "3": "0.09672911", "4": "0.18559763", "5": "0.38986927", "6": "0.08519331"}}

@@ -1,0 +1,1 @@
+{"text": "I don't know how else to describe these! I bought them last year and they're perfect! Soft, warm, comfy, and durable! Definitely one of the best buys I've made!", "sentiment": "negative", "topics": {"1": "0.38841724", "2": "0.13842402", "3": "0.22612686", "5": "0.22552647"}}

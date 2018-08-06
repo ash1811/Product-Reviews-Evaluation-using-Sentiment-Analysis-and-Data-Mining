@@ -1,0 +1,1 @@
+{"text": "It is delicately made, as described. It is worth. The package was carefully done.  I have given it as a gift to my husband. He likes it.", "sentiment": "negative", "topics": {"0": "0.25439274", "1": "0.22235721", "2": "0.3783191", "3": "0.01108314", "4": "0.11175715", "5": "0.011080144", "6": "0.011010518"}}

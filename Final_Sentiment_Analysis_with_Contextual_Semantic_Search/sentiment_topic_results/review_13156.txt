@@ -1,0 +1,1 @@
+{"text": "These gloves are well designed & inexpensive...I was impressed with the quality, for such an outstanding price.  I will definitely be buying more.  Thanks!", "sentiment": "negative", "topics": {"0": "0.011040771", "1": "0.20744649", "2": "0.123873815", "3": "0.1929484", "4": "0.1755003", "5": "0.27817303", "6": "0.011017174"}}

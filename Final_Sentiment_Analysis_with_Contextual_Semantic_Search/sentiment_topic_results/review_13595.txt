@@ -1,0 +1,1 @@
+{"text": "Wife wanted these to go with a necklace that she has. She pointed them out to me so i got them for her as a surprise sometime later. Looks good and feels sturdy.", "sentiment": "positive", "topics": {"1": "0.3506822", "2": "0.110491425", "4": "0.13659741", "6": "0.3735279"}}

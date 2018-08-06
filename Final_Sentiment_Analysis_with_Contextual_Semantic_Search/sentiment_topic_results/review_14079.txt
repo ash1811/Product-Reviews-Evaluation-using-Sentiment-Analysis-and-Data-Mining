@@ -1,0 +1,1 @@
+{"text": "I received the tool in perfect condition.  Looks good and sturdy and a great wooden storage box.  However, it does not come with instructions.  Beware, if you're a beginner.", "sentiment": "negative", "topics": {"1": "0.3537074", "2": "0.19722275", "4": "0.1349051", "5": "0.22326066", "6": "0.07402063"}}

@@ -1,0 +1,1 @@
+{"text": "I wear an unusual shoe size, and Trotters is one of the few shoes that can fit me.  I've been buying them for years and have always been pleased.", "sentiment": "negative", "topics": {"1": "0.22303137", "2": "0.34312868", "3": "0.39558664"}}

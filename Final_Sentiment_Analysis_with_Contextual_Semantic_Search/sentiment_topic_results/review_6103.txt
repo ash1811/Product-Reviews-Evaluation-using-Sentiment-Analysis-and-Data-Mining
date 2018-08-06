@@ -1,0 +1,1 @@
+{"text": "Bought these for my 12 lb baby and they are way too big! The neckline is far too open so both of her shoulders end up hanging out of the top. I'm sure in a few months they will fit, but definitely not true to size.", "sentiment": "positive", "topics": {"0": "0.064484656", "1": "0.2767222", "2": "0.092373855", "3": "0.47475243", "6": "0.07800594"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these as my recently broken foot was still getting sore. These seem to have done the trick and it isn't sore anymore as long as I wear the shoes with these insoles. It's time to invest in a couple more pairs of insoles!", "sentiment": "negative", "topics": {"1": "0.32771885", "2": "0.13935061", "3": "0.0920407", "4": "0.36252406", "5": "0.06536435"}}

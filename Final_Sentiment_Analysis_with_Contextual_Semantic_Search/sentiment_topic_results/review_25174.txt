@@ -1,0 +1,1 @@
+{"text": "I have bought Jockey for years and know that the quality has endured through the years.  The price is excellent and they stand behind their products.  I would highly recommend this product to others.", "sentiment": "negative", "topics": {"1": "0.25072747", "2": "0.08985829", "3": "0.18921839", "4": "0.08142464", "5": "0.37286797"}}

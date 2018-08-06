@@ -1,0 +1,1 @@
+{"text": "WAS EXPECTING LOOSE FITTING JEANS AND THEY ARE NOT", "sentiment": "negative", "topics": {"0": "0.028612986", "1": "0.02871648", "2": "0.02883194", "3": "0.028655613", "4": "0.028729815", "5": "0.82777035", "6": "0.028682802"}}

@@ -1,0 +1,1 @@
+{"text": "I love this watch.  10 year battery and I don't have  the set the thing  for a 28, 30 or 31 day month.  It's good  until 2099.  Lots of other features as well.", "sentiment": "positive", "topics": {"1": "0.39344567", "2": "0.19105582", "4": "0.38364697"}}

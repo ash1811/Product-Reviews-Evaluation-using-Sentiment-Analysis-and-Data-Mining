@@ -1,0 +1,1 @@
+{"text": "They fit pretty good, I didn't have any problems with the material snagging or tearing. I would wear them under clothing, not", "sentiment": "positive", "topics": {"0": "0.17510314", "1": "0.6113611", "2": "0.013006779", "3": "0.16151531", "4": "0.012998448", "5": "0.0130156465", "6": "0.012999561"}}

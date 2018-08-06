@@ -1,0 +1,1 @@
+{"text": "Very pretty costume ,granddaughter don't want take it off ,she truly loves it ,would buy another sometime soon, recommend for anyone ,truly beautiful.", "sentiment": "negative", "topics": {"0": "0.35860816", "1": "0.22757922", "2": "0.11238754", "4": "0.27750283"}}

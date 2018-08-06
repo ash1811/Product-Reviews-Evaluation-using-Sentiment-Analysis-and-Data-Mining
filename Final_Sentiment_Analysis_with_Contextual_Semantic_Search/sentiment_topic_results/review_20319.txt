@@ -1,0 +1,1 @@
+{"text": "My daughter has wanted these for awhile and I know she hikes and takes on mountains.  Fit is comfortable and sturdy.  Looking forward to reviews when they are taken out for a spin.  Keens are always a good call!", "sentiment": "positive", "topics": {"0": "0.1567113", "1": "0.48111945", "5": "0.16844757", "6": "0.17223397"}}

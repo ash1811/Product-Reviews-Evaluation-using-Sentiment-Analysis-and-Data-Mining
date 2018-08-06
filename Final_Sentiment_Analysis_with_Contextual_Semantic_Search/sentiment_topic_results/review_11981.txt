@@ -1,0 +1,1 @@
+{"text": "I love hanes socks and etc. but these socks fit alil snug around the ankles but they will do because I bought them for work.", "sentiment": "negative", "topics": {"0": "0.011002438", "1": "0.38407117", "2": "0.10206704", "3": "0.011048959", "4": "0.1462021", "5": "0.23201391", "6": "0.11359442"}}

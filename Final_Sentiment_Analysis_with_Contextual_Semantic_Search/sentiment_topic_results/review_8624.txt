@@ -1,0 +1,1 @@
+{"text": "Carhartt jeans are the best in my book. Been wearing this cut for years and probably will for many more. reasonably priced jeans that wear well. I'm a cheapskate at heart...these are right up my alley!", "sentiment": "positive", "topics": {"0": "0.07497545", "1": "0.40706176", "2": "0.05622169", "4": "0.1431571", "5": "0.30495057"}}

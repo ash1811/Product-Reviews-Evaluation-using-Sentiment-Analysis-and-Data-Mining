@@ -1,0 +1,1 @@
+{"text": "My son requested these...says he can wear them all day long and his feet don't hurt.  That says a lot since he broke the bones in the top of one of his foot not once, but twice and it still bothers him.  Easy to care for.", "sentiment": "positive", "topics": {"1": "0.19506523", "2": "0.06782349", "3": "0.19673686", "4": "0.09718183", "5": "0.1564564", "6": "0.280959"}}

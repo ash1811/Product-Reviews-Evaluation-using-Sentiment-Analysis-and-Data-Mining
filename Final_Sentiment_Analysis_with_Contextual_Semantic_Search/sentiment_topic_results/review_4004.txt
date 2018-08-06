@@ -1,0 +1,1 @@
+{"text": "Bought for my wife who loved everything about them other than that the sizes sem to run about 1/2 size smaller than listed.", "sentiment": "negative", "topics": {"0": "0.16891125", "1": "0.08770413", "2": "0.10696683", "3": "0.4408976", "4": "0.011934657", "5": "0.011938086", "6": "0.17164744"}}

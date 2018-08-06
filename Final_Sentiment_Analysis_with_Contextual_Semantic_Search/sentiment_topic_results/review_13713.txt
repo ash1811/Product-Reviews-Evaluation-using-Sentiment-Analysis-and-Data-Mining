@@ -1,0 +1,1 @@
+{"text": "I love these so much. When my last pair died, I bought them here. When that pair dies, I'll buy more. I hope they never stop making them.", "sentiment": "positive", "topics": {"1": "0.15842478", "2": "0.09997774", "3": "0.39159283", "5": "0.29098737", "6": "0.043081723"}}

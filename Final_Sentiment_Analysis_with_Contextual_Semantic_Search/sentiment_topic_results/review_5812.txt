@@ -1,0 +1,1 @@
+{"text": "My husband likes to keep warm in the winter, and this undershirt fits the bill.  It is comfortable, and a good weight.", "sentiment": "negative", "topics": {"0": "0.011930529", "1": "0.700319", "2": "0.0119270785", "3": "0.011949126", "4": "0.123167686", "5": "0.12876076", "6": "0.011945873"}}

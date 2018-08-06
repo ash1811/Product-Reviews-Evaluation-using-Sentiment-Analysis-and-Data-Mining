@@ -1,0 +1,1 @@
+{"text": "This dye works well on leather. It's easy to use and requires no mixing. Made the straps on my handbag look new again.", "sentiment": "negative", "topics": {"2": "0.29857302", "3": "0.3517397", "4": "0.31145942"}}

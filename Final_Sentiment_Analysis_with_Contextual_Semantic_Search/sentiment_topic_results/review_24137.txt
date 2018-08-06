@@ -1,0 +1,1 @@
+{"text": "Normally bras in my size cost $75 - this one is a fraction of the price and is more comfortable and fits great. I don't really have bounce issues, and after tightening the straps it was perfect. I am thrilled to have found this new brand!", "sentiment": "negative", "topics": {"0": "0.06814248", "1": "0.33491528", "2": "0.14937861", "3": "0.3208757", "5": "0.11365535"}}

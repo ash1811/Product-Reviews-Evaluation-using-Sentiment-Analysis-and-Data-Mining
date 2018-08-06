@@ -1,0 +1,1 @@
+{"text": "The men in my life all work outside and need to be kept warm, this product does the trick.", "sentiment": "positive", "topics": {"0": "0.014301998", "1": "0.5805946", "2": "0.014313574", "3": "0.014314843", "4": "0.10547702", "5": "0.14407663", "6": "0.12692134"}}

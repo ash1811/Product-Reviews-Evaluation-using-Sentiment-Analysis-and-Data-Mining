@@ -1,0 +1,1 @@
+{"text": "With Levi's, you usually get what you expect and this was no exception. There were more color options than found in a store. Great jeans at a great price.", "sentiment": "negative", "topics": {"0": "0.1254978", "1": "0.27462068", "2": "0.010210209", "3": "0.010221154", "4": "0.010233805", "5": "0.39959756", "6": "0.16961877"}}

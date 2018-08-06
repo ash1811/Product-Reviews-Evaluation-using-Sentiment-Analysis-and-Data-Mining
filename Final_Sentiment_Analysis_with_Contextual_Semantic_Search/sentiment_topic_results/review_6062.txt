@@ -1,0 +1,1 @@
+{"text": "These are really comfortable, warm, houseslippers, which can be worn outdoors too. They are adustable to fit almost any foot in the size range. I am very satisfied.", "sentiment": "negative", "topics": {"1": "0.37914166", "2": "0.21007365", "4": "0.06605287", "5": "0.09882093", "6": "0.22680025"}}

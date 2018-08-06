@@ -1,0 +1,1 @@
+{"text": "Since hearts is my favorite charm I am having it done into &#34;grandmas charm bracelet&#34;.  Can't wait to see it my jeweler will surprise me.", "sentiment": "negative", "topics": {"2": "0.2121865", "4": "0.40904805", "5": "0.23850623", "6": "0.11156995"}}

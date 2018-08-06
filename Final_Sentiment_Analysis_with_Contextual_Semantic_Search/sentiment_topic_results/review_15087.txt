@@ -1,0 +1,1 @@
+{"text": "I have tried many walking shoes over time. This shoe fits me best and is the most comfortable shoe out of so many shoes I have purchased. I wear this when I know I am going to be on my feet and need comfort.", "sentiment": "negative", "topics": {"1": "0.34822276", "2": "0.22626948", "4": "0.26466727", "6": "0.13932703"}}

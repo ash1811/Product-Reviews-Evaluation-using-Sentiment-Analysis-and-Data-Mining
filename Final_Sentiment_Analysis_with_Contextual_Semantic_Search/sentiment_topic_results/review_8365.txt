@@ -1,0 +1,1 @@
+{"text": "Really comfy. So happy to have a pair of flats that don't rub in the heels. Just bought my 3rd pair! I wear them into the ground!", "sentiment": "negative", "topics": {"0": "0.011009645", "1": "0.5477477", "2": "0.011026425", "3": "0.3971576", "4": "0.011022841", "5": "0.011014883", "6": "0.011020954"}}

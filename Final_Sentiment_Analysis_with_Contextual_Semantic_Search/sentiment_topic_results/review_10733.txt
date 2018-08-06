@@ -1,0 +1,1 @@
+{"text": "Poor arch support. Didn't expect this from New balance. This is the worst shoe I ever bought. Hurts the feet after 20mins", "sentiment": "negative", "topics": {"0": "0.14875028", "1": "0.010220627", "2": "0.09731963", "3": "0.6406404", "4": "0.010254746", "5": "0.0102670975", "6": "0.08254725"}}

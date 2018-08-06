@@ -1,0 +1,1 @@
+{"text": "These socks are really comfy and the color doesn't fade after many washes which usually happens with black socks.  I love them.", "sentiment": "negative", "topics": {"0": "0.010216869", "1": "0.17932667", "2": "0.010233285", "3": "0.33890513", "4": "0.1219477", "5": "0.32915115", "6": "0.010219186"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this watch about a year ago as a gift for my boyfriend. He LOVED it, it has many gadgets and uses, he was very pleased with it and it looks amazing. I highly recommend it. So far no flaws or malfunction.", "sentiment": "negative", "topics": {"0": "0.1564705", "1": "0.2169525", "2": "0.16262807", "4": "0.14906657", "5": "0.25018764", "6": "0.05787056"}}

@@ -1,0 +1,1 @@
+{"text": "I love this umbrella. It looks great and works great. I've always wanted a long umbrella like this and I finally have one!The reason I give it 4/5  is the metal cap on the handle. It was loose. But very easy to glue!", "sentiment": "negative", "topics": {"0": "0.5070789", "2": "0.17474495", "3": "0.29424533"}}

@@ -1,0 +1,1 @@
+{"text": "I have size 13 feet and these seemed pretty snug.  Hopefully they'll loosen up.  The material is strong and comfortable.", "sentiment": "positive", "topics": {"0": "0.18383078", "1": "0.1155637", "2": "0.010220013", "3": "0.01024825", "4": "0.220409", "5": "0.15034555", "6": "0.3093827"}}

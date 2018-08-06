@@ -1,0 +1,1 @@
+{"text": "I bought these for my 91 year old dad, need him to be safe in the crazy Chicago winters.  Good quality and good price.", "sentiment": "negative", "topics": {"1": "0.58775747", "2": "0.081667654", "4": "0.108622566", "5": "0.12137587", "6": "0.08144124"}}

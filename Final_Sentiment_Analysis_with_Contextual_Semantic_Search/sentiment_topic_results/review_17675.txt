@@ -1,0 +1,1 @@
+{"text": "My son loves wearing this watch. It looks dressy but seems sturdy enough for his day in school. Plus it was one of the only digital watches we found that also has analog.", "sentiment": "positive", "topics": {"1": "0.27148694", "2": "0.24152979", "3": "0.12767074", "4": "0.18422364", "6": "0.1599847"}}

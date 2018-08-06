@@ -1,0 +1,1 @@
+{"text": "I purchased this for my mother, who loves cameo pendants and collects 'mother/baby' things.  I was very pleased with the quality of the work and how beautiful the colors were.  It is the right size to look elegant.", "sentiment": "positive", "topics": {"1": "0.49305844", "5": "0.23574884", "6": "0.24101059"}}

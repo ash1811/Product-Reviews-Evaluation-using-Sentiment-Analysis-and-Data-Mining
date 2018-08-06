@@ -1,0 +1,1 @@
+{"text": "Sorel boots are some of the best out there. This boot is warm, waterproof and big. It will work well in any winter conditions. Very comfortable to walk in and has good grip in snow.", "sentiment": "positive", "topics": {"1": "0.6132059", "3": "0.07819046", "4": "0.18987368", "5": "0.09490523"}}

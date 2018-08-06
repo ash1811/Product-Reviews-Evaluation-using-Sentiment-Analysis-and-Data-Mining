@@ -1,0 +1,1 @@
+{"text": "They Fit because I bought 1/2 size bigger thanks to reading someone's review prior to purchase.  They run small, otherwise a very comfortable and durable slipper.", "sentiment": "positive", "topics": {"1": "0.5186859", "3": "0.20113999", "5": "0.09661441", "6": "0.15969637"}}

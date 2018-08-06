@@ -1,0 +1,1 @@
+{"text": "Maternity hose were a lifesaver while I was pregnant with the twins. They seemed to be the only bit of undergarments that were not too tight and made me still feel comfortable to sit and stand in them.", "sentiment": "positive", "topics": {"0": "0.09045331", "1": "0.3113014", "2": "0.11993081", "3": "0.19597487", "4": "0.1772238", "6": "0.096672215"}}

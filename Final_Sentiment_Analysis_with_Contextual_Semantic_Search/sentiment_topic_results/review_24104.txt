@@ -1,0 +1,1 @@
+{"text": "It is a great fitting bra the only problem is I have a bad left shoulder and to snap it on gives me a problem,  because it does hold me just tough to pull together. Also wishes it came in different colors. Thank you", "sentiment": "positive", "topics": {"0": "0.11386581", "1": "0.23771268", "2": "0.17963628", "3": "0.18782373", "4": "0.10752543", "6": "0.16656515"}}

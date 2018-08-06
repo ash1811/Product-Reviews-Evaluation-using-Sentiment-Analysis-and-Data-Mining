@@ -1,0 +1,1 @@
+{"text": "comfortable, light and feels like you're wearing nothing&#8230;.just one thing&#8230;Clark's itself should recommend what kind of socks one should wear with them. I like other colors, but I don't want to be greedy ..", "sentiment": "negative", "topics": {"1": "0.22378728", "2": "0.3293005", "5": "0.4166855"}}

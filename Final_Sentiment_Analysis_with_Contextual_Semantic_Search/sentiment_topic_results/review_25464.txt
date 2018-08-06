@@ -1,0 +1,1 @@
+{"text": "I got this to replace a worn-out pair of slippers. This pair fits perfectly and I am a size 14. They're soft and comfortable and warm.", "sentiment": "negative", "topics": {"0": "0.054124847", "1": "0.48092827", "3": "0.20345041", "4": "0.09311296", "6": "0.14927554"}}

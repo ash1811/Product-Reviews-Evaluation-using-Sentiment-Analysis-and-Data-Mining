@@ -1,0 +1,1 @@
+{"text": "These are pretty good shoes. I ended up getting the Black and Red ones in size 11. They fit well lengthwise but a little on the narrow side. Bought them elsewhere since they were a little cheaper than on here.", "sentiment": "positive", "topics": {"1": "0.43659464", "2": "0.14622407", "4": "0.13909924", "6": "0.25933722"}}

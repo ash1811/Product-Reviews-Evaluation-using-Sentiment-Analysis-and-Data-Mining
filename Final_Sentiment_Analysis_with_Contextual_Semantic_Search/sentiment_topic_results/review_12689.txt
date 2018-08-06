@@ -1,0 +1,1 @@
+{"text": "Comfortable and supporting. This is the second I've purchased. Fits well in back - no bulge over the top. Very flattering shape. People complimented me on my 'weight loss' the first day I wore it.", "sentiment": "negative", "topics": {"1": "0.53974247", "2": "0.06544686", "3": "0.29507977", "5": "0.0792662"}}

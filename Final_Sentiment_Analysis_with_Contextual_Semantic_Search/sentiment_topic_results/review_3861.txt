@@ -1,0 +1,1 @@
+{"text": "I ordered this item two weeks after giving birth.  I followed the guidelines but purchased a size too big.  I think I would of been better off with the size &#34;E&#34;.", "sentiment": "negative", "topics": {"0": "0.16980672", "1": "0.2563798", "2": "0.11100775", "3": "0.32035777", "6": "0.1256279"}}

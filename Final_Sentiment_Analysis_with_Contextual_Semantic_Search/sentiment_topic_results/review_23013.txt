@@ -1,0 +1,1 @@
+{"text": "Bought these for my boyfriend who's a 30 waist. The small fit a little big, but he loves the feel of them & the ease of wearing them.", "sentiment": "negative", "topics": {"1": "0.3304346", "2": "0.24647458", "4": "0.28271943", "5": "0.111679666"}}

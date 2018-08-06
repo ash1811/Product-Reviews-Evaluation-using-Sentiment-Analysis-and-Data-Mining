@@ -1,0 +1,1 @@
+{"text": "This is my second pair of KEEN sandals and it will not be my last.  They fit perfectly and are so comfortable.  I wear them in and out of the water as well, and they give me secure and confident footing on wet, slippery surfaces.", "sentiment": "positive", "topics": {"0": "0.11040462", "1": "0.5160365", "2": "0.14227918", "3": "0.15541211", "6": "0.060747385"}}

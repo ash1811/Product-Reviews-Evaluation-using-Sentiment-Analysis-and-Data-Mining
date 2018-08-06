@@ -1,0 +1,1 @@
+{"text": "My daughter was in love w/this for about 5 mins (she's 2)...then she threw everything all over the place & never looked at it again.  Maybe I'll put it away & regift it to her next year.", "sentiment": "negative", "topics": {"0": "0.2756301", "1": "0.11931007", "2": "0.15441784", "3": "0.13877726", "4": "0.23762889", "6": "0.06740951"}}

@@ -1,0 +1,1 @@
+{"text": "Love it and so does my hubby. would purchase one in every color if available. great quality for the price.", "sentiment": "negative", "topics": {"0": "0.011938463", "1": "0.74063635", "2": "0.011960517", "3": "0.011926713", "4": "0.011981157", "5": "0.19964759", "6": "0.011909225"}}

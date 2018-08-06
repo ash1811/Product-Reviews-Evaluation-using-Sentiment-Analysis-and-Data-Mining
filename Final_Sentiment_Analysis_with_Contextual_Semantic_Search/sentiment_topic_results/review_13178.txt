@@ -1,0 +1,1 @@
+{"text": "Okay guys it's just a T-Shirt. You wear it as an under garment. Hanes made a T-Shirt without tags. Fantastic.", "sentiment": "negative", "topics": {"0": "0.11764724", "1": "0.62012386", "2": "0.011922389", "3": "0.0119216805", "4": "0.21451396", "5": "0.011924112", "6": "0.011946744"}}

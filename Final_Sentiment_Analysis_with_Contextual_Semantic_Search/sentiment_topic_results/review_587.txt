@@ -1,0 +1,1 @@
+{"text": "Comfortable wearing jeans, well made and not baggy on me. it seems like the material is very durable and I love the fit and price.", "sentiment": "negative", "topics": {"1": "0.7413864", "4": "0.21075363"}}

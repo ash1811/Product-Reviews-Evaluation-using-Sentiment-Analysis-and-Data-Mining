@@ -1,0 +1,1 @@
+{"text": "It has paid for itself since the swim diapers by Pampers is so expensive.  I feel good knowing I won't have to worry about a little poop escaping too!", "sentiment": "negative", "topics": {"0": "0.18473451", "1": "0.28486186", "4": "0.10383747", "5": "0.20117569", "6": "0.20629023"}}

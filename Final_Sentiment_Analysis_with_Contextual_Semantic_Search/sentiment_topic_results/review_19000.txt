@@ -1,0 +1,1 @@
+{"text": "this was bulky, bumpy, shaped weird.  It just did not work.  I do not recommend this product.  Returning right away!", "sentiment": "negative", "topics": {"0": "0.013002166", "1": "0.013014513", "2": "0.37742653", "3": "0.44665515", "4": "0.013030365", "5": "0.1238751", "6": "0.012996156"}}

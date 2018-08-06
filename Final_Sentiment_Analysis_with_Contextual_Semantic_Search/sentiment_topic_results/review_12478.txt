@@ -1,0 +1,1 @@
+{"text": "While I should have ordered a size smaller these sandals are super comfy.  Even wore them shopping and my feet didn't hurt.", "sentiment": "negative", "topics": {"0": "0.011968772", "1": "0.20210022", "2": "0.011973201", "3": "0.27267343", "4": "0.012010008", "5": "0.2887317", "6": "0.20054264"}}

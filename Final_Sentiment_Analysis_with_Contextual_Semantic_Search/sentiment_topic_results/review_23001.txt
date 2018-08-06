@@ -1,0 +1,1 @@
+{"text": "These shorts look and feel great! I'm 6'0&#34; and the mediums fit perfectly at the waist and right between the knees.", "sentiment": "negative", "topics": {"0": "0.29815254", "1": "0.53853476", "2": "0.011070196", "3": "0.011023381", "4": "0.11917489", "5": "0.011008077", "6": "0.011036201"}}

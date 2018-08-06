@@ -1,0 +1,1 @@
+{"text": "I am very happy with this backpack. It is well made and great organization.  I bought the black print with hot pink. I love the color.", "sentiment": "negative", "topics": {"0": "0.010230017", "1": "0.3541384", "2": "0.11521042", "3": "0.21097043", "4": "0.010250884", "5": "0.21723485", "6": "0.08196499"}}

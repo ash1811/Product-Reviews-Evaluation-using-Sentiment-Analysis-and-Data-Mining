@@ -1,0 +1,1 @@
+{"text": "These insoles extend the life of my athletic shoes and provide great support and comfort. I order these on a regular basis.", "sentiment": "negative", "topics": {"0": "0.09701633", "1": "0.21001658", "2": "0.12722726", "3": "0.011082411", "4": "0.2505318", "5": "0.12358329", "6": "0.18054229"}}

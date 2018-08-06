@@ -1,0 +1,1 @@
+{"text": "Im very happy with this sandal. Soft and confortable. With sandals its different size chart. if you are 10.5 you have to purchase 10 not 11.", "sentiment": "positive", "topics": {"0": "0.50820774", "1": "0.0102587165", "2": "0.010234009", "3": "0.19790244", "4": "0.25294355", "5": "0.010216484", "6": "0.010237077"}}

@@ -1,0 +1,1 @@
+{"text": "Used to repair some fancy boots with a soft heel. Very happy to get some more life out of almost new shoes.  (also used it to rebuild a rubber radiator mount for my minivan that wasn't available anymore!)", "sentiment": "negative", "topics": {"0": "0.22046794", "1": "0.3882197", "2": "0.11805486", "3": "0.06632704", "4": "0.19392891"}}

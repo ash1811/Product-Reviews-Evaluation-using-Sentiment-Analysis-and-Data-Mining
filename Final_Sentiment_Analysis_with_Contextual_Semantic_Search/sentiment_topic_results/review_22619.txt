@@ -1,0 +1,1 @@
+{"text": "The briefs are okay, but in the past when I've bought this brand, the fabric was smooth and substantial. Now this fabric is scratchy and thin. I guess they've changed it to save money. I won't be buying this brand again.", "sentiment": "positive", "topics": {"0": "0.12595993", "3": "0.21028405", "4": "0.38053334", "5": "0.18817455", "6": "0.081422314"}}

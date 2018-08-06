@@ -1,0 +1,1 @@
+{"text": "I'm usually a perfect size 8, but this pair is a tad snug. It's comfortable but an 8-1/2 may've been better.", "sentiment": "positive", "topics": {"0": "0.011001941", "1": "0.38150808", "2": "0.010999132", "3": "0.011039773", "4": "0.23736054", "5": "0.011021605", "6": "0.33706892"}}

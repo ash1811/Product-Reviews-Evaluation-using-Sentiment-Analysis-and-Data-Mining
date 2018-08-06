@@ -1,0 +1,1 @@
+{"text": "Both my son and husband have narrow feet and these shoes work well for them. Quick break in time is a plus!", "sentiment": "negative", "topics": {"0": "0.01102306", "1": "0.34634396", "2": "0.13227679", "3": "0.21530533", "4": "0.2730128", "5": "0.011027037", "6": "0.011011023"}}

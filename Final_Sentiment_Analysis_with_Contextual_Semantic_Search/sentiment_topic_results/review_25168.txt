@@ -1,0 +1,1 @@
+{"text": "I was worried like anyone about the size versus actual fit.But this was not the case the t's fit great and I really like the tagless feature", "sentiment": "positive", "topics": {"1": "0.120680615", "3": "0.17937572", "4": "0.14008577", "5": "0.21388242", "6": "0.32804054"}}

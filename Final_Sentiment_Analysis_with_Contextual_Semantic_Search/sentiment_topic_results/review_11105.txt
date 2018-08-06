@@ -1,0 +1,1 @@
+{"text": "Gave this to my mother as well.  She loves visors and this will go with everything.  Price and quality is perfect.", "sentiment": "negative", "topics": {"0": "0.013022847", "1": "0.4985095", "2": "0.1383598", "3": "0.0130366245", "4": "0.20519324", "5": "0.01302975", "6": "0.11884828"}}

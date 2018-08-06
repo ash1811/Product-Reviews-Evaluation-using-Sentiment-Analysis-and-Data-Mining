@@ -1,0 +1,1 @@
+{"text": "Love Kipling products and never had a problem with any of their bags. Love everything about this bag, especially the color.", "sentiment": "negative", "topics": {"0": "0.011931733", "1": "0.24848236", "2": "0.12452207", "3": "0.011933471", "4": "0.35806128", "5": "0.23315322", "6": "0.011915856"}}

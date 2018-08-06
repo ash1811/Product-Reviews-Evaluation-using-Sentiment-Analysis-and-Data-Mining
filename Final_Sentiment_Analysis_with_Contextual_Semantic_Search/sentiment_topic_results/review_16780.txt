@@ -1,0 +1,1 @@
+{"text": "what can i say stylish and comfortable black goes with everything,my husband has many pairs in assorted colors he likes the so much", "sentiment": "negative", "topics": {"0": "0.092766345", "1": "0.22611396", "2": "0.0102335885", "3": "0.12645043", "4": "0.2283782", "5": "0.11012943", "6": "0.20592804"}}

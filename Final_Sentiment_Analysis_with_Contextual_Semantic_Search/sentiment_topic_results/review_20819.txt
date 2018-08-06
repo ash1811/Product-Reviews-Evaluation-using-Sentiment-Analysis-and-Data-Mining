@@ -1,0 +1,1 @@
+{"text": "Hubby is very happy with this buy. The trousers is perfect for work, fabric very nice, easy to iron, non-shinny material.", "sentiment": "negative", "topics": {"0": "0.011023324", "1": "0.3844988", "2": "0.011001812", "3": "0.0110185305", "4": "0.011021715", "5": "0.3741695", "6": "0.19726636"}}

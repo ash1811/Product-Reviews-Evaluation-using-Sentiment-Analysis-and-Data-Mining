@@ -1,0 +1,1 @@
+{"text": "Look at the picture, then ask yourself, what reason would someone buy these, there's only one that I can think of and what can I say, above and beyond my expectations!!!", "sentiment": "negative", "topics": {"0": "0.14993192", "1": "0.51981676", "2": "0.24182415", "6": "0.061539844"}}

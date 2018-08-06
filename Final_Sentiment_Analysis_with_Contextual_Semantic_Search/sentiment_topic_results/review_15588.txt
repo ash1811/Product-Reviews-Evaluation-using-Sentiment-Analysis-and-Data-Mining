@@ -1,0 +1,1 @@
+{"text": "My wife had one of these on our last trip and I got one for myself.  It works great as a sling unit and hides well.  I like the shallow pocket that serves to hold credit cards and such.", "sentiment": "positive", "topics": {"0": "0.10061393", "1": "0.34946132", "2": "0.20630303", "3": "0.101721555", "4": "0.11951644", "6": "0.1158623"}}

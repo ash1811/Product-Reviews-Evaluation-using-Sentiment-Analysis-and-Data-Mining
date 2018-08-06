@@ -1,0 +1,1 @@
+{"text": "I am an athletic guy and these jeans are the first to fit me well. The quality is great and they are a great value for the money. The shiny coating is really cool.", "sentiment": "negative", "topics": {"0": "0.116141796", "1": "0.26612175", "4": "0.08945095", "5": "0.41487908", "6": "0.09552118"}}

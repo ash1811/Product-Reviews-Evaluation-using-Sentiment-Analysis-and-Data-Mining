@@ -1,0 +1,1 @@
+{"text": "I didnt know how these would fit so I went ahead and bought them.  Tried them on and they look really good on, of course a little low on the backside so I'm  having to wear longer shirts to cover the &#34;crack&#34; over all they fit great", "sentiment": "negative", "topics": {"0": "0.08695015", "1": "0.6954923", "2": "0.08515589", "6": "0.115823045"}}

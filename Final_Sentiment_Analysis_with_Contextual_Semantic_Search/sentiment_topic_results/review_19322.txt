@@ -1,0 +1,1 @@
+{"text": "Looks great on my wife, matches my watch that I had got to wear at same time. Glows well at night.Time settings easy, great color ,well made.", "sentiment": "negative", "topics": {"0": "0.20071407", "1": "0.53635", "2": "0.07832544", "4": "0.16062142"}}

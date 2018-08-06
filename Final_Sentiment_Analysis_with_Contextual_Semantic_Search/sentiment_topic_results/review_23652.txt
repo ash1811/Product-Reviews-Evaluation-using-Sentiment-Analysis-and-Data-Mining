@@ -1,0 +1,1 @@
+{"text": "The cap fits well and therefore is comfortable to wear.  It's easy to clean.They can be worn for informal and formal occasions", "sentiment": "positive", "topics": {"0": "0.10029217", "1": "0.43884322", "2": "0.0828059", "3": "0.18846758", "4": "0.011038591", "5": "0.011018167", "6": "0.16753437"}}

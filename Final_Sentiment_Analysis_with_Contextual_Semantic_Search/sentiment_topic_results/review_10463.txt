@@ -1,0 +1,1 @@
+{"text": "These are some of my favorite shoes! They are so warm and comfortable! Although they are supposed to be indoor slippers, I wear them outside all the time. They hold up really well and look super cute.", "sentiment": "negative", "topics": {"1": "0.56580377", "2": "0.070382625", "3": "0.10969423", "5": "0.17632832", "6": "0.061888795"}}

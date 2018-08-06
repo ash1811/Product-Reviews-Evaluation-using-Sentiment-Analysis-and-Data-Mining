@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable flip flops I have ever had! I wish I would have found about them sooner.", "sentiment": "negative", "topics": {"0": "0.014368294", "1": "0.36434934", "2": "0.26336288", "3": "0.014335191", "4": "0.01435052", "5": "0.31492814", "6": "0.014305636"}}

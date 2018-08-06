@@ -1,0 +1,1 @@
+{"text": "works great, looks good, and I don't have to worry about the battery for 10 years.", "sentiment": "positive", "topics": {"0": "0.015916064", "1": "0.7845813", "2": "0.015879799", "3": "0.015916726", "4": "0.13569212", "5": "0.015913216", "6": "0.016100805"}}

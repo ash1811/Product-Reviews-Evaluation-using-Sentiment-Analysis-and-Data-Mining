@@ -1,0 +1,1 @@
+{"text": "Makes 3 yr old a happy gal. She only wants to wear crocs after receiving the shoes. She runs fine in it.", "sentiment": "negative", "topics": {"0": "0.13969982", "1": "0.16745281", "2": "0.21617895", "3": "0.16251178", "5": "0.13836491", "6": "0.16624367"}}

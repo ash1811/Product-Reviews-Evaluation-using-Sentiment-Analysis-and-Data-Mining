@@ -1,0 +1,1 @@
+{"text": "I purchased this watch for my 8 year old son and so far (30 days in) it's been working and functioning. The watch is perfect size for kids or men with really small wrists.", "sentiment": "negative", "topics": {"1": "0.32323995", "2": "0.1482124", "3": "0.0980044", "4": "0.088030666", "5": "0.32886937"}}

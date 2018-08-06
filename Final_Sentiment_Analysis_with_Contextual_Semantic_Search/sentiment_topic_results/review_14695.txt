@@ -1,0 +1,1 @@
+{"text": "This is the best jewelry cleaner I have used in years!!! Cleans my platinum and diamonds so well they really do sparkle.  Quick, easy.", "sentiment": "negative", "topics": {"0": "0.123951666", "1": "0.51146704", "2": "0.09525915", "3": "0.010238418", "4": "0.23862271", "5": "0.010218091", "6": "0.010242915"}}

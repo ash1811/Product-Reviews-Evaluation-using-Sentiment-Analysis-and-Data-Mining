@@ -1,0 +1,1 @@
+{"text": "These shoes are comfortable for heels. They were delivered quickly, are true to size and they are super cute! I am very pleased with this purchase.", "sentiment": "negative", "topics": {"0": "0.011939105", "1": "0.43581858", "2": "0.23105413", "3": "0.2111569", "4": "0.08613769", "5": "0.011948497", "6": "0.011945053"}}

@@ -1,0 +1,1 @@
+{"text": "My wife put them on she loves them. I have had mine on all day and they work great. Absolutely wonderful fit, feel and function.", "sentiment": "positive", "topics": {"0": "0.010262413", "1": "0.57494843", "2": "0.17305975", "3": "0.010277238", "4": "0.010284368", "5": "0.010264288", "6": "0.21090354"}}

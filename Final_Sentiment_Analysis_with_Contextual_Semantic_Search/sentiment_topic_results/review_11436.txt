@@ -1,0 +1,1 @@
+{"text": "As advertised.  No problems.  First material that does not give me an allergic reaction.  Never could wear anything except solid gold but now I can!", "sentiment": "negative", "topics": {"0": "0.2516665", "1": "0.21677986", "2": "0.10393247", "4": "0.08411977", "5": "0.25434482", "6": "0.08015752"}}

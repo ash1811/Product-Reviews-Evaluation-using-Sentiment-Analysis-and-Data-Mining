@@ -1,0 +1,1 @@
+{"text": "Received on time , Runs a little large but I think all Playtex bra's do. It has good support without under wires.", "sentiment": "negative", "topics": {"0": "0.31723872", "1": "0.010282001", "2": "0.0102222925", "3": "0.5583135", "4": "0.010212795", "5": "0.010244994", "6": "0.083485745"}}

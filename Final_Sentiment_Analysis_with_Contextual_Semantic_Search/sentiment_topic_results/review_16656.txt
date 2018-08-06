@@ -1,0 +1,1 @@
+{"text": "These are pretty good quality, much better than the cheap sunglasses you can buy at local stores.  I'm very happy, and if I lose them or break them it's not big deal.", "sentiment": "negative", "topics": {"1": "0.52867764", "2": "0.22735617", "3": "0.21029101"}}

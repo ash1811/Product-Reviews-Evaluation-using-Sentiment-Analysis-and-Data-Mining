@@ -1,0 +1,1 @@
+{"text": "I already own these and just needed another pair after 2 years of everyday use. I wear them with jeans and khakis, and slacks. They look good with everything. They are not cheap looking. They are comfortable as well.", "sentiment": "negative", "topics": {"0": "0.07884817", "1": "0.45426172", "2": "0.08055979", "4": "0.06837265", "5": "0.22909024", "6": "0.081673756"}}

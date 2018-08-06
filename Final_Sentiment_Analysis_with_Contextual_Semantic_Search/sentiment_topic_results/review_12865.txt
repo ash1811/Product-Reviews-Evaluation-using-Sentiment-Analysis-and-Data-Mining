@@ -1,0 +1,1 @@
+{"text": "Gave this as a gift to someone in my family and they loved it. Made me feel good to find something so nice that was so apppreciated.", "sentiment": "negative", "topics": {"0": "0.35749674", "1": "0.45529768", "2": "0.010221643", "3": "0.010222038", "4": "0.010241861", "5": "0.14627407", "6": "0.010245971"}}

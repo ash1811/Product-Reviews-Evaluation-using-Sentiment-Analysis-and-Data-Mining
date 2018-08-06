@@ -1,0 +1,1 @@
+{"text": "I am a fan of sweats. These are very fine . Nice material...good pockets and all around just what I needed.", "sentiment": "negative", "topics": {"0": "0.13796628", "1": "0.38609827", "2": "0.18437923", "3": "0.015904024", "4": "0.24376628", "5": "0.015911737", "6": "0.015974138"}}

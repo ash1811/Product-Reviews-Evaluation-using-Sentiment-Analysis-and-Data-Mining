@@ -1,0 +1,1 @@
+{"text": "i'm never going to wear anything else, its good for the gym and good for date night with my wife.", "sentiment": "negative", "topics": {"0": "0.011025494", "1": "0.7542878", "2": "0.19058642", "3": "0.011027441", "4": "0.011031308", "5": "0.011028005", "6": "0.011013554"}}

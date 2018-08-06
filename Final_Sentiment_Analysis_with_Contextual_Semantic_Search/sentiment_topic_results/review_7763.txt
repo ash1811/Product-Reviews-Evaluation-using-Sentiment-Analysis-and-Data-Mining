@@ -1,0 +1,1 @@
+{"text": "i bought the same 527 same size 30*32 with  2 different colors...all were ok and size was fit exactly, but this color only the fume was coming smaller than the usual and i do not know why, but it is ok :)", "sentiment": "negative", "topics": {"0": "0.13945459", "1": "0.4653585", "2": "0.056328166", "3": "0.21313843", "4": "0.06365372", "5": "0.05488984"}}

@@ -1,0 +1,1 @@
+{"text": "These worked just fine, however the elastic strap that runs under your shoe was way too long. I ended up just cutting it off, which would allow the spats to turn about some. But it worked fine.", "sentiment": "positive", "topics": {"1": "0.11806132", "2": "0.4925806", "5": "0.14187504", "6": "0.22591911"}}

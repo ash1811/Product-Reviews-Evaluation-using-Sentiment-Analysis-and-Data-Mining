@@ -1,0 +1,1 @@
+{"text": "My husband has a pair and her love s them.  I think that these would have been great shoes, but they were slightly too big so I returned them.", "sentiment": "negative", "topics": {"0": "0.011005213", "1": "0.23278959", "2": "0.13965632", "3": "0.31131035", "4": "0.16968554", "5": "0.12456335", "6": "0.010989611"}}

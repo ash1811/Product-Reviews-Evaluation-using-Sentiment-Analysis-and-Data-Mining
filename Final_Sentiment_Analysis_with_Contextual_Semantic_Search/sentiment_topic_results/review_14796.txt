@@ -1,0 +1,1 @@
+{"text": "The cleaner cleaned the jewelry very well, but I had to measure the amount as there were no lines on the bottle marking the amount to be used each time.", "sentiment": "negative", "topics": {"0": "0.07651883", "1": "0.46412703", "2": "0.21267627", "3": "0.010995911", "4": "0.21368645", "5": "0.011002347", "6": "0.010993212"}}

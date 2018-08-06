@@ -1,0 +1,1 @@
+{"text": "Not sure why this is labeled as a Women's duffle, as there is nothing inherently female specific about it.  I agree with the others bemoaning the lack of inside pocket for phones and keys, but overall, I'm happy with this bag.", "sentiment": "negative", "topics": {"1": "0.38653937", "2": "0.39372015", "6": "0.1937034"}}

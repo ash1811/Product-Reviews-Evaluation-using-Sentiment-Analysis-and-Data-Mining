@@ -1,0 +1,1 @@
+{"text": "They are beautiful colors, and one with a print through it, and there is lilac, bright pink, yellow, and have a lace top around the lace.  They are great!!!", "sentiment": "negative", "topics": {"1": "0.39529228", "3": "0.099522576", "5": "0.38867712", "6": "0.087762006"}}

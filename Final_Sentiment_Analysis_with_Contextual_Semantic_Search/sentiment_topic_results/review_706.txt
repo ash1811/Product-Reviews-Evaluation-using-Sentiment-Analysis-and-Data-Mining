@@ -1,0 +1,1 @@
+{"text": "Solid Timex quality, not crazy about the styling but I wear it and am sure I will have it for many more years.", "sentiment": "negative", "topics": {"0": "0.10458082", "1": "0.3223256", "2": "0.1236101", "3": "0.2060292", "4": "0.21484229", "5": "0.01431586", "6": "0.014296161"}}

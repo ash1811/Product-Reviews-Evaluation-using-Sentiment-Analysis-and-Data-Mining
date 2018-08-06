@@ -1,0 +1,1 @@
+{"text": "Nice looking sandals.  Husband had and older pair with the bottle opener in the sole and he really didn't like the fit of these.  These do not have the bottle opener and are much lighter than with one with.  Good buy, should last a long time.", "sentiment": "negative", "topics": {"1": "0.5121955", "2": "0.30111554", "4": "0.07973737", "5": "0.08973254"}}

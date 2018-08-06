@@ -1,0 +1,1 @@
+{"text": "These boxers are roomy where it matters, but are not baggy.  And more importantly they don't ride up during the day like other brands.  They also look nice from the rear and seem to be lasting well.", "sentiment": "negative", "topics": {"1": "0.34013548", "3": "0.106530346", "4": "0.28245372", "6": "0.24560998"}}

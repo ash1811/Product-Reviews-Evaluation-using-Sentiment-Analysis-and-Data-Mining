@@ -1,0 +1,1 @@
+{"text": "I wear a 10.5 in MOST shoes, but I couldn't even get my foot into the opening of this 10.5 shoe.", "sentiment": "positive", "topics": {"0": "0.6251567", "1": "0.014328683", "2": "0.3030722", "3": "0.0143538285", "4": "0.014403366", "5": "0.014364682", "6": "0.0143205095"}}

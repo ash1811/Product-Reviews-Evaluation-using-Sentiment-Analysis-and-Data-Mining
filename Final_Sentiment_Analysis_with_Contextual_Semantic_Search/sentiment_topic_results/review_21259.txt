@@ -1,0 +1,1 @@
+{"text": "These shoes are constructed so well. Nice soft cushion for foot base and firm construction around the foot for good support. I am looking forward to lots of good foot comfort as winter begins.", "sentiment": "positive", "topics": {"0": "0.119869925", "1": "0.44932708", "2": "0.11353561", "4": "0.19852294", "6": "0.10627702"}}

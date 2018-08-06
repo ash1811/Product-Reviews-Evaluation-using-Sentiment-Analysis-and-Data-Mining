@@ -1,0 +1,1 @@
+{"text": "This is one of the nice ones too, fits comfortable, enough room around upper body, and lat  area. Just feels good:)", "sentiment": "negative", "topics": {"1": "0.56655174", "2": "0.22170854", "6": "0.17590575"}}

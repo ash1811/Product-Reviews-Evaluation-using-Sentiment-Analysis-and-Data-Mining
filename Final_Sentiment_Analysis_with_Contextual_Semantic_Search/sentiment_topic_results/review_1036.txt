@@ -1,0 +1,1 @@
+{"text": "I have worn these kind for awhile now. They fit good, feel good and not a bad price. What is there not to love. White cotton is my favorite, however, the colored ones are just as nice. Very comfortable. Love Jockey!", "sentiment": "negative", "topics": {"1": "0.44572258", "2": "0.0693753", "3": "0.11000006", "5": "0.2601336", "6": "0.10170918"}}

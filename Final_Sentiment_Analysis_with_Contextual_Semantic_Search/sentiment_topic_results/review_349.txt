@@ -1,0 +1,1 @@
+{"text": "Hanes at it's best.  My husband love hanes products.  This is a great price for this quality of shirt. Nice!", "sentiment": "negative", "topics": {"0": "0.011925838", "1": "0.6468908", "2": "0.011908334", "3": "0.011917245", "4": "0.17415293", "5": "0.13128984", "6": "0.011914969"}}

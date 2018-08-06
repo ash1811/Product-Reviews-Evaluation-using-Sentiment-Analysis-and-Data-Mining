@@ -1,0 +1,1 @@
+{"text": "I used this on the road and it held up perfectly. Not as roomy as some of the reviews claim but it has many compartments, features and most of all the quality is great.", "sentiment": "negative", "topics": {"0": "0.0110075185", "1": "0.5955044", "2": "0.10480259", "3": "0.081490405", "4": "0.18519576", "5": "0.011004507", "6": "0.010994783"}}

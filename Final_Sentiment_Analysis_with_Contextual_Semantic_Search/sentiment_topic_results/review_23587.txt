@@ -1,0 +1,1 @@
+{"text": "THANKYOU!. I was surprised to see the post marked right of Germany! I love all 3 pairs, and wore a pair home from work!", "sentiment": "negative", "topics": {"1": "0.2514813", "3": "0.17865686", "4": "0.23277426", "5": "0.2320571", "6": "0.08595312"}}

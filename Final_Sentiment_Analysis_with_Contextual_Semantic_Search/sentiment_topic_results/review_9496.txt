@@ -1,0 +1,1 @@
+{"text": "love it, the band could be just a bit bigger. Nice quality and good service. Thanks for a great product and a great price!", "sentiment": "positive", "topics": {"0": "0.22385082", "1": "0.5912435", "5": "0.14905074"}}

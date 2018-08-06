@@ -1,0 +1,1 @@
+{"text": "I really like the look of these 'water shoes '. However after only wearing a couple of times they came un-sewed. I'm suprised as you", "sentiment": "positive", "topics": {"0": "0.5027786", "1": "0.010244058", "2": "0.33632904", "3": "0.010229506", "4": "0.01021672", "5": "0.11996903", "6": "0.01023308"}}

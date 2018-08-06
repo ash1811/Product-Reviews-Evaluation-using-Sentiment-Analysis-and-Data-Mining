@@ -1,0 +1,1 @@
+{"text": "Takes about one week to break it in, I ordered the XXL for my hubby who normally wears an 11, he likes his flip flops to have some room at the ends, he loves these after they broke in", "sentiment": "negative", "topics": {"0": "0.074139506", "1": "0.28121442", "2": "0.12705907", "3": "0.21706328", "4": "0.10883287", "5": "0.18413684"}}

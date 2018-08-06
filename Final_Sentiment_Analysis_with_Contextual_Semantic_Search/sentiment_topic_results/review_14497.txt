@@ -1,0 +1,1 @@
+{"text": "This is the epitome of comfort and coolness. It is easy put it in in out, it is stylish and the workmanship is impeccable.", "sentiment": "negative", "topics": {"0": "0.014337112", "1": "0.25798017", "2": "0.12134341", "3": "0.014300282", "4": "0.014412276", "5": "0.01438647", "6": "0.5632403"}}

@@ -1,0 +1,1 @@
+{"text": "This is the most comfortable shoe I have ever worn. I am now spoiled; putting other shoes on feel like walking on a brick, whereas these are flexible and cushiony.", "sentiment": "positive", "topics": {"0": "0.14529508", "1": "0.08458584", "2": "0.18253978", "3": "0.20750901", "4": "0.07175665", "5": "0.1811161", "6": "0.12719753"}}

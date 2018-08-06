@@ -1,0 +1,1 @@
+{"text": "you cannot go wrong with these! They are durable, comfortable, and cute.I wear a women's size 9 and the XL fits me perfectly.", "sentiment": "negative", "topics": {"0": "0.13028489", "1": "0.45289585", "2": "0.070694685", "3": "0.13296662", "6": "0.19408143"}}

@@ -1,0 +1,1 @@
+{"text": "I'm almost always a 36C. This one is small in the band size and just a tad small in the cup, but a smooth fit and pretty comfortable. I would go up on the band size next time.", "sentiment": "negative", "topics": {"0": "0.25129044", "1": "0.40368614", "2": "0.12183635", "6": "0.20362045"}}

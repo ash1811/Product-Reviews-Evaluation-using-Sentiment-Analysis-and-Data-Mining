@@ -1,0 +1,1 @@
+{"text": "Very attractive and comfortable and easily adjusted with the Velcro strap.  I definitely would order this brand and model again and would recommend it to any woman.", "sentiment": "positive", "topics": {"0": "0.099145934", "1": "0.30639887", "2": "0.10714001", "3": "0.23361066", "6": "0.23462218"}}

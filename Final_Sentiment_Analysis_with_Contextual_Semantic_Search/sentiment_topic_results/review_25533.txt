@@ -1,0 +1,1 @@
+{"text": "Good shoes for a narrow foot.  They fit across the instep as expected and aren't too high a heel for everyday.  Take a little breaking in, however, as they are not extremely soft.", "sentiment": "positive", "topics": {"1": "0.4057119", "2": "0.32875147", "4": "0.16541041", "5": "0.07750278"}}

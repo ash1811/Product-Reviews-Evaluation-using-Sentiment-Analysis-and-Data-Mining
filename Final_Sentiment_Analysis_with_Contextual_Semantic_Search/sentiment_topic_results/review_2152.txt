@@ -1,0 +1,1 @@
+{"text": "I have bought 4 pairs of these from Amazon and will continue to buy more.  The shoes are well made and inexpensive.  I usually wear them out in 2 years.  They are comfortable to wear doing anything.", "sentiment": "negative", "topics": {"0": "0.07827885", "1": "0.6584421", "2": "0.15723825", "4": "0.0834199"}}

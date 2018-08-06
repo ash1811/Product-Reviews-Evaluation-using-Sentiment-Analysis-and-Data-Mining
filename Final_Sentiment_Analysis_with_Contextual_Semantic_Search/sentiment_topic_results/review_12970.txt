@@ -1,0 +1,1 @@
+{"text": "Better than traditional \"tighty whities\" that women complain about, these underwear are great for the gym, with dress clothes, or just casual use. The band is more comfortable than alternatives.", "sentiment": "negative", "topics": {"1": "0.39408594", "3": "0.31003922", "4": "0.26400456"}}

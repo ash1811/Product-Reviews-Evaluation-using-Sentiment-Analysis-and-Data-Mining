@@ -1,0 +1,1 @@
+{"text": "I just loved these comando cargo pants, they are made with a very resistant material and they look great and out of the ordinary.", "sentiment": "positive", "topics": {"0": "0.14878239", "1": "0.46423167", "2": "0.21781531", "3": "0.012995014", "4": "0.012992054", "5": "0.13019012", "6": "0.012993474"}}

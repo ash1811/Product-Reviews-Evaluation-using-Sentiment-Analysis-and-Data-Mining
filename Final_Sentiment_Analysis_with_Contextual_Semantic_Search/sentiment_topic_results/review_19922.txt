@@ -1,0 +1,1 @@
+{"text": "Keen is king! Red, comfortable, cool. What more do you need? They fit as sized.", "sentiment": "negative", "topics": {"0": "0.01589837", "1": "0.28549978", "2": "0.01589482", "3": "0.17191404", "4": "0.015880387", "5": "0.015932824", "6": "0.4789798"}}

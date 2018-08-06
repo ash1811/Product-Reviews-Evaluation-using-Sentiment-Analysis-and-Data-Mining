@@ -1,0 +1,1 @@
+{"text": "These are comfy house shoes.  They are cat-hair and lint magnets, but it's not like you'll be wearing these to impress anybody.  I've had these a few months now and wear them every day.  Not a single complaint!", "sentiment": "negative", "topics": {"0": "0.1036198", "1": "0.22459346", "2": "0.10013471", "3": "0.110174306", "4": "0.084174156", "6": "0.36932862"}}

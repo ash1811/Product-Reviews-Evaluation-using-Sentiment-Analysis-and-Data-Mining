@@ -1,0 +1,1 @@
+{"text": "The only thing with Sketcher sneakers only, they tend to run a half size too small. So when ordering make sure you go a half size bigger.", "sentiment": "negative", "topics": {"1": "0.19139418", "2": "0.07863701", "3": "0.5432987", "5": "0.16141713"}}

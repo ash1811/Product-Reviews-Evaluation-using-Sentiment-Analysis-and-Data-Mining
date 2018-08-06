@@ -1,0 +1,1 @@
+{"text": "I bought the green fuzzy socks by Foot Traffic and I love them.  They are super soft and comfy.  The come up well above my ankle rather than being too short.  These socks are great!", "sentiment": "negative", "topics": {"0": "0.10018156", "1": "0.29973242", "2": "0.14059016", "4": "0.25183284", "5": "0.13686435", "6": "0.06323979"}}

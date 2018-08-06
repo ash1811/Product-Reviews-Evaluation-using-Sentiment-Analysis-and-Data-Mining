@@ -1,0 +1,1 @@
+{"text": "This could well be the most beautiful shoe I own thus far. Its classy and comfortable. I wear a 9.5 but ordered a 10 because I think most of these kind of drivers and loafers seem to be a bit tight at the toe. That was a great call and my 10 fits great.", "sentiment": "positive", "topics": {"1": "0.55144316", "2": "0.060492534", "4": "0.1694529", "5": "0.2020847"}}

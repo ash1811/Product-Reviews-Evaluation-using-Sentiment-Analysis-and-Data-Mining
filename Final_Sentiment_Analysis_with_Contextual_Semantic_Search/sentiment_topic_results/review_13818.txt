@@ -1,0 +1,1 @@
+{"text": "Finally got my orange monster!  Outstanding Seiko workmanship and quality!  I love this watch! I wear it every third day to keep it wounded.", "sentiment": "negative", "topics": {"1": "0.16709238", "2": "0.20701821", "3": "0.16971533", "5": "0.2496647", "6": "0.18964897"}}

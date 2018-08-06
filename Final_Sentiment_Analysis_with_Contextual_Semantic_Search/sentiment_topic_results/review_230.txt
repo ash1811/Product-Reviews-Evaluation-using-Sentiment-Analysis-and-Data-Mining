@@ -1,0 +1,1 @@
+{"text": "My husband likes a shirt with a pocket.  The quality of this Jerzees sport shirt is very good.  Washes and dries with out wrinkles plus the collar comes out perfect - no need to iron.  The color is nice too.  Great buy for the price.", "sentiment": "negative", "topics": {"1": "0.6273564", "4": "0.089470655", "5": "0.0740119", "6": "0.19189726"}}

@@ -1,0 +1,1 @@
+{"text": "I use this in my sonic cleaner.  My diamond rings sparkle, my costume jewelry cleans up and it's great for CD's", "sentiment": "positive", "topics": {"0": "0.20721337", "1": "0.43491545", "2": "0.17737532", "3": "0.011922483", "4": "0.14474761", "5": "0.011919513", "6": "0.0119062755"}}

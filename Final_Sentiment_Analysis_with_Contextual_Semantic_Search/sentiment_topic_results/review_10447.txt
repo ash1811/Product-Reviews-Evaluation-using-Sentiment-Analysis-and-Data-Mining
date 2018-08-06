@@ -1,0 +1,1 @@
+{"text": "I got these as a birthday gift!  They are dainty and feminine.  They are just big enough to be beautiful and not over the top.  GREAT BUY!", "sentiment": "positive", "topics": {"0": "0.12566157", "1": "0.26837233", "2": "0.011932627", "3": "0.124511324", "4": "0.2067343", "5": "0.0119502805", "6": "0.25083756"}}

@@ -1,0 +1,1 @@
+{"text": "This pair of 'long johns' fits perfectly.  They are very comfy, wear well and hold up in the wash.  Priced perfectly.", "sentiment": "negative", "topics": {"0": "0.010995587", "1": "0.6258509", "2": "0.13304427", "3": "0.19705488", "4": "0.011020153", "5": "0.011036745", "6": "0.010997431"}}

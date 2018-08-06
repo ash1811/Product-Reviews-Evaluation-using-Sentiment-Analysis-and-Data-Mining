@@ -1,0 +1,1 @@
+{"text": "I bought these for my son as he was just not happy with cotton boxers.  He loves these and has since ordered more.", "sentiment": "negative", "topics": {"0": "0.014341176", "1": "0.5031343", "2": "0.014314765", "3": "0.3099202", "4": "0.014387083", "5": "0.014359824", "6": "0.12954263"}}

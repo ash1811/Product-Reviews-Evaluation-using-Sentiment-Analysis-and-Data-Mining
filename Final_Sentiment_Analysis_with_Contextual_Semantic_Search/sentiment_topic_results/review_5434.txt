@@ -1,0 +1,1 @@
+{"text": "nothing fancy just a cheap hoodie to keep me warm while walking the dogs. They are not your fancy style hoodies so keep that in mind if you plan on going out on the town with these.", "sentiment": "negative", "topics": {"1": "0.17202792", "3": "0.12992911", "5": "0.66617"}}

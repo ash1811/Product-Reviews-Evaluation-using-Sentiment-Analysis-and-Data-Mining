@@ -1,0 +1,1 @@
+{"text": "they are good pants they are a little big but i good purchase for the money. they have plenty of pocket if that is some thing your looking for in a pair of pants", "sentiment": "negative", "topics": {"0": "0.010211915", "1": "0.93869114", "2": "0.010210136", "3": "0.010227525", "4": "0.010217106", "5": "0.010231006", "6": "0.010211201"}}

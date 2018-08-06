@@ -1,0 +1,1 @@
+{"text": "Nice and heavy. Washes great too. Ordered a couple in different colors. Nice metal zipper so I can dry them in the dryer.", "sentiment": "positive", "topics": {"0": "0.31974325", "1": "0.5076089", "6": "0.13441905"}}

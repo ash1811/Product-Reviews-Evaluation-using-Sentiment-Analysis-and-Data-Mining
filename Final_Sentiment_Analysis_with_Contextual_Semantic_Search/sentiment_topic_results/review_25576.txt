@@ -1,0 +1,1 @@
+{"text": "These socks slip down in my sneakers when I workout. I wear a size 9-9.5 women's shoe. Do not recommend for larger women's feet.", "sentiment": "negative", "topics": {"0": "0.12276534", "1": "0.18528378", "2": "0.10658978", "3": "0.096867874", "4": "0.042330462", "5": "0.4359102", "6": "0.010252594"}}

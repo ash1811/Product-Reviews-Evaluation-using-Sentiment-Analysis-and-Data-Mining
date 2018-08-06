@@ -1,0 +1,1 @@
+{"text": "of all the shoes these bought for my wife these fit best easily adjustable no issues width or length great design sexy shoe for all occasions", "sentiment": "positive", "topics": {"1": "0.39722744", "2": "0.25926173", "5": "0.30766043"}}

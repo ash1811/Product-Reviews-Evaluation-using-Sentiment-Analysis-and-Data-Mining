@@ -1,0 +1,1 @@
+{"text": "I live in these shoes - they are very durable and comfortable for gardening and farm work or running errands.  This year I bought my sixth pair.  Everyone calls them my summer work boots.", "sentiment": "negative", "topics": {"0": "0.06425847", "1": "0.37784743", "2": "0.083917476", "4": "0.13633433", "5": "0.14816254", "6": "0.18193042"}}

@@ -1,0 +1,1 @@
+{"text": "Very nice babydoll and robe. Elegent yet simple. Wife loves it and I'm sure I will too when she puts it on for me. :-)", "sentiment": "positive", "topics": {"0": "0.59066826", "1": "0.18285643", "2": "0.0929584", "3": "0.011032506", "4": "0.011068072", "5": "0.011040694", "6": "0.10037564"}}

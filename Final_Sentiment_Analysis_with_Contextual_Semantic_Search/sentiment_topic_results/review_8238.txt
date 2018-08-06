@@ -1,0 +1,1 @@
+{"text": "I bought these as a gift. They were very well received and the style is exactly the one he prefers most from Levis.", "sentiment": "negative", "topics": {"0": "0.37922442", "1": "0.4476467", "2": "0.014415608", "3": "0.014299023", "4": "0.014400743", "5": "0.0143360095", "6": "0.115677536"}}

@@ -1,0 +1,1 @@
+{"text": "I sent this to my niece for Christmas and she loved it!! She actually received two watches for Christmas but likes this one better because it has a back light. She said she's already learned to tell time.", "sentiment": "negative", "topics": {"0": "0.15153916", "1": "0.24706542", "2": "0.30139193", "3": "0.054942206", "5": "0.23140226"}}

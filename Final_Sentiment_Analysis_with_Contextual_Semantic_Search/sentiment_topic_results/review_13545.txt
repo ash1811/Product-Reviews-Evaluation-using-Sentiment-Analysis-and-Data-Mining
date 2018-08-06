@@ -1,0 +1,1 @@
+{"text": "Great price and good quality. It is not any thing  fancy. All elastic waist band. Very comfortable pair of breeches.", "sentiment": "positive", "topics": {"0": "0.28689998", "1": "0.6579744", "2": "0.011072541", "3": "0.011015255", "4": "0.0110276025", "5": "0.011000852", "6": "0.011009344"}}

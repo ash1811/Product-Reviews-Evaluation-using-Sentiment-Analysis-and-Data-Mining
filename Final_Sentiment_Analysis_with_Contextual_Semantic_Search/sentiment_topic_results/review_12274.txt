@@ -1,0 +1,1 @@
+{"text": "I bought it as part of a Christmas gift for a really close girl friend... it is lovely and it arrives perfectly packaged in a secure littleshipping box.... it is a lovely little giftEdith YourChicagoConnection", "sentiment": "positive", "topics": {"0": "0.085315", "1": "0.20754716", "3": "0.09397815", "4": "0.22947638", "5": "0.12785241", "6": "0.24865527"}}

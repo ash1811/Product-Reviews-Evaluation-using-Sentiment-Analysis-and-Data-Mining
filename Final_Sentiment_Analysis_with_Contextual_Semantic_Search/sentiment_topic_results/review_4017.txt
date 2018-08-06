@@ -1,0 +1,1 @@
+{"text": "Very comfortable as bedroom slippers. (They are not intended for outdoor tho rubber sole allows a trip to the mail box.)", "sentiment": "negative", "topics": {"0": "0.0102264", "1": "0.30833536", "2": "0.13573804", "3": "0.010248941", "4": "0.26804546", "5": "0.18642826", "6": "0.08097752"}}

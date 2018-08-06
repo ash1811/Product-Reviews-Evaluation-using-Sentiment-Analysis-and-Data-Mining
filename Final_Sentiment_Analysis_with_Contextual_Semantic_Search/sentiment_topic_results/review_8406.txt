@@ -1,0 +1,1 @@
+{"text": "Cute little warm costume I bought for my baby's first Halloween. I like that the cape was detachable too neat little thing to do.", "sentiment": "negative", "topics": {"0": "0.21161975", "1": "0.42245504", "2": "0.22396159", "6": "0.11506465"}}

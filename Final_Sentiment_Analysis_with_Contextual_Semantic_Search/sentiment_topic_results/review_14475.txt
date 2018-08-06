@@ -1,0 +1,1 @@
+{"text": "I really like these shoes.  They look great with jeans or khakis, and will last a long time if they are anything like my past Rockports.", "sentiment": "negative", "topics": {"2": "0.29883465", "4": "0.095120154", "5": "0.56779397"}}

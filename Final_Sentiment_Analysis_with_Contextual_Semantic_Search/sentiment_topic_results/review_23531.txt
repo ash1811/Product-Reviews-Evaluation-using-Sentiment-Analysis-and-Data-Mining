@@ -1,0 +1,1 @@
+{"text": "Beautiful watch...brand newA gift for my husband...straight out of the box..The stem will not move..its jammedUnable to set the watch.It takes 2-3 months to get it fixed or replaced via invicta...No mos for me.", "sentiment": "positive", "topics": {"0": "0.3967657", "1": "0.11913218", "3": "0.2950667", "5": "0.09726842", "6": "0.0787509"}}

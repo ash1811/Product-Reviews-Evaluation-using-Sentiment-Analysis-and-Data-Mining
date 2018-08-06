@@ -1,0 +1,1 @@
+{"text": "I can't find any slippers that fit. They are all too small. 12 is my shoe size but 12 slippers don't fit.", "sentiment": "positive", "topics": {"0": "0.011929905", "1": "0.32536206", "2": "0.10746983", "3": "0.32199472", "4": "0.011933957", "5": "0.01193838", "6": "0.20937118"}}

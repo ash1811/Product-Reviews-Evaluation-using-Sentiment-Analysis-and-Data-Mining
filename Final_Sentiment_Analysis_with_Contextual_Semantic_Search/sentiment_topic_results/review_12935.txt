@@ -1,0 +1,1 @@
+{"text": "A decent summer shoe, but it runs small. If I were to order this pair again, I'd order a size bigger than I normally wear.", "sentiment": "positive", "topics": {"0": "0.1864328", "2": "0.10155369", "3": "0.5907224", "4": "0.09262327"}}

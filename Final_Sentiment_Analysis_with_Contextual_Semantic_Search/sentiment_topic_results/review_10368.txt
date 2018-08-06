@@ -1,0 +1,1 @@
+{"text": "Absolutely no arch support, hard inflexible soles, and no footbed cushioning whatsoever. I feel guilty for not being able to wear these, as they were a gift from a loved one, but they are just too uncomfortable to bear.", "sentiment": "positive", "topics": {"0": "0.23751707", "1": "0.24625576", "2": "0.16089319", "3": "0.16760969", "5": "0.17341366"}}

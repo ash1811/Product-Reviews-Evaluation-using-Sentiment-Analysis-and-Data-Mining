@@ -1,0 +1,1 @@
+{"text": "Iam very  happy with this pant ,good looking ,  good material and fitI recommend for men , women and kids", "sentiment": "negative", "topics": {"0": "0.011012051", "1": "0.6521472", "2": "0.011033898", "3": "0.18879281", "4": "0.011053409", "5": "0.11496755", "6": "0.010993138"}}

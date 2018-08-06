@@ -1,0 +1,1 @@
+{"text": "Shhh! This is a Christmas present for a grandkid, but it surely looks cute and should be a hit when given.", "sentiment": "positive", "topics": {"0": "0.16570832", "1": "0.014360532", "2": "0.014293403", "3": "0.42602247", "4": "0.014341206", "5": "0.21234788", "6": "0.1529262"}}

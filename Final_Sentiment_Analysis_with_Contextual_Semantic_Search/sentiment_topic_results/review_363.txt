@@ -1,0 +1,1 @@
+{"text": "Excellent shirt made &#8203;&#8203;of very good material. At first I bought with some suspicion of its quality, which I just unpacked reversed. I keep buying other colors and other items of this brand.", "sentiment": "positive", "topics": {"1": "0.62287766", "2": "0.0860685", "3": "0.10852097", "6": "0.15861648"}}

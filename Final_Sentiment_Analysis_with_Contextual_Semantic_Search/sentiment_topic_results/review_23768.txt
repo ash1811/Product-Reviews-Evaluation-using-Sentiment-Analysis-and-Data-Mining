@@ -1,0 +1,1 @@
+{"text": "These shoes looked nice but I bought in size with a little wider width recommended by other reviews. When I tried on I couldn't even get on my foot. I ended up returning them and going elsewhere to buy shoes.", "sentiment": "negative", "topics": {"0": "0.16234952", "1": "0.31410056", "2": "0.22961451", "3": "0.2021516", "6": "0.07809571"}}

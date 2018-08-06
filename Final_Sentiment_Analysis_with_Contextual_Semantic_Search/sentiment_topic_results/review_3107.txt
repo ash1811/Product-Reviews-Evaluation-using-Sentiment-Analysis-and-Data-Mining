@@ -1,0 +1,1 @@
+{"text": "This is the best bra I have ever had in my life. i'm wearing 36DD and the support is amazing with this bra, and it's also pretty and not bulky", "sentiment": "positive", "topics": {"0": "0.010246016", "1": "0.31654578", "2": "0.20165786", "3": "0.25712427", "4": "0.19400191", "5": "0.010217194", "6": "0.010206955"}}

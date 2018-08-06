@@ -1,0 +1,1 @@
+{"text": "I would order a size up from what you normally wear with the tee shirt undershirts. They are long but tend to shrink a bit in the wash.", "sentiment": "negative", "topics": {"0": "0.06758753", "1": "0.5781326", "2": "0.010208749", "3": "0.13362595", "4": "0.01026383", "5": "0.18993698", "6": "0.010244323"}}

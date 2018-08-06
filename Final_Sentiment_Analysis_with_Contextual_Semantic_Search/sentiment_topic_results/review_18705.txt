@@ -1,0 +1,1 @@
+{"text": "Good product, however, you cannot be under 5' 10\" to wear.  Girth does not factor into this, just height.  It's all about the length.", "sentiment": "negative", "topics": {"0": "0.011035157", "1": "0.011026368", "2": "0.32125932", "3": "0.2938413", "4": "0.12131934", "5": "0.23046204", "6": "0.0110564735"}}

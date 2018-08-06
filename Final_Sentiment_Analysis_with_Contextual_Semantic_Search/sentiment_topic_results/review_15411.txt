@@ -1,0 +1,1 @@
+{"text": "Since we gave our son a new truck for Christmas, the &#34;shades&#34; that he wanted were exactly what he needed to top off the package!", "sentiment": "negative", "topics": {"0": "0.4337891", "1": "0.011017453", "2": "0.011021888", "3": "0.21855241", "4": "0.14889404", "5": "0.011033247", "6": "0.16569185"}}

@@ -1,0 +1,1 @@
+{"text": "This was a birthday gift for my 15 year old son. He picked it out and wears it everyday. He is Tech savvy and loved the overall look of the watch.", "sentiment": "negative", "topics": {"0": "0.3274731", "1": "0.2267082", "2": "0.17327602", "3": "0.19123991", "4": "0.06337116"}}

@@ -1,0 +1,1 @@
+{"text": "my friend is 99 and mostly blind. she LOVED these shoes. they slip on easily and fit just right.  a super buy.", "sentiment": "negative", "topics": {"0": "0.09131657", "1": "0.51391", "2": "0.08871816", "3": "0.010996114", "4": "0.010996767", "5": "0.09961344", "6": "0.18444893"}}

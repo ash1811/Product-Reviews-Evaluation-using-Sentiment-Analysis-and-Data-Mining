@@ -1,0 +1,1 @@
+{"text": "They lift and hold in all the right places. Love them! Every girl needs a pare to have on hand.", "sentiment": "negative", "topics": {"0": "0.011975509", "1": "0.18286051", "2": "0.0120039955", "3": "0.45033076", "4": "0.21177113", "5": "0.012000496", "6": "0.119057626"}}

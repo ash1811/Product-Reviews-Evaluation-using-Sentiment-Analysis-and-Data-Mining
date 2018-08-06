@@ -1,0 +1,1 @@
+{"text": "This is the only kind of shoe I go to work in. They fit very well. It supports my feet and my knees don't hurt after work. I work any where from 6 to 8 hours a day being on my feet and this are the best shoes ever!!", "sentiment": "negative", "topics": {"1": "0.4521815", "2": "0.18436816", "4": "0.11731048", "5": "0.14537725", "6": "0.08773021"}}

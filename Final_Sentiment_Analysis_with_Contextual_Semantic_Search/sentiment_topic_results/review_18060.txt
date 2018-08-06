@@ -1,0 +1,1 @@
+{"text": "I really like this watch. I needed to take it to a jeweler to shorten the band & may son to set it up. After that, I am on a roll!", "sentiment": "negative", "topics": {"1": "0.46444288", "2": "0.23345275", "4": "0.26384607"}}

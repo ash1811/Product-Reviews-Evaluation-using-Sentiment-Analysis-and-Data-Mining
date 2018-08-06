@@ -1,0 +1,1 @@
+{"text": "It is big. In picture it looks small but it is big in size. It works good. I use it every day.", "sentiment": "positive", "topics": {"0": "0.011968443", "1": "0.67970896", "2": "0.01192691", "3": "0.26049846", "4": "0.011935155", "5": "0.012004725", "6": "0.011957283"}}

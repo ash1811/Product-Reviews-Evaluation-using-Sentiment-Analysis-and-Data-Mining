@@ -1,0 +1,1 @@
+{"text": "This is a great watch, ok to wear in the water, has all reasonablefunctionality you could actually use, durable, illuminated face at a price that makes it a no brainer.", "sentiment": "negative", "topics": {"0": "0.16649017", "1": "0.4044133", "2": "0.20671727", "5": "0.19546236"}}

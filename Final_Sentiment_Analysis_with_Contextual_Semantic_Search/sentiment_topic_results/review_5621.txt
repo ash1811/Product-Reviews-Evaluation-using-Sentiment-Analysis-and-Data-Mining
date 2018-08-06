@@ -1,0 +1,1 @@
+{"text": "This shirt has a great feel and the weight of the material give is a quality look as well. I have ordered a couple more in different colors.", "sentiment": "negative", "topics": {"0": "0.16871676", "1": "0.78012097", "2": "0.010214154", "3": "0.010228351", "4": "0.010226765", "5": "0.010231996", "6": "0.010260996"}}

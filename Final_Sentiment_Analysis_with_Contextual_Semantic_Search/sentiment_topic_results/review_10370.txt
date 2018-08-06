@@ -1,0 +1,1 @@
+{"text": "My daughter-in-law requested this for Christmas because she wears them all the time and that's what she wanted, so I am sure she is happy with it.", "sentiment": "negative", "topics": {"0": "0.013070473", "1": "0.013049925", "2": "0.44611904", "3": "0.013038034", "4": "0.013047482", "5": "0.33001375", "6": "0.17166133"}}

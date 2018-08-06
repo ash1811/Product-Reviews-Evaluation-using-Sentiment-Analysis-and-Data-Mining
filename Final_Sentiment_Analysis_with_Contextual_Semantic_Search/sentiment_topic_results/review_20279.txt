@@ -1,0 +1,1 @@
+{"text": "I use this as a diaper bag. We cloth diaper and the extra space is excellent for fitting a lot of cloth diapers and the extra compartments are great for cloth wipes and extras!", "sentiment": "negative", "topics": {"2": "0.14021714", "5": "0.75585467", "6": "0.073714234"}}

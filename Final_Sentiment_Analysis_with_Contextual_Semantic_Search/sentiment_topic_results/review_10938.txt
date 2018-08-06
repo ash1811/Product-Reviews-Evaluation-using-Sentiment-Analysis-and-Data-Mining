@@ -1,0 +1,1 @@
+{"text": "It is a really good bra, works perfectly with all kind of shirts, dresses, etc. I dont recomend you to wear it all day long, its excellet for a few hours, because it has a glue that makes you sweat a lot and causes the take off.", "sentiment": "positive", "topics": {"1": "0.3785328", "2": "0.12246848", "3": "0.16937445", "4": "0.045679193", "5": "0.27201357"}}

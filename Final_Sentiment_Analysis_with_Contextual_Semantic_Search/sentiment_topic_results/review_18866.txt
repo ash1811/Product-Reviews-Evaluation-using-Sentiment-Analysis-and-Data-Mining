@@ -1,0 +1,1 @@
+{"text": "514's are the best fitting jeans for my tall and lean husband.  They are a good value and great product", "sentiment": "negative", "topics": {"0": "0.01194616", "1": "0.011947316", "2": "0.011925512", "3": "0.15494171", "4": "0.14078726", "5": "0.6565084", "6": "0.011943705"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect fit, good material, very pleased with purchase. The pants were delivered on time and are just as described. Finding an odd sized waist is a pleasant surprise.", "sentiment": "negative", "topics": {"1": "0.66137993", "2": "0.12943609", "4": "0.08747527", "5": "0.096420616"}}

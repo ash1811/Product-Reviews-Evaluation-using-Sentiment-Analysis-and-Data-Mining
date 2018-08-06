@@ -1,0 +1,1 @@
+{"text": "wife is 5'5&#34;, 165 pounds, 36DD, 35&#34;waist. Fit is perfect and made well, puts he  speedo's to shame..picked up several in other colors, wear well with everyday swimming...", "sentiment": "negative", "topics": {"1": "0.35129347", "2": "0.327082", "4": "0.066514246", "5": "0.23363188"}}

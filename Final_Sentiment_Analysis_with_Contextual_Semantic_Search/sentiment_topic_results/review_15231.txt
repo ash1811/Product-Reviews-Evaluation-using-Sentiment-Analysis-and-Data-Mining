@@ -1,0 +1,1 @@
+{"text": "very good fit....my pant size is 48~ or so and these fit good.  No balling up or anything like that...will buy more when I need too :)", "sentiment": "negative", "topics": {"0": "0.010212109", "1": "0.44195583", "2": "0.089685574", "3": "0.01023092", "4": "0.085016586", "5": "0.16229655", "6": "0.2006024"}}

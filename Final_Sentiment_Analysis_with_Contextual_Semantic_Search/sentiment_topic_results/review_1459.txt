@@ -1,0 +1,1 @@
+{"text": "I love Jockey underwear because they fit great, are cotton, string and don't ride up if you are slender like me.Comfortable and black is great!", "sentiment": "negative", "topics": {"0": "0.16626866", "1": "0.19902249", "2": "0.11529899", "3": "0.48868594", "4": "0.0102266865", "5": "0.010236834", "6": "0.010260412"}}

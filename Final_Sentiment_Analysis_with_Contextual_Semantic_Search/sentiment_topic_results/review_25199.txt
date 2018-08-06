@@ -1,0 +1,1 @@
+{"text": "Design of the braclet was nice, very light weight the size was too small.  I suggest you try one size up to what you normally purchase. I returned and debated if to re order but choose not to.", "sentiment": "negative", "topics": {"0": "0.19704053", "1": "0.29496947", "2": "0.21328574", "3": "0.27208164"}}

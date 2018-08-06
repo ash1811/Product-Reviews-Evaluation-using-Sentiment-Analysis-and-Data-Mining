@@ -1,0 +1,1 @@
+{"text": "I wear a size 10, and another 1/8&#34; would be perfect.  The width is very good, and they offer great support.  Nice fabric, EZ care.  Sturdy soles so I can go outdoors as needed during my day.", "sentiment": "negative", "topics": {"0": "0.07421292", "1": "0.5140865", "2": "0.11915072", "4": "0.064321935", "5": "0.05733872", "6": "0.16464199"}}

@@ -1,0 +1,1 @@
+{"text": "great coat for keeping the rain off.  Love to walk in the rain and this did the trick.Durable too", "sentiment": "negative", "topics": {"0": "0.014313899", "1": "0.4669413", "2": "0.014364997", "3": "0.014316589", "4": "0.46145812", "5": "0.014314255", "6": "0.014290819"}}

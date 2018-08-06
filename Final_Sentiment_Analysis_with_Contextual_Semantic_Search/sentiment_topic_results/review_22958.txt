@@ -1,0 +1,1 @@
+{"text": "I would definitely recommend these pants.  They fit well and the color is great.  We buy Dickies pant a lot for their durability.", "sentiment": "positive", "topics": {"0": "0.0102295745", "1": "0.6642624", "2": "0.22219537", "3": "0.07266926", "4": "0.010216444", "5": "0.010218689", "6": "0.01020822"}}

@@ -1,0 +1,1 @@
+{"text": "Uggs are great snow boots to pull on when you have to do something quick and you don't feel like lacing up snow boots.", "sentiment": "negative", "topics": {"0": "0.25760633", "1": "0.11521514", "2": "0.1061592", "3": "0.011000935", "4": "0.26856434", "5": "0.23041886", "6": "0.0110352095"}}

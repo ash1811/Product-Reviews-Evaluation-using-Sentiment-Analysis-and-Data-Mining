@@ -1,0 +1,1 @@
+{"text": "These are great to wear in the summer with clogs to keep your feet from getting sweaty and rubbing on the inside of your shoes.  They stay on well, and are a good length for the clogs that I have.", "sentiment": "negative", "topics": {"1": "0.49041572", "2": "0.1028584", "3": "0.11093176", "4": "0.07756731", "5": "0.11118244", "6": "0.099078305"}}

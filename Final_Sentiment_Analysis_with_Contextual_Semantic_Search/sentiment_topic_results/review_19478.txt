@@ -1,0 +1,1 @@
+{"text": "These sandals give good support to my feet and are comfortable to wear when walking around all day. Wore them recently on a vacation to Disney World, a lot of walking, and my feet felt fine at the end of the day.", "sentiment": "positive", "topics": {"0": "0.0803982", "1": "0.11404302", "2": "0.2072064", "3": "0.100257136", "4": "0.14317152", "5": "0.3487023"}}

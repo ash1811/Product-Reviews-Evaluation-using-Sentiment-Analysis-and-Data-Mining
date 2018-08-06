@@ -1,0 +1,1 @@
+{"text": "goes perfect with my sneakers, bored of white sox all the time. goes great with my jordans material holds up great", "sentiment": "negative", "topics": {"0": "0.44960487", "1": "0.010247811", "2": "0.01021343", "3": "0.16534556", "4": "0.010223244", "5": "0.3441357", "6": "0.010229373"}}

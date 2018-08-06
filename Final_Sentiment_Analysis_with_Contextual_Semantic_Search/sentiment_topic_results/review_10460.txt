@@ -1,0 +1,1 @@
+{"text": "The only problem with this product is that you can't stop using them, I think I will love them forever", "sentiment": "negative", "topics": {"0": "0.17720062", "1": "0.014357055", "2": "0.01435253", "3": "0.15322351", "4": "0.1938406", "5": "0.43273702", "6": "0.014288684"}}

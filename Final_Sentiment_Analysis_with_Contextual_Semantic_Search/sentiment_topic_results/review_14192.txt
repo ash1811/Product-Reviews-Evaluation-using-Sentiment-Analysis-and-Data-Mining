@@ -1,0 +1,1 @@
+{"text": "they feel comfrontable they are adjustable and they stay on and don't fall off matches my BDU shirt so all and all good", "sentiment": "positive", "topics": {"0": "0.46991405", "1": "0.35291296", "2": "0.11973949", "3": "0.014388557", "4": "0.014392848", "5": "0.01433071", "6": "0.014321362"}}

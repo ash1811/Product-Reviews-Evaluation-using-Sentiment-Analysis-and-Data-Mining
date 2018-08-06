@@ -1,0 +1,1 @@
+{"text": "It is a high quality product.I think it was the best choice.Ideal, beautiful and elegant!Excellent relationship between product quality, price and service.Highly recommended.", "sentiment": "negative", "topics": {"1": "0.35732654", "2": "0.08493323", "3": "0.08190524", "4": "0.12561709", "5": "0.12989464", "6": "0.21078332"}}

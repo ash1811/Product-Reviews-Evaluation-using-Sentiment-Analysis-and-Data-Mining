@@ -1,0 +1,1 @@
+{"text": "My husband finds the slippers very comfortable and of good quality.  He will definitely buy them in the future. Thank you for a good product and good service.", "sentiment": "negative", "topics": {"1": "0.44951186", "2": "0.07298089", "3": "0.06001921", "4": "0.20024839", "5": "0.10551497", "6": "0.10218917"}}

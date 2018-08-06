@@ -1,0 +1,1 @@
+{"text": "It is a great style with great support. It fits perfectly. It looks great. The straps are not too wide for most clothing.", "sentiment": "positive", "topics": {"0": "0.011920164", "1": "0.8380587", "2": "0.10230503", "3": "0.011939239", "4": "0.011935188", "5": "0.011933903", "6": "0.0119077945"}}

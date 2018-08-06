@@ -1,0 +1,1 @@
+{"text": "I work a 12-hour night shift in a busy ER. I can't say enough about how comfortable these shoes are! They are light and airy and fit snugly without pinching or squeezing. These are the only shoes that I buy for work.", "sentiment": "positive", "topics": {"1": "0.3964008", "2": "0.24027738", "4": "0.12126031", "5": "0.10000449", "6": "0.12961052"}}

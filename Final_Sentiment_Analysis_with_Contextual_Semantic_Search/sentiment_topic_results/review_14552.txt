@@ -1,0 +1,1 @@
+{"text": "I know it is nota very expensive sunglasses, but I think it is very ordinary. I am talking about quality. Shipping was fast", "sentiment": "negative", "topics": {"0": "0.0130024105", "1": "0.39394417", "2": "0.30456638", "3": "0.1481264", "4": "0.013075611", "5": "0.114271544", "6": "0.013013498"}}

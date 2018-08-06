@@ -1,0 +1,1 @@
+{"text": "These look nice but were too tight across the top.  I ordered a six 1/2 wide.  A 7 would have been too long.  Returned for refund.", "sentiment": "negative", "topics": {"0": "0.1228486", "1": "0.5541321", "3": "0.2848117"}}

@@ -1,0 +1,1 @@
+{"text": "It's a regular levi's. The light blue is a very friendly opcion. This model is a little high in hip.", "sentiment": "negative", "topics": {"0": "0.20125183", "1": "0.013053902", "2": "0.013012311", "3": "0.15071906", "4": "0.101614825", "5": "0.013000942", "6": "0.5073471"}}

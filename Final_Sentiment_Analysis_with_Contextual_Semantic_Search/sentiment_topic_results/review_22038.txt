@@ -1,0 +1,1 @@
+{"text": "I bought these glasses because i was looking for a new pair for work. They have gotten dropped a couple of times and never had any damage to them.", "sentiment": "positive", "topics": {"0": "0.010259809", "1": "0.2371774", "2": "0.010242843", "3": "0.3915977", "4": "0.13132791", "5": "0.13442609", "6": "0.08496827"}}

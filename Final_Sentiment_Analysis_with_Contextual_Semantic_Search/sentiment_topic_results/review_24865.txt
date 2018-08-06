@@ -1,0 +1,1 @@
+{"text": "Wow, i could order these beloved slippers through amazon.com.  They are the greatest even in colder weather.  Just slip on and off. They are wide at the toe section - like toes should be.", "sentiment": "negative", "topics": {"0": "0.31514287", "1": "0.3781406", "2": "0.08426215", "6": "0.19986032"}}

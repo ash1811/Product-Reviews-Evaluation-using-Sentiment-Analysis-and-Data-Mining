@@ -1,0 +1,1 @@
+{"text": "nice solid sweatshirt.  soft, comfy, nicer than a $7 Wal-Mart special.  i apprecated the tall sizes - tall guys, this is a great pick.", "sentiment": "negative", "topics": {"0": "0.19067714", "1": "0.2139778", "2": "0.27945986", "3": "0.10489645", "4": "0.19410402"}}

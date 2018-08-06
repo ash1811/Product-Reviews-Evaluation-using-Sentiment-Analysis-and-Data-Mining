@@ -1,0 +1,1 @@
+{"text": "i needed cheap and effective sunglasses, that looked nice, they look super nice, not to big not too small, and they do protect very well from the sunlight so I highly recommend them :)", "sentiment": "positive", "topics": {"1": "0.59656346", "2": "0.14031251", "4": "0.099280864", "5": "0.13858263"}}

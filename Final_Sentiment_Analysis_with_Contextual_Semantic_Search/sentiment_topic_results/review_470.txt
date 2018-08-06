@@ -1,0 +1,1 @@
+{"text": "Nice to see more colors.  Wife loves this brand and style. no ride up or down  they stay in place.  we hope they will make the High leg in more colors", "sentiment": "positive", "topics": {"1": "0.33977112", "3": "0.36553648", "4": "0.25888014"}}

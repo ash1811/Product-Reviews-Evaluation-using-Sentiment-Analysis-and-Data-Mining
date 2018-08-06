@@ -1,0 +1,1 @@
+{"text": "these are so bright and neon i love them.. i got two pairs and cant wait to wear them with my rave clothes to a rave", "sentiment": "positive", "topics": {"0": "0.010234507", "1": "0.010246059", "2": "0.15393092", "3": "0.5683905", "4": "0.010270213", "5": "0.010241404", "6": "0.23668642"}}

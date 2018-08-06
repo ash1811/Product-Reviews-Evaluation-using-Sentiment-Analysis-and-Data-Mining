@@ -1,0 +1,1 @@
+{"text": "i had purchased  a black pair before and was real pleased- as a person with wide feet it is indeed difficult at most times to  purchase shoes on line- am real pleased with my purchase", "sentiment": "negative", "topics": {"1": "0.581852", "2": "0.18819068", "4": "0.14166702", "6": "0.06437588"}}

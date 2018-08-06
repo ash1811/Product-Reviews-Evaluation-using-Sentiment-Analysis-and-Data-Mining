@@ -1,0 +1,1 @@
+{"text": "My husband always buys Levis brand and this style of jeans. It is the perfect fit and they are high quality. I'm glad they are available on amazon because I've done most of my shipping this year online.", "sentiment": "positive", "topics": {"1": "0.27161136", "2": "0.07227448", "3": "0.19989198", "4": "0.35618573", "6": "0.086391516"}}

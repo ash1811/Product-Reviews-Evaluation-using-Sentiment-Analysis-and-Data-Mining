@@ -1,0 +1,1 @@
+{"text": "These boots are very well made and very stylish, as well.  Great fit.  True to size.  The color variation in the leather can go with black or brown color schemes.", "sentiment": "positive", "topics": {"1": "0.55914843", "2": "0.0753024", "3": "0.19558477", "4": "0.06535111", "6": "0.088715725"}}

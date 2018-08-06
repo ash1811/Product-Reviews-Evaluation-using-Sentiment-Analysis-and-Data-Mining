@@ -1,0 +1,1 @@
+{"text": "This is pretty cute for the price.  A bit cheaper in quality than the small picture makes it look, but for the price, it serves it's purpose.  My 2 year old niece loves it!", "sentiment": "positive", "topics": {"0": "0.4077689", "1": "0.24116239", "2": "0.06717908", "3": "0.2624133"}}

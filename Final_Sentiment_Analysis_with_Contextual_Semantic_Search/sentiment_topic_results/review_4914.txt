@@ -1,0 +1,1 @@
+{"text": "I bought these to go snowshoeing in and they worked very well. At the end of the day my feet were warm, dry and comfortable. They just feel really nice to put on.", "sentiment": "negative", "topics": {"1": "0.48075268", "4": "0.2385933", "6": "0.24692062"}}

@@ -1,0 +1,1 @@
+{"text": "I love these sandals.  They mold to your feet, so the first time isn't the best, but after wearing them a couple times, your feet actually imprint into the sandals and it makes them super comfortable.  Definitely recommend", "sentiment": "positive", "topics": {"1": "0.49314708", "3": "0.09975064", "4": "0.18244217", "5": "0.20317097"}}

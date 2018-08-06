@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift for my husband and it looks really sharp on his arm. He has smaller wrist and this fits perfectly.", "sentiment": "negative", "topics": {"0": "0.15960969", "1": "0.35206696", "2": "0.11001868", "3": "0.07296328", "4": "0.18400736", "5": "0.1094119", "6": "0.011922135"}}

@@ -1,0 +1,1 @@
+{"text": "I will be purchasing more.These are very confortable and keep my toes from getting blisters on long runs.These socks also make a great conversation peice.I think the quality of these socks is better then most normal socks.", "sentiment": "negative", "topics": {"0": "0.122135155", "1": "0.27064478", "3": "0.14781164", "4": "0.056500647", "5": "0.38990638"}}

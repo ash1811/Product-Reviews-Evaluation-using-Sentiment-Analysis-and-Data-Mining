@@ -1,0 +1,1 @@
+{"text": "&#34;This is the real deal. Cork, leather, a buckle or two&#34;. These are nubuck but I will keep them since they were priced as such.", "sentiment": "negative", "topics": {"0": "0.09291578", "1": "0.13774242", "2": "0.21486233", "3": "0.1800277", "4": "0.011024163", "5": "0.27029964", "6": "0.09312795"}}

@@ -1,0 +1,1 @@
+{"text": "I listened to the other reviewers and ordered this boot in my actual size (I did not go up a half size like some had suggested).  I love them!  They are comfy and stylish.  I recommend them highly!", "sentiment": "negative", "topics": {"1": "0.14071682", "3": "0.39236727", "4": "0.13927293", "6": "0.30501214"}}

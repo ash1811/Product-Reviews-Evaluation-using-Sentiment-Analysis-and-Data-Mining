@@ -1,0 +1,1 @@
+{"text": "This watch give great timing, and the only reason it needs to be replaced every couple of years is that the thin strap breaks.", "sentiment": "negative", "topics": {"0": "0.20671709", "1": "0.35087636", "2": "0.21515334", "3": "0.10973622", "4": "0.010244285", "5": "0.010252291", "6": "0.097020395"}}

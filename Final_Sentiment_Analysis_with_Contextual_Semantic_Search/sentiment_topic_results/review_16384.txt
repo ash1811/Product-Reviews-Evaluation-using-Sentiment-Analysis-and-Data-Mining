@@ -1,0 +1,1 @@
+{"text": "Reasonably comfortable and great for around the house or around the pool.....good value for the price.  Would purchase again.  Would have liked to see a little more arch suport", "sentiment": "positive", "topics": {"0": "0.09817668", "1": "0.26163024", "3": "0.22174792", "4": "0.26855454", "6": "0.13473405"}}

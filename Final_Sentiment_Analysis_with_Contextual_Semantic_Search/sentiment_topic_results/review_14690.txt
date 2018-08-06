@@ -1,0 +1,1 @@
+{"text": "I love thati there are no ties or fasteners to slow putting on or removing these shoes.  The elastic near the ankle assures a comfy fit and allows some felexibility.  I also  like the attractivesuede surface texture.", "sentiment": "negative", "topics": {"0": "0.17062883", "1": "0.15535524", "2": "0.1227611", "3": "0.22089018", "4": "0.25465727", "6": "0.0691964"}}

@@ -1,0 +1,1 @@
+{"text": "been wearing these for years. Stores generally don't have odd waist sizes and amazon on line is a great resource. good quality, last a long time.", "sentiment": "positive", "topics": {"1": "0.5289622", "2": "0.06516642", "3": "0.13869704", "4": "0.1415483", "6": "0.108741924"}}

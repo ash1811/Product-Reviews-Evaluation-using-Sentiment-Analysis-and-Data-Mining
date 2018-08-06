@@ -1,0 +1,1 @@
+{"text": "I like the bootcut fit of these pants. I think they make my legs look slimmer. I would recommend this style.", "sentiment": "negative", "topics": {"0": "0.14863342", "1": "0.5994141", "2": "0.01103385", "3": "0.20784515", "4": "0.01102151", "5": "0.011025733", "6": "0.011026261"}}

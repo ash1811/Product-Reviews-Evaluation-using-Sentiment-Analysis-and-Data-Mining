@@ -1,0 +1,1 @@
+{"text": "I bought these jeans for my brother for Christmas and he said they fit great and he loved them a lot.", "sentiment": "negative", "topics": {"0": "0.014312754", "1": "0.3384779", "2": "0.014313056", "3": "0.014354183", "4": "0.014322976", "5": "0.44700095", "6": "0.15721814"}}

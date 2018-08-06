@@ -1,0 +1,1 @@
+{"text": "The color is gorgeous ~ very different.  The clasp is very easy to adjust and stays securely fastened.The band is very comfortable and I really like how thin the case is.", "sentiment": "negative", "topics": {"1": "0.45395568", "2": "0.15863128", "4": "0.35365653"}}

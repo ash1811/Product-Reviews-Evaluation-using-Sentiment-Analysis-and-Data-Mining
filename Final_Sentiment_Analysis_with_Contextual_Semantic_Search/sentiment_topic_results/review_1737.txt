@@ -1,0 +1,1 @@
+{"text": "I love these. They do not ride up and are crazy comfortable.  I think they look cute as well. They arrived very quickly. I also love the price. Thanks!", "sentiment": "negative", "topics": {"0": "0.28425428", "1": "0.46009943", "2": "0.0782939", "4": "0.15050057"}}

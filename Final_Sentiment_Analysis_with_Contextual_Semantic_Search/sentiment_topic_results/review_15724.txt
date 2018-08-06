@@ -1,0 +1,1 @@
+{"text": "It's is simple when it comes to designer. They are awesomely comfortable and fit. Bought 2 and now I am placing an order for 5 more. They simply are the best.", "sentiment": "positive", "topics": {"0": "0.32917288", "1": "0.32088155", "2": "0.11070406", "6": "0.21051691"}}

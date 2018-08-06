@@ -1,0 +1,1 @@
+{"text": "These are comfortable, wash and dry like a breeze and move with you.  Comfortable under slacks no matter how tight.", "sentiment": "negative", "topics": {"0": "0.011920948", "1": "0.44192338", "2": "0.011918553", "3": "0.011963323", "4": "0.22195856", "5": "0.15438749", "6": "0.14592774"}}

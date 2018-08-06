@@ -1,0 +1,1 @@
+{"text": "JanSport always makes good backpack and this one is no exception.  The backpack actually looks better in real life because all those doodles are tiny drawings of all kinds of caricatures.  Very neat.", "sentiment": "negative", "topics": {"1": "0.16186436", "2": "0.43840152", "3": "0.15078765", "4": "0.10232715", "6": "0.13228613"}}

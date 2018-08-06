@@ -1,0 +1,1 @@
+{"text": "Theses have great pockets for that extra room and wash and wear great. They are cool light fabric and soft not rough. Great buy!", "sentiment": "negative", "topics": {"1": "0.47481915", "2": "0.07932435", "3": "0.08368643", "5": "0.3353498"}}

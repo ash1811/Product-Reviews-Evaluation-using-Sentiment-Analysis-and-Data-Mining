@@ -1,0 +1,1 @@
+{"text": "no blisters - wear all the time.probably will buy another pair just in case god forbid something happens to this pair. :)", "sentiment": "negative", "topics": {"0": "0.09128556", "1": "0.40399835", "2": "0.011022611", "3": "0.27652165", "4": "0.10096474", "5": "0.011001697", "6": "0.1052054"}}

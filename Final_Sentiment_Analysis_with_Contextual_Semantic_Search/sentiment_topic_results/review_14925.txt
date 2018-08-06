@@ -1,0 +1,1 @@
+{"text": "I get smiled at, winked at, flowers thrown at, phone numbers handed to me, cookies baked for me.....etc. These jeans are the original true and classic pimp jeans.", "sentiment": "positive", "topics": {"0": "0.22876815", "2": "0.31871045", "5": "0.22051163", "6": "0.21244381"}}

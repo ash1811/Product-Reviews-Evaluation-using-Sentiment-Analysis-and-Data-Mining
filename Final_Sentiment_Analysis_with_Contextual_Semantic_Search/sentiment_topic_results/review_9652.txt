@@ -1,0 +1,1 @@
+{"text": "I do love this watch. Where I work I need the big numbers and the second hand. The light behind is just great. My old Timex is starting to quit and becoming unreliable.I had it over 20 years, so it was time to get another one.", "sentiment": "positive", "topics": {"0": "0.052237574", "1": "0.42913073", "2": "0.1916696", "4": "0.12267426", "6": "0.19235036"}}

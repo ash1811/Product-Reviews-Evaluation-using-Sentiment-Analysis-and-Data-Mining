@@ -1,0 +1,1 @@
+{"text": "this purse it great quality.....it has many pocket/ a lot of space....no defects...amazing price and made to last...:)i will be buying another in the color  black", "sentiment": "negative", "topics": {"1": "0.2814188", "2": "0.20060347", "4": "0.32696354", "6": "0.16415669"}}

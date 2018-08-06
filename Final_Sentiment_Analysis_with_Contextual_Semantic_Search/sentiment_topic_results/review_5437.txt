@@ -1,0 +1,1 @@
+{"text": "Good hood,  the torso is too short, and the drawstrings are cheap. The material is comfort blend but its not that comfortable . I guess for a cheap work hoodie it will do", "sentiment": "positive", "topics": {"0": "0.1255879", "1": "0.19359207", "2": "0.3396188", "4": "0.14534198", "6": "0.17673397"}}

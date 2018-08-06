@@ -1,0 +1,1 @@
+{"text": "This was a good sexy outfit that gives alot of acess to what you want without takeing it off and nice soft materal", "sentiment": "negative", "topics": {"0": "0.011035617", "1": "0.5632778", "2": "0.0110358605", "3": "0.16658534", "4": "0.011013259", "5": "0.22605458", "6": "0.010997527"}}

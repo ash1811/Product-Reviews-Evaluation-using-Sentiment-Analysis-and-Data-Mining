@@ -1,0 +1,1 @@
+{"text": "it is very nice under weare and the material very nice and i can weare any time in the morinig and very", "sentiment": "positive", "topics": {"0": "0.017897049", "1": "0.38193104", "2": "0.017861571", "3": "0.017882982", "4": "0.017867401", "5": "0.52869153", "6": "0.017868433"}}

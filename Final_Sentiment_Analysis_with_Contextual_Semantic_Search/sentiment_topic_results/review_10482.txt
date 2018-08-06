@@ -1,0 +1,1 @@
+{"text": "these are wonderfully soft and comfy. The sole is on the thin side but I am not walking the dogs in them. Wish I would have gotten some Uggs sooner.", "sentiment": "negative", "topics": {"0": "0.24484344", "2": "0.13044555", "3": "0.17962943", "4": "0.13604634", "5": "0.22037975", "6": "0.07907985"}}

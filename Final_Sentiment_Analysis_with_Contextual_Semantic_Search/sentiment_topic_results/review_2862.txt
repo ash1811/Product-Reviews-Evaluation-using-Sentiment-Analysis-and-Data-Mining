@@ -1,0 +1,1 @@
+{"text": "The material of the shirt is what I had hoped for. Its a cool and doesn't wrinkle easily. These shirts should last a good while and if I find that they are ever being offered a reduced price, I intend to purchase more of them.", "sentiment": "positive", "topics": {"0": "0.3498071", "1": "0.25933057", "4": "0.21096589", "6": "0.15722951"}}

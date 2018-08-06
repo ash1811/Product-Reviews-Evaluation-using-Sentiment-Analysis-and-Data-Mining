@@ -1,0 +1,1 @@
+{"text": "Bought this to wear under pirate hat. It's a great item, and I can see why bikers would use it. It's sturdy and made from good material.", "sentiment": "positive", "topics": {"0": "0.13478705", "1": "0.57615274", "4": "0.1852372", "6": "0.07693729"}}

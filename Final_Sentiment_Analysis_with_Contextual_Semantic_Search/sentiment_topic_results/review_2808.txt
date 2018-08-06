@@ -1,0 +1,1 @@
+{"text": "I love the sneakers.  They are better quality than the ones at Payless, and a good price too.", "sentiment": "negative", "topics": {"0": "0.48492151", "1": "0.4432326", "2": "0.01444572", "3": "0.014323374", "4": "0.014421975", "5": "0.01434066", "6": "0.014314187"}}

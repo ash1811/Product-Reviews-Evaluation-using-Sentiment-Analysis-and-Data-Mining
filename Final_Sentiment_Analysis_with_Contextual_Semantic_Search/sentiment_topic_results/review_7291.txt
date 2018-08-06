@@ -1,0 +1,1 @@
+{"text": "He likes this T shirt,it goes very well with his cargo mens shorts,The color  shirt was hard to find until we  found it here,Thanks..Thelma", "sentiment": "negative", "topics": {"0": "0.30615792", "1": "0.5301692", "2": "0.122724414", "3": "0.010231233", "4": "0.010244871", "5": "0.01024229", "6": "0.010230074"}}

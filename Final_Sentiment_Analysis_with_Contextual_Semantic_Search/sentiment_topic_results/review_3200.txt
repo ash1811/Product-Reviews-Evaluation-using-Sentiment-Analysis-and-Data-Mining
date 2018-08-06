@@ -1,0 +1,1 @@
+{"text": "good Jeans, tough and durable so far but the 35 waist is really a 34 but other than that its great", "sentiment": "positive", "topics": {"0": "0.013034478", "1": "0.4003429", "2": "0.22136316", "3": "0.01301958", "4": "0.013022381", "5": "0.13074346", "6": "0.20847405"}}

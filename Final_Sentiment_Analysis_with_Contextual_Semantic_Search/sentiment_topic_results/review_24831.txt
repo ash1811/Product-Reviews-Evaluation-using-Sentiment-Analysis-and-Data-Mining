@@ -1,0 +1,1 @@
+{"text": "My husband couldn't be happier with what he calls the most comfortable shoes ever. We were even more pleased with the price from Amazon, definitely cheaper than his first pair from a sports store.", "sentiment": "negative", "topics": {"1": "0.27272436", "2": "0.26917425", "3": "0.052971043", "4": "0.23617414", "5": "0.15209591"}}

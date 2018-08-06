@@ -1,0 +1,1 @@
+{"text": "The colors are pastel and they are bright, not to bright though.  The crystals catch the light and the crystals sparkle and dance!  Love it, It's easy to put on by yourself.", "sentiment": "negative", "topics": {"0": "0.35066628", "2": "0.089628644", "4": "0.2498601", "5": "0.19692652", "6": "0.096026696"}}

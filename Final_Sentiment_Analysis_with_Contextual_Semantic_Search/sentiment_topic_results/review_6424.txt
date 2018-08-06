@@ -1,0 +1,1 @@
+{"text": "Made with tougher material than most T-s**** and stains wash out much easier. The talls I purchased are plenty long unlike most \"tall\" sizes.", "sentiment": "positive", "topics": {"0": "0.22068582", "1": "0.37682107", "2": "0.06978442", "4": "0.19212545", "6": "0.122648366"}}

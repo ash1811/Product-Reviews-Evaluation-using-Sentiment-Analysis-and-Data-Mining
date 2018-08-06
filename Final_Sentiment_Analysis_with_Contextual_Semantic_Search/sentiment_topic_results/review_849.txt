@@ -1,0 +1,1 @@
+{"text": "Fit well, very comfortable. The air pocket heel gives you the feel of a sneaker while wearing a flip flop.", "sentiment": "positive", "topics": {"0": "0.011089658", "1": "0.5724715", "2": "0.11350055", "3": "0.011060586", "4": "0.011037458", "5": "0.26971084", "6": "0.0111294305"}}

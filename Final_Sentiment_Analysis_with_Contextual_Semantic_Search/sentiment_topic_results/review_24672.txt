@@ -1,0 +1,1 @@
+{"text": "This is a great all leather sandal.  Very comfortable and perfect fit by size.", "sentiment": "negative", "topics": {"0": "0.017883042", "1": "0.5976505", "2": "0.17126802", "3": "0.15950584", "4": "0.017868914", "5": "0.017871007", "6": "0.017952707"}}

@@ -1,0 +1,1 @@
+{"text": "I really like the watch. The band looks ugly in the pictures but is actually really nice . good looking watch. Ib thought I was luminous but really only glow in the dark. Still, great watch at good price.", "sentiment": "negative", "topics": {"1": "0.31046018", "2": "0.21709366", "3": "0.44949"}}

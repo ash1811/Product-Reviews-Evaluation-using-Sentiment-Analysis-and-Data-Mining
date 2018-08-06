@@ -1,0 +1,1 @@
+{"text": "I had the plain white version of this a few years ago and loved them, but this time I wanted just a little bit of color. This was perfect. They are very comfortable and true to size. Highly recommend!", "sentiment": "negative", "topics": {"1": "0.60434705", "3": "0.18596666", "5": "0.09673138", "6": "0.09033808"}}

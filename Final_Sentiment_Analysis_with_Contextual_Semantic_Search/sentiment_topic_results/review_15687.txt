@@ -1,0 +1,1 @@
+{"text": "These are a good fit.  Snug where you want it and room where you need it.  Finally Calvin has given us room up front to breath.", "sentiment": "positive", "topics": {"0": "0.20029858", "1": "0.29262134", "2": "0.09590823", "3": "0.21833651", "6": "0.17375809"}}

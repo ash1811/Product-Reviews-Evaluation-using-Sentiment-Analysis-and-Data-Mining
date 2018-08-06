@@ -1,0 +1,1 @@
+{"text": "It's cut fine, but the material is scratchy and would probably grab a lot of lint. Perhaps, a really good wash and fabric softener would help, but I didn't want to risk it and make it non-returnable. I returned it right away.", "sentiment": "negative", "topics": {"0": "0.19692338", "1": "0.36519855", "2": "0.19783632", "3": "0.10578972", "6": "0.122763164"}}

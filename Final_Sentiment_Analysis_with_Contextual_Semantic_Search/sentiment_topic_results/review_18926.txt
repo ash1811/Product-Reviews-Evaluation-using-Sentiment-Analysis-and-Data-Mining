@@ -1,0 +1,1 @@
+{"text": "I have other Levis 514, they are amazing, so slim and the jeans fits well, very soft!The price are the best, there are jeans much more expensive that don't fit like Levis!!!!!", "sentiment": "negative", "topics": {"1": "0.36545417", "2": "0.076097205", "4": "0.17583634", "5": "0.20574953", "6": "0.16003132"}}

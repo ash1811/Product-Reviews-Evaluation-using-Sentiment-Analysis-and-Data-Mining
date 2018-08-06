@@ -1,0 +1,1 @@
+{"text": "This is my second one.  The first one did not last as long as I would have liked as the stitching gave out.  I still rate it a 5 Star, because the bag is so well designed.", "sentiment": "negative", "topics": {"1": "0.47442728", "3": "0.09450258", "4": "0.4008983"}}

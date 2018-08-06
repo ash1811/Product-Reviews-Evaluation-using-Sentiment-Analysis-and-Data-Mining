@@ -1,0 +1,1 @@
+{"text": "These aren't cheap-feeling socks - great for working out in - don't slide down at all and have a very comfy fit!", "sentiment": "negative", "topics": {"0": "0.01788207", "1": "0.43101278", "2": "0.15873976", "3": "0.017945303", "4": "0.20927142", "5": "0.14724264", "6": "0.017906044"}}

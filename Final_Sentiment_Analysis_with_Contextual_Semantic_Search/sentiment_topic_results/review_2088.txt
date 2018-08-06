@@ -1,0 +1,1 @@
+{"text": "Loved by the recipient!  Stylish and not clunky.  The color is rich.  Shoes are very comfortable.  They said they'd buy another pair.", "sentiment": "positive", "topics": {"0": "0.08912588", "1": "0.46931177", "2": "0.087010205", "3": "0.010302711", "4": "0.010250448", "5": "0.15598412", "6": "0.17801483"}}

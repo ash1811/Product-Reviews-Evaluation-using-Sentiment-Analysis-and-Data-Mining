@@ -1,0 +1,1 @@
+{"text": "Our daughter loves this leotard the fit was perfect and she loved the maroon deep red color she is wearing it to pointe class today", "sentiment": "positive", "topics": {"1": "0.5132043", "3": "0.27552587", "5": "0.17307447"}}

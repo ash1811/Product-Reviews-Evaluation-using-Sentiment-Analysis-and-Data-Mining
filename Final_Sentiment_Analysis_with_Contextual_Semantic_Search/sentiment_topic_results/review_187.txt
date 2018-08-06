@@ -1,0 +1,1 @@
+{"text": "Great shorts, had them over 2 years and still wearing them to the gym, outside, and around the house.  Recommend.", "sentiment": "negative", "topics": {"0": "0.41258538", "1": "0.0119807385", "2": "0.011930171", "3": "0.52772325", "4": "0.01191097", "5": "0.01194317", "6": "0.011926339"}}

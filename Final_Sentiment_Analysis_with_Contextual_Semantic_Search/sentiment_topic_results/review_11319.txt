@@ -1,0 +1,1 @@
+{"text": "Purchased these sweats to put on after water arobics. They are very comfortable and will never go out of style. Grey sweats are a forever the best for men, women and children. Peace", "sentiment": "positive", "topics": {"1": "0.3669716", "2": "0.059650414", "3": "0.06951486", "4": "0.3023083", "5": "0.13116768", "6": "0.062438693"}}

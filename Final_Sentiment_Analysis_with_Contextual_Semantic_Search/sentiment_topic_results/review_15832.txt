@@ -1,0 +1,1 @@
+{"text": "Bras are the hardes garmet for me to find a perfect fit. The straps are comfy, the cups have great support without being restrictive and give coverage without being stiff.", "sentiment": "negative", "topics": {"0": "0.24301712", "1": "0.24152023", "2": "0.07829453", "3": "0.2870444", "4": "0.13423428"}}

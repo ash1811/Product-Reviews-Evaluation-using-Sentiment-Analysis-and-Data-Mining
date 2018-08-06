@@ -1,0 +1,1 @@
+{"text": "I love love love these sandals!  They're so comfortable and appear they will last the rest of my lifetime.  I only wish I could wear them more often. :)", "sentiment": "negative", "topics": {"1": "0.36081442", "4": "0.5914467"}}

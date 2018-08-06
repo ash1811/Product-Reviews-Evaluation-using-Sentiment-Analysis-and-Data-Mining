@@ -1,0 +1,1 @@
+{"text": "This is a very nice quality leotard. The fabric is soft and it's not too thin and it washes very nicely. Perfect for dance class!", "sentiment": "negative", "topics": {"0": "0.011936182", "1": "0.53468066", "2": "0.011942889", "3": "0.1554728", "4": "0.011917839", "5": "0.17161417", "6": "0.102435485"}}

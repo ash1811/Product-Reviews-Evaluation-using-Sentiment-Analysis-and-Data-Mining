@@ -1,0 +1,1 @@
+{"text": "These are great boots they seem to hold up to any kind of work you do. The steel toe protect you toes they are not too heavy or too light weight. Love them", "sentiment": "positive", "topics": {"1": "0.3817555", "3": "0.10363842", "4": "0.23317084", "5": "0.12418808", "6": "0.13929334"}}

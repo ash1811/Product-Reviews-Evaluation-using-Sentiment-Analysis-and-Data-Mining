@@ -1,0 +1,1 @@
+{"text": "My son has stolen this backpack from my other son. It is a nice choice...very sturdy but not too bulky. Took it traveling around Dominican Republic and it was perfect. Would be great for school too.", "sentiment": "positive", "topics": {"0": "0.09873075", "1": "0.45317805", "2": "0.23282982", "5": "0.09257186", "6": "0.107627735"}}

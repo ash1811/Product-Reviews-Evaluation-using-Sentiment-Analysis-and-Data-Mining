@@ -1,0 +1,1 @@
+{"text": "These are great fitting jeans. They are thick and well made. I even use them with a sports coat for casual dress", "sentiment": "negative", "topics": {"0": "0.011025336", "1": "0.5043647", "2": "0.011026676", "3": "0.011028705", "4": "0.011024795", "5": "0.44049838", "6": "0.01103134"}}

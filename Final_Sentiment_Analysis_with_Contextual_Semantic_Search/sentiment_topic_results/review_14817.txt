@@ -1,0 +1,1 @@
+{"text": "Makes precious stones sparkle.  I've tried 3 different Gem cleaners, they all have the similar results.  You only need a little bit added to water (it is concentrated), so it lasts a long time.", "sentiment": "negative", "topics": {"1": "0.3793347", "2": "0.11685891", "3": "0.20720217", "4": "0.0729119", "5": "0.10249585", "6": "0.11496119"}}

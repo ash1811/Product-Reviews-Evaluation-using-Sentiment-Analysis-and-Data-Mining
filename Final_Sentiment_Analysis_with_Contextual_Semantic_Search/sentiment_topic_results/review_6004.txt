@@ -1,0 +1,1 @@
+{"text": "I absolutely love my shawls.  They are great for cool evening, visiting friends, and wearing to church to accentuate outfits.", "sentiment": "negative", "topics": {"0": "0.24143969", "1": "0.011048528", "2": "0.098359026", "3": "0.010994965", "4": "0.30904743", "5": "0.31807733", "6": "0.011033021"}}

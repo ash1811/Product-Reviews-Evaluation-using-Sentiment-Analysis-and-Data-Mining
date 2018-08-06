@@ -1,0 +1,1 @@
+{"text": "my wife loves these shoes but we had to return them as they seem to run a little small on my wifes feet . she loves the look and style of these dexters but needed to up the size by 1/2 size .", "sentiment": "positive", "topics": {"1": "0.14884996", "2": "0.07407952", "3": "0.32640088", "4": "0.27422088", "6": "0.16136558"}}

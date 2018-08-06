@@ -1,0 +1,1 @@
+{"text": "Bought these for my mom for Xmas.  She really likes them.  They also seem to be hypoallergenic.  She is sensitive to that, so it was important.", "sentiment": "positive", "topics": {"0": "0.29590094", "1": "0.011015988", "2": "0.2515809", "3": "0.011025926", "4": "0.40841043", "5": "0.011018951", "6": "0.011046878"}}

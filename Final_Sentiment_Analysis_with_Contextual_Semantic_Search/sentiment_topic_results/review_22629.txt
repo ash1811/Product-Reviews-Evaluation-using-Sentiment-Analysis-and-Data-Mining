@@ -1,0 +1,1 @@
+{"text": "As other reviewers have said it is inconsistent in sizing.Not sure what the cause was, but the quality is not what I expected. I recommend anyone getting this get a size up, these will shrink in the laundry.", "sentiment": "negative", "topics": {"1": "0.3457257", "2": "0.16799489", "3": "0.14518759", "4": "0.0943981", "5": "0.2307676"}}

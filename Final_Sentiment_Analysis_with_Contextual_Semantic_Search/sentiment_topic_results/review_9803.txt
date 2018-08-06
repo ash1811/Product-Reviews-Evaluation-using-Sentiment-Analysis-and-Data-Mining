@@ -1,0 +1,1 @@
+{"text": "Certainly good, but not as good/comfortable as gola (well we are gola fans) but you will be happy with the purchase, nice color and quality. would recommend...", "sentiment": "negative", "topics": {"0": "0.38564634", "1": "0.48267996", "4": "0.09354519"}}

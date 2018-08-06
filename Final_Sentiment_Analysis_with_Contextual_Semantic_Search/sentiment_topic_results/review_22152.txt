@@ -1,0 +1,1 @@
+{"text": "these fit well and are not bulky. perfect addition for anyone who has cold hands at any age or time of the year", "sentiment": "negative", "topics": {"0": "0.011947327", "1": "0.3413323", "2": "0.09488702", "3": "0.011986482", "4": "0.2601105", "5": "0.26782438", "6": "0.01191206"}}

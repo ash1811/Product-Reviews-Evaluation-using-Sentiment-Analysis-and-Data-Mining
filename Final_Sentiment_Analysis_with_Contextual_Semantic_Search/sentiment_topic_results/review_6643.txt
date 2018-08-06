@@ -1,0 +1,1 @@
+{"text": "Comfy, cushy, breathable, love the lace pad on the top of the foot. These socks are well worth their higher price.", "sentiment": "negative", "topics": {"0": "0.15193963", "1": "0.010254197", "2": "0.0102263205", "3": "0.12238451", "4": "0.19811183", "5": "0.27571014", "6": "0.2313734"}}

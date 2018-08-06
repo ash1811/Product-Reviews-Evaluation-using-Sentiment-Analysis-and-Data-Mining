@@ -1,0 +1,1 @@
+{"text": "My grandson wanted a watch. Just a regular plain old analog watch. No bells or whistles needed. This fit the bill to a T. Clean lines and a great value.  He's thrilled and so am I", "sentiment": "positive", "topics": {"1": "0.25628957", "2": "0.28411964", "3": "0.11946191", "4": "0.12937005", "5": "0.19711742"}}

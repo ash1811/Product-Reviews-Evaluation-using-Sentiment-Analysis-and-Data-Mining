@@ -1,0 +1,1 @@
+{"text": "The fit is the same as always but the fabric is different, not so sturdy, I think.  So a bit of a disappointment on a product he's been buying for over 70 years.", "sentiment": "negative", "topics": {"0": "0.14665838", "1": "0.359722", "2": "0.18316543", "3": "0.010234594", "4": "0.010208969", "5": "0.27975377", "6": "0.010256858"}}

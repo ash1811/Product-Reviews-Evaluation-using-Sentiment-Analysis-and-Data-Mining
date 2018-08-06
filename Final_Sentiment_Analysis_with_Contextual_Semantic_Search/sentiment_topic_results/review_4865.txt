@@ -1,0 +1,1 @@
+{"text": "great product for the price. They do run a little long...and I have long legs. I was shocked when I saw the quality...much better quality than I had in mind.", "sentiment": "negative", "topics": {"1": "0.5117362", "2": "0.23212205", "5": "0.12661408", "6": "0.1008582"}}

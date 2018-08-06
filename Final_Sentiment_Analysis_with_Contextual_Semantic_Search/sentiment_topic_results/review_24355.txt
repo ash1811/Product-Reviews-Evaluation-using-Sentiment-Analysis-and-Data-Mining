@@ -1,0 +1,1 @@
+{"text": "Works great for great price and has a very slick look as well.  Doesn't appear to look cheap or be made of a thin material like some other brands.", "sentiment": "negative", "topics": {"1": "0.7613177", "3": "0.12085557", "4": "0.081981316"}}

@@ -1,0 +1,1 @@
+{"text": "This bra is very supportive and comfortable. It's a little intimidating when you first put it on, but is great for running.", "sentiment": "negative", "topics": {"0": "0.013020894", "1": "0.2088959", "2": "0.012999245", "3": "0.31212083", "4": "0.013010031", "5": "0.42695397", "6": "0.012999112"}}

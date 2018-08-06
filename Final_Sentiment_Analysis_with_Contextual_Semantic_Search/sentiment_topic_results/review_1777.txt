@@ -1,0 +1,1 @@
+{"text": "Very nice shoes...my son loved the color and comfort and the lite weight. Would recommend this shoe to everyone  that's looking for a nice running shoe.", "sentiment": "negative", "topics": {"1": "0.4934249", "2": "0.1858897", "5": "0.09046981", "6": "0.20635988"}}

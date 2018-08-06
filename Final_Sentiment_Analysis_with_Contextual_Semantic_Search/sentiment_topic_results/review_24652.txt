@@ -1,0 +1,1 @@
+{"text": "The front of the leotard has a thin lining sewn in.  Very high quality material and the color was true to picture (not too light of a pink).", "sentiment": "negative", "topics": {"0": "0.21907334", "1": "0.38961637", "3": "0.09245959", "5": "0.079184696", "6": "0.20178977"}}

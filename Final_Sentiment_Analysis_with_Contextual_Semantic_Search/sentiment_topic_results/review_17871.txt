@@ -1,0 +1,1 @@
+{"text": "Stars are base on the price and appearance of the product.My secretary likes a lot this watchYes, I recommend this watch for a daily use", "sentiment": "positive", "topics": {"0": "0.3263767", "1": "0.010231765", "2": "0.49496076", "3": "0.010219941", "4": "0.1377698", "5": "0.01022084", "6": "0.010220183"}}

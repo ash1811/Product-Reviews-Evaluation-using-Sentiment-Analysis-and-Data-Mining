@@ -1,0 +1,1 @@
+{"text": "I have a bracelet like this earrings that is why I bought the earrings and they match perfect...I really love them.", "sentiment": "positive", "topics": {"0": "0.55741984", "1": "0.013045743", "2": "0.013061686", "3": "0.3773672", "4": "0.013035192", "5": "0.013047189", "6": "0.013023145"}}

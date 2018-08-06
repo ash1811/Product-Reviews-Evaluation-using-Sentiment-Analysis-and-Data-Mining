@@ -1,0 +1,1 @@
+{"text": "The nape, though comfortable, lasts only one wearing before it is all pulled. Nice feeling but last only 1 or 2 wears, which isn't good. It is hard to find a good compromise between soft and durable.", "sentiment": "negative", "topics": {"0": "0.3033023", "1": "0.4689234", "4": "0.15342093", "6": "0.05389121"}}

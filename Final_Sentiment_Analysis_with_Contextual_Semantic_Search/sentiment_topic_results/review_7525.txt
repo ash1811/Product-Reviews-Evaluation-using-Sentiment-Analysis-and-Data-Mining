@@ -1,0 +1,1 @@
+{"text": "Nice jacket.  Fits as expected and is very sturdy.  My husband, a motorcycle rider, loves it.  We are very pleased with this purchase.", "sentiment": "positive", "topics": {"0": "0.011018165", "1": "0.513726", "2": "0.20434397", "3": "0.09910138", "4": "0.1498128", "5": "0.011004831", "6": "0.010992821"}}

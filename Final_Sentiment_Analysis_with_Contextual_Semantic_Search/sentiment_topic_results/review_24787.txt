@@ -1,0 +1,1 @@
+{"text": "These shorts are nice and heavy. They are nice and heavy, great for everyday summer wear. They are very soft once washed. The waist is elastic but there is also a tied drawstring. The pockets are decent but not too deep. A good pair of shorts.", "sentiment": "positive", "topics": {"0": "0.15307522", "1": "0.51965636", "4": "0.13289705", "6": "0.17567511"}}

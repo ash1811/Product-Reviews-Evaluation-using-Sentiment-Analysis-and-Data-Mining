@@ -1,0 +1,1 @@
+{"text": "The Sketchers are a perfect fit!  Very, very comfortable. Quality is as good too!I wear a large shoe size & sometimes the shoe looks a bit out of proportion, not these!", "sentiment": "negative", "topics": {"1": "0.48438433", "2": "0.2685961", "4": "0.05025908", "5": "0.054463338", "6": "0.12719241"}}

@@ -1,0 +1,1 @@
+{"text": "I love these sunglasses! I don't care for the factory lens(not dark enough) but knew I'd be putting 'script lenses in when I ordered these. I've got a big head and these glasses fit quite well.", "sentiment": "negative", "topics": {"0": "0.12451095", "1": "0.34559318", "2": "0.049103018", "3": "0.33497295", "4": "0.13335167"}}

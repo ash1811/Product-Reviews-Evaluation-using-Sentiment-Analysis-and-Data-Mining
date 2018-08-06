@@ -1,0 +1,1 @@
+{"text": "It's hard to find in shops, so I strongly suggest you buy it here. It's Kiwi shoe polish...quality hasn't changed in decades.", "sentiment": "negative", "topics": {"0": "0.2674087", "1": "0.09563222", "2": "0.31952524", "3": "0.01100762", "4": "0.28443706", "5": "0.010995668", "6": "0.010993558"}}

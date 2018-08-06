@@ -1,0 +1,1 @@
+{"text": "It was ok for a while but as I got further along it did not do much, prob better to invest in a higher quality if you have back probs:)", "sentiment": "negative", "topics": {"0": "0.12490045", "1": "0.34153068", "2": "0.011928496", "3": "0.21375863", "4": "0.01192012", "5": "0.28400505", "6": "0.0119565865"}}

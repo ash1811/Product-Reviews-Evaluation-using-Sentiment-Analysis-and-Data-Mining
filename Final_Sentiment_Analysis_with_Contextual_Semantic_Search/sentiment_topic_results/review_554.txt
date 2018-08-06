@@ -1,0 +1,1 @@
+{"text": "These fit my husband very well and were comfortable, but I would only recommend them for casual wear. He wore them as work pants in a shop, and with all the walking/squatting he does, the crotch wore out after only a couple months.", "sentiment": "positive", "topics": {"1": "0.5605939", "4": "0.22941801", "5": "0.17983086"}}

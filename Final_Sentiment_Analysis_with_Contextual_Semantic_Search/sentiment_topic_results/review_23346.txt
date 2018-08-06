@@ -1,0 +1,1 @@
+{"text": "I have worn these Carhartt shorts for several years. While more expensive than other brands they fit well and are virtually unmatched in durability.", "sentiment": "positive", "topics": {"0": "0.18939322", "1": "0.4613633", "2": "0.1007029", "3": "0.12658004", "4": "0.011015868", "5": "0.01100404", "6": "0.09994062"}}

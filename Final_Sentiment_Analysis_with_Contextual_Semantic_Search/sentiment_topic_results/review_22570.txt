@@ -1,0 +1,1 @@
+{"text": "I love them. Casual but professional, If you put a crease in the legs it is just as good as slacks but one million times more durable.", "sentiment": "negative", "topics": {"0": "0.20286524", "1": "0.1850633", "2": "0.26151592", "3": "0.010236123", "4": "0.23037353", "5": "0.010240602", "6": "0.0997053"}}

@@ -1,0 +1,1 @@
+{"text": "I don't like the traditional men's briefs - the pouch fits so much better - don't know why more men don't know this!", "sentiment": "negative", "topics": {"0": "0.011015578", "1": "0.21520454", "2": "0.36978152", "3": "0.26412326", "4": "0.11781233", "5": "0.011013383", "6": "0.011049367"}}

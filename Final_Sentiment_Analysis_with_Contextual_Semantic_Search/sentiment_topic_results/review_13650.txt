@@ -1,0 +1,1 @@
+{"text": "These shoes are amazing and look great. I got the darker tan and they fit perfect and I have gotten a lot of compliments! They are wonderful and comfortable as well.", "sentiment": "negative", "topics": {"0": "0.09389012", "1": "0.44470733", "2": "0.09341117", "4": "0.19079818", "6": "0.15930551"}}

@@ -1,0 +1,1 @@
+{"text": "i GOT MY SLIPPERS yesterday. I tried them on and found they fit my feet like a glove. they are extremely comfortable. they baby my feet like no other slipper has done. very well pleased with this product", "sentiment": "negative", "topics": {"1": "0.31339142", "2": "0.17621993", "4": "0.18199447", "5": "0.110704824", "6": "0.20337096"}}

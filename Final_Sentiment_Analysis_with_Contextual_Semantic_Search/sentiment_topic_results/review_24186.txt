@@ -1,0 +1,1 @@
+{"text": "I ordered this bra and others through Amazon.com after trudging from store to store attempting to find my size. It was well made and I was pleased with my purchase.", "sentiment": "negative", "topics": {"0": "0.21086761", "1": "0.46625316", "3": "0.2847348"}}

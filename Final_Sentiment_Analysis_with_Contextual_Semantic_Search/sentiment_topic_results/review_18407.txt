@@ -1,0 +1,1 @@
+{"text": "Excellent garment bag! I have looked for one locally for my husband and could not find anything that was even close!My husband loves it and thinks it is made well!", "sentiment": "positive", "topics": {"1": "0.17908075", "2": "0.25962913", "3": "0.080381386", "4": "0.4570395"}}

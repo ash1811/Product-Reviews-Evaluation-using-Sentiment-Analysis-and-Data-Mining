@@ -1,0 +1,1 @@
+{"text": "Poorly constructed with thin material on the inside pouches.  This pack will not last long under repeated use.  Looks better in the photo", "sentiment": "negative", "topics": {"0": "0.21422333", "1": "0.270818", "2": "0.1575409", "4": "0.22950628", "6": "0.10879332"}}

@@ -1,0 +1,1 @@
+{"text": "No complaints, it looked great on my boyfriend so I wasn't disappointed. I bought the matching outfit, so we were a great pair!", "sentiment": "negative", "topics": {"0": "0.013049149", "1": "0.5365593", "2": "0.012991585", "3": "0.24743177", "4": "0.013025739", "5": "0.16395032", "6": "0.012992131"}}

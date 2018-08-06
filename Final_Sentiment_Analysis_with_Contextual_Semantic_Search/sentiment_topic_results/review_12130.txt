@@ -1,0 +1,1 @@
+{"text": "These are the warmest and most comfortable socks I have ever worn. They are soft, breathable, durable and look great. Fantastic for hiking or walking to the office on those cold winter days. I will be ordering more.", "sentiment": "negative", "topics": {"0": "0.21488866", "1": "0.29480156", "4": "0.060827285", "5": "0.25699955", "6": "0.15816148"}}

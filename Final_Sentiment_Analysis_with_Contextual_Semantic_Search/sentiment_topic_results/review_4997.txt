@@ -1,0 +1,1 @@
+{"text": "Love the German made sandal. They are so comfortable to wear, all day. So glad that I bought them, and will not hesitate to replacement when time comes.", "sentiment": "negative", "topics": {"1": "0.35537294", "2": "0.19800355", "5": "0.34568846", "6": "0.07224074"}}

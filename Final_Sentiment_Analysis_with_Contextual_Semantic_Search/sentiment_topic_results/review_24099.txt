@@ -1,0 +1,1 @@
+{"text": "This is the first time I have found a bra that fits, holds me up and improves my posture.  There is no uncomfortable underwire either!  Though a little scratchy at first, after a few washings, the 3 I purchased are softening.", "sentiment": "positive", "topics": {"1": "0.31016895", "3": "0.25291827", "4": "0.28291887", "6": "0.13251902"}}

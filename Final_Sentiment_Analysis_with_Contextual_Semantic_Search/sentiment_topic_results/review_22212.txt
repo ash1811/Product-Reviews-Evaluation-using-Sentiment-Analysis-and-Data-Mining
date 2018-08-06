@@ -1,0 +1,1 @@
+{"text": "This is a very nice jacket which will be warm for winter weather.  It fit as expected and it will last for years to come.", "sentiment": "negative", "topics": {"0": "0.013031678", "1": "0.7336647", "2": "0.11800795", "3": "0.013010956", "4": "0.013073068", "5": "0.09620008", "6": "0.013011594"}}

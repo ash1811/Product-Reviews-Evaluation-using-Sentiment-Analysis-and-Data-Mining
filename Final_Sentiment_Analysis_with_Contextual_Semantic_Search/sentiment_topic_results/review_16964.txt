@@ -1,0 +1,1 @@
+{"text": "Looks and fits really nice. Only complaint is that the length on the arms is a little to short for my liking but I can still wear it just fine.", "sentiment": "negative", "topics": {"0": "0.33132678", "1": "0.5500995", "2": "0.07765462", "3": "0.010241979", "4": "0.010218251", "5": "0.010226733", "6": "0.010232097"}}

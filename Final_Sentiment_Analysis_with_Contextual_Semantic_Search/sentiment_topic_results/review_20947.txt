@@ -1,0 +1,1 @@
+{"text": "I bought this ring for my wife o wear on our vacation... So we didn't loose the real wedding ring... She said its really bulky but its not to flashy to be wearing in Central America...", "sentiment": "positive", "topics": {"0": "0.34004915", "1": "0.35877314", "2": "0.13962966", "4": "0.13622016"}}

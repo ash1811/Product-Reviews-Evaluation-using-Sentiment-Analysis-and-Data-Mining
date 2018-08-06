@@ -1,0 +1,1 @@
+{"text": "over the ear and great price and quality Carhart that is it Benchmark I am so happy right on time", "sentiment": "negative", "topics": {"0": "0.014337108", "1": "0.44368473", "2": "0.12062094", "3": "0.014301857", "4": "0.27408355", "5": "0.014325859", "6": "0.11864599"}}

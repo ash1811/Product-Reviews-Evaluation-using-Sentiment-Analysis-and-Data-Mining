@@ -1,0 +1,1 @@
+{"text": "Happy with purchase. Like the comfort & the price! I Would recommend to others who want to eliminate crotch snaps.", "sentiment": "negative", "topics": {"0": "0.011038268", "1": "0.54223436", "2": "0.011023617", "3": "0.18266837", "4": "0.011024023", "5": "0.12818912", "6": "0.11382224"}}

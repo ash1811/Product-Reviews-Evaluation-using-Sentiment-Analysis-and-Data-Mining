@@ -1,0 +1,1 @@
+{"text": "put it on and there is no wind you don't sweat and after washing is pretty good to move in and they have different colors also", "sentiment": "negative", "topics": {"0": "0.013070453", "1": "0.35239637", "2": "0.013015595", "3": "0.07952309", "4": "0.363389", "5": "0.165552", "6": "0.013053515"}}

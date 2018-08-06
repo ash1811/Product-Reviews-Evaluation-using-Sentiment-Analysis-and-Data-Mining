@@ -1,0 +1,1 @@
+{"text": "This is a very nice way to sleep comfortably while still looking cute.  I usually prefer an old, oversized t-shirt, but this is just as comfortable and much more flattering. :)", "sentiment": "negative", "topics": {"0": "0.09198872", "1": "0.45085615", "3": "0.1579866", "5": "0.27228275"}}

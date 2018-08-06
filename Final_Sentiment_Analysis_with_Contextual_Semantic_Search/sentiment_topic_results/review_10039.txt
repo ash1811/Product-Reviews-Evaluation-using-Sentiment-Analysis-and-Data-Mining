@@ -1,0 +1,1 @@
+{"text": "If you want a low price watch, that you need for everyday working or something related this is the watch to buy. After 3 months of severe use this watch still functional and in good conditions.", "sentiment": "negative", "topics": {"0": "0.065436184", "1": "0.47206616", "2": "0.2528884", "4": "0.13619348", "6": "0.05970029"}}

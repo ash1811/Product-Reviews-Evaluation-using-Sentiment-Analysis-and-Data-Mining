@@ -1,0 +1,1 @@
+{"text": "It is as described but well made. The color is a little subdued but OK when I don't want to be flashy", "sentiment": "positive", "topics": {"0": "0.014318262", "1": "0.80549186", "2": "0.014320932", "3": "0.014315538", "4": "0.12295674", "5": "0.014298553", "6": "0.014298161"}}

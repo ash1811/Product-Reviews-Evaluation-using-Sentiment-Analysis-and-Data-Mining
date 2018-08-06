@@ -1,0 +1,1 @@
+{"text": "We returned this because it is simply too bulky. We opted to borrow a snap+go stroller instead because we didn't think we could manage this in the airport.", "sentiment": "negative", "topics": {"0": "0.122100286", "1": "0.011028813", "2": "0.24380969", "3": "0.1860435", "4": "0.011036174", "5": "0.41497165", "6": "0.011009915"}}

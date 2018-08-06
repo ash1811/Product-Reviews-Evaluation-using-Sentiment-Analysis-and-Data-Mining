@@ -1,0 +1,1 @@
+{"text": "Cant go wrong with the iconic aviator shades. Have been using it primarily for driving. Great fit. Have no complaints.", "sentiment": "positive", "topics": {"0": "0.22482768", "1": "0.25109392", "2": "0.08589131", "3": "0.10071454", "4": "0.18580638", "5": "0.14067392", "6": "0.0109922765"}}

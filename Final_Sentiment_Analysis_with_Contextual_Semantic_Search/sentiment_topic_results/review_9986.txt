@@ -1,0 +1,1 @@
+{"text": "Maybe the plastic body is not elegant leather combined with, but is useful for outdoor activities. Recommended for trekking in forest.", "sentiment": "negative", "topics": {"0": "0.010217635", "1": "0.16254634", "2": "0.22766536", "3": "0.09386633", "4": "0.24574578", "5": "0.074857034", "6": "0.1851015"}}

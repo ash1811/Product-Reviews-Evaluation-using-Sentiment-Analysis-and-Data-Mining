@@ -1,0 +1,1 @@
+{"text": "There's Hanes; so yes they fit perfectly; they are good quality and they are just as i expected. No surprises when you buy Hanes; you get a great product at a great price!", "sentiment": "negative", "topics": {"1": "0.7975928", "5": "0.16035154"}}

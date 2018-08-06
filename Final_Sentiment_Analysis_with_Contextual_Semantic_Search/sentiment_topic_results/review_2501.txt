@@ -1,0 +1,1 @@
+{"text": "A GREAT GIFT FOR ANYONE WHO WEARS JEANS,THEY ARE VERY COMFORTABLE", "sentiment": "positive", "topics": {"0": "0.57841796", "1": "0.31940904", "2": "0.020409796", "3": "0.020438457", "4": "0.020411264", "5": "0.02050525", "6": "0.020408237"}}

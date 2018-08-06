@@ -1,0 +1,1 @@
+{"text": "Fits well and looks good on her and constructed well. Came on time and was worth the price. Next time we might try the next size down, It wasn't quiet tight enough", "sentiment": "negative", "topics": {"1": "0.47082713", "3": "0.07279079", "4": "0.20752808", "6": "0.22837253"}}

@@ -1,0 +1,1 @@
+{"text": "el producto se recomienda , la compra se hace desde venezuela , llego a tiempo original y de calidad, recomednado 100%", "sentiment": "positive", "topics": {"1": "0.15153496", "2": "0.28398398", "3": "0.076172076", "4": "0.20122433", "5": "0.21968466", "6": "0.059460063"}}

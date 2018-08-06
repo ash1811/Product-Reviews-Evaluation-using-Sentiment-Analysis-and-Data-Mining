@@ -1,0 +1,1 @@
+{"text": "This skirt was surprisingly cute and fit really well.  I bought a large and am fairly curvy and loved it.", "sentiment": "negative", "topics": {"0": "0.17153317", "1": "0.6140225", "2": "0.011001681", "3": "0.011022335", "4": "0.011042237", "5": "0.1703864", "6": "0.010991674"}}

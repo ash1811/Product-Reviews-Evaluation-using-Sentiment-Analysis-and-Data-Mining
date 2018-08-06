@@ -1,0 +1,1 @@
+{"text": "Great Uggs!!!! I wear them with everything, they are the best and most comfortable boots you will ever put on your feet!!!!! I am a size 6 and the 6 works perfect...", "sentiment": "positive", "topics": {"0": "0.13220897", "1": "0.49280632", "2": "0.083918825", "3": "0.10047065", "4": "0.17267787"}}

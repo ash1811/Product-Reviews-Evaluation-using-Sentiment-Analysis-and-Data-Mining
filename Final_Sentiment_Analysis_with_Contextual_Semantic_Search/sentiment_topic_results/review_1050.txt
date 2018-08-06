@@ -1,0 +1,1 @@
+{"text": "after using these for the last 3 months they dod not break in as comfortable as these used to be in the past. not sure why the difference but its not the same clarks i remember being softer and never felt them having to break in .", "sentiment": "negative", "topics": {"0": "0.22120577", "1": "0.30013394", "2": "0.2624007", "3": "0.12834507", "6": "0.07198954"}}

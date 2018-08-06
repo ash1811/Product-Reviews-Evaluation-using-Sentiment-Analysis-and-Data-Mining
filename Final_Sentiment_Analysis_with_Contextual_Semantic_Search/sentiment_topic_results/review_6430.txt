@@ -1,0 +1,1 @@
+{"text": "Having wool socks is a bit of a luxury for me.  These are well made and my feet feel really cozy when I wear them.  Good product.  I am considering buying more now.", "sentiment": "positive", "topics": {"0": "0.095329165", "3": "0.28800216", "5": "0.58648247"}}

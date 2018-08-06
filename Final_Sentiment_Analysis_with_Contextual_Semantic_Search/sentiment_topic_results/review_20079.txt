@@ -1,0 +1,1 @@
+{"text": "haven't had enough time with this yet, sorry to be iffy but I really wanna see where this bag goes, ya know . . .", "sentiment": "positive", "topics": {"0": "0.011020274", "1": "0.01102298", "2": "0.011004322", "3": "0.011030729", "4": "0.24470975", "5": "0.54974806", "6": "0.16146389"}}

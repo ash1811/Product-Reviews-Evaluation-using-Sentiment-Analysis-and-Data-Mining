@@ -1,0 +1,1 @@
+{"text": "The stiching is terrible, i ordered a size larger then my usual brand and they were a size smaller than what I usually get. The seams started to come apart the first time I wore them. No, I would not recomend these to anyone.", "sentiment": "negative", "topics": {"1": "0.14426474", "2": "0.04868224", "3": "0.36751637", "4": "0.051080406", "5": "0.37652174"}}

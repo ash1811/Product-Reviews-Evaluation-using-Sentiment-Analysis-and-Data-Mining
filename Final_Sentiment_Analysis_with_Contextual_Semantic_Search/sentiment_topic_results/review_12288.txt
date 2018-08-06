@@ -1,0 +1,1 @@
+{"text": "I use these curling iron covers when I travel.  Its great to be able to curl my hair right before heading out to the airport, and I can pack a 400 degree iron into my suitcase safely!  I use it for the gym bag also.", "sentiment": "positive", "topics": {"0": "0.21839345", "1": "0.19759631", "3": "0.23152627", "4": "0.21519992", "5": "0.12480725"}}

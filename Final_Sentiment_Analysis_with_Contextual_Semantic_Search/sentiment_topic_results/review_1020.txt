@@ -1,0 +1,1 @@
+{"text": "Love my shoes I've been trying to find these shoes for a long time I remember these shoes from my youth when they were in style. Highly recommend these shoes they are still so comfy too...", "sentiment": "positive", "topics": {"1": "0.22507544", "2": "0.3402854", "3": "0.22084229", "5": "0.19116984"}}

@@ -1,0 +1,1 @@
+{"text": "good quality but run a little tight....went up half a size but still a bit tight...may be better once broken in..hard to wear socks with them", "sentiment": "negative", "topics": {"0": "0.265688", "1": "0.25530788", "3": "0.44311738"}}

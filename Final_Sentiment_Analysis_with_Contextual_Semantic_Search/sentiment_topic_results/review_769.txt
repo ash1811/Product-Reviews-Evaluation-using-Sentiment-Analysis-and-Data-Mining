@@ -1,0 +1,1 @@
+{"text": "These undies are well-made and very comfortable.  The leg elastic is covered with fabric.  The best panties I have ever worn!", "sentiment": "negative", "topics": {"0": "0.31974936", "1": "0.31437758", "2": "0.011956243", "3": "0.011961689", "4": "0.011970893", "5": "0.14300556", "6": "0.18697864"}}

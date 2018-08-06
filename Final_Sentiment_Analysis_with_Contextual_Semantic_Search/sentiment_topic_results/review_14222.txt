@@ -1,0 +1,1 @@
+{"text": "I have bought several pairs of tevas the past, but these things to be smaller than normal. You have to wear them a while to break into them, but other than that they're pretty good.", "sentiment": "negative", "topics": {"0": "0.13987705", "1": "0.2659142", "3": "0.45623305", "4": "0.10933302"}}

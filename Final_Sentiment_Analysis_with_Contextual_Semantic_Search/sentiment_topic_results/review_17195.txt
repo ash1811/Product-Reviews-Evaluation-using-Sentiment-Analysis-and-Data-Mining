@@ -1,0 +1,1 @@
+{"text": "Hubby really likes these shoes.  We buy them  year after year.  Amazon Prime is the easiest way!  I don't have to drag him to the store to try on lots of shoes!", "sentiment": "positive", "topics": {"0": "0.08397849", "1": "0.40897968", "2": "0.22095637", "3": "0.10000654", "4": "0.08763623", "5": "0.090017885"}}

@@ -1,0 +1,1 @@
+{"text": "This is a delightful little magnetic dress-up toy. After a couple of years, the one I got is still getting lots of play time. The colors are good and the clothes are pretty. There are lots of parts, but that's what makes it so much fun.", "sentiment": "positive", "topics": {"1": "0.73850536", "3": "0.16219182", "5": "0.076362014"}}

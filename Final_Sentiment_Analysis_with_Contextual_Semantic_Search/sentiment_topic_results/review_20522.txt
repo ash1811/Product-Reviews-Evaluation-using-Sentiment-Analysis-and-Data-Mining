@@ -1,0 +1,1 @@
+{"text": "Once I watch the youtube video on how to use this tool, it only took me 10 mins to remove a link from my watch.  I cant believe jewelers charge $10+ to do this.  Great buy.", "sentiment": "negative", "topics": {"1": "0.25468314", "2": "0.4591382", "4": "0.16758996", "5": "0.09709953"}}

@@ -1,0 +1,1 @@
+{"text": "I really wish this would have fit. Looked comfy and couldn't wait to try it on! Very disappointed. The bra shelf is VERY thick. Didn't fit.", "sentiment": "positive", "topics": {"1": "0.30607474", "3": "0.5595918", "5": "0.09606304"}}

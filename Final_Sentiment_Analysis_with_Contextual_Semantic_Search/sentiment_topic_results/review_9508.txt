@@ -1,0 +1,1 @@
+{"text": "I love everything about the watch but wish the date were bigger.  It's impossible to see without magnifying glasses.  The watch is easy to read  and the band is perfect with lots of extra holes for a better fit.", "sentiment": "negative", "topics": {"1": "0.1486767", "2": "0.31815302", "3": "0.17377967", "4": "0.2542813", "6": "0.092068955"}}

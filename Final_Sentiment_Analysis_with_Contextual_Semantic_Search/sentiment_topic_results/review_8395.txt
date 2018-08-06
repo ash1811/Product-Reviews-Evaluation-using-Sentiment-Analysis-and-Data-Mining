@@ -1,0 +1,1 @@
+{"text": "The lace at the top has no give to them and they fall down often. They're okay... for a pair of cheapy thigh highs.", "sentiment": "positive", "topics": {"0": "0.011917011", "1": "0.29872313", "2": "0.011918769", "3": "0.3444945", "4": "0.13468115", "5": "0.011944983", "6": "0.18632047"}}

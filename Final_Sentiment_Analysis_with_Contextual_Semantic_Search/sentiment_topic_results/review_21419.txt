@@ -1,0 +1,1 @@
+{"text": "Bought these for my son-in-law for Christmas.  He said they were very comfy, like walking on a cushion.  They appeared to be good quality.", "sentiment": "positive", "topics": {"0": "0.011928644", "1": "0.2827821", "2": "0.1665172", "3": "0.011984643", "4": "0.011953824", "5": "0.30931827", "6": "0.20551537"}}

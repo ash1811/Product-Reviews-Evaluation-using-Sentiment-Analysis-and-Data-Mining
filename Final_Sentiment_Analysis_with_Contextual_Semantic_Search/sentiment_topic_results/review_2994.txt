@@ -1,0 +1,1 @@
+{"text": "I like this bra and I will purchase more of these.  Again I would recommend.  It is nice to buy a bra and not have it cost as much as a meal in a five star restaurant.", "sentiment": "negative", "topics": {"1": "0.64267117", "3": "0.22304165", "6": "0.098462306"}}

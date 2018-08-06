@@ -1,0 +1,1 @@
+{"text": "Protect your feet!.  I use these when I hv to open the irrigation valve in the yard.  They are well made and fit great.", "sentiment": "negative", "topics": {"0": "0.011000341", "1": "0.3356108", "2": "0.011000021", "3": "0.0110718915", "4": "0.40172532", "5": "0.141036", "6": "0.08855561"}}

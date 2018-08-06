@@ -1,0 +1,1 @@
+{"text": "no muy contento con el porque no describian el tama&ntilde;o y yo pense que era como 40 o 41 y resulta que es como 38. ademas de la temperatura las demas funciones son pura paja. no lo recomiendo", "sentiment": "positive", "topics": {"0": "0.10373011", "1": "0.10669296", "2": "0.06425641", "3": "0.41041443", "4": "0.22172448", "5": "0.088823624"}}

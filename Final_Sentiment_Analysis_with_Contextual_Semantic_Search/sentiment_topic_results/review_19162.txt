@@ -1,0 +1,1 @@
+{"text": "I'm sometimes apprehensive about non-Amazon sellers, but this product is really great. Shines, is sturdy, great price. What's not to like?", "sentiment": "negative", "topics": {"1": "0.3033056", "2": "0.0793597", "3": "0.091335505", "4": "0.11614493", "5": "0.2885913", "6": "0.111715354"}}

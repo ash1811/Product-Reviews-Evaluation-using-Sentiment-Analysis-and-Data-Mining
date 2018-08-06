@@ -1,0 +1,1 @@
+{"text": "This product is an excellent and very comfortable with a lot of cushioning.  It looks great and feels great.  Would recommend this for anyone and suggest using shoe size as mine are a perfect fit.", "sentiment": "negative", "topics": {"0": "0.27257025", "1": "0.2764912", "2": "0.1457238", "3": "0.11264314", "5": "0.17824401"}}

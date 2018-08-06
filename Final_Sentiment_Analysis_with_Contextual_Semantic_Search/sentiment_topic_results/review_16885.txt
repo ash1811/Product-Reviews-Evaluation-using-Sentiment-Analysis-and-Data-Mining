@@ -1,0 +1,1 @@
+{"text": "Even with the belt thing the thigh highs were like knee highs.  I was constantly pulling them up, which of course gave then a big fat run from top on to toes.  Probably be fine for a night in but not a night out.", "sentiment": "negative", "topics": {"1": "0.26828018", "2": "0.11119058", "3": "0.1922012", "5": "0.102454476", "6": "0.31391174"}}

@@ -1,0 +1,1 @@
+{"text": "Unless you have a very firm midsection, these will create a muffin top. Order highwaisted (sit as bra line). These are good if you just need to smooth your hip/thigh. If tummy is an issue...trust me, high waist only", "sentiment": "negative", "topics": {"0": "0.4065445", "3": "0.22405665", "5": "0.0632291", "6": "0.2857017"}}

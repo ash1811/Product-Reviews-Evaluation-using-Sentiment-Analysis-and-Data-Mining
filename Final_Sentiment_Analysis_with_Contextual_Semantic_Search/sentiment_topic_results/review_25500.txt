@@ -1,0 +1,1 @@
+{"text": "I own a pair of these flip flops and the Reef flip flops.  This one works much better when going to the pool or beach or when it gets wet.  You don't slip and slide around when walking, even when wet.  Very comfortable too.", "sentiment": "positive", "topics": {"0": "0.19556658", "1": "0.541995", "2": "0.23854005"}}

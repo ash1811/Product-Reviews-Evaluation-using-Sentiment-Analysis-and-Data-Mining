@@ -1,0 +1,1 @@
+{"text": "What can you say about underwear?  They fit like they are supposed to, they don't ride up, the size 8 were cute patterns/colors (pink, white, black, purple.)  I will buy again!", "sentiment": "positive", "topics": {"0": "0.08099071", "1": "0.33068508", "3": "0.16324396", "5": "0.16591063", "6": "0.24408366"}}

@@ -1,0 +1,1 @@
+{"text": "The price is awesome and this sweatshirt is perfect for all those hard working men in your family. I ordered one for my father and love it so much I'm ordering another for my husband. Very pleased", "sentiment": "negative", "topics": {"0": "0.10992133", "1": "0.6259932", "4": "0.12533717", "6": "0.11613939"}}

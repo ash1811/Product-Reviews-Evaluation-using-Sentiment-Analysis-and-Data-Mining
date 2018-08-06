@@ -1,0 +1,1 @@
+{"text": "These are my everyday shoes..I mean I wear them every day! My foot doctor prescribed them for me and I am forever grateful. I have many styles and colors but these are my constant. try them you'll like them", "sentiment": "positive", "topics": {"0": "0.11683639", "1": "0.13338871", "4": "0.34377825", "5": "0.29668283", "6": "0.09331474"}}

@@ -1,0 +1,1 @@
+{"text": "I found these to be huge, far bigger than a size 6.  I have ordered in the past from jockey and found I liked their products and so ordered another style in a smaller size to try once more.  I hope these fit and are not so old fashioned.", "sentiment": "negative", "topics": {"1": "0.25636846", "3": "0.48247227", "4": "0.16112164", "5": "0.08214182"}}

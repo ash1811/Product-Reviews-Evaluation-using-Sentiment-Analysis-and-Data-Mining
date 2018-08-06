@@ -1,0 +1,1 @@
+{"text": "These fit, were warm, and might have been comfortable had they stayed on my feet.  They kept slipping off, so I sent them back.", "sentiment": "negative", "topics": {"0": "0.18953817", "1": "0.67946124", "2": "0.011920881", "3": "0.011942539", "4": "0.08329576", "5": "0.011931918", "6": "0.011909462"}}

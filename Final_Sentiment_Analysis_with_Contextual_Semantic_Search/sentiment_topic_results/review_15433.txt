@@ -1,0 +1,1 @@
+{"text": "They're perfect for me bc I have a mall head and blonde hair. The original black wayfarers overpowered my face.", "sentiment": "negative", "topics": {"0": "0.010998453", "1": "0.14118499", "2": "0.27051866", "3": "0.011037221", "4": "0.37065095", "5": "0.010999934", "6": "0.18460976"}}

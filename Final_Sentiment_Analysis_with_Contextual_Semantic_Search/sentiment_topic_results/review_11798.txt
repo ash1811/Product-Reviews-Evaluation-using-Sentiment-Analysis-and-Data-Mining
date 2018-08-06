@@ -1,0 +1,1 @@
+{"text": "Used at water parks.  Found to have really good traction and used in chlorine with no damage to the product.", "sentiment": "positive", "topics": {"0": "0.011950235", "1": "0.18651699", "2": "0.17725", "3": "0.101880066", "4": "0.011925064", "5": "0.4985583", "6": "0.011919322"}}

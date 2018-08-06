@@ -1,0 +1,1 @@
+{"text": "I got this in a 9.5 and returned it as the size was a little large. I got a half size smaller and it fits great.", "sentiment": "negative", "topics": {"0": "0.010997314", "1": "0.26591727", "2": "0.010996292", "3": "0.6790566", "4": "0.01099573", "5": "0.011005328", "6": "0.011031478"}}

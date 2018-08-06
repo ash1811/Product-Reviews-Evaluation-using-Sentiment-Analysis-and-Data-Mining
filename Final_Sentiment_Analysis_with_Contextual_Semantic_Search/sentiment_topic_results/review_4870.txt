@@ -1,0 +1,1 @@
+{"text": "I bought these to wear with a costume but when I put them on I noticed some of the holes looked like they were going to rip,I am of average size (7) so this surprised me.", "sentiment": "negative", "topics": {"0": "0.5540666", "2": "0.05926647", "4": "0.15746121", "6": "0.20228696"}}

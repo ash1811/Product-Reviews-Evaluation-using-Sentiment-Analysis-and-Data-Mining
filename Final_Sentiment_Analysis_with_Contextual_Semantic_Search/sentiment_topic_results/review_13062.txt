@@ -1,0 +1,1 @@
+{"text": "The closing strap frayed after several month's use making it tough to buckle, but overall the bag was fine for holding a book, a cell phone, and some odds and ends.", "sentiment": "positive", "topics": {"0": "0.15538615", "2": "0.20680013", "4": "0.24535136", "5": "0.22267932", "6": "0.15471451"}}

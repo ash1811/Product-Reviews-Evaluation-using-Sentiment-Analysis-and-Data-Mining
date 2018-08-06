@@ -1,0 +1,1 @@
+{"text": "unless i lost weight i dont know about, this fits like  an XL.reg tee n all, looks nice, but i dont need a long nightshirt...go1 size small fellas", "sentiment": "negative", "topics": {"0": "0.16786024", "1": "0.1713689", "2": "0.12310765", "3": "0.15516685", "4": "0.1163635", "5": "0.077685766", "6": "0.18844713"}}

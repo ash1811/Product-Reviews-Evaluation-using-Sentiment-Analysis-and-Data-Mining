@@ -1,0 +1,1 @@
+{"text": "This jacket is a nice jacket it came in a woman's fit extra-large as that is what I ordered and I also bought shirts that were extra-large but in a junior fitso maybe need to specify that it is an women's size", "sentiment": "negative", "topics": {"0": "0.10287815", "1": "0.2960896", "2": "0.12184791", "3": "0.18474005", "4": "0.1864934", "6": "0.100799784"}}

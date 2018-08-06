@@ -1,0 +1,1 @@
+{"text": "I picked up these boots because my feet were very very cold in these zero degree Minneapolis winter days lately. These boots fit my 11.5 Wide feet and they keep them warm. Good boots.", "sentiment": "positive", "topics": {"0": "0.067154974", "1": "0.3391239", "4": "0.40081224", "5": "0.17142384"}}

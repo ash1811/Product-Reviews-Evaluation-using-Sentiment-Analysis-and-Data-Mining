@@ -1,0 +1,1 @@
+{"text": "This bra fits great and feels great during a workout however it is revealing when worn with a Danskin loose fitting top. Too bad it does not have some camouflage for modesty.", "sentiment": "negative", "topics": {"1": "0.34450537", "3": "0.16051428", "4": "0.0808543", "6": "0.38879856"}}

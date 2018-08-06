@@ -1,0 +1,1 @@
+{"text": "I love the sunglasses. However, it took almost a month to finally get the right pair. The first  pairs I received had very loose hinges. Usually I wouldn't be so picky but I have to be for the price I paid.", "sentiment": "negative", "topics": {"2": "0.29607704", "4": "0.26870614", "5": "0.40651193"}}

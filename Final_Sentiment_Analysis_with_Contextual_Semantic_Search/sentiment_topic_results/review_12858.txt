@@ -1,0 +1,1 @@
+{"text": "wouldn't stay on arm too large even though can shorten...not what expectedcute to look at but dosen't function well for wearingwould not recommendpay a little  more for something better", "sentiment": "negative", "topics": {"1": "0.4804976", "2": "0.09496241", "4": "0.10805069", "5": "0.11164981", "6": "0.1879399"}}

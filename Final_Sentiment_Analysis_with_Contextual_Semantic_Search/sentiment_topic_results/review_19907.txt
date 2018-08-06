@@ -1,0 +1,1 @@
+{"text": "Very comfortable shoes. Loved it. The shoe looks more better than in the picture. The color is more darker than shown. It is more of dark brown.", "sentiment": "positive", "topics": {"0": "0.17803738", "1": "0.5474021", "2": "0.2336688", "3": "0.010230659", "4": "0.010215822", "5": "0.010221155", "6": "0.010224062"}}

@@ -1,0 +1,1 @@
+{"text": "Really love the Lee series jeans. Great fit and true to size. And they keep the shape well wash after wash, well done!", "sentiment": "negative", "topics": {"0": "0.117427535", "1": "0.44386548", "2": "0.081341445", "3": "0.2540681", "6": "0.08640043"}}

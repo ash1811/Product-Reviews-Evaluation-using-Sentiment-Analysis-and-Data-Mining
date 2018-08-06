@@ -1,0 +1,1 @@
+{"text": "I liked the color, style, and price, but the size was wrong.  I usually wear an 8 1/2, it was too small. The item itself was nice.", "sentiment": "negative", "topics": {"0": "0.010220388", "1": "0.6318041", "2": "0.07230623", "3": "0.15324813", "4": "0.010241781", "5": "0.010254849", "6": "0.11192452"}}

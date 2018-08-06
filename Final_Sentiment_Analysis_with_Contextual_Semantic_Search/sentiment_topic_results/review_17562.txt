@@ -1,0 +1,1 @@
+{"text": "At least with this watch I could reset for my time easily. It's thin, light-weight, not as rugged as I was looking for but it serves it's purpose without randomly going off like the last one I bought.", "sentiment": "negative", "topics": {"0": "0.45748425", "1": "0.21378139", "2": "0.21921866", "3": "0.087992445"}}

@@ -1,0 +1,1 @@
+{"text": "they are very well made, and for the price, am really happy with the purchase.  The bottom is sturdy and he says they are very comfortable and cozy.  Have held up well, but then, he isn't one to wear this type of thing every day (we are in California).", "sentiment": "negative", "topics": {"1": "0.52361715", "2": "0.16375634", "5": "0.25099242", "6": "0.0429495"}}

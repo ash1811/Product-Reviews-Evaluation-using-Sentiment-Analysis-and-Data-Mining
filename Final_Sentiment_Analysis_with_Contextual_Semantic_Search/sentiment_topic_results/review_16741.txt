@@ -1,0 +1,1 @@
+{"text": "Really small. I love the lace look, but this isn't really plus size imo. I'm a size 18 and it'd probably fit a 14/16 more comfortably. It just bunches up on me.", "sentiment": "negative", "topics": {"0": "0.10038526", "1": "0.36711568", "4": "0.14582555", "5": "0.14901918", "6": "0.22331996"}}

@@ -1,0 +1,1 @@
+{"text": "I've bought several pairs of this house shoe and I love it.  It's a great house shoe to wear year round.", "sentiment": "positive", "topics": {"2": "0.18114825", "3": "0.77106273"}}

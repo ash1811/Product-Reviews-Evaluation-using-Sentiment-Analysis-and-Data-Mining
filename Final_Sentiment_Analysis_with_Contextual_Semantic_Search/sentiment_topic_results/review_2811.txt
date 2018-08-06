@@ -1,0 +1,1 @@
+{"text": "What a difference Keds make as opposed to a store's generic brand look-a-like! I'm typically a 7 1/2; go a half size smaller because Keds run big. Shipping came sooner than expected. Amazon rocks!", "sentiment": "negative", "topics": {"0": "0.27946788", "1": "0.0979181", "2": "0.04801696", "3": "0.417559", "4": "0.14602591"}}

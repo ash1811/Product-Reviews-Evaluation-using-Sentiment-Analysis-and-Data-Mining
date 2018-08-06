@@ -1,0 +1,1 @@
+{"text": "This tote bag was much larger than I expected it to be.  It is unconstructed and very \"floppy\".  It would be okay for someone who needs a bag that will hold a lot of items.  I will not use it for everyday....maybe for traveling.", "sentiment": "positive", "topics": {"0": "0.27704212", "1": "0.29792976", "2": "0.10063467", "3": "0.11050359", "6": "0.19955441"}}

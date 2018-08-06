@@ -1,0 +1,1 @@
+{"text": "Love the delicate design in these pretty green earrings!  I wear them with my jade pendantand they match perfectly.  Would definitely order from this seller again.  Great service!", "sentiment": "positive", "topics": {"0": "0.22185981", "1": "0.29401454", "2": "0.05487578", "3": "0.18225491", "5": "0.18235102", "6": "0.05708057"}}

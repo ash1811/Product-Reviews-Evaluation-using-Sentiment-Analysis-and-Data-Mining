@@ -1,0 +1,1 @@
+{"text": "My husband use to order his shirts from Cabela's but they quit selling the canvas shirt.  The shirt is a great replacement and the colors are very nice.  It fits very well too.", "sentiment": "negative", "topics": {"0": "0.12057519", "1": "0.35057718", "2": "0.24912296", "4": "0.088816114", "6": "0.17499262"}}

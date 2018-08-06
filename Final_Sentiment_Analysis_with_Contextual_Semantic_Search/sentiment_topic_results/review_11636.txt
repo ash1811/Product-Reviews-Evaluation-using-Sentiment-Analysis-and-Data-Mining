@@ -1,0 +1,1 @@
+{"text": "The shine will want you to get another pair or more of the Duragold ear rings. I love them and plan to buy more of thisgold.", "sentiment": "negative", "topics": {"0": "0.12228239", "1": "0.36852586", "2": "0.11243257", "3": "0.011034312", "4": "0.011062284", "5": "0.23731168", "6": "0.13735087"}}

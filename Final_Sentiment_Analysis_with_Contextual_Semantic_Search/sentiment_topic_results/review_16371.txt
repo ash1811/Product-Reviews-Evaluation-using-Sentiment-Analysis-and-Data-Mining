@@ -1,0 +1,1 @@
+{"text": "Good sandals, they fit as expected and adjust to the shape of the feet, they look very good and are comfortable.", "sentiment": "negative", "topics": {"0": "0.013016018", "1": "0.7030831", "2": "0.11773095", "3": "0.01303409", "4": "0.12714268", "5": "0.0130022345", "6": "0.0129909"}}

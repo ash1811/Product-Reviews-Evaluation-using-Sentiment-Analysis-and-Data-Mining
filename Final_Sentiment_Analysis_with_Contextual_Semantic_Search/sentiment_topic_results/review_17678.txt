@@ -1,0 +1,1 @@
+{"text": "Bought this for a friend of mine to give to her father for fathers day.  He loved it, she loved it.  Casio is always a class act.", "sentiment": "negative", "topics": {"1": "0.34689087", "5": "0.24267367", "6": "0.37455162"}}

@@ -1,0 +1,1 @@
+{"text": "This purchase replaced an \"ancient\" pair that finally \"disintegrated\".  I'm a runner and these sandals are great foot stimulation after a run.  Really appreciate finding them on line and excellent service in processing my purchase.", "sentiment": "negative", "topics": {"0": "0.21034366", "1": "0.3155092", "2": "0.34807765", "3": "0.10649447"}}

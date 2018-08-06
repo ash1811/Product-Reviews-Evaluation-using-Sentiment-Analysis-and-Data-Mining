@@ -1,0 +1,1 @@
+{"text": "The fabric blend used in these is high quality, very warm, and feels great on your skin. It appears durable and doesn't shrink after washing. Would recommend highly.", "sentiment": "positive", "topics": {"1": "0.596068", "2": "0.14039086", "5": "0.089298", "6": "0.14895986"}}

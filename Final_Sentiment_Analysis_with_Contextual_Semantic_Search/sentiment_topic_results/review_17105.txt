@@ -1,0 +1,1 @@
+{"text": "The crocs from Mexico run small and have a very short strap. They look strange with so much footbed sticking out beyond the strap. See the pictures.", "sentiment": "negative", "topics": {"0": "0.28037143", "2": "0.23212786", "3": "0.20738994", "4": "0.06285342", "5": "0.13187924", "6": "0.07640056"}}

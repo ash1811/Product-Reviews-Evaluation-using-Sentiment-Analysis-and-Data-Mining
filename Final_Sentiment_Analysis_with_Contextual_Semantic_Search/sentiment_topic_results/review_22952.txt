@@ -1,0 +1,1 @@
+{"text": "So These aren't the same as the Dazzle reversible shorts. They are much lighter. I got an XL size and they are about a 42 waist or so. pretty big.", "sentiment": "positive", "topics": {"0": "0.31139418", "1": "0.17499663", "2": "0.010249992", "3": "0.010227176", "4": "0.010213124", "5": "0.010236393", "6": "0.47268248"}}

@@ -1,0 +1,1 @@
+{"text": "I love this ring. I wear it on my right pointer finger and it is so shiny and light I forget I'm wearing it. I might have to get another one for my left thumb.", "sentiment": "negative", "topics": {"1": "0.4921197", "2": "0.09986361", "4": "0.19817479", "6": "0.18721683"}}

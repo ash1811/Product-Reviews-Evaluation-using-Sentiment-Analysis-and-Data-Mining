@@ -1,0 +1,1 @@
+{"text": "A simple review for this panty \"Cute, Comfy and Sexy!\" The panty has lasted well, and has kept its shape through a number of washes.", "sentiment": "positive", "topics": {"0": "0.010244707", "1": "0.12769485", "2": "0.16381773", "3": "0.23638146", "4": "0.010225932", "5": "0.3609038", "6": "0.090731494"}}

@@ -1,0 +1,1 @@
+{"text": "My ten year old, wore a size large in this for halloween.  it looked great although it was short and he ended up wearing pants with it.", "sentiment": "negative", "topics": {"0": "0.3126324", "1": "0.20837626", "3": "0.31110933", "4": "0.14096631"}}

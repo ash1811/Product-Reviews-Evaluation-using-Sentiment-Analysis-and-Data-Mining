@@ -1,0 +1,1 @@
+{"text": "Love my Texans earrings! A must have for any female fans and the size is perfect. Color is beautiful! So happy I purchased mine!", "sentiment": "negative", "topics": {"0": "0.21118236", "1": "0.5164866", "2": "0.010209196", "3": "0.23134612", "4": "0.010283007", "5": "0.010262734", "6": "0.0102299815"}}

@@ -1,0 +1,1 @@
+{"text": "I wasn't so sure about order these panties online, but it worked great.  They are the same as I've seen in the store except I thought I was buying cotton instead of nylon.  Nevertheless, they work just fine.", "sentiment": "negative", "topics": {"0": "0.16535532", "1": "0.2478017", "2": "0.27022243", "3": "0.15784772", "4": "0.1436574"}}

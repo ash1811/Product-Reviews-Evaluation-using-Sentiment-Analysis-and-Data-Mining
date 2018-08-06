@@ -1,0 +1,1 @@
+{"text": "What's not to like about Carhartt? They're wonderful. Just what he needed for weekends, evenings, and occasionally at work. thanks.", "sentiment": "positive", "topics": {"0": "0.17768659", "1": "0.16974463", "2": "0.011916543", "3": "0.011923306", "4": "0.18721217", "5": "0.011953112", "6": "0.42956364"}}

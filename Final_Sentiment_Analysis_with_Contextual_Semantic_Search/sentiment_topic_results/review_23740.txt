@@ -1,0 +1,1 @@
+{"text": "They delivered on time. I really like the material, it really protect from the sun. Perfect size. I like it a lot.", "sentiment": "negative", "topics": {"0": "0.011043835", "1": "0.36927134", "2": "0.011027601", "3": "0.011030306", "4": "0.22512643", "5": "0.01103104", "6": "0.36146942"}}

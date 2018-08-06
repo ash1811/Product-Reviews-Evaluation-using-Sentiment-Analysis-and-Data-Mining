@@ -1,0 +1,1 @@
+{"text": "i dont want to sound pompous but i look so good in these lenses. the mirror is just amazing, i totally recommend this glasses from this seller, great service and price.", "sentiment": "negative", "topics": {"0": "0.49849677", "2": "0.09946304", "3": "0.16294059", "4": "0.21382326"}}

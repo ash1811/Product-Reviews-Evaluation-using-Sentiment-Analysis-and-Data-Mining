@@ -1,0 +1,1 @@
+{"text": "It is in  absolutely different colour from the picture. Are you jogg&#305;ng with me? No chance for return, I m from outside usa, never advice. do not buy, never.", "sentiment": "negative", "topics": {"1": "0.55431235", "2": "0.083488025", "3": "0.10627224", "6": "0.22728173"}}

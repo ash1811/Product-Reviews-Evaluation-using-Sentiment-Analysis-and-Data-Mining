@@ -1,0 +1,1 @@
+{"text": "I gave these shoes away to a nephew and he loved them. He will wear them casually and liked the quality.", "sentiment": "negative", "topics": {"0": "0.013014418", "1": "0.43031538", "2": "0.34205243", "3": "0.013017141", "4": "0.013027823", "5": "0.17557384", "6": "0.012998994"}}

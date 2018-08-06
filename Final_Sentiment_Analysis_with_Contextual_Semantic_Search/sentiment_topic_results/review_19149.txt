@@ -1,0 +1,1 @@
+{"text": "After readying some of he it's her reviews on this snake necklace, I thought to chance it anyway. It's very pretty, and even sturdy, but my only complaint is, is that my hair gets tangled up in it daily!", "sentiment": "negative", "topics": {"0": "0.25593925", "1": "0.32207417", "2": "0.090082705", "3": "0.12009486", "5": "0.1949461"}}

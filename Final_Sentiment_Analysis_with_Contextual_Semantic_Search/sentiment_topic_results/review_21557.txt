@@ -1,0 +1,1 @@
+{"text": "I love my black on black converse tennis shoes, straightgangsta! Now this is my style. It goes with any I wearthat's casual or street wear. Thank you.", "sentiment": "negative", "topics": {"2": "0.2675787", "3": "0.6164809", "6": "0.07999109"}}

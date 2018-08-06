@@ -1,0 +1,1 @@
+{"text": "This bra was very soft and seemed like it would have been extremely comfortable.  The biggest issue I had was that I didn't fill out the cup, so there was puckering and and fold-age.  Good product, wrong chest.", "sentiment": "negative", "topics": {"0": "0.08472322", "1": "0.1246309", "2": "0.07124767", "3": "0.22971672", "4": "0.07865322", "5": "0.40307188"}}

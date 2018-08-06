@@ -1,0 +1,1 @@
+{"text": "These woolen Caps reminded me of the ones the military used to issue back in the day.  Priced right warm and surprisingly still in style.", "sentiment": "negative", "topics": {"0": "0.2841082", "1": "0.29244405", "4": "0.16598284", "5": "0.15549062", "6": "0.08405155"}}

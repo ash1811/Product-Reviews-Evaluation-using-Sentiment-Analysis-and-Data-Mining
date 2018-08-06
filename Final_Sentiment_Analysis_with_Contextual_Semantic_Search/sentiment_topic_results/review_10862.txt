@@ -1,0 +1,1 @@
+{"text": "Getting ready to order another pair to pack when I go on an overnighter.. girls night out, works for me", "sentiment": "negative", "topics": {"0": "0.13019261", "1": "0.5018951", "2": "0.011045448", "3": "0.011043204", "4": "0.011039606", "5": "0.19793375", "6": "0.13685022"}}

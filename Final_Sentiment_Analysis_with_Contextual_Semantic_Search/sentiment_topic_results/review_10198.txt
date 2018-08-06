@@ -1,0 +1,1 @@
+{"text": "I needed to replace a fine chain on which the clasp had broken. It held a heart that my boyfriend gave to me, and the heart would only fit on a small chain. So I ordered this and it's perfect and feels strong.", "sentiment": "negative", "topics": {"1": "0.36292338", "2": "0.099425815", "4": "0.24976757", "5": "0.0721441", "6": "0.20209953"}}

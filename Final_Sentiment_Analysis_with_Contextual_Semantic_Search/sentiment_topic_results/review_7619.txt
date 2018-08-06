@@ -1,0 +1,1 @@
+{"text": "My wife loves them . She look so hot in them . She says they feel great and told me to get her some more .", "sentiment": "negative", "topics": {"0": "0.6127526", "1": "0.014355955", "2": "0.014302401", "3": "0.014348753", "4": "0.014421503", "5": "0.014357607", "6": "0.31546116"}}

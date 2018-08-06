@@ -1,0 +1,1 @@
+{"text": "The color combination is a unique with the pink/green/cream mix. The length is just right - not too long/sparkly.My ears are sensitive to cheap metal. This item is good -- I've worn several times for a full work day with no problems.", "sentiment": "negative", "topics": {"0": "0.34235394", "1": "0.064544156", "2": "0.085285395", "3": "0.09840721", "6": "0.3968625"}}

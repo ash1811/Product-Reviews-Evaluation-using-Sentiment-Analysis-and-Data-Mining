@@ -1,0 +1,1 @@
+{"text": "This year I will be the gifter all my family will have the best and that includes my brother in law,", "sentiment": "negative", "topics": {"0": "0.19339146", "1": "0.36256957", "2": "0.01785802", "3": "0.017926997", "4": "0.017872663", "5": "0.017890176", "6": "0.37249112"}}

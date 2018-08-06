@@ -1,0 +1,1 @@
+{"text": "This item is good. Neatly and securely packaged. It worths buying it and is good for a  loved one. I will recommend for people who want to surprise lovers and friends on occasions.", "sentiment": "positive", "topics": {"0": "0.08989153", "1": "0.5208125", "3": "0.07435278", "5": "0.098509796", "6": "0.20048715"}}

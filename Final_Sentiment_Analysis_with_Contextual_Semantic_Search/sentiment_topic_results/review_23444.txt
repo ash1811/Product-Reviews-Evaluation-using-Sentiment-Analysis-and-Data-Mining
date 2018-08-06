@@ -1,0 +1,1 @@
+{"text": "These are great sandals, wear them regularly.  Do not cut up your feet upon starting to wear them which is great.", "sentiment": "positive", "topics": {"0": "0.15905586", "1": "0.7040003", "2": "0.012997251", "3": "0.013016174", "4": "0.08491213", "5": "0.013031275", "6": "0.012987038"}}

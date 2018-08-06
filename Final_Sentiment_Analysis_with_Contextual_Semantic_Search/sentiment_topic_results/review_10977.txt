@@ -1,0 +1,1 @@
+{"text": "I ordered these for my fiancee and he liked them; he said they made him taller than most shoes which he liked, they are attractive, and the quality and fit are good.", "sentiment": "negative", "topics": {"0": "0.0102293985", "1": "0.40494084", "2": "0.17051859", "3": "0.010269423", "4": "0.31050605", "5": "0.010218521", "6": "0.08331716"}}

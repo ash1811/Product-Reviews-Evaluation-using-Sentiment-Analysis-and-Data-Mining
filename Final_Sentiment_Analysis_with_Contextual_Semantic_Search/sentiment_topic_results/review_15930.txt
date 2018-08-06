@@ -1,0 +1,1 @@
+{"text": "This feels so real! My daughter wants to be a pilot when she grows up. So wanted a pilot cap. I ran into this and spent the $$$. Boy it's good quality. Good size. She loves wearing it!", "sentiment": "positive", "topics": {"0": "0.15967166", "1": "0.24985097", "4": "0.36678666", "6": "0.20318134"}}

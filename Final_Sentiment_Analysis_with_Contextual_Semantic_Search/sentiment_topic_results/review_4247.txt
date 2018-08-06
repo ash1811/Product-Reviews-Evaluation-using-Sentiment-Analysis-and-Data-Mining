@@ -1,0 +1,1 @@
+{"text": "Love the shoe and love K-Swiss but the shoe was too small so we had to order a larger size and rush it so he could have it in time.", "sentiment": "negative", "topics": {"0": "0.14253937", "1": "0.0110149775", "2": "0.20191401", "3": "0.2507346", "4": "0.2211645", "5": "0.16162579", "6": "0.011006761"}}

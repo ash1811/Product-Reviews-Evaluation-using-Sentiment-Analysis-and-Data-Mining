@@ -1,0 +1,1 @@
+{"text": "I have a 17 year old daughter who is super skinny.  I have been buying her little girls underwear, but she desperately wanted something &#34;more grown up.&#34;  Size 4 Hanes made my daughter happy!  The quality is what I have come to expect from Hanes.", "sentiment": "positive", "topics": {"0": "0.19300897", "1": "0.38543168", "5": "0.24913023", "6": "0.1564862"}}

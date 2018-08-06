@@ -1,0 +1,1 @@
+{"text": "My son loves these jeans.  That is all he asks me to purchase for his Birthday or Christmas.  Great quality and great fit.", "sentiment": "negative", "topics": {"0": "0.01193481", "1": "0.5029348", "2": "0.20762993", "3": "0.01193793", "4": "0.011957795", "5": "0.241637", "6": "0.011967669"}}

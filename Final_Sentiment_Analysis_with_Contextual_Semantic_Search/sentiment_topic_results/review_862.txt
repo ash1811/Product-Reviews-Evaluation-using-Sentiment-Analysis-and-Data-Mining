@@ -1,0 +1,1 @@
+{"text": "These a super comfortable for walking, and work well on land and water.  Footbed is a little slick to start until broken in.", "sentiment": "negative", "topics": {"0": "0.010215002", "1": "0.47118658", "2": "0.010323765", "3": "0.010228803", "4": "0.010209056", "5": "0.35593128", "6": "0.13190548"}}

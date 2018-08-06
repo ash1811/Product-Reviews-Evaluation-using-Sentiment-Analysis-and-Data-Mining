@@ -1,0 +1,1 @@
+{"text": "My stepdad is a large tall man and is hard to buy for.. I found these shirts for him in his size and tall too :) they are made very good and look nice!! The material is thick and does not feel cheap and thin! So glad I found these and will be buying more for him :)", "sentiment": "negative", "topics": {"0": "0.4823079", "1": "0.35543945", "6": "0.13833861"}}

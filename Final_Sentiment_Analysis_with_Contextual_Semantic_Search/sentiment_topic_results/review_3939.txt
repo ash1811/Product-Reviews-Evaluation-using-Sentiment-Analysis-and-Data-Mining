@@ -1,0 +1,1 @@
+{"text": "What a bargain! I can wear them outside because of rubber sole and yet they feel as comfortable as socks. They are also a bargain and I plan to purchase more.", "sentiment": "negative", "topics": {"1": "0.21720615", "4": "0.124454245", "5": "0.6201471"}}

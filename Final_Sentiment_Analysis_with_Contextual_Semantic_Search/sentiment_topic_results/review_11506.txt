@@ -1,0 +1,1 @@
+{"text": "These are far softer than expected.  Very good pair of fuzzy socks, will keep feet warm in the winter and feel great.", "sentiment": "negative", "topics": {"0": "0.010237685", "1": "0.53577197", "2": "0.010221767", "3": "0.0102633005", "4": "0.19829574", "5": "0.08648448", "6": "0.14872506"}}

@@ -1,0 +1,1 @@
+{"text": "Good fit. Perfect for wearing by itself on a hot day or under clothes when cool out. My daughter is a somewhat chunky 11month old, she fits these in the 24 month size.", "sentiment": "negative", "topics": {"1": "0.30754554", "2": "0.10891548", "3": "0.14265962", "5": "0.29532912", "6": "0.13046484"}}

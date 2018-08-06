@@ -1,0 +1,1 @@
+{"text": "I wear converse sneakers all the time cuz I have wide feet. I hate tying my shoes, thus I love the slip ons. They go with everything and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.11224762", "1": "0.08798693", "2": "0.20874995", "3": "0.075545624", "4": "0.22082847", "5": "0.28670403"}}

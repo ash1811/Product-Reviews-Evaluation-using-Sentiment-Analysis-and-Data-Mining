@@ -1,0 +1,1 @@
+{"text": "I have ordered new metal color as I like how it looks and got different jeans, made with black threats instead of orange as it was shown on picture, disappointed, but overall product is great - Levi's style", "sentiment": "negative", "topics": {"0": "0.27562076", "1": "0.14387007", "2": "0.06782942", "3": "0.23815204", "5": "0.13049375", "6": "0.13780741"}}

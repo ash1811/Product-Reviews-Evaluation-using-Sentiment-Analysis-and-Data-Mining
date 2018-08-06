@@ -1,0 +1,1 @@
+{"text": "These shirts are attractive and made from a very heavy cotton material. They are tailored well I expect them to last longer than an oridnary shirt of the same type.", "sentiment": "negative", "topics": {"1": "0.27217427", "3": "0.037624594", "5": "0.3173937", "6": "0.34416488"}}

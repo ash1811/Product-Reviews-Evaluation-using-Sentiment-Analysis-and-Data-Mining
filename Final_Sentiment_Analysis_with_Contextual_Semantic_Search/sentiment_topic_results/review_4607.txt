@@ -1,0 +1,1 @@
+{"text": "Purchased for my 28 yr old son. Hve been a long time buyer of these jeans.  He likes them...it's all good, right?!  ;^)", "sentiment": "negative", "topics": {"0": "0.38923055", "1": "0.27536634", "2": "0.1825809", "4": "0.12415716"}}

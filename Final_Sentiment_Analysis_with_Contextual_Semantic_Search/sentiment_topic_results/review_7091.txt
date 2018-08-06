@@ -1,0 +1,1 @@
+{"text": "came in nicely packaged. correct color and size..and it fit accordingly.  nice pocket and label.  should wear and no color fade", "sentiment": "negative", "topics": {"1": "0.55403626", "2": "0.07687973", "4": "0.22354859", "6": "0.116909586"}}

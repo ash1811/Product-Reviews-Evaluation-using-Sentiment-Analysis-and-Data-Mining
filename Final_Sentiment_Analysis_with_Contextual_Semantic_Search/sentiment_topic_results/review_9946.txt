@@ -1,0 +1,1 @@
+{"text": "They are a great work earring. Small, yet wide enough to signal they're there. Don't brush out on a hurried morning.  Exactly what I was looking for.  Well made.  Good quality.", "sentiment": "positive", "topics": {"0": "0.047939952", "1": "0.62951976", "5": "0.19189805", "6": "0.11017088"}}

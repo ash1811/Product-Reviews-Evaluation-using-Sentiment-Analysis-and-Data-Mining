@@ -1,0 +1,1 @@
+{"text": "These shorts fit great. They have 9 belt loupes, I like that.  They are color fast and do not shrink. They have extra pockets with snaps. They a great.buy.", "sentiment": "negative", "topics": {"0": "0.08987033", "1": "0.29210103", "2": "0.27659264", "4": "0.07379113", "5": "0.14747466", "6": "0.111213684"}}

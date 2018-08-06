@@ -1,0 +1,1 @@
+{"text": "I suffer from plantar fasciilitis in both feet and need more support and cushion than average slippers provide. These are pretty good for that and competitively priced on Amazon.", "sentiment": "positive", "topics": {"0": "0.1170989", "1": "0.17632577", "2": "0.085801415", "4": "0.46453646", "6": "0.13832827"}}

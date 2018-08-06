@@ -1,0 +1,1 @@
+{"text": "We could not find any good sweats at the stores so we tried these and have since ordered 2 pairs. They are very well made and fit to size. The quality is better than any we have seen lately and we will be coming back for more when needed.", "sentiment": "negative", "topics": {"0": "0.06838023", "1": "0.63030434", "4": "0.18653135", "6": "0.09524236"}}

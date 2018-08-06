@@ -1,0 +1,1 @@
+{"text": "I love these pants and wanted more. However, the color is not close to the pictures shown. This color is a brown rather than kakai", "sentiment": "negative", "topics": {"0": "0.010220383", "1": "0.5552778", "2": "0.23299746", "3": "0.010244742", "4": "0.17078198", "5": "0.0102267945", "6": "0.010250775"}}

@@ -1,0 +1,1 @@
+{"text": "I love Stride Rite, and this is a nice sturdy shoe for my very active toddler.  It fits his foot perfectly .", "sentiment": "negative", "topics": {"0": "0.0119577795", "1": "0.5333403", "2": "0.17830288", "3": "0.011914973", "4": "0.24066596", "5": "0.011912294", "6": "0.011905849"}}

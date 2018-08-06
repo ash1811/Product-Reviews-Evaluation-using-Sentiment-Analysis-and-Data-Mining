@@ -1,0 +1,1 @@
+{"text": "I love wearing white painter pants in the summer and while golfing too.  Pockets to hold stuff, fit nicely and after a few washings become more soft.", "sentiment": "positive", "topics": {"1": "0.38707688", "2": "0.2637163", "3": "0.24340639", "5": "0.08053622"}}

@@ -1,0 +1,1 @@
+{"text": "Washable, no ironing needed, inexpensive and neutral colors available.  I going to get another one.  One warning it gets hot in the summer.", "sentiment": "positive", "topics": {"1": "0.4110453", "4": "0.39328456", "6": "0.16194662"}}

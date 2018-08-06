@@ -1,0 +1,1 @@
+{"text": "Its a long sleeve shirt,decent quality not as heavy as it let on but it is what it is ill but more as needed", "sentiment": "positive", "topics": {"0": "0.015879566", "1": "0.32710072", "2": "0.015886525", "3": "0.14522457", "4": "0.015881578", "5": "0.015895521", "6": "0.46413147"}}

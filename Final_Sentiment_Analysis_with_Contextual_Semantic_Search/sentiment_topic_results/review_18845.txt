@@ -1,0 +1,1 @@
+{"text": "The colour is exactly as it is described, Inky Blue. The fit is as expected. Once you know your waist and length all you have to do is find the fit that suits you best.", "sentiment": "negative", "topics": {"0": "0.17285588", "1": "0.55296224", "2": "0.13753688", "3": "0.10799578"}}

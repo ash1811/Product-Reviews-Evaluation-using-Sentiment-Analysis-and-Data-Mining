@@ -1,0 +1,1 @@
+{"text": "I am a Levis fan for my whole life. 50 years. these were exactly the style and quality that I expected and will be ordering a whole bunch of other colors. Definitely very pleased. And the price is right.", "sentiment": "negative", "topics": {"0": "0.15932396", "1": "0.6084273", "3": "0.07031985", "4": "0.06430031", "6": "0.08256678"}}

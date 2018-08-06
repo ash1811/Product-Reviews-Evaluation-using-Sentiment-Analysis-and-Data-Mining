@@ -1,0 +1,1 @@
+{"text": "This is a great tool to use to open up the backs of watches that screw in, such as waterproof watches. It's great and easy to use.", "sentiment": "positive", "topics": {"0": "0.0102226855", "1": "0.010252686", "2": "0.18923965", "3": "0.19393061", "4": "0.26477394", "5": "0.32135367", "6": "0.010226791"}}

@@ -1,0 +1,1 @@
+{"text": ". but very attractive in color, but the size was not as exactly around the chest as compared to the cups", "sentiment": "positive", "topics": {"0": "0.12225559", "1": "0.20713142", "2": "0.015883192", "3": "0.37856984", "4": "0.015943525", "5": "0.015929407", "6": "0.24428701"}}

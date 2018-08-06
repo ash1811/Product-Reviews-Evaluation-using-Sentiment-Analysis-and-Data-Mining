@@ -1,0 +1,1 @@
+{"text": "The tagless Hanes underwear are very comfortable.  They wear like you've worn them for years.  I would recommend these to anyone who wears briefs.", "sentiment": "positive", "topics": {"0": "0.0102490205", "1": "0.4361084", "2": "0.010232276", "3": "0.010259844", "4": "0.08811454", "5": "0.16104026", "6": "0.28399563"}}

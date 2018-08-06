@@ -1,0 +1,1 @@
+{"text": "As soon as I got this out of the package I loved the fabric, solo soft. It fit nicely. And felt comfortable to wear. Have not tried wearing it for lomg hours yet,but it feels like it isgoingto be comfy.", "sentiment": "negative", "topics": {"0": "0.0832556", "1": "0.37784693", "2": "0.22295727", "5": "0.22653653", "6": "0.07638833"}}

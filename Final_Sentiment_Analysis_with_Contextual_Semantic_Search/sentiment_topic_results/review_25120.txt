@@ -1,0 +1,1 @@
+{"text": "I have bought these before and will again.  I use them in slippers that don't have enough padding to suit me and they work great.", "sentiment": "positive", "topics": {"0": "0.014317266", "1": "0.014349225", "2": "0.14066271", "3": "0.014355379", "4": "0.0143570965", "5": "0.69199014", "6": "0.10996816"}}

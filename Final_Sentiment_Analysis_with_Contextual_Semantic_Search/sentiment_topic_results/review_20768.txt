@@ -1,0 +1,1 @@
+{"text": "I just tried this product on my silver jewelry that was tarnished, and after just 10 second on using this product my rings looks like new, so I'm happy with my purchase,", "sentiment": "negative", "topics": {"0": "0.0769874", "1": "0.4458379", "3": "0.090776145", "4": "0.08684843", "5": "0.1802232", "6": "0.11091789"}}

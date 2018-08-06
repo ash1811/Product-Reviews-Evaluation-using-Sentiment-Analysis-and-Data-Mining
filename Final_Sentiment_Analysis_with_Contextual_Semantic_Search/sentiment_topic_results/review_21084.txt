@@ -1,0 +1,1 @@
+{"text": "We used this on our beach vacation.We were able to hold a lot in it. I washed it when we got back and it held up perfectly.", "sentiment": "negative", "topics": {"0": "0.011018859", "1": "0.6713185", "2": "0.011015281", "3": "0.27361208", "4": "0.010999314", "5": "0.011013352", "6": "0.011022649"}}

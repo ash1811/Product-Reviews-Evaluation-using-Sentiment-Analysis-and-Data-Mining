@@ -1,0 +1,1 @@
+{"text": "its been hard to find jeans that are different and that fits well, I love the color. i would recommend", "sentiment": "positive", "topics": {"0": "0.37641183", "1": "0.55841756", "2": "0.013006994", "3": "0.013030136", "4": "0.013065111", "5": "0.013065802", "6": "0.013002517"}}

@@ -1,0 +1,1 @@
+{"text": "very good productProduct met expectations if the price is worth the payment .. are very good and been very satisfied.The size is perfect ..", "sentiment": "positive", "topics": {"0": "0.011945533", "1": "0.4327406", "2": "0.011913696", "3": "0.19952491", "4": "0.011952147", "5": "0.011966964", "6": "0.31995618"}}

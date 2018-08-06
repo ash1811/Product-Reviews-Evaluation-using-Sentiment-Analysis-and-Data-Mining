@@ -1,0 +1,1 @@
+{"text": "LOOKS GREAT. HOLDS ALL OF MY WATCHES A A A A A A A A A A A A A", "sentiment": "negative", "topics": {"0": "0.028686985", "1": "0.35797188", "2": "0.2347149", "3": "0.29281867", "4": "0.028586337", "5": "0.028649176", "6": "0.028572088"}}

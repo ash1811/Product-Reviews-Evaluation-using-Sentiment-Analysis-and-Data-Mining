@@ -1,0 +1,1 @@
+{"text": "I bought this for my wife she likes the way if fits but it should be a few inches longer since she has to wear in side her pants.", "sentiment": "positive", "topics": {"0": "0.011940473", "1": "0.49792442", "2": "0.0119371265", "3": "0.011959155", "4": "0.011970467", "5": "0.011961601", "6": "0.4423068"}}

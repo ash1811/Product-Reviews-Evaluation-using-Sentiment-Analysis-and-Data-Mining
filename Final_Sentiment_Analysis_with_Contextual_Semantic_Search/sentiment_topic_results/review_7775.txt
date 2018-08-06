@@ -1,0 +1,1 @@
+{"text": "I really liked this model, they are not as wide as the other models, and show reduced waist, the material is thin and light, which is very nice in the summer! I'm very happy for them and want to buy another one!", "sentiment": "negative", "topics": {"0": "0.087972745", "1": "0.55303025", "2": "0.18952864", "6": "0.14800347"}}

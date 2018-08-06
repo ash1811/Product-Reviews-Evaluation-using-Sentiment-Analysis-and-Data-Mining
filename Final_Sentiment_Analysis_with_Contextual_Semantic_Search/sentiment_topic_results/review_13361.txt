@@ -1,0 +1,1 @@
+{"text": "Bag is large and comfortable. Like the color also. I apply a very low price promotion are excited to buy.", "sentiment": "negative", "topics": {"0": "0.11782007", "1": "0.55347633", "2": "0.011004353", "3": "0.08973784", "4": "0.10033957", "5": "0.11659917", "6": "0.011022691"}}

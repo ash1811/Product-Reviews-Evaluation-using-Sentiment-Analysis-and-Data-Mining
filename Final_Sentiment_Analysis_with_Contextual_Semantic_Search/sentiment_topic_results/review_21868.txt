@@ -1,0 +1,1 @@
+{"text": "This jacket is very well made and looks good.  Bought it large enough to put sweaters under as it does not have a heavy lining.", "sentiment": "positive", "topics": {"0": "0.1499175", "1": "0.46938735", "2": "0.1018868", "3": "0.011019363", "4": "0.18034008", "5": "0.011035777", "6": "0.07641313"}}

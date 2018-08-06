@@ -1,0 +1,1 @@
+{"text": "I bought these to wear with a green tutu for St. Patty's Day.  They were a great addition to the costume.  The texture was a little rough but no real complaints.", "sentiment": "negative", "topics": {"0": "0.22878118", "1": "0.2946313", "2": "0.19566266", "3": "0.21650623", "4": "0.046514504"}}

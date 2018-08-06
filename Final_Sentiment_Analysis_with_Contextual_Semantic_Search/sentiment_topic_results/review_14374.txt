@@ -1,0 +1,1 @@
+{"text": "it's my 2nd pair of klogs usa and i will continue to buy them because they are durable, lightweight, true to their size  & very comfortable.", "sentiment": "negative", "topics": {"0": "0.011912701", "1": "0.48904637", "2": "0.10059015", "3": "0.011957146", "4": "0.01194864", "5": "0.11312103", "6": "0.26142395"}}

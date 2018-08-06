@@ -1,0 +1,1 @@
+{"text": "The fabric is very thin.  Coverage is a primary consideration, and I couldn't wear this with a t-shirt without scandalizing the neighbors.  It had to go back.", "sentiment": "negative", "topics": {"0": "0.011061519", "1": "0.29442173", "2": "0.010995686", "3": "0.11442314", "4": "0.11969532", "5": "0.14038494", "6": "0.30901766"}}

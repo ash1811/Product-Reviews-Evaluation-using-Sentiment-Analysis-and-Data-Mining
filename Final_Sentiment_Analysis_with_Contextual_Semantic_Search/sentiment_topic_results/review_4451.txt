@@ -1,0 +1,1 @@
+{"text": "My mum simply loves the denim quality of the jeans. Smooth and comfortable! Though purists should take note that the denim is not as coarse as this is not the rigid version that other labels produce.", "sentiment": "positive", "topics": {"1": "0.33872727", "2": "0.061555177", "3": "0.08280699", "4": "0.279852", "5": "0.08866078", "6": "0.14082417"}}

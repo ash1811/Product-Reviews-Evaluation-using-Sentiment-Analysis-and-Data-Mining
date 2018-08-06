@@ -1,0 +1,1 @@
+{"text": "Of course Levi is popular in Thailand.  This style is very popular as well.  The seller had all the sizes and colors.", "sentiment": "negative", "topics": {"0": "0.013006008", "1": "0.01307751", "2": "0.01299397", "3": "0.16172057", "4": "0.01303703", "5": "0.6396943", "6": "0.14647068"}}

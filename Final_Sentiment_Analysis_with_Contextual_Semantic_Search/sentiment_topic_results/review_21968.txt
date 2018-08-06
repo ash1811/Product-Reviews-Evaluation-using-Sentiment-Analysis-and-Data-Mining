@@ -1,0 +1,1 @@
+{"text": "Sizing is for tall.  I bought this for my son who is 6'4 but the size was way too big.  Maybe if he was 10 feet tall.", "sentiment": "negative", "topics": {"0": "0.011045301", "1": "0.30885622", "2": "0.011015579", "3": "0.1925656", "4": "0.45445696", "5": "0.011041716", "6": "0.011018599"}}

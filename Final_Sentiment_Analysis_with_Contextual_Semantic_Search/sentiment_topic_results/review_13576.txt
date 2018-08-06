@@ -1,0 +1,1 @@
+{"text": "My husband bought one pair, and then sent me on a mission to buy the other 2 available colors! He says they are super comfortable!", "sentiment": "negative", "topics": {"0": "0.09373156", "1": "0.5745247", "2": "0.010233403", "3": "0.08586711", "4": "0.14482781", "5": "0.010215193", "6": "0.08060028"}}

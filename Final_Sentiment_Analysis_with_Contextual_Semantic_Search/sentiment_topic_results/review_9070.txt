@@ -1,0 +1,1 @@
+{"text": "This is my 3rd pair of Skecher's mules. I love them. I use them to walk our dog multiple times a day. Easy to put on and off.", "sentiment": "negative", "topics": {"0": "0.29336601", "1": "0.20368394", "3": "0.46708748"}}

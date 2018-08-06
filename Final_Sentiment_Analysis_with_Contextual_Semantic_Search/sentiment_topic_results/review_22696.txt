@@ -1,0 +1,1 @@
+{"text": "I chose this ranking because they are a bit small for a size 8. I would need to jump up a size if I order them again.  Other than that they are good for the price.", "sentiment": "negative", "topics": {"0": "0.10408111", "1": "0.30122662", "2": "0.078743115", "3": "0.25349587", "4": "0.14162542", "6": "0.111266255"}}

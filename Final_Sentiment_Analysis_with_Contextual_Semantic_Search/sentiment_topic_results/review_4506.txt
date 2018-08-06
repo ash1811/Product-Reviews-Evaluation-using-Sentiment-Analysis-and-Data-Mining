@@ -1,0 +1,1 @@
+{"text": "they don't fit like my old ones and the quality is not there , also not made here USA they use to fit me perfect but not now", "sentiment": "negative", "topics": {"0": "0.0119303325", "1": "0.5318756", "2": "0.0119542", "3": "0.011925556", "4": "0.40840557", "5": "0.01193385", "6": "0.011974907"}}

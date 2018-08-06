@@ -1,0 +1,1 @@
+{"text": "Platex has been around for a long time and I love these bra's. I buy every kind and every brand, but always ending up coming back. They are soft, stand up to time and very feminine.", "sentiment": "negative", "topics": {"1": "0.29993635", "3": "0.13603789", "4": "0.082993716", "5": "0.32716268", "6": "0.13954085"}}

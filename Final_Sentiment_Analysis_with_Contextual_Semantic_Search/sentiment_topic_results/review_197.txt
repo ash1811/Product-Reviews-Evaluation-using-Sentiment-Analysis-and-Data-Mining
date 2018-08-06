@@ -1,0 +1,1 @@
+{"text": "it would be nice to have a two tone color on the shirt to match different clothes that i wear", "sentiment": "positive", "topics": {"0": "0.013034624", "1": "0.49732855", "2": "0.013022408", "3": "0.43751803", "4": "0.013000131", "5": "0.013043475", "6": "0.013052771"}}

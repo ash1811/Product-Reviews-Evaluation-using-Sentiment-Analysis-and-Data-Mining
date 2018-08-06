@@ -1,0 +1,1 @@
+{"text": "These had a padded upper and molded bottom which made the sandals very comfortable.  I would definitely by them again.", "sentiment": "negative", "topics": {"0": "0.013009867", "1": "0.21346802", "2": "0.18532471", "3": "0.124414295", "4": "0.15557125", "5": "0.29520383", "6": "0.013008061"}}

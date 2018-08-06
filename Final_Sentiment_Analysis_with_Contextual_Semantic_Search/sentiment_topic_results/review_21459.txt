@@ -1,0 +1,1 @@
+{"text": "Not a bad shoe and pretty comfy for the walk around the home. Keeps the feet warm on the cold days for the walk to the mailbox.", "sentiment": "negative", "topics": {"0": "0.21525437", "1": "0.40342093", "2": "0.1168369", "3": "0.23575313"}}

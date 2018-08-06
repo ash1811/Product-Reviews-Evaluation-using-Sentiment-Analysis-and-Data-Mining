@@ -1,0 +1,1 @@
+{"text": "The specification of the bracelet did not indicate that it would be that small, I thought it would be wider.", "sentiment": "negative", "topics": {"0": "0.42187914", "1": "0.49844927", "2": "0.015994078", "3": "0.015950477", "4": "0.01591857", "5": "0.015914138", "6": "0.015894294"}}

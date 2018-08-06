@@ -1,0 +1,1 @@
+{"text": "I love the lacy bodice and feminine little sleeves.  This gown is so comfortable; I will want to buy more!", "sentiment": "negative", "topics": {"0": "0.011926364", "1": "0.41795126", "2": "0.18461227", "3": "0.01194754", "4": "0.15334865", "5": "0.011922378", "6": "0.20829152"}}

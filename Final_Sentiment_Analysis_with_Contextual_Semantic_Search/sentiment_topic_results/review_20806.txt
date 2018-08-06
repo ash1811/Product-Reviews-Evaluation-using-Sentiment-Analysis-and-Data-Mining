@@ -1,0 +1,1 @@
+{"text": "This is the real deal, a marvelous backpack. Great customer service also. It is dependable, versatile, truly something that can be used for a wide variety of projects.", "sentiment": "negative", "topics": {"1": "0.30945885", "2": "0.2236077", "3": "0.1524167", "4": "0.23165222", "6": "0.06599908"}}

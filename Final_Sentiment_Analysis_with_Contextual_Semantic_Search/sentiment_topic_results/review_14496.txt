@@ -1,0 +1,1 @@
+{"text": "I absolutely love my new Birkinstock black suede Bostons.  They are the most comfortable shoes that I have ever worn.Since I have arthritis in my feet, they are the only shoes I can wear now. Thanks for a great product!!", "sentiment": "positive", "topics": {"0": "0.1789574", "1": "0.26560915", "2": "0.19820093", "3": "0.13951144", "4": "0.11595553", "5": "0.09461291"}}

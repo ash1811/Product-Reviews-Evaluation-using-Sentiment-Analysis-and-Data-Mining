@@ -1,0 +1,1 @@
+{"text": "I've been buying these for my kids for too many years to admit to and not only have they remained popular with regard to the styling the quality has remained great too...", "sentiment": "negative", "topics": {"1": "0.10407489", "3": "0.2259384", "4": "0.28373083", "5": "0.266499", "6": "0.10063243"}}

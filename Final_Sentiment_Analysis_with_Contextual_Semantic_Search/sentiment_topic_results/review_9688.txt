@@ -1,0 +1,1 @@
+{"text": "I am a 40F and this bra although it is pretty does not hold or lift the girls up. I will be sticking with Goddess.  This bra is good for night-time lounging around the house.", "sentiment": "negative", "topics": {"0": "0.24535617", "1": "0.09792199", "2": "0.103496596", "3": "0.35209492", "5": "0.106703974", "6": "0.08598659"}}

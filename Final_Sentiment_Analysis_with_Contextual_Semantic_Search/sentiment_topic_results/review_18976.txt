@@ -1,0 +1,1 @@
+{"text": "34B and this bra is perfect. Gives a slight lift, isn't tight around the ribs and gives beasts a natural lifted shape.A++", "sentiment": "positive", "topics": {"0": "0.06507914", "1": "0.32441092", "2": "0.08487974", "3": "0.11245021", "4": "0.24118628", "5": "0.076299526", "6": "0.09569422"}}

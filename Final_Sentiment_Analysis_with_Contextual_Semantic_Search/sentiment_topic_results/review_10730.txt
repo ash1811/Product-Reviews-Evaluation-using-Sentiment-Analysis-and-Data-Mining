@@ -1,0 +1,1 @@
+{"text": "My son loves these boots and will not wear any others. The dealer sold at a great price that I could afford. Confort is a must for a work boot and these fit great and he is in style. will use this dealer again.", "sentiment": "positive", "topics": {"0": "0.06484783", "1": "0.24466924", "3": "0.10188622", "4": "0.42087853", "5": "0.154709"}}

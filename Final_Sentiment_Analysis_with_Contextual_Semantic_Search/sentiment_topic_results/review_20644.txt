@@ -1,0 +1,1 @@
+{"text": "This was the perfect color to dye the shoes to match the purse.  It was easy to use and a great price.  I highly recommend.", "sentiment": "negative", "topics": {"0": "0.011017952", "1": "0.5557285", "2": "0.23220924", "3": "0.011088897", "4": "0.011045279", "5": "0.011043558", "6": "0.16786656"}}

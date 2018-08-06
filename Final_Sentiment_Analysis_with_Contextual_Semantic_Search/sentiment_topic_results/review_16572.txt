@@ -1,0 +1,1 @@
+{"text": "I love these bras.  They fit great.  I can no longer find them in town at any of the stores we have. So glad  Amazon carries them", "sentiment": "positive", "topics": {"0": "0.011002272", "1": "0.46533635", "2": "0.010991115", "3": "0.18631436", "4": "0.3043177", "5": "0.011043915", "6": "0.010994247"}}

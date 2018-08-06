@@ -1,0 +1,1 @@
+{"text": "I purchased this for my wife a an extra Christmas gift.  She loves it.  She said its soft and comfortable.  It looks good on her and seems to be well made.", "sentiment": "positive", "topics": {"0": "0.14482084", "1": "0.49060422", "3": "0.3287476"}}

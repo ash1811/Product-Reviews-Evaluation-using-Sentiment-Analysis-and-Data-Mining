@@ -1,0 +1,1 @@
+{"text": "these insoles are just what my old Uggs needed.  they have resurrected that super comfy shearling feeling for my bare feet.  Perfect!", "sentiment": "negative", "topics": {"0": "0.119842425", "1": "0.22698885", "2": "0.16109306", "3": "0.011013244", "4": "0.45900792", "5": "0.0110108415", "6": "0.011043647"}}

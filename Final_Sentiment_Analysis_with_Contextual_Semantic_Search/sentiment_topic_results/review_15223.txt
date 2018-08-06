@@ -1,0 +1,1 @@
+{"text": "These boxer briefs fit great, feel great, seem to be sized properly. I will buy again. Maybe better color variety, but that's my only suggestion.", "sentiment": "positive", "topics": {"1": "0.30295476", "2": "0.23958805", "4": "0.24029633", "6": "0.19325899"}}

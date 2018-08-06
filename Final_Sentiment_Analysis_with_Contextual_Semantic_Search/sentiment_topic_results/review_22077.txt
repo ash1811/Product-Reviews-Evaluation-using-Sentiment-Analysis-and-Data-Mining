@@ -1,0 +1,1 @@
+{"text": "Use these for hiking and general cold weather needs.  They are inexpensive enough to stash extra sets here and there, and if I lose one or leave a pair somewhere, won't worry about it.  Men's-sized.", "sentiment": "positive", "topics": {"0": "0.06619142", "1": "0.13321277", "2": "0.25945142", "3": "0.37550855", "6": "0.15198752"}}

@@ -1,0 +1,1 @@
+{"text": "Coarse material, too.  I could recommend these only if you were looking for a work jean and you go down a size in both the waist and inseam.", "sentiment": "negative", "topics": {"0": "0.011051261", "1": "0.011049724", "2": "0.16654362", "3": "0.3051998", "4": "0.011015153", "5": "0.4841169", "6": "0.011023542"}}

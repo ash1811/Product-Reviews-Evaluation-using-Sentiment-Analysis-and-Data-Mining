@@ -1,0 +1,1 @@
+{"text": "the reputation of this casio watch,durability,lightweight,etc.A great sport watch to wear where ever you go,whatever you do.This watch can take a beaten,and still keep on ticking.I highly recommend this watch.", "sentiment": "positive", "topics": {"1": "0.2600245", "2": "0.27505612", "4": "0.20606884", "6": "0.2373302"}}

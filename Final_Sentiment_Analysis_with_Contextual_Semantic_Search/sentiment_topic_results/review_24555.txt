@@ -1,0 +1,1 @@
+{"text": "This leotard fit everywhere except the arms...I think it was made for a woman's body and a small child arms!Seller was courteous and the exchange was easy.", "sentiment": "negative", "topics": {"1": "0.3735834", "2": "0.07882596", "3": "0.17246936", "4": "0.16155274", "6": "0.19569619"}}

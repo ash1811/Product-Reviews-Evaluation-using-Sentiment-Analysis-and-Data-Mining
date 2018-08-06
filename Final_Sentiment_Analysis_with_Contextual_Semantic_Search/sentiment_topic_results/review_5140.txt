@@ -1,0 +1,1 @@
+{"text": "I love the feel of the sock; however I bought them for Christmas gifts.  They arrived quickly; however I was disappointed because I ordered more than could be filled so I didn't get the one pain I had ordered for me.", "sentiment": "negative", "topics": {"0": "0.42596856", "2": "0.29416484", "3": "0.12986726", "5": "0.12847671"}}

@@ -1,0 +1,1 @@
+{"text": "These gold earrings come in a lovely box adn will make an excellent stocking stuffer for my daughter!  I wish I had ordered another pair for myself!", "sentiment": "negative", "topics": {"1": "0.30028737", "2": "0.19534293", "3": "0.2860784", "4": "0.09082375", "6": "0.1106122"}}

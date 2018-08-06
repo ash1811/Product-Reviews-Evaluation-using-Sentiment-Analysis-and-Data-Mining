@@ -1,0 +1,1 @@
+{"text": "Usually my husband is a little \"piqui\" with everything he wears, but he likes so much this short, very fresh for the summer.", "sentiment": "negative", "topics": {"0": "0.14124681", "1": "0.011987514", "2": "0.1539417", "3": "0.011962037", "4": "0.11927098", "5": "0.42027882", "6": "0.14131214"}}

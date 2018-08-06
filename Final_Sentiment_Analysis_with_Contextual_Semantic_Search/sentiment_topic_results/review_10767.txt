@@ -1,0 +1,1 @@
+{"text": "Very nice look and fits great I want them in brown now clear soft materials take a look around good price I'm happy", "sentiment": "positive", "topics": {"1": "0.8874988", "2": "0.07039994"}}

@@ -1,0 +1,1 @@
+{"text": "The product description indicated the package contained three in white and three in other colors.  What I received were grey, black, and pastels -- no white.  Since white was what I wanted most, wasn't happy.  Refund was not a problem.", "sentiment": "negative", "topics": {"0": "0.16576876", "2": "0.11105821", "3": "0.2238016", "5": "0.4798463"}}

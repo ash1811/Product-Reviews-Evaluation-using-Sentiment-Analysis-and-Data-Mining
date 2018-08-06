@@ -1,0 +1,1 @@
+{"text": "I ordered this for my husband.  fit is as expected.  Fabric is a bit rough, but other than that, nice pants for outdoors", "sentiment": "positive", "topics": {"0": "0.011915277", "1": "0.49988222", "2": "0.20420544", "3": "0.011929713", "4": "0.20302193", "5": "0.05712886", "6": "0.011916563"}}

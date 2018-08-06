@@ -1,0 +1,1 @@
+{"text": "Not the \"cutest\" looking if you know what I mean, (wink, wink), BUT they are so comfy and I don't get wedgies.  LOL!  They don't shrink either!!  Love that!", "sentiment": "negative", "topics": {"0": "0.08359578", "1": "0.29908627", "4": "0.18100904", "6": "0.40765256"}}

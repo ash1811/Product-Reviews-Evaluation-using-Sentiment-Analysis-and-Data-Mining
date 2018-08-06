@@ -1,0 +1,1 @@
+{"text": "I found this bra to be very comfortable, gives moderate support and makes you look good in clothes. Have been wearing this style for years and only others like it are a lot more money.", "sentiment": "negative", "topics": {"1": "0.42541373", "3": "0.5347803"}}

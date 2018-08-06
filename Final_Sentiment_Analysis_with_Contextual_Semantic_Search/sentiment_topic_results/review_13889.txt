@@ -1,0 +1,1 @@
+{"text": "Got it as a anniversary gift and he loved it! Runs a bit small, but if you have a smaller wrist its great. Fares well as a workout watch.", "sentiment": "negative", "topics": {"0": "0.24196188", "1": "0.1354193", "2": "0.095715135", "3": "0.2535931", "5": "0.16251788", "6": "0.101856254"}}

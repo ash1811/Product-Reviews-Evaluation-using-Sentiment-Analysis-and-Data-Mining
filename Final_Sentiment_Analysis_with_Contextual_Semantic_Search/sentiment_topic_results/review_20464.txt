@@ -1,0 +1,1 @@
+{"text": "Cons: a little awkward slipping your feet in..tight on the upper ankle..otherwise the shoe's fitting is comfortable..durability not tested yet..color is nice..", "sentiment": "negative", "topics": {"0": "0.3039057", "2": "0.15722828", "3": "0.22455697", "4": "0.2856504"}}

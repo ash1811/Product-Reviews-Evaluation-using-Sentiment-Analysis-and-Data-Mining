@@ -1,0 +1,1 @@
+{"text": "Got these for my husband. He normally wears size 10.5, so 11 fit just fine as far as the size goes. The flip flops are way too narrow, though! Ended up going with Teva Mush instead.", "sentiment": "negative", "topics": {"0": "0.1254557", "1": "0.25439492", "2": "0.11825448", "3": "0.22738107", "4": "0.18289319", "5": "0.08538276"}}

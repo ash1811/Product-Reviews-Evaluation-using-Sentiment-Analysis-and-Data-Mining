@@ -1,0 +1,1 @@
+{"text": "My lovely lady loves these shoes, she says they're just right & fit comfortable, wear well, a good sturdy product, knocks the competitor out the window she says!!!", "sentiment": "positive", "topics": {"1": "0.3260934", "2": "0.13668698", "4": "0.26540706", "5": "0.140674", "6": "0.11607781"}}

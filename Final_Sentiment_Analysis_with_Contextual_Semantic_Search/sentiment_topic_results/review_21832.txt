@@ -1,0 +1,1 @@
+{"text": "5 yr old (about 48lbs) loves them and said they were very comfortable. It's a great product for the price.", "sentiment": "negative", "topics": {"0": "0.011964656", "1": "0.16922487", "2": "0.011910294", "3": "0.011952943", "4": "0.31800544", "5": "0.46502614", "6": "0.011915654"}}

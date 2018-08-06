@@ -1,0 +1,1 @@
+{"text": "I use them and fit very good. Excellent pant and a very good color. It's maybe a liittle big but nothing wrong. I use 34 and it look fine. Good denim.", "sentiment": "negative", "topics": {"1": "0.58957523", "2": "0.23900464", "5": "0.065651625", "6": "0.08313593"}}

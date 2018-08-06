@@ -1,0 +1,1 @@
+{"text": "I love these socks (and don't care if that green shade is available or not). They stay up well, are wonderfully comfortable, and haven't faded with multiple runs through the laundry.", "sentiment": "negative", "topics": {"1": "0.22620831", "2": "0.15846494", "3": "0.1554915", "4": "0.16953419", "5": "0.1349572", "6": "0.14692304"}}

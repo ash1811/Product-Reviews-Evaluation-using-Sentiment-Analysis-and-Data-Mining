@@ -1,0 +1,1 @@
+{"text": "This is my second purchase of Hanes Cotton Panties.  The first were two small so I ordered a size larger, same results.  The colors are nice, but the cotton is so then, a few washing and they will be gone.", "sentiment": "negative", "topics": {"1": "0.386713", "2": "0.18606906", "3": "0.25586247", "5": "0.14872359"}}

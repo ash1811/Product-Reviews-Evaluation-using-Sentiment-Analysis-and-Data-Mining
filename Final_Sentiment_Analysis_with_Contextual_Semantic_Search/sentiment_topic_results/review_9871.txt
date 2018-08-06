@@ -1,0 +1,1 @@
+{"text": "What can I say - these are just classic boat shoes.  Bought these for my teenage son for a cruise we were going on - he loves them.", "sentiment": "negative", "topics": {"0": "0.011945105", "1": "0.011948067", "2": "0.22827439", "3": "0.28247616", "4": "0.011959236", "5": "0.36405364", "6": "0.08934339"}}

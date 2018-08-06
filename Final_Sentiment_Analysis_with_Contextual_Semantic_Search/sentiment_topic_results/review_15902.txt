@@ -1,0 +1,1 @@
+{"text": "Ken looks good in this outfit. He has few pieces but, he can look good inthe clothes that were bought here.", "sentiment": "negative", "topics": {"0": "0.26724032", "1": "0.29511416", "2": "0.011015574", "3": "0.011018961", "4": "0.18292537", "5": "0.011043756", "6": "0.22164185"}}

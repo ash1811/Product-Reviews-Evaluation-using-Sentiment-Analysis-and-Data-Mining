@@ -1,0 +1,1 @@
+{"text": "addidas makes the best track pants. they fit the most realistically to normal sized humans. not dangly six foot six aliens.", "sentiment": "negative", "topics": {"0": "0.37434208", "1": "0.18740433", "2": "0.16256759", "3": "0.062337138", "4": "0.11678538", "6": "0.08762265"}}

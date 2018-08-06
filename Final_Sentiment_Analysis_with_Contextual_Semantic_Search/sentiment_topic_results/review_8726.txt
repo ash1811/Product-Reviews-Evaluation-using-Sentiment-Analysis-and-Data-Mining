@@ -1,0 +1,1 @@
+{"text": "G-Shocks are expensive and I jumped at the price when I looked at this watch. The settings were very easy to adjust. I was looking for this type of watch for a long time and I was happy to get it at a reasonable price. Absolutely loved it.", "sentiment": "negative", "topics": {"0": "0.16811137", "1": "0.25806668", "2": "0.2791897", "4": "0.27510342"}}

@@ -1,0 +1,1 @@
+{"text": "Basic Khaki pants.  They look good, fit good and are worth the price.  You can't go wrong - and don't need anything more expensive.", "sentiment": "negative", "topics": {"1": "0.5555014", "2": "0.15200558", "5": "0.12876248", "6": "0.13689493"}}

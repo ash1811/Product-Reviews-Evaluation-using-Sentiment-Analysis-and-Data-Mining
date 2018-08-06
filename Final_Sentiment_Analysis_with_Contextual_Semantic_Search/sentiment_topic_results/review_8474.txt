@@ -1,0 +1,1 @@
+{"text": "I like the stitching on this. the fishnet  feels amazing when it is on. the crotch area could be a bit bigger", "sentiment": "positive", "topics": {"0": "0.011040708", "1": "0.4333494", "2": "0.21214959", "3": "0.011052504", "4": "0.31032318", "5": "0.011015097", "6": "0.011069519"}}

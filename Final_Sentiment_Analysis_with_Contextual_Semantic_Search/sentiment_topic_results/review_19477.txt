@@ -1,0 +1,1 @@
+{"text": "These shoes can be worn with smart casual clothing, or with every day shorts and t-shirt. Jambu shoes are great!", "sentiment": "negative", "topics": {"0": "0.23817924", "1": "0.01105379", "2": "0.29582462", "3": "0.011017784", "4": "0.011003273", "5": "0.011043872", "6": "0.42187738"}}

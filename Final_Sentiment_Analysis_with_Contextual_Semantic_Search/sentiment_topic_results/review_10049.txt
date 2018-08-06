@@ -1,0 +1,1 @@
+{"text": "This is a great gift for this christmas and hoping that the recipient would be as amaze as I was when saw it", "sentiment": "positive", "topics": {"0": "0.6757243", "1": "0.015946971", "2": "0.015926113", "3": "0.015918018", "4": "0.01588272", "5": "0.015968505", "6": "0.24463336"}}

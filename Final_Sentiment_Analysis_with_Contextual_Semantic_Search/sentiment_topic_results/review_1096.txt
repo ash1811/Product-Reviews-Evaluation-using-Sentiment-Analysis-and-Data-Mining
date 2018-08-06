@@ -1,0 +1,1 @@
+{"text": "Great product. You can change the length of this to fit around any neck size. My husband wore it on our wedding day. Looks so Handsome!", "sentiment": "negative", "topics": {"1": "0.14946549", "2": "0.17051755", "4": "0.08517039", "5": "0.4033178", "6": "0.1723964"}}

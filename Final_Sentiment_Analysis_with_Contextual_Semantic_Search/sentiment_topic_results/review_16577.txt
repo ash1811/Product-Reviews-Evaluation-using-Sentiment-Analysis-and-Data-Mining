@@ -1,0 +1,1 @@
+{"text": "This is my favorite bra ever. So comfortable. Natural shape. No heavy padding. Easy to wear. Looks invisible under everything. Fast shipping!", "sentiment": "negative", "topics": {"1": "0.17879993", "2": "0.22970806", "3": "0.20112644", "4": "0.173177", "5": "0.12674718", "6": "0.08147817"}}

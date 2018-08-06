@@ -1,0 +1,1 @@
+{"text": "She wears it everyday and it is still ok. Plays outside and to school, great product for an active kid.", "sentiment": "negative", "topics": {"0": "0.011918837", "1": "0.39221156", "2": "0.012024054", "3": "0.011951489", "4": "0.178059", "5": "0.38192803", "6": "0.011907049"}}

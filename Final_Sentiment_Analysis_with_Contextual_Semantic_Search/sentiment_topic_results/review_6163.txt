@@ -1,0 +1,1 @@
+{"text": "What a great outfit love these body suits for the baby perfect gift. Perfect for a mom .. love these", "sentiment": "positive", "topics": {"0": "0.35288408", "1": "0.44201967", "2": "0.08712622", "3": "0.011940584", "4": "0.0120073715", "5": "0.011935446", "6": "0.08208664"}}

@@ -1,0 +1,1 @@
+{"text": "This bag is wonderful! Serves the purpose I need. While I like other messengers I have used, this one fits me the best!", "sentiment": "negative", "topics": {"0": "0.011935986", "1": "0.37481686", "2": "0.28189", "3": "0.099224456", "4": "0.011922796", "5": "0.011931408", "6": "0.20827848"}}

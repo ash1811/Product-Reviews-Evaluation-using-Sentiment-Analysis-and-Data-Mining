@@ -1,0 +1,1 @@
+{"text": "I wore it, I look good. Came hope, put it away till next time. Well, next time did not happened as it already ripped. I order plus size because I am 6' tall, and that worked.", "sentiment": "positive", "topics": {"0": "0.25362983", "1": "0.07951014", "2": "0.07741378", "5": "0.3330115", "6": "0.24442618"}}

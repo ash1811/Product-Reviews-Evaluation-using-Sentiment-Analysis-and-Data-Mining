@@ -1,0 +1,1 @@
+{"text": "I usually always go with playtex because they seem to last longer. I like this bra except for the fact the back part looks wadded after you wear it awhile. If they could fix this problem, it would be a great bra.", "sentiment": "negative", "topics": {"1": "0.37502795", "3": "0.40178657", "4": "0.19929394"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes are great. They fit well, they're adjustable and they can take daily rough wear and still last over a year. My husband is on his second pair.", "sentiment": "negative", "topics": {"0": "0.08437286", "1": "0.49663016", "2": "0.1975261", "4": "0.19619131"}}

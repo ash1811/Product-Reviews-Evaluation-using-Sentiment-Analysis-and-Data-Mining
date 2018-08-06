@@ -1,0 +1,1 @@
+{"text": "I really like my new watch, it is very beautiful. Very stylish, it is comfortable on the wrist. I like the black face with the  silver band.", "sentiment": "positive", "topics": {"0": "0.010258285", "1": "0.1161855", "2": "0.20957465", "3": "0.20387396", "4": "0.010240174", "5": "0.1793536", "6": "0.2705138"}}

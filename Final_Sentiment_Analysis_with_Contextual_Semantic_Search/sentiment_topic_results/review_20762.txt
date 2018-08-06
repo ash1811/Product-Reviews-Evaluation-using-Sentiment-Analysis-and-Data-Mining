@@ -1,0 +1,1 @@
+{"text": "If you are into tie die this is the shirt you want. Not expensive and the results were great, thick material.", "sentiment": "negative", "topics": {"0": "0.014345166", "1": "0.56553", "2": "0.014329979", "3": "0.0143351955", "4": "0.01429831", "5": "0.3628391", "6": "0.014322251"}}

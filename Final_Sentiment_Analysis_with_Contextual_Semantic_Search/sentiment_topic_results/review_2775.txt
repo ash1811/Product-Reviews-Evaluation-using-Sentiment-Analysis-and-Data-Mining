@@ -1,0 +1,1 @@
+{"text": "Found Keds in a &#34;wide&#34; size - great fit right out of the box!  The black looks great with black jeans!", "sentiment": "negative", "topics": {"0": "0.010235502", "1": "0.44365695", "2": "0.010217107", "3": "0.5051758", "4": "0.010241819", "5": "0.010259626", "6": "0.010213168"}}

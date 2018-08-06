@@ -1,0 +1,1 @@
+{"text": "These slippers are wonderfully cozy and comfortable and warm--I love the fluff! I also love that they have a real sole on them so I can run outside to get the mail or let the dog out. You can't beat the quality for the price!", "sentiment": "negative", "topics": {"1": "0.35248092", "3": "0.18284358", "4": "0.28268328", "5": "0.10605586", "6": "0.06347469"}}

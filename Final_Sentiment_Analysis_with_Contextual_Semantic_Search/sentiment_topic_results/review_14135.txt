@@ -1,0 +1,1 @@
+{"text": "my son put the shirt on immediately, commenting 'how cool!!' that about says it all!! good fit, vivid image, well received!", "sentiment": "negative", "topics": {"0": "0.33841363", "1": "0.2918534", "2": "0.09014081", "4": "0.17602767", "6": "0.08564295"}}

@@ -1,0 +1,1 @@
+{"text": "These flats are very nice, they're comfortable and chic and are very well done, the only this is that they don't provide arch support. SE is a fantastic brand, and as usual you have to order half a size up", "sentiment": "positive", "topics": {"0": "0.122345105", "1": "0.26372087", "2": "0.12753376", "3": "0.33123493", "5": "0.13924211"}}

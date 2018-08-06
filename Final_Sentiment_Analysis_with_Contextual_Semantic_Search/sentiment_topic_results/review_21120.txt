@@ -1,0 +1,1 @@
+{"text": "These are the perfect pants for me. They fit great, look professional and are the perfect length for me. I wear these to my corporate job. So far I have purchased three pairs of these pants.", "sentiment": "positive", "topics": {"0": "0.11665086", "1": "0.63140965", "3": "0.22182016"}}

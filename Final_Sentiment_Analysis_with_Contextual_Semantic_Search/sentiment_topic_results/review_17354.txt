@@ -1,0 +1,1 @@
+{"text": "I gave these socks to my daughter for working outside in sub-zero weather.  She said her feet stayed warm.  Recommended for those working in cold weather.", "sentiment": "positive", "topics": {"1": "0.45365387", "2": "0.07963111", "5": "0.43080685"}}

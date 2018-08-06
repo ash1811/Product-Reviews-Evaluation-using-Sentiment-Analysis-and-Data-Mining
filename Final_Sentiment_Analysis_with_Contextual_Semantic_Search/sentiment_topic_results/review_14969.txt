@@ -1,0 +1,1 @@
+{"text": "High quality, good fit, no loose seams or lint. The color allows it to be used both in everyday life as well as working with a shirt and dockers.", "sentiment": "negative", "topics": {"0": "0.1273479", "1": "0.62752557", "3": "0.071384475", "4": "0.10001967", "6": "0.05686465"}}

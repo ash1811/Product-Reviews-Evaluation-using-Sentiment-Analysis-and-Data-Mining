@@ -1,0 +1,1 @@
+{"text": "Very pretty looking.  Durable for every day use.  I have put it through the ringer every day and it still looks great after 1 month of use.  I love all the different compartments to place all my favorite items.", "sentiment": "negative", "topics": {"1": "0.42392743", "2": "0.060815085", "4": "0.15125202", "5": "0.27336615", "6": "0.07816101"}}

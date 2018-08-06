@@ -1,0 +1,1 @@
+{"text": "plain jane but hard worker.  look as pictured, run a tiny bit large but that's ok.  decent value, UNflashy work shoe.", "sentiment": "negative", "topics": {"0": "0.112220734", "2": "0.27125105", "3": "0.4127076", "4": "0.17987704"}}

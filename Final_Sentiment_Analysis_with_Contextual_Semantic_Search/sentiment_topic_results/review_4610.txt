@@ -1,0 +1,1 @@
+{"text": "Love this style of pants. been wearing them over a decade. I like to wear comfortable clothes. these are durable and fit very well and are relaxing to do every day stuff in. highly reccomend these and will be buying more pairs.", "sentiment": "negative", "topics": {"0": "0.08053962", "1": "0.43067694", "3": "0.16734128", "5": "0.30188572"}}

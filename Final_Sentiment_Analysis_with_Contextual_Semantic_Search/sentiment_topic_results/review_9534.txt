@@ -1,0 +1,1 @@
+{"text": "The shoes fit as expected. I would recommend a strong breaking in period for true comfort. So wear em around the house or something..", "sentiment": "positive", "topics": {"1": "0.4875225", "2": "0.19501251", "4": "0.08171138", "6": "0.20887795"}}

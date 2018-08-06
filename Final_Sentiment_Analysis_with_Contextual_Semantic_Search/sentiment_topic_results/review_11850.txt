@@ -1,0 +1,1 @@
+{"text": "My husband requires white teeshirts for work, and these work perfectly.They are priced nicely too, so if he gets them stained, we can replace them easily enough.Good bargain, nice fit, and they are soft too.", "sentiment": "negative", "topics": {"1": "0.4192045", "2": "0.18344764", "4": "0.08863463", "5": "0.28825933"}}

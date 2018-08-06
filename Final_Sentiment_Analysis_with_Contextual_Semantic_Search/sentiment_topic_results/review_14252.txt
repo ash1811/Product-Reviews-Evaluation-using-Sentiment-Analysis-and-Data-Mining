@@ -1,0 +1,1 @@
+{"text": "Wasn't sure about these at first but once I broke them in I was convinced! They feel good and look a little better than regular flip flops!", "sentiment": "positive", "topics": {"0": "0.45039743", "1": "0.16124049", "2": "0.21554041", "3": "0.13975395", "4": "0.011007577", "5": "0.011015657", "6": "0.011044503"}}

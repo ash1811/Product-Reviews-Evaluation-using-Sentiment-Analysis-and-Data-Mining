@@ -1,0 +1,1 @@
+{"text": "As I have come to expect from Carhartt, these jeans are well made, accurate fit and last through many washes. My husband prefers these to all other brands of work jeans.", "sentiment": "negative", "topics": {"1": "0.38243577", "3": "0.09383992", "4": "0.16722958", "5": "0.27663633", "6": "0.06302696"}}

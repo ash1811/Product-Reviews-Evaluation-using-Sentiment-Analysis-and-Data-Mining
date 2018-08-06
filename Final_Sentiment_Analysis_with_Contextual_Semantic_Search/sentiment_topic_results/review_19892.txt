@@ -1,0 +1,1 @@
+{"text": "My sweet tiny little Grandaughter with her golden curls just loved it. Then she took it outside, filled it with rocks and ran the hose in it. OOOOh well,", "sentiment": "negative", "topics": {"0": "0.34110618", "1": "0.12145409", "2": "0.13649781", "4": "0.066497035", "5": "0.20780896", "6": "0.118667215"}}

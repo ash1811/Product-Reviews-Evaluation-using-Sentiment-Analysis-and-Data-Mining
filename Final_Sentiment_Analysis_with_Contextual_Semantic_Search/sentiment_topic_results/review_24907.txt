@@ -1,0 +1,1 @@
+{"text": "I like these, but had to trim them to fit my size B width shoes. I have another pair, the pink ones that are made for Women's shoes. Even though the size in the title has a women's size, they are definitely C/D width.", "sentiment": "positive", "topics": {"1": "0.20664412", "2": "0.3198957", "3": "0.24354817", "4": "0.08742688", "6": "0.13103129"}}

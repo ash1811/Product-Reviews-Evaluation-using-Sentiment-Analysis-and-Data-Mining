@@ -1,0 +1,1 @@
+{"text": "I am big chested and can be uncomfortable when trying to sleep on side.  Plus it made me feel more secure and less loosy goosy.", "sentiment": "negative", "topics": {"0": "0.010213141", "1": "0.24558292", "2": "0.010214724", "3": "0.26202175", "4": "0.010213584", "5": "0.08718846", "6": "0.37456542"}}

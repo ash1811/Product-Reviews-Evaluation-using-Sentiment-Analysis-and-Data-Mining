@@ -1,0 +1,1 @@
+{"text": "They are as opaque as I wanted them to be. Wish the material has more recoil and more support. They are not as heavy as some of the opaque socks are.", "sentiment": "negative", "topics": {"0": "0.11992061", "1": "0.386231", "2": "0.21266955", "3": "0.011977645", "4": "0.011939799", "5": "0.012065893", "6": "0.24519546"}}

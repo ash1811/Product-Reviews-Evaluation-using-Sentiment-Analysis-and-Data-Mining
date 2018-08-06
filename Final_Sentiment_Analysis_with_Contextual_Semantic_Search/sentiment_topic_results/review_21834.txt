@@ -1,0 +1,1 @@
+{"text": "They fit my 3 year old grandson perfectly!  They are so easy for him to pull up and down himself.", "sentiment": "negative", "topics": {"0": "0.0143039245", "1": "0.4377765", "2": "0.12305261", "3": "0.01433268", "4": "0.19590032", "5": "0.0143104", "6": "0.20032354"}}

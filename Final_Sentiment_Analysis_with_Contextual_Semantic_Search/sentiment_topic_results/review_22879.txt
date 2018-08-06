@@ -1,0 +1,1 @@
+{"text": "Got these for my man to lounge around in. He wears them a lot and finds them to be very soft and comfortable. They fit great and have held up after several washings. Great price too. Highly recommend!", "sentiment": "positive", "topics": {"1": "0.45360982", "5": "0.51222634"}}

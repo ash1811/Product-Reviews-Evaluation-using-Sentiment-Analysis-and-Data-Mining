@@ -1,0 +1,1 @@
+{"text": "They don't fit because they don't stay on, but they do a great job at sticking to dust, hair, everything except for skin.", "sentiment": "negative", "topics": {"0": "0.106114", "1": "0.66547763", "2": "0.18071836", "3": "0.011919785", "4": "0.011937429", "5": "0.011924841", "6": "0.011907976"}}

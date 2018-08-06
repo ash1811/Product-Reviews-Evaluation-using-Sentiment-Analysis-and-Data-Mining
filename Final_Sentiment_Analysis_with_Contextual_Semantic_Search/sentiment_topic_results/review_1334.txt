@@ -1,0 +1,1 @@
+{"text": "I live in keens all summer - I own three pairs in different colors!  Whenever I see them at the price I purchased these at I buy them.", "sentiment": "negative", "topics": {"0": "0.010246799", "1": "0.40146333", "2": "0.0102483705", "3": "0.21562763", "4": "0.079701014", "5": "0.010217877", "6": "0.272495"}}

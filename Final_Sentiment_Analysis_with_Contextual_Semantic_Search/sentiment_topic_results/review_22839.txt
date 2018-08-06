@@ -1,0 +1,1 @@
+{"text": "these were given as a xmas gift, bought the set of 3 (these, red coral and amethyst) for a very good price. recipient loved these. they look really nice on.", "sentiment": "negative", "topics": {"0": "0.26518208", "1": "0.51878667", "2": "0.073550075", "3": "0.06468474", "4": "0.06347086"}}

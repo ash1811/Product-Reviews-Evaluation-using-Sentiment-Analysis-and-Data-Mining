@@ -1,0 +1,1 @@
+{"text": "Love the shoe however u need to buy 1 size larger than u normally wear to fit u correctly. Disappointed now have to return n wait for refund n then repurchase in a larger size.", "sentiment": "negative", "topics": {"1": "0.14054234", "2": "0.27101445", "3": "0.28100052", "4": "0.16943002", "6": "0.12650222"}}

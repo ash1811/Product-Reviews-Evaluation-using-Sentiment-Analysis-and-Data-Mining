@@ -1,0 +1,1 @@
+{"text": "washes well, and has a pocket that my father in law needs to carry his nitro.  Will be buying a few more when he needs more shirts.", "sentiment": "negative", "topics": {"0": "0.11457629", "1": "0.2917671", "2": "0.011914297", "3": "0.01191368", "4": "0.10071277", "5": "0.011947504", "6": "0.45716837"}}

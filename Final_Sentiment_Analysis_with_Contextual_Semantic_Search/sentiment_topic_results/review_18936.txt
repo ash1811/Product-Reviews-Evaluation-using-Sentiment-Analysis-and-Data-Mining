@@ -1,0 +1,1 @@
+{"text": "Timex makes a great watch for people that abuse them.  The price is right and they really last quite a while.", "sentiment": "negative", "topics": {"0": "0.20098422", "1": "0.47148603", "2": "0.16478717", "3": "0.13200463", "4": "0.0102774445", "5": "0.010253279", "6": "0.010207226"}}

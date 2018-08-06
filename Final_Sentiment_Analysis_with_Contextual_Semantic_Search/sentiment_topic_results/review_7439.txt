@@ -1,0 +1,1 @@
+{"text": "panties your totally useless because there's no elastic but it's nice little outfit for a pretty good price arrived quicklyfired another good night", "sentiment": "negative", "topics": {"0": "0.2649005", "1": "0.61772496", "2": "0.08366898"}}

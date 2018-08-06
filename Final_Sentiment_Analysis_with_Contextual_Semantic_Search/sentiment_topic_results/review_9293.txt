@@ -1,0 +1,1 @@
+{"text": "Very warm and comfy! I would consider buying additional slippers from this manufacturer. Shipped in a reasonable time and without any gliches.", "sentiment": "negative", "topics": {"0": "0.43934", "1": "0.010314698", "2": "0.11302835", "3": "0.16429539", "4": "0.010222499", "5": "0.116641894", "6": "0.14615715"}}

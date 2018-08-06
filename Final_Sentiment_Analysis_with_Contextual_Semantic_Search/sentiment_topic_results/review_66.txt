@@ -1,0 +1,1 @@
+{"text": "Once I received this bracelet I could not understand the less than positive reviews. The bracelet is absolutely lovely. It's not a heavy silver but definitely worth the price and I'm glad I bought it.", "sentiment": "negative", "topics": {"0": "0.3548307", "2": "0.16917393", "3": "0.04964963", "4": "0.27628148", "6": "0.13570783"}}

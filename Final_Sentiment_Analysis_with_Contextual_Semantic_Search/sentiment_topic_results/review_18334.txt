@@ -1,0 +1,1 @@
+{"text": "These are a great shoe for kids. Fit perfectly and look like a million dollar shoe. Highly recommend for your son", "sentiment": "positive", "topics": {"0": "0.010241897", "1": "0.42314497", "2": "0.3706499", "3": "0.010212727", "4": "0.010265336", "5": "0.16526583", "6": "0.010219355"}}

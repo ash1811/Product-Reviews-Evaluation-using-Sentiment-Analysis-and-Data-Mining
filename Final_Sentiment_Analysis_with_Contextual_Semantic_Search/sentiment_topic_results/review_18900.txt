@@ -1,0 +1,1 @@
+{"text": "Perfect jeans. the size, the fabric, the design, the color, the price, the general look, the feeling, all are perfect.", "sentiment": "negative", "topics": {"0": "0.011936285", "1": "0.48636672", "2": "0.0119177615", "3": "0.26986265", "4": "0.011928136", "5": "0.19606172", "6": "0.011926743"}}

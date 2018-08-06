@@ -1,0 +1,1 @@
+{"text": "They ended up fitting really, really weirdly. Keep shifting and falling down. I managed to anchor them with undies, but they still shifted around my legs oddly when wearing. Not really worth it.", "sentiment": "negative", "topics": {"0": "0.20821005", "2": "0.16138764", "3": "0.36162275", "5": "0.24924384"}}

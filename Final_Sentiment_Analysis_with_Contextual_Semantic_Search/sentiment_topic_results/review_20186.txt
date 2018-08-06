@@ -1,0 +1,1 @@
+{"text": "Cheaply made product that is over priced. Would not buy this item again. We actually bought something a medical supply store that was cheaper and more authentic.", "sentiment": "negative", "topics": {"1": "0.31535056", "3": "0.3078909", "5": "0.28301615", "6": "0.06845429"}}

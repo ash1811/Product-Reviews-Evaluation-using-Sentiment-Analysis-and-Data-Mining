@@ -1,0 +1,1 @@
+{"text": "Quality is very good and forms a tight fit with same designed dress shoe. I recommend for business professional to keep a pairin the car and travel luggage.", "sentiment": "positive", "topics": {"0": "0.16292442", "1": "0.32045513", "2": "0.3026363", "4": "0.18873616"}}

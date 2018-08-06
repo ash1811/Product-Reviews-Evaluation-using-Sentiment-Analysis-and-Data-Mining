@@ -1,0 +1,1 @@
+{"text": "So happy to find this brand on Amazon. Softwalk fits me well and the comfort it just what I need. Sturdy without looking like a hiking shoe!", "sentiment": "positive", "topics": {"0": "0.109005444", "1": "0.34953228", "2": "0.0804175", "3": "0.08517981", "4": "0.19546509", "6": "0.1714552"}}

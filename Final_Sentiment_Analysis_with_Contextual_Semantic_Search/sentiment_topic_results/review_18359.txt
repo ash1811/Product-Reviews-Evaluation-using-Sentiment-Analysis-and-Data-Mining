@@ -1,0 +1,1 @@
+{"text": "This is the second pair of Arcopedicos I have bought for my Mother-in-law.  She LOVES them....says they feel great on her feet & look nice too", "sentiment": "positive", "topics": {"0": "0.011033516", "1": "0.59788203", "2": "0.082283735", "3": "0.011028331", "4": "0.2757274", "5": "0.011013293", "6": "0.011031719"}}

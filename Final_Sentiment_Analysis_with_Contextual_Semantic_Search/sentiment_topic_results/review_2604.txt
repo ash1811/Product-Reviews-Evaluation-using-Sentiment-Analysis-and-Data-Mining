@@ -1,0 +1,1 @@
+{"text": "These shoes are very comfortable and fit like a dream!  They are solid and hold up to long walks, sand, water, whatever you throw their way.  I would recommend them for anyone looking for the perfect summertime sandal!", "sentiment": "negative", "topics": {"0": "0.12026947", "1": "0.3709791", "2": "0.23162423", "3": "0.08877053", "4": "0.050021816", "6": "0.13181669"}}

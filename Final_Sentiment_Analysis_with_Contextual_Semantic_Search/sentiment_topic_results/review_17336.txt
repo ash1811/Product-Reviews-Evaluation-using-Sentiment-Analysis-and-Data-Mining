@@ -1,0 +1,1 @@
+{"text": "Very comfy and well made. I ordered a size medium and they fit perfectly. I am 5'5&#34; and curvy (155#). Would definitely order more of these/other Danskin products.", "sentiment": "negative", "topics": {"0": "0.13743484", "1": "0.32126558", "3": "0.22154574", "4": "0.1471445", "5": "0.15670927"}}

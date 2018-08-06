@@ -1,0 +1,1 @@
+{"text": "Lovely, spacious bag here I can organise my belongings. I only gave it 4 stars because I thought the handles should have been of the same microfibre material. Little bigger than I was expecting.", "sentiment": "negative", "topics": {"0": "0.13981068", "1": "0.41575179", "3": "0.11982385", "4": "0.297718"}}

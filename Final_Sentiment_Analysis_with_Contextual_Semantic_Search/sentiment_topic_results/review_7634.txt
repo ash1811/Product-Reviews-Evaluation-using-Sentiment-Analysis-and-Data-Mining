@@ -1,0 +1,1 @@
+{"text": "The ring looked dull within one week of my husband wearing it.  It is not tarnish free.  The design is gorgeous, however the metal is not good quality.", "sentiment": "negative", "topics": {"0": "0.09324649", "1": "0.24606207", "2": "0.2419437", "3": "0.16466218", "4": "0.23819858"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased 2 pair of Wrangler Relaxed Fit and they fit with a little more room for my increasing girth.  They were washed in warm water and dried in a warm dryer.  No problems!", "sentiment": "negative", "topics": {"0": "0.13642555", "1": "0.6299835", "2": "0.12524302", "4": "0.08573625"}}

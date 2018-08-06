@@ -1,0 +1,1 @@
+{"text": "Neat looking watch! use that for outdoor activities! always like G-schock watch, can be used for so many yearts, still acurate!", "sentiment": "negative", "topics": {"1": "0.21827963", "2": "0.26623476", "3": "0.1374352", "4": "0.2542812", "6": "0.10588701"}}

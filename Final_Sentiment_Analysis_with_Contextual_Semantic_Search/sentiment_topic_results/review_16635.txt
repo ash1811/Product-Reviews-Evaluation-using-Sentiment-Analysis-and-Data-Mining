@@ -1,0 +1,1 @@
+{"text": "All other sandals will be obsolete once you own Keens Newports. Fits like a shoe, as comfortable as it gets. Extremely toughand durable. Keen products are simply outstanding.", "sentiment": "positive", "topics": {"0": "0.111856684", "1": "0.27483997", "2": "0.22580212", "5": "0.16859834", "6": "0.20207134"}}

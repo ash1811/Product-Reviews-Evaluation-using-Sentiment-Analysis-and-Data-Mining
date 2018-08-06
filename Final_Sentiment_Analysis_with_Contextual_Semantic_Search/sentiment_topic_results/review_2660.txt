@@ -1,0 +1,1 @@
+{"text": "This is kettle cloth material,which I haven't seen for decades. I love this material. It is thick enough so you can't see through it but cool cotton that breaths. I live in Hawaii so this is perfect.", "sentiment": "negative", "topics": {"3": "0.4494486", "4": "0.21233979", "5": "0.30634087"}}

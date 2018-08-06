@@ -1,0 +1,1 @@
+{"text": "I have about 6 invitca watches and wanted an invicta pro diver! This watch is better looking out of the box and on your wrist! g", "sentiment": "negative", "topics": {"0": "0.010218068", "1": "0.23703706", "2": "0.2305411", "3": "0.11651728", "4": "0.14775063", "5": "0.16358384", "6": "0.09435203"}}

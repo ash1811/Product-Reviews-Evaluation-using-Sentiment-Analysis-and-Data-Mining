@@ -1,0 +1,1 @@
+{"text": "These pajamas are so sleek yet comfortable. The material is soft yet sturdy, so I am not afraid to put them in the washer like other lingerie I have had.", "sentiment": "positive", "topics": {"0": "0.34971902", "1": "0.39899045", "5": "0.011177103", "6": "0.21148522"}}

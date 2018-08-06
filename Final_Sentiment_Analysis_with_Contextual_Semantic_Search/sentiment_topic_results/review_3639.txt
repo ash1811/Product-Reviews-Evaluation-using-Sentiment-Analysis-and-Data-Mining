@@ -1,0 +1,1 @@
+{"text": "I really like this bandanna, it is a nice shade of red and is the perfect shape. You would be surprised with how many really aren't the same size as others. This product is perfect.", "sentiment": "negative", "topics": {"3": "0.5406139", "4": "0.1496224", "5": "0.17702694", "6": "0.10744518"}}

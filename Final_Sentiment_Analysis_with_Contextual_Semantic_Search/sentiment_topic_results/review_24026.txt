@@ -1,0 +1,1 @@
+{"text": "These are your basic men's black socks. They fit true to size and wash and dry well. No complaints about these socks.", "sentiment": "negative", "topics": {"0": "0.011019305", "1": "0.34741512", "2": "0.011042351", "3": "0.15773858", "4": "0.011066123", "5": "0.32034385", "6": "0.14137466"}}

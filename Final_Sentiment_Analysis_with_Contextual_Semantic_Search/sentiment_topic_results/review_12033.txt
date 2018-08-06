@@ -1,0 +1,1 @@
+{"text": "I liked the styling of the shoe but it said that they were leather and they werent so I was very disappointed", "sentiment": "negative", "topics": {"0": "0.14657263", "1": "0.017942041", "2": "0.26695114", "3": "0.37117976", "4": "0.16162474", "5": "0.017867185", "6": "0.01786251"}}

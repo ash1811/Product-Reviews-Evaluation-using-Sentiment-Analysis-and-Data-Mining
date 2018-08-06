@@ -1,0 +1,1 @@
+{"text": "I liked the shoes but they were too long and too wide.  Previously I had purchased other Minnetonka shoes and they ran narrow, so I ordered a wide.  but this time they ran wide.  Who knew.", "sentiment": "positive", "topics": {"1": "0.6557934", "2": "0.30213153"}}

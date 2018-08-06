@@ -1,0 +1,1 @@
+{"text": "Bought for my younger kid...almost 3 years old and fit nicely...the head piece could have a longer part to close so we could choose the size...", "sentiment": "negative", "topics": {"1": "0.46347412", "3": "0.18023147", "4": "0.103911646", "6": "0.22847885"}}

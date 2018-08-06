@@ -1,0 +1,1 @@
+{"text": "I sent this to my granddaughter for Christmas. She tells me that it is the best backpack she ever had. Loves the pockets & many hiding places. Won't leave home without it & she even packs extra clothes in there!", "sentiment": "negative", "topics": {"1": "0.36890712", "2": "0.12164526", "3": "0.19277205", "4": "0.19993299", "6": "0.10368964"}}

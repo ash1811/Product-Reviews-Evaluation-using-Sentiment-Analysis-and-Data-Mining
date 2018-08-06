@@ -1,0 +1,1 @@
+{"text": "Overall these jeans are made very nice.The only problem was the legs were larger than the picture seem to show.", "sentiment": "positive", "topics": {"0": "0.013034251", "1": "0.013049281", "2": "0.29712752", "3": "0.19576107", "4": "0.01302339", "5": "0.45493877", "6": "0.013065722"}}

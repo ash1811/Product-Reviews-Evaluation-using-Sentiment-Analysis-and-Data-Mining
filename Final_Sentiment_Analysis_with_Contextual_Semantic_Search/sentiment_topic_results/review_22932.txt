@@ -1,0 +1,1 @@
+{"text": "These short are OK, but the pockets aren't easy to put your hands into, and the material is not as  nice as the Under Armour flex shorts.  I paid twice as much for the Under Armour shorts, but am much happier with them.", "sentiment": "positive", "topics": {"0": "0.20133413", "1": "0.40101364", "2": "0.2998818", "6": "0.07729362"}}

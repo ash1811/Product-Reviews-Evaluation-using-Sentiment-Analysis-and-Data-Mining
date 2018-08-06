@@ -1,0 +1,1 @@
+{"text": "Fit was good - I am ordering the lightly lined next for a little more substance, but this was adequate.", "sentiment": "negative", "topics": {"0": "0.014318288", "1": "0.36149073", "2": "0.014306153", "3": "0.01431376", "4": "0.0142933875", "5": "0.09971229", "6": "0.48156542"}}

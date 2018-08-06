@@ -1,0 +1,1 @@
+{"text": "Bright, clear stone.  These are small earrings, not too flashy. Lightweight, comfortable setting, easy to wear.", "sentiment": "negative", "topics": {"0": "0.011962183", "1": "0.51537925", "2": "0.09913382", "3": "0.011936896", "4": "0.19480282", "5": "0.011949487", "6": "0.15483554"}}

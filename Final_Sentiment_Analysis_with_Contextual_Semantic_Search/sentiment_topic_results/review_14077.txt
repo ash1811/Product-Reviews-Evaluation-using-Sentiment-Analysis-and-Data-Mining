@@ -1,0 +1,1 @@
+{"text": "Documentation is a little lacking but the tool itself is well made and works great. Has already paid for itself!", "sentiment": "negative", "topics": {"0": "0.011923208", "1": "0.29713997", "2": "0.21739215", "3": "0.32673398", "4": "0.011972014", "5": "0.12292144", "6": "0.011917262"}}

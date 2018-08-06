@@ -1,0 +1,1 @@
+{"text": "They fit as expected and seem to be really good quality. The material is not that soft initially, will need a few washed, but very, very worth the money!", "sentiment": "negative", "topics": {"1": "0.67957795", "2": "0.09112206", "6": "0.19109522"}}

@@ -1,0 +1,1 @@
+{"text": "My husband works in HVAC which means he's out in the elements quite a bit.  I was so happy to find this great Carhartt jacket on here with his size and great pricing.", "sentiment": "negative", "topics": {"0": "0.08995242", "1": "0.4504263", "2": "0.10073854", "4": "0.09147418", "5": "0.08960507", "6": "0.1693596"}}

@@ -1,0 +1,1 @@
+{"text": "These are pricey as compared with other flip flops that appear similar in style, but once you see/feel/wear these, you will understand why.  The rubber is thick and cushioned, and feels much more substantial than other brands.  Well worth the money!", "sentiment": "positive", "topics": {"1": "0.2692272", "2": "0.12691331", "3": "0.33445385", "4": "0.24981646"}}

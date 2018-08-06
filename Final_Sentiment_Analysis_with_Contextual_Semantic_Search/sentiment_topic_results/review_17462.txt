@@ -1,0 +1,1 @@
+{"text": "These are great quality and are great for casual dress. GREAT PRICE TOO!!They do not shrink at all, so make sure you buy the right size, no need to allow for shrinkage.", "sentiment": "positive", "topics": {"1": "0.5881954", "2": "0.13146922", "5": "0.08846053", "6": "0.16918822"}}

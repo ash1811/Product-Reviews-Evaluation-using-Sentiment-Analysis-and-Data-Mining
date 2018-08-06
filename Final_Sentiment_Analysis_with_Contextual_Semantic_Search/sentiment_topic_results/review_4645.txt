@@ -1,0 +1,1 @@
+{"text": "The shipping was fast. After breaking them in they fit great! and they look great. The leather is a bit dull, but doesn't ruin the overall aesthetic of the shoe. Overall very satisfied with this purchase.", "sentiment": "negative", "topics": {"1": "0.3679991", "2": "0.35100546", "3": "0.07921576", "6": "0.17788348"}}

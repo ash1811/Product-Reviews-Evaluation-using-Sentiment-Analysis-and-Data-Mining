@@ -1,0 +1,1 @@
+{"text": "I loved the material but the jeans was big around the waist which I could live with but much too large at the hips. I am going to have it altered to fit me.", "sentiment": "positive", "topics": {"1": "0.5368847", "2": "0.15547699", "4": "0.17796473", "5": "0.10277598"}}

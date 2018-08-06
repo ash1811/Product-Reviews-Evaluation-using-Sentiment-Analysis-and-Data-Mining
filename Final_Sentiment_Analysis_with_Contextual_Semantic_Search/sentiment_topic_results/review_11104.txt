@@ -1,0 +1,1 @@
+{"text": "This hat is cute, comfortable and wide.  I live in Saudi Arabia - very hot, very bright, very sandy.  I have to wear my glasses and this hat keeps the sun out of my eyes and off my face.", "sentiment": "negative", "topics": {"0": "0.11514086", "1": "0.11378059", "2": "0.3678647", "3": "0.31249425", "6": "0.074806504"}}

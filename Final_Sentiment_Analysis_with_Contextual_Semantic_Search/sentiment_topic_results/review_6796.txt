@@ -1,0 +1,1 @@
+{"text": "Love this shirt. . Usually a shirt like this the arms a way to big in the shoulder but this one fits true to size", "sentiment": "positive", "topics": {"0": "0.010226179", "1": "0.3859661", "2": "0.0102353785", "3": "0.010249027", "4": "0.33454376", "5": "0.010247082", "6": "0.23853251"}}

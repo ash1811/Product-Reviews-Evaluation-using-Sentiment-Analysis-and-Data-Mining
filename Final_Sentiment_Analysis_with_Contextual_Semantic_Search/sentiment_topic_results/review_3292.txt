@@ -1,0 +1,1 @@
+{"text": "I've been wearing 550's for years. I've been losing weight so I have to restock with a smaller size. It's nice to find them here. Nice price, great delivery, and sized just like it says !!!", "sentiment": "positive", "topics": {"0": "0.09839002", "1": "0.24853174", "3": "0.39408392", "5": "0.08805611", "6": "0.15728937"}}

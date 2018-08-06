@@ -1,0 +1,1 @@
+{"text": "I love these shirts.  I wear them under my uniform and they do help keep you cooler.", "sentiment": "negative", "topics": {"0": "0.25075904", "1": "0.017902024", "2": "0.017867526", "3": "0.017965298", "4": "0.017972132", "5": "0.5063323", "6": "0.1712017"}}

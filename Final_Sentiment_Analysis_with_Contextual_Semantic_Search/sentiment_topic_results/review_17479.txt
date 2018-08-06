@@ -1,0 +1,1 @@
+{"text": "They fit snugly along the leg, and I have thin legs. If you have muscular calves you may have an issue, but the material is stretchy. The soles are comfortable, and I can walk in them all day no issues. Good support.", "sentiment": "negative", "topics": {"0": "0.08750132", "1": "0.5262876", "3": "0.12037222", "4": "0.072368294", "5": "0.1791545"}}

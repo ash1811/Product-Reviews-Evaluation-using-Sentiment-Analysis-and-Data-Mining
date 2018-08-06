@@ -1,0 +1,1 @@
+{"text": "This bra design is smart, comfortable and fit well. Best bra I have owned yet. Did everything I expected it to do.", "sentiment": "negative", "topics": {"0": "0.010236994", "1": "0.4409171", "2": "0.12329947", "3": "0.394841", "4": "0.0102443155", "5": "0.010250305", "6": "0.010210781"}}

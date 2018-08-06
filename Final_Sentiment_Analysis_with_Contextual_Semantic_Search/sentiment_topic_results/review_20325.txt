@@ -1,0 +1,1 @@
+{"text": "These boots are comfortable and seem pretty sturdy. I have already hiked in them twice and they were comfortable from the get-go.", "sentiment": "positive", "topics": {"0": "0.013010094", "1": "0.48664567", "2": "0.013003261", "3": "0.013074553", "4": "0.11334145", "5": "0.2477327", "6": "0.11319227"}}

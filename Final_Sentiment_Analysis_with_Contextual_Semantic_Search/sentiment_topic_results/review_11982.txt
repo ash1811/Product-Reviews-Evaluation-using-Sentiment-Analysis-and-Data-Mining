@@ -1,0 +1,1 @@
+{"text": "I like Hanes so i decided to try these on and they are ok not spectacular as some of their other socks products but it is a six pack so good deal", "sentiment": "negative", "topics": {"0": "0.011010412", "1": "0.4673712", "2": "0.01100284", "3": "0.16330177", "4": "0.011025165", "5": "0.21171957", "6": "0.12456903"}}

@@ -1,0 +1,1 @@
+{"text": "I am returning them and I do not believe that these are true to size  otherwise the quality was fine.", "sentiment": "positive", "topics": {"0": "0.017874448", "1": "0.2211364", "2": "0.16117536", "3": "0.2897145", "4": "0.017859992", "5": "0.017872311", "6": "0.274367"}}

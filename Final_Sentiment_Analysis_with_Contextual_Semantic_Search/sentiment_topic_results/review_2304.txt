@@ -1,0 +1,1 @@
+{"text": "I've always wore 10.5 wide shoes, so I ordered these the same way.  Not only did the top part hurt the joints of my toes, the 'wide' style shoes were tight on my feet.", "sentiment": "negative", "topics": {"0": "0.06956727", "1": "0.2955299", "2": "0.17636183", "3": "0.1785225", "4": "0.16754694", "6": "0.10490225"}}

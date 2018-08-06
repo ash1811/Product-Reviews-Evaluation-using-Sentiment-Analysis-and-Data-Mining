@@ -1,0 +1,1 @@
+{"text": "This is such a comfortable bra!!  Very comfortable.  The reason I didn't give it 5 stars is the cups are a bit pointy but for the comfort.....no problem!!", "sentiment": "negative", "topics": {"0": "0.0110201845", "1": "0.44386086", "2": "0.011054172", "3": "0.30220044", "4": "0.011048062", "5": "0.20981652", "6": "0.010999733"}}

@@ -1,0 +1,1 @@
+{"text": "I find these to be perfect.  They are polarized, and enhance visibility while driving.  Exactly what I wanted. Polarized style Blu Blockers.", "sentiment": "positive", "topics": {"0": "0.53194785", "1": "0.31532598", "2": "0.108640134", "3": "0.011031186", "4": "0.011044957", "5": "0.011016122", "6": "0.010993776"}}

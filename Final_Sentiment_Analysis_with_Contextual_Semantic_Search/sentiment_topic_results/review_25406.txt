@@ -1,0 +1,1 @@
+{"text": "This is perfect for a diaper bag. Loads of pockets inside to hold everything. Very happy with the versatility and look.", "sentiment": "positive", "topics": {"0": "0.011945085", "1": "0.29901952", "2": "0.15503293", "3": "0.2745777", "4": "0.01193625", "5": "0.23556931", "6": "0.011919168"}}

@@ -1,0 +1,1 @@
+{"text": "Bought it for my son for Purim. I paired it with a pirate hat that was beautifully made and He loved it. I also sent his girl friend a maiden pirate costume. They looked beautiful in their costumes.", "sentiment": "negative", "topics": {"0": "0.18498023", "1": "0.34369287", "2": "0.076730974", "4": "0.30272797", "5": "0.078243375"}}

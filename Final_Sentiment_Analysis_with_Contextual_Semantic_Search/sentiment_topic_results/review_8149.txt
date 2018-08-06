@@ -1,0 +1,1 @@
+{"text": "Got these for the wife.  She LOVES them, very comfy. Fit is perfect. Quality is great.Look at the sizing chart before you order, don't go by your current shoe size.  Check the chart shown.", "sentiment": "negative", "topics": {"0": "0.10002593", "1": "0.36939758", "2": "0.11169313", "3": "0.1636926", "5": "0.10495907", "6": "0.14304863"}}

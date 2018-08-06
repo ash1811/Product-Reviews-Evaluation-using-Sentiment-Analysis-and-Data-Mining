@@ -1,0 +1,1 @@
+{"text": "Didn't like the button fly, too many buttons - 5 to be exact. Makes wearing too inconvenient. Wouldn't recommend it.", "sentiment": "negative", "topics": {"0": "0.011055605", "1": "0.011059157", "2": "0.3813066", "3": "0.27637687", "4": "0.11367223", "5": "0.011103594", "6": "0.19542596"}}

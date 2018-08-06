@@ -1,0 +1,1 @@
+{"text": "I would have given better reviews except the cups seem to run quite large. The band was great. I am thinking about reordering with a smaller cup.", "sentiment": "negative", "topics": {"1": "0.17273922", "2": "0.06946103", "3": "0.6424014", "6": "0.090075605"}}

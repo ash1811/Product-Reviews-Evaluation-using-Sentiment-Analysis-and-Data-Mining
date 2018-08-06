@@ -1,0 +1,1 @@
+{"text": "I really like the way the T-shirt fits.  It is very comfortable. The material is super light weight which is perfect for the South Texas heat.", "sentiment": "positive", "topics": {"0": "0.11992099", "1": "0.68030655", "4": "0.16156232"}}

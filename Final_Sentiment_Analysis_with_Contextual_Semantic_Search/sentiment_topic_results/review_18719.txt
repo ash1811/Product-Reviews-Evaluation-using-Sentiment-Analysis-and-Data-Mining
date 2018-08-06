@@ -1,0 +1,1 @@
+{"text": "This is something that will move you;unless red is not your color.  Material is nice, and the fit is good too.", "sentiment": "negative", "topics": {"0": "0.09207611", "1": "0.6128151", "2": "0.013045941", "3": "0.013013312", "4": "0.10648098", "5": "0.14956652", "6": "0.013002094"}}

@@ -1,0 +1,1 @@
+{"text": "Good size and looks just as the picture.It is a little thin and doesn't have a big wrist band but is good overall especially for the price. Will definitely buy again if need another watch!!", "sentiment": "positive", "topics": {"1": "0.4879377", "2": "0.1379003", "6": "0.3438632"}}

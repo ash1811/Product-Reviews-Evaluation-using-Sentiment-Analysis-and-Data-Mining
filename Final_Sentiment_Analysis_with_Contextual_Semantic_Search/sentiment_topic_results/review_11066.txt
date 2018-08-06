@@ -1,0 +1,1 @@
+{"text": "Got these for my husband. They are cozy and keep the feet warm. Seem to hold up well, too. Much better than what we normally buy at Target.", "sentiment": "negative", "topics": {"1": "0.30999964", "2": "0.14349593", "3": "0.37374085", "4": "0.14588183"}}

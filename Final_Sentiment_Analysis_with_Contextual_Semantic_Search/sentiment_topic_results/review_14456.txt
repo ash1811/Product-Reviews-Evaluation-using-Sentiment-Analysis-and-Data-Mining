@@ -1,0 +1,1 @@
+{"text": "Came quickly-nice plain show-that comes in wide-my husband likes them.  He threw away his old ones when he pulled them out of the box", "sentiment": "negative", "topics": {"0": "0.51034313", "2": "0.17782444", "4": "0.15052186", "6": "0.1344614"}}

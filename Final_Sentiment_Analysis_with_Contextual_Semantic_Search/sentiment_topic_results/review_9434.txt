@@ -1,0 +1,1 @@
+{"text": "I got these for my elderly father and they were way too tight for his swollen feet so I had to return them.", "sentiment": "negative", "topics": {"0": "0.0143227475", "1": "0.11603741", "2": "0.35004193", "3": "0.014369992", "4": "0.14560851", "5": "0.014317269", "6": "0.34530213"}}

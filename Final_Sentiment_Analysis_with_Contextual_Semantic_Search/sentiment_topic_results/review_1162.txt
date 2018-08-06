@@ -1,0 +1,1 @@
+{"text": "These earrings are absolutely gorgeous.  The crystals are very sparkly and pick up on the colors you are wearing so that they always look perfect with your outfit.  I highly recommend these.", "sentiment": "positive", "topics": {"0": "0.19728829", "1": "0.52280545", "2": "0.15271829", "4": "0.10033337"}}

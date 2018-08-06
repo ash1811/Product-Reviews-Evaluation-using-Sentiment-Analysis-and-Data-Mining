@@ -1,0 +1,1 @@
+{"text": "sending it back.  Getting a refund which is a plus.  A little small for me.  I kept losing things out of it such as money.", "sentiment": "positive", "topics": {"0": "0.011011247", "1": "0.66995555", "2": "0.011013429", "3": "0.27494988", "4": "0.011018766", "5": "0.011042798", "6": "0.011008308"}}

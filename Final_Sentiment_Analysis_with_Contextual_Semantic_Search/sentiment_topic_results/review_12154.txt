@@ -1,0 +1,1 @@
+{"text": "These were itchy at the end of the day.  They do not wash well and &#34;pill&#34;.  They do not feel like Merino wool.  I will not be getting anything more from wigwam.", "sentiment": "positive", "topics": {"0": "0.10768384", "1": "0.28144425", "2": "0.102758296", "3": "0.088903375", "4": "0.0102145085", "5": "0.010247731", "6": "0.398748"}}

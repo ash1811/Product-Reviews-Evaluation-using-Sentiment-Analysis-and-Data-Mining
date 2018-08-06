@@ -1,0 +1,1 @@
+{"text": "Bought him a pair 4 years ago, he wore those out.He just loves these.  I will buy another pair if he needs them.Highest quality, good price.", "sentiment": "negative", "topics": {"1": "0.44218767", "3": "0.32636124", "6": "0.1995999"}}

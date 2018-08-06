@@ -1,0 +1,1 @@
+{"text": "hard to find a pair of black boat shoes that actually match everything.  Well, these look good and do the trick.  don't waste your money on black leatherish ones like I used to because they fade and get smudgy ultra quick.", "sentiment": "negative", "topics": {"0": "0.12060014", "1": "0.26134232", "2": "0.2744918", "4": "0.12056613", "5": "0.21138467"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these as a cheaper alternative to wigwam hiking socks. While much cheaper they do not compare. Wigwam hiking socks are the best.", "sentiment": "positive", "topics": {"0": "0.265369", "1": "0.010282962", "2": "0.09441179", "3": "0.010248736", "4": "0.010259324", "5": "0.3791897", "6": "0.23023853"}}

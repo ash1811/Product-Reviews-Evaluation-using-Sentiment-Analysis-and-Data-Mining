@@ -1,0 +1,1 @@
+{"text": "I purchased this shirt for my son. It fits perfectly. It has not shrunk in the wash. It's true to size. The color has not faded.", "sentiment": "negative", "topics": {"0": "0.01192164", "1": "0.66741514", "2": "0.09498593", "3": "0.11279821", "4": "0.08896344", "5": "0.011936583", "6": "0.011979098"}}

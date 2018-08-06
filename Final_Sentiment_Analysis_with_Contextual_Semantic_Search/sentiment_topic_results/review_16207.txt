@@ -1,0 +1,1 @@
+{"text": "This cloth performs as described.  We particularly like the size so we are not struggling to polish larger pieces.  We would recommend this cloth to family and friends.", "sentiment": "negative", "topics": {"1": "0.17669281", "5": "0.25834575", "6": "0.5290952"}}

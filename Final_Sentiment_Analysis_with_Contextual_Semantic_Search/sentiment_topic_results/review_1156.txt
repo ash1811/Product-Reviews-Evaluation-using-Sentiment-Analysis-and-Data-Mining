@@ -1,0 +1,1 @@
+{"text": "Just as pictured - even prettier, actually. They are comfortable to wear, light, and pick up all colors so they go with everything.", "sentiment": "positive", "topics": {"0": "0.19090058", "1": "0.2224233", "2": "0.15216407", "3": "0.011926332", "4": "0.011912674", "5": "0.39876643", "6": "0.011906612"}}

@@ -1,0 +1,1 @@
+{"text": "Lightweight and easy to wear.  You don;t even feel that you are wearing a thermal layer.  There is no weight and it is very soft.", "sentiment": "positive", "topics": {"0": "0.6107431", "1": "0.011961791", "2": "0.12006313", "3": "0.011956619", "4": "0.22131012", "5": "0.011964684", "6": "0.0120004965"}}

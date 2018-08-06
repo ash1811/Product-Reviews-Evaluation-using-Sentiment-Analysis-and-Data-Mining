@@ -1,0 +1,1 @@
+{"text": "High quality material just could not stretc) over my husband's shoes.  The sizing doesn't allow for the stretch neccary to go over shoes.", "sentiment": "negative", "topics": {"0": "0.28623983", "1": "0.31482846", "2": "0.24986334", "3": "0.010226892", "4": "0.118305705", "5": "0.010283289", "6": "0.010252498"}}

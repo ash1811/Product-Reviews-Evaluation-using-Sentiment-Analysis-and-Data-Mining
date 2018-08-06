@@ -1,0 +1,1 @@
+{"text": "Our employees use these daily and their feedback about durability was great.Only negative, they run a bit small. I'm reordering today.", "sentiment": "negative", "topics": {"0": "0.11620359", "1": "0.2421727", "2": "0.17799132", "3": "0.35169885", "4": "0.010268622", "5": "0.010219033", "6": "0.09144594"}}

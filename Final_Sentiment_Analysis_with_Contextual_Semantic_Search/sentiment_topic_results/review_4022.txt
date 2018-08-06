@@ -1,0 +1,1 @@
+{"text": "My wife loves the Microterry Clogs. Good fit.Because of the soles she is able step throughher flower garden as the sun rises, without havingto change shoes.", "sentiment": "negative", "topics": {"0": "0.089780994", "1": "0.28187987", "2": "0.25229588", "4": "0.22704606", "5": "0.07082327", "6": "0.070563935"}}

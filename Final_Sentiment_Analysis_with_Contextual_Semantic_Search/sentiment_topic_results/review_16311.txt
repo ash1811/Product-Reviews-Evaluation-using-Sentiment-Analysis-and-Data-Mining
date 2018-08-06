@@ -1,0 +1,1 @@
+{"text": "Nice plain functional baseball cap, perfect for sunny days or to shield my glasses from rain. Liked it so much, I bought a second one!", "sentiment": "positive", "topics": {"0": "0.11573806", "1": "0.37833655", "2": "0.22706175", "5": "0.2535658"}}

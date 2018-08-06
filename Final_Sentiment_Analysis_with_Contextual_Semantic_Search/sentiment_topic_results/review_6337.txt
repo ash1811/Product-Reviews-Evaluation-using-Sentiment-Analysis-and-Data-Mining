@@ -1,0 +1,1 @@
+{"text": "My Grandson wanted cowboy boots for Christmas so when I found these on Amazon I was happy.  His size isn't easily found and he absolutely loves them.  I would recommend.. they fit true to size.", "sentiment": "positive", "topics": {"1": "0.17638981", "2": "0.104698755", "3": "0.37431318", "4": "0.3231109"}}

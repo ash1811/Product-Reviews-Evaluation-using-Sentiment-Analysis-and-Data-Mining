@@ -1,0 +1,1 @@
+{"text": "They are cute, sexy and very good quality, I like how they fit and they aren't made of in a cheap manner.", "sentiment": "negative", "topics": {"0": "0.014358667", "1": "0.60683864", "2": "0.014347062", "3": "0.014330467", "4": "0.17402504", "5": "0.16174944", "6": "0.014350706"}}

@@ -1,0 +1,1 @@
+{"text": "comfy and snuggly but kinda thick cuz its not the lightweight kind.but good quality and i trust this brand. will use it with regular shoes but not the vibram shoes.", "sentiment": "negative", "topics": {"1": "0.19101845", "2": "0.24562629", "3": "0.34653163", "5": "0.11759254", "6": "0.082304"}}

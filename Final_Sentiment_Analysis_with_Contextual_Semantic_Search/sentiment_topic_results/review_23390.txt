@@ -1,0 +1,1 @@
+{"text": "I really like these socks.  I wear them with my redwing steel toe shoes and they keep my feet very warm.  They actuallyfit in my boots, and they are not hard to get on, despite the thickness.  I would recommend.", "sentiment": "negative", "topics": {"0": "0.33626294", "1": "0.22055724", "2": "0.08259533", "4": "0.2624182", "6": "0.08292234"}}

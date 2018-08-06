@@ -1,0 +1,1 @@
+{"text": "Hello , i bought this bracalet women watch, to my wife, she love it, very nice and thin, well she wears small size, so it fits just fine", "sentiment": "negative", "topics": {"1": "0.5247041", "2": "0.1456143", "3": "0.29597077"}}

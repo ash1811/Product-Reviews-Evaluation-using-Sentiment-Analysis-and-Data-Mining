@@ -1,0 +1,1 @@
+{"text": "Does not fit too well for sleeping top.  Wanted something warm for the winter months and basically wasted my money on this product.", "sentiment": "positive", "topics": {"0": "0.07554137", "1": "0.51885474", "2": "0.0102246255", "3": "0.16249394", "4": "0.01021877", "5": "0.2124501", "6": "0.010216476"}}

@@ -1,0 +1,1 @@
+{"text": "it does fine and fits just right, easy to care for i just throw it in the laundry and its ready to go again", "sentiment": "negative", "topics": {"0": "0.014312217", "1": "0.4026317", "2": "0.11370455", "3": "0.014356027", "4": "0.014333879", "5": "0.13226864", "6": "0.308393"}}

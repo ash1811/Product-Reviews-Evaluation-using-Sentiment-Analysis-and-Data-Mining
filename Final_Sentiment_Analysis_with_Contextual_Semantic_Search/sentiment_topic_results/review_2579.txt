@@ -1,0 +1,1 @@
+{"text": "Returning because too tight for my calves - I'm 6 1/2, weigh 180.  Also, no side zipper - which I missed in the details. Too expensive for these too I think, although they might look cute on a teenager.", "sentiment": "negative", "topics": {"1": "0.2936817", "3": "0.33451256", "4": "0.13231885", "5": "0.08745613", "6": "0.13840483"}}

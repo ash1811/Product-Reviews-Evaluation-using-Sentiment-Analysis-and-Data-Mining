@@ -1,0 +1,1 @@
+{"text": "How can you go wrong with Reef?  This is my third pair of this style.  Do a lot of walking in them and always comfortable.", "sentiment": "negative", "topics": {"0": "0.013018304", "1": "0.5725949", "2": "0.1603315", "3": "0.013019291", "4": "0.013052457", "5": "0.21499018", "6": "0.012993378"}}

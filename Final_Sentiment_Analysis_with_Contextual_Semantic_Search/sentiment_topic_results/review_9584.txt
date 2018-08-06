@@ -1,0 +1,1 @@
+{"text": "Timex always makes nice watches. This is easy read, like it says. The band is nice too, not too tight. I like the light,too.", "sentiment": "negative", "topics": {"0": "0.15838836", "1": "0.19254452", "2": "0.1259398", "3": "0.20713851", "5": "0.07886447", "6": "0.2281801"}}

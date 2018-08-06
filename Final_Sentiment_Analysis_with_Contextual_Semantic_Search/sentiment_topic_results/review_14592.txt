@@ -1,0 +1,1 @@
+{"text": "These are a classic pair of button-fly jeans, with deep blue coloring that fads just at the right time in the right places.  What can you say more about a tried-and-true classic like Levi's 501?", "sentiment": "negative", "topics": {"0": "0.095947705", "1": "0.27314398", "2": "0.13232942", "4": "0.1240506", "5": "0.21381617", "6": "0.15317182"}}

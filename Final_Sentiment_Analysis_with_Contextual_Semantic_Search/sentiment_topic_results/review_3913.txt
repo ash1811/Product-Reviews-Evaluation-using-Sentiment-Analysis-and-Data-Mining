@@ -1,0 +1,1 @@
+{"text": "Love these, they do look a bit grandmother-esk but they are cozy, and easy to wash AND they have rubber bottoms so you can go in a bit of water and not have wet feet", "sentiment": "negative", "topics": {"1": "0.45988694", "4": "0.11792838", "5": "0.26910168", "6": "0.12606801"}}

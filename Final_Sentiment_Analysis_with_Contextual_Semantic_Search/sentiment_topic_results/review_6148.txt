@@ -1,0 +1,1 @@
+{"text": "these are a lot nicer than gerber ones. They are a lot thicker and are true to size. Perfect for outfits i needed undershirts for. came fast", "sentiment": "positive", "topics": {"1": "0.34094256", "2": "0.3181412", "3": "0.07097245", "6": "0.24309503"}}

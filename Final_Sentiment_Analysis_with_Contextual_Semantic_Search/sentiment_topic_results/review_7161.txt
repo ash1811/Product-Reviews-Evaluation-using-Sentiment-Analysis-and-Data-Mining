@@ -1,0 +1,1 @@
+{"text": "Comfortable, look nice,  but after awhile I decided they are definitely made for girls. Especially since I saw one wearing the same pair. Buy accordingly.", "sentiment": "negative", "topics": {"1": "0.62939125", "3": "0.08326311", "4": "0.25362557"}}

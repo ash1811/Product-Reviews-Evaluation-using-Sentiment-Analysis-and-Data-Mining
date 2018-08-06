@@ -1,0 +1,1 @@
+{"text": "These were so light weight that they constantly shifted when I attempted to wear them. They should have been made with double amount of gold. I certainly do not recommend these earrings.", "sentiment": "negative", "topics": {"0": "0.41388842", "1": "0.4071572", "2": "0.1407126"}}

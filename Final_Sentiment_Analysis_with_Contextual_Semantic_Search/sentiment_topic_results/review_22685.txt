@@ -1,0 +1,1 @@
+{"text": "Just received panties.  A bit stiff right out of the package.  I am sure the 100% cotton wil soften when washed.Colors are pretty.", "sentiment": "negative", "topics": {"0": "0.4762063", "1": "0.010252486", "2": "0.10144148", "3": "0.3058948", "4": "0.010238531", "5": "0.01023405", "6": "0.08573236"}}

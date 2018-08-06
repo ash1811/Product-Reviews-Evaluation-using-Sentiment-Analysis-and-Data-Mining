@@ -1,0 +1,1 @@
+{"text": "This is the first of its kind that I have tried, so I guess it's ok it cleaned my jewelry just fine.would recommend.", "sentiment": "positive", "topics": {"0": "0.27088317", "1": "0.37929004", "2": "0.014371149", "3": "0.014297558", "4": "0.1510298", "5": "0.15583105", "6": "0.014297254"}}

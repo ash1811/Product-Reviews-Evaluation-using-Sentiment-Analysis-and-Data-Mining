@@ -1,0 +1,1 @@
+{"text": "I'm not a big hat wearer so it has to be something special for me to wear it.  The army death spade is a classic and the quality of the hat seems the same as the mil-spec caps of my Army days.  Besides wearing it drives the lib's nuts.", "sentiment": "negative", "topics": {"0": "0.060058165", "1": "0.26485798", "2": "0.12768334", "3": "0.38466045", "6": "0.1512885"}}

@@ -1,0 +1,1 @@
+{"text": "The best feature of these panties are the cotton covered waist and leg openings.  This makes them much more comfortable than the straight elastic", "sentiment": "negative", "topics": {"0": "0.010252001", "1": "0.31581643", "2": "0.19948243", "3": "0.29966316", "4": "0.15432163", "5": "0.010237622", "6": "0.010226755"}}

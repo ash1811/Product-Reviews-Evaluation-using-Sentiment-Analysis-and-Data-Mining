@@ -1,0 +1,1 @@
+{"text": "fit and finish is horrible, i gave it 2 stars because at least they sent me the right color and size that I requested.", "sentiment": "negative", "topics": {"0": "0.119319506", "1": "0.28249827", "2": "0.3101175", "3": "0.11021586", "4": "0.011026069", "5": "0.15577213", "6": "0.011050666"}}

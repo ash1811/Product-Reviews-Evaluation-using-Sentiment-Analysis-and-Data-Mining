@@ -1,0 +1,1 @@
+{"text": "Got 2 of these to wear and love them, really shiny and nice. Good hooks and work just as I wanted them to.", "sentiment": "negative", "topics": {"0": "0.16856642", "1": "0.13945155", "2": "0.010235274", "3": "0.3272417", "4": "0.010249229", "5": "0.2350476", "6": "0.109208226"}}

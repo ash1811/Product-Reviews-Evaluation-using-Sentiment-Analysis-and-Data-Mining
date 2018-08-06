@@ -1,0 +1,1 @@
+{"text": "Great quality, pretty color, and the long sleeves fit a small, slim child without bagging or gapping. Great for dance class.", "sentiment": "negative", "topics": {"1": "0.60606134", "3": "0.22092155", "4": "0.07153072", "6": "0.076174006"}}

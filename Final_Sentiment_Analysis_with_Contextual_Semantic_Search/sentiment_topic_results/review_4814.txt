@@ -1,0 +1,1 @@
+{"text": "I bought these for boots that are large on me. These thick socks do the job of filling out the footbed and keeping my toes warm.", "sentiment": "positive", "topics": {"0": "0.011000896", "1": "0.52769285", "2": "0.010995681", "3": "0.120616965", "4": "0.08301963", "5": "0.23567279", "6": "0.011001201"}}

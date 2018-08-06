@@ -1,0 +1,1 @@
+{"text": "They fit perfectly but I knew my size from my old pair of Birkenstock Arizona sandals. I wear them often, even dress them up! They are my favorite pair of shoes. They last forever.", "sentiment": "negative", "topics": {"1": "0.4000229", "2": "0.0964488", "3": "0.14978965", "4": "0.24438624", "6": "0.095001385"}}

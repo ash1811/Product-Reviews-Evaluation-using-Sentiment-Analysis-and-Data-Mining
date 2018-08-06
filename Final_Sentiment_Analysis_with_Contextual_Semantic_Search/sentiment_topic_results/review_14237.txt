@@ -1,0 +1,1 @@
+{"text": "I love love love these comfy, durable summer sandals.  They're perfect with skirts, capris and shorts.  I have them in several colors and wear them daily.", "sentiment": "positive", "topics": {"0": "0.31258366", "1": "0.2632029", "4": "0.39051095"}}

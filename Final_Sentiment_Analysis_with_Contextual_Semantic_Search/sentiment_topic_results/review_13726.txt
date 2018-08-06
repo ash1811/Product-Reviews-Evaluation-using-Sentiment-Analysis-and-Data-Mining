@@ -1,0 +1,1 @@
+{"text": "I love how they conform to your feet and are so comfortable. I remember they used to sell half sizes. I'm normally a 6.5 and I couldn't find the size anywhere. The 6 fits but it's a bit small.", "sentiment": "positive", "topics": {"1": "0.4379763", "3": "0.2797343", "4": "0.13650155", "5": "0.12432887"}}

@@ -1,0 +1,1 @@
+{"text": "I like these. I have a narrow foot and they fit me well. Also I have Plantar Fasciitis so the arch is high enough that they are comfortable to walk in. That was the main reason I bought them. But they are a nice looking shoe also.", "sentiment": "negative", "topics": {"1": "0.34493792", "2": "0.10417688", "3": "0.17195916", "4": "0.28952676", "5": "0.077439286"}}

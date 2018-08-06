@@ -1,0 +1,1 @@
+{"text": "The material feels so goodHolds everything In placeSuper comfyGreat panties for a guyLove the colorsA lot better than mens boring underwear", "sentiment": "positive", "topics": {"1": "0.38926548", "2": "0.31293392", "4": "0.12842901", "5": "0.14060943"}}

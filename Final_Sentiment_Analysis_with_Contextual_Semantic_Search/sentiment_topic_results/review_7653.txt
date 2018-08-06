@@ -1,0 +1,1 @@
+{"text": "This bra fits great and feels great during workouts but it does show the seams when worn with a Danskin top. Too bad the construction isn't smoother for a better look under clothes.", "sentiment": "negative", "topics": {"1": "0.22261006", "2": "0.07890901", "3": "0.3253213", "4": "0.08265132", "5": "0.17463951", "6": "0.1079132"}}

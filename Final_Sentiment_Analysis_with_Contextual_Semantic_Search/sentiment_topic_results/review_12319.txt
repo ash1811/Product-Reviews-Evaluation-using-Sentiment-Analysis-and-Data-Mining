@@ -1,0 +1,1 @@
+{"text": "The material is sturdy and supports in the right places.  The cut is attractive; not too high on the hip or too low on the butt.  It's a great swimsuit that my wife makes even better!", "sentiment": "negative", "topics": {"1": "0.47459835", "3": "0.09632157", "4": "0.117503844", "5": "0.119630404", "6": "0.17601345"}}

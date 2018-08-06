@@ -1,0 +1,1 @@
+{"text": "I love these pants!  They are really comfortable and of good quality!  I use them all the time to run, walk, or just wear over shorts!", "sentiment": "negative", "topics": {"0": "0.1346112", "1": "0.8102341", "2": "0.011008452", "3": "0.011092524", "4": "0.011042897", "5": "0.01101949", "6": "0.010991283"}}

@@ -1,0 +1,1 @@
+{"text": "Got these for my husband since he went through his older pair. He loves them and they work for both thin and wide feet.", "sentiment": "negative", "topics": {"0": "0.14621824", "1": "0.38697597", "2": "0.0119875865", "3": "0.011994409", "4": "0.41877052", "5": "0.011977772", "6": "0.012075524"}}

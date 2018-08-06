@@ -1,0 +1,1 @@
+{"text": "These earrings are kind of extra shiny which isn't really appealing to me, it makes them look cheap and they were not all that cheap in my opinion.  I wear them infrequently.", "sentiment": "positive", "topics": {"0": "0.3904528", "3": "0.26993483", "5": "0.16699998", "6": "0.14394312"}}

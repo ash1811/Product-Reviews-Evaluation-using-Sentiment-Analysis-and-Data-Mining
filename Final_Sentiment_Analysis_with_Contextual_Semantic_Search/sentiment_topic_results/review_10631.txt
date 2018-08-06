@@ -1,0 +1,1 @@
+{"text": "I love the cut of these.  The cube shape is very interesting and they pick up the color of whatever you are wearing.  My teenage daughter who doesn't care for this style of earring even really liked them.  They sparkle beautifully.", "sentiment": "negative", "topics": {"1": "0.4127816", "2": "0.09430485", "3": "0.21220332", "5": "0.26108158"}}

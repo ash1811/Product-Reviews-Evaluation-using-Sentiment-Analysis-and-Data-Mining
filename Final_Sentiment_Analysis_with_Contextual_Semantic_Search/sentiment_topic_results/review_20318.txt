@@ -1,0 +1,1 @@
+{"text": "Fit nice right out of the box. Attractive and comfortable with roomy toe box. True to size with a pair of hiking socks Only worn twice so far for short hikes so may update later thus the four stars", "sentiment": "negative", "topics": {"0": "0.15510638", "1": "0.5579076", "5": "0.09129827", "6": "0.17915119"}}

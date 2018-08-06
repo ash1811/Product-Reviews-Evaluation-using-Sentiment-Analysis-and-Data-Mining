@@ -1,0 +1,1 @@
+{"text": "very comfortable and very warm. i got them a size large so i could wear them around with large socks and they work out great.", "sentiment": "negative", "topics": {"0": "0.011001696", "1": "0.46394688", "2": "0.010998905", "3": "0.30754042", "4": "0.010998332", "5": "0.18447469", "6": "0.011039048"}}

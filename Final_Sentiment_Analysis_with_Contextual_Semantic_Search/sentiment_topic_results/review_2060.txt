@@ -1,0 +1,1 @@
+{"text": "I've been hunting for these shoes for quite some time and finally found the level of comfort and stylish fit that goes great with khakhis. Well worth the money!", "sentiment": "negative", "topics": {"1": "0.15105748", "2": "0.14822906", "3": "0.109879285", "4": "0.09108231", "5": "0.38594192", "6": "0.10584967"}}

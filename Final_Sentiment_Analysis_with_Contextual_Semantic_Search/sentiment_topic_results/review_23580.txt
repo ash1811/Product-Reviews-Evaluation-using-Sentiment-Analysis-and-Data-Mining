@@ -1,0 +1,1 @@
+{"text": "I love Birkenstock Arizona sandals and have been wearing them for nearly 20 years. I recently bought a pair of them in HABANA LEATHER and the sandals delivered do not match the color of the picture. The shade of brown is quite different.", "sentiment": "negative", "topics": {"1": "0.35265553", "2": "0.1325727", "3": "0.2544167", "4": "0.18263938", "6": "0.06526679"}}

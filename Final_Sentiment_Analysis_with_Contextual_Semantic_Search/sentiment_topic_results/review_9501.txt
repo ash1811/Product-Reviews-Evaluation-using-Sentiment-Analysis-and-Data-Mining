@@ -1,0 +1,1 @@
+{"text": "I like the look of the watch.  It is new so I don't know how well it will last.  My only complaint is that the strap is so stiff that it hurts a bit.  I am hoping it softens up as it is worn.", "sentiment": "negative", "topics": {"1": "0.3136798", "2": "0.20365487", "3": "0.13931349", "5": "0.058966916", "6": "0.26643258"}}

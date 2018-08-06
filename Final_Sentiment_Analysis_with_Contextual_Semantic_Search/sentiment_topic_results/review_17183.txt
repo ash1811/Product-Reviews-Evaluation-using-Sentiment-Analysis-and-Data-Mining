@@ -1,0 +1,1 @@
+{"text": "I think it runs half size Big,and I recommend E not D,the leather is cool so does the color.love it", "sentiment": "negative", "topics": {"0": "0.0119278105", "1": "0.011948295", "2": "0.1431134", "3": "0.2701743", "4": "0.100149356", "5": "0.2349348", "6": "0.22775203"}}

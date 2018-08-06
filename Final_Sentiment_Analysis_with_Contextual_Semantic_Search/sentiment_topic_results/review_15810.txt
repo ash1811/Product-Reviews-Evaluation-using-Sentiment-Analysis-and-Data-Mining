@@ -1,0 +1,1 @@
+{"text": "This is way more better than what I expected, I will make sure that I will keep the senders information to make other orders,", "sentiment": "negative", "topics": {"0": "0.1197774", "1": "0.15664186", "2": "0.1355187", "3": "0.41476133", "4": "0.013017162", "5": "0.013005694", "6": "0.14727783"}}

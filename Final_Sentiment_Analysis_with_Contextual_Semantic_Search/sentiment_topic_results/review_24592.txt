@@ -1,0 +1,1 @@
+{"text": "The bra came promptly, fits true to size, wears beautifully, and will surely last as long as my other Wacoal pieces that still look great after years of use.", "sentiment": "negative", "topics": {"1": "0.28368434", "2": "0.06509464", "3": "0.2946194", "4": "0.20929985", "6": "0.13220887"}}

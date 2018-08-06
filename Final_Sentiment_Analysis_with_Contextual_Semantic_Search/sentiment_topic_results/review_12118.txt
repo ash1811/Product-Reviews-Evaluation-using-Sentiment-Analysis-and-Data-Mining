@@ -1,0 +1,1 @@
+{"text": "I have other size-30 shorts that fit comfortably, but these were too tight in the waist. I may buy the next larger size.", "sentiment": "positive", "topics": {"0": "0.1263288", "1": "0.34669772", "2": "0.28950587", "3": "0.011958321", "4": "0.011929963", "5": "0.0684843", "6": "0.14509505"}}

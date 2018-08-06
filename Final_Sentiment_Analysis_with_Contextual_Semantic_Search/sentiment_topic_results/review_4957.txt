@@ -1,0 +1,1 @@
+{"text": "This is my third pair of these Birks. I walk the dogs in them. They last about 7-8 years (and I walk a lot). each time I get a new pair it is identical to the previous. Great quality, consistent fit, durability.", "sentiment": "negative", "topics": {"0": "0.08110163", "1": "0.4093574", "2": "0.12781954", "3": "0.21048138", "5": "0.15931547"}}

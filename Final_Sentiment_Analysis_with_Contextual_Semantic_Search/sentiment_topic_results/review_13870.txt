@@ -1,0 +1,1 @@
+{"text": "They are smaller than 7.5 . I have two pairs of these shoes, bought quite sometime, and they are very comfortable and fit perfectly. But the leather of these J-41 Women's kyoto are stiff and hurts very much.", "sentiment": "negative", "topics": {"1": "0.4852678", "2": "0.18597308", "3": "0.12015229", "5": "0.13247547", "6": "0.061033092"}}

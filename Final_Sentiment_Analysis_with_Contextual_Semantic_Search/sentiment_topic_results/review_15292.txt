@@ -1,0 +1,1 @@
+{"text": "Fits very loose for someone who wears size 8-10. Will be comfortable for work and layering with  long sleeve t-shirt.", "sentiment": "negative", "topics": {"0": "0.010997323", "1": "0.6201319", "2": "0.010996616", "3": "0.17590234", "4": "0.010999506", "5": "0.011006264", "6": "0.15996599"}}

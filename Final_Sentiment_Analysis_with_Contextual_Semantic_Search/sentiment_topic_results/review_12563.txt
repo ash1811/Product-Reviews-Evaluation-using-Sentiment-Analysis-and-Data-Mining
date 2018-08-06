@@ -1,0 +1,1 @@
+{"text": "Besides the size being a bit too big for my feet I must say these shoes are comfortable. I like the unique design not usually found in casual shoes and for the price I paid for I think it's well worth it.", "sentiment": "negative", "topics": {"1": "0.44807595", "2": "0.20445915", "3": "0.17201075", "4": "0.06846805", "6": "0.094512984"}}

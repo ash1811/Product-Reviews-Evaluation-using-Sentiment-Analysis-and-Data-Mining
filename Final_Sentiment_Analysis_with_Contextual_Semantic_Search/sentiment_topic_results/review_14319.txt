@@ -1,0 +1,1 @@
+{"text": "There are several other moccasin makes, and the price and quality vary greatly.  The quality of these are good, but there are other name brands that have the sheepskin inside, which keeps your tootsie's warm.", "sentiment": "negative", "topics": {"0": "0.0891308", "1": "0.37699494", "2": "0.18111621", "3": "0.18872225", "6": "0.14720309"}}

@@ -1,0 +1,1 @@
+{"text": "I wear these sock with my running shoes in the winter.  Running shoes aren't very warm so adding a wool sock makes them wearable in winter.  They're nice and springy but not too bulky so they fit nicely with my shoes.", "sentiment": "negative", "topics": {"1": "0.28472093", "2": "0.19429363", "3": "0.20611902", "4": "0.06843141", "5": "0.23344454"}}

@@ -1,0 +1,1 @@
+{"text": "The material is very thick in certain areas and too thin in others. After one or two washings they get little lint balls all over the sock. They do not hold up well. Do not recommend them for boots.", "sentiment": "negative", "topics": {"0": "0.121468306", "1": "0.35992327", "3": "0.20034869", "4": "0.23919319", "5": "0.06397823"}}

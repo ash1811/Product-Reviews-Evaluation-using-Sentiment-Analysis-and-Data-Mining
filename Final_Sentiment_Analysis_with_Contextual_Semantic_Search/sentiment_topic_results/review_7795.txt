@@ -1,0 +1,1 @@
+{"text": "This little gizmo does the job.  Really strong for a piece of plastic.  Just be sure to line up the pin and push it straight into the hole in the watch band.", "sentiment": "negative", "topics": {"1": "0.37565523", "2": "0.2773584", "4": "0.112047866", "6": "0.20807779"}}

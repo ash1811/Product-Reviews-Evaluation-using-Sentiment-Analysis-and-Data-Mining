@@ -1,0 +1,1 @@
+{"text": "Bought these Reeboks in black and white for walking; and they were very comfortable. Was very pleased with the shoe. I pretty much wore through the sole and had to throw them away. Would definitely consider getting another pair.", "sentiment": "negative", "topics": {"0": "0.080660135", "1": "0.3656269", "2": "0.12396623", "3": "0.19586036", "5": "0.22025879"}}

@@ -1,0 +1,1 @@
+{"text": "these are adorable, great fit, soft, work well for yoga, roll down waist has nice lycra stretch and holds you in too if you need that.", "sentiment": "negative", "topics": {"1": "0.56812805", "2": "0.062757954", "3": "0.16794957", "4": "0.09218881", "6": "0.09107195"}}

@@ -1,0 +1,1 @@
+{"text": "bought these for a very petite 16 yr old, and they fit great.  She loves them, and wears them to football games to keep warm.  Just right for us.", "sentiment": "negative", "topics": {"1": "0.3654259", "2": "0.08315344", "3": "0.29893607", "5": "0.22720349"}}

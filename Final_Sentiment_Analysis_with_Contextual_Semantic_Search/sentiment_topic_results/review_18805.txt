@@ -1,0 +1,1 @@
+{"text": "These cargoes are very comfortable and look nice enough for casual situations or work. As some have noted, they do tend to run large in the waist, but not excessively so in my case. I have the British Khaki and am ordering the Stone today.", "sentiment": "positive", "topics": {"1": "0.48576084", "2": "0.17963421", "4": "0.14266479", "5": "0.17145427"}}

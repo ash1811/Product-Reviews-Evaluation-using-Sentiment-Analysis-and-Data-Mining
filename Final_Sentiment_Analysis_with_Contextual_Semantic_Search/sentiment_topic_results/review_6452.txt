@@ -1,0 +1,1 @@
+{"text": "great for running, very well padded. i thought at first that the collar wouldn't be tall enough but it was just fine and didn't fall down my heel once.", "sentiment": "positive", "topics": {"0": "0.010226413", "1": "0.19507901", "2": "0.12653123", "3": "0.010256124", "4": "0.15237215", "5": "0.3615579", "6": "0.14397717"}}

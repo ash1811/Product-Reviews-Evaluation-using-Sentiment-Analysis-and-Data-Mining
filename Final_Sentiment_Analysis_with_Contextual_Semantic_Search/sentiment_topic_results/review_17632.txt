@@ -1,0 +1,1 @@
+{"text": "i bought one in the store a &#34;long&#34; time ago. and when i saw it here i had to purchase again. i use it every day and love it! note: the first one fell off my wrist and was lost.", "sentiment": "negative", "topics": {"1": "0.22686914", "2": "0.17708708", "4": "0.112950176", "5": "0.29930454", "6": "0.17013244"}}

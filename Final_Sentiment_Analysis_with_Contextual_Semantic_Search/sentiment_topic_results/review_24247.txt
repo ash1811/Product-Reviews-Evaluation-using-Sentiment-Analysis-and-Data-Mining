@@ -1,0 +1,1 @@
+{"text": "I love this comfortable bra--so much so I bought two as sleep bras during my pregnancy. It's great that the cup size is flexible to allow for breast size going up and down somewhat during pregnancy.", "sentiment": "positive", "topics": {"1": "0.13058168", "2": "0.12454065", "3": "0.5354272", "5": "0.18795067"}}

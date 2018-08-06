@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable casual shoe.  I wear them all the time.  I wear them with socks in the winter and no socks in the summer.  They are made well and look great. I love them!", "sentiment": "positive", "topics": {"1": "0.5195141", "2": "0.1554041", "5": "0.29136968"}}

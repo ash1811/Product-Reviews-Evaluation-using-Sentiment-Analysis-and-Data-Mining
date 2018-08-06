@@ -1,0 +1,1 @@
+{"text": "Hubby walks the dogs 5 miles a day, on getting them he put them on and went out to test, no problems", "sentiment": "negative", "topics": {"0": "0.14666575", "1": "0.33492196", "2": "0.011921291", "3": "0.0119257895", "4": "0.011927857", "5": "0.47071323", "6": "0.011924133"}}

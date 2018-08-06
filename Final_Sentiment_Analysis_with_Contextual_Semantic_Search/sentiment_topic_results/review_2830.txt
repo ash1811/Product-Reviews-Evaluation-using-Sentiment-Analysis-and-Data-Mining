@@ -1,0 +1,1 @@
+{"text": "Keds are good quality and very comortable. These will last a long time. They have good width and arch support.", "sentiment": "negative", "topics": {"0": "0.28785574", "1": "0.34698743", "2": "0.011925092", "3": "0.31739146", "4": "0.011955695", "5": "0.011976793", "6": "0.011907827"}}

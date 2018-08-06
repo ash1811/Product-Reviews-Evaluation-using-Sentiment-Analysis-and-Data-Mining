@@ -1,0 +1,1 @@
+{"text": "Very nice boot for those hot summer days. Low profile. Feet keep cool in these for the most part. My most recent pair seem to be much stiffer than I remember them being in the past. Who knows.", "sentiment": "positive", "topics": {"1": "0.2599384", "3": "0.52541137", "4": "0.17764767", "5": "0.015508604"}}

@@ -1,0 +1,1 @@
+{"text": "As soon as this pair of jeans arrived I tried them on.  The fit fine.  The are a low cut waist jean.  This means I need to keep up with the crunches to keep the muffin top thing from happening.", "sentiment": "positive", "topics": {"0": "0.111479305", "1": "0.279289", "2": "0.10308724", "3": "0.24166392", "4": "0.07476905", "6": "0.18318315"}}

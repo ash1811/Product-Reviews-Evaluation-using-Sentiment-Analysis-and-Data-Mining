@@ -1,0 +1,1 @@
+{"text": "love these !! my son looooovvvee them!!!! he sleeps n play in these shorts!!!good quality!!! at such a reasonable price!!!I would recommend clothing line of babyvision to everyone!!! must buy!! saves lot of money!!", "sentiment": "negative", "topics": {"0": "0.07473466", "1": "0.34123334", "2": "0.10047619", "3": "0.18501043", "4": "0.049784448", "6": "0.24252939"}}

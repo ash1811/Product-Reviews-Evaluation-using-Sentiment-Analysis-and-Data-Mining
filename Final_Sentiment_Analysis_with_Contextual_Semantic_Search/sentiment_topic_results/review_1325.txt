@@ -1,0 +1,1 @@
+{"text": "When I bought these panties, I really wanted to like them, but I couldn't get any further with them than opening the package. They have a &#34;perfumed&#34; smell. I really don't want any fragrance on my underwear.", "sentiment": "negative", "topics": {"0": "0.3195417", "3": "0.34841496", "5": "0.121418476", "6": "0.18375626"}}

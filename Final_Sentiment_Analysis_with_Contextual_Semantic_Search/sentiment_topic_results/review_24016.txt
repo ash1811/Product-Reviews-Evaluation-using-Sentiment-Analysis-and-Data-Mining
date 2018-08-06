@@ -1,0 +1,1 @@
+{"text": "Perfect socks for everyday use. I use them for both casual and work dress. Great socks great price. Will buy again.", "sentiment": "negative", "topics": {"1": "0.43639132", "4": "0.28754345", "5": "0.23789336"}}

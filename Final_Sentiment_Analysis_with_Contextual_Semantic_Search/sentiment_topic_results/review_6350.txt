@@ -1,0 +1,1 @@
+{"text": "My boys love to play dress up, these costumes look great, but they should make them more kid durable.  They don't last very long.  But in any case we love to play dress up.", "sentiment": "negative", "topics": {"0": "0.12921028", "1": "0.43524396", "3": "0.17530894", "4": "0.13492922", "5": "0.11023536"}}

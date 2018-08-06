@@ -1,0 +1,1 @@
+{"text": "The is a very attractive watch that is also an excellent time piece. It is an expensive looking watch but is easy on your pocketbook. Guys would LOVE this watch !!!!", "sentiment": "positive", "topics": {"1": "0.11098362", "2": "0.2850165", "3": "0.13166465", "4": "0.28830338", "6": "0.16614497"}}

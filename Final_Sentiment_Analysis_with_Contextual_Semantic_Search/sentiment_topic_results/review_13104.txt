@@ -1,0 +1,1 @@
+{"text": "the product is real deal strong and has a great flexibility, I use mine as a camera bag, but a friend uses his as a first aid kit", "sentiment": "negative", "topics": {"1": "0.28705963", "3": "0.14634717", "4": "0.15543331", "5": "0.2962783", "6": "0.09699898"}}

@@ -1,0 +1,1 @@
+{"text": "I usually wear 8.5-9, and the 9s were perfect. The soles are nice and cushy and the straps don't rub. Tempted to get another pair!", "sentiment": "positive", "topics": {"1": "0.49058577", "2": "0.15485154", "6": "0.31634378"}}

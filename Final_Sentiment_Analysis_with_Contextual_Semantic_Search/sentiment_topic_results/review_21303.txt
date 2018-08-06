@@ -1,0 +1,1 @@
+{"text": "I get blisters no matter WHAT I do, but not with these! I will buy more when they are gone!", "sentiment": "positive", "topics": {"0": "0.5123325", "1": "0.25541446", "2": "0.017901657", "3": "0.017910933", "4": "0.16064624", "5": "0.017896347", "6": "0.017897882"}}

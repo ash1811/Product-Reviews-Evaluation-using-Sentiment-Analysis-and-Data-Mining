@@ -1,0 +1,1 @@
+{"text": "I've been using KIWI for 30 years.  Normally I buy stuff like this local but I wasn't able to find this color.  If a person wants their smooth leather boots to last and look good, this and saddle soap will help.", "sentiment": "negative", "topics": {"0": "0.11378008", "1": "0.18690357", "2": "0.139779", "3": "0.2796663", "4": "0.20708779", "6": "0.06705499"}}

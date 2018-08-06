@@ -1,0 +1,1 @@
+{"text": "This is my second pair of these boots for my son.  They are durable and very easy for him to put on.  Great product for the price.", "sentiment": "positive", "topics": {"0": "0.011929703", "1": "0.48483956", "2": "0.011907246", "3": "0.011944749", "4": "0.29929724", "5": "0.16813321", "6": "0.011948284"}}

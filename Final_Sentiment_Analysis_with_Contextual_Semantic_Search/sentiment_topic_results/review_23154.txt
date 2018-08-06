@@ -1,0 +1,1 @@
+{"text": "I sent this to my 86 year old mother since she has trouble getting into a back-snap bra.  This is much easier for her to manage and she've very happy with it.  A nice solution for an older person or anyone.", "sentiment": "negative", "topics": {"0": "0.19311298", "1": "0.42349482", "3": "0.15120268", "5": "0.21267633"}}

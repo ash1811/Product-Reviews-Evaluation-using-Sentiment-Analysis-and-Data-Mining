@@ -1,0 +1,1 @@
+{"text": "So well made and so many compartments! Light weight but sturdy. I use it to carry my iPad to and from work. Fits everything else I bring too! Color is nice and goes with everything. Would highly recommend this bag!", "sentiment": "negative", "topics": {"1": "0.4898052", "2": "0.36038586", "4": "0.12690462"}}

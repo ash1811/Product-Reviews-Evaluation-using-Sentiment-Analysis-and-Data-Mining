@@ -1,0 +1,1 @@
+{"text": "I have always worn wranglers had not bought in 10 plus years still feel well and made well as well", "sentiment": "negative", "topics": {"0": "0.0102305645", "1": "0.6724046", "2": "0.010225792", "3": "0.010242862", "4": "0.114821635", "5": "0.010226717", "6": "0.17184786"}}

@@ -1,0 +1,1 @@
+{"text": "They're beautiful, great quality and arrived quickly/as described. They're perfect size, not too big/bulky or too small.. I love wearing them and I recommend this seller as well as the item!", "sentiment": "negative", "topics": {"0": "0.28492326", "1": "0.3371177", "4": "0.23826237", "6": "0.11707621"}}

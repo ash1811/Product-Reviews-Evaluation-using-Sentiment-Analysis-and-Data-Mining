@@ -1,0 +1,1 @@
+{"text": "Fit poorly and made me feel like Madonna in her cone bra! sent this one back!", "sentiment": "negative", "topics": {"0": "0.011948156", "1": "0.33433592", "2": "0.20913124", "3": "0.14725724", "4": "0.15842141", "5": "0.12691948", "6": "0.0119865695"}}

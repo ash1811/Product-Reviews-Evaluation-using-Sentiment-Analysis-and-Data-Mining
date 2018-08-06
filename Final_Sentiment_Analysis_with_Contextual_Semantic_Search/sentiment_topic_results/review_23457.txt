@@ -1,0 +1,1 @@
+{"text": "I removed the bracelet and put this on a NATO black and gray strap. It looks great as an addition to my usual rotation. Maybe some day I'll replace it with the Rolex it was inspired by ;)", "sentiment": "negative", "topics": {"1": "0.21169482", "2": "0.21737987", "3": "0.15413973", "4": "0.20318235", "5": "0.09903944", "6": "0.10701999"}}

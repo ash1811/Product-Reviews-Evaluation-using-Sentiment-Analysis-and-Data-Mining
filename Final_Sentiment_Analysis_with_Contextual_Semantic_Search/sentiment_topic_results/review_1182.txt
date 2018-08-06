@@ -1,0 +1,1 @@
+{"text": "I really like the way these earrings reflect the light in different colors! They go with any outfit! Great price! Prompt shipping!", "sentiment": "negative", "topics": {"0": "0.32064763", "1": "0.3839955", "4": "0.14490399", "5": "0.1217899"}}

@@ -1,0 +1,1 @@
+{"text": "Item was as described and in great condition. 4stars only because the Velcro strap cannot fit small wrists. But all in all the watch lived up to expectations.", "sentiment": "positive", "topics": {"0": "0.10277791", "1": "0.3101334", "2": "0.15617952", "3": "0.16731146", "5": "0.103260055", "6": "0.150806"}}

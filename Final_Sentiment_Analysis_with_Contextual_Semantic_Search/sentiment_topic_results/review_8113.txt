@@ -1,0 +1,1 @@
+{"text": "I purchased this purse for my daughter who is almost 2.  She loves playing with all the parts and I gave her some additional cards to put in the purse.  Better than some of the other sets I found online.", "sentiment": "positive", "topics": {"0": "0.094794445", "1": "0.09999374", "2": "0.2410309", "3": "0.060888376", "5": "0.35544223", "6": "0.13986534"}}

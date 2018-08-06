@@ -1,0 +1,1 @@
+{"text": "These pants work great for work. They are thin and comfortable and durable. Be aware various styles all fit different due to the different cuts and designs of the various styles.", "sentiment": "negative", "topics": {"1": "0.6963568", "2": "0.18918683", "5": "0.084311076"}}

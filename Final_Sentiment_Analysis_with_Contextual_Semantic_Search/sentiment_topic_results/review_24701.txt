@@ -1,0 +1,1 @@
+{"text": "I suffer from low back pain and sciatica. This shoehorn is perfect and happy I spent a little extra $$ for it. Some may be cheaper,but this one IS the way to go.", "sentiment": "negative", "topics": {"0": "0.11030492", "1": "0.29272828", "3": "0.10613001", "4": "0.3379619", "6": "0.13692528"}}

@@ -1,0 +1,1 @@
+{"text": "OK, so they are expensive, but hey they are Ralph Lauren. And these are by far the softest, most comfortable T's I've worn. They shrink considerably so if possible, don't put them in the dryer or buy a size bigger.", "sentiment": "negative", "topics": {"1": "0.38823813", "3": "0.17361847", "4": "0.08656852", "5": "0.087139234", "6": "0.2501197"}}

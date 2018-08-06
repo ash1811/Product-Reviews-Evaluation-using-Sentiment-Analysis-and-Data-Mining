@@ -1,0 +1,1 @@
+{"text": "Very well made....love the color combo...wear it often. Washes very well. Ordered a Large (wear size 8 in tops). My daughter borrows it all the time....", "sentiment": "positive", "topics": {"0": "0.16578391", "1": "0.49484125", "2": "0.1072074", "3": "0.20690267"}}

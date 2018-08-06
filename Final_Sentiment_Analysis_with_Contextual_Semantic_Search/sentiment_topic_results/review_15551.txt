@@ -1,0 +1,1 @@
+{"text": "They are ok but they were not a good fitting for me.  I think it might fit better on others.  So thats why I gave it a 3 star cause they were not good for me.", "sentiment": "negative", "topics": {"1": "0.52927727", "2": "0.26815435", "3": "0.168819"}}

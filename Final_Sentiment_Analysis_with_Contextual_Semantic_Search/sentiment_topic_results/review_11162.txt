@@ -1,0 +1,1 @@
+{"text": "My teen had to have a pair of Dr. Martens and I was not sure about how I liked them. After seeing them on her....very cute.", "sentiment": "negative", "topics": {"0": "0.013018058", "1": "0.0130320275", "2": "0.3388479", "3": "0.16570988", "4": "0.24268173", "5": "0.013040909", "6": "0.21366945"}}

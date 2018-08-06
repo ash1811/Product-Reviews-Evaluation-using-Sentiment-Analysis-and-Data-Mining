@@ -1,0 +1,1 @@
+{"text": "These are great jeans for casual wear. I am a Carhartt fan and will continue to buy this brand. I would recommend them to a friend.", "sentiment": "positive", "topics": {"0": "0.14049803", "1": "0.4559979", "2": "0.011000795", "3": "0.11970679", "4": "0.01099692", "5": "0.2507964", "6": "0.011003121"}}

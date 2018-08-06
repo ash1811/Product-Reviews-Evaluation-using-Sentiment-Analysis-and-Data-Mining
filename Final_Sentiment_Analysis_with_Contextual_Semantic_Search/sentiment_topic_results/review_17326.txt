@@ -1,0 +1,1 @@
+{"text": "They do take some time to shape to your feet but once they do, heavenly quality shoes that will last years!", "sentiment": "negative", "topics": {"0": "0.013060803", "1": "0.33832315", "2": "0.17586325", "3": "0.22076315", "4": "0.22593598", "5": "0.013048619", "6": "0.013005037"}}

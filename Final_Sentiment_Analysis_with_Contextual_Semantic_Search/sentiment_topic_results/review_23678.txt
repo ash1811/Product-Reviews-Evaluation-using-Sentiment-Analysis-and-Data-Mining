@@ -1,0 +1,1 @@
+{"text": "I do recommend these bdu's . They fit great and are of good quality . Definitely are worth the money.", "sentiment": "positive", "topics": {"0": "0.014308798", "1": "0.6778303", "2": "0.01430403", "3": "0.2505644", "4": "0.014313455", "5": "0.014383381", "6": "0.01429571"}}

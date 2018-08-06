@@ -1,0 +1,1 @@
+{"text": "This is a very nice watch. Mine kept time well. The issue I had was that it was too purple and not blue enough.The quality of the watch appeared to be very high and it functioned just as it should.", "sentiment": "negative", "topics": {"0": "0.07852354", "1": "0.47198173", "2": "0.16545795", "5": "0.14362459", "6": "0.12357715"}}

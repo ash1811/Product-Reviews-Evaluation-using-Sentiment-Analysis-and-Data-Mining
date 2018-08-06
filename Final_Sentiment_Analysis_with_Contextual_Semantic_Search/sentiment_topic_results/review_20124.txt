@@ -1,0 +1,1 @@
+{"text": "works great hope it endures middleschool  so far so good.  seems to hold up to daily trips to bus and locker.", "sentiment": "negative", "topics": {"0": "0.16995326", "1": "0.0102586355", "2": "0.010221836", "3": "0.31692374", "4": "0.2715347", "5": "0.12969662", "6": "0.09141121"}}

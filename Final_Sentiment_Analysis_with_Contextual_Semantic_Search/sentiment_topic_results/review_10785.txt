@@ -1,0 +1,1 @@
+{"text": "this was a gift for my fiance and its a piece of crap. its very nice looking and slim.... until everything starts ripping. i dont reccomend this to anybody.", "sentiment": "positive", "topics": {"0": "0.15315981", "1": "0.13028613", "2": "0.15236433", "3": "0.010236623", "4": "0.10887326", "5": "0.15667376", "6": "0.2884061"}}

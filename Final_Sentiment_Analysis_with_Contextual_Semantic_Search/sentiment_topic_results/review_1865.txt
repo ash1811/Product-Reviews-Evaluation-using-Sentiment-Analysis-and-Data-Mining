@@ -1,0 +1,1 @@
+{"text": "they do run large so that is why I went down half a size. Their website does offer inches for you to measure your foot to find your size.", "sentiment": "positive", "topics": {"0": "0.17863907", "1": "0.011001279", "2": "0.011002512", "3": "0.59158474", "4": "0.18576121", "5": "0.010998452", "6": "0.011012741"}}

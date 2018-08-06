@@ -1,0 +1,1 @@
+{"text": "I like the colr. The material  good and the cut was too close. I would buy a larger size next time.", "sentiment": "negative", "topics": {"0": "0.32947695", "1": "0.32676542", "2": "0.011027896", "3": "0.011038274", "4": "0.011026125", "5": "0.011018134", "6": "0.29964718"}}

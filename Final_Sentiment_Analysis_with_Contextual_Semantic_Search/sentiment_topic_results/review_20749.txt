@@ -1,0 +1,1 @@
+{"text": "I really like these undershirts.  Extremely comfy, perfect fit (I usually wear XL but I like my undershirts a little tighter so they dont show through the over shirt), great buy", "sentiment": "negative", "topics": {"1": "0.47871962", "2": "0.18401073", "3": "0.21417816", "6": "0.10262723"}}

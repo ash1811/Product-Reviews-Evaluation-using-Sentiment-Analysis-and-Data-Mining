@@ -1,0 +1,1 @@
+{"text": "This t shirt fits very well and the quality of the cotton is terrific. It is long enough in the body and in the sleeves for any tall person. I will be ordering more from this seller.", "sentiment": "negative", "topics": {"1": "0.47913504", "2": "0.095336646", "3": "0.08640982", "5": "0.257102", "6": "0.06289125"}}

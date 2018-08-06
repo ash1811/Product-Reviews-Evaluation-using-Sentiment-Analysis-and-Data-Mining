@@ -1,0 +1,1 @@
+{"text": "Not bad. I loved them&#8230;I threw them out after a month because they were worn out, but it was a great month.", "sentiment": "negative", "topics": {"0": "0.17484677", "1": "0.43518656", "2": "0.014316268", "3": "0.014298612", "4": "0.01433447", "5": "0.014324253", "6": "0.33269304"}}

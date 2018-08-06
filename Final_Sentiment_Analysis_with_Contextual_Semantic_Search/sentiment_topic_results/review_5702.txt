@@ -1,0 +1,1 @@
+{"text": "Great sweatpants with pockets and with a stretch waist that is nice and roomy and very comfortable.  They fit well also, and they are also nice and warm pants.", "sentiment": "positive", "topics": {"0": "0.15545484", "1": "0.65883875", "4": "0.14984302"}}

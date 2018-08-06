@@ -1,0 +1,1 @@
+{"text": "The quality of the knit is lovely - very fine and soft. But the fit runs big, and unlike many 100% cotton products these don't shrink. Suggest getting a size smaller than you usually do.", "sentiment": "negative", "topics": {"0": "0.0730282", "1": "0.38087243", "2": "0.1583242", "3": "0.18930615", "4": "0.1147617", "5": "0.07688549"}}

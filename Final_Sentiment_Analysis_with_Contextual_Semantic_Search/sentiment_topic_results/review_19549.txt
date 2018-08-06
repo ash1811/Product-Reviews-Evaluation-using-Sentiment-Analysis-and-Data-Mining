@@ -1,0 +1,1 @@
+{"text": "I walk daily in cold Wisconsin weather.  These boots are warm and comfortable~also I found that I am not slipping and sliding like I did in my old boots because they have very good traction!!", "sentiment": "negative", "topics": {"0": "0.27959982", "1": "0.26324823", "2": "0.08253061", "3": "0.1579445", "4": "0.19978774"}}

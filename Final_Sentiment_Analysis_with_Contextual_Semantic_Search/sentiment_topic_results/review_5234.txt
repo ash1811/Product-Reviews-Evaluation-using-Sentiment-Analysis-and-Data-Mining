@@ -1,0 +1,1 @@
+{"text": "This is my 5th or 6th pair. One pair is the terry. All fit well and are very comfy and last! I prefer these over bigger heaavirr ones where my feet sweat.", "sentiment": "positive", "topics": {"0": "0.08668608", "1": "0.13688302", "4": "0.5144946", "5": "0.07554944", "6": "0.16951996"}}

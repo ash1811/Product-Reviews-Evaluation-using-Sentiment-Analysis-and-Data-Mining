@@ -1,0 +1,1 @@
+{"text": "Wonderful,  so comfortable.  I can't wait to put them on every night.  You will not believe the comfort of the pant", "sentiment": "positive", "topics": {"0": "0.013039747", "1": "0.53536373", "2": "0.01300035", "3": "0.013011608", "4": "0.013107584", "5": "0.013073721", "6": "0.39940327"}}

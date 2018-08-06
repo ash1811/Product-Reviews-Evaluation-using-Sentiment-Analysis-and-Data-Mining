@@ -1,0 +1,1 @@
+{"text": "Cant find a better price anywhere!  I have looked for these at local stores and they all cost so much more.", "sentiment": "negative", "topics": {"0": "0.011945475", "1": "0.52826595", "2": "0.011944436", "3": "0.4120097", "4": "0.011949904", "5": "0.01194398", "6": "0.011940601"}}

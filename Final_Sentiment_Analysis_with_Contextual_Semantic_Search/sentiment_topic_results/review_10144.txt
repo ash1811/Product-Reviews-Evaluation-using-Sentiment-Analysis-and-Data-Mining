@@ -1,0 +1,1 @@
+{"text": "Absolutely beautiful pair of earrings! The pearls are much larger than I aniticipated, and they have a very classy look.  I wore them with a sweater and skirt, and they were just what I needed to top off  the outfit.", "sentiment": "negative", "topics": {"0": "0.25645173", "2": "0.0925822", "3": "0.11156085", "4": "0.17425182", "5": "0.3482534"}}

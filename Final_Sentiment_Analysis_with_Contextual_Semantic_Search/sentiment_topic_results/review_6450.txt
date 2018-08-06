@@ -1,0 +1,1 @@
+{"text": "I play tennis and needed some added padding.  The sock slips down into the shoe.  For the price I could have just worn 2 pairs of socks.  However I got this for summer tennis.", "sentiment": "negative", "topics": {"0": "0.23459034", "2": "0.18647158", "3": "0.1707642", "5": "0.23088937", "6": "0.16218573"}}

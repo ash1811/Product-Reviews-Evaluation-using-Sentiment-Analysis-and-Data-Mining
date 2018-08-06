@@ -1,0 +1,1 @@
+{"text": "This little device has saved my heels and the backs of my leather shoes for over a year now. Excellent quality and manufacture.Worth every penny.", "sentiment": "positive", "topics": {"0": "0.1807308", "1": "0.31282872", "2": "0.35588023", "6": "0.12190204"}}

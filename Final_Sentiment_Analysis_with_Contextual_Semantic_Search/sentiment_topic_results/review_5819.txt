@@ -1,0 +1,1 @@
+{"text": "Arrived quick, good heavyweight fabric, fits as you expect.  I have washed it a few times and it has shrunken a small amount but not enough to order a size up.", "sentiment": "positive", "topics": {"0": "0.24929613", "1": "0.32733986", "3": "0.108071424", "4": "0.0835022", "5": "0.21494775"}}

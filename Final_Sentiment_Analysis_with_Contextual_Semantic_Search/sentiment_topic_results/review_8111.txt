@@ -1,0 +1,1 @@
+{"text": "I don't usually wear flip flops because I don't find them very comfortable. These are different somehow. They still give my feet support and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.010224776", "1": "0.7738433", "2": "0.08294029", "3": "0.010246635", "4": "0.102293216", "5": "0.010233266", "6": "0.010218543"}}

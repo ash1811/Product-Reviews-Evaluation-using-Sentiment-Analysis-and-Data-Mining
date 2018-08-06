@@ -1,0 +1,1 @@
+{"text": "These are REAL levi's.  Rugged, tough materials.  The back pockets fir so you don't have to sit on your wallet.  They are true fir too!", "sentiment": "negative", "topics": {"0": "0.01024991", "1": "0.38888162", "2": "0.4089076", "3": "0.010233076", "4": "0.010244509", "5": "0.010240225", "6": "0.16124308"}}

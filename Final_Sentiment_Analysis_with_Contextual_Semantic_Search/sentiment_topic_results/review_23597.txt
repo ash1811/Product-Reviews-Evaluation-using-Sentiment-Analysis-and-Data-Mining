@@ -1,0 +1,1 @@
+{"text": "This is a very thick and cozy shawl.  The fabric looks to be a mixture of blue and black fibers which gives it the dark color.  It's also very large.", "sentiment": "negative", "topics": {"0": "0.15027796", "1": "0.28709766", "3": "0.1617339", "4": "0.26499474", "5": "0.11681281"}}

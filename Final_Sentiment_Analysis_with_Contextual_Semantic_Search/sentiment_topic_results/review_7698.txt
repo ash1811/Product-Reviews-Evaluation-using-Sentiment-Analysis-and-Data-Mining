@@ -1,0 +1,1 @@
+{"text": "I like the garden shoes, but will probably not order again because they aren't made in the USA, there are other choices.", "sentiment": "negative", "topics": {"0": "0.15902048", "1": "0.3250922", "2": "0.20796362", "3": "0.01588681", "4": "0.26015878", "5": "0.01590617", "6": "0.015971975"}}

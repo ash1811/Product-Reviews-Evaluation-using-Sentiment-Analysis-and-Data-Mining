@@ -1,0 +1,1 @@
+{"text": "reef does not disappoint, very resistant, looks good, easy to wash, I ware it every day. Really love this sandals", "sentiment": "negative", "topics": {"0": "0.010249763", "1": "0.6292026", "2": "0.2122435", "3": "0.0102420645", "4": "0.010267667", "5": "0.010285938", "6": "0.11750846"}}

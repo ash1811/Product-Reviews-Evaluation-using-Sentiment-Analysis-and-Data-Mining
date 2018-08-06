@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband.  His biggest complaint was that all other jeans have been too tight around the crotch area.  These were extremely comfortable with him and will be his go to jeans from here on out.  No other brands for him!", "sentiment": "negative", "topics": {"1": "0.44837973", "3": "0.12115839", "4": "0.10094089", "5": "0.30427143"}}

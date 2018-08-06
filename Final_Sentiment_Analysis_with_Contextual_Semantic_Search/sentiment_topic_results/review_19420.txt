@@ -1,0 +1,1 @@
+{"text": "Sleeves are extra short, goes up under the armpit, it's a great fit though. I usually wear a large but bought the XL for a baggier fit; I couldn't be happier with the fit, or shirt in general. Love Bella shirts!!", "sentiment": "negative", "topics": {"0": "0.06371858", "1": "0.44942", "2": "0.066595234", "4": "0.20182219", "5": "0.12143122", "6": "0.09076706"}}

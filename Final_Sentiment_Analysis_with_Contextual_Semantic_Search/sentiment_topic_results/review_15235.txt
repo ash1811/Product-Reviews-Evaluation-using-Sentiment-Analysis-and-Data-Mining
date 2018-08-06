@@ -1,0 +1,1 @@
+{"text": "these are the most comfortable boxer brief underwear that i have ever wore.  Not having a waist band makes up a big deference.", "sentiment": "negative", "topics": {"0": "0.011977534", "1": "0.21884464", "2": "0.11310235", "3": "0.13902359", "4": "0.13656129", "5": "0.14214614", "6": "0.23834445"}}

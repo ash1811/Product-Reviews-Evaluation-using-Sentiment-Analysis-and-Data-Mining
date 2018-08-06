@@ -1,0 +1,1 @@
+{"text": "They fit nicely and no breakin blisters. I have the same ones in red and am thinking purple next. Good buy!", "sentiment": "negative", "topics": {"0": "0.10974384", "1": "0.5104913", "2": "0.33208644", "3": "0.011913649", "4": "0.011913747", "5": "0.011912874", "6": "0.011938114"}}

@@ -1,0 +1,1 @@
+{"text": "Very warm and very soft a bit too small for my legs so I'm using them as arm and hand warmers. Love them for that.", "sentiment": "positive", "topics": {"0": "0.12518342", "1": "0.40656996", "2": "0.011021876", "3": "0.011071433", "4": "0.28509694", "5": "0.011014404", "6": "0.15004192"}}

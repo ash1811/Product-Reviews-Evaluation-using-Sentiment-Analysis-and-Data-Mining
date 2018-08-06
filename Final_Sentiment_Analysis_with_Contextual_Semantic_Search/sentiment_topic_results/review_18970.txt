@@ -1,0 +1,1 @@
+{"text": "Este pantalon es muy suave, se ve de buena calidad, es comodo, el color es chevere ademas el precio es acorde y adsequible.", "sentiment": "negative", "topics": {"0": "0.06471285", "1": "0.07723575", "2": "0.12516381", "3": "0.19248785", "4": "0.28187245", "5": "0.09451564", "6": "0.16401169"}}

@@ -1,0 +1,1 @@
+{"text": "The color of this watch is a rich color and true to the color displayed in the picture. The face is easy to read. The band is made from quality leather. I have really small wrists and this watch fits well.", "sentiment": "positive", "topics": {"1": "0.45872214", "2": "0.2761565", "3": "0.11213348", "4": "0.13336422"}}

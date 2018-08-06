@@ -1,0 +1,1 @@
+{"text": "I have put off buying molded bras because they were too thick and did not look right. This bra is perfect. Support plus great look under tee's. Washes up great.", "sentiment": "negative", "topics": {"3": "0.41475022", "5": "0.5430935"}}

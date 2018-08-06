@@ -1,0 +1,1 @@
+{"text": "The only thing that I find wrong with this shirt is after it is in the dryer and hung up the bottom of it folds up", "sentiment": "negative", "topics": {"0": "0.015901593", "1": "0.4295462", "2": "0.2906063", "3": "0.015975358", "4": "0.015925398", "5": "0.21615206", "6": "0.015893139"}}

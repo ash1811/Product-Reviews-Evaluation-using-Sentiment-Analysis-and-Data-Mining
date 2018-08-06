@@ -1,0 +1,1 @@
+{"text": "seems like the torso is pretty short for this.  i am tall and thin, so i would imagine that the torso could be longer.  there are tall skinny people.", "sentiment": "positive", "topics": {"0": "0.3675448", "4": "0.47947007", "5": "0.11915668"}}

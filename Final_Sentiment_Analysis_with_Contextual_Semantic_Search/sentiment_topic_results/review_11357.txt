@@ -1,0 +1,1 @@
+{"text": "These are my favorite briefs but very hard to find in stores so I am happy to be able to get them online.", "sentiment": "positive", "topics": {"0": "0.16825639", "1": "0.12125157", "2": "0.014300549", "3": "0.10806004", "4": "0.55948234", "5": "0.014342246", "6": "0.014306839"}}

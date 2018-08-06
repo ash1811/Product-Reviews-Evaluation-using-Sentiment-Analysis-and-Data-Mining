@@ -1,0 +1,1 @@
+{"text": "The quality of the material, the design, the manufacturing and the overall look of the pants are excellent, easily can be a casual dress pants or a working pants.", "sentiment": "negative", "topics": {"1": "0.71673137", "2": "0.15145627", "6": "0.093655035"}}

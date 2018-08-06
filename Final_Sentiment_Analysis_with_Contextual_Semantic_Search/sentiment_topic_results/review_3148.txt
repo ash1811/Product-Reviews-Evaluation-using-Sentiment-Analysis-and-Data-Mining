@@ -1,0 +1,1 @@
+{"text": "These suspenders were not what I was expecting. They are thick and heavy and really quite big. The suspenders are at least an inch to an inch and a half wide. They were also not very comfortable.", "sentiment": "negative", "topics": {"0": "0.16735193", "1": "0.39936602", "3": "0.13154681", "4": "0.1472408", "6": "0.13655081"}}

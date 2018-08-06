@@ -1,0 +1,1 @@
+{"text": "It's really hard for bigger girls to find sexy pieces that are flattering but this piece works great! I feel pretty and sexy in these. The lace is a bit scratchy but I'd say it's worth it if you're trying to find something to spice it up with your man.", "sentiment": "positive", "topics": {"0": "0.32767594", "1": "0.1813121", "3": "0.28306174", "6": "0.19201128"}}

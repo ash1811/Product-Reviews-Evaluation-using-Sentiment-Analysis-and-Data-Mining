@@ -1,0 +1,1 @@
+{"text": "These work shorts are high quality and very durable. The pocket is a huge help, too. I would definitely recommend these work shorts.", "sentiment": "positive", "topics": {"0": "0.25593862", "1": "0.30244097", "3": "0.26801872", "6": "0.14498498"}}

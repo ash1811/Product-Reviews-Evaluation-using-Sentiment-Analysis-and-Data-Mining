@@ -1,0 +1,1 @@
+{"text": "I love these earing cg more of themuffs I  ware them constantly every day im planning on buyin thank you", "sentiment": "negative", "topics": {"0": "0.39305067", "1": "0.1252185", "2": "0.17513458", "3": "0.011041237", "4": "0.011082025", "5": "0.2734384", "6": "0.0110346405"}}

@@ -1,0 +1,1 @@
+{"text": "I am a big fan of Casio watches for a very long time.  Casio has a watch for any person price range.  My Casio G300-3AV looks good and works just the way I like it.", "sentiment": "positive", "topics": {"0": "0.29687148", "1": "0.18800047", "2": "0.1552605", "5": "0.10546315", "6": "0.24006855"}}

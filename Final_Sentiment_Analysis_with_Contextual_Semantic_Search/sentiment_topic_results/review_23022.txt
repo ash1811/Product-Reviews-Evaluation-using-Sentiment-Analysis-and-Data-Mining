@@ -1,0 +1,1 @@
+{"text": "They are pretty much what you would expect, but, the white is kind of see-through. That is the only problem with them.", "sentiment": "positive", "topics": {"0": "0.01304284", "1": "0.013051136", "2": "0.013044509", "3": "0.24723549", "4": "0.013012798", "5": "0.59513605", "6": "0.10547715"}}

@@ -1,0 +1,1 @@
+{"text": "My local stores never have my style and size.  Thank you Amazon for having exactly what I wanted and needed and I didn't have to go from store to store to find the right size!", "sentiment": "negative", "topics": {"1": "0.2844501", "4": "0.30864626", "6": "0.37303153"}}

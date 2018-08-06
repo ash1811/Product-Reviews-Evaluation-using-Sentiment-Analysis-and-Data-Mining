@@ -1,0 +1,1 @@
+{"text": "I wanted a slipper that wasn't too bulky and this fit the bill. It's comfortable to wear around the house and has a nice cushioned foot bed.  I am pleased.", "sentiment": "negative", "topics": {"1": "0.3234078", "2": "0.08488503", "3": "0.16348712", "4": "0.1459242", "5": "0.14036351", "6": "0.13239235"}}

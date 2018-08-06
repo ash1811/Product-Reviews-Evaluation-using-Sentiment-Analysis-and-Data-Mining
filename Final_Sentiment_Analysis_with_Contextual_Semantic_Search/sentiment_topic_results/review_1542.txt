@@ -1,0 +1,1 @@
+{"text": "This is your average kids backpack. I got it just to carry around a tablet and some cctv tools for work. Its durable and does its job.", "sentiment": "negative", "topics": {"0": "0.011002522", "1": "0.2051176", "2": "0.2548627", "3": "0.011034442", "4": "0.16190132", "5": "0.34503523", "6": "0.011046178"}}

@@ -1,0 +1,1 @@
+{"text": "these shoes only came in a &#34;medium&#34; width, I'd prefer a wide.  They will work for my trip coming up.  The soul of the shoe is amazing, soft yet thick enough to be worn on rocky paths.", "sentiment": "positive", "topics": {"0": "0.27226987", "1": "0.21013314", "2": "0.14736614", "3": "0.124240205", "4": "0.16881265", "6": "0.07066073"}}

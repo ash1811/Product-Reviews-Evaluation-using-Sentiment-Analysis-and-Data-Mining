@@ -1,0 +1,1 @@
+{"text": "I am a 6.5, ordered a 7, still a bit tight. I now I should not like them as much since they pinch, but they look so great I love them anyway. I suggest ordering a whole size up if leather, and a half size up if cloth.", "sentiment": "negative", "topics": {"0": "0.17236605", "1": "0.2787853", "2": "0.11024117", "3": "0.28610492", "4": "0.05770751", "5": "0.08855624"}}

@@ -1,0 +1,1 @@
+{"text": "My height 183 cm, weight 68 kg, select the size is too small, I am very disappointed. Pants type is better", "sentiment": "negative", "topics": {"0": "0.3766857", "1": "0.102418624", "2": "0.09835142", "3": "0.30029944", "4": "0.10179295", "5": "0.010227331", "6": "0.010224482"}}

@@ -1,0 +1,1 @@
+{"text": "My 13 year old daughter loves this shoe and said it looks even better than displayed. It's very comfortable and the price appeared to be the lowest that we saw at the time the order was placed.", "sentiment": "negative", "topics": {"0": "0.25001442", "1": "0.2343481", "2": "0.17597322", "3": "0.15025833", "4": "0.1285506", "6": "0.05368377"}}

@@ -1,0 +1,1 @@
+{"text": "Just got them yesterday.Washed them and I have been wearing them ever since. Very comfortable and the size is exact. A medium is a medium.. Great quality!.", "sentiment": "negative", "topics": {"0": "0.011020929", "1": "0.47039956", "2": "0.011010823", "3": "0.19182554", "4": "0.011002497", "5": "0.2936966", "6": "0.011044055"}}

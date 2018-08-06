@@ -1,0 +1,1 @@
+{"text": "These pants are durable and are comfortable to wear. As with any purchase of online clothes, if you have the opportunity to try them on in person first, I would recommend that. Amazon had the cheapest price and free two day shipping.", "sentiment": "negative", "topics": {"0": "0.092681855", "1": "0.3281293", "2": "0.065893285", "3": "0.17033237", "4": "0.32993305"}}

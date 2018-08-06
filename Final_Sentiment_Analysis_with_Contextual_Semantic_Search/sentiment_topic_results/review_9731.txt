@@ -1,0 +1,1 @@
+{"text": "These bra's are comfortable if your a full- figure women. Which we all know if you are bra's are hard to find. My order came fast will be ordering again!", "sentiment": "negative", "topics": {"0": "0.38862222", "1": "0.2794222", "3": "0.20978655", "4": "0.093524225"}}

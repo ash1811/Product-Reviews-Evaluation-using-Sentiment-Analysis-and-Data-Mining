@@ -1,0 +1,1 @@
+{"text": "Fits well,  awesome shirt. Grandson loved it. Packed nicely and came promptly!  I like the digital camp and he loved it too.", "sentiment": "negative", "topics": {"0": "0.2019081", "1": "0.5191847", "4": "0.07635086", "6": "0.17730412"}}

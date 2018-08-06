@@ -1,0 +1,1 @@
+{"text": "A PIECE OF GARBAGE.  it is paper thin and it is hard.  YOU CAN SEE THROUGH IT . just plain crap.  I am sorry I wasted a few bucks on this.  and it is made in china.  DO NOT BUY.", "sentiment": "positive", "topics": {"0": "0.2422566", "1": "0.116622224", "2": "0.22669868", "4": "0.16837023", "5": "0.082083926", "6": "0.1550346"}}

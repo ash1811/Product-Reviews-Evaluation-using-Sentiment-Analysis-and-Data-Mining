@@ -1,0 +1,1 @@
+{"text": "Nice shirt and great price.  Runs small, so order 1 size up!  Matches universal digital camo items. I would recommend.", "sentiment": "negative", "topics": {"0": "0.18239821", "1": "0.14216065", "3": "0.3115354", "4": "0.08115227", "5": "0.11238331", "6": "0.16241956"}}

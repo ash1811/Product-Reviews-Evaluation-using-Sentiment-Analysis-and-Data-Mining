@@ -1,0 +1,1 @@
+{"text": "It is OK.  If you just want something to help make a shoe that is too large work you might like it.  As far as comfort, I did not see it.", "sentiment": "positive", "topics": {"1": "0.2476758", "2": "0.17983983", "3": "0.2902346", "4": "0.05512409", "6": "0.20921928"}}

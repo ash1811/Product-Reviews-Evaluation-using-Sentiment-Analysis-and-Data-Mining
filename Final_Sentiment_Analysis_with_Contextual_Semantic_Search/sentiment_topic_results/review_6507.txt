@@ -1,0 +1,1 @@
+{"text": "Strong, well made socks are good for winter hiking. They are thick but since my boots are a little oversized, these are perfectg.", "sentiment": "positive", "topics": {"0": "0.121556155", "1": "0.3678123", "2": "0.11022334", "3": "0.010235025", "4": "0.105328806", "5": "0.27461508", "6": "0.010229309"}}

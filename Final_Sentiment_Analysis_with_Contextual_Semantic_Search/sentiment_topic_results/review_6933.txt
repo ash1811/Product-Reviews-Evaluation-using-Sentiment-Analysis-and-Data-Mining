@@ -1,0 +1,1 @@
+{"text": "Dickies Mens LU200 Industrial Carpenter...; My 11yo boy is at that odd size were it is amazingly difficult to find anything with a good fit.  These jeans fit well and look great on his skinny little but", "sentiment": "positive", "topics": {"1": "0.46388847", "2": "0.11130585", "3": "0.1184024", "4": "0.06723488", "5": "0.16792482", "6": "0.06501261"}}

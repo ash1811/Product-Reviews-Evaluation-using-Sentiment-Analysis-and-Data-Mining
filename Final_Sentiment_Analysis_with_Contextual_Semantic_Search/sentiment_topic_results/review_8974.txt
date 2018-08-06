@@ -1,0 +1,1 @@
+{"text": "My mom has torn tendons in her feet and needed a good pair of shoes so I surprised her with these.  All I ever wear are Skechers shoes and I knew she would love these!  They are very comfortable for her.", "sentiment": "negative", "topics": {"0": "0.2660071", "1": "0.16632372", "2": "0.13620658", "3": "0.120042", "4": "0.13815805", "6": "0.1664441"}}

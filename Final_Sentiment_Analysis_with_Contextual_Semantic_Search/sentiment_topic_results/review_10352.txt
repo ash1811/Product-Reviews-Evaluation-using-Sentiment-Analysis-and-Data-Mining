@@ -1,0 +1,1 @@
+{"text": "This item does what a bra is suppose to do. Within weeks of buying it - the wire on the underside broke in half and I got MAJOR poked.", "sentiment": "negative", "topics": {"0": "0.11510097", "2": "0.14096613", "3": "0.2673566", "5": "0.1036167", "6": "0.35370028"}}

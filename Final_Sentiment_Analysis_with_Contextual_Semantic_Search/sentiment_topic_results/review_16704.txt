@@ -1,0 +1,1 @@
+{"text": "These boots are beautiful! Great quality leather, pictures are very loyal to the actual product. You definitely get what you see. They are beautiful :)", "sentiment": "negative", "topics": {"0": "0.0102519365", "1": "0.16209361", "2": "0.084817015", "3": "0.10166405", "4": "0.21480641", "5": "0.41614166", "6": "0.010225354"}}

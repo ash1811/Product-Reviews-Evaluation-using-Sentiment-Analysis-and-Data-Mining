@@ -1,0 +1,1 @@
+{"text": "My husband is tough to please when it comes to slippers.  I took a chance and got him these for Christmas.  Perfect fit and holding up quite well.", "sentiment": "positive", "topics": {"0": "0.084817596", "1": "0.3794302", "4": "0.16504322", "6": "0.34204382"}}

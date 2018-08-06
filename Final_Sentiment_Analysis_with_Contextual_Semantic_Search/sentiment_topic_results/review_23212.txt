@@ -1,0 +1,1 @@
+{"text": "definitely good to organize your stuff, but its quite heavy for a shoulder bag. its not waterproof so I had some troubles on my trek.", "sentiment": "negative", "topics": {"0": "0.011939575", "1": "0.011959769", "2": "0.0119185345", "3": "0.5354223", "4": "0.14996372", "5": "0.19290055", "6": "0.08589551"}}

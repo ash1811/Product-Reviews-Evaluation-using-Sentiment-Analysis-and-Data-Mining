@@ -1,0 +1,1 @@
+{"text": "I ordered these to see if they could pass for dress socks. While nice and thick, it was a stretch and will wear them with jeans.", "sentiment": "positive", "topics": {"0": "0.0119266985", "1": "0.33303165", "2": "0.011912211", "3": "0.011926614", "4": "0.1488632", "5": "0.47042096", "6": "0.011918663"}}

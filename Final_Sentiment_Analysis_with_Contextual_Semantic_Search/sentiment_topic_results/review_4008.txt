@@ -1,0 +1,1 @@
+{"text": "I have hardly put street shoes on in my home as these are so soft and comfortable.  After laundering they are just like new and NO lint or pills.", "sentiment": "negative", "topics": {"0": "0.35236093", "1": "0.1682894", "2": "0.10427473", "3": "0.10955029", "4": "0.0110231545", "5": "0.011028358", "6": "0.24347316"}}

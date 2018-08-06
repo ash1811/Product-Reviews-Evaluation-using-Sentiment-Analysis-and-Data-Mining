@@ -1,0 +1,1 @@
+{"text": "Because the hanes polo shirt is a blended jersey there was no shrinkage. recommend to purchase due to non shrinkage", "sentiment": "negative", "topics": {"0": "0.0119670825", "1": "0.1875875", "2": "0.34419206", "3": "0.0119797215", "4": "0.14045973", "5": "0.29187578", "6": "0.011938126"}}

@@ -1,0 +1,1 @@
+{"text": "Just got these. Price was very low and the quality is also. Fabric thin and scatchy. Always turns out to be true.. &#34;You get what you pay for&#34;", "sentiment": "negative", "topics": {"1": "0.39823216", "2": "0.19359805", "4": "0.08994788", "5": "0.16778436", "6": "0.13355978"}}

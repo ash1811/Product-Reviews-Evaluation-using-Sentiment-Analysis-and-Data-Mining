@@ -1,0 +1,1 @@
+{"text": "This style was so high that it was hard to get the straps up. Sent it back. If you want armor, this would work", "sentiment": "positive", "topics": {"0": "0.26846287", "1": "0.3231656", "2": "0.36419767", "3": "0.011045658", "4": "0.011046669", "5": "0.011033615", "6": "0.01104791"}}

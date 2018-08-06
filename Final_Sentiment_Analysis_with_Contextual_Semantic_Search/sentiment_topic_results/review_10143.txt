@@ -1,0 +1,1 @@
+{"text": "both wife and daughter loved them. A hit with the ladies. A great bargain for the price when trying to make a point.", "sentiment": "negative", "topics": {"0": "0.23211351", "1": "0.42378995", "2": "0.011012508", "3": "0.1833082", "4": "0.011102795", "5": "0.12767793", "6": "0.010995091"}}

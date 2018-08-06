@@ -1,0 +1,1 @@
+{"text": "my granddaughter loves these sneakers. bought them for school, but she had them on the same day she received them. if she's happy,  i'm happy!!!!", "sentiment": "negative", "topics": {"0": "0.01196259", "1": "0.011946488", "2": "0.011977354", "3": "0.25889683", "4": "0.011976545", "5": "0.68132865", "6": "0.011911561"}}

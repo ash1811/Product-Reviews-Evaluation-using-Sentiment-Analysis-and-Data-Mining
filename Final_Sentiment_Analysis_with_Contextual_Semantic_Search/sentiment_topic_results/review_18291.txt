@@ -1,0 +1,1 @@
+{"text": "This is the second Carhartt jacket I have bought my husband. He loves them because they come in tall & they are nice and roomy! He is a logger in Maine and he loves that they last for years even in harsh conditions.", "sentiment": "positive", "topics": {"1": "0.3705195", "2": "0.18868934", "4": "0.19291858", "5": "0.22526708"}}

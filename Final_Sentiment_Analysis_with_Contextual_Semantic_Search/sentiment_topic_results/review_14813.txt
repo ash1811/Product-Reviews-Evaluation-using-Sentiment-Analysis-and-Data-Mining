@@ -1,0 +1,1 @@
+{"text": "I use it with Ultrasonic Cleaner Model D3800A and I absolutely love it. I'm not sure why I never used these things before, but my jewelry looks brand new after I clean it.", "sentiment": "positive", "topics": {"0": "0.1553672", "1": "0.248587", "2": "0.23556904", "3": "0.22384116", "5": "0.07140154", "6": "0.05840812"}}

@@ -1,0 +1,1 @@
+{"text": "When I ordered it, I thought it was a purse...Not a purse.  A tote bag would be more like it.  But it's O.K. for what it is, so I'll just be using it in another way.  Cost-wise, a good buy!", "sentiment": "negative", "topics": {"0": "0.091208346", "1": "0.31339663", "2": "0.28438893", "3": "0.17093976", "6": "0.12575074"}}

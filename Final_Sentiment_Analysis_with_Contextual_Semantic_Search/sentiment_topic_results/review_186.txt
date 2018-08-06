@@ -1,0 +1,1 @@
+{"text": "I bought these for after surgery easy wearing shorts I bought them 3 sizes to big so that they wouldn't bind at all I think they will be perfect.", "sentiment": "negative", "topics": {"0": "0.14049271", "1": "0.6473634", "2": "0.0110140685", "3": "0.011045773", "4": "0.011010834", "5": "0.011007958", "6": "0.16806522"}}

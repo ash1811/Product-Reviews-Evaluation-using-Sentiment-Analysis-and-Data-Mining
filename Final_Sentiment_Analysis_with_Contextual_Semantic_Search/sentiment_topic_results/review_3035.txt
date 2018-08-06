@@ -1,0 +1,1 @@
+{"text": "It fits OK in the cup size, but doesn't fit snugly under the arms.  It sort of sags open, almost like it had been pre-stretched.  Otherwise, it OK.  Color & pattern are very attractive.", "sentiment": "positive", "topics": {"1": "0.27903453", "2": "0.10543083", "4": "0.1468688", "5": "0.20621079", "6": "0.24737988"}}

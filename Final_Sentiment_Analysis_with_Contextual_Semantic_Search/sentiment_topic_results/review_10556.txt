@@ -1,0 +1,1 @@
+{"text": "The fabric is a bit stiffer than I might have liked in a bucket-hat but its still comfortable to wear and is now my go-to hat for outside.", "sentiment": "positive", "topics": {"0": "0.09582809", "1": "0.22205928", "2": "0.010993483", "3": "0.35955557", "4": "0.21654533", "5": "0.084019385", "6": "0.010998847"}}

@@ -1,0 +1,1 @@
+{"text": "well made. better than levis, though not as stylish. have bought 2 pair.", "sentiment": "negative", "topics": {"0": "0.1777311", "1": "0.29352188", "2": "0.014319542", "3": "0.014356686", "4": "0.19486067", "5": "0.014333958", "6": "0.29087615"}}

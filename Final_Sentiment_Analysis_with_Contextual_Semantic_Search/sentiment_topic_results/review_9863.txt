@@ -1,0 +1,1 @@
+{"text": "This shoe fits almost identical to the Malvina. Cute shoe but very long and narrow. Looks silly on my small feet.Had to return. Way too long!", "sentiment": "negative", "topics": {"1": "0.34048322", "2": "0.21728498", "4": "0.0949433", "5": "0.18635513", "6": "0.14408503"}}

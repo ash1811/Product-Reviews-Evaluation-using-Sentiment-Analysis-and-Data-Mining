@@ -1,0 +1,1 @@
+{"text": "Adorable littel slippers.  I wear them around the house, and they feel so good on my feet.  The price was good as well.", "sentiment": "negative", "topics": {"0": "0.011022292", "1": "0.4463066", "2": "0.010996723", "3": "0.2474762", "4": "0.08740868", "5": "0.011034725", "6": "0.18575476"}}

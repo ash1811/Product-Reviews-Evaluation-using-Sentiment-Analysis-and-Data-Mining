@@ -1,0 +1,1 @@
+{"text": "These were good. Not my favorite, but they are comfortable, if a little baggy. They do stay dry. Could be softer/slicker.", "sentiment": "negative", "topics": {"0": "0.014310847", "1": "0.37871462", "2": "0.014296452", "3": "0.16083911", "4": "0.4032256", "5": "0.014320793", "6": "0.014292558"}}

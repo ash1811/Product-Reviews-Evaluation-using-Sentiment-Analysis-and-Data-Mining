@@ -1,0 +1,1 @@
+{"text": "If you're modest, you might want to wear something underneath this T. I definitely like the ones I got, but was surprised @ how sheer they actually are.", "sentiment": "negative", "topics": {"0": "0.08905979", "1": "0.1192431", "2": "0.23113273", "3": "0.1417729", "4": "0.25345972", "6": "0.15635808"}}

@@ -1,0 +1,1 @@
+{"text": "I did read reviews for this product and because of that I ordered these in a size bigger and they are still too small.  What a shame that Hanes is ruining their reputation by providing such  undependable product.  Very disappointed", "sentiment": "positive", "topics": {"1": "0.1968042", "3": "0.44964254", "4": "0.17753054", "5": "0.15077113"}}

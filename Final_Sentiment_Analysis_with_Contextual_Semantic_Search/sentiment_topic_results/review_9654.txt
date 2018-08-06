@@ -1,0 +1,1 @@
+{"text": "Bought it for my 92 year old grandfather who is blind in one eye.. He can read it easily and he love it.. Very happy with the quality and the price..", "sentiment": "negative", "topics": {"0": "0.29404825", "1": "0.428918", "3": "0.1082748", "6": "0.141826"}}

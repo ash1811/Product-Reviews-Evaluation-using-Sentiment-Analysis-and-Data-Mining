@@ -1,0 +1,1 @@
+{"text": "I liked the feel, but colors proved to be much less pronounced.  Almost pale.  Surprisingly so.  I still liked it.", "sentiment": "positive", "topics": {"0": "0.22443067", "1": "0.27954438", "2": "0.10952285", "4": "0.19648197", "6": "0.17093123"}}

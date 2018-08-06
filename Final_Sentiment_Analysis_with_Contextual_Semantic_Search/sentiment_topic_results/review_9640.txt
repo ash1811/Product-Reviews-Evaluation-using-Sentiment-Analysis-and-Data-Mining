@@ -1,0 +1,1 @@
+{"text": "This was a gift and is well liked.  The only complaint was that the strap holder will not stay over the strap and allows the strap to hang free all the time.", "sentiment": "negative", "topics": {"0": "0.113547556", "1": "0.39328077", "2": "0.3638648", "3": "0.09848299", "4": "0.010260418", "5": "0.010350695", "6": "0.010212762"}}

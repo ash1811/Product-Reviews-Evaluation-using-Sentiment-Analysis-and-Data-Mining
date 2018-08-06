@@ -1,0 +1,1 @@
+{"text": "I own two pairs of Sanuk yoga mat flip flops and I love them both. These are comfortable, more supportive than most flip-flops, and stay on my feet. Both pairs have lasted through two spring/summer seasons and are still going strong.", "sentiment": "negative", "topics": {"0": "0.0575623", "1": "0.3419916", "2": "0.12705664", "3": "0.26706138", "4": "0.19388665"}}

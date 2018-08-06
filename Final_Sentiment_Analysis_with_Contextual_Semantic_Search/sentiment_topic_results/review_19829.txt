@@ -1,0 +1,1 @@
+{"text": "I bought this for my 10 year old daughter to take to the pool.  She can wear it in the water without any problems.  She loves it, it's girlie yet functional.  The timer and alarms are easy to use and now she times everything :)", "sentiment": "negative", "topics": {"0": "0.3395683", "1": "0.13368091", "2": "0.18115187", "4": "0.25539413", "5": "0.077723645"}}

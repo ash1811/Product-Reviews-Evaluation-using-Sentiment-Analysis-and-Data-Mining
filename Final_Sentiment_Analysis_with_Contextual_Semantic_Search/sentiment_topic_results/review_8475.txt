@@ -1,0 +1,1 @@
+{"text": "The thickness of the material is much better than I expected.  I'm looking forward to wearing it under my clothing to add pop to my club outfits.", "sentiment": "negative", "topics": {"1": "0.5952887", "4": "0.13137667", "6": "0.2351522"}}

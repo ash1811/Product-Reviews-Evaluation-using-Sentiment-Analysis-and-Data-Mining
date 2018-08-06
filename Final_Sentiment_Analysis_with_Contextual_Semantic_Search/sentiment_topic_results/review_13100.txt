@@ -1,0 +1,1 @@
+{"text": "Good price. Sturdy can fit a thick novel along with water bottle and phone keys . Great for camping or short hike", "sentiment": "negative", "topics": {"0": "0.09207615", "1": "0.4190185", "2": "0.286042", "5": "0.10668491", "6": "0.0783011"}}

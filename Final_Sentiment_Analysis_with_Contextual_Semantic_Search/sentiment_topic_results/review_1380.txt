@@ -1,0 +1,1 @@
+{"text": "Jamsport is an excellent brand.  We had our last one for 24 years before we replaced it.", "sentiment": "negative", "topics": {"0": "0.014326352", "1": "0.0143222455", "2": "0.27939206", "3": "0.45356536", "4": "0.0143342735", "5": "0.20975539", "6": "0.014304307"}}

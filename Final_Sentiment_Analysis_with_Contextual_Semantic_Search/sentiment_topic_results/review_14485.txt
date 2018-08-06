@@ -1,0 +1,1 @@
+{"text": "These Rockport shoes are absolutely totally comfortable right out of the box.  Then again that just about says it all for Rockport's products", "sentiment": "negative", "topics": {"0": "0.01299598", "1": "0.12866926", "2": "0.20791036", "3": "0.012998846", "4": "0.43005884", "5": "0.11265233", "6": "0.09471436"}}

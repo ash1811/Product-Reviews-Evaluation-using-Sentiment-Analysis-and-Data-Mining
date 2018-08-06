@@ -1,0 +1,1 @@
+{"text": "I love boyshorts, but cotton never fits right. These microfiber boyshorts do fit a tad big in the waist, but they are perfect everywhere else. The lace doesn't itch, they are light and comfortable", "sentiment": "negative", "topics": {"1": "0.4073673", "2": "0.17339657", "3": "0.28336173", "6": "0.11439891"}}

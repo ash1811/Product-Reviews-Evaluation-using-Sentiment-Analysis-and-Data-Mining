@@ -1,0 +1,1 @@
+{"text": "This is a great sun hat and the chin tie makes sure it will not fly off your head in wind.  It is very comfortable and looks good too.", "sentiment": "negative", "topics": {"1": "0.23628835", "2": "0.1257363", "3": "0.47009647", "5": "0.06286759", "6": "0.08591618"}}

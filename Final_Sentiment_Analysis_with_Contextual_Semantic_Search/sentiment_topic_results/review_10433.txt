@@ -1,0 +1,1 @@
+{"text": "Didn't think I needed these boots but I really like them and they are warm.  Husband gave them to me for Christmas.", "sentiment": "negative", "topics": {"0": "0.014318829", "1": "0.32646364", "2": "0.014324109", "3": "0.014314631", "4": "0.2831333", "5": "0.014342752", "6": "0.33310276"}}

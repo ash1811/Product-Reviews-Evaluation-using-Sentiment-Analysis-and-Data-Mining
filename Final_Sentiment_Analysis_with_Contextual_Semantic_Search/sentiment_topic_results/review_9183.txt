@@ -1,0 +1,1 @@
+{"text": "I got these as a gift for my father. He has mobility issues and needs comfortable footwear with thick soles that's easy to put on and take off. He really liked these, so I am happy!", "sentiment": "negative", "topics": {"0": "0.124926314", "1": "0.38997784", "2": "0.08962859", "5": "0.08102454", "6": "0.3001148"}}

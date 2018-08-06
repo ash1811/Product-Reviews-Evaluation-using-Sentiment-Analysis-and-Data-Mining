@@ -1,0 +1,1 @@
+{"text": "Glamorize is the only bra I buy now!  The fit is and quality are very reliable (whether sport bra or non-sport bra).", "sentiment": "negative", "topics": {"0": "0.010991382", "1": "0.6104735", "2": "0.011010913", "3": "0.2577759", "4": "0.08774843", "5": "0.010994994", "6": "0.011004846"}}

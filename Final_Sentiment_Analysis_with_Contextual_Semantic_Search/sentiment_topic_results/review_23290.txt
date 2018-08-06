@@ -1,0 +1,1 @@
+{"text": "I can't wear it because it run small. The M size is S actually. So choose the bigger size when you buy it.", "sentiment": "negative", "topics": {"0": "0.011940229", "1": "0.1620598", "2": "0.24443877", "3": "0.54572564", "4": "0.011941799", "5": "0.011967845", "6": "0.011925972"}}

@@ -1,0 +1,1 @@
+{"text": "Right now i cannot wear it because of medical conditons. as soon as i get rid of this tube in my side, i will start using it full time.", "sentiment": "positive", "topics": {"0": "0.46502358", "3": "0.27932483", "6": "0.21745764"}}

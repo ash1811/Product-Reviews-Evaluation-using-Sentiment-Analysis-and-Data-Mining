@@ -1,0 +1,1 @@
+{"text": "These are simply the most comfortable underwear I've ever own.  They also hold up well in the wash.", "sentiment": "negative", "topics": {"0": "0.0130749205", "1": "0.2583486", "2": "0.17333391", "3": "0.3217847", "4": "0.2073908", "5": "0.0130349435", "6": "0.013032082"}}

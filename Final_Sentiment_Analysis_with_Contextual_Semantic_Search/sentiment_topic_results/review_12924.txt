@@ -1,0 +1,1 @@
+{"text": "This is a Great Boot. Perfect fit and length. Very comfortable to walk in!! The color is as seen on the site!", "sentiment": "positive", "topics": {"0": "0.011983381", "1": "0.5092559", "2": "0.08624307", "3": "0.011932596", "4": "0.21747993", "5": "0.15111285", "6": "0.011992313"}}

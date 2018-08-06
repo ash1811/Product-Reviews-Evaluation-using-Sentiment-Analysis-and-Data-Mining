@@ -1,0 +1,1 @@
+{"text": "I have always bought adidas for work on my feet nine hours a day these have been the perfect show for that", "sentiment": "positive", "topics": {"0": "0.013033038", "1": "0.013073686", "2": "0.35987973", "3": "0.0130442", "4": "0.1125479", "5": "0.4753627", "6": "0.013058794"}}

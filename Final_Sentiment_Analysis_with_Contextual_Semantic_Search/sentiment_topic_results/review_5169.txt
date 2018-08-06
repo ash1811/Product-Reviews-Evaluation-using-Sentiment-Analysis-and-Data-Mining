@@ -1,0 +1,1 @@
+{"text": "We've bought these time and time again because they're such a great buy. They last a very long time due to the type of fabric and they fit great. My brother has asked for a new pair every Christmas for the past few years because he loves them so much!", "sentiment": "negative", "topics": {"1": "0.20231241", "3": "0.15692319", "5": "0.58432376", "6": "0.039909832"}}

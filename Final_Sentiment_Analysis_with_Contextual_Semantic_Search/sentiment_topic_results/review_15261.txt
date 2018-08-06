@@ -1,0 +1,1 @@
+{"text": "I purchased the galaxy blue in a size medium. I found this to be slightly more roomy than the usual size medium scrub top that I wear, but I actually preferred the loser fit. It is a very comfortable top, and great quality.", "sentiment": "negative", "topics": {"1": "0.41874933", "2": "0.059286375", "3": "0.3039454", "4": "0.0390436", "5": "0.16653591"}}

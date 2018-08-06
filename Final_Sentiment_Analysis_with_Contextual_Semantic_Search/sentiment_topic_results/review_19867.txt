@@ -1,0 +1,1 @@
+{"text": "I like the quality of this product.  It doesn't look cheap.  I wish i found one for 24 rings instead of 36 though.", "sentiment": "negative", "topics": {"0": "0.010246405", "1": "0.4142752", "2": "0.17552067", "3": "0.2697514", "4": "0.010281385", "5": "0.109699", "6": "0.010225907"}}

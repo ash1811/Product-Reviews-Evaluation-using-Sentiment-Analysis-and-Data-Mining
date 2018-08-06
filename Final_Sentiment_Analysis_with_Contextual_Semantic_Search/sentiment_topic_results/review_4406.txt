@@ -1,0 +1,1 @@
+{"text": "They are a good jean and would have fit well. But my husband lost so much weight. He took then and had them taken in. The lady said she couldn't take then in anymore or the pockets would be together. But he wod recommend them and the seller.", "sentiment": "negative", "topics": {"0": "0.19819711", "1": "0.46306145", "4": "0.19261584", "5": "0.12735766"}}

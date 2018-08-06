@@ -1,0 +1,1 @@
+{"text": "These are sometimes hard to find in the store.  Seems like they usually carry cotton high cut or nylon 'Briefs'.  The &#34;Just my size&#34; variety make the waist to small.  Can't beat the price.", "sentiment": "positive", "topics": {"0": "0.0677872", "1": "0.32207772", "2": "0.17848183", "3": "0.12834156", "4": "0.20472716", "6": "0.09235979"}}

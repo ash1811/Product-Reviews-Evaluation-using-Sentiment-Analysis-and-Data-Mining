@@ -1,0 +1,1 @@
+{"text": "Its a nice practical shoe. Very comfortable and easy get on but not very good looking. Its a bit too expensive for the price i paid in my opinion.", "sentiment": "positive", "topics": {"0": "0.09563183", "1": "0.5767656", "2": "0.095249884", "3": "0.010250204", "4": "0.2016256", "5": "0.010219692", "6": "0.01025716"}}

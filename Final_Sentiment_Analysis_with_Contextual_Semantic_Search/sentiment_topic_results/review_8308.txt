@@ -1,0 +1,1 @@
+{"text": "These covers are great to wear with a bra!  They do not have any adhesive, but will stay put for an entire day.  It doesn't hurt to take them off, either.  I would highly recommend.", "sentiment": "negative", "topics": {"1": "0.32499138", "2": "0.14843522", "3": "0.12474364", "5": "0.22413287", "6": "0.1608086"}}

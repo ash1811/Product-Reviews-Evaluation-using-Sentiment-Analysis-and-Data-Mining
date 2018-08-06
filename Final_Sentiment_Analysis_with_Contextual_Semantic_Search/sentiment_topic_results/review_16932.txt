@@ -1,0 +1,1 @@
+{"text": "Fast service and with a very fair price. I bought an odd size of Overalls that I cannot buy locally. I always buy Carhartt work wear for the men in my house- very durable and they prefer this brand and like the way they fit.", "sentiment": "negative", "topics": {"0": "0.24163805", "1": "0.42048448", "3": "0.2485931", "4": "0.07206536"}}

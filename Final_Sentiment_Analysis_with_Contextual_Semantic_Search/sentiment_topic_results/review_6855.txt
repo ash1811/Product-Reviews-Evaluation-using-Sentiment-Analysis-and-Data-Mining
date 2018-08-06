@@ -1,0 +1,1 @@
+{"text": "Well Made, just the right size, very handy as we get older or have back problems", "sentiment": "positive", "topics": {"0": "0.014316792", "1": "0.40791813", "2": "0.30476102", "3": "0.2300102", "4": "0.014313673", "5": "0.014343968", "6": "0.0143361855"}}

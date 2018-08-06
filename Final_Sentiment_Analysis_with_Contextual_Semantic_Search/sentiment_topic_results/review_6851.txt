@@ -1,0 +1,1 @@
+{"text": "This works great for anyone who can't bend to put shoes or boots on, it has a spring between the handle and the horn itself which makes it flexible (easy to use).", "sentiment": "negative", "topics": {"1": "0.2272381", "2": "0.08777316", "3": "0.13107489", "4": "0.2583953", "5": "0.27866235"}}

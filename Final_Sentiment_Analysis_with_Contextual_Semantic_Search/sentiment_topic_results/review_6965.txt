@@ -1,0 +1,1 @@
+{"text": "this meets the need I havei will use this on my international trips and feel more secure with my money and passport", "sentiment": "positive", "topics": {"0": "0.0130073605", "1": "0.12973927", "2": "0.012991485", "3": "0.3705409", "4": "0.28706643", "5": "0.013061393", "6": "0.17359316"}}

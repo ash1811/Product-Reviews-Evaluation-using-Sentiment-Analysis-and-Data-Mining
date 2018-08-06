@@ -1,0 +1,1 @@
+{"text": "Beautiful colors.  Feels good to the touch.  Great for accessorizing or light warmth (scarf or shawl.)  Is synthetic , but nice.", "sentiment": "positive", "topics": {"0": "0.010237122", "1": "0.45176604", "2": "0.010208358", "3": "0.010222927", "4": "0.2383217", "5": "0.12669647", "6": "0.15254739"}}

@@ -1,0 +1,1 @@
+{"text": "Not a lot to say about these Briks.  I only wear these shoes.  Ya either love them or hate them. I'm a lover.", "sentiment": "positive", "topics": {"0": "0.2462279", "1": "0.011026844", "2": "0.25879404", "3": "0.011048351", "4": "0.0110421665", "5": "0.3770497", "6": "0.084811"}}

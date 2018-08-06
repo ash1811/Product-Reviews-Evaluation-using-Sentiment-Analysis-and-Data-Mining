@@ -1,0 +1,1 @@
+{"text": "I am thrilled with my Guardian Angel pendant.  The size is perfect to wear with all my outfits.  Have had many compliments.", "sentiment": "positive", "topics": {"0": "0.20288394", "1": "0.01305635", "2": "0.0129984915", "3": "0.26596293", "4": "0.21893772", "5": "0.27314806", "6": "0.0130125135"}}

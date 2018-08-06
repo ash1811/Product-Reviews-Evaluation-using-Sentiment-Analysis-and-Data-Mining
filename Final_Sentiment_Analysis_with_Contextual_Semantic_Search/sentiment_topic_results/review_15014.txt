@@ -1,0 +1,1 @@
+{"text": "Got these for my husband. They look great on him . He really likes that they do not have that destressed  look but they look stylish.", "sentiment": "negative", "topics": {"0": "0.59129447", "1": "0.013054281", "2": "0.013001924", "3": "0.013019818", "4": "0.11021623", "5": "0.013025298", "6": "0.246388"}}

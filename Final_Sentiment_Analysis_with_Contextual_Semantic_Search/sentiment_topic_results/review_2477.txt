@@ -1,0 +1,1 @@
+{"text": "These flip flops form to your feet after a while and last a long time. they are usually lost or stolen before they wear out!", "sentiment": "negative", "topics": {"0": "0.011008349", "1": "0.117227264", "2": "0.09678926", "3": "0.01100114", "4": "0.23473722", "5": "0.5181626", "6": "0.0110742105"}}

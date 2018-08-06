@@ -1,0 +1,1 @@
+{"text": "These are very comfortable and the leather makes them a bit more dressy than my standard seat belt material Keen sandals.", "sentiment": "negative", "topics": {"0": "0.011927838", "1": "0.24217515", "2": "0.15382461", "3": "0.102656685", "4": "0.011905942", "5": "0.011913336", "6": "0.46559647"}}

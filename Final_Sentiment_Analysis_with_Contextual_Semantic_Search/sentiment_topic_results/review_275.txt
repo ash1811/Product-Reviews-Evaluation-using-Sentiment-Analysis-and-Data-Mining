@@ -1,0 +1,1 @@
+{"text": "Great pair of cargo shorts.  This is exactly what I was hoping for when I order them. They are the perfect fit in every way.  The build quality  is second to none.  Would order Rothco's again.", "sentiment": "negative", "topics": {"0": "0.29415974", "1": "0.32966506", "2": "0.24118498", "4": "0.11445357"}}

@@ -1,0 +1,1 @@
+{"text": "this shirt runs larger than its size states which when working hard makes this a very comfortable shirt to wear", "sentiment": "positive", "topics": {"0": "0.2608607", "1": "0.3557981", "2": "0.011931285", "3": "0.33558002", "4": "0.011946942", "5": "0.011945772", "6": "0.011937144"}}

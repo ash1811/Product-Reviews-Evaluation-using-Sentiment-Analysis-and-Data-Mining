@@ -1,0 +1,1 @@
+{"text": "For an aftermarket product, these have lasted a long time, very durable and comfortableGood price, can't argue about the quality; lasting longer than some that have cost $100", "sentiment": "positive", "topics": {"0": "0.13240455", "1": "0.3121945", "3": "0.098262526", "4": "0.06433213", "5": "0.37488526"}}

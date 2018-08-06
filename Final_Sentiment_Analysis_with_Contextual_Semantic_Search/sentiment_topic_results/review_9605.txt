@@ -1,0 +1,1 @@
+{"text": "The watch is as advertised.  I look forward to wearing for many years.  The expansion band is small which is exactly what I needed and wanted.", "sentiment": "negative", "topics": {"0": "0.28794584", "1": "0.3028797", "2": "0.1580327", "3": "0.14470187", "4": "0.08598215", "5": "0.010221381", "6": "0.01023637"}}

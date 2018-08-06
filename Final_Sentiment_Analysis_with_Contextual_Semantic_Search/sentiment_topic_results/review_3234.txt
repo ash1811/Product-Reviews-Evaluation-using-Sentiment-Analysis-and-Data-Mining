@@ -1,0 +1,1 @@
+{"text": "This are a great fit and really comfortable.  Cut just right.  Good quality denim with quality stitching.If I could I would wear these everyday.", "sentiment": "positive", "topics": {"1": "0.7663698", "3": "0.09161135", "4": "0.106267154"}}

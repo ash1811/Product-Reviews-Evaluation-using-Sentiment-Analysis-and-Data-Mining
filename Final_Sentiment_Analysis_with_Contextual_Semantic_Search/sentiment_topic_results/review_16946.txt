@@ -1,0 +1,1 @@
+{"text": "These fit just as expected.  They advised they ran a little small so we ordered the next size up and therefore they perfect, as expected.  Had a hard time finding this size in the store, we are very pleased.", "sentiment": "negative", "topics": {"0": "0.10525491", "1": "0.42121926", "2": "0.27135915", "3": "0.17954332"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for my father-in-law to go to the gym and exercise outdoors. He says they're not great but they're comfortable.The shoes are kinda big but they're very comfortable...", "sentiment": "negative", "topics": {"1": "0.21342836", "2": "0.138091", "3": "0.11826393", "4": "0.24487327", "5": "0.18055275", "6": "0.09637411"}}

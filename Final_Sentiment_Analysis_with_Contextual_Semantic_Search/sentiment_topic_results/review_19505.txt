@@ -1,0 +1,1 @@
+{"text": "I love this shoe its great for running around and trying to be comfortable at the same time. The bottom is very heavy and quite thick but still cute.", "sentiment": "positive", "topics": {"1": "0.43043005", "2": "0.087340094", "5": "0.37210152", "6": "0.081449784"}}

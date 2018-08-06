@@ -1,0 +1,1 @@
+{"text": "These are actually my second pair of these shoes. I have them in both black and brown. Fit well, comfortable, stylish with capris and shorts.", "sentiment": "negative", "topics": {"0": "0.17124851", "1": "0.45400435", "2": "0.25304878", "3": "0.011044919", "4": "0.011003433", "5": "0.011019971", "6": "0.088630006"}}

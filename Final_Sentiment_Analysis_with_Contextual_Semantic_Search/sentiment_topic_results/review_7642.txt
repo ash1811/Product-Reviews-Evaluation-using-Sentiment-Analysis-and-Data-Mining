@@ -1,0 +1,1 @@
+{"text": "What a disappointment.I reccomend that you save your hard earned money and simply buy a $0.79 cent roll of adhesive tape from the local chemist.", "sentiment": "negative", "topics": {"0": "0.3451058", "1": "0.11062589", "2": "0.41686755", "4": "0.05088436", "5": "0.058604926"}}

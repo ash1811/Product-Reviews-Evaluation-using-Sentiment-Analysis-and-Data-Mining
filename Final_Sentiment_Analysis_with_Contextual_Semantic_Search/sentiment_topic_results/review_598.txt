@@ -1,0 +1,1 @@
+{"text": "These jeans are just what I have been looking for....37 inch waist and a relaxed fit.  Lee is a quality jean and I am pleased to own them.", "sentiment": "negative", "topics": {"0": "0.14012796", "1": "0.31078762", "2": "0.30380794", "3": "0.011035252", "4": "0.011012112", "5": "0.114387415", "6": "0.10884169"}}

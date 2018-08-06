@@ -1,0 +1,1 @@
+{"text": "These jeans fit exactly as they should and they are very nice. Carhartt is a great brand and these jeans seems very durable. I would definitely buy them again.", "sentiment": "negative", "topics": {"0": "0.07980709", "1": "0.42525157", "3": "0.26244506", "5": "0.20387417"}}

@@ -1,0 +1,1 @@
+{"text": "Smartwool is great.  These pair are thick on the bottom and dressier thin everywhere else.  Perfect for wearing with khakis", "sentiment": "positive", "topics": {"0": "0.114558585", "1": "0.45892885", "2": "0.08368947", "3": "0.011017006", "4": "0.011014019", "5": "0.22898763", "6": "0.09180446"}}

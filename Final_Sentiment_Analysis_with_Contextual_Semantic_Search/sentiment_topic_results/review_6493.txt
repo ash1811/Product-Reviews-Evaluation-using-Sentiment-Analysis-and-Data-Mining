@@ -1,0 +1,1 @@
+{"text": "I've always used Smartwool but don't always find them on Amazon.  These Thorlo are just a nice.  Will definitely buy more!", "sentiment": "negative", "topics": {"0": "0.14827457", "1": "0.3480215", "2": "0.011034112", "3": "0.23486811", "4": "0.14389098", "5": "0.0110149365", "6": "0.10289578"}}

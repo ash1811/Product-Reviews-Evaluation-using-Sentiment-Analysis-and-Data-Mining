@@ -1,0 +1,1 @@
+{"text": "The shirt was a size to large. I'm 5'10&#34; 200lbs and the lrg was too big. I recommend getting a size smaller then usual. The quality is great!", "sentiment": "negative", "topics": {"0": "0.09168382", "1": "0.44747132", "2": "0.08000973", "3": "0.3014155", "5": "0.06152378"}}

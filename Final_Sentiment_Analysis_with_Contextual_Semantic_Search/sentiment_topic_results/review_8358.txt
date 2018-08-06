@@ -1,0 +1,1 @@
+{"text": "I've been wearing carhartt jeans for years and they are the best fitted, most durable and comfortable jeans going.  Relaxed fit will give you plenty of room where it counts and the heavy denim is  durable.", "sentiment": "positive", "topics": {"0": "0.12014513", "1": "0.5928095", "3": "0.09714023", "4": "0.12947452", "6": "0.046758164"}}

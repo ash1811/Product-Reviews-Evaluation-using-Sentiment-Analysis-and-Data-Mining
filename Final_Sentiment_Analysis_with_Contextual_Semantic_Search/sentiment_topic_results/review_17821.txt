@@ -1,0 +1,1 @@
+{"text": "I collect watches and I bought this one for my son.  He loves the watch and never takes it off.  This watch has put up with a lot of abuse and it continues to work well and look nice.", "sentiment": "positive", "topics": {"1": "0.637812", "2": "0.32636738"}}

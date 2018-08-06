@@ -1,0 +1,1 @@
+{"text": "As a bigger guy, I often times find it difficult to find pants that fit correctly. These pants are perfect and quite comfortable.", "sentiment": "positive", "topics": {"1": "0.55620563", "4": "0.32246587", "6": "0.083173014"}}

@@ -1,0 +1,1 @@
+{"text": "My son is happy with these. He only likes tube socks for whatever reason so these make a good gift.", "sentiment": "negative", "topics": {"0": "0.5916909", "1": "0.0119536435", "2": "0.01191718", "3": "0.105596386", "4": "0.011934151", "5": "0.1441106", "6": "0.12279713"}}

@@ -1,0 +1,1 @@
+{"text": "I bought 4 of this ring, one for each of my three sisters and one for myself.  I like the delicate, filigree Celtic knot heart design.  We all have small hands and fingers.  This ring design doesn't overwhelm our hands.", "sentiment": "negative", "topics": {"1": "0.20011657", "3": "0.3267518", "4": "0.23640871", "5": "0.15600722", "6": "0.068251595"}}

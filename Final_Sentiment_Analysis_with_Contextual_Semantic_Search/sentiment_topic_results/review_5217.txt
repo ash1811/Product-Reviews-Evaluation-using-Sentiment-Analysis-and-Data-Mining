@@ -1,0 +1,1 @@
+{"text": "These were just what my mom wanted for the reception for dancing...  they will do what they need to do.. stop my mom from having to walk around in heels or barefoot all night long", "sentiment": "negative", "topics": {"0": "0.22192326", "1": "0.27243444", "3": "0.087239824", "5": "0.111506425", "6": "0.28780547"}}

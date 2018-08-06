@@ -1,0 +1,1 @@
+{"text": "Extremely comfortable, and an attractive flip flop.  But, the soles of my feet are stained black every day!  I started noticing black foot prints in the tub.  Quit wearing the reef, and the footprints are gone!", "sentiment": "positive", "topics": {"1": "0.22934209", "2": "0.07950177", "3": "0.16142835", "4": "0.11877423", "5": "0.3031661", "6": "0.10182569"}}

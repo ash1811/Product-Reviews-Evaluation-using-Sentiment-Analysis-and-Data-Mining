@@ -1,0 +1,1 @@
+{"text": "I bought this for someone else who couldn't keep up with their glasses. They really love this case and carries it with them everywhere.", "sentiment": "negative", "topics": {"0": "0.013073033", "1": "0.0130626885", "2": "0.46126592", "3": "0.013076161", "4": "0.38810492", "5": "0.0130431475", "6": "0.09837412"}}

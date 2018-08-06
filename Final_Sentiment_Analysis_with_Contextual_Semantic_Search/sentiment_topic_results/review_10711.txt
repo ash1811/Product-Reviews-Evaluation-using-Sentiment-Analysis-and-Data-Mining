@@ -1,0 +1,1 @@
+{"text": "Timberland White Ledge Waterproof Boot,Brown,8 W", "sentiment": "negative", "topics": {"0": "0.020459525", "1": "0.1654673", "2": "0.17001446", "3": "0.14223224", "4": "0.16705035", "5": "0.3143594", "6": "0.020416697"}}

@@ -1,0 +1,1 @@
+{"text": "The sizes are correct, right on target.  Mine fit perfectly and are very comfortable.  I recommend this product. They are cushy and soft.", "sentiment": "negative", "topics": {"0": "0.011005566", "1": "0.4666009", "2": "0.19422644", "3": "0.011046375", "4": "0.011004089", "5": "0.10600496", "6": "0.20011169"}}

@@ -1,0 +1,1 @@
+{"text": "This is a good quality slip and nicely fits. Works as stated. I would recommend this product. Though it seems to run on the larger end.", "sentiment": "negative", "topics": {"0": "0.12607811", "1": "0.38551447", "3": "0.25059178", "5": "0.21090993"}}

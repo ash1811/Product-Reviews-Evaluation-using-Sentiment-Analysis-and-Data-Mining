@@ -1,0 +1,1 @@
+{"text": "I wasn't a fan of this sports bra.  It didn't seem to keep everything in place like it claims.  Plus, there is no lining.", "sentiment": "negative", "topics": {"0": "0.2275018", "1": "0.23474674", "2": "0.18613584", "3": "0.31580564", "4": "0.011919173", "5": "0.011927801", "6": "0.011963044"}}

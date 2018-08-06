@@ -1,0 +1,1 @@
+{"text": "Really comfy.  I thoroughly recommend.  Feel nice and soft on skin. Good quality.I have been wearing mine now for 3 weeks and they get more comfortable.", "sentiment": "negative", "topics": {"0": "0.1179985", "1": "0.503546", "3": "0.3447601"}}

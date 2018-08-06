@@ -1,0 +1,1 @@
+{"text": "It works, doesn't lose its shape, lasts a long time and gives a better profile than my other bras; the more expensive ones.", "sentiment": "positive", "topics": {"0": "0.0110368775", "1": "0.25680476", "2": "0.2504619", "3": "0.33032355", "4": "0.011044039", "5": "0.12932435", "6": "0.011004472"}}

@@ -1,0 +1,1 @@
+{"text": "I love the material and it does not roll down.  It is very comfortable and I will definitely be buying more.", "sentiment": "negative", "topics": {"0": "0.015933549", "1": "0.29915893", "2": "0.015910726", "3": "0.38480157", "4": "0.01594848", "5": "0.2522744", "6": "0.015972326"}}

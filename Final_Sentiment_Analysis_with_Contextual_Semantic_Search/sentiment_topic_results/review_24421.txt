@@ -1,0 +1,1 @@
+{"text": "This is REAL warm, and obviously blaze orange.  Great hat to keep you warm in the woods.  Definitely recommend for anyone looking to keep themselves warm and visible.", "sentiment": "negative", "topics": {"1": "0.27036536", "2": "0.07456298", "3": "0.39992025", "4": "0.079269215", "5": "0.15998237"}}

@@ -1,0 +1,1 @@
+{"text": "Seems like they'll last a while, you can likely get these at your local Kohls for $20. Elastic waist band.", "sentiment": "negative", "topics": {"0": "0.010311687", "1": "0.0102204", "2": "0.47877404", "3": "0.010242026", "4": "0.46997556", "5": "0.010226287", "6": "0.01024996"}}

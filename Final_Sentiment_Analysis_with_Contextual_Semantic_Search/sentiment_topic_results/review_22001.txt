@@ -1,0 +1,1 @@
+{"text": "Bought as a replacement for kid brother. Item as describe! Size is true and recommended for teens since shoe does not go out of style.", "sentiment": "negative", "topics": {"2": "0.36871445", "5": "0.3529945", "6": "0.24006751"}}

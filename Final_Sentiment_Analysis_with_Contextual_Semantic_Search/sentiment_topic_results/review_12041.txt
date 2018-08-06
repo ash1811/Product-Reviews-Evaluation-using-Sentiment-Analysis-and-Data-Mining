@@ -1,0 +1,1 @@
+{"text": "Perfect fit for a wide foot......own three pairs of these shoes in different colors.Good quality....long lasting.....good heel....nonslip shoe.  Thank you.", "sentiment": "negative", "topics": {"1": "0.20860752", "2": "0.22834307", "3": "0.2361825", "4": "0.16012245", "5": "0.14880149"}}

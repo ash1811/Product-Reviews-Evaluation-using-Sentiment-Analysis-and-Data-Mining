@@ -1,0 +1,1 @@
+{"text": "True to size, great quality material.  I have bought these for my husband for years, the only jeans he'll wear.", "sentiment": "negative", "topics": {"0": "0.011948419", "1": "0.5782642", "2": "0.011916694", "3": "0.24384712", "4": "0.13007511", "5": "0.012015387", "6": "0.011933102"}}

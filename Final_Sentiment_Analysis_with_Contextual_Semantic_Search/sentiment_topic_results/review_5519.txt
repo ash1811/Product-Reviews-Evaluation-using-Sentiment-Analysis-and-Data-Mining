@@ -1,0 +1,1 @@
+{"text": "What can you say about a Hanes tee-shirt?  They are well made, soft , have a great fit and have almost any color you could want.  Not to mention, reasonably priced.", "sentiment": "positive", "topics": {"1": "0.5337306", "2": "0.1898535", "4": "0.18548961", "6": "0.06409759"}}

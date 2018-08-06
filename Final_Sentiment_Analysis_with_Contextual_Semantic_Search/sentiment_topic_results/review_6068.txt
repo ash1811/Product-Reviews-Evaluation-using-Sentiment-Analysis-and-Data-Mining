@@ -1,0 +1,1 @@
+{"text": "This shoe is comfortable to a certain extent, and the problem is only it is little bit narrow from the side, it is good for skinny feet and not for wide feet. However, in general this is a good shoe.", "sentiment": "negative", "topics": {"1": "0.3123384", "2": "0.21159638", "3": "0.3018263", "4": "0.10720257", "6": "0.05196558"}}

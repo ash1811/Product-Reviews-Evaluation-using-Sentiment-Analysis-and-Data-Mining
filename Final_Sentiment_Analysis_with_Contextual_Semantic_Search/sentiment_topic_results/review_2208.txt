@@ -1,0 +1,1 @@
+{"text": "We live overseas and the base exchange never has shoes big enough. My husband loves these shoes, so as soon as they start showing wear, I order another pair!", "sentiment": "positive", "topics": {"0": "0.1475728", "1": "0.19511731", "2": "0.18153507", "4": "0.27372655", "6": "0.18695155"}}

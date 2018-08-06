@@ -1,0 +1,1 @@
+{"text": "I thought these were workout stretch pants. Wore them to the gym anyway. They were comfortable. We'll see how they do in the cold.", "sentiment": "positive", "topics": {"0": "0.011929386", "1": "0.33545187", "2": "0.11757898", "3": "0.0119606815", "4": "0.11341009", "5": "0.39774027", "6": "0.011928684"}}

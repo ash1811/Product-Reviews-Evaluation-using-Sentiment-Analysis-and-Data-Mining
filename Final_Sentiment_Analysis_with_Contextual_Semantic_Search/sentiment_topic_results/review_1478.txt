@@ -1,0 +1,1 @@
+{"text": "I always like these bags.  They have alot of room and I give it to my child so they can carry all their things in it without any problems with zipping it up.  These bags last a long time too.", "sentiment": "positive", "topics": {"0": "0.3118905", "1": "0.14021204", "3": "0.17407079", "4": "0.20606047", "5": "0.15265551"}}

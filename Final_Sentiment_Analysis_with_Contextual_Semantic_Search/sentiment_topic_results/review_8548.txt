@@ -1,0 +1,1 @@
+{"text": "I've been ordering this style of Reebok for a long time.  I wear them with practically everything casual.  Fits well and I know I can count on the quality and wearability of this shoe.  Hope they never stop making this style.", "sentiment": "positive", "topics": {"1": "0.3779715", "2": "0.19978832", "3": "0.08201338", "4": "0.16210556", "5": "0.16561334"}}

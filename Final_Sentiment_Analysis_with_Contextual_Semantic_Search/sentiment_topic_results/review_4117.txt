@@ -1,0 +1,1 @@
+{"text": "Very pleased with this watch. Even though not assembled in Switzerland, the inner components are all Swis made. I own very expensive watches, so I'm anxious to see how the Invicta product endures.", "sentiment": "negative", "topics": {"0": "0.08260235", "1": "0.11343921", "2": "0.14104417", "3": "0.07799696", "4": "0.1522235", "5": "0.31145155", "6": "0.12124225"}}

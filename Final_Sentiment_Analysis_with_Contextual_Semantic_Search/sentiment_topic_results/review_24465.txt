@@ -1,0 +1,1 @@
+{"text": "I ordered according to the size chart but it's uncomfortably small, so buy a size larger and you'll be fine. Other than that this leotard is great.", "sentiment": "negative", "topics": {"0": "0.01102355", "1": "0.23110293", "2": "0.2602403", "3": "0.4645836", "4": "0.011026898", "5": "0.011013227", "6": "0.0110094845"}}

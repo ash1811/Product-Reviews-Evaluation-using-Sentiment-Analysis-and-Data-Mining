@@ -1,0 +1,1 @@
+{"text": "I absolutely loved these moccasins when I got them.  I wore them all the time.  Inside of 3 months, a hole formed in the right toe.Yet I know from past purchases that Minnetonka is a good company and I would buy from them again.", "sentiment": "positive", "topics": {"1": "0.34538507", "2": "0.17963795", "3": "0.19089551", "5": "0.18284254", "6": "0.08929712"}}

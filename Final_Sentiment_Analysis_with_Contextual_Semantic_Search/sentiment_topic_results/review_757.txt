@@ -1,0 +1,1 @@
+{"text": "Very comfortable and true to size. Like wearing pajamas to work. Can't beat it for the price. I will order more colors!", "sentiment": "negative", "topics": {"0": "0.14090529", "1": "0.4893215", "2": "0.011005855", "3": "0.011029428", "4": "0.10402758", "5": "0.011005604", "6": "0.23270473"}}

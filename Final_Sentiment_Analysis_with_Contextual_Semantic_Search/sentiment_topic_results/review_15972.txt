@@ -1,0 +1,1 @@
+{"text": "This hat is as advertized and broke in, good fit and has the right feel for an old pair of jeans.  Shipment was quick.", "sentiment": "negative", "topics": {"0": "0.24100074", "1": "0.12411637", "2": "0.010208999", "3": "0.010244919", "4": "0.46114448", "5": "0.14306563", "6": "0.010218889"}}

@@ -1,0 +1,1 @@
+{"text": "Easy slip on shoe, good for church and going out to dinner. Good with slacks and jeans. Don't get rough in them though.", "sentiment": "positive", "topics": {"0": "0.13624316", "1": "0.010249713", "2": "0.19255514", "3": "0.010230767", "4": "0.32065633", "5": "0.21541856", "6": "0.11464632"}}

@@ -1,0 +1,1 @@
+{"text": "Fit is exactly as described, not too loose or too tight. Always wore 505 or 501's but these seem to have a better fit to them.", "sentiment": "negative", "topics": {"0": "0.09582809", "1": "0.42620975", "2": "0.010247187", "3": "0.22438273", "4": "0.0102237845", "5": "0.010245293", "6": "0.22286317"}}

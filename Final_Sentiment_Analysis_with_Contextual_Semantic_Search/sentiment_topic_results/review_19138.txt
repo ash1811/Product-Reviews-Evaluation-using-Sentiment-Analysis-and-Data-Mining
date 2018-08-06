@@ -1,0 +1,1 @@
+{"text": "This shoe is so great and at an excellent price. I gave this shoe a 5 star rating because of it's comfort and great style. This was the lowest price I've seen. Much needed spring shoe.", "sentiment": "positive", "topics": {"1": "0.13005769", "2": "0.2911381", "3": "0.12123326", "4": "0.17805715", "5": "0.14212605", "6": "0.13056815"}}

@@ -1,0 +1,1 @@
+{"text": "This is truly a great gym bag, only thing is i remember reading on the tag theres an extra pocket somewhere- theres no extra pocket.", "sentiment": "positive", "topics": {"1": "0.6596701", "2": "0.07947618", "3": "0.15984178", "4": "0.07417056"}}

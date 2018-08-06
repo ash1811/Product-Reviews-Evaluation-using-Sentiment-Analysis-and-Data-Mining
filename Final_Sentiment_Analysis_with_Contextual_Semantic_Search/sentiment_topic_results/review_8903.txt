@@ -1,0 +1,1 @@
+{"text": "I have bought 3 pairs of these shoes for work and walking around NYC! They last for a very long time and the support is vital in this concrete city!  My personal fave!!", "sentiment": "negative", "topics": {"1": "0.113405675", "2": "0.26513684", "3": "0.2852269", "5": "0.312356"}}

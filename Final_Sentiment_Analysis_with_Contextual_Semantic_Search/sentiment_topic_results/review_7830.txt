@@ -1,0 +1,1 @@
+{"text": "Great service. But, the product is very fragile. It fell apart on my first usage. I complained to the company, but got no response.", "sentiment": "positive", "topics": {"0": "0.010219961", "1": "0.103809126", "2": "0.2683926", "3": "0.010231999", "4": "0.010219019", "5": "0.58689594", "6": "0.010231349"}}

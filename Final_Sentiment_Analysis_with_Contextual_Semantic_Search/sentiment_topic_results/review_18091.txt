@@ -1,0 +1,1 @@
+{"text": "He will love these sneakers. Great quality, nice color (I like the bottom platform too, looks like cork), fits as expected, vegan.", "sentiment": "positive", "topics": {"1": "0.40144518", "5": "0.2942276", "6": "0.2724508"}}

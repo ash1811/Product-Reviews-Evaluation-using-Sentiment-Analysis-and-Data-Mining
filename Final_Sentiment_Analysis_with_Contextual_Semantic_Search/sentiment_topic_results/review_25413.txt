@@ -1,0 +1,1 @@
+{"text": "I have worn this brand forever they are the perfect fit and are invisible under clothes. Very comfortable and a great buy.", "sentiment": "negative", "topics": {"0": "0.012995885", "1": "0.4428774", "2": "0.013118652", "3": "0.27153125", "4": "0.1174309", "5": "0.012998413", "6": "0.12904745"}}

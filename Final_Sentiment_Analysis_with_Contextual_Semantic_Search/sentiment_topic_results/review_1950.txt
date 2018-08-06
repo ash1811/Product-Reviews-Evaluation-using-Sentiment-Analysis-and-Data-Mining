@@ -1,0 +1,1 @@
+{"text": "I bought these as a Christmas gift for my husband, who NEVER goes barefoot and in the winter constantly complains of cold feet.  He is now in 7th Heaven.  LOVES them!", "sentiment": "positive", "topics": {"0": "0.29597962", "1": "0.08029816", "4": "0.23630959", "5": "0.36208278"}}

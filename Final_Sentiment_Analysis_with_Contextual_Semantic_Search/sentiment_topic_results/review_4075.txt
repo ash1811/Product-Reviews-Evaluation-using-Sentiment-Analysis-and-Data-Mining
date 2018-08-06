@@ -1,0 +1,1 @@
+{"text": "Order a size up from your normal shoe size. I have 10.5 men's, the 11-12 fits well. It's good to have a pair of these for those rainy days.", "sentiment": "negative", "topics": {"0": "0.31874263", "1": "0.16584505", "2": "0.18803039", "3": "0.29874897"}}

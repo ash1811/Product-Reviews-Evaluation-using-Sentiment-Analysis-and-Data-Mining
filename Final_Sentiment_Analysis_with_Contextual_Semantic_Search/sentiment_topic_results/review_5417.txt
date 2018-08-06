@@ -1,0 +1,1 @@
+{"text": "This was a gift for my husband who has 2 other windshirts in black.  The Badger brand is made very well.  The fit was perfect.  It washes up easily and is wrinkle free.  He loves it and now wants another color.", "sentiment": "negative", "topics": {"0": "0.13116832", "1": "0.5040096", "3": "0.2682787", "4": "0.07501708"}}

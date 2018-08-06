@@ -1,0 +1,1 @@
+{"text": "Nice fit, comfortable. Don't plan on carrying coins in the side pockets as when you sit down in chair/car the coins roll out freely. Poor pocket design.", "sentiment": "negative", "topics": {"1": "0.30842224", "3": "0.26228654", "5": "0.08356624", "6": "0.32043225"}}

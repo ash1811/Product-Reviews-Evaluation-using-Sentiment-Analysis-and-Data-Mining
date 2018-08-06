@@ -1,0 +1,1 @@
+{"text": "these coveralls are supposed to keep you warm and dry when riding a motorcycle. they do neither. they do not keep you warm and you will be soaking wet if you wear them in the rain while riding.", "sentiment": "positive", "topics": {"1": "0.4087421", "2": "0.10120893", "3": "0.2441212", "4": "0.21911253"}}

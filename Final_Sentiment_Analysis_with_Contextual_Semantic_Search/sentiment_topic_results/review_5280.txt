@@ -1,0 +1,1 @@
+{"text": "carhartt mean quality.  plain and simple.i only wear carhartt pants and shorts.  nothing else.  you simply can't beat the durability and comfort.", "sentiment": "negative", "topics": {"0": "0.10968545", "1": "0.34272033", "2": "0.12675096", "4": "0.09554841", "5": "0.10344255", "6": "0.2134426"}}

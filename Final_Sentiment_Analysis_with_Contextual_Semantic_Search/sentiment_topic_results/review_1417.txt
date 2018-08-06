@@ -1,0 +1,1 @@
+{"text": "Good basic bag with good build quality at a decent price.  About the only kind of bag you can buy any more that doesn't have 8 layers of rubber, plastic, kevlar and metal plates bolted to it for no apparent reason.", "sentiment": "negative", "topics": {"0": "0.11804878", "1": "0.38719332", "3": "0.1974137", "4": "0.08852406", "5": "0.14735366", "6": "0.054950986"}}

@@ -1,0 +1,1 @@
+{"text": "New insoles will give me another 9 years of wear from my Uggs! Thinking of getting another pair to use in slippers.", "sentiment": "negative", "topics": {"0": "0.083082564", "1": "0.20945959", "2": "0.14954622", "3": "0.28856897", "6": "0.25021827"}}

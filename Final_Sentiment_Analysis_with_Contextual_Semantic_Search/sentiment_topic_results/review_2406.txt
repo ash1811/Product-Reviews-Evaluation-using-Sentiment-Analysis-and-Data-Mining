@@ -1,0 +1,1 @@
+{"text": "Would be very helpfull if all papers stuffed and other weighty items be removed and the box size be made smaller coz international shipping is charged by volumetric weight not weight alone.", "sentiment": "negative", "topics": {"0": "0.0738492", "1": "0.034648173", "4": "0.43354774", "5": "0.16397674", "6": "0.2796339"}}

@@ -1,0 +1,1 @@
+{"text": "I wear these at work because the dish room can get wet really quick. Hate walking home with wet socks!", "sentiment": "negative", "topics": {"0": "0.14570785", "1": "0.36361733", "2": "0.010216423", "3": "0.010230589", "4": "0.1002534", "5": "0.35975695", "6": "0.010217448"}}

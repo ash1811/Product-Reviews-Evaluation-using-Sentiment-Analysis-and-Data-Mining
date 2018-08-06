@@ -1,0 +1,1 @@
+{"text": "the slipper is nice and soft but there is no room for your toes like this picture shows, so I suspect it was made in a foreign country somewhere they have really tiny toes. I am returning them.", "sentiment": "positive", "topics": {"1": "0.4685955", "2": "0.29890263", "3": "0.07824924", "4": "0.055620845", "6": "0.083503716"}}

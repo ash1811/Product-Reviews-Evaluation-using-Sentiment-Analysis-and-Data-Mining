@@ -1,0 +1,1 @@
+{"text": "These earrings are longer than I anticipated and the &#34;rainbow&#34; color just isn't there.  I would have preferred more color to the stones.", "sentiment": "negative", "topics": {"0": "0.13207787", "1": "0.5952187", "2": "0.01299455", "3": "0.13447025", "4": "0.099238984", "5": "0.013000696", "6": "0.012998903"}}

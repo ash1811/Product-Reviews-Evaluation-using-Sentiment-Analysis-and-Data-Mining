@@ -1,0 +1,1 @@
+{"text": "This canvas bag is roomy, and the design is exactly what I was looking for. I would recommend this bag to my friends!", "sentiment": "negative", "topics": {"0": "0.12059086", "1": "0.46143246", "2": "0.15106389", "3": "0.011947577", "4": "0.011919294", "5": "0.14321361", "6": "0.099832304"}}

@@ -1,0 +1,1 @@
+{"text": "For him, that's high praise!  They are just workout shorts after all, not a tuxedo or anything :)  But they are comfortable.  Good pockets. Easy wash. Good fit.  Great Price! What more could you want.", "sentiment": "negative", "topics": {"0": "0.07836287", "1": "0.44468617", "2": "0.101911195", "5": "0.21000937", "6": "0.15138178"}}

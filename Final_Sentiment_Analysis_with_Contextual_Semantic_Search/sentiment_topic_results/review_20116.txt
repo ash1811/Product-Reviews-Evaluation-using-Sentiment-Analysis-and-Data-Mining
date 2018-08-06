@@ -1,0 +1,1 @@
+{"text": "I really like this backpack, it feels good on my shoulders and has a lot of compartments for all my little items. It's nice and roomy, a section for your ipod and side pockets to put in a water bottle. I am very happy with my purchase.", "sentiment": "negative", "topics": {"0": "0.21641842", "1": "0.30663922", "2": "0.30572227", "6": "0.15165621"}}

@@ -1,0 +1,1 @@
+{"text": "Very soft and true to fit.  The workmanship is quality; the new padding in the bottom of the moccasins feels better than the old ones in the past that did not have it.", "sentiment": "positive", "topics": {"1": "0.3635405", "3": "0.23315546", "5": "0.18955979", "6": "0.18679138"}}

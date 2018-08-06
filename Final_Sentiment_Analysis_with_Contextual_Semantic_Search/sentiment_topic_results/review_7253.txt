@@ -1,0 +1,1 @@
+{"text": "Well fitting jeans. Nothing extraordinary but 100% adequate. They came out of the dryer a little more wrinkled than the rest of my jeans.", "sentiment": "negative", "topics": {"0": "0.010238713", "1": "0.010263455", "2": "0.01022135", "3": "0.0102459695", "4": "0.2962254", "5": "0.38275614", "6": "0.280049"}}

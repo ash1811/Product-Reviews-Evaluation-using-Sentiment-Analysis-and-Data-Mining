@@ -1,0 +1,1 @@
+{"text": "This is a great pair of trousers. Doing floor work has proved the cut to be very good and the convenience of the pockets and leather to be just right.", "sentiment": "negative", "topics": {"0": "0.011051522", "1": "0.37879845", "2": "0.110430874", "3": "0.16492867", "4": "0.31275797", "5": "0.011032615", "6": "0.010999892"}}

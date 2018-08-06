@@ -1,0 +1,1 @@
+{"text": "My husband is a carpenter and he loves the fit of these jeans and the warmth  of them in this nasty northern Minnesota winter weather", "sentiment": "negative", "topics": {"0": "0.011913855", "1": "0.34660697", "2": "0.011945552", "3": "0.011916943", "4": "0.2608455", "5": "0.34482932", "6": "0.011941831"}}

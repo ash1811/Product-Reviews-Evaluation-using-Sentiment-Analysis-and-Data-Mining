@@ -1,0 +1,1 @@
+{"text": "I use it every time when I m rid bicycle. I m short little woman, so I guess it just little bit too big for me to use. But it's good quality and strong. I love it anyway", "sentiment": "negative", "topics": {"0": "0.12455344", "1": "0.48784995", "2": "0.08695874", "4": "0.19483562", "6": "0.090700686"}}

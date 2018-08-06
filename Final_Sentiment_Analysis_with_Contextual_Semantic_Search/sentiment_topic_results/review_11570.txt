@@ -1,0 +1,1 @@
+{"text": "These earrings are plain, simple posts that do a job and are not intended as fashion accessories.  The price was right", "sentiment": "negative", "topics": {"0": "0.19103432", "1": "0.43679106", "2": "0.01303945", "3": "0.11525648", "4": "0.103075385", "5": "0.013053991", "6": "0.12774934"}}

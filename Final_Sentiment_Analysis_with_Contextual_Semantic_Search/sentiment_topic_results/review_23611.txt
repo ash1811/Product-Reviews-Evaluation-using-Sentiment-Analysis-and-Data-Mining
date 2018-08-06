@@ -1,0 +1,1 @@
+{"text": "These are a little more high-wasted than I expected, but super comfy. I really like the cute patterns on them as well. Very good quality; I highly recommend them.", "sentiment": "negative", "topics": {"0": "0.20097867", "1": "0.5016208", "2": "0.26155448"}}

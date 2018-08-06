@@ -1,0 +1,1 @@
+{"text": "I think Carhartt is one of those lesser known secrets for the purposes of casual men's clothing. I know that they are in a certain niche for work wear, but I love them for everyday wear. You cannot beat the quality for the money anywhere.", "sentiment": "negative", "topics": {"1": "0.366078", "2": "0.08309985", "3": "0.2292409", "4": "0.14116548", "5": "0.16848469"}}

@@ -1,0 +1,1 @@
+{"text": "I would recommend these to anyone. Very good quality and super comfortable. I wore them under coveralls in the field.", "sentiment": "negative", "topics": {"0": "0.013031743", "1": "0.4858452", "2": "0.013003487", "3": "0.13763346", "4": "0.11465101", "5": "0.22282451", "6": "0.013010592"}}

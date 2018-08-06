@@ -1,0 +1,1 @@
+{"text": "muito boa compra. REcomendo a quem queira comprar este produro ,pois alem de ter um excelente peo. &eacute; um artigo de 1", "sentiment": "negative", "topics": {"2": "0.03425111", "3": "0.4709183", "5": "0.3960141", "6": "0.07932499"}}

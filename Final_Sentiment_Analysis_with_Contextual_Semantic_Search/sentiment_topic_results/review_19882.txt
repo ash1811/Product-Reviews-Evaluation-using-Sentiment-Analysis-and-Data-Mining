@@ -1,0 +1,1 @@
+{"text": "This was a first jewelry box for a little girl's birthday.  She loves the dancing fairy.  It was perfect for what i was looking for.", "sentiment": "negative", "topics": {"0": "0.011025937", "1": "0.35740346", "2": "0.011070725", "3": "0.1513337", "4": "0.26436856", "5": "0.011020524", "6": "0.1937771"}}

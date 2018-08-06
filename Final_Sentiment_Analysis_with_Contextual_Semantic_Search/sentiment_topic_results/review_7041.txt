@@ -1,0 +1,1 @@
+{"text": "I just received the boot 04-04-04 and they fit just great. This my second pair of Dan Post boots and I am very satisfied with the fit. If problems happen in the future I will update.", "sentiment": "positive", "topics": {"0": "0.14079392", "1": "0.2862685", "4": "0.19301438", "5": "0.14684795", "6": "0.21623696"}}

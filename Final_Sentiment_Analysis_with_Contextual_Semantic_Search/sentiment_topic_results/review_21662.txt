@@ -1,0 +1,1 @@
+{"text": "Highly recommended.  These are the only socks my husband will wear now. I am so glad they are available through Amazon.  The price is just as good as purchasing through the product website.", "sentiment": "negative", "topics": {"2": "0.08625621", "4": "0.35291654", "5": "0.52259153"}}

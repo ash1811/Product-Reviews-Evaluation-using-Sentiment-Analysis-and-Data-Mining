@@ -1,0 +1,1 @@
+{"text": "The product is very comfortable, suitable size, but the leather is of inferior quality. Fold easily creating grooves on the instep.", "sentiment": "negative", "topics": {"0": "0.106856935", "1": "0.28106996", "2": "0.1630374", "3": "0.088754185", "4": "0.16119267", "5": "0.18803157", "6": "0.011057257"}}

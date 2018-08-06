@@ -1,0 +1,1 @@
+{"text": "Couldn't find any in my area this time of year. Amazon.com had plenty to choose from. I should have known that, these water shoes are very well made and fit perfectly.", "sentiment": "negative", "topics": {"0": "0.081599355", "1": "0.58826", "2": "0.18117478", "4": "0.123719186"}}

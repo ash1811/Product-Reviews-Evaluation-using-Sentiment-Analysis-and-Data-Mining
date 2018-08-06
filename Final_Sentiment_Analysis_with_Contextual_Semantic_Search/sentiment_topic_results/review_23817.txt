@@ -1,0 +1,1 @@
+{"text": "i wear these almost every day. i absolutely love vans and these are great. they fit as expected and they go with pretty much anything. love love", "sentiment": "positive", "topics": {"1": "0.4112708", "2": "0.23264149", "4": "0.17050807", "5": "0.08673118", "6": "0.08198704"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect and easy to use. Works great with any color shirt and tie. Tie hides it and you can't even tell your using it. Shipping was fast and quick.", "sentiment": "negative", "topics": {"0": "0.40826273", "1": "0.2232187", "4": "0.3383467"}}

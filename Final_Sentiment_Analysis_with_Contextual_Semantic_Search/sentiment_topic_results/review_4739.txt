@@ -1,0 +1,1 @@
+{"text": "The most comfortable sweatshirt I have ever owned.  Will buy more as I lose more weight!!! Promptly shipped.  Great color too!", "sentiment": "positive", "topics": {"0": "0.011035966", "1": "0.5117888", "2": "0.17532879", "3": "0.011026272", "4": "0.011060869", "5": "0.26874137", "6": "0.011017945"}}

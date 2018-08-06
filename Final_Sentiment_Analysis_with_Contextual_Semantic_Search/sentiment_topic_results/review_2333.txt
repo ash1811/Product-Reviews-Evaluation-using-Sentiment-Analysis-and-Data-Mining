@@ -1,0 +1,1 @@
+{"text": "Perfect shoes - chose them for my wedding, and they fit the bill perfectly! I was able to wear them right out of the box with no break-in period! Very comfy and stylish!", "sentiment": "negative", "topics": {"1": "0.37998345", "2": "0.17154169", "3": "0.1339221", "5": "0.2149164", "6": "0.08172151"}}

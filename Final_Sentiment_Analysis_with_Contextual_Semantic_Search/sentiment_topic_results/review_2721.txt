@@ -1,0 +1,1 @@
+{"text": "Lovely watch for the right person - not me. Disliked the dark color of the mesh band, wanted and expected a more shiny silver colored band.Really like the blue face, but not the dark band.", "sentiment": "negative", "topics": {"0": "0.36660326", "2": "0.14721665", "4": "0.13362186", "5": "0.26516083", "6": "0.071254775"}}

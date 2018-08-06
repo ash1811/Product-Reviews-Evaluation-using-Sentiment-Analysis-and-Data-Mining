@@ -1,0 +1,1 @@
+{"text": "This looked a lot stiffer in the picture (its just stuffed to capacity) - I thought about putting cardboard around the inside walls of the bag to give it some structure - but why should I have to do that???", "sentiment": "positive", "topics": {"3": "0.36493757", "4": "0.22716506", "5": "0.21636751", "6": "0.16760805"}}

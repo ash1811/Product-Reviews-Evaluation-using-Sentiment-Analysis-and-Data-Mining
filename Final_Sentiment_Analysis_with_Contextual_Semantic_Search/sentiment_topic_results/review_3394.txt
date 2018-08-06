@@ -1,0 +1,1 @@
+{"text": "This bra Fits a little tight around my chest. And it is a little scratchy but it holds the breasts and looks nice so for a &#34;dress&#34; bra it will do.", "sentiment": "negative", "topics": {"1": "0.35224384", "3": "0.42479303", "4": "0.06533977", "6": "0.13074677"}}

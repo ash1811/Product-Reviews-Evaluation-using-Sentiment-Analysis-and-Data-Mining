@@ -1,0 +1,1 @@
+{"text": "The pouch is fine, functional.  But the rich yellow color and the texture shown in the image do not convey.  I will use it, but I am disappointed in how unlike what I *thought* I was buying this item is.", "sentiment": "positive", "topics": {"0": "0.25600174", "2": "0.14595835", "3": "0.18712094", "4": "0.15126377", "6": "0.24452268"}}

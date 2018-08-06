@@ -1,0 +1,1 @@
+{"text": "My teenage daughter wanted a pair of Vans for Christmas and these are the ones she wanted.  She loves them, that's all that counts.", "sentiment": "positive", "topics": {"0": "0.011019509", "1": "0.011009454", "2": "0.011062082", "3": "0.45927498", "4": "0.34621266", "5": "0.011040023", "6": "0.1503813"}}

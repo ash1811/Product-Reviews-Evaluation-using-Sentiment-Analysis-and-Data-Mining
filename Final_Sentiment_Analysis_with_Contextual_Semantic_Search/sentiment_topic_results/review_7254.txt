@@ -1,0 +1,1 @@
+{"text": "We have ordered these jeans off of Amazon multiple times - best price I have found . They are expensive for work jeans however my husband likes the way they fit and feels like they hold up well to warrant the price.", "sentiment": "positive", "topics": {"1": "0.2903119", "3": "0.10516726", "4": "0.38804865", "6": "0.1977397"}}

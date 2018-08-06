@@ -1,0 +1,1 @@
+{"text": "I bought these classic canvas Keds directly from Amazon.  Fits my size five feet just right.  If you need a basic pair of Keds, I would recommend these.", "sentiment": "negative", "topics": {"1": "0.11793901", "2": "0.20959151", "3": "0.3102072", "4": "0.20339994", "6": "0.14377847"}}

@@ -1,0 +1,1 @@
+{"text": "Exactly what I hoped for. The relaxed fit is that. Not tight fitting at all. Perfect for the over 35 crowd like me.", "sentiment": "positive", "topics": {"0": "0.1758437", "1": "0.24097039", "4": "0.19528374", "5": "0.090933405", "6": "0.27787343"}}

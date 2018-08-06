@@ -1,0 +1,1 @@
+{"text": "Really comfortable shirts and the last a long time. They dont shrink or get really thin after wearing them for a while. I like them", "sentiment": "positive", "topics": {"1": "0.67330766", "2": "0.13563456", "5": "0.15282556"}}

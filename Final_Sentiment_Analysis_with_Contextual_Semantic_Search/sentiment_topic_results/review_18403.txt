@@ -1,0 +1,1 @@
+{"text": "I wore this bra and then cleaned it per the instructions.  The bra warped almost beyond recognition.  Not worth the money, in my opinion.", "sentiment": "negative", "topics": {"0": "0.14547674", "1": "0.087354936", "2": "0.15719546", "3": "0.16485284", "4": "0.18335418", "5": "0.251551", "6": "0.010214808"}}

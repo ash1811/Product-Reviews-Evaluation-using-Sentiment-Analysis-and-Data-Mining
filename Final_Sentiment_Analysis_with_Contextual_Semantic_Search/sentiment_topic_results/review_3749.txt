@@ -1,0 +1,1 @@
+{"text": "excellent product,received in excellent conditions higly recommended if u want to give it to your girl,mine went crazy with this glasses .Higly recommended also watch out with the size they are big", "sentiment": "negative", "topics": {"0": "0.25634906", "1": "0.12386422", "2": "0.35938376", "3": "0.18834502", "4": "0.057747953"}}

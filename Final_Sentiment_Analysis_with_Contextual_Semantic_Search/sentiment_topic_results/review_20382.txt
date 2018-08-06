@@ -1,0 +1,1 @@
+{"text": "Foot petals work best for cushioning the ball of the foot area.  I have tried several others and always come back to Foot Petals.", "sentiment": "negative", "topics": {"1": "0.3772695", "4": "0.3092617", "5": "0.27978107"}}

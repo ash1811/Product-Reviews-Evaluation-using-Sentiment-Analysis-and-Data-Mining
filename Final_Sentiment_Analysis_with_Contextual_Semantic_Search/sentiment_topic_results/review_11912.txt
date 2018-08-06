@@ -1,0 +1,1 @@
+{"text": "I hate tie bars/pins/tacks, you name it.  This takes care of then all, doesn't interrupt the line of the tie and holds well.", "sentiment": "positive", "topics": {"0": "0.010236116", "1": "0.25492293", "2": "0.18273845", "3": "0.27321067", "4": "0.010207824", "5": "0.25845256", "6": "0.010231457"}}

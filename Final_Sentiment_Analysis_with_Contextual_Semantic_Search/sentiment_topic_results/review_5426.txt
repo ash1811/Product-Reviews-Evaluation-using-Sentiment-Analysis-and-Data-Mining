@@ -1,0 +1,1 @@
+{"text": "I use the two shirts I bought here for working out and for the price, and what they are used for they are quiet durable. Made OK'sih so if you are not sure just order one. Hope this helps.", "sentiment": "negative", "topics": {"0": "0.07700771", "1": "0.4311604", "2": "0.11405628", "4": "0.14186467", "5": "0.15155387", "6": "0.07593717"}}

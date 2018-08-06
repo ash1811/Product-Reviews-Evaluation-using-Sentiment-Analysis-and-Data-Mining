@@ -1,0 +1,1 @@
+{"text": "Nothing better than wool to keep the hands warm.  The leather pads give you lots of traction.  They dry out quickly and seem to last.", "sentiment": "negative", "topics": {"2": "0.33743843", "3": "0.32404548", "5": "0.19128266", "6": "0.1202794"}}

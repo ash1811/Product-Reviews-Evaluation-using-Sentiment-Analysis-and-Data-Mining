@@ -1,0 +1,1 @@
+{"text": "I bought these shorts for working out and to replace the '80s short shorts I had been wearing.  These are comfortable, affordable and dare I say, a fashion upgrade.", "sentiment": "negative", "topics": {"0": "0.3798195", "1": "0.3031517", "3": "0.14844419", "6": "0.13995428"}}

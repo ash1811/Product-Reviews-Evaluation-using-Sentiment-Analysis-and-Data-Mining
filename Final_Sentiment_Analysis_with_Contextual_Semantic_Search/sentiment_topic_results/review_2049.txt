@@ -1,0 +1,1 @@
+{"text": "I own quite a few boat shoes and this is definitely the worst.They are so bad they're unwearable.These feel like your wearing dry plastici returned these and was so upset with how Sebago has fallen", "sentiment": "negative", "topics": {"1": "0.21059626", "2": "0.18474002", "3": "0.096095055", "4": "0.18862136", "5": "0.30401695"}}

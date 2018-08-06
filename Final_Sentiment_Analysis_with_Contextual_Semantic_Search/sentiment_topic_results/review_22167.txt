@@ -1,0 +1,1 @@
+{"text": "I love the feel of this material. Makes sleeping so much nicer. I bought several of these and am happy I did.", "sentiment": "positive", "topics": {"0": "0.0119678555", "1": "0.011978983", "2": "0.012033989", "3": "0.4957254", "4": "0.011977357", "5": "0.444373", "6": "0.0119434325"}}

@@ -1,0 +1,1 @@
+{"text": "The fit of these is just ok. They are made with a thin material and the seams are fragile. that said I like the elastic in the back and drawstring in front.", "sentiment": "positive", "topics": {"0": "0.12293541", "1": "0.47030848", "2": "0.010215362", "3": "0.24467136", "4": "0.010230808", "5": "0.010231965", "6": "0.13140665"}}

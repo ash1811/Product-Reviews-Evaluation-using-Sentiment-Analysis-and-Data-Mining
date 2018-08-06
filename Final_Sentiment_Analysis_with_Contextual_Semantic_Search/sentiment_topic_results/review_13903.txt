@@ -1,0 +1,1 @@
+{"text": "They are a little large, but I believe will be better after a wash. I didn't know the 501 series has a button fly instead of a zipper, so I don't believe I will purchase another set.", "sentiment": "negative", "topics": {"0": "0.11180097", "1": "0.38324478", "3": "0.17266583", "6": "0.3070189"}}

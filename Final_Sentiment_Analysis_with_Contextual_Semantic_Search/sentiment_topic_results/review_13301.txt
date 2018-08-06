@@ -1,0 +1,1 @@
+{"text": "As with most shoes, these are a very tight fit out of the box, but after a while they fit great.", "sentiment": "negative", "topics": {"0": "0.02042751", "1": "0.7330075", "2": "0.16487645", "3": "0.020410987", "4": "0.020446712", "5": "0.020422673", "6": "0.020408178"}}

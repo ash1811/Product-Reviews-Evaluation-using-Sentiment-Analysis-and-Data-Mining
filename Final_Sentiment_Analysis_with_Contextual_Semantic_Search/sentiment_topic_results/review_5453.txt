@@ -1,0 +1,1 @@
+{"text": "The hoody fit rather small after one wash. I didn't expect it to shrink. I washed it with cold water and left it in the drier under the recommended time. The color they send doesn't really match the stock photo.", "sentiment": "negative", "topics": {"0": "0.116119385", "1": "0.23556729", "2": "0.13640524", "4": "0.12669879", "5": "0.32840657", "6": "0.050282657"}}

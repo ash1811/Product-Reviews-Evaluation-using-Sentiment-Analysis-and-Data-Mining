@@ -1,0 +1,1 @@
+{"text": "The delivery was quick. The fit is PERFECT.My son is age 16, and had wanted one for awhile. We finally saw this one and the price was reasonable.He wears it all the time, so we are very pleased with this purchase.", "sentiment": "negative", "topics": {"0": "0.22086191", "1": "0.2733336", "2": "0.14296606", "3": "0.08434295", "4": "0.20531651", "6": "0.06600691"}}

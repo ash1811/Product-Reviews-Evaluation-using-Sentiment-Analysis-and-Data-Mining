@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable flip flop you could ever buy. They are like walking on a yoga mat. Great for the beach or a quick run to the store.", "sentiment": "positive", "topics": {"0": "0.19299446", "1": "0.586889", "2": "0.10963826", "4": "0.083569214"}}

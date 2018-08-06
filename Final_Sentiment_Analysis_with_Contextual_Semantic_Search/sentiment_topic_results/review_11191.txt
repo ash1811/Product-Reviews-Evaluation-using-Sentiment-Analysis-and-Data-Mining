@@ -1,0 +1,1 @@
+{"text": "Comfortable, well made, form to your feet.... my last pair lasted over 5 years of heavy use!", "sentiment": "negative", "topics": {"0": "0.011007608", "1": "0.2627524", "2": "0.011005245", "3": "0.23013765", "4": "0.38883388", "5": "0.011021342", "6": "0.085241884"}}

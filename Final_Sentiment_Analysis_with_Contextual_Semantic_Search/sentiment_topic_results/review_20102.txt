@@ -1,0 +1,1 @@
+{"text": "I'm a welder and have put these to the test. They have held up better than every other pair of jeans I've ever owned.", "sentiment": "positive", "topics": {"0": "0.011030382", "1": "0.0110532455", "2": "0.0110469945", "3": "0.3368172", "4": "0.166545", "5": "0.4525022", "6": "0.011004971"}}

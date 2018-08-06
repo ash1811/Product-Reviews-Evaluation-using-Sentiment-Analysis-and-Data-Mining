@@ -1,0 +1,1 @@
+{"text": "these look great on my husband and i love the deep blue colour. the ever reliable levi. they are the best.", "sentiment": "positive", "topics": {"0": "0.011954975", "1": "0.5485355", "2": "0.011923284", "3": "0.011920292", "4": "0.29727066", "5": "0.011923103", "6": "0.106472194"}}

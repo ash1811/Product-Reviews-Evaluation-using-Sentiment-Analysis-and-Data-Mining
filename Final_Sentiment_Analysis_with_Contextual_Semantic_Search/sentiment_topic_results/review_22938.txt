@@ -1,0 +1,1 @@
+{"text": "Soft material--wicks H2O--dries quicklyHas front pockets and drawstring @ waistHas no inner liner so need to wear support, comes to knee on 34 inch legs.Good price too!", "sentiment": "negative", "topics": {"0": "0.17484115", "1": "0.1920025", "3": "0.39646226", "6": "0.21621978"}}

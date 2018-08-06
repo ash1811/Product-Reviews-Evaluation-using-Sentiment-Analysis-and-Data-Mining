@@ -1,0 +1,1 @@
+{"text": "Great for working out or running. The draw string is needed to prevent them from falling. Not too short to be awkward at the gym.", "sentiment": "positive", "topics": {"0": "0.22880067", "1": "0.21876137", "2": "0.23564969", "3": "0.011927201", "4": "0.07780528", "5": "0.21511383", "6": "0.011941951"}}

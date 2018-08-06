@@ -1,0 +1,1 @@
+{"text": "it feels very comfortable and keeps my breasts in place and with out bounce I would recommend it to anyone", "sentiment": "positive", "topics": {"0": "0.6356734", "1": "0.2926778", "2": "0.014308385", "3": "0.014360947", "4": "0.014320596", "5": "0.014328879", "6": "0.01432996"}}

@@ -1,0 +1,1 @@
+{"text": "These boots are great easy to put on & rugged. I only have one problem is that the front & back panels are too shiny, but that is probably my fault should have paid more attention to the photo.", "sentiment": "negative", "topics": {"0": "0.15317415", "1": "0.28850484", "2": "0.14784352", "3": "0.12737142", "4": "0.19231582", "6": "0.082364306"}}

@@ -1,0 +1,1 @@
+{"text": "The are just the right color brown and I love the wide strap.  Reef makes the best and most comfortable flip flops.  .", "sentiment": "negative", "topics": {"0": "0.010999416", "1": "0.76910305", "2": "0.17579675", "3": "0.011072392", "4": "0.011031905", "5": "0.011005264", "6": "0.01099119"}}

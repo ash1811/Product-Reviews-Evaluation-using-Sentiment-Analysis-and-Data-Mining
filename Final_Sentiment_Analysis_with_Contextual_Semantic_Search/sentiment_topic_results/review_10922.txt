@@ -1,0 +1,1 @@
+{"text": "I like these for inside the house easy to launder and are comfortable.  You don't feel the embroidered flowers on the inside.", "sentiment": "positive", "topics": {"0": "0.013022066", "1": "0.20138508", "2": "0.013091526", "3": "0.01304853", "4": "0.013025218", "5": "0.01299038", "6": "0.7334372"}}

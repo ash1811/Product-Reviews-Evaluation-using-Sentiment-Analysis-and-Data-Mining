@@ -1,0 +1,1 @@
+{"text": "Brought my husband's scuffed shoes back to life. Color was perfect. Made them very soft. Will definitely buy this again!", "sentiment": "negative", "topics": {"0": "0.010216026", "1": "0.47621593", "2": "0.2616782", "3": "0.054423593", "4": "0.17702673", "5": "0.01022994", "6": "0.01020956"}}

@@ -1,0 +1,1 @@
+{"text": "the resin dots feel off too quick, socks are fine toe-socks, but the become slippery as a regular socks very fast", "sentiment": "negative", "topics": {"0": "0.011018598", "1": "0.010992704", "2": "0.1680515", "3": "0.25414547", "4": "0.27532747", "5": "0.13122004", "6": "0.14924419"}}

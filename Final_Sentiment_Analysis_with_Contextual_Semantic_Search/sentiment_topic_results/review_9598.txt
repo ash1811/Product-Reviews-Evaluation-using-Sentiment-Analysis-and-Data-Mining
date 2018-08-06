@@ -1,0 +1,1 @@
+{"text": "very happy with my choice perfect fit  wearing it every day .Its not to fancy but needed a new one and we are very happywe made this choice .", "sentiment": "negative", "topics": {"1": "0.78557587", "3": "0.16958538"}}

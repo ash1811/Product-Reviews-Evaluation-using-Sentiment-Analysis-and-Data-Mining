@@ -1,0 +1,1 @@
+{"text": "I love that these earrings can go with anything. I wear them to workout, go to the store, or even with certain outfits for an evening out. Very simple and elegant.", "sentiment": "negative", "topics": {"0": "0.3365675", "1": "0.15534449", "2": "0.08898677", "5": "0.25198933", "6": "0.14917482"}}

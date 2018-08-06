@@ -1,0 +1,1 @@
+{"text": "Perfect fit, doesn't shrink much. Fabric a little too heavy for really hot days, but overall still a great t-shirt.", "sentiment": "negative", "topics": {"1": "0.6279234", "5": "0.14477032", "6": "0.18912393"}}

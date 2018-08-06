@@ -1,0 +1,1 @@
+{"text": "I love this jacket and wear it for short daytime rides on my Aprilia scooter. Sturdy denim and adjustable waist strap which keeps the jacket snug for riding.", "sentiment": "negative", "topics": {"0": "0.084287494", "1": "0.4357603", "2": "0.30847317", "5": "0.082549274", "6": "0.07294098"}}

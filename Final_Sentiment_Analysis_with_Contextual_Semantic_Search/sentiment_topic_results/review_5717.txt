@@ -1,0 +1,1 @@
+{"text": "I like these soft and lightweight jogging pants, they are very comfortable and at a great price. I will buy jogging pants from amazon all the time now!", "sentiment": "positive", "topics": {"1": "0.6085532", "3": "0.14715035", "4": "0.09054645", "6": "0.1251077"}}

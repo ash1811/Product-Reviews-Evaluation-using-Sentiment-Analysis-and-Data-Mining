@@ -1,0 +1,1 @@
+{"text": "Comfy, easy to wear, easy to clean, easy for a little one to get on and off by themselves.  Crocs make great shoes for indoor or outdoor wear.  We will continue buying these as their feet grow : )", "sentiment": "negative", "topics": {"0": "0.06875979", "1": "0.1178047", "2": "0.08690671", "3": "0.27923048", "4": "0.1906398", "5": "0.2501288"}}

@@ -1,0 +1,1 @@
+{"text": "Fit is made for a man. Crotch is way too long.  But im folding the waist band over abd wearing them. They r warm and comfy.", "sentiment": "negative", "topics": {"1": "0.317802", "2": "0.20340097", "3": "0.3478503", "5": "0.10560914"}}

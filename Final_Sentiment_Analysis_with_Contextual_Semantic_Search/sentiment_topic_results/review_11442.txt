@@ -1,0 +1,1 @@
+{"text": "i bought both beefy tees and regular i like beefy tees the collar is bigger and i think thicker", "sentiment": "negative", "topics": {"0": "0.011921904", "1": "0.18970741", "2": "0.011917663", "3": "0.35535407", "4": "0.22738092", "5": "0.0119586205", "6": "0.1917594"}}

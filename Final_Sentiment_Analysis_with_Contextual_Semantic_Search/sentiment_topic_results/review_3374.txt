@@ -1,0 +1,1 @@
+{"text": "Comfy!  I like this bra, and can wear it all day and feel like I'm not wearing one.  My boyfriend thinks it's pretty too :)", "sentiment": "negative", "topics": {"0": "0.010266048", "1": "0.20448199", "2": "0.1527952", "3": "0.2512916", "4": "0.010237784", "5": "0.36064896", "6": "0.010278428"}}

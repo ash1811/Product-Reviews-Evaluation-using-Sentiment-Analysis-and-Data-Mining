@@ -1,0 +1,1 @@
+{"text": "I love the look of this watch; it's not too big for a petite woman, but I've only had it, and worn it,  for a couple of weeks, and the face is all scratched up already :(", "sentiment": "negative", "topics": {"1": "0.40927655", "2": "0.13123386", "3": "0.28444353", "5": "0.08424177", "6": "0.07289939"}}

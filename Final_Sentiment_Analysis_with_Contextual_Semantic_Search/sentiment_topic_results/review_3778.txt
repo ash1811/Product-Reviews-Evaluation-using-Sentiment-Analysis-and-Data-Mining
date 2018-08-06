@@ -1,0 +1,1 @@
+{"text": "These glasses are amazing!!! Just got them today and of course it is raining, but I am rockin them anyway!!! 100% authentic, PERFECT!!!!", "sentiment": "negative", "topics": {"0": "0.01196789", "1": "0.011956904", "2": "0.14435153", "3": "0.23651256", "4": "0.23373725", "5": "0.22175382", "6": "0.13972007"}}

@@ -1,0 +1,1 @@
+{"text": "I hate tying shoes... and these slip-ons keep me from having to do that.  They are super-high quality, fit great, have great tread, and look great as well.", "sentiment": "negative", "topics": {"0": "0.09276119", "1": "0.39425567", "2": "0.07986951", "3": "0.28493932", "4": "0.07963463", "5": "0.059605896"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes are so well-made and fun to wear. I love the color. I can wear the shoes with almost any outfit. Keds has always been one of my favorites and will always be. These shoes really are a cute, quality shoe.", "sentiment": "negative", "topics": {"0": "0.111587144", "1": "0.41530797", "2": "0.38254073", "3": "0.07101861"}}

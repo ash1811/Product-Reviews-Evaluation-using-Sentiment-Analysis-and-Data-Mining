@@ -1,0 +1,1 @@
+{"text": "This might be better for men's watches.......I have smaller wrists and my watches do not close around the padded inserts.", "sentiment": "negative", "topics": {"0": "0.011925635", "1": "0.011924627", "2": "0.25304988", "3": "0.22257547", "4": "0.20908858", "5": "0.27948573", "6": "0.011950077"}}

@@ -1,0 +1,1 @@
+{"text": "I sent this to a friend who wears this size because it turned out to be too large for  me.", "sentiment": "positive", "topics": {"0": "0.017878082", "1": "0.3601464", "2": "0.017866783", "3": "0.01797729", "4": "0.017868012", "5": "0.28772736", "6": "0.28053612"}}

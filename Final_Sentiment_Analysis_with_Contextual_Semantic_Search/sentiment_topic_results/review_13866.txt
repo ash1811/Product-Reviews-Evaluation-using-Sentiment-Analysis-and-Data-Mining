@@ -1,0 +1,1 @@
+{"text": "received in good condition and comfortable wearing it at the back its has adjustable strap &#34;not the button type&#34; if you know what i mean...thanks seller from singapore", "sentiment": "negative", "topics": {"1": "0.3721051", "2": "0.16325395", "5": "0.2947084", "6": "0.14308992"}}

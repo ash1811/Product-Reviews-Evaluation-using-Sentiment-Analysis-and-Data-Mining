@@ -1,0 +1,1 @@
+{"text": "I must says i wasn't sure how well Blitz Gem & Jewelry Cleaner Concentrate would work.  I am pleasantly surprised how well it cleans along with my ultrasonic jeweler cleaner.", "sentiment": "negative", "topics": {"0": "0.19804636", "1": "0.20944922", "2": "0.2838637", "3": "0.08292875", "5": "0.066325806", "6": "0.15223734"}}

@@ -1,0 +1,1 @@
+{"text": "Excellent build quality; made in Italy, glass lenses (with the G-15-XLT lenses), plastic is solid and feels quality.  Timeless look.  It's nice to have non-polarized lenses sometimes, less visual artifacts.", "sentiment": "negative", "topics": {"0": "0.2737151", "1": "0.26034293", "2": "0.15528984", "3": "0.09890082", "4": "0.09741142", "6": "0.108384065"}}

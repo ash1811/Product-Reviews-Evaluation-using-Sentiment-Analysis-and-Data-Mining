@@ -1,0 +1,1 @@
+{"text": "I love the hat, although i'll prolly never wear it because the other items I purchased to wear with it didn't quite work out for me :-) I'll keep it, maybe next year i'll find a coat and scarf to wear with it!lol!", "sentiment": "negative", "topics": {"1": "0.14692602", "3": "0.6685177", "5": "0.07816527", "6": "0.08920466"}}

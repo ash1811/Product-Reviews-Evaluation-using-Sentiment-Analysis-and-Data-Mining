@@ -1,0 +1,1 @@
+{"text": "I got this to alleviate  my feet for the gravels on my hiking.It really works. I had no pain at the last hike. at least not due to gravels... LOL", "sentiment": "positive", "topics": {"0": "0.108111866", "1": "0.1001519", "3": "0.24876465", "4": "0.2927565", "5": "0.12287898", "6": "0.11777448"}}

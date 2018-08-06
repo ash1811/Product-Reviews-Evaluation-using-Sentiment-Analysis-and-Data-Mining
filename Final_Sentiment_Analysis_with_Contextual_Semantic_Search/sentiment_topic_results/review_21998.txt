@@ -1,0 +1,1 @@
+{"text": "I had to return this thing. It was the wrong size but even if it wasn't I would have returned it anyway because its the ugliest sweater I have ever seen. Amazon was awesome on the whole returns process as always though.", "sentiment": "negative", "topics": {"1": "0.1885198", "2": "0.26892993", "4": "0.34888873", "6": "0.17215255"}}

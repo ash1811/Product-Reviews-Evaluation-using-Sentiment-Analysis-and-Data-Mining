@@ -1,0 +1,1 @@
+{"text": "I buy this brand shirt almost exclusively. They wear well, and are inexpensive. Great for lounging around the house, yard work, exercise, and more.", "sentiment": "positive", "topics": {"1": "0.27942443", "2": "0.104228094", "3": "0.328202", "5": "0.2628789"}}

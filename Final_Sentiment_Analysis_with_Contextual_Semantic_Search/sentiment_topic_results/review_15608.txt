@@ -1,0 +1,1 @@
+{"text": "Nice superman costume.  Seems reasonably well built for the price.  Fit well and looked nice.  Don't think you can beat it for the price", "sentiment": "negative", "topics": {"0": "0.0941463", "1": "0.58402544", "4": "0.22746713", "6": "0.06752447"}}

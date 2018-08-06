@@ -1,0 +1,1 @@
+{"text": "Not quite as good as the pro walkers I remember from the past.  These seem flimsier with much less attention to design.", "sentiment": "positive", "topics": {"0": "0.010999363", "1": "0.24130441", "2": "0.2528727", "3": "0.30740106", "4": "0.011005934", "5": "0.07867618", "6": "0.09774033"}}

@@ -1,0 +1,1 @@
+{"text": "My son in law requested house shoes for Christmas.These shoes were a big hit.  He wears them a lot.  Theyare sturdy enough to wear outside too.", "sentiment": "negative", "topics": {"0": "0.107158236", "1": "0.46273035", "2": "0.3076441", "3": "0.09859135"}}

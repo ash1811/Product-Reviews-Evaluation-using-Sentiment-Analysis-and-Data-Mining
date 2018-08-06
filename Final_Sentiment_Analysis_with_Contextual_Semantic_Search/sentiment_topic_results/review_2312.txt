@@ -1,0 +1,1 @@
+{"text": "Shoes arrived quickly and fit great!  So far no petroleum smell when it arrived, and 4 weeks into wearing these daily, they still smell factory fresh.", "sentiment": "negative", "topics": {"0": "0.24693649", "1": "0.13644911", "2": "0.14404373", "3": "0.31060484", "4": "0.074437864", "5": "0.07958614"}}

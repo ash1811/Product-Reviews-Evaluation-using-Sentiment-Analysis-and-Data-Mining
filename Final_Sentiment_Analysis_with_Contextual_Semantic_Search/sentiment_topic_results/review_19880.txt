@@ -1,0 +1,1 @@
+{"text": "Purchased for our daughters fifth birthday.  The box is adorable and plays a cute song.  Our daughter likes this so much that it stays in her bed with every night when she goes to bed.  Reasonably priced and seems well made.  A hit with little girls.", "sentiment": "positive", "topics": {"1": "0.39618906", "2": "0.13055536", "3": "0.2185505", "4": "0.23874979"}}

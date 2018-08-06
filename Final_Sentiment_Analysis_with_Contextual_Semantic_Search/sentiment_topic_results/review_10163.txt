@@ -1,0 +1,1 @@
+{"text": "These earrings are so comfortable.  I have sensitive ears so I look for silver or gold.  These are perfect.  They sparkle and shine and pick up the color of whats around them.", "sentiment": "negative", "topics": {"1": "0.37676206", "2": "0.11451915", "3": "0.17629234", "4": "0.085063055", "5": "0.14774998", "6": "0.090659164"}}

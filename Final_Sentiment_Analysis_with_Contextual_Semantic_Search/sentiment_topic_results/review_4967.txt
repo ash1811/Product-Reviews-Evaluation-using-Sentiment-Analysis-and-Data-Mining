@@ -1,0 +1,1 @@
+{"text": "these sandals are great so comfy these are the first soft bed soles i purchased i would buy another pair!", "sentiment": "negative", "topics": {"0": "0.011013496", "1": "0.69980484", "2": "0.011027693", "3": "0.011037", "4": "0.24508269", "5": "0.011015954", "6": "0.011018296"}}

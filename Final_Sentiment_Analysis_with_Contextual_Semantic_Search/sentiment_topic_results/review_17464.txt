@@ -1,0 +1,1 @@
+{"text": "Awesome shirt, lightweight feels great and looks really good with the different color piping down the side. Will be ordering more in in quite a few different colors.", "sentiment": "positive", "topics": {"1": "0.6085356", "6": "0.3493614"}}

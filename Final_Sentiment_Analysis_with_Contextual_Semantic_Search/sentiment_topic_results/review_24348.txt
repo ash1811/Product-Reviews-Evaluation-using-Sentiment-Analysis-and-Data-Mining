@@ -1,0 +1,1 @@
+{"text": "Fits as expected and comfortable. Hat is very warm. Gets the job done. Definitely recommend. You will not regret this purchase.", "sentiment": "positive", "topics": {"0": "0.011005661", "1": "0.55768293", "2": "0.112766705", "3": "0.16301955", "4": "0.13351965", "5": "0.011003723", "6": "0.0110017555"}}

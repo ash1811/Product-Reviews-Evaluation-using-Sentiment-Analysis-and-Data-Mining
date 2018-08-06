@@ -1,0 +1,1 @@
+{"text": "I am truly in love with this hat.  I also bought a blue one.  I love it so much I think I'll buy more colors.", "sentiment": "negative", "topics": {"0": "0.0102163125", "1": "0.3611913", "2": "0.010217617", "3": "0.12427275", "4": "0.47367507", "5": "0.0102226045", "6": "0.010204364"}}

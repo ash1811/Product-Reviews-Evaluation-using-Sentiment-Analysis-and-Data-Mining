@@ -1,0 +1,1 @@
+{"text": "These are soft and add great cushioning.  There are no seams so nothing rubs.  We have been using them for years and consistently return to this brand for the best running socks ever!", "sentiment": "negative", "topics": {"0": "0.14494161", "3": "0.27576247", "5": "0.46482396", "6": "0.08917734"}}

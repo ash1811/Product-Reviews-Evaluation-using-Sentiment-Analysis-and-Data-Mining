@@ -1,0 +1,1 @@
+{"text": "nyc men wallet..bought it for sale so i dont rily knw wat its like after bein used for long but wen i received it..it was nyc...soft and smooth leather..nyccc", "sentiment": "positive", "topics": {"0": "0.60245234", "2": "0.21700124", "3": "0.034064807", "4": "0.12386613"}}

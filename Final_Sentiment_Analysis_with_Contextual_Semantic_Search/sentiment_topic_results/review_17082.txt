@@ -1,0 +1,1 @@
+{"text": "My kids love crocs. They are comfortable, can take the beating of being worn all summer by a toddler, and they get bonus points for being able to get wet (but be aware that does make them slippery on the inside).", "sentiment": "negative", "topics": {"0": "0.14030126", "1": "0.1654153", "2": "0.15753986", "3": "0.20480494", "5": "0.25107923", "6": "0.0740341"}}

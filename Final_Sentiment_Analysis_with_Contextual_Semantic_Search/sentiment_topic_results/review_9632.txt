@@ -1,0 +1,1 @@
+{"text": "What can I say, this is a timex watch I've had them all my life they are the best watches for the price unless they follow the rest of the fools who make junk I'll keep buying them when I need a new watch.", "sentiment": "negative", "topics": {"0": "0.17132713", "1": "0.09697537", "2": "0.16271043", "3": "0.34413725", "6": "0.21121754"}}

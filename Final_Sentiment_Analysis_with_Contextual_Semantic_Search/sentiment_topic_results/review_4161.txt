@@ -1,0 +1,1 @@
+{"text": "Crotch blew out after a week. Luckily I'm handy with a needle and thread. Other than that they seem like decent material.", "sentiment": "positive", "topics": {"0": "0.09402409", "1": "0.2625754", "2": "0.321054", "3": "0.1632109", "4": "0.011020273", "5": "0.13708577", "6": "0.011029538"}}

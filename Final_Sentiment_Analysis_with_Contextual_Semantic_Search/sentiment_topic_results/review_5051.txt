@@ -1,0 +1,1 @@
+{"text": "Just love them. So easy and comfortable. Because of the inside shape, I can walk a lot but not getting my feet so tired.", "sentiment": "positive", "topics": {"0": "0.0119292205", "1": "0.3232475", "2": "0.18203801", "3": "0.16835298", "4": "0.29053947", "5": "0.011923991", "6": "0.011968789"}}

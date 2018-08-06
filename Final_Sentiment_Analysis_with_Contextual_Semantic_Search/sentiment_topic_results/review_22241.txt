@@ -1,0 +1,1 @@
+{"text": "I love these socks, it wear them when I do YOGA and when I lotion my feet.  I like the height as I need my ankles lotion-ed also and they cover this area.", "sentiment": "negative", "topics": {"0": "0.08532054", "1": "0.15878004", "3": "0.11536221", "4": "0.2901243", "5": "0.19607377", "6": "0.14480788"}}

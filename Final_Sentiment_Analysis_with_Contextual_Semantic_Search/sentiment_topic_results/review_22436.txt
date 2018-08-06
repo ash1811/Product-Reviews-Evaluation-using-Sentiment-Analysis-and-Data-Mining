@@ -1,0 +1,1 @@
+{"text": "These pants fit very well, and they were of the exact color displayed on the website. They don't fade. They don't shrink. They don't wrinkle. I would recommend this to men who do not have to dress formal for work.", "sentiment": "positive", "topics": {"1": "0.69378734", "3": "0.14408192", "4": "0.09382197", "5": "0.04305525"}}

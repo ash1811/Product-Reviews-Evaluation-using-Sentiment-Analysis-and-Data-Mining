@@ -1,0 +1,1 @@
+{"text": "No fan of TIMEX, bought only because I could not get the other; however my son loves it so I can purchase a Timex for mysel.", "sentiment": "negative", "topics": {"0": "0.6776144", "1": "0.011043537", "2": "0.2672101", "3": "0.011016275", "4": "0.011074424", "5": "0.011040258", "6": "0.011000998"}}

@@ -1,0 +1,1 @@
+{"text": "What more can I say, but they are extremely comfortable slip-on shoes..I really like the brown color, the fit is true to size.. Great shoes all around..", "sentiment": "positive", "topics": {"0": "0.08545547", "1": "0.53089684", "2": "0.16645887", "6": "0.19032462"}}

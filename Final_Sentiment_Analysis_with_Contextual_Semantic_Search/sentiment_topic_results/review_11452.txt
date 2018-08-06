@@ -1,0 +1,1 @@
+{"text": "Good product; good price; prompt shipping & delivery. The shirts fit well and were true to size. I especially like the length, and that the shirts did not shrink with washing.", "sentiment": "negative", "topics": {"1": "0.50834435", "5": "0.1636449", "6": "0.29783517"}}

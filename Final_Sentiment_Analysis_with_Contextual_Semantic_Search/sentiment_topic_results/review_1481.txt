@@ -1,0 +1,1 @@
+{"text": "Love the fit of these underwear, you will not regret, perfect fit and fast and easy transaction. Hope this helps and good luck.....", "sentiment": "negative", "topics": {"0": "0.010231155", "1": "0.2918185", "2": "0.18468173", "3": "0.176667", "4": "0.19057658", "5": "0.010217416", "6": "0.13580762"}}

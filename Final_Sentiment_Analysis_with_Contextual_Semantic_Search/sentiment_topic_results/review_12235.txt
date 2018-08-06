@@ -1,0 +1,1 @@
+{"text": "The scarf is lightweight and flexible and long enough to wrap around my head and neck. It keeps my head and neck  warm in 30 degree weather (as cold as it gets here). I have a beige one from the same company.", "sentiment": "negative", "topics": {"0": "0.06699294", "1": "0.0602684", "2": "0.13118705", "3": "0.25180495", "5": "0.3727719", "6": "0.11098856"}}

@@ -1,0 +1,1 @@
+{"text": "I love Wacoal.  The under wire provides the support I need (at 70 years) and the look is in-style.  I buy Wacoal all the time -- and will buy again.", "sentiment": "negative", "topics": {"0": "0.0969613", "1": "0.402055", "4": "0.3263839", "6": "0.1493221"}}

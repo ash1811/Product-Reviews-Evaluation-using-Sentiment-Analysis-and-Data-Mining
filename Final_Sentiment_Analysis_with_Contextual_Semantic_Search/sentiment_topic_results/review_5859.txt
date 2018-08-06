@@ -1,0 +1,1 @@
+{"text": "This necklace is light, delicate and extremely versatile with my wardrobe.  I wear this necklace a lot!", "sentiment": "positive", "topics": {"0": "0.4305199", "1": "0.014334652", "2": "0.01434643", "3": "0.4978072", "4": "0.014310887", "5": "0.014350064", "6": "0.0143308295"}}

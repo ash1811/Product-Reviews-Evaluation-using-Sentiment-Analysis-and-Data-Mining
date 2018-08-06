@@ -1,0 +1,1 @@
+{"text": "ALF THE SIZE OF EXCELLENT QUALITY DREAM, I WAS VERY HAPPY, IT WAS PERFECT WITH FANTASY ALICE PRICE consistent with the PRODUCT.", "sentiment": "negative", "topics": {"0": "0.011007004", "1": "0.15685835", "2": "0.17403023", "3": "0.14729996", "4": "0.2892057", "5": "0.098860376", "6": "0.122738376"}}

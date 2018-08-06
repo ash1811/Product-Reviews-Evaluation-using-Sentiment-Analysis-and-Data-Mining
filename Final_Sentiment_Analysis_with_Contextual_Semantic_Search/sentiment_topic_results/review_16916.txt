@@ -1,0 +1,1 @@
+{"text": "Again, for my grandson and he is so pleased he is going to order another pair as he plans on making these his daily wear.  These are nicely put together and very serviceable and will wear well.  We both are pleased.", "sentiment": "positive", "topics": {"0": "0.24200909", "1": "0.19426563", "4": "0.14902794", "5": "0.2527874", "6": "0.14684884"}}

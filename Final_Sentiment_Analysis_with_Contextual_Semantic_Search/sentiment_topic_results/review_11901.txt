@@ -1,0 +1,1 @@
+{"text": "If you're a Potter Geek, you'll know the Elder Wand was never sold at Ollivander's.  That said this is an excellent replica, and good quality.", "sentiment": "negative", "topics": {"0": "0.010215967", "1": "0.14997253", "2": "0.29388443", "3": "0.010263478", "4": "0.13157819", "5": "0.18082023", "6": "0.22326519"}}

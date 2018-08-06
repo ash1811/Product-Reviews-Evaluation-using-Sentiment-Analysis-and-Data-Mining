@@ -1,0 +1,1 @@
+{"text": "These pants are rugged! The fit is great every place except right in the waist where its a tiny bit more snug than my Wrangler jeans. the material and pockets and design is excellent and strong. Well built overall.", "sentiment": "negative", "topics": {"1": "0.52331483", "2": "0.19912083", "4": "0.119601905", "6": "0.1392221"}}

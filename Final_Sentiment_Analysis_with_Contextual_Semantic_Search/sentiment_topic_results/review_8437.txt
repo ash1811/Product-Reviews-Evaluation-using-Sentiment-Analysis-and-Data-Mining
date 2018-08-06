@@ -1,0 +1,1 @@
+{"text": "For a &#34;one size&#34; this fits reeeaally tight around the thigh. But then again maybe I'm just fat, oh well!", "sentiment": "negative", "topics": {"0": "0.10252137", "1": "0.4409318", "2": "0.011006096", "3": "0.20109393", "4": "0.010998713", "5": "0.011023702", "6": "0.22242437"}}

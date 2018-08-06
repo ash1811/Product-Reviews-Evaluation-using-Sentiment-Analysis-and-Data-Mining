@@ -1,0 +1,1 @@
+{"text": "Holds all my rings and is good quality and makes it so easy to travel with my expensive gemstone and diamond rings. Helps me keep track of where they are/", "sentiment": "negative", "topics": {"0": "0.07931818", "1": "0.41985318", "2": "0.14444813", "3": "0.21968403", "6": "0.11881667"}}

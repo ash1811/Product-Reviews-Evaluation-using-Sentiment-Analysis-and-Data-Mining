@@ -1,0 +1,1 @@
+{"text": "Nice shape, a little too small, especially after a few washes. Fabric is okay, not super fine, but not trashy either. No show-thru.", "sentiment": "positive", "topics": {"0": "0.010212942", "1": "0.68382853", "2": "0.090157695", "3": "0.010246823", "4": "0.010227291", "5": "0.18509705", "6": "0.010229675"}}

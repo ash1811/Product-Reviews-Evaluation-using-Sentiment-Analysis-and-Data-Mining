@@ -1,0 +1,1 @@
+{"text": "purchased these gloves for my kids and wife for xmas and they all loved them, despite the raised eyebrows when they first opened them up, quality items, fun gift.", "sentiment": "negative", "topics": {"0": "0.2821879", "1": "0.1877311", "2": "0.10443538", "4": "0.1848775", "5": "0.1479249", "6": "0.08488254"}}

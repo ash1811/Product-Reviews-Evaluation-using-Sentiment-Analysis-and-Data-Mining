@@ -1,0 +1,1 @@
+{"text": "love them can wear with out socks, great for wearing with jeans love them as much as I love my emu's", "sentiment": "negative", "topics": {"0": "0.1965059", "1": "0.16866475", "2": "0.01299558", "3": "0.0130240675", "4": "0.22632018", "5": "0.36950064", "6": "0.012988892"}}

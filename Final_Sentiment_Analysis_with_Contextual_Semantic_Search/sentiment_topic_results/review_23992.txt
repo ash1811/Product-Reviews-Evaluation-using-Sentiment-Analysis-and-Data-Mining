@@ -1,0 +1,1 @@
+{"text": "I wear these for work and I like that they are cotton.  They don't last really long as they start to tear as you put your feet in eventually.  Buy a new bag once a year on your birthday and you're good to go.", "sentiment": "negative", "topics": {"1": "0.16329531", "3": "0.3579033", "5": "0.34618986", "6": "0.111091815"}}

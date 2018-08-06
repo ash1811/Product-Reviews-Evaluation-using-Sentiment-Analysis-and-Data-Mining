@@ -1,0 +1,1 @@
+{"text": "Especially like using with the Hagerty brand horsehair silver cleaning brush sold on AMAZON.COM (ASIN: B000J30O22).for cleaning fine jewelry, chains, and detailed silverware.", "sentiment": "negative", "topics": {"0": "0.4016251", "1": "0.06591366", "2": "0.04161711", "3": "0.11799784", "4": "0.06081006", "6": "0.30488193"}}

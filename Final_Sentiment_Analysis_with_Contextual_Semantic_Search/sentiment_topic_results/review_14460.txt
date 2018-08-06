@@ -1,0 +1,1 @@
+{"text": "outstanding g shoes mouthpiece and quality . I recommend these shoes.outlastallothers  perhaps not the most attractive of the lot but a verymasculine shoe", "sentiment": "positive", "topics": {"0": "0.2769272", "1": "0.19819212", "2": "0.2519345", "3": "0.010992659", "4": "0.090056315", "5": "0.0824706", "6": "0.08942659"}}

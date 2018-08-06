@@ -1,0 +1,1 @@
+{"text": "These jeans fit very well, and the darker color makes them appropriate for my husband's dress-down days at the office.", "sentiment": "negative", "topics": {"0": "0.17288475", "1": "0.24186216", "2": "0.011915769", "3": "0.32534432", "4": "0.22409433", "5": "0.01197819", "6": "0.0119205145"}}

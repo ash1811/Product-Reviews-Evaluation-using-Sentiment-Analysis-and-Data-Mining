@@ -1,0 +1,1 @@
+{"text": "50/50 Blend.  Medium to light weight.  Hold it up, light shows through the navy shirt.  Has a long neck band tag.  Just barely OK.", "sentiment": "negative", "topics": {"0": "0.21797357", "1": "0.31982532", "2": "0.1587322", "3": "0.11600263", "6": "0.17155677"}}

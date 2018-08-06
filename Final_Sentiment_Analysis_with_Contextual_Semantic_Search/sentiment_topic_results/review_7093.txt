@@ -1,0 +1,1 @@
+{"text": "It could just be my body, but the band has 4 hooks and I have a short torso so it just seems to take up nearly my whole body. If you don't like a very wide band in the back, don't get this bra.", "sentiment": "positive", "topics": {"0": "0.17199603", "3": "0.16148998", "4": "0.07704673", "5": "0.26640883", "6": "0.307956"}}

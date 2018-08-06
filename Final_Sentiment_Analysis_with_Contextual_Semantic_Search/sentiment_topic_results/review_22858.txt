@@ -1,0 +1,1 @@
+{"text": "Great work pants...seem a bit undersized in the waist...wrangler jeans are comfortably loose in a 36 waist and these are just a tad snug.", "sentiment": "negative", "topics": {"0": "0.010271603", "1": "0.010272739", "2": "0.010278414", "3": "0.010259768", "4": "0.010216789", "5": "0.5629475", "6": "0.38575315"}}

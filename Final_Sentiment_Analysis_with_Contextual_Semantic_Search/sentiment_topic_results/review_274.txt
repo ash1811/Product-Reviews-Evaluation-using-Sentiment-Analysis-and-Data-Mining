@@ -1,0 +1,1 @@
+{"text": "Pretty, lightweight, easy to wash, holds a ton, has a nice little pocket for essentials.  It held up all last summer and looks great.  I'll certainly use it daily next summer as well.", "sentiment": "negative", "topics": {"0": "0.28947186", "1": "0.36002994", "2": "0.112900384", "3": "0.21886183"}}

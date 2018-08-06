@@ -1,0 +1,1 @@
+{"text": "This was okay. The leather-like was not quite leather like. It is definitely a pleather experience Would never buy again.", "sentiment": "negative", "topics": {"0": "0.21895505", "1": "0.2569211", "2": "0.1286233", "3": "0.22443615", "4": "0.14899808", "5": "0.011027528", "6": "0.011038769"}}

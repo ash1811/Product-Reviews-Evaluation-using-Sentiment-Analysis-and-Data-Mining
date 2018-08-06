@@ -1,0 +1,1 @@
+{"text": "Plenty of support for a 36DD when running on the treadmill and comfortable enough to wear all day, highly recommend.", "sentiment": "negative", "topics": {"0": "0.011922744", "1": "0.40176502", "2": "0.114716984", "3": "0.011974308", "4": "0.011941084", "5": "0.3441067", "6": "0.103573136"}}

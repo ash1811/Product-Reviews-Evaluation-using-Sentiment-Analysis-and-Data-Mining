@@ -1,0 +1,1 @@
+{"text": "Excellent product, I am very happy with the purchase, arrived quickly and was what I expected!The watch is very beautiful and elegant, was a great gift!", "sentiment": "negative", "topics": {"0": "0.3764898", "1": "0.0110283485", "2": "0.3293286", "3": "0.010991376", "4": "0.011025844", "5": "0.17131525", "6": "0.089820795"}}

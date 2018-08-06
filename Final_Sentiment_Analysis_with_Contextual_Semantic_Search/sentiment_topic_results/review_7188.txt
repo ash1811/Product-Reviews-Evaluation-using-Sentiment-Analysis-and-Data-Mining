@@ -1,0 +1,1 @@
+{"text": "The boots arrived on time and were perfectly packaged.  The sizing chart is spot on!!  They are a perfect fit and look great.  Very comfortable.  Will be ordering Durango boots again!!", "sentiment": "positive", "topics": {"0": "0.102523595", "1": "0.46133703", "2": "0.052467242", "4": "0.19400656", "5": "0.115485795", "6": "0.0666462"}}

@@ -1,0 +1,1 @@
+{"text": "I love this hat.  I have a small head so the fit was perfect.  It's also very comfortable, you forget you even have it one.  Love it!!", "sentiment": "positive", "topics": {"0": "0.010293426", "1": "0.47390985", "2": "0.010268464", "3": "0.010252329", "4": "0.4748182", "5": "0.010239593", "6": "0.010218107"}}

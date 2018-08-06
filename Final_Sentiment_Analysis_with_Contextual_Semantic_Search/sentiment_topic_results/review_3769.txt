@@ -1,0 +1,1 @@
+{"text": "Nice shoes but run very large. I wear 11 W in Brooks and New Balance so I ordered 11 W in these. The length was right but the width was considerably wider than the Brooks or New Balance of the same size.", "sentiment": "positive", "topics": {"0": "0.1484194", "1": "0.08277227", "2": "0.054537624", "3": "0.6079417", "4": "0.094387285"}}

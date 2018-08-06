@@ -1,0 +1,1 @@
+{"text": "I have never had a box to put my rings into until now.. I am surprised that my wide rings fit so well.....I wear large sizes up to size l4. The case takes up little space and is lockable. Looks good too; very understated. I would suggest purchasing the case.", "sentiment": "negative", "topics": {"1": "0.368516", "3": "0.32379046", "5": "0.07623782", "6": "0.21660691"}}

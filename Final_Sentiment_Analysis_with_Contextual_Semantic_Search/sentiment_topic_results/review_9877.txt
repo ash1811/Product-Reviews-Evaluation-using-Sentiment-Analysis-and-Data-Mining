@@ -1,0 +1,1 @@
+{"text": "These are nice and casual but I warn they ran .5 big for me! next time I'm getting 10.5.  So be carful!", "sentiment": "negative", "topics": {"0": "0.16413274", "1": "0.4047037", "2": "0.19997452", "3": "0.010227814", "4": "0.01022683", "5": "0.010231076", "6": "0.20050327"}}

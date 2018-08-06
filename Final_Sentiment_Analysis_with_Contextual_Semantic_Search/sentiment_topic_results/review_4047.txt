@@ -1,0 +1,1 @@
+{"text": "My husband loves these hard to find tennis!  Thanks amazon for having them so I can easily shop!  They are the most comfortable shoes.", "sentiment": "positive", "topics": {"0": "0.15121205", "1": "0.23774529", "2": "0.17927963", "3": "0.011942346", "4": "0.3959585", "5": "0.011933874", "6": "0.011928345"}}

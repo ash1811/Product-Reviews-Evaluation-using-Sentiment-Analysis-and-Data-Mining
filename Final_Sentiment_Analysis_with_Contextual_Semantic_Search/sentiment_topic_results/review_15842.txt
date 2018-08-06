@@ -1,0 +1,1 @@
+{"text": "This bra is very comfortable and sexy.It is well shaped and the straps can be adjusted to suit anyone", "sentiment": "negative", "topics": {"0": "0.014369242", "1": "0.15854783", "2": "0.41348618", "3": "0.25022754", "4": "0.014302475", "5": "0.13477233", "6": "0.014294377"}}

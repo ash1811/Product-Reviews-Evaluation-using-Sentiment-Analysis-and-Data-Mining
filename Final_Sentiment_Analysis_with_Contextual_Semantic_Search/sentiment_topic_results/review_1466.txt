@@ -1,0 +1,1 @@
+{"text": "Is not nearly as big as they try make you think it is on the video, the lady says she is going to college and she can fit 10 textbooks in here while I bought it and 3 textbooks were hard to fit in the bag", "sentiment": "negative", "topics": {"0": "0.075585894", "1": "0.47571707", "2": "0.19370137", "3": "0.0787173", "4": "0.10948185", "6": "0.059640348"}}

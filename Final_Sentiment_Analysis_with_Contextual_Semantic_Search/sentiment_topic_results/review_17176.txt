@@ -1,0 +1,1 @@
+{"text": "Havent had a pair of tims as comfortable in several years. I am very pleased with this purchase. would reccomend to anyone that asks", "sentiment": "positive", "topics": {"0": "0.33474496", "1": "0.3613909", "2": "0.09024957", "3": "0.011052517", "4": "0.011022286", "5": "0.18053976", "6": "0.011000054"}}

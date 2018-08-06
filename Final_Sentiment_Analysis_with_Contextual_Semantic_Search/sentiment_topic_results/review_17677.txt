@@ -1,0 +1,1 @@
+{"text": "Casio siempre se ha caracterizado por tener productos de calidad. Este reloj ideal para el d&iacute;a a d&iacute;a es una excelente opci&oacute;n como regalo en estas navidades.", "sentiment": "positive", "topics": {"1": "0.1734082", "2": "0.11280907", "3": "0.082081676", "4": "0.2546351", "5": "0.09435732", "6": "0.27741602"}}

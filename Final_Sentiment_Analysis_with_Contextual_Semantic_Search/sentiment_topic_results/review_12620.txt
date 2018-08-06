@@ -1,0 +1,1 @@
+{"text": "As I am no longer able to wear shoes with heels I have found that this shoe is perfect for me.  This is my second pair, different color,and I am well satisfied with amazon's seller.", "sentiment": "positive", "topics": {"1": "0.37964723", "2": "0.14618331", "3": "0.16637951", "4": "0.11639297", "6": "0.17548607"}}

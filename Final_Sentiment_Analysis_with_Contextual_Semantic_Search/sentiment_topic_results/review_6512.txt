@@ -1,0 +1,1 @@
+{"text": "Well cushioned and fit well. Very comfortable with my Asics for long walks. Probably will buy more in the future.", "sentiment": "negative", "topics": {"0": "0.011911793", "1": "0.67950785", "2": "0.10455468", "3": "0.0801698", "4": "0.09998704", "5": "0.011917145", "6": "0.01195165"}}

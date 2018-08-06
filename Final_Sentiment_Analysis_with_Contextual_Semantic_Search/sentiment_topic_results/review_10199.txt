@@ -1,0 +1,1 @@
+{"text": "This is a perfect necklace for a drop.  I have a 3 carat CZ and it hangs perfectly!  Delicate but strong this necklace will last a long time.  The lobster claw clasp is a bit tight but I'm sure it will loosen up with time.", "sentiment": "negative", "topics": {"0": "0.31061694", "1": "0.2830837", "2": "0.15724261", "4": "0.11630172", "5": "0.12081999"}}

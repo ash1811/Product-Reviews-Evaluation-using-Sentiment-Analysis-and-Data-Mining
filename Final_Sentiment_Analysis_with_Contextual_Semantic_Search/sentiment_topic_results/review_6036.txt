@@ -1,0 +1,1 @@
+{"text": "Made to Carharttstandards, very comfortable.Product is made well and expect it to last.  Highly recommend product to others.  Great", "sentiment": "positive", "topics": {"0": "0.011019949", "1": "0.35034937", "2": "0.0110195875", "3": "0.011030347", "4": "0.011011616", "5": "0.4419121", "6": "0.16365705"}}

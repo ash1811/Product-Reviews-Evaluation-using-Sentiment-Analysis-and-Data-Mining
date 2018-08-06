@@ -1,0 +1,1 @@
+{"text": "Sorry, but I didn't care for it.  I'm not fat and am normal height (5'6&#34;).  Material wasn't bad, but wasn't great.  After a wash looked worse.  Did not hang like in pic.  Was smaller and ugly shape.  Looks better in pic.", "sentiment": "negative", "topics": {"0": "0.19533162", "1": "0.15701587", "2": "0.11419329", "3": "0.46027955", "4": "0.0612372"}}

@@ -1,0 +1,1 @@
+{"text": "I love injinji socks! They fit just right and are perfect for running in vibrams. I got the black ones instead of the white ones because they cover up stains better.", "sentiment": "negative", "topics": {"0": "0.09618216", "1": "0.3006423", "2": "0.20590279", "4": "0.13655567", "5": "0.24473765"}}

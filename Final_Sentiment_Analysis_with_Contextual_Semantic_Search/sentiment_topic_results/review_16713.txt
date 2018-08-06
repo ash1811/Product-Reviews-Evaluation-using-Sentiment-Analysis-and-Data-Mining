@@ -1,0 +1,1 @@
+{"text": "I am love'n these paratrooper pants. I have been wearing then a lot now and they are way comfortable. Great wash and wear.", "sentiment": "negative", "topics": {"0": "0.013002271", "1": "0.6977288", "2": "0.23703665", "3": "0.01306221", "4": "0.013084585", "5": "0.013054402", "6": "0.013031074"}}

@@ -1,0 +1,1 @@
+{"text": "The slipper is very comfortable when you first get it but the padding goes flat within a few wearings. I'm not a heavy person, so that's not the problem.", "sentiment": "negative", "topics": {"1": "0.31765157", "4": "0.15551941", "5": "0.21543783", "6": "0.282693"}}

@@ -1,0 +1,1 @@
+{"text": "G Beene is a great brand and this wallet did not disappoint. Remember it is smaller than some others, because it fits so well in his pocket.", "sentiment": "positive", "topics": {"0": "0.011004305", "1": "0.42072722", "2": "0.11556803", "3": "0.24250153", "4": "0.09531033", "5": "0.011001137", "6": "0.103887424"}}

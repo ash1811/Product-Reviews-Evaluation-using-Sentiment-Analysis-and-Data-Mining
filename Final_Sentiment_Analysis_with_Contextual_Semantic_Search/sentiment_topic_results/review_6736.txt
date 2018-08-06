@@ -1,0 +1,1 @@
+{"text": "My husband prefers these shirts to any others in his closet.  They are very durable and long lasting, regardless of how many times they are washed.", "sentiment": "negative", "topics": {"0": "0.01102052", "1": "0.46270344", "2": "0.12721564", "3": "0.011017333", "4": "0.27358133", "5": "0.011022021", "6": "0.103439726"}}

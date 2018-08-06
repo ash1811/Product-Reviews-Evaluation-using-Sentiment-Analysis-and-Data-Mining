@@ -1,0 +1,1 @@
+{"text": "needed a set of scrubs for my clinical studies but didnt want to pay an arm and a leg. love the way these fit .", "sentiment": "positive", "topics": {"0": "0.010247965", "1": "0.20049177", "2": "0.27812842", "3": "0.14654008", "4": "0.0102725", "5": "0.1323321", "6": "0.22198717"}}

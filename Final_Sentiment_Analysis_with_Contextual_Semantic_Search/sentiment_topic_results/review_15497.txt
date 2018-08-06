@@ -1,0 +1,1 @@
+{"text": "This white scrub jacket fit nicely and amazon exchanged it for me with no hassle as always. I did like the Cherokee jacket better though. It got 5 stars instead of 4.", "sentiment": "negative", "topics": {"0": "0.08899563", "1": "0.19301787", "2": "0.3000247", "3": "0.12083062", "4": "0.12469878", "5": "0.16524893"}}

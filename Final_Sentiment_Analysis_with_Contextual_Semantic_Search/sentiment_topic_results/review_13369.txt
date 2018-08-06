@@ -1,0 +1,1 @@
+{"text": "I ordered this for my boyfriend's birthday. He's been wanting this watch for 2 or 3 years. I ordered it on Saturday night, and it showed up Monday afternoon. Very happy!", "sentiment": "negative", "topics": {"0": "0.07753898", "1": "0.3157715", "2": "0.109952144", "4": "0.16305587", "5": "0.08267483", "6": "0.24258131"}}

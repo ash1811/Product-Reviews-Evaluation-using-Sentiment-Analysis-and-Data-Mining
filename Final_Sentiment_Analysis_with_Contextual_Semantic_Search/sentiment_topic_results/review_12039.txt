@@ -1,0 +1,1 @@
+{"text": "These are very comfortable shoes.  They have a very tidy put together look somewhere between casual and dressy.  Very nice shoe.", "sentiment": "positive", "topics": {"0": "0.17830534", "1": "0.3052053", "2": "0.262365", "3": "0.011914756", "4": "0.011931218", "5": "0.01193807", "6": "0.21834035"}}

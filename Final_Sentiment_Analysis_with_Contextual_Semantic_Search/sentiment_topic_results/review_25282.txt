@@ -1,0 +1,1 @@
+{"text": "I like this shoe but the tension on the laces is important for comfort. Also the shoe needed breaking in as in started out rather stiff. Make sure you get the right size for a good feel.", "sentiment": "negative", "topics": {"2": "0.30166402", "3": "0.113914356", "4": "0.22358124", "5": "0.09728039", "6": "0.24990276"}}

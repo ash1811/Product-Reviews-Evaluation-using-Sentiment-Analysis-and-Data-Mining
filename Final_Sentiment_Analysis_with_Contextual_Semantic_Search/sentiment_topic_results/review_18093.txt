@@ -1,0 +1,1 @@
+{"text": "I really like this watch for work and otherwise. It is very water resistant, and I have used a similar one for over a year without any problems.", "sentiment": "negative", "topics": {"0": "0.010242442", "1": "0.36266118", "2": "0.58616406", "3": "0.010247986", "4": "0.010211885", "5": "0.010222532", "6": "0.010249927"}}

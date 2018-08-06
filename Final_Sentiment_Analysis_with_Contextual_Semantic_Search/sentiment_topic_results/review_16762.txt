@@ -1,0 +1,1 @@
+{"text": "I own several watches, and this is my favorite dress watch.  Had a Breitling before, but it's high profile didn't work well with my dress shirts.  The slim design of the Bulova makes this clearly a classic dress watch.", "sentiment": "positive", "topics": {"1": "0.1094928", "2": "0.5095916", "3": "0.0791449", "4": "0.20064472", "6": "0.08810462"}}

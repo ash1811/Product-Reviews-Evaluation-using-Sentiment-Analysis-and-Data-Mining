@@ -1,0 +1,1 @@
+{"text": "These earrings look wonderful and are quite big and noticable. The zirconia sparkes wonderfully in sunlight. I think they are a great value at this price. I got one pair for me and another for a gift. My friend liked them a lot.", "sentiment": "negative", "topics": {"0": "0.063434705", "1": "0.5639307", "2": "0.12873292", "5": "0.15552267", "6": "0.07592761"}}

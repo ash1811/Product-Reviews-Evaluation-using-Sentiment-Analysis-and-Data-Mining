@@ -1,0 +1,1 @@
+{"text": "The fit was okay, but the glittery mesh on the shoe was somewhat gawdy for me.  It didn't look that way in the photo.  So I had to send them back, but if you want a showy shoe, this may be the one for you.", "sentiment": "negative", "topics": {"0": "0.20164773", "1": "0.20675", "2": "0.25007218", "3": "0.17675906", "5": "0.0734998", "6": "0.084108345"}}

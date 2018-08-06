@@ -1,0 +1,1 @@
+{"text": "Overall a good quality jacket especially for the price but Carhartt sizes seem to run a bit small so I would suggest that you size up.", "sentiment": "negative", "topics": {"0": "0.023494085", "1": "0.37181154", "2": "0.07931942", "3": "0.30261192", "6": "0.20592159"}}

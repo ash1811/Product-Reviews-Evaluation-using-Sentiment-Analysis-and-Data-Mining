@@ -1,0 +1,1 @@
+{"text": "It's been a great product and the quality of the material excellent, the price more cheap than local sellers. Keep good work, I hope take my bussinnes next time.", "sentiment": "negative", "topics": {"1": "0.5244255", "2": "0.23470442", "4": "0.1069568", "5": "0.109993964"}}

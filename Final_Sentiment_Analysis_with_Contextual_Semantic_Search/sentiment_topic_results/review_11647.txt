@@ -1,0 +1,1 @@
+{"text": "Just a short note - I am very please with this purchase.  Others said the back clip needs to be replace because they are loose.  I had no problems with mine.", "sentiment": "positive", "topics": {"0": "0.18543942", "1": "0.22886285", "2": "0.16533351", "3": "0.29504982", "4": "0.010225615", "5": "0.010227963", "6": "0.10486082"}}

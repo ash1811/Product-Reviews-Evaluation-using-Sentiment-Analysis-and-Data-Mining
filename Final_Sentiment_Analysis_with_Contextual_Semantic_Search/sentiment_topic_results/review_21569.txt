@@ -1,0 +1,1 @@
+{"text": "These shoes are comfy and fit true to size. Good fit for my wide foot. I have a hard time finding shoes too fit that I can wear all day.", "sentiment": "negative", "topics": {"0": "0.17310293", "1": "0.41640928", "2": "0.20876004", "3": "0.17636721"}}

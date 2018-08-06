@@ -1,0 +1,1 @@
+{"text": "Jansport is really the best. I used one in the 70's 80's for school. 90's to treacle the world, and now my kids are using them. Classic brand great bag.", "sentiment": "positive", "topics": {"0": "0.27745837", "2": "0.17330961", "3": "0.21758886", "4": "0.21817937", "5": "0.09839009"}}

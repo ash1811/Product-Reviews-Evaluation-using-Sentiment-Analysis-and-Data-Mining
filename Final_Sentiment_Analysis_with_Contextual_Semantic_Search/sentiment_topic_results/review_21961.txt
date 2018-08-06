@@ -1,0 +1,1 @@
+{"text": "Purchased this for a man who works outdoors..wears it constantly outdoors and casually..he likes the pattern..ordered it in two colors..", "sentiment": "positive", "topics": {"0": "0.011941208", "1": "0.300246", "2": "0.103112645", "3": "0.011959808", "4": "0.011964586", "5": "0.30231786", "6": "0.25845793"}}

@@ -1,0 +1,1 @@
+{"text": "Great fit- true to size chart- can be worn every day. Good quality, better than first pair of black skechers purchased four years ago.Great support tread, nice arch.", "sentiment": "negative", "topics": {"1": "0.333294", "3": "0.4352723", "5": "0.14635505", "6": "0.0671918"}}

@@ -1,0 +1,1 @@
+{"text": "I really wish they made odd sizes. I'm not a 34 anymore but the 36s were just too big. I'd be so happy with a 35. The quality still looks top notch, as I've been wearing Dickies for more than 20 years.", "sentiment": "positive", "topics": {"1": "0.44999406", "2": "0.21155895", "3": "0.21903688", "5": "0.054474544", "6": "0.053008314"}}

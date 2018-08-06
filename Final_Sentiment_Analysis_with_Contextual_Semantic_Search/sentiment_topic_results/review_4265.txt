@@ -1,0 +1,1 @@
+{"text": "I am a converse fan and know to buy a half size down if you don't like socks with them. very comfy shoes. I wear these on my non running days when I am running errands with my kids etc. very comfortable and stylish", "sentiment": "negative", "topics": {"0": "0.058480516", "1": "0.16707528", "2": "0.14130908", "3": "0.18242687", "5": "0.26611656", "6": "0.1780947"}}

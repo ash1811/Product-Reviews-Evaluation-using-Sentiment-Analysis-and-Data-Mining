@@ -1,0 +1,1 @@
+{"text": "My husband loves these.  Much more comfort and support than standard dress socks.  A little pricey, but if they last a while they will be worth it.", "sentiment": "negative", "topics": {"0": "0.13643895", "3": "0.12175034", "4": "0.3635369", "5": "0.11259475", "6": "0.24655867"}}

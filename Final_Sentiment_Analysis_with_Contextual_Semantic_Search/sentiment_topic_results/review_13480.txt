@@ -1,0 +1,1 @@
+{"text": "great for a narrow foot.  Like em so far.  Just wish the bottom wasn't white.  Could be worn in more ways if it were a solid color.", "sentiment": "positive", "topics": {"1": "0.22284472", "4": "0.3212663", "5": "0.31189284", "6": "0.11533042"}}

@@ -1,0 +1,1 @@
+{"text": "This garment bag is high-quality and fairly easy to use. I really like it. Fits fine as a carry-on for airplane trips.", "sentiment": "positive", "topics": {"1": "0.44760385", "2": "0.14597431", "4": "0.36815986"}}

@@ -1,0 +1,1 @@
+{"text": "They fit great and are nice and cushy. They will be great for workouts and everyday wear. Needed to replace old ones!", "sentiment": "positive", "topics": {"0": "0.01100892", "1": "0.563527", "2": "0.0110623175", "3": "0.010999839", "4": "0.15181956", "5": "0.12519377", "6": "0.12638865"}}

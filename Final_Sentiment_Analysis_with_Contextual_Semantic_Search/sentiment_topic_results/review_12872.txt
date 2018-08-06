@@ -1,0 +1,1 @@
+{"text": "As all ugg classic boots, they are the most comfy and soo warm. I wear them with no socks wonderfull for cold weather inside home or outside.", "sentiment": "negative", "topics": {"1": "0.39685944", "2": "0.17399403", "4": "0.12337217", "5": "0.27710664"}}

@@ -1,0 +1,1 @@
+{"text": "These fit good when you first put them on and then they stretch and get too big. Very strange indeed, I cant even keep them on my feet", "sentiment": "positive", "topics": {"0": "0.5720911", "1": "0.3766748", "2": "0.010229984", "3": "0.010239387", "4": "0.010293618", "5": "0.010254617", "6": "0.010216496"}}

@@ -1,0 +1,1 @@
+{"text": "This was a present form my wife who complains about her feet getting cold.  These solve the problem. She loves them.", "sentiment": "negative", "topics": {"0": "0.011931427", "1": "0.012056914", "2": "0.17338651", "3": "0.25620148", "4": "0.43092334", "5": "0.10357394", "6": "0.011926384"}}

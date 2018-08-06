@@ -1,0 +1,1 @@
+{"text": "my son is 6'6 and NEVER can find undershirts that are long enough these seem good ,after washing we will really see if they are. If they stay long I will buy a ton of them.", "sentiment": "positive", "topics": {"1": "0.37756208", "2": "0.18178833", "3": "0.11707443", "4": "0.19090042", "5": "0.11837022"}}

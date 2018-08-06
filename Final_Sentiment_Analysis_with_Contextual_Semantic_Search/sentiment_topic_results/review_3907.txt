@@ -1,0 +1,1 @@
+{"text": "It looks like a beautiful belt. However I wore it once and when I put it on the second time it fell apart near the leather loop and buckle. I will exchange it for another as it got very good reviews.", "sentiment": "negative", "topics": {"0": "0.10153705", "1": "0.11247655", "2": "0.26238456", "5": "0.24743041", "6": "0.26253688"}}

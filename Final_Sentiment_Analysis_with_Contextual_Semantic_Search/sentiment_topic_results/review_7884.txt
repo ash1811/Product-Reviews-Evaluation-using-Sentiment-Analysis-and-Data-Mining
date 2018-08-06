@@ -1,0 +1,1 @@
+{"text": "Well made and seemingly durable. Pretty much what the description says it is too, a 2 compartment toiletry bag. Of course, it has a lot of other uses. Good price for a good product.Recommended? Yes.", "sentiment": "negative", "topics": {"0": "0.15816788", "1": "0.31240648", "2": "0.11810396", "3": "0.06280963", "4": "0.08222384", "5": "0.22345014", "6": "0.042838063"}}

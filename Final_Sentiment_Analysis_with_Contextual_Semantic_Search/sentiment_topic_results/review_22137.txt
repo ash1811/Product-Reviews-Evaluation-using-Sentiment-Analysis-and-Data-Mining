@@ -1,0 +1,1 @@
+{"text": "I thought these would fit my hands, but they run very large. they do the job of keeping my hands warm however, and that is the most important.  i wear these to the mountain.", "sentiment": "negative", "topics": {"0": "0.17163539", "1": "0.4949486", "2": "0.09874677", "3": "0.20600057"}}

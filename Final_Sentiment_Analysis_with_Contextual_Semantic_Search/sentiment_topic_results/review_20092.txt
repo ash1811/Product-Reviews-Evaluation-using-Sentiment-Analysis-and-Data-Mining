@@ -1,0 +1,1 @@
+{"text": "What can you say about a backpack?  I like the color, it holds all my stuff, and it has lots of pockets for little stuff.  What's not to like.", "sentiment": "negative", "topics": {"0": "0.011005405", "1": "0.17342074", "2": "0.16246855", "3": "0.31086183", "4": "0.09652146", "5": "0.011011581", "6": "0.23471043"}}

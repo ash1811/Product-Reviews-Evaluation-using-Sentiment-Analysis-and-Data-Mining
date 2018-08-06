@@ -1,0 +1,1 @@
+{"text": "Bought these as running socks and don't use them anymore.  Just takes too long to fit each toe in the the sock.", "sentiment": "negative", "topics": {"0": "0.012997628", "1": "0.52228284", "2": "0.012995254", "3": "0.013011392", "4": "0.01302376", "5": "0.4126875", "6": "0.013001605"}}

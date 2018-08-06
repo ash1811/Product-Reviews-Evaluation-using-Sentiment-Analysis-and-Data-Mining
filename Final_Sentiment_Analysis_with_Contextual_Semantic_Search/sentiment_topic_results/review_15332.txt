@@ -1,0 +1,1 @@
+{"text": "ray-ban has really done well on the new wayfarer design.  fit my face nicely.  not too tight, not too loose...just right.  glad I spent a little more on these to get the polarized version.  outstanding quality.", "sentiment": "negative", "topics": {"1": "0.59308296", "2": "0.1438198", "3": "0.0776707", "4": "0.061926924", "5": "0.05976093", "6": "0.057238482"}}

@@ -1,0 +1,1 @@
+{"text": "Luv the clip on with my arthritis in my hands. So pretty how the light shines thru the earring. Will order again.", "sentiment": "negative", "topics": {"0": "0.16694869", "1": "0.35850987", "2": "0.19857381", "3": "0.011925626", "4": "0.011957463", "5": "0.24016285", "6": "0.011921686"}}

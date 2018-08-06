@@ -1,0 +1,1 @@
+{"text": "These shoes fit perfect and are pretty comfy. I like the detail of the buckle and the slight arch support makes them easy to wear for a long day at work.", "sentiment": "negative", "topics": {"0": "0.09951043", "1": "0.27102473", "2": "0.1089238", "3": "0.39562106", "5": "0.108985946"}}

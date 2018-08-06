@@ -1,0 +1,1 @@
+{"text": "These socks make a great first layer when paired by thick wool socks-good for when it's cold outsde or if you have a head cold", "sentiment": "negative", "topics": {"0": "0.010233943", "1": "0.2641857", "2": "0.11279884", "3": "0.42208105", "4": "0.0102194445", "5": "0.17026013", "6": "0.01022089"}}

@@ -1,0 +1,1 @@
+{"text": "I love these slippers. I use them every day at home, once I wake up in the mornings before work and after coming home from a long day at work!", "sentiment": "negative", "topics": {"1": "0.49636698", "4": "0.14578246", "6": "0.3195944"}}

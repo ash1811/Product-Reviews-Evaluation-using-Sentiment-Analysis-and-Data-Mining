@@ -1,0 +1,1 @@
+{"text": "The cedar is dense and aromatic, the heels of the trees are not skimpy as with some other brands, and the spring mechanism has enough heft to keep the shoebox taught and crease-free.", "sentiment": "positive", "topics": {"0": "0.07916924", "2": "0.18891", "3": "0.16511054", "4": "0.25749922", "5": "0.12281505", "6": "0.17743514"}}

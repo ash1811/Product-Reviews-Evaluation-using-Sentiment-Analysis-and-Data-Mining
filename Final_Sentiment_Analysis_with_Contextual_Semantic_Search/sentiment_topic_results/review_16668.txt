@@ -1,0 +1,1 @@
+{"text": "This products is great for anyone with a lot of jewelry my girlfriend has a lot and this gift for her was one of my best ideas! i recommend this to any one with a lot of jewelry", "sentiment": "negative", "topics": {"0": "0.2535258", "1": "0.30847555", "2": "0.20543742", "5": "0.14135373", "6": "0.0733243"}}

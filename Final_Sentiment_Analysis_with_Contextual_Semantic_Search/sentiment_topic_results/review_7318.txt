@@ -1,0 +1,1 @@
+{"text": "This is a perfect fit and like the style and cuts, I have to import but don't mind that, that is why I buy from you guys, your services are excellent, couldn't praise you guys enough.", "sentiment": "negative", "topics": {"1": "0.33755764", "2": "0.11006782", "4": "0.4062538", "5": "0.11927307"}}

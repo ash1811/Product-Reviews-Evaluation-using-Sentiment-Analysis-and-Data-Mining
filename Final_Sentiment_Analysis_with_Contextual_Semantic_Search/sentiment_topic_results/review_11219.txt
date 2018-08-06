@@ -1,0 +1,1 @@
+{"text": "I purchased these boots for my wife to wear to and from her car when we have heavy snow. I purchased a size 5 and her regular shoe size is 7-womens. She is very happy with them and states that they keep her feet very dry.", "sentiment": "negative", "topics": {"0": "0.1010986", "1": "0.23874557", "2": "0.11911596", "4": "0.20479973", "5": "0.09141191", "6": "0.2376397"}}

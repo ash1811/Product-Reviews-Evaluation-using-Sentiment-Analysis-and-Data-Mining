@@ -1,0 +1,1 @@
+{"text": "very good product and is original, I have purchased other watches of this brand are very good that I bought for the Pope from my wife and satisfied is a retro model of good quality waterproof and belt fits well is good size.", "sentiment": "negative", "topics": {"1": "0.42841384", "2": "0.16458622", "3": "0.11902475", "5": "0.06671423", "6": "0.20825647"}}

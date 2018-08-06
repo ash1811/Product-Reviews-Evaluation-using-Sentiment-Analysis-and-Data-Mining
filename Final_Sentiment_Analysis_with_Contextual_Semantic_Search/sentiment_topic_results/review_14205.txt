@@ -1,0 +1,1 @@
+{"text": "Very very comfortable flip flops- and durable!  These are sturdy enough to wear on moderate hikes and stay on even when wet.  They can also go with a dress for a night on the time.", "sentiment": "negative", "topics": {"1": "0.6046635", "2": "0.085577816", "3": "0.082742676", "4": "0.14284338", "6": "0.06824172"}}

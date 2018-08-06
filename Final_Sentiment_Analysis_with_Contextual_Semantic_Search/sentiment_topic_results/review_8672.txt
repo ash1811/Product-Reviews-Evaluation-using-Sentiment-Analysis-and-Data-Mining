@@ -1,0 +1,1 @@
+{"text": "I wanted a watch without all the bells and whistles. This one is perfect. Cheap, too! Came on time and in perfect condition.", "sentiment": "negative", "topics": {"0": "0.2794592", "1": "0.22935687", "2": "0.27865586", "3": "0.010243802", "4": "0.010233535", "5": "0.18183005", "6": "0.010220659"}}

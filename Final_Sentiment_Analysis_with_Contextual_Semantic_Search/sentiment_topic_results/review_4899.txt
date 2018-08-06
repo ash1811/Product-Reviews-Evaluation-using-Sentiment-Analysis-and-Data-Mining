@@ -1,0 +1,1 @@
+{"text": "The watch is a little more basic than my last one.  The numbers are the largest ever on a watch. I can see it without my glasses. Overall it is fine. The service was good.", "sentiment": "negative", "topics": {"0": "0.23724486", "2": "0.4633959", "4": "0.07584277", "5": "0.10235901", "6": "0.10429454"}}

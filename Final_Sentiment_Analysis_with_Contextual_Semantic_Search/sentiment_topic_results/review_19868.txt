@@ -1,0 +1,1 @@
+{"text": "I am so happy with this boot dryer.  As soon as my kids get home from school they put their boot on the dryer and turn it on.  The next morning they have warm dry boots.", "sentiment": "positive", "topics": {"1": "0.21735592", "2": "0.22419676", "4": "0.41720313", "5": "0.118611865"}}

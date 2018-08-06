@@ -1,0 +1,1 @@
+{"text": "It is much cheaper than we buy here in Australia. My son put it on when it arrived and ever since then he wears it everyday to school.", "sentiment": "negative", "topics": {"0": "0.14326139", "1": "0.21137801", "2": "0.0110835545", "3": "0.0110118305", "4": "0.12954123", "5": "0.48273122", "6": "0.01099277"}}

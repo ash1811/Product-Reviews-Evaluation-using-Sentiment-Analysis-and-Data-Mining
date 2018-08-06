@@ -1,0 +1,1 @@
+{"text": "My husband was very happy witht his product. I got this for Halloween costume and it looked real and felt real. He played witht it before Halloween party and during the party.  I recommend this to add a realistic touch to any costume.", "sentiment": "negative", "topics": {"0": "0.26264068", "2": "0.07258796", "4": "0.48417962", "5": "0.08243355", "6": "0.085116446"}}

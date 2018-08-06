@@ -1,0 +1,1 @@
+{"text": "Creeps up my back and the hooks don't stay hooked that well.  If you order it anyway, I would suggest going down a size.", "sentiment": "negative", "topics": {"0": "0.39916337", "1": "0.011045118", "2": "0.12587681", "3": "0.14152908", "4": "0.122197516", "5": "0.18915978", "6": "0.011028299"}}

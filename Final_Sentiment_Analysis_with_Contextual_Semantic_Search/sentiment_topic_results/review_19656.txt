@@ -1,0 +1,1 @@
+{"text": "Quality is good, and they are not too hard, like cheaper flip flops.  But, they are too heavy for a flip flop.  They weigh more than other Havaianas.The search continues for a good flip flop -that is not too hard.", "sentiment": "positive", "topics": {"0": "0.12457128", "1": "0.33220312", "2": "0.1879099", "4": "0.21894018", "6": "0.12274866"}}

@@ -1,0 +1,1 @@
+{"text": "You get what you pay for for when it comes to backpacks.  This one is cheap in every way.  Get a more expensive one if you want your pack to last a long time.  This one will not suffice.", "sentiment": "positive", "topics": {"1": "0.24880688", "2": "0.37184593", "3": "0.1013712", "5": "0.2553436"}}

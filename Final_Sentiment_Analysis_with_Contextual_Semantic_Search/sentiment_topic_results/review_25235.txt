@@ -1,0 +1,1 @@
+{"text": "I purchased this for myself and them my husband started working a job that required a lot of walking. his feet and back started hurting and when he put these in his shoes the difference was immediate.", "sentiment": "negative", "topics": {"0": "0.05711565", "1": "0.29825327", "2": "0.09536641", "4": "0.24789156", "5": "0.2845605"}}

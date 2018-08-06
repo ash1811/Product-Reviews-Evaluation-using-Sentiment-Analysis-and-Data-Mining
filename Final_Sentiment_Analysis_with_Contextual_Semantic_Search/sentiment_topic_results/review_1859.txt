@@ -1,0 +1,1 @@
+{"text": "So I sent them back and got one size bigger for my duaghter and they fit nicely.  Other than that they are nice boots and she loves them.", "sentiment": "negative", "topics": {"0": "0.010214547", "1": "0.39360777", "2": "0.010238557", "3": "0.2806921", "4": "0.28477725", "5": "0.010218536", "6": "0.010251264"}}

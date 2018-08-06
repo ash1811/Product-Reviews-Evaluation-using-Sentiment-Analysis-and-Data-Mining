@@ -1,0 +1,1 @@
+{"text": "I have been searching for jeans that are slim enough for a man with straight hips and very little derriere.  These are a bit large.  The 511 slim style is a better fit.", "sentiment": "negative", "topics": {"1": "0.33488032", "4": "0.22602145", "5": "0.4053805"}}

@@ -1,0 +1,1 @@
+{"text": "This is a pretty good hat.  The netting is large and provides pretty good camo of the face.  The 7 3/4 fit my big noggin perfectly.  I may have to make a few ventilation holes in the top though.", "sentiment": "positive", "topics": {"0": "0.122130185", "1": "0.38733098", "2": "0.04778374", "3": "0.2191549", "4": "0.16932505", "6": "0.0480572"}}

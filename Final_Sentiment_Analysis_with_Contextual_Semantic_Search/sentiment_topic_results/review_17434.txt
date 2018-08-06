@@ -1,0 +1,1 @@
+{"text": "if you are looking for a typical sweat pant this is it. Nice and thick with a fleece lining, super comfy and warm.", "sentiment": "negative", "topics": {"0": "0.12523924", "1": "0.49669722", "2": "0.0110341925", "3": "0.22410451", "4": "0.120861165", "5": "0.011038873", "6": "0.011024801"}}

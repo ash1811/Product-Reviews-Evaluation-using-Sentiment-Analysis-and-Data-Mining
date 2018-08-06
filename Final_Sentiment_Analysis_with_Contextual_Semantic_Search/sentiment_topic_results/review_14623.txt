@@ -1,0 +1,1 @@
+{"text": "Great shoe @ an even better price. Birks are amazing, I live in south west Texas & it is HOT almost all year round, therefore we can wear sandal's most all year, Birks give great support with great style.", "sentiment": "negative", "topics": {"0": "0.23176172", "1": "0.27780107", "2": "0.24561349", "3": "0.16458453", "4": "0.069222026"}}

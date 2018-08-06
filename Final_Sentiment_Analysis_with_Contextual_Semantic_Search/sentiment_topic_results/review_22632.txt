@@ -1,0 +1,1 @@
+{"text": "These are soft and fit well.  Didn't shrink too much when washed considering they are all cotton.  I am satisfied.", "sentiment": "positive", "topics": {"0": "0.13206896", "1": "0.5957371", "2": "0.014292611", "3": "0.11441078", "4": "0.014367079", "5": "0.014334637", "6": "0.114788905"}}

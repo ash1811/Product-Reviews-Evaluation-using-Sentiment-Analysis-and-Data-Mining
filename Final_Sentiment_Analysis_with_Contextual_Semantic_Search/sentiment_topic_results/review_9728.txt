@@ -1,0 +1,1 @@
+{"text": "I took a risk buying this bra cos some people said in their review that it made the boob pointy. It really does make the boob pointy, but at the price I paid for it, I guess I'll just be wearing this with loose fitting clothes.", "sentiment": "negative", "topics": {"1": "0.32391846", "3": "0.46661705", "4": "0.061164424", "6": "0.1311102"}}

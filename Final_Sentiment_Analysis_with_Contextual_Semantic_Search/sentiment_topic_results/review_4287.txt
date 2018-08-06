@@ -1,0 +1,1 @@
+{"text": "Would be nice to have pants that had the same fit everywhere else, but with a slightly smaller waist size. But this is close enough, and works well enough with a belt.", "sentiment": "positive", "topics": {"1": "0.29889116", "2": "0.20939547", "3": "0.2412448", "5": "0.11159442", "6": "0.12203169"}}

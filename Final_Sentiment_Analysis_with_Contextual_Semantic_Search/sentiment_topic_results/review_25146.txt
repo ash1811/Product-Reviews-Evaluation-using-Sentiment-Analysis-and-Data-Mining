@@ -1,0 +1,1 @@
+{"text": "The design, the fabric, the color, the shape, the size and the comfort wearing it after 5-6 washes already. They are perfect non-denim Levi's for me.", "sentiment": "negative", "topics": {"1": "0.4027621", "3": "0.2125874", "5": "0.08610784", "6": "0.2699365"}}

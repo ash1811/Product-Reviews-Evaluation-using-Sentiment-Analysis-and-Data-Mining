@@ -1,0 +1,1 @@
+{"text": "Very sexy and comfy.  The only reason it was not a 5 star is because it rolls down too often.", "sentiment": "positive", "topics": {"0": "0.017890334", "1": "0.01793298", "2": "0.19179389", "3": "0.01791643", "4": "0.7186551", "5": "0.017912537", "6": "0.01789876"}}

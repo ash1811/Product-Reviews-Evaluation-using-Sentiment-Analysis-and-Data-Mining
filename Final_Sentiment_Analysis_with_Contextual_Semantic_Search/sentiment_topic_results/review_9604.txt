@@ -1,0 +1,1 @@
+{"text": "wanted to match a watch my wife fgot me years ago & found this one, which is a pefect ladies match to the one I have....got the date & a indigo light....", "sentiment": "negative", "topics": {"1": "0.18600796", "2": "0.15129712", "3": "0.18408602", "4": "0.18873139", "5": "0.2021927", "6": "0.07971457"}}

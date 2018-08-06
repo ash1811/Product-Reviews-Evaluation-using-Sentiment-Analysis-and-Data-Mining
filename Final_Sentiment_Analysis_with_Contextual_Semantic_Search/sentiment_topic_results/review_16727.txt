@@ -1,0 +1,1 @@
+{"text": "I really like this umbrella! So much so, that we bought 2 of them, and everybody else must love them too, cause they keep getting stolen.", "sentiment": "negative", "topics": {"0": "0.26094332", "1": "0.2052408", "2": "0.23631546", "3": "0.1818845", "5": "0.099703185"}}

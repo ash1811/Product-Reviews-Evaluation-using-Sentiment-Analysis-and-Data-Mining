@@ -1,0 +1,1 @@
+{"text": "Really cute, fits great except a tinge too small under the bust, I usually wear 44 d or dd. Would definitely buy again", "sentiment": "negative", "topics": {"1": "0.49902672", "3": "0.10525962", "4": "0.09358481", "5": "0.20951146", "6": "0.07473185"}}

@@ -1,0 +1,1 @@
+{"text": "I needed a new pair of black flats and knew Dr Scholls would be comfortable. They look great. I wear between a 6.5-7 and ordered the 7. It was a tad too big so I ordered foot petals and have no problem. The 6.5 would have been too fitted", "sentiment": "positive", "topics": {"1": "0.41776007", "3": "0.16042194", "4": "0.07838561", "5": "0.17064737", "6": "0.16175738"}}

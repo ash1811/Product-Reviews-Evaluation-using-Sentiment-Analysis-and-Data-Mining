@@ -1,0 +1,1 @@
+{"text": "The fit is not what I expected - too baggy around the thighs and too tight at the waist.  I have gotten a better fit with jeans from Kohl's.", "sentiment": "negative", "topics": {"0": "0.011021024", "1": "0.32829112", "2": "0.24674529", "3": "0.0110171735", "4": "0.22549316", "5": "0.0110655", "6": "0.16636671"}}

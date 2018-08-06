@@ -1,0 +1,1 @@
+{"text": "I love these jeans. I also tried the 511s but they were too tight at the ankle. The 514s give you a clean look and slim fit without being super-tight skinny jeans. They're also very comfortable.", "sentiment": "negative", "topics": {"1": "0.3845525", "3": "0.07674251", "4": "0.3381537", "5": "0.13429143", "6": "0.052636232"}}

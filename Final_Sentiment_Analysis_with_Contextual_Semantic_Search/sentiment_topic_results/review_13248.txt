@@ -1,0 +1,1 @@
+{"text": "Never thought I would buy leg warmers again. Been over 25 years since i worn them. I wear leggings alot. It is cold where I live and just took a chance. I love these leg warmers.", "sentiment": "negative", "topics": {"1": "0.075662754", "3": "0.41217348", "4": "0.17540263", "6": "0.31807277"}}

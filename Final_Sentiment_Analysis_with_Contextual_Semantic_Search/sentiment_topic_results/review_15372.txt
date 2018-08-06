@@ -1,0 +1,1 @@
+{"text": "This item was purchased as a gift. Recipient is very happy with the product.Love the Tom Cruise \"Look\".I am happy with timely delivery.Thanks again.Debbie", "sentiment": "negative", "topics": {"0": "0.23566115", "1": "0.24466357", "2": "0.16936937", "3": "0.15301427", "4": "0.010231217", "5": "0.0103459535", "6": "0.1767145"}}

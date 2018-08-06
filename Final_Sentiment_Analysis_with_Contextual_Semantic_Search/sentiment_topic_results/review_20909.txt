@@ -1,0 +1,1 @@
+{"text": "These are great jeans. Great color, soft & sturdy denim. The straight legs can be tucked in boots or worn with flats or heels. I also bought the 524 skinny pair. I'm 5'3 123lbs and size 3 always fit perfectly.", "sentiment": "positive", "topics": {"0": "0.0557166", "1": "0.50625044", "2": "0.05929826", "4": "0.27464578", "6": "0.09383054"}}

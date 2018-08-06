@@ -1,0 +1,1 @@
+{"text": "Even though they are somewhat large I expected it and since I am a big guy I don't mind that they are a little loose. They are really comfortable.", "sentiment": "positive", "topics": {"0": "0.010240885", "1": "0.5790894", "2": "0.16610338", "3": "0.010243537", "4": "0.21387026", "5": "0.010237079", "6": "0.010215473"}}

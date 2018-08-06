@@ -1,0 +1,1 @@
+{"text": "This is a sturdy, nice looking swimsuit that holds up well to extended exposure to high chlorine levels.  Legs are somewhat high cut, but not immodest, and the front is cut high enough to keep everything in place.", "sentiment": "positive", "topics": {"0": "0.101483196", "1": "0.23159929", "2": "0.38937914", "3": "0.1973452", "4": "0.06821468"}}

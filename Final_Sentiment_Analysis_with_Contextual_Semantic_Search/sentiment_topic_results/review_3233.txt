@@ -1,0 +1,1 @@
+{"text": "Good old Levi's!! Tell me why I should ever buy any other brand for my husband?? Stick with what works!!", "sentiment": "negative", "topics": {"0": "0.013056935", "1": "0.34134552", "2": "0.013049602", "3": "0.1924228", "4": "0.29614222", "5": "0.013040201", "6": "0.13094269"}}

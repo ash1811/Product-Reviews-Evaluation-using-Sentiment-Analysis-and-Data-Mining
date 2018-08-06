@@ -1,0 +1,1 @@
+{"text": "Classy looking watch. So far, it's keeping perfect time. The hands don't stay illuminated very long in the dark, but that's not an issue with me. Can't beat the price too.", "sentiment": "negative", "topics": {"1": "0.30980057", "2": "0.20279828", "4": "0.17154875", "5": "0.29431838"}}

@@ -1,0 +1,1 @@
+{"text": "I love cherokee workwear pants. These were a great buy and I will continue getting the same style and brand! Accurate description, fast shipping.", "sentiment": "positive", "topics": {"0": "0.3155924", "1": "0.4198285", "3": "0.085518606", "4": "0.08760765", "6": "0.07235087"}}

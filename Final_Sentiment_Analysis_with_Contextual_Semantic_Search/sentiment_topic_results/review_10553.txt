@@ -1,0 +1,1 @@
+{"text": "I usually wear a large hat.  Ordered a large/xl as reviews suggested and the hat is too big. May be hats shouldn't be bought on line.", "sentiment": "negative", "topics": {"0": "0.101061665", "1": "0.44270238", "3": "0.358182", "6": "0.06940405"}}

@@ -1,0 +1,1 @@
+{"text": "I bought it as a gift for my relative and he was very pleased with it.  I think it looks very classy and elegant.", "sentiment": "negative", "topics": {"0": "0.50780743", "1": "0.24407236", "2": "0.014297347", "3": "0.0143042235", "4": "0.014299562", "5": "0.014342053", "6": "0.19087698"}}

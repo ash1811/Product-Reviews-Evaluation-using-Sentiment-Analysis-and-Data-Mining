@@ -1,0 +1,1 @@
+{"text": "27 inches is the best way to go with this product. Pattern is print but well done...matches my fatigues exactly. Well done Rothco!", "sentiment": "negative", "topics": {"0": "0.06387035", "1": "0.24652338", "2": "0.28686482", "5": "0.3758118"}}

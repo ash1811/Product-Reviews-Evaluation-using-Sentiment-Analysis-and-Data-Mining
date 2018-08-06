@@ -1,0 +1,1 @@
+{"text": "Quality watch. Pleasing blue dial and bezel. Gains a minutein 48 hrs. That's non unusual for a mechanical watch. Goodfinish and gold plating. Good looking watch.", "sentiment": "negative", "topics": {"0": "0.13957839", "1": "0.1849649", "2": "0.25575927", "3": "0.1790875", "4": "0.060593035", "6": "0.17347725"}}

@@ -1,0 +1,1 @@
+{"text": "cheapppppppp and look great but a lil big for women. my husband still thinks they look good so i'll keep em.", "sentiment": "negative", "topics": {"0": "0.21202853", "1": "0.4549255", "3": "0.14805748", "4": "0.15639867"}}

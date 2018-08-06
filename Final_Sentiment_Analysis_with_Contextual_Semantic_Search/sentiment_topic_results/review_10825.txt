@@ -1,0 +1,1 @@
+{"text": "They look exactly like the photo - if not better. She loves them because they're so pretty and the fit is just right (she normally wears an 8 M.", "sentiment": "negative", "topics": {"0": "0.37839803", "1": "0.47822946", "4": "0.10754177"}}

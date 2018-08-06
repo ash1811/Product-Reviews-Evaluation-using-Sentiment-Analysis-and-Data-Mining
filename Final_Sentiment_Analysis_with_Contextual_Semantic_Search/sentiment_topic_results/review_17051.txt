@@ -1,0 +1,1 @@
+{"text": "Love them, fits as expected, like the fabric,,they  dont shrink, feel soft and  make you look dressy the elastic in the waist make fit better", "sentiment": "negative", "topics": {"0": "0.104099445", "1": "0.361775", "2": "0.13804543", "3": "0.23911297", "6": "0.14189574"}}

@@ -1,0 +1,1 @@
+{"text": "I am a addict to UGG boots! I have 5 pairs in all different colors, and I just LOVE them! The colors are great.. the material is awesome. I dont wear mine with socks, and they feel amazing on my feet!!", "sentiment": "positive", "topics": {"1": "0.4257185", "2": "0.114654936", "4": "0.29337004", "6": "0.14571077"}}

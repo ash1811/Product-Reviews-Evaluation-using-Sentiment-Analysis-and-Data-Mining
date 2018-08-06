@@ -1,0 +1,1 @@
+{"text": "They are like really fuzzy, soft socks for above your feet! I wear these for cold-weather cycling to keep my shins warm. They seem to do the trick when bundled with thermal pants.", "sentiment": "positive", "topics": {"1": "0.4385349", "2": "0.1781238", "4": "0.2950721", "5": "0.064388484"}}

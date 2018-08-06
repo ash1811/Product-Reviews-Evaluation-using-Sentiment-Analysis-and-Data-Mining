@@ -1,0 +1,1 @@
+{"text": "Great shirt! The colors are exceptional and the fit was right on. I wouldn't call this a significantly thick shirt but it also isn't what I'd call thin either.", "sentiment": "negative", "topics": {"1": "0.5021763", "2": "0.14691399", "4": "0.085421816", "5": "0.24022119"}}

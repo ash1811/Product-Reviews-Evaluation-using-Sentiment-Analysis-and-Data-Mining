@@ -1,0 +1,1 @@
+{"text": "For the amount of money that they charge for this shirt, it is a steal. Great quality and fits perfectly. I will buy a few more.", "sentiment": "negative", "topics": {"0": "0.011915212", "1": "0.92836803", "2": "0.01192371", "3": "0.011935436", "4": "0.011909763", "5": "0.012026014", "6": "0.011921831"}}

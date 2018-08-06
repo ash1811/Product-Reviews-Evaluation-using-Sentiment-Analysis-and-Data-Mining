@@ -1,0 +1,1 @@
+{"text": "I am very pleased with these earrings.  They are pretty and the right size for a second earring in the ear, or for when you don't want a big earring in the main piercing.  They are exactly what I was looking for when I bought them.", "sentiment": "negative", "topics": {"0": "0.13628516", "1": "0.53419036", "2": "0.09542388", "3": "0.114154935", "6": "0.1040495"}}

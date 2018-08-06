@@ -1,0 +1,1 @@
+{"text": "Good price,nice clothing The sweat pants arrived with a full tag letting me know that it was truly original,first run clothing. Very little shrinkage after three washes.", "sentiment": "negative", "topics": {"0": "0.14250082", "1": "0.31093457", "3": "0.22232768", "4": "0.16414256", "5": "0.05977453", "6": "0.0927935"}}

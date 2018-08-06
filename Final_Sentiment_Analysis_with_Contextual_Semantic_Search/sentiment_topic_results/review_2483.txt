@@ -1,0 +1,1 @@
+{"text": "These sandals in my option are not flexible at at all. But the sole is thick will probably last a long time. My feet just can't handle stiff shoes. I gave them away", "sentiment": "positive", "topics": {"0": "0.29794756", "2": "0.27790695", "5": "0.39222935"}}

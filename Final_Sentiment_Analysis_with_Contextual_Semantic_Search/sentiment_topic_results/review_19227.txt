@@ -1,0 +1,1 @@
+{"text": "\"Big Fat\" is misleading. This wallet is no bigger or fatter than most wallets that hold a checkbook, lots of cards, change, etc. It is quality leather, a cheery red color, and has a satisying number of compartments. Highly recommended.", "sentiment": "negative", "topics": {"0": "0.05547491", "1": "0.22007455", "2": "0.3953819", "3": "0.18727812", "5": "0.12986995"}}

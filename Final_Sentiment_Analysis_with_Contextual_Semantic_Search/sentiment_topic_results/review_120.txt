@@ -1,0 +1,1 @@
+{"text": "love this jacket. it fits perfectly and keeps the right amount of warmth. the only thing is i ordered heather grey and recieved black.", "sentiment": "positive", "topics": {"1": "0.4812363", "2": "0.1352028", "3": "0.1500749", "5": "0.20484714"}}

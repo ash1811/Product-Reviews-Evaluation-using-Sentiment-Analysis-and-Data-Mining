@@ -1,0 +1,1 @@
+{"text": "A large is a little bit too long when you first buy these new.  However, they do shrink a little bit in the wash.  And a medium shrinks too much for my comfort..  I guess it depends on your body type.", "sentiment": "negative", "topics": {"1": "0.44407627", "3": "0.2895618", "4": "0.06700601", "6": "0.17886738"}}

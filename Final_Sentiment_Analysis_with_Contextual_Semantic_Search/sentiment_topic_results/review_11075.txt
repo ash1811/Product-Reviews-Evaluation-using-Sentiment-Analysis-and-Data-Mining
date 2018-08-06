@@ -1,0 +1,1 @@
+{"text": "I saw these n a magazine, found them on Amazon for much less.  I ordered a pair for me and they are very warm.  I also ordered a pair for my Mom for christmas as they keep your legs warm.", "sentiment": "negative", "topics": {"0": "0.1397696", "1": "0.3095157", "3": "0.2593271", "4": "0.1748968", "6": "0.10141334"}}

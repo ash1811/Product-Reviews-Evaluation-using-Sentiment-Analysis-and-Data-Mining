@@ -1,0 +1,1 @@
+{"text": "I use these shoes as pool shoes when I aquasize.  They work very well and look good, too.  Thank you.", "sentiment": "negative", "topics": {"0": "0.011035092", "1": "0.46654055", "2": "0.39279076", "3": "0.011090102", "4": "0.011016707", "5": "0.011033728", "6": "0.09649305"}}

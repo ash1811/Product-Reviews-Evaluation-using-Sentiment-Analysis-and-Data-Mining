@@ -1,0 +1,1 @@
+{"text": "Extremely comfortable for 8+ hours a day. Using it in the heat of Tennessee, but didn't get too hot. And they look good too.", "sentiment": "negative", "topics": {"0": "0.20039415", "1": "0.29229784", "2": "0.01024459", "3": "0.010249406", "4": "0.09649283", "5": "0.3800858", "6": "0.01023535"}}

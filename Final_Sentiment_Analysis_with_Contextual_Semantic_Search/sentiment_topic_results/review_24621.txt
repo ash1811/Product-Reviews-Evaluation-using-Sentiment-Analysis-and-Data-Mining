@@ -1,0 +1,1 @@
+{"text": "this fits good looks good, when buying any of these after I wash I never put in the dryer I hang dry so that it will not fade or shrink or hurt the elastic inside but they all do a great job and look great.", "sentiment": "negative", "topics": {"1": "0.71286327", "2": "0.10300992", "4": "0.052719485", "6": "0.11092938"}}

@@ -1,0 +1,1 @@
+{"text": "I can tell it's 100 % cotton however the material is quite thin to give the fully support. There is no pad in the bra so it's easy to leak through the shirt. you may need to prepare the nursing pad.", "sentiment": "negative", "topics": {"1": "0.17550859", "2": "0.14703201", "3": "0.27109534", "5": "0.100667894", "6": "0.29204097"}}

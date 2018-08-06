@@ -1,0 +1,1 @@
+{"text": "Bought for use with non Allen Edmonds cap toe oxfords. Buffs to a nice shine and is easy to use. Very satisfied.", "sentiment": "negative", "topics": {"0": "0.083696514", "1": "0.15869798", "2": "0.0895968", "3": "0.21121417", "4": "0.0631363", "5": "0.13656797", "6": "0.25709027"}}

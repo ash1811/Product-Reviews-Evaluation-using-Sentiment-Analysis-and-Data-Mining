@@ -1,0 +1,1 @@
+{"text": "Having purchased both, it is well worth the extra five dollars or so for the cotton performance tee. The performance tee is soft and comfortable. The basic tee is unpleasant.", "sentiment": "negative", "topics": {"1": "0.26951808", "3": "0.057675872", "4": "0.21344417", "5": "0.3708977", "6": "0.07255678"}}

@@ -1,0 +1,1 @@
+{"text": "My boys love these. Don't wear with short socks they fall down. Can't wait for rain puddles and see some smiles", "sentiment": "negative", "topics": {"0": "0.18916915", "1": "0.13084677", "3": "0.09999331", "4": "0.47535884", "5": "0.08555472"}}

@@ -1,0 +1,1 @@
+{"text": "Dickies scrubs are comfortable to wear on daily basis.  They fit really nice and have a good design to them.", "sentiment": "negative", "topics": {"0": "0.2045304", "1": "0.4056318", "2": "0.011043146", "3": "0.27114376", "4": "0.010993065", "5": "0.08566132", "6": "0.010996509"}}

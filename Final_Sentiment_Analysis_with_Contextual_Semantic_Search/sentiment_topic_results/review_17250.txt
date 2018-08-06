@@ -1,0 +1,1 @@
+{"text": "Love these boots. They are totally comfortable, and they fit to size.  The heel is a bit higher than I wanted, but b/c of how comfortable they are, it doesn't matter.", "sentiment": "negative", "topics": {"0": "0.08357423", "1": "0.29181263", "3": "0.15665574", "4": "0.43923843"}}

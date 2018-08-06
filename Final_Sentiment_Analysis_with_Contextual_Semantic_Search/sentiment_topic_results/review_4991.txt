@@ -1,0 +1,1 @@
+{"text": "They are very comfortable socks which I wear under my boots in the winter. They are socks that fit me well.", "sentiment": "negative", "topics": {"0": "0.015884046", "1": "0.5099423", "2": "0.01588256", "3": "0.01588722", "4": "0.11980101", "5": "0.30672184", "6": "0.015881069"}}

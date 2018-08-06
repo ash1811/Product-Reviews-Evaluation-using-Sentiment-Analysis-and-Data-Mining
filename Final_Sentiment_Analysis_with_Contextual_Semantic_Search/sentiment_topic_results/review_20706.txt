@@ -1,0 +1,1 @@
+{"text": "this product works well and is very comfortable compared to regular boot bands. Would highly recommend this product to any one looking to blouse.", "sentiment": "negative", "topics": {"1": "0.49163142", "3": "0.011158307", "4": "0.19325198", "5": "0.27707693"}}

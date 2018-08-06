@@ -1,0 +1,1 @@
+{"text": "Just go to walmart and buy some reversible belts there for the same price.  After wearing one for about 3 weeks the material began to flake off around the crease near the belt hole.  It's disappointing as I bought 3 of these. Alwell!", "sentiment": "negative", "topics": {"0": "0.17974705", "1": "0.28237122", "2": "0.33939233", "3": "0.04990813", "6": "0.13658862"}}

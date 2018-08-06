@@ -1,0 +1,1 @@
+{"text": "Yes, its just what I needed!! I'm just starting my collection. I have 16 large watches, 50mm plus. They fit good. It could be a little bigger but it dies the job, and looks Great!!!", "sentiment": "negative", "topics": {"1": "0.539291", "2": "0.20124555", "3": "0.16032293", "5": "0.077660695"}}

@@ -1,0 +1,1 @@
+{"text": "There is just nothing like a Lives Jeans. The color is nice and dark, it has not washed out yet.", "sentiment": "positive", "topics": {"0": "0.014313395", "1": "0.4741622", "2": "0.014312236", "3": "0.014311865", "4": "0.01430134", "5": "0.45423856", "6": "0.014360447"}}

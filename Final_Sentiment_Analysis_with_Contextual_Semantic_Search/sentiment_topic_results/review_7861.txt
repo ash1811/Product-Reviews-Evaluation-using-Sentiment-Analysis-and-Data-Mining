@@ -1,0 +1,1 @@
+{"text": "My son loves these, they are well constructed and more than I expected from a slip on shoe.  Would buy again.", "sentiment": "positive", "topics": {"0": "0.22734827", "1": "0.36536995", "2": "0.11480548", "3": "0.011931033", "4": "0.16758585", "5": "0.011948343", "6": "0.10101106"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for my son for Christmas.  He saw it a major retail store and I found it on Amazon for much less!!  Perfect gift and he loved it!!", "sentiment": "negative", "topics": {"0": "0.12906654", "1": "0.51077616", "2": "0.08836318", "4": "0.10832344", "6": "0.14552392"}}

@@ -1,0 +1,1 @@
+{"text": "This makes a good sleep shirt or something to lounge around in. It also makes a great base layer. The modal material is super soft and comfortable against the skin.", "sentiment": "negative", "topics": {"0": "0.219641", "1": "0.51025593", "3": "0.092770904", "4": "0.06555364", "5": "0.09746668"}}

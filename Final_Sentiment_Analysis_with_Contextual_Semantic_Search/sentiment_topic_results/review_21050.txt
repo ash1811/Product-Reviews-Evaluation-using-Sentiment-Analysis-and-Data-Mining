@@ -1,0 +1,1 @@
+{"text": "An excellent product.. Very nice rich finish. lasts very long.. Looks beautiful.. and a lot better in person than in pictures.", "sentiment": "negative", "topics": {"0": "0.010234337", "1": "0.2548019", "2": "0.32960096", "3": "0.010245383", "4": "0.010236595", "5": "0.37460077", "6": "0.010280034"}}

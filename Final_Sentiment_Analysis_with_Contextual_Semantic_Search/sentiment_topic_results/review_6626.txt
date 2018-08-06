@@ -1,0 +1,1 @@
+{"text": "I have worn these socks for years because of the superior cushioning and their long lasting life. So glad to be able to continue to purchase them.", "sentiment": "negative", "topics": {"0": "0.010220916", "1": "0.31038332", "2": "0.0102497805", "3": "0.2202261", "4": "0.15088817", "5": "0.21114099", "6": "0.08689075"}}

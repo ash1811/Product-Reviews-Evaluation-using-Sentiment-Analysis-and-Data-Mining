@@ -1,0 +1,1 @@
+{"text": "My great niece recieved these for her 4th birthday. She LOVED them. All the other little girls wanted to wear them. Great quality. They will outlast my niece and the next \" hand me down\" kid!", "sentiment": "negative", "topics": {"0": "0.24497375", "1": "0.17259954", "2": "0.090902746", "3": "0.24388266", "5": "0.12504755", "6": "0.11577563"}}

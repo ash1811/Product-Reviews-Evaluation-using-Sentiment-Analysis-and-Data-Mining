@@ -1,0 +1,1 @@
+{"text": "great price. good quality. arrived in good shape and on time.  would definitely buy another one.made a good gift for my husband who works construction- he really likes it.", "sentiment": "negative", "topics": {"0": "0.20920694", "1": "0.4845481", "3": "0.1276338", "4": "0.08607949", "6": "0.07951997"}}

@@ -1,0 +1,1 @@
+{"text": "Need a Tuxedo shirt for formal dinners.  It came with black scuds for the shirt beside the buttons, which is a plus.  I was good that it had the shorter length, because I am wider but not taller.", "sentiment": "negative", "topics": {"0": "0.13961276", "1": "0.10007392", "3": "0.14893359", "4": "0.11445966", "5": "0.2229467", "6": "0.26602197"}}

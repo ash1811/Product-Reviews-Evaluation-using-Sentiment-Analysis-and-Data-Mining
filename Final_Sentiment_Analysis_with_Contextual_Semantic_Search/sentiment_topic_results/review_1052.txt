@@ -1,0 +1,1 @@
+{"text": "This shoe is great wears and fits good all Clark's products are welcome in my house. I have nothing else to say", "sentiment": "positive", "topics": {"0": "0.011013602", "1": "0.3151167", "2": "0.1893244", "3": "0.011031746", "4": "0.0109938", "5": "0.254268", "6": "0.20825174"}}

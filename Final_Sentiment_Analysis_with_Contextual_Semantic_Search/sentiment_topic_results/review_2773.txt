@@ -1,0 +1,1 @@
+{"text": "bought this for my wife: runs a bit on the large side; std keds shoe - no cushion but functional", "sentiment": "positive", "topics": {"0": "0.20172918", "1": "0.011950051", "2": "0.3041547", "3": "0.3562339", "4": "0.011932425", "5": "0.011942133", "6": "0.1020576"}}

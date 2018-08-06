@@ -1,0 +1,1 @@
+{"text": "It fits well. I have the problem of a broad shoulders and larges fit like smalls. It's a bit wide in the stomach area, but whatever, it's purple and fits my shoulders.", "sentiment": "negative", "topics": {"1": "0.6435432", "3": "0.15990868", "4": "0.09000237", "6": "0.08266903"}}

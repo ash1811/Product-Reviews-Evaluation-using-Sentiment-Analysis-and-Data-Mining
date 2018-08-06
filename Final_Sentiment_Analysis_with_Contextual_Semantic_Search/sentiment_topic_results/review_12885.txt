@@ -1,0 +1,1 @@
+{"text": "I had herd stores about these boots that I would have to get a smaller size. I did not and I love them. they fit great.", "sentiment": "negative", "topics": {"0": "0.01192537", "1": "0.27803156", "2": "0.011924616", "3": "0.40653387", "4": "0.1462193", "5": "0.1334385", "6": "0.011926805"}}

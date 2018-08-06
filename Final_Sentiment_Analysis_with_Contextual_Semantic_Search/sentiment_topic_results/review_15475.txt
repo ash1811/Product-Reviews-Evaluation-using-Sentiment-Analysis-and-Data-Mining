@@ -1,0 +1,1 @@
+{"text": "Have been wearing Wayfarers since the late 70s.  This updated design is both modern and classic. Love the glasses and how I look in them.", "sentiment": "negative", "topics": {"0": "0.40293822", "1": "0.010239491", "2": "0.3320521", "3": "0.010247844", "4": "0.15915793", "5": "0.01022332", "6": "0.07514109"}}

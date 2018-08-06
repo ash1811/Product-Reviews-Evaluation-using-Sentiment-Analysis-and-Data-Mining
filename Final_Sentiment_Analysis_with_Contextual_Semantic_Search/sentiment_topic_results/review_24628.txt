@@ -1,0 +1,1 @@
+{"text": "The price and styling of this leotard are good.  It's very simple, appears to be well made, washed up well (always air dry).", "sentiment": "negative", "topics": {"0": "0.010247493", "1": "0.45481175", "2": "0.010242106", "3": "0.16803679", "4": "0.010318381", "5": "0.22731842", "6": "0.119025044"}}

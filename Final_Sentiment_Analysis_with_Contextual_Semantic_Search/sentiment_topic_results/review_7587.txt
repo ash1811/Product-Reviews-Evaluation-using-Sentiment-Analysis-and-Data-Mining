@@ -1,0 +1,1 @@
+{"text": "its very pretty, feels good and the color is nice.  I do wish it was a little bigger, but otherwise its a good everyday ring.", "sentiment": "positive", "topics": {"0": "0.011024719", "1": "0.63277215", "2": "0.011023715", "3": "0.011030827", "4": "0.13482177", "5": "0.011003122", "6": "0.18832366"}}

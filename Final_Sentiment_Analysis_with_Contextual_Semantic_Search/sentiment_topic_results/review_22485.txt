@@ -1,0 +1,1 @@
+{"text": "I like the Hanes Hi-Cut Panties, they always fit so well.  The colors were cool and the fabric was very soft, Thanks for a great product , I'll  probably be buying more of these later.", "sentiment": "negative", "topics": {"1": "0.4296121", "3": "0.06493199", "5": "0.36863628", "6": "0.114213064"}}

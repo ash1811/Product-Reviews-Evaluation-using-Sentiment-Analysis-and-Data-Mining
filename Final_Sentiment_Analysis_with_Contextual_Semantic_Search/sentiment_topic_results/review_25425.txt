@@ -1,0 +1,1 @@
+{"text": "I love these slippers! They are warm, comfortable and I love the way they look.  This was my first pair of Old Friend moccasins but it won't be my last.  Now if they would only manuracture them in the US instead of China!", "sentiment": "negative", "topics": {"1": "0.22665593", "2": "0.17006865", "4": "0.20969175", "5": "0.24657995", "6": "0.13189809"}}

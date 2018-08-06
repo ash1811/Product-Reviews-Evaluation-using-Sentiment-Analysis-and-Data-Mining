@@ -1,0 +1,1 @@
+{"text": "My son won't wear anything but Carhartt Jeans, the fit is better than all other brands and they last forever.", "sentiment": "negative", "topics": {"0": "0.013022452", "1": "0.28767326", "2": "0.13153376", "3": "0.14888526", "4": "0.13544685", "5": "0.27042827", "6": "0.013010174"}}

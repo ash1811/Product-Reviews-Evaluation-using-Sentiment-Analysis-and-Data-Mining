@@ -1,0 +1,1 @@
+{"text": "I would not say that this bra is totally seamless in the front, but it is totally comfortable. the back part of the bra eliminates unsightly back bulge, which is a huge plus. It's definitely worth the price.", "sentiment": "negative", "topics": {"1": "0.3014507", "3": "0.27123386", "4": "0.23326783", "6": "0.17352775"}}

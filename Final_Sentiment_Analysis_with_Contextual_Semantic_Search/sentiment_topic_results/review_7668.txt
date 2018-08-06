@@ -1,0 +1,1 @@
+{"text": "This is a fun little purse for a toddler. It's a manageable size and comes with fun things inside. Just wish the steps were a bit longer.", "sentiment": "negative", "topics": {"2": "0.3036542", "3": "0.35263884", "6": "0.30548394"}}

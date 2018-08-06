@@ -1,0 +1,1 @@
+{"text": "Handsome watch.  Looks just like the Rolex Submariner and the best part its $11,000 less.  I have had the watch for about a year and it still keeps accurate time.  Well made watch.", "sentiment": "negative", "topics": {"1": "0.45323506", "2": "0.32602584", "4": "0.0721513", "6": "0.12707655"}}

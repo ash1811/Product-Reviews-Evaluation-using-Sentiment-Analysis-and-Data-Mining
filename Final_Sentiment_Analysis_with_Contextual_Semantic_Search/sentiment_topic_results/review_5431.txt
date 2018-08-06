@@ -1,0 +1,1 @@
+{"text": "Outstanding look.  Make me look like a million dollar.  My wife tell me I look years younger, make my bronze skin jump out.", "sentiment": "positive", "topics": {"1": "0.426659", "2": "0.09403698", "3": "0.14603719", "4": "0.12632383", "5": "0.10828324", "6": "0.090697646"}}

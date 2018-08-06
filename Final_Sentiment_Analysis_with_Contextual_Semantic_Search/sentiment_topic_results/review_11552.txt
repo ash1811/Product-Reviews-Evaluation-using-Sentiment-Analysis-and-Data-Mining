@@ -1,0 +1,1 @@
+{"text": "My mama loves these pajamas, but she will not buy them for herself, so I get them for her as birthday and Christmas gifts.", "sentiment": "positive", "topics": {"0": "0.13080376", "1": "0.24959075", "2": "0.014319929", "3": "0.014314003", "4": "0.20046654", "5": "0.014389274", "6": "0.37611577"}}

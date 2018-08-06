@@ -1,0 +1,1 @@
+{"text": "I ordered this particular cleaning cloth for cleaning my gold rings and various other pieces of jewelry due to its larger size.  This size is perfect for really being able to clean/shine jewelry and is excellent quality!", "sentiment": "negative", "topics": {"1": "0.37891102", "2": "0.1577539", "3": "0.18235312", "5": "0.06536507", "6": "0.20259733"}}

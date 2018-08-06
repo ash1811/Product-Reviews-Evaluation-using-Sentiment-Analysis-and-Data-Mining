@@ -1,0 +1,1 @@
+{"text": "...it reminds him of high school.  This is a good quality jacket that fits him well.  I'm certain it will wear well.", "sentiment": "negative", "topics": {"0": "0.010244004", "1": "0.43796936", "2": "0.24795522", "3": "0.16312052", "4": "0.0102090975", "5": "0.120258346", "6": "0.010243462"}}

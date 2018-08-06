@@ -1,0 +1,1 @@
+{"text": "nice outfit for my girl she can wear it in the lounge and she loves it so much and nice colour again and doesnt shrink when you wash it", "sentiment": "negative", "topics": {"0": "0.24614957", "1": "0.69873655", "2": "0.011035009", "3": "0.011009755", "4": "0.011038342", "5": "0.01103357", "6": "0.010997178"}}

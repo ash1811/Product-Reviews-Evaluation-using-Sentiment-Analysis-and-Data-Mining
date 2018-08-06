@@ -1,0 +1,1 @@
+{"text": "They are soft, cozy, and great quality! Especially great quality considering the price. They will be fun to mix and match too because the colors go together well. If you are looking for cozy socks to keep your toddlers toes cozy in the winter, buy these!", "sentiment": "negative", "topics": {"0": "0.25856674", "1": "0.5775888", "2": "0.03599774", "5": "0.11193563"}}

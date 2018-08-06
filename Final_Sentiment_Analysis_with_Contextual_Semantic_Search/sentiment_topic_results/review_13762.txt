@@ -1,0 +1,1 @@
+{"text": "ever since i lived in Hawaii i have loved reef slippers, i buy them often but always look for sales", "sentiment": "positive", "topics": {"0": "0.30793348", "1": "0.42207098", "2": "0.011039772", "3": "0.011004571", "4": "0.13997261", "5": "0.011100378", "6": "0.09687822"}}

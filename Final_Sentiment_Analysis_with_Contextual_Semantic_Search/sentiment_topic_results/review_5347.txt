@@ -1,0 +1,1 @@
+{"text": "Great pants. I own 3 pair. Good fit, comfortable, and tough. Just what you'd expect from Carhartt. Spend the money", "sentiment": "negative", "topics": {"0": "0.011004968", "1": "0.70693", "2": "0.011034583", "3": "0.011006429", "4": "0.011000298", "5": "0.2380229", "6": "0.01100089"}}

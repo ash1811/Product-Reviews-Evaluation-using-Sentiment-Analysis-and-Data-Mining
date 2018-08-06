@@ -1,0 +1,1 @@
+{"text": "Husband has purchased these before (not from Amazon), but says they fit fine.  And, I really like how he looks in them!", "sentiment": "negative", "topics": {"0": "0.011027085", "1": "0.34567085", "2": "0.22307777", "3": "0.011037924", "4": "0.18669355", "5": "0.011007918", "6": "0.21148494"}}

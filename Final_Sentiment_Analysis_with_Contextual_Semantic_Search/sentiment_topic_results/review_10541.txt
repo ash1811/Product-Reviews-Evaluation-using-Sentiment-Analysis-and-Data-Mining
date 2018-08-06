@@ -1,0 +1,1 @@
+{"text": "My husband wanted a bucket style hat to protect his hearing aids from getting wet if it rained. The hat fit him perfect and the color and fabric are perfect.", "sentiment": "negative", "topics": {"0": "0.14577112", "1": "0.30181324", "3": "0.12474261", "4": "0.40375075"}}

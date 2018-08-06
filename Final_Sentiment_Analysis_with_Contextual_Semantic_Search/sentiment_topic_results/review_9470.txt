@@ -1,0 +1,1 @@
+{"text": "Love this bra - it's comfortable and makes me look shapely.  However, please note it has more of a pointy look rather than a round look and sometimes tends to have some nipple-show-through when wearing thinner tops.", "sentiment": "negative", "topics": {"1": "0.18299253", "2": "0.16636407", "3": "0.3928143", "4": "0.18657613", "5": "0.057614215"}}

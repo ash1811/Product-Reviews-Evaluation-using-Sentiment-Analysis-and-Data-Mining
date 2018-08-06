@@ -1,0 +1,1 @@
+{"text": "Harkens back to my youth. I truly love these shoes! Fit perfect, get dirty throw them in the wash. Heck yeah!", "sentiment": "negative", "topics": {"0": "0.08791208", "1": "0.44162688", "2": "0.15614654", "4": "0.16805993", "5": "0.12715663"}}

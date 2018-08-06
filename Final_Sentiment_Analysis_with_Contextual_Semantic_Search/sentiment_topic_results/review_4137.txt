@@ -1,0 +1,1 @@
+{"text": "I like my pants really long, and these are not long at all. I was so excited since other reviews and the picture show them as being long, but nope...I just measured the inseam and the small is 31 inches. Bummer.", "sentiment": "negative", "topics": {"0": "0.10251589", "1": "0.31134602", "2": "0.09860535", "3": "0.3143043", "5": "0.1589042"}}

@@ -1,0 +1,1 @@
+{"text": "I have plantar fasciitis and high arches. These allow me to walk and even do some running without foot pain. I wear an 8 so didn't need to trim", "sentiment": "negative", "topics": {"0": "0.16910766", "1": "0.18727948", "3": "0.091213115", "4": "0.20874627", "5": "0.18623823", "6": "0.14845435"}}

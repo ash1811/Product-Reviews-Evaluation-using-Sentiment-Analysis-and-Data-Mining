@@ -1,0 +1,1 @@
+{"text": "I love the cut and feel. My only advice to everyone is know your sizes and measurements! Leotards like these can be tricky.", "sentiment": "positive", "topics": {"0": "0.011918866", "1": "0.011965266", "2": "0.011939204", "3": "0.36320606", "4": "0.011941001", "5": "0.3204112", "6": "0.26861843"}}

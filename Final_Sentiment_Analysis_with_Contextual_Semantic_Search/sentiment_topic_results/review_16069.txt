@@ -1,0 +1,1 @@
+{"text": "I got this for vacation and it served me very well.  I pack as lightly as possible, but there are things you can't do without.I like that you can hang it in the closet.", "sentiment": "negative", "topics": {"0": "0.10935049", "1": "0.20575003", "2": "0.2553203", "3": "0.11921732", "4": "0.010215233", "5": "0.010230398", "6": "0.28991625"}}

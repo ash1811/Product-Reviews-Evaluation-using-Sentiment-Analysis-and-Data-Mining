@@ -1,0 +1,1 @@
+{"text": "Got these jeans as a gift for my son. he loves them so we ordered more. Price was good as well. Delivery was FAST !!", "sentiment": "negative", "topics": {"0": "0.44829622", "1": "0.35844103", "2": "0.011039186", "3": "0.011043921", "4": "0.011040967", "5": "0.01105996", "6": "0.14907871"}}

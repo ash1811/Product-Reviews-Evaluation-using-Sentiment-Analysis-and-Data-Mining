@@ -1,0 +1,1 @@
+{"text": "Wow could not believe how comfortable they are ... once my feet felt wet/slippery in sandal heels ... Not now.  They are dry and comfortable and the little extra padding eliminated any foot pain I used to have after a long day at work.", "sentiment": "negative", "topics": {"1": "0.36669338", "2": "0.18159501", "3": "0.122369826", "4": "0.14257352", "5": "0.17429827"}}

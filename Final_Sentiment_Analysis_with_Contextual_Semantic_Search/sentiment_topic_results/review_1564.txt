@@ -1,0 +1,1 @@
+{"text": "this backpack is so adorable!! AND you can color it. I think for those craft type children this is a great classic backpack that they can add their own little flare too.", "sentiment": "negative", "topics": {"0": "0.19159098", "1": "0.17861643", "2": "0.39213622", "3": "0.21081385"}}

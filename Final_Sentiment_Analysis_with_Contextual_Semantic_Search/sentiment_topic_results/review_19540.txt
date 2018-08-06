@@ -1,0 +1,1 @@
+{"text": "i have purchased several of these over the years, still my favorite water shoes, very comfy and last pretty long time", "sentiment": "positive", "topics": {"0": "0.0110306535", "1": "0.44791013", "2": "0.2875482", "3": "0.011046181", "4": "0.011035694", "5": "0.22042695", "6": "0.011002199"}}

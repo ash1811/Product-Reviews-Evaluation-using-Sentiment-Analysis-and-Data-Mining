@@ -1,0 +1,1 @@
+{"text": "From the picture  they looked to have some purple in them but they are clear just like the title says.", "sentiment": "negative", "topics": {"0": "0.017894533", "1": "0.23651648", "2": "0.15289108", "3": "0.30053234", "4": "0.017936217", "5": "0.017875023", "6": "0.2563543"}}

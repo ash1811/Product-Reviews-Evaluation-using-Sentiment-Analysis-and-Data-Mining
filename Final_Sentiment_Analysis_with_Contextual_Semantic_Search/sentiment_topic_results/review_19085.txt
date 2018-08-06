@@ -1,0 +1,1 @@
+{"text": "Fits perfect! I wanted that I could fiddle with to keep my hands busy. Love it. This one is perfect!", "sentiment": "positive", "topics": {"0": "0.011034116", "1": "0.5875785", "2": "0.011040628", "3": "0.011050745", "4": "0.2643501", "5": "0.011012799", "6": "0.10393313"}}

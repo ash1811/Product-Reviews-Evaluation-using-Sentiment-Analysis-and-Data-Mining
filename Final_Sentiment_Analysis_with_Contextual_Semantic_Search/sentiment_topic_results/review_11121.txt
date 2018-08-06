@@ -1,0 +1,1 @@
+{"text": "Its made wll enough and has more than enough pockets.  It was a little loose around the middle but nothing that got in the way.", "sentiment": "negative", "topics": {"0": "0.011005147", "1": "0.53529793", "2": "0.16083986", "3": "0.011047889", "4": "0.011074996", "5": "0.011055009", "6": "0.25967914"}}

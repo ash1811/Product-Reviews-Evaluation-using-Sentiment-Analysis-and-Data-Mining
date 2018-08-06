@@ -1,0 +1,1 @@
+{"text": "Great sandal to wear all the time, but the bottom was too narrow for my husbands foot.  He had to wear a few times for them to stretch to fit.  A little disappointed in the fit, but he likes the look of the sandal.", "sentiment": "negative", "topics": {"1": "0.5895351", "3": "0.083111316", "4": "0.12849574", "5": "0.17624195"}}

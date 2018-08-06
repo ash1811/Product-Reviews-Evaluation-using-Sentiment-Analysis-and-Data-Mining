@@ -1,0 +1,1 @@
+{"text": "Just what I was looking for to replace a lost one. Good Carhardt quality I've come to expect. Very bright safety orange color.", "sentiment": "negative", "topics": {"1": "0.38886872", "2": "0.19329275", "3": "0.14695051", "5": "0.16270596", "6": "0.08909225"}}

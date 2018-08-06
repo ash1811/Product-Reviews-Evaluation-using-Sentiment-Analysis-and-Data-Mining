@@ -1,0 +1,1 @@
+{"text": "Cheap, too. If I lose it traveling or it breaks, just buy another one. Start a collection and tell your friends they cost twice as much.", "sentiment": "positive", "topics": {"0": "0.10751367", "1": "0.29989478", "2": "0.37883118", "5": "0.09420003", "6": "0.1016142"}}

@@ -1,0 +1,1 @@
+{"text": "This shawl is very nice and just what I needed.  I like that I can wear it with a formal dress/outfit, or a casual outfit (jeans/top/flats).  nice!", "sentiment": "positive", "topics": {"0": "0.011937314", "1": "0.5060066", "2": "0.0119281085", "3": "0.35099795", "4": "0.095196165", "5": "0.011934639", "6": "0.011999219"}}

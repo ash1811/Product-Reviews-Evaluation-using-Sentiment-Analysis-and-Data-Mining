@@ -1,0 +1,1 @@
+{"text": "In my size, 40\" waist, the waistband rolls down while wearing these boxers.  If you are super thin, this may work for you, but if you're overwight forget it.", "sentiment": "negative", "topics": {"1": "0.30774462", "3": "0.30570927", "6": "0.35069618"}}

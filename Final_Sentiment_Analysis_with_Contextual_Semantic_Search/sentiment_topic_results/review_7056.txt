@@ -1,0 +1,1 @@
+{"text": "I am more than pleased with this bra. I had ordered this size in another style and it did not have stretch straps. This style has stretch straps and the material of the bra is very comfortable. I would order again!", "sentiment": "negative", "topics": {"0": "0.11554078", "1": "0.35729986", "2": "0.13475183", "3": "0.21739377", "4": "0.15908033"}}

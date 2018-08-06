@@ -1,0 +1,1 @@
+{"text": "I absolutely loveeeeeeeeee this wallet. It has a lot of storage and it doesn't look sloppy. The leather is a good quality and expands if necessary.", "sentiment": "positive", "topics": {"0": "0.011009872", "1": "0.32641867", "2": "0.44382674", "3": "0.10328205", "4": "0.010995438", "5": "0.011001685", "6": "0.09346555"}}

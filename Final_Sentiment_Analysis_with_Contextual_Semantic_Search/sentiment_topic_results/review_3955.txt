@@ -1,0 +1,1 @@
+{"text": "Nice and soft and warm. I also love the dark thick sole, so I can wear them outsideto let the dog out for his pit-stop.", "sentiment": "negative", "topics": {"0": "0.26760805", "1": "0.29087633", "2": "0.010218082", "3": "0.010256568", "4": "0.12676367", "5": "0.28404558", "6": "0.010231763"}}

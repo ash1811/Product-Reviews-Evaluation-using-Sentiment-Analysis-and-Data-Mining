@@ -1,0 +1,1 @@
+{"text": "These are great adjustable water shoes. They are easy to put them on and adjust to fit the child'd foot. My son wore them all summer last year and they fit great and easy to wash.", "sentiment": "negative", "topics": {"1": "0.31026304", "2": "0.22932586", "4": "0.26737183", "5": "0.17153329"}}

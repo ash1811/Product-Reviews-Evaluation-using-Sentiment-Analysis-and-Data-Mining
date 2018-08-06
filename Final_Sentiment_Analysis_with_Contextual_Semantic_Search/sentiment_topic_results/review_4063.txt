@@ -1,0 +1,1 @@
+{"text": "Really don't like these!  The little springy thing doesn't like to stay on the button but it loves to give you a pinch on the neck!", "sentiment": "negative", "topics": {"0": "0.010270829", "1": "0.010255645", "2": "0.010250489", "3": "0.5597283", "4": "0.17131947", "5": "0.010234306", "6": "0.22794096"}}

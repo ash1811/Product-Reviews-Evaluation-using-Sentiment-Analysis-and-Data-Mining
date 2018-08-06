@@ -1,0 +1,1 @@
+{"text": "my husband has a hard time finding shoes that will stand up to the rigorous test of shopping with me, and these do!!  they are still the most comfortable desert boot he has found.", "sentiment": "positive", "topics": {"0": "0.21563768", "1": "0.20783374", "2": "0.10917484", "4": "0.25025016", "5": "0.20025194"}}

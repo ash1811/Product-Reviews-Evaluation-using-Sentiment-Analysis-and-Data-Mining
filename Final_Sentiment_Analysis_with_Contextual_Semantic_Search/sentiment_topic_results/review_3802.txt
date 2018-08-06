@@ -1,0 +1,1 @@
+{"text": "I gave three of these to the secretaries where I work.  They loved them.  The easily reversible band was a hit with them.", "sentiment": "negative", "topics": {"0": "0.14331986", "1": "0.24802212", "2": "0.20437719", "3": "0.23858923", "4": "0.01194856", "5": "0.011942615", "6": "0.14180042"}}

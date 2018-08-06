@@ -1,0 +1,1 @@
+{"text": "the flip flops were nice.  I liked the design and the way they were made.  They fit nice and look good.", "sentiment": "negative", "topics": {"0": "0.011915083", "1": "0.7278943", "2": "0.21232365", "3": "0.0119851455", "4": "0.012005306", "5": "0.011932629", "6": "0.011943852"}}

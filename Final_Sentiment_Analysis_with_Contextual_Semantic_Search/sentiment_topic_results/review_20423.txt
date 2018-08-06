@@ -1,0 +1,1 @@
+{"text": "Very good quality, soft and comfortable. Stands to the size. Totally worth the money. Will look for another pair but in different style.", "sentiment": "negative", "topics": {"1": "0.837089", "6": "0.11505123"}}

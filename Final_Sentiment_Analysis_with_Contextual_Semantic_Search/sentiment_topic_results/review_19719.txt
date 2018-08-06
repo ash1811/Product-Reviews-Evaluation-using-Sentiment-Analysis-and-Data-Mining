@@ -1,0 +1,1 @@
+{"text": "i wear this watch and once his died i immediately converted him. he keeps it at work and wears it there.", "sentiment": "negative", "topics": {"0": "0.013016962", "1": "0.52163464", "2": "0.24041039", "3": "0.013070968", "4": "0.013018322", "5": "0.18585128", "6": "0.012997427"}}

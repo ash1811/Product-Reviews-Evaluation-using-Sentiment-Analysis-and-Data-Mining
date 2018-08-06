@@ -1,0 +1,1 @@
+{"text": "Bought as a gift for a Doctor Who fan.  I think she is going to like it.  Good quality tie.", "sentiment": "negative", "topics": {"0": "0.52668965", "1": "0.41365474", "2": "0.011929158", "3": "0.011934999", "4": "0.011921572", "5": "0.011935785", "6": "0.01193407"}}

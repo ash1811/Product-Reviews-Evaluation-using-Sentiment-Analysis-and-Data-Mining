@@ -1,0 +1,1 @@
+{"text": "Levi's changed the 569 into skinny jeans. Career suicide if you ask me. I will never go back, even when they get smart and change them back after this terrible skinny jeans fad is over.", "sentiment": "negative", "topics": {"0": "0.090733446", "1": "0.11159305", "2": "0.12875426", "5": "0.43357554", "6": "0.2228667"}}

@@ -1,0 +1,1 @@
+{"text": "This is the second time I purhase these shirts and I'm very satisfied with the high quality of them.Totally recommended if you are a thin guy.", "sentiment": "positive", "topics": {"0": "0.011018767", "1": "0.4391317", "2": "0.10122753", "3": "0.011009697", "4": "0.12798458", "5": "0.011012834", "6": "0.29861486"}}

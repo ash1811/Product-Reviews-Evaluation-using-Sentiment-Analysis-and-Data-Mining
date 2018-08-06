@@ -1,0 +1,1 @@
+{"text": "I love my Berkenstocks, I have been wearing them now for well over a year and they are in great shape.  They are well worth the price.", "sentiment": "positive", "topics": {"0": "0.15530463", "1": "0.7795711", "2": "0.012998893", "3": "0.013050824", "4": "0.013057282", "5": "0.013029467", "6": "0.012987841"}}

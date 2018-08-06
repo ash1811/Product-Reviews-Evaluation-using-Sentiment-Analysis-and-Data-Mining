@@ -1,0 +1,1 @@
+{"text": "Bought for my daughter and we had to return it.  Color was very pretty but it ran small.  Otherwise, it would have been fine.", "sentiment": "negative", "topics": {"0": "0.011973041", "1": "0.38462403", "2": "0.43512896", "3": "0.011945677", "4": "0.011924449", "5": "0.011957932", "6": "0.13244587"}}

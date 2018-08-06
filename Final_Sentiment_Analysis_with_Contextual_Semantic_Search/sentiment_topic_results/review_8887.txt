@@ -1,0 +1,1 @@
+{"text": "Have had several pair of these shoes and do love that you can just slip on and go. These seem a little tight at first but hopefully willgive a little after wear. Nice support also.", "sentiment": "negative", "topics": {"0": "0.10304094", "1": "0.16238664", "2": "0.07639838", "3": "0.37555408", "4": "0.2667124"}}

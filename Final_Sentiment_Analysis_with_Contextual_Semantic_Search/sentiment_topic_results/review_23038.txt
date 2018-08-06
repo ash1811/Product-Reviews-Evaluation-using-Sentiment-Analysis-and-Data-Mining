@@ -1,0 +1,1 @@
+{"text": "These are very pretty, but a lot smaller in person.  I would recommend them, just know they are smaller then the pic shows.", "sentiment": "negative", "topics": {"0": "0.011990332", "1": "0.011969211", "2": "0.35108197", "3": "0.5891742", "4": "0.011930739", "5": "0.01193817", "6": "0.0119154155"}}

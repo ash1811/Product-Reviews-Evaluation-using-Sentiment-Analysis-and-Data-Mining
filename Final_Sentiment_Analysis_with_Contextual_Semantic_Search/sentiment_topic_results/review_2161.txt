@@ -1,0 +1,1 @@
+{"text": "Very comfortable, excellent cushioning, I walk on a lot of uneven surfaces (rocks) and these shoes give great stability; can't go wrong", "sentiment": "negative", "topics": {"0": "0.12678087", "1": "0.43923524", "2": "0.3053392", "3": "0.10172619"}}

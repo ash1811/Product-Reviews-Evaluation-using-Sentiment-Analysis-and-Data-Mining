@@ -1,0 +1,1 @@
+{"text": "The only reason I subtracted a star is that they were tighter than the other 29x43's that were ordered so they run a little small; had to be exchanged, but good pants.", "sentiment": "negative", "topics": {"0": "0.011016029", "1": "0.50950027", "2": "0.011046445", "3": "0.19382158", "4": "0.011022048", "5": "0.25260037", "6": "0.010993304"}}

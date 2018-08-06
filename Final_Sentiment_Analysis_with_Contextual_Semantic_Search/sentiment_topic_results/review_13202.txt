@@ -1,0 +1,1 @@
+{"text": "This pants like me. The fabric is very good quality, sturdy, with a cut that fits your body. The product is accurately described by the seller. Very good price-quality ratio. I love it and I recommend it", "sentiment": "positive", "topics": {"0": "0.07251932", "1": "0.5511502", "5": "0.34764442"}}

@@ -1,0 +1,1 @@
+I'm a C width. Wanted something with some level of support/arch and not too wide.This provided neither. Returned and went back to LLBean.

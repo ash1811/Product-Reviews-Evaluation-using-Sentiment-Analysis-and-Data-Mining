@@ -1,0 +1,1 @@
+{"text": "High quality, strong, supportive but still soft & comfortable. Was looking for a nice looking, indoor/outdoor soled slipper & this fits the bill.", "sentiment": "negative", "topics": {"1": "0.5928409", "4": "0.09079866", "6": "0.28045"}}

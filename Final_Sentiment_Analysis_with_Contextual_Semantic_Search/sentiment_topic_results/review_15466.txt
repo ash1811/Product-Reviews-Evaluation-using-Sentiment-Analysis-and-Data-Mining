@@ -1,0 +1,1 @@
+{"text": "These are geat sunglasses-comfortable, well made, durable. This is my first pair of very nice, somewhat expensive ones since I typically lose or break them pretty quickly, but the price was unbeatable and the quality is worth it!", "sentiment": "negative", "topics": {"0": "0.23685762", "1": "0.36936536", "2": "0.26780635", "4": "0.10726179"}}

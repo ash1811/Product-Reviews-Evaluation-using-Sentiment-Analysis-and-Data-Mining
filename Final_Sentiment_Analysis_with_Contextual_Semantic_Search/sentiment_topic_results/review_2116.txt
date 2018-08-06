@@ -1,0 +1,1 @@
+{"text": "Well made, good fitting shorts that always look trim, clean. A favorite that come out of the wash and dry cycles looking new, for a long time. Useful pocket arrangement.", "sentiment": "positive", "topics": {"0": "0.07790478", "1": "0.5434003", "3": "0.09721031", "4": "0.26191676"}}

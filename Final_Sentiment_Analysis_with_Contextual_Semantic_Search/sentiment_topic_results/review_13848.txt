@@ -1,0 +1,1 @@
+{"text": "These are a basic slip-on sneaker.  I bought them because they're washable.  I will only air dry to avoid yellowing of the canvas around the rubber sole.", "sentiment": "negative", "topics": {"0": "0.1204962", "1": "0.22579525", "2": "0.08649849", "5": "0.3827245", "6": "0.16537029"}}

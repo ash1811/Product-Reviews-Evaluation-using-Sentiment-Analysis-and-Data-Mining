@@ -1,0 +1,1 @@
+{"text": "I love these socks. The colour is perfect and they don't bother me when i wear them in shoes. I wear them for yoga and they are perfect. Would buy from again.", "sentiment": "negative", "topics": {"0": "0.010219223", "1": "0.54613143", "2": "0.08887737", "3": "0.010235312", "4": "0.01026811", "5": "0.24060075", "6": "0.093667835"}}

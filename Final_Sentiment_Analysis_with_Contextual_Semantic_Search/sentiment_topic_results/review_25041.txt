@@ -1,0 +1,1 @@
+{"text": "Have purchased these in the past.  Husband loves them.  These are replacements for older worn out boxers. Will buy again.", "sentiment": "negative", "topics": {"0": "0.011913154", "1": "0.20773292", "2": "0.31423074", "3": "0.011954485", "4": "0.2636491", "5": "0.011925942", "6": "0.17859364"}}

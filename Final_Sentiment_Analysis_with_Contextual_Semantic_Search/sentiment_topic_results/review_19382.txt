@@ -1,0 +1,1 @@
+{"text": "this is great for working in yard and garden- keeps mud and sand off my feet and looks good too. Very well made, will probably last for years.", "sentiment": "negative", "topics": {"0": "0.20105755", "1": "0.4637918", "3": "0.13807505", "4": "0.17181833"}}

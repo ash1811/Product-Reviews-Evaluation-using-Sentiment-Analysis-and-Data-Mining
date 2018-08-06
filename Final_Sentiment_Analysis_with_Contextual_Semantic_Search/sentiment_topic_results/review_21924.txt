@@ -1,0 +1,1 @@
+{"text": "carhartt makes a great winter jack in the USA that is made toughen enough to be use on the job not matter if your a rancher or construction worker", "sentiment": "positive", "topics": {"1": "0.3999464", "2": "0.06261087", "3": "0.27516356", "4": "0.23541692"}}

@@ -1,0 +1,1 @@
+{"text": "I had problems with the sole coming apart on one shoe. Then the leather would get the worst scratches and gouges from nothing. The leather was to soft for shoes, almost no durability.", "sentiment": "negative", "topics": {"0": "0.07278783", "1": "0.19305511", "2": "0.48944518", "3": "0.112424836", "5": "0.11722427"}}

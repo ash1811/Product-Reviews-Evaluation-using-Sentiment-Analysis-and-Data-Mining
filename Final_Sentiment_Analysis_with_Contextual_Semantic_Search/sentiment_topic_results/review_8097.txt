@@ -1,0 +1,1 @@
+{"text": "I purchased these because I love argyle and I needed some more substantial socks to where with my casual work clothes.  They're very comfortable and look great.  I'll probably buy another 2 pairs.", "sentiment": "positive", "topics": {"0": "0.081593975", "1": "0.54501367", "3": "0.10067185", "4": "0.25113454"}}

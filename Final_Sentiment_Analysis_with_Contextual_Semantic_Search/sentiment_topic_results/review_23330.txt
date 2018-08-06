@@ -1,0 +1,1 @@
+{"text": "Mailed fast, great product, perfect purchase for my husband who is older and looks for comfort fit in his denium.", "sentiment": "negative", "topics": {"0": "0.011051839", "1": "0.34905228", "2": "0.12707797", "3": "0.010999473", "4": "0.20666337", "5": "0.13980559", "6": "0.15534946"}}

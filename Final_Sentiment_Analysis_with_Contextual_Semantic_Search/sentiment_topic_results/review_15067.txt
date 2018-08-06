@@ -1,0 +1,1 @@
+{"text": "lightweight and roomy.  Very comfortable shoe. Would hightly recommend to walking enthusiasts.  Also a stylish looking shoe and can be worn casually.", "sentiment": "negative", "topics": {"0": "0.096623376", "1": "0.22598213", "2": "0.16532779", "4": "0.09106428", "5": "0.22952273", "6": "0.18252961"}}

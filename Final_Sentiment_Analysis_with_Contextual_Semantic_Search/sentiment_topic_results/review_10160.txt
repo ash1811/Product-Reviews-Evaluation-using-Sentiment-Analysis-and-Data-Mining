@@ -1,0 +1,1 @@
+{"text": "I do not like these earrings.  The earrings are not clear.  The color is a very odd shade of yellowishgold.  Not Sensational Clear Crystal earrings!", "sentiment": "positive", "topics": {"0": "0.1411666", "1": "0.372621", "2": "0.18273106", "3": "0.011039696", "4": "0.09518732", "5": "0.18624084", "6": "0.011013517"}}

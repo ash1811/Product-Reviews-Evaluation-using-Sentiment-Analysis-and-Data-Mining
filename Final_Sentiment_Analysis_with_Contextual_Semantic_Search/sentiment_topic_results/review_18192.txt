@@ -1,0 +1,1 @@
+{"text": "6 yrs and still awesome. had to scavange a new strap. but is my daily watch.. in the pool at the beach , cutting the lawnvery nearly 5 stars", "sentiment": "negative", "topics": {"0": "0.15470295", "1": "0.08679572", "2": "0.20647156", "3": "0.36969206", "5": "0.16550803"}}

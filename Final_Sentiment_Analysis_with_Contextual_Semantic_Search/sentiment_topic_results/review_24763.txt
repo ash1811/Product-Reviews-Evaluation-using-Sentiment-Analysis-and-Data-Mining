@@ -1,0 +1,1 @@
+{"text": "I got these for my fiance for his birthday as his other pajamas were wearing thin. He loves them! They fit well and are comfortable.", "sentiment": "negative", "topics": {"0": "0.011934017", "1": "0.48816046", "2": "0.1447257", "3": "0.011984825", "4": "0.011963844", "5": "0.12695894", "6": "0.20427223"}}

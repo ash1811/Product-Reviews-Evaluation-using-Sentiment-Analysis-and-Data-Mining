@@ -1,0 +1,1 @@
+{"text": "They get the job done, they are not the best but they work. They looked really nice with a garter belt I bought.", "sentiment": "negative", "topics": {"0": "0.011946987", "1": "0.5425377", "2": "0.23967916", "3": "0.0119451815", "4": "0.011952281", "5": "0.17000137", "6": "0.01193734"}}

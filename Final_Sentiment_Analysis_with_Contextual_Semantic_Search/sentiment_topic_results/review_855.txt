@@ -1,0 +1,1 @@
+{"text": "They are well-made, cool-looking, and comfortable for walking around all day.  Handy bottle openers on the bottoms are a genius touch.  This is my third pair of Reef Fannings.", "sentiment": "negative", "topics": {"0": "0.07826358", "1": "0.30453587", "2": "0.25810006", "4": "0.085616894", "5": "0.25662887"}}

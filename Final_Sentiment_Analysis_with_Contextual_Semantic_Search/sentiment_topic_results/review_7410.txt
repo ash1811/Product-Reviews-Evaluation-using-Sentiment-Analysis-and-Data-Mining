@@ -1,0 +1,1 @@
+{"text": "It's a sexy and simple set. She likes wearing this robe to prance around in and drive me nuts. The other piece is nice too.", "sentiment": "negative", "topics": {"0": "0.41280863", "1": "0.18992366", "2": "0.010227663", "3": "0.11197543", "4": "0.0102160275", "5": "0.010234558", "6": "0.25461406"}}

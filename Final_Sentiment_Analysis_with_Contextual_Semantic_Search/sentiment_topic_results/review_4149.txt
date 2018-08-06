@@ -1,0 +1,1 @@
+{"text": "Beautiful watch for dress wear; not suitable for every day unless you like a small faced watch.  I would recommend it.", "sentiment": "negative", "topics": {"0": "0.504785", "1": "0.12826677", "2": "0.21719667", "3": "0.122841515"}}

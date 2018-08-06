@@ -1,0 +1,1 @@
+{"text": "Runs a little tight across the top.  Soles are very hard.  Can not wear will hurt my back if walk in them too long because of rods in my back", "sentiment": "positive", "topics": {"0": "0.16466308", "1": "0.5740077", "3": "0.15330312", "6": "0.07938169"}}

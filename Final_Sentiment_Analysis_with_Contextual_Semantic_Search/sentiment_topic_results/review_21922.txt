@@ -1,0 +1,1 @@
+{"text": "I love these :) Super cute and work great for Pilates! The color is super cute as well...Definitely recommend them.", "sentiment": "negative", "topics": {"0": "0.31158382", "1": "0.47427985", "2": "0.16999632", "3": "0.011058315", "4": "0.011031395", "5": "0.011046896", "6": "0.01100342"}}

@@ -1,0 +1,1 @@
+{"text": "Ring was bought for grandchild's birthday.Nice quality and weight; good design touches...and she ishappy. Best deal yet!", "sentiment": "negative", "topics": {"0": "0.010218712", "1": "0.30609104", "2": "0.010239838", "3": "0.103053056", "4": "0.010217218", "5": "0.5499757", "6": "0.010204487"}}

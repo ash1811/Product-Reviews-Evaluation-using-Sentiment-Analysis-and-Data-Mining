@@ -1,0 +1,1 @@
+{"text": "The great looking bibs are durable for the tough jobs and have reinforced knees. I like the convenient pockets for the tools you use.", "sentiment": "positive", "topics": {"0": "0.08334853", "1": "0.47510725", "2": "0.010225558", "3": "0.010222555", "4": "0.21889399", "5": "0.010218457", "6": "0.19198366"}}

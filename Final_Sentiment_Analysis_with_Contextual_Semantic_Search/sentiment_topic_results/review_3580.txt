@@ -1,0 +1,1 @@
+{"text": "It does fit but I will order a cup larger next time and the straps slip down on my arms even if I adjust them.  I have tried many bras and at different price points and if I have to wear a bra this is ok.", "sentiment": "negative", "topics": {"0": "0.35179335", "1": "0.2215325", "2": "0.17417322", "3": "0.14570877", "4": "0.09376822"}}

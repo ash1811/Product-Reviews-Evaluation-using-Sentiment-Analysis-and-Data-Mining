@@ -1,0 +1,1 @@
+{"text": "i went to a local running shoe store and they fit me with these. I found them for much less money on amazon. They provide excellent support at an economical price.", "sentiment": "negative", "topics": {"0": "0.19110385", "1": "0.26956794", "2": "0.18129866", "4": "0.1207188", "5": "0.13880171", "6": "0.09051953"}}

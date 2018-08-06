@@ -1,0 +1,1 @@
+{"text": "i would still be wearing these today if my husband didn't do the wash..lollady wash these with care and unless you have a husband that knows his way around the laudry room keep him out...:)", "sentiment": "positive", "topics": {"0": "0.10106393", "1": "0.17170319", "3": "0.31578723", "4": "0.38756981"}}

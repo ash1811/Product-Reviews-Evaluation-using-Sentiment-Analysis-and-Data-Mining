@@ -1,0 +1,1 @@
+{"text": "The strap is so tiny..jeez..i dont even know why i expected it to be reasonably ok...i had to give out out to smeone immediately i saw it..i hate it", "sentiment": "negative", "topics": {"1": "0.20660076", "2": "0.4123726", "3": "0.2629753", "4": "0.089320146"}}

@@ -1,0 +1,1 @@
+{"text": "Totally in love with this shoe!  Fits perfectly and does not &#34;squish my toes&#34;.  Comfortable enough for all-day wear, and I have received many compliments on the look/style.  Pros: they slip-on; cons: none.", "sentiment": "negative", "topics": {"0": "0.1510435", "1": "0.27659613", "2": "0.14407557", "3": "0.16995552", "4": "0.24402162"}}

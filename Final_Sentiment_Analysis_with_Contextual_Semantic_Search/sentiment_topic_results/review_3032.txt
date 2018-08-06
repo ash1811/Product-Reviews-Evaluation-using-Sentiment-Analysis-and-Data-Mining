@@ -1,0 +1,1 @@
+{"text": "Have worn this brand for years, and this style really holds up for a large lady-and found for less cost on Amazon", "sentiment": "positive", "topics": {"0": "0.011009011", "1": "0.011026347", "2": "0.010995106", "3": "0.5384034", "4": "0.17153683", "5": "0.01103568", "6": "0.24599361"}}

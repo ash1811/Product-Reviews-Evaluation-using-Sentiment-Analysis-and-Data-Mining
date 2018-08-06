@@ -1,0 +1,1 @@
+{"text": "I can not get him out of these slippers - even wore to the store. He is thrilled! They fit great.", "sentiment": "positive", "topics": {"0": "0.015947787", "1": "0.38027465", "2": "0.015914552", "3": "0.15797001", "4": "0.015884973", "5": "0.23635776", "6": "0.17765024"}}

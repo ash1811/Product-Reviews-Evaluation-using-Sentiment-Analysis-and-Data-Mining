@@ -1,0 +1,1 @@
+{"text": "High Quality and Inexpensive. Excellent tote bag. I keep one in my car for those times I drop in at the food mart that is so organic they don't offer bags.", "sentiment": "positive", "topics": {"0": "0.14573304", "1": "0.2195711", "2": "0.6009929"}}

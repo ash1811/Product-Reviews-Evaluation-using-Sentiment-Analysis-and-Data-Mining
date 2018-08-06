@@ -1,0 +1,1 @@
+{"text": "These are great for around the house but I wouldn't really wear them out.  Very comfortable but not very stylish.", "sentiment": "negative", "topics": {"0": "0.015903352", "1": "0.5986157", "2": "0.015893348", "3": "0.015952528", "4": "0.015901227", "5": "0.01593816", "6": "0.32179567"}}

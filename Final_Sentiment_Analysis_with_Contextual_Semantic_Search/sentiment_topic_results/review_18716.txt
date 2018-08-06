@@ -1,0 +1,1 @@
+{"text": "Awesome item for the price. Exactly what I wanted. Search finally over. Trust I was searching for quiet some time.", "sentiment": "negative", "topics": {"0": "0.5415578", "1": "0.011021339", "2": "0.011027469", "3": "0.011000246", "4": "0.22167732", "5": "0.01102822", "6": "0.19268765"}}

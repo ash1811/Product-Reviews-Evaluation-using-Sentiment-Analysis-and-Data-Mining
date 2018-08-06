@@ -1,0 +1,1 @@
+{"text": "These worked out very well for my friend. They are affordable and durable. He wears them EVERY day. Wonderful gift.", "sentiment": "negative", "topics": {"0": "0.1878959", "1": "0.013063992", "2": "0.013018365", "3": "0.012997526", "4": "0.012989483", "5": "0.5997975", "6": "0.1602373"}}

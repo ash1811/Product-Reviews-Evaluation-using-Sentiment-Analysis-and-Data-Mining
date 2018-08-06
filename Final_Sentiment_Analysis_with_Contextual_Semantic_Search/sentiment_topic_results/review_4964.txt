@@ -1,0 +1,1 @@
+{"text": "my husband bought these after his other ones finally &#34;died&#34;. 10 years later. These are great, he wears a 14-15 and the 48M fit great. some break in require to soften the leather but not much. THe color is perfect too.", "sentiment": "negative", "topics": {"1": "0.32501516", "2": "0.12772079", "3": "0.056130555", "4": "0.17640565", "5": "0.3022585"}}

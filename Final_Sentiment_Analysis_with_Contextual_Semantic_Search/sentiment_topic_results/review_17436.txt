@@ -1,0 +1,1 @@
+{"text": "These sweatpants were not exactly what I was looking for, but I am not displeased with them either. They are lighter than I thought & I like a thicker elastic band. Overall, I am happy with them though", "sentiment": "negative", "topics": {"0": "0.20817572", "1": "0.23754162", "4": "0.14579274", "6": "0.381639"}}

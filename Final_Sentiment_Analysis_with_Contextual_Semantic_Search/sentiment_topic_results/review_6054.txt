@@ -1,0 +1,1 @@
+{"text": "The only thing I would recommend is if you want to wear socks with them order a 1/2 size or whole size up. I like to wear thick socks in the winter, I ordered my regular size and I can barely wear a thin sock. But all and all they are good quality.", "sentiment": "negative", "topics": {"0": "0.116058365", "1": "0.30035892", "3": "0.34315604", "5": "0.2245166"}}

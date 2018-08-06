@@ -1,0 +1,1 @@
+{"text": "I was taking a stab at what size I would need.  I own a pair from a million years ago that are XL.  They are big, so I thought I would buy a L.  Turns out, I need a medium.  NO worries, I still love them. Great pants, great color, I love everything about them.", "sentiment": "positive", "topics": {"1": "0.3476099", "2": "0.1546", "3": "0.28669968", "6": "0.1972322"}}

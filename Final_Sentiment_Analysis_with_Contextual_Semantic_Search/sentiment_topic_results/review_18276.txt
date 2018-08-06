@@ -1,0 +1,1 @@
+{"text": "This is a great digital watch with a lot of neat features (stopwatch). It's small and delicate which is a perfect fit for me. I recommend it!", "sentiment": "negative", "topics": {"1": "0.4923355", "2": "0.15283383", "4": "0.1748258", "6": "0.151352"}}

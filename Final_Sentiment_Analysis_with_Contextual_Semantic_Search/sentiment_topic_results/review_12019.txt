@@ -1,0 +1,1 @@
+{"text": "Wish more colors available in my size (13B) and wish that the shoe did not cost so much. I try to order on sale and out of season.", "sentiment": "negative", "topics": {"0": "0.19249405", "1": "0.3056632", "2": "0.23192206", "3": "0.15836342", "4": "0.091104634", "5": "0.010224561", "6": "0.010228067"}}

@@ -1,0 +1,1 @@
+{"text": "These slipper shoes seems true to size, and they look quite good once the lace is darkened with a permanent magic marker; otherwise there is too much contrast and they look cheap. Once the laces are darkened, they look good.", "sentiment": "negative", "topics": {"1": "0.45173508", "2": "0.20301495", "3": "0.11939618", "6": "0.20719214"}}

@@ -1,0 +1,1 @@
+{"text": "Teva flops offer super comfort & support. They hold up extremely well & fit great. My favorite brand hands & feet down!", "sentiment": "negative", "topics": {"0": "0.08468828", "1": "0.29798144", "3": "0.36002266", "5": "0.23197824"}}

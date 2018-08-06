@@ -1,0 +1,1 @@
+{"text": "people at my son's school gave me &#34;best costume&#34; award for this outfit.  It is soooo cheap, but it looked great.  I'm wearing it next year which makes it even better in value.", "sentiment": "positive", "topics": {"0": "0.22489707", "1": "0.200735", "2": "0.2614638", "3": "0.0985321", "4": "0.08194641", "5": "0.12560375"}}

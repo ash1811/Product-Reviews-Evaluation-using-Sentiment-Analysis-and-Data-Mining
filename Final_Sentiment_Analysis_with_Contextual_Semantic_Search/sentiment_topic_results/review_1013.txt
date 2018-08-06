@@ -1,0 +1,1 @@
+{"text": "it is so fit for me, now i know i am 6.5M(USA). and it's looks very nice.so cheap for me,because in china Clarks is  at least high than 180$-200$.", "sentiment": "negative", "topics": {"0": "0.59210205", "1": "0.14514707", "2": "0.010233053", "3": "0.010268365", "4": "0.01021487", "5": "0.09931802", "6": "0.1327166"}}

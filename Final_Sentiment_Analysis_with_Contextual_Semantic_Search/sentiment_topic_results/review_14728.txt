@@ -1,0 +1,1 @@
+{"text": "One of the best watches out there for rugged wear, nice illumination very accurate and durable, Love the navy seal logo", "sentiment": "negative", "topics": {"0": "0.010225799", "1": "0.23787877", "2": "0.17364745", "3": "0.010235362", "4": "0.14579445", "5": "0.27053675", "6": "0.15168144"}}

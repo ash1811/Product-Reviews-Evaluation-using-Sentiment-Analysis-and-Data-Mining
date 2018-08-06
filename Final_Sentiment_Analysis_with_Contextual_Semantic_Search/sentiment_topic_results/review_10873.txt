@@ -1,0 +1,1 @@
+{"text": "These are pretty much what I expected, they have a little support and a thick rubber sole and are comfortable.  They seem true to size, but do stretch out a little after wearing them for a few days.", "sentiment": "negative", "topics": {"1": "0.63919693", "3": "0.31865337"}}

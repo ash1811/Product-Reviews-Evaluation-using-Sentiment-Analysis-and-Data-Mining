@@ -1,0 +1,1 @@
+{"text": "Very pretty, just what was needed for a gift for my sister.  It does measure about 15 inchs instead of 16 inches but minor detail.", "sentiment": "negative", "topics": {"0": "0.2154257", "1": "0.0110407835", "2": "0.4215163", "3": "0.25649348", "4": "0.073477216", "5": "0.011000187", "6": "0.011046302"}}

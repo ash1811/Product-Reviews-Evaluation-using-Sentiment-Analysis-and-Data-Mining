@@ -1,0 +1,1 @@
+{"text": "Great combinations, colors fun, styles varied, elastic good quality, stay in place. Time after time Hanes gives quality for price. Looked through panties and a 6 pack for this price - you can't go wrong!", "sentiment": "positive", "topics": {"1": "0.7214147", "2": "0.09433139", "4": "0.16220015"}}

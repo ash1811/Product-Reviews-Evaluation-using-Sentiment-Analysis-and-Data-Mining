@@ -1,0 +1,1 @@
+{"text": "Fits good, feels good, looks good. What more can I say, except to fill up words required on this review. Oh, yeah, sorry I did not buy two.", "sentiment": "positive", "topics": {"1": "0.6344999", "4": "0.103201866", "5": "0.073704794", "6": "0.16473474"}}

@@ -1,0 +1,1 @@
+{"text": "I own other Dr. Scholl shoes and I enjoy wearing them all. These are a perfect fit with a comfortable foot bed. They came well-packaged and quickly. Definitely recommend.", "sentiment": "positive", "topics": {"1": "0.4066854", "2": "0.181086", "3": "0.04757058", "4": "0.3393621"}}

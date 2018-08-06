@@ -1,0 +1,1 @@
+{"text": "I use this around the house for all of the cooking and icing and heat therapy that I do.  Works like a charm...", "sentiment": "positive", "topics": {"0": "0.011932271", "1": "0.011933787", "2": "0.31720737", "3": "0.011965152", "4": "0.13573869", "5": "0.19208702", "6": "0.31913573"}}

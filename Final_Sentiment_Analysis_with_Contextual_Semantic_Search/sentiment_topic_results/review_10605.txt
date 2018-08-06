@@ -1,0 +1,1 @@
+{"text": "Very nice quality. Buttons match the shirt color.  Retro white accents are a nice touch.  Wonderful value for the price.", "sentiment": "negative", "topics": {"0": "0.09406883", "1": "0.42008683", "5": "0.21406288", "6": "0.24315129"}}

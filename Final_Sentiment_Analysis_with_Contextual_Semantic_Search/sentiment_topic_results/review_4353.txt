@@ -1,0 +1,1 @@
+{"text": "Disappointed at the color, the picture shows a light khaki, but you actually get am almost taupe  color. Not to mention that the size was a bit large. It is wrinkle and stain resistant which is nice and we decided it was worth keeping.", "sentiment": "negative", "topics": {"0": "0.05975115", "1": "0.46591514", "2": "0.23174196", "3": "0.13939951", "5": "0.090752505"}}

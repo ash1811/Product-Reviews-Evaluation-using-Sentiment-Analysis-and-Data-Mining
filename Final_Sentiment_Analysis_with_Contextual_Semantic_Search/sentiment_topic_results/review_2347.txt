@@ -1,0 +1,1 @@
+{"text": "I gave this boot to my son for Christmas and he loved them!  He's a welder and wanted something light weight and this did the trick!", "sentiment": "positive", "topics": {"0": "0.010239955", "1": "0.26460186", "2": "0.23506363", "3": "0.010245401", "4": "0.21021074", "5": "0.25938946", "6": "0.010248983"}}

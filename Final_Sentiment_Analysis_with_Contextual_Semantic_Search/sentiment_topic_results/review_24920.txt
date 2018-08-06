@@ -1,0 +1,1 @@
+{"text": "Love these insoles.  I have several foot problems and these insoles allow me to walk pain free in my athletic shoes.  I recommend these for anyone who looking for a good insole for an athletic shoe.", "sentiment": "negative", "topics": {"1": "0.10321136", "2": "0.315354", "3": "0.0922057", "4": "0.3135793", "5": "0.16131353"}}

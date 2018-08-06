@@ -1,0 +1,1 @@
+{"text": "this was a good buy at a very cheap price. my wife looks incredibly sexy in this, although it wasn't on very long...instant wood!", "sentiment": "negative", "topics": {"0": "0.011043782", "1": "0.43020853", "2": "0.20685528", "3": "0.1462678", "4": "0.011035897", "5": "0.18358661", "6": "0.011002121"}}

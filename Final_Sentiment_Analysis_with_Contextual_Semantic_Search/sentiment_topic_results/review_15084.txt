@@ -1,0 +1,1 @@
+{"text": "These shoes seem very good quality. However, they are a bit hot, because they don't breathe. And they aren't the most comfortable shoes ever.", "sentiment": "negative", "topics": {"0": "0.011944561", "1": "0.5178049", "2": "0.42250478", "3": "0.011955653", "4": "0.01193905", "5": "0.011930213", "6": "0.011920792"}}

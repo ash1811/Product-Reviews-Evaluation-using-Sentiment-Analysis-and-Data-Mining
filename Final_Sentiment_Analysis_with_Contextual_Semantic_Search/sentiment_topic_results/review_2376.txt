@@ -1,0 +1,1 @@
+{"text": "Looks good, feels good, has held up well (been using them 5 days a week for the past 8 months). No complaints except the price -  55$ seems a bit much, could be cheaper. Don't remember how much I paid for it.", "sentiment": "positive", "topics": {"0": "0.1077071", "1": "0.68464714", "2": "0.06662518", "3": "0.12566924"}}

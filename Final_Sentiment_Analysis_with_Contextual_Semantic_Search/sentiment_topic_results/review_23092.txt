@@ -1,0 +1,1 @@
+{"text": "My SIL loves these boots wears them whenever posible because after all they are Fryes, who would not.Not my thing, however younger people than me will love them", "sentiment": "negative", "topics": {"0": "0.24214686", "1": "0.2289453", "2": "0.19618146", "4": "0.20076714", "5": "0.112868816"}}

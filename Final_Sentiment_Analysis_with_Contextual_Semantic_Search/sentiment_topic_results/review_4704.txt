@@ -1,0 +1,1 @@
+{"text": "The \"bandanna\" barely covers the top of my head, and the string that is used to tie it runs around the entire front as well leaving a massive line across the forehead!  Major fail!", "sentiment": "negative", "topics": {"0": "0.19073454", "1": "0.18872595", "2": "0.14731462", "3": "0.21294221", "4": "0.10627688", "5": "0.14717513"}}

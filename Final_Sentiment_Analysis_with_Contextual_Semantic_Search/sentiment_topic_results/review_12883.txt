@@ -1,0 +1,1 @@
+{"text": "What can I say, we're Uggs people. It's comfy and it keeps our toes warm during winter. I buy Uggs every year.", "sentiment": "negative", "topics": {"0": "0.26714194", "1": "0.55672085", "2": "0.010275231", "3": "0.010297335", "4": "0.010258371", "5": "0.010240859", "6": "0.13506544"}}

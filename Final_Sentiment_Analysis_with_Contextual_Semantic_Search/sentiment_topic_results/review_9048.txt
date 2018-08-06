@@ -1,0 +1,1 @@
+{"text": "the straps do come in handy to make you feel more secure with each step. very comfortable and nice looking. fast shipping. thank you.", "sentiment": "positive", "topics": {"1": "0.27085173", "2": "0.28923988", "3": "0.40166804"}}

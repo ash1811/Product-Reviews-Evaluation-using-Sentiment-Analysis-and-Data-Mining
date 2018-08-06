@@ -1,0 +1,1 @@
+{"text": "I bought these slippers for a friend who lives in an old New England Victorian that is impossible to keep warm.  They fit perfectly and he says they're really comfortable and warm.", "sentiment": "negative", "topics": {"0": "0.07827184", "1": "0.4038247", "3": "0.08396065", "5": "0.23686667", "6": "0.18200442"}}

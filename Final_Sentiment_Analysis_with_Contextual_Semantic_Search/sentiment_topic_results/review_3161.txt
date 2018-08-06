@@ -1,0 +1,1 @@
+{"text": "The fabric is very cheap quality and seems like it would easily tear.  I returned these and got a pair of more comfortable and better quality Wranglers instead.", "sentiment": "negative", "topics": {"1": "0.5266696", "3": "0.25865003", "5": "0.18091059"}}

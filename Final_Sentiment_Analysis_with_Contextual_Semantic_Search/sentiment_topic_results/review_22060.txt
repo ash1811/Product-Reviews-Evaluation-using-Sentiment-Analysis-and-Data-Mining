@@ -1,0 +1,1 @@
+{"text": "This is a very durable and warm glove.  This is the second time I have bought these gloves and they are still as well made as the ones I purchased 12+ years ago.", "sentiment": "negative", "topics": {"1": "0.60821795", "2": "0.20194186", "3": "0.09056014", "6": "0.07242536"}}

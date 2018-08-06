@@ -1,0 +1,1 @@
+{"text": "Love these, sooo soft!  Fit great (ordered a small, I wear 7.5/38 shoe).  Excellent quality.  Going to buy some more.", "sentiment": "negative", "topics": {"1": "0.66595966", "2": "0.18805979", "4": "0.1122831"}}

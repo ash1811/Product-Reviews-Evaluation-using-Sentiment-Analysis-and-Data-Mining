@@ -1,0 +1,1 @@
+{"text": "This a wonderful product I carry everything in there I have a lot of stuff that I used when I travel so it has become a great help.Marina", "sentiment": "negative", "topics": {"0": "0.011959425", "1": "0.011998321", "2": "0.1242189", "3": "0.21775149", "4": "0.13165925", "5": "0.49042752", "6": "0.011985055"}}

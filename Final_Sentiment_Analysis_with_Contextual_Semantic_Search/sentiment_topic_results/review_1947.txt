@@ -1,0 +1,1 @@
+{"text": "Not sure -- bought it for a friend who is outside USA & cannot order herself.  She obviously loves them, as this was a second order", "sentiment": "positive", "topics": {"0": "0.18495883", "1": "0.010328598", "2": "0.10505757", "3": "0.32495007", "4": "0.23147233", "5": "0.13300745", "6": "0.010225141"}}

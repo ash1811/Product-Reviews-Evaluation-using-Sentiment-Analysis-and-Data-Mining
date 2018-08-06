@@ -1,0 +1,1 @@
+{"text": "Good fit and quality.  Nice to have navy to wear for everyday riding.  I feel I cannot say enough about how pleased we were with all the breeches.", "sentiment": "negative", "topics": {"0": "0.10828914", "1": "0.43841472", "3": "0.14398125", "4": "0.10893528", "6": "0.18130125"}}

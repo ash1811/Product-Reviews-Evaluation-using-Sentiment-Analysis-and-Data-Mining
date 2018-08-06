@@ -1,0 +1,1 @@
+{"text": "These boots fit well, look great and you can polish them to nice shine. Look good with the uniform. Only problem is the snap flap which is very hard to make snap once you have the boots on.", "sentiment": "positive", "topics": {"0": "0.15974769", "1": "0.462148", "4": "0.106195316", "5": "0.19600227", "6": "0.06155195"}}

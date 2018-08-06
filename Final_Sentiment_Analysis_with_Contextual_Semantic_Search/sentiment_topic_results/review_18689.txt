@@ -1,0 +1,1 @@
+{"text": "lace part has sticky thingy to stuck to thigh but wont hold. ok quality product. the fishnet holes are too big for toes and all ten of them will come out funny.", "sentiment": "negative", "topics": {"1": "0.43111333", "2": "0.118922055", "3": "0.14230582", "4": "0.08687702", "5": "0.0868068", "6": "0.12644891"}}

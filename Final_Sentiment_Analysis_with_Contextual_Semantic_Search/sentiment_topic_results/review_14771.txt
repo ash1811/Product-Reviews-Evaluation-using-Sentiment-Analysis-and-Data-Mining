@@ -1,0 +1,1 @@
+{"text": "I have a jewelry cleaner - just a little of this and I also use a little of Dawn dishwashing to it and it does a fabulous job!  cleans inside and out of all my jewelry!!", "sentiment": "negative", "topics": {"0": "0.19555384", "1": "0.45286343", "2": "0.14231662", "3": "0.010239591", "4": "0.11808299", "5": "0.0707293", "6": "0.010214247"}}

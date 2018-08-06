@@ -1,0 +1,1 @@
+{"text": "I got these shhoes for my father who loves going hiking and he really loves them, he now wears them everyday for the morning walk.", "sentiment": "negative", "topics": {"0": "0.1325617", "1": "0.27866122", "2": "0.010233836", "3": "0.13536142", "4": "0.30038282", "5": "0.010236539", "6": "0.13256244"}}

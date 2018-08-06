@@ -1,0 +1,1 @@
+{"text": "Good sturdy boots, great here on the farm etc.  Could use flocking etc inside to make on-off easier. and no more to say but they want more words....", "sentiment": "negative", "topics": {"0": "0.1634211", "1": "0.49909845", "2": "0.10058761", "4": "0.08504607", "6": "0.13588601"}}

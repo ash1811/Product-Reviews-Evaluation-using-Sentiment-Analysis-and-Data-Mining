@@ -1,0 +1,1 @@
+{"text": "These are warm and seem durable.I like them a lot. I can't say I &#34;love&#34; them, though, because I don't. I don't know what it would take for me to &#34;love&#34; my slippers. These are just great.", "sentiment": "negative", "topics": {"1": "0.16953537", "2": "0.13010591", "3": "0.28381607", "6": "0.39264986"}}

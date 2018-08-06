@@ -1,0 +1,1 @@
+{"text": "Really soft and comfortable slippers with good support.  I will say they are on the large size for sure.  I typically wear a 6 1/2 so I purchased the medium...really too big for me so I gave them to my daughter who loves them.", "sentiment": "positive", "topics": {"0": "0.08082747", "1": "0.35648078", "2": "0.07811586", "3": "0.3393922", "6": "0.13214494"}}

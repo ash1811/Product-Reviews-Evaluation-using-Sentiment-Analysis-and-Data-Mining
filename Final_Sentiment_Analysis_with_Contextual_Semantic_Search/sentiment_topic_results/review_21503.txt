@@ -1,0 +1,1 @@
+{"text": "This is a wonderful classy watch for daily or occasional wear. I WISH it came with a battery though. Oh well. It's a little thing and not a big deal.", "sentiment": "negative", "topics": {"0": "0.26197642", "1": "0.3517344", "2": "0.11294947", "3": "0.13042662", "4": "0.12603942"}}

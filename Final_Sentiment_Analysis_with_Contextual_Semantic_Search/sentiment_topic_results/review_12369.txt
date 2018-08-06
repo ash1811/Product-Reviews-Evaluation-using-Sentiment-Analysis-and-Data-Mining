@@ -1,0 +1,1 @@
+{"text": "covers ears and true to size, think enough to be warm, great for work to wear under hard had and keeps hat from falling in face due to rim on this hat.", "sentiment": "negative", "topics": {"0": "0.075135596", "1": "0.22625339", "3": "0.34815696", "4": "0.09893939", "5": "0.13433166", "6": "0.10964559"}}

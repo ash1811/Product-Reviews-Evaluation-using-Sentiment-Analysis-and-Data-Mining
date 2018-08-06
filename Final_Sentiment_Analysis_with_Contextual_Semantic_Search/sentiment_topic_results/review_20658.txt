@@ -1,0 +1,1 @@
+{"text": "It looked good when arrived but fit a bit large. But after I washed it became a piece of rag and looked like it was worn for years! The color faded too, I won't wear it again.", "sentiment": "negative", "topics": {"0": "0.22840016", "1": "0.34315842", "2": "0.054054968", "5": "0.21277568", "6": "0.14726216"}}

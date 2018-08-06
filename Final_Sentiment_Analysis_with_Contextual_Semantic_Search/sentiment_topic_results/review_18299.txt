@@ -1,0 +1,1 @@
+{"text": ".buena calidad de los relojes , lo que m&aacute;s gusta es la calidad , se lo recomend&eacute; a los amigos", "sentiment": "negative", "topics": {"0": "0.09329466", "1": "0.29670724", "2": "0.109049335", "3": "0.12476839", "5": "0.36023486"}}

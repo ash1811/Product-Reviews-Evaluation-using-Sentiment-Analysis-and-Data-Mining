@@ -1,0 +1,1 @@
+{"text": "Works great for long dog walks on sub zero days. Just remember to take it off when you go to the bank.", "sentiment": "negative", "topics": {"0": "0.15672351", "1": "0.4288293", "2": "0.08962576", "3": "0.011007563", "4": "0.011001643", "5": "0.29180303", "6": "0.011009183"}}

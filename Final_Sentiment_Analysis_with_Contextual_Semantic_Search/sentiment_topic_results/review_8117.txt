@@ -1,0 +1,1 @@
+{"text": "I never can find a sandal I like. Why don't they come in half sizes. I wish it were a hair bigger", "sentiment": "negative", "topics": {"0": "0.013017232", "1": "0.5525787", "2": "0.013054433", "3": "0.38226274", "4": "0.013021496", "5": "0.013013662", "6": "0.013051706"}}

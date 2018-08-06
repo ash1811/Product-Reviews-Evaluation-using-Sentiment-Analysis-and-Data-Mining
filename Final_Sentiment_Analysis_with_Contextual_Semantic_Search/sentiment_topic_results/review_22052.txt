@@ -1,0 +1,1 @@
+{"text": "I bought the shirt and pants. These are awful. They fell apart after only 2 washings, in cold and no dryer. Stay away from these. Not worth even a tenth the price.", "sentiment": "negative", "topics": {"0": "0.32432395", "1": "0.22031265", "2": "0.16534448", "5": "0.2661122"}}

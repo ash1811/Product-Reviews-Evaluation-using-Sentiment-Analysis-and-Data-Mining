@@ -1,0 +1,1 @@
+{"text": "Very pretty candy orchid scrubs. Not very soft like a lot of Dickies but hopefully after several washings they will soften.", "sentiment": "negative", "topics": {"0": "0.011054109", "1": "0.39294916", "2": "0.34905845", "3": "0.10833381", "4": "0.11655843", "5": "0.011013165", "6": "0.011032866"}}

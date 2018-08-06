@@ -1,0 +1,1 @@
+{"text": "We both love it and constantly wear it! It arrived quickly and as described, very good quality (does not leave green ring on your finger!). I recommend it.", "sentiment": "positive", "topics": {"0": "0.12592344", "1": "0.36197063", "2": "0.17271881", "3": "0.09085592", "4": "0.23170471"}}

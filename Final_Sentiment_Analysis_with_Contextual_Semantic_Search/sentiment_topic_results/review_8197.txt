@@ -1,0 +1,1 @@
+{"text": "These shoes were a great fit and a great value.  Even though I bowl only casually, I usually have a hard time with the shoes, and risk falling.  That will no longer be a problem.", "sentiment": "negative", "topics": {"0": "0.13180579", "1": "0.22775412", "2": "0.17613009", "4": "0.07046234", "5": "0.3005388", "6": "0.08533555"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my daughter-in-law.  She likes them as much as I do.  I have been wearing this style for 10 years.", "sentiment": "positive", "topics": {"0": "0.01435219", "1": "0.58731395", "2": "0.014336427", "3": "0.014325497", "4": "0.18117122", "5": "0.014339365", "6": "0.17416134"}}

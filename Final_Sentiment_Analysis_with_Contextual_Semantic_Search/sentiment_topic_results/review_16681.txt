@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable sandal.  Perfect for the summer.  It's a little pricey but I can understand why.  If you have to go through the airport, it's easy to take off and put back on when you go through the security checkpoint.", "sentiment": "negative", "topics": {"1": "0.63053", "3": "0.3295635"}}

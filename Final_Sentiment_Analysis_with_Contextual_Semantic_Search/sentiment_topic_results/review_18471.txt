@@ -1,0 +1,1 @@
+{"text": "These shoes were not that comfortable. They have no arch support. I did not think they were made very well. I returned them. Don' think I will buy shoes online again", "sentiment": "negative", "topics": {"1": "0.36800355", "2": "0.21357927", "3": "0.22764465", "5": "0.09581118", "6": "0.0758543"}}

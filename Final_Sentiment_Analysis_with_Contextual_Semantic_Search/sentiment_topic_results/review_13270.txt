@@ -1,0 +1,1 @@
+{"text": "These look good and feel good. I got them to wear under boots and over jeans. Very well made. Super soft and beautiful yarn as well. I recommend you get these if you are shopping for legwarmers.", "sentiment": "negative", "topics": {"1": "0.3960101", "2": "0.07654436", "4": "0.17806667", "5": "0.3278581"}}

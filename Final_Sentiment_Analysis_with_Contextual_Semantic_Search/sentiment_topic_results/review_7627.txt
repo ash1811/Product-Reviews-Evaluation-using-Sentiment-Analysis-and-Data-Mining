@@ -1,0 +1,1 @@
+{"text": "Bought these to give then a try. Yes they fit nice, look okay & wear well. They are so smooth that you the feel you have nothing on. This is a guys view. I like them.", "sentiment": "positive", "topics": {"1": "0.4282884", "3": "0.18518563", "4": "0.073999695", "5": "0.10742199", "6": "0.1900033"}}

@@ -1,0 +1,1 @@
+{"text": "This product speaks for itself.  A classic product...NOT just for police.  Actually has a great tread...pretty water resistant and warm so makes a great winter boot and goes well with jeans.", "sentiment": "negative", "topics": {"0": "0.036175016", "1": "0.35201198", "2": "0.2524462", "4": "0.18699503", "5": "0.15801089"}}

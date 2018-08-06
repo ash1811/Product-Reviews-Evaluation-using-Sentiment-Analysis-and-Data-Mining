@@ -1,0 +1,1 @@
+{"text": "So I ordered another pair . Comfortable, reliable sizing, good shock absorption, wide enough for my B width feet; I wear them constantly.", "sentiment": "negative", "topics": {"1": "0.47927633", "2": "0.0873122", "3": "0.108221486", "4": "0.299931"}}

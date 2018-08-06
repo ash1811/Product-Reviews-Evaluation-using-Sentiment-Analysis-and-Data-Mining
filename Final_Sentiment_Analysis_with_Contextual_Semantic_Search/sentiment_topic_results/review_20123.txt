@@ -1,0 +1,1 @@
+{"text": "It has lots of pockets & straps, seems very well made.  It will be used most days, making the lifetime warranty very attractive.", "sentiment": "positive", "topics": {"0": "0.011018009", "1": "0.32695043", "2": "0.2060294", "3": "0.011024877", "4": "0.19436598", "5": "0.011026872", "6": "0.23958448"}}

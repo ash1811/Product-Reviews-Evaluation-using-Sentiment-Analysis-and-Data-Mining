@@ -1,0 +1,1 @@
+{"text": "Excellent conformation, solide soles, and, most importantly very comfortable. Moc style slipper you can walk to the patio and water roses.", "sentiment": "negative", "topics": {"1": "0.26172757", "2": "0.27409443", "5": "0.27551028", "6": "0.1599103"}}

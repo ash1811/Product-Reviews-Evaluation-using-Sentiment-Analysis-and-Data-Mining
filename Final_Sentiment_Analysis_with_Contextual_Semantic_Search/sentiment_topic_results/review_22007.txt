@@ -1,0 +1,1 @@
+{"text": "These are great i got them for about $60. They are do leak a little water if you are kneeling on wet pavement which is annoying but other than that they are very warm and do the job. I'd buy again.", "sentiment": "negative", "topics": {"0": "0.078360334", "1": "0.57257825", "2": "0.07872198", "3": "0.07664093", "4": "0.07396881", "6": "0.110752985"}}

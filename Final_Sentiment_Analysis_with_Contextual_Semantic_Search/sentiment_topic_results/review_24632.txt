@@ -1,0 +1,1 @@
+{"text": "These are well made leotards. For my size 6, almost 7 year old daughter, the size 6-8 fit perfectly. Capezio leotards and ballet slippers are awesome.", "sentiment": "negative", "topics": {"1": "0.3010833", "2": "0.22725193", "3": "0.23177966", "6": "0.2183894"}}

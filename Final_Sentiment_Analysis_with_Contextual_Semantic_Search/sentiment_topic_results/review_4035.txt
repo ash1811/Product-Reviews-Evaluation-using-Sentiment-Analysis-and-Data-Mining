@@ -1,0 +1,1 @@
+{"text": "You can't go wrong with isotones, fit great, don't fall apart in the washer,", "sentiment": "negative", "topics": {"0": "0.014352338", "1": "0.5130354", "2": "0.12499748", "3": "0.014344044", "4": "0.014311467", "5": "0.20077458", "6": "0.11818466"}}

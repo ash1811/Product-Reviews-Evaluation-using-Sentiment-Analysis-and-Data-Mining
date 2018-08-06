@@ -1,0 +1,1 @@
+{"text": "I washed the jeans before trying them on and they seem a bit snug. Will probably stretch out. Don't know if they're supposed to be pre-shrunk. I haven't gained any weight since I bought some other jeans last year.", "sentiment": "positive", "topics": {"1": "0.35904875", "5": "0.52714586", "6": "0.08649292"}}

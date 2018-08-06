@@ -1,0 +1,1 @@
+{"text": "I had ordered the black crew socks in the size 10-13.  I was sent the 6-12.  He tried them on and they fit.  We have not washed them yet so hopefully they will not shrink.", "sentiment": "negative", "topics": {"1": "0.56915915", "2": "0.09871444", "3": "0.14076014", "4": "0.09056147", "5": "0.08171949"}}

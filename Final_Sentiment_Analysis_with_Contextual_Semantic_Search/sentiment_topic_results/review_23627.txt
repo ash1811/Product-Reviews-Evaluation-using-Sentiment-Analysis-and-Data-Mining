@@ -1,0 +1,1 @@
+{"text": "bought these for my husband for just sitting around the house.  I wanted him to have the compression but in a comfortable wear and these socks fit the bill.", "sentiment": "negative", "topics": {"0": "0.011004524", "1": "0.21553573", "2": "0.011003371", "3": "0.10483388", "4": "0.10114205", "5": "0.54543424", "6": "0.011046221"}}

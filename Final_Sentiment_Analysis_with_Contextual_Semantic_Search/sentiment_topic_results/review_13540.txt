@@ -1,0 +1,1 @@
+{"text": "Lightweight, easy on, great fit and no cellulite. The pocket is perfectly iPhone-sized! I've worn through a pair now, and have two more I'm working on ;)", "sentiment": "positive", "topics": {"0": "0.07881674", "1": "0.55513877", "3": "0.12419364", "6": "0.21661092"}}

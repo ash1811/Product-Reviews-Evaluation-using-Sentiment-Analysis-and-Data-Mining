@@ -1,0 +1,1 @@
+{"text": "These are nice earrings for throw on days.  Great deal for the price.  I also have them in other colors.", "sentiment": "negative", "topics": {"0": "0.014340692", "1": "0.6595129", "2": "0.0142949475", "3": "0.13905987", "4": "0.1441013", "5": "0.014372408", "6": "0.014317943"}}

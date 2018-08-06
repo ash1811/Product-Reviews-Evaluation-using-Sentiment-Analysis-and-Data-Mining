@@ -1,0 +1,1 @@
+{"text": "Love this subtle blue hue!  Is very comfortable for all day wear.  Could even sleep in this bra if you needed to.", "sentiment": "negative", "topics": {"0": "0.010283384", "1": "0.47823626", "2": "0.010246615", "3": "0.25908515", "4": "0.22161521", "5": "0.010282305", "6": "0.0102510825"}}

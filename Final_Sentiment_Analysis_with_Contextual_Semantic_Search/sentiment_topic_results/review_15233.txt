@@ -1,0 +1,1 @@
+{"text": "My hubby likes these undies best. He says they're comfy & fit perfectly. They do shrink a tiny bit, but I always buy a size bigger for that reason. Son & hubby are both very happy with these. I recommend them.", "sentiment": "negative", "topics": {"1": "0.39757797", "3": "0.12901665", "4": "0.18615083", "5": "0.18662433", "6": "0.08866801"}}

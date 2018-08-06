@@ -1,0 +1,1 @@
+{"text": "These really look very beautiful! I was afraid they might look too big or heavy, but they are just perfect--very delicate!", "sentiment": "negative", "topics": {"0": "0.35110512", "1": "0.498282", "2": "0.012999946", "3": "0.0130292475", "4": "0.013036824", "5": "0.013058226", "6": "0.09848869"}}

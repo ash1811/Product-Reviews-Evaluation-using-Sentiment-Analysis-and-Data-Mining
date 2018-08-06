@@ -1,0 +1,1 @@
+{"text": "Very nice for the price.  Fits very well and I average about size 22 in jeans. I love the lenght. Comes all the way down to the ankle. Great color!!!!!", "sentiment": "negative", "topics": {"1": "0.3850921", "3": "0.2906478", "5": "0.28845876"}}

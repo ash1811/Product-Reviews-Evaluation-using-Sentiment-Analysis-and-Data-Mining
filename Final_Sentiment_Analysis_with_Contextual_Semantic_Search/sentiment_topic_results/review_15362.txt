@@ -1,0 +1,1 @@
+{"text": "Love these Ray Ban's! They are what I expected and couldn't be happier. They are comfortable to ware and do their job.", "sentiment": "negative", "topics": {"0": "0.015879063", "1": "0.58931917", "2": "0.01596951", "3": "0.015889812", "4": "0.21481964", "5": "0.015879553", "6": "0.13224323"}}

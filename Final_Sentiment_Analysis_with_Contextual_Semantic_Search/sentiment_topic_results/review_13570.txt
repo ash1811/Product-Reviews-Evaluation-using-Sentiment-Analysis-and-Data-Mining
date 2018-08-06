@@ -1,0 +1,1 @@
+{"text": "All my life I ve been a levis user. They fit as they are meant to do and the quality is very good also. Never had any problems", "sentiment": "negative", "topics": {"0": "0.013000052", "1": "0.51011235", "2": "0.013008855", "3": "0.013016598", "4": "0.13091253", "5": "0.12009266", "6": "0.19985698"}}

@@ -1,0 +1,1 @@
+{"text": "These are the boxer briefs my husband will wear. So it's perfect, for him at least. Recommended, no to tight.", "sentiment": "negative", "topics": {"0": "0.01590127", "1": "0.30766964", "2": "0.15342699", "3": "0.015921365", "4": "0.35545793", "5": "0.015938131", "6": "0.13568468"}}

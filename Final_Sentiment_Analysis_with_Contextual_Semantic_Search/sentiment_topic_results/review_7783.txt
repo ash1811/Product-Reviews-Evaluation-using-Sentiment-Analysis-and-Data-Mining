@@ -1,0 +1,1 @@
+{"text": "Bought as a gift for husband.  I have a pair of ladies Sorel and love them.  My husband loves his as well.  Runs true to size.  Good purchase.", "sentiment": "negative", "topics": {"0": "0.09293294", "1": "0.259281", "3": "0.27592486", "4": "0.3466152"}}

@@ -1,0 +1,1 @@
+{"text": "This is a very nice Chemise.  However, the item is sized much smaller than size states.  I always wear XL and it was extremely snug, all over.  My suggestion is order 1 - 2 sizes larger.  Otherwise, very comfortable and very nice.", "sentiment": "negative", "topics": {"0": "0.27144295", "1": "0.19429104", "3": "0.17742784", "6": "0.33963668"}}

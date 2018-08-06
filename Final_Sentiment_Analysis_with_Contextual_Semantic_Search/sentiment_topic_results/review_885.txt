@@ -1,0 +1,1 @@
+{"text": "I like the reef sandles. They look good, feel good, and aren't too expensive. Plus you get the bottle openers. It's win win.", "sentiment": "negative", "topics": {"1": "0.39773425", "2": "0.16200109", "6": "0.40200865"}}

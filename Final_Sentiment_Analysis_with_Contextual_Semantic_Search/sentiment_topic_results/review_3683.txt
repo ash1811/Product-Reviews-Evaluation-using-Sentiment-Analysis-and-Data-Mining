@@ -1,0 +1,1 @@
+{"text": "I ordered these for my son for his birthday.  He is very happy with them.  They look great.  They're Ray-Ban, they should be great for the price.  So they lived up to both our expectations.", "sentiment": "positive", "topics": {"0": "0.35627452", "1": "0.29263124", "2": "0.21077839", "3": "0.010238324", "4": "0.10959921", "5": "0.010256604", "6": "0.010221726"}}

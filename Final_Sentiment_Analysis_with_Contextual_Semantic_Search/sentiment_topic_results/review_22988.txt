@@ -1,0 +1,1 @@
+{"text": "No damage or tear. Look fine short pant.  Like it!  Have a nice night!  Thank you so much. My young boy love this.", "sentiment": "negative", "topics": {"0": "0.29766667", "1": "0.38228133", "2": "0.20652235", "5": "0.088250875"}}

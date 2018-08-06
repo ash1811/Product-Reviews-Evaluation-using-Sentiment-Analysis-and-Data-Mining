@@ -1,0 +1,1 @@
+{"text": "When I was looking for a few BDU'S , I noticed that these were cheaper than most Military Surplus stores. For casual wear and lounging around their perfect.", "sentiment": "negative", "topics": {"0": "0.13201147", "1": "0.481314", "2": "0.011000311", "3": "0.13393866", "4": "0.2196679", "5": "0.011048035", "6": "0.011019611"}}

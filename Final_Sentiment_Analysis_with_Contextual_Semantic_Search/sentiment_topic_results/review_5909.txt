@@ -1,0 +1,1 @@
+{"text": "These earrings are cheap looking and not worth the price. The crystals are mostly flat and do not capture the light well. Perhaps the faceted crystals would be more what I was looking for.", "sentiment": "negative", "topics": {"1": "0.76835555", "2": "0.077391475", "6": "0.12241827"}}

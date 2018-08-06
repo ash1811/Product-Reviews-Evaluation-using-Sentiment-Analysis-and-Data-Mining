@@ -1,0 +1,1 @@
+{"text": "They run small order up one size bigger light weight limited colors and baggy in the hips other than that cathartic", "sentiment": "negative", "topics": {"0": "0.19670488", "1": "0.04900521", "2": "0.1293263", "3": "0.18904874", "4": "0.4154555", "5": "0.01023069", "6": "0.010228683"}}

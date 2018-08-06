@@ -1,0 +1,1 @@
+{"text": "Nice fun set for .... having fun.  The items came well packaged and the wife was thrilled to try something different.  So far the fishnet has held up well to washings and &#34;wear&#34;.", "sentiment": "positive", "topics": {"1": "0.35329062", "2": "0.120167494", "3": "0.112345874", "4": "0.13472968", "6": "0.2651425"}}

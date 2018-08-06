@@ -1,0 +1,1 @@
+{"text": "These are good handkerchiefs for the money.  Just get softer after every wash.  Not alot of raised designs to irritate the nose.", "sentiment": "negative", "topics": {"0": "0.0110040065", "1": "0.011024817", "2": "0.011016629", "3": "0.27833235", "4": "0.011000528", "5": "0.48155892", "6": "0.19606279"}}

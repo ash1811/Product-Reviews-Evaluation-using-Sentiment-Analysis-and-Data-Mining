@@ -1,0 +1,1 @@
+{"text": "This costume looks great on my 7 year old. Love the cape color (blue and black). My son wears everyday to play around the house with my four year old who is robin lol. SO cute.", "sentiment": "positive", "topics": {"0": "0.21314852", "1": "0.3964995", "3": "0.16568781", "4": "0.05896573", "5": "0.15372856"}}

@@ -1,0 +1,1 @@
+{"text": "These sandals are comfy, stylish, a respectable brand, and affordable. I couldn't be happier with this sandal. I've been wearing reefs for years and as long as they keep on making them, I'll keep on buying them.", "sentiment": "negative", "topics": {"1": "0.29538253", "3": "0.42537653", "5": "0.038760796", "6": "0.22000283"}}

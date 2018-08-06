@@ -1,0 +1,1 @@
+{"text": "Quality is awesome. Although the sizes are a LOT BIGGER than normal.I normally use L size and this is like a XL at least or perhaps more!Im not going to be able to use it, its too large. Ill just give it to my dad...", "sentiment": "negative", "topics": {"1": "0.36958125", "3": "0.5350961", "6": "0.07240644"}}

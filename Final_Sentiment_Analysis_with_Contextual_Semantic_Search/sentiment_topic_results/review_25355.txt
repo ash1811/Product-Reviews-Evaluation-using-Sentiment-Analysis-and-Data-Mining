@@ -1,0 +1,1 @@
+{"text": "Time moves on and the hair falls out. Going to Hawaii and don't want a sunburned skull. This hat should do the trick.", "sentiment": "negative", "topics": {"0": "0.01102508", "1": "0.23546399", "2": "0.011015696", "3": "0.327776", "4": "0.16053978", "5": "0.24318002", "6": "0.010999408"}}

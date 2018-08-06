@@ -1,0 +1,1 @@
+{"text": "These socks are worth the investment, as my Gran said,&#34; buy quality socks, beds and shoes&#34; and look after your knees.", "sentiment": "negative", "topics": {"0": "0.01100584", "1": "0.2754127", "2": "0.08415382", "3": "0.010995703", "4": "0.07788633", "5": "0.31320068", "6": "0.22734493"}}

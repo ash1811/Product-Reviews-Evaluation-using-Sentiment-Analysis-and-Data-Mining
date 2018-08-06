@@ -1,0 +1,1 @@
+{"text": "We bought these for our son so that he could work maintenance at a camp. They held up well and kept his feet dry and protected.", "sentiment": "positive", "topics": {"0": "0.011011682", "1": "0.659548", "2": "0.011002958", "3": "0.011003603", "4": "0.21127795", "5": "0.0110149635", "6": "0.08514086"}}

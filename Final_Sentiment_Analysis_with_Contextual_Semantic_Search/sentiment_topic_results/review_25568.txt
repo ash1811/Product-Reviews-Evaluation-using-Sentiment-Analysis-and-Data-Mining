@@ -1,0 +1,1 @@
+{"text": "These are cozy and substantial, soft and good at staying firmly in place.  They are short enough to be invisible under my sneakers.  I'm happy.", "sentiment": "positive", "topics": {"0": "0.45991144", "1": "0.36451986", "2": "0.13457878", "3": "0.010246302", "4": "0.010277239", "5": "0.010254308", "6": "0.010212079"}}

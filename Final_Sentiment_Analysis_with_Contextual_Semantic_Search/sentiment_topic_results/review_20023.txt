@@ -1,0 +1,1 @@
+{"text": "The pack has several functional storage areas, lighter than expected, and the zipper for the laptop is great at the airport.", "sentiment": "negative", "topics": {"0": "0.1360633", "1": "0.4365004", "2": "0.20318623", "3": "0.011918016", "4": "0.18836391", "5": "0.011929327", "6": "0.012038861"}}

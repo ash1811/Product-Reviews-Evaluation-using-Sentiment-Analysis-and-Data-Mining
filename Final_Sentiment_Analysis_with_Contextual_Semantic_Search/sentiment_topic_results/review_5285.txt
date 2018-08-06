@@ -1,0 +1,1 @@
+{"text": "Best slipper made - and great price.  I bought a couple of pairs as I go thru them quickly and the sides wear out from use but they are worth it.", "sentiment": "negative", "topics": {"1": "0.63289714", "2": "0.20564394", "6": "0.12770805"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased this for my 5 year old nephew.  I also got him the Darth Vader costume.  He loves the lightsaberand plays with it often when he plays dresss up.", "sentiment": "negative", "topics": {"0": "0.21109146", "1": "0.38764176", "4": "0.3693783"}}

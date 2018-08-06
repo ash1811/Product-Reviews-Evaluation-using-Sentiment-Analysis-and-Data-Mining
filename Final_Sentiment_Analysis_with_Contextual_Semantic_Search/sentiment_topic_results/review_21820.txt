@@ -1,0 +1,1 @@
+{"text": "Very nice looking dress. The back cut out looks very sexy. One size fits all is true in this case as well so no worring about it not fitting.", "sentiment": "negative", "topics": {"1": "0.5578217", "3": "0.28506878", "5": "0.12124932"}}

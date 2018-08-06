@@ -1,0 +1,1 @@
+{"text": "These glasses are great for the price. They replaced a $130 pair of Ray-Bans, the lens are just as good as the Ray-Bans. The frames aren't as nice as the Ray-Bans but for the money these sunglasses are a much better deal.", "sentiment": "negative", "topics": {"0": "0.0982958", "1": "0.3066989", "2": "0.09854483", "3": "0.19798677", "4": "0.28337258"}}

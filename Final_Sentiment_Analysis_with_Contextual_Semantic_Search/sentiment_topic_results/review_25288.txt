@@ -1,0 +1,1 @@
+{"text": "been a Merrell fan for 6 years now.great fit, quick break in, very comfyreal quality product love them", "sentiment": "negative", "topics": {"0": "0.084297255", "1": "0.25216815", "2": "0.010208631", "3": "0.19877592", "4": "0.27840254", "5": "0.16594043", "6": "0.010207064"}}

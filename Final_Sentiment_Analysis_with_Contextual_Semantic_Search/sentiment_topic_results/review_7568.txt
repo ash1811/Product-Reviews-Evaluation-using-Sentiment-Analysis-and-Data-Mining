@@ -1,0 +1,1 @@
+{"text": "Excellent quality and fit.  Sized as advertised, with all buttons/buttonholes well made (That's not always the case on denim shorts).  Nice enough that I wear this to casual functions.", "sentiment": "negative", "topics": {"0": "0.084211186", "1": "0.50830644", "2": "0.29331547", "5": "0.091523714"}}

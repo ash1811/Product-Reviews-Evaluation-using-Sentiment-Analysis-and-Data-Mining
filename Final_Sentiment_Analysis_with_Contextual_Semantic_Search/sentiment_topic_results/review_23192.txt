@@ -1,0 +1,1 @@
+{"text": "quality was good, but sizing was small so had to return them.  Nice velour black slippers, but I am a classic average size 7 and they felt tight on my feet.", "sentiment": "positive", "topics": {"0": "0.16075341", "1": "0.26872024", "2": "0.14948198", "3": "0.24558133", "6": "0.15951446"}}

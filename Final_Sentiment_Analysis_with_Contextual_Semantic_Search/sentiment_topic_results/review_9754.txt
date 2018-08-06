@@ -1,0 +1,1 @@
+{"text": "I bought these for my daughter (17 years old).  She didn't like the creases that would be created when wearing the shoes and I ended up returning them.", "sentiment": "negative", "topics": {"0": "0.54249585", "2": "0.12714107", "3": "0.23438074", "4": "0.06733107"}}

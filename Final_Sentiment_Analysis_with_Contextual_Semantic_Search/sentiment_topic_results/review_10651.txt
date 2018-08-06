@@ -1,0 +1,1 @@
+{"text": "Look prettier in the picture on line. Looks a little inexpensive but still pretty. Was going to give as gift but since it looks a little like costume jewelry...but pretty will keep for myself.", "sentiment": "negative", "topics": {"0": "0.6633923", "3": "0.30405155"}}

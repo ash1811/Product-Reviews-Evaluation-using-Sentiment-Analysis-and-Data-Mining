@@ -1,0 +1,1 @@
+{"text": "I wear a 40I and this bra lifts and holds comfortably, I really love this bra and will buy again if needed.", "sentiment": "negative", "topics": {"0": "0.011916873", "1": "0.3166967", "2": "0.011921074", "3": "0.3611561", "4": "0.01193145", "5": "0.27443326", "6": "0.011944525"}}

@@ -1,0 +1,1 @@
+{"text": "This thing is wonderful! The guy I bought it for loves it!It washes well.It dries well in the dryer-no shrinkage yet.And he says it is warm--it so so very warm!Well made and a pretty good price.A good buy.", "sentiment": "negative", "topics": {"0": "0.09369185", "1": "0.40840074", "3": "0.105810665", "4": "0.20222108", "6": "0.17742883"}}

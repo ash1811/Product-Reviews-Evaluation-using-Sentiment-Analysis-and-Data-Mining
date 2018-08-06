@@ -1,0 +1,1 @@
+{"text": "This is a purchase that I am glad to have made.  They feel so good on your feet ,that you don't want to take them off.  I urge you, if you are in need of a good pair of Slippers, try these.Sincerely,Farrell E. Manuel", "sentiment": "positive", "topics": {"0": "0.42706117", "3": "0.17845933", "4": "0.19323044", "6": "0.1807649"}}

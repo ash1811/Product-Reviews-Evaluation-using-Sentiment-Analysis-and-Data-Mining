@@ -1,0 +1,1 @@
+{"text": "This was a present for the son in law and what more can you say about Carhartt. The stuff is great quality and the sizes are what they say. You can't go wrong with Carhartt.", "sentiment": "positive", "topics": {"0": "0.111498065", "1": "0.45573282", "2": "0.07182523", "3": "0.15613654", "6": "0.18572035"}}

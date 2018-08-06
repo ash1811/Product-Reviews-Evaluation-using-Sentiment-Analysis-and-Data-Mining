@@ -1,0 +1,1 @@
+{"text": "I bought this belt for use through belt loops and for wearing  to create a \"tunic\" look. Because it's pretty, comfortable,and textured, this belt is a good choice for my wardrobe.", "sentiment": "negative", "topics": {"1": "0.2751972", "2": "0.233549", "4": "0.19673161", "5": "0.17450397", "6": "0.103158675"}}

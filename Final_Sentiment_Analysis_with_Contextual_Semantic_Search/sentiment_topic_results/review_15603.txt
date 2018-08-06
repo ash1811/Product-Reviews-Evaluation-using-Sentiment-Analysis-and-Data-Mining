@@ -1,0 +1,1 @@
+{"text": "I saw it for twice the price in an upscale store.  Beautiful face with crystals.  Very comfortable and does not catch tiny hairs.  Very thin and stylish.  Great quality and look.", "sentiment": "positive", "topics": {"0": "0.17242342", "1": "0.6199309", "4": "0.11456683", "6": "0.06920614"}}

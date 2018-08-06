@@ -1,0 +1,1 @@
+{"text": "My daughter has dry skin and after wearing shin guards in the TX sun....ouch.  These keep the shin guards from chaffing her - SO worth it!", "sentiment": "negative", "topics": {"0": "0.35640752", "1": "0.30185515", "2": "0.3035244"}}

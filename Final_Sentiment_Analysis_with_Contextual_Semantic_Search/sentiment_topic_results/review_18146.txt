@@ -1,0 +1,1 @@
+{"text": "Very comfortable. Easy to read.  A very simple watch for those of us who don't want the bling. Would buy again.", "sentiment": "negative", "topics": {"0": "0.011921767", "1": "0.21809499", "2": "0.23268144", "3": "0.15970671", "4": "0.22424261", "5": "0.01192297", "6": "0.14142953"}}

@@ -1,0 +1,1 @@
+{"text": "These were really cute.  I used them for a green/white candy cane Christmas costume.  They were adorable.  The adult ones fit a size 12 girl quite well.", "sentiment": "positive", "topics": {"0": "0.11843765", "1": "0.27599016", "3": "0.19588201", "4": "0.112191305", "5": "0.17680825", "6": "0.11270087"}}

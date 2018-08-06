@@ -1,0 +1,1 @@
+{"text": "Got my 12 year old daughter this sports watch as a gift and she is immensely happy with it !She's an active 12 year old who goes to the beach a lot and so far its working perfectly !", "sentiment": "positive", "topics": {"0": "0.12064621", "1": "0.20935483", "2": "0.11304926", "3": "0.2764499", "4": "0.20657411", "6": "0.06740072"}}

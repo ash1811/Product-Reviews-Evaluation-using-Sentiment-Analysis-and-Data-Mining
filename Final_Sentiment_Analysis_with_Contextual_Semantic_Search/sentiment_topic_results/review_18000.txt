@@ -1,0 +1,1 @@
+{"text": "Man, is this watch hard to reset anything on.  Almost need to be a rocket scientist to figure out how.  Without instruction book, you will go mad.  Three stars for longevity.", "sentiment": "negative", "topics": {"0": "0.293908", "1": "0.14918724", "2": "0.20464069", "3": "0.18297005", "4": "0.04924459", "5": "0.06302568", "6": "0.05702374"}}

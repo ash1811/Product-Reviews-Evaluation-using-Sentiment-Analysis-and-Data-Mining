@@ -1,0 +1,1 @@
+{"text": "I took a chance and bought these because the price wasn't too high. Luckily, the sizes are spot on, I bought a M size pants, and they fit great and they seem durable.", "sentiment": "negative", "topics": {"1": "0.58911115", "2": "0.060189303", "6": "0.31699583"}}

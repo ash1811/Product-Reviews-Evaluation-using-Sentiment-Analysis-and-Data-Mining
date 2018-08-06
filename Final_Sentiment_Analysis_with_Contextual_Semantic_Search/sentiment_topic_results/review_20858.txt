@@ -1,0 +1,1 @@
+{"text": "Bought 3 pairs of Havaianas before and this one has the most room on top for my instep but is actually one size smaller than the others even though they are supposed to be the same size.", "sentiment": "negative", "topics": {"1": "0.18549965", "2": "0.26672825", "3": "0.40555125", "4": "0.11835282"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my wife and they fit her just right. She walks a lot for excercise and loves them. Part of my family are stone atheltes and swear by these. (I bought myself a pair for lounging and they are excellent for that application).", "sentiment": "positive", "topics": {"1": "0.30525637", "2": "0.122065306", "5": "0.4220347", "6": "0.1310636"}}

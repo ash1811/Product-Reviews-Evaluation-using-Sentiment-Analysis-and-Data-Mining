@@ -1,0 +1,1 @@
+{"text": "I purchased these for my daughter who is in the Navy. They are required to wear black socks. She loved these and said the quality was excellent.", "sentiment": "negative", "topics": {"0": "0.011920568", "1": "0.3723547", "2": "0.14367373", "3": "0.13106535", "4": "0.011927279", "5": "0.23077278", "6": "0.098285615"}}

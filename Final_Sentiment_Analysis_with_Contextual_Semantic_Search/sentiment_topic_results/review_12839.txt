@@ -1,0 +1,1 @@
+{"text": "These tights fit well, are good quality, and do the job.  My daughter says they smell good too:)  (That new tight smell.)", "sentiment": "negative", "topics": {"1": "0.48198262", "3": "0.22828503", "4": "0.07448001", "5": "0.12960048", "6": "0.067698"}}

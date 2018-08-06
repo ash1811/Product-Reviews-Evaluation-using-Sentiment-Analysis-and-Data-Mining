@@ -1,0 +1,1 @@
+{"text": "Well made and comfortable fit. Wash well. Do not dry in dryer! Hang dry! These are very good. will purchase again.", "sentiment": "negative", "topics": {"0": "0.010221511", "1": "0.5972555", "2": "0.09810621", "3": "0.01021147", "4": "0.26375672", "5": "0.010241158", "6": "0.010207418"}}

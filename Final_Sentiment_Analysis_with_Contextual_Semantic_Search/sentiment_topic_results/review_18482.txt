@@ -1,0 +1,1 @@
+{"text": "This is wearing very well, especially compared to some of the more heavily decorated backpacks my child has used over the last couple of years.", "sentiment": "negative", "topics": {"0": "0.09816734", "1": "0.3863168", "2": "0.13098663", "3": "0.35133454", "4": "0.01109245", "5": "0.011099094", "6": "0.011003127"}}

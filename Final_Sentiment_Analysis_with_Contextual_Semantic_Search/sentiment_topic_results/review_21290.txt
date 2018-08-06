@@ -1,0 +1,1 @@
+{"text": "I like these because the fit nice, feel good and seem to ware well. I think there hot and they make me feel good wareing them.", "sentiment": "negative", "topics": {"1": "0.45201772", "3": "0.38230816", "5": "0.12982458"}}

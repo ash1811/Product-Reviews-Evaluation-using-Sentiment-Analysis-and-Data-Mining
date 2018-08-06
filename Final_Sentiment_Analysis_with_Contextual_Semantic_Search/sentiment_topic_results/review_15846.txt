@@ -1,0 +1,1 @@
+{"text": "Have purchased this bra in stores for years but got a better price through Amazon. As a well endowed woman, I love this bra because it really does hold it all together. Lifts 'em up and keeps them there.", "sentiment": "positive", "topics": {"0": "0.069629036", "1": "0.39257595", "3": "0.30791122", "4": "0.13654298", "6": "0.07971792"}}

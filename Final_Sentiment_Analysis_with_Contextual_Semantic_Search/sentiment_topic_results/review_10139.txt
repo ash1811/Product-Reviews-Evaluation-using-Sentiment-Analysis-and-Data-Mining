@@ -1,0 +1,1 @@
+{"text": "I have a similar necklace that broke that was 3D in design. this one is flat not as nicely designed as other. Cross is small but good quality and easy to wear.", "sentiment": "negative", "topics": {"0": "0.14933226", "1": "0.4569593", "2": "0.21657467", "4": "0.15180549"}}

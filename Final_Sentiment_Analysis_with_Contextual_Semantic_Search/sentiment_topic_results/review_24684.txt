@@ -1,0 +1,1 @@
+{"text": "The sandal is great! It only lasted me about a year and a half, but that's partly my fault for doing rough work with it. Nice and comfortable to walk around the dorm or campus.", "sentiment": "positive", "topics": {"1": "0.4791731", "2": "0.18566464", "3": "0.23666294", "5": "0.074666426"}}

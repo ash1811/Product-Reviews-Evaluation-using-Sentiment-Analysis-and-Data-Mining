@@ -1,0 +1,1 @@
+{"text": "I it this for my grandma (92 years old) for Christmas - she loves it. Easy for her to get on and off, lights up, and numbers are big enough for her to read.", "sentiment": "positive", "topics": {"0": "0.20748873", "1": "0.10996011", "2": "0.093154356", "3": "0.34844786", "4": "0.22406958"}}

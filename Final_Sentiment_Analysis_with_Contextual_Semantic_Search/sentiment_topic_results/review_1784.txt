@@ -1,0 +1,1 @@
+{"text": "Got em for my hubbys birthday. He loves the darn things, super light weight, comfortable, easy to walk in. He has PAD so make walking on his left leg a whole lot easier.", "sentiment": "negative", "topics": {"1": "0.3293327", "4": "0.1637139", "5": "0.20696484", "6": "0.28119287"}}

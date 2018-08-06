@@ -1,0 +1,1 @@
+{"text": "Bought this as a gift for a friend and, along with the earrings, are impressive. Colors and reflections are brilliant and set off the pieces.", "sentiment": "negative", "topics": {"0": "0.46424598", "1": "0.17943157", "2": "0.011045542", "3": "0.011008109", "4": "0.011015571", "5": "0.2272961", "6": "0.0959571"}}

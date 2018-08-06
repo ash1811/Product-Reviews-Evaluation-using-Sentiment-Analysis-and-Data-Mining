@@ -1,0 +1,1 @@
+{"text": "I have had easy spirit before and wanted something in black slightly more dressy but more comfortable than heels", "sentiment": "negative", "topics": {"0": "0.12695459", "1": "0.2600575", "2": "0.01434994", "3": "0.20563367", "4": "0.01431484", "5": "0.13304767", "6": "0.24564178"}}

@@ -1,0 +1,1 @@
+{"text": "These were very stiff and not broken in yet, but fit well. Great for prevention of foot pain due to hardwood floors.", "sentiment": "negative", "topics": {"0": "0.3697615", "1": "0.28139332", "2": "0.011005859", "3": "0.0110051995", "4": "0.17791922", "5": "0.13792482", "6": "0.010990045"}}

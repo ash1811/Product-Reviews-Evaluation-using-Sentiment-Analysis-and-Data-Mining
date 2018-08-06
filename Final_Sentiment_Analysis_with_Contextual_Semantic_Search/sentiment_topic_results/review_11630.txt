@@ -1,0 +1,1 @@
+{"text": "Broke the buckle the first time I tried to put them on. But i guess thats what I get for buying cheap", "sentiment": "positive", "topics": {"0": "0.58770925", "1": "0.1194367", "2": "0.011031514", "3": "0.120720856", "4": "0.1390232", "5": "0.011032642", "6": "0.011045827"}}

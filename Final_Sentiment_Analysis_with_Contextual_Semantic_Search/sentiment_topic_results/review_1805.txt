@@ -1,0 +1,1 @@
+{"text": "I bought two pair of these leggings. I used the sizing chart and was really disappointed by the fact that they were very snug and the rise was two short. I'm giving them to my daughter who is a little shorter and a size smaller.", "sentiment": "negative", "topics": {"0": "0.20765842", "3": "0.4766491", "4": "0.13424487", "5": "0.10108096", "6": "0.06733394"}}

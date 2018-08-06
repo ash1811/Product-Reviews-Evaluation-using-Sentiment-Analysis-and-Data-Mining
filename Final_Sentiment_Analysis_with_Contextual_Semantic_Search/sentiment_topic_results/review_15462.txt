@@ -1,0 +1,1 @@
+{"text": "He actually gets complimented on them often. The size is a little tricky. I would go with these for your average man, but if he has a big head go bigger than 55 mm.", "sentiment": "negative", "topics": {"0": "0.094681665", "1": "0.21631742", "2": "0.085044794", "3": "0.39658272", "5": "0.19146553"}}

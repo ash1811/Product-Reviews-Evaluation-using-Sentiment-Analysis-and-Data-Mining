@@ -1,0 +1,1 @@
+{"text": "u can never go wrong with this! GOD I LOVE IT!!  EL glow, 200m WR. sturdy, durable, affordable! CASIO ROCKS!", "sentiment": "negative", "topics": {"1": "0.24917749", "2": "0.29665753", "3": "0.11033608", "4": "0.103920944", "5": "0.10302146", "6": "0.12891199"}}

@@ -1,0 +1,1 @@
+{"text": "The bra was a gift for a young lady.  She normally has a very hard time finding bras to fit and are comfortable.  She is very, very happy with the style and fit!", "sentiment": "negative", "topics": {"0": "0.2770199", "1": "0.43773583", "2": "0.0765323", "3": "0.16681163", "4": "0.02402359"}}

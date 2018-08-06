@@ -1,0 +1,1 @@
+{"text": "great fit, awesome details, decent pleather-ish material...not thin see thru nylon/polyester, one of the coolest batgirl (or batman) mask at this price point that I have ever seen. Worth it. Daughter LOVED IT!!", "sentiment": "positive", "topics": {"0": "0.110212855", "1": "0.35896313", "2": "0.32565683", "3": "0.0513746", "4": "0.10319666", "6": "0.045292575"}}

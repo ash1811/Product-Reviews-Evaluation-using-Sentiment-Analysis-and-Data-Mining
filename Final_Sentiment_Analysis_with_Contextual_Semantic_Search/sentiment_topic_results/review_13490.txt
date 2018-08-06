@@ -1,0 +1,1 @@
+{"text": "Very comfortable and great to slip on quickly with our without socks.  Note that the dark navy is almost black.", "sentiment": "negative", "topics": {"0": "0.16307332", "1": "0.3346479", "2": "0.31447813", "3": "0.011968136", "4": "0.011909268", "5": "0.061405715", "6": "0.1025175"}}

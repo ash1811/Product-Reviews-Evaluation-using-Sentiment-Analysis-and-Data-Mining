@@ -1,0 +1,1 @@
+{"text": "I don't know what's wrong exactly with these shoes, but after trying to get used to them I finally chucked them to the trash.", "sentiment": "negative", "topics": {"0": "0.17794186", "1": "0.011960879", "2": "0.19488579", "3": "0.117107384", "4": "0.10356783", "5": "0.12437714", "6": "0.2701591"}}

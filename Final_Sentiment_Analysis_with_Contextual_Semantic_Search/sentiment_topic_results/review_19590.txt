@@ -1,0 +1,1 @@
+{"text": "This was a gift for my daughter. She absolutely loves it. It's her favorite brand. It washes up nicely and this brand doesn't wear out or stretch out.", "sentiment": "negative", "topics": {"0": "0.20508054", "1": "0.20464532", "2": "0.10796129", "3": "0.2657929", "4": "0.010258063", "5": "0.19605088", "6": "0.010210978"}}

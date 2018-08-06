@@ -1,0 +1,1 @@
+{"text": "I really like these moccassins, the brown is very nice.  I usually wear an 8 but did order a 7.5 and they fit perfectly.  They're so light on my feet, am enjoying them very much!", "sentiment": "positive", "topics": {"0": "0.18911053", "1": "0.5448092", "4": "0.16824663", "6": "0.07396855"}}

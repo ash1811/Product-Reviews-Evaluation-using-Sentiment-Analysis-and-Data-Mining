@@ -1,0 +1,1 @@
+{"text": "I like the way this particular style of Reefs fit.  And the pattern is cute, especially with ones with color.", "sentiment": "negative", "topics": {"0": "0.011937001", "1": "0.4804734", "2": "0.2856954", "3": "0.011966047", "4": "0.011986909", "5": "0.1859823", "6": "0.011958966"}}

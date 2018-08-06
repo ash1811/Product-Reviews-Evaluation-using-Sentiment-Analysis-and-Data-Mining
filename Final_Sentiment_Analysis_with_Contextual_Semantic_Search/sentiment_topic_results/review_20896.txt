@@ -1,0 +1,1 @@
+{"text": "comfy, nice shorts in a good price.  I love the blue color and the size fit me as expected.  Great for summer.", "sentiment": "negative", "topics": {"0": "0.1231802", "1": "0.6438344", "2": "0.01023631", "3": "0.19203874", "4": "0.010256066", "5": "0.010221576", "6": "0.010232719"}}

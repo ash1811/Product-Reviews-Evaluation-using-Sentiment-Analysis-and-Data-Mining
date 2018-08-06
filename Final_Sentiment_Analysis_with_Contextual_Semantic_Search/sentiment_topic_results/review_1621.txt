@@ -1,0 +1,1 @@
+{"text": "The purchase could not be anymore affordable and comfortable! It has a very soft fabric which also allows one to wear it on a sunny summer day! To top it off the sizes run accordingly to the chart, very satisfied!", "sentiment": "positive", "topics": {"1": "0.39192435", "3": "0.17554946", "4": "0.18627134", "5": "0.16979349", "6": "0.06282079"}}

@@ -1,0 +1,1 @@
+{"text": "Bought as a stocking stuffer. It came in a red box and was as described. He works outside in the elements so it seems like it is going to be good. For the price you can't beat it!!", "sentiment": "negative", "topics": {"0": "0.19806446", "1": "0.51523167", "4": "0.108201005", "6": "0.15587434"}}

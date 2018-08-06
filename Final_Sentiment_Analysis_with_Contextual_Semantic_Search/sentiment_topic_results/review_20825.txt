@@ -1,0 +1,1 @@
+{"text": "These are well made for mid-priced men's dressier pants. I like a nice wool fabric better, but this fabric is very light and cool, and hangs well.", "sentiment": "negative", "topics": {"1": "0.3981719", "2": "0.2528818", "3": "0.081887804", "5": "0.24179949"}}

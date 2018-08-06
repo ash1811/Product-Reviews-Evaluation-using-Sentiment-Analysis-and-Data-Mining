@@ -1,0 +1,1 @@
+{"text": "Fit great - and once I worked out what the hole was for - she loved them!  Have washed them every week for the last 4 months and they look like new (she only wears them once a week).", "sentiment": "negative", "topics": {"0": "0.23687524", "1": "0.29040956", "2": "0.1891172", "3": "0.26093012"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these to wear around work.  These shoes have turned into my goto shoes for every outfit.  I must order more in different colors.", "sentiment": "positive", "topics": {"0": "0.2310899", "1": "0.25192937", "2": "0.17484044", "3": "0.11908188", "4": "0.09139989", "6": "0.12208503"}}

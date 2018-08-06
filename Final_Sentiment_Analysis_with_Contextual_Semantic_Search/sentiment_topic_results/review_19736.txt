@@ -1,0 +1,1 @@
+{"text": "I followed the size guide and ordered a pair for my husband. It was way too small for him... I would say the sizes run small, so if you like them to be a little roomy, order a size up from what the chart says.", "sentiment": "negative", "topics": {"0": "0.06932059", "1": "0.18332447", "2": "0.040822018", "3": "0.33986118", "4": "0.076720744", "6": "0.2834472"}}

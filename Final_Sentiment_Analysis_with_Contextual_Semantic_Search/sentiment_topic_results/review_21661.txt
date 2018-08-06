@@ -1,0 +1,1 @@
+{"text": "Many pairs, ware till ware holes, last about a year with rotation of about 6 pairs.  Feel great year round although ware cotton when it gets hot.", "sentiment": "negative", "topics": {"1": "0.3238699", "2": "0.047617435", "3": "0.3250921", "4": "0.09502383", "5": "0.19476314"}}

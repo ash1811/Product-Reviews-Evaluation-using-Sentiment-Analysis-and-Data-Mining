@@ -1,0 +1,1 @@
+{"text": "These are great socks. They keep feet warm, extra padding where boots might rub. recommend them to anyone wearing boots .", "sentiment": "positive", "topics": {"1": "0.2786341", "4": "0.29487684", "5": "0.3882592"}}

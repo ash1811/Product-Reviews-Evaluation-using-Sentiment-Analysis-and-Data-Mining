@@ -1,0 +1,1 @@
+{"text": "this bag is perfect for all my gym stuff. Its the perfect size and cute as well. Materiel is very durable.", "sentiment": "positive", "topics": {"0": "0.013018903", "1": "0.54792595", "2": "0.012999292", "3": "0.38702342", "4": "0.012996981", "5": "0.01302874", "6": "0.013006736"}}

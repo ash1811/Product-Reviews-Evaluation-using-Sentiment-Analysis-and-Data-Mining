@@ -1,0 +1,1 @@
+{"text": "Got one for my mom who likes outdoor stuff but wears a dress watch.It's cheap, durable (Casio) and very readable (she's in her 70s).Plus, it's the lightest watch I've ever picked up, hard to go wrong with this one.", "sentiment": "positive", "topics": {"0": "0.123523034", "1": "0.08705514", "2": "0.34736186", "3": "0.11529163", "4": "0.13442598", "6": "0.18682916"}}

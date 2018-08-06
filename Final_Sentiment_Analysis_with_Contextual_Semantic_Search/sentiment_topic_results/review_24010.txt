@@ -1,0 +1,1 @@
+{"text": "These are very good quality basic socks.  The fit is good and they are comfortable to wear and they hold up well too.", "sentiment": "negative", "topics": {"0": "0.012009859", "1": "0.5418386", "2": "0.011980078", "3": "0.15867756", "4": "0.011909478", "5": "0.15522009", "6": "0.10836438"}}

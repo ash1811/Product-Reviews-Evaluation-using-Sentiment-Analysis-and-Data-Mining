@@ -1,0 +1,1 @@
+{"text": "Really very fashionable and nice to wear..I enjoy wearing them as they are very soft and fitting. I will order again.", "sentiment": "negative", "topics": {"0": "0.15471555", "1": "0.3033995", "2": "0.012999273", "3": "0.1865241", "4": "0.013027564", "5": "0.3163016", "6": "0.013032383"}}

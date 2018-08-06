@@ -1,0 +1,1 @@
+{"text": "Nice material, nice size, soft, good price and meet expectation.This scarf is so inexpensive, you cannot be wrong if you are looking for a basic black, soft shawl.", "sentiment": "negative", "topics": {"1": "0.3442082", "2": "0.055809643", "3": "0.3583049", "4": "0.078042224", "5": "0.07723036", "6": "0.07886946"}}

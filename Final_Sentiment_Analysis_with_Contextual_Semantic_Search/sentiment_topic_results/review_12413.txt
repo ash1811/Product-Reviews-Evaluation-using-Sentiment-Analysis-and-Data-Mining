@@ -1,0 +1,1 @@
+{"text": "I live in these shoes in the summer (except for at work).  They're the most comfy flip-flops I ever owned.  Don't walk over sharp rocks though or you will feel it.", "sentiment": "negative", "topics": {"1": "0.20339419", "2": "0.29953077", "3": "0.29673362", "4": "0.17503506"}}

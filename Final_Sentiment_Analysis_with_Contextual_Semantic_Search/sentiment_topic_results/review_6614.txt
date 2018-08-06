@@ -1,0 +1,1 @@
+{"text": "If you want quality damn socks.  Order these socks.They're thick (not a summer sock), but they support well and are warm as toast.  They are holding up great over the months.  Fantastic.", "sentiment": "positive", "topics": {"0": "0.1781093", "1": "0.26779056", "4": "0.14657159", "5": "0.2513398", "6": "0.14110275"}}

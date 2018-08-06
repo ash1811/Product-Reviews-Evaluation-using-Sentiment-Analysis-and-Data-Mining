@@ -1,0 +1,1 @@
+{"text": "They came broken. First of all they were always going late. And in one week they stopped forever. We even changed the battery it didn't work. It was waste of money. And it was a gift, so i did feel myself very bad.", "sentiment": "positive", "topics": {"0": "0.4213465", "1": "0.21040185", "2": "0.122726545", "3": "0.13163069", "4": "0.09952724"}}

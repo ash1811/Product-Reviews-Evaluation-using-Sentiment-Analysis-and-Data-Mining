@@ -1,0 +1,1 @@
+{"text": "I could not pull these tights over my butt! They are like super low rise tights! Hated them! Also, I am 5'3&#34; and I weigh 130 pounds. Maybe these are for children.", "sentiment": "negative", "topics": {"1": "0.24483567", "2": "0.11064804", "3": "0.11858009", "4": "0.29418117", "5": "0.21668078"}}

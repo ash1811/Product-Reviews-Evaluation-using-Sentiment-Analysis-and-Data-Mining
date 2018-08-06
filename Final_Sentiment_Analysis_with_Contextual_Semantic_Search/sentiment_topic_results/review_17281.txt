@@ -1,0 +1,1 @@
+{"text": "I have a wide foot and these were tight; I returned them.", "sentiment": "negative", "topics": {"0": "0.023838481", "1": "0.3762646", "2": "0.023934731", "3": "0.3214064", "4": "0.20689003", "5": "0.023856217", "6": "0.023809535"}}

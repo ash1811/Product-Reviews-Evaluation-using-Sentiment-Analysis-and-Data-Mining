@@ -1,0 +1,1 @@
+{"text": "These shoes work well with my bunions.  They are very comfortable and have a little bit dressier look as they are not as bulky as other shoes this style.", "sentiment": "positive", "topics": {"0": "0.011007973", "1": "0.5270926", "2": "0.27511114", "3": "0.1537637", "4": "0.011017336", "5": "0.011012614", "6": "0.010994652"}}

@@ -1,0 +1,1 @@
+{"text": "Industrial refers to the size of the net, not the strength of the hose, but they are durable nonetheless. Use 'em regularly for roller derby, and they stand up pretty well.", "sentiment": "positive", "topics": {"0": "0.08202388", "1": "0.26854423", "2": "0.20056008", "3": "0.15111962", "4": "0.07250226", "5": "0.21682319"}}

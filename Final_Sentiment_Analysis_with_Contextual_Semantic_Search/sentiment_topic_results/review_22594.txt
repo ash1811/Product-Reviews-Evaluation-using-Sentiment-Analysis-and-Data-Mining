@@ -1,0 +1,1 @@
+{"text": "Love my Dickies.  At work I have to dress kind of nice and with these pants I look nice and at the same time look casual.  Also great wash and wear.  Just have to iron a little.  Love these", "sentiment": "positive", "topics": {"0": "0.09746591", "1": "0.56600755", "4": "0.11831409", "5": "0.19670883"}}

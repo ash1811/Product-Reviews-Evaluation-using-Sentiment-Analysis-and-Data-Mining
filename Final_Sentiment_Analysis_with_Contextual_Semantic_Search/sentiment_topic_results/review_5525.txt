@@ -1,0 +1,1 @@
+{"text": "Comfortable short sleeve shirt in basic black. Easy care and easy on the wallet. Fills out a wardrobe quite nicely.", "sentiment": "positive", "topics": {"0": "0.092308916", "1": "0.26213932", "3": "0.28501222", "5": "0.08470438", "6": "0.25673437"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for my husband whose job entails walking and standing on pavement for long periods of time. It holds up well and is comfortable. The plus is that it is available in wide widths.", "sentiment": "negative", "topics": {"0": "0.10747498", "1": "0.5796762", "3": "0.1326628", "4": "0.07399686", "5": "0.09111817"}}

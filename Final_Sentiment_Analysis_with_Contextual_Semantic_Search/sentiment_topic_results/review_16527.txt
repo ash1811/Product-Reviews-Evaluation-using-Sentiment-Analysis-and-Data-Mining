@@ -1,0 +1,1 @@
+{"text": "I love this wallet! Holds everything I need and more: Money, checkbook, coins, cards, ID. Doesn't get too bulky and holds together well.", "sentiment": "negative", "topics": {"0": "0.16304485", "2": "0.27277383", "3": "0.37154981", "6": "0.16731733"}}

@@ -1,0 +1,1 @@
+{"text": "THESE PAINTER PANTS!!! HE PUTS A CREASE DOWN THE FRONT OF THE  LEG !!! PERFEECT IT!!!BOUGHT AS A GIFT!!", "sentiment": "negative", "topics": {"0": "0.2582548", "1": "0.25888947", "2": "0.15454344", "3": "0.14986597", "4": "0.14983305", "5": "0.01431486", "6": "0.014298385"}}

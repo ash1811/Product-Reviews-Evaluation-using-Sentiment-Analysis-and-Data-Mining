@@ -1,0 +1,1 @@
+{"text": "Got these for the wife a couple years ago. They ran a little small but Amazon exchanged them. The wife says they are comfy. That's all that matters to me.", "sentiment": "negative", "topics": {"2": "0.17828983", "3": "0.2573558", "4": "0.22845943", "5": "0.09820711", "6": "0.22174047"}}

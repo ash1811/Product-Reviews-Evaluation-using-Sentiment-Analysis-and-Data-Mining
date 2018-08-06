@@ -1,0 +1,1 @@
+{"text": "They're my \"go-to\" house slipper. The leathery soles are a must. My 80-year-old mother wanted a pair--Now she's hooked. Great quality and fit.", "sentiment": "positive", "topics": {"1": "0.28990394", "2": "0.0976189", "3": "0.14035828", "4": "0.18717666", "5": "0.10394404", "6": "0.17206211"}}

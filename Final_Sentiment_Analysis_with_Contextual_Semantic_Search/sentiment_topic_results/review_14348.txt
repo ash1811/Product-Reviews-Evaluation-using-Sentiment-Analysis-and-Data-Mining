@@ -1,0 +1,1 @@
+{"text": "It's a great shoe polish, what else is there to say? It goes on nicely, has a good color, and is pretty cheap.", "sentiment": "negative", "topics": {"0": "0.011942358", "1": "0.49619374", "2": "0.27200666", "3": "0.0119177345", "4": "0.011921661", "5": "0.011934537", "6": "0.18408336"}}

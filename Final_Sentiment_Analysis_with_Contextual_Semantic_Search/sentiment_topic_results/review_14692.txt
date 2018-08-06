@@ -1,0 +1,1 @@
+{"text": "No complains from my father-in-law. Fits him as expected. Easy to order. Delivered on time.", "sentiment": "negative", "topics": {"0": "0.1155866", "1": "0.20208305", "2": "0.015884288", "3": "0.015908394", "4": "0.32100302", "5": "0.31358373", "6": "0.015950922"}}

@@ -1,0 +1,1 @@
+{"text": "Tamarac slippers are a necessary part of my husband's wardrobe.  They have always proved to be high quality and durable.  Not to mention most comfortable.", "sentiment": "negative", "topics": {"0": "0.010226685", "1": "0.29918265", "2": "0.20215178", "3": "0.13219026", "4": "0.21879375", "5": "0.010230801", "6": "0.12722407"}}

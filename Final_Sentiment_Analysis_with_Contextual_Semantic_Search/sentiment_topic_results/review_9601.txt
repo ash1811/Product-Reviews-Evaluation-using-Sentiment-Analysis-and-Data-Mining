@@ -1,0 +1,1 @@
+{"text": "It's just what I wanted and it even has a lit face for night time.  It was a perfect fit.", "sentiment": "negative", "topics": {"0": "0.015953757", "1": "0.5189755", "2": "0.40144122", "3": "0.015903167", "4": "0.015909", "5": "0.015921686", "6": "0.01589569"}}

@@ -1,0 +1,1 @@
+{"text": "Easy to carry, easy to wash, very functional, and comfortable too.  So who cares if you look a little goofy with this hat.", "sentiment": "negative", "topics": {"0": "0.17145382", "1": "0.22748397", "2": "0.109299354", "3": "0.3059776", "4": "0.16370368", "5": "0.011028593", "6": "0.011052943"}}

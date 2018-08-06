@@ -1,0 +1,1 @@
+{"text": "I feel that the lockets were very well made for the money and were easy to put pictures in. Both of my daughters have two children so I bought both a locket , no fighting.", "sentiment": "positive", "topics": {"0": "0.34818682", "3": "0.2988901", "5": "0.31708813"}}

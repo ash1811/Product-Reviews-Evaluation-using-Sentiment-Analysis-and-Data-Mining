@@ -1,0 +1,1 @@
+{"text": "I have worn Timex watches for years. I like this watch; it works well and suits my needs. However, it only has the day of the month and is nothing fancy. However, for keeping time and for me, it is just fine.", "sentiment": "negative", "topics": {"0": "0.055769455", "1": "0.28615707", "2": "0.4059774", "6": "0.23163006"}}

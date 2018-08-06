@@ -1,0 +1,1 @@
+{"text": "Comfortable shoe for walking around city or trails. I have plantar fasciitis with one of my feet and this shoe does not aggravate it.", "sentiment": "positive", "topics": {"0": "0.010238129", "1": "0.09612715", "2": "0.36290804", "3": "0.010216859", "4": "0.31995866", "5": "0.010266839", "6": "0.19028437"}}

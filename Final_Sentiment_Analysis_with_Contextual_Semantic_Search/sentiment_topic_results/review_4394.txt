@@ -1,0 +1,1 @@
+{"text": "I needed a pair of brown jeans and reluctantly tried these. They fit great and look great, too. I was hesitant to buy pants online but the styling and fit are exactly as I expected them to be.", "sentiment": "positive", "topics": {"0": "0.2154375", "1": "0.5731501", "2": "0.06859221", "3": "0.04106972", "5": "0.08872608"}}

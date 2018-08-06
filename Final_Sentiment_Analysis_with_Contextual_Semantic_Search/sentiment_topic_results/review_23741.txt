@@ -1,0 +1,1 @@
+{"text": "Typical cheap gas station aviators.  Can't complain, they keep the sun out of my eyes and I don't have to worry about breaking them.  Good buy I think.", "sentiment": "negative", "topics": {"0": "0.110174745", "1": "0.21028587", "2": "0.1344726", "3": "0.3862336", "6": "0.14199843"}}

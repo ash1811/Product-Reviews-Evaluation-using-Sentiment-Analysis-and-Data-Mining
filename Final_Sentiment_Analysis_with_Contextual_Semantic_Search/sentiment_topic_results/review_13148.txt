@@ -1,0 +1,1 @@
+{"text": "I ordered this for Halloween.  It arrived in no time at all!  Looks great!  My husband will use as part of his &#34;Clyde&#34; of Bonnie and Clyde fame costume.", "sentiment": "negative", "topics": {"0": "0.33054784", "2": "0.18680798", "3": "0.24218476", "4": "0.21356276"}}

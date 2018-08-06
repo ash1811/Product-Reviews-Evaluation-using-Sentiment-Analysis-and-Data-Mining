@@ -1,0 +1,1 @@
+{"text": "Good for teenagers playing air soft and survivalists, I guess.  Digital BDU pattern hmmm.. Well it fit so the sizing chart was correct and it arrived on time.  The price was good.  What more can I say", "sentiment": "negative", "topics": {"0": "0.20048593", "1": "0.24001546", "2": "0.06913789", "4": "0.07013776", "5": "0.2005288", "6": "0.21312742"}}

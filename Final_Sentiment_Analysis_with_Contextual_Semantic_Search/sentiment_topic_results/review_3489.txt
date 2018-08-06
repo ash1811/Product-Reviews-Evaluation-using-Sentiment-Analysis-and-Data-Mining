@@ -1,0 +1,1 @@
+{"text": "I always find it hard to get bras that fit comfortably, I am a 42 B this fits perfectI would recommend to anyone ,", "sentiment": "positive", "topics": {"0": "0.1745428", "1": "0.24121988", "2": "0.11776695", "3": "0.20574443", "5": "0.24164866"}}

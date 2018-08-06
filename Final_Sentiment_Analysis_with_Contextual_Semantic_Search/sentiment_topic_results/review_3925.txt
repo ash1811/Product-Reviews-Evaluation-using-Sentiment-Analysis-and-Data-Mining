@@ -1,0 +1,1 @@
+{"text": "Shoes fit great, true to size and probably one of the lowest prices I found, with the exception of used shoes on E-bay.", "sentiment": "negative", "topics": {"1": "0.5171186", "2": "0.20689283", "3": "0.14109024", "6": "0.106266245"}}

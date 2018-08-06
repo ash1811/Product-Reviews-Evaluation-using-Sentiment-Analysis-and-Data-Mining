@@ -1,0 +1,1 @@
+{"text": "They are doing good so far, but I'm not sure how well they will hold up. Compared to my Smartwool brand socks they seem to be loosing it a little prematurely. Time will tell", "sentiment": "negative", "topics": {"0": "0.13625716", "1": "0.17797486", "2": "0.27107057", "3": "0.39075297"}}

@@ -1,0 +1,1 @@
+{"text": "gotta cut the crotch part bigger other wise you cant get in... if you know what i mean... ok product.", "sentiment": "negative", "topics": {"0": "0.11519552", "1": "0.2965979", "2": "0.010213266", "3": "0.010255425", "4": "0.010260269", "5": "0.26757172", "6": "0.28990594"}}

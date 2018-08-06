@@ -1,0 +1,1 @@
+{"text": "My jeans had been getting really ratty and I was looking around for a pair of basic jeans. Amazon had a nice sale on these and I ordered. They arrived in two days, got them shortened and I am wearing them. Nice deal", "sentiment": "positive", "topics": {"0": "0.10640937", "1": "0.27853152", "2": "0.06317836", "3": "0.26223588", "4": "0.19547054", "6": "0.0879244"}}

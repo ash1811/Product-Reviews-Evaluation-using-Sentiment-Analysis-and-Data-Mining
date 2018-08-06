@@ -1,0 +1,1 @@
+{"text": "Socks arrived as described by seller. Blue only comfy & fit fine. Would like in more colors prefer white but, work just fine as is.", "sentiment": "positive", "topics": {"0": "0.2072759", "1": "0.31184813", "2": "0.23666406", "5": "0.2203055"}}

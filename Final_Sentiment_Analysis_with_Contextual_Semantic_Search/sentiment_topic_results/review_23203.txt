@@ -1,0 +1,1 @@
+{"text": "My husband wanted a bag that is not lap-top bag size, and not a little bad ether, so this bag is a perfect size, he puts his bible. kindle, several small items and there still room in it.", "sentiment": "positive", "topics": {"1": "0.57945305", "2": "0.077683866", "4": "0.15470424", "6": "0.16859606"}}

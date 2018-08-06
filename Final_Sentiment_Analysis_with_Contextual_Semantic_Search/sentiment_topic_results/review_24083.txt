@@ -1,0 +1,1 @@
+{"text": "Fits great and gives firm, jiggle-free support.  Exactly what I was looking for.  I love this bra.  I will order another.  I highly recommend it for full figured women who need premium support.", "sentiment": "negative", "topics": {"0": "0.21795346", "1": "0.37154788", "3": "0.15263939", "4": "0.076176636", "6": "0.16867875"}}

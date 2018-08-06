@@ -1,0 +1,1 @@
+{"text": "Well made and a perfect fit for my passport. The card slots are great for additional identification or credit cards. Love the look and feel of it. Very nice.", "sentiment": "negative", "topics": {"0": "0.10811438", "1": "0.5882929", "2": "0.27172497"}}

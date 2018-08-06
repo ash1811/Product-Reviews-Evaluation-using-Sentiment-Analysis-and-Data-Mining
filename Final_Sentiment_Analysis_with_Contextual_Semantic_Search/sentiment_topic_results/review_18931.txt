@@ -1,0 +1,1 @@
+{"text": "These jeans feel like they're made from paper.  Also, because I thought they would shrink if I washed them in my washing machine, I used Dryel.  But they still shrank!", "sentiment": "positive", "topics": {"0": "0.1799212", "1": "0.30198902", "4": "0.24184135", "6": "0.25234234"}}

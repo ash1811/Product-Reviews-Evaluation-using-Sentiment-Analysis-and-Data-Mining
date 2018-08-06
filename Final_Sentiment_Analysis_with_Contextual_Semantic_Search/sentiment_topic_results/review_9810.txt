@@ -1,0 +1,1 @@
+{"text": "Great throw-back shoes.  They go great with jeans for the casual look.  I would highly recommend if you like the low-profile sneaker look.", "sentiment": "positive", "topics": {"1": "0.24206576", "2": "0.0990777", "3": "0.12357187", "5": "0.40278283", "6": "0.11458603"}}

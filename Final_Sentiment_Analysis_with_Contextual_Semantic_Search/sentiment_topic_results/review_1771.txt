@@ -1,0 +1,1 @@
+{"text": "These BDU's are well made, with great reinforcing at stress points. They are almost identical to the uniform pants I wore in the military, some of which I still wear, 25 yr's later.", "sentiment": "positive", "topics": {"0": "0.25784692", "1": "0.1811572", "2": "0.06748426", "3": "0.16555886", "5": "0.24899623", "6": "0.07143551"}}

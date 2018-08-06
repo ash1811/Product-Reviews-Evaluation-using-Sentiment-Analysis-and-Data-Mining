@@ -1,0 +1,1 @@
+{"text": "fit is good, color is bright.  husband likes so far but hasn't worn too much.  will maybe write more later", "sentiment": "negative", "topics": {"0": "0.01102806", "1": "0.57134897", "2": "0.011025515", "3": "0.011020887", "4": "0.11544728", "5": "0.011012718", "6": "0.26911652"}}

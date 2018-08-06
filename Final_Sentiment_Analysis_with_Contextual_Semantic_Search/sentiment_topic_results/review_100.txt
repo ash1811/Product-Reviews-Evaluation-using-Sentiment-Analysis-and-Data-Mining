@@ -1,0 +1,1 @@
+{"text": "My husband likes these to sleep in, but the tall is too short for exercising. We will look for another brand.", "sentiment": "negative", "topics": {"0": "0.1943097", "1": "0.30269223", "2": "0.013033116", "3": "0.14273272", "4": "0.15326904", "5": "0.18086694", "6": "0.013096246"}}

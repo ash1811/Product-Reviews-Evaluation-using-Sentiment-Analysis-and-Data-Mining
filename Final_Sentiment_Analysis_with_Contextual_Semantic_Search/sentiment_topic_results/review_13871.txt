@@ -1,0 +1,1 @@
+{"text": "i have several Jambu women's shoes.  I love each one.  They are stylish and comfortable.  The price is reasonable for the quality.  These are no exception, style, comfort and great color at a manageable price.", "sentiment": "negative", "topics": {"0": "0.08312029", "1": "0.49269706", "2": "0.16142257", "6": "0.24011832"}}

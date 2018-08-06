@@ -1,0 +1,1 @@
+{"text": "I love this wallet.  It is perfect for my needs.  I especially like the color red.  I also love the zippers.  It is a solid, sturdy and durable product.  Thank you", "sentiment": "negative", "topics": {"1": "0.30898213", "2": "0.07413122", "4": "0.3099604", "5": "0.100818984", "6": "0.18927109"}}

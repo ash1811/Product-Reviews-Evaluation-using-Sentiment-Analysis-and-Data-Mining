@@ -1,0 +1,1 @@
+{"text": "It was way too narrow and the model I actually don't like...it's really more for petit feet, besides that it is more narrow than other birks.", "sentiment": "negative", "topics": {"0": "0.341877", "1": "0.011945455", "2": "0.13544498", "3": "0.011940458", "4": "0.012006732", "5": "0.36789885", "6": "0.1188865"}}

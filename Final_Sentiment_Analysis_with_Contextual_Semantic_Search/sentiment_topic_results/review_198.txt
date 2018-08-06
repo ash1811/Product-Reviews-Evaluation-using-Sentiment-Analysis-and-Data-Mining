@@ -1,0 +1,1 @@
+{"text": "I'm pretty sure the people designing clothes for the big and tall crowd aren't big and tall and don't use actual big and tall models.  Luckily I got these for the gym so I just ended up cutting the sleeves off anyways.", "sentiment": "positive", "topics": {"0": "0.07941557", "1": "0.41963685", "2": "0.082234316", "5": "0.29558948", "6": "0.11118332"}}

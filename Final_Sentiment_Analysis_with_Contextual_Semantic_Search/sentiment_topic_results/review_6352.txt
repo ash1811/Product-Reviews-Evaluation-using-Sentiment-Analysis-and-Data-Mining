@@ -1,0 +1,1 @@
+{"text": "He is a huge fan of robin right now and i had to search for this costume. But it fits him good and he loves wearing it. The cape is separate and he does wear it alone often", "sentiment": "negative", "topics": {"0": "0.20017293", "1": "0.3286047", "3": "0.09140362", "4": "0.19762789", "5": "0.16529433"}}

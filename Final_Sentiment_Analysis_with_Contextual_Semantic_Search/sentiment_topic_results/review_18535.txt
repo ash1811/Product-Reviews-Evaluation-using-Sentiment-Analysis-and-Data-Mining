@@ -1,0 +1,1 @@
+{"text": "This is a good watch but a little small for a big guy like me. Also the watch band is a little small and tight. If you are a big guy I would recommend a different watch.", "sentiment": "negative", "topics": {"1": "0.51466584", "2": "0.2259606", "4": "0.23207258"}}

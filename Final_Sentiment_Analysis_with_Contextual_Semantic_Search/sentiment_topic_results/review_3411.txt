@@ -1,0 +1,1 @@
+{"text": "This bra offers great support for this DDD gal. It gives a fabulous  lifted and round round look to my boobs while still looking date night sexy....no regrets....fully satisfied....", "sentiment": "negative", "topics": {"0": "0.1375839", "1": "0.17726468", "2": "0.04386001", "3": "0.37567973", "4": "0.13857763", "6": "0.12022361"}}

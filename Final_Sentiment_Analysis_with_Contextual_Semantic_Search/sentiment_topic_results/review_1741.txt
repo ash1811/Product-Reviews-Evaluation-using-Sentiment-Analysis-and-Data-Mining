@@ -1,0 +1,1 @@
+{"text": "I ordered the navy/classic and I thought it would be actual lace over backing. The lace pattern is just printed on and it looks pretty silly in person. Also the lace on the top and bottom is pretty low quality.", "sentiment": "negative", "topics": {"0": "0.14190032", "1": "0.364209", "3": "0.14328605", "4": "0.07319298", "5": "0.18864411", "6": "0.082250856"}}

@@ -1,0 +1,1 @@
+{"text": "Soft and comfortable sandal, and can't beat it for the price.They do get a little squishy when they get wet.", "sentiment": "negative", "topics": {"0": "0.18354121", "1": "0.50987655", "2": "0.15169518", "3": "0.011934677", "4": "0.11909034", "5": "0.011935363", "6": "0.0119266985"}}

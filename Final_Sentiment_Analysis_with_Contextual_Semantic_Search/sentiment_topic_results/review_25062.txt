@@ -1,0 +1,1 @@
+{"text": "The material is very light and soft, but the waistband is so light that it tends to roll. quite comfortable otherwise. A skinny person may not see it as a problem", "sentiment": "positive", "topics": {"1": "0.52226865", "2": "0.17918251", "3": "0.1640302", "4": "0.10760942"}}

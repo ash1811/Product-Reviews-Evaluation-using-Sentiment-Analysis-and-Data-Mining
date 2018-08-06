@@ -1,0 +1,1 @@
+{"text": "I have to write so many reviews and I gift out so many of the products I purchase.  However I can tell you they really liked these for the winter dog walks.", "sentiment": "positive", "topics": {"0": "0.14946406", "1": "0.2594863", "4": "0.27591607", "5": "0.14849311", "6": "0.14747563"}}

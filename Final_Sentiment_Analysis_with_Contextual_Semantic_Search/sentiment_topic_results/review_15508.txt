@@ -1,0 +1,1 @@
+{"text": "i really liked this scrub nice fit and nice quality material also, I liked getting my scrubs at a reasonable price also, thank you,", "sentiment": "negative", "topics": {"0": "0.076145366", "1": "0.50525177", "2": "0.06590191", "3": "0.17530149", "4": "0.16150743"}}

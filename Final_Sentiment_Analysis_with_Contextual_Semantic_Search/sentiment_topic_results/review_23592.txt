@@ -1,0 +1,1 @@
+{"text": "these are strictly for the bedroom they have no use outside of it they're very long but fired another good night so they did their job a little pricey", "sentiment": "positive", "topics": {"0": "0.010210791", "1": "0.5655602", "2": "0.08704323", "3": "0.010244505", "4": "0.20262428", "5": "0.010229683", "6": "0.114087306"}}

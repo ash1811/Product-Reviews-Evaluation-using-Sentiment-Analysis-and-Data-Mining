@@ -1,0 +1,1 @@
+{"text": "6'3&#34; 260, these jeans fit great. Still holding up, the only shows of wear is around the rear belt loops, it seems the material is thinning and hole has appeared. Overall these are great jeans and look fine on.", "sentiment": "negative", "topics": {"1": "0.52658147", "2": "0.23178913", "4": "0.06358327", "5": "0.16146855"}}

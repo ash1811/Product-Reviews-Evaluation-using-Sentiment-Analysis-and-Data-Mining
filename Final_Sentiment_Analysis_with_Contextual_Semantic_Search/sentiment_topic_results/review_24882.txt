@@ -1,0 +1,1 @@
+{"text": "This gown is beautiful and fits perfectly.  The only con is that it is very thin, so I'm not sure how long it will last.", "sentiment": "positive", "topics": {"0": "0.013019203", "1": "0.38145715", "2": "0.21513467", "3": "0.13123764", "4": "0.013055644", "5": "0.23309857", "6": "0.012997121"}}

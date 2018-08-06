@@ -1,0 +1,1 @@
+{"text": "I have worn bates for years and I highly recommend them. The fit great, are comfortable, and hold up well.", "sentiment": "negative", "topics": {"0": "0.011924724", "1": "0.5040454", "2": "0.0119375335", "3": "0.2516553", "4": "0.11325529", "5": "0.0119304545", "6": "0.095251225"}}

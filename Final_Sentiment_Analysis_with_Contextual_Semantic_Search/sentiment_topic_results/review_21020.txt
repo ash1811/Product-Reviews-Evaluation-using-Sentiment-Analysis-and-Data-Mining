@@ -1,0 +1,1 @@
+{"text": "Hanes is always a great choice for nylons. These thigh highs are very silky. The only slight issue is that the lace top is VERY tight, but this also stops them from slipping too I guess.", "sentiment": "negative", "topics": {"0": "0.077649385", "1": "0.37021077", "3": "0.13834457", "4": "0.13516562", "5": "0.15792517", "6": "0.112750106"}}

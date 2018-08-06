@@ -1,0 +1,1 @@
+{"text": "Very true to size. 2T for a 2 year old and it is a perfect fit. Very cute, I will be ordering in other colors.", "sentiment": "positive", "topics": {"0": "0.21304105", "1": "0.5394272", "2": "0.011917415", "3": "0.19979328", "4": "0.011928402", "5": "0.0119538335", "6": "0.011938804"}}

@@ -1,0 +1,1 @@
+{"text": "This shirt is well made. Fits as expected and the graphics are stunning. Collecting them for gifts now. Recommend anything made by 'Mountain' in the tee shirt area-have several.", "sentiment": "negative", "topics": {"0": "0.23990206", "1": "0.37256292", "2": "0.08481429", "5": "0.19598785", "6": "0.09164841"}}

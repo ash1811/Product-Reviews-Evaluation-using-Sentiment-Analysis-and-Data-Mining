@@ -1,0 +1,1 @@
+{"text": "I bought these for m,y husband he said they are the most comfy just to lay around in loves the mayerial and a great price!", "sentiment": "negative", "topics": {"0": "0.01197978", "1": "0.2630265", "2": "0.011936332", "3": "0.011978292", "4": "0.47245786", "5": "0.011972322", "6": "0.21664892"}}

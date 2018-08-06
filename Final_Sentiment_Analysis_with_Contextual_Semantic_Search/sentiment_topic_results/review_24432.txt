@@ -1,0 +1,1 @@
+{"text": "These are so silky smooth!  I love the back seam, it's so sexy. I was sure they wouldn't last long, but they've held up after several wears.", "sentiment": "positive", "topics": {"0": "0.010302976", "1": "0.30039567", "2": "0.09791843", "3": "0.22623245", "4": "0.3446788", "5": "0.010257162", "6": "0.010214513"}}

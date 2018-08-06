@@ -1,0 +1,1 @@
+{"text": "Most of the pants I get on-line are a little small so I went ahead and ordered a larger size.  Well, in this case they run as sized which all-in-all is a good thing.  They are well made and have a great feel.", "sentiment": "negative", "topics": {"0": "0.09875937", "1": "0.33173788", "2": "0.14307319", "3": "0.23689498", "4": "0.176503"}}

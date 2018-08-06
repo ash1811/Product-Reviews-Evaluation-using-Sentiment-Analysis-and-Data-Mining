@@ -1,0 +1,1 @@
+{"text": "Perfect shorts at a great price!  Light-weight, athletic, with good-sized pockets. Comes in a variety of colors and is made of a breathable mesh material.", "sentiment": "positive", "topics": {"0": "0.2548162", "1": "0.5101248", "2": "0.06481545", "6": "0.14341657"}}

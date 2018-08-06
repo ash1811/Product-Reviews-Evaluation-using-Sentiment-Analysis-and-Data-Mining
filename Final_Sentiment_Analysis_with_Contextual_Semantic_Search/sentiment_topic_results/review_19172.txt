@@ -1,0 +1,1 @@
+{"text": "bought this to replace a chain for a gift - love it - nice length for everyday - good quality - qreat price", "sentiment": "negative", "topics": {"0": "0.29560775", "1": "0.39667562", "2": "0.011037033", "3": "0.011003847", "4": "0.26366404", "5": "0.0110061355", "6": "0.011005599"}}

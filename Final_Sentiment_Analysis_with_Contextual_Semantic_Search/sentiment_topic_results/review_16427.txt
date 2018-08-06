@@ -1,0 +1,1 @@
+{"text": "great product for the money. arrived very quick. love the digital woodland camo pattern. it is also a perfect fit for my poncho.", "sentiment": "positive", "topics": {"0": "0.07236704", "1": "0.12386244", "3": "0.05369289", "4": "0.39101565", "5": "0.2648006", "6": "0.084722966"}}

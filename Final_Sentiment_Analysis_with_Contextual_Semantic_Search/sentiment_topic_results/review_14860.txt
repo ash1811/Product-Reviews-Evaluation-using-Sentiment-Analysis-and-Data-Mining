@@ -1,0 +1,1 @@
+{"text": "I got this watch as a gift and to be honest I was expecting a cheap quality. yet wen i received the watch and opened the packaging the quality of the watch is very good and the shine of the crystals is very catchy", "sentiment": "positive", "topics": {"0": "0.21841979", "1": "0.16083172", "2": "0.29108632", "4": "0.0689394", "5": "0.17475264", "6": "0.07881467"}}

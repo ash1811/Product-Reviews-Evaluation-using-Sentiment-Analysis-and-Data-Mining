@@ -1,0 +1,1 @@
+{"text": "Fits me perfect and covers exactly what I want it to. I am thicker but very comfortable with my body. Exactly what I was looking for and a good price.", "sentiment": "negative", "topics": {"0": "0.24308573", "1": "0.55271256", "2": "0.0102176005", "3": "0.010221752", "4": "0.010249802", "5": "0.0102165295", "6": "0.16329601"}}

@@ -1,0 +1,1 @@
+{"text": "Love these sandals - no need to break them in and deal with cut up feet in the beginning of the summer.  Love this color and style overall too.", "sentiment": "negative", "topics": {"1": "0.34871057", "3": "0.28768784", "4": "0.18065555", "6": "0.1542074"}}

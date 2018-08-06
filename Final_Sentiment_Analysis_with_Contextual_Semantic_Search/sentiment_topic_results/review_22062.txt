@@ -1,0 +1,1 @@
+{"text": "These gloves keep my hands warm in the coldest weather but also allow me to operate my touch screen phone for work. I will be purchasing more of these gloves!", "sentiment": "negative", "topics": {"1": "0.27748343", "2": "0.18590052", "4": "0.1061702", "5": "0.19711065", "6": "0.21540193"}}

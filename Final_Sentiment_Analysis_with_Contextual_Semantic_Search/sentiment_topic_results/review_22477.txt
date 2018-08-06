@@ -1,0 +1,1 @@
+{"text": "all cotton a must in summer and yr round and hanes has alwasy done a great job. ordr before this one placed at Hanes .com actualy ripped after washign????  so i washed these first andn dried as we should before wearing andthey came out fine", "sentiment": "negative", "topics": {"0": "0.07006894", "1": "0.2524868", "2": "0.16369228", "3": "0.3602724", "5": "0.14287098"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for a work hat. Most hats do not fit my head. This one does, and the color works well with all the dust that im around. I happy I bought it.", "sentiment": "negative", "topics": {"1": "0.49035773", "2": "0.12587342", "3": "0.21624045", "4": "0.14366227"}}

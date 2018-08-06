@@ -1,0 +1,1 @@
+{"text": "She is a bit of a tomboy. So at age 50 I bought them for her. She seems pleased w/ them. They run large, but are very pretty.", "sentiment": "negative", "topics": {"0": "0.4087443", "1": "0.010259221", "2": "0.010221274", "3": "0.46217996", "4": "0.08813794", "5": "0.010252178", "6": "0.010205139"}}

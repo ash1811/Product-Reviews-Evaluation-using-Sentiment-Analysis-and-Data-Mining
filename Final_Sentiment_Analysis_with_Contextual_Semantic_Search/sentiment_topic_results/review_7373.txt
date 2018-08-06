@@ -1,0 +1,1 @@
+{"text": "it's my size yet it is a tight fit. Someone got the cut wrong. I think these are no longer made in the good old USA.", "sentiment": "positive", "topics": {"1": "0.6355785", "2": "0.07787582", "6": "0.24827845"}}

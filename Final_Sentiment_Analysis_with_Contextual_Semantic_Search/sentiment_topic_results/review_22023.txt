@@ -1,0 +1,1 @@
+{"text": "Mate material makes this product very elegant. I like it very much and would like to get more colors soon", "sentiment": "negative", "topics": {"0": "0.011012563", "1": "0.4045353", "2": "0.011015632", "3": "0.10623337", "4": "0.011000605", "5": "0.15503146", "6": "0.3011711"}}

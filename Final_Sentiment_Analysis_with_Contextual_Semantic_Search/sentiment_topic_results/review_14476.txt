@@ -1,0 +1,1 @@
+{"text": "These shoes fit true to size and are very comfortable.  I recommend them to anyone looking for a good-looking, comfortable dress casual shoe.", "sentiment": "negative", "topics": {"0": "0.094589524", "1": "0.50490934", "2": "0.18090717", "3": "0.01024064", "4": "0.010216674", "5": "0.0102686435", "6": "0.18886803"}}

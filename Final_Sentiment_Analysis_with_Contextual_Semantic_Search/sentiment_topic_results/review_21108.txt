@@ -1,0 +1,1 @@
+{"text": "This product felt like a girdle and I couldn't imagine wanting to swim in it.  If you are looking for something along those lines and can put up with tight suits then it's for you.", "sentiment": "negative", "topics": {"1": "0.37386438", "2": "0.1947858", "3": "0.1494148", "4": "0.0902662", "5": "0.1748163"}}

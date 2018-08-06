@@ -1,0 +1,1 @@
+{"text": "The go to shaper and tights! A must have ! These are worth every penny!  Don;t waste your time on regular tights!", "sentiment": "negative", "topics": {"0": "0.011011791", "1": "0.011004752", "2": "0.19074291", "3": "0.3420857", "4": "0.0110064205", "5": "0.42314002", "6": "0.011008447"}}

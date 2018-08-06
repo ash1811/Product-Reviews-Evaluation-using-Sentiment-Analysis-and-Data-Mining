@@ -1,0 +1,1 @@
+{"text": "I bought these for my dad for Christmas. We had to order online because of his size. He LOVED these jeans! The delivery was really quick as well.", "sentiment": "positive", "topics": {"0": "0.011091546", "1": "0.19195122", "2": "0.011002594", "3": "0.0110287815", "4": "0.08714233", "5": "0.46417278", "6": "0.22361079"}}

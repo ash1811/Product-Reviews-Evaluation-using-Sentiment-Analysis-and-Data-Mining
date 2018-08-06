@@ -1,0 +1,1 @@
+{"text": "These were for my husband and he really loved then. WHen we're at home he pratically lives in his jeans and these were perfect. We've bought the same style before so we already knew that the fit was ok. But these were the same quality also.", "sentiment": "positive", "topics": {"1": "0.49260187", "2": "0.12094118", "4": "0.16420625", "5": "0.2007688"}}

@@ -1,0 +1,1 @@
+{"text": "the shoe is very comfortable and nice my brother in law is loving it, it fit perfect to him hes size 12 and this is a 13, very neat and clean . he just love it .", "sentiment": "negative", "topics": {"0": "0.09573275", "1": "0.41351488", "2": "0.09855572", "3": "0.09721364", "6": "0.27811217"}}

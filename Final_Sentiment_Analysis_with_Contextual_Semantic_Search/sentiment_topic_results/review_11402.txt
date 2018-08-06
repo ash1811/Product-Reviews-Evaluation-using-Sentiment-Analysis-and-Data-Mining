@@ -1,0 +1,1 @@
+{"text": "I thought the material was a little uncomfortable and could be a little softer on the skin.  Otherwise fits great.", "sentiment": "negative", "topics": {"0": "0.011924904", "1": "0.7036381", "2": "0.011920117", "3": "0.011935052", "4": "0.011919", "5": "0.011936565", "6": "0.23672624"}}

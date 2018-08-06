@@ -1,0 +1,1 @@
+{"text": "These pants are everything I expected.  They are true to size and give a slim, tailored look.  Have received compliments for the look.", "sentiment": "positive", "topics": {"0": "0.011061458", "1": "0.5715245", "2": "0.09843033", "3": "0.011046611", "4": "0.124100454", "5": "0.011024607", "6": "0.17281207"}}

@@ -1,0 +1,1 @@
+{"text": "Feel like they are a whole size larger but very comfortable feet feel relaxed in them best buy I've made in a while. Would recommend. And will buy again.", "sentiment": "positive", "topics": {"0": "0.14645398", "1": "0.35946935", "3": "0.1997203", "4": "0.27171257"}}

@@ -1,0 +1,1 @@
+{"text": "Helps when cleaning jewelry. Use just half a capful in the ultrasonic jewelry cleaner. When water appears not clear, dispose of dirty water. Be sure to rinse jewelry after using cleaner.", "sentiment": "negative", "topics": {"0": "0.14562954", "1": "0.18458647", "2": "0.36446255", "3": "0.10809827", "5": "0.058219235", "6": "0.13219452"}}

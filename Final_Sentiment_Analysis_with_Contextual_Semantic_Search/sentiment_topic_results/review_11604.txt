@@ -1,0 +1,1 @@
+{"text": "Yes, I am aware guys and skinny jeans aren't always the perfect match.  These however are just loose enough to be comfortable, without being skin tight.", "sentiment": "negative", "topics": {"1": "0.3879797", "2": "0.17004845", "4": "0.14386322", "5": "0.2712597"}}

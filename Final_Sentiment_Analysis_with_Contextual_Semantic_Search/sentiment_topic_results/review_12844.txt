@@ -1,0 +1,1 @@
+{"text": "These are just what was ordered.  We ordered two different colors of pink this first time, which both are fine. They fit fine and are great.", "sentiment": "positive", "topics": {"0": "0.011036017", "1": "0.60713387", "2": "0.1900751", "3": "0.011008295", "4": "0.011015873", "5": "0.011031632", "6": "0.1586992"}}

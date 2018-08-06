@@ -1,0 +1,1 @@
+{"text": "Great bag, love the size. It is a bit large, but it is good to have space rather than needing more space. It is a great buy!", "sentiment": "positive", "topics": {"0": "0.010264904", "1": "0.38812467", "2": "0.010209038", "3": "0.3303136", "4": "0.24063797", "5": "0.010230457", "6": "0.010219397"}}

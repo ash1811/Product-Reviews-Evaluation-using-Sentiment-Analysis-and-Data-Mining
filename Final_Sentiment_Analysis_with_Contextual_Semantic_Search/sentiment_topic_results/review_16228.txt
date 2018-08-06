@@ -1,0 +1,1 @@
+{"text": "I PURCHASED THESE FOR MY SON IN-LAW FOR CHRISTMAS AND HE REALLY LOVES THEM and he even wore them to the hospital to vist a friends Mom since they have outdoor soles-wanted to try them out-since they were so comfortable", "sentiment": "negative", "topics": {"0": "0.11379627", "1": "0.1937362", "3": "0.22490978", "4": "0.06567566", "5": "0.16392617", "6": "0.23042649"}}

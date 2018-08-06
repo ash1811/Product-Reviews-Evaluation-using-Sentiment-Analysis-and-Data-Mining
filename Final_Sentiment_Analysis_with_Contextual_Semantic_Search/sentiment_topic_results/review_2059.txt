@@ -1,0 +1,1 @@
+{"text": "I purchased this shoe with the understanding that I would stretch it to accommodate my wide foot.  This was accomplished with a little effort and the shoe is now very comfortable for causal use.", "sentiment": "negative", "topics": {"1": "0.24499956", "2": "0.18660294", "3": "0.28032097", "5": "0.12681198", "6": "0.14329465"}}

@@ -1,0 +1,1 @@
+{"text": "First time to buy Carhart item. Great quality and craftsmanship. Wish for a 27&#34; length in a jean to avoid having to shorten for the wearer.", "sentiment": "negative", "topics": {"1": "0.34457004", "2": "0.13404608", "4": "0.15306133", "6": "0.34129244"}}

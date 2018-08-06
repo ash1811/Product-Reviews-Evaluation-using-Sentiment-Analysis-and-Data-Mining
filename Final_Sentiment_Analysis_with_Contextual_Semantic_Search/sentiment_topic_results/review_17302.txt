@@ -1,0 +1,1 @@
+{"text": "Wish they came in more colors.  Fit great, wash up nicely and are very comfortable.  Quality  material and as expected from Danskin.", "sentiment": "negative", "topics": {"0": "0.011069927", "1": "0.7675737", "2": "0.0110076945", "3": "0.010991899", "4": "0.17729627", "5": "0.011010071", "6": "0.011050446"}}

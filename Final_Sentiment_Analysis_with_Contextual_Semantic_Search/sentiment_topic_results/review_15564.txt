@@ -1,0 +1,1 @@
+{"text": "These scrubs arrived quickly. I had ordered them previously from another company, but Amazon had them for quite a bit less money. Plenty of pockets-- perfect for my nursing student son.", "sentiment": "negative", "topics": {"0": "0.081747584", "1": "0.54541045", "2": "0.07733016", "4": "0.059930883", "6": "0.22044592"}}

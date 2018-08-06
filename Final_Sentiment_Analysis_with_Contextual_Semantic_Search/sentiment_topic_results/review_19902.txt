@@ -1,0 +1,1 @@
+{"text": "One size does not fit most. They are really loose and fall off unless I wear garters. They do nothing for the shape of my legs, but it's not worth the hassle to return them.", "sentiment": "negative", "topics": {"0": "0.08148894", "1": "0.3563277", "2": "0.2021325", "3": "0.07918737", "5": "0.11425275", "6": "0.15865612"}}

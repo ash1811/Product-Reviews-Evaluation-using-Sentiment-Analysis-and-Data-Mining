@@ -1,0 +1,1 @@
+{"text": "Great Fit, stretchy, soft, are a little thick but were perfect for me. I would order them again. However if your foot is bigger than a size 10 I wouldn't recommend as they could fall off the back of your ankle.", "sentiment": "negative", "topics": {"0": "0.09720335", "1": "0.47216055", "2": "0.05969564", "3": "0.13189119", "4": "0.22601366"}}

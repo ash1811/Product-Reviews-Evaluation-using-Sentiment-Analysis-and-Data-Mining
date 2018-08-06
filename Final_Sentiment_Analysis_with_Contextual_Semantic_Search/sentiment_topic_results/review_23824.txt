@@ -1,0 +1,1 @@
+{"text": "i love how it looks but the only thing is that the right shoe is alittle bigger than the left one", "sentiment": "positive", "topics": {"0": "0.014335883", "1": "0.014356473", "2": "0.25988156", "3": "0.56740487", "4": "0.014385718", "5": "0.014314635", "6": "0.115320876"}}

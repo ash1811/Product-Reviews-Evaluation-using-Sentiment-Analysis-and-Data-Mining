@@ -1,0 +1,1 @@
+{"text": "Fits as expected.  Does what it is supposed to do.  Might need to get something that tapes vs this as some strapless shirts are too low for it.", "sentiment": "positive", "topics": {"0": "0.17677164", "1": "0.5075155", "4": "0.09628476", "5": "0.10457792", "6": "0.0957603"}}

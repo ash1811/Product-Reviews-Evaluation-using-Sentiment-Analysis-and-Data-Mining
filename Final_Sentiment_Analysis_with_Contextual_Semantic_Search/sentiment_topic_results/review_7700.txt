@@ -1,0 +1,1 @@
+{"text": "Easy slip-ons for yard work & quick trips out to the mailbox... Well made from durable materials.  Anyone that does anything in the yard would find these invaluable.", "sentiment": "negative", "topics": {"0": "0.26156214", "1": "0.3981013", "2": "0.07470958", "3": "0.1375779", "4": "0.11211613"}}

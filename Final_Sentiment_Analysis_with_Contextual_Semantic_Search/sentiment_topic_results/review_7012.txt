@@ -1,0 +1,1 @@
+{"text": "I bought these for my son- in- law for Christmas. They are great work boots and he is a welder/ pipe fitter and they hold up very well", "sentiment": "positive", "topics": {"0": "0.22426057", "1": "0.21163762", "2": "0.010216376", "3": "0.14529322", "4": "0.07306091", "5": "0.32530096", "6": "0.010230339"}}

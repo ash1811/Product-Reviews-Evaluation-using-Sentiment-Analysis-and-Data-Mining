@@ -1,0 +1,1 @@
+{"text": "I've been very pleased with these insoles. Not having gel I had my doubts. But my feet fit snugly in my boots now and I've had no further problems with my achy arches.", "sentiment": "negative", "topics": {"0": "0.010228111", "1": "0.15296893", "2": "0.010234308", "3": "0.39708248", "4": "0.34757644", "5": "0.010235597", "6": "0.07167415"}}

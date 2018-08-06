@@ -1,0 +1,1 @@
+{"text": "This is a Classic Keds shoe! I'm actually tempted to go down a half size. Expect the fit to be closer to a dress shoe than an athletic shoe. Nice quality, and it looks sharper than I though tit would.", "sentiment": "positive", "topics": {"1": "0.19410785", "2": "0.23774822", "3": "0.47680548", "6": "0.0734098"}}

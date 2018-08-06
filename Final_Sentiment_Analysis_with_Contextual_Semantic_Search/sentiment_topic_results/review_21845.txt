@@ -1,0 +1,1 @@
+{"text": "I have resisted spending the money for these Uggs for years-I am so glad I finally splurged!  These are warm (but not so much that they make my feet sweat) and comfortable!  I bet I wear them every day next winter.", "sentiment": "positive", "topics": {"0": "0.17313677", "1": "0.31645295", "2": "0.1942305", "4": "0.1174361", "5": "0.18566161"}}

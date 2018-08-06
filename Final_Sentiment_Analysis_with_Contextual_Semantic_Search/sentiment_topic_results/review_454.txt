@@ -1,0 +1,1 @@
+{"text": "These jeans do not fit like I was hoping... They are relaxed fit but do not fit like the carhartt...The seat and thighs are cut smaller.... Not what I was looking for so I sent them back....", "sentiment": "negative", "topics": {"0": "0.076180235", "1": "0.43727574", "3": "0.08836747", "4": "0.08245022", "6": "0.29885098"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased these for my grandbaby.  They are made very well, and fit well. Love it that they are a bodysuit so the shirt doesn't creep up.  Highly recommend.", "sentiment": "positive", "topics": {"0": "0.13785614", "1": "0.53213334", "2": "0.010222492", "3": "0.12238256", "4": "0.17695577", "5": "0.010232528", "6": "0.01021716"}}

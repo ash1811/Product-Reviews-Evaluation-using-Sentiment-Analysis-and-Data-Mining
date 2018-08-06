@@ -1,0 +1,1 @@
+{"text": "These have been a great buy.  Soft, Warm, fit well.  Especially nice to have during the Utah winter months.  Bottoms provide more than adequate gripping while walking.  When the time comes I'll be buying the same again.", "sentiment": "negative", "topics": {"0": "0.08312639", "1": "0.4767787", "3": "0.06346398", "5": "0.2998447", "6": "0.063774824"}}

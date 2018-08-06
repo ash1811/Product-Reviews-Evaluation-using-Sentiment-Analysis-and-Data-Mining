@@ -1,0 +1,1 @@
+{"text": "Will wash wear - its one tough bra (not so good on skin) and I had to seam the center cup to get rid of Glamorise classic pointy boob trrademark", "sentiment": "negative", "topics": {"1": "0.42135596", "2": "0.17640442", "3": "0.24891396", "6": "0.13070336"}}

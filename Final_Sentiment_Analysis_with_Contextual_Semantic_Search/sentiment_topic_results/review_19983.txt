@@ -1,0 +1,1 @@
+{"text": "I have had back surgery in the past and find that this backpack  helps me carry my book without extra strain.  It has all the right pockets in all of the right places.  A great investment.", "sentiment": "negative", "topics": {"0": "0.13664538", "1": "0.41025767", "2": "0.13617566", "3": "0.116297275", "4": "0.10469739", "6": "0.087956876"}}

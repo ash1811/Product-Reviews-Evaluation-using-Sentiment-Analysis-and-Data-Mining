@@ -1,0 +1,1 @@
+{"text": "really help with minor foot odor. but they are a true fit and are very sturdy. you can find them on a 2 for 1 special on the allen edmonds website for a drop cheaper if you plan on buying 2 pairs.", "sentiment": "positive", "topics": {"0": "0.2463482", "1": "0.21715684", "2": "0.14859378", "4": "0.17927456", "6": "0.19558568"}}

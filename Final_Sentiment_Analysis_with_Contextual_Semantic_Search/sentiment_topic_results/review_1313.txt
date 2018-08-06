@@ -1,0 +1,1 @@
+{"text": "I usually wear a 6.5 in USA size and these fit wonderfully they are sturdy .THANK YOU!!!  going on a much looked forward to retreat with my church over Labor day so gives me time to slowly break these in", "sentiment": "negative", "topics": {"1": "0.32909268", "2": "0.055632103", "3": "0.19261934", "4": "0.26431948", "5": "0.14588088"}}

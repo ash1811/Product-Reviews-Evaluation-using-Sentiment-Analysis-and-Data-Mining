@@ -1,0 +1,1 @@
+{"text": "I had to send these back due to the heel of the shoe. The heel was to small and it hurt my foot. The rest of the shoe fit fine but the heel was really uncomfortable.", "sentiment": "negative", "topics": {"0": "0.09670599", "1": "0.29199892", "2": "0.32148054", "4": "0.04748201", "5": "0.103840284", "6": "0.13004942"}}

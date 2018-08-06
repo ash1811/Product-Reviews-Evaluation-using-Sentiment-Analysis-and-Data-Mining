@@ -1,0 +1,1 @@
+{"text": "Unlike others tried, these wear well and keep the body warm while doing outdoor jobs. Comfortable too. I recommend them!", "sentiment": "positive", "topics": {"1": "0.6133705", "2": "0.26702222", "6": "0.08132337"}}

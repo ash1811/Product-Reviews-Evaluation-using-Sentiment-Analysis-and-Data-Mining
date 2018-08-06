@@ -1,0 +1,1 @@
+{"text": "My only complaint is that they seem to run a little large, especially the length.  For jeans that are supposed to fit below the waist, they end up being a few inches too long.", "sentiment": "negative", "topics": {"1": "0.48916528", "2": "0.15537329", "3": "0.3171427"}}

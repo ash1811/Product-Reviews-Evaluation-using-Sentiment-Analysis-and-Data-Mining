@@ -1,0 +1,1 @@
+{"text": "Really happy with these Keen's. I've been wearing their hikers for a long time but wanted something a bit less casual. These are perfect. Good grip too on the slick Seattle streets.", "sentiment": "negative", "topics": {"0": "0.2579646", "1": "0.35829306", "3": "0.100299284", "4": "0.083982855", "6": "0.18513775"}}

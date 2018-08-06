@@ -1,0 +1,1 @@
+{"text": "Just feels funny on as though it's going to fall off at any moment although I must say it does the job", "sentiment": "positive", "topics": {"0": "0.013011378", "1": "0.23263694", "2": "0.012992978", "3": "0.58574736", "4": "0.013051268", "5": "0.013003031", "6": "0.129557"}}

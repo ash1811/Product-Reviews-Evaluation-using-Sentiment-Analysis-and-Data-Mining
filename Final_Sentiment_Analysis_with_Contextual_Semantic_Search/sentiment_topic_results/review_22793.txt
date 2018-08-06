@@ -1,0 +1,1 @@
+{"text": "My co-worker loved this gift and matching bracelet that came with the gift.  It was reasonable and helped me to stay on budget.", "sentiment": "negative", "topics": {"0": "0.62723094", "1": "0.012064041", "2": "0.1548386", "3": "0.011922702", "4": "0.11428139", "5": "0.06773755", "6": "0.011924748"}}

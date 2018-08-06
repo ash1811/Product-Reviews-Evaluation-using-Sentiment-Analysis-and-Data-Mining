@@ -1,0 +1,1 @@
+{"text": "I needed some new socks for the gym. These arrived on time with no defects and they are so comfortable on my feet! I wear a size 9 shoe so I wasn't sure if they would be big enough, but they fit great!", "sentiment": "positive", "topics": {"0": "0.061729662", "1": "0.28884417", "2": "0.12541308", "3": "0.16119607", "5": "0.26322475", "6": "0.09240377"}}

@@ -1,0 +1,1 @@
+{"text": "Love the shine,and the price. The 5mm ball is not too small or too large. I prefer the simple style and the color is really a golden rose color.", "sentiment": "negative", "topics": {"0": "0.20108789", "1": "0.21262203", "4": "0.16791518", "5": "0.26547346", "6": "0.1350101"}}

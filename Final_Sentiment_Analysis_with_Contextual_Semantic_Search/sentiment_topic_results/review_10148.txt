@@ -1,0 +1,1 @@
+{"text": "It is like the picture, and is a pale blue. The shine and the other plastic decoration make it look cheap. So returned it.", "sentiment": "negative", "topics": {"0": "0.2638894", "1": "0.011049564", "2": "0.011035755", "3": "0.26836494", "4": "0.22341171", "5": "0.21122383", "6": "0.011024795"}}

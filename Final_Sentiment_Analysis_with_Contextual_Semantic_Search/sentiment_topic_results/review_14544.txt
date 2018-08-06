@@ -1,0 +1,1 @@
+{"text": "Have only worn these two weeks, but so far the foam inside is very comfortable.  I do wish, however, that the velcro area was a little larger.  I am hoping that these will last a long time, for this kind of money.", "sentiment": "negative", "topics": {"1": "0.23310323", "2": "0.24513657", "3": "0.13998418", "5": "0.20011608", "6": "0.16732983"}}

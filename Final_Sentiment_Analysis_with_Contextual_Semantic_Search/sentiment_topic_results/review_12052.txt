@@ -1,0 +1,1 @@
+{"text": "Necklace was really thin.  Only lasted a month on my 12 yr olds neck.", "sentiment": "negative", "topics": {"0": "0.6317661", "1": "0.0143726645", "2": "0.01432018", "3": "0.29651615", "4": "0.014361151", "5": "0.014343537", "6": "0.014320197"}}

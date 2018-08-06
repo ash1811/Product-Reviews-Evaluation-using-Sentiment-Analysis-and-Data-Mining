@@ -1,0 +1,1 @@
+{"text": "I bought these for my son for his Birthday. He wanted moc style that he could wear outside. He really likes them, says they are true to size, likes the color and they are very comfy.", "sentiment": "negative", "topics": {"1": "0.3800168", "3": "0.3835898", "6": "0.20619999"}}

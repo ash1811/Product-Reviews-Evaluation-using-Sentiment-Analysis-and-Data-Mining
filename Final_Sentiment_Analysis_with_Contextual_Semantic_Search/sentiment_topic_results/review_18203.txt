@@ -1,0 +1,1 @@
+{"text": "no where can you get a watch with a ten year battery and water proof to a hundred meters. also has stop watch and a timer and twentyfour hour digital time and world time for any major city in the world", "sentiment": "negative", "topics": {"0": "0.10148611", "1": "0.16176423", "2": "0.24727477", "3": "0.0755662", "4": "0.26839137", "6": "0.13927045"}}

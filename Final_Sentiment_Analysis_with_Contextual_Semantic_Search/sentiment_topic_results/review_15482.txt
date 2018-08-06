@@ -1,0 +1,1 @@
+{"text": "Had for over a year not a single complaintnot the most gental person with glasses and these have heldup fine", "sentiment": "negative", "topics": {"0": "0.015981635", "1": "0.015946535", "2": "0.26320505", "3": "0.016005509", "4": "0.015894743", "5": "0.65706706", "6": "0.015899526"}}

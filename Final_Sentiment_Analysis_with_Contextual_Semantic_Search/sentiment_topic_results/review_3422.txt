@@ -1,0 +1,1 @@
+{"text": "This is just what I have been looking for in a non-wire bra.  I have worn underwire bras forever, but just am tired of the poking from them.  This is a great choice to change to for support and comfort.", "sentiment": "negative", "topics": {"2": "0.08740195", "3": "0.4257699", "4": "0.09384496", "5": "0.10945032", "6": "0.26555935"}}

@@ -1,0 +1,1 @@
+{"text": "My son loves the cut and how soft shirts are. Not expensive. Fast Shipping. try these out yourself they are very comfortable", "sentiment": "negative", "topics": {"0": "0.011949296", "1": "0.72346413", "2": "0.21675639", "3": "0.011992944", "4": "0.011994907", "5": "0.011927682", "6": "0.011914635"}}

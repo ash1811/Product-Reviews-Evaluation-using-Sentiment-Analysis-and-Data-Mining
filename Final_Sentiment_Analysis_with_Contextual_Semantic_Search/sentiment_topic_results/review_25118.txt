@@ -1,0 +1,1 @@
+{"text": "as described, prompt shipping.  They are Ugg brand (some people seem to have had a problem with that) and fit fine in my boots.  They have breathed new life into my old boots, I'm glad I found them.", "sentiment": "positive", "topics": {"1": "0.31579444", "2": "0.04957581", "3": "0.20403656", "4": "0.3018348", "5": "0.11632241"}}

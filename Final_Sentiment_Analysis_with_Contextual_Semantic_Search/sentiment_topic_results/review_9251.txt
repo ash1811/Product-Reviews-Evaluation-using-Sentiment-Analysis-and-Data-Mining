@@ -1,0 +1,1 @@
+{"text": "I like the slippers so far.  I ordered my size but they are a tad too big, but still comfortable. So do not jump up a size. I do not know about their longevity, but they appear to be built well. They are very comfortable.", "sentiment": "positive", "topics": {"1": "0.56635433", "4": "0.07537195", "6": "0.32644635"}}

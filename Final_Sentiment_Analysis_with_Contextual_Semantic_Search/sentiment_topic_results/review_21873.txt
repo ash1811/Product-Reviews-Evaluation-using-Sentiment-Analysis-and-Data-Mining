@@ -1,0 +1,1 @@
+{"text": "Shipping was very fast and they fit very good!!! I love them. They exceeded my expectations.  I thought I needed to wear these thigh hi's with garters but they stay up on my thighs perfectly. Thanks Seller!!!!", "sentiment": "negative", "topics": {"0": "0.108485445", "1": "0.28962746", "3": "0.15886302", "4": "0.21492697", "5": "0.07986746", "6": "0.14104253"}}

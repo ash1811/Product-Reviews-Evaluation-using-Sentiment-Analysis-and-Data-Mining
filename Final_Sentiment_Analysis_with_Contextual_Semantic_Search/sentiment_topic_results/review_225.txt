@@ -1,0 +1,1 @@
+{"text": "The item arrived on time in perfect condition. I took a 3 week trip to Africa and it was the perfect item to have!", "sentiment": "negative", "topics": {"0": "0.14462091", "1": "0.13962252", "2": "0.010211823", "3": "0.47929794", "4": "0.010224073", "5": "0.010225444", "6": "0.20579727"}}

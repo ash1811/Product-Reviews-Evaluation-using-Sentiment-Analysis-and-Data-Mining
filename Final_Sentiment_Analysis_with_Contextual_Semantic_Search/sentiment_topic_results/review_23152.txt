@@ -1,0 +1,1 @@
+{"text": "this item fits perfectly and i love it i was always purchase my underwear from you and i am satisfied", "sentiment": "positive", "topics": {"0": "0.01591128", "1": "0.5392666", "2": "0.015925331", "3": "0.015929094", "4": "0.016015442", "5": "0.01590707", "6": "0.38104516"}}

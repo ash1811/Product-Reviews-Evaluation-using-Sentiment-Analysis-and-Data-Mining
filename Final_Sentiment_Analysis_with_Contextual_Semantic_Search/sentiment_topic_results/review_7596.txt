@@ -1,0 +1,1 @@
+{"text": "It arrived earlier than I hoped!It is very pretty, and comfortable to wear!I recommend it!", "sentiment": "negative", "topics": {"0": "0.43349177", "1": "0.336713", "2": "0.16613333", "3": "0.015998859", "4": "0.015877526", "5": "0.015910983", "6": "0.015874527"}}

@@ -1,0 +1,1 @@
+{"text": "This vest os well made. The material is soft and warm and I love the color. I will buy more.", "sentiment": "positive", "topics": {"0": "0.011994652", "1": "0.7479324", "2": "0.012030461", "3": "0.19218864", "4": "0.011963843", "5": "0.011935442", "6": "0.0119546205"}}

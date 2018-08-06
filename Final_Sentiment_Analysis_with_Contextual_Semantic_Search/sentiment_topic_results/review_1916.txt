@@ -1,0 +1,1 @@
+{"text": "I LOVE these! I wear them at work and they match all of my outfits. They are super comfy and even quiet to walk in. I am like an administrative ninja in these. Booya!", "sentiment": "positive", "topics": {"0": "0.12577666", "1": "0.33439496", "3": "0.18626928", "4": "0.083770186", "5": "0.25386456"}}

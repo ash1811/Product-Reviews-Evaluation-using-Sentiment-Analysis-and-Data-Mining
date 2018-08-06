@@ -1,0 +1,1 @@
+{"text": "I loive this bag.  I've had to return others because they were too heavy to carry, but this is light with the impression of being heavy.  It is perfecf for what I was looking for.", "sentiment": "negative", "topics": {"0": "0.0103043895", "1": "0.010291986", "2": "0.010225318", "3": "0.38507435", "4": "0.09334363", "5": "0.14571424", "6": "0.3450461"}}

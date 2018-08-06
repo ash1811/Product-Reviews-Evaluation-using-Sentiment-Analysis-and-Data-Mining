@@ -1,0 +1,1 @@
+{"text": "This is a lovely wallet with the capacity to hold so much more than your average lady's wallet. Slots, zippered storage, a place for your checkbook, cash and change. It is definitely an all-in-one.I highly recommend it!", "sentiment": "negative", "topics": {"0": "0.07490383", "2": "0.32901913", "3": "0.19331378", "4": "0.31881756", "6": "0.07029082"}}

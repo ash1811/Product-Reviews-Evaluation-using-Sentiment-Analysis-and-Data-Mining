@@ -1,0 +1,1 @@
+{"text": "The heal and the inside stiching of the shoe rubbed me in a few places. Had to fold down the backs and sort of use them as slip-ons. Even with socks on they were not comfortable all the way on.", "sentiment": "positive", "topics": {"0": "0.19781473", "1": "0.16192707", "2": "0.41799605", "5": "0.19697201"}}

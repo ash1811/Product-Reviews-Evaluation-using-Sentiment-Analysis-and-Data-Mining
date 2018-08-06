@@ -1,0 +1,1 @@
+{"text": "These sneakers support the foot well and allow for spending hours walking about in comfort. Nice-looking with good texturing. Well-constructed. Highly recommended!", "sentiment": "negative", "topics": {"2": "0.14115909", "5": "0.6646164", "6": "0.15824263"}}

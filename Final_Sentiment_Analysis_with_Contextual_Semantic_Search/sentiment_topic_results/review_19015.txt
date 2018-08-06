@@ -1,0 +1,1 @@
+{"text": "I usually don't but clothing or undergarments online but I did this time.  I am glad I did.  This bra is very comfortable.  I would buy again.", "sentiment": "negative", "topics": {"0": "0.011005053", "1": "0.44792148", "2": "0.010995042", "3": "0.109987944", "4": "0.011035441", "5": "0.39806005", "6": "0.010994937"}}

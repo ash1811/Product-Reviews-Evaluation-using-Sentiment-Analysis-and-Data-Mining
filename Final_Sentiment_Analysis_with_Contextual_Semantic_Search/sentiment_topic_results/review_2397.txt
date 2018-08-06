@@ -1,0 +1,1 @@
+{"text": "this is one of the classics, loved the fit and received a lot of complements for it .. kinda heavy but it's worth it!", "sentiment": "negative", "topics": {"0": "0.01202901", "1": "0.4125779", "2": "0.26779392", "3": "0.011946793", "4": "0.011936597", "5": "0.011988676", "6": "0.27172711"}}

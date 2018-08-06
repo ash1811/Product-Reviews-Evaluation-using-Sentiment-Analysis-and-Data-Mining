@@ -1,0 +1,1 @@
+{"text": "I have bought many pairs of Keens. I wear them until they wear out. This pair as are all Keens comfortable, stylish, and versatile.", "sentiment": "positive", "topics": {"0": "0.011003481", "1": "0.43346724", "2": "0.011016727", "3": "0.015671391", "4": "0.1981772", "5": "0.011049334", "6": "0.31961462"}}

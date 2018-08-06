@@ -1,0 +1,1 @@
+{"text": "Strong, stable, well made sneakers. Very comfortable and true to size. Just wish the laces were a little bit longer and thicker. Will probably get replacements and use those instead.", "sentiment": "positive", "topics": {"1": "0.50278103", "2": "0.12136712", "3": "0.2169989", "4": "0.057397097", "5": "0.08711672"}}

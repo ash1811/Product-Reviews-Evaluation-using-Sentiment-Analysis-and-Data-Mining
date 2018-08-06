@@ -1,0 +1,1 @@
+{"text": "My neice loves it. She really likes the cell phone.  She is so cute with her little purse! She loves the little mirror in it.", "sentiment": "negative", "topics": {"1": "0.17431094", "3": "0.4481516", "4": "0.1367483", "6": "0.21207863"}}

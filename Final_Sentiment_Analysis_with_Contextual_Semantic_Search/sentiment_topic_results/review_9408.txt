@@ -1,0 +1,1 @@
+{"text": "good bag but not enough organizer pockets, good quality, if it only had organizer pockets for small items , like toiletries", "sentiment": "negative", "topics": {"0": "0.010220347", "1": "0.7280226", "2": "0.010216147", "3": "0.0102178855", "4": "0.10999393", "5": "0.010225295", "6": "0.12110381"}}

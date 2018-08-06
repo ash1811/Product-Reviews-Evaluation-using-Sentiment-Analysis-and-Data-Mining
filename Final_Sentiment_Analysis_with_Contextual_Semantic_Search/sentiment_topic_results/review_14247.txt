@@ -1,0 +1,1 @@
+{"text": "These jeans fit verywell and are tight In all the right places and give just enough to not rub anywhere or ever be uncomfortable. Need a pair of nice white Jeans for an event these are priced right and fit very well.", "sentiment": "negative", "topics": {"1": "0.6430005", "4": "0.09624539", "5": "0.18642314", "6": "0.055646326"}}

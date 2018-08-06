@@ -1,0 +1,1 @@
+{"text": "there are many copys out there .i know i have a few copys  so trying to save u end up spending the amount in wasted pairs never again  1 and only sperry  .nothing else even comes close..", "sentiment": "negative", "topics": {"0": "0.059434094", "1": "0.43766937", "2": "0.19359116", "3": "0.1508463", "4": "0.14540169"}}

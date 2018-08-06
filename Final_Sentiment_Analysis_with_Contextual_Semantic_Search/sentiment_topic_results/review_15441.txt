@@ -1,0 +1,1 @@
+{"text": "Work well and look nice.  I get tons of compliments on the glasses.  My only small issue is that they tend to slide down my nose in warmer days.  Might just be the shape of my face?", "sentiment": "positive", "topics": {"1": "0.4021414", "2": "0.2020535", "3": "0.24754642", "5": "0.053518873", "6": "0.07965249"}}

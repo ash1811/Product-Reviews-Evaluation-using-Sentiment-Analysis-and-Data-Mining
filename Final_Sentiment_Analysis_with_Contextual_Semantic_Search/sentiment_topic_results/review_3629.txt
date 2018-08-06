@@ -1,0 +1,1 @@
+{"text": "I've bought this bra before, but for some reason have a difficult time finding it in stores.  It has a very thin padding so that it smooths and shapes you, but doesn't add any bulk.  Love it!", "sentiment": "negative", "topics": {"0": "0.27466497", "3": "0.30717787", "4": "0.23478782", "5": "0.1003854", "6": "0.06785428"}}

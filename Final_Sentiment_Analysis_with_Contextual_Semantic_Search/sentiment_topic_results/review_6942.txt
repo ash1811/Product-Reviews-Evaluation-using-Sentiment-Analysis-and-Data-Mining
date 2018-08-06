@@ -1,0 +1,1 @@
+{"text": "I'm becoming a bid fan of Dickies clothes.  So far everything fits as expected.  I has been sturdy and good quality.  Very happy with what we have purchased.", "sentiment": "negative", "topics": {"0": "0.10928293", "1": "0.5785195", "2": "0.18981943", "3": "0.09554476"}}

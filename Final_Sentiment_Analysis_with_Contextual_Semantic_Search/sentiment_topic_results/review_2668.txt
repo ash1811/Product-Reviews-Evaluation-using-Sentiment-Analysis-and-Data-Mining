@@ -1,0 +1,1 @@
+{"text": "You get what you pay for.  Ordered usual size of 1X.  Way too short, esp. now that it's shrunk.  But very lightweight and colorful.", "sentiment": "negative", "topics": {"0": "0.13793327", "1": "0.10027763", "2": "0.010215001", "3": "0.13761954", "4": "0.07238846", "5": "0.16134027", "6": "0.3802258"}}

@@ -1,0 +1,1 @@
+{"text": "This bag is great for two people but for just myself it's a little large. I would like more pockets and comfortable straps. The green is nice.", "sentiment": "positive", "topics": {"0": "0.010219628", "1": "0.74382275", "2": "0.20506339", "3": "0.010233642", "4": "0.010209945", "5": "0.010223248", "6": "0.010227377"}}

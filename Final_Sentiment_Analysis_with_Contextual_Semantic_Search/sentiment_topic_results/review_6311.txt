@@ -1,0 +1,1 @@
+{"text": "I am returning it. I wanted something small just for my phone, ID and money that I could use hands free. My phone will not fit in it.", "sentiment": "negative", "topics": {"1": "0.58816427", "3": "0.3670619"}}

@@ -1,0 +1,1 @@
+{"text": "These are very nice, they look great and feel terrific, very comfortable. Best slippers I've ever had. Heavy leather, solid soles, my feet feel well-protected from the vicissitudes of walking around my house.", "sentiment": "positive", "topics": {"1": "0.24992597", "2": "0.10847042", "3": "0.0858953", "4": "0.12604117", "5": "0.14720544", "6": "0.2762224"}}

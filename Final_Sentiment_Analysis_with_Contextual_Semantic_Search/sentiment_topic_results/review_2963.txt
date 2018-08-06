@@ -1,0 +1,1 @@
+{"text": "I finally found a bra I can order on line ,and it will fit I plan on ordering a couple more in different colors,and it holds up  very well even though its not and underwire bra , and I'm a triple d girl,", "sentiment": "positive", "topics": {"0": "0.20830174", "1": "0.1138238", "2": "0.1236438", "3": "0.29613557", "5": "0.18384247", "6": "0.06772601"}}

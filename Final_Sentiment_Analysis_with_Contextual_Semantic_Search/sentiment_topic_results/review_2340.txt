@@ -1,0 +1,1 @@
+{"text": "Very good price but not as comfortable as Docker's more casual shoes.  Only weat them sundays so fine for the price.", "sentiment": "negative", "topics": {"0": "0.013036296", "1": "0.36852086", "2": "0.19842753", "3": "0.01299007", "4": "0.013033697", "5": "0.25883102", "6": "0.13516055"}}

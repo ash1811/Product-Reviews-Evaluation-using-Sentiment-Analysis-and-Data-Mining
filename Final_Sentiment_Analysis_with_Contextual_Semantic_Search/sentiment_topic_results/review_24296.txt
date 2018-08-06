@@ -1,0 +1,1 @@
+{"text": "I'm pleased with this product, they are not too tight on my legs being a queen size, I love the color and the durability", "sentiment": "negative", "topics": {"0": "0.01300829", "1": "0.3252445", "2": "0.23713851", "3": "0.21192089", "4": "0.013049554", "5": "0.18661246", "6": "0.01302577"}}

@@ -1,0 +1,1 @@
+{"text": "one of my clients always finds it hard to find the right bra ... so this was a good find the material she says is a bit thin ... so it doesn't offer much support .. bare that in mind !!!", "sentiment": "negative", "topics": {"0": "0.17021316", "1": "0.24440312", "3": "0.1756556", "4": "0.34122396", "6": "0.054182135"}}

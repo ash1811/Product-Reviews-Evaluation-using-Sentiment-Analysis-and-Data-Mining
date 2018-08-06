@@ -1,0 +1,1 @@
+{"text": "An excellent pair of lenses!! Light weight, excellent fit.. When I have them they seem as I have nothing on. The vision is excellent.", "sentiment": "negative", "topics": {"0": "0.15513663", "1": "0.21388282", "2": "0.38749453", "3": "0.21036473", "4": "0.011022959", "5": "0.0110495435", "6": "0.011048756"}}

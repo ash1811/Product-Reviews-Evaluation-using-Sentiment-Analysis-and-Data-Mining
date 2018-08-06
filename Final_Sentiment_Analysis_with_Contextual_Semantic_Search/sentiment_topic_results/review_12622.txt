@@ -1,0 +1,1 @@
+{"text": "I absolutely love Easy Spirit Travel time slip on. Its the most comfortable shoe I have ever had, the fit is perfect and I have narrow feet so its hard to find something truly comfortable.  I would highly recommend this product.", "sentiment": "negative", "topics": {"0": "0.23475392", "1": "0.34133008", "2": "0.10312828", "4": "0.2427885", "5": "0.06698163"}}

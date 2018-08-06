@@ -1,0 +1,1 @@
+{"text": "Casio Watches have always been high quality and this one did not disappoint me.  It was purchased for a Christmas Gift and made the person very pleased.", "sentiment": "negative", "topics": {"0": "0.12522784", "1": "0.29504064", "2": "0.38439134", "6": "0.16668148"}}

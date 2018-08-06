@@ -1,0 +1,1 @@
+{"text": "I have others UA products and they are really good, but this item that i've got it's not.I dont recommend, the material it's not like the others. Looks like a normal sleeve.", "sentiment": "negative", "topics": {"0": "0.14450128", "1": "0.23274261", "2": "0.102108076", "3": "0.15656091", "5": "0.16685005", "6": "0.1895919"}}

@@ -1,0 +1,1 @@
+{"text": "I really didn't feel like paying 10 bucks every time to get a watch re-sized, so I bought this contraption instead. It does the job and saved me money!", "sentiment": "negative", "topics": {"1": "0.20421532", "2": "0.1810162", "3": "0.13992679", "4": "0.1708557", "5": "0.28802592"}}

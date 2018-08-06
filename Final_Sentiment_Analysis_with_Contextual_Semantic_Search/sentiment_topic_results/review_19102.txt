@@ -1,0 +1,1 @@
+{"text": "This is my second watch like this. I love it. My last one still runs I just tore up the band due to using it at work. Highly recommend it.", "sentiment": "negative", "topics": {"0": "0.25528327", "1": "0.30822822", "2": "0.29449248", "5": "0.11933087"}}

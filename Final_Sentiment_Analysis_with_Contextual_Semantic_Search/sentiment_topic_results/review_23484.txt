@@ -1,0 +1,1 @@
+{"text": "Looks elegant with a combination of Rolex and Brietling. There are also some models that combine between Rolex, Omega & Brietling. Very well made from top grade materials. I just LOVE IT.....", "sentiment": "negative", "topics": {"0": "0.23426507", "1": "0.1660086", "2": "0.05521149", "3": "0.07390478", "4": "0.28289008", "5": "0.058605753", "6": "0.12911424"}}

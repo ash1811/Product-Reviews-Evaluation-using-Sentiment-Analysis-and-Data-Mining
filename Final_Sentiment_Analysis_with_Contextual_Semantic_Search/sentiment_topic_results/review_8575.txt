@@ -1,0 +1,1 @@
+{"text": "Fits like a glove...nice terry cloth lining that stands up to tiime...leather outer material.  Excellent for walking but not running.  overtime the inside material wears and causes some bad foot odor in the sneaker.", "sentiment": "positive", "topics": {"0": "0.10590468", "1": "0.23558581", "2": "0.29813287", "5": "0.22700655", "6": "0.120895624"}}

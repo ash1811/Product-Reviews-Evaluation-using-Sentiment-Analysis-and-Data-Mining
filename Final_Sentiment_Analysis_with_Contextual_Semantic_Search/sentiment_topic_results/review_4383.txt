@@ -1,0 +1,1 @@
+{"text": "For me, the material is a little bit too thick! Like I had Lee Jeans before, the material was thinner and more comfortable, but I will resolve this problem, wash them a few times and the problem is gone!", "sentiment": "negative", "topics": {"0": "0.3239058", "1": "0.47170022", "4": "0.07240821", "6": "0.1093288"}}

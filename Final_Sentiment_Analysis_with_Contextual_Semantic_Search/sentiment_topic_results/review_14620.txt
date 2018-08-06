@@ -1,0 +1,1 @@
+{"text": "I'm on my 3rd or 4th pair - I love them.  I wish the soles lasted a bit longer or that it would be possible to just repair the soles for less than buying a brand new pair.", "sentiment": "negative", "topics": {"1": "0.27447826", "3": "0.46971697", "4": "0.07441414", "6": "0.16093104"}}

@@ -1,0 +1,1 @@
+{"text": "This was a gift for my son and so far it's held up well with his hard playing. He's wanted a watch for awhile and this one seemed like a good choice, between the camo band and elastic  band. It stays put well.", "sentiment": "positive", "topics": {"0": "0.23199241", "1": "0.22429146", "2": "0.18939638", "3": "0.13998182", "4": "0.20238194"}}

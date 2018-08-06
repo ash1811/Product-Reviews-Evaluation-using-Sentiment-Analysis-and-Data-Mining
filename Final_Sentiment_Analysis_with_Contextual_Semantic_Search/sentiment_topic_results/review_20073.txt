@@ -1,0 +1,1 @@
+{"text": "for under $30, this is a very good value. Straps are strong and padded. My kids use it in the rough way it has held up for at least the last one year.with the free shipping it is worth getting more than one to have as backup.", "sentiment": "negative", "topics": {"2": "0.32345378", "3": "0.13438226", "4": "0.42166013", "5": "0.10096157"}}

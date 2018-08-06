@@ -1,0 +1,1 @@
+{"text": "I returned size 9 for an 8-1/2, and these fit perfectly.  The placement of the Velco adjustable straps are in the right places.", "sentiment": "negative", "topics": {"0": "0.09422196", "1": "0.3004975", "2": "0.24654157", "3": "0.011055442", "4": "0.14771488", "5": "0.011004648", "6": "0.18896398"}}

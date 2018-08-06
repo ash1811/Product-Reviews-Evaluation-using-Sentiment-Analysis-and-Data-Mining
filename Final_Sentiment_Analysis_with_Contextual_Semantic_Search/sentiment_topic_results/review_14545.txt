@@ -1,0 +1,1 @@
+{"text": "They're not the lightest nor ergonomic glasses you'll try, but for the price you can't beat these especially with the polarization.", "sentiment": "negative", "topics": {"0": "0.013066069", "1": "0.013044878", "2": "0.1777719", "3": "0.24660063", "4": "0.5235083", "5": "0.013004729", "6": "0.013003457"}}

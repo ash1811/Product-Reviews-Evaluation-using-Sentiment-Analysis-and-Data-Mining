@@ -1,0 +1,1 @@
+{"text": "Pros: I got two for less than $20Cons: The neck is tight in the size(4xl) I bought, the material is pretty thin.Final Thoughts: They make good under sweater shirt.", "sentiment": "negative", "topics": {"1": "0.5918819", "3": "0.19006327", "4": "0.07421669", "6": "0.119984046"}}

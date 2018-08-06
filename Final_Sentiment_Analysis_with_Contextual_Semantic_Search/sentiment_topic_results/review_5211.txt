@@ -1,0 +1,1 @@
+{"text": "I love these ugg slippers! They are so cozy. So pretty in pink. Any ugg is wonderful and these will not disappoint. They fit true to size for me I'm a 7 and ordered a 7 and they fit perfectly. Just love them!", "sentiment": "negative", "topics": {"1": "0.57190853", "2": "0.10549326", "6": "0.2952441"}}

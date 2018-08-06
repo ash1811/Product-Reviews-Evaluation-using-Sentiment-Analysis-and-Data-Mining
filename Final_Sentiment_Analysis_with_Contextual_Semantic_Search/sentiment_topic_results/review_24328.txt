@@ -1,0 +1,1 @@
+{"text": "Purchased this hat off of here and when it came in, it didn't seem to fit like the other one I have that was purchased from Carhartt directly.", "sentiment": "negative", "topics": {"0": "0.011953801", "1": "0.4480987", "2": "0.011952269", "3": "0.011947542", "4": "0.3763424", "5": "0.12771566", "6": "0.011989632"}}

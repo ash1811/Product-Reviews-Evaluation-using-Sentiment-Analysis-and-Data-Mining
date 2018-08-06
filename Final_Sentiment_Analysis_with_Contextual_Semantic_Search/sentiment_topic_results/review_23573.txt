@@ -1,0 +1,1 @@
+{"text": "These socks are great and durable for my big tall guy! They wash and wear very nicely. You can't go wrong Hanes at this price.", "sentiment": "negative", "topics": {"1": "0.52067953", "2": "0.07957242", "4": "0.12558131", "5": "0.24555677"}}

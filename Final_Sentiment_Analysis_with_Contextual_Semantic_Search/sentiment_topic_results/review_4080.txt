@@ -1,0 +1,1 @@
+{"text": "I really like this shoes and the moment I saw this I had to own it, K-Swiss makes a great shoes", "sentiment": "positive", "topics": {"0": "0.013049106", "1": "0.01308556", "2": "0.48090667", "3": "0.45389807", "4": "0.012995186", "5": "0.013049628", "6": "0.013015817"}}

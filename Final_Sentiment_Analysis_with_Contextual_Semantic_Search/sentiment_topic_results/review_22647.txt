@@ -1,0 +1,1 @@
+{"text": "Nice pants for work or everyday use - I even wear to church on casual activities.  Don't shrink when washed, don't wrinkle, fit well and great price.  Would recommend and I will be buying more in the future.", "sentiment": "negative", "topics": {"1": "0.6331887", "3": "0.07502871", "4": "0.18203202", "5": "0.09016729"}}

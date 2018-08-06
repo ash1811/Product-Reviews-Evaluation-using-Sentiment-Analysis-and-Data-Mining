@@ -1,0 +1,1 @@
+{"text": "I have purchased six pair of Giorgio Brutini Boots. I purchased my first pair in 2003. It is A great looking boot and really wear well .", "sentiment": "positive", "topics": {"0": "0.18192883", "1": "0.40782163", "3": "0.1407726", "4": "0.24423333"}}

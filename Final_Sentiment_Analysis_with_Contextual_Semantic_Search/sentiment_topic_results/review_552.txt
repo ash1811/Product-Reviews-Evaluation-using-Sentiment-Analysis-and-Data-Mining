@@ -1,0 +1,1 @@
+{"text": "I would recommend this product to anyone that has interest.  The jeans fit well and feel comfortable.  The extra room in seat and thieghs make them comfortable.", "sentiment": "positive", "topics": {"0": "0.14445046", "1": "0.4156059", "3": "0.09294303", "5": "0.25060016", "6": "0.07957556"}}

@@ -1,0 +1,1 @@
+{"text": "As I get older I don't like my leg out I like to shape and cover them, this does it for me and I don't have all the thing I dont like exposed.", "sentiment": "negative", "topics": {"0": "0.011008772", "1": "0.011022657", "2": "0.62250304", "3": "0.011091843", "4": "0.011032035", "5": "0.11823878", "6": "0.21510291"}}

@@ -1,0 +1,1 @@
+{"text": "I have a Seiko self winding diver which I got from a friend who was no longer wearing it. It had a generic cheapo reproduction band on it which was very stiff and did not fit well.This one is perfect. Looks right and wears right.", "sentiment": "negative", "topics": {"1": "0.31998965", "2": "0.09003007", "4": "0.1844572", "5": "0.0701554", "6": "0.3228921"}}

@@ -1,0 +1,1 @@
+{"text": "Fits well. Looks nice. Haven't gotten to wear it all day yet but  as of now I don't anticipate a problem. The lace on the bottom around the leg is quite pretty.", "sentiment": "negative", "topics": {"1": "0.47980192", "4": "0.07444517", "5": "0.4120497"}}

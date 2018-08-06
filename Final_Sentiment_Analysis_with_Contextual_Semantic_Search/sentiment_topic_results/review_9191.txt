@@ -1,0 +1,1 @@
+{"text": "Poor quality, the price is expensive. You should buy this product with caution. I hope I can help to you", "sentiment": "negative", "topics": {"0": "0.014378348", "1": "0.5721682", "2": "0.014320609", "3": "0.014347737", "4": "0.014308152", "5": "0.25192314", "6": "0.11855389"}}

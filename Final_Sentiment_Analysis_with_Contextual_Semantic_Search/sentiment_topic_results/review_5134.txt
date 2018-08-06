@@ -1,0 +1,1 @@
+{"text": "Another great pair of socks from an always reliable company.  Soft, smooth, warm.  They wash well and last almost forever.  I'm cheap, so I watch for sales, but these are the only socks I want to buy any more.", "sentiment": "negative", "topics": {"1": "0.4351807", "2": "0.18452525", "4": "0.1921949", "5": "0.17018789"}}

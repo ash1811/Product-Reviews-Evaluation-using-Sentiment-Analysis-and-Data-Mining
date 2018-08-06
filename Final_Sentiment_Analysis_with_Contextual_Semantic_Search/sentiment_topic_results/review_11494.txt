@@ -1,0 +1,1 @@
+{"text": "There very well made and so soft ..omg love it  i have had them for over a year and they still just as soft", "sentiment": "negative", "topics": {"0": "0.015898405", "1": "0.7933125", "2": "0.015884312", "3": "0.015947975", "4": "0.015944684", "5": "0.015902285", "6": "0.12710983"}}

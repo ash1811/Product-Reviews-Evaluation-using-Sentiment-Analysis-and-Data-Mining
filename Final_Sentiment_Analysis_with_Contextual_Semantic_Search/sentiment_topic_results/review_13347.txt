@@ -1,0 +1,1 @@
+{"text": "i'm simple. like simple things. these work great for me, and have no issues with them. sit in wheelchair all day, and have had no complaints using them.", "sentiment": "negative", "topics": {"0": "0.106178954", "1": "0.17263357", "3": "0.24143353", "5": "0.24851653", "6": "0.21437703"}}

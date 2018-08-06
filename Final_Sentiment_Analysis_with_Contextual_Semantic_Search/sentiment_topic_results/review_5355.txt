@@ -1,0 +1,1 @@
+{"text": "My Husband has always loved the Carhartt shirts with the pocket. This is really nice with the buttons. Love THEM!", "sentiment": "positive", "topics": {"0": "0.011933171", "1": "0.53694934", "2": "0.24418063", "3": "0.011951778", "4": "0.1710634", "5": "0.011933305", "6": "0.011988388"}}

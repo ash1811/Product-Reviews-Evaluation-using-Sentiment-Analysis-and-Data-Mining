@@ -1,0 +1,1 @@
+{"text": "Well made, soft fleecy material. Was a bit large on my otherwise 2T wearing kid, but we worked with it.", "sentiment": "negative", "topics": {"0": "0.010231194", "1": "0.55673325", "2": "0.30004662", "3": "0.01023116", "4": "0.010205684", "5": "0.102271155", "6": "0.010280942"}}

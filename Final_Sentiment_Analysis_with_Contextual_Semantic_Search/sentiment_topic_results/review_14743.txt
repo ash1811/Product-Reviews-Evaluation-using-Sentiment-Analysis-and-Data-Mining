@@ -1,0 +1,1 @@
+{"text": "The construction seems sturdy and the quality is better than some of the less expensive models offered. Rain coverage is enough for one person or two if they like each other. Time will tell how durable it will be.", "sentiment": "negative", "topics": {"1": "0.3354152", "2": "0.15499467", "3": "0.1109416", "4": "0.24296619", "6": "0.14266688"}}

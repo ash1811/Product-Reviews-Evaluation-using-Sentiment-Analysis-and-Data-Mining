@@ -1,0 +1,1 @@
+{"text": "If you ever had Uggs you're feet always live them. Fit is perfect if u wear barefoot it's a size smaller and with socks it will b you're normal size.", "sentiment": "negative", "topics": {"0": "0.20035821", "1": "0.085662715", "2": "0.23044437", "3": "0.32145807", "5": "0.14613749"}}

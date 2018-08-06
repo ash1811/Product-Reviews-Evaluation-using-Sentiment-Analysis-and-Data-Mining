@@ -1,0 +1,1 @@
+{"text": "What can i say, it is Ray-ban, fits perfectly, looks nice. Is what i expected when i bought them. Thanks.", "sentiment": "negative", "topics": {"0": "0.013034841", "1": "0.6415576", "2": "0.20773731", "3": "0.013038915", "4": "0.012996936", "5": "0.013009197", "6": "0.09862523"}}

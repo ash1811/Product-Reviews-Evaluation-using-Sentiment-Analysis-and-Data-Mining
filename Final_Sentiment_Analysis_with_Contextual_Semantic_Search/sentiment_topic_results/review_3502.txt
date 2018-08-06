@@ -1,0 +1,1 @@
+{"text": "She loves it and it's a perfect fit. I have washed it and it is stable and continues to fit and look good.", "sentiment": "negative", "topics": {"0": "0.01430699", "1": "0.74586433", "2": "0.0142897125", "3": "0.014303568", "4": "0.1826322", "5": "0.014314805", "6": "0.014288412"}}

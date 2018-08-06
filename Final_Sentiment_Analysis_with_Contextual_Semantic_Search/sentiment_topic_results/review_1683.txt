@@ -1,0 +1,1 @@
+{"text": "This bra has a nice shape, and a good fit.  It's pretty, and is comfortable.  I wish it came in other colors, but it's always good to have some white bras.", "sentiment": "positive", "topics": {"0": "0.095360756", "1": "0.5881212", "3": "0.19398892", "5": "0.09386553"}}

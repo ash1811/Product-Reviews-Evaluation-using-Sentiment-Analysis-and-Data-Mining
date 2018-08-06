@@ -1,0 +1,1 @@
+{"text": "My husband prefers the traditional Levi stonewashed denim, it's a bit thicker. This will be fine for warmer weather later this year.", "sentiment": "positive", "topics": {"0": "0.010211552", "1": "0.37006423", "2": "0.064560905", "3": "0.010284108", "4": "0.21520357", "5": "0.09241285", "6": "0.23726277"}}

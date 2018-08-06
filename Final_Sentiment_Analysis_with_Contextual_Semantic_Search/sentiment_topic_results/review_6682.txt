@@ -1,0 +1,1 @@
+{"text": "It is way too big. The measurements of the grey bag are not correct. It looks really well made, pretty color, would have been perfect...", "sentiment": "positive", "topics": {"1": "0.6191661", "2": "0.18092522", "5": "0.16167973"}}

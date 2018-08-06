@@ -1,0 +1,1 @@
+{"text": "These are lovely sparkly small earrings.  Fun colors.  Not too large.  Casual but nice.  Great for the price--and the four or more colors work well together.", "sentiment": "negative", "topics": {"0": "0.22270562", "1": "0.5923095", "2": "0.07719001", "4": "0.08249379"}}

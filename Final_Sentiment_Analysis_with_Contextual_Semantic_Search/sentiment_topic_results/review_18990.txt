@@ -1,0 +1,1 @@
+{"text": "Can see why these bras have so many good reviews.  Fit great!!  Look great!!!  Wash great!!!  The number one best thing is they are so comfortable.  Highly recommend these bras.", "sentiment": "positive", "topics": {"1": "0.60982084", "2": "0.081168786", "3": "0.13539615", "4": "0.1521462"}}

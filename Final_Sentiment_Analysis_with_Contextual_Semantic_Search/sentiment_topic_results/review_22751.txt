@@ -1,0 +1,1 @@
+{"text": "Bought this for a now ex-girlfriend. The necklace is not very showy, but has a simple beautiful elegance to it. Seems very durable. Much stronger than our relationship, in any rate.", "sentiment": "positive", "topics": {"2": "0.10021401", "3": "0.29631096", "5": "0.42440087", "6": "0.15038897"}}

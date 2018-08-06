@@ -1,0 +1,1 @@
+{"text": "These are my second pair of these Wranglers. I wear these daily to work and they are very comfortable. I like the loose fitting feel to keep me comfortable during the long work day.", "sentiment": "negative", "topics": {"0": "0.1548405", "1": "0.5538766", "3": "0.25753304"}}

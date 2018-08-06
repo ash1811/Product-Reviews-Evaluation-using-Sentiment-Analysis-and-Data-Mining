@@ -1,0 +1,1 @@
+{"text": "The lace material is of  poor quality; the garter belt seems to pinch in all the wrong places and doesn't stay adjusted (so basically it doesn't hold your stockings up).  The matching thong has a synthetic liner, and is made cheaply.", "sentiment": "negative", "topics": {"1": "0.22782297", "2": "0.24001037", "3": "0.31626686", "4": "0.13168937", "5": "0.072267875"}}

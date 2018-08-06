@@ -1,0 +1,1 @@
+{"text": "I had to do some alterations on this. It was a little too big (I'm an 8/10). Once I did, it looked ok.", "sentiment": "positive", "topics": {"0": "0.014325911", "1": "0.44496283", "2": "0.12665111", "3": "0.2360268", "4": "0.014325376", "5": "0.14940646", "6": "0.014301549"}}

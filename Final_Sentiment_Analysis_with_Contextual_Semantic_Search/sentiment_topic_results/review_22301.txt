@@ -1,0 +1,1 @@
+{"text": "I have small feet (6.5) and this sock fits well.  Started a running program and am wearing with 5 finger Bikila shoes.  Have been wearing for 3 months.  Fits well and stays in place.  Would order again.", "sentiment": "negative", "topics": {"1": "0.48742378", "2": "0.053958323", "4": "0.14306268", "5": "0.29835474"}}

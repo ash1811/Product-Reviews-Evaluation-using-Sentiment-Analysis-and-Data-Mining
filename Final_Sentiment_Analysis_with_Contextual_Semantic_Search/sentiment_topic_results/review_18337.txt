@@ -1,0 +1,1 @@
+{"text": "Bought these a but big so they would last for our 5 year old.  He can slip them on and they stay nicely and look great!", "sentiment": "negative", "topics": {"0": "0.33339104", "1": "0.61146134", "2": "0.011001604", "3": "0.011025025", "4": "0.011070302", "5": "0.011047119", "6": "0.011003553"}}

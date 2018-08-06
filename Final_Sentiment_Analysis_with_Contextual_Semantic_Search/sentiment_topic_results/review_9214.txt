@@ -1,0 +1,1 @@
+{"text": "Fit true to size (12). I needed slippers that I could wear around the house and be comfortable, yet take the dog out at the crack of dawn on the damp grass and not soak completely through. So far so good.", "sentiment": "negative", "topics": {"1": "0.22965588", "3": "0.16513841", "4": "0.06045955", "5": "0.42105553", "6": "0.111757904"}}

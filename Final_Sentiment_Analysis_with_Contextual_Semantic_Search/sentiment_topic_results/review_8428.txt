@@ -1,0 +1,1 @@
+{"text": "These stockings are very soft and comfy, but did develop a tear in the toes only after wearing them a few times. It may have been the shoes I wore, when I wear stockings, I usually wear them 8-12 hours at a time, so this may not be the same case for you!", "sentiment": "negative", "topics": {"1": "0.26138887", "2": "0.13666058", "4": "0.060411844", "5": "0.5219768"}}

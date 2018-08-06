@@ -1,0 +1,1 @@
+{"text": "Good fit, comfortable, good soles for inside or quick outside trip to the mailbox.  Like the colors available.  Recommend them.", "sentiment": "negative", "topics": {"0": "0.25746948", "1": "0.62550724", "4": "0.081114545"}}

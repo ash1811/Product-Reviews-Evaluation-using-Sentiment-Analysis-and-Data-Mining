@@ -1,0 +1,1 @@
+{"text": "The size of these scratches are perfect. The colors are perfect.The same thing about the whole order is great. I love the fit. This is a must have.", "sentiment": "negative", "topics": {"0": "0.20461386", "1": "0.3654354", "2": "0.010212992", "3": "0.30252457", "4": "0.010235418", "5": "0.0102216285", "6": "0.09675609"}}

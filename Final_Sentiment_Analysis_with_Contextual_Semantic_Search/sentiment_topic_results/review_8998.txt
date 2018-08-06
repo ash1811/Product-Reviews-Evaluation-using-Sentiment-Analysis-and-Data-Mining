@@ -1,0 +1,1 @@
+{"text": "The shoes fit as expected. They are comfortable. My only complaint is they get scuffe up very easily. I had a similar pair of Skechers and they were more durable that the pair I just got. The shoes are good though.", "sentiment": "negative", "topics": {"1": "0.48634195", "2": "0.14451596", "3": "0.25582823", "5": "0.08943068"}}

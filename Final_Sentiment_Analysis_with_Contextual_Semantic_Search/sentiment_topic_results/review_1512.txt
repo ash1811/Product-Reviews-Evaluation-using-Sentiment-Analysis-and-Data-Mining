@@ -1,0 +1,1 @@
+{"text": "Love the look of jansport backpacks! This is the cheapest I could find for this particular color and style combo..my son will be able to use it for two years before it starts tearing due to everyday wear", "sentiment": "negative", "topics": {"1": "0.17106761", "2": "0.11177028", "3": "0.39709777", "4": "0.12527737", "5": "0.13440666", "6": "0.053871915"}}

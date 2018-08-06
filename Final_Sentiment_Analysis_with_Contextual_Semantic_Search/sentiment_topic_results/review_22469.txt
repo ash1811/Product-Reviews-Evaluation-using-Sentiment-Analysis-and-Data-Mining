@@ -1,0 +1,1 @@
+{"text": "The waist band was slinny. I like the wider band. It lays flatter. The classic fit has wider waist bands.", "sentiment": "negative", "topics": {"0": "0.3476622", "1": "0.2763754", "2": "0.23415034", "3": "0.11113448", "4": "0.010225236", "5": "0.010217255", "6": "0.010235096"}}

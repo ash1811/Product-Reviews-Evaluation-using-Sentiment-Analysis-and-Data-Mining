@@ -1,0 +1,1 @@
+{"text": "I needed a formal shirt with a down turned pointed collar.  Found this one on Amazon and ordered it.  It arrived promptly and fits just right.  Material is good quality and just what I wanted.", "sentiment": "positive", "topics": {"0": "0.10462119", "1": "0.36149302", "3": "0.11707042", "4": "0.14600344", "6": "0.25648287"}}

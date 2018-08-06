@@ -1,0 +1,1 @@
+{"text": "Seeing is believing - the pictures are accurate. They actually fit and feel better than they look - they are not stiff once you wear them a bit but retain that feel. Look spit and polished without the effort.", "sentiment": "negative", "topics": {"0": "0.19610396", "1": "0.1670584", "2": "0.12202295", "3": "0.31283778", "5": "0.116088316", "6": "0.07873864"}}

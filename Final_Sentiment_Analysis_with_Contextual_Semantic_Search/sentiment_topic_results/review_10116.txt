@@ -1,0 +1,1 @@
+{"text": "Pretty thick and good quality! They were very warm and people though I was not wearing anything underneath. I would buy again.", "sentiment": "negative", "topics": {"0": "0.11600917", "1": "0.59551615", "2": "0.08839421", "3": "0.010225356", "4": "0.16940784", "5": "0.0102327075", "6": "0.010214541"}}

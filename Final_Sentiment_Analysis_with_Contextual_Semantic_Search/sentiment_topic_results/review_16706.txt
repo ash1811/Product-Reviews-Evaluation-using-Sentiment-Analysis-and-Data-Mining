@@ -1,0 +1,1 @@
+{"text": "Great boots. A wonderful, thick sole that is great for harsh weather. Clean easily and are comfortable. Shipped quickly, high quality and would recommend", "sentiment": "positive", "topics": {"1": "0.5253388", "2": "0.20182881", "4": "0.05504917", "5": "0.1938573"}}

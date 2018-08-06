@@ -1,0 +1,1 @@
+{"text": "These shoes were a better deal here than anywhere else, including the keds site. Took me a day to break them in but I live in them in the summer.", "sentiment": "negative", "topics": {"0": "0.01023024", "1": "0.010218634", "2": "0.4328731", "3": "0.43456605", "4": "0.091613635", "5": "0.010243566", "6": "0.01025475"}}

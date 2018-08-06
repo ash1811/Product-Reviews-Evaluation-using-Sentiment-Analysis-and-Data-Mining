@@ -1,0 +1,1 @@
+{"text": "Great fit, not cheap looking, just what I wanted and my grandson wants to wear them everyday.  Highly recommend for anyone.", "sentiment": "negative", "topics": {"0": "0.21801475", "1": "0.4810181", "2": "0.011035322", "3": "0.011016776", "4": "0.25686896", "5": "0.011047807", "6": "0.010998275"}}

@@ -1,0 +1,1 @@
+{"text": "I thought the straps were too long to give me the uplift i needed however the cups fit great so i wish it would have worked", "sentiment": "negative", "topics": {"0": "0.01021638", "1": "0.46135932", "2": "0.34740114", "3": "0.15030745", "4": "0.010233179", "5": "0.010232551", "6": "0.010249942"}}

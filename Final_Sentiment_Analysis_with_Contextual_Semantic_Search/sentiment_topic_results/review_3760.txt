@@ -1,0 +1,1 @@
+{"text": "my husband and i can both wear it. very worthy. and very cool. my husband looks better than i wear it. but i am still cool and nice when i wear it.", "sentiment": "negative", "topics": {"0": "0.26910922", "1": "0.31150028", "4": "0.13532987", "5": "0.16141301", "6": "0.10471798"}}

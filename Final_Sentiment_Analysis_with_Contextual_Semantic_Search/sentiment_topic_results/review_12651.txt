@@ -1,0 +1,1 @@
+{"text": "This slip on clog is very comfortable.  Attractive.  I like the style and the black patent.  Feel like you are walking on air.  Definitely a winner.", "sentiment": "positive", "topics": {"0": "0.11047229", "1": "0.25236073", "3": "0.23584843", "5": "0.19062121", "6": "0.19160734"}}

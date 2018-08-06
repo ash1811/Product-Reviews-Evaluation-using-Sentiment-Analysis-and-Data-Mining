@@ -1,0 +1,1 @@
+{"text": "Ordered a size 11 for a Christmas gift.  They were more like a 14!  My son had over an INCH of space in the toe.  Disappointing on Christmas morning.", "sentiment": "positive", "topics": {"0": "0.3272114", "1": "0.22576828", "4": "0.08237361", "6": "0.3360106"}}

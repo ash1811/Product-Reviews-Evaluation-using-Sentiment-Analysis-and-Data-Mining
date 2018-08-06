@@ -1,0 +1,1 @@
+{"text": "Good price point - wroks well. Great aid in teaching my 6-year old to read time. Would definitely recommend it.", "sentiment": "negative", "topics": {"0": "0.5007425", "3": "0.26837093", "4": "0.07557646", "5": "0.13003452"}}

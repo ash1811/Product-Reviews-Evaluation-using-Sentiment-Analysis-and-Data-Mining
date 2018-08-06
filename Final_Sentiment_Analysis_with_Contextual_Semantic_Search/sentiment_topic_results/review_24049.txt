@@ -1,0 +1,1 @@
+{"text": "I purchased these as a gift for my girlfriend and she loves them. Merrell quality can't be beat and she says they are some of the most comfortable shoes she has ever worn.  Too bad they don't come in black as well.", "sentiment": "negative", "topics": {"0": "0.18025915", "1": "0.3582078", "2": "0.10738709", "3": "0.15229458", "4": "0.082768105", "6": "0.11155722"}}

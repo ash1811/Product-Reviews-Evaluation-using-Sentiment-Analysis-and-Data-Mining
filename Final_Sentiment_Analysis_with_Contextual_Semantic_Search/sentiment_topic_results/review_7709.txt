@@ -1,0 +1,1 @@
+{"text": "Look greate! I am 38/30 size and they fit greate! I'm going to order some more pairs of other colours!", "sentiment": "negative", "topics": {"0": "0.1299101", "1": "0.59778506", "2": "0.011908946", "3": "0.01197436", "4": "0.011936262", "5": "0.01193035", "6": "0.22455496"}}

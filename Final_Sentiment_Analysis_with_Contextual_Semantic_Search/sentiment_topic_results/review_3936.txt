@@ -1,0 +1,1 @@
+{"text": "Just what my husband was looking for. He only likes solid white casual shoes besides his track shoes for work outs in the NG. They fit true to size.", "sentiment": "negative", "topics": {"1": "0.16949773", "2": "0.30255547", "4": "0.15481338", "5": "0.072198614", "6": "0.2850224"}}

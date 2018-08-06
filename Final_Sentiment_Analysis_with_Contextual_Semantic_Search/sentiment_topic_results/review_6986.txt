@@ -1,0 +1,1 @@
+{"text": "colors nice, fits a little large so if there's any shrinkage when washed I won't mind.  will be great for early spring and late fall  yard cleanup.  Now it's warm under a windbreaker for snowblowing and shoveling.", "sentiment": "positive", "topics": {"0": "0.2025685", "1": "0.5756689", "2": "0.060768504", "5": "0.14056309"}}

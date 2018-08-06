@@ -1,0 +1,1 @@
+{"text": "It is the same size as the last pair for Arizona Birki's I bought my husband but this pair does not fit right.  I will be returning it for a smaller size.", "sentiment": "negative", "topics": {"0": "0.09850947", "1": "0.11424262", "2": "0.010208669", "3": "0.4465702", "4": "0.22343577", "5": "0.010235737", "6": "0.09679752"}}

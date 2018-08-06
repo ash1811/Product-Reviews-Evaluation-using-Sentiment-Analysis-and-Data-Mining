@@ -1,0 +1,1 @@
+{"text": "The overall fit is all right.  The waistline sits about 1 to 1-1/2&#34; lower than a full brief.  The high cut leg openings don't bind and the leg openings elastic are encased so no chaffing.", "sentiment": "positive", "topics": {"0": "0.15773594", "1": "0.20735282", "2": "0.31687424", "4": "0.08614996", "6": "0.21823697"}}

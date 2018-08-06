@@ -1,0 +1,1 @@
+{"text": "I like the way they fit  and where they hang below the belly button. They are well made and the color is a nice blue and a bit faded.", "sentiment": "negative", "topics": {"0": "0.01022371", "1": "0.51712257", "2": "0.43168885", "3": "0.01024426", "4": "0.010237632", "5": "0.010224538", "6": "0.010258498"}}

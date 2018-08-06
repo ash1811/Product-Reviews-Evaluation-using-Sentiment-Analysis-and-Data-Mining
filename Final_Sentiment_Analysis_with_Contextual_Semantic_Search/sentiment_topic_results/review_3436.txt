@@ -1,0 +1,1 @@
+{"text": "Love Merrell ever since I bought my first pair and they lasted me 5 years. Very durable and comfortable. Just wish they were available locally. Not overly fond of having to buy shoes online.", "sentiment": "positive", "topics": {"1": "0.3870372", "2": "0.15007317", "3": "0.1889445", "4": "0.25348553"}}

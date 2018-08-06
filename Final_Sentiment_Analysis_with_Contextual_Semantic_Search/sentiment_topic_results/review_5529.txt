@@ -1,0 +1,1 @@
+{"text": "I just love JERZEES tee-shirts!  Highly recommend these products to everybody!!  I'm a fan for life!  =) The prices are always reasonable, the shipment is fast, and the service is courteous..Love AMAZON!", "sentiment": "negative", "topics": {"0": "0.1903193", "1": "0.2690096", "2": "0.19594447", "4": "0.24042434", "5": "0.0892286"}}

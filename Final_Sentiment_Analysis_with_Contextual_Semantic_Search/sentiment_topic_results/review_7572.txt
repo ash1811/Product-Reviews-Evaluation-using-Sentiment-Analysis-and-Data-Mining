@@ -1,0 +1,1 @@
+{"text": "good sturdy material(a bit lighter weight than i expected, but not bad), well made, and above all, it fits. broad shoulders and long arms can be a pain finding long sleeve shirts.", "sentiment": "negative", "topics": {"0": "0.11879473", "1": "0.76987725", "2": "0.085208386"}}

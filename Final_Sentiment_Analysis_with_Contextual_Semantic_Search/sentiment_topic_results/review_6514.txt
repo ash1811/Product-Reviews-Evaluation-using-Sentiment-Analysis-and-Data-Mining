@@ -1,0 +1,1 @@
+{"text": "These are the absolute best for hiking, and I know I will be ordering more. They are warm and fit snugly, and of course, I love the coolmax feature.", "sentiment": "negative", "topics": {"0": "0.106926024", "1": "0.3018914", "2": "0.101704516", "3": "0.010248707", "4": "0.22810006", "5": "0.1244701", "6": "0.12665921"}}

@@ -1,0 +1,1 @@
+{"text": "I think these pants would like fine on a thinner person, I am short and weigh 175 pounds so not much looks that great on me and these pants are no exception, although I have found others that work nicely.", "sentiment": "negative", "topics": {"0": "0.08093348", "1": "0.5375969", "2": "0.04785471", "4": "0.24895352", "6": "0.07163514"}}

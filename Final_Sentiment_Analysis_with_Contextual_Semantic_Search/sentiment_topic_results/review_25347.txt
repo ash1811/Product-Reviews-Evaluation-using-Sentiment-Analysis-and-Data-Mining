@@ -1,0 +1,1 @@
+{"text": "These truly do not show panty lines.  The fabric is thin and comfortable.  I'm going to purchase more to add to my collection.", "sentiment": "negative", "topics": {"0": "0.011042699", "1": "0.28397432", "2": "0.28380197", "3": "0.011014499", "4": "0.22929415", "5": "0.16986524", "6": "0.011007131"}}

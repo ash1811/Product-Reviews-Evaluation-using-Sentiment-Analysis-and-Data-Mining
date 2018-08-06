@@ -1,0 +1,1 @@
+{"text": "like how you can still go to the bathroom without ripping you hose they stay in place my nieghbor wanted these to spice up her husbands intrest well it did", "sentiment": "negative", "topics": {"0": "0.26962233", "2": "0.10643772", "3": "0.19967918", "4": "0.15348518", "5": "0.2528479"}}

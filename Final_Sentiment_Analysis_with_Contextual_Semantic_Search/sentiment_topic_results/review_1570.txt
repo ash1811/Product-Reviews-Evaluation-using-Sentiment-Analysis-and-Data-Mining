@@ -1,0 +1,1 @@
+{"text": "I usually buy my bras in the store so I can try them on.  I lucked out with this one.  I wear is everyday.", "sentiment": "negative", "topics": {"0": "0.013000723", "1": "0.3478915", "2": "0.013043007", "3": "0.2529627", "4": "0.16987456", "5": "0.19023408", "6": "0.012993365"}}

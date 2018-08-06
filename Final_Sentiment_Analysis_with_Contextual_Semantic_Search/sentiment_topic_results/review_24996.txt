@@ -1,0 +1,1 @@
+{"text": "These fit the bill- or should I say shoe. I had to trim them down to fit my size 15 shoe and worked out well. They feel great also.", "sentiment": "negative", "topics": {"1": "0.34251904", "2": "0.2102305", "4": "0.0920472", "6": "0.3264767"}}

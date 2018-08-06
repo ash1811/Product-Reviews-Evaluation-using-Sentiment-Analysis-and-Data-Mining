@@ -1,0 +1,1 @@
+{"text": "My husband has a well worn pair of these shoes and loves them.  So, we went for another pair which felt a little tight on one foot, but he knows the shoe seems to mold too his feet.  Very easy to care for and comfortable shoes.", "sentiment": "positive", "topics": {"0": "0.05945984", "1": "0.25933748", "2": "0.29709262", "4": "0.26071125", "6": "0.11237128"}}

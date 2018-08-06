@@ -1,0 +1,1 @@
+{"text": "I gets these all the time. Only ones that dont hurt my feet, and I always get compliments on them.", "sentiment": "positive", "topics": {"0": "0.013037753", "1": "0.013015389", "2": "0.44887856", "3": "0.013024697", "4": "0.35928872", "5": "0.013033048", "6": "0.13972187"}}

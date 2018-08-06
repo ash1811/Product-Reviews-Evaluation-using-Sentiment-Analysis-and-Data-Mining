@@ -1,0 +1,1 @@
+{"text": "This bag is one of the best ones, it's surprisingly big, so you can put there everything, i gave 4 stars because it has just one little pocket", "sentiment": "negative", "topics": {"0": "0.17163172", "1": "0.35740834", "2": "0.4327528"}}

@@ -1,0 +1,1 @@
+{"text": "I love my new skechers,  Shoebuy shipped them with care and they arrived ahead of schedule.  They are well made and look great on my feet.", "sentiment": "negative", "topics": {"0": "0.113793336", "2": "0.07696292", "3": "0.31896406", "5": "0.46159178"}}

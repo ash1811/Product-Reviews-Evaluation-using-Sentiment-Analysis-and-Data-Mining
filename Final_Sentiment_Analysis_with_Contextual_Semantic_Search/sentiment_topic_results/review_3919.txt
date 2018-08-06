@@ -1,0 +1,1 @@
+{"text": "Yes!  My feet are happy.  I usually wear a size 8 shoe and the 71/2 - 8 slipper fit perfectly.", "sentiment": "positive", "topics": {"0": "0.10649513", "1": "0.41878843", "2": "0.0825464", "3": "0.010252311", "4": "0.010340063", "5": "0.21832465", "6": "0.15325306"}}

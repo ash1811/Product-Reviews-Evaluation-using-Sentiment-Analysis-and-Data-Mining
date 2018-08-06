@@ -1,0 +1,1 @@
+{"text": "My grandaughter is so pleased and happy with her shoes. They are awesome as she wanted. The article came on time for a day she has to used. Good service, excellent pruchase", "sentiment": "negative", "topics": {"0": "0.5232388", "2": "0.27129173", "6": "0.16961238"}}

@@ -1,0 +1,1 @@
+{"text": "this watch should just be for a woman's waist. It is really a small watchactually gave it to my 15 year old Grand-Daughter", "sentiment": "negative", "topics": {"0": "0.011955474", "1": "0.18910587", "2": "0.47112235", "3": "0.2919651", "4": "0.011966763", "5": "0.011957926", "6": "0.011926573"}}

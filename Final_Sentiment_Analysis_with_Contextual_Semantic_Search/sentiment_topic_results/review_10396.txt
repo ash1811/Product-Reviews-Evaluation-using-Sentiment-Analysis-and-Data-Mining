@@ -1,0 +1,1 @@
+{"text": "We love just Uggs. They keep your feet warm and comfy during winters so I don't hesitate recommending this product.", "sentiment": "negative", "topics": {"0": "0.12447352", "1": "0.19993177", "2": "0.013010075", "3": "0.2603169", "4": "0.14994693", "5": "0.23932175", "6": "0.01299902"}}

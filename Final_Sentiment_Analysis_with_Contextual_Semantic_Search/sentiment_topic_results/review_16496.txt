@@ -1,0 +1,1 @@
+{"text": "Flimsy Garbage. Thinner materials and build than the photo would let on. Chinese-made. I got this because it looked like a nice overnight bag. It resides in my car trunk holding jumper cables and crap now. Not happy with it.", "sentiment": "negative", "topics": {"1": "0.07376302", "2": "0.23155268", "3": "0.18454023", "4": "0.2881396", "6": "0.21137424"}}

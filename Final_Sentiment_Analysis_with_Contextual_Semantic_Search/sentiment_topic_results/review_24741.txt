@@ -1,0 +1,1 @@
+{"text": "Comfy.  I sleep in them, and wear them to the gym.  Perfect.  I need 8 more words, so here they are.", "sentiment": "negative", "topics": {"0": "0.013011255", "1": "0.24835747", "2": "0.22559886", "3": "0.2082317", "4": "0.0130120935", "5": "0.013023013", "6": "0.27876562"}}

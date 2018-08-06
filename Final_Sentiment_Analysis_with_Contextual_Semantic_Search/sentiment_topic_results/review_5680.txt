@@ -1,0 +1,1 @@
+{"text": "Trying to find comfy sweatpants for my size (short legs, thick waist) is a nightmare. I love this sweats, they are soft and warm and attractive. So nice!", "sentiment": "negative", "topics": {"0": "0.20447576", "1": "0.19284254", "3": "0.21358977", "4": "0.13354164", "5": "0.10169828", "6": "0.14539017"}}

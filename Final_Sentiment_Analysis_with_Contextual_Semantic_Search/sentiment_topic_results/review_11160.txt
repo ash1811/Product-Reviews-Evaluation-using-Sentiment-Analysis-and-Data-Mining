@@ -1,0 +1,1 @@
+{"text": "I've been purchasing this item for several years. It will hold all your cards and it easily carried in your front pocket. Great product and price. Well worth it.", "sentiment": "negative", "topics": {"0": "0.12812574", "1": "0.25361237", "2": "0.13977362", "3": "0.22507374", "5": "0.16049062", "6": "0.08496916"}}

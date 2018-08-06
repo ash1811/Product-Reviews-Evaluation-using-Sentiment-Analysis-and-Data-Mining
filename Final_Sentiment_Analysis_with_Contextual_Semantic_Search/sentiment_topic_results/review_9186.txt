@@ -1,0 +1,1 @@
+{"text": "That is what I want, something large enough for me to wear and good.  I originally ordered a 14, but had to return it and get a 15.  Love these slippers!", "sentiment": "negative", "topics": {"0": "0.23919274", "1": "0.55403996", "6": "0.16852306"}}

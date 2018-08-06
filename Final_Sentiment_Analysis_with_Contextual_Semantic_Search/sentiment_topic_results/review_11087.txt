@@ -1,0 +1,1 @@
+{"text": "Good slipper to pput your tired dogs in after a hard days work.  I recommend these for anyone who wants a warm fuzzy comfy slipper.", "sentiment": "positive", "topics": {"0": "0.38242534", "1": "0.19310847", "3": "0.13707803", "6": "0.26051044"}}

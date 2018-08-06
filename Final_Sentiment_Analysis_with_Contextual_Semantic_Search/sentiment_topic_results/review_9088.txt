@@ -1,0 +1,1 @@
+{"text": "Absolutely 100% quality.  These slippers will last me for many, many years to come.  In the future, I will buy these for my grandchildren as well.", "sentiment": "positive", "topics": {"0": "0.010219336", "1": "0.40468472", "2": "0.16451845", "3": "0.010230639", "4": "0.30985454", "5": "0.010236601", "6": "0.09025574"}}

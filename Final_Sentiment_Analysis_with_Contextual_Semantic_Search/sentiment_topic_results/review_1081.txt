@@ -1,0 +1,1 @@
+{"text": "I like the robe!  Washable....holding up very well.  Good fit.Lightweight for summer.", "sentiment": "negative", "topics": {"0": "0.8925391", "1": "0.017969597", "2": "0.017914155", "3": "0.017888632", "4": "0.017866401", "5": "0.017908119", "6": "0.017913995"}}

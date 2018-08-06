@@ -1,0 +1,1 @@
+{"text": "They fit tight to my foot, so I don't have to worry that I'll step out of them. I like the way they look and feel on my foot.", "sentiment": "negative", "topics": {"0": "0.011024427", "1": "0.2418965", "2": "0.011012145", "3": "0.31746173", "4": "0.2295259", "5": "0.011007871", "6": "0.17807145"}}

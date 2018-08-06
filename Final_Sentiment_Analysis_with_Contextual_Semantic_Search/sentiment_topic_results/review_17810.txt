@@ -1,0 +1,1 @@
+{"text": "I was looking for a decent watch that I could take out kayaking with me and not worry about it getting wet. This has worked fine so far.", "sentiment": "negative", "topics": {"0": "0.011002369", "1": "0.4064393", "2": "0.2956526", "3": "0.01101559", "4": "0.13395683", "5": "0.011005189", "6": "0.13092814"}}

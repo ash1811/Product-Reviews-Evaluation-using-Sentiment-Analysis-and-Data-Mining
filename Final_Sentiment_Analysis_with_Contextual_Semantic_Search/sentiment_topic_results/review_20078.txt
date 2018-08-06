@@ -1,0 +1,1 @@
+{"text": "great quality.  tons of space with amazing comfort.  very pleased with the High Sierra brand and will be ordering from them again.", "sentiment": "positive", "topics": {"0": "0.25332066", "1": "0.19995895", "2": "0.10104734", "3": "0.115295224", "4": "0.174329", "5": "0.0110489195", "6": "0.14499992"}}

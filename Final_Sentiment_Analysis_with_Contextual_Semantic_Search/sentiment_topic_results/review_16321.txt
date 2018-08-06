@@ -1,0 +1,1 @@
+{"text": "These tights were not true to size - I guess it's a batch error because another pair I purchased in the same size fit fine. Buy one size up to be safe.", "sentiment": "positive", "topics": {"1": "0.29507968", "2": "0.23790188", "3": "0.2936972", "4": "0.078199685", "5": "0.07826612"}}

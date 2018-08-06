@@ -1,0 +1,1 @@
+{"text": "Bought this garter belt for my mother in law for her birthday. She really loves it and wears it often.", "sentiment": "negative", "topics": {"0": "0.14853422", "1": "0.013063554", "2": "0.19274785", "3": "0.38579246", "4": "0.013055231", "5": "0.23377396", "6": "0.013032674"}}

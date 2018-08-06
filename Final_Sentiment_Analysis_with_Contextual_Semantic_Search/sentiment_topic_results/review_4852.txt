@@ -1,0 +1,1 @@
+{"text": "I have purchased several pairs of these thigh highs over the last few years, and have never been disappointed.  I love the variety of colors.", "sentiment": "negative", "topics": {"0": "0.011010523", "1": "0.23845536", "2": "0.097742885", "3": "0.27019107", "4": "0.22175063", "5": "0.011035411", "6": "0.14981414"}}

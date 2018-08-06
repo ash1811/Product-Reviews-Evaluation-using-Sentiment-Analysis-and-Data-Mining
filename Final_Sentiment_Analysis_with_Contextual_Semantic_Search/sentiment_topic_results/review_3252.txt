@@ -1,0 +1,1 @@
+{"text": "I know my size and don't want to bother trying on different brands, styles and sizes.  Once you find Levi's that fit right, order the color that you want and save the time and expense of a shopping trip.", "sentiment": "negative", "topics": {"0": "0.21671209", "1": "0.159956", "3": "0.24036312", "4": "0.09055485", "5": "0.077360876", "6": "0.20855175"}}

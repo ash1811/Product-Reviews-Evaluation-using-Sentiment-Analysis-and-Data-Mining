@@ -1,0 +1,1 @@
+{"text": "Never wore these types before and it took some getting use to but they are just what I was looking for.", "sentiment": "negative", "topics": {"0": "0.015918327", "1": "0.37761", "2": "0.015896043", "3": "0.015973978", "4": "0.015966214", "5": "0.27128312", "6": "0.2873523"}}

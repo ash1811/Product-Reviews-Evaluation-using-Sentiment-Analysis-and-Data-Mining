@@ -1,0 +1,1 @@
+{"text": "I enjoy wearing the \"mid\"rise pants, but they always seem to fall down.  The elastic belt keeps enough tension that my pants stay up!  Nice looking and reasonably priced.  Prompt shipping.", "sentiment": "negative", "topics": {"1": "0.3780039", "4": "0.4527971", "6": "0.1442348"}}

@@ -1,0 +1,1 @@
+{"text": "I was disappointed after I have gotten the glamorise bra from another vendor here on Amazon. The other one was good quality and fit just right. this one is cheaper and smaller.", "sentiment": "negative", "topics": {"1": "0.37883514", "2": "0.1256745", "3": "0.20416471", "4": "0.26450926"}}

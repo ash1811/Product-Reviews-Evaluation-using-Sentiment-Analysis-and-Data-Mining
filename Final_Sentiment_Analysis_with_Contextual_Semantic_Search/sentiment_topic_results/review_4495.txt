@@ -1,0 +1,1 @@
+{"text": "These jeans fit better than most Levi's. The color is super, and wash very well. I could not have asked for better AND the price was so great. SO PERFECT. Anyone these are a good fit. Ride nice. Don't stretch out much. Just completely happy.", "sentiment": "negative", "topics": {"0": "0.2683036", "1": "0.6320434", "6": "0.075756885"}}

@@ -1,0 +1,1 @@
+{"text": "Came on time on in perfect condition....who did not have these in the 70's!!  these are the originals too!!  No copies!!  I'm wearing mine with renewed pride...", "sentiment": "negative", "topics": {"0": "0.3366004", "1": "0.42806062", "2": "0.0102520045", "3": "0.0102423355", "4": "0.10164883", "5": "0.10296863", "6": "0.010227183"}}

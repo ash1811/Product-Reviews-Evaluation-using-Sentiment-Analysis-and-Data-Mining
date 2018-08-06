@@ -1,0 +1,1 @@
+{"text": "This will be cool for sleeping in my non-air conditioned house.  It's not see-through, so my grandsons won't be totally disgusted when they see me in the morning. That's that....not a lot to say about a nightie.", "sentiment": "negative", "topics": {"1": "0.15156281", "3": "0.3704369", "4": "0.17726538", "6": "0.275466"}}

@@ -1,0 +1,1 @@
+{"text": "This item is so wonderful, I might actually go back and buy more colors. The robe and babydoll are so flattering - I feel like there is no way you could go wrong. My husband loved it! Simple and sexy and very, very comfy!", "sentiment": "negative", "topics": {"0": "0.15903074", "1": "0.221558", "2": "0.18785281", "4": "0.23054782", "6": "0.18953587"}}

@@ -1,0 +1,1 @@
+{"text": "I have an unusually long torso and many brands of Tees are not long enough, but the Russell Tees are adequately long.  I also like the material.....nice and soft and compliant.", "sentiment": "negative", "topics": {"1": "0.42335883", "3": "0.12344195", "4": "0.4213558"}}

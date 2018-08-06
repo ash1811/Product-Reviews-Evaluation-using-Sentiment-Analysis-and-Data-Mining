@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable slippers I've tried on.  Lightweight but very durable with a great non-slop bottom, highly recommended.", "sentiment": "negative", "topics": {"0": "0.011008702", "1": "0.3788237", "2": "0.09100527", "3": "0.1071186", "4": "0.10221418", "5": "0.15763621", "6": "0.15219334"}}

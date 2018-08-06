@@ -1,0 +1,1 @@
+{"text": "Bought this shirt in blue and green. Look really stylish with jeans or with dress pants for work - glad I got them; great value", "sentiment": "negative", "topics": {"1": "0.49176165", "2": "0.18362391", "5": "0.17578134", "6": "0.12352608"}}

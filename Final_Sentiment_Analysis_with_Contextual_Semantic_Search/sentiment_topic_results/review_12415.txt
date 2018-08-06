@@ -1,0 +1,1 @@
+{"text": "Have you ever been to a yoga class and some moves you do on the bare floor because you can't be stable on the mat? That's what these shoes are like. They're not supportive or stable, just overly smushy.", "sentiment": "negative", "topics": {"0": "0.10911255", "1": "0.07754301", "2": "0.27002743", "3": "0.14326787", "4": "0.2978012", "5": "0.094292715"}}

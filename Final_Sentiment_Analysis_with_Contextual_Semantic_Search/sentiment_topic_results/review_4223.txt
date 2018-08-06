@@ -1,0 +1,1 @@
+{"text": "Perfect loose waist for my chunky grandson. This is all he wore all summer with his tank tops and they kept him cool.", "sentiment": "positive", "topics": {"0": "0.011939193", "1": "0.21348472", "2": "0.11455392", "3": "0.13374852", "4": "0.11542965", "5": "0.2539886", "6": "0.15685542"}}

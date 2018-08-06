@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable, Multi-functional item ...Great face cover to keep you warm, but with still amazing breath-ability. I plan to order another color or two in the future...And these things just look cool as well :)", "sentiment": "negative", "topics": {"0": "0.09363396", "1": "0.46809396", "2": "0.0783263", "4": "0.24815932", "6": "0.09873545"}}

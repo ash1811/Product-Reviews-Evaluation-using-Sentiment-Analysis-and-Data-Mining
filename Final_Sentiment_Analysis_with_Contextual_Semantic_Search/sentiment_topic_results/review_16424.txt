@@ -1,0 +1,1 @@
+{"text": "Sperry produces a quality shoe in the Billfish.  Husband has ordered them for years and is always satisfied with the fit, quality, and comfort.", "sentiment": "negative", "topics": {"0": "0.010211205", "1": "0.44980168", "2": "0.09829728", "3": "0.103353925", "4": "0.088258855", "5": "0.010214301", "6": "0.23986275"}}

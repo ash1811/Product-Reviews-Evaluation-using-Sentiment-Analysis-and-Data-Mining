@@ -1,0 +1,1 @@
+{"text": "I live in NW Minnesota. It's a Carhartt coat.  I was warm. Enough said. Collar design is a bit stiff if you have it zipped up on part way, but I can live with it.", "sentiment": "negative", "topics": {"1": "0.2825685", "2": "0.23467438", "3": "0.26162875", "6": "0.19724101"}}

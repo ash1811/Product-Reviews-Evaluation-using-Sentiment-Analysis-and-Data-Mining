@@ -1,0 +1,1 @@
+{"text": "good fit, very comfortable and no wires! This is well made, nice to have different colors, a quality bra and excellent!", "sentiment": "negative", "topics": {"0": "0.0110050235", "1": "0.66881984", "2": "0.09483503", "3": "0.09483874", "4": "0.010992469", "5": "0.010996938", "6": "0.10851201"}}

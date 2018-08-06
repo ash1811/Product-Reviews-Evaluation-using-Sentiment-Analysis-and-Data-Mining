@@ -1,0 +1,1 @@
+{"text": "SOO comfortable! Skechers makes such great sneakers. They are SOO comfortable AND they are true to size. If you want a sneaker that gives you a comfort and height these are perfect!", "sentiment": "negative", "topics": {"1": "0.2496369", "3": "0.36855474", "5": "0.3481126"}}

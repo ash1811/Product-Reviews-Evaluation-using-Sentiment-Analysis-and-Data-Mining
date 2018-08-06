@@ -1,0 +1,1 @@
+{"text": "A nice change from high heels.  Looks as advertised - nice & fluffy.  No problem with fitting them and quite comfy.", "sentiment": "negative", "topics": {"0": "0.15414023", "1": "0.011057288", "2": "0.22409274", "3": "0.577677", "4": "0.011000152", "5": "0.011005241", "6": "0.011027319"}}

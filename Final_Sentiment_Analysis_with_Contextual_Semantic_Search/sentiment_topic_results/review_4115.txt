@@ -1,0 +1,1 @@
+{"text": "This watch is exactly what I was looking for. It's large, beautiful and works flawlessly. If you are looking for a watch with a large dial, wide band and a real beefy look then you will be as happy as I was to get it.", "sentiment": "negative", "topics": {"0": "0.2981788", "1": "0.16100085", "2": "0.14228521", "3": "0.26252", "6": "0.122354575"}}

@@ -1,0 +1,1 @@
+{"text": "Amazing product! I recommend it whole-heartedly!!!It is relatively cheap but gives a lot: good-looking, reliable, comfortable, gives the time and day of the month and day of the week.Don't hesitate and buy it!", "sentiment": "negative", "topics": {"0": "0.16508329", "1": "0.29658538", "4": "0.1245987", "5": "0.24034245", "6": "0.15974548"}}

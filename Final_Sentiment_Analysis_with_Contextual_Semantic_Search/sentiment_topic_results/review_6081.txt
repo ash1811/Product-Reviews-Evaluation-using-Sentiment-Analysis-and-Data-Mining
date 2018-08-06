@@ -1,0 +1,1 @@
+{"text": "I can't remember them well enough other than they were too heavy/clunky. So, I sent them back. I like other Jambu styles better.", "sentiment": "negative", "topics": {"0": "0.011023769", "1": "0.5463213", "2": "0.3985358", "3": "0.011013708", "4": "0.011041606", "5": "0.0110419905", "6": "0.011021871"}}

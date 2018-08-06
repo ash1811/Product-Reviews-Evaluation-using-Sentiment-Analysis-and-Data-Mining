@@ -1,0 +1,1 @@
+{"text": "This is an excellent pair of slacks except for one reason.  There should be a button at the top.  It is not easy to hook the top of the slacks together with the darn &#34;clip&#34;.", "sentiment": "negative", "topics": {"0": "0.079711854", "1": "0.0793994", "2": "0.11818932", "3": "0.18152757", "4": "0.1584622", "5": "0.15666857", "6": "0.22604112"}}

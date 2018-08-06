@@ -1,0 +1,1 @@
+{"text": "This one is great.  It fits as expected, and warm.  The soles are such where you can wear outside, in the garage, anywhere you would wear a shoe.  Yet the comfort of a slipper.  My son loves these.", "sentiment": "negative", "topics": {"1": "0.7098901", "2": "0.09210908", "6": "0.16930912"}}

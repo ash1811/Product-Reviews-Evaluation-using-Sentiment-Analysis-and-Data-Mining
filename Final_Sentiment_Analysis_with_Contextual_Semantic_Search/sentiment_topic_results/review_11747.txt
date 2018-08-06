@@ -1,0 +1,1 @@
+{"text": "These earrings are nice but I was expecting bigger ones.  The recipient loved the earrings and is very satisfied.", "sentiment": "negative", "topics": {"0": "0.18207139", "1": "0.48512888", "2": "0.12664457", "3": "0.014350871", "4": "0.014371817", "5": "0.01430805", "6": "0.16312444"}}

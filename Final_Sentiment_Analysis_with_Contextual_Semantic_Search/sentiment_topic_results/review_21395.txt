@@ -1,0 +1,1 @@
+{"text": "These are really comfortable, and super cute! I love the bright red color and am so happy with this purchase. Birkenstock is such a great brand, and great for arch support (I have plantar fasciitis).", "sentiment": "negative", "topics": {"1": "0.43354946", "3": "0.3455581", "4": "0.19226947"}}

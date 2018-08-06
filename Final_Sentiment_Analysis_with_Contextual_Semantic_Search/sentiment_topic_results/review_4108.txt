@@ -1,0 +1,1 @@
+{"text": "It is outstanding. I like the style it keeps great time. It looks good and is easy to read the numbers. I would highly recommend this watch. !", "sentiment": "negative", "topics": {"2": "0.2044875", "3": "0.3246019", "5": "0.43503115"}}

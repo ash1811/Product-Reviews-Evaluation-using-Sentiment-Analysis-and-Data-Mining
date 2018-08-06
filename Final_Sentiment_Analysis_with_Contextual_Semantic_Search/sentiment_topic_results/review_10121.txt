@@ -1,0 +1,1 @@
+{"text": "This product is as beautiful in reality as it seems to be on-line.  It does come without a chain but adding a silver chain is no problem.  I know I will enjoy this for years to come.", "sentiment": "negative", "topics": {"1": "0.18449497", "3": "0.3601419", "4": "0.27687845", "5": "0.15320733"}}

@@ -1,0 +1,1 @@
+{"text": "Finding a bra without underwires that supports well and feels comfortable all day long is a big challenge for me. Luckily I found this bra - it's wonderful! I'm thrilled to finally find a bra that meets all my needs.", "sentiment": "positive", "topics": {"1": "0.38053456", "2": "0.030890591", "3": "0.43826085", "6": "0.13311656"}}

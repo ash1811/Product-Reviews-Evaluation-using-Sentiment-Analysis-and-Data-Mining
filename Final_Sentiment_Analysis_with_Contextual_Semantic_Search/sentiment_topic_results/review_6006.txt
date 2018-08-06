@@ -1,0 +1,1 @@
+{"text": "The product was shipped properly packages. The material is of moderate quality and the texture is soft but durable with proper care. Overall the product is worth its price for the buyer who is looking for moderate quality.", "sentiment": "negative", "topics": {"0": "0.17290986", "1": "0.3528281", "3": "0.18978836", "4": "0.04604807", "5": "0.22477697"}}

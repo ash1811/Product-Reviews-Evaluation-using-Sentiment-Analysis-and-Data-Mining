@@ -1,0 +1,1 @@
+{"text": "As expected, these sweat pants are good quality and fit as expected. Easy to wash and I would buy them again.", "sentiment": "positive", "topics": {"0": "0.010996125", "1": "0.65651387", "2": "0.010994407", "3": "0.011015741", "4": "0.28843763", "5": "0.011014216", "6": "0.011027971"}}

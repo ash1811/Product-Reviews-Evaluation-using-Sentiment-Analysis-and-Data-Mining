@@ -1,0 +1,1 @@
+{"text": "This is a military issue, it's exactly what we were issued for jungle training.  If you're looking for the best, look no further.  I'll be ordering a lot more, they'll make excellent Christmas presents for the friends I have.", "sentiment": "negative", "topics": {"0": "0.19571023", "1": "0.181376", "2": "0.13222224", "3": "0.32574102", "5": "0.15194501"}}

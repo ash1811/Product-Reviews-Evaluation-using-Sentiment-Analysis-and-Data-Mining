@@ -1,0 +1,1 @@
+{"text": "I prefer easy to operate watches in 2-tone color.  I choose those very time.  Please carry more of them.  Thanks.", "sentiment": "negative", "topics": {"0": "0.42175058", "1": "0.011047309", "2": "0.17015836", "3": "0.011029923", "4": "0.23985147", "5": "0.13513026", "6": "0.011032115"}}

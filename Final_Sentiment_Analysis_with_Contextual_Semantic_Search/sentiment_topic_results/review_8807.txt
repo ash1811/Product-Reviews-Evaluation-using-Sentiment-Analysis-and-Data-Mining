@@ -1,0 +1,1 @@
+{"text": "Not as comfortable as a soft wool sock but, these work socks will be durable. If you are on your feet all day and tend to go though many pairs of socks, these will stand the test.", "sentiment": "positive", "topics": {"1": "0.25862822", "3": "0.09380391", "4": "0.20813382", "5": "0.4168495"}}

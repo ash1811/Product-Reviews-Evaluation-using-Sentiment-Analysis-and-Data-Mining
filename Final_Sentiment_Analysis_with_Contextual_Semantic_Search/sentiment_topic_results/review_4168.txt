@@ -1,0 +1,1 @@
+{"text": "Worked well for decorating as an ugly Team USA Costume by Ralph Lauren.  It is comfortable and fits to size. It DOES NOT HAVE POCKETS, which is annoying.  Well, you get what you pay for.  It's cheap.", "sentiment": "negative", "topics": {"0": "0.2589679", "1": "0.22738335", "3": "0.08404737", "6": "0.4081098"}}

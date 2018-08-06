@@ -1,0 +1,1 @@
+{"text": "I wanted thicker shirts that I can wear during warm Texas winters. These shirts are perfect for this. Pockets are just another plus.", "sentiment": "negative", "topics": {"0": "0.010228561", "1": "0.841052", "2": "0.1078072", "3": "0.010223682", "4": "0.0102183", "5": "0.010228244", "6": "0.010241998"}}

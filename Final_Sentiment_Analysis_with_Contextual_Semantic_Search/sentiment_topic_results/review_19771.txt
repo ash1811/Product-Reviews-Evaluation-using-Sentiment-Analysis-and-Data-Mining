@@ -1,0 +1,1 @@
+{"text": "We have purchased these pants before and they are very comfortable and durable. My husband wears them when he is doing indoor household repairs.", "sentiment": "negative", "topics": {"0": "0.014291544", "1": "0.6013859", "2": "0.0142893465", "3": "0.014295965", "4": "0.22163427", "5": "0.11981261", "6": "0.014290424"}}

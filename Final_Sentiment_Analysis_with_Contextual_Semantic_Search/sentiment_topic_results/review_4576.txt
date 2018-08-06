@@ -1,0 +1,1 @@
+{"text": "cool pants they fit well they are made well but these are old man pands so i sent them back", "sentiment": "positive", "topics": {"0": "0.37641907", "1": "0.5639078", "2": "0.011922282", "3": "0.011934762", "4": "0.011919661", "5": "0.011975146", "6": "0.011921235"}}

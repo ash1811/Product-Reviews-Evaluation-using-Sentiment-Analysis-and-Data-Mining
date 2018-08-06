@@ -1,0 +1,1 @@
+{"text": "Good for connecting one bag to another, but likely to get lost at some point.  I am using to connect my laptop bag to overnight carrier, I am anticipating loosing or forgetting it somewhere.", "sentiment": "negative", "topics": {"0": "0.21171057", "1": "0.17143181", "2": "0.22161086", "3": "0.121202186", "4": "0.19273703", "6": "0.0741497"}}

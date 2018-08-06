@@ -1,0 +1,1 @@
+{"text": "I got these for my son to go to camp and they are perfect.  Lightweight with pockets exactly what he needs.", "sentiment": "positive", "topics": {"0": "0.17574684", "1": "0.4216876", "2": "0.014305083", "3": "0.014318409", "4": "0.014314404", "5": "0.014332811", "6": "0.3452949"}}

@@ -1,0 +1,1 @@
+{"text": "used to pack for vacation, in case I needed extra storage for purchases.  performed as I intended.  Very useful and sturdy", "sentiment": "negative", "topics": {"0": "0.12154661", "1": "0.2993866", "2": "0.3325771", "3": "0.09534845", "4": "0.011018505", "5": "0.0110542765", "6": "0.12906843"}}

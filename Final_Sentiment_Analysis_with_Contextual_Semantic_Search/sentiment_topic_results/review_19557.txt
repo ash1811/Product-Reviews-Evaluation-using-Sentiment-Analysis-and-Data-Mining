@@ -1,0 +1,1 @@
+{"text": "The ultimate rocker or groupie shoe.  So cool and never goes out of style.  Wear them with a tux or jeans or a mini-skirt.  You cannot go wrong with these shoes.  Great price.  In Europe they cost three times more!", "sentiment": "negative", "topics": {"0": "0.19700655", "1": "0.09651727", "2": "0.26819533", "3": "0.15716223", "5": "0.26918924"}}

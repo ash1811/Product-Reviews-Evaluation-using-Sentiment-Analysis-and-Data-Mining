@@ -1,0 +1,1 @@
+{"text": "I have never found a more flattering, comfortable, supportive full-figured bra than the Dream Tisha. My only complaint is that the underwire sometimes breaks on older bras, even with gentle care.", "sentiment": "negative", "topics": {"1": "0.16415167", "2": "0.21121894", "3": "0.34317037", "5": "0.086765565", "6": "0.17961633"}}

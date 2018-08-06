@@ -1,0 +1,1 @@
+{"text": "The toe box was nice a tad big and some of the seams rubbed his feet in odd spots, so we had to send them back.  However, for someone with less sensitive feet would likely love them.", "sentiment": "negative", "topics": {"0": "0.13247532", "1": "0.30694836", "2": "0.20080838", "4": "0.2323813", "6": "0.11124027"}}

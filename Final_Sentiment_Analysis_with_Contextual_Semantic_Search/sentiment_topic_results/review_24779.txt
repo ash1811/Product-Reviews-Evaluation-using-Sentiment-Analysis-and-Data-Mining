@@ -1,0 +1,1 @@
+{"text": "They were ok. A little dense material wise than I would have liked but for sure a keeper. Good Product", "sentiment": "positive", "topics": {"0": "0.011928382", "1": "0.40823564", "2": "0.21131553", "3": "0.01193951", "4": "0.22960372", "5": "0.11504825", "6": "0.011929003"}}

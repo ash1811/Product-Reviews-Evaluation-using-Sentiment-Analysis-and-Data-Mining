@@ -1,0 +1,1 @@
+{"text": "My daughter couldn't be happier with the purchase of these Vans. I'm sure we'll be ordering more. Thanks for the great experience.", "sentiment": "negative", "topics": {"0": "0.011044636", "1": "0.576912", "2": "0.26200417", "3": "0.011026124", "4": "0.011001571", "5": "0.01104659", "6": "0.11696495"}}

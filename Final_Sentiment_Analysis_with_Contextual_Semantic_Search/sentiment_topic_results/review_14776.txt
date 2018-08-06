@@ -1,0 +1,1 @@
+{"text": "Overall I think this cleaner is good but I can't tell if it's the cleaner or the jewelry cleaning machine that does the hard work.", "sentiment": "negative", "topics": {"0": "0.15203944", "1": "0.29086182", "2": "0.29308498", "3": "0.011005791", "4": "0.011025639", "5": "0.011009834", "6": "0.2309725"}}

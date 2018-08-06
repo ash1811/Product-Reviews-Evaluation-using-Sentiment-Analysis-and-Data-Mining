@@ -1,0 +1,1 @@
+{"text": "This packpack is just what I needed, I work at a prison and we are required to have a clear bag. It is sturdy, and not to mention it is stylish", "sentiment": "negative", "topics": {"0": "0.013001469", "1": "0.45358056", "2": "0.35502782", "3": "0.013000078", "4": "0.0130020715", "5": "0.013010836", "6": "0.13937718"}}

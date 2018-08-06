@@ -1,0 +1,1 @@
+{"text": "Minnetonka moccasins make excellent baby shoes. The quality is consistently high. Easy to slip on but stay on nicely. Fringes are interesting for babies. Soles are nice and soft for creeper to toddler transitions.", "sentiment": "negative", "topics": {"0": "0.052031077", "1": "0.47582412", "2": "0.1436772", "5": "0.09914391", "6": "0.21684106"}}

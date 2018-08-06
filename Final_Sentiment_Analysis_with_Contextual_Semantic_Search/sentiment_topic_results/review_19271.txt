@@ -1,0 +1,1 @@
+{"text": "love the watch. attractive and functional.excellent dive and snorkel watch nice edition to my collectionif i said any more i would have to buy another one.", "sentiment": "negative", "topics": {"1": "0.19154385", "2": "0.3923746", "4": "0.21233304", "6": "0.17688878"}}

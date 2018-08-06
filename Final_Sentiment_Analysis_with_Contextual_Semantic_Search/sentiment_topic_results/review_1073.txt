@@ -1,0 +1,1 @@
+{"text": "This is a good light weight hat that allows for good air flow while protecting from the sun. I like the strap that can be functional or put behind ears on on hat as in picture.", "sentiment": "negative", "topics": {"0": "0.10547726", "1": "0.31282258", "2": "0.067377225", "4": "0.21883191", "5": "0.08499954", "6": "0.20292236"}}

@@ -1,0 +1,1 @@
+{"text": "These boots were recommended to me by a lobster fisherman on Cape Breton Island. I'm glad I took his advice and bought a pair. These boots are extremely durable, comfortable and kept my feet warm and dry, even in the middle of winter.", "sentiment": "negative", "topics": {"0": "0.051648803", "1": "0.48763135", "2": "0.16487819", "4": "0.2786402"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these jeans for my husband. They are the same brand, size and style that he usually wears. Item was as advertised.", "sentiment": "negative", "topics": {"0": "0.01304397", "1": "0.013025235", "2": "0.01302225", "3": "0.19128095", "4": "0.14509796", "5": "0.48548326", "6": "0.1390464"}}

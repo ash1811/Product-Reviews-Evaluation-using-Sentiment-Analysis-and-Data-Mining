@@ -1,0 +1,1 @@
+{"text": "This is the second one I have purchased and this is my go to nursing bra.  It is very comfortable and easy access to nurse.  They clasps are very secure and I have never had a problem with them coming undone.", "sentiment": "negative", "topics": {"1": "0.3289231", "2": "0.10697586", "3": "0.19617379", "4": "0.19940709", "5": "0.08345284", "6": "0.07664696"}}

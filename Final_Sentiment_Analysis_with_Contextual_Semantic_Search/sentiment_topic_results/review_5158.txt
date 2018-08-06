@@ -1,0 +1,1 @@
+{"text": "Great pants to wear while working in the yard or to stay warm on snowy days.  Nice heavy thick material.", "sentiment": "negative", "topics": {"0": "0.0102264965", "1": "0.8380505", "2": "0.010208679", "3": "0.010218705", "4": "0.010225639", "5": "0.010249405", "6": "0.11082058"}}

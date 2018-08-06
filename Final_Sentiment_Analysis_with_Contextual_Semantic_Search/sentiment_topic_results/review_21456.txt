@@ -1,0 +1,1 @@
+{"text": "These are the best slippers I have ever had. I buy a pair about every two years and will never get another type!", "sentiment": "negative", "topics": {"0": "0.0102594895", "1": "0.54601496", "2": "0.010225417", "3": "0.010246649", "4": "0.010241928", "5": "0.29317006", "6": "0.1198415"}}

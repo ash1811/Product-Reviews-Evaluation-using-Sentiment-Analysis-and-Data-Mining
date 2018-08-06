@@ -1,0 +1,1 @@
+{"text": "I give this product five stars because of how comfortable they are.  I like the comfort factor and color.  I recommend this product to everybody.", "sentiment": "negative", "topics": {"0": "0.010212612", "1": "0.3245711", "2": "0.32600522", "3": "0.0102139395", "4": "0.0102079", "5": "0.30849737", "6": "0.01029189"}}

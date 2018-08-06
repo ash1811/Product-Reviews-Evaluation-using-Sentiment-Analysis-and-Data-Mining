@@ -1,0 +1,1 @@
+{"text": "This is a product that has been around for years.I used it in the shoe business over 30years ago.It work best then and it works best now.I used it on an old sofa... and waalaa! 10/10", "sentiment": "negative", "topics": {"0": "0.44575983", "2": "0.13122359", "3": "0.23189907", "5": "0.09531778", "6": "0.08071937"}}

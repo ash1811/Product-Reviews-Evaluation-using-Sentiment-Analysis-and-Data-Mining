@@ -1,0 +1,1 @@
+{"text": "Good quality, fits well, comfortable, with a great price. The adjustment tabs have a tendency to slide down a little.", "sentiment": "negative", "topics": {"0": "0.011004775", "1": "0.6391137", "2": "0.011017116", "3": "0.12555735", "4": "0.09826831", "5": "0.10403711", "6": "0.011001597"}}

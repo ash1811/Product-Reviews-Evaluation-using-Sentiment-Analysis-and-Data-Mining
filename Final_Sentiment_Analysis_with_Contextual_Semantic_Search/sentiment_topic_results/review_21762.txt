@@ -1,0 +1,1 @@
+{"text": "doesn't fit, is to small. I hate it, don't do it. This sucks, It SUCKS. Much disappointment. stupid fleece beanie that doesn't do what I want.", "sentiment": "positive", "topics": {"0": "0.010253296", "1": "0.2747253", "2": "0.4984559", "3": "0.010236052", "4": "0.010232558", "5": "0.18586053", "6": "0.010236373"}}

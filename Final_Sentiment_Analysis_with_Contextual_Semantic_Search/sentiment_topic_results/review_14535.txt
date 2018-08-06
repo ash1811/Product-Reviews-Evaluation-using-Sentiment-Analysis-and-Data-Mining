@@ -1,0 +1,1 @@
+{"text": "I have bursitis in my heels, and these are a lifesaver. I'm a ladies size 7 shoe, but I find the large (8-9) in these slippers are most comfortable.I have about 4 pairs, as does my mom.", "sentiment": "negative", "topics": {"0": "0.18245424", "1": "0.14938495", "2": "0.07704165", "3": "0.16264339", "4": "0.11273547", "6": "0.30732188"}}

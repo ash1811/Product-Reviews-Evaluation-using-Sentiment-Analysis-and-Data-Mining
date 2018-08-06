@@ -1,0 +1,1 @@
+{"text": "I bought this to wear while pregnant, as I've outgrown my wedding set. WOW am I surprised. The Rhodium Plating is gorgeous and the CZ's are WAY more brilliant than I ever expected at this price point. I couldn't be happier.", "sentiment": "positive", "topics": {"0": "0.23142216", "2": "0.279958", "3": "0.19750984", "4": "0.22211078", "6": "0.055298977"}}

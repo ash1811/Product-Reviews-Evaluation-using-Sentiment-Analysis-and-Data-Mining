@@ -1,0 +1,1 @@
+{"text": "My son wears 10 US size shoes and as stated in reviews these run small, so i went for Large. Appeared to be really small. We couldn't get any use of it but they look well-made. Do not size down.", "sentiment": "negative", "topics": {"0": "0.19521795", "1": "0.1339656", "2": "0.12674956", "3": "0.46375045", "4": "0.067264065"}}

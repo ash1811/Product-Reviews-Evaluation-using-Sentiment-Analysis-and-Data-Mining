@@ -1,0 +1,1 @@
+{"text": "works real well for what I need them for. Multi uses with costumes for different occasions .They fit and look great", "sentiment": "negative", "topics": {"0": "0.23864064", "1": "0.45682618", "5": "0.09601681", "6": "0.17991278"}}

@@ -1,0 +1,1 @@
+{"text": "I own three pairs of these and I just got the new ones in the white/blue color. I'll wear them to work and save my other pairs for hiking. These shoes are super comfortable for light hiking and just wearing around town.Excellent shoe!", "sentiment": "negative", "topics": {"0": "0.13156173", "1": "0.27376723", "2": "0.13501115", "3": "0.2730847", "4": "0.17412393"}}

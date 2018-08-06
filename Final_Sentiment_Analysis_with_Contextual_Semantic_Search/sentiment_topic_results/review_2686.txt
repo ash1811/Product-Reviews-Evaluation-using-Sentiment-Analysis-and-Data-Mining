@@ -1,0 +1,1 @@
+{"text": "Not as good as I hoped it would be. Quality leaves a lot to be desired. Material is uncomfortable on the skin. Would not recommend this brand for clothing.", "sentiment": "negative", "topics": {"1": "0.6454419", "3": "0.09728238", "4": "0.08240058", "6": "0.148038"}}

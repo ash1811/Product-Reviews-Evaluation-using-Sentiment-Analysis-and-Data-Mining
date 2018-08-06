@@ -1,0 +1,1 @@
+{"text": "These shoe are extremely comfortable and easy to slip on.  I have bad feet so having comfortable shoes is critically important to me.  The only downside is the sole wears down quickly.", "sentiment": "negative", "topics": {"0": "0.12526418", "1": "0.34490064", "2": "0.23496771", "3": "0.21960914", "6": "0.059280813"}}

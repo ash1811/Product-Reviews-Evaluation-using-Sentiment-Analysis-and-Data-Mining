@@ -1,0 +1,1 @@
+{"text": "I spend 80% of my life in flip flops and sandals. These are made to last. They withstand any kind of abuse and temperature. Reef's aren't cheap but worth their money. Don't even bother with cheap ones.", "sentiment": "negative", "topics": {"1": "0.33901548", "2": "0.3095676", "3": "0.08444231", "5": "0.19627185", "6": "0.057054143"}}

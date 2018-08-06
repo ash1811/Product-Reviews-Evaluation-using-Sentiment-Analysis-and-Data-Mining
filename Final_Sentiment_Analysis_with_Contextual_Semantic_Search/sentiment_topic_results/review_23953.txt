@@ -1,0 +1,1 @@
+{"text": "These socks are thick and hold up well in the wash.  They tend to collect fuzz, but not too bad.", "sentiment": "negative", "topics": {"0": "0.014295128", "1": "0.35903558", "2": "0.014313802", "3": "0.17363058", "4": "0.014288996", "5": "0.29849604", "6": "0.12593988"}}

@@ -1,0 +1,1 @@
+{"text": "This is my third pair of Skechers Mule Sneakers.  I'm a nurse and I have found no \"nursing shoes\" as comfortable as Skechers.", "sentiment": "negative", "topics": {"0": "0.11563806", "1": "0.201865", "2": "0.09134537", "3": "0.32010815", "4": "0.011013499", "5": "0.17667723", "6": "0.08335267"}}

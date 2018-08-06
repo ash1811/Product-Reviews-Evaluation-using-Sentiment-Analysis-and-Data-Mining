@@ -1,0 +1,1 @@
+{"text": "Bought this for a  5 day vaca to Ba ha mas so we did not have to pay to check our luggage.  Had plenty of room.", "sentiment": "positive", "topics": {"0": "0.011022255", "1": "0.09162438", "2": "0.08030502", "3": "0.0110102715", "4": "0.32277593", "5": "0.36680835", "6": "0.11645379"}}

@@ -1,0 +1,1 @@
+{"text": "It fits, not too bad on shoulders, but wore just once and the stitching is coming undone all ready. I guess I got what I paid for.", "sentiment": "negative", "topics": {"0": "0.011023447", "1": "0.38954312", "2": "0.096049815", "3": "0.011017963", "4": "0.17044558", "5": "0.011037614", "6": "0.3108825"}}

@@ -1,0 +1,1 @@
+{"text": "They are as advertised! LOGGER PANT! Fitting is for work when bending over to pick something up theres plenty from in the crotch, A+ for hours of work without showing your flower vase.", "sentiment": "positive", "topics": {"1": "0.5555821", "5": "0.18106015", "6": "0.2331722"}}

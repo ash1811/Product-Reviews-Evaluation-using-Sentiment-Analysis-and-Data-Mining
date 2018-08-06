@@ -1,0 +1,1 @@
+{"text": "This is a really nice watch. It is attractive. I bought it for an everyday watch. the band is for a small wrist. But this is a good buy, nice watch.", "sentiment": "positive", "topics": {"1": "0.42770928", "2": "0.26550144", "4": "0.14618935", "5": "0.039946057", "6": "0.101526625"}}

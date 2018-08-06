@@ -1,0 +1,1 @@
+{"text": "Ordered a wide since they seem to be a thinner fit.  Wide size was great.Great shoe for summer and you can wash them!", "sentiment": "negative", "topics": {"0": "0.010219705", "1": "0.3302929", "2": "0.37513277", "3": "0.14681284", "4": "0.117051914", "5": "0.010246871", "6": "0.010242986"}}

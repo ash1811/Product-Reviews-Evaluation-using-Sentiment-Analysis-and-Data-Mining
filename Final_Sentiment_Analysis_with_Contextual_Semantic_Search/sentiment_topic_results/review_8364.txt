@@ -1,0 +1,1 @@
+{"text": "I love Sam Edelman but these flats are way too pricey for the quality. The sole is very thin and will wear off too soon. Just look like something that will not last.", "sentiment": "negative", "topics": {"1": "0.35661364", "5": "0.37181503", "6": "0.23573479"}}

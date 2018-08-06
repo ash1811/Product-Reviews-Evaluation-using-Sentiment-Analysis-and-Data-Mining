@@ -1,0 +1,1 @@
+{"text": "It's comfy and nice but i feel like it does not do justice to all my boobs. I'm currently wearing it now and it is not uncomfortable but i would have liked a little more coverage. Overall, it is a good buy", "sentiment": "positive", "topics": {"1": "0.55491674", "2": "0.0774897", "3": "0.1648557", "6": "0.17887563"}}

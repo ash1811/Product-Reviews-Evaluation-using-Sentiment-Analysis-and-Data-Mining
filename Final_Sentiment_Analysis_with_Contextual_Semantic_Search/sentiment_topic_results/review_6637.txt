@@ -1,0 +1,1 @@
+{"text": "I have worn Thorlo socks for years and just love them.  These are, as always, soft and extremely comfortable.  I wear a size 8 shoe and ordered the medium for sizes 7 to 9.  Highly recommended.", "sentiment": "negative", "topics": {"1": "0.30668014", "2": "0.23329507", "3": "0.18444385", "6": "0.2568533"}}

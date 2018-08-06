@@ -1,0 +1,1 @@
+{"text": "I bought these for my son. All I can say is he loves them. They are a perfect fit and the leather is wonderful quality.", "sentiment": "negative", "topics": {"0": "0.013020739", "1": "0.6033209", "2": "0.20202985", "3": "0.013054848", "4": "0.013058596", "5": "0.013023743", "6": "0.1424913"}}

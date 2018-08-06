@@ -1,0 +1,1 @@
+{"text": "My better half enjoys the comfort of these shoes and will always want to order Clark's brand.great shoes highly reccomend", "sentiment": "positive", "topics": {"0": "0.29381543", "1": "0.14423095", "2": "0.26006743", "3": "0.08494864", "4": "0.010217855", "5": "0.17037818", "6": "0.036341492"}}

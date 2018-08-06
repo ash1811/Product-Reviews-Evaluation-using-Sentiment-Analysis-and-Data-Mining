@@ -1,0 +1,1 @@
+{"text": "These feel like walking on pillows. I really love these socks. If you are getting excited about socks, you know you made a good purchase.", "sentiment": "negative", "topics": {"1": "0.27469435", "2": "0.10312097", "3": "0.22218007", "5": "0.37129351"}}

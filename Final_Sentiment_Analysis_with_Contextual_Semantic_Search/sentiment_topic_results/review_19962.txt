@@ -1,0 +1,1 @@
+{"text": "Has a spot for a laptop and for an ipad.  I use both to be completely paperless.  The straps are nice on my shoulders, and it has a lot of organizational features.", "sentiment": "negative", "topics": {"0": "0.106067464", "1": "0.09754714", "2": "0.3401511", "3": "0.011022567", "4": "0.3242494", "5": "0.1099712", "6": "0.010991162"}}

@@ -1,0 +1,1 @@
+{"text": "My lady friend wears this item more than any other I've purchased for her this year( and I spoil her a lot ).  It's simple yet elegant; it suits her personality to a \"T\".  *smile*", "sentiment": "negative", "topics": {"0": "0.07135125", "1": "0.109772414", "2": "0.060785532", "3": "0.12899458", "4": "0.28471532", "5": "0.14400978", "6": "0.2003711"}}

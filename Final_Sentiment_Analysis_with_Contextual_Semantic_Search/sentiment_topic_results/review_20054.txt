@@ -1,0 +1,1 @@
+{"text": "my son is so hard on backpacks, it was thick material, he is happy with it, came quick, good price", "sentiment": "negative", "topics": {"0": "0.7356656", "1": "0.011969642", "2": "0.10458371", "3": "0.01191999", "4": "0.111981876", "5": "0.01194717", "6": "0.011932008"}}

@@ -1,0 +1,1 @@
+{"text": "the product is good, the ad said that the band was actually titanium and it is not, it saddened me a bit.", "sentiment": "negative", "topics": {"0": "0.013038132", "1": "0.013035157", "2": "0.013009753", "3": "0.28900632", "4": "0.1549639", "5": "0.29087865", "6": "0.22606806"}}

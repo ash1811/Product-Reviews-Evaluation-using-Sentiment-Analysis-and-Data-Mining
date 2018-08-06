@@ -1,0 +1,1 @@
+{"text": "The watch is good, I like the design, but the light is not strong and does not look good when night or in dark places, but it's good brand and design.", "sentiment": "positive", "topics": {"1": "0.59133", "2": "0.12826236", "3": "0.24221049"}}

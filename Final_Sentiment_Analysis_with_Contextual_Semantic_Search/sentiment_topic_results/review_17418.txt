@@ -1,0 +1,1 @@
+{"text": "The best of all Champion socks that we have ever purchased. Soft and plush. Thick. I really enjoy folding these socks for my husband.", "sentiment": "negative", "topics": {"0": "0.010284595", "1": "0.40868053", "2": "0.19877687", "3": "0.010225178", "4": "0.08959346", "5": "0.27221632", "6": "0.01022305"}}

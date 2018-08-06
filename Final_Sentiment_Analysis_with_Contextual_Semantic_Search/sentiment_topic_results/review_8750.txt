@@ -1,0 +1,1 @@
+{"text": "The socks fit well and remain &#34;up&#34; when worn with jeans or with shorts.  They feel as good as they look.", "sentiment": "positive", "topics": {"0": "0.18819566", "1": "0.20415968", "2": "0.011911231", "3": "0.011923504", "4": "0.011918486", "5": "0.44295323", "6": "0.12893821"}}

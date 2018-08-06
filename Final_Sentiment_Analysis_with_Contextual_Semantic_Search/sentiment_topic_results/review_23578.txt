@@ -1,0 +1,1 @@
+{"text": "is as expected and my wife like it so I recomended it to my family and friends.Thank you so much", "sentiment": "negative", "topics": {"0": "0.29572853", "1": "0.22645769", "2": "0.01788282", "3": "0.18712384", "4": "0.017913433", "5": "0.017897986", "6": "0.23699574"}}

@@ -1,0 +1,1 @@
+{"text": "Great fit, and super comfortable, my boyfriend now wants these in multiple colors.  He had wider feet but it doesn't seem to be a problem.", "sentiment": "negative", "topics": {"0": "0.0110204285", "1": "0.6237246", "2": "0.011020699", "3": "0.011048628", "4": "0.096793026", "5": "0.13295835", "6": "0.11343428"}}

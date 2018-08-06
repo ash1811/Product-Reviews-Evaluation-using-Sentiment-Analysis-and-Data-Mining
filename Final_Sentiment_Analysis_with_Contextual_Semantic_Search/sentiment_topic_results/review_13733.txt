@@ -1,0 +1,1 @@
+{"text": "I just didn't like it at all.Not comfortable and hurted my foot.very un happy with this product and it runs smaller that the original size.", "sentiment": "negative", "topics": {"0": "0.01100574", "1": "0.23988435", "2": "0.01107323", "3": "0.27907643", "4": "0.01101321", "5": "0.103452094", "6": "0.34449494"}}

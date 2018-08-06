@@ -1,0 +1,1 @@
+{"text": "My husbands favorite tee shirt. The pocket is large enough to be useful. The shirt launders well and holds its color through many washes. It comes out of the dryer wrinkke free.", "sentiment": "negative", "topics": {"1": "0.3672882", "3": "0.17249578", "4": "0.43157062"}}

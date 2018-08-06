@@ -1,0 +1,1 @@
+{"text": "They are just like any other toe socks in my opinion. Worked great and I bought at a good price!", "sentiment": "negative", "topics": {"0": "0.18217191", "1": "0.4409565", "2": "0.014328609", "3": "0.0142984865", "4": "0.01430849", "5": "0.15990904", "6": "0.174027"}}

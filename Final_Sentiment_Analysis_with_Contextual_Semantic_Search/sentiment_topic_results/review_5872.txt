@@ -1,0 +1,1 @@
+{"text": "I got the XXXL based on experience with previous versions of these which were too small for boots and more sized for dress shoes, but these really are for size 14 and up - they are a little big on my size-12 boots.", "sentiment": "negative", "topics": {"0": "0.13101214", "1": "0.3155459", "2": "0.09105602", "3": "0.15537679", "4": "0.2919151"}}

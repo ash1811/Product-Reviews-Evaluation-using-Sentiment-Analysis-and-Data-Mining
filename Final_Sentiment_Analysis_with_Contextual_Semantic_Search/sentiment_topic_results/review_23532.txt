@@ -1,0 +1,1 @@
+{"text": "like other Invicta watches I own ... awesome design masculine and rugged with significant weight to it - bracelet scratches easily and crown will bite your wrist - I tend to wear this one very often and get lots of compliments on it", "sentiment": "negative", "topics": {"0": "0.06480255", "1": "0.18240787", "2": "0.32627156", "5": "0.40783593"}}

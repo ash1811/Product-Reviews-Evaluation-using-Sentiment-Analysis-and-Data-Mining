@@ -1,0 +1,1 @@
+{"text": "This is one of the most awesome wolf shirts I've ever seen.  I wear a lot of wolf shirts and this is at the top of the list!!", "sentiment": "negative", "topics": {"0": "0.010249375", "1": "0.010246667", "2": "0.010256648", "3": "0.27161536", "4": "0.36006603", "5": "0.32734647", "6": "0.010219457"}}

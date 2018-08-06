@@ -1,0 +1,1 @@
+{"text": "I have been wearing the Jockey French Cut undies for more than 20 years.  I have tried other brands, but Jockey makes the best, longest-lasting.  Very comfortable.", "sentiment": "negative", "topics": {"1": "0.39632496", "2": "0.08015902", "3": "0.26830593", "5": "0.22659852"}}

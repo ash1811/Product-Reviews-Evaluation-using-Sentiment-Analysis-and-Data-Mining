@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband and they are indestructible! He's been wearing them for years. The only bad thing about them, is that they do fade, but not near as bad as other brands of work pants!", "sentiment": "negative", "topics": {"1": "0.56570864", "3": "0.18713923", "4": "0.07711071", "6": "0.14318395"}}

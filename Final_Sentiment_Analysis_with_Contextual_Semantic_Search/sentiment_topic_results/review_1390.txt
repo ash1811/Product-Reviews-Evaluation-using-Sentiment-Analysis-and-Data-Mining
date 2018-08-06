@@ -1,0 +1,1 @@
+{"text": "This bag is big and will carry a lot of items. The straps are stiff but break in after a while. Good bag for the money.", "sentiment": "positive", "topics": {"0": "0.011016711", "1": "0.4495116", "2": "0.19434609", "3": "0.09113589", "4": "0.14351125", "5": "0.011055302", "6": "0.09942321"}}

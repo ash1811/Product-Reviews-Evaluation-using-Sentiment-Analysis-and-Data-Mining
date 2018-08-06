@@ -1,0 +1,1 @@
+{"text": "This is a large, good quality bandana.  It softens up nicely after washing and has a number of daily uses as well as uses as an invaluable survival tool.", "sentiment": "positive", "topics": {"0": "0.08450491", "1": "0.49777445", "2": "0.09512077", "3": "0.07905019", "4": "0.22567527"}}

@@ -1,0 +1,1 @@
+{"text": "I got this to go on a pendant, for the price this is a very good chain, way better than you can buy out of any store for the price.", "sentiment": "negative", "topics": {"0": "0.011940315", "1": "0.40967396", "2": "0.011943626", "3": "0.011966868", "4": "0.24357826", "5": "0.2988884", "6": "0.0120086195"}}

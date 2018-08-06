@@ -1,0 +1,1 @@
+{"text": "This hat is exactly what I had hoped it would be. It is soft and floppy and a good fit for me. It will be perfect for boating and kayaking. No more worrying about losing a baseball cap to the wind!", "sentiment": "negative", "topics": {"0": "0.06607227", "1": "0.33790565", "3": "0.19597948", "4": "0.32626405", "6": "0.058627512"}}

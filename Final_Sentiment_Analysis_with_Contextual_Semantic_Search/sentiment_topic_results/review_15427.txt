@@ -1,0 +1,1 @@
+{"text": "I love these sunglasses!  I opted for the brown shaded lens instead of the black shaded lens.  No glare, fit great!", "sentiment": "negative", "topics": {"0": "0.21933137", "1": "0.22024679", "2": "0.3021428", "3": "0.010244997", "4": "0.0102422545", "5": "0.22758648", "6": "0.010205329"}}

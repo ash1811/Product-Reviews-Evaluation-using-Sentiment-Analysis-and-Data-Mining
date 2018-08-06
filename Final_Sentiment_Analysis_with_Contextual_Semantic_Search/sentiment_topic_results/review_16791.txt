@@ -1,0 +1,1 @@
+{"text": "I just love this Grand Diver, it's not HEAVY to me but for some smaller folks it's maybe to heavy for them.  It fit my wrist just fine.  Great price point for a automatic watch this big.", "sentiment": "negative", "topics": {"0": "0.09278202", "1": "0.20596388", "2": "0.21956964", "3": "0.17305715", "5": "0.13242726", "6": "0.1686519"}}

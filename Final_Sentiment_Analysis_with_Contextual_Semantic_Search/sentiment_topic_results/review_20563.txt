@@ -1,0 +1,1 @@
+{"text": "I reccomend birkenstocks to anyone with plantar fascitis.  Birkenstocks have taken the pain out of my feet.  Now I have my black sandles for next summer and they look and feel great.", "sentiment": "negative", "topics": {"0": "0.399674", "2": "0.10029727", "4": "0.10747904", "5": "0.2721676", "6": "0.103493884"}}

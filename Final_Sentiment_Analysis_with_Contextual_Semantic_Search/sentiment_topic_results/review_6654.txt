@@ -1,0 +1,1 @@
+{"text": "Fits perfectly for my wife (size 4) with room to stretch if needed.  She said it was comfortable, even after a 10 mile hike.", "sentiment": "negative", "topics": {"1": "0.54941845", "4": "0.2136872", "6": "0.198604"}}

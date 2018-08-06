@@ -1,0 +1,1 @@
+{"text": "And again this did not work out well for me.  Again the fit was not great.  Sorry for this rating.", "sentiment": "positive", "topics": {"0": "0.017887723", "1": "0.6180213", "2": "0.017875994", "3": "0.017893765", "4": "0.15625668", "5": "0.017886298", "6": "0.1541782"}}

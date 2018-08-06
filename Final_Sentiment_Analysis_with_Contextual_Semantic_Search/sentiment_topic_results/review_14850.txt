@@ -1,0 +1,1 @@
+{"text": "These bras are nice. Fit true to size and very nice. The option to remove the pads is a really nice touch. I will order this in other colors. Very pleased with this purchase.", "sentiment": "negative", "topics": {"0": "0.15946475", "1": "0.5075995", "2": "0.071207464", "3": "0.14337265", "6": "0.1015269"}}

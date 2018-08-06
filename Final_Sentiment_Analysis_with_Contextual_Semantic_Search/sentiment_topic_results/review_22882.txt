@@ -1,0 +1,1 @@
+{"text": "A trimmer fit and not a baggy looking pair of shorts considering I ordered my usual size. The color iswhat I expected.", "sentiment": "negative", "topics": {"0": "0.11994825", "1": "0.45145088", "2": "0.0102073075", "3": "0.010243713", "4": "0.1565399", "5": "0.010215908", "6": "0.24139406"}}

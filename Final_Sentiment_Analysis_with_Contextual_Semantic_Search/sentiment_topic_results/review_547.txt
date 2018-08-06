@@ -1,0 +1,1 @@
+{"text": "the only underwear that I own, These panties never bind nor ride up--and they are thin enough to  wear under smooth clothing", "sentiment": "negative", "topics": {"0": "0.011082706", "1": "0.467512", "2": "0.33933678", "3": "0.011038787", "4": "0.14897478", "5": "0.011038902", "6": "0.011016051"}}

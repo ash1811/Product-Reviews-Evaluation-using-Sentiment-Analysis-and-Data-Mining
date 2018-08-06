@@ -1,0 +1,1 @@
+{"text": "You can get the same thing at the grocery store. About the same price I believe. Classic brand. I like the solid polish better than the liquid one.", "sentiment": "negative", "topics": {"1": "0.15842617", "2": "0.23615876", "3": "0.13319477", "4": "0.13428566", "6": "0.31881833"}}

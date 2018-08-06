@@ -1,0 +1,1 @@
+{"text": "These house shoes are a great shoe and they are true to size. They are comfortable and easy to clean as they are machine washable.  I would order them again.", "sentiment": "negative", "topics": {"0": "0.09807457", "1": "0.28443545", "2": "0.16563061", "4": "0.086092316", "6": "0.3466276"}}

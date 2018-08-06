@@ -1,0 +1,1 @@
+{"text": "Excellent product.  Exactly what i expect.  Size according to ad description.  I recommend this product.  It is perfect jeans to all days", "sentiment": "negative", "topics": {"0": "0.10631608", "1": "0.01022858", "2": "0.2963994", "3": "0.110433735", "4": "0.08886182", "5": "0.3775074", "6": "0.010252966"}}

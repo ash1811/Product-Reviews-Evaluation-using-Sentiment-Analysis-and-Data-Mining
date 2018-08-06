@@ -1,0 +1,1 @@
+{"text": "the look very comfortable, I gave them as a gift. He said that they are comfortable, and look great. he uses them for work out and said that they wash well and dry quick. He recommends them", "sentiment": "negative", "topics": {"0": "0.12340234", "1": "0.44208208", "2": "0.059569087", "4": "0.34965256"}}

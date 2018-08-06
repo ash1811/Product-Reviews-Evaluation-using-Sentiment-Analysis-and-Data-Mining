@@ -1,0 +1,1 @@
+{"text": "I choose this Bar because I work selling them  a they go like chocolate. The strap s are comfortable the cups fit full epically if you are full figurative  you can measure  yourself  Or ask the store for some help.", "sentiment": "negative", "topics": {"0": "0.14960071", "1": "0.22255056", "2": "0.44217515", "4": "0.0951458", "6": "0.07616417"}}

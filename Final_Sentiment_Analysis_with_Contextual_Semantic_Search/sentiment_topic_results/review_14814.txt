@@ -1,0 +1,1 @@
+{"text": "The pair of Levi Jeans arrived really quick and will be a great present for my son during all of those cold, rainy San Francisco weather.", "sentiment": "negative", "topics": {"0": "0.09141009", "2": "0.073111266", "3": "0.27055752", "4": "0.09137259", "5": "0.31308588", "6": "0.15089239"}}

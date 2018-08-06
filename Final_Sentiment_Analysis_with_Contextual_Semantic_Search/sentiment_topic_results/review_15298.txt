@@ -1,0 +1,1 @@
+{"text": "Good scrub pants. Chocolate almost looks black in some lighting. Size small fits my size 6 frame. Not very soft but can live with that.", "sentiment": "negative", "topics": {"1": "0.40723604", "2": "0.14663649", "3": "0.3505314", "4": "0.071619265"}}

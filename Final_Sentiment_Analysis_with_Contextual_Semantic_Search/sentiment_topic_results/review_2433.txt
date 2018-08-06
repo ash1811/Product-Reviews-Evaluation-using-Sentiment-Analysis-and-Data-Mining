@@ -1,0 +1,1 @@
+{"text": "This is my second pair of CAT Second shift boots.It is comfortable as the first one.It is Worth buying!", "sentiment": "positive", "topics": {"0": "0.011928815", "1": "0.3294224", "2": "0.21715832", "3": "0.12117743", "4": "0.011943289", "5": "0.29638842", "6": "0.011981343"}}

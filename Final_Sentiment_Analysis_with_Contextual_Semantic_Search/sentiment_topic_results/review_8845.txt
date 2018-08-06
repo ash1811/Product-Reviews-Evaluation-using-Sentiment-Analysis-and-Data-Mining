@@ -1,0 +1,1 @@
+{"text": "Shoes are very nice. I need a different size. I will be doing an exchange on the shoes. My Husband loves them!", "sentiment": "negative", "topics": {"0": "0.013008859", "1": "0.13498896", "2": "0.28567633", "3": "0.013064674", "4": "0.1862517", "5": "0.01299347", "6": "0.35401598"}}

@@ -1,0 +1,1 @@
+{"text": "My parents each loved these Old Friend slippers.  Well made, nice non slip sole. Very warm and comfortable. I would like to get a pair for myself!", "sentiment": "negative", "topics": {"0": "0.09095818", "1": "0.42747286", "3": "0.24360047", "5": "0.13851823", "6": "0.08438637"}}

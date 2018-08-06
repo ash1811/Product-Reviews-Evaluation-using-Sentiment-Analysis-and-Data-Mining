@@ -1,0 +1,1 @@
+{"text": "Great shoe very comfortable and pretty. The shoe shows a lot of toe.  Will be great to wear after a pedicure.", "sentiment": "negative", "topics": {"0": "0.13996096", "1": "0.4901074", "2": "0.32226273", "3": "0.011916968", "4": "0.011909004", "5": "0.0119373305", "6": "0.011905658"}}

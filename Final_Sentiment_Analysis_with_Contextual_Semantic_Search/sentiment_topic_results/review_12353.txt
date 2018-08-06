@@ -1,0 +1,1 @@
+{"text": "because I figured I could wear one while the other one is being cleaned.  Now that I have them I have worn them a few times but am afraid to wash them because I believe the bill is cardboard so not a very good rating.", "sentiment": "positive", "topics": {"0": "0.16923772", "1": "0.23878995", "2": "0.10555114", "3": "0.088197805", "5": "0.22590624", "6": "0.16334817"}}

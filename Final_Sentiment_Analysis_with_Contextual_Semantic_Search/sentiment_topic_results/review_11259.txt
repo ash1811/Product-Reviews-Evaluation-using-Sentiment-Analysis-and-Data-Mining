@@ -1,0 +1,1 @@
+{"text": "Beautiful earrings but one of the backs was missing.  This is embarrassing when giving as a gift.  Fortunately, I had another from another earring, but when buying fine jewelry, this is not appropriate.", "sentiment": "negative", "topics": {"0": "0.31133512", "1": "0.29323614", "2": "0.18354341", "3": "0.067383245", "5": "0.12761393"}}

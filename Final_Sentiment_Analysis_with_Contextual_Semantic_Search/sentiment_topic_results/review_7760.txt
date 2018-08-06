@@ -1,0 +1,1 @@
+{"text": "These jeans are a nice pair of &#34;normal&#34; jeans.  You can easily pull these off with a pair of boots on a night out.  Very comfortable and fit well", "sentiment": "negative", "topics": {"1": "0.51817405", "2": "0.08657399", "4": "0.15331033", "5": "0.1376861", "6": "0.08515809"}}

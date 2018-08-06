@@ -1,0 +1,1 @@
+{"text": "this is my second brown pair, I own black as well.  They are so strong and well built it's crazy.  steel tipped, comfortable.", "sentiment": "negative", "topics": {"0": "0.011004529", "1": "0.5654191", "2": "0.011013768", "3": "0.37947854", "4": "0.011011397", "5": "0.011010801", "6": "0.011061894"}}

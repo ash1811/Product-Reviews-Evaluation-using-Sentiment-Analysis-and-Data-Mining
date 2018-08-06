@@ -1,0 +1,1 @@
+{"text": "Overall the hat is nice but it is small. I ordered a L/Xl which should have been plenty large enough but was snug. I am hoping that it will loosen up over time.", "sentiment": "negative", "topics": {"0": "0.010238156", "1": "0.40290785", "2": "0.010224006", "3": "0.010262177", "4": "0.33650902", "5": "0.01025688", "6": "0.21960191"}}

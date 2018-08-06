@@ -1,0 +1,1 @@
+{"text": "These boots look better than the picture, my 5yr old loves them, I also got a pair for my grand daughter she put them on right away  the boots look so cute with dresses. I am so happy for this purchase, highly recommend.", "sentiment": "positive", "topics": {"1": "0.121231996", "2": "0.22511028", "3": "0.22006062", "4": "0.41637683"}}

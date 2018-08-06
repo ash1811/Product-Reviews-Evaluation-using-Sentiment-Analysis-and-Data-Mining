@@ -1,0 +1,1 @@
+{"text": "fit is good and husband says they are comfy.  he wears 11.5 to 12m and the 12m fits well.  great at a water park and the beach.", "sentiment": "negative", "topics": {"1": "0.35581127", "2": "0.06795825", "4": "0.3418849", "5": "0.15230358", "6": "0.064150155"}}

@@ -1,0 +1,1 @@
+{"text": "I'm short (5'41/2) and when I usualy get the 'short' sizes I end up with the legs too short...not the case here.  It's a perfect fit and they have a real zipper and are made of a nice quality material too.", "sentiment": "negative", "topics": {"0": "0.39908868", "1": "0.27022484", "2": "0.1574069", "3": "0.15373157"}}

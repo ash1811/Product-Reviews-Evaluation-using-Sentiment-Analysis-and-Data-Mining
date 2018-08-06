@@ -1,0 +1,1 @@
+{"text": "Order for family member as gift and it was perfect for what he needs and the glass top lets him see what is in it.", "sentiment": "negative", "topics": {"0": "0.4433345", "1": "0.011929919", "2": "0.011929944", "3": "0.1478713", "4": "0.0877887", "5": "0.011919784", "6": "0.28522584"}}

@@ -1,0 +1,1 @@
+{"text": "The fabric is not soft at all. I hope to soften it with multiple washings. However, it is true to size and well made.", "sentiment": "negative", "topics": {"0": "0.011051086", "1": "0.18749955", "2": "0.32473966", "3": "0.35356864", "4": "0.0110106645", "5": "0.10108553", "6": "0.011044864"}}

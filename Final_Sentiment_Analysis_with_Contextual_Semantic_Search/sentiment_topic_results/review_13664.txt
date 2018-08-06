@@ -1,0 +1,1 @@
+{"text": "These were a Christmas gift for my grand daughter. Shed been wanting a pair for awhile and she loves them. They are quite comfortable. They lead me to buy a pair for myself only I got the moccasin style so great", "sentiment": "negative", "topics": {"0": "0.07994256", "1": "0.2793522", "2": "0.08219756", "3": "0.36502847", "6": "0.17913438"}}

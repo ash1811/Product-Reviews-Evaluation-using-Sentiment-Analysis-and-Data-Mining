@@ -1,0 +1,1 @@
+{"text": "They provide some nice padding without adding too much bulk. I've always liked Thorlo socks and their strategic placement of padding and &#34;vents&#34;.", "sentiment": "negative", "topics": {"0": "0.1139373", "1": "0.16898552", "3": "0.21702895", "4": "0.100204475", "5": "0.24607378", "6": "0.14534652"}}

@@ -1,0 +1,1 @@
+{"text": "You MUST follow follow the size company chart! I was in between weights and sizes, and I was nervous buying a medium. It turned out to be the perfect fit. This cradle took away all my belly aches and pains. Excellent product.", "sentiment": "negative", "topics": {"1": "0.0752778", "2": "0.24816771", "3": "0.33513162", "5": "0.22723305", "6": "0.10171183"}}

@@ -1,0 +1,1 @@
+{"text": "The look of the shirt is great, the quality 5 stars too  BUT i order a Medium size  and it  is a bit bigger than i though . Keep that in mind. Maybe a Small size if you are not overweight fits you better.", "sentiment": "negative", "topics": {"0": "0.09100188", "1": "0.40507853", "3": "0.47661948"}}

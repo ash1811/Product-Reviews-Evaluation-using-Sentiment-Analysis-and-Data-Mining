@@ -1,0 +1,1 @@
+{"text": "They're just fine. You might also want to check out 559s also. I'm not going to subtract a star for the fact that they're a bit more expensive in most cases than their competitors.", "sentiment": "negative", "topics": {"0": "0.07156911", "1": "0.088254884", "2": "0.19919468", "3": "0.17315245", "4": "0.24437581", "5": "0.21592906"}}

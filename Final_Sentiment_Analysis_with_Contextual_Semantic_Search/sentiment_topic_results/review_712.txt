@@ -1,0 +1,1 @@
+{"text": "Price and versatility was the main reason to order.  I have been happy with the choice and will check Amazon again to have an alternate wallet for different travel locations.", "sentiment": "positive", "topics": {"0": "0.21550842", "1": "0.15530656", "3": "0.24849577", "4": "0.18561807", "5": "0.17594375"}}

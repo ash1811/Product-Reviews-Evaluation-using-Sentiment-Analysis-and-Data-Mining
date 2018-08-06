@@ -1,0 +1,1 @@
+{"text": "I look the most like that brunette model. I bought this so that I could look real sexy and it worked..", "sentiment": "positive", "topics": {"0": "0.67025805", "1": "0.013068691", "2": "0.013010078", "3": "0.013029846", "4": "0.013042235", "5": "0.0130667975", "6": "0.26452428"}}

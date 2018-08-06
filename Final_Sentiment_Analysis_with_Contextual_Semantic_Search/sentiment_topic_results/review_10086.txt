@@ -1,0 +1,1 @@
+{"text": "The tights fit as expected.  I love these and my daughter does too.  They fit her as I expected them to with room for her to grow.", "sentiment": "positive", "topics": {"0": "0.01308929", "1": "0.48081303", "2": "0.0130578065", "3": "0.22757606", "4": "0.013031987", "5": "0.23943247", "6": "0.012999376"}}

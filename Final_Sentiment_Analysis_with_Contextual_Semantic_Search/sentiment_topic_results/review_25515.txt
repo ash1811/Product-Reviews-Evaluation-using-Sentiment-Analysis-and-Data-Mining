@@ -1,0 +1,1 @@
+{"text": "i am going to order more when these run out. i have worn mine 4times now and they are just as good as the first time i wore them...i keep the box they came in so they wont so bad quicker. YOU CAN NOT SEE THEM THROUGH A SHIRT!", "sentiment": "negative", "topics": {"0": "0.2780141", "1": "0.18929759", "3": "0.105350606", "4": "0.25182694", "6": "0.1618476"}}

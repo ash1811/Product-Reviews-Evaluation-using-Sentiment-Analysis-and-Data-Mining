@@ -1,0 +1,1 @@
+{"text": "This is a perfect size if you want something more convenient than the standard carry on that is bulky. But I found it held just as much.", "sentiment": "negative", "topics": {"0": "0.011929407", "1": "0.30641252", "2": "0.12738901", "3": "0.0119597465", "4": "0.23334585", "5": "0.011918608", "6": "0.2970449"}}

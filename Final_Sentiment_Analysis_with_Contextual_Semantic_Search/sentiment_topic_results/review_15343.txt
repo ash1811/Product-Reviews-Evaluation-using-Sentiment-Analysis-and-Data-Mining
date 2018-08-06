@@ -1,0 +1,1 @@
+{"text": "The price was reasonable.  This is a very popular style which looks good on most faces.  Terrific lenses and solid, durable frames.", "sentiment": "negative", "topics": {"0": "0.2540364", "1": "0.22144862", "2": "0.19951132", "3": "0.011003177", "4": "0.124072306", "5": "0.17893495", "6": "0.01099326"}}

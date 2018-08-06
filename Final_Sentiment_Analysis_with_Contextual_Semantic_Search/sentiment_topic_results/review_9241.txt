@@ -1,0 +1,1 @@
+{"text": "These are great slippers!  My son usually wears a 16...these just run a little big!  Loves them! Great quality and well worth the money!", "sentiment": "positive", "topics": {"0": "0.0988414", "1": "0.6578291", "3": "0.14574325", "6": "0.07227649"}}

@@ -1,0 +1,1 @@
+{"text": "Always a smooth, easy to use lock.  Great for lockers and standard uses.  I wouldn't put it on my bike, too easy to cut, but for lockers at school, the gym.  Great lock.", "sentiment": "negative", "topics": {"0": "0.2830693", "1": "0.14787629", "2": "0.07174651", "4": "0.39538825", "6": "0.086831644"}}

@@ -1,0 +1,1 @@
+{"text": "way to tight in the waste it think its suppose to make out like a tummy tuck in or something but it just makes me sick and weak feeling should not be that tight how ever very cute just keep it away from the stomach", "sentiment": "negative", "topics": {"1": "0.2811085", "2": "0.17063747", "3": "0.4433495", "5": "0.08444883"}}

@@ -1,0 +1,1 @@
+{"text": "the Birkenstock Boston Clog, aubergine, is one of the most beautiful birkenstock shoe of the more than 30 pairs I have.  I recommend this shoe to any one who wants beauty, comfort and value.", "sentiment": "negative", "topics": {"0": "0.074630626", "1": "0.074457705", "2": "0.3116371", "3": "0.1965131", "4": "0.21108605", "6": "0.12413325"}}

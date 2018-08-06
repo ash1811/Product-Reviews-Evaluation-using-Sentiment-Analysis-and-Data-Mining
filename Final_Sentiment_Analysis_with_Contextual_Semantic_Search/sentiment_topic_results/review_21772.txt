@@ -1,0 +1,1 @@
+{"text": "Ordered a large because I'm in between sizes right now and I would rather have it big and loose vs having it being to tight and small. It's a decent nightgown for the price. I think if I was really a large it would be perfect but I do believe its right for the fit.", "sentiment": "negative", "topics": {"1": "0.6161062", "3": "0.16721696", "4": "0.1928149"}}

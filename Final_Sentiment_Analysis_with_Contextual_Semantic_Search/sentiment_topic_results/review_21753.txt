@@ -1,0 +1,1 @@
+{"text": "I wear a 7 1/2 hat and I think this hat is to small for my head. I was hoping for a hat that would cover my ears but they do not.", "sentiment": "negative", "topics": {"3": "0.59230995", "6": "0.35993043"}}

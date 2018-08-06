@@ -1,0 +1,1 @@
+{"text": "I'm very happy with this gemstone bracelet. I feel as though negativity is pushed away because of the gemstones! :) it's an awesome and quite fashionable bracelet. I am one happy camper.", "sentiment": "negative", "topics": {"0": "0.120833054", "1": "0.23819658", "2": "0.19056751", "3": "0.2072511", "4": "0.22725289"}}

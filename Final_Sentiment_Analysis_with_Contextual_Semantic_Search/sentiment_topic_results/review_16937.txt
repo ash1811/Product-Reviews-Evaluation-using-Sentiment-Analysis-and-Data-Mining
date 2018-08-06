@@ -1,0 +1,1 @@
+{"text": "I ordered these one size larger than I take in Levi's or Wranglers, but they still did not fit.", "sentiment": "negative", "topics": {"0": "0.014324563", "1": "0.47550243", "2": "0.21675797", "3": "0.014359273", "4": "0.014373059", "5": "0.014313282", "6": "0.25036943"}}

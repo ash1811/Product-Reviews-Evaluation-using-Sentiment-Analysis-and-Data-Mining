@@ -1,0 +1,1 @@
+{"text": "so , im not a crook. but when im out on the town, so to speak, and i want some anonymity, cause im kinda famous, well this hat lets me go outside unnoticed by angry mobs, or fans, or the paparazi.", "sentiment": "negative", "topics": {"0": "0.068809696", "2": "0.12797964", "3": "0.31519324", "4": "0.12993436", "5": "0.15133496", "6": "0.20023215"}}

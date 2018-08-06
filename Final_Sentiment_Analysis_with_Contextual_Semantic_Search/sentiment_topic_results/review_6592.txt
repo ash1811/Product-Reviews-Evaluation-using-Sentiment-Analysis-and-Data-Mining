@@ -1,0 +1,1 @@
+{"text": "I really do love these socks. They are very comfortable and provide lots of padding on the feet, which is great for people who are on their feet a lot or lots of walking. My only complaint is that the socks are a bit pricey, but honestly worth the money.", "sentiment": "negative", "topics": {"1": "0.310266", "4": "0.09427168", "5": "0.52113587", "6": "0.054790616"}}

@@ -1,0 +1,1 @@
+{"text": "The watch was small for me. Maybe i'm just used to watches 45mm and up.But the overall buying experience from price to delivery was superb!", "sentiment": "negative", "topics": {"1": "0.35628915", "2": "0.20430459", "3": "0.093469046", "4": "0.10004961", "6": "0.22796188"}}

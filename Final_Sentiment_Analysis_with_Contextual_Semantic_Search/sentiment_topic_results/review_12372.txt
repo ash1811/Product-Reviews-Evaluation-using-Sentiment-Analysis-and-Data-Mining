@@ -1,0 +1,1 @@
+{"text": "My son loves these. They are so comfortable its all he wants to wear even in the Oregon spring rainy season.They arrived quickly would definitely purchase again.", "sentiment": "positive", "topics": {"0": "0.1978496", "1": "0.2615836", "2": "0.24107936", "3": "0.064707085", "5": "0.2188552"}}

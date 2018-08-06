@@ -1,0 +1,1 @@
+{"text": "Never a big fan of Skechers but this is my second pair for work.  Love them! Can't beat the price, and they last for quite a while.", "sentiment": "negative", "topics": {"0": "0.11122044", "1": "0.2776291", "3": "0.2477161", "4": "0.33660635"}}

@@ -1,0 +1,1 @@
+{"text": "Well i wanted to buy a pair of classic jeans so i ordered this Levis 550.I am pretty happy with them, they seem well made and they are pretty comfortable.I hope they last as much as typical Levis jeans do,", "sentiment": "positive", "topics": {"1": "0.4218076", "2": "0.23031704", "5": "0.23129757", "6": "0.09937109"}}

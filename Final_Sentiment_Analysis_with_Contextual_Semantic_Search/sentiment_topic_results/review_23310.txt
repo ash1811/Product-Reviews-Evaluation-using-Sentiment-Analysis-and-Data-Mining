@@ -1,0 +1,1 @@
+{"text": "Shoe is comfortable, has nice cushioning, very breathable. I have gotten a lot of comments on the brightness of the colors.", "sentiment": "positive", "topics": {"0": "0.012994216", "1": "0.4089759", "2": "0.24967805", "3": "0.09481568", "4": "0.11198094", "5": "0.10841339", "6": "0.013141784"}}

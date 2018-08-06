@@ -1,0 +1,1 @@
+{"text": "Ever since I discovered lilyette 10yrs ago it has been my only bra, cos it firms, holds, minimizes n shapes my boobs great, I wear 36DDD...", "sentiment": "negative", "topics": {"1": "0.10042688", "3": "0.40762627", "5": "0.105713345", "6": "0.36234358"}}

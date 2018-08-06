@@ -1,0 +1,1 @@
+{"text": "I have very flat feet and these supports do the trick. They dont make you walk on the outer edges of your feet because a super high arch support. I will but these again.", "sentiment": "negative", "topics": {"1": "0.32905576", "2": "0.10780023", "3": "0.27126506", "4": "0.2650242"}}

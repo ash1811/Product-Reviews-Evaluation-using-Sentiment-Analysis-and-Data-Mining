@@ -1,0 +1,1 @@
+{"text": "The bag is pretty small but for the price its good.  I will use it for my muzzleloader bag to hold all my gear when hunting.  I am happy with it for my purpose.", "sentiment": "negative", "topics": {"0": "0.01023947", "1": "0.518516", "2": "0.09539555", "3": "0.21113834", "4": "0.14427458", "5": "0.010231241", "6": "0.010204841"}}

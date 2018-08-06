@@ -1,0 +1,1 @@
+{"text": "Love the design and colors of these.  They are attractive and well made for a very reasonable cost.Would definitely purchase again from the seller.  Fast, efficient service and correspondence was great!", "sentiment": "negative", "topics": {"0": "0.4304217", "1": "0.3006073", "2": "0.10832355", "3": "0.07922801", "6": "0.06548763"}}

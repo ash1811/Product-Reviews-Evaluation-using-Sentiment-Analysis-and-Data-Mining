@@ -1,0 +1,1 @@
+{"text": "Not only will this turn your beef jerky wife into a prime rib, she can shine up any lack luster leather upholstery.", "sentiment": "positive", "topics": {"0": "0.11507421", "1": "0.0120472545", "2": "0.25962672", "3": "0.2298842", "4": "0.011929497", "5": "0.21711986", "6": "0.15431826"}}

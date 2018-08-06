@@ -1,0 +1,1 @@
+{"text": "good cottony feel, fit my 5 year old great. I would purchase this brand agan. Sleeves are even long enough.", "sentiment": "negative", "topics": {"1": "0.5740068", "3": "0.26111007", "6": "0.13109338"}}

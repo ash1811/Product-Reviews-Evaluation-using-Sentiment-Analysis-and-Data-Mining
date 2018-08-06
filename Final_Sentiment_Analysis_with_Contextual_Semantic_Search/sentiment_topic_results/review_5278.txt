@@ -1,0 +1,1 @@
+{"text": "These slippers are well-made, comfortable, and a real classic. The fit is perfect and the nice padding in the sole is like walking on pillows.", "sentiment": "negative", "topics": {"0": "0.10075847", "1": "0.3306686", "2": "0.1764174", "3": "0.010238442", "4": "0.010214406", "5": "0.27738076", "6": "0.09432189"}}

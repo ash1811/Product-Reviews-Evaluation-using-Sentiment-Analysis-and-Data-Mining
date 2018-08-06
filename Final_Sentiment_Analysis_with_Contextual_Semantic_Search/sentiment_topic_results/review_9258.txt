@@ -1,0 +1,1 @@
+{"text": "They Looked GREAT, but had to be returned because they were too big.Exchanged for a smaller size Rockport Eureka which is also a great looking shoe.Thus, I would say this world tour shoe is a generous fit.", "sentiment": "positive", "topics": {"0": "0.26208836", "1": "0.123100184", "2": "0.08004041", "3": "0.13882264", "4": "0.32744715", "6": "0.061340194"}}

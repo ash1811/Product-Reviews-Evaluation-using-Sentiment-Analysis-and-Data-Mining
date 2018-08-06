@@ -1,0 +1,1 @@
+{"text": "they need more breaking in time before they fit as well as my other Sketchers. I'm not sure at this time.", "sentiment": "positive", "topics": {"0": "0.014347171", "1": "0.30436537", "2": "0.25461495", "3": "0.014322142", "4": "0.014317808", "5": "0.26903605", "6": "0.12899652"}}

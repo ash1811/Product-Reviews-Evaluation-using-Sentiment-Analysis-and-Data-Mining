@@ -1,0 +1,1 @@
+{"text": "My husband is a fan of these and so am I. Since my son has been able to wear hard-bottom tennis shoes, we have purchased several pair and have never been disappointed.", "sentiment": "negative", "topics": {"0": "0.10736338", "1": "0.15888482", "2": "0.09029057", "3": "0.41570726", "4": "0.13275321", "6": "0.08603355"}}

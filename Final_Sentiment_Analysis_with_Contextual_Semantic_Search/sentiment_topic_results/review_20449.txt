@@ -1,0 +1,1 @@
+{"text": "These shoes were a gift, and the preson who received them found them to be comfortable and a good fit.Will purshase again.", "sentiment": "negative", "topics": {"0": "0.56059813", "1": "0.14378592", "2": "0.10713932", "3": "0.013005613", "4": "0.14944524", "5": "0.013038662", "6": "0.012987066"}}

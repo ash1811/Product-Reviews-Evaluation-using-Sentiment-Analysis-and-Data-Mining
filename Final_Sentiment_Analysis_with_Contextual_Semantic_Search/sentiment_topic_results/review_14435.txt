@@ -1,0 +1,1 @@
+{"text": "Way too small. Have owned a dozen pair of these and they fit perfectly. These are too small, a weird cut, definitely irregular. Very disappointing.", "sentiment": "negative", "topics": {"0": "0.11245378", "1": "0.29851156", "2": "0.010215288", "3": "0.54814225", "4": "0.010241637", "5": "0.010226814", "6": "0.010208622"}}

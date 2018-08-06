@@ -1,0 +1,1 @@
+{"text": "Being in the Sandbox, I need a cap I can throw in the wash when it gets sweat soaked and stinky. I've washed this cap more than a half dozen times and it shows no wear.", "sentiment": "negative", "topics": {"2": "0.13013211", "3": "0.3659261", "4": "0.1099602", "5": "0.30706108", "6": "0.07099383"}}

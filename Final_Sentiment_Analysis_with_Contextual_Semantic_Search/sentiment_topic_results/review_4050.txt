@@ -1,0 +1,1 @@
+{"text": "These slippers are not for wearing out to take the trash!  VERY pretty and comfortable but they do run a little short.  Because they cover several sizes it is a good idea to go bigger than you think you will need.", "sentiment": "negative", "topics": {"0": "0.11670548", "1": "0.34879774", "3": "0.08226065", "6": "0.42962956"}}

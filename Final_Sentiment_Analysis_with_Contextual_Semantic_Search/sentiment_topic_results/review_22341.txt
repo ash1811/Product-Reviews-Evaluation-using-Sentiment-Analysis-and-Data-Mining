@@ -1,0 +1,1 @@
+{"text": "Material is very good and the size is just right. This socks are made for last. They are very confortable and does not make you sweapt.", "sentiment": "negative", "topics": {"0": "0.013035366", "1": "0.013077289", "2": "0.013008991", "3": "0.3893811", "4": "0.013024781", "5": "0.39635518", "6": "0.16211726"}}

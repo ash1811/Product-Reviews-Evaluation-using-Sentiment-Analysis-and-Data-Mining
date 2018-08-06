@@ -1,0 +1,1 @@
+{"text": "I was not impress with these shoes, the are hot due to the fur, and they are not true to size.", "sentiment": "negative", "topics": {"0": "0.01788685", "1": "0.017919943", "2": "0.21198949", "3": "0.17573671", "4": "0.16978118", "5": "0.18311143", "6": "0.22357437"}}

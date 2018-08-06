@@ -1,0 +1,1 @@
+{"text": "the loved the material ... not very practical for summer, heavy duty but it was somehow tight although its size 46", "sentiment": "positive", "topics": {"0": "0.12791872", "1": "0.45397338", "2": "0.01192262", "3": "0.0119538335", "4": "0.18554552", "5": "0.011916521", "6": "0.19676937"}}

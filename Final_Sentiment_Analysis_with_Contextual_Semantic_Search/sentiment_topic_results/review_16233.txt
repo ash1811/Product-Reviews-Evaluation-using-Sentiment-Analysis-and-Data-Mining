@@ -1,0 +1,1 @@
+{"text": "I bought these slippers for my husband and he loves them. Size is perfect fit, quality is really good, much better than many similar products in store for much bigger price.", "sentiment": "negative", "topics": {"1": "0.4245089", "3": "0.1999569", "4": "0.19276412", "5": "0.07859854", "6": "0.09053478"}}

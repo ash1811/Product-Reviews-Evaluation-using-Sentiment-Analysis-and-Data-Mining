@@ -1,0 +1,1 @@
+{"text": "This is a durable hat with good fit and does what it supposed to while remaining washable.  You won't get many style points with it, but it works.", "sentiment": "negative", "topics": {"0": "0.14094327", "1": "0.40928075", "2": "0.010220227", "3": "0.010249884", "4": "0.32169372", "5": "0.010223308", "6": "0.097388856"}}

@@ -1,0 +1,1 @@
+{"text": "These we're actually smaller then I had Imagined but they are still pretty nice. Large lens and good quality frames.", "sentiment": "negative", "topics": {"0": "0.10773138", "1": "0.54697204", "2": "0.011045596", "3": "0.1662536", "4": "0.010995971", "5": "0.14595865", "6": "0.01104278"}}

@@ -1,0 +1,1 @@
+{"text": "Must have been made in China as it seems all their products are too small. The credit cards have to be forcibly inserted and require a court order to get them out of the pockets again. REALLY tight fit.", "sentiment": "negative", "topics": {"1": "0.30765527", "2": "0.073144324", "3": "0.096423335", "4": "0.07607968", "5": "0.4323628"}}

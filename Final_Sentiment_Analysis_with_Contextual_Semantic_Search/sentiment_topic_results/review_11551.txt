@@ -1,0 +1,1 @@
+{"text": "My wife loved these PJs . great material , soft and comfy. Size chart was spot on. She wears them a lot.", "sentiment": "negative", "topics": {"0": "0.010238782", "1": "0.5255563", "2": "0.1263534", "3": "0.30715004", "4": "0.010232667", "5": "0.010234209", "6": "0.010234592"}}

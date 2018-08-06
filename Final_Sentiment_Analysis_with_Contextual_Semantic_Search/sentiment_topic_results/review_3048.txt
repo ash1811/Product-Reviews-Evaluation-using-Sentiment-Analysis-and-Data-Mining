@@ -1,0 +1,1 @@
+{"text": "not many bras have ever been comfortable to me as I am a heavier top female mostly because usually for my siz u need to get wired bra then u have the bra digging into you but with these wirefree u get comfort and support", "sentiment": "negative", "topics": {"1": "0.2360787", "2": "0.2411745", "3": "0.25900745", "5": "0.15696989", "6": "0.09477266"}}

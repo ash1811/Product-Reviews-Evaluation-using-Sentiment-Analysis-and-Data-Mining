@@ -1,0 +1,1 @@
+{"text": "For the price and shipping I was disappointed. I expected a better leather and the buckles seem pretty cheap. Not what I expected from Birkenstock...", "sentiment": "negative", "topics": {"0": "0.29563096", "1": "0.011064295", "2": "0.20587349", "3": "0.24314454", "4": "0.22226337", "5": "0.011005296", "6": "0.011018013"}}

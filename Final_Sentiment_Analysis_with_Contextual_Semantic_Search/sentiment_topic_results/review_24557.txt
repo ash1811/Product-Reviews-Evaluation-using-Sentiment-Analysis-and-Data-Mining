@@ -1,0 +1,1 @@
+{"text": "They are not really true to size and feel elastic.  Like you're in a rubber band material - took time to get used to it.", "sentiment": "negative", "topics": {"0": "0.38705403", "1": "0.21968059", "6": "0.35506484"}}

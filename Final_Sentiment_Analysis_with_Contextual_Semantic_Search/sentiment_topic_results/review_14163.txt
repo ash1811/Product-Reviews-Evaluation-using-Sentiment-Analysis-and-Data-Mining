@@ -1,0 +1,1 @@
+{"text": "I love the pants, but they are not perfect, made in China? I prefer made in USA, the pockets could and should be larger. The quality is fair for the price.", "sentiment": "negative", "topics": {"0": "0.14632845", "1": "0.446091", "4": "0.26248047", "5": "0.11647689"}}

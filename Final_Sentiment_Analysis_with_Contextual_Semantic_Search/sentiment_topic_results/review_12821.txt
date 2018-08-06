@@ -1,0 +1,1 @@
+{"text": "I have not used this yet but it looks exactly as it was described, was packaged very nicely, good quality with lots of special pockets. It will be perfect for a cruise.", "sentiment": "negative", "topics": {"0": "0.09829168", "1": "0.7779822", "6": "0.08548869"}}

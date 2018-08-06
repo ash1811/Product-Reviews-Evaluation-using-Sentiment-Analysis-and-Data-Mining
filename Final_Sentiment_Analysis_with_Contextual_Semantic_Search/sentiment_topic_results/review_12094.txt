@@ -1,0 +1,1 @@
+{"text": "Love this anklet, been wearing it all summer and it is holding up well.  Nice touch for summer outfits, I recommend it.", "sentiment": "negative", "topics": {"0": "0.011031615", "1": "0.72918206", "2": "0.011023571", "3": "0.011015479", "4": "0.12595826", "5": "0.011005126", "6": "0.10078392"}}

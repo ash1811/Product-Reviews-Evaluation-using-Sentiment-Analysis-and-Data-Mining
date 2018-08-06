@@ -1,0 +1,1 @@
+{"text": "Great for those trips to the store.  These are probably the base pair of all of my Sperrys.  Over 20 pairs now and counting.", "sentiment": "negative", "topics": {"0": "0.13696167", "1": "0.6040177", "2": "0.20694675", "3": "0.013045872", "4": "0.01303056", "5": "0.013003062", "6": "0.012994457"}}

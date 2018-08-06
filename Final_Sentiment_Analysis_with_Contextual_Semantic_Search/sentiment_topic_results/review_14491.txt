@@ -1,0 +1,1 @@
+{"text": "Well this fits me well, already made clothes are difficult to please, some no qualms about this, take or leave it", "sentiment": "negative", "topics": {"0": "0.10723595", "1": "0.35697576", "2": "0.14273946", "3": "0.25474784", "4": "0.0110075865", "5": "0.011018304", "6": "0.11627509"}}

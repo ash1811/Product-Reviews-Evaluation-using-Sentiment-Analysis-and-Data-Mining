@@ -1,0 +1,1 @@
+{"text": "These are ok but they run small and after a few washings the seams are coming apart. I went back to buying the more expensive ones but for the price, you get what you pay for.", "sentiment": "negative", "topics": {"0": "0.15589397", "1": "0.3974359", "3": "0.12944785", "5": "0.18517254", "6": "0.11511803"}}

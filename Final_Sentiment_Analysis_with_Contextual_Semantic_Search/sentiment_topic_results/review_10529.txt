@@ -1,0 +1,1 @@
+{"text": "Super soft, superior quality. Just the right amount of stretch with elastic. Great weight. Difficult color to find in sport/work sock.", "sentiment": "negative", "topics": {"0": "0.09524256", "1": "0.7236457", "5": "0.071309395", "6": "0.08295963"}}

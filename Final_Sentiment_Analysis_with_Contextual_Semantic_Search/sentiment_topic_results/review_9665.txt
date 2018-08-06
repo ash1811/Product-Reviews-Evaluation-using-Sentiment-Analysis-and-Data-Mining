@@ -1,0 +1,1 @@
+{"text": "I expected a more beautiful watch and I was surprise when opened the box. I said for the price it is okay and I wear it to work only", "sentiment": "negative", "topics": {"0": "0.2302134", "1": "0.28025165", "2": "0.110468864", "3": "0.011965623", "4": "0.34320307", "5": "0.011965093", "6": "0.011932332"}}

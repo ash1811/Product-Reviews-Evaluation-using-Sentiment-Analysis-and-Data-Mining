@@ -1,0 +1,1 @@
+{"text": "Simple, comfortable and lightweight shoes. Dense fabric. Good quality rubber, soft sole. I hope that will be pleasantly worn.Delivered in a timely manner. I'm quite happy.", "sentiment": "positive", "topics": {"0": "0.068038136", "1": "0.3471328", "2": "0.0634283", "4": "0.14181118", "5": "0.28801185", "6": "0.084410615"}}

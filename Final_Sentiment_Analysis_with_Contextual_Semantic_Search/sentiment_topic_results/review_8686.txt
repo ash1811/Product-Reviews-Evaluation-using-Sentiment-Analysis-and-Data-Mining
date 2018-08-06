@@ -1,0 +1,1 @@
+{"text": "Compr&eacute; este producto desde Medellin, Colombia. Es un G Shock de buen tama&ntilde;o, no es muy peque&ntilde;o ni muy grande, tiene buenas funciones y estoy muy contento con la compras.", "sentiment": "negative", "topics": {"0": "0.11650509", "1": "0.043037325", "2": "0.15138033", "3": "0.16791716", "4": "0.51123655"}}

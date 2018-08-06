@@ -1,0 +1,1 @@
+{"text": "When you choose the right size, these overshoes are big enough, but not too big. Easy to put on, easy to take off, and protect my shoes from sand or water.", "sentiment": "positive", "topics": {"0": "0.08331115", "1": "0.22458026", "2": "0.15769675", "4": "0.37509856", "6": "0.14338055"}}

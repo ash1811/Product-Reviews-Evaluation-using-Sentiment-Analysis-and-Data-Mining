@@ -1,0 +1,1 @@
+{"text": "I love my Carhartt's shirts! These long sleeve T's are made of a durable material the is still soft and comfortable. I wear Carhartt's T's every day, whether long sleeve of short, they are great-fitting, high quality and long-lasting!", "sentiment": "positive", "topics": {"0": "0.07448838", "1": "0.51337606", "3": "0.18815532", "4": "0.11070186", "6": "0.10225873"}}

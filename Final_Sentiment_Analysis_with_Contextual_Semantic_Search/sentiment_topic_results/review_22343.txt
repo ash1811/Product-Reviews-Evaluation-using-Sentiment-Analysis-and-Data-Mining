@@ -1,0 +1,1 @@
+{"text": "Love this toesocks! Very comfortable and fits very well. Helps absorb moisture so that my toes and feet don't feel clammy/damp.", "sentiment": "negative", "topics": {"0": "0.011023581", "1": "0.31617", "2": "0.011027063", "3": "0.011022731", "4": "0.23387796", "5": "0.20168865", "6": "0.21519"}}

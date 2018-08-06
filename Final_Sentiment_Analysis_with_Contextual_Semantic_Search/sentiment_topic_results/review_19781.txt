@@ -1,0 +1,1 @@
+{"text": "My son really enjoys this watch in terms of reliabilty and capability to use as a diving watch.  He is very happy with this watch.", "sentiment": "negative", "topics": {"0": "0.14751305", "1": "0.21570374", "2": "0.28250325", "3": "0.11648922", "4": "0.144408", "5": "0.011016134", "6": "0.082366556"}}

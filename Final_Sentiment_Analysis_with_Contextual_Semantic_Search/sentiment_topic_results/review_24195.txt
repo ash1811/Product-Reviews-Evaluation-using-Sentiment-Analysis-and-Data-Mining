@@ -1,0 +1,1 @@
+{"text": "Not a good fit at all..not even close to it.  I was sized in a boutique and even after reading other reviews, there was a pretty good chance that these would have fit, but they are way, way too small.  Like two sizes.", "sentiment": "negative", "topics": {"1": "0.52774984", "5": "0.13709441", "6": "0.31018296"}}

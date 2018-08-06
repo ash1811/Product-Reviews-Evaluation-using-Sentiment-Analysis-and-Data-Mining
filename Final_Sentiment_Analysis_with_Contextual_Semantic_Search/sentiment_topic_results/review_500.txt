@@ -1,0 +1,1 @@
+{"text": "I like the loose fit and hate the jeans that are cut down in the front find them very uncomfortable this is the old style that I am use to and comfortable in", "sentiment": "negative", "topics": {"0": "0.121811315", "1": "0.52761537", "2": "0.0102218855", "3": "0.010230527", "4": "0.010256966", "5": "0.30963364", "6": "0.0102303205"}}

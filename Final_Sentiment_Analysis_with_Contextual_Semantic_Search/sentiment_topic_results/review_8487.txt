@@ -1,0 +1,1 @@
+{"text": "This pair of shoes is lightweight, has a nice fabric upper and comfortable to wear.  Very good styling as well.", "sentiment": "positive", "topics": {"0": "0.011937871", "1": "0.3809282", "2": "0.19579856", "3": "0.1426507", "4": "0.011919617", "5": "0.24476337", "6": "0.01200166"}}

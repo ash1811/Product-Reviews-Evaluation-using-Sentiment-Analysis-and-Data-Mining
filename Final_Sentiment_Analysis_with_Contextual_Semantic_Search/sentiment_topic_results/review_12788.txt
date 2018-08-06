@@ -1,0 +1,1 @@
+{"text": "Very sturdy and definitely keeps the mud and water out.  If the inside gets wet it dries without ruining the boot.  No leaks!", "sentiment": "negative", "topics": {"1": "0.24703288", "2": "0.11661026", "3": "0.41378975", "4": "0.19392996"}}

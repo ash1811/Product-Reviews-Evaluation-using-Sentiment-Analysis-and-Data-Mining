@@ -1,0 +1,1 @@
+{"text": "These shoes fits great and are very comfortable for just about anything you . I basically just use them for walking. Highly recommended!!!", "sentiment": "negative", "topics": {"0": "0.013007859", "1": "0.397226", "2": "0.33025938", "3": "0.013012734", "4": "0.013030111", "5": "0.22047496", "6": "0.012988931"}}

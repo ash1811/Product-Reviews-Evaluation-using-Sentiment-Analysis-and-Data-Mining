@@ -1,0 +1,1 @@
+{"text": "Typical golf shirts.  Bought these for my boyfriend to wear to work.  Good quality but of course it would be as these are Jerzees brand. You can't go wrong,.", "sentiment": "negative", "topics": {"0": "0.109709", "1": "0.21059978", "2": "0.07404773", "3": "0.26881003", "5": "0.32000417"}}

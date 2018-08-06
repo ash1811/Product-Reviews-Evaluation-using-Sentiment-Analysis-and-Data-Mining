@@ -1,0 +1,1 @@
+{"text": "I have been buying Dickies for work for along time. Always lasted long fit well.So far these are alright fit well seam to be as well made as when made in USA.I would Recommend.", "sentiment": "negative", "topics": {"1": "0.49820718", "2": "0.112839185", "3": "0.15722227", "4": "0.073110744", "5": "0.14558326"}}

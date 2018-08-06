@@ -1,0 +1,1 @@
+{"text": "got for my niece and she had a blast with it. the only bad this is that the little parts all get lost and now she does not have half of them.", "sentiment": "negative", "topics": {"0": "0.14092629", "1": "0.15470473", "2": "0.011927544", "3": "0.5381972", "4": "0.011909509", "5": "0.0119386595", "6": "0.13039605"}}

@@ -1,0 +1,1 @@
+{"text": "Color holds with wash.  A nice bright red, which Ilike.  Fit me fine.  I ordered a small size since I'm a small woman and the fit is fine.", "sentiment": "negative", "topics": {"1": "0.5323903", "2": "0.124898635", "3": "0.31257868"}}

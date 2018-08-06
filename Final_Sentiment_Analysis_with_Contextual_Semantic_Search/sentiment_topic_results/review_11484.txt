@@ -1,0 +1,1 @@
+{"text": "These shirts come in handy for my daily exercises. The quality is great and the material feels smooth against my skin. I bought three of these, definitely worth the money.", "sentiment": "negative", "topics": {"0": "0.3171584", "1": "0.22775176", "2": "0.06932599", "3": "0.22746107", "5": "0.14240183"}}

@@ -1,0 +1,1 @@
+{"text": "Hubby hates it when his socks fall down to his ankles. No worries here. Comfortable. Soft. Tight enough around the calves as to not fall down. He liked them so much I bought him this pack three times! Soft. Comfortable. Durable. Best socks ever!", "sentiment": "positive", "topics": {"1": "0.5507596", "3": "0.18199818", "5": "0.24676318"}}

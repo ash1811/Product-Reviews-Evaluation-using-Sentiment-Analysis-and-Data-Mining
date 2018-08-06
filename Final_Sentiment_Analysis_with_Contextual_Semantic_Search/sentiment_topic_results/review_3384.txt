@@ -1,0 +1,1 @@
+{"text": "The fabric was great, soft yet thick and durable, Not sure if the issue with the fit is the reason for the lack of support. Would not buy again, Bra's are best bought when you can try them on.", "sentiment": "negative", "topics": {"1": "0.33806118", "2": "0.05906249", "3": "0.1811113", "5": "0.34919116", "6": "0.05892812"}}

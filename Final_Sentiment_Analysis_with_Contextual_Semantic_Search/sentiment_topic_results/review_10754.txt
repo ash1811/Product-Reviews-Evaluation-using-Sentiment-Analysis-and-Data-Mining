@@ -1,0 +1,1 @@
+{"text": "Besides being too tight they were completely see through, in that case I would not wear anything, what is the point of wearing underwear then?", "sentiment": "positive", "topics": {"0": "0.13185482", "1": "0.16505583", "2": "0.45049986", "3": "0.17027761", "4": "0.06187183", "5": "0.010226795", "6": "0.01021324"}}

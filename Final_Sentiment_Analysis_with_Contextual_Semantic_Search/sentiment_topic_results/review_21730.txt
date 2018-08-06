@@ -1,0 +1,1 @@
+{"text": "I bought these in black. They fit perfectly and are very comfortable and very sturdy, no runs for me, and great product.", "sentiment": "negative", "topics": {"0": "0.013000819", "1": "0.6191969", "2": "0.013016702", "3": "0.19587816", "4": "0.012993265", "5": "0.13292614", "6": "0.01298803"}}

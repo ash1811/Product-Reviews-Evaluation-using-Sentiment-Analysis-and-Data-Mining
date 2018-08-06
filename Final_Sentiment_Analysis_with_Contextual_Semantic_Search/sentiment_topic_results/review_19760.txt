@@ -1,0 +1,1 @@
+{"text": "Got the XL and hubby is 6 3 - about 210 lbs. they fit perfect and the pockets are the perfect addition.", "sentiment": "negative", "topics": {"0": "0.095238045", "1": "0.6282663", "2": "0.010998257", "3": "0.011008564", "4": "0.01109665", "5": "0.09186055", "6": "0.15153165"}}

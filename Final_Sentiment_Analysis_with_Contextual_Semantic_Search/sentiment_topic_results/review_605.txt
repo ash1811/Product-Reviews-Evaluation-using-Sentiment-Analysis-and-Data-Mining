@@ -1,0 +1,1 @@
+{"text": "These are very attractive and well-made jeans.  They feel as if they're running just a bit smaller in the waist than my similar Lee jeans, but wearable.", "sentiment": "negative", "topics": {"0": "0.16435619", "1": "0.010218282", "2": "0.010265085", "3": "0.13698287", "4": "0.16665432", "5": "0.23908241", "6": "0.27244088"}}

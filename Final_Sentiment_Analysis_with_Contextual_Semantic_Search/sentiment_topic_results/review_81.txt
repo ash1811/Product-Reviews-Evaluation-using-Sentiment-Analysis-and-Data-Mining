@@ -1,0 +1,1 @@
+{"text": "Their bras just fit me. I love how they look, I love how they fit. No gapping, bunching, and no popover up top :)", "sentiment": "positive", "topics": {"0": "0.2326094", "1": "0.34205285", "2": "0.011928108", "3": "0.37760067", "4": "0.011962789", "5": "0.011929405", "6": "0.011916754"}}

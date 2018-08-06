@@ -1,0 +1,1 @@
+{"text": "I was getting tired of using needle-nose pliers to get the backs off my watches, so this was the perfect product for me. It was mailed quickly and is as described. I would buy from this company again.", "sentiment": "positive", "topics": {"0": "0.06897149", "1": "0.31646973", "2": "0.18409193", "4": "0.17550701", "5": "0.23986816"}}

@@ -1,0 +1,1 @@
+{"text": "Is a good pair of shoes but larger than stated size and have to see if an in sole will help?", "sentiment": "positive", "topics": {"0": "0.014316308", "1": "0.014351171", "2": "0.15709543", "3": "0.3511939", "4": "0.24625067", "5": "0.014435919", "6": "0.20235658"}}

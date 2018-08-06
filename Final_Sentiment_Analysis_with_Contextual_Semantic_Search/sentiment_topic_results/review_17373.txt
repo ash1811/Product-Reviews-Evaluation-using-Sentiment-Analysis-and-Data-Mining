@@ -1,0 +1,1 @@
+{"text": "I purchased 4 pairs for my wife, she LOVES THEM!  Comfortable, and safe to put in the dryer without them shrinking.", "sentiment": "negative", "topics": {"0": "0.011050426", "1": "0.4115666", "2": "0.011009641", "3": "0.22117034", "4": "0.3231687", "5": "0.011037514", "6": "0.010996821"}}

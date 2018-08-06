@@ -1,0 +1,1 @@
+{"text": "Like many people,  I have a latex allergy.  I spent hours looking at pictures of tshirts here for ones with a cloth label like this one advertises in the pic.  It arrived with a latex label.", "sentiment": "negative", "topics": {"0": "0.15741688", "1": "0.393213", "4": "0.2931842", "6": "0.13572021"}}

@@ -1,0 +1,1 @@
+{"text": "Fast shipping and most important &#34;Ma absolutly loves it.&#34;My mother is always cold. She wrapped this around herself and hasn't taken it off since I gave it to her.", "sentiment": "negative", "topics": {"0": "0.49350953", "1": "0.108257815", "3": "0.14432704", "4": "0.12285994", "6": "0.11418447"}}

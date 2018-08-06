@@ -1,0 +1,1 @@
+{"text": "fit perfect via the size scale. seem to be good quality, will find out how well they hold up soon. good deal for the price.", "sentiment": "negative", "topics": {"1": "0.4615908", "2": "0.10003639", "3": "0.40258515"}}

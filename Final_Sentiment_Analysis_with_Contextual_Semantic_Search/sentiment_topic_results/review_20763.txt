@@ -1,0 +1,1 @@
+{"text": "I bought these for a preschool class project and they worked just fine.  After one washing (to remove sizing, etc.), the finish was smooth enough for the children to paint easily.", "sentiment": "positive", "topics": {"1": "0.37502304", "2": "0.38046265", "3": "0.11243587", "4": "0.10944119"}}

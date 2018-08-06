@@ -1,0 +1,1 @@
+{"text": "It looked good, I like design too. But after 2 month it became junk. the color went there I do not know.", "sentiment": "negative", "topics": {"0": "0.48926884", "1": "0.24416831", "2": "0.011032039", "3": "0.011052538", "4": "0.011010045", "5": "0.011016641", "6": "0.22245154"}}

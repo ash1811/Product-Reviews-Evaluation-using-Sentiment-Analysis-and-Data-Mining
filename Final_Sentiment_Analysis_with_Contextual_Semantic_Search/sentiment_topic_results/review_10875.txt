@@ -1,0 +1,1 @@
+{"text": "The slippers are beautiful and made well. Easy to wear. White ones are beautiful but challenging. They will get dirty easily.", "sentiment": "negative", "topics": {"0": "0.010218381", "1": "0.01024309", "2": "0.19634232", "3": "0.0102255335", "4": "0.010243107", "5": "0.60456437", "6": "0.15816319"}}

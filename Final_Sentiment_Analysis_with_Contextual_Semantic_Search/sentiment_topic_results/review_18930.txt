@@ -1,0 +1,1 @@
+{"text": "It is nearly impossible to find 35&#34; waist jeans in the stores. Amazon has 35/32, and it fits!  The inky blue color is good, too", "sentiment": "positive", "topics": {"1": "0.35468072", "3": "0.21042508", "4": "0.14301446", "6": "0.26312134"}}

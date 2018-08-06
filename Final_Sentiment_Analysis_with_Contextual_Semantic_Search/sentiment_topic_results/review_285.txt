@@ -1,0 +1,1 @@
+{"text": "they arrived on time , the fit is comfortable. Its a great Summer short.", "sentiment": "negative", "topics": {"0": "0.452171", "1": "0.45846528", "2": "0.017879933", "3": "0.017870227", "4": "0.017867088", "5": "0.017888788", "6": "0.017857717"}}

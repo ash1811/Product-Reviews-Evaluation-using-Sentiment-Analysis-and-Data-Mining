@@ -1,0 +1,1 @@
+{"text": "I bought this as a birthday gift for a nephew who is a big lego fan.  While it may be a bit too old for a 5 year old, he loved it.  He's learning how to tell time, it is fun colors, and is lego - what not to love!", "sentiment": "negative", "topics": {"0": "0.20451985", "1": "0.36862215", "2": "0.245411", "4": "0.16353965"}}

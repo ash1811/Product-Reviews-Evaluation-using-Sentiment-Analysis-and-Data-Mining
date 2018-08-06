@@ -1,0 +1,1 @@
+{"text": "These shorts that my husband wears around the house are much nicer than the discount store variety.  He likes them very much.  The cloth quality is a plus.", "sentiment": "negative", "topics": {"0": "0.08816165", "1": "0.4103241", "2": "0.15006714", "3": "0.25154176", "4": "0.08197775"}}

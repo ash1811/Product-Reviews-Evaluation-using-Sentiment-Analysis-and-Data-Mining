@@ -1,0 +1,1 @@
+{"text": "I needed  these for a wedding -- arrived on time, looked great! They are excellent quality and I would buy Berkshire stockings again.", "sentiment": "positive", "topics": {"0": "0.10488353", "1": "0.33193192", "2": "0.103816465", "3": "0.010232861", "4": "0.010243528", "5": "0.42864698", "6": "0.010244689"}}

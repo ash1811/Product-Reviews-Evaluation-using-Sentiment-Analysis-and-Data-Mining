@@ -1,0 +1,1 @@
+{"text": "This is my husband's favorite work hoodie and the zipper finally gave out after years of hard wear. I ordered this as a replacement.", "sentiment": "positive", "topics": {"0": "0.32460892", "1": "0.011045525", "2": "0.119893625", "3": "0.32739642", "4": "0.19498597", "5": "0.011050051", "6": "0.011019466"}}

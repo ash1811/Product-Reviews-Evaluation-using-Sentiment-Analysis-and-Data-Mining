@@ -1,0 +1,1 @@
+{"text": "I loved this so much I bought another one. If you travel with jewelry the earrings will be on the screen, you fold it. Takes up no room in the suitcase", "sentiment": "negative", "topics": {"1": "0.6226896", "2": "0.23206821", "6": "0.107068494"}}

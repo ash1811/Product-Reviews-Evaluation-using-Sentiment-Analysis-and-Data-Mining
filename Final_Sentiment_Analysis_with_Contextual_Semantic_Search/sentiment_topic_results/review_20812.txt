@@ -1,0 +1,1 @@
+{"text": "Bought this to speed through airport security.. And it works! The TSA guards seem to really appreciate how easy it is to see everything, and it makes finding things easy in cramped airplanes.", "sentiment": "negative", "topics": {"1": "0.27805468", "2": "0.13101853", "3": "0.38743952", "4": "0.1819677"}}

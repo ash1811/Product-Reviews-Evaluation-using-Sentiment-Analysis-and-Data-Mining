@@ -1,0 +1,1 @@
+{"text": "I love this bow tie. It fits perfectly and it looks dashing, although I tend to look like a Time Lord, ventriloquist dummy, Pee Wee Herman, Bill Nye the Science Guy, etc.", "sentiment": "positive", "topics": {"1": "0.5374064", "3": "0.062007327", "4": "0.117487736", "5": "0.21179773", "6": "0.059355248"}}

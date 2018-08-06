@@ -1,0 +1,1 @@
+{"text": "No frills here. Just a basic tennis shoe. Fabric is what reebok has used for years. Comfortable and worth the money.", "sentiment": "positive", "topics": {"0": "0.011007542", "1": "0.2028063", "2": "0.13664235", "3": "0.011049166", "4": "0.14922315", "5": "0.3547889", "6": "0.1344826"}}

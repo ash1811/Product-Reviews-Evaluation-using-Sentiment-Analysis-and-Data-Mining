@@ -1,0 +1,1 @@
+{"text": "This product was purchased for my daughter for Halloween.  Most likely a one and done costume but it was a success.", "sentiment": "negative", "topics": {"0": "0.13599184", "1": "0.23106822", "2": "0.26832983", "3": "0.0142995445", "4": "0.18548116", "5": "0.1505435", "6": "0.01428591"}}

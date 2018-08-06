@@ -1,0 +1,1 @@
+{"text": "got this last week liked it so much I got 2 more.  I have about 60 invicta's have not had a bad one yet.  This one looks great and is keeping good time", "sentiment": "negative", "topics": {"0": "0.11376178", "1": "0.45272335", "3": "0.09989315", "4": "0.14118871", "6": "0.17807135"}}

@@ -1,0 +1,1 @@
+{"text": "This kind of slipper usually gives me trouble because of my very high instep but these actually fit and are wonderful. They are cozy and warm but have a really firm sole with good support.", "sentiment": "negative", "topics": {"0": "0.10720574", "1": "0.31163073", "4": "0.055476323", "5": "0.36115128", "6": "0.14858729"}}

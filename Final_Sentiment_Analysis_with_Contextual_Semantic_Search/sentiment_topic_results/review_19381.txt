@@ -1,0 +1,1 @@
+{"text": "Just what I needed for gardening.  Ordered size 7, and they fit well.  Good construction, comfortable.  Highly recommend.  Great quality for the money.", "sentiment": "positive", "topics": {"1": "0.7706013", "6": "0.18452495"}}

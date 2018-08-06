@@ -1,0 +1,1 @@
+{"text": "This was a very good buy. I use this bag for work. It is sturdy and good quality made. I recommend this product for anyone who is looking for a pretty good size tote.", "sentiment": "negative", "topics": {"1": "0.63049793", "2": "0.08079775", "3": "0.09469852", "5": "0.17012724"}}

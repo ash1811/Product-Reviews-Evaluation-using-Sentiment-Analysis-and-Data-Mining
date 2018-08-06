@@ -1,0 +1,1 @@
+{"text": "Very comfortable sandals that have lasted through the season and provide a welcome bottle opener.  Will buy another pair when they wear out.", "sentiment": "negative", "topics": {"0": "0.010213764", "1": "0.49172002", "2": "0.29035097", "3": "0.17702512", "4": "0.010224956", "5": "0.010244489", "6": "0.010220662"}}

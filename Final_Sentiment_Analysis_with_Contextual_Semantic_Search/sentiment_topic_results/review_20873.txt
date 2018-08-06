@@ -1,0 +1,1 @@
+{"text": "I liked the gold color these flip flops came in, but they ran a little large. Other than that, great shoes~", "sentiment": "negative", "topics": {"0": "0.010271407", "1": "0.3153246", "2": "0.21969447", "3": "0.12266685", "4": "0.1949402", "5": "0.12685703", "6": "0.01024543"}}

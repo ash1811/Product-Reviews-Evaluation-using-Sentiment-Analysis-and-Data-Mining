@@ -1,0 +1,1 @@
+{"text": "Timex men's T20011 is very cool,i like it.the leather is soft. I'm very happy to be wearing it.thank you so much,", "sentiment": "negative", "topics": {"0": "0.16621897", "1": "0.24865691", "2": "0.11078512", "3": "0.23212333", "4": "0.010224247", "5": "0.11357123", "6": "0.1184202"}}

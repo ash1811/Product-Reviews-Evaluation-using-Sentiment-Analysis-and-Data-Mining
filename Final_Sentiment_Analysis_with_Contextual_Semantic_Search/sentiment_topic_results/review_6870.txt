@@ -1,0 +1,1 @@
+{"text": "They srink a little when washed.  Excellant value, warm, thick and cozy.  Nice feel and well made.  Will buy more.", "sentiment": "negative", "topics": {"0": "0.116914764", "1": "0.6556702", "2": "0.18914549"}}

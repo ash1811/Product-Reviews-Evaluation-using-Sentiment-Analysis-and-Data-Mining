@@ -1,0 +1,1 @@
+{"text": "When you have it on your hands, you can feel that this jean is meant to last long. Also, remember that this is a Wrangler kind-of-sizing. It's not your regular cut and may fit smaller than intended.", "sentiment": "negative", "topics": {"1": "0.37570098", "4": "0.4708486", "6": "0.1197014"}}

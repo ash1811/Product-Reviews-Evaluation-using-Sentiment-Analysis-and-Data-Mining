@@ -1,0 +1,1 @@
+{"text": "Perfect color...not green and not army olive...One strap has very cute and understated white flowers.  Not a cheap flat flip flop...this has substance and support and well worth the $.", "sentiment": "negative", "topics": {"0": "0.08414702", "1": "0.17158918", "2": "0.23546696", "3": "0.3398614", "5": "0.109604634", "6": "0.05180014"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are okay, but not the same as the original slouch socks from the 80's-90's. These are not soft or stretchy. They are stiff & tight around the top. They don't make your feet warm.  I loved the old version much better.", "sentiment": "negative", "topics": {"1": "0.46686903", "3": "0.15858547", "4": "0.12994869", "5": "0.22412543"}}

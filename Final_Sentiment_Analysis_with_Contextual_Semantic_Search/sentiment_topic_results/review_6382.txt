@@ -1,0 +1,1 @@
+{"text": "I choose these for their thickness.  I was not disappointed.  I have only worn them once so I do not know how they will hold up but they appear well made.", "sentiment": "negative", "topics": {"0": "0.014315811", "1": "0.0144050345", "2": "0.014351073", "3": "0.4382554", "4": "0.3692241", "5": "0.014340924", "6": "0.13510765"}}

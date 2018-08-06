@@ -1,0 +1,1 @@
+{"text": "If I could, I would buy some other pairs for my daughters, but due to airlines weight restrictions, i don't buy as many as we need.This Brand is so good and their sizing has not failed.Colors are bright and nice.", "sentiment": "positive", "topics": {"0": "0.27726144", "1": "0.3484444", "3": "0.10759809", "4": "0.14748187", "5": "0.104166314"}}

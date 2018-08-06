@@ -1,0 +1,1 @@
+{"text": "These are good hiking socks. No blisters since getting these on my feet. They keep my feet warm and dry. I will likely buy more.", "sentiment": "negative", "topics": {"0": "0.21871927", "1": "0.30305213", "4": "0.35328782", "5": "0.09629024"}}

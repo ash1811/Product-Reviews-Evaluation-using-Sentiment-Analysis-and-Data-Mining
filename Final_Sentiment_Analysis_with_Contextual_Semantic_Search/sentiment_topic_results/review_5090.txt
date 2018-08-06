@@ -1,0 +1,1 @@
+{"text": "I have been wearing Birkenstock Bostons for more than 20 years. I depend on the excellent arch support. For those of us who have to wear orthopedic shoes, Birkenstocks are lifesavers.", "sentiment": "positive", "topics": {"1": "0.11354716", "2": "0.3016581", "3": "0.2770249", "4": "0.06528583", "5": "0.0910385", "6": "0.14248173"}}

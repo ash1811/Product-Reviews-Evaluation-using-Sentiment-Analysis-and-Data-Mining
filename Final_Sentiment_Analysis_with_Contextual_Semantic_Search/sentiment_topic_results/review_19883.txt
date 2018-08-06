@@ -1,0 +1,1 @@
+{"text": "I bought this for my niece and she loves to watch the fairy spinning around. it also is a distraction to leave grandmas porcelain music box alone.", "sentiment": "negative", "topics": {"0": "0.16050604", "2": "0.08296467", "3": "0.08550489", "4": "0.3560881", "5": "0.20480756", "6": "0.101111546"}}

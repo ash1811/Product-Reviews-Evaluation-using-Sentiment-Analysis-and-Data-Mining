@@ -1,0 +1,1 @@
+{"text": "A little on the Chinese side. It is g shock, in the fake Rolex sense. I would give it 4 stars cause the numbers are easy to read.", "sentiment": "negative", "topics": {"2": "0.23238789", "3": "0.40197846", "4": "0.25446805", "6": "0.08590798"}}

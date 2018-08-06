@@ -1,0 +1,1 @@
+{"text": "My wife is 67 and loves a watch that she can see and has a light.  This one is great.", "sentiment": "negative", "topics": {"0": "0.015963847", "1": "0.21605316", "2": "0.3664049", "3": "0.015912915", "4": "0.35385948", "5": "0.015915217", "6": "0.015890526"}}

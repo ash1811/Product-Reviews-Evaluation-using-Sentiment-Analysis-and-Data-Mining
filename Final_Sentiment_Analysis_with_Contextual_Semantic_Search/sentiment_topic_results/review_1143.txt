@@ -1,0 +1,1 @@
+{"text": "These earrings are exactly as pictured in size and color.  The size and design are perfect for casual /everyday wear and they have a lot of sparkle and shine.", "sentiment": "negative", "topics": {"0": "0.13147344", "1": "0.29384118", "3": "0.26242086", "4": "0.079323746", "5": "0.21383518"}}

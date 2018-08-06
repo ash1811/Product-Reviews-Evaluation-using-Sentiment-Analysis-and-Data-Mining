@@ -1,0 +1,1 @@
+{"text": "This bra is not to tight as some suggested, and I wear it under everything.  Very good support and makes my breast look nice.", "sentiment": "negative", "topics": {"0": "0.011934468", "1": "0.33863187", "2": "0.096161194", "3": "0.3907552", "4": "0.01192164", "5": "0.011927627", "6": "0.138668"}}

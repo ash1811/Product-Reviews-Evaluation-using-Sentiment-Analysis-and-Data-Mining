@@ -1,0 +1,1 @@
+{"text": "I think they're just fine for my usage. Especially with the wrap-around earpiece.I just really love them. Quite probably willbe a repeat buyer", "sentiment": "positive", "topics": {"0": "0.16673739", "1": "0.1727616", "2": "0.1762172", "3": "0.25492412", "4": "0.21147119"}}

@@ -1,0 +1,1 @@
+{"text": "This back pack is the best one I have ever had. It was so worth the price and the durability of this pack is amazing. There are so many different compartments and places to store. The roominess of the bag is also second to none.", "sentiment": "negative", "topics": {"1": "0.46984565", "2": "0.16974425", "3": "0.054852325", "4": "0.28601205"}}

@@ -1,0 +1,1 @@
+{"text": "First shoe I could wear all day.  It fit like a glove and gave me the perfert support I have been looking for.  Perfect for an office atmosphere.  Just wish they came in another color.", "sentiment": "positive", "topics": {"1": "0.2970196", "2": "0.15447725", "4": "0.23500238", "5": "0.14180914", "6": "0.15804116"}}

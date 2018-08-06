@@ -1,0 +1,1 @@
+{"text": "Fabulous fit and great dial to see at a glance plus fun to wear on a daily basis!  Check it out!", "sentiment": "negative", "topics": {"0": "0.1982355", "1": "0.15918039", "2": "0.010213705", "3": "0.010220497", "4": "0.1006319", "5": "0.35029274", "6": "0.17122526"}}

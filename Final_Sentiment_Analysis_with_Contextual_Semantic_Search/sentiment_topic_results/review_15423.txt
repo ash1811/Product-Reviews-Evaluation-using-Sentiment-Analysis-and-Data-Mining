@@ -1,0 +1,1 @@
+{"text": "This fits me better now that I lost some weight and my face got skinnier.  Before, I looked like a chipmunk with really tiny glasses on.  It even fit my 4 years old's face better than mine.", "sentiment": "positive", "topics": {"0": "0.19219266", "1": "0.37979698", "4": "0.07448911", "5": "0.09591531", "6": "0.24563962"}}

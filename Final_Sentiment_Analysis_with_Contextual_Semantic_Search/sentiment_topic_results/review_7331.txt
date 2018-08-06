@@ -1,0 +1,1 @@
+{"text": "Very good work pants.  Good fit, not bad looking, appear to be long lasting.  Not light weight summer clothing.  They also do not make my butt look big.", "sentiment": "negative", "topics": {"1": "0.7215289", "4": "0.24267633"}}

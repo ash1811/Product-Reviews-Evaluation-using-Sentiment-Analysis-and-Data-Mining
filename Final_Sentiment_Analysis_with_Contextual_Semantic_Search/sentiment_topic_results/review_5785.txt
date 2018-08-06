@@ -1,0 +1,1 @@
+{"text": "Cheaply made. It is not tagged with as advertised. I am not even sure if this is real Hanes product. It is overpriced for what you get. Not recommended.", "sentiment": "negative", "topics": {"0": "0.011023247", "1": "0.2429803", "2": "0.38521722", "3": "0.17725712", "4": "0.011000543", "5": "0.16152345", "6": "0.010998131"}}

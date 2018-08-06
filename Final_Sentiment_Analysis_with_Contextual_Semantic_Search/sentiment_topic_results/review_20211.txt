@@ -1,0 +1,1 @@
+{"text": "My son wears it to bed, need I say more?? The feet/shoe issue is strange but other than that, it's a 5 year old's dream come true", "sentiment": "negative", "topics": {"0": "0.13888308", "2": "0.09288088", "3": "0.28033143", "4": "0.15179895", "5": "0.1810134", "6": "0.14664571"}}

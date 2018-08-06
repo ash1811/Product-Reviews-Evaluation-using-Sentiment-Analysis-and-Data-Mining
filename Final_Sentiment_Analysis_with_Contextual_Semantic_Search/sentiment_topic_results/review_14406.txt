@@ -1,0 +1,1 @@
+{"text": "This is my third pair of these shoes.  I really like that they have different widths in them because I have a wide foot.  Plus, I have found that Amazon's price is the same as any of the outlets.", "sentiment": "positive", "topics": {"1": "0.3980064", "2": "0.12723376", "4": "0.25104588", "6": "0.1950557"}}

@@ -1,0 +1,1 @@
+{"text": "For the price of this set, a person can't complain. I wear it to ward off unwanted men from bugging me lol .. it works quite often enough. I have woman compliment on the rings and how they sparkle as if they were real.", "sentiment": "negative", "topics": {"1": "0.6906317", "2": "0.0768719", "3": "0.10178592", "5": "0.11025035"}}

@@ -1,0 +1,1 @@
+{"text": "levi's 501, great jean fit as expected nice color, good quality, looks great. The fabric is soft, but thick and strong, should last a long time. Fits great. i like this jean :))", "sentiment": "negative", "topics": {"1": "0.59889346", "5": "0.3079028", "6": "0.06935046"}}

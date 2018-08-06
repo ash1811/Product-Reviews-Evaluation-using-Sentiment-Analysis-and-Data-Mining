@@ -1,0 +1,1 @@
+{"text": "sock became much too small to wear again gave to my son who has a smaller foot very hard to get socks to turn right side out if pulled off the wrong way", "sentiment": "negative", "topics": {"0": "0.20583999", "2": "0.06865924", "3": "0.3082548", "5": "0.32582644", "6": "0.07630893"}}

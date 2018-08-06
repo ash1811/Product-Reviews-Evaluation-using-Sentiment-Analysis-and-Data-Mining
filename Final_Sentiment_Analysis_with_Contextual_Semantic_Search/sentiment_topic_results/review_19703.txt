@@ -1,0 +1,1 @@
+{"text": "Cheap and time worthy.Bought for a gift for teenagers that will want to wear it in the sea.  Got one for myself too", "sentiment": "negative", "topics": {"0": "0.26732457", "1": "0.013022878", "2": "0.18515506", "3": "0.16652066", "4": "0.013015557", "5": "0.18277751", "6": "0.17218381"}}

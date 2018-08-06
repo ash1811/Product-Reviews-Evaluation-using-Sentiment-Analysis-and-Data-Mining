@@ -1,0 +1,1 @@
+{"text": "I ordered this sports bra a size larger because most run small.  This fits true to size.  I don't think it would be a good running bra but it is great for walking!  I will order again but order my true size!", "sentiment": "negative", "topics": {"0": "0.15981458", "1": "0.20743097", "3": "0.4765478", "5": "0.13668579"}}

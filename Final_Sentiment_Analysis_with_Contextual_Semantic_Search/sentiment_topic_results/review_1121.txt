@@ -1,0 +1,1 @@
+{"text": "I don't know how anyone could give this pair a bad review. I guess you can't ever please some people. I, for one, am glad I purchased these earrings. It looks fabulous and the quality is much better than I would expected for a pair that costs so little. Highly recommend!", "sentiment": "negative", "topics": {"0": "0.20142901", "1": "0.64356846", "4": "0.13587692"}}

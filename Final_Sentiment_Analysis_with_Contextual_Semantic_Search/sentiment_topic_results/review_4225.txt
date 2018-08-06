@@ -1,0 +1,1 @@
+{"text": "I rodered this shoe in a 5.5w BIG GIRL and recieved and baby shoe the shoes looks like picture defintely and im sure you have seen it before however i was not able to return and get proper size at deal price.", "sentiment": "negative", "topics": {"1": "0.19181186", "2": "0.44220212", "3": "0.1700461", "4": "0.05644281", "5": "0.06532924", "6": "0.0684384"}}

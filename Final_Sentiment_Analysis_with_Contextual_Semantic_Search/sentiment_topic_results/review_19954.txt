@@ -1,0 +1,1 @@
+{"text": "Very comfortable bag with a lot of room. I have a Toshiba Satalite 15&#34; laptop and it hold it perfectly. Lots of pocket for other items and organization.", "sentiment": "negative", "topics": {"1": "0.3934169", "3": "0.25714713", "4": "0.16205168", "6": "0.15875003"}}

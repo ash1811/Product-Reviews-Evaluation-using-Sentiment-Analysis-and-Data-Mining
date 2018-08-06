@@ -1,0 +1,1 @@
+{"text": "ACORN Spa Thong Slippers are so comfortable.  I can't wait until I get home from work and can put them on.", "sentiment": "negative", "topics": {"0": "0.011030206", "1": "0.22202481", "2": "0.011003578", "3": "0.32965752", "4": "0.18562974", "5": "0.011026949", "6": "0.2296272"}}

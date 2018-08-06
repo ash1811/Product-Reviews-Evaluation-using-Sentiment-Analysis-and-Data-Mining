@@ -1,0 +1,1 @@
+{"text": "After several purchases, I'm beginning to feel that the extra $$$ for Spanx is not worth it. I think I'll stick to Flexees.", "sentiment": "negative", "topics": {"0": "0.010252788", "1": "0.38054466", "2": "0.112362854", "3": "0.3244281", "4": "0.010244816", "5": "0.010271299", "6": "0.15189548"}}

@@ -1,0 +1,1 @@
+{"text": "While not a great value, the product is excellent quality. The waistband elastic is a bit too loose for a medium size, however the drawstring can fix.", "sentiment": "negative", "topics": {"1": "0.2312396", "2": "0.19267617", "3": "0.23358725", "4": "0.075517856", "5": "0.12945148", "6": "0.1279945"}}

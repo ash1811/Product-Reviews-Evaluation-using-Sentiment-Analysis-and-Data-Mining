@@ -1,0 +1,1 @@
+{"text": "I have a problem with underwires stabbing me under the arm.  Not with the bra.  Super comfortable.  Highly recommend it.", "sentiment": "positive", "topics": {"0": "0.013025611", "1": "0.58553845", "2": "0.19779387", "3": "0.16458128", "4": "0.013025057", "5": "0.013019275", "6": "0.013016468"}}

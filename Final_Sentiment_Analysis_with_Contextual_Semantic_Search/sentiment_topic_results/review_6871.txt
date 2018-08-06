@@ -1,0 +1,1 @@
+{"text": "I purchased these as a part of my hospital bag and there is no way that these are a large.", "sentiment": "positive", "topics": {"0": "0.020429473", "1": "0.5916323", "2": "0.020452349", "3": "0.020571912", "4": "0.0205378", "5": "0.020527171", "6": "0.305849"}}

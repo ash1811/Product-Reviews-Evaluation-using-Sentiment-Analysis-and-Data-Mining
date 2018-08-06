@@ -1,0 +1,1 @@
+{"text": "Good for hiking, walking in snow and slush.  Put on a coat of quality water repellent prior to using them.", "sentiment": "negative", "topics": {"0": "0.23354033", "1": "0.13709849", "2": "0.18954326", "3": "0.10453905", "4": "0.01021853", "5": "0.3148546", "6": "0.0102057485"}}

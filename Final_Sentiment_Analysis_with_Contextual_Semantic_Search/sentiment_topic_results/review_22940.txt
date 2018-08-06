@@ -1,0 +1,1 @@
+{"text": "I purchased these shorts for my hubby and he wears them all the time. He says they are comfy and I think he looks cute in basketball shorts", "sentiment": "negative", "topics": {"0": "0.29516056", "1": "0.14770316", "2": "0.011031676", "3": "0.011040509", "4": "0.011056969", "5": "0.42508203", "6": "0.09892511"}}

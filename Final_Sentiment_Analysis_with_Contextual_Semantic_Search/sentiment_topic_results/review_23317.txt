@@ -1,0 +1,1 @@
+{"text": "Love the color combo! They fit true to size for me and they are super comfy! I don't run at all, but I do lots of walking and will see how they hold up on my long shopping mall days.", "sentiment": "negative", "topics": {"1": "0.24394564", "2": "0.0830798", "3": "0.26349863", "4": "0.08697025", "5": "0.20747237", "6": "0.10749918"}}

@@ -1,0 +1,1 @@
+{"text": "I love my bag and the quality is great. The only drawback is the lack of pockets. I bought some bags to hold shampoos, soaps and deodorant. This helped a lot. Bag is a great size even though the description says small.", "sentiment": "negative", "topics": {"0": "0.18876654", "1": "0.34846312", "3": "0.22572678", "4": "0.119199224", "6": "0.10589356"}}

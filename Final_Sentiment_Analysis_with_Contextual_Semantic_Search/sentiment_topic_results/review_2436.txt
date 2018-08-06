@@ -1,0 +1,1 @@
+{"text": "I have always liked the quality of Jockey but when I recieved these they fit a little snug. I had to switch to a different brand.", "sentiment": "positive", "topics": {"0": "0.22868298", "1": "0.35599968", "2": "0.011938815", "3": "0.14346005", "4": "0.113014735", "5": "0.011948564", "6": "0.13495515"}}

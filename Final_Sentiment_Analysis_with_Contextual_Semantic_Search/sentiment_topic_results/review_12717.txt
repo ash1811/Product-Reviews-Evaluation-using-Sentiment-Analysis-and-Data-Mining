@@ -1,0 +1,1 @@
+{"text": "They fit way too big.  I ordered a second pair in a smaller size and they were too big also.  The material and print design is excellent.", "sentiment": "negative", "topics": {"1": "0.44906822", "2": "0.08801879", "3": "0.24802044", "4": "0.10890878", "5": "0.08690667"}}

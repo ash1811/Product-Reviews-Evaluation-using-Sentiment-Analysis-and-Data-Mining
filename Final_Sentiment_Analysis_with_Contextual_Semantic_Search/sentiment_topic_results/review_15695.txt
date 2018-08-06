@@ -1,0 +1,1 @@
+{"text": "After my first pair, I will never wear anything else. Pricey but worth it. I LOOOVE THEM. My girlfriend loves them.", "sentiment": "negative", "topics": {"0": "0.3263948", "2": "0.2118872", "3": "0.42343184"}}

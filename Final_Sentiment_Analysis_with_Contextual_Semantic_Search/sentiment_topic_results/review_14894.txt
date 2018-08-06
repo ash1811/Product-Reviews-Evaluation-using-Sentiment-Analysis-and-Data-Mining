@@ -1,0 +1,1 @@
+{"text": "These are small in size but overall a great value. Italian gold, great gift for the woman in your life.", "sentiment": "negative", "topics": {"0": "0.37428817", "1": "0.33045924", "2": "0.012001832", "3": "0.012002581", "4": "0.011915638", "5": "0.012018061", "6": "0.24731445"}}

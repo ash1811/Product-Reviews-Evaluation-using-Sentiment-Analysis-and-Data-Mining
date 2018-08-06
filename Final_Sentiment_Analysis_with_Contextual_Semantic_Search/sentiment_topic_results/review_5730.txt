@@ -1,0 +1,1 @@
+{"text": "Excellent product, not thin, flimsy material but...not a super heavy shirt either, my husband loves them.  Should hold up well through many washings...", "sentiment": "positive", "topics": {"1": "0.15497115", "2": "0.17320341", "3": "0.10585176", "4": "0.21466549", "5": "0.10000476", "6": "0.24334891"}}

@@ -1,0 +1,1 @@
+{"text": "These are perfect if you walk a lot and can't wear heels at work but want to look professional.  I wear them for everything and have other colors also.  Very comfy.  Very durable.", "sentiment": "negative", "topics": {"0": "0.11228307", "1": "0.5805776", "2": "0.19111513", "4": "0.09074292"}}

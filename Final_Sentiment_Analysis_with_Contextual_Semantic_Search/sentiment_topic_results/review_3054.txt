@@ -1,0 +1,1 @@
+{"text": "Due to a loss of weight from an infection, I had to purchsse a smallersize around my midriff .I found this undergarment to be well fitted and comfortable.", "sentiment": "negative", "topics": {"0": "0.09089589", "1": "0.4790637", "4": "0.24865733", "5": "0.15273723"}}

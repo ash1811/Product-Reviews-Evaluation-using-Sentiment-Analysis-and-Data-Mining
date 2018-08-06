@@ -1,0 +1,1 @@
+{"text": "These earrings are very pretty, but they are about half the size I expected from the picture.  Nice gift which is what I bought them for.  Quality seems good.  Came quickly in a nice box. I took one star off for the small size.", "sentiment": "negative", "topics": {"0": "0.09713685", "1": "0.48166373", "2": "0.11411797", "3": "0.15303035", "6": "0.14160563"}}

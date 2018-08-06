@@ -1,0 +1,1 @@
+{"text": "So thin I couldn't believe it..Not like the ones I ordered last time..they were Hanes tagless..I think The Texas T-Shirt company has gone down hill..Cheap shirts.Not the ounces they say.These were Fruit of the Loom.", "sentiment": "negative", "topics": {"0": "0.25365838", "1": "0.33598635", "2": "0.08630366", "4": "0.13661021", "5": "0.1744201"}}

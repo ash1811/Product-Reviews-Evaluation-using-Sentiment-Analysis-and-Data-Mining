@@ -1,0 +1,1 @@
+{"text": "A candidate for Governor here is wearing the heck out of Carhartt....we call him Prince Von Carhartt. Except for that branding issue...this is a nice heavy duty hoodie!", "sentiment": "negative", "topics": {"0": "0.4028152", "1": "0.28828403", "3": "0.07832426", "4": "0.043997936", "6": "0.16968225"}}

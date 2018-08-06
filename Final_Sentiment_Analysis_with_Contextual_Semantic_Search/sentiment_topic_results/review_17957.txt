@@ -1,0 +1,1 @@
+{"text": "Very small for man and it looks good only on picture but to actually see it, its a bit disappointing. It is plain and simple. Should be priced at $20 only", "sentiment": "negative", "topics": {"0": "0.3015227", "1": "0.2954169", "2": "0.2105466", "4": "0.08414723", "6": "0.08921818"}}

@@ -1,0 +1,1 @@
+{"text": "Bought this for my 18 month baby. It feels comfortable for an all-day beach day.  The shoes are slip resistant and wash easily in the washer.***** 5x product", "sentiment": "positive", "topics": {"0": "0.37518874", "1": "0.25413838", "2": "0.1314313", "5": "0.21538764"}}

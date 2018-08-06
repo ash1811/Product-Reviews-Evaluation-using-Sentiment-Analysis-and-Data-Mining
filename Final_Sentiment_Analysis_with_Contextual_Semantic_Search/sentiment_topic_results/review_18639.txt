@@ -1,0 +1,1 @@
+{"text": "We have not washed this as I believe was recommended prior to wearing but my boyfriend has been wearing it to walk the dogs.It is a nice scarf/head cover and it looks good on him.", "sentiment": "negative", "topics": {"1": "0.5337589", "2": "0.075805105", "4": "0.20648092", "5": "0.15712112"}}

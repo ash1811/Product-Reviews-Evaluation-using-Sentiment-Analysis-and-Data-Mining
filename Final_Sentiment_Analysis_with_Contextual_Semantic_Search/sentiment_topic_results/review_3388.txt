@@ -1,0 +1,1 @@
+{"text": "The bra is comfortable! I don't think I can emphasize that more. The straps are comfy, the cups fit perfectly, the band  does not dig into my skin. I can wear them all day and the colour is so nice. Absolutely love it!", "sentiment": "negative", "topics": {"0": "0.12703641", "1": "0.42713428", "2": "0.15772437", "3": "0.114506684", "5": "0.15995179"}}

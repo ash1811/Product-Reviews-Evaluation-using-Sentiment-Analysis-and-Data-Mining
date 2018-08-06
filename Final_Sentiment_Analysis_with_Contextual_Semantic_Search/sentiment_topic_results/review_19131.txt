@@ -1,0 +1,1 @@
+{"text": "This New Balance is very comfortable and looks great! the 574 it's one of the coolest NB on the market", "sentiment": "positive", "topics": {"0": "0.013005752", "1": "0.34972462", "2": "0.17690155", "3": "0.4213711", "4": "0.013005829", "5": "0.013003078", "6": "0.012988062"}}

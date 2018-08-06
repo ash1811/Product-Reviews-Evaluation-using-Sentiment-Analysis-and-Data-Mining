@@ -1,0 +1,1 @@
+{"text": "the watch face hasnt scratched yet. she wears it all the time. &#34;Simple not complicated&#34; good quality for the price.", "sentiment": "positive", "topics": {"0": "0.011026562", "1": "0.5655993", "2": "0.112142555", "3": "0.11995411", "4": "0.011022334", "5": "0.01105371", "6": "0.16920139"}}

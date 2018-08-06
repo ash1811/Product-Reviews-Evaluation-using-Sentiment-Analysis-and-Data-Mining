@@ -1,0 +1,1 @@
+{"text": "this is a very good quality watch for the cost and the speed of delivery was exceptional.  8.99 was a great price for a ten year battery watch and water proof to three hundred meters you cant beat for that price", "sentiment": "negative", "topics": {"0": "0.08217721", "1": "0.354796", "2": "0.24529786", "3": "0.123854004", "4": "0.09330236", "6": "0.09434246"}}

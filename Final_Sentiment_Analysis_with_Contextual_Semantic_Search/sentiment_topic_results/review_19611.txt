@@ -1,0 +1,1 @@
+{"text": "I didn't expect this to be the real thing by any stretch of the imaginary when I purchased it.  But I didn't expect it to be real dollar store quality like it was. Would not recommend this to anyone.", "sentiment": "positive", "topics": {"1": "0.39625126", "2": "0.21361254", "5": "0.35826883"}}

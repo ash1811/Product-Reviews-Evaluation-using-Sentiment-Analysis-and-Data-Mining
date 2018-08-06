@@ -1,0 +1,1 @@
+{"text": "I would give it 5 stars, however (my fault) I brought the wrong size, I think. The size is a bit wired. Overall, Strong zipper, good material, and quality for the price", "sentiment": "negative", "topics": {"1": "0.3916293", "2": "0.2110035", "5": "0.084084645", "6": "0.2937433"}}

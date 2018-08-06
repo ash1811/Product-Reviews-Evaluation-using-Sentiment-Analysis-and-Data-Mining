@@ -1,0 +1,1 @@
+{"text": "Muy buen producto, de buena calidad, totalmente recomendable, dise&ntilde;o clasico, otorga felicidad y comodidad a quien lo usa.Creo que el comentario es suficiente.", "sentiment": "negative", "topics": {"0": "0.1060108", "1": "0.1473921", "2": "0.5505159", "3": "0.053789653", "5": "0.12921004"}}

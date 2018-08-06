@@ -1,0 +1,1 @@
+{"text": "Very happy with this backpack, great classic style. I'm not sure all my books from high school would fit, but they make you carry an obscene amount of books. (Not cool teachers!)", "sentiment": "negative", "topics": {"0": "0.17096165", "1": "0.18249573", "2": "0.24275269", "3": "0.15475361", "4": "0.16909203", "6": "0.0731175"}}

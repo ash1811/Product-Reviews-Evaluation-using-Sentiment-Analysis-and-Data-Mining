@@ -1,0 +1,1 @@
+{"text": "Same quality from what I remember 25 years ago! Which means this shoe will last forever! After a few wears they soften right up and are,super comfortable!", "sentiment": "negative", "topics": {"0": "0.15153295", "1": "0.39844233", "2": "0.085019805", "4": "0.12862869", "6": "0.21726465"}}

@@ -1,0 +1,1 @@
+{"text": "Had them a long time now and still use them around the house at night and to sleep in on cold nights.I'm sure I'll always want a pair of these around.", "sentiment": "negative", "topics": {"2": "0.16088498", "3": "0.645417", "6": "0.15994409"}}

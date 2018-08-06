@@ -1,0 +1,1 @@
+{"text": "I love it! I received compliments all day the first time I wore it.  I even found the matching bracelet.  Perfect.", "sentiment": "negative", "topics": {"0": "0.6206967", "4": "0.2056582", "5": "0.13544604"}}

@@ -1,0 +1,1 @@
+{"text": "The size is OK but the color was a little bit too bright for me. But no complaints", "sentiment": "positive", "topics": {"0": "0.01590284", "1": "0.70132846", "2": "0.015894331", "3": "0.21917324", "4": "0.015879873", "5": "0.015897201", "6": "0.015924085"}}

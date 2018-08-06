@@ -1,0 +1,1 @@
+{"text": "Nice colored pants that hold up well through the wash.  They pair well with the dual color wine and black top.  Very nice!", "sentiment": "negative", "topics": {"0": "0.1542103", "1": "0.44745988", "3": "0.2950616", "6": "0.07465198"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful ring! Great price! The pictures don't do it justice! BEAUTIFUL! You won't be dissatisfied at all! I love it! Dose not look like a cz!", "sentiment": "negative", "topics": {"0": "0.23333296", "1": "0.28955722", "2": "0.08324345", "5": "0.3669966"}}

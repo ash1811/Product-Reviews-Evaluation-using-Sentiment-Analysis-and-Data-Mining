@@ -1,0 +1,1 @@
+{"text": "My husband isn't into expensive watches but he IS into watches that he can SEE.  He loves the large numbers on this one and it looks as good as the more expensive brands.", "sentiment": "negative", "topics": {"0": "0.010218063", "1": "0.3400169", "2": "0.27429652", "3": "0.122854665", "4": "0.23219118", "5": "0.0102175865", "6": "0.010205101"}}

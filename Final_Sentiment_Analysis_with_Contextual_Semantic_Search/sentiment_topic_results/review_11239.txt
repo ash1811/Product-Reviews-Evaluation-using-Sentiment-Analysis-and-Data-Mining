@@ -1,0 +1,1 @@
+{"text": "Nice fit, and it's cute. The color is really nice. For the price, it's a pretty good deal. It is comfortable so wearing it to bed would work.", "sentiment": "positive", "topics": {"1": "0.75191635", "3": "0.14668284", "4": "0.0656173"}}

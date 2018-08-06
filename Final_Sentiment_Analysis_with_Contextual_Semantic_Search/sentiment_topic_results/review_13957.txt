@@ -1,0 +1,1 @@
+{"text": "Best of Pros: you never need a battery! This is just awesome.Worst of Cons: The strap isn't soft enough in my opinion.", "sentiment": "negative", "topics": {"0": "0.22396517", "1": "0.011961286", "2": "0.10167748", "3": "0.2474425", "4": "0.011939066", "5": "0.30710462", "6": "0.09590987"}}

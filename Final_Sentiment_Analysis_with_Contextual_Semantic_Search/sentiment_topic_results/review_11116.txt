@@ -1,0 +1,1 @@
+{"text": "I returned it, but only because it didn't look great on me bathe quality it good and does give good coverage though", "sentiment": "positive", "topics": {"0": "0.011940654", "1": "0.5145721", "2": "0.011922546", "3": "0.34389353", "4": "0.011976753", "5": "0.011922773", "6": "0.09377167"}}

@@ -1,0 +1,1 @@
+{"text": "This is comfy, nice and soft and the color is true to the photo.Great find, great shirt, thank you!", "sentiment": "positive", "topics": {"0": "0.011930327", "1": "0.7443858", "2": "0.19588004", "3": "0.011996571", "4": "0.011946195", "5": "0.011932711", "6": "0.011928371"}}

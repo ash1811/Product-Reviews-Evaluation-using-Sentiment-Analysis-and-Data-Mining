@@ -1,0 +1,1 @@
+{"text": "The medium size fit my frame well (I usually wear a medium in clothing) but it does twist at night. I also found that it even in winter it gets a little warm as it retains body heat well.", "sentiment": "negative", "topics": {"0": "0.079289995", "1": "0.47889063", "3": "0.23383075", "4": "0.12913127", "6": "0.06690546"}}

@@ -1,0 +1,1 @@
+{"text": "These pants are exactly what I wanted. I wear a 36 inch waist in jeans. The XL's fit very comfortably.", "sentiment": "positive", "topics": {"0": "0.18458408", "1": "0.2740416", "2": "0.12898324", "3": "0.011935097", "4": "0.011926419", "5": "0.22767504", "6": "0.16085453"}}

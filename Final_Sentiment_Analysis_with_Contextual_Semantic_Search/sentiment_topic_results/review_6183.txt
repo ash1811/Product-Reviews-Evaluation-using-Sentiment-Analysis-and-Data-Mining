@@ -1,0 +1,1 @@
+{"text": "I love these slippers for around the house. Not warm for winter but good for most of the year. Cute and pretty. Thanks.", "sentiment": "positive", "topics": {"0": "0.011961104", "1": "0.6022989", "2": "0.011914373", "3": "0.19954294", "4": "0.011941176", "5": "0.011965589", "6": "0.15037595"}}

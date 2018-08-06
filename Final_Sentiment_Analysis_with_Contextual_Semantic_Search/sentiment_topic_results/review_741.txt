@@ -1,0 +1,1 @@
+{"text": "great color selections, great length and love the draw string and low waist.  I only buy these and they always work!", "sentiment": "negative", "topics": {"0": "0.010348312", "1": "0.676209", "2": "0.2723247", "3": "0.0102555305", "4": "0.010252485", "5": "0.010252632", "6": "0.010357347"}}

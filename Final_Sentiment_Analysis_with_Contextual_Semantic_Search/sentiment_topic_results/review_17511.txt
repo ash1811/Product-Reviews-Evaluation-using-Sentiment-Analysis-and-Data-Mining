@@ -1,0 +1,1 @@
+{"text": "This watch keeps great time. I had one exactly like it and the price is so good that when my old one needed a watch battery and it was scratched up I bought this exact same one and got rid of the old one.  And that one was 6 years old.", "sentiment": "negative", "topics": {"0": "0.109482974", "1": "0.3394096", "2": "0.39722314", "5": "0.13794978"}}

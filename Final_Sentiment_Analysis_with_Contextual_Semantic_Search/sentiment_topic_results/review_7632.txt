@@ -1,0 +1,1 @@
+{"text": "This ring sparkles everywhere - not just under the right lights. Looks like a very expensive ring. Way to go whoever decided to sell these ones.", "sentiment": "positive", "topics": {"1": "0.5622396", "2": "0.13099946", "4": "0.17287861", "6": "0.107036926"}}

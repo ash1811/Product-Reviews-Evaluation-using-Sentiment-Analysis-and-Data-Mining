@@ -1,0 +1,1 @@
+{"text": "I love that these have arch support and they really last. I don't like that either my feet have grown or they're making them a bit smaller", "sentiment": "negative", "topics": {"0": "0.010225839", "1": "0.010246142", "2": "0.010246198", "3": "0.4652479", "4": "0.28306672", "5": "0.010244604", "6": "0.21072255"}}

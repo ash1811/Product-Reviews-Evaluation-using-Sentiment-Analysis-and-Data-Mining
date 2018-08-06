@@ -1,0 +1,1 @@
+{"text": "Nice sweats, a little large.  I am a medium and bought one, fits more like a large but not unmanageable.  It is nice and thick.", "sentiment": "positive", "topics": {"0": "0.010216538", "1": "0.72731197", "2": "0.136843", "3": "0.010242384", "4": "0.09491708", "5": "0.010234963", "6": "0.0102340495"}}

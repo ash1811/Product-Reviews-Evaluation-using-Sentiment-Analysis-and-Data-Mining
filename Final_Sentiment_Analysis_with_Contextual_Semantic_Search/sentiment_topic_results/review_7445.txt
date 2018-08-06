@@ -1,0 +1,1 @@
+{"text": "This is a very cute set.  It is thin and not high quality... but it is descent. Is worth the $20.", "sentiment": "positive", "topics": {"0": "0.01591876", "1": "0.44756064", "2": "0.23349312", "3": "0.25515836", "4": "0.015923958", "5": "0.01598728", "6": "0.015957884"}}

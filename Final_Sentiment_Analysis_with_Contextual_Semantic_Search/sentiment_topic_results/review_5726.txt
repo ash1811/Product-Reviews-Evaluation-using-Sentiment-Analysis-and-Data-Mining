@@ -1,0 +1,1 @@
+{"text": "These pants seem small and not true to size. I advise ordering 1 size larger than you usually take. They seem to be well made and are true to weight.", "sentiment": "positive", "topics": {"1": "0.45439017", "3": "0.25575128", "5": "0.25799534"}}

@@ -1,0 +1,1 @@
+{"text": "This bandanna is very large. Both the pattern and the color are printed, and only on one side. The fabric is fairly rough, and not particularly absorbent. Overall, disappointed.", "sentiment": "negative", "topics": {"0": "0.1027048", "1": "0.25136647", "2": "0.15039302", "3": "0.09482766", "5": "0.26420698", "6": "0.12696314"}}

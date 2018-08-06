@@ -1,0 +1,1 @@
+{"text": "NIce pair of warm winter casual slippers.  Had to exchange original pair (my normal size) for 1 size larger.  The larger size is great.", "sentiment": "negative", "topics": {"0": "0.21346503", "1": "0.44924897", "6": "0.3070382"}}

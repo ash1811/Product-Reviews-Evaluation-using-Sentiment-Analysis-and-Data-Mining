@@ -1,0 +1,1 @@
+{"text": "I use this product to protect my backpack and rain jacket on my short commute to work on my bicycle. Keeps me and my gear dry. And doesn't discolored fabric like other products I have tried.", "sentiment": "negative", "topics": {"0": "0.076616585", "1": "0.18331172", "2": "0.1969195", "4": "0.1426931", "5": "0.23646718", "6": "0.15644652"}}

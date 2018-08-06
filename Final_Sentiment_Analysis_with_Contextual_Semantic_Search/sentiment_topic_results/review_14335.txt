@@ -1,0 +1,1 @@
+{"text": "Got it for my bf and he likes it.  The lap feature in particular is nice.  Other than that it's just a good, basic watch.  The watch face was a little smaller than I expected, but nothing wrong with that.", "sentiment": "negative", "topics": {"0": "0.079433344", "1": "0.11434045", "2": "0.41547656", "3": "0.093017265", "4": "0.13624893", "6": "0.1543308"}}

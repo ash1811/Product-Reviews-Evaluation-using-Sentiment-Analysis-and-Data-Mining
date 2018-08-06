@@ -1,0 +1,1 @@
+{"text": "these can be worn in just about any shoe without removing the insole or getting too tall. my wife has pf and these help a lot.", "sentiment": "negative", "topics": {"0": "0.29046154", "1": "0.012030219", "2": "0.19367851", "3": "0.011910506", "4": "0.24847262", "5": "0.011927747", "6": "0.23151885"}}

@@ -1,0 +1,1 @@
+{"text": "I love this piece. it fits very well thanks. plan to order another later thanks it really love this piece. you'll feel sexy .", "sentiment": "negative", "topics": {"0": "0.28396556", "1": "0.24980037", "4": "0.20362699", "6": "0.23575154"}}

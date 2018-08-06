@@ -1,0 +1,1 @@
+{"text": "But the sizes run small. I am usually a 7 but had to return the size 7 for an 8. The 8's fit wonderful and they are so comfortable.", "sentiment": "negative", "topics": {"0": "0.010247129", "1": "0.5063459", "2": "0.01021983", "3": "0.035308156", "4": "0.010211455", "5": "0.010225559", "6": "0.41744193"}}

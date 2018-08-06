@@ -1,0 +1,1 @@
+{"text": "I like the straight leg fit of these jeans. I've worn many other more expensive jeans but these are just as good.", "sentiment": "positive", "topics": {"0": "0.011931665", "1": "0.37929857", "2": "0.01193492", "3": "0.16430606", "4": "0.09831895", "5": "0.16732764", "6": "0.16688214"}}

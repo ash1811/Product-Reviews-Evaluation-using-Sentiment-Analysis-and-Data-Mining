@@ -1,0 +1,1 @@
+{"text": "The shoe was comfortable, but a little &#34;low cut&#34; in the front.  I don't like showing &#34;toe cleavage&#34; when wearing flats and you could see the first two toe splits.", "sentiment": "negative", "topics": {"0": "0.18733512", "1": "0.38735047", "2": "0.19990848", "4": "0.20280536"}}

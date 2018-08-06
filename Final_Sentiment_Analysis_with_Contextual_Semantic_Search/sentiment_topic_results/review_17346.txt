@@ -1,0 +1,1 @@
+{"text": "I ordered a s, btut it is tight and feels like an extra small and it cuts off your throat.", "sentiment": "positive", "topics": {"0": "0.013015524", "1": "0.5458436", "2": "0.012999699", "3": "0.15719125", "4": "0.013000954", "5": "0.013042749", "6": "0.24490619"}}

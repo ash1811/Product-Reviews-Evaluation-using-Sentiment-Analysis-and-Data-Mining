@@ -1,0 +1,1 @@
+{"text": "No ... No ... No !!!  Not Dickies fault it was returned. It seems some customers (ME!!!) can't order the right size. But I tried them on, and although too big, the quality was there. I just ordered the correct size after my faux pas.", "sentiment": "positive", "topics": {"0": "0.07786961", "1": "0.43195292", "2": "0.182173", "3": "0.28848866"}}

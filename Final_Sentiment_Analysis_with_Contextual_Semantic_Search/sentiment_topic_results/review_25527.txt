@@ -1,0 +1,1 @@
+{"text": "it does its job well! except if you sweat it will hold the moisture inside the pockets....lol but i like it and reuse it few times", "sentiment": "negative", "topics": {"0": "0.011941541", "1": "0.32277304", "2": "0.011946517", "3": "0.13103245", "4": "0.24446227", "5": "0.01192908", "6": "0.26591507"}}

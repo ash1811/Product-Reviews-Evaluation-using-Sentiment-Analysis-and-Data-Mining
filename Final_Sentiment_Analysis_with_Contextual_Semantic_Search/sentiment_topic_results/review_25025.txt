@@ -1,0 +1,1 @@
+{"text": "They fit really good and wash well, have not lost there shape after several washing.  They have just enought spandex to hold everything in place.", "sentiment": "negative", "topics": {"0": "0.1014094", "1": "0.47321978", "2": "0.1320302", "3": "0.14742485", "4": "0.12673491"}}

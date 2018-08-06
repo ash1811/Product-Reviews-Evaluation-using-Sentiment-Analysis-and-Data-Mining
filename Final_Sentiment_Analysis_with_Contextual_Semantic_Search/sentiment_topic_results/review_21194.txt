@@ -1,0 +1,1 @@
+{"text": "Thank you very much, all excellent. Very good and qualitative. I bought this t-shirt itself. I really like the shirt. I advise everyone to buy these shirts.", "sentiment": "negative", "topics": {"1": "0.40297085", "2": "0.1977473", "3": "0.10020712", "5": "0.076896906", "6": "0.2042897"}}

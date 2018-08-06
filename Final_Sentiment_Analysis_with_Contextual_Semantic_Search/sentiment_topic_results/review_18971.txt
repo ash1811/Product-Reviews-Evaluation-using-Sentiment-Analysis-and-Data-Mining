@@ -1,0 +1,1 @@
+{"text": "It's so cozy!It's slim and thin and I won't feel hot even in summer.But the surface feels kind of rough.", "sentiment": "negative", "topics": {"0": "0.011974988", "1": "0.12155339", "2": "0.27485344", "3": "0.011952591", "4": "0.5557626", "5": "0.011954361", "6": "0.011948649"}}

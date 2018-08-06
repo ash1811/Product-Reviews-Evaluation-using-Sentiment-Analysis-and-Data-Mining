@@ -1,0 +1,1 @@
+{"text": "I like that these are silver and gold and look dressy and also casual.  But, my toes want to hang over the front edge. The straps seem to push the foot forward.", "sentiment": "negative", "topics": {"0": "0.20808804", "1": "0.17528518", "2": "0.16656935", "4": "0.17855978", "6": "0.25638348"}}

@@ -1,0 +1,1 @@
+{"text": "Delivered in only 7 days,GREAT. Unable to tell that pack contained multiple colors from picture, this would have been helpful.Also shipping was $1.00 more than noted.", "sentiment": "negative", "topics": {"0": "0.06736654", "1": "0.29887614", "2": "0.1777542", "3": "0.18300381", "4": "0.18451707", "5": "0.079483524"}}

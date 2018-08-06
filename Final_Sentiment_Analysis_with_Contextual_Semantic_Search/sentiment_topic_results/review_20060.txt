@@ -1,0 +1,1 @@
+{"text": "The children loved their packs and showed everyone.  They were well impressed with the many pockets and the colorful design.  I purchased a boy pack and a girl pack.  They were very happy with their gifts!", "sentiment": "negative", "topics": {"0": "0.082101405", "1": "0.47594965", "3": "0.07088383", "4": "0.2252705", "5": "0.07563855", "6": "0.062614724"}}

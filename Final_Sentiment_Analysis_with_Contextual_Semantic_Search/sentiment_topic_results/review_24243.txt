@@ -1,0 +1,1 @@
+{"text": "Purchased two of these watches for my grandson.  He is a lego expert and this was a challange to put togeather plus have a watch after you succeded the process of assembly.", "sentiment": "negative", "topics": {"1": "0.11566052", "2": "0.26522574", "3": "0.09895527", "4": "0.2864475", "5": "0.09500556", "6": "0.12901784"}}

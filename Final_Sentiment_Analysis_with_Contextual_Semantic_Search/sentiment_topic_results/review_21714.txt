@@ -1,0 +1,1 @@
+{"text": "Fit my five year old's head and she loved it, even though it's pretty scratchy inside.  I gave her the option of me making her a headband w/ a bow on top (post-oz makeover), or the wig, and she chose the wig.", "sentiment": "positive", "topics": {"0": "0.15390523", "1": "0.13088126", "3": "0.34633365", "5": "0.25167137", "6": "0.10573594"}}

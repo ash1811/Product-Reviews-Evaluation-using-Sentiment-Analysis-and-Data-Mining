@@ -1,0 +1,1 @@
+{"text": "I got this because I wanted a lighter watch to wear while running. I usually like watches with bigger dials and this is the biggest one I could find in my price range. Would recommend.", "sentiment": "positive", "topics": {"2": "0.24032032", "5": "0.5250471", "6": "0.2059323"}}

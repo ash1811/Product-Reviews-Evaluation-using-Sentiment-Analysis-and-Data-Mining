@@ -1,0 +1,1 @@
+{"text": "so not as comfortable as its supposed to be!! For aerosoles I am definitely disappointed, was expecting a super comfy boot!!", "sentiment": "negative", "topics": {"0": "0.012990079", "1": "0.43278697", "2": "0.013053627", "3": "0.35750043", "4": "0.15765965", "5": "0.013005796", "6": "0.01300344"}}

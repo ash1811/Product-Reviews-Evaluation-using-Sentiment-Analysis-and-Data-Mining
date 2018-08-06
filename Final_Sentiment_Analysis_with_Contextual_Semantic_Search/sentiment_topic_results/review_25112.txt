@@ -1,0 +1,1 @@
+{"text": "I bought these for my Uggs, but the soles are holding up really well, so I tried them in another brand suede boot and they were perfect! Highly recommend...", "sentiment": "positive", "topics": {"0": "0.0987674", "1": "0.5824641", "3": "0.114621945", "4": "0.1755339"}}

@@ -1,0 +1,1 @@
+{"text": "These are not for people with flat feet.  In fact, they are made for those with a high or medium arch.  I have to send them back.", "sentiment": "negative", "topics": {"0": "0.1360592", "1": "0.34394747", "2": "0.013013575", "3": "0.46781787", "4": "0.013097394", "5": "0.01301766", "6": "0.013046824"}}

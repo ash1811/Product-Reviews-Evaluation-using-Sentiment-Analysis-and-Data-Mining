@@ -1,0 +1,1 @@
+{"text": "Purchased these Sanuk sandals for a family member largely due to the past experience I've had with Sanuk shoes.They were very comfortable and durable. Just as expected.", "sentiment": "negative", "topics": {"1": "0.3892212", "2": "0.23821163", "3": "0.10869408", "5": "0.23697923"}}

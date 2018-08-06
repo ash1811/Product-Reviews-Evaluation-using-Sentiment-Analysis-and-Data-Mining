@@ -1,0 +1,1 @@
+{"text": "My husband wanted shorts with pockets for keys; he wears these to basketball every week and really likes them. They hold up well in the wash, are lightweight & breathable. We're happy with them.", "sentiment": "negative", "topics": {"0": "0.13733777", "1": "0.34185323", "3": "0.2720506", "4": "0.11156839", "6": "0.12351405"}}

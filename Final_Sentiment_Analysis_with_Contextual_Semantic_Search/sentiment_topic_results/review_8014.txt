@@ -1,0 +1,1 @@
+{"text": "Looks nothing like the product.  No definition in the color.  Returned the same day.  Had it looked like the picture I may have kept them.", "sentiment": "positive", "topics": {"0": "0.15377623", "1": "0.3529648", "3": "0.19575797", "5": "0.26879686"}}

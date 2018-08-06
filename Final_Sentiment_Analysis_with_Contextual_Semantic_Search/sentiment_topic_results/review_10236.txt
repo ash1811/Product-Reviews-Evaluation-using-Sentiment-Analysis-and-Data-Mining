@@ -1,0 +1,1 @@
+{"text": "These hoops were perfect! Good quality, sturdy and the size was exactly what I wanted. Not to small and not to big..a little smaller then a silver dime.", "sentiment": "positive", "topics": {"0": "0.08030807", "1": "0.28688353", "3": "0.50452477", "4": "0.09965777"}}

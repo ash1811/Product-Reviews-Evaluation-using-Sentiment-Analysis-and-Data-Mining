@@ -1,0 +1,1 @@
+{"text": "I got into buy Bali bras awhile ago and this on fit right and does not show goes good with a t-shirt too", "sentiment": "negative", "topics": {"0": "0.0110027585", "1": "0.49616894", "2": "0.10012499", "3": "0.20835495", "4": "0.011009361", "5": "0.011009425", "6": "0.16232954"}}

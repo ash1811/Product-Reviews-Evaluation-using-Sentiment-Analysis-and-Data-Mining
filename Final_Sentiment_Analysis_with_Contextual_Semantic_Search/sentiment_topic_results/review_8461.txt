@@ -1,0 +1,1 @@
+{"text": "They look as expected, I wish they would've been less snug on my thighs. I wore them to accent some night-wear( if you know what I mean) they tear easily during rough play. I will order again.", "sentiment": "negative", "topics": {"0": "0.23106198", "1": "0.14725891", "2": "0.09950259", "4": "0.1211347", "6": "0.38595957"}}

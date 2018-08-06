@@ -1,0 +1,1 @@
+{"text": "Surprised by the quality. The price was great and the maintenance on it is easy. The stated size were as expected. I liked them so much I bought one in each available color. I have a new respect for the Lee brand.", "sentiment": "negative", "topics": {"1": "0.51506436", "3": "0.16634291", "5": "0.10775989", "6": "0.189341"}}

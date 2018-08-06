@@ -1,0 +1,1 @@
+{"text": "Soft, sturdy, heavy without bulk. Fits like a glove, and keeps my feet warm. The combination of silk and wool keep feet warm without bulking up like some heavy wool socks do.", "sentiment": "negative", "topics": {"1": "0.34468165", "2": "0.13731472", "3": "0.15504856", "4": "0.17486894", "6": "0.17659247"}}

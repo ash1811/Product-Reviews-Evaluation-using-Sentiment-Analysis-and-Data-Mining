@@ -1,0 +1,1 @@
+{"text": "I had medium in my cart but after reading reviews I bought the large.  Nothing worse than constant digging your leotard out of your rear end!  I am 5'6, 34B and weigh 125 lbs fits perfect.", "sentiment": "positive", "topics": {"1": "0.5266332", "2": "0.07342312", "3": "0.15807658", "4": "0.04266556", "5": "0.100314744", "6": "0.09207397"}}

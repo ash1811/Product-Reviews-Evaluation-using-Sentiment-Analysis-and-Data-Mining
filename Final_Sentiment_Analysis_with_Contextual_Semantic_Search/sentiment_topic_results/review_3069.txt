@@ -1,0 +1,1 @@
+{"text": "Very pleased with these shoes really are very c'&ntilde;omodos both so they buy another pair but different color. Highly recommended.", "sentiment": "negative", "topics": {"0": "0.011936385", "1": "0.6557145", "2": "0.28462294", "3": "0.011928197", "4": "0.011925442", "5": "0.011929929", "6": "0.01194267"}}

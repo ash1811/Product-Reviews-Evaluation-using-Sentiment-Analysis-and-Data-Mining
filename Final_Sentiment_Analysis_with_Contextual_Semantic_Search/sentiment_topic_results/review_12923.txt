@@ -1,0 +1,1 @@
+{"text": "These are classic talk uggs in beautiful chestnut. Goes with everything. Love them and will wear them for many years! They fit perfectly I'm a 7 and the 7 always fits great. Very happy.", "sentiment": "negative", "topics": {"0": "0.22005033", "1": "0.34614214", "2": "0.12067905", "4": "0.29266435"}}

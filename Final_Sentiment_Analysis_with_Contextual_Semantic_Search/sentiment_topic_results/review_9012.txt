@@ -1,0 +1,1 @@
+{"text": "These are some comfortable shoes. They wear very well. Easy to put on and take off. I would buy over and over again. Skechers are one of the best wearing shoes around for me.", "sentiment": "positive", "topics": {"1": "0.52825576", "2": "0.18796723", "3": "0.12731245", "4": "0.1338287"}}

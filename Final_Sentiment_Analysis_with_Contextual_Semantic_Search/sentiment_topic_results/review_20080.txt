@@ -1,0 +1,1 @@
+{"text": "These are great. They are durrable and last him a good 4-6 months in the construction world. We buy a few pair for the year.", "sentiment": "negative", "topics": {"0": "0.1307121", "1": "0.3711912", "2": "0.1088426", "3": "0.011962408", "4": "0.35343158", "5": "0.011947838", "6": "0.0119122835"}}

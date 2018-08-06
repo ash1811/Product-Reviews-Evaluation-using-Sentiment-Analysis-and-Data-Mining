@@ -1,0 +1,1 @@
+{"text": "I have one pair of pants that are not jeans. I am retired and they are great in the winter time. No complaintws.", "sentiment": "negative", "topics": {"0": "0.014331834", "1": "0.38273653", "2": "0.014316161", "3": "0.014323629", "4": "0.5456138", "5": "0.014375975", "6": "0.014302062"}}

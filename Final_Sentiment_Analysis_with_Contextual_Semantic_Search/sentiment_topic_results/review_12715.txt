@@ -1,0 +1,1 @@
+{"text": "These slippers are well made but don't breathe very well. In warm weather my feet are uncomfortable after having them on for a short while. They'll probably be great in the winter but I expected they'd be something I could wear year-round.", "sentiment": "negative", "topics": {"0": "0.21749826", "1": "0.6239536", "5": "0.0797273", "6": "0.059255127"}}

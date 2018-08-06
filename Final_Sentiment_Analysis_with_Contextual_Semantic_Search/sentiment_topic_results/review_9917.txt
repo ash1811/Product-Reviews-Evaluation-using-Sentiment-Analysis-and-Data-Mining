@@ -1,0 +1,1 @@
+{"text": "I love this watch. It fits great and the fabric feels nice and doesn't rub or irritate your skin at all.", "sentiment": "negative", "topics": {"0": "0.01194106", "1": "0.43770906", "2": "0.10666638", "3": "0.011955272", "4": "0.011969898", "5": "0.1716682", "6": "0.24809013"}}

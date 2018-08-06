@@ -1,0 +1,1 @@
+{"text": "Excellent product. I bought these socks for me and my boyfriend and we have only good things to say about them. Keep our feet really warm. They are quite thick and fit well in our wellies or trekking shoes. We will buy some more.", "sentiment": "positive", "topics": {"1": "0.33000258", "2": "0.2033462", "5": "0.34855023", "6": "0.0993778"}}

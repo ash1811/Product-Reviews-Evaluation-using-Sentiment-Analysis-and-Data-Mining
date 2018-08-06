@@ -1,0 +1,1 @@
+{"text": "great for slip ons that move with you all over the house as you go cleaning through rooms, running outside for a minutes, going into the garage, get the mail, etc.", "sentiment": "positive", "topics": {"0": "0.098968886", "1": "0.17472324", "4": "0.08347848", "5": "0.34904927", "6": "0.27692544"}}

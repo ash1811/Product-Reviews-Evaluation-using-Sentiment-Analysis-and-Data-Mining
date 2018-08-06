@@ -1,0 +1,1 @@
+{"text": "Good quality...not too thick...not too thin...it's just right.  The size and shape fit me very well.  I'm happy with these.", "sentiment": "negative", "topics": {"0": "0.011041259", "1": "0.5122782", "2": "0.1068745", "3": "0.33677956", "4": "0.011011926", "5": "0.011007715", "6": "0.011006808"}}

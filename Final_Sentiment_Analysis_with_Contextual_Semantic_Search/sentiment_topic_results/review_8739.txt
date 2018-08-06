@@ -1,0 +1,1 @@
+{"text": "This watch is very solidly built. It has everything most of us need, and looks good and is very solid. Thumbs up !", "sentiment": "negative", "topics": {"0": "0.16979577", "1": "0.23059253", "2": "0.38365033", "3": "0.012997627", "4": "0.08431638", "5": "0.013007114", "6": "0.105640225"}}

@@ -1,0 +1,1 @@
+{"text": "It was a good fitting bra - as bras go.  I have a style that I have worn for years and it is hard for me to change!", "sentiment": "negative", "topics": {"0": "0.16742456", "1": "0.013060876", "2": "0.11799252", "3": "0.55264276", "4": "0.01311157", "5": "0.013069704", "6": "0.12269797"}}

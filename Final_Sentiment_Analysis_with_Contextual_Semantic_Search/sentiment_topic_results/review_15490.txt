@@ -1,0 +1,1 @@
+{"text": "This jacket is good size, plenty long enough, has many pockets, washes well, dries easily, stain resistant and sturdy.  Recommended!", "sentiment": "negative", "topics": {"0": "0.07956247", "1": "0.4750908", "2": "0.2210892", "3": "0.07704445", "4": "0.13032919"}}

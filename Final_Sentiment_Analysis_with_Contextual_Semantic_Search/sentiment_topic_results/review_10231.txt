@@ -1,0 +1,1 @@
+{"text": "I have been wearing this chain since it arrived and it is very fine but very strong. Perfect for delicate pendants.", "sentiment": "negative", "topics": {"0": "0.3370444", "1": "0.014364402", "2": "0.156675", "3": "0.014340365", "4": "0.21482472", "5": "0.24843971", "6": "0.014311388"}}

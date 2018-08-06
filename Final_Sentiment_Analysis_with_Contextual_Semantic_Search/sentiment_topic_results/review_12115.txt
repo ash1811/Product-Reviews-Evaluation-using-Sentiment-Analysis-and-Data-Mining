@@ -1,0 +1,1 @@
+{"text": "The fit can't be bear, and the quality is always exceptional.....and they last forever. Whenever I need casual clothes or hard outdoor work clothes, these are what I buy.", "sentiment": "negative", "topics": {"0": "0.12351888", "1": "0.27111924", "2": "0.2529535", "4": "0.19727851", "6": "0.13922554"}}

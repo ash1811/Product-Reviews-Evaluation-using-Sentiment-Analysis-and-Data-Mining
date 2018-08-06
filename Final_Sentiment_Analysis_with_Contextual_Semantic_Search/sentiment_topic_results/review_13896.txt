@@ -1,0 +1,1 @@
+{"text": "Looks good and replaces my old Seiko watch for this purpose. Definitely some uses for the chronograph while camping and better than pulling out the smart phone while you're dirty and roughing it!", "sentiment": "positive", "topics": {"2": "0.32284158", "3": "0.26641133", "4": "0.1353054", "6": "0.25276595"}}

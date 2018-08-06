@@ -1,0 +1,1 @@
+{"text": "I love how these have the lining up to my waist to secure its safely.  Never falling down :) plus its so comfortable", "sentiment": "positive", "topics": {"0": "0.36152634", "1": "0.25424546", "2": "0.014394428", "3": "0.3268058", "4": "0.014345006", "5": "0.014350194", "6": "0.014332804"}}

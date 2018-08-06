@@ -1,0 +1,1 @@
+{"text": "Liked the style, but I sent them back because they slipped up and down on my heel. too bad. shoes were nice.", "sentiment": "positive", "topics": {"0": "0.014292451", "1": "0.658672", "2": "0.13838115", "3": "0.014317574", "4": "0.014327785", "5": "0.14570858", "6": "0.014300512"}}

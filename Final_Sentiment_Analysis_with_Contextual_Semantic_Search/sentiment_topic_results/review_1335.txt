@@ -1,0 +1,1 @@
+{"text": "I am a big fan of Keen shoes, I have 5 pair.  These Newport H2's are by far the most comfortable yet.Be sure and order 1/2 size up from your regular sneaker size, they run a bit small.", "sentiment": "negative", "topics": {"0": "0.16986032", "1": "0.1246429", "2": "0.16535603", "3": "0.3992714", "4": "0.06286586", "6": "0.07148823"}}

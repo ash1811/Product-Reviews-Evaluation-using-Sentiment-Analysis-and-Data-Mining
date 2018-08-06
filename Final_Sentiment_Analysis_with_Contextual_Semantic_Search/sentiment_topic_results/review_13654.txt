@@ -1,0 +1,1 @@
+{"text": "Shoe is a great shoe....just too short for me and I think too flat for my taste.  I love the look and wish they felt better on my feet.  No pun on the shoe....I just really require a lot of support", "sentiment": "negative", "topics": {"0": "0.16792123", "1": "0.38016492", "2": "0.21216933", "4": "0.21826549"}}

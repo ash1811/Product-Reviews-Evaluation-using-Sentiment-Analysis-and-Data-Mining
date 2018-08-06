@@ -1,0 +1,1 @@
+{"text": "Rec'd this today, and it is a beautiful set.  The colors are so vibrant, and the wood makes this a toy that seems like it'll last.  We are very pleased and look forward to purchasing more of these for friends.", "sentiment": "negative", "topics": {"1": "0.27013263", "2": "0.13848896", "3": "0.2706538", "5": "0.29809958"}}

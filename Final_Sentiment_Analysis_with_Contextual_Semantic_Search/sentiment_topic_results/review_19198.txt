@@ -1,0 +1,1 @@
+{"text": "Beautiful! I ordered 2 of these rings to use on either side of my wedding ring. Colors are very visable and you can tell each color.", "sentiment": "negative", "topics": {"0": "0.117450766", "1": "0.44496498", "2": "0.010234134", "3": "0.010225664", "4": "0.15227887", "5": "0.10359933", "6": "0.16124621"}}

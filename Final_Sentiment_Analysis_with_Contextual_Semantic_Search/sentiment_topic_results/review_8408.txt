@@ -1,0 +1,1 @@
+{"text": "This is an adorable costume that fit my son just perfect. It's too bad the shoes didn't come with it.", "sentiment": "positive", "topics": {"0": "0.19739725", "1": "0.4864416", "2": "0.13021158", "3": "0.14302787", "4": "0.01430438", "5": "0.014329034", "6": "0.014288224"}}

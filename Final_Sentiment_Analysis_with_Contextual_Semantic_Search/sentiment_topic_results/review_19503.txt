@@ -1,0 +1,1 @@
+{"text": "Too big for me but loved them. I sold them to my girl friend and she can't wait for winter to come to wear them.", "sentiment": "negative", "topics": {"0": "0.011019244", "1": "0.40448663", "2": "0.28610417", "3": "0.0110522015", "4": "0.111248896", "5": "0.16508523", "6": "0.011003645"}}

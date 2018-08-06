@@ -1,0 +1,1 @@
+{"text": "These shoes are great, I live in them, and them beingwashable is fantastic. They are wearing very well andthe color is very pretty.", "sentiment": "negative", "topics": {"0": "0.18080705", "1": "0.41585797", "2": "0.27118102", "3": "0.011935671", "4": "0.096354164", "5": "0.011926208", "6": "0.011937935"}}

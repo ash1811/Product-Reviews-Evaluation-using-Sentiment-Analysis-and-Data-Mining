@@ -1,0 +1,1 @@
+{"text": "It's so big, it's just like the one I bought a the discount store,  It's living in a drawer now.", "sentiment": "positive", "topics": {"0": "0.014305772", "1": "0.6458956", "2": "0.014354505", "3": "0.12817037", "4": "0.1685888", "5": "0.014318697", "6": "0.01436622"}}

@@ -1,0 +1,1 @@
+{"text": "I ordered two other sizes before I got it right. These jeans fit her perfect and she loves them. She is top heavy and hard to fit. She loves any jeans which fit. These do. From a 1 to a 10= 10", "sentiment": "negative", "topics": {"0": "0.14403126", "1": "0.29844606", "3": "0.2676095", "4": "0.20853682", "6": "0.068341725"}}

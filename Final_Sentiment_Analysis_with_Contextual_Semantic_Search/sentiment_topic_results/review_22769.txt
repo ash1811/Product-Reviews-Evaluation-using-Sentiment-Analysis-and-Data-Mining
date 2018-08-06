@@ -1,0 +1,1 @@
+{"text": "and they look good off the job to. Great quality. Rugged enough for work or comfortable enough for play. Nice product, great price.", "sentiment": "negative", "topics": {"1": "0.7378144", "4": "0.12046817", "5": "0.108025916"}}

@@ -1,0 +1,1 @@
+{"text": "i like this bra.  it is nice on the shoulders, nice on the band width.  it's soft on the cup and a gorgeous color!", "sentiment": "negative", "topics": {"0": "0.011962558", "1": "0.47866103", "2": "0.011939074", "3": "0.17693132", "4": "0.296594", "5": "0.011948376", "6": "0.011963642"}}

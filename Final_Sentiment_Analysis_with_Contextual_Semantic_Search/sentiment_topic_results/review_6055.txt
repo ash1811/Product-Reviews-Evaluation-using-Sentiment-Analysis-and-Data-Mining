@@ -1,0 +1,1 @@
+{"text": "but i decided to give them to my mom, instead of going through the hassle of sending them back,but my mom loves them =]", "sentiment": "positive", "topics": {"0": "0.3178913", "1": "0.45174894", "2": "0.01300075", "3": "0.17831503", "4": "0.013040692", "5": "0.013011505", "6": "0.012991791"}}

@@ -1,0 +1,1 @@
+{"text": "This backpack showed it to my son for a photo and I thought hey, I bought it because I needed something to carry books to school. When I received it seemed much better than I had seen. It is of very good quality.", "sentiment": "negative", "topics": {"0": "0.2563728", "1": "0.29614076", "2": "0.14049283", "4": "0.19230296", "5": "0.10035411"}}

@@ -1,0 +1,1 @@
+{"text": "I love this angel pendant! I want one for myself! I only wish the chain was a bit longer. Other than that, I highly recommend for anyone who likes angels.", "sentiment": "negative", "topics": {"0": "0.47933316", "2": "0.15864433", "4": "0.2358771", "5": "0.10082549"}}

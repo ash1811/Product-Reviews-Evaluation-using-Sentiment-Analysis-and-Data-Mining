@@ -1,0 +1,1 @@
+{"text": "Perfect size and looks super nice!  Just make sure not to put it in the wash - spot clean if possible.", "sentiment": "positive", "topics": {"0": "0.011009821", "1": "0.54595304", "2": "0.16447031", "3": "0.10666166", "4": "0.011014486", "5": "0.011051612", "6": "0.14983906"}}

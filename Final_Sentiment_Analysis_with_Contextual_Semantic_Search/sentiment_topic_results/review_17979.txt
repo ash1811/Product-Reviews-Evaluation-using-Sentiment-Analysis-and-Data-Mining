@@ -1,0 +1,1 @@
+{"text": "This baby works as advertised and the setup instructions are easily followed (our Chinese suppliers are getting a handle on English) Great value, if the battery fails before 2023, I'll be right back to let you know about it.", "sentiment": "negative", "topics": {"1": "0.5220061", "2": "0.1343374", "3": "0.06601221", "4": "0.049621254", "6": "0.21655503"}}

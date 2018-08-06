@@ -1,0 +1,1 @@
+{"text": "These are work horse rain boots. My children are drawn to puddles like a dragon to gold. These boots make me happy. The puddles make the kids happy. Rainbow bright smiles all around", "sentiment": "negative", "topics": {"2": "0.07858181", "3": "0.37826398", "4": "0.30021396", "5": "0.14971496", "6": "0.08020976"}}

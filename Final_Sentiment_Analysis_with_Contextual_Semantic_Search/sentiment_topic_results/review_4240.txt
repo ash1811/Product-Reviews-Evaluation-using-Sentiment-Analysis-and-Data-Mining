@@ -1,0 +1,1 @@
+{"text": "I got these for my daughter and they are a bit big in size which is good since they'll last longer, but they're good quality nonetheless. Great price for them too", "sentiment": "negative", "topics": {"0": "0.106823355", "1": "0.3817554", "3": "0.12294811", "5": "0.36317515"}}

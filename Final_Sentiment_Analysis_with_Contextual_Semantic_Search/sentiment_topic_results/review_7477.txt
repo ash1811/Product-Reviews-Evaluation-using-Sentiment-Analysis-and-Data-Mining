@@ -1,0 +1,1 @@
+{"text": "I bought these jeans for my father who works outside a lot.  Wrangler is one of his favorite brands and thermal jean is no excetpion.  They are well made, very solid, and from what I can tell super warm.If you are in a cold weather a lot, they are a must.", "sentiment": "negative", "topics": {"1": "0.26632532", "3": "0.22644663", "4": "0.42108616", "6": "0.06821097"}}

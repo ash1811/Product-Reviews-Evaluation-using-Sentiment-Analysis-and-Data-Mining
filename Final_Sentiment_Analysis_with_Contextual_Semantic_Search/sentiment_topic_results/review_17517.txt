@@ -1,0 +1,1 @@
+{"text": "This watch has a clear display, easy to navigate functions, easy to operate stop watch. Light and comfortable on wrist.", "sentiment": "positive", "topics": {"0": "0.097674705", "1": "0.31916675", "2": "0.23541455", "3": "0.010225362", "4": "0.0102286665", "5": "0.16500045", "6": "0.16228949"}}

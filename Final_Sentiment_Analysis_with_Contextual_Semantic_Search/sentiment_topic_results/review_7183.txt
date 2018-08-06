@@ -1,0 +1,1 @@
+{"text": "this is  my favor Boots can say AMERICAN SENDRA . i love iti can give it 5 staris not heavynice leather", "sentiment": "negative", "topics": {"0": "0.011001901", "1": "0.011035397", "2": "0.18525314", "3": "0.15052612", "4": "0.34955204", "5": "0.011020001", "6": "0.2816114"}}

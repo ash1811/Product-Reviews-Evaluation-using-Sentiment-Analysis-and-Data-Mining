@@ -1,0 +1,1 @@
+{"text": "I order these as a gift for a friend. I knew his size and converted it using the chart. They were a bit tight at the toes.", "sentiment": "negative", "topics": {"0": "0.39693213", "1": "0.32171217", "2": "0.012018681", "3": "0.011978846", "4": "0.011968732", "5": "0.105671145", "6": "0.13971831"}}

@@ -1,0 +1,1 @@
+{"text": "Nice shorts.  I use them for sleeping.  Nice fabric weight.  I'll get more when they wear out.  Good fit for a 36 waist.", "sentiment": "negative", "topics": {"0": "0.21207558", "1": "0.4222153", "3": "0.2231717", "5": "0.11562394"}}

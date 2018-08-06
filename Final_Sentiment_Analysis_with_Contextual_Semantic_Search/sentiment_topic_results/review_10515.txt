@@ -1,0 +1,1 @@
+{"text": "These are nice socks, but to me....overpriced. I think I could find socks that were just as nice for a lot less money. I would not purchase them again for that reason alone.", "sentiment": "positive", "topics": {"0": "0.10467478", "1": "0.34704837", "5": "0.44630888", "6": "0.075123556"}}

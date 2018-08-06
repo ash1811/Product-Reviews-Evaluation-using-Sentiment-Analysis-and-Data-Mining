@@ -1,0 +1,1 @@
+{"text": "the bodystocking is soft and easy to put on, i love how it hugs all your curves, happy with this purchase, only negative is that the sleeves are actually only half sleeves but you can stretch them all the way if you'd like", "sentiment": "negative", "topics": {"1": "0.27350426", "3": "0.071691826", "4": "0.32265684", "5": "0.18857057", "6": "0.12850532"}}

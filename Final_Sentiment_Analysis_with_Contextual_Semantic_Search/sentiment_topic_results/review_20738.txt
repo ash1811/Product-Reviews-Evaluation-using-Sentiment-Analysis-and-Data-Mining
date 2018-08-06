@@ -1,0 +1,1 @@
+{"text": "The hat was a little small, but for the price we made it work.  Quality of it is so so.", "sentiment": "positive", "topics": {"0": "0.18956691", "1": "0.518357", "2": "0.015978513", "3": "0.22839642", "4": "0.015921125", "5": "0.01589817", "6": "0.015881948"}}

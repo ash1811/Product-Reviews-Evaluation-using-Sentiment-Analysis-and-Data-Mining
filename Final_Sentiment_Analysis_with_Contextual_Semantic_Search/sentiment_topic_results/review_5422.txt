@@ -1,0 +1,1 @@
+{"text": "Don't know how well this will be as it is a Christmas present for nephew.  Hopefully it will take care of him seeing he works outside.", "sentiment": "negative", "topics": {"0": "0.0119193075", "1": "0.51689476", "2": "0.011942702", "3": "0.3306977", "4": "0.10462001", "5": "0.011937053", "6": "0.011988445"}}

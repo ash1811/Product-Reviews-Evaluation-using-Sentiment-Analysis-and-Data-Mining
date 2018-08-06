@@ -1,0 +1,1 @@
+{"text": "I found the sizing actually was accurate.  These things are certainly long.  I'm 6'4 and they go to the middle or just below my knee.", "sentiment": "negative", "topics": {"0": "0.011040813", "1": "0.64022386", "2": "0.011026316", "3": "0.011032426", "4": "0.011028507", "5": "0.2151478", "6": "0.10050027"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this ring for my fiancee as a wedding band. It's beautiful and exactly what we both wanted. I had it engraved recently and it looks amazing. I can't wait to give it to my fiancee on October 15 when we get married.", "sentiment": "positive", "topics": {"0": "0.5027021", "1": "0.10944661", "3": "0.15740342", "4": "0.20998633"}}

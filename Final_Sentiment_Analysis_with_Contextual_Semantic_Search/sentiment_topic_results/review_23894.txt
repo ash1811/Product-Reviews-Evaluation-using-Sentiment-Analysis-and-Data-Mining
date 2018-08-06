@@ -1,0 +1,1 @@
+{"text": "but it is too long. During the search and order this jeans I didn't find the chart where I could see how long this jeans are.But this is ok and now i liek to wear them", "sentiment": "negative", "topics": {"1": "0.119041234", "3": "0.2141307", "4": "0.25861284", "5": "0.37953958"}}

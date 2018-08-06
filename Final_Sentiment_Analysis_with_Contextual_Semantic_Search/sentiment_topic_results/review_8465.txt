@@ -1,0 +1,1 @@
+{"text": "I love these. They are Beautiful, and my husband found them very sexy. Basic, But Beautiful. No Snags, or Rips, and comfy.", "sentiment": "negative", "topics": {"0": "0.07480685", "1": "0.011923956", "2": "0.01193367", "3": "0.18080717", "4": "0.5976737", "5": "0.0119425785", "6": "0.11091211"}}

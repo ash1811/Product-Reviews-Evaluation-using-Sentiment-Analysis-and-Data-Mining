@@ -1,0 +1,1 @@
+{"text": "How can you improve on the fit of a pair of Levis? You can't. Absolutely love that. The color on the other hand can be tricky. I don't care for the faded out used or worn look. I can never seem to find the right rinse!", "sentiment": "positive", "topics": {"1": "0.31395012", "2": "0.106125794", "3": "0.08874435", "4": "0.27907544", "5": "0.0756781", "6": "0.12991619"}}

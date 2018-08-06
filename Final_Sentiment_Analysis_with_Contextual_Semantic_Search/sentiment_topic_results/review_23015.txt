@@ -1,0 +1,1 @@
+{"text": "Reviewing it now to remove from to be reviewed queue on Amazon. They were fine at the time now I think they are too short.", "sentiment": "negative", "topics": {"0": "0.32541642", "1": "0.0144224735", "2": "0.50580823", "3": "0.014311078", "4": "0.11138336", "5": "0.014371459", "6": "0.0142870145"}}

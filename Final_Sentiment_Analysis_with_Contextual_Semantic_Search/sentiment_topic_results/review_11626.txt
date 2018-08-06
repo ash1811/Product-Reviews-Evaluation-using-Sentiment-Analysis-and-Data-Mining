@@ -1,0 +1,1 @@
+{"text": "The pant is fit me as expected my weist is 28'', the color is somewhat green and it is thin, and can wear over20C.", "sentiment": "positive", "topics": {"0": "0.011911102", "1": "0.55963004", "2": "0.18107319", "3": "0.011912894", "4": "0.10994715", "5": "0.11361737", "6": "0.011908215"}}

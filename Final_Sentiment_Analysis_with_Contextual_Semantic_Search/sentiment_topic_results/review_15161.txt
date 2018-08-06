@@ -1,0 +1,1 @@
+{"text": "comfortable shoes.  hope to get mord Dr Scholls .  love the footbed... low profile style and very up to date. not really elderly looking.  good young shoe", "sentiment": "negative", "topics": {"0": "0.22962205", "1": "0.29923946", "2": "0.17670047", "4": "0.2086227", "6": "0.071424246"}}

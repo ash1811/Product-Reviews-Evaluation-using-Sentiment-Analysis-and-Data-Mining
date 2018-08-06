@@ -1,0 +1,1 @@
+{"text": "It is difficult to find good fitting, stylish cotton socks.  These are both and they are very affordable.  I am please with my purchase.", "sentiment": "negative", "topics": {"0": "0.3570088", "1": "0.015126893", "2": "0.013001319", "3": "0.14861123", "4": "0.013052869", "5": "0.1832249", "6": "0.26997393"}}

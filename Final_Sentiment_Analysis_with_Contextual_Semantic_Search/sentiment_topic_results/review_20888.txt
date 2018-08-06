@@ -1,0 +1,1 @@
+{"text": "The pants fits perfectly, and does not pull. Buy the size you usually use. The color is spectacular. The design is simple, but looks good.", "sentiment": "positive", "topics": {"1": "0.657439", "2": "0.08927049", "6": "0.21509974"}}

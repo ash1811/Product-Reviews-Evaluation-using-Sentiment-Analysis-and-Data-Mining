@@ -1,0 +1,1 @@
+{"text": "My high school daughter loves this backpack & selected it because her college siblings love theirs.  Well-made, fair price & the right size.", "sentiment": "positive", "topics": {"0": "0.15890737", "1": "0.114278816", "2": "0.39720082", "4": "0.18019709", "6": "0.13148227"}}

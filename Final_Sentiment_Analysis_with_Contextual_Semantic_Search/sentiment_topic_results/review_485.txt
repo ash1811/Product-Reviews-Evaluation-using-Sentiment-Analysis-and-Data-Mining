@@ -1,0 +1,1 @@
+{"text": "What can I say.  These are my favorite brand of jeans and these were at a good price and delivered quickly.", "sentiment": "negative", "topics": {"0": "0.015939794", "1": "0.015976857", "2": "0.14798246", "3": "0.17547674", "4": "0.5107853", "5": "0.015994959", "6": "0.1178439"}}

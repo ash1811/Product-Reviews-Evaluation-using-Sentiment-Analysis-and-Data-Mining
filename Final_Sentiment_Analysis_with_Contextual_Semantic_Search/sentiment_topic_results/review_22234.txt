@@ -1,0 +1,1 @@
+{"text": "I have problems with my toes while running. They get blistered and moisture causes me to will lose toenails.These socks seperate my toes preventing blisters and moisture.", "sentiment": "negative", "topics": {"0": "0.07859033", "1": "0.23422039", "2": "0.14889176", "3": "0.10170225", "4": "0.13954127", "5": "0.21720639", "6": "0.079847634"}}

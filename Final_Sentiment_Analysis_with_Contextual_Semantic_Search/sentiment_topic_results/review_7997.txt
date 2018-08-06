@@ -1,0 +1,1 @@
+{"text": "I can't walk around the house in socks this winter due to topical toe medication, these are what I needed and very comfortable.", "sentiment": "positive", "topics": {"0": "0.010998277", "1": "0.56746876", "2": "0.011002975", "3": "0.18646955", "4": "0.010992944", "5": "0.20202701", "6": "0.011040502"}}

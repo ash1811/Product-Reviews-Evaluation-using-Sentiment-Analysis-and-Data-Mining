@@ -1,0 +1,1 @@
+{"text": "These are attractive shoes.  It took a while for the shoes to break in and fit properly, but now they are comfortable and fit well.", "sentiment": "negative", "topics": {"0": "0.012992198", "1": "0.37143922", "2": "0.33073083", "3": "0.01316778", "4": "0.08214112", "5": "0.012994692", "6": "0.17653415"}}

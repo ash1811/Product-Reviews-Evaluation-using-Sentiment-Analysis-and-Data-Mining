@@ -1,0 +1,1 @@
+{"text": "I have a hard time finding a good fitting pair of jeans that doesn't feel like they bind. I will keep looking.", "sentiment": "negative", "topics": {"0": "0.41213563", "1": "0.011033295", "2": "0.011022787", "3": "0.53271025", "4": "0.011020276", "5": "0.0110376235", "6": "0.011040147"}}

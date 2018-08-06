@@ -1,0 +1,1 @@
+{"text": "This is a super comfy slipper with real sheepskin inside. The sole is not too clunky but still perfect for a quick trip outside or to the corner store. Can't live without them!", "sentiment": "negative", "topics": {"1": "0.361743", "2": "0.2356368", "3": "0.2480121", "4": "0.05175191", "6": "0.08853206"}}

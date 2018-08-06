@@ -1,0 +1,1 @@
+{"text": "These jeans work for my teenage son. He wears them often and walks with an extra pep in his step when he's rockin them.", "sentiment": "negative", "topics": {"0": "0.15220721", "1": "0.24180119", "2": "0.010251129", "3": "0.41059935", "4": "0.010226823", "5": "0.010271588", "6": "0.1646427"}}

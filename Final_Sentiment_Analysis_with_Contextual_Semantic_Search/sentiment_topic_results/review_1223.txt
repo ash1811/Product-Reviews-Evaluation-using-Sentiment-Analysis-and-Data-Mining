@@ -1,0 +1,1 @@
+{"text": "Good fit for my long legged husband. He is 6'-4&#34; and230lbs. Material is thick and comfy. He likes them a lot.", "sentiment": "negative", "topics": {"0": "0.011011132", "1": "0.5299295", "2": "0.3193742", "3": "0.011011624", "4": "0.10661929", "5": "0.011023094", "6": "0.011031164"}}

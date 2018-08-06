@@ -1,0 +1,1 @@
+{"text": "The beads were not the length and the quality I expected.  I would not recommend the product to others.  I found it to be something for little girls to play with not something an adult would wear to a speakeasy party", "sentiment": "positive", "topics": {"0": "0.1734048", "1": "0.54136646", "4": "0.08864291", "5": "0.17509751"}}

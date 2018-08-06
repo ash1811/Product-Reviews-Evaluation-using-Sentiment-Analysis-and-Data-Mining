@@ -1,0 +1,1 @@
+{"text": "\"CAME VERY QUICKLY. SLIM SMOOTH AND PLENTY OF SPACE FOR FOLDED BILLS AND CARDS. NICE!!!\"", "sentiment": "negative", "topics": {"0": "0.2927724", "1": "0.1940446", "2": "0.33375356", "3": "0.013018039", "4": "0.14020155", "5": "0.01319069", "6": "0.013019141"}}

@@ -1,0 +1,1 @@
+{"text": "What can I say? These shoes are classic, and have great quality. Not for people with wide feet though. I would say if your foot is other than slender you might want to find another shoe. With that in mind it is a nice shoe.", "sentiment": "negative", "topics": {"1": "0.32719624", "2": "0.27463627", "4": "0.20479228", "6": "0.17384486"}}

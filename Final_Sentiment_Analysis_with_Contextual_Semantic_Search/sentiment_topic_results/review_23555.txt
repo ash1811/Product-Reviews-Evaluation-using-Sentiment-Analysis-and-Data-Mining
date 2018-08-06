@@ -1,0 +1,1 @@
+{"text": "This was purchased as a gift for a three year old boy, and happily he likes it. Unfortunately, I did not: the set seems really flimsy and cheap: I'd be surprised if they were all still in one piece.", "sentiment": "negative", "topics": {"0": "0.18110317", "1": "0.36819664", "3": "0.15028945", "6": "0.28084916"}}

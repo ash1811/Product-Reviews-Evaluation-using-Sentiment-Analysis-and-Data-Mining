@@ -1,0 +1,1 @@
+{"text": "These are one of the few underwear that take washings well and last as I would expect.  Good coverage without being &#34;baggy&#34;.", "sentiment": "positive", "topics": {"0": "0.011031986", "1": "0.42547956", "2": "0.17489356", "3": "0.17909701", "4": "0.011039569", "5": "0.18744129", "6": "0.011017001"}}

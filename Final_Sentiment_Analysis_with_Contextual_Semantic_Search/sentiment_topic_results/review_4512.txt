@@ -1,0 +1,1 @@
+{"text": "At $26.99 it is really a bargain. The same Lee jeans is equivalent to $51.00 in my country. Same quality. Fitting is good and as described. Really satisfied with this buy and will buy more in the future.", "sentiment": "negative", "topics": {"1": "0.47481245", "2": "0.072324775", "4": "0.103867255", "5": "0.1370358", "6": "0.19606012"}}

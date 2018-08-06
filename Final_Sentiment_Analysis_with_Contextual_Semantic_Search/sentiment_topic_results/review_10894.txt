@@ -1,0 +1,1 @@
+{"text": "I am glad I read the reviews before ordering.  These slippers are nice but run small.  I wear an 8 1/2 - 9 shoe and I ordered the x-large.  The fit fine.  So order bigger than you expect.", "sentiment": "negative", "topics": {"0": "0.06323944", "1": "0.26571798", "2": "0.11659969", "3": "0.30250064", "5": "0.101558626", "6": "0.14357051"}}

@@ -1,0 +1,1 @@
+{"text": "RayBan has been one of the leaders of sun glasses for years, I'd rate them up with the big dogs. They look like the kind our war hero's are wearing", "sentiment": "negative", "topics": {"0": "0.16424032", "1": "0.18517648", "2": "0.19997913", "3": "0.23117737", "5": "0.12687154", "6": "0.08414466"}}

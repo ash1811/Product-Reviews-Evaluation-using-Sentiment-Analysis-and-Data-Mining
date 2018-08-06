@@ -1,0 +1,1 @@
+{"text": "These boy shorts are cute and fun. They have a nice lace edging and wash well with a dark load.", "sentiment": "negative", "topics": {"0": "0.17735912", "1": "0.3526291", "2": "0.011924741", "3": "0.01193189", "4": "0.011929964", "5": "0.31241092", "6": "0.12181424"}}

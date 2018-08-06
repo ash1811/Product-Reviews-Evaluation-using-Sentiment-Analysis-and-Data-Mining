@@ -1,0 +1,1 @@
+{"text": "in the internet picture it was not looks with green light. in day light it has green light. I thought it will be dark blue .", "sentiment": "negative", "topics": {"0": "0.5175778", "1": "0.011048903", "2": "0.19250843", "3": "0.24584182", "4": "0.011002191", "5": "0.011015756", "6": "0.011005057"}}

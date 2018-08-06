@@ -1,0 +1,1 @@
+{"text": "My husband wears a watch every day and he is so pleased with this watch.  At first, the band seemed a bit tight but it expanded enough so it is very comfortable.  He likes the large face and the light.  Easy to see.", "sentiment": "positive", "topics": {"1": "0.26094997", "2": "0.15062617", "4": "0.20854111", "5": "0.36031577"}}

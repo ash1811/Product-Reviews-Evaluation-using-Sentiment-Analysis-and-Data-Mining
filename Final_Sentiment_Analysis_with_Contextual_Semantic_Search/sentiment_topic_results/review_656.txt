@@ -1,0 +1,1 @@
+{"text": "Great slippers. Handsome, comfortable, casual, strong and good quality. They look classy and casual with all lounging clothes and have decent soles to run outside and do little chores, too.", "sentiment": "positive", "topics": {"0": "0.13916884", "1": "0.4658205", "2": "0.1281416", "4": "0.13066824", "6": "0.12250631"}}

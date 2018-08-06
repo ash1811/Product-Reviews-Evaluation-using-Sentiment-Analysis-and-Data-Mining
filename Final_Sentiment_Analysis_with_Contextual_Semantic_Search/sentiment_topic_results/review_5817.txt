@@ -1,0 +1,1 @@
+{"text": "Quality shirt at a fair price. Not a flimsy thin material, heavy duty good for activities. I use it for coaching, makes me look slimmer which is no easy task!", "sentiment": "positive", "topics": {"1": "0.47256243", "3": "0.17272723", "4": "0.09768792", "6": "0.2344141"}}

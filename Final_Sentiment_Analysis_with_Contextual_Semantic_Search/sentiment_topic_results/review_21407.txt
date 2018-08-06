@@ -1,0 +1,1 @@
+{"text": "They are not second hand. I cant stand pants where the lines on the legs ate off. These dont & they fit nicely on husband.", "sentiment": "positive", "topics": {"0": "0.096321024", "1": "0.509343", "2": "0.2572307", "3": "0.010231848", "4": "0.10643376", "5": "0.010221267", "6": "0.010218364"}}

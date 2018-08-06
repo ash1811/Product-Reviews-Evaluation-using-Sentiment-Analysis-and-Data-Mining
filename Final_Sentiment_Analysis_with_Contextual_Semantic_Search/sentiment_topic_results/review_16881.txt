@@ -1,0 +1,1 @@
+{"text": "But sort of baggy, I wear size 14 jeans and got the 1x due to the size chart but I could have gotten my reg large and they would have been perfect. No need to go up a size", "sentiment": "positive", "topics": {"3": "0.22075018", "4": "0.18174282", "5": "0.2241953", "6": "0.35279453"}}

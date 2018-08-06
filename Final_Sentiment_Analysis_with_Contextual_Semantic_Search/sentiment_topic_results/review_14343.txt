@@ -1,0 +1,1 @@
+{"text": "Hubby has shoes over 40 years old, he is so proud of them. It was great that he found the perfect polish!", "sentiment": "negative", "topics": {"0": "0.1963893", "1": "0.011963122", "2": "0.21357729", "3": "0.20456569", "4": "0.011948182", "5": "0.23067242", "6": "0.13088398"}}

@@ -1,0 +1,1 @@
+{"text": "Great for my daughter. She likes it a lot. She likes the back of the hat, she says that it protects her neck very well.", "sentiment": "negative", "topics": {"0": "0.011955519", "1": "0.3607805", "2": "0.011959501", "3": "0.357496", "4": "0.011919704", "5": "0.011977422", "6": "0.23391135"}}

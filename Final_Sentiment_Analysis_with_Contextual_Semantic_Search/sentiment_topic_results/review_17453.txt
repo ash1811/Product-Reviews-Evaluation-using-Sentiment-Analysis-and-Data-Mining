@@ -1,0 +1,1 @@
+{"text": "The shorts fit my husband just great. They have a comfortable fit for him, (even though he says he needs a smaller size). They fit him just right. And what's really great is the price. We will be ordering more of these shorts.", "sentiment": "positive", "topics": {"0": "0.17393135", "1": "0.4424677", "4": "0.21994075", "6": "0.1441027"}}

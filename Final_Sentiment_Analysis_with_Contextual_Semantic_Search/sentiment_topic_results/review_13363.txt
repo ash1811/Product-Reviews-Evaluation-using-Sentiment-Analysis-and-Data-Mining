@@ -1,0 +1,1 @@
+{"text": "My brother gave me this watch when I became a paramedic.  I love it BUT it needs to be reset to the correct time way too often and the local jewelers can't fix that problem.  It has to be sent back to Seiko.", "sentiment": "negative", "topics": {"0": "0.18566637", "1": "0.09881746", "2": "0.23979521", "3": "0.096388996", "4": "0.16651185", "6": "0.20599808"}}

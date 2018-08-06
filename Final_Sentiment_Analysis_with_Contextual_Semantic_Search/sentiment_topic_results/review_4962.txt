@@ -1,0 +1,1 @@
+{"text": "I love the way they fit. I originally ordered a 40 but returned them for a 39 because they looked a little big on my feet.", "sentiment": "negative", "topics": {"0": "0.12385357", "1": "0.32691604", "2": "0.0955039", "3": "0.011035401", "4": "0.33807576", "5": "0.09356053", "6": "0.0110547785"}}

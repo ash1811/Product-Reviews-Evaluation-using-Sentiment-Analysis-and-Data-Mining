@@ -1,0 +1,1 @@
+{"text": "good weight to the pant but the sizeing is bad , too long and very big in the leg and backside department", "sentiment": "negative", "topics": {"0": "0.013014326", "1": "0.70863056", "2": "0.013091713", "3": "0.0130117405", "4": "0.013001911", "5": "0.013014068", "6": "0.22623563"}}

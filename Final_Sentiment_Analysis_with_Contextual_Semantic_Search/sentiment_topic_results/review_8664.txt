@@ -1,0 +1,1 @@
+{"text": "Had these watches since the early '80's.  Still like the Casio watch and price tag.  Can't beat the quality and price.", "sentiment": "negative", "topics": {"1": "0.35131073", "2": "0.18343267", "3": "0.11529176", "4": "0.1296071", "5": "0.105954595", "6": "0.10485699"}}

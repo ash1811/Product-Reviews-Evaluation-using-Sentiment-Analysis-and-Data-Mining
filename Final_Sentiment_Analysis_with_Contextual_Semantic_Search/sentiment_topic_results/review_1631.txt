@@ -1,0 +1,1 @@
+{"text": "it work as thant my girlfriend loves the fect that she has am hour glass shape now it will do a good job for you", "sentiment": "negative", "topics": {"0": "0.4660086", "1": "0.46882918", "2": "0.012999846", "3": "0.013062001", "4": "0.01304805", "5": "0.0130128665", "6": "0.013039453"}}

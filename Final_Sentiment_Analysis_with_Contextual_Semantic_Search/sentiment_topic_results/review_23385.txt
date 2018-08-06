@@ -1,0 +1,1 @@
+{"text": "The ones I bought fit fine.They were well made and very warm. I purchased them for visiting cold climates and I was not at all disappointed in the socks. I would recommend them.", "sentiment": "negative", "topics": {"1": "0.47137097", "3": "0.19521081", "5": "0.29968652"}}

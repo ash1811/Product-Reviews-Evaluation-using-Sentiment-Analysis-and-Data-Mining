@@ -1,0 +1,1 @@
+{"text": "The soles are sturdy enough to wear out to the mailbox and back.  The tops look slippers so I won't be wearing them past the driveway.", "sentiment": "negative", "topics": {"0": "0.10259988", "1": "0.44385916", "2": "0.011004484", "3": "0.18162373", "4": "0.011006485", "5": "0.16452442", "6": "0.08538185"}}

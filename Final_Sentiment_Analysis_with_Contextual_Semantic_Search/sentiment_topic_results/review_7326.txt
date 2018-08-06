@@ -1,0 +1,1 @@
+{"text": "I order a 34 x 32 and it fits me perfectly , a really solid pant , high quality and very comfortable whit a large number of good pockets . The pant is not too baggy not too skinny , great fit!", "sentiment": "negative", "topics": {"0": "0.05534441", "1": "0.5304639", "2": "0.09945569", "3": "0.0693134", "4": "0.105330065", "6": "0.13387053"}}

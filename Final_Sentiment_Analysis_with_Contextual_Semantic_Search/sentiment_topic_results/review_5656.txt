@@ -1,0 +1,1 @@
+{"text": "must buy item. very long so my bottom not pick out. nice fabric absorb my sweat very well. and thin. wonderful product.", "sentiment": "negative", "topics": {"1": "0.28096214", "3": "0.09167103", "4": "0.07313338", "5": "0.44055793", "6": "0.09579178"}}

@@ -1,0 +1,1 @@
+{"text": "Biggest Large size I've owned. Otherwise, comfortable and minimal branding. I hate being a walking spokesperson for brands so the smaller the logo, the better.", "sentiment": "negative", "topics": {"1": "0.13469157", "3": "0.48678595", "5": "0.2641163", "6": "0.08914862"}}

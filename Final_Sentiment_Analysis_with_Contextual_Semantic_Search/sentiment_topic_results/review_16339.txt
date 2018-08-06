@@ -1,0 +1,1 @@
+{"text": "Really liked the neon green. Not too flashy but different from just plain black flip flops. Have owned other Reef sandals and a pair I had for years finally fell apart. These were the perfect replacement!", "sentiment": "negative", "topics": {"1": "0.35685307", "2": "0.35882375", "4": "0.12967712", "5": "0.13412604"}}

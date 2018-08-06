@@ -1,0 +1,1 @@
+{"text": "Very, very comfortable and will never buy another brand ever! True to size & fit but I wish they would come up with more feminine sandals in the future.", "sentiment": "negative", "topics": {"1": "0.51696074", "2": "0.13230091", "3": "0.14167042", "6": "0.18379916"}}

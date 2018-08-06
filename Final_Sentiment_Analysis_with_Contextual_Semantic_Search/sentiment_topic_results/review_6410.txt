@@ -1,0 +1,1 @@
+{"text": "They are my favorite athletic socks.  They add so much more cushioning for the foot.  Now that I have been spoiled by Thorlo, I can't wear anything else!", "sentiment": "positive", "topics": {"0": "0.010228971", "1": "0.010243023", "2": "0.18950222", "3": "0.1535095", "4": "0.01028614", "5": "0.5201735", "6": "0.10605668"}}

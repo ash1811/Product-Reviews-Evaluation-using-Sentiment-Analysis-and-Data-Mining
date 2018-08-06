@@ -1,0 +1,1 @@
+{"text": "I went one size bigger cause I like to wear it loose.  Very comfortable. Would definitely buy more of this Brand.", "sentiment": "negative", "topics": {"0": "0.101702146", "1": "0.2952959", "2": "0.16373874", "3": "0.4085736", "4": "0.010226212", "5": "0.010222438", "6": "0.010241002"}}

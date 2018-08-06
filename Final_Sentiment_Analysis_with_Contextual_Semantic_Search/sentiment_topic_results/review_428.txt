@@ -1,0 +1,1 @@
+{"text": "First of all, the case is flat and does not look like the one in the picture. BUT the wipes are amazing! They work so well! They cleaned up my Tiffanys jewelry and it looks brand new again! I will continue to buy these wipes!", "sentiment": "negative", "topics": {"1": "0.37594974", "3": "0.2842316", "4": "0.18848553", "6": "0.13260035"}}

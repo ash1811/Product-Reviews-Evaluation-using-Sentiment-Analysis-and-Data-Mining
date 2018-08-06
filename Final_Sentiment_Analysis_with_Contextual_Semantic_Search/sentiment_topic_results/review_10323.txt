@@ -1,0 +1,1 @@
+{"text": "Bought for husband to work in - concrete all day and he loves these shoes. But again, he is a scouter/camper and a Keen fan!", "sentiment": "negative", "topics": {"0": "0.13952003", "1": "0.011934333", "2": "0.20952047", "3": "0.011934368", "4": "0.2686451", "5": "0.2402371", "6": "0.11820861"}}

@@ -1,0 +1,1 @@
+{"text": "I was looking for a watch I can wear daily as well as formal.  This is a nice watch but I had to return it because the face was TOO SMALL.  I was looking for something a little bigger face.  Overall its a beautiful watch.", "sentiment": "negative", "topics": {"0": "0.12763181", "1": "0.3106314", "2": "0.2553287", "3": "0.18853195", "6": "0.10352252"}}

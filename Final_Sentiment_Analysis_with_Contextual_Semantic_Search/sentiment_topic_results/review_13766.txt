@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable flip flops and I love that my foot doesn't slide around in them if I just stepped out of the pool. They are awesome and I could live in them in the Summer.", "sentiment": "positive", "topics": {"0": "0.01022967", "1": "0.4865222", "2": "0.1819854", "3": "0.010236705", "4": "0.13884124", "5": "0.010250871", "6": "0.16193394"}}

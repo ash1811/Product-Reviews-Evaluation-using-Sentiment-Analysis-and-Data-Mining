@@ -1,0 +1,1 @@
+{"text": "Look man, if you want some pretty socks with a fancypants brand on 'em, go do that.  Go do that!  See if I care.  I'll just be sitting here in my simple grey socks and petting a kitten.", "sentiment": "negative", "topics": {"2": "0.06908065", "3": "0.218604", "4": "0.27546665", "5": "0.35815746", "6": "0.06564292"}}

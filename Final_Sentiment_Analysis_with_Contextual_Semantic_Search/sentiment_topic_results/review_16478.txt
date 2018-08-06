@@ -1,0 +1,1 @@
+{"text": "Received the sunglasses two days before the estimated scheduling date. Looking at the picture, the lenses are a smoky black, but the sunglasses that I received are a rose color so I sent them back.", "sentiment": "negative", "topics": {"0": "0.23479553", "1": "0.32707793", "2": "0.20026642", "5": "0.146184", "6": "0.07659253"}}

@@ -1,0 +1,1 @@
+{"text": "Muy buenos pantalones, gran calidad el producto, el tiempo de entrega cumplio con la estimado, el precio ajustado a lo mostrado al momento de la compra", "sentiment": "negative", "topics": {"0": "0.046453096", "1": "0.13968275", "2": "0.046464544", "3": "0.22655532", "5": "0.27280095", "6": "0.26249135"}}

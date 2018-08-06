@@ -1,0 +1,1 @@
+{"text": "Use these shoes for Zumba. They work great. I use them often, but I do think they run a little on the small side. I would order half sizes if possible.", "sentiment": "negative", "topics": {"0": "0.17431393", "2": "0.07717462", "3": "0.5934617", "6": "0.13113253"}}

@@ -1,0 +1,1 @@
+{"text": "These are just beautiful! Even more so in person!  I love them, and I think they will go with a lot of outfits and be very versitile.", "sentiment": "positive", "topics": {"0": "0.013078642", "1": "0.0130624175", "2": "0.013056611", "3": "0.15074445", "4": "0.0130451545", "5": "0.78402245", "6": "0.012990311"}}

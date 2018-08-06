@@ -1,0 +1,1 @@
+{"text": "Product is great. Looks just as pictured. Only down side is, if you're switch out watches often, some wear and tear occurs on the fabric. It's an easy fix though.", "sentiment": "negative", "topics": {"2": "0.07194879", "4": "0.35349008", "5": "0.46864274", "6": "0.080608904"}}

@@ -1,0 +1,1 @@
+{"text": "Very nice and soft sweats to wear around the house.  These sweat pants were very reasonable priced too, so that's good.", "sentiment": "positive", "topics": {"0": "0.16705516", "1": "0.33422118", "2": "0.010233936", "3": "0.27709597", "4": "0.19092512", "5": "0.010234532", "6": "0.010234076"}}

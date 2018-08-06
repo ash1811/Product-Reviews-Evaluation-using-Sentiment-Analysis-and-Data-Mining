@@ -1,0 +1,1 @@
+{"text": "This bra basically smoothed my breasts down and was not flattering. The size was ok and same as my regular size of 34C. If you want to make your breasts appear smaller, this can work.", "sentiment": "positive", "topics": {"0": "0.10047766", "1": "0.12828958", "3": "0.6433696", "4": "0.10257324"}}

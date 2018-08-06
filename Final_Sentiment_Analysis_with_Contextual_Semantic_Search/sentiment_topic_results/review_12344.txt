@@ -1,0 +1,1 @@
+{"text": "This beanie visor hat is really cool. just get it, you won't regret it. The fit is great because it does adjust to your head size.", "sentiment": "positive", "topics": {"1": "0.1971841", "2": "0.31525227", "3": "0.2413638", "4": "0.06574378", "6": "0.16131026"}}

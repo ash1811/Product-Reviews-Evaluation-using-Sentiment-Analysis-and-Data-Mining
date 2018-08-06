@@ -1,0 +1,1 @@
+{"text": "These are a great pair of earrings, the color and quality are wonderful. The best part ,though, is the incredible price! A great gift for bridal shower guests!", "sentiment": "negative", "topics": {"0": "0.09117473", "1": "0.49026", "3": "0.2821869", "6": "0.111087926"}}

@@ -1,0 +1,1 @@
+{"text": "Very sharp looking!  I have not yet discovered all the various pockets!  Very sturdy and well built. Innovative design and extra-large capasity without makig me resemble a Pack mule!", "sentiment": "positive", "topics": {"0": "0.076260105", "1": "0.40482244", "2": "0.27805313", "3": "0.07819902", "4": "0.14759542"}}

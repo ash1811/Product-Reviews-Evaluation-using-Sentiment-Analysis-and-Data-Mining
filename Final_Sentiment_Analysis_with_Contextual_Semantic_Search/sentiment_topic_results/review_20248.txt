@@ -1,0 +1,1 @@
+{"text": "Purchased 4 sets of this shoe trees for my well cared shoes and the X-large size was a perfect fit for my size 12 shoes.  Has a nice cedar smell too.", "sentiment": "negative", "topics": {"1": "0.339889", "2": "0.24140124", "3": "0.18561795", "5": "0.08202937", "6": "0.13675782"}}

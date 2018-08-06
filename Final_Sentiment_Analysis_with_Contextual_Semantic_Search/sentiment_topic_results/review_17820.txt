@@ -1,0 +1,1 @@
+{"text": "This is a great watch I'm even wearing it as I write this I always like the G shock watches and the way they look", "sentiment": "negative", "topics": {"0": "0.010258283", "1": "0.2595363", "2": "0.3325339", "3": "0.010232815", "4": "0.2446907", "5": "0.010237208", "6": "0.13251077"}}

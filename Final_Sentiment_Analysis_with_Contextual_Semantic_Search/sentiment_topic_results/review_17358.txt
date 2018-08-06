@@ -1,0 +1,1 @@
+{"text": "So comfortable, great fit, perfect pockets, and I plan to order more pairs.  They are great for hanging out around the house, and I also wear them for light exercise - like a tap dancing class I'm taking.  Flattering, too.", "sentiment": "negative", "topics": {"0": "0.11950302", "1": "0.2882036", "3": "0.38005692", "4": "0.12745513", "6": "0.07330254"}}

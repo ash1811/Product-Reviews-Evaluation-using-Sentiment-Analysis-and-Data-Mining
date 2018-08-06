@@ -1,0 +1,1 @@
+{"text": "So soft, so confortable; like slippers. True to size. These are the ones! Get a suede brush, don't wear in rain or snow.", "sentiment": "negative", "topics": {"0": "0.010228071", "1": "0.010254307", "2": "0.19225922", "3": "0.4235872", "4": "0.010227154", "5": "0.13197428", "6": "0.22146977"}}

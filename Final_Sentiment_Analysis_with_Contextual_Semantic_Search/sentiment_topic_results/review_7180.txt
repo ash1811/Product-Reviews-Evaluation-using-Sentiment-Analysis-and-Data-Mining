@@ -1,0 +1,1 @@
+{"text": "The shirt's quality was very nice, but it was incredibly long. In all fairness, I didn't realize the shirt was made to be very long. i would have ordered a small.", "sentiment": "negative", "topics": {"0": "0.010225929", "1": "0.6323754", "2": "0.09706847", "3": "0.010251343", "4": "0.01021642", "5": "0.13596097", "6": "0.103901446"}}

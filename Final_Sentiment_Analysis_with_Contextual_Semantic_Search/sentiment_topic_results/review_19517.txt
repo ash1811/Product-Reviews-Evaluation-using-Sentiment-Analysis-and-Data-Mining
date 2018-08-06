@@ -1,0 +1,1 @@
+{"text": "I bought this as a slipper but it can be worn as a shoe.  It does run true to size. Unfortunately for me they don't have wide in my size.", "sentiment": "positive", "topics": {"0": "0.14490935", "1": "0.013069726", "2": "0.24466954", "3": "0.2705166", "4": "0.013001121", "5": "0.013042068", "6": "0.30079156"}}

@@ -1,0 +1,1 @@
+{"text": "These socks give lots of cushioning in thin sole running shoes. I really like them over standard uncushioned socks. They also fit well.", "sentiment": "negative", "topics": {"1": "0.2843171", "2": "0.09040946", "4": "0.076171644", "5": "0.44624066", "6": "0.086025216"}}

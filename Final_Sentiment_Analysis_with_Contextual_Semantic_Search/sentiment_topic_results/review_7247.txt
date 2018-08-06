@@ -1,0 +1,1 @@
+{"text": "My husband only wears Crahartt T-shirts because they are thicker and wear nice and neat right out of the dryer.  They don't get holes in them as fast.", "sentiment": "positive", "topics": {"0": "0.010233769", "1": "0.46940985", "2": "0.20165043", "3": "0.010233939", "4": "0.20402876", "5": "0.010247641", "6": "0.09419564"}}

@@ -1,0 +1,1 @@
+{"text": "I really like AO sunglasses. Always have. I just should have ordered the smaller size. These cover your eyes more than Ray Ban aviator style glasses", "sentiment": "negative", "topics": {"0": "0.14933382", "1": "0.108837575", "2": "0.12176833", "3": "0.3564588", "4": "0.18416451", "5": "0.07098407"}}

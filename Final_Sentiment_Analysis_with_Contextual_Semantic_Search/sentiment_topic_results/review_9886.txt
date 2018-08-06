@@ -1,0 +1,1 @@
+{"text": "I've had my watch for over 10 years and it is almost time for a new battery which I can get easily.  I've read about all of the problems owners have with the band but mine is still original.  Perhaps they made them better in the 20th Century!?", "sentiment": "positive", "topics": {"1": "0.201895", "2": "0.32339743", "3": "0.38435382", "4": "0.07242557"}}

@@ -1,0 +1,1 @@
+{"text": "these really are smaller then you think, like a seed bead to be exact. the posts are also short like others have mentioned", "sentiment": "negative", "topics": {"0": "0.1620698", "1": "0.010240832", "2": "0.12921683", "3": "0.14648208", "4": "0.17255391", "5": "0.36918753", "6": "0.010249036"}}

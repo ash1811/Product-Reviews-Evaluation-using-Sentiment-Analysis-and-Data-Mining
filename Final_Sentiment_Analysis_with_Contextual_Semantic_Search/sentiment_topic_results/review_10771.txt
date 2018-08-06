@@ -1,0 +1,1 @@
+{"text": "Received on time and fit well.  Fortunately I have not had weather cold enough to rate them..I'll 're-rate and expect a five star.", "sentiment": "negative", "topics": {"1": "0.19192038", "2": "0.16405343", "3": "0.14924572", "5": "0.27101272", "6": "0.20467071"}}

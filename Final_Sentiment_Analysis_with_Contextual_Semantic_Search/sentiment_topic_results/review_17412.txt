@@ -1,0 +1,1 @@
+{"text": "Very nice. Kinda like long johns without the bulk.  Not super warm but a big help in cold weather, Worth it.", "sentiment": "negative", "topics": {"1": "0.5016522", "2": "0.08819228", "3": "0.115241535", "4": "0.07256728", "6": "0.20441462"}}

@@ -1,0 +1,1 @@
+{"text": "i bought these for myself even tho they are mens.  I wear them to work daily!! they are so comfortable!!", "sentiment": "positive", "topics": {"0": "0.30968845", "1": "0.4201394", "2": "0.20648097", "3": "0.015911967", "4": "0.015959524", "5": "0.015938768", "6": "0.015880905"}}

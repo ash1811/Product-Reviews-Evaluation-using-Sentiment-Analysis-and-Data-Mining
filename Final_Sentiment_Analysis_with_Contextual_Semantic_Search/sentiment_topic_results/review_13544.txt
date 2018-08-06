@@ -1,0 +1,1 @@
+{"text": "These are so comfortable & still look good after a few washes. I'm 5'3, 142 lbs and the 28R are a perfect fit :)", "sentiment": "negative", "topics": {"0": "0.104756646", "1": "0.6295049", "2": "0.011060616", "3": "0.0110219605", "4": "0.010998174", "5": "0.2216635", "6": "0.010994164"}}

@@ -1,0 +1,1 @@
+{"text": "I love them! I have a hard time taking them off. They are very comfortable, they stretch nicely, nice color. I have a toddler that always wipes her hands on me. So these pants are awesome you can't see any stains or dirt.", "sentiment": "negative", "topics": {"0": "0.19164339", "1": "0.4169518", "2": "0.21939944", "4": "0.11655187", "6": "0.042996857"}}

@@ -1,0 +1,1 @@
+{"text": "I liked this little number on the wife, she fills it out very well and let me just say that it didn't stay on too long, would highly recommend", "sentiment": "negative", "topics": {"0": "0.010228603", "1": "0.59081566", "2": "0.111056276", "3": "0.0102359485", "4": "0.010263011", "5": "0.14455438", "6": "0.12284612"}}

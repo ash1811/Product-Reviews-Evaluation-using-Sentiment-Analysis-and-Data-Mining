@@ -1,0 +1,1 @@
+{"text": "We've test-buy several similar items of different brands..... THIS ONE WAS THE BEST - (by my husband opinion) - so we've got him several more - couple days later.", "sentiment": "negative", "topics": {"0": "0.29648247", "3": "0.075740665", "4": "0.2229861", "5": "0.19494924", "6": "0.19473596"}}

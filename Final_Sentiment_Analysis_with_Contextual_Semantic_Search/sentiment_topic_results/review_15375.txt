@@ -1,0 +1,1 @@
+{"text": "These are great glasses. They look good and are optically perfect. I have alotof different styles of Wayfarers and theseare myfavs.", "sentiment": "negative", "topics": {"0": "0.011028762", "1": "0.8308302", "2": "0.0109968735", "3": "0.0110002775", "4": "0.11413687", "5": "0.011002163", "6": "0.011004846"}}

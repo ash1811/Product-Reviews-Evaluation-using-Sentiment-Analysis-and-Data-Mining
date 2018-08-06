@@ -1,0 +1,1 @@
+{"text": "The metal part of the glasses is very light and bendy. It feels like it can break easily.The lenses are very long and sit like bugs eyes.Not very comfy but can look pretty cool with the right outfit.", "sentiment": "negative", "topics": {"0": "0.42430526", "1": "0.22967492", "3": "0.11138231", "5": "0.14642462", "6": "0.07518872"}}

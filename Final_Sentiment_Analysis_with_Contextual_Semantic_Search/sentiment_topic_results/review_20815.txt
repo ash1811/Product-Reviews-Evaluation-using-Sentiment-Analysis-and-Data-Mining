@@ -1,0 +1,1 @@
+{"text": "Could have been made a bit sturdier though (I use these as work pants) the hooks tend to be a little weak fortunately the button system kinda makes up for it.", "sentiment": "negative", "topics": {"0": "0.07255906", "1": "0.2003744", "2": "0.26059145", "3": "0.37042633", "5": "0.08170565"}}

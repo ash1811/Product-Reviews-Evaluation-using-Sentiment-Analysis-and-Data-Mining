@@ -1,0 +1,1 @@
+{"text": "These shirts are not as long as others I have purchased but they are pretty good. A little longer than normal Hanes shirts. They do shrink a little after washing.", "sentiment": "positive", "topics": {"0": "0.21284808", "1": "0.739361"}}

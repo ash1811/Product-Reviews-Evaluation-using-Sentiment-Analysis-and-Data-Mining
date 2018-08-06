@@ -1,0 +1,1 @@
+{"text": "These shoes lasted the season and are still together. If my daughter can't fit in these next summer I will be buying the same pair just bigger!", "sentiment": "negative", "topics": {"0": "0.20045431", "1": "0.1647708", "2": "0.30242565", "3": "0.3016333", "4": "0.010221566", "5": "0.010236903", "6": "0.010257491"}}

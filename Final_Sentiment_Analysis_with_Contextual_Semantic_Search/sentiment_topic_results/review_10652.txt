@@ -1,0 +1,1 @@
+{"text": "The earrings are very neat, lovely as a gift for a teen or older. Pretty marbelised kind of finish in green.", "sentiment": "positive", "topics": {"0": "0.34115013", "1": "0.011935513", "2": "0.42701837", "3": "0.0119083375", "4": "0.09648499", "5": "0.011930198", "6": "0.09957246"}}

@@ -1,0 +1,1 @@
+{"text": "Package arrived on time and shoes came in a rockport shoe box.  I ordered some insoles for these shoes, the ones that came were average and slim.  These are great working shoes and the materials used are put well together.", "sentiment": "positive", "topics": {"0": "0.39081213", "1": "0.15236583", "2": "0.23867762", "4": "0.20026153"}}

@@ -1,0 +1,1 @@
+{"text": "These are great for my pool class.  I wear an 81/2 and ordered a 9.  Glad I did b/c of the jumping I do in class.  My toes do not hit the top.  They dry fast and fit perfectly.  No complaints.  Love them!", "sentiment": "negative", "topics": {"1": "0.43285877", "2": "0.15163285", "3": "0.119315885", "4": "0.18506731", "6": "0.09807953"}}

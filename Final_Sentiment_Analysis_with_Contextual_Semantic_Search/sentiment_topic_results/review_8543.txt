@@ -1,0 +1,1 @@
+{"text": "this is my very favorite sneaker and I always buy this type when the other wear out.  They last a long time and look great on my feet.  the comfort is truly appreciated.", "sentiment": "positive", "topics": {"0": "0.17133678", "1": "0.16042997", "4": "0.18794514", "5": "0.45503062"}}

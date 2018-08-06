@@ -1,0 +1,1 @@
+{"text": "So comfortable, just what I want, if you are in euro size 36.5, US size 5.5 is perfect, my mom and I like it a lot.", "sentiment": "negative", "topics": {"0": "0.11449058", "1": "0.35791612", "2": "0.26746005", "3": "0.011048201", "4": "0.01099701", "5": "0.010997686", "6": "0.22709037"}}

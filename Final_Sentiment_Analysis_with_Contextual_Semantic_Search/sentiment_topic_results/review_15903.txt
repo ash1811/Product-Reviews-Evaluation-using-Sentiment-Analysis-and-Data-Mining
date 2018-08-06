@@ -1,0 +1,1 @@
+{"text": "This is adorable and fits perfectly! I cannot wait until I wear it on my wedding day. Sucks me in pretty well too.", "sentiment": "negative", "topics": {"0": "0.29591465", "1": "0.30987626", "2": "0.011015938", "3": "0.34999898", "4": "0.011087855", "5": "0.011066823", "6": "0.011039495"}}

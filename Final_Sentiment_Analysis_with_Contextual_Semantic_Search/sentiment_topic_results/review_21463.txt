@@ -1,0 +1,1 @@
+{"text": "I purchased the &#34;ACORN Men's Polar Moc,Charcoal&#34; and he loves them. He says they are very comfortable and fit perfectly.", "sentiment": "negative", "topics": {"0": "0.011930428", "1": "0.42523822", "2": "0.116377644", "3": "0.011984623", "4": "0.13567507", "5": "0.21081173", "6": "0.087982304"}}

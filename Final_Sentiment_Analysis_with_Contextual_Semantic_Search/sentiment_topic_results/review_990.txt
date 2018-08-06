@@ -1,0 +1,1 @@
+{"text": "I love these boots.  I own two pair and alternate wearing them every day.  I owned my first pair back in 1968 and loved them.  All the fuss about them being foreign made now is nonsense.  They are still well made, durable and as comfortable as ever.", "sentiment": "positive", "topics": {"1": "0.35775387", "3": "0.26257592", "4": "0.070689686", "5": "0.29246527"}}

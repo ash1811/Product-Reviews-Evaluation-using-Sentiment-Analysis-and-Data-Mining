@@ -1,0 +1,1 @@
+{"text": "the tool is okay. i broke one of the pins that came with it. so overall it okay the other link remover with the hammer is a better choice", "sentiment": "positive", "topics": {"0": "0.13306922", "1": "0.36821273", "2": "0.25343254", "6": "0.21661714"}}

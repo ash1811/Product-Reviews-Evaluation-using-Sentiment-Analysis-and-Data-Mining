@@ -1,0 +1,1 @@
+{"text": "I purchased this watch as a graduation gift for my son and he loves this watch. The band is a little big but he won't get it sized down. He likes everything about it.", "sentiment": "negative", "topics": {"0": "0.21250641", "1": "0.2466424", "2": "0.43736616", "4": "0.078177884"}}

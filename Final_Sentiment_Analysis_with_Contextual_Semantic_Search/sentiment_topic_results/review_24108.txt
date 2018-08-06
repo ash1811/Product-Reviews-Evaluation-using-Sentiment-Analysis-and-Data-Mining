@@ -1,0 +1,1 @@
+{"text": "It is hard to find a good sports bra.  This one is a great fit but not as suppportive as another one.", "sentiment": "positive", "topics": {"0": "0.10947963", "1": "0.47950578", "2": "0.15895692", "3": "0.111945845", "4": "0.011950984", "5": "0.01192072", "6": "0.116240144"}}

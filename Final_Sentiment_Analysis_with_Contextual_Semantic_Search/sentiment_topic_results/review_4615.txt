@@ -1,0 +1,1 @@
+{"text": "the design is good but it is one size bigger than normal size. I have to wait for someone fromThailand carry back to USA for return.", "sentiment": "negative", "topics": {"0": "0.099258766", "1": "0.10129011", "3": "0.16581964", "4": "0.44472483", "6": "0.16980447"}}

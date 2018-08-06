@@ -1,0 +1,1 @@
+{"text": "The material is way too thin and the bottom seam on the shirts do not have a seam!  The sleeves are way too long.", "sentiment": "negative", "topics": {"0": "0.013012648", "1": "0.35175148", "2": "0.013004214", "3": "0.39930934", "4": "0.013044966", "5": "0.1968475", "6": "0.013029866"}}

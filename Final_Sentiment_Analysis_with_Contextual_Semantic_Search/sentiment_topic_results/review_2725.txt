@@ -1,0 +1,1 @@
+{"text": "I've been wearing Jockey underwear for years and you can't beat this brand.They are constructed well and wear like iron.I do like the choice of many colors.Amazon, as usual, has the best prices around .", "sentiment": "negative", "topics": {"1": "0.36638603", "2": "0.07834453", "3": "0.18958789", "4": "0.22407584", "6": "0.12857062"}}

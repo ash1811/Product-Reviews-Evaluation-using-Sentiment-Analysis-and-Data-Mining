@@ -1,0 +1,1 @@
+{"text": "I purchased two of these and can't wait to wear them when I go to Florida. They are very cute, good quality and look great on. Order with confidence.", "sentiment": "negative", "topics": {"0": "0.14715934", "1": "0.49559328", "3": "0.17600809", "4": "0.15440041"}}

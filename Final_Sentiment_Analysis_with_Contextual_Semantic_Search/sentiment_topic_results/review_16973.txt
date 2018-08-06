@@ -1,0 +1,1 @@
+{"text": "This is a wonderful shirt. Soft yet tough canvas fabric makes it an instant favorite. I am gathering each different color together in the closet.", "sentiment": "positive", "topics": {"0": "0.11771822", "1": "0.38610473", "2": "0.14490213", "5": "0.14167577", "6": "0.19161367"}}

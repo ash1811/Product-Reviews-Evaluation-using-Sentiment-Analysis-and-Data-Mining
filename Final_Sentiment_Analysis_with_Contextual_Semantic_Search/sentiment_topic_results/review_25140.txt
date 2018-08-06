@@ -1,0 +1,1 @@
+{"text": "It is made of great quality material but it can't fit into any of my boots because its too fluffy.", "sentiment": "negative", "topics": {"0": "0.1818262", "1": "0.6243737", "2": "0.015892044", "3": "0.01588439", "4": "0.13023968", "5": "0.015898854", "6": "0.01588522"}}

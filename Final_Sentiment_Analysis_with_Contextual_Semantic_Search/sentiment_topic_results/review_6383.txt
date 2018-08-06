@@ -1,0 +1,1 @@
+{"text": "Nice comfortable socks for excercise or lounging. They could be a bit larger but aren't too small to complain about. Nice padding in the apppropriate places, makes you feel like you're 'gellin' only it's not as goofy as 'gellin'.", "sentiment": "negative", "topics": {"1": "0.3658636", "2": "0.048212197", "3": "0.16491261", "5": "0.32524553", "6": "0.08273"}}

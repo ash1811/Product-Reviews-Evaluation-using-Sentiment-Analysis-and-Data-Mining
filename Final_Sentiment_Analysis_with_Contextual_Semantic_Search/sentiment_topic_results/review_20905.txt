@@ -1,0 +1,1 @@
+{"text": "Too bad they run so small. I wear a 3 in every other pair of levis I have but these were WAY too small for me in a size 3. I would need a 5 or maybe even a 7. They have a very low rise too.", "sentiment": "positive", "topics": {"0": "0.17848186", "1": "0.34116703", "3": "0.21737272", "4": "0.08007272", "6": "0.16988052"}}

@@ -1,0 +1,1 @@
+{"text": "This is a huge help in our  small RV bathroom.  Everything organized and at our fingertips!  It hangs nice and flat on the bathroom door!  Love it, worth every penny and so reasonable.", "sentiment": "negative", "topics": {"0": "0.090546526", "1": "0.10704428", "2": "0.3912889", "3": "0.0866373", "4": "0.1076328", "5": "0.101640925", "6": "0.1152093"}}

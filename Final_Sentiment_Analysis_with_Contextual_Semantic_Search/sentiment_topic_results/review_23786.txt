@@ -1,0 +1,1 @@
+{"text": "I bought these as a size 7,  they're a bit tight on the top of my fit making lengthy wear time a bit uncomfortable. These shoes look great, however the white sole easily gets dirty and scuffed.", "sentiment": "negative", "topics": {"1": "0.28985998", "2": "0.19217002", "3": "0.13353725", "5": "0.27693483", "6": "0.096023455"}}

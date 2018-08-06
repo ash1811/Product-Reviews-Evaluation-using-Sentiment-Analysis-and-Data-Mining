@@ -1,0 +1,1 @@
+{"text": "Had originally ordered the black leather Keds, but my size wasn't available.Glad I got these.  I prefer the white rubber trim to the all black leather shoe.", "sentiment": "negative", "topics": {"0": "0.25239235", "2": "0.30907986", "3": "0.20824209", "5": "0.07416045", "6": "0.13927607"}}

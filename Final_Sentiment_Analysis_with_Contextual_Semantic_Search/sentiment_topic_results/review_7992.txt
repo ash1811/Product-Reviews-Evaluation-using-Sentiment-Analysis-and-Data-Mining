@@ -1,0 +1,1 @@
+{"text": "As far as slippers go, very comfy. I do wish they had a little built in arch support, but still a really cozy slipper.", "sentiment": "positive", "topics": {"0": "0.010260083", "1": "0.010251197", "2": "0.23158288", "3": "0.5594463", "4": "0.010234554", "5": "0.010235056", "6": "0.16798997"}}

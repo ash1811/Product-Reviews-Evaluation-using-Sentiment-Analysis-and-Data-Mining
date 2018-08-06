@@ -1,0 +1,1 @@
+{"text": "That is really a perfect combination of work and fashion.It is very comfortable to wear and I love it.", "sentiment": "negative", "topics": {"0": "0.014339363", "1": "0.41583234", "2": "0.014314334", "3": "0.35395226", "4": "0.17294757", "5": "0.014317666", "6": "0.014296474"}}

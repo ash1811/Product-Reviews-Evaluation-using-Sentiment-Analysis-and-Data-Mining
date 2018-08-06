@@ -1,0 +1,1 @@
+{"text": "These are a good weight denim and the colour is as shown on the Amazon site. Sizing is also accurate.", "sentiment": "negative", "topics": {"0": "0.0130211", "1": "0.28190508", "2": "0.1039593", "3": "0.01301054", "4": "0.43707436", "5": "0.013022848", "6": "0.13800678"}}

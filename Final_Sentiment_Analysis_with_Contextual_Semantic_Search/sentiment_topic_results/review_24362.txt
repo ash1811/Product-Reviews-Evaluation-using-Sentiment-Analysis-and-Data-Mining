@@ -1,0 +1,1 @@
+{"text": "Not much to say but its just a good winter hat.  Seems tighter knit and warmer than my old one. Would buy again.", "sentiment": "negative", "topics": {"1": "0.3483307", "3": "0.20401432", "4": "0.22115909", "6": "0.19780196"}}

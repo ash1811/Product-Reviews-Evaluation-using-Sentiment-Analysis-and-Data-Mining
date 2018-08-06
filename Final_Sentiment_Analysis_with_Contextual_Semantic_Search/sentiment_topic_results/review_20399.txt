@@ -1,0 +1,1 @@
+{"text": "These are great!  I've been using this product for several years.  They're not overly bulky like the ones for athletic shoes and the like.  They fit flats and heels perfectly.  I recommend highly.", "sentiment": "negative", "topics": {"0": "0.0422872", "1": "0.28013363", "2": "0.34594837", "3": "0.10045145", "5": "0.21751183"}}

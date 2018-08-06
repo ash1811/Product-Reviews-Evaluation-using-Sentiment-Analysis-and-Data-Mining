@@ -1,0 +1,1 @@
+{"text": "They fit perfectly and really sucks in my tummy! Kind of hard to wear with jeans, but other materials work great.", "sentiment": "negative", "topics": {"0": "0.3682626", "1": "0.39137596", "2": "0.011032922", "3": "0.011016529", "4": "0.0110046305", "5": "0.196282", "6": "0.011025418"}}

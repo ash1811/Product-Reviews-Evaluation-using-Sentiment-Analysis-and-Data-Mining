@@ -1,0 +1,1 @@
+{"text": "Thinner than expected, stiff and itchy even after washing, and all three that I ordered came out of the package with stains on them.If you want a cheap bandana, cut up an old t-shirt. These aren't worth the admittedly small cost.", "sentiment": "negative", "topics": {"0": "0.3215332", "1": "0.33830622", "2": "0.121947125", "3": "0.1207913", "4": "0.08496999"}}

@@ -1,0 +1,1 @@
+{"text": "I actually had to return this shoe as it was cut a bit too small for my foot. However, it looked good and was comfortable. A half size up should do well for me.", "sentiment": "negative", "topics": {"1": "0.2909695", "2": "0.23019886", "3": "0.37275648", "6": "0.07913841"}}

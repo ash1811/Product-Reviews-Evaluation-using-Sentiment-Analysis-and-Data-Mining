@@ -1,0 +1,1 @@
+{"text": "Been a casio watch owner for over 30 yrs; these are dependable and serve the basic purpose of displaying time; very good value.", "sentiment": "negative", "topics": {"0": "0.23517878", "1": "0.010234957", "2": "0.29614785", "3": "0.0904815", "4": "0.19856349", "5": "0.010243538", "6": "0.15914993"}}

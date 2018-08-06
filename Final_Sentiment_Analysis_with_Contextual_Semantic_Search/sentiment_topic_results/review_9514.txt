@@ -1,0 +1,1 @@
+{"text": "This is a nice women's semi-dress watch for the price, but I returned it because the leather band was too stiff and didn't seem to soften with wear.", "sentiment": "negative", "topics": {"0": "0.17483775", "1": "0.34131384", "2": "0.31499898", "3": "0.011047183", "4": "0.011045011", "5": "0.13575426", "6": "0.011002938"}}

@@ -1,0 +1,1 @@
+{"text": "These are nice slippers, warm but they are wide so I have to wear socks! They seem to strech out.", "sentiment": "negative", "topics": {"0": "0.014301087", "1": "0.45079294", "2": "0.014314285", "3": "0.014320431", "4": "0.01432659", "5": "0.20494537", "6": "0.28699932"}}

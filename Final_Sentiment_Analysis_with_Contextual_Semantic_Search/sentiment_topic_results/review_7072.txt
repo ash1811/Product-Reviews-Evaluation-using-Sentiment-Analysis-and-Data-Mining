@@ -1,0 +1,1 @@
+{"text": "I really thought this would help lift &#34;the girls&#34; up more, especially because I have back pain because of being a 40DD.  It fits fine, but I wouldn't classify it as &#34;double support.&#34;", "sentiment": "positive", "topics": {"1": "0.3630724", "2": "0.16610643", "4": "0.14557785", "5": "0.1536324", "6": "0.15568125"}}

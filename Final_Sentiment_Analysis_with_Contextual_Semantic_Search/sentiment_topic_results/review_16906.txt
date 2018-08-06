@@ -1,0 +1,1 @@
+{"text": "My husband only uses these for work, they are durable and can take a good beating. I dont have to mend them because they are double knee so by the time he wears thru them I just order more.", "sentiment": "negative", "topics": {"0": "0.08821522", "1": "0.35120767", "2": "0.3408488", "4": "0.09298319", "5": "0.109905295"}}

@@ -1,0 +1,1 @@
+{"text": "These are a bit tight, but the sizing is almost right. They aren't uncomfortable, but also aren't the most comfortable I have worn. They look good, appear durable, etc. All in all I like these.", "sentiment": "negative", "topics": {"1": "0.6558787", "2": "0.086869135", "4": "0.13842513", "6": "0.09354695"}}

@@ -1,0 +1,1 @@
+{"text": "It was to large, but I was able to give it to my daughter and it seemed to fit her swell?", "sentiment": "negative", "topics": {"0": "0.017892303", "1": "0.21011147", "2": "0.01787924", "3": "0.7004491", "4": "0.017857915", "5": "0.01795134", "6": "0.017858675"}}

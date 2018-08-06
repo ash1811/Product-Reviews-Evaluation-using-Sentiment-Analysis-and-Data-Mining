@@ -1,0 +1,1 @@
+{"text": "woven so it doesn't have holes which makes it much better if you don't fit in those hold sizes. It stretches a bit so it fits perfectly and it has stayed pretty white so far.", "sentiment": "positive", "topics": {"1": "0.38674936", "2": "0.07993206", "3": "0.33682087", "4": "0.07746989", "5": "0.10217198"}}

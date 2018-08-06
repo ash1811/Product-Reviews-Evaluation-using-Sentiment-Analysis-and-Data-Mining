@@ -1,0 +1,1 @@
+{"text": "I've never really bought clothing online before but wanted to try it for these jeans. Men's jeans priced at $20 from a known brand?? Awesome!! Size was right on target too. Very glad I purchased these.", "sentiment": "negative", "topics": {"1": "0.26227692", "2": "0.2046878", "3": "0.28621098", "5": "0.22890645"}}

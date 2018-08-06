@@ -1,0 +1,1 @@
+{"text": "Love this shoe.  It is very comfortable and the lightest weight shoe I have ever had on my feet.  Recommend highly.", "sentiment": "negative", "topics": {"0": "0.013021478", "1": "0.17735472", "2": "0.47960636", "3": "0.0130054625", "4": "0.29099843", "5": "0.013026521", "6": "0.012987019"}}

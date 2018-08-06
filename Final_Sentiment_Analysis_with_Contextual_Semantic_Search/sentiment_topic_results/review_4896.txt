@@ -1,0 +1,1 @@
+{"text": "This was exactly what I was looking for, it was super light and simple to use.  The illumination and the lap timers were perfect for training for my 10k run.", "sentiment": "negative", "topics": {"0": "0.1849104", "1": "0.22407816", "2": "0.08877344", "3": "0.23081669", "5": "0.08380337", "6": "0.17807549"}}

@@ -1,0 +1,1 @@
+{"text": "Not that the shirt does NOT fit... more that it's not as long as I would have hoped for.  I ordered the 2X-Tall version.The shirt can still function and seems to be of good quality.", "sentiment": "negative", "topics": {"1": "0.7163917", "4": "0.15984832", "6": "0.08797682"}}

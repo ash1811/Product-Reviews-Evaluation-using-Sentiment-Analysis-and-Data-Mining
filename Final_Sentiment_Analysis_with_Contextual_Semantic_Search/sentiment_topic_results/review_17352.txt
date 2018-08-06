@@ -1,0 +1,1 @@
+{"text": "Would buy again due to wicking and insulation quality along with fit.  they wash well and did not shrink in the dryer", "sentiment": "negative", "topics": {"0": "0.011000562", "1": "0.7522263", "2": "0.010999959", "3": "0.011008259", "4": "0.011002751", "5": "0.117530815", "6": "0.086231336"}}

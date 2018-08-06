@@ -1,0 +1,1 @@
+{"text": "I love these sunglasses, I bought the size 55 and is perfect!!! because I have a small face. Also, I really like the lens colors ... very stylish. I bought &#34;brown orange&#34; and &#34;crystal green&#34;", "sentiment": "positive", "topics": {"0": "0.19581239", "1": "0.10909264", "2": "0.16428183", "3": "0.3393894", "4": "0.10080159", "6": "0.08345847"}}

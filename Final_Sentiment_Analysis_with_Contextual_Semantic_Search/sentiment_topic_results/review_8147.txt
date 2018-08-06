@@ -1,0 +1,1 @@
+{"text": "Finally, a pair of jeans with the right length.  These jeans are comfortable and not as expensive as some other brands.", "sentiment": "negative", "topics": {"0": "0.014370045", "1": "0.27748898", "2": "0.014289528", "3": "0.32016808", "4": "0.014317651", "5": "0.3450091", "6": "0.01435664"}}

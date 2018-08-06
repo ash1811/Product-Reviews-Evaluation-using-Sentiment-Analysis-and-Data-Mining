@@ -1,0 +1,1 @@
+{"text": "This shoe is true to fit. Soft leather and goes well with both dress slacks and jeans. I love these shoes! Extremely comfortable. Well worth the buy.", "sentiment": "negative", "topics": {"1": "0.5372379", "2": "0.330326", "5": "0.07387807", "6": "0.03465894"}}

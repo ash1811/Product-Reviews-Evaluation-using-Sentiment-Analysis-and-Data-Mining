@@ -1,0 +1,1 @@
+{"text": "Comfortable and cute. I really like them. I think I need a pair in every color too. :D Mine have been wet, and I didn't have any issues at all.", "sentiment": "negative", "topics": {"1": "0.29333496", "3": "0.23972206", "5": "0.33271435", "6": "0.1089265"}}

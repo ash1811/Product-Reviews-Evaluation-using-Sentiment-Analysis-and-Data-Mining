@@ -1,0 +1,1 @@
+{"text": "These shoes are a great buy ! Very nice looking and comfortable to wear . Leather very soft with no break in needed . Great Shoe at a great price ..... Super Value !", "sentiment": "negative", "topics": {"1": "0.6512632", "2": "0.30894026"}}

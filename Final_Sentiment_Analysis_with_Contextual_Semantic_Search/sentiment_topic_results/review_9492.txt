@@ -1,0 +1,1 @@
+{"text": "You just can't beat a Time! I got this watch for my Mom, who is a Senior and she loves the larger numbers and comfortable wrist band. It's very nice looking.", "sentiment": "negative", "topics": {"0": "0.17792511", "1": "0.2298632", "2": "0.17851129", "4": "0.25396273", "6": "0.14174548"}}

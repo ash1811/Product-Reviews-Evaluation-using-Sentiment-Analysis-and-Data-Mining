@@ -1,0 +1,1 @@
+{"text": "I'm content with what I received from Hanes, except for the fact that medium sized shirts were rather loose fitting on me, and I'm not a skinny customer.  Apart from that the shirts look and feel great,and I plan to get some more.", "sentiment": "positive", "topics": {"1": "0.20353483", "3": "0.2280228", "4": "0.10728813", "5": "0.44395825"}}

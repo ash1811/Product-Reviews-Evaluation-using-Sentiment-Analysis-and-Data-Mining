@@ -1,0 +1,1 @@
+{"text": "These are the only underwear I'll wear.  They are always comfortable, last forever and wash and wear great.  They don't leave a panty line and never roll, or move up your butt.  I highly recommend especially for plus size women.", "sentiment": "positive", "topics": {"1": "0.32702953", "3": "0.26282313", "4": "0.115436204", "5": "0.27679738"}}

@@ -1,0 +1,1 @@
+{"text": "I swim at our local fitness center 2-3 times per week. It is a highly chlorinated pool. I swim one mile in about 45 min each swim. The suit fits great. I wear a size 10 dress but the 12 Speedo fits the best.", "sentiment": "negative", "topics": {"0": "0.032758493", "1": "0.4303634", "2": "0.14844733", "3": "0.15165688", "4": "0.22688161"}}

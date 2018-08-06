@@ -1,0 +1,1 @@
+{"text": "bought for my husband for xmas.  He loved them. warm and cozy. and he likes that he can wear outside. The sole is nice enough you could wear them out and about if wanted.  Very nice quality", "sentiment": "negative", "topics": {"1": "0.58798456", "3": "0.2152509", "4": "0.16659725"}}

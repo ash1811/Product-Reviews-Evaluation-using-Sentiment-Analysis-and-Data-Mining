@@ -1,0 +1,1 @@
+{"text": "These are just like the ones i bought when i was in the Army.  Use them now for my camping pants to keep ticks out.  Simple item i can't do without.", "sentiment": "negative", "topics": {"1": "0.30525276", "2": "0.17847553", "3": "0.28970525", "6": "0.19789748"}}

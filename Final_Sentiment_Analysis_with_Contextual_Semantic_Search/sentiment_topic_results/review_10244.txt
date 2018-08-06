@@ -1,0 +1,1 @@
+{"text": "Bought this for my daughter to wear under her ski/snowboard helmet. Can also be used just to protect from the elements.", "sentiment": "negative", "topics": {"0": "0.47548532", "1": "0.014365112", "2": "0.11654226", "3": "0.014334421", "4": "0.24111536", "5": "0.01439744", "6": "0.123760104"}}

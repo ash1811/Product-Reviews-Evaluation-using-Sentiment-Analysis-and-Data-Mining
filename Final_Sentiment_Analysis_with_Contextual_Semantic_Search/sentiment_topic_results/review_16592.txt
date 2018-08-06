@@ -1,0 +1,1 @@
+{"text": "A total waste of money, does not look appealing and does not cover much. Regret buying it, but it was not misrepresented.", "sentiment": "negative", "topics": {"0": "0.24629457", "1": "0.011982083", "2": "0.011924371", "3": "0.011961869", "4": "0.14298461", "5": "0.26988423", "6": "0.30496827"}}

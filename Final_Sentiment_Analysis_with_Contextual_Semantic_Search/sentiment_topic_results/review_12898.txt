@@ -1,0 +1,1 @@
+{"text": "These boots were a birthday gift for my granddaughter...I'm not sure if she has taken themoff as it appears they are always on her.  So very happy about this purchase.", "sentiment": "negative", "topics": {"0": "0.38846382", "1": "0.011042917", "2": "0.36102593", "3": "0.011002185", "4": "0.112110525", "5": "0.01100163", "6": "0.105352975"}}

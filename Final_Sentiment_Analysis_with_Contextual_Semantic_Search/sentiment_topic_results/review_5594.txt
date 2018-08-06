@@ -1,0 +1,1 @@
+{"text": "This was very cheap material also it faded after  the  first was in cold water this was very bad made I thought they would be made better not happy!!!!!!!  C.m.", "sentiment": "negative", "topics": {"0": "0.18593612", "1": "0.25827065", "2": "0.27420375", "3": "0.13656996", "4": "0.12709704"}}

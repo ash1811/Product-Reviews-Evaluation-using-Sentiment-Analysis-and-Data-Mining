@@ -1,0 +1,1 @@
+{"text": "Great fit with deep v neck and little cap sleeve. Great with a skirt or capris. Should be worn with a tank underneath.", "sentiment": "negative", "topics": {"0": "0.18448028", "1": "0.38651642", "4": "0.21058284", "6": "0.18978423"}}

@@ -1,0 +1,1 @@
+{"text": "My husband has not tried this on but as Ishortened it, I felt it and feels great. great color,too.Iwould recoomendit as size seems good too.", "sentiment": "positive", "topics": {"0": "0.23912483", "1": "0.2274996", "2": "0.19303694", "3": "0.14361238", "4": "0.17762518"}}

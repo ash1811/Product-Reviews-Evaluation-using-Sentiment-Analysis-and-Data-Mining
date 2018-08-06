@@ -1,0 +1,1 @@
+{"text": "Great fit, very comfortable. Have ordered an exta pair to travel with. Love danskin and wish it was available in other colors", "sentiment": "negative", "topics": {"0": "0.010214776", "1": "0.7033653", "2": "0.010223862", "3": "0.0102234315", "4": "0.16528192", "5": "0.010214549", "6": "0.090476125"}}

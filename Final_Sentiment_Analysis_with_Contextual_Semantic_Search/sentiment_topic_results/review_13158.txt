@@ -1,0 +1,1 @@
+{"text": "I washed these jeans one time as per the label directions and now I can no longer fit into them.  They are extremely too small and I feel like I wasted my money by ordering them.", "sentiment": "negative", "topics": {"0": "0.23431022", "1": "0.25983232", "2": "0.08505712", "3": "0.1632263", "5": "0.24246818"}}

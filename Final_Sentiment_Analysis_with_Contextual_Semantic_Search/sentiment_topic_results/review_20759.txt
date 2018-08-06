@@ -1,0 +1,1 @@
+{"text": "Got this for my son who is a skinny little guy and wow they are smaller than I thought they wold be even for a medium. The also srunk up big time. I would buy larger than you think you will need.", "sentiment": "positive", "topics": {"1": "0.41145453", "2": "0.09247865", "4": "0.37291652", "6": "0.10263216"}}

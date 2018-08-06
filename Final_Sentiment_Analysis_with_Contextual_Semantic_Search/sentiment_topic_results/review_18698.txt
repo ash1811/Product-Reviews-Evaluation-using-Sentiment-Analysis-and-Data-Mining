@@ -1,0 +1,1 @@
+{"text": "not so good for a woman thats 5&#34;11&#34; and 160 pounds.  Seems like the quality is fine though.  can still wear this but I squeeze out the top a bit.  :(", "sentiment": "negative", "topics": {"1": "0.2823524", "2": "0.15409233", "3": "0.44046602", "4": "0.09783484"}}

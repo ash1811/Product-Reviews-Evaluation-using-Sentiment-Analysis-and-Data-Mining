@@ -1,0 +1,1 @@
+{"text": "If you are looking for a great watch to wear that is casual and looks great with all casual clothes you will love this watch.  It has a very easy to read face and is just the perfect size.  Looks sporty yet can still look right with business casual clothing.", "sentiment": "positive", "topics": {"0": "0.20660451", "1": "0.390087", "2": "0.10990398", "3": "0.27685565"}}

@@ -1,0 +1,1 @@
+{"text": "These are a full size too small for my 9 year old and still too much slip at the ankle. Good navy and concept but not for narrow feet.", "sentiment": "positive", "topics": {"0": "0.23211645", "1": "0.18824847", "3": "0.31686208", "6": "0.23587012"}}

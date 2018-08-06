@@ -1,0 +1,1 @@
+{"text": "Great casual shoe. Great to wear with khaki's or a pair of jeans. You will not be disappointed with the quality and comfort that Rockport always delivers. I also own a couple of pairs of dress shoes by Rockport.", "sentiment": "negative", "topics": {"1": "0.24547045", "2": "0.19398212", "3": "0.07845751", "4": "0.24270214", "5": "0.22571285"}}

@@ -1,0 +1,1 @@
+{"text": "I bought big and I am glad I did.  My son wear a four and I bought a 7, there is a little growing room, but since this was bought for dress up play it works perfect.", "sentiment": "positive", "topics": {"0": "0.1025289", "1": "0.6193268", "2": "0.06954795", "5": "0.18598412"}}

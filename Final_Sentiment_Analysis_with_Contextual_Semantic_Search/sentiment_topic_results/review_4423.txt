@@ -1,0 +1,1 @@
+{"text": "I am an old fashion guy who likes to have his jeans button at the waist. These are great quality and comfortable. Just got tired with other brands tht made claims of fit but never did. The Lees are like they should be.", "sentiment": "positive", "topics": {"1": "0.38944718", "3": "0.11743026", "4": "0.06607408", "5": "0.13124914", "6": "0.2833187"}}

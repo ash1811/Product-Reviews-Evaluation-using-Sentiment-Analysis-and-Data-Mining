@@ -1,0 +1,1 @@
+{"text": "Very comfy.  Larger sizes for women that are comfortable are hard to find.  This one fits true to size. Cushioned sole makes a big difference.", "sentiment": "negative", "topics": {"0": "0.1765756", "1": "0.36725518", "3": "0.4223891"}}

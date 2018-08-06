@@ -1,0 +1,1 @@
+{"text": "Unfortunately the ends of these frayed on two pairs of laces within weeks of use.  Would not purchase these again.", "sentiment": "negative", "topics": {"0": "0.17115338", "1": "0.011045724", "2": "0.011017922", "3": "0.226568", "4": "0.3275951", "5": "0.24161698", "6": "0.011002887"}}

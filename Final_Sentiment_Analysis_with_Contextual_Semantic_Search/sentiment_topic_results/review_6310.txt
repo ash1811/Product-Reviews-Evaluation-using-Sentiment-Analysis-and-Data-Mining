@@ -1,0 +1,1 @@
+{"text": "Very cute and just big enough to hold the few items I need when I rush out on an errand! Good quality and comes in amazing colors. Also would be great as a travel bag to wear under clothing!", "sentiment": "negative", "topics": {"1": "0.45217818", "3": "0.09618239", "4": "0.14585459", "5": "0.11922303", "6": "0.1729366"}}

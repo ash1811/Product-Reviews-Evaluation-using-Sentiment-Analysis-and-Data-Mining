@@ -1,0 +1,1 @@
+{"text": "I love these earrings and have worn them several times. Enough said! Thank you so very, very much for a beautiful product!", "sentiment": "positive", "topics": {"0": "0.0110212825", "1": "0.011041418", "2": "0.17760792", "3": "0.011035601", "4": "0.011063735", "5": "0.6799557", "6": "0.098274335"}}

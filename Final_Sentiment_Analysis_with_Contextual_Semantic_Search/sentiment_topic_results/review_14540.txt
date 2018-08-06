@@ -1,0 +1,1 @@
+{"text": "I'm not a big fan of completely covering my foot with a slipper but I don't like the thing between my toes, so these work out perfectly for me.", "sentiment": "negative", "topics": {"0": "0.17128696", "1": "0.58781445", "2": "0.010230541", "3": "0.010231728", "4": "0.084541224", "5": "0.010228662", "6": "0.12566641"}}

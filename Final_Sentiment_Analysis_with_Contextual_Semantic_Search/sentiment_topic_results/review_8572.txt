@@ -1,0 +1,1 @@
+{"text": "The last Reebok Princess I bought had no arch support.  What a disappointment.  They just fit differently from my older two pair, same size, but not comfortable at all. I'll never buy again at any price.", "sentiment": "negative", "topics": {"1": "0.30634367", "2": "0.069326416", "3": "0.28349757", "5": "0.31936514"}}

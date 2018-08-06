@@ -1,0 +1,1 @@
+{"text": "Not good for wider bands, but great for quick fixes for the narrower ones. Worht  the small investment. It saves a bundle on band repairs.", "sentiment": "negative", "topics": {"1": "0.16758582", "2": "0.1670955", "3": "0.0806084", "4": "0.486921", "6": "0.079883896"}}

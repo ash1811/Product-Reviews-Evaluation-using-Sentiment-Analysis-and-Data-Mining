@@ -1,0 +1,1 @@
+{"text": "These will be very much appreciated while my wife is in Bettles, Alaska for 2 weeks. She always has cold feet.", "sentiment": "negative", "topics": {"0": "0.36550543", "1": "0.19282116", "2": "0.13300198", "3": "0.2695339", "4": "0.013111016", "5": "0.013027439", "6": "0.012999087"}}

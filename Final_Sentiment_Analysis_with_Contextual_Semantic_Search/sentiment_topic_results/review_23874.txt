@@ -1,0 +1,1 @@
+{"text": "Blocks wind.  Thin enough to not be bulky.  Doesn't bunch up when puting on helmet. Breathable...Not a winter warmer but was not designed to be...", "sentiment": "negative", "topics": {"0": "0.18877919", "1": "0.21260312", "2": "0.1878603", "3": "0.010362479", "4": "0.27672905", "5": "0.010322398", "6": "0.113343455"}}

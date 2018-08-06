@@ -1,0 +1,1 @@
+{"text": "Me llego el Producto asi como me dijeron a la fecha acordada, con respecto a la Tela es genial me gusto el dise&ntilde;o.", "sentiment": "positive", "topics": {"1": "0.121467374", "2": "0.06438623", "3": "0.18694605", "4": "0.16355914", "5": "0.28980684", "6": "0.16630974"}}

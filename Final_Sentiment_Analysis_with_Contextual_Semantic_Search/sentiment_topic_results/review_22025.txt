@@ -1,0 +1,1 @@
+{"text": "Very good lenses and frame. I had a matte black frame but they crack the paint...but this one is OK", "sentiment": "negative", "topics": {"0": "0.2139042", "1": "0.26075336", "2": "0.34803846", "3": "0.0130314985", "4": "0.01299978", "5": "0.13827543", "6": "0.012997276"}}

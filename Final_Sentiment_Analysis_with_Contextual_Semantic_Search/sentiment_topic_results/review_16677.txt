@@ -1,0 +1,1 @@
+{"text": "These are worth the money.  They aren't glasses that you'll want to wear everyday, but if you need a pair for special occasions or as a backup, these were fine.  Came with a velvet pouch.", "sentiment": "negative", "topics": {"1": "0.262321", "2": "0.17145745", "3": "0.16219091", "4": "0.26635548", "6": "0.11969936"}}

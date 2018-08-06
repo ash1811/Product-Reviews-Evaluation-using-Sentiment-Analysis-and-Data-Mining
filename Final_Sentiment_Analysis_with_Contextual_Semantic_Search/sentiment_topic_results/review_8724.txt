@@ -1,0 +1,1 @@
+{"text": "Great fit , thick denim, my husband wanted them for work, and he is very pleased with thi fit of them", "sentiment": "negative", "topics": {"0": "0.013010731", "1": "0.7434489", "2": "0.013010111", "3": "0.013008374", "4": "0.19149224", "5": "0.013023352", "6": "0.013006317"}}

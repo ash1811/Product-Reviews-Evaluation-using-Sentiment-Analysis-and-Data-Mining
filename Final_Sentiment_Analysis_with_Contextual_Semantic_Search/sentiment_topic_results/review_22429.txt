@@ -1,0 +1,1 @@
+{"text": "These boots fit very nicely and look great; HOWEVER, the back part of the boot is made in such a way that when you walk the entire foot is forced into the toe bed.  Most uncomfortable and impossible to wear.  They were returned promptly.", "sentiment": "negative", "topics": {"1": "0.5514995", "2": "0.099784106", "4": "0.25985375", "6": "0.07018013"}}

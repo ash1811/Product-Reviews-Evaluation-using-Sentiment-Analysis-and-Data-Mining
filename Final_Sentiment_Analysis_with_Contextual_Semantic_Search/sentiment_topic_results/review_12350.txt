@@ -1,0 +1,1 @@
+{"text": "Purchased along with neck warmer for use in event of colder and windier than anticipated weather on golf course -- placed in golf bag for emergency use (occupies small space).  Hat not worn, but tried on and was comfortable.", "sentiment": "negative", "topics": {"0": "0.23688868", "1": "0.21437302", "2": "0.2091648", "3": "0.20987625", "6": "0.11822192"}}

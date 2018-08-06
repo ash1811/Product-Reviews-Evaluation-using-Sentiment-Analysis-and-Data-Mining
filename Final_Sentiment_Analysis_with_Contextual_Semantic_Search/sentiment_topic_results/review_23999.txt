@@ -1,0 +1,1 @@
+{"text": "The socks are thick and the cotton is very soft. The black is very crisp. Inexpensive per pair, and they work fantastic with jeans and casual leather shoes.", "sentiment": "negative", "topics": {"0": "0.26786712", "1": "0.1697657", "2": "0.18086004", "3": "0.22190674", "5": "0.14170045"}}

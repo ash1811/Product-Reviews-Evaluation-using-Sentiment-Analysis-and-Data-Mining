@@ -1,0 +1,1 @@
+{"text": "The shoes are not ugly but lack of originality, ie shoes seem like any other, nothing impressive. They are very comfortable.", "sentiment": "positive", "topics": {"0": "0.011019403", "1": "0.21497536", "2": "0.30710706", "3": "0.10331096", "4": "0.011000665", "5": "0.16804554", "6": "0.18454102"}}

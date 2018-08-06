@@ -1,0 +1,1 @@
+{"text": "I really like these.  I have a much larger pair but wanted something smaller for everyday use.  They are small but still not  too small.  They are very pretty.  Woukd recommend to anyone looking for a little smaller knotted earing.", "sentiment": "negative", "topics": {"0": "0.13932818", "1": "0.15739672", "2": "0.19459295", "3": "0.429803", "4": "0.066941895"}}

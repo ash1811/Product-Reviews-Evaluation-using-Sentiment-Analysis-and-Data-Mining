@@ -1,0 +1,1 @@
+{"text": "Baggallini bags are one of my favorite brands.  I ordered this in the beautiful tomato color.  The tote is large enough to accommodate anything I put in it.  It's great for travel and durable.", "sentiment": "positive", "topics": {"1": "0.43706122", "2": "0.18080577", "3": "0.23046343", "5": "0.1301728"}}

@@ -1,0 +1,1 @@
+{"text": "Great fit and comfortable.  Never disappointed with this brand.", "sentiment": "negative", "topics": {"0": "0.02042695", "1": "0.524556", "2": "0.020416612", "3": "0.37331083", "4": "0.02043478", "5": "0.020446662", "6": "0.020408185"}}

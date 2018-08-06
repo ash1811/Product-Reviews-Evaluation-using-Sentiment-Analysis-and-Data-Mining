@@ -1,0 +1,1 @@
+{"text": "I love converse shoes, but this ones are amazing, there are so confortable and durable, I just simply love it.", "sentiment": "negative", "topics": {"0": "0.013045454", "1": "0.12505282", "2": "0.3366592", "3": "0.08416054", "4": "0.4150615", "5": "0.013015878", "6": "0.013004625"}}

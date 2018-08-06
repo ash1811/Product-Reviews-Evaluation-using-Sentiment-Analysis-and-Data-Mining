@@ -1,0 +1,1 @@
+{"text": "The shoes look great, but they run too small and narrow for me.  I wear regular 8 1/2 sized shoes and these felt like they were 7 1/2.", "sentiment": "positive", "topics": {"0": "0.0794937", "1": "0.3070062", "2": "0.25074804", "3": "0.33887053"}}

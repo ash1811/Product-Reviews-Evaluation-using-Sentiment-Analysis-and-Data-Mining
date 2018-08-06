@@ -1,0 +1,1 @@
+{"text": "These clog slippers are so comfortable, easy to slip on in a hurry and support your arches if you happen to wear them all day. They fit exactly as I expected them to.", "sentiment": "positive", "topics": {"0": "0.17872225", "1": "0.33069012", "3": "0.25355956", "6": "0.21019213"}}

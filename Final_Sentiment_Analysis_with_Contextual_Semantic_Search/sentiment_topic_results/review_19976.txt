@@ -1,0 +1,1 @@
+{"text": "Very high quality bag. Many pockets. Extremely durable zipper.", "sentiment": "negative", "topics": {"0": "0.015902337", "1": "0.4301403", "2": "0.33136722", "3": "0.015941015", "4": "0.17471196", "5": "0.015922803", "6": "0.01601434"}}

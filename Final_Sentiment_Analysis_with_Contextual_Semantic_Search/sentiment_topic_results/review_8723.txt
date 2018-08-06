@@ -1,0 +1,1 @@
+{"text": "It's just a hard plastic watch, but I drive a motorcycle, use it rough, and still flawless. So even is a lil too expensive for my taste I would have to rate it good because I like it, and shows no sign of wear and tear", "sentiment": "negative", "topics": {"0": "0.27906927", "1": "0.097966515", "2": "0.28323907", "3": "0.27128386", "4": "0.055998895"}}

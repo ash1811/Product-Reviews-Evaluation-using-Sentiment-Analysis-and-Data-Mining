@@ -1,0 +1,1 @@
+{"text": "The look of this ring is okay but it was really bulky as a thumb ring, stopped wearing it after about 1 week", "sentiment": "negative", "topics": {"0": "0.14641005", "1": "0.6094994", "2": "0.095198266", "3": "0.11313149", "4": "0.011920995", "5": "0.0119150095", "6": "0.011924787"}}

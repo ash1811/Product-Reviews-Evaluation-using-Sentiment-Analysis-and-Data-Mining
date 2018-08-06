@@ -1,0 +1,1 @@
+{"text": "While these are a little tight on my feet, that works for me as I have a small narrow foot. I'm sure they'll stretch out some and then they'll be great.  Thick sole, protects from the cold tile floors.", "sentiment": "negative", "topics": {"0": "0.14991325", "1": "0.17173773", "2": "0.064606234", "3": "0.24766055", "4": "0.18413475", "5": "0.1747966"}}

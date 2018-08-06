@@ -1,0 +1,1 @@
+{"text": "I got these for my husband, a size 15. He says they fit fine!He says they are good so far, hasn't had a chance to wear them a lot yet.", "sentiment": "negative", "topics": {"1": "0.5150517", "4": "0.1298855", "6": "0.31683025"}}

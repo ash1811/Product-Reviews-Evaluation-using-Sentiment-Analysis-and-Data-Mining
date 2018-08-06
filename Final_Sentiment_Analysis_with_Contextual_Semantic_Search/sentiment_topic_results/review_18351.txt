@@ -1,0 +1,1 @@
+{"text": "very nice shoes, great looking, shiny, great quality and durable looking my son wears it for church and weddings, very happy for the purchase.", "sentiment": "negative", "topics": {"1": "0.65031785", "2": "0.07310327", "4": "0.09110471", "5": "0.10487891", "6": "0.06269789"}}

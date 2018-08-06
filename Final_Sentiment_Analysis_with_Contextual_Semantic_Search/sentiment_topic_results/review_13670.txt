@@ -1,0 +1,1 @@
+{"text": "These are the only jeans my boyfriend wears.  The wash and fit are great and I love the convenience of not having to try to find his size in the store.  Great quality jeans at an affordable price.", "sentiment": "positive", "topics": {"1": "0.44703308", "3": "0.22671697", "5": "0.2944461"}}

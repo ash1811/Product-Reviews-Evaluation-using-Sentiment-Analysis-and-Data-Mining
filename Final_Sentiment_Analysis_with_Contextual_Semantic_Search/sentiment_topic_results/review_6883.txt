@@ -1,0 +1,1 @@
+{"text": "I purchased this primarily for outdoor work. As part of my many winter layers this Carhartt sweatshirt surpassed my expectations and led me to purchase more locally.", "sentiment": "negative", "topics": {"1": "0.47921076", "2": "0.082999796", "4": "0.4020028"}}

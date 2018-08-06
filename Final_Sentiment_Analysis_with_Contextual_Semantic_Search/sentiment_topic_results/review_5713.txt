@@ -1,0 +1,1 @@
+{"text": "I ordered these on the recommendation of my doctor because I am having surgery and will need these for traveling home from the hospital. Great material and roomy so that I do not stress my replaced hip and staples. Thanks.", "sentiment": "negative", "topics": {"0": "0.27252108", "1": "0.31362602", "2": "0.064622596", "5": "0.16543894", "6": "0.1669303"}}

@@ -1,0 +1,1 @@
+{"text": "I really love toe socks. Incredibly comfortable and help to prevent blisters, and Injinji just happen to make the best.These socks are high quality material and well made. Will last a long time.", "sentiment": "negative", "topics": {"0": "0.15317897", "1": "0.4321626", "3": "0.106222056", "5": "0.15467355", "6": "0.141277"}}

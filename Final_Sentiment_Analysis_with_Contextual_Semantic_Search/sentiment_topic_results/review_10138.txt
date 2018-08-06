@@ -1,0 +1,1 @@
+{"text": "I wanted to find something that represented my relation with my husband and this necklace is actly what we represent.", "sentiment": "negative", "topics": {"0": "0.32242587", "1": "0.14099148", "2": "0.014307852", "3": "0.014299194", "4": "0.20944333", "5": "0.0143046025", "6": "0.28422767"}}

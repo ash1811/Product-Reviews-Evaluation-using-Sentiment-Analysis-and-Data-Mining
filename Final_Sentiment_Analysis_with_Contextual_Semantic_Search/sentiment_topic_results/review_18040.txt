@@ -1,0 +1,1 @@
+{"text": "I like canvas and that is one of the reasons I bought this watch. Also it has a 10 year battery.Also it is bothdigital and analog.Finally, you have to be patient when adjusting the watch.", "sentiment": "negative", "topics": {"0": "0.06803441", "2": "0.27645513", "3": "0.091639064", "4": "0.4635838", "6": "0.08237563"}}

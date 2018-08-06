@@ -1,0 +1,1 @@
+{"text": "If you are thinking on getting few of these - no needThis one is BIG enough that you can make few of normal sized cloths without any problems and guess what - they all work good :-)", "sentiment": "negative", "topics": {"0": "0.2125719", "1": "0.3655234", "2": "0.17166364", "3": "0.08042438", "4": "0.15192643"}}

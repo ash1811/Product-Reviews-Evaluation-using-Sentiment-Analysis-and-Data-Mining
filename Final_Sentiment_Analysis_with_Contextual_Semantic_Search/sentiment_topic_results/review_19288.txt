@@ -1,0 +1,1 @@
+{"text": "All the bells and whistles that a high end watch should have. Very impressive quality for the price.", "sentiment": "negative", "topics": {"0": "0.01433338", "1": "0.5159087", "2": "0.2592303", "3": "0.014405598", "4": "0.0143059995", "5": "0.16741186", "6": "0.014404193"}}

@@ -1,0 +1,1 @@
+{"text": "As was true of previous Sperry's I've bought, this new pair of Top-Sider's is just what I was looking for - great fit and a good look!", "sentiment": "negative", "topics": {"0": "0.010217324", "1": "0.602186", "2": "0.010207477", "3": "0.34675246", "4": "0.01021452", "5": "0.010217363", "6": "0.010204844"}}

@@ -1,0 +1,1 @@
+{"text": "I expect these tights will last a lot longer than the toddler-type, discount store tights we are replacing. So far so good.", "sentiment": "negative", "topics": {"0": "0.011013142", "1": "0.15312733", "2": "0.011012525", "3": "0.13154493", "4": "0.11694089", "5": "0.5653589", "6": "0.01100233"}}

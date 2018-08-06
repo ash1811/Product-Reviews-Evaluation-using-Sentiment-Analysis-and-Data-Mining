@@ -1,0 +1,1 @@
+{"text": "Costume is adorable but a little big in the boots and small in the headpiece. It is very reasonably priced and arrived quickly.", "sentiment": "negative", "topics": {"0": "0.22068952", "1": "0.29221687", "2": "0.112480186", "3": "0.012012758", "4": "0.3387388", "5": "0.0119522065", "6": "0.011909659"}}

@@ -1,0 +1,1 @@
+{"text": "This shoe is perfect for travellers who are required to remove their shoes before boarding the airplane.  They're extremely comfortable and stylish, too.", "sentiment": "negative", "topics": {"0": "0.09885204", "1": "0.24851848", "2": "0.4449845", "3": "0.010221469", "4": "0.10344927", "5": "0.010239295", "6": "0.08373495"}}

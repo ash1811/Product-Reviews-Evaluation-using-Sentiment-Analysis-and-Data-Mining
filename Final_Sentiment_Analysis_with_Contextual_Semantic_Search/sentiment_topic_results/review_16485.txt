@@ -1,0 +1,1 @@
+{"text": "These are so much fun to wear!  The quality is nice and the fit is excellent.  When they say over-sized they are not kidding, so expect big glasses!  The tint is perfect for keeping the sun at bay.", "sentiment": "negative", "topics": {"1": "0.57836115", "2": "0.070265576", "4": "0.11550527", "5": "0.09245048", "6": "0.12834862"}}

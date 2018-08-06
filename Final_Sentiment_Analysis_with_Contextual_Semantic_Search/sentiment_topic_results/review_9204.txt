@@ -1,0 +1,1 @@
+{"text": "My husband wears a 10 1/2 or 11.  We purchased the 11 and it was too small for him, so we had to return it.", "sentiment": "positive", "topics": {"0": "0.0119530605", "1": "0.35136926", "2": "0.011926662", "3": "0.13725129", "4": "0.3876857", "5": "0.011947893", "6": "0.08786612"}}

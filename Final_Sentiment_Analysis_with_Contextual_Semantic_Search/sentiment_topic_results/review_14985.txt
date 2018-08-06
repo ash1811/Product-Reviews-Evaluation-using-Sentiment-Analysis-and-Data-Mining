@@ -1,0 +1,1 @@
+{"text": "I don't like, to small for my head, and no I do not have a big head it is average.....ly larger but not as big as you think.", "sentiment": "positive", "topics": {"0": "0.014328512", "1": "0.5232589", "2": "0.40509808", "3": "0.014328994", "4": "0.014328502", "5": "0.014327808", "6": "0.014329157"}}

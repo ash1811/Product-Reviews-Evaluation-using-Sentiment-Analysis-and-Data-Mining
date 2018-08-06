@@ -1,0 +1,1 @@
+{"text": "Color was to bright and it was to small it only holds about 3 note books and a pencil case", "sentiment": "negative", "topics": {"0": "0.15237734", "1": "0.33204955", "2": "0.014345737", "3": "0.34593624", "4": "0.1266996", "5": "0.014304699", "6": "0.014286821"}}

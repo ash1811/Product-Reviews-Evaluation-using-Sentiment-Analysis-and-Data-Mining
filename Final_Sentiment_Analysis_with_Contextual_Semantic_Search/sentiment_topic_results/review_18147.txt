@@ -1,0 +1,1 @@
+{"text": "Great and comfortable for taking long walks with the dogs.  I have wide feet and it was a perfect 6.5 fit for me", "sentiment": "negative", "topics": {"0": "0.011929251", "1": "0.5524898", "2": "0.011935115", "3": "0.011930183", "4": "0.10114025", "5": "0.29866293", "6": "0.011912521"}}

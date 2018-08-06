@@ -1,0 +1,1 @@
+{"text": "Excellent socks that seem like they will last. Comfortable and padded. Warm but perfectly fine in the summer.Very good value for the money.", "sentiment": "positive", "topics": {"1": "0.28824076", "2": "0.22656392", "3": "0.099321395", "4": "0.09873057", "5": "0.26805645"}}

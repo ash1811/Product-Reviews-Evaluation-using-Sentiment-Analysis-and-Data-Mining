@@ -1,0 +1,1 @@
+{"text": "These are a great buy for all cotton underwear and they wear extremely well and fit well and are very comfortable.  I have ordered these many times.", "sentiment": "negative", "topics": {"0": "0.010226056", "1": "0.6062776", "2": "0.01023402", "3": "0.27941898", "4": "0.07339033", "5": "0.010232678", "6": "0.01022036"}}

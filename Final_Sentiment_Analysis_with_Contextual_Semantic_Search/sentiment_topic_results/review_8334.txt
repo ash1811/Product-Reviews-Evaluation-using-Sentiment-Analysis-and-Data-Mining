@@ -1,0 +1,1 @@
+{"text": "They were comfortable and lightweight.  They are not steel toe. The fit was true to size and the color was a nice brown.", "sentiment": "negative", "topics": {"0": "0.012996265", "1": "0.6451358", "2": "0.012990891", "3": "0.013030746", "4": "0.012988594", "5": "0.01299519", "6": "0.28986242"}}

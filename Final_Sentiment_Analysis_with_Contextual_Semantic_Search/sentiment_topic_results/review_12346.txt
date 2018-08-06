@@ -1,0 +1,1 @@
+{"text": "The seller is great, but this product is small, itchy, not warm. Totally synthetic - wool is so much better than this.", "sentiment": "negative", "topics": {"0": "0.011017655", "1": "0.38191837", "2": "0.124148086", "3": "0.14470914", "4": "0.20459343", "5": "0.12260364", "6": "0.011009663"}}

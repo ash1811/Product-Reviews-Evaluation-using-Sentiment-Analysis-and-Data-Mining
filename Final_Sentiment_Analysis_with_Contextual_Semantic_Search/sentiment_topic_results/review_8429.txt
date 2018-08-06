@@ -1,0 +1,1 @@
+{"text": "I love knee high socks but whats ever better is thigh high socks!  I plan to add this to my Christmas list.", "sentiment": "negative", "topics": {"4": "0.16274038", "5": "0.41966304", "6": "0.3793536"}}

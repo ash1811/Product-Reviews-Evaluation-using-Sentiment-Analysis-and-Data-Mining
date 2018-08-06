@@ -1,0 +1,1 @@
+{"text": "I thought it looked great on my lady.. She thought it fit well but was a little rough feeling...Then again does one plan to wear this very long.", "sentiment": "negative", "topics": {"0": "0.115176424", "1": "0.47478643", "2": "0.11773452", "4": "0.26363313"}}

@@ -1,0 +1,1 @@
+{"text": "I did not like the seam placement in the cups....it vastly took away from the style.The lace was very pretty though.", "sentiment": "negative", "topics": {"0": "0.011979226", "1": "0.011967539", "2": "0.43593296", "3": "0.5042737", "4": "0.011947368", "5": "0.011945006", "6": "0.011954184"}}

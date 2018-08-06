@@ -1,0 +1,1 @@
+{"text": "I thought these gloves were very good purchase. They fit well and the thermasilk felt smooth and soft. They did not bunch up and were also very breathable. Recommended.", "sentiment": "positive", "topics": {"1": "0.44137326", "2": "0.21692272", "4": "0.16435023", "6": "0.14869045"}}

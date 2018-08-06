@@ -1,0 +1,1 @@
+{"text": "I have used superfeet in my running shoes for several years.  It is nice to know I can get them through Amazon when I can't get to the store where I get my running gear.", "sentiment": "negative", "topics": {"1": "0.38848403", "2": "0.09078718", "4": "0.067645185", "5": "0.42777482"}}

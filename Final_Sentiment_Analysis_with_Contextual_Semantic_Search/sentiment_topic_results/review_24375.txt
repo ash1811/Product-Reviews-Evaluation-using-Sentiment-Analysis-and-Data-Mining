@@ -1,0 +1,1 @@
+{"text": "These are well made hats.  Acrylic is way better than cotton at wicking away moisture.  I continue to buy these hats a few at a time.  I keep losing them!", "sentiment": "negative", "topics": {"1": "0.22457987", "2": "0.12594134", "3": "0.40136316", "4": "0.08560152", "6": "0.14659794"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these shoes to replace a pair that  wore out (after 10 years!).  They are some of the most comfortable shoes I have ever worn.  They work with jeans, slacks, and skirts.  Simple, plain, go with everything.", "sentiment": "negative", "topics": {"1": "0.11257065", "2": "0.2859092", "3": "0.19379517", "4": "0.17119658", "6": "0.22285554"}}

@@ -1,0 +1,1 @@
+{"text": "Comfortable!  I can wear these everyday...& I do because I brought about 6 pairs in a variety of colors for work!", "sentiment": "negative", "topics": {"0": "0.014298703", "1": "0.58189493", "2": "0.22948046", "3": "0.014333198", "4": "0.1313818", "5": "0.014314759", "6": "0.014296196"}}

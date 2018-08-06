@@ -1,0 +1,1 @@
+{"text": "This is a pretty sturdy hat for a kids' toy! I like how the inside adjusts pretty easily and how the exterior isn't super cheap and flimsy. Plus it looks adorable on my kids!", "sentiment": "positive", "topics": {"1": "0.4280298", "3": "0.1346218", "5": "0.4071441"}}

@@ -1,0 +1,1 @@
+{"text": "My son needed shoes for his first soccer class and tennis shoes were suggested as an alternative to cleats. These seem comfortable and very durable.", "sentiment": "negative", "topics": {"1": "0.23418954", "2": "0.3707612", "5": "0.17951363", "6": "0.18691245"}}

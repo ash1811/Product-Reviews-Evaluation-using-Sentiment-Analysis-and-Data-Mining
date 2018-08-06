@@ -1,0 +1,1 @@
+{"text": "This sandal is by far the most comfortable shoe I've ever worn. Fits great. Is lightweight and didn't even need to be broken in. Love them!", "sentiment": "positive", "topics": {"1": "0.34860408", "2": "0.21076071", "3": "0.1266805", "5": "0.11762633", "6": "0.17945717"}}

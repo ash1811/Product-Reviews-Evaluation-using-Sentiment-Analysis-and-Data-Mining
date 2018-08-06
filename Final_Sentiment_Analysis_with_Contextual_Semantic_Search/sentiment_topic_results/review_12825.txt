@@ -1,0 +1,1 @@
+{"text": "My grandson loved this watch.  He loves that it lights up.  He wears it to bed and keeps checking the time.", "sentiment": "positive", "topics": {"0": "0.34467602", "1": "0.16182181", "2": "0.10819133", "3": "0.011963154", "4": "0.34946784", "5": "0.011954566", "6": "0.011925234"}}

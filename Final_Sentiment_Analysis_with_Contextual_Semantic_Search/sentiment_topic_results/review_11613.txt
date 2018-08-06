@@ -1,0 +1,1 @@
+{"text": "My 16 year old son is who I got these for. He is tall and thin and he likes these because they qualify as casual and he is comfortable in them.", "sentiment": "negative", "topics": {"0": "0.0102573475", "1": "0.25491902", "2": "0.010237803", "3": "0.20997123", "4": "0.010255315", "5": "0.16530502", "6": "0.33905426"}}

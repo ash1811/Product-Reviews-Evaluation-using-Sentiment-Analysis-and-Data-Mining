@@ -1,0 +1,1 @@
+{"text": "Runs quite large, both in cup size and around the chest. However it is comfortable. Recommend going down a size for perfect fit.", "sentiment": "negative", "topics": {"1": "0.30624437", "2": "0.0995331", "3": "0.556034"}}

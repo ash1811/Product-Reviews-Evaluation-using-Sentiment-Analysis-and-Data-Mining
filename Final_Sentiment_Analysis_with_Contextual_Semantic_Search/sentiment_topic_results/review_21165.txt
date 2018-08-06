@@ -1,0 +1,1 @@
+{"text": "it was inexpensive, so i should have known-you dont get three outfits for that price.these are just front pieces that tie in the back.pretty cheaply made", "sentiment": "positive", "topics": {"0": "0.22870433", "1": "0.32937643", "2": "0.1216513", "3": "0.20059688", "4": "0.010220744", "5": "0.010223223", "6": "0.09922712"}}

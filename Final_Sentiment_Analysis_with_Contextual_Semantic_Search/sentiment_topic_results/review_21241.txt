@@ -1,0 +1,1 @@
+{"text": "I am pleased with the shoes. They have become my everyday casual wear shoes. They are quite comfortable. I fully recommend these shoes.", "sentiment": "negative", "topics": {"0": "0.0110213095", "1": "0.29572538", "2": "0.3169656", "3": "0.12012674", "4": "0.06890703", "5": "0.17623542", "6": "0.011018519"}}

@@ -1,0 +1,1 @@
+{"text": "yes these babies are comfortable, looks real good on me, put heavy starch on them and wear them with highly shined black boots and get ready to turn some pretty girl heads.  It is good to be king.", "sentiment": "negative", "topics": {"1": "0.40311295", "3": "0.23700543", "4": "0.15233558", "5": "0.1325109", "6": "0.063076265"}}

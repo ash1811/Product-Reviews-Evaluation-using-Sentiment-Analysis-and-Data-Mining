@@ -1,0 +1,1 @@
+{"text": "The Ray Ban Aviator is a sunglasses with a good quality and comfortable for my eyes. It's pretty for me", "sentiment": "negative", "topics": {"0": "0.1506672", "1": "0.47002992", "2": "0.11140941", "3": "0.13360865", "4": "0.105700456", "5": "0.014294742", "6": "0.014289605"}}

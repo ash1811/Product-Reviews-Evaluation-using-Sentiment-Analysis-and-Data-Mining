@@ -1,0 +1,1 @@
+{"text": "My must have slippers, they are true to size, and extreme comfort, especially for anyone with lower back or knee problems !", "sentiment": "positive", "topics": {"0": "0.24006812", "1": "0.01107251", "2": "0.011037173", "3": "0.22558533", "4": "0.010998715", "5": "0.011054326", "6": "0.49018383"}}

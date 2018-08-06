@@ -1,0 +1,1 @@
+{"text": "Material is not very stretch-able...bigger heads will have an issue, you'll be in for a tight fit! I got an XL head size..61/62cm", "sentiment": "negative", "topics": {"0": "0.01300868", "1": "0.32091776", "2": "0.3966255", "3": "0.013015908", "4": "0.012991255", "5": "0.013110142", "6": "0.23033077"}}

@@ -1,0 +1,1 @@
+{"text": "These insoles are comfortable. They were too large for the shoes but cam with instructions on how to cut them down, which was easy using scissors.", "sentiment": "negative", "topics": {"0": "0.07170413", "1": "0.2559795", "2": "0.11240718", "3": "0.011968292", "4": "0.4364034", "5": "0.09959973", "6": "0.01193776"}}

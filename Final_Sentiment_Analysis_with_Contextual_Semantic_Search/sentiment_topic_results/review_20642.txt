@@ -1,0 +1,1 @@
+{"text": "Good quality leather dye, great coverage, smooth and even final result. It was very easy to use, and a little went a long way - one box would probably be enough to dye a dozen of shoes. Greatly recommended.", "sentiment": "negative", "topics": {"0": "0.08668365", "1": "0.3542287", "2": "0.28122407", "3": "0.19543512", "5": "0.07180249"}}

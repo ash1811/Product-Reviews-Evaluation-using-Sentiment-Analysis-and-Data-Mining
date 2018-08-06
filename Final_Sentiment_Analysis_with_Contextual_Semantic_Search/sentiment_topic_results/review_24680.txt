@@ -1,0 +1,1 @@
+{"text": "Great flops, fast shipping, and extremely happy w/ my purchase.  If your shopping for flip flops spend the extra $'s and buy rainbows...", "sentiment": "negative", "topics": {"1": "0.4114027", "2": "0.1954928", "5": "0.35940245"}}

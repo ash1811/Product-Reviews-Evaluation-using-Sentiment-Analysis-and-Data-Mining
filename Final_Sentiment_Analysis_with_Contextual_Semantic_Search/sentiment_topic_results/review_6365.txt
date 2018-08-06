@@ -1,0 +1,1 @@
+{"text": "I really love Franco Sarto shoes.  These shoes are comfortable and look nice with both casual and dressy pants.  I was looking for a brown heel that was attractive but didn't hurt my feet.  These shoes didn't disappoint.", "sentiment": "positive", "topics": {"0": "0.14805165", "1": "0.3646534", "2": "0.22338374", "4": "0.06442344", "6": "0.18585384"}}

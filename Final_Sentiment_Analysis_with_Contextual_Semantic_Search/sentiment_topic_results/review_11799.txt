@@ -1,0 +1,1 @@
+{"text": "The most comfortable swim shoe my husband has ever put on. They are made will with sturdy materials and stay tight when in water.", "sentiment": "negative", "topics": {"0": "0.010232181", "1": "0.4948012", "2": "0.20156369", "3": "0.010219401", "4": "0.262747", "5": "0.010225852", "6": "0.010210679"}}

@@ -1,0 +1,1 @@
+{"text": "The cup fit is not good for me and the side bands are very itchy,other than that the bra is well made, would suggest slightly narrower straps", "sentiment": "negative", "topics": {"0": "0.23753496", "1": "0.26709503", "2": "0.090324245", "3": "0.11551966", "5": "0.12101276", "6": "0.15895654"}}

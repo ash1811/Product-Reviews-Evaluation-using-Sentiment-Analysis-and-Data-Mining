@@ -1,0 +1,1 @@
+{"text": "I love the fit and feel of this flip flop slipper.  Perfect for summer season or to pack along to the gym or pool.  I wish it was offered in other colors.  Pink got dirty quite quickly.  All in all, I am very happy with this item.  :)", "sentiment": "negative", "topics": {"1": "0.45990476", "2": "0.22435182", "4": "0.085433096", "6": "0.21312302"}}

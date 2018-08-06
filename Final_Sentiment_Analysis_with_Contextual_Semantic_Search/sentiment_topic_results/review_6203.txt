@@ -1,0 +1,1 @@
+{"text": "got this for hubby as a gift and he loves it.. it didn't shrink up when washed and the color true royal is just lovely!", "sentiment": "negative", "topics": {"0": "0.16670886", "1": "0.3808176", "2": "0.011927307", "3": "0.011949805", "4": "0.1410392", "5": "0.27558982", "6": "0.011967437"}}

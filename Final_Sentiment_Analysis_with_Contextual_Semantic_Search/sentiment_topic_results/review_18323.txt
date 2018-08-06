@@ -1,0 +1,1 @@
+{"text": "I really like these pants. They do come in long, at least for someone 5'4\" and cuttin the bottom has worked out so far. I would recommend these pants, especially for the money.", "sentiment": "negative", "topics": {"1": "0.6009204", "5": "0.1729801", "6": "0.19425558"}}

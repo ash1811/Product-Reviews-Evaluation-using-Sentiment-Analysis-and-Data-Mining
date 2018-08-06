@@ -1,0 +1,1 @@
+{"text": "Because of back problems & arthritis, I decided to try slip-ons. These were a bit small but they look nice.", "sentiment": "positive", "topics": {"0": "0.14516379", "1": "0.7143657", "2": "0.013010987", "3": "0.088468656", "4": "0.012995979", "5": "0.013004866", "6": "0.012990069"}}

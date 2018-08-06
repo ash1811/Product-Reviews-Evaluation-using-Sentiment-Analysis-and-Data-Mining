@@ -1,0 +1,1 @@
+{"text": "These pantyhose definitely &#34;tighten&#34; things up, but also make things bulge in some spots. Kinda uncomfortable but not too bad.I am 5'6&#34; 135 and B was perfect for me.", "sentiment": "negative", "topics": {"0": "0.2167907", "1": "0.19417845", "2": "0.2161782", "3": "0.2191775", "4": "0.07363445", "6": "0.07251349"}}

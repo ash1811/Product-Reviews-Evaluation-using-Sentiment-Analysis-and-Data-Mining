@@ -1,0 +1,1 @@
+{"text": "I have never had a pashmina shawl before and I think they are the  &#34; cat's meow&#34;", "sentiment": "negative", "topics": {"0": "0.017869271", "1": "0.31695488", "2": "0.017871914", "3": "0.16170615", "4": "0.18951647", "5": "0.017905524", "6": "0.27817577"}}

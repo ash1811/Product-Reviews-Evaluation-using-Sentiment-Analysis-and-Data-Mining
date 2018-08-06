@@ -1,0 +1,1 @@
+{"text": "I gifted it to my brother, he liked it,, its cheap to buy here as compared to a local store. I will take one more it it goes well for my brother for at least 1 year..", "sentiment": "negative", "topics": {"1": "0.6710363", "6": "0.28908703"}}

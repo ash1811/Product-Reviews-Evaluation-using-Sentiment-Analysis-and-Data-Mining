@@ -1,0 +1,1 @@
+{"text": "A little hard to set up at first but once I figured out the button system it was a snap.  Really love the nylon strap.  It is cool to wear and looks very stylish.  Would recommend this watch to any active person", "sentiment": "positive", "topics": {"0": "0.20932865", "1": "0.26396954", "2": "0.1653456", "4": "0.0981377", "5": "0.16608194", "6": "0.09062166"}}

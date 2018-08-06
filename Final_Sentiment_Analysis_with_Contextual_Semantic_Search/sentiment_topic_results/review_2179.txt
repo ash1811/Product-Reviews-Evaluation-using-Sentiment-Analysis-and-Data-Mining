@@ -1,0 +1,1 @@
+{"text": "Have purchased these shoes for 3 male members of my family and they all swear they'll never wear anything but Skechers again.  Comfortable from the moment you put them on", "sentiment": "negative", "topics": {"0": "0.08905925", "1": "0.2735733", "2": "0.20778646", "3": "0.15838096", "4": "0.11903327", "6": "0.14371325"}}

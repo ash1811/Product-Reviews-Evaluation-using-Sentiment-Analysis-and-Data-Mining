@@ -1,0 +1,1 @@
+{"text": "Sometimes stick and a little hard to pull off, but they do the job well.  Cannot be seen through clothes.", "sentiment": "negative", "topics": {"0": "0.12482149", "1": "0.18654227", "2": "0.38813734", "3": "0.1762997", "4": "0.10034499", "5": "0.011931933", "6": "0.011922245"}}

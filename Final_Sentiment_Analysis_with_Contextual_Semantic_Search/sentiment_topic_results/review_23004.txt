@@ -1,0 +1,1 @@
+{"text": "Name brand, great color, good fit, and good elastic band at the waist.", "sentiment": "negative", "topics": {"0": "0.10848754", "1": "0.5133222", "2": "0.19505705", "3": "0.14406727", "4": "0.013042279", "5": "0.013008502", "6": "0.013015141"}}

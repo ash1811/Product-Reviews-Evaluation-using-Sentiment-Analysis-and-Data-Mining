@@ -1,0 +1,1 @@
+{"text": "This is a nice looking shirt I got for my husband! He says its comfy and he's tall and regular size fit perfect!!", "sentiment": "negative", "topics": {"0": "0.010225438", "1": "0.27672908", "2": "0.010235127", "3": "0.010257703", "4": "0.23783387", "5": "0.010229905", "6": "0.44448885"}}

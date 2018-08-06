@@ -1,0 +1,1 @@
+{"text": "My mom is a hospice patient and she wears nothing but slippers on her feet these days.  She says these slippers are quite comfortable and the rubber soles help her feel safe from slipping.", "sentiment": "negative", "topics": {"0": "0.45499048", "1": "0.20025666", "6": "0.31458217"}}

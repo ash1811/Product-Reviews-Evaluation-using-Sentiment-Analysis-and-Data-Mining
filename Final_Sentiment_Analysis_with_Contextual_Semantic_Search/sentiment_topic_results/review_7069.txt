@@ -1,0 +1,1 @@
+{"text": "great t shirt quality is great material is soft and very confortable doesn't shrink after so many washing holds it shape perfect every time", "sentiment": "positive", "topics": {"1": "0.5909158", "3": "0.22571178", "4": "0.14751694"}}

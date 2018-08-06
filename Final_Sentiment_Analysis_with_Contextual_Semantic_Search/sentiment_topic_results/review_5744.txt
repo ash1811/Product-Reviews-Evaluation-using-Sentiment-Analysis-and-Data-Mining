@@ -1,0 +1,1 @@
+{"text": "The shirt fit really well and has not shrunk in the washer. It's a great color so I bought two of them in different colors and hubby loves them.", "sentiment": "negative", "topics": {"1": "0.6398993", "3": "0.119249694", "4": "0.096162766", "5": "0.11781161"}}

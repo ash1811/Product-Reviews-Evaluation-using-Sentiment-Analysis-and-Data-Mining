@@ -1,0 +1,1 @@
+{"text": "These are very cool socks to be used with vibram toe shoes. Hard to get used to but cool none the less.", "sentiment": "negative", "topics": {"0": "0.1928765", "1": "0.1533103", "2": "0.12679401", "3": "0.110825725", "4": "0.010994002", "5": "0.19664039", "6": "0.20855907"}}

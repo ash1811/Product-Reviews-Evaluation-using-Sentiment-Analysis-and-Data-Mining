@@ -1,0 +1,1 @@
+{"text": "The socks I got are black with a gray heel.  They are very comfortable, and well padded. They are not slippery, so are well suited to walking.", "sentiment": "negative", "topics": {"0": "0.011005013", "1": "0.20739108", "2": "0.011010056", "3": "0.550617", "4": "0.011091375", "5": "0.19787417", "6": "0.0110113565"}}

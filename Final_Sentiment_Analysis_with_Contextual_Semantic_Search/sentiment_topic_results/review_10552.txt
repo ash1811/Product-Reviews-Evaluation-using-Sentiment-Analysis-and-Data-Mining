@@ -1,0 +1,1 @@
+{"text": "This hat is a good fishing hat, I bought for my husband to replace his old one.  It is of good quality and he likes it. Size appear to be accurate. Product is as described and delivered fast. Nice hat", "sentiment": "negative", "topics": {"0": "0.09946278", "1": "0.26229513", "2": "0.084060885", "3": "0.10373578", "4": "0.29921865", "5": "0.0649441", "6": "0.08628264"}}

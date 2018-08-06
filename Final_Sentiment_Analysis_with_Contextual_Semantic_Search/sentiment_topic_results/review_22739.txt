@@ -1,0 +1,1 @@
+{"text": "I bought this for my great-niece to wear when she's playing outside.  It fits her well and will protect her head while she's exploring the great outdoors.  I would recommend it.", "sentiment": "negative", "topics": {"0": "0.13782385", "1": "0.4436449", "2": "0.093052365", "3": "0.14930716", "4": "0.15828103"}}

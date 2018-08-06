@@ -1,0 +1,1 @@
+{"text": "Husband loves these. They actually lasted against his jungle-rot alligator claws. He rips socks to shreds but these are still intact.", "sentiment": "negative", "topics": {"0": "0.21679577", "1": "0.010223058", "2": "0.010219725", "3": "0.30732203", "4": "0.12423553", "5": "0.2468088", "6": "0.08439509"}}

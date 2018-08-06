@@ -1,0 +1,1 @@
+{"text": "Guest love this hat for a photo booth.  Once the white horns are popped into place, they seemed to stay there.  No problems.", "sentiment": "negative", "topics": {"0": "0.01022176", "1": "0.2436516", "2": "0.09689818", "3": "0.51020163", "4": "0.010255807", "5": "0.11856671", "6": "0.010204279"}}

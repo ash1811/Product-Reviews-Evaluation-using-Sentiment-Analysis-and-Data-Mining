@@ -1,0 +1,1 @@
+{"text": "Met my criteria - it worked well and it was long enough to fit. Thanks, I can't find these out here in my state.", "sentiment": "negative", "topics": {"0": "0.011944253", "1": "0.6709979", "2": "0.011922897", "3": "0.011923425", "4": "0.011946975", "5": "0.011946372", "6": "0.26931813"}}

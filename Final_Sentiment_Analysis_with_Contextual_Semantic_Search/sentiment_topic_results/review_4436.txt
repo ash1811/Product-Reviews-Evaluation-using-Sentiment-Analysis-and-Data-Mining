@@ -1,0 +1,1 @@
+{"text": "Although I like slim fit pants more, but this regular fit is so comfortable. The quality of cloth is good and it's as black as I wanted. If you are looking for a pair of pants in regular fit, this one is good for the price.", "sentiment": "negative", "topics": {"1": "0.7540491", "3": "0.1410449", "4": "0.07999865"}}

@@ -1,0 +1,1 @@
+{"text": "Another that is pretty small. Looks bigger in picture than it really is. I had originally hoped to use it for my daughter as a prop in a photo op but it is for an infant. It'll work for infants but not for older children.", "sentiment": "negative", "topics": {"0": "0.21586491", "2": "0.23886505", "3": "0.28053504", "4": "0.1416565", "6": "0.110036545"}}

@@ -1,0 +1,1 @@
+{"text": "And the padding in the cups started to wrinkle.  Would not buy this again.", "sentiment": "negative", "topics": {"0": "0.017872067", "1": "0.39233273", "2": "0.017866297", "3": "0.017903432", "4": "0.017935645", "5": "0.5182302", "6": "0.017859623"}}

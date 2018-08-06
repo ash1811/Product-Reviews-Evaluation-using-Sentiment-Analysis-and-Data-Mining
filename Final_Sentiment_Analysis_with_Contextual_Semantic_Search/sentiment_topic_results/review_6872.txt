@@ -1,0 +1,1 @@
+{"text": "Great for me during a time when I needed extra protection during a heavy menstrual cycles. The portable panties was easy for me when I was going pads really quickly and helped keep me from being so embarrassed .", "sentiment": "positive", "topics": {"0": "0.10381002", "1": "0.10095034", "2": "0.30982447", "5": "0.27500075", "6": "0.19531667"}}

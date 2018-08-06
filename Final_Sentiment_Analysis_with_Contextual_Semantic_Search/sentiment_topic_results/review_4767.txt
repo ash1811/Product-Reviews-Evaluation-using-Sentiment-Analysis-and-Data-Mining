@@ -1,0 +1,1 @@
+{"text": "these are not CHEAP jeans... they're inexpensive and well worth the money... the five pockets are as nice as levis, without the cost!", "sentiment": "negative", "topics": {"0": "0.010238212", "1": "0.4735341", "2": "0.010235076", "3": "0.010218205", "4": "0.01023584", "5": "0.38274863", "6": "0.10278995"}}

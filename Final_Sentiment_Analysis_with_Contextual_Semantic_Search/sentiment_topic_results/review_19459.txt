@@ -1,0 +1,1 @@
+{"text": "After being a VB fan for years...this wallet is not only very beautiful, but extremely durable.  The convenience of the pockets, nook and crannies to be extraordinary.", "sentiment": "negative", "topics": {"0": "0.10506244", "1": "0.1302205", "2": "0.011018395", "3": "0.45367178", "4": "0.11673256", "5": "0.17227997", "6": "0.011014316"}}

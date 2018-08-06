@@ -1,0 +1,1 @@
+{"text": "My favorite slip on.  I have been wearing them since 2001. I bought these because at times they are out of stock at my local store or over priced.", "sentiment": "positive", "topics": {"0": "0.21145122", "1": "0.37887755", "2": "0.0110350065", "3": "0.011039118", "4": "0.22964104", "5": "0.011034536", "6": "0.14692152"}}

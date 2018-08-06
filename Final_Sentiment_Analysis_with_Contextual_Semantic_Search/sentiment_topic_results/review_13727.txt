@@ -1,0 +1,1 @@
+{"text": "These flip flop are perfect, and they last a long time, I love them. Perfect for the beach but also for any time of the day, they look good in leggins, drenes, shorts, etc, etc", "sentiment": "positive", "topics": {"0": "0.22305448", "1": "0.41093227", "2": "0.090949796", "4": "0.1446193", "6": "0.11678438"}}

@@ -1,0 +1,1 @@
+{"text": "Love this.  Would buy again in a heartbeat.  Very supporting and my feet stopped hurting after wearing them.  Love it!", "sentiment": "negative", "topics": {"0": "0.33003113", "1": "0.12681344", "2": "0.2909996", "3": "0.010239094", "4": "0.22149773", "5": "0.010213721", "6": "0.010205315"}}

@@ -1,0 +1,1 @@
+{"text": "You can't beat a cheap Casio when working in landscape or construction for a disposable watch. The battery usually lasts longer than the watch survives. Even so, they are hard to destroy;", "sentiment": "negative", "topics": {"0": "0.22026369", "1": "0.124191284", "2": "0.2571513", "4": "0.20971832", "6": "0.17433569"}}

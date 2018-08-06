@@ -1,0 +1,1 @@
+{"text": "I bought this for my 8 year old and it was kinda big. This bag is big and seems to be well made.", "sentiment": "positive", "topics": {"0": "0.011945836", "1": "0.77512217", "2": "0.011928335", "3": "0.16514409", "4": "0.011947221", "5": "0.011954097", "6": "0.011958228"}}

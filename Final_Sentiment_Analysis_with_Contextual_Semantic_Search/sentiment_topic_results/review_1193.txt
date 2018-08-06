@@ -1,0 +1,1 @@
+{"text": "Bought this hat for my son who loves to kayak. He loves it! It is very light weight and is almost impossible to lose in a high wind. Great fabric too.", "sentiment": "negative", "topics": {"1": "0.29104102", "2": "0.23177539", "3": "0.21595103", "5": "0.15091555", "6": "0.09435329"}}

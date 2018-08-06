@@ -1,0 +1,1 @@
+{"text": "this toiletry kit is good for men or for weekend trip only. It is useful but you cannot put a loot in it.", "sentiment": "positive", "topics": {"0": "0.01106148", "1": "0.50325835", "2": "0.011073297", "3": "0.21434276", "4": "0.23795864", "5": "0.011105461", "6": "0.0112"}}

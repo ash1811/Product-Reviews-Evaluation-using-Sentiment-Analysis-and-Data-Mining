@@ -1,0 +1,1 @@
+{"text": "I purchased this to save me money on going to the jewlry store to get a link removed. Now I can do it myself. It works well.", "sentiment": "positive", "topics": {"0": "0.011016188", "1": "0.7111087", "2": "0.105751224", "3": "0.0110502355", "4": "0.13900264", "5": "0.011061477", "6": "0.011009532"}}

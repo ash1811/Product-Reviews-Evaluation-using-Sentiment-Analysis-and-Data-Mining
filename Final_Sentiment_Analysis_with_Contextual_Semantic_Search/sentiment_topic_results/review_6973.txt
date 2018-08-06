@@ -1,0 +1,1 @@
+{"text": "A good investment for travelling internationally where known pickpockets are a problem. A good safety measure.", "sentiment": "positive", "topics": {"0": "0.11767488", "1": "0.15765883", "2": "0.27396095", "3": "0.14985546", "4": "0.19092852", "5": "0.09692486", "6": "0.012996534"}}

@@ -1,0 +1,1 @@
+{"text": "A gift for my husband and he really likes them.  They are comfortable and the lens is even darker than pictured...that's a plus.  They are sturdy, yet comfortable.", "sentiment": "negative", "topics": {"0": "0.44626603", "1": "0.3538298", "4": "0.16164972"}}

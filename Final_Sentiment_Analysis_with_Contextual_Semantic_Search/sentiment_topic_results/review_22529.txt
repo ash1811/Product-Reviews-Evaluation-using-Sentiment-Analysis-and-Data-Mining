@@ -1,0 +1,1 @@
+{"text": "Works in just seconds! I love it! All my silver jewerly looks like new now! Very easy to use! Just deep your jewerly in the liquid and it becomes clean!", "sentiment": "positive", "topics": {"1": "0.573018", "3": "0.21468516", "6": "0.18046637"}}

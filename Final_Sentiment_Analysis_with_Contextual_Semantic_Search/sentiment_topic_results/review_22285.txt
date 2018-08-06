@@ -1,0 +1,1 @@
+{"text": "i got those stupid shoes with the toes and they hurt me like hell but these were the only socks that worked with it. the socks are great but i'm not a fan of the separated toes.", "sentiment": "negative", "topics": {"0": "0.10221448", "1": "0.26082325", "2": "0.09719142", "5": "0.31361133", "6": "0.20933257"}}

@@ -1,0 +1,1 @@
+{"text": "Boot fits better without socks; however, after I took them off my baby, there was a ring around her leg. So obviosuly they must of been too tight.", "sentiment": "negative", "topics": {"1": "0.42782435", "2": "0.14070566", "3": "0.19697817", "4": "0.15699317", "5": "0.058365308"}}

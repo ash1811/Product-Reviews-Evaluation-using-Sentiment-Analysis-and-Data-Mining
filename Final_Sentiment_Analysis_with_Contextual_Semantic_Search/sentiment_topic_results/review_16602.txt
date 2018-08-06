@@ -1,0 +1,1 @@
+{"text": "I convinced my husband to replace some old leather Keen sandals that he had worn for years with these Newport style Keens.  He seems to like them very much.", "sentiment": "negative", "topics": {"0": "0.092202", "2": "0.30765623", "3": "0.13604519", "4": "0.19708613", "6": "0.24907735"}}

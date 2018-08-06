@@ -1,0 +1,1 @@
+{"text": "Nice inexpensive watch and keeps the time well.  Perfect watch for a small wrist.  Very happy with this watch and would recommend.", "sentiment": "negative", "topics": {"1": "0.48129573", "2": "0.35350376", "5": "0.12697282"}}

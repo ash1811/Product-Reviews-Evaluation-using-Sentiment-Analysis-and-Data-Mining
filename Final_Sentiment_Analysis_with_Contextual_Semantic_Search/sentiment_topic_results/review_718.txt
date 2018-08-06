@@ -1,0 +1,1 @@
+{"text": "mom loves it and loves the no battery, dad likes it so much he got mine too,  great quality and lasts forever", "sentiment": "negative", "topics": {"0": "0.2978581", "1": "0.42072877", "4": "0.24307285"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these to customize with a local artist. Great fit, great quality. Don't shrink after drying. My husband will wear this to death. Great dark grey color, as shown. True to size.", "sentiment": "negative", "topics": {"1": "0.5022944", "2": "0.069863595", "3": "0.18181823", "4": "0.06460669", "5": "0.16777936"}}

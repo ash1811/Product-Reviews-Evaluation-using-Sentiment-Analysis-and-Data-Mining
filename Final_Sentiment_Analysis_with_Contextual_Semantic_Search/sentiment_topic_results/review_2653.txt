@@ -1,0 +1,1 @@
+{"text": "I love this dress.  I was looking for something comfortable to wear around the house.  It seems to run a little bit big, but I'd rather that, than have it run small.  I ordered the dress in two colors, and I'm glad I did.", "sentiment": "negative", "topics": {"1": "0.50044495", "3": "0.2841466", "4": "0.1399453", "5": "0.058961846"}}

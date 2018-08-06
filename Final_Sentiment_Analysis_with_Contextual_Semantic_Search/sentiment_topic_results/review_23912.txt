@@ -1,0 +1,1 @@
+{"text": "I like these because they are longer in the body but not so long in the sleeves that they show or stick out when wearing a polo or similar short-sleeve shirt.", "sentiment": "positive", "topics": {"0": "0.011019494", "1": "0.36672932", "2": "0.22163212", "3": "0.011011901", "4": "0.010999105", "5": "0.17151794", "6": "0.20709012"}}

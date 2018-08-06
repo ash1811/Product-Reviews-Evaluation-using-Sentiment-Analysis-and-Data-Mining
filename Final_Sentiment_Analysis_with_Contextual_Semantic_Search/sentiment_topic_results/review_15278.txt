@@ -1,0 +1,1 @@
+{"text": "I'm wear in' this top right now, with the bottoms to match.  Love the color, it's true to size, washes up great, and doesn't shrink!", "sentiment": "negative", "topics": {"1": "0.3399373", "3": "0.30273208", "5": "0.32156137"}}

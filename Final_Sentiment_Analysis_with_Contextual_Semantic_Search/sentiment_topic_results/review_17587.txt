@@ -1,0 +1,1 @@
+{"text": "This watch was a gift for someone. When I got it I thought it was a nice elegant watch. I own a Fossil myself (no, not a bone).", "sentiment": "negative", "topics": {"0": "0.109392665", "1": "0.011994536", "2": "0.34724912", "3": "0.2446711", "4": "0.106249034", "5": "0.011915892", "6": "0.16852765"}}

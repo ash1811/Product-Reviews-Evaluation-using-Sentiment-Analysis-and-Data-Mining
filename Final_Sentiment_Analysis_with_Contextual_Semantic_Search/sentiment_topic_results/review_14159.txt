@@ -1,0 +1,1 @@
+{"text": "I love this robe because it is super soft. Would definitely recommend this as a gift!", "sentiment": "negative", "topics": {"0": "0.4095518", "1": "0.30604523", "2": "0.015899297", "3": "0.22076131", "4": "0.015946425", "5": "0.015900722", "6": "0.015895156"}}

@@ -1,0 +1,1 @@
+{"text": "this is nice fabric and I'll probably try again in a smaller size but it was the first fantasie I tried.  I thought it would fit like Chantelle.  I pretty sure I'll need a smaller cup than I need for panache or freya, and a smaller band than Chantelle.", "sentiment": "positive", "topics": {"1": "0.23523828", "2": "0.13622244", "3": "0.36467195", "6": "0.248495"}}

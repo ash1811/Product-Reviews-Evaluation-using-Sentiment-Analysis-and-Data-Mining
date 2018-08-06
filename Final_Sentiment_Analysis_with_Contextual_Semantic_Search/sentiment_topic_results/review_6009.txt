@@ -1,0 +1,1 @@
+{"text": "This is a soft fashionable brown that will go well with most earth tone colored outfits. I would consider buying as a gift for a friend or family member.", "sentiment": "positive", "topics": {"0": "0.2711257", "1": "0.18046756", "3": "0.13309778", "5": "0.2614914", "6": "0.13698915"}}

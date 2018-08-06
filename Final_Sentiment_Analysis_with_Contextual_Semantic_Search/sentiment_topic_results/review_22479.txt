@@ -1,0 +1,1 @@
+{"text": "Nice, sort and cotton.  Love the high cut it doesn't dig into your leg.  They have a lot of nice colors too.", "sentiment": "negative", "topics": {"0": "0.13435003", "1": "0.33779126", "2": "0.24463081", "3": "0.25014788", "4": "0.011026303", "5": "0.011017367", "6": "0.011036358"}}

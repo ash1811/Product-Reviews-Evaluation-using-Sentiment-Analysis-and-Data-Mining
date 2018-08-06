@@ -1,0 +1,1 @@
+{"text": "Everything was good about the shirt. They were sized right. They fitted well and did not fade after one wash.", "sentiment": "positive", "topics": {"0": "0.0130086895", "1": "0.57608247", "2": "0.35880277", "3": "0.013020039", "4": "0.013022673", "5": "0.013034972", "6": "0.013028383"}}

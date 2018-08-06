@@ -1,0 +1,1 @@
+{"text": "Got this belt for my son and he loves it. He can wear this belt with dress pants or jeans. Very sturdy product.", "sentiment": "negative", "topics": {"0": "0.011021563", "1": "0.40851733", "2": "0.22106194", "3": "0.011024401", "4": "0.011037276", "5": "0.32628188", "6": "0.011055578"}}

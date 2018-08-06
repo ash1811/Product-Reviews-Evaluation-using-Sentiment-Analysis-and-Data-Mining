@@ -1,0 +1,1 @@
+{"text": "this was too big for my hubby though he like the material but bad thing there were no XLT size so I returned this item.", "sentiment": "positive", "topics": {"0": "0.011918285", "1": "0.35188937", "2": "0.011932213", "3": "0.011971886", "4": "0.1632999", "5": "0.09971845", "6": "0.3492699"}}

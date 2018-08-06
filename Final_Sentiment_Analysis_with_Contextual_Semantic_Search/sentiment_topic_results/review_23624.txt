@@ -1,0 +1,1 @@
+{"text": "socks too large and bulky for a woman (in the foot).  the size around the ankle were fine, but too large to fit into size 8 woman's shoe for my 93 yo mom", "sentiment": "negative", "topics": {"0": "0.12383038", "1": "0.30775356", "2": "0.16265838", "3": "0.25711885", "5": "0.13429229"}}

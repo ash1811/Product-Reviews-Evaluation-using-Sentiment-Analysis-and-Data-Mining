@@ -1,0 +1,1 @@
+{"text": "Not much to say. Does it's job. Looks just like the picture, description is pretty accurate, and I agree with most of the other top reviews for this item. Great deal with the price! Not bad!", "sentiment": "negative", "topics": {"1": "0.5032953", "2": "0.10948025", "3": "0.15883134", "6": "0.20452255"}}

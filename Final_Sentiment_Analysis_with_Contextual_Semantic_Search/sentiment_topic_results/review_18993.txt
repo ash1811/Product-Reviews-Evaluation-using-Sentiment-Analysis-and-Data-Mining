@@ -1,0 +1,1 @@
+{"text": "I am trying this brand for the first time and it is really comfy but at the same time I fell it is somewhat small. I ordered my size but it's just a little snug so I gave it away", "sentiment": "negative", "topics": {"2": "0.37421843", "3": "0.48295274", "6": "0.10901944"}}

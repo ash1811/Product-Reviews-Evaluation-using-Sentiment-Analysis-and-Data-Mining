@@ -1,0 +1,1 @@
+{"text": "Really pleased with my Keds.  The look great and go with just about everything.  I bought a size 8 which is my usual size and they fit fine.  Although,they did rub a spot raw on my heel the first few times I wore them.", "sentiment": "negative", "topics": {"1": "0.42661193", "2": "0.17107658", "3": "0.2642534", "6": "0.12013707"}}

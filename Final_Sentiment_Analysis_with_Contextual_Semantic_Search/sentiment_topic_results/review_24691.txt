@@ -1,0 +1,1 @@
+{"text": "You can't go wrong with REEF! HIgh quality, comfortable. These flip flops will last a lifetime. Plus the bottle opener on the bottom is a great conversation piece.", "sentiment": "negative", "topics": {"1": "0.331116", "2": "0.31173143", "5": "0.20858614", "6": "0.12584667"}}

@@ -1,0 +1,1 @@
+{"text": "These are very comfortable shoes. The wide band is great too. They don't slip when  walking. I am now wearing them quite often and the brown is a great match for a lot f summer clothes.", "sentiment": "positive", "topics": {"0": "0.37172192", "1": "0.43450722", "2": "0.16360253"}}

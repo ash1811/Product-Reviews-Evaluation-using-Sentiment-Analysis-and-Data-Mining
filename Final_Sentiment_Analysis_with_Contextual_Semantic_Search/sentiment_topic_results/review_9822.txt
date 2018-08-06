@@ -1,0 +1,1 @@
+{"text": "The price was good, the fit and quality are both excellent, these sandals have held up well and are very comfortable.  Will purchase from this seller again.", "sentiment": "negative", "topics": {"0": "0.011004594", "1": "0.73075277", "2": "0.10520403", "3": "0.010991122", "4": "0.12003325", "5": "0.0110252695", "6": "0.010989021"}}

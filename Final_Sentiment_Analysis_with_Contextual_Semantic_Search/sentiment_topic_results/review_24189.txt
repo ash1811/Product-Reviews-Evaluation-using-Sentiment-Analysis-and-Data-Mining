@@ -1,0 +1,1 @@
+{"text": "I have tried a lot of full figure bras and Glamorise makes the best. Over time, the other bras tend to sag and lose their shapes. But this bra keeps lifting wash after wash.", "sentiment": "negative", "topics": {"0": "0.15344135", "1": "0.33967695", "2": "0.12619041", "3": "0.3148857", "4": "0.051430643"}}

@@ -1,0 +1,1 @@
+{"text": "I do not find these comfortable.  I normally wear a medium shoe.  Had to exchange for narrow and they are still too wide.  Cannot find this color in any other shoe so will keep, but will not order Birkenstock again.", "sentiment": "negative", "topics": {"0": "0.049317878", "1": "0.46797743", "2": "0.1254047", "3": "0.22294016", "5": "0.11926917"}}

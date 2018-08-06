@@ -1,0 +1,1 @@
+{"text": "Bought this in size 5 which is my regular size but it was too small.  But the cut and the feel is nice.", "sentiment": "positive", "topics": {"0": "0.014325691", "1": "0.014364883", "2": "0.014295104", "3": "0.91403264", "4": "0.014320818", "5": "0.0143229235", "6": "0.014337964"}}

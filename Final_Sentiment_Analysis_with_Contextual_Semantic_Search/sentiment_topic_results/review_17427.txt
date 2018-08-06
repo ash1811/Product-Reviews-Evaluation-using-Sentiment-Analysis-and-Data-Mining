@@ -1,0 +1,1 @@
+{"text": "I purchased these to fill out my athletic sock drawer and was very pleased with the weight, value, and quality of this sock.", "sentiment": "positive", "topics": {"0": "0.013006579", "1": "0.34730878", "2": "0.013006747", "3": "0.012995368", "4": "0.013010532", "5": "0.58764774", "6": "0.013024264"}}

@@ -1,0 +1,1 @@
+{"text": "I'm 5'4&#34; and 110 lbs and these are a little long and the waist is high. Leggings are nice and opaque but I prefer the fit of the capezio low rise legging.", "sentiment": "negative", "topics": {"0": "0.07593342", "1": "0.37232608", "2": "0.1753135", "3": "0.095551364", "4": "0.20118827", "5": "0.071702585"}}

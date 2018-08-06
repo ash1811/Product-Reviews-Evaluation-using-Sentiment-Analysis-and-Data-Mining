@@ -1,0 +1,1 @@
+{"text": "Very comfortable bra.  Sizing runs on the small side. I usually get 34 but from experience I know Panache runs small so I ordered the 36 and it fits well.  Looks fine under T-shirts even for those of us that are larger.", "sentiment": "negative", "topics": {"1": "0.4241175", "2": "0.21774627", "3": "0.19527966", "6": "0.14565495"}}

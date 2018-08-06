@@ -1,0 +1,1 @@
+{"text": "My husband is so picky about sandels, finding something for him to ware to the pool or at the lake is a pain. He does like these and thats all I care about.", "sentiment": "positive", "topics": {"0": "0.25704843", "1": "0.26573613", "2": "0.225913", "3": "0.01028402", "4": "0.11126137", "5": "0.11950215", "6": "0.010254911"}}

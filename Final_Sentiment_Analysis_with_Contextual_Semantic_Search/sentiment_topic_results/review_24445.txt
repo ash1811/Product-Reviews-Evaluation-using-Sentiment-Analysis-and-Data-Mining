@@ -1,0 +1,1 @@
+{"text": "This was everything I needed. Only thing is it is a little tight when I put it over my arms.", "sentiment": "negative", "topics": {"0": "0.017910965", "1": "0.6788443", "2": "0.23151344", "3": "0.017896624", "4": "0.017953563", "5": "0.017933667", "6": "0.017947515"}}

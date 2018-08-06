@@ -1,0 +1,1 @@
+{"text": "I bought these to wear to the beach under black beachy short dresses. They are perfect, no lines, very comfortable and breathable.  I also feel, if the wind blows the wrong way, I won't be giving anyone a free show!", "sentiment": "negative", "topics": {"0": "0.19934496", "1": "0.12839052", "2": "0.16420843", "3": "0.23731588", "4": "0.13968614", "6": "0.124538474"}}

@@ -1,0 +1,1 @@
+{"text": "I always wear Merrells to work.  These have great support AND cushion.  I've learned to buy a half size larger for a better fit.", "sentiment": "positive", "topics": {"1": "0.3570568", "2": "0.13499767", "3": "0.3596437", "4": "0.12145338"}}

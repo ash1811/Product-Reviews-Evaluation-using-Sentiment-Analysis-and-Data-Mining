@@ -1,0 +1,1 @@
+{"text": "I could have ordered my usual size - medium, but the large is fine. The color is so fantastic and this hoodie is really warm.", "sentiment": "negative", "topics": {"0": "0.10256974", "1": "0.51595616", "2": "0.08461328", "3": "0.26384667", "4": "0.010997925", "5": "0.011007544", "6": "0.011008666"}}

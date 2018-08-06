@@ -1,0 +1,1 @@
+{"text": "Its nice. She thought it was comfortable. We had a good time and more ahead. We have a black one too.", "sentiment": "negative", "topics": {"0": "0.014350651", "1": "0.43548077", "2": "0.49286622", "3": "0.014352816", "4": "0.014323493", "5": "0.01432124", "6": "0.01430477"}}

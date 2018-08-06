@@ -1,0 +1,1 @@
+{"text": "Kool product.  My son is totally enjoying them at the pool side.  Highly recommend this product.  I got it a at fabulous price.", "sentiment": "positive", "topics": {"0": "0.244855", "1": "0.0102374535", "2": "0.01022762", "3": "0.010221343", "4": "0.08608849", "5": "0.53480285", "6": "0.1035672"}}

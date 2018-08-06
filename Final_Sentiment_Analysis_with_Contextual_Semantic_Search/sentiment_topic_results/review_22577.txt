@@ -1,0 +1,1 @@
+{"text": "These are great for wearing to work with a polo! I have struggled finding nice khaki pants that are not skin tight and made semi-thick material. These work great! They are not dressy, but can be worn with heels!", "sentiment": "negative", "topics": {"1": "0.6098685", "2": "0.10062132", "4": "0.06498553", "5": "0.07770415", "6": "0.13250625"}}

@@ -1,0 +1,1 @@
+{"text": "These are not the colors I wanted. I wanted light colors and I was sent dark ones. Will not wear them.", "sentiment": "negative", "topics": {"0": "0.013026243", "1": "0.59447783", "2": "0.34042147", "3": "0.013034757", "4": "0.013012678", "5": "0.013030914", "6": "0.01299609"}}

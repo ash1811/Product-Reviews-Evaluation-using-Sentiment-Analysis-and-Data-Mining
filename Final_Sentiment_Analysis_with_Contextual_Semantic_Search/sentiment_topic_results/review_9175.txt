@@ -1,0 +1,1 @@
+{"text": "My husband was not thrilled with these slippers, because his foot slid sideways when he walked in them.  However, he wore them out, so I guess they were okay.", "sentiment": "negative", "topics": {"0": "0.010210434", "1": "0.09091093", "2": "0.27357253", "3": "0.123022914", "4": "0.30472082", "5": "0.0102451565", "6": "0.18731718"}}

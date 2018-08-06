@@ -1,0 +1,1 @@
+{"text": "I got confused with hybrid and twill ,this hybrid is not becoming ,the material is very hard ,and the fit squishes your balls not good.", "sentiment": "positive", "topics": {"0": "0.2840257", "1": "0.22061403", "2": "0.29795617", "3": "0.103823245", "4": "0.07566172"}}

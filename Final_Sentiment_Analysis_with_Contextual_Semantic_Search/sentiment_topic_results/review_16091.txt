@@ -1,0 +1,1 @@
+{"text": "Love this travel bag!  It keeps me organized and hangs perfectly on a hotel room bathroom door.  Folds up and keeps my make up safe when I travel.", "sentiment": "negative", "topics": {"1": "0.23787512", "2": "0.21805453", "3": "0.32522684", "5": "0.11795058", "6": "0.08403236"}}

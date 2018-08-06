@@ -1,0 +1,1 @@
+{"text": "Jockey are my all time favorite brief, wish they had them in  more colors and love the softness and the fit of these briefs and love that they are no lined", "sentiment": "positive", "topics": {"0": "0.011030592", "1": "0.34368268", "2": "0.011032323", "3": "0.011019044", "4": "0.35319844", "5": "0.25904584", "6": "0.010991104"}}

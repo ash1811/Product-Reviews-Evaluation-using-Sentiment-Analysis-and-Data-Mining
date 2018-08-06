@@ -1,0 +1,1 @@
+{"text": "These shoes fit really well and are easy on and off.  They are attractive and I will be able to wear them in the winter because they are dark.  Its like wearing good tennis shoes with no back.  Lovely.", "sentiment": "negative", "topics": {"1": "0.45725572", "2": "0.21207432", "3": "0.105297916", "4": "0.070728034", "6": "0.13957012"}}

@@ -1,0 +1,1 @@
+{"text": "These work very well for the money, but there is too much space between the hooks for most of my bras. I use them with a few Masquerade bras and these extenders seem to be too wide for that brand. However they fit fine on my Freya bras.", "sentiment": "negative", "topics": {"1": "0.2081948", "2": "0.19842795", "3": "0.469839", "5": "0.102080666"}}

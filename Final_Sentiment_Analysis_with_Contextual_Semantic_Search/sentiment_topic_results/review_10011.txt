@@ -1,0 +1,1 @@
+{"text": "very good watch . big dial ,big numbers, easy read indeed. the strap is genuine leather. Just the right gift for men.", "sentiment": "negative", "topics": {"0": "0.08309764", "1": "0.24766555", "2": "0.42264196", "3": "0.102780454", "6": "0.12592733"}}

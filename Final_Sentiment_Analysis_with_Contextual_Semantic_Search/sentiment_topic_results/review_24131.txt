@@ -1,0 +1,1 @@
+{"text": "I thought this would be more comfortable and soft but its stiff and very fitted.  The material seems to have a crispy feel instead of softness against the skin, although it does hold everything in place while doing activities.", "sentiment": "negative", "topics": {"1": "0.3839267", "2": "0.09465687", "3": "0.49127418"}}

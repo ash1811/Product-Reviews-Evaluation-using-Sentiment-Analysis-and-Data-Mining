@@ -1,0 +1,1 @@
+{"text": "I have a bunch of heavy weight Carhardt hoodies that I love, but paid a lot for.  This is a great inexpensive lightweight option.", "sentiment": "negative", "topics": {"0": "0.14264469", "1": "0.010271732", "2": "0.010247385", "3": "0.010244914", "4": "0.26513907", "5": "0.1828571", "6": "0.37859514"}}

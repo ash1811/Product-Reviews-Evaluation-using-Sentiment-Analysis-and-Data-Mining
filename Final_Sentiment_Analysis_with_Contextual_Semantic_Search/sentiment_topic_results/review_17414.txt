@@ -1,0 +1,1 @@
+{"text": "These are nice sox.  They are kind of heavy duty but not so thick your shoes don't fit right.  They seem to be good quality, I have washed and dryed them, the next test will be my 18-year old teen son with size 13 feet!", "sentiment": "negative", "topics": {"0": "0.07340627", "1": "0.29154992", "2": "0.23844789", "4": "0.12712112", "6": "0.25797427"}}

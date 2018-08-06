@@ -1,0 +1,1 @@
+{"text": "These shirts are great for the tall/bigger guy. My son is 6 4 and about 250 and these work great but they do run a bit large so an XXL somewhere else is an XL here", "sentiment": "positive", "topics": {"1": "0.27553686", "2": "0.13828309", "3": "0.27969155", "4": "0.08140173", "5": "0.11867527", "6": "0.098453134"}}

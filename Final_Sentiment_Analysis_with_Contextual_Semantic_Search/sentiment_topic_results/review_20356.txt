@@ -1,0 +1,1 @@
+{"text": "This is my favorite tank top!  It has a very supportive bra even for a larger chest size!  I had to order another!!", "sentiment": "negative", "topics": {"0": "0.32466006", "1": "0.011942189", "2": "0.011933079", "3": "0.40876356", "4": "0.011949763", "5": "0.011956638", "6": "0.2187947"}}

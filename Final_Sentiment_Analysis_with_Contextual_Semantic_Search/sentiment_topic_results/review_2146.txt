@@ -1,0 +1,1 @@
+{"text": "The design is very nice. They feel comfortable too. So far I haven't discovered any significant flaws, however, I doubt that these shoes are for running. They're not heavy but definitely too bulky for that. Otherwise they are pretty good.", "sentiment": "negative", "topics": {"1": "0.156934", "2": "0.36718786", "4": "0.094741605", "5": "0.25793493", "6": "0.110120915"}}

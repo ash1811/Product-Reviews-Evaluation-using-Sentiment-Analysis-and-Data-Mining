@@ -1,0 +1,1 @@
+{"text": "It fits great and I'm sure it will not wear out, but it's going to take many, many washings to make it soft enough to be comfy.", "sentiment": "positive", "topics": {"1": "0.4135975", "2": "0.10673755", "3": "0.089087546", "4": "0.36372837"}}

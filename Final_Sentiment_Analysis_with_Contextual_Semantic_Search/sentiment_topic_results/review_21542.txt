@@ -1,0 +1,1 @@
+{"text": "Love the style, love the color (peach pink), love the contrast! Quite a unique pump! Comfortable round toe tip and fit. However, made narrow and small, I had to get two sizes up.", "sentiment": "negative", "topics": {"0": "0.07317052", "1": "0.4749049", "2": "0.09615703", "3": "0.27633467", "6": "0.06795166"}}

@@ -1,0 +1,1 @@
+{"text": "I thought this would be a little bigger. I was going to send it back but my wife liked it so I figured for what little I paid for it if she likes it she can have it. Didn't really fit my needs.", "sentiment": "positive", "topics": {"0": "0.18192784", "1": "0.63473743", "6": "0.15147947"}}

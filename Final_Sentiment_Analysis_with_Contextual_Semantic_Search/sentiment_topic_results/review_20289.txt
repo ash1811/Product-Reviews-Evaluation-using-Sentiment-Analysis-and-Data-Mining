@@ -1,0 +1,1 @@
+{"text": "I've been using Kiwi products on my Allen Edmonds for years now.  The kiwi stuff does an adequate job, but it is a time-consuming process.  I tried this polish out for mid-week cleaning.  It is great!", "sentiment": "negative", "topics": {"0": "0.105330825", "1": "0.16282995", "2": "0.05934871", "3": "0.195235", "4": "0.1554074", "5": "0.067606166", "6": "0.254242"}}

@@ -1,0 +1,1 @@
+{"text": "I have been buying Camerons for many years. They are competitive with other quality shoes at a much better price. They always fit as expected and require no break in. Extremely durable.", "sentiment": "positive", "topics": {"1": "0.3142402", "2": "0.108589076", "3": "0.20909792", "4": "0.14413753", "5": "0.10215061", "6": "0.114252314"}}

@@ -1,0 +1,1 @@
+{"text": "Love the mini uggs, more comfortable to wear then short or tall uggs, feel more free that way when I wear them.", "sentiment": "negative", "topics": {"0": "0.44391283", "1": "0.11045525", "2": "0.010217316", "3": "0.40470496", "4": "0.010251284", "5": "0.010240748", "6": "0.010217631"}}

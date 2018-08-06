@@ -1,0 +1,1 @@
+{"text": "I bought 1 for my hubby and he loves it!! Very comfy and warm.. Good thick material. Made well and comes in tall sizes! A bonus for my 6ft 5 guy!! Looks great on him! :)", "sentiment": "positive", "topics": {"0": "0.144133", "1": "0.52354383", "3": "0.09220939", "4": "0.12521197", "5": "0.102439284"}}

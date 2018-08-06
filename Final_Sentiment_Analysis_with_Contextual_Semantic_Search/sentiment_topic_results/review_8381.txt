@@ -1,0 +1,1 @@
+{"text": "This balaclava is thick and very warm, but the seam running down the forehead is very thick and uncomfortable.  It always leaves a big mark on my head for hours after wearing it.", "sentiment": "positive", "topics": {"1": "0.39708045", "2": "0.19425908", "3": "0.1619872", "5": "0.10159477", "6": "0.12824523"}}

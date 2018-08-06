@@ -1,0 +1,1 @@
+{"text": "I wear these boat shoes in place of sneakers. They are comfortable, easy to slip on, and look good.  Very satisfied.", "sentiment": "positive", "topics": {"0": "0.35675555", "1": "0.3470382", "2": "0.09049942", "3": "0.011026474", "4": "0.011007555", "5": "0.011058561", "6": "0.1726142"}}

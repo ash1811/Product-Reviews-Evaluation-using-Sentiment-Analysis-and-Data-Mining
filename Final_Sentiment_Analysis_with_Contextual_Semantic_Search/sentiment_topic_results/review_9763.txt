@@ -1,0 +1,1 @@
+{"text": "They are great quality, especially for the price. Bought these for one of my g sons, he loves the boot, was surprised how heavy they were, so they are not a light weight boot. All pros...", "sentiment": "positive", "topics": {"1": "0.43263504", "3": "0.06844811", "4": "0.35346097", "6": "0.121585816"}}

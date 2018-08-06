@@ -1,0 +1,1 @@
+{"text": "It seems like every Rockport shoe I buy is an excellent product.  Comfortable and stylish, I wear them to work with khakis .", "sentiment": "negative", "topics": {"0": "0.01021824", "1": "0.26694354", "2": "0.23458374", "3": "0.01024657", "4": "0.08583721", "5": "0.27565712", "6": "0.116513535"}}

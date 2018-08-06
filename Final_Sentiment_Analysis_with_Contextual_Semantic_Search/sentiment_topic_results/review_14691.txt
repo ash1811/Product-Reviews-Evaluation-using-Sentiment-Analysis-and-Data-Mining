@@ -1,0 +1,1 @@
+{"text": "I love Aerolsole shoes and this one is no exception. The color is a soft orange and looks great with denim and other summer looks. It is true to size and very comfortable!", "sentiment": "negative", "topics": {"0": "0.10022172", "1": "0.55345607", "2": "0.19334805", "6": "0.12765518"}}

@@ -1,0 +1,1 @@
+{"text": "These  slippers are pretty, go with most any pajamas and are exceptionally well padded and comfortable.  Recommend them highly and suggest ordering by shoe size for perfect fit.", "sentiment": "positive", "topics": {"1": "0.5502002", "2": "0.08623984", "4": "0.08975278", "6": "0.24847928"}}

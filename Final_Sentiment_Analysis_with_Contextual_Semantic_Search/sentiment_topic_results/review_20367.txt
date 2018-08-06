@@ -1,0 +1,1 @@
+{"text": "we ordered this for a Star Wars party.  The wig is amazing- just leave the netting on.  The dress itself is rather large.  I debated sizes but went smaller and it fit perfectly.  The belt is kind of lame but the wig makes up for it.", "sentiment": "negative", "topics": {"0": "0.1456066", "1": "0.20724171", "2": "0.17269981", "3": "0.31510675", "4": "0.1478988"}}

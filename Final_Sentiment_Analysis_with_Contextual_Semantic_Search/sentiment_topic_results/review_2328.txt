@@ -1,0 +1,1 @@
+{"text": "My dress shoe size and regular shoe size is 8.5. But these shows were WAY too tight, and not just too short, but too narrow. Had to return them. But they looked really nice.", "sentiment": "negative", "topics": {"0": "0.076289624", "1": "0.2398853", "2": "0.23106101", "3": "0.21999395", "4": "0.095061965", "6": "0.12975815"}}

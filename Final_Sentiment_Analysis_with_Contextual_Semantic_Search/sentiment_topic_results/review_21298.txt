@@ -1,0 +1,1 @@
+{"text": "The Heavenly Heelz really work well. I have a narrow heel so flats never fit and slip . These help and they are easy to,apply.", "sentiment": "positive", "topics": {"0": "0.08975432", "1": "0.5137094", "3": "0.14127302", "4": "0.10104324", "6": "0.13514127"}}

@@ -1,0 +1,1 @@
+{"text": "The size of this bandanna is perfect.  The material and color meet my expectations and since it is a gift, I know it will be enjoyed.", "sentiment": "positive", "topics": {"0": "0.3118306", "1": "0.012004252", "2": "0.01191719", "3": "0.3868933", "4": "0.011943885", "5": "0.25346315", "6": "0.011947605"}}

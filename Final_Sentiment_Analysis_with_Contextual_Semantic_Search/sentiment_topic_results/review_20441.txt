@@ -1,0 +1,1 @@
+{"text": "I got these in the correct size.  Somehow on my feet, they just looked glunky .  They just didn't work for me.Sorry to send them back, but I knew  I wouldn't wear them much or not at all.", "sentiment": "negative", "topics": {"0": "0.3899168", "1": "0.31821248", "2": "0.080809236", "6": "0.18411016"}}

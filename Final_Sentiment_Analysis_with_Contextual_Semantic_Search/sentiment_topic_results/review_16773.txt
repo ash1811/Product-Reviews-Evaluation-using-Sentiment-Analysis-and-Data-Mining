@@ -1,0 +1,1 @@
+{"text": "I'm buying one more right now, My cousin loved it so much hes gonna pay me 2x the price if I bring him it lol.", "sentiment": "negative", "topics": {"1": "0.6370208", "5": "0.31808588"}}

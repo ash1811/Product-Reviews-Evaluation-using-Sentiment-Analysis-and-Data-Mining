@@ -1,0 +1,1 @@
+{"text": "My husband could not find Levi's in his size and length anywhere. These fit him perfectly. I ordered the dark blue denim and they are great. We will never drive to 5 stores looking  for sizes that only exist online again.", "sentiment": "negative", "topics": {"1": "0.36423346", "3": "0.26675752", "4": "0.26174325", "6": "0.089370176"}}

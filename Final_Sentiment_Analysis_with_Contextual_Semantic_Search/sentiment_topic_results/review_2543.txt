@@ -1,0 +1,1 @@
+{"text": "I'm a minimalist at heart. Therefore, my biggest requirement was to find a wallet/card holder that wasn't too bulky for my back pocket. This one does the job. Its sleek design allows you to stuff 6 credit cards (3 on each side) without taking up much space.", "sentiment": "negative", "topics": {"1": "0.40503934", "2": "0.1845396", "4": "0.07369582", "6": "0.3213067"}}

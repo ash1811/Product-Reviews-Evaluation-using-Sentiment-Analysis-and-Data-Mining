@@ -1,0 +1,1 @@
+{"text": "My husband loves these. They fit perfectly and look great. Much easier than going to the store, and the price is better than the department store.", "sentiment": "negative", "topics": {"0": "0.19205698", "1": "0.54786325", "2": "0.09705216", "4": "0.13616627"}}

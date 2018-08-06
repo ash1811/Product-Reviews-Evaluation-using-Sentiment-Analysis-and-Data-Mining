@@ -1,0 +1,1 @@
+{"text": "Bought these for my daughter and for me.  They are a pretty satin finish and very comfortable.  Highly recommend as this was an excellent buying experience.", "sentiment": "negative", "topics": {"0": "0.011041019", "1": "0.4519302", "2": "0.37328178", "3": "0.011011803", "4": "0.011009082", "5": "0.011052563", "6": "0.13067354"}}

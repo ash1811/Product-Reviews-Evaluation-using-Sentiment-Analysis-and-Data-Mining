@@ -1,0 +1,1 @@
+{"text": "This is the second pair of 501s i bought over amazon. The sizing is consistent and I am highly satisfied with the jeans.", "sentiment": "negative", "topics": {"0": "0.013030797", "1": "0.21746267", "2": "0.013002691", "3": "0.2945964", "4": "0.24814767", "5": "0.013090467", "6": "0.20066927"}}

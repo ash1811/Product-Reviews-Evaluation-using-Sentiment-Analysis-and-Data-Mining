@@ -1,0 +1,1 @@
+{"text": "There are many kind of bra out there, such as the Coobie Strappy V-Neck Lace Trim Bras; but then there is this item from Felina Women. This bra has both style and fabrics going for it.  You will disappointed from this item. I assure you.", "sentiment": "negative", "topics": {"1": "0.25975892", "3": "0.3737614", "4": "0.063199", "5": "0.12321504", "6": "0.16760536"}}

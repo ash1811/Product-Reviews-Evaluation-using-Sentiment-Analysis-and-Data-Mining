@@ -1,0 +1,1 @@
+{"text": "I ordered this without much research and found it to be a bit thinner and lighter than I would have liked. Definitely not for cold winter nights. X-Large runs a bit small imo, especially the sleeves.", "sentiment": "positive", "topics": {"1": "0.42363605", "3": "0.27697694", "4": "0.20860773", "6": "0.0712694"}}

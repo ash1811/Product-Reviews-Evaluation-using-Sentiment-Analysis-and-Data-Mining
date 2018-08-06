@@ -1,0 +1,1 @@
+{"text": "This is a cool cap, but it cannot be sized larger than medium (at least the one we got).  I gave it to my grandson who loves it.", "sentiment": "negative", "topics": {"3": "0.5217801", "4": "0.43033487"}}

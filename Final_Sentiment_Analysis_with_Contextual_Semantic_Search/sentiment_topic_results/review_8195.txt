@@ -1,0 +1,1 @@
+{"text": "They seem very nice, but were two sizes too small. I had to give them away to a lady that normally wears two sizes smaller.", "sentiment": "positive", "topics": {"0": "0.010213552", "1": "0.37982973", "2": "0.10280912", "3": "0.47638795", "4": "0.010312156", "5": "0.010224307", "6": "0.010223172"}}

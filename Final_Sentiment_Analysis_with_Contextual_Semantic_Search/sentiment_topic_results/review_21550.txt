@@ -1,0 +1,1 @@
+{"text": "Bought this item for my daughter (18 mo) for Christmas and she loves them, as do I! They are such a neat toy that can be played with in and out of the tub.  They quickly became a favorite.", "sentiment": "positive", "topics": {"0": "0.2597174", "2": "0.11187961", "4": "0.2285612", "5": "0.2228537", "6": "0.16012895"}}

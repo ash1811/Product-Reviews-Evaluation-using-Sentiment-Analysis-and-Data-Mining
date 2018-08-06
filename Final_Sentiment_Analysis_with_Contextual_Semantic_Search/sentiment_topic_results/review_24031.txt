@@ -1,0 +1,1 @@
+{"text": "These stockings are well-made & true to size. They arrived earlier than expected- always a bonus! I got both the white & black; they are lovely.", "sentiment": "positive", "topics": {"0": "0.29993406", "1": "0.010247645", "2": "0.010238588", "3": "0.4415149", "4": "0.11600566", "5": "0.11179931", "6": "0.010259853"}}

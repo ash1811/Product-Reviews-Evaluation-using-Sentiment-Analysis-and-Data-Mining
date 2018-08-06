@@ -1,0 +1,1 @@
+{"text": "Hubby loves these glasses.  They look great on him too.  Very attractive and should hold up for a long time like Oakley's are expected too. He is a happy guy.", "sentiment": "negative", "topics": {"0": "0.3754535", "3": "0.20051314", "4": "0.15750726", "5": "0.14679827", "6": "0.102852255"}}

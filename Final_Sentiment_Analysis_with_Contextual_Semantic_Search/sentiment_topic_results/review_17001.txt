@@ -1,0 +1,1 @@
+{"text": "like silver love hearts already have on but it was to big so I ordered another one, fits nice,  looks good on ,never take it off", "sentiment": "negative", "topics": {"1": "0.7084544", "3": "0.110738784", "6": "0.14497346"}}

@@ -1,0 +1,1 @@
+{"text": "Purchased for someone who could not find her size at local malls.  I suggest I try for her online and viola, it worked quite well. She likes very much and this has the wider straps.", "sentiment": "positive", "topics": {"1": "0.37131652", "2": "0.09729461", "3": "0.05739765", "4": "0.17065255", "6": "0.28823975"}}

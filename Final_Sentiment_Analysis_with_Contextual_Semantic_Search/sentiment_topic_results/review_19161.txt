@@ -1,0 +1,1 @@
+{"text": "These necklaces are made to last long and outshine all others,I wear them everyday and have had them for about 1 year and they have not tarnished. They are still shiny as they were on the first day.", "sentiment": "negative", "topics": {"1": "0.28170735", "2": "0.083821714", "4": "0.08301762", "5": "0.2091056", "6": "0.32440373"}}

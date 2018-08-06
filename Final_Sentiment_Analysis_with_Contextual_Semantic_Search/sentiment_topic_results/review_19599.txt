@@ -1,0 +1,1 @@
+{"text": "This bra is very comfortable and great fitting.  I am very satisfied with my purchase.  I would recommend this to anyone looking for a comfortable everyday bra.", "sentiment": "negative", "topics": {"0": "0.10987069", "1": "0.38786757", "2": "0.0102175465", "3": "0.3008426", "4": "0.09167314", "5": "0.010270439", "6": "0.089258045"}}

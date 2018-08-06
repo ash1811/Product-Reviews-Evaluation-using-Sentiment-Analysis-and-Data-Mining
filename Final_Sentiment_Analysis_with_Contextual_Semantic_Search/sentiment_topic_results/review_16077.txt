@@ -1,0 +1,1 @@
+{"text": "Love Reef Sandy Flip Flops can't say enough good things....squishy, comfortable and just perfect. I'll keep wearing them as long as they keep making them!", "sentiment": "negative", "topics": {"1": "0.42902556", "2": "0.22886541", "3": "0.22686672", "6": "0.09375249"}}

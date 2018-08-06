@@ -1,0 +1,1 @@
+{"text": "A great costume that allowed my daughter be wonder woman, it was using an entire week while living the adventure of the greatest heroine of the DC Comics", "sentiment": "negative", "topics": {"0": "0.16695172", "1": "0.2592586", "3": "0.14963621", "4": "0.16933908", "5": "0.110466115", "6": "0.13536586"}}

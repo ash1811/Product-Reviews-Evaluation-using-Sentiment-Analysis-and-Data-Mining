@@ -1,0 +1,1 @@
+{"text": "I have been buying these for almost 14 years (since I was 20).  This is probably my 4th pair.  I love them.  They are very warm and good quality.  I live in Virginia but wear them year round in the morning.", "sentiment": "negative", "topics": {"0": "0.16391563", "1": "0.31063947", "2": "0.16428296", "3": "0.3406816"}}

@@ -1,0 +1,1 @@
+{"text": "These tights run a little small. i like them and would possibly buy them again, but am not sure how long they will last. They feel more like nylons than tights but are still pretty good. I like the PACT Organic tights the best.", "sentiment": "positive", "topics": {"1": "0.5274239", "2": "0.086508125", "5": "0.36307806"}}

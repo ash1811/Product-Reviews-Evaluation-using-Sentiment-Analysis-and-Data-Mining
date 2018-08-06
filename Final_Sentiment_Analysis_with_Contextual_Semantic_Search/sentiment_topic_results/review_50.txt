@@ -1,0 +1,1 @@
+{"text": "The necklace is lovely :-) I also got the matching earrings.It's not heavy @ all very lite. All are so shiny... I'm glad I got the set..I'm very happy & pleased.", "sentiment": "negative", "topics": {"0": "0.44059134", "4": "0.21490154", "6": "0.3086827"}}

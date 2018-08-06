@@ -1,0 +1,1 @@
+{"text": "these bras fit true to size and would recommend it to big busted chest. I love them and they are very comfortable to wear", "sentiment": "negative", "topics": {"0": "0.011002824", "1": "0.43508762", "2": "0.092871234", "3": "0.42800963", "4": "0.011016215", "5": "0.011007125", "6": "0.011005354"}}

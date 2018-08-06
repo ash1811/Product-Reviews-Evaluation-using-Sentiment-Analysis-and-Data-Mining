@@ -1,0 +1,1 @@
+{"text": "i have been buying and wearing leg avenue products for years and have never had anything bad to say about them!", "sentiment": "negative", "topics": {"0": "0.011949577", "1": "0.2630312", "2": "0.2752947", "3": "0.011988241", "4": "0.012001572", "5": "0.30439958", "6": "0.1213351"}}

@@ -1,0 +1,1 @@
+{"text": "These water shoes fit so good and comfortable. I wear a 7 1/2 but purchased a 7. I am so glad that I read the previous reviews and took a chance.  I am very satisfied with my purchase.", "sentiment": "negative", "topics": {"1": "0.4798653", "2": "0.1300689", "3": "0.15211841", "6": "0.21530122"}}

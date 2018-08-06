@@ -1,0 +1,1 @@
+{"text": "They are socks and they are what my son uses and always has me get for him, just better pricing on Amazon.com then in local stores here.", "sentiment": "negative", "topics": {"0": "0.22505334", "1": "0.43416405", "2": "0.011038845", "3": "0.011044429", "4": "0.011066165", "5": "0.15347742", "6": "0.15415575"}}

@@ -1,0 +1,1 @@
+{"text": "I was expectcing a lightweight easy to wear garment.  Unfortunately, this one gave me a good idea of what it must feel like to have a boa constricter wrapped around your mid-section.", "sentiment": "negative", "topics": {"0": "0.084059775", "1": "0.14905432", "3": "0.08311707", "4": "0.13077767", "6": "0.53788507"}}

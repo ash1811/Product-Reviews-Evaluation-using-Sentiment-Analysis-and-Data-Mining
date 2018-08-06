@@ -1,0 +1,1 @@
+{"text": "These are great. Buy multiple pairs ...Pros: Comfortable, lightweight, suit wide head, lenses outperform glasses worth ten times the priceCons: Not very stylish", "sentiment": "positive", "topics": {"0": "0.22972034", "1": "0.30157536", "2": "0.06147811", "3": "0.10182804", "4": "0.14980711", "6": "0.14804697"}}

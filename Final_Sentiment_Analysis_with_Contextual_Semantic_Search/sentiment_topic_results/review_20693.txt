@@ -1,0 +1,1 @@
+{"text": "the product was just as described so I cant mark it off simply cause I am not a belt wearer and really dont wear the belt, I just stopped wearing the pants I bought it for.", "sentiment": "negative", "topics": {"0": "0.18522924", "1": "0.24757189", "2": "0.3485527", "5": "0.10543709", "6": "0.09722566"}}

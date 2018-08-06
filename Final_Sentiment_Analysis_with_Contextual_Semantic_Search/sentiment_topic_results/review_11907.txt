@@ -1,0 +1,1 @@
+{"text": "I just got this brush and it looks very well made.  Works well as well.  Looks like it will hold up.  To me getting quality is worth the extra money.  This seems worth it.", "sentiment": "negative", "topics": {"1": "0.61077404", "3": "0.25533518", "6": "0.10657918"}}

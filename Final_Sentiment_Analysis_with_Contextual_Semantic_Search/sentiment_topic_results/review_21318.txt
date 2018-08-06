@@ -1,0 +1,1 @@
+{"text": "Comfy, stay up like they should, and they don't bunch up.  Can't ask much more from boxers I don't think.", "sentiment": "negative", "topics": {"0": "0.011973817", "1": "0.3464673", "2": "0.011962775", "3": "0.01197394", "4": "0.2680337", "5": "0.011945852", "6": "0.33764267"}}

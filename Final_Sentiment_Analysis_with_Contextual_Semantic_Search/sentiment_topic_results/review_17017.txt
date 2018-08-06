@@ -1,0 +1,1 @@
+{"text": "I ordered by neck size, what was sent was x size and they do not come close to being the same. The shirt was of good quality,but the size was wrong.", "sentiment": "negative", "topics": {"1": "0.2956219", "2": "0.17733793", "3": "0.48886788"}}

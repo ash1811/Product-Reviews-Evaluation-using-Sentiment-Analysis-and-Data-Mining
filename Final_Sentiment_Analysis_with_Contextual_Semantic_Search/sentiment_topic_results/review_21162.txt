@@ -1,0 +1,1 @@
+{"text": "material is only of fair quality, but I did like being able to get several costumes together.  However, kids loved them", "sentiment": "negative", "topics": {"0": "0.2979501", "1": "0.19919549", "2": "0.011059832", "3": "0.056074508", "4": "0.011005443", "5": "0.13629486", "6": "0.28841975"}}

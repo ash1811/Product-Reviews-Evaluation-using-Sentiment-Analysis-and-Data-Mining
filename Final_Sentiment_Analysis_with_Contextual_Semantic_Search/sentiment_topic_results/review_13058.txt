@@ -1,0 +1,1 @@
+{"text": "because it is a good one and i like it very much and i will tell everyone about it in here.", "sentiment": "negative", "topics": {"0": "0.017899439", "1": "0.018014705", "2": "0.017925957", "3": "0.01790809", "4": "0.64270973", "5": "0.01790905", "6": "0.26763308"}}

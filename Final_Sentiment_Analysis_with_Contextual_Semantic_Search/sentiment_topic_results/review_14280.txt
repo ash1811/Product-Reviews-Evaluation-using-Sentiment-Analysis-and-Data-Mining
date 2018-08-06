@@ -1,0 +1,1 @@
+{"text": "Love them! He looks great and is very pleased -and he's a tough crowd! What else, they're 501's right? Of course they rock.", "sentiment": "negative", "topics": {"2": "0.17697182", "5": "0.604641", "6": "0.18245634"}}

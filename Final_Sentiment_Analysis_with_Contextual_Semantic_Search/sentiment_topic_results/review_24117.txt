@@ -1,0 +1,1 @@
+{"text": "Being a woman with ample breast  finding a comfortable bra is like a treasure hunt :-) This one is supporting without being binding.  I am in love", "sentiment": "positive", "topics": {"1": "0.528041", "2": "0.21372885", "3": "0.13976447", "6": "0.0897934"}}

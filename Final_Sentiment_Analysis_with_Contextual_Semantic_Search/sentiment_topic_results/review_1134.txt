@@ -1,0 +1,1 @@
+{"text": "very beautiful and match everything!  They are made of well and of great quality, doesn't look nor feel cheap in any way.", "sentiment": "negative", "topics": {"0": "0.099463515", "1": "0.3460811", "2": "0.20073412", "3": "0.011993247", "4": "0.01198753", "5": "0.3177559", "6": "0.011984605"}}

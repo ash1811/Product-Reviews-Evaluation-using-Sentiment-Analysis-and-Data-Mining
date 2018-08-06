@@ -1,0 +1,1 @@
+{"text": "Great watch for the price I paid. Amazon has some great deals. I just need the same deal to come to me on a Tissot and I will be happy!", "sentiment": "negative", "topics": {"0": "0.15813841", "1": "0.29859486", "2": "0.09583558", "3": "0.22180654", "4": "0.12663628", "5": "0.011014896", "6": "0.08797341"}}

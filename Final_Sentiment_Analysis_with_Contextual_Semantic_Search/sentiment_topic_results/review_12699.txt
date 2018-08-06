@@ -1,0 +1,1 @@
+{"text": "Great to travel and to keep stroller clean for my baby! Easy to put stroller inside. I recommend!", "sentiment": "positive", "topics": {"0": "0.011938427", "1": "0.3695268", "2": "0.011956612", "3": "0.27730224", "4": "0.011971185", "5": "0.30533138", "6": "0.011973393"}}

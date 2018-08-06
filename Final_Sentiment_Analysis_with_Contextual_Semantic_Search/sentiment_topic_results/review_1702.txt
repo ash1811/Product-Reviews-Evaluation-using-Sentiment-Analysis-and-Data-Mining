@@ -1,0 +1,1 @@
+{"text": "I ordered my regaular size 34B but the bra would not stay up and felt a full band size too large.", "sentiment": "negative", "topics": {"0": "0.25471318", "1": "0.011038713", "2": "0.09476902", "3": "0.50481206", "4": "0.011054748", "5": "0.010997777", "6": "0.11261448"}}

@@ -1,0 +1,1 @@
+{"text": "Got these for my granddaughter, they are perfect, the price is much much better here at amazon. Most stores were selling similar for over a hundred", "sentiment": "negative", "topics": {"0": "0.011010558", "1": "0.27369845", "2": "0.1189245", "3": "0.43003935", "4": "0.14428571", "5": "0.011011059", "6": "0.011030361"}}

@@ -1,0 +1,1 @@
+{"text": "This stuff is great. I was able to repair the running shoes I had just received as well has a pair of my brother in law's flip flops. Very strong makes your shoes built to last...again...", "sentiment": "negative", "topics": {"0": "0.21644269", "1": "0.05278886", "2": "0.2313561", "3": "0.2557745", "4": "0.08209329", "5": "0.10560258", "6": "0.055942032"}}

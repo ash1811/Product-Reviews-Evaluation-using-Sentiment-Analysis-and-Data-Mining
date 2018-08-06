@@ -1,0 +1,1 @@
+{"text": "I am only giving this three stars because the quality isn't quite up to other Hanes briefs that I have purchased.  For the price they are just fine.", "sentiment": "negative", "topics": {"0": "0.11755226", "1": "0.4442569", "2": "0.17223947", "3": "0.122433536", "4": "0.1175149", "5": "0.012990939", "6": "0.0130119715"}}

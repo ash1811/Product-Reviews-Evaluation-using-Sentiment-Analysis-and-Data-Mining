@@ -1,0 +1,1 @@
+{"text": "They fit different for some reason, My husband hardly won't wear them, because of the way they fit. Around the seat of the jeans don't look right. He just wears them when he goes 4-wheeling.Be then it don't matter how they look.", "sentiment": "negative", "topics": {"1": "0.4136547", "3": "0.14160006", "4": "0.2577358", "6": "0.1654714"}}

@@ -1,0 +1,1 @@
+{"text": "This camisole is just what I wanted but it is too tight, even a size large.  I have not returned it since I think it will fit my granddaughter.", "sentiment": "positive", "topics": {"0": "0.19505262", "1": "0.33673027", "2": "0.011944424", "3": "0.4204587", "4": "0.011942423", "5": "0.011946543", "6": "0.011924989"}}

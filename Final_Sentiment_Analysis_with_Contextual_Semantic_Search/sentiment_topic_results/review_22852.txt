@@ -1,0 +1,1 @@
+{"text": "A boot to love for a long time. Ageless, goodlooking and comfortable to wear of superb quality. You want to have them in different colors.", "sentiment": "negative", "topics": {"0": "0.010243753", "1": "0.6118592", "2": "0.010218719", "3": "0.010223685", "4": "0.23277521", "5": "0.010232392", "6": "0.11444704"}}

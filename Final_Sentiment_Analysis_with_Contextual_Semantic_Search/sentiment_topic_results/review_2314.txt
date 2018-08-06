@@ -1,0 +1,1 @@
+{"text": "He has been wearing these for years and is satisfied. The fabric wears very well. Happy husband = happy wife.", "sentiment": "negative", "topics": {"0": "0.013026855", "1": "0.50901246", "2": "0.0129955355", "3": "0.01302256", "4": "0.17650239", "5": "0.16002432", "6": "0.11541588"}}

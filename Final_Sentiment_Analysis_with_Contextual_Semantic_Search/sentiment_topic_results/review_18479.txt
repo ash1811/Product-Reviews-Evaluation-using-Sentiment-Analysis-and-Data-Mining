@@ -1,0 +1,1 @@
+{"text": "My \"tween\" daughter loves these Saucony Jazz shoes.They are comfortable and stylish.This is her 3rd pair.I'm glad that I found them online.They are both old-school and stylish/", "sentiment": "positive", "topics": {"1": "0.39899352", "2": "0.07979631", "3": "0.20961656", "4": "0.15861459", "6": "0.13507248"}}

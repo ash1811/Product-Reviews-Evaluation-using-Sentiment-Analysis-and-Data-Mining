@@ -1,0 +1,1 @@
+{"text": "This is a great cosmetic travel case. I like the way it stores your stems and folds up. very clever design.", "sentiment": "negative", "topics": {"0": "0.011016721", "1": "0.1563645", "2": "0.17768398", "3": "0.4776607", "4": "0.011014932", "5": "0.011012202", "6": "0.15524699"}}

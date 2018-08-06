@@ -1,0 +1,1 @@
+{"text": "I used to have this watch for years.Wore out 2 sets of straps before the battery died.Now just getting replacement - great for work, visible in all conditions and not too bulky.", "sentiment": "negative", "topics": {"0": "0.117792785", "1": "0.2680383", "2": "0.44101515", "4": "0.07482427", "5": "0.080416806"}}

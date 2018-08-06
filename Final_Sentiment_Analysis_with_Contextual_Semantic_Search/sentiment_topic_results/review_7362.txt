@@ -1,0 +1,1 @@
+{"text": "so good. i feel safe in these pants.  i could do a lot in these.  i'm glad i got them for working and going out to play.", "sentiment": "negative", "topics": {"0": "0.37964424", "1": "0.56908095", "2": "0.010224283", "3": "0.010265426", "4": "0.010238074", "5": "0.010258814", "6": "0.010288166"}}

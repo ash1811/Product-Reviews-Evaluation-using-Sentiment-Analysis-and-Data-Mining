@@ -1,0 +1,1 @@
+{"text": "Viet Vets Recognize the patch.... Fun to wear at the Monthly poker game. The Hat is well constructed, sturdy and priced right.", "sentiment": "negative", "topics": {"0": "0.18181077", "1": "0.37317783", "3": "0.20408784", "5": "0.100667596", "6": "0.12234578"}}

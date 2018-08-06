@@ -1,0 +1,1 @@
+{"text": "I really like these jeans. I got them as replacements for the SilverTabs and like them even better. I bought several pairs of them. They are baggy but, not too baggy. Lots of room in the seat and thighs.", "sentiment": "negative", "topics": {"2": "0.20336923", "4": "0.15956184", "5": "0.38444555", "6": "0.2321277"}}

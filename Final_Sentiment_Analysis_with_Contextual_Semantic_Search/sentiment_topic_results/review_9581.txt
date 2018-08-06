@@ -1,0 +1,1 @@
+{"text": "Can't really see the date well but I have my phone so it doesn't matter. I wanted a light for night & it has a good light on it.", "sentiment": "positive", "topics": {"0": "0.010251959", "1": "0.735944", "2": "0.01023885", "3": "0.010221578", "4": "0.21290171", "5": "0.010223278", "6": "0.010218623"}}

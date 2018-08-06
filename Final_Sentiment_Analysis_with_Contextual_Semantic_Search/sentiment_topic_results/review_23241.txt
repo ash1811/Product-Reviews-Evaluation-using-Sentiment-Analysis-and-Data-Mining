@@ -1,0 +1,1 @@
+{"text": "Like all madela this is sized small, so buy a size or two larger. Also it started to unravel after the first wash (gentle cycle).", "sentiment": "positive", "topics": {"1": "0.23549488", "2": "0.11952203", "4": "0.24478498", "5": "0.15097411", "6": "0.23131394"}}

@@ -1,0 +1,1 @@
+{"text": "great shirt. there is nothing about this shirt i don't love. sleeve length and shirt length is wonderful. very professional shirt, true to size, and very comfortable. I will buy and buy and buy this shirt.", "sentiment": "negative", "topics": {"0": "0.11062795", "1": "0.5202691", "6": "0.3404628"}}

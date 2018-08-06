@@ -1,0 +1,1 @@
+{"text": "I bought these boat shoes for my son at college.  It appears that all the college men prefer this style of shoe to wear over all others.  They are comfortable to wear and a fashion must for the campus lifestyle.  Easy decision to make.", "sentiment": "positive", "topics": {"0": "0.0706899", "1": "0.35006416", "2": "0.11868599", "3": "0.2673474", "5": "0.1807563"}}

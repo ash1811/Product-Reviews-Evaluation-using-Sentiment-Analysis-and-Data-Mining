@@ -1,0 +1,1 @@
+{"text": "Light weight and totally easy to clean, our toddler loves them! They come in so many different colors now! Great product!", "sentiment": "negative", "topics": {"1": "0.47456494", "2": "0.1458522", "4": "0.25380513", "5": "0.098854944"}}

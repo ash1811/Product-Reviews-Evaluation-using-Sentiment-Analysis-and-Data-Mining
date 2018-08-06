@@ -1,0 +1,1 @@
+{"text": "I wore these so much and plan to wear them a lot more. They are my go to shoes for travel and comfort. I bought the red and enjoyed them so much during the holiday season.", "sentiment": "negative", "topics": {"0": "0.10407871", "1": "0.21107094", "2": "0.14178142", "5": "0.51775473"}}

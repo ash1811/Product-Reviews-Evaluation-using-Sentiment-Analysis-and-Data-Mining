@@ -1,0 +1,1 @@
+{"text": "It works better than expected. One must keep in mind that it is a polishing cloth and not a substitute for a liquid or cream cleaner.", "sentiment": "negative", "topics": {"0": "0.2266616", "1": "0.010260703", "2": "0.38330463", "3": "0.22882064", "4": "0.010237113", "5": "0.010234543", "6": "0.13048078"}}

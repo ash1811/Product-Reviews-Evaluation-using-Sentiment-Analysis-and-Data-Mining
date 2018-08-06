@@ -1,0 +1,1 @@
+{"text": "My teens wanted a cartilage piercing and this was the compromise. It looks really expensive and is a very nice silver color. My teens love it and no one can tell it's not a tea piercing. Very well made.", "sentiment": "negative", "topics": {"0": "0.052972507", "1": "0.40148443", "2": "0.38605604", "5": "0.073186025", "6": "0.07195171"}}

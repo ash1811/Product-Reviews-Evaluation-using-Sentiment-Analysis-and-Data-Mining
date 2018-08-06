@@ -1,0 +1,1 @@
+{"text": "These are as attractive as they are online, true to size, a little bit snug at first but stretched to accomodate and are wonderfully compfy.", "sentiment": "negative", "topics": {"0": "0.011024359", "1": "0.29088426", "2": "0.087598026", "3": "0.011062943", "4": "0.18366936", "5": "0.01104487", "6": "0.4047162"}}

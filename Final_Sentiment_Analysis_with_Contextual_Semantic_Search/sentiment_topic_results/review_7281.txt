@@ -1,0 +1,1 @@
+{"text": "These pants are great for work. I only wish they didn't wrinkle so easily. I ordered two more pairs and they are very well made and comfortable to wear all day.", "sentiment": "positive", "topics": {"1": "0.94272465"}}

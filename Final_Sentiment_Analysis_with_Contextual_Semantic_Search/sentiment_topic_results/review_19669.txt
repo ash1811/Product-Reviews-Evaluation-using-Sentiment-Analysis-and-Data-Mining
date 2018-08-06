@@ -1,0 +1,1 @@
+{"text": "This cute watch and nice price. I was buy this product many time. This is just very nice gift all kids i bought it for them. Thay just love it and i still continue to buy it for them everytime when i go to Thailand.", "sentiment": "negative", "topics": {"0": "0.07724435", "1": "0.3992344", "2": "0.06831588", "3": "0.13256611", "4": "0.06320063", "5": "0.252943"}}

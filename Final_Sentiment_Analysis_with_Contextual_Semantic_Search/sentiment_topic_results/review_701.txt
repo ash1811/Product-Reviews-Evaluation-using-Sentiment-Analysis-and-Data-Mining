@@ -1,0 +1,1 @@
+{"text": "I love this watch.  I had been looking for a stylish watch for a long time and I really like Timex watches.  Watch works great.", "sentiment": "negative", "topics": {"0": "0.13773961", "1": "0.36675197", "2": "0.363603", "6": "0.10320723"}}

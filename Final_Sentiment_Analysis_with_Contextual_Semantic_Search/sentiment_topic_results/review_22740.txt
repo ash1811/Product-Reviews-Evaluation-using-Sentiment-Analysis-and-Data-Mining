@@ -1,0 +1,1 @@
+{"text": "This hat covers the face well, stays out of my daughter's view so she doesn't even notice it's there, and is adjustable. It's great. Even if your child's head is a  little too small (as hers is), it is still very functional.", "sentiment": "negative", "topics": {"0": "0.20665", "1": "0.21189757", "2": "0.14002581", "3": "0.2974727", "6": "0.130914"}}

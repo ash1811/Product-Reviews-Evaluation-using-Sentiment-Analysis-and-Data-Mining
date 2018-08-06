@@ -1,0 +1,1 @@
+{"text": "Jacket is a little stiff but I'm sure it will ease up in time,really like the fit. I wear a large and I'm 5'10 and 180# and I couldn't ask for a better fit.", "sentiment": "negative", "topics": {"1": "0.37113607", "2": "0.47155306", "5": "0.12547055"}}

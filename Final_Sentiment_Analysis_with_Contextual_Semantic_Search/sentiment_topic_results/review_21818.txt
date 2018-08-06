@@ -1,0 +1,1 @@
+{"text": "This dress is very sexy. It is a bit see through, but it makes the guys go wild! I personally used it as a halloween costume (I was a prostitute) and it was a huge hit. It is comfortable and flattering. I would reccomend it to anyone.", "sentiment": "negative", "topics": {"0": "0.27141887", "1": "0.09435257", "3": "0.24288343", "4": "0.23476483", "5": "0.14414896"}}

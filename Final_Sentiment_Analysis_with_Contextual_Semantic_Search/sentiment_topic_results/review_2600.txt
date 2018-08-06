@@ -1,0 +1,1 @@
+{"text": "I have to buy Birkenstocks in size 43 since these were too small.  Beautiful and well made shoes though.  I was disappointed.", "sentiment": "positive", "topics": {"0": "0.011013425", "1": "0.1784868", "2": "0.11714597", "3": "0.33703023", "4": "0.011074452", "5": "0.2402921", "6": "0.10495702"}}

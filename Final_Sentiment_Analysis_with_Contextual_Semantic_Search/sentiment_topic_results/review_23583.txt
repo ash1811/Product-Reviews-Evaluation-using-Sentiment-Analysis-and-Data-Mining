@@ -1,0 +1,1 @@
+{"text": "My 6th pair of birks in 35 years. Less than 1/2 price than the previous 5 pair and advertised everywhere else. .... Shipped from germany, so it takes a little longer to get them. Thank you Amazon.", "sentiment": "negative", "topics": {"0": "0.068815894", "1": "0.25887594", "2": "0.1430675", "3": "0.16012204", "4": "0.07166307", "5": "0.072040476", "6": "0.22541511"}}

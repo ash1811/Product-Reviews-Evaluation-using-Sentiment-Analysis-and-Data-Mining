@@ -1,0 +1,1 @@
+{"text": "Most comfortable sandal. Great for back and I had back surgery. 2nd pair I bought. first pair are worn out. Luv them.", "sentiment": "positive", "topics": {"1": "0.71517587", "2": "0.16096722", "6": "0.08799939"}}

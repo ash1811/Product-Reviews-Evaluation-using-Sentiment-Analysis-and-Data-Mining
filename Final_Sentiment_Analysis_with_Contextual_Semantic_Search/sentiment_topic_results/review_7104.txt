@@ -1,0 +1,1 @@
+{"text": "I bought a C36 and it fits great. Good support and comfy. I bought the black and am going to come back for different colors.", "sentiment": "negative", "topics": {"1": "0.6767375", "2": "0.15264364", "3": "0.132415"}}

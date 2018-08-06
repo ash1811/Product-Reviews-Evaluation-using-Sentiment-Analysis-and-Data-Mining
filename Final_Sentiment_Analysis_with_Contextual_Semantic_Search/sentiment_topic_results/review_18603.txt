@@ -1,0 +1,1 @@
+{"text": "Super comfortable and higher quality than expected from what I paid for it. Was not itchy or uncomfortable at all and fits nicely.", "sentiment": "positive", "topics": {"0": "0.11647328", "1": "0.82396567", "2": "0.011917296", "3": "0.011916093", "4": "0.011909194", "5": "0.011907677", "6": "0.01191078"}}

@@ -1,0 +1,1 @@
+{"text": "wanted this  to wear soon for a function,but the size isn't true to size and it is to tight.I will keep it however and loose some weight and maybe be able to wear it.I suggest if you want one of these do a siize larger.", "sentiment": "negative", "topics": {"0": "0.1910737", "1": "0.11307919", "2": "0.21879686", "3": "0.3911399", "6": "0.07288133"}}

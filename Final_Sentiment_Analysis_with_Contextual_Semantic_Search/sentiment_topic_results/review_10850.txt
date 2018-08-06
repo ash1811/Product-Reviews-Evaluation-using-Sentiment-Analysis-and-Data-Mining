@@ -1,0 +1,1 @@
+{"text": "Second pair in less than a month,  love them. Wash very well, like new againGreat gift for the holidays", "sentiment": "negative", "topics": {"0": "0.23075055", "1": "0.14278695", "2": "0.010229731", "3": "0.26911214", "4": "0.010244088", "5": "0.2041451", "6": "0.13273145"}}

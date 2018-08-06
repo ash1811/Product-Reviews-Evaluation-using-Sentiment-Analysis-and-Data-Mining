@@ -1,0 +1,1 @@
+{"text": "Beautiful bag. Holds my Nikon D5200 and four lenses and also my Panasonic video camera. Lots of handy little pockets to hold manuals or filters or battery chargers. Perfect to keep everything together in one place.", "sentiment": "positive", "topics": {"0": "0.39518416", "1": "0.15201129", "2": "0.22406268", "3": "0.118067004", "4": "0.05765143", "6": "0.04771761"}}

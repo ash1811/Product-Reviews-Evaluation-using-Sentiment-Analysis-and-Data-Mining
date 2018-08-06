@@ -1,0 +1,1 @@
+{"text": "Don't bother to spend more.  I am surprised these are so good.  Well made, fit well, padded to last and feel good.", "sentiment": "negative", "topics": {"0": "0.010242481", "1": "0.40913457", "2": "0.010270086", "3": "0.0102339415", "4": "0.12546273", "5": "0.23208383", "6": "0.2025724"}}

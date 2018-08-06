@@ -1,0 +1,1 @@
+{"text": "This is a very nice bodystocking.  You really do not need the piano as a prop.  The fit is great, and oh, it looks good on too.", "sentiment": "negative", "topics": {"0": "0.09958772", "1": "0.58554447", "2": "0.011031706", "3": "0.011026476", "4": "0.011007732", "5": "0.011012548", "6": "0.2707894"}}

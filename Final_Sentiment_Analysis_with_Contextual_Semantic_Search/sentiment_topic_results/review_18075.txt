@@ -1,0 +1,1 @@
+{"text": "it's a cute watch but you need to have child sized wrists to wear it. i can wear it but if i bend my wrist it's super tight and hurts. and i have regular sized wrists.", "sentiment": "positive", "topics": {"1": "0.21210335", "2": "0.09872758", "3": "0.16147156", "5": "0.27212128", "6": "0.2396742"}}

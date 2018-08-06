@@ -1,0 +1,1 @@
+{"text": "I love these panties they are full coverage Panties and my toddler daughter loves them too. I would recommend to a friend", "sentiment": "negative", "topics": {"0": "0.40783587", "1": "0.011012395", "2": "0.14380728", "3": "0.19021316", "4": "0.011057901", "5": "0.22508216", "6": "0.010991229"}}

@@ -1,0 +1,1 @@
+{"text": "Shoe is very cute and pretty comfortable.  Unfortunately, my foot slide around too much in the front.  My feet are narrower than average but not a true narrow.  Back they went.", "sentiment": "negative", "topics": {"0": "0.36468995", "1": "0.34110555", "2": "0.09673518", "4": "0.09533003", "6": "0.08619664"}}

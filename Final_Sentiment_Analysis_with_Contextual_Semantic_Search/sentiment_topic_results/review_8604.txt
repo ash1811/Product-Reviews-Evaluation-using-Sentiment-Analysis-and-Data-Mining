@@ -1,0 +1,1 @@
+{"text": "I usually wear a size 6.5 US but I got these in a size 7. They were a little smaller than the usual sizing. They look great, but could used to be sized better", "sentiment": "positive", "topics": {"1": "0.29216385", "2": "0.077642225", "3": "0.26662713", "5": "0.1729465", "6": "0.17553128"}}

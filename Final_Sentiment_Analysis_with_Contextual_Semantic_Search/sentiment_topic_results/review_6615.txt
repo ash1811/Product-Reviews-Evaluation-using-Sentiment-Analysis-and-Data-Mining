@@ -1,0 +1,1 @@
+{"text": "These are a nice enough sock, but nothing special.  I really need a good cushioned sock, and these are not that.  If you need good cushioning, look elsewhere.", "sentiment": "negative", "topics": {"1": "0.26414642", "4": "0.0888644", "5": "0.3583878", "6": "0.2632277"}}

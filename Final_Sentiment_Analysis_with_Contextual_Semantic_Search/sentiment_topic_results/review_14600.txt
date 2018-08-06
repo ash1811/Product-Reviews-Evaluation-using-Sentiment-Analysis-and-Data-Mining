@@ -1,0 +1,1 @@
+{"text": "Gracias, buen producto, entrega sin inconvenientes, nos gusto mucho, buena tela y no desti&ntilde;e , mi esposo encantado, muchas gracias!", "sentiment": "positive", "topics": {"0": "0.23154174", "1": "0.11034241", "2": "0.07296949", "4": "0.33699065", "5": "0.17503971", "6": "0.065163225"}}

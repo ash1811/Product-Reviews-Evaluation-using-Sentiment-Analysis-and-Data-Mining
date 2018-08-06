@@ -1,0 +1,1 @@
+{"text": "Nice quality,my daughter loves it to wear to her preschool! She has it on her back all the time!I don't want her to outgrow this any soon!!The quality & finish is great!highly recommend!!", "sentiment": "negative", "topics": {"1": "0.28197157", "2": "0.19834177", "3": "0.32346842", "4": "0.10353173", "6": "0.07477388"}}

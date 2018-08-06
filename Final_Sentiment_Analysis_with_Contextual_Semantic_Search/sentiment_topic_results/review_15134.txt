@@ -1,0 +1,1 @@
+{"text": "For a nice cheap bra this works alright. But it is scratchy and not as comfortable as the nicer, more expensive ones.", "sentiment": "negative", "topics": {"0": "0.01300064", "1": "0.49043578", "2": "0.23118925", "3": "0.12837444", "4": "0.013001196", "5": "0.012990587", "6": "0.111008115"}}

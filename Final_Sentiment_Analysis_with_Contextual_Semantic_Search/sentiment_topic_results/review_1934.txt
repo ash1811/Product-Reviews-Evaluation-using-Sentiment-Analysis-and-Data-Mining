@@ -1,0 +1,1 @@
+{"text": "I like the shoes ok but they hurt my feet I had to draw the string up some to make them smaller but now they are to tight so now I have to find the right fit.", "sentiment": "negative", "topics": {"0": "0.010216917", "1": "0.31465656", "2": "0.25572774", "3": "0.1958656", "4": "0.1015381", "5": "0.010219937", "6": "0.111775145"}}

@@ -1,0 +1,1 @@
+{"text": "I saw these at sunglass hut but of course decided to check it out on amazon first. A little less expensive but absolutely real. I love the way they look and fit. Thank you!", "sentiment": "negative", "topics": {"1": "0.27974528", "2": "0.19880345", "3": "0.16078083", "4": "0.10579777", "5": "0.17962705", "6": "0.06808937"}}

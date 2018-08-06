@@ -1,0 +1,1 @@
+{"text": "My husband loves Casio watches and generally buys them at Wal-Mart, however they didn't have any he liked.  This watch was similar to an old style he had so I bought for Fathers Day.  He loves it!!", "sentiment": "negative", "topics": {"1": "0.12806295", "2": "0.27625033", "4": "0.3314863", "6": "0.24156702"}}

@@ -1,0 +1,1 @@
+{"text": "these has been used for over a year and it still has plenty  of life on it.It hasn't faded much if at all and ill buy these again. In fact i have a lot of these in different colours. This is a loose fit shirt if anyone is wondering", "sentiment": "negative", "topics": {"1": "0.52984554", "2": "0.05172283", "3": "0.21425912", "5": "0.18370292"}}

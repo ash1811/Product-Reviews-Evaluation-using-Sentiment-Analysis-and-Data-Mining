@@ -1,0 +1,1 @@
+{"text": "Bought these for a friend who was going fishing and needed them in a hurry.  He was thrilled with fit .", "sentiment": "positive", "topics": {"0": "0.15250424", "1": "0.27916205", "2": "0.015907384", "3": "0.29137972", "4": "0.015899992", "5": "0.22918303", "6": "0.01596358"}}

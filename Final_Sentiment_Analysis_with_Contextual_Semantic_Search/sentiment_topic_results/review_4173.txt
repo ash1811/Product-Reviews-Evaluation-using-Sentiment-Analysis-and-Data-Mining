@@ -1,0 +1,1 @@
+{"text": "I always pick Jerzees brand because I can rely on the fit and quality. I am retired now and live in these Jerzees year round. They wash and wear over and over and still look good.", "sentiment": "negative", "topics": {"1": "0.39086726", "2": "0.12313288", "3": "0.38973206", "4": "0.07239802"}}

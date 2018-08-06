@@ -1,0 +1,1 @@
+{"text": "Love the warmth -However it fits my hubby to tight --He wears a --Medium in every single item-- He still wears this -however he has to put a shirt over it -for it is tight --Keeps him warm-- just can not wear it alone - Thank You anyways", "sentiment": "negative", "topics": {"1": "0.43322763", "2": "0.11833366", "5": "0.26616257", "6": "0.16574958"}}

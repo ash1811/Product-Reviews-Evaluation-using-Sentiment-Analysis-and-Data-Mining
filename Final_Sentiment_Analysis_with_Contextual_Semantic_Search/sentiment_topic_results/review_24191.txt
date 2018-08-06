@@ -1,0 +1,1 @@
+{"text": "Pretty bras, but their sizing is way off. I had to return all of them, which was a pity because they were cute... just clearly not sized correctly.", "sentiment": "negative", "topics": {"0": "0.011044889", "1": "0.13978271", "2": "0.23034409", "3": "0.4013487", "4": "0.09584553", "5": "0.0110266255", "6": "0.11060743"}}

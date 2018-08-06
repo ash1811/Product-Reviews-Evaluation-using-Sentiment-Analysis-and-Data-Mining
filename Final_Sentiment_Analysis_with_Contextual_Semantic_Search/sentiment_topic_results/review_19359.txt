@@ -1,0 +1,1 @@
+{"text": "I do love the sloggers for gardening- they are perfect. I would like to get a pair in black, brown, or olive green. I don't love the pastels.", "sentiment": "negative", "topics": {"1": "0.3869216", "2": "0.10119746", "3": "0.36839995", "5": "0.11480812"}}

@@ -1,0 +1,1 @@
+{"text": "Tow hangs off side and width is very narrow. I have skinny feet and it barely fit under the strap. Not comfortable the flip flip was very stiff", "sentiment": "negative", "topics": {"0": "0.055040415", "1": "0.25914776", "2": "0.38570598", "4": "0.21627289", "6": "0.064744204"}}

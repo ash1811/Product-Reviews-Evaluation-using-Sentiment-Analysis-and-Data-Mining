@@ -1,0 +1,1 @@
+{"text": "this shoe is just the right color and fits wellthey were made in brazil, but now of course made in china", "sentiment": "negative", "topics": {"0": "0.012997966", "1": "0.32219523", "2": "0.1241669", "3": "0.13062547", "4": "0.013005227", "5": "0.3840185", "6": "0.012990673"}}

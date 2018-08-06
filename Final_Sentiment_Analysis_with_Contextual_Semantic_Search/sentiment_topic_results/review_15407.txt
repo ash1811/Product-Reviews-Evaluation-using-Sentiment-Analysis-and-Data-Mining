@@ -1,0 +1,1 @@
+{"text": "Loved them so much - we bought two pairs!  A very classic pair of sunglasses that will never go out of style!", "sentiment": "negative", "topics": {"0": "0.011922315", "1": "0.72367686", "2": "0.21660733", "3": "0.011958516", "4": "0.011975057", "5": "0.011952773", "6": "0.011907115"}}

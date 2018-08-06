@@ -1,0 +1,1 @@
+{"text": "I was surprised how 'wide' the shirt was, but my husband likes it very well. It looks great and he says it's very comfortable. I would tis item again.", "sentiment": "negative", "topics": {"1": "0.4172845", "4": "0.16684864", "6": "0.38001716"}}

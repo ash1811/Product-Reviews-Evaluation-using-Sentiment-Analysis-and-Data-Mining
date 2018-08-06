@@ -1,0 +1,1 @@
+{"text": "Very pretty, neatly made, easy to use. Good for an elderly person. The smaller &#34;travel box&#34; is just great - good product!", "sentiment": "negative", "topics": {"1": "0.2180678", "2": "0.11180654", "3": "0.38822332", "5": "0.16337019", "6": "0.09941678"}}

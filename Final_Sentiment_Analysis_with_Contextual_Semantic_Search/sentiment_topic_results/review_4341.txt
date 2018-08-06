@@ -1,0 +1,1 @@
+{"text": "Fine expect to enjoy for quite a while-Sorry I could not get them in length 29 though!!!Can*t seem to find 29 anymore!!!!!Will wait and find out how stain resistant they are", "sentiment": "negative", "topics": {"0": "0.46898344", "2": "0.15791884", "4": "0.1409632", "5": "0.20943847"}}

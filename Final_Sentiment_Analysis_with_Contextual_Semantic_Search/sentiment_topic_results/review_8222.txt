@@ -1,0 +1,1 @@
+{"text": "Great for fashion wear or work wear. Have been my fashion since college. Would suggest for any age. Thank You!", "sentiment": "negative", "topics": {"0": "0.11452054", "1": "0.19918652", "2": "0.08998079", "3": "0.47514644", "4": "0.100702085", "5": "0.010238596", "6": "0.0102250725"}}

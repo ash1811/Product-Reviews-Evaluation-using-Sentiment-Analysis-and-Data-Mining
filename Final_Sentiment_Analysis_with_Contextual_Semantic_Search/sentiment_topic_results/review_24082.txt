@@ -1,0 +1,1 @@
+{"text": "Good support, i like the wider straps, the fabric is strong and holds me in place.  It was a good buy as most sport bras in my size were $80 plus", "sentiment": "negative", "topics": {"1": "0.3335085", "2": "0.10443872", "3": "0.48895532", "5": "0.047832184"}}

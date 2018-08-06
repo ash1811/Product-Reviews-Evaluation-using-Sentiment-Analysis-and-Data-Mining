@@ -1,0 +1,1 @@
+{"text": "I ended up returning this watch because I purchased it as a gift and it was too small.  That's about all I know about this watch.  If you are a bigger lady then this is not the watch for you.  The band will not fit.", "sentiment": "negative", "topics": {"0": "0.20535785", "1": "0.17769934", "2": "0.22829783", "3": "0.30258203", "4": "0.06818131"}}

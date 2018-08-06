@@ -1,0 +1,1 @@
+{"text": "I have this shoe in black and have hiked with it, used it in wet areas, and I never got blisters or sore feet.  For me, that's 5 stars!", "sentiment": "negative", "topics": {"0": "0.12079638", "1": "0.30233526", "2": "0.28447136", "4": "0.12347137", "6": "0.15205461"}}

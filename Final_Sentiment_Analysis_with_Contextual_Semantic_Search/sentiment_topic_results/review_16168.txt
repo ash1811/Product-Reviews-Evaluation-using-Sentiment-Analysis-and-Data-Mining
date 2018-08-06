@@ -1,0 +1,1 @@
+{"text": "Mine does not say Sabrina...it says World.  This always makes me wonder if I got the right thing. I prefer to get that which is advertized.", "sentiment": "negative", "topics": {"0": "0.19780025", "1": "0.2861492", "3": "0.11585711", "4": "0.11533407", "6": "0.2657605"}}

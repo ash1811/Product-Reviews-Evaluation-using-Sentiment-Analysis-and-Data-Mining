@@ -1,0 +1,1 @@
+{"text": "I bought these for my teen to match his girlfriends grey vans. They are nice and look neat with everything he wears.", "sentiment": "negative", "topics": {"0": "0.15568438", "1": "0.20389266", "2": "0.14290042", "3": "0.011968336", "4": "0.011910866", "5": "0.27275598", "6": "0.20088734"}}

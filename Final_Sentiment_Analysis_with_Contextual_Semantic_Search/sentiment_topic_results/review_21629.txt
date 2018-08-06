@@ -1,0 +1,1 @@
+{"text": "This was sooo adorable. I thought the shirt was small and the suspeneders were more cute than functional. Its more for cuteness than anything. On that note they hit the nail on the head,", "sentiment": "negative", "topics": {"0": "0.1853734", "1": "0.18314807", "2": "0.090475686", "3": "0.24542561", "4": "0.18701944", "6": "0.09900419"}}

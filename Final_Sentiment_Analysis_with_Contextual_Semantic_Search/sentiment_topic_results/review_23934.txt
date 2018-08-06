@@ -1,0 +1,1 @@
+{"text": "These are my favorite socks:  The right &#34;weight&#34;, fit and very comfortable.  The bottom will have holes before the elastic bans wear out.  Can't go wrong with these!!", "sentiment": "negative", "topics": {"1": "0.29286915", "2": "0.16243023", "4": "0.26092324", "5": "0.25850177"}}

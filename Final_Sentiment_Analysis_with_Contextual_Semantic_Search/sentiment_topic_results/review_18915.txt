@@ -1,0 +1,1 @@
+{"text": "My teen sons really like these jeans. My only complaint is that the material is much thinner this year so that does affect the warmth factor. They still fit nicely though.", "sentiment": "negative", "topics": {"1": "0.6579744", "2": "0.120921984", "4": "0.18917544"}}

@@ -1,0 +1,1 @@
+{"text": "The item was a little bit thinner in terms of material than I had anticipated.  The shirt overall is pretty much as advertised however...", "sentiment": "negative", "topics": {"0": "0.3100741", "1": "0.20320214", "2": "0.010268221", "3": "0.010243349", "4": "0.17925285", "5": "0.010227385", "6": "0.27673194"}}

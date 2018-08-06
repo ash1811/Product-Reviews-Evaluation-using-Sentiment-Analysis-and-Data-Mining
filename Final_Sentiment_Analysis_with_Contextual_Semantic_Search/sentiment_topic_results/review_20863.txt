@@ -1,0 +1,1 @@
+{"text": "These sandals are really cute. They really dress up a super casual look. They are so comfortable. I was afraid of blisters but even though they are rubber they are comfortable and thankfully no blisters.", "sentiment": "positive", "topics": {"0": "0.41942787", "1": "0.40862703", "4": "0.0714339", "6": "0.07665256"}}

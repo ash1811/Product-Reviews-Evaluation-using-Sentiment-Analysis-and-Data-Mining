@@ -1,0 +1,1 @@
+{"text": "If you are looking for a scuff slipper this is the one for you.  I think I'd rather have a true house shoe.  But these were perfect for what I needed them for.", "sentiment": "negative", "topics": {"1": "0.18982768", "2": "0.14463139", "3": "0.2373238", "4": "0.10382136", "5": "0.08949428", "6": "0.22537081"}}

@@ -1,0 +1,1 @@
+{"text": "Got these to wear after getting out of the 55 degree water when I'm done surfing. These things keep my feet super warm and they are super plush. They also make good slippers for around the house. I would highly recommend.", "sentiment": "positive", "topics": {"1": "0.40771076", "2": "0.20699811", "3": "0.1964701", "4": "0.0929094", "6": "0.08488782"}}

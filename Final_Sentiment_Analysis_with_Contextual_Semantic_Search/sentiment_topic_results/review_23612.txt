@@ -1,0 +1,1 @@
+{"text": "Great details and super adorable!  More accurate to the movie than most of these dresses.  But the stitching is a little cheesy. I have had to resew a few holes", "sentiment": "positive", "topics": {"0": "0.10017752", "1": "0.39215443", "2": "0.08627909", "3": "0.18423818", "4": "0.11539066", "5": "0.01100802", "6": "0.11075212"}}

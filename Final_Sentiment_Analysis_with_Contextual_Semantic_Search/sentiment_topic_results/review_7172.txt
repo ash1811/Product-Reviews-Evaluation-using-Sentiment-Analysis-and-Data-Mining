@@ -1,0 +1,1 @@
+{"text": "I got these to wear in my second piercing based on the reviews of people saying how small they were.  I think they'd be great for either piercing though, not too small not too large, they're just right.  They are the perfect earring for day to day.", "sentiment": "positive", "topics": {"1": "0.44977206", "2": "0.14342968", "4": "0.13561867", "5": "0.25398123"}}

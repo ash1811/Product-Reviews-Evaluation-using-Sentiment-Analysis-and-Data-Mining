@@ -1,0 +1,1 @@
+{"text": "They fit true to size, comfortable from the first wearing.  No break in time needed.!  Wonderful for the price.  You won't be sorry!", "sentiment": "negative", "topics": {"0": "0.011021789", "1": "0.6099884", "2": "0.011006332", "3": "0.21177", "4": "0.13411717", "5": "0.011024432", "6": "0.011071882"}}

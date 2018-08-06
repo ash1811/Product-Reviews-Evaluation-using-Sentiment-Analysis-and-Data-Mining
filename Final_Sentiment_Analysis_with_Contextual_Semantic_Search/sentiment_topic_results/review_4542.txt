@@ -1,0 +1,1 @@
+{"text": "You can't go wrong with Lee jeans!  They fit my husband perfectly and last forever.  What a great product.  Thanks.", "sentiment": "negative", "topics": {"0": "0.010241752", "1": "0.27522337", "2": "0.07883489", "3": "0.010213888", "4": "0.23071606", "5": "0.30980235", "6": "0.084967665"}}

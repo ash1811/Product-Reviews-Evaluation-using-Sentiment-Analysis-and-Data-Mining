@@ -1,0 +1,1 @@
+{"text": "the classic reebok! looks great and feels even better! so comfy! it feels really good and durable, wouldn't even think on buying another one in the future in another color!", "sentiment": "negative", "topics": {"1": "0.36629418", "2": "0.20065701", "5": "0.12666985", "6": "0.285895"}}

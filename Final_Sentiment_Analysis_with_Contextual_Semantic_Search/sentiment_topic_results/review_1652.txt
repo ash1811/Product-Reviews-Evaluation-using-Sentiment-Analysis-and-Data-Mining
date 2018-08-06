@@ -1,0 +1,1 @@
+{"text": "very comfortable, holds my stomach in, but i don't think they slimmed me that much.  however, they are very comfortable and that is important. Rita, Orlando, Fl.", "sentiment": "positive", "topics": {"0": "0.0102189565", "1": "0.40471795", "2": "0.010311109", "3": "0.3208979", "4": "0.0102067655", "5": "0.09028063", "6": "0.15336668"}}

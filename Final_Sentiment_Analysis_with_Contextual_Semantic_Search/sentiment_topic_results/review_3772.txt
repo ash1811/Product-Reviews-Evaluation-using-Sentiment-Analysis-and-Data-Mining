@@ -1,0 +1,1 @@
+{"text": "Love it! I'm very happy with the size as it's perfect on me! Glasses shade is cool too! Highly recommended.", "sentiment": "positive", "topics": {"0": "0.39513543", "1": "0.010244864", "2": "0.12541504", "3": "0.19685034", "4": "0.2518729", "5": "0.010246734", "6": "0.010234649"}}

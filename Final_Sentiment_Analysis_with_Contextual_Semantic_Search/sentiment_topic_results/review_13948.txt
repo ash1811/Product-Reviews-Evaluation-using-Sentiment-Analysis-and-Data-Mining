@@ -1,0 +1,1 @@
+{"text": "I love this watch. It is so nice. I found very good directions to set it on citizen' s website. It looks great and is very precise. It's quality is high and it's look impeccable. I would buy another.", "sentiment": "negative", "topics": {"0": "0.08079412", "1": "0.49183726", "2": "0.06775298", "3": "0.16367146", "6": "0.18161131"}}

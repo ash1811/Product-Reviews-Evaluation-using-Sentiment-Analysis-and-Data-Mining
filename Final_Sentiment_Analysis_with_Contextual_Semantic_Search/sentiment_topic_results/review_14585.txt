@@ -1,0 +1,1 @@
+{"text": "My head is average but this fits a bit big. It's comfortable though. They claim it's polarized but I don not get that impression.", "sentiment": "negative", "topics": {"0": "0.011924443", "1": "0.6897914", "2": "0.0119202575", "3": "0.011962444", "4": "0.12587677", "5": "0.1366014", "6": "0.011923338"}}

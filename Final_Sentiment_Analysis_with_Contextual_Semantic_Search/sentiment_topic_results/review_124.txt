@@ -1,0 +1,1 @@
+{"text": "It was smooth and heavy before I washed it. It is more of a sweat jacket now. It is a great deal lighter and not as big.", "sentiment": "negative", "topics": {"0": "0.011998144", "1": "0.46748933", "2": "0.112924315", "3": "0.10729725", "4": "0.09913585", "5": "0.011923489", "6": "0.18923163"}}

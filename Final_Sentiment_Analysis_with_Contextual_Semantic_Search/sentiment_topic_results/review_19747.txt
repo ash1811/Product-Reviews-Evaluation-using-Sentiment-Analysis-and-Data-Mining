@@ -1,0 +1,1 @@
+{"text": "Best sweats on the market. Their whisk away is great. I'm ordering another pair today. Probably blue or maybe another black. Great fit", "sentiment": "positive", "topics": {"1": "0.5875496", "2": "0.18871981", "4": "0.19357057"}}

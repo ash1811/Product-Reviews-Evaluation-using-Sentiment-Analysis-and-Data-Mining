@@ -1,0 +1,1 @@
+{"text": "These earings broke a week after I got them.  I was very happy with the way they looked, but than they broke.  Very cheaply made.", "sentiment": "negative", "topics": {"0": "0.44763932", "1": "0.011941071", "2": "0.011935624", "3": "0.49261048", "4": "0.011952671", "5": "0.0119373845", "6": "0.011983418"}}

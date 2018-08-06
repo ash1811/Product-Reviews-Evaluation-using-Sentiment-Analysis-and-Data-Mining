@@ -1,0 +1,1 @@
+{"text": "I am 5'7&#34;, long legged, these are 2 inches too long for me.I am keeping them, wear them to bed.", "sentiment": "positive", "topics": {"0": "0.21238375", "1": "0.37095618", "2": "0.011942387", "3": "0.2849289", "4": "0.095927574", "5": "0.011932806", "6": "0.011928365"}}

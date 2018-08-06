@@ -1,0 +1,1 @@
+{"text": "Perfect with skinnies! Your feet look tiny. Size down. This is my 3rd pair of Uggs and all are a size 8 and I wear a size 9.", "sentiment": "negative", "topics": {"0": "0.088267714", "1": "0.23456056", "3": "0.3601376", "4": "0.19206937", "6": "0.107089885"}}

@@ -1,0 +1,1 @@
+{"text": "I wear a 36&#34; waist which is a the small end for these pants. With the side tabs cinched all the way the fit.  I wear a belt as the sides do not stay with activity.", "sentiment": "positive", "topics": {"1": "0.37066573", "2": "0.11699611", "3": "0.27358446", "6": "0.21347304"}}

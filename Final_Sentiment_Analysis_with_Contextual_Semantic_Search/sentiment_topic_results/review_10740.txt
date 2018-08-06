@@ -1,0 +1,1 @@
+{"text": "This belt buckle was MUCH bigger than 1 & 1/2 &#34;. It looked ridiculous on the person I bought it for and the belt barely fit through belt loops. I sent it back.", "sentiment": "negative", "topics": {"0": "0.1982346", "1": "0.28884152", "2": "0.20669085", "3": "0.16104361", "6": "0.13007948"}}

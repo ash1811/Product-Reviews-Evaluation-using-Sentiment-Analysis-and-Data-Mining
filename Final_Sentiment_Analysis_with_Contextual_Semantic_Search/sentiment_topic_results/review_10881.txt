@@ -1,0 +1,1 @@
+{"text": "I wear a 8.5-9W and the large feels very small to me. They are narrow, shallow and short. They are pretty. If you have small, narrow feet, they should fit.", "sentiment": "positive", "topics": {"0": "0.3888262", "1": "0.4826506", "6": "0.090259686"}}

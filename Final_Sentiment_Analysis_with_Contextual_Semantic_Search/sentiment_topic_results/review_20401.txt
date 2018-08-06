@@ -1,0 +1,1 @@
+{"text": "Makes even wood platforms comfortable for hours, designed so it does not show beyond the foot with open sandals, and doesn't take up so much room in the toe area.  Great.", "sentiment": "positive", "topics": {"1": "0.44661367", "2": "0.16138716", "3": "0.19483308", "4": "0.099862516", "6": "0.08222144"}}

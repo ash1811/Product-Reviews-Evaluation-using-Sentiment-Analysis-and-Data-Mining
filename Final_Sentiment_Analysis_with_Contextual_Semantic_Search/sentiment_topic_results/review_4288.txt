@@ -1,0 +1,1 @@
+{"text": "I am a fan of thick jean material, strong stitching, and a good fit. These Lee jeans are all of that and more. I am wearing them right now, and they are my new favorite pair. I will be buying more as I need them.", "sentiment": "negative", "topics": {"0": "0.11158625", "1": "0.32185763", "3": "0.21060073", "5": "0.14312659", "6": "0.19919421"}}

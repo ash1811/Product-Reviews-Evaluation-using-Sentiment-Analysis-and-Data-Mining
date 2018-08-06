@@ -1,0 +1,1 @@
+{"text": "These are light, pretty, take up little space in the drawer, and stay in place! No ride up! Love them.", "sentiment": "negative", "topics": {"0": "0.011053939", "1": "0.568743", "2": "0.011006486", "3": "0.37613937", "4": "0.011043486", "5": "0.011004831", "6": "0.011008938"}}

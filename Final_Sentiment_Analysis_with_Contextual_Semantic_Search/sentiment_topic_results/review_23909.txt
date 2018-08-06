@@ -1,0 +1,1 @@
+{"text": "These are exactly what they say, Tall XXL white undershirts.  If that is what you are looking for, buy them.  They are comfortable, well made, and a good price.", "sentiment": "positive", "topics": {"0": "0.23682667", "1": "0.46082905", "5": "0.10433837", "6": "0.17106636"}}

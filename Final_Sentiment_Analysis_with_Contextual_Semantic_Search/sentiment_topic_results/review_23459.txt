@@ -1,0 +1,1 @@
+{"text": "Love the look of these. I'm 5'7, 122 lbs, and I can't wear these with most dresses because they don't come up high enough. But if you're short, these are great.", "sentiment": "negative", "topics": {"0": "0.43051988", "1": "0.38590148", "5": "0.14755405"}}

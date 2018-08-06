@@ -1,0 +1,1 @@
+{"text": "I like this ring.  It is very pretty, but I wish the band was just a little bit wider.  It is nice if you want a dainty size ring.  I will still keep it and wear it.", "sentiment": "positive", "topics": {"1": "0.5875864", "3": "0.28964242", "4": "0.09088989"}}

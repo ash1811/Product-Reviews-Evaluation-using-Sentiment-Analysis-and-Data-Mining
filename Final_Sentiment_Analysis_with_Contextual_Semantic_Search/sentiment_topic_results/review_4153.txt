@@ -1,0 +1,1 @@
+{"text": "I have purchased several Invicta watches now. This one I purchased for my girlfriend. She absolutely loves it.  Sizing it was very easy with the tool from Invicta. She wears it everyday.", "sentiment": "positive", "topics": {"0": "0.09373821", "1": "0.2404764", "2": "0.21329051", "4": "0.2383785", "5": "0.19818386"}}

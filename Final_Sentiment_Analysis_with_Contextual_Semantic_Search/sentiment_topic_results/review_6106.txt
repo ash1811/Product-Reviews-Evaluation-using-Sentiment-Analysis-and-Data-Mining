@@ -1,0 +1,1 @@
+{"text": "I ordered these for my son at 4 months. Even then they were too short and too wide for him! They kept falling off at the shoulder.", "sentiment": "negative", "topics": {"0": "0.35059568", "1": "0.5896624", "2": "0.01193034", "3": "0.011931804", "4": "0.011973604", "5": "0.0119886", "6": "0.011917644"}}

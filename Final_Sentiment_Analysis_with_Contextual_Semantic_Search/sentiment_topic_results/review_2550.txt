@@ -1,0 +1,1 @@
+{"text": "I purchased this keepsake box for a friend whose dog had passed away. She loved the box, and used it for the dogs tags. Sweet item, and perfect for the memorial box.", "sentiment": "negative", "topics": {"1": "0.50547755", "2": "0.06324904", "3": "0.07300922", "5": "0.2783703", "6": "0.064795874"}}

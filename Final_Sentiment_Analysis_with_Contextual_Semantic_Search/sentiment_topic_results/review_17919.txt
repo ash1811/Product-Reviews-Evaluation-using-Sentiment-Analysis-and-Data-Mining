@@ -1,0 +1,1 @@
+{"text": "You get what you pay for. Extremly cheap and poorly made watch. Looks cheap and poor as well. I'm actually suprised that it even works.", "sentiment": "negative", "topics": {"1": "0.25176284", "2": "0.39735", "5": "0.2502372", "6": "0.07675994"}}

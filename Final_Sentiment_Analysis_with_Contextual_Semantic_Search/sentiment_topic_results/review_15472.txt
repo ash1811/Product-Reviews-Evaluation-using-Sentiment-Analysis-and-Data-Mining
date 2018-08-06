@@ -1,0 +1,1 @@
+{"text": "You can never go wrong with Ray Ban. Stylish, comfortable, worth every penny! Got them on a good deal for my hubby, will purchase another pair for myself!", "sentiment": "positive", "topics": {"1": "0.33931178", "2": "0.1251979", "3": "0.17992927", "4": "0.080283605", "5": "0.16254246", "6": "0.10519837"}}

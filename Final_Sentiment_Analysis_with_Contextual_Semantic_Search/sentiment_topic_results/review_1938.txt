@@ -1,0 +1,1 @@
+{"text": "Great Shoe, my ankle was too enlarged to fit the size. Returned to seller for credit. Wrong size and a smaller or larger wouldn't work.", "sentiment": "positive", "topics": {"1": "0.27567613", "2": "0.2144602", "3": "0.47166127"}}

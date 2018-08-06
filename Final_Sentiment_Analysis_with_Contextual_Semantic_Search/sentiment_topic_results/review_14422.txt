@@ -1,0 +1,1 @@
+{"text": "Rockports, do you have to say anything else, if you know shoes and are on your feet a lot these are the shoes you want.", "sentiment": "negative", "topics": {"0": "0.013003073", "1": "0.01300099", "2": "0.58096087", "3": "0.013026446", "4": "0.20414934", "5": "0.012997345", "6": "0.16286199"}}

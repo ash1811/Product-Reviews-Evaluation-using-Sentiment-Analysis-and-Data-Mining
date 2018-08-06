@@ -1,0 +1,1 @@
+{"text": "This bra is cute and it is great that the manufacter offer alternatives colors. Unfortunantly this bra is extremely uncomfortable and runs a tad small.", "sentiment": "negative", "topics": {"0": "0.097153425", "1": "0.3446078", "3": "0.36551017", "6": "0.16411957"}}

@@ -1,0 +1,1 @@
+{"text": "Glass got scratched after nearly 4 months of using it still love the materials used as well as the ultra low weight", "sentiment": "negative", "topics": {"0": "0.37196165", "1": "0.5831753"}}

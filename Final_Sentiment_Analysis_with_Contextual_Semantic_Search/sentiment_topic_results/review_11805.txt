@@ -1,0 +1,1 @@
+{"text": "These water shoes fit so good and comfortable  on my husband's feet.  They look just as pictured. I am so glad that I read the previous reviews and took a chance.  He is very satisfied with my purchase for him.", "sentiment": "negative", "topics": {"1": "0.45823523", "2": "0.12563197", "3": "0.1676563", "4": "0.15236771", "6": "0.0810202"}}

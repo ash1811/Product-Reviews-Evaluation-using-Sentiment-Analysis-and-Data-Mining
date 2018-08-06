@@ -1,0 +1,1 @@
+{"text": "These sandals are great. Very comfortable, even when wet and sandy. The bottle opener has came in handy several times already. I wear these things year round and will purchase another pair when they wear out.", "sentiment": "negative", "topics": {"0": "0.09416093", "1": "0.448431", "2": "0.25982514", "3": "0.178882"}}

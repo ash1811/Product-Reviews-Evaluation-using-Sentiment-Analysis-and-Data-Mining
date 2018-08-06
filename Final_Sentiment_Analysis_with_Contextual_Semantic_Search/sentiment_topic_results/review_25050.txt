@@ -1,0 +1,1 @@
+{"text": "I love hanes, and the comfort of this boxers. Look great, feel great, I have no regrets a a a", "sentiment": "negative", "topics": {"0": "0.014335474", "1": "0.4207496", "2": "0.014289824", "3": "0.014313576", "4": "0.21750124", "5": "0.0143259885", "6": "0.30448425"}}

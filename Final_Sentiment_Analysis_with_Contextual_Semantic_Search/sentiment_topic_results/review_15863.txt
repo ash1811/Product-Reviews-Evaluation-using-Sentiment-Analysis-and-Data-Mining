@@ -1,0 +1,1 @@
+{"text": "I took a chance and ordered my first bra online and I'm glad I did. this bra fits better than most bras I can find these days. I've reordered twice. Very comfortable.", "sentiment": "negative", "topics": {"1": "0.30777228", "3": "0.37507278", "5": "0.2885065"}}

@@ -1,0 +1,1 @@
+{"text": "These run a little big (small for a small boned woman is a slight bit baggy) but are comfortable, well made, and very warm.  Cute and stylish.  Would order again.", "sentiment": "negative", "topics": {"0": "0.06606787", "1": "0.5692941", "3": "0.011548234", "4": "0.08069245", "5": "0.1489021", "6": "0.116337284"}}

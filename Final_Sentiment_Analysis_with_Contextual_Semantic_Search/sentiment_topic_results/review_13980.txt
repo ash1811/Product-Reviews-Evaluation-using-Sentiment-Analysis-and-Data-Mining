@@ -1,0 +1,1 @@
+{"text": "Amazon always delivered for me. Product as describes, quality as detailed and delivery on time. What else can you want?", "sentiment": "negative", "topics": {"0": "0.01103084", "1": "0.15237081", "2": "0.16170995", "3": "0.10030311", "4": "0.34709176", "5": "0.12391234", "6": "0.10358119"}}

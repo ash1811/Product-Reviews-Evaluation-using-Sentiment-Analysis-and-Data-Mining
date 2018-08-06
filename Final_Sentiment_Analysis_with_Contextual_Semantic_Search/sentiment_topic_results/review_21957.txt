@@ -1,0 +1,1 @@
+{"text": "This is not the typical material I was used to with a carhartt jacket. My husband had one in the past and the fabric was totally different and it was thicker. Luckily, the seller was awesome and took it back since it was a different style so kudos there!", "sentiment": "negative", "topics": {"1": "0.55424815", "2": "0.22206622", "4": "0.15250562", "5": "0.052459314"}}

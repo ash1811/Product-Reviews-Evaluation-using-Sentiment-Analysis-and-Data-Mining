@@ -1,0 +1,1 @@
+{"text": "Jockey makes the best underpants ever.  The fit me perfectly.  Soft cotton and the waistband is soft covered cotton also.", "sentiment": "negative", "topics": {"1": "0.32820556", "3": "0.45290697", "4": "0.18072325"}}

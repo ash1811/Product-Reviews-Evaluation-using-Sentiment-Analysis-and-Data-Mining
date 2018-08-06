@@ -1,0 +1,1 @@
+{"text": "I like these socks a lot, but everytime I wear them, they seem to create a whole lot of crap from the material.Carpet had lots of black cotton &#34;balls&#34; only to find that they were from my feet.", "sentiment": "negative", "topics": {"0": "0.1971516", "3": "0.255523", "5": "0.43705297", "6": "0.08762735"}}

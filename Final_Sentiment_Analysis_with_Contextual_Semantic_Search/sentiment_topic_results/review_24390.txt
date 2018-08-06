@@ -1,0 +1,1 @@
+{"text": "Well made and keeps my husband nice and warm. He loves Carhartt and loves this beanie great color as well.", "sentiment": "negative", "topics": {"0": "0.010221252", "1": "0.66020215", "2": "0.09406401", "3": "0.010244737", "4": "0.2048359", "5": "0.010225258", "6": "0.01020667"}}

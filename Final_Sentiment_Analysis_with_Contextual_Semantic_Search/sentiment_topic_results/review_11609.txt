@@ -1,0 +1,1 @@
+{"text": "The pant fabric is thinner than expected.Fits at the waist.The quality is good but unimpressive.I have better pants for the price range.", "sentiment": "negative", "topics": {"0": "0.011004082", "1": "0.36395204", "2": "0.011000465", "3": "0.011000113", "4": "0.19606087", "5": "0.18568055", "6": "0.22130188"}}

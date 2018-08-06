@@ -1,0 +1,1 @@
+{"text": "if you have a high arch don't think about any other sandal, this is my 2nd pair and I have told others about my experience and they purchased some also, maybe I should be a factory rep in Hawaii....", "sentiment": "negative", "topics": {"1": "0.27481687", "2": "0.22787242", "3": "0.2677208", "4": "0.07991967", "6": "0.13174526"}}

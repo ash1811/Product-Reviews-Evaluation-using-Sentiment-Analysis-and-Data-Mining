@@ -1,0 +1,1 @@
+{"text": "I was waiting and got the boots before the due date, and they fit well on my feet and also I could walk in them, thanks for this product and its the real steel toes boots", "sentiment": "negative", "topics": {"0": "0.16396709", "1": "0.29505062", "4": "0.26570344", "5": "0.17104656", "6": "0.089064114"}}

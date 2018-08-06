@@ -1,0 +1,1 @@
+{"text": "Delivered quickly and in good condition.  Fits great, doesn't itch, and plan to use it as often as the weather dictates.", "sentiment": "positive", "topics": {"0": "0.08577924", "1": "0.36930683", "2": "0.1856319", "3": "0.011045879", "4": "0.21024822", "5": "0.12696682", "6": "0.011021126"}}

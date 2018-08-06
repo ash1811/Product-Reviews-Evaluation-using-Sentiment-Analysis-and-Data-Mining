@@ -1,0 +1,1 @@
+{"text": "I bought this watch strictly for when I am working outside and I don't need to be so careful with my watch. It is very light and if I wreck it, I'll get another new one. I am very happy with it.", "sentiment": "positive", "topics": {"1": "0.26933417", "2": "0.20817745", "3": "0.25520423", "4": "0.16595498", "6": "0.086244844"}}

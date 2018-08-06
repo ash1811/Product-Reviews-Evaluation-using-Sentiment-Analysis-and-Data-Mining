@@ -1,0 +1,1 @@
+{"text": "I purchased this necklace as part of my daughter's birthday gifts. She absolutely loves it and wears it almost everyday.The pendant is quite large with a lot of sparkle.", "sentiment": "negative", "topics": {"0": "0.18129104", "1": "0.24783048", "2": "0.31195343", "5": "0.23362672"}}

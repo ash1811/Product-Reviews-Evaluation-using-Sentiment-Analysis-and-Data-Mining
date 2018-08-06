@@ -1,0 +1,1 @@
+{"text": "I already bought something for Valentine's Day but I just had to have this!  Very sexy and classy with a set of pearls and nice hells.Item arrived on time.", "sentiment": "positive", "topics": {"0": "0.24391074", "1": "0.19828683", "4": "0.0901356", "5": "0.43896505"}}

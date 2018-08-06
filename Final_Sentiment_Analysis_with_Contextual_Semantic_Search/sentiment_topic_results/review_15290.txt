@@ -1,0 +1,1 @@
+{"text": "The color is really pretty and the quality is great. I am really happy with these scrubs for the price.", "sentiment": "negative", "topics": {"0": "0.014331092", "1": "0.7966897", "2": "0.014297028", "3": "0.13175717", "4": "0.014308551", "5": "0.014313522", "6": "0.014302947"}}

@@ -1,0 +1,1 @@
+{"text": "very sturdy against wear and tear perfect to size perfect color the traditional ballet pink will never go out of style", "sentiment": "negative", "topics": {"0": "0.0102689415", "1": "0.36086985", "2": "0.010213572", "3": "0.20196788", "4": "0.0102495", "5": "0.2138936", "6": "0.19253664"}}

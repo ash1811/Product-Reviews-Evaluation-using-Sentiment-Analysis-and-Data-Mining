@@ -1,0 +1,1 @@
+{"text": "Love the material, the color is less minty and more sage than the photo may show, and it is tidy inside, just what I looked for for a long long time.", "sentiment": "positive", "topics": {"0": "0.13757676", "1": "0.40611938", "2": "0.109171405", "5": "0.16359052", "6": "0.16559918"}}

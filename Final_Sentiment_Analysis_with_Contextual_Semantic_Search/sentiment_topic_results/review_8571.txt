@@ -1,0 +1,1 @@
+{"text": "I have worn these shoes for years.  They never fail me. Comfy and supportmy feet well.  True to size. I would and will buy again...Best price is on Amazon.com.....", "sentiment": "negative", "topics": {"0": "0.087838784", "1": "0.2573801", "2": "0.25398886", "3": "0.14009413", "4": "0.16574484", "6": "0.087002106"}}

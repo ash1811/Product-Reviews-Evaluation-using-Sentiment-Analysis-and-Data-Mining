@@ -1,0 +1,1 @@
+{"text": "watch is good, color is good but not fit for small size wristI took because fiber and leather strip combination was excellent but due my small wrist it was loose in my hand.", "sentiment": "positive", "topics": {"0": "0.13368002", "1": "0.27100566", "2": "0.26067024", "4": "0.0683306", "5": "0.13097046", "6": "0.12816288"}}

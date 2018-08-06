@@ -1,0 +1,1 @@
+{"text": "My dog, bless her heart has destroyed my slippers.  I finally am hiding them especially these because they are so comfortable and the sole is thicker than I expected.  Thank You.", "sentiment": "negative", "topics": {"1": "0.18906114", "3": "0.20214146", "4": "0.05126626", "5": "0.10469816", "6": "0.43367106"}}

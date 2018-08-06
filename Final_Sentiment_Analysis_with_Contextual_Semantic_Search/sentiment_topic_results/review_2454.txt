@@ -1,0 +1,1 @@
+{"text": "my son loves these sandals  just need to break them in then they fit like a glove", "sentiment": "negative", "topics": {"0": "0.015917161", "1": "0.40854508", "2": "0.21295372", "3": "0.14744955", "4": "0.01597151", "5": "0.015918396", "6": "0.18324462"}}

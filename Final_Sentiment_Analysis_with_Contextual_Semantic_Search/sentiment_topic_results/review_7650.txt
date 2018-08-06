@@ -1,0 +1,1 @@
+{"text": "Returned did not fit, so it seems unfair to rate this. So if it had fitted maybe I would have liked it.", "sentiment": "negative", "topics": {"0": "0.15982096", "1": "0.27934158", "2": "0.21245116", "3": "0.31262907", "4": "0.01194111", "5": "0.01190725", "6": "0.0119088935"}}

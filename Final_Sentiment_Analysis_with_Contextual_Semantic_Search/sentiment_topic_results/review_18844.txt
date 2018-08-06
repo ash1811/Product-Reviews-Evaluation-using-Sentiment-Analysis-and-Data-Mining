@@ -1,0 +1,1 @@
+{"text": "nice JeanIt fits me very well.nice season wearing such nice Jean.nice weekend nice weather, not nice so many words to type in ,not nice Amazon such dirty set.", "sentiment": "positive", "topics": {"0": "0.06396474", "1": "0.538342", "2": "0.06171311", "4": "0.102304265", "6": "0.22005174"}}

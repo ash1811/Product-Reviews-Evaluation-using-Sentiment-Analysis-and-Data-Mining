@@ -1,0 +1,1 @@
+{"text": "Good product and a great price.  Received on time. Would recommend to any outdoorsman or some one that works out in cold weather.", "sentiment": "negative", "topics": {"0": "0.010241964", "1": "0.53269446", "2": "0.010267385", "3": "0.0102420645", "4": "0.010246931", "5": "0.41608074", "6": "0.010226437"}}

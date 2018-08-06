@@ -1,0 +1,1 @@
+{"text": "I bought this leotard and was not aware it has a v-neck.  I don't like that I have to wear a bra under it.  It is not see through and has a liner in the bust area, but it doesn't work for me.", "sentiment": "positive", "topics": {"1": "0.4719107", "2": "0.172961", "3": "0.24268125", "4": "0.08379428"}}

@@ -1,0 +1,1 @@
+{"text": "These seem thick and durable. They fit perfectly (size small for a 50lb-48inch tall five year-old). No complaint so far.", "sentiment": "positive", "topics": {"0": "0.0102313105", "1": "0.50093925", "2": "0.13885956", "3": "0.13728678", "4": "0.19218896", "5": "0.010243784", "6": "0.010250363"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband and he loves them.  They fit him perfectly.  They fit was described.  The thermal seems extra warm vs flannel.  Great product.  Wrangler quality is still there.", "sentiment": "negative", "topics": {"1": "0.52600735", "3": "0.13050458", "4": "0.19636653", "5": "0.07924463", "6": "0.05424896"}}

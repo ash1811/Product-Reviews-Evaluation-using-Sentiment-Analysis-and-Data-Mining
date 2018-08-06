@@ -1,0 +1,1 @@
+{"text": "I don't have any complaints about the quality of the product. I wore a lycra Speedo suit prior to this one and it was definitely bigger. I'm a 32 in the lycra Speedo jammer but probably should have ordered a size up.", "sentiment": "positive", "topics": {"1": "0.3124144", "2": "0.19710533", "3": "0.24403065", "5": "0.14017795", "6": "0.09264618"}}

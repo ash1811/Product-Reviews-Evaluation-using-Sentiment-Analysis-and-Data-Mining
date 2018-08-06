@@ -1,0 +1,1 @@
+{"text": "Got my son these boat shoes for the spring. They came in a nice wide width so they fit him comfortably. Love the style and the color.", "sentiment": "negative", "topics": {"1": "0.30110377", "2": "0.0908744", "5": "0.569643"}}

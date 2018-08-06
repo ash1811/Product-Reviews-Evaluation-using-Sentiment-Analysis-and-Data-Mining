@@ -1,0 +1,1 @@
+{"text": "These glasses fit perfectly on me, I love it!! Planing on getting another one for my husband. Great buy totally worth it.", "sentiment": "negative", "topics": {"1": "0.63300157", "2": "0.14226104", "4": "0.19105221"}}

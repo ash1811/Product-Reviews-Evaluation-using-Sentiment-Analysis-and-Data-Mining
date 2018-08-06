@@ -1,0 +1,1 @@
+{"text": "and she loved them!!  Great quality, they look adorable, and I would highly recommend for anyone who is looking for this type of slipper.", "sentiment": "negative", "topics": {"0": "0.010256352", "1": "0.46822548", "2": "0.010230498", "3": "0.21417421", "4": "0.01022385", "5": "0.21193567", "6": "0.074953906"}}

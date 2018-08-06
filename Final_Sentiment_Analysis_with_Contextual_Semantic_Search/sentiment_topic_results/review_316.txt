@@ -1,0 +1,1 @@
+{"text": "This is a good basic polo, especially for uniform wear.  The fabric is lightweight, which is comfortable, but it might require light ironing after being laundered.  The price is right for a uniform shirt.", "sentiment": "negative", "topics": {"0": "0.20899716", "1": "0.535726", "4": "0.10083503", "6": "0.13175002"}}

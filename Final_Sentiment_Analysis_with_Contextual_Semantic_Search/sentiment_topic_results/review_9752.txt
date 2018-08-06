@@ -1,0 +1,1 @@
+{"text": "I work on my feet for 8 hours a day. these shoes are comfortable and lightweight. there is no artificial arch or padding. they just keep my feet clean and dry. I have two pair!", "sentiment": "negative", "topics": {"1": "0.27982688", "2": "0.07526366", "3": "0.14228387", "4": "0.19399914", "5": "0.12681028", "6": "0.17386247"}}

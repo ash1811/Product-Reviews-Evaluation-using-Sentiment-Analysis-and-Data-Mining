@@ -1,0 +1,1 @@
+{"text": "The chart posted had the sizes correct.  They also came with the added bonus of having a silicon top so they dont need a garter to stay up.  They feel great and they seem like they will last a relatively long time.", "sentiment": "positive", "topics": {"0": "0.22315563", "2": "0.13759123", "3": "0.2510888", "4": "0.1553903", "5": "0.0840205", "6": "0.14278069"}}

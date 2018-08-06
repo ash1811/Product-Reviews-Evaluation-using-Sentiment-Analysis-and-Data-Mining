@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable slippers I have ever owned.  Having said that, I must agree with the other reviewers that they definitely run small.  Thanks to all their reviews, I knew to order a size up.", "sentiment": "negative", "topics": {"0": "0.13968128", "1": "0.20683096", "3": "0.44066048", "4": "0.084344804", "6": "0.11334579"}}

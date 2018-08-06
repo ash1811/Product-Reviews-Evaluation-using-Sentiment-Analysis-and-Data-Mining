@@ -1,0 +1,1 @@
+{"text": "These were a Christmas gift for my husband.  He LOVES them.  They fit well, are very comfortable and have great traction.  I'm sure he will get a lot of use out of these shoes and will be back to buy more.", "sentiment": "negative", "topics": {"0": "0.07568332", "1": "0.38200584", "2": "0.22221044", "3": "0.20671065", "4": "0.09905494"}}

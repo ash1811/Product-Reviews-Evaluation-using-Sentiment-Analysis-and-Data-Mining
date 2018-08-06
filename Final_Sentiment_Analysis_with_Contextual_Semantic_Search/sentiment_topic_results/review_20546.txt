@@ -1,0 +1,1 @@
+{"text": "A birthday gift for my five year old grand niece. She is learning how to tell time, and loves the butterflies.", "sentiment": "positive", "topics": {"0": "0.2462253", "1": "0.011031797", "2": "0.23702726", "3": "0.112328894", "4": "0.25823623", "5": "0.011017988", "6": "0.12413251"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these for vacation after purchasing some other REEF wear earlier that I was pleased with. They didn't let down. Very comfy.", "sentiment": "positive", "topics": {"0": "0.1376269", "1": "0.3720106", "2": "0.011929323", "3": "0.4426119", "4": "0.011937159", "5": "0.011950509", "6": "0.011933603"}}

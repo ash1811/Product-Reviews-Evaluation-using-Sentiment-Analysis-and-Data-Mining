@@ -1,0 +1,1 @@
+{"text": "I only wear Levi's 550's, mostly because I'm no longer the skinny guy I used to be, and need a little more room around the mid section.", "sentiment": "negative", "topics": {"0": "0.101375125", "1": "0.42778012", "4": "0.13308343", "5": "0.14787586", "6": "0.17303021"}}

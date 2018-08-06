@@ -1,0 +1,1 @@
+{"text": "Great sale price on a very cute shoe. I hope the thin strap holds up, otherwise I love them. Love Skechers shoes!", "sentiment": "negative", "topics": {"2": "0.29638407", "3": "0.31600127", "4": "0.35385245"}}

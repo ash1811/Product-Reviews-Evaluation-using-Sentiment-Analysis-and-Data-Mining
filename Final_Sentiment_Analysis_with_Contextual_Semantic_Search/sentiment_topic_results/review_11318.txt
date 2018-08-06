@@ -1,0 +1,1 @@
+{"text": "These pants are not wonderful but not too bad for the price.  They seem to be of pretty average sizing..", "sentiment": "positive", "topics": {"0": "0.015926622", "1": "0.90442246", "2": "0.015899012", "3": "0.01593954", "4": "0.015935319", "5": "0.01592979", "6": "0.015947293"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are super warm, and  very comfortable.  They are soft and have a great &#34;feel&#34;  even though they aren't really that thick as to make wearing shoes uncomfortable like other socks similar to this I've had.", "sentiment": "positive", "topics": {"1": "0.4226932", "2": "0.077169314", "3": "0.24862026", "5": "0.23102431"}}

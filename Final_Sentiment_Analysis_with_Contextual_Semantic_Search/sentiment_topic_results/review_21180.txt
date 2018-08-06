@@ -1,0 +1,1 @@
+{"text": "Comfort! Wear them for all day outings, or short runs here and there, perfect fit and sizing is in sync. Recommend these sandals for anyone looking for style, comfort.", "sentiment": "negative", "topics": {"0": "0.20040771", "1": "0.3817551", "3": "0.25959268", "6": "0.1343523"}}

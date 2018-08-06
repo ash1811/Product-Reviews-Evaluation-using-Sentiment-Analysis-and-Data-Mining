@@ -1,0 +1,1 @@
+{"text": "The jeans fit as expected, look great, and are well constructed. I would recommend them to anyone who wants to purchase a pair of tactical jeans.", "sentiment": "positive", "topics": {"0": "0.46093076", "1": "0.42610404", "6": "0.077116355"}}

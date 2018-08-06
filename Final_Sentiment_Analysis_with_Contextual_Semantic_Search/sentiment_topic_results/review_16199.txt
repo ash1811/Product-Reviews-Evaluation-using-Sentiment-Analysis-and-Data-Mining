@@ -1,0 +1,1 @@
+{"text": "I like to keep my class ring nice and shiny by using this polishing cloth about once a week.  It only takes me a couple of minutes, and the ring always looks brand new.  I get about two years worth of use before having to replace it.", "sentiment": "negative", "topics": {"0": "0.068127535", "1": "0.39137763", "2": "0.14819027", "3": "0.26507762", "6": "0.11620777"}}

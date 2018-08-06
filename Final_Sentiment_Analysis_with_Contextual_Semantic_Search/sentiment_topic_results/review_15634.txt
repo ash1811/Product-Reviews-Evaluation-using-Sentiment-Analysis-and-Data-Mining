@@ -1,0 +1,1 @@
+{"text": "My daughter loves this costume. She wears a 3t-4t and this costume fits perfectly. As stated by the other reviewers the headband is too small and the boot covers are too big but they are not key parts of the costume for my daughter.", "sentiment": "negative", "topics": {"0": "0.21058747", "1": "0.28085667", "3": "0.0801685", "4": "0.13199879", "5": "0.28206748"}}

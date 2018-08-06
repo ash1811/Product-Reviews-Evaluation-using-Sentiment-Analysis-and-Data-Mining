@@ -1,0 +1,1 @@
+{"text": "Selected the item to be gifted to someone who may appreciate the watch.  It is reasonably priced and highly recommended to others to purchase.", "sentiment": "negative", "topics": {"0": "0.01021996", "1": "0.37786174", "2": "0.29045328", "3": "0.010226896", "4": "0.14798376", "5": "0.0102239065", "6": "0.15303047"}}

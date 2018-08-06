@@ -1,0 +1,1 @@
+{"text": "These flip flops are very comfy and hold up very well, they are not cheaply made like some. Also they have a good arch in the middle for support. You cant beat the price.", "sentiment": "negative", "topics": {"1": "0.41899833", "2": "0.10700789", "3": "0.2827086", "4": "0.16742975"}}

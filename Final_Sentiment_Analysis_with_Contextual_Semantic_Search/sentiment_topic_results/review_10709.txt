@@ -1,0 +1,1 @@
+{"text": "I got them for my father who had had the same boots before so they were just perfect for work, which was the purpose.", "sentiment": "positive", "topics": {"0": "0.020438239", "1": "0.020477248", "2": "0.020434145", "3": "0.42559877", "4": "0.18770584", "5": "0.020424796", "6": "0.30492097"}}

@@ -1,0 +1,1 @@
+{"text": "I have used Hagerty polishing cloths for years. They are generous in size and they are good for both gold and silver.", "sentiment": "negative", "topics": {"0": "0.21801028", "1": "0.21390814", "2": "0.10672136", "3": "0.42221138", "4": "0.013095062", "5": "0.013022953", "6": "0.013030851"}}

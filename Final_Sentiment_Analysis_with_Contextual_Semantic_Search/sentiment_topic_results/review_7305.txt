@@ -1,0 +1,1 @@
+{"text": "Really comfortable, durable, nice looking pants.  Love 'em.  The Riggs line of pants by Wrangler is great and I have worn them for years.", "sentiment": "negative", "topics": {"1": "0.7083975", "4": "0.1836356", "6": "0.07220388"}}

@@ -1,0 +1,1 @@
+{"text": "The shirt is not ultra-heavy nor ultra-light. This dry-fit material is very nice for the gym, running outside or skiing. Size accurately. Great color! So I bought another one.", "sentiment": "negative", "topics": {"0": "0.25151765", "1": "0.35466626", "2": "0.103316404", "3": "0.08961747", "5": "0.18494736"}}

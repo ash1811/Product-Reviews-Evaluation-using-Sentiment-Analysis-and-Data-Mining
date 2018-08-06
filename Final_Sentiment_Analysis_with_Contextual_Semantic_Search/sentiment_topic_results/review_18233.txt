@@ -1,0 +1,1 @@
+{"text": "for my point of view this is one of the best watches that ever saw, the relation ship between price and conform is perfect .... just is a  good desition", "sentiment": "negative", "topics": {"0": "0.21129252", "1": "0.21403547", "2": "0.2289279", "6": "0.3170145"}}

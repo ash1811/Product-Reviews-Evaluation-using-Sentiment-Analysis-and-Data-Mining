@@ -1,0 +1,1 @@
+{"text": "Got this to wear under a gauzy tunic and it is great for that.  I have also used it to yoga and it is terrific.", "sentiment": "negative", "topics": {"0": "0.013013569", "1": "0.3603468", "2": "0.11311254", "3": "0.19641523", "4": "0.29102585", "5": "0.013030854", "6": "0.013055205"}}

@@ -1,0 +1,1 @@
+{"text": "I wear XS scrub pants but these were so huge. I was not happy with the fit and felt right off. Very disappointed.", "sentiment": "negative", "topics": {"0": "0.011925306", "1": "0.39048997", "2": "0.17594784", "3": "0.3858615", "4": "0.011931972", "5": "0.011930964", "6": "0.011912454"}}

@@ -1,0 +1,1 @@
+{"text": "This bra fits very well and is comfortable. I'm happy it had removable straps, because I replaced with a clear strap for a shear dress I was wearing.", "sentiment": "negative", "topics": {"0": "0.095775455", "1": "0.46603763", "2": "0.2256536", "3": "0.098950855", "4": "0.09451448"}}

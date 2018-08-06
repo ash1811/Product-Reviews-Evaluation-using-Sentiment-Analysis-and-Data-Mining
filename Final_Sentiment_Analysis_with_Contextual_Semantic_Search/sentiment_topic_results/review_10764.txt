@@ -1,0 +1,1 @@
+{"text": "It's just awesome how awesome these shoes ..The latest collection to my awesome shoes section .. You can go out in them, wear them to work .. multipurpose!", "sentiment": "positive", "topics": {"0": "0.16976333", "1": "0.2806548", "2": "0.3575851", "6": "0.16333339"}}

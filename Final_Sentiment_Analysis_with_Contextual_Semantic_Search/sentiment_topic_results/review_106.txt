@@ -1,0 +1,1 @@
+{"text": "I absolutely love this sweatshirt. It is so comfy and perfect and even after a dozen washes it still fits perfectly. Would definitely recommend.", "sentiment": "negative", "topics": {"1": "0.47236067", "2": "0.15246847", "3": "0.33696273"}}

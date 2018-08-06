@@ -1,0 +1,1 @@
+{"text": "This little bag is adorable, sturdy, and goes w/a lot of my clothes and shoes.  I like that it's a neutral brown so it matches pretty much anything.  TY.", "sentiment": "negative", "topics": {"1": "0.3208291", "2": "0.42985916", "3": "0.17002524", "4": "0.055403825"}}

@@ -1,0 +1,1 @@
+{"text": "i wear them all the time very nice good color goes with everything i will buy more in the future from themthank you ruthi", "sentiment": "negative", "topics": {"0": "0.28352174", "1": "0.4590664", "2": "0.10259998", "3": "0.011926138", "4": "0.11900773", "5": "0.011940981", "6": "0.011937068"}}

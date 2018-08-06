@@ -1,0 +1,1 @@
+{"text": "Not good at all . It was not my outfit at all I had picked out I returned it and they never gave me back the real outfit I had picked", "sentiment": "negative", "topics": {"0": "0.013027132", "1": "0.73502636", "2": "0.01303888", "3": "0.013023803", "4": "0.1998366", "5": "0.013044453", "6": "0.013002797"}}

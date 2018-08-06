@@ -1,0 +1,1 @@
+{"text": "I usually wear a 7/7.5 and order these in an 8 because the 7's are just to small. Very comfortable and go great with a casual summer look.", "sentiment": "negative", "topics": {"0": "0.2886029", "1": "0.45515513", "2": "0.010215821", "3": "0.010221652", "4": "0.010252146", "5": "0.21533246", "6": "0.010219859"}}

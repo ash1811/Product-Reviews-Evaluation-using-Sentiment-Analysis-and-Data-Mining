@@ -1,0 +1,1 @@
+{"text": "estos zapatos quedan hermosos, mi esposo esta super contento y enamorado de ellos, son mu c&oacute;modos, y de muy buena calidad, excelente responsabilidad en el tiempo de entrega", "sentiment": "negative", "topics": {"1": "0.32334402", "3": "0.15610586", "4": "0.08797997", "5": "0.376032", "6": "0.04594954"}}

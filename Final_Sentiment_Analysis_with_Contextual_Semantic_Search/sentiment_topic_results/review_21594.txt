@@ -1,0 +1,1 @@
+{"text": "I needed a see through jewelry box with drawers and this is it! Each drawer is felt lined. The box is quite heavy, empty, with thick sides and frame. The price was good since I've seen likewise for over $100.", "sentiment": "negative", "topics": {"0": "0.075328454", "1": "0.45258823", "3": "0.14626305", "4": "0.1643262", "6": "0.14949964"}}

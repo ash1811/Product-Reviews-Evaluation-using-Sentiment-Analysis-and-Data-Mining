@@ -1,0 +1,1 @@
+{"text": "Durable, comfortable, true to size, look good, and great construction. I recommend to all. At the end of the work day my feet feel good. The order is shipped quickly. Enjoy.", "sentiment": "positive", "topics": {"0": "0.13793413", "1": "0.3785213", "2": "0.07478561", "3": "0.16024058", "5": "0.23483454"}}

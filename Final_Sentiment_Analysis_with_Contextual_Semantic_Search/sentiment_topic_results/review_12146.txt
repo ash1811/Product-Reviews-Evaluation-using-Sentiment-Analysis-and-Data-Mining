@@ -1,0 +1,1 @@
+{"text": "These socks did keep my feet warm and did not feel bulky at all. The wool is also really comfortable. Would buy another pair.", "sentiment": "positive", "topics": {"1": "0.37852854", "2": "0.081776015", "3": "0.3211956", "4": "0.1915116"}}

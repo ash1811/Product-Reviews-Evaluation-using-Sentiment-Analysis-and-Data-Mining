@@ -1,0 +1,1 @@
+{"text": "I have never purchased extra wide shoes. They really are. After 2 days I am very happy with them so far.", "sentiment": "negative", "topics": {"0": "0.1652906", "1": "0.23545271", "2": "0.28648618", "3": "0.011948023", "4": "0.01193853", "5": "0.27697077", "6": "0.011913185"}}

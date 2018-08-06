@@ -1,0 +1,1 @@
+{"text": "Nice fit, great classic color easy to care and easy to wear. Feels great against the skin and fit perfect. Great value and perfect for indoor or ranching. Have no complains.", "sentiment": "negative", "topics": {"1": "0.48702255", "2": "0.06619793", "5": "0.20211531", "6": "0.22421052"}}

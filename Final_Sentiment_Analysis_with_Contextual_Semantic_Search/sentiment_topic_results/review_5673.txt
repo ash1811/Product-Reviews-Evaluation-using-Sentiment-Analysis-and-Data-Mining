@@ -1,0 +1,1 @@
+{"text": "These fit well.  My daughter loves pink and these went over well.  I bought these for my daughter to wear underneath other shirts but they are good for the summer as well.", "sentiment": "positive", "topics": {"0": "0.39236304", "1": "0.49470946", "6": "0.07710438"}}

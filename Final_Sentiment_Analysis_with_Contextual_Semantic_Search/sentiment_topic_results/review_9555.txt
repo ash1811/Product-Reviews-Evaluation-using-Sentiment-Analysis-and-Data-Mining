@@ -1,0 +1,1 @@
+{"text": "I needed a boot without the steel toe.  Plus I have a short fat foot so these just weren't for me.  Nothing wrong with the boot.  I just wish I could find something that will fit.", "sentiment": "negative", "topics": {"0": "0.07967265", "1": "0.40816134", "2": "0.07693457", "3": "0.07898605", "4": "0.20877708", "6": "0.13991174"}}

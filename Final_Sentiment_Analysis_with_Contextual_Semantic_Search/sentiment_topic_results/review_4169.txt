@@ -1,0 +1,1 @@
+{"text": "YEP LOVE THESE! Look small but are true to size when put them on the childs foot. LOVE THEM. These are perfecto!", "sentiment": "negative", "topics": {"0": "0.010283215", "1": "0.0102417795", "2": "0.010227963", "3": "0.5247713", "4": "0.30154857", "5": "0.13271163", "6": "0.010215555"}}

@@ -1,0 +1,1 @@
+{"text": "Bought em for the lady, pretty cute. Highly recommend these ones if you're into the lolita look on your lady friend.", "sentiment": "negative", "topics": {"0": "0.011067883", "1": "0.011060281", "2": "0.011026819", "3": "0.011010722", "4": "0.52046365", "5": "0.42438057", "6": "0.010990052"}}

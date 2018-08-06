@@ -1,0 +1,1 @@
+{"text": "Typical low cost fleece pants, now bad seams, but lots of loose threads that needed to be trimmed or removed. Hopefully they will last the winter for my son, that is all they need to do.", "sentiment": "negative", "topics": {"1": "0.485813", "2": "0.23583975", "3": "0.052920926", "4": "0.13122907", "6": "0.079851784"}}

@@ -1,0 +1,1 @@
+{"text": "Fit and finish are exceptional, my wife loves them.  They appear to fit better than the Jockey brand and much lower cost.", "sentiment": "positive", "topics": {"1": "0.27648926", "2": "0.27636817", "3": "0.2762297", "4": "0.14224984"}}

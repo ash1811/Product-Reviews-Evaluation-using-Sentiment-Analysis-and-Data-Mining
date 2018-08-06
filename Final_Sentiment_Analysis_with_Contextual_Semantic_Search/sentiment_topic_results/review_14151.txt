@@ -1,0 +1,1 @@
+{"text": "Thank you very much.  It worked great and kept my daughter dry.I would buy it again if I needed to.", "sentiment": "negative", "topics": {"0": "0.15521912", "1": "0.5296765", "2": "0.2673371", "3": "0.011931715", "4": "0.011925411", "5": "0.011943533", "6": "0.011966617"}}

@@ -1,0 +1,1 @@
+{"text": "I WANTED TO LOVE THIS PRODUCT BUT IT ALWAYS GIVES ME A HEADACHE. CUTE THOUGH", "sentiment": "negative", "topics": {"0": "0.015909564", "1": "0.22419626", "2": "0.015922751", "3": "0.01591746", "4": "0.29226574", "5": "0.41990182", "6": "0.015886405"}}

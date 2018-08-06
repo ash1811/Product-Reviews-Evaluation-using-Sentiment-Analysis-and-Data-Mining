@@ -1,0 +1,1 @@
+{"text": "fits great, perfect for the modest sunbather or the serious swimmer.", "sentiment": "positive", "topics": {"0": "0.017900454", "1": "0.30808905", "2": "0.1509914", "3": "0.017978625", "4": "0.31680405", "5": "0.17037506", "6": "0.017861342"}}

@@ -1,0 +1,1 @@
+{"text": "Comfortable fit, size is perfect.  the material washes beautlfully.  Will stay with this brand.  THe other brands will be discarded", "sentiment": "negative", "topics": {"0": "0.01191523", "1": "0.51075906", "2": "0.011907149", "3": "0.30413133", "4": "0.13743225", "5": "0.011926133", "6": "0.011928899"}}

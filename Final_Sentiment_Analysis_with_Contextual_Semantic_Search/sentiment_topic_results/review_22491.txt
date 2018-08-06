@@ -1,0 +1,1 @@
+{"text": "These are 100% cotton, all right, but so thin I'm sure they won't last long.The cut is hideous and very unflattering.I will never buy these again.", "sentiment": "negative", "topics": {"1": "0.19646178", "2": "0.08018594", "3": "0.21868806", "4": "0.47605604"}}

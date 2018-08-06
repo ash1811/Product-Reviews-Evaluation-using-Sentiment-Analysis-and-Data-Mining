@@ -1,0 +1,1 @@
+{"text": "I purchase this Swiss Watch for each child and now each grand child at the age of 10. This is a well made Swiss watch and provide years of service long into college years. Highly recommend.", "sentiment": "negative", "topics": {"1": "0.23320155", "2": "0.2047276", "3": "0.20796603", "4": "0.15055235", "5": "0.18993586"}}

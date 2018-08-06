@@ -1,0 +1,1 @@
+{"text": "My 2 year old took a few weeks to get used to them but now he loves wearing them which is good because it rains in Portland 8 months straight pretty much.", "sentiment": "negative", "topics": {"0": "0.32598197", "1": "0.41505638", "3": "0.22705886"}}

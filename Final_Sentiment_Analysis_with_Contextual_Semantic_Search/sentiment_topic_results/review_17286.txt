@@ -1,0 +1,1 @@
+{"text": "Great shoe for the price and name brand. These shoes breath with the cloth material on the top of the shoe. I love them.", "sentiment": "positive", "topics": {"0": "0.010240687", "1": "0.296235", "2": "0.3427582", "3": "0.3200673", "4": "0.010252346", "5": "0.010232957", "6": "0.010213543"}}

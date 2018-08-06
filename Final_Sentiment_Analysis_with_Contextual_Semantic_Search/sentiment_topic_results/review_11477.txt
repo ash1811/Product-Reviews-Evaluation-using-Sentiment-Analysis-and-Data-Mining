@@ -1,0 +1,1 @@
+{"text": "This is a good quality shirt for the price. Not to thin, not to heavy.  I have washed them, quite a few times and the black color has not faded. Did find a few loose strands, but thats to be expected. I plan to purchase more", "sentiment": "negative", "topics": {"1": "0.541211", "2": "0.28371945", "4": "0.097823285", "6": "0.056739762"}}

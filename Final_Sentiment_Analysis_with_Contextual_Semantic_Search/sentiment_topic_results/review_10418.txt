@@ -1,0 +1,1 @@
+{"text": "I didn't understand the hype of Uggs until I purchased a pair for my daughter at Christmas. They are soft, warm and snuggle your foot. I wish I could afford another pair! We love these.", "sentiment": "positive", "topics": {"0": "0.27240515", "1": "0.366143", "3": "0.20238511", "5": "0.13637777"}}

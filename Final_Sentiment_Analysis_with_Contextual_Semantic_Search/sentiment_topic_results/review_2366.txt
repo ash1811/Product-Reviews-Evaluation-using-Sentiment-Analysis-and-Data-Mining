@@ -1,0 +1,1 @@
+{"text": "These shoes were very comfortable and durable.  I've been wearing them for 6 months and have not had a single issue with them.", "sentiment": "negative", "topics": {"0": "0.013009396", "1": "0.37687293", "2": "0.28088093", "3": "0.13909669", "4": "0.012997087", "5": "0.16409272", "6": "0.013050253"}}

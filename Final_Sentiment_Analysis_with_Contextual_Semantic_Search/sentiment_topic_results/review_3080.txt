@@ -1,0 +1,1 @@
+{"text": "Way too big, even though I usually wear a 10.5EE. Had to return for a 10, which was still too big.", "sentiment": "negative", "topics": {"0": "0.011977643", "1": "0.49536702", "2": "0.011947356", "3": "0.011948638", "4": "0.36314595", "5": "0.011981208", "6": "0.09363222"}}

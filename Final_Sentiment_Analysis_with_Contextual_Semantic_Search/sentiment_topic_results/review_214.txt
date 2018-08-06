@@ -1,0 +1,1 @@
+{"text": "I like the panties ,because they do not ride up  they stay put where they suppose to be....love them...thanks,I will buy them again..", "sentiment": "positive", "topics": {"0": "0.011963791", "1": "0.17258847", "2": "0.011949564", "3": "0.011949132", "4": "0.4163588", "5": "0.23274994", "6": "0.1424403"}}

@@ -1,0 +1,1 @@
+{"text": "My wife can't get enough of these. Loves the price and comfort of these shoes. Now has me buying Skechers!!", "sentiment": "positive", "topics": {"0": "0.2904947", "1": "0.0119445445", "2": "0.12945189", "3": "0.13244478", "4": "0.2473647", "5": "0.011961528", "6": "0.17633785"}}

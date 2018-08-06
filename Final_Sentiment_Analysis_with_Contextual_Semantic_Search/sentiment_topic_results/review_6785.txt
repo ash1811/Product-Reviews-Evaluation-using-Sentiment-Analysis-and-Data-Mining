@@ -1,0 +1,1 @@
+{"text": "Used this to conceal our passports- 3 easily fit in the compartment. Material was nice and cool and draw string was a bonus.", "sentiment": "positive", "topics": {"0": "0.13113086", "1": "0.4820028", "2": "0.24923944", "3": "0.010210941", "4": "0.010204316", "5": "0.010248527", "6": "0.10696314"}}

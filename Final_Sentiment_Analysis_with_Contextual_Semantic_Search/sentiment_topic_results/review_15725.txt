@@ -1,0 +1,1 @@
+{"text": "I love this watch!!  It is so sharp and elegant.  The slim design is great, as is the price!  You will not be disappointed.", "sentiment": "negative", "topics": {"0": "0.014345418", "1": "0.014423122", "2": "0.2854312", "3": "0.21553901", "4": "0.34158933", "5": "0.0143585205", "6": "0.11431341"}}

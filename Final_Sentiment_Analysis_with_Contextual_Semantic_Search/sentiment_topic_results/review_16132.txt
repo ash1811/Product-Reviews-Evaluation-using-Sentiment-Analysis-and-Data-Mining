@@ -1,0 +1,1 @@
+{"text": "These are working out well for my son. We've had a lot of snow and he has been wearing them a lot to shovel the driveway and get around. They're warm and holding up well.", "sentiment": "positive", "topics": {"1": "0.36346203", "3": "0.07883018", "4": "0.0904692", "5": "0.44198522"}}

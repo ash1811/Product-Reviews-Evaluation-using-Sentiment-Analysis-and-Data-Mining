@@ -1,0 +1,1 @@
+{"text": "My husband has a pair and now I bought this one for my son. Always by a larger size than your shoe so it will be easier to get on and off. Totes lives up to its name. It's a good brand.", "sentiment": "positive", "topics": {"0": "0.083490975", "1": "0.21756597", "2": "0.36474416", "3": "0.18999283", "4": "0.12828898"}}

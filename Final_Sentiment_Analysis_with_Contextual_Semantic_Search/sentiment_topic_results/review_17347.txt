@@ -1,0 +1,1 @@
+{"text": "I love my new Bermuda shorts.  They are very very comfortable and soft.  Washed them nd the comfort is still there, although I did not dry for fear of shrinkage.  I will buy more.", "sentiment": "positive", "topics": {"0": "0.09138504", "1": "0.35258806", "3": "0.2162451", "4": "0.19788343", "6": "0.12599729"}}

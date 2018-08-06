@@ -1,0 +1,1 @@
+{"text": "These socks are a good buy and all I expected of my purchase.  Smartwool is always worth the money as they wash and wear quickly and are comfortable indoors or outside.", "sentiment": "negative", "topics": {"0": "0.09056711", "1": "0.47329774", "2": "0.086906165", "4": "0.08124483", "5": "0.25010687"}}

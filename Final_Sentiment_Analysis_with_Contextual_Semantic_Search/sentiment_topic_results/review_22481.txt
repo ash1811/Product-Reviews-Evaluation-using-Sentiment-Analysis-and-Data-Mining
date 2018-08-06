@@ -1,0 +1,1 @@
+{"text": "These are the classic work pants.  Be aware that they are rugged, stiff and maybe even a little bit itchy for the first few wears, but they do break-in nicely and retain the clean lines quite well.", "sentiment": "negative", "topics": {"1": "0.5205233", "2": "0.44536078"}}

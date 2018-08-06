@@ -1,0 +1,1 @@
+{"text": "These are so comfortable and at the price i bought them for was a steal, my husband was so jealous, I had to order him a mens pair too! lol Mush Flip Flops rule!", "sentiment": "positive", "topics": {"0": "0.14223117", "1": "0.54438734", "2": "0.10711981", "4": "0.09210116", "5": "0.09628125"}}

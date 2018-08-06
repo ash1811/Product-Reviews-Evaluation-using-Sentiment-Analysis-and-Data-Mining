@@ -1,0 +1,1 @@
+{"text": "My heel hung off the end of my 41/42's. My mother, who wears a size 39, fit into them perfectly. Order a size up.", "sentiment": "positive", "topics": {"0": "0.09064197", "1": "0.2393888", "2": "0.11226942", "3": "0.42258197", "4": "0.010215017", "5": "0.11466335", "6": "0.010239441"}}

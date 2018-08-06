@@ -1,0 +1,1 @@
+{"text": "these are a good deal and saved me going to a store to buy them can't wait for summer so that I can fit into them", "sentiment": "positive", "topics": {"0": "0.013018838", "1": "0.58649856", "2": "0.013008949", "3": "0.20537768", "4": "0.013128663", "5": "0.013035981", "6": "0.15593134"}}

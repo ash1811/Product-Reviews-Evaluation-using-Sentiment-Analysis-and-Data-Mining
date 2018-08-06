@@ -1,0 +1,1 @@
+{"text": "I am LOVING these shoes.  They are SO comfortable and I wear them hiking, biking, boating, walking, or just about any occasion.  THey were a great fit for my wide, high arched, size 11 foot.  And they are lightweight too.", "sentiment": "negative", "topics": {"0": "0.21568437", "1": "0.28555307", "2": "0.15401821", "4": "0.20337296", "6": "0.12702647"}}

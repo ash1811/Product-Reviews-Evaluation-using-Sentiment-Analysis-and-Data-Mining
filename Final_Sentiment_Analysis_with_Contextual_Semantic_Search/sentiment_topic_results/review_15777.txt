@@ -1,0 +1,1 @@
+{"text": "its a good cap while it lasted but its worth it since it only lasted for 2 years and it shrunk.", "sentiment": "positive", "topics": {"0": "0.16087347", "1": "0.014342713", "2": "0.014298151", "3": "0.42837796", "4": "0.35347366", "5": "0.014341424", "6": "0.014292548"}}

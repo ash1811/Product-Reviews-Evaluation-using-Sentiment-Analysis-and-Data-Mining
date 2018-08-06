@@ -1,0 +1,1 @@
+{"text": "I did not like the fit or the quality of this product.  I returned the shirts for a refund.  Done", "sentiment": "negative", "topics": {"0": "0.01590531", "1": "0.38482416", "2": "0.2426815", "3": "0.015965026", "4": "0.015967205", "5": "0.30872294", "6": "0.01593381"}}

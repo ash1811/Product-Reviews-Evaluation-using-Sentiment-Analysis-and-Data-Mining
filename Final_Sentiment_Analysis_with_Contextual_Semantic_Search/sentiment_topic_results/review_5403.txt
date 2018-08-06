@@ -1,0 +1,1 @@
+{"text": "Soft material, sturdy seams, true to size comfortable... enough room to move freely but not enough space for sag and bag... son liked it as a birthday present.", "sentiment": "negative", "topics": {"1": "0.42176652", "3": "0.38111776", "4": "0.0802858", "5": "0.09531615"}}

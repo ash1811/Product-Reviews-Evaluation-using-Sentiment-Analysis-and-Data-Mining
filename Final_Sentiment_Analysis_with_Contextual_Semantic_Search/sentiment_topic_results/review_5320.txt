@@ -1,0 +1,1 @@
+{"text": "so glad to have found these online. I'm an 8.5 and the size large fits perfectly. i plan to get more colors.", "sentiment": "positive", "topics": {"0": "0.011001094", "1": "0.35744503", "2": "0.010994858", "3": "0.18614623", "4": "0.41234726", "5": "0.011043329", "6": "0.011022214"}}

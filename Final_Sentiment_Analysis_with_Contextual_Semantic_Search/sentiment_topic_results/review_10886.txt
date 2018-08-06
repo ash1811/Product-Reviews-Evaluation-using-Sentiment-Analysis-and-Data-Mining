@@ -1,0 +1,1 @@
+{"text": "This brand never lets me down.  Comfy, warm and practical.  Very thick padded lining, so soft on your feet.  Excellent!", "sentiment": "negative", "topics": {"0": "0.12029165", "1": "0.14073357", "2": "0.111643575", "3": "0.24157986", "4": "0.3652764", "5": "0.010237369", "6": "0.0102376"}}

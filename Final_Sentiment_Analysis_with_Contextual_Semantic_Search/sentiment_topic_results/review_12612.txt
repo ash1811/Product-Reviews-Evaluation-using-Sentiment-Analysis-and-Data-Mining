@@ -1,0 +1,1 @@
+{"text": "The shoes are lightweight and comfortable. Very easy on and off. Size is true fit very well. Wear them alot.", "sentiment": "negative", "topics": {"0": "0.011924155", "1": "0.42882052", "2": "0.24628347", "3": "0.011974228", "4": "0.01191963", "5": "0.011949201", "6": "0.2771288"}}

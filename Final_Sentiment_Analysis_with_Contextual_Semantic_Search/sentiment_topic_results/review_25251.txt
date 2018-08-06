@@ -1,0 +1,1 @@
+{"text": "I wanted to get a insole to support my flat shoes. it was not what i expected. Its hard plastic insole.", "sentiment": "negative", "topics": {"0": "0.12585934", "1": "0.11323823", "2": "0.19575953", "3": "0.013048126", "4": "0.52607906", "5": "0.0130073065", "6": "0.013008395"}}

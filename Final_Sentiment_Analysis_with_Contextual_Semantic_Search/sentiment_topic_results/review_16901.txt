@@ -1,0 +1,1 @@
+{"text": "This is a good product.  A little narrow in width but still good for the price.", "sentiment": "negative", "topics": {"0": "0.015899852", "1": "0.7190198", "2": "0.015897505", "3": "0.015922384", "4": "0.01588774", "5": "0.20149583", "6": "0.01587693"}}

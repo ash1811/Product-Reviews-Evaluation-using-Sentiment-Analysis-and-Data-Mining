@@ -1,0 +1,1 @@
+{"text": "Not too heavy this sweatshirt fits right to size. Fabric was softer than expected which is just fine. The style is a little workhorse like, but what I expected from Carhartt.", "sentiment": "negative", "topics": {"1": "0.46742138", "2": "0.06454826", "3": "0.1289049", "6": "0.31218714"}}

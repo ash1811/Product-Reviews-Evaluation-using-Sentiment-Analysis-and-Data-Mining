@@ -1,0 +1,1 @@
+{"text": "This wristwatch is perfect since it is windup and has the 24 hour markings. I use it daily and it has not failed me. It is also the perfect size for the wrist, comfortable and easy to read.", "sentiment": "negative", "topics": {"0": "0.07271391", "1": "0.10513135", "3": "0.26894212", "4": "0.19682875", "5": "0.20485781", "6": "0.14400081"}}

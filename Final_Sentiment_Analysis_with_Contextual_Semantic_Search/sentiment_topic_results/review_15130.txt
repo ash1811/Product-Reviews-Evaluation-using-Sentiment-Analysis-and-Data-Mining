@@ -1,0 +1,1 @@
+{"text": "Love the smell of quality leather!  Put that with looks, quality, style and sizing and you have a winner!Really nice pair of boots.  My daughter flipped over them.They will last her a good, long time.Very comfortable too.", "sentiment": "positive", "topics": {"1": "0.5636258", "2": "0.07730963", "4": "0.11424051", "5": "0.181371", "6": "0.050975572"}}

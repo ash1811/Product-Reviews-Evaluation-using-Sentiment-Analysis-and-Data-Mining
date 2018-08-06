@@ -1,0 +1,1 @@
+{"text": "Got this as a gift to give, and was very happy with it.  Nice colors, good construction.  Great Gym bag.", "sentiment": "positive", "topics": {"0": "0.17316212", "1": "0.6545988", "2": "0.01100524", "3": "0.12812077", "4": "0.011034812", "5": "0.011038161", "6": "0.011040176"}}

@@ -1,0 +1,1 @@
+{"text": "This is a very tough bag.  Great bag to carry your phone, keys, and wallet.  Can be carried or worn on belt.", "sentiment": "negative", "topics": {"0": "0.011935976", "1": "0.34880558", "2": "0.34761533", "3": "0.011914003", "4": "0.10706768", "5": "0.011938795", "6": "0.16072267"}}

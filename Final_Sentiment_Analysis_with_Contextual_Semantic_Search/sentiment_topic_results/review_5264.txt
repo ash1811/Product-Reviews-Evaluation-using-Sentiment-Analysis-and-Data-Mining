@@ -1,0 +1,1 @@
+{"text": "They run small so I would recommend a size up.  I'm usually a size 7 shoe, but I bought the large slipper and it works for me.  They're comfy and machine washable.  :)", "sentiment": "negative", "topics": {"2": "0.08591835", "3": "0.45167652", "5": "0.17648189", "6": "0.26542258"}}

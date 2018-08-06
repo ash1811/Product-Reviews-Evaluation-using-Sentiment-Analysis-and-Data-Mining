@@ -1,0 +1,1 @@
+{"text": "I like these slippers because I can wear them to go out in the morning to get the newspaper. My feet stay warm and dry! Having to change shoes just for a quick outside trip is unnecessary.", "sentiment": "positive", "topics": {"0": "0.09301136", "1": "0.3597932", "2": "0.14679703", "4": "0.28460544", "6": "0.09986477"}}

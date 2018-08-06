@@ -1,0 +1,1 @@
+{"text": "These extra low cut socks make my paws feel much more nakid and cool. Should be much more comfortable in those hot summer days then long tube socks.", "sentiment": "negative", "topics": {"0": "0.18888909", "1": "0.31548184", "2": "0.0680664", "3": "0.10148386", "5": "0.31101435"}}

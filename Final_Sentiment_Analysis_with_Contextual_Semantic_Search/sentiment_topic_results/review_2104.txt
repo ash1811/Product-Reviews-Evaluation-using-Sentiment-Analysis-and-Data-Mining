@@ -1,0 +1,1 @@
+{"text": "these are awesome shorts. I am taller and the shorts go barely past my knees. The red color is sick! nice and bright.They need to be washed right away due to how stiff they are but that is typical with dickies brand", "sentiment": "positive", "topics": {"0": "0.28363505", "1": "0.17257382", "2": "0.09566848", "3": "0.13800108", "5": "0.23506391", "6": "0.06882714"}}

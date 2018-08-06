@@ -1,0 +1,1 @@
+{"text": "I find this product very useful for the winter.It is also good value for money.I use it on a daily basis", "sentiment": "negative", "topics": {"0": "0.11397615", "1": "0.011940307", "2": "0.2068783", "3": "0.12935859", "4": "0.22569631", "5": "0.30023077", "6": "0.011919585"}}

@@ -1,0 +1,1 @@
+{"text": "Love the color and the texture of the fabric. This is a Christmas present for my husband. He loves pocket T-shirts and I am tired of seeing him in dark colors.", "sentiment": "negative", "topics": {"1": "0.36365968", "3": "0.19677298", "4": "0.19125305", "5": "0.2195991"}}

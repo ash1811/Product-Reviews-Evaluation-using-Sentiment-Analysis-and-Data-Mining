@@ -1,0 +1,1 @@
+{"text": "the foot of the sock is fine, but the elastic around the leg is way too tight. leaves indentation on leg. Wouldn't purchase again", "sentiment": "positive", "topics": {"0": "0.01100845", "1": "0.1750468", "2": "0.16958237", "3": "0.011031993", "4": "0.21698144", "5": "0.011103044", "6": "0.40524593"}}

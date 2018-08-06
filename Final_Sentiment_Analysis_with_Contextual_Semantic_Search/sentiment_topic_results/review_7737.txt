@@ -1,0 +1,1 @@
+{"text": "The 527 slim boot cut was smaller than the 514 slim straight leg in the same size. Nothing wrong with the product, just didn't fit.", "sentiment": "positive", "topics": {"1": "0.20785795", "2": "0.18867855", "3": "0.1695367", "4": "0.31522182", "5": "0.0996012"}}

@@ -1,0 +1,1 @@
+{"text": "These pants do fit very well and look nice on the boys. I am so pleased that they have longer leg sizes. I have such tall boys one wears a 36 inch inseam and the other two wear 34 inch inseam.", "sentiment": "negative", "topics": {"1": "0.5748124", "3": "0.15994781", "5": "0.1521549", "6": "0.09435705"}}

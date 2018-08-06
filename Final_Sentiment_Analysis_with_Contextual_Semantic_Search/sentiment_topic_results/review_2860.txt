@@ -1,0 +1,1 @@
+{"text": "Got these for all my husband's groomsmen at our wedding. They looked great. Not sure how they'd hold up over time.", "sentiment": "negative", "topics": {"0": "0.013029249", "1": "0.013021126", "2": "0.22410749", "3": "0.17451711", "4": "0.1674556", "5": "0.394839", "6": "0.013030407"}}

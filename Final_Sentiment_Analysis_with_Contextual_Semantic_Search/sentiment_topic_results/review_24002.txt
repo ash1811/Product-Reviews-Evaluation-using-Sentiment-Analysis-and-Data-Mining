@@ -1,0 +1,1 @@
+{"text": "Fit is true to size and she loves them.  She is fourteen and they are apparently all the rage.  Not good for someone with a wide foot.", "sentiment": "negative", "topics": {"0": "0.01102756", "1": "0.2827826", "2": "0.16388676", "3": "0.17127849", "4": "0.3490048", "5": "0.011003117", "6": "0.011016601"}}

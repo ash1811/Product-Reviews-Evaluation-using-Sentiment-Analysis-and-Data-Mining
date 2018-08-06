@@ -1,0 +1,1 @@
+{"text": "These fit great & looks nice. Love them on. Can't wait to buy more of them . Sweet pink color is sexy. I Recommend them.", "sentiment": "negative", "topics": {"1": "0.5332404", "3": "0.122058794", "4": "0.121639095", "5": "0.122546665", "6": "0.082596205"}}

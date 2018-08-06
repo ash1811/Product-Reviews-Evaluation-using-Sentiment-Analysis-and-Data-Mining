@@ -1,0 +1,1 @@
+{"text": "Very confortables. My husband loves it!! At first is dificult to walk, but then, are a very good experience for your feet.", "sentiment": "positive", "topics": {"0": "0.011953324", "1": "0.2530331", "2": "0.16797918", "3": "0.011938421", "4": "0.36386502", "5": "0.088867605", "6": "0.10236341"}}

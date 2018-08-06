@@ -1,0 +1,1 @@
+{"text": "I wear these regularly to work as they are comfortable and look nice.  They are easy to keep clean and to shoe.", "sentiment": "negative", "topics": {"0": "0.013006682", "1": "0.6004477", "2": "0.11023848", "3": "0.23721097", "4": "0.0130258", "5": "0.013007384", "6": "0.013062977"}}

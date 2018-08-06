@@ -1,0 +1,1 @@
+{"text": "my mom loves them I got them for her for Christmas. They fit and wear very well. I buy her a new pair every year.", "sentiment": "positive", "topics": {"0": "0.13810062", "1": "0.3488781", "2": "0.011004875", "3": "0.4688968", "4": "0.011018843", "5": "0.011055077", "6": "0.0110457055"}}

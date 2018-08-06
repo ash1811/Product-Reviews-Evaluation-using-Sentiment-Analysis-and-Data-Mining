@@ -1,0 +1,1 @@
+{"text": "For 9 dollars I am very impressed with the quality of these aviators. They are also very comfortable to wear.", "sentiment": "positive", "topics": {"0": "0.015894776", "1": "0.32035613", "2": "0.015877286", "3": "0.15550599", "4": "0.3494619", "5": "0.015913952", "6": "0.12698993"}}

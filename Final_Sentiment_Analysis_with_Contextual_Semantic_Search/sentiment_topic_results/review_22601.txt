@@ -1,0 +1,1 @@
+{"text": "I gave these pants four out of five stars because I just wear them for work. There is nothing special about them.", "sentiment": "negative", "topics": {"0": "0.01302355", "1": "0.3560746", "2": "0.45678177", "3": "0.013032109", "4": "0.013014603", "5": "0.13502613", "6": "0.013047176"}}

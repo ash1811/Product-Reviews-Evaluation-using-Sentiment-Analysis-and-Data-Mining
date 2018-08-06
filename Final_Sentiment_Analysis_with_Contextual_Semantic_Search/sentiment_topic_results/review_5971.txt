@@ -1,0 +1,1 @@
+{"text": "This item was not at all what I expected. While it is comfortable, there was no support at all. I need somthing with no wire but support is everything.", "sentiment": "negative", "topics": {"0": "0.012995756", "1": "0.18769427", "2": "0.11590263", "3": "0.1948833", "4": "0.013008603", "5": "0.012994177", "6": "0.46252126"}}

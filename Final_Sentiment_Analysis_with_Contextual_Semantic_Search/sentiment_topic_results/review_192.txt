@@ -1,0 +1,1 @@
+{"text": "These briefs have been my favorite briefs for over 25 years now.  I am very long waisted and rather curvy and these are the ONLY briefs that I found that DO NOT RIDE UP!...I hope Bali never stops making them.", "sentiment": "negative", "topics": {"1": "0.38536063", "2": "0.11502008", "4": "0.32416537", "6": "0.15497003"}}

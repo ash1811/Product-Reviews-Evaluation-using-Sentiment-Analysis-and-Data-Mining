@@ -1,0 +1,1 @@
+{"text": "Sizing is accurate!  Fit is perfect.  With the pull string ties in the back, you don't have to struggle into or out of this corset.  Also, the front hooks are easy to manage both in and out as well.  Nice feel!", "sentiment": "positive", "topics": {"0": "0.06671411", "1": "0.28319415", "2": "0.1331767", "4": "0.12686396", "5": "0.2285508", "6": "0.15395756"}}

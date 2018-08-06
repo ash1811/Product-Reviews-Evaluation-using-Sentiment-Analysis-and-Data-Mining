@@ -1,0 +1,1 @@
+{"text": "it has a nice combination of colors, with a well balanced design.  perfect for any occasion and decently priced as well.", "sentiment": "negative", "topics": {"0": "0.106731355", "1": "0.6079522", "2": "0.011923883", "3": "0.14138505", "4": "0.10817883", "5": "0.01192113", "6": "0.011907592"}}

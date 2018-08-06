@@ -1,0 +1,1 @@
+{"text": "These are really comfy and I love the color but they are a tad bit small. I'd order a 1/2 a size up from your normal shoe size. If you ever wear them with socks they won't fit.", "sentiment": "negative", "topics": {"0": "0.19113457", "1": "0.19704238", "2": "0.08510958", "3": "0.43777642", "6": "0.07379093"}}

@@ -1,0 +1,1 @@
+{"text": "This is very large and designed well.  I will have lots of room for hunting equipment and will trust the tough design.", "sentiment": "negative", "topics": {"0": "0.013012165", "1": "0.5079369", "2": "0.34870026", "3": "0.013036541", "4": "0.09126237", "5": "0.013018833", "6": "0.013032924"}}

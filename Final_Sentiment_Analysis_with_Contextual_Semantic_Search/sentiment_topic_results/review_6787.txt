@@ -1,0 +1,1 @@
+{"text": "Simple design in an attractive color for work or casual wear at a great price. Hard to get exceptionally excited but am quite satisfied with the shirt.", "sentiment": "negative", "topics": {"0": "0.10438818", "1": "0.47973996", "3": "0.110397264", "6": "0.2802187"}}

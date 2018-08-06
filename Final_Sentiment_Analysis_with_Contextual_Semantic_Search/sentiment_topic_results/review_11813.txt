@@ -1,0 +1,1 @@
+{"text": "These seem okay but I feel like i can't close them and the velcro is not going to hold up all summer", "sentiment": "negative", "topics": {"0": "0.01306117", "1": "0.013051532", "2": "0.013050282", "3": "0.49030587", "4": "0.0130360965", "5": "0.013038605", "6": "0.4444565"}}

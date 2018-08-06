@@ -1,0 +1,1 @@
+{"text": "Bought this for my niece once before.  She left it by mistake at summer camp and was heartbroken.  Replaced it, and she is all smiles again.  Great watch!", "sentiment": "negative", "topics": {"0": "0.2680272", "1": "0.18907681", "2": "0.122416936", "4": "0.13049898", "5": "0.17947936", "6": "0.100958504"}}

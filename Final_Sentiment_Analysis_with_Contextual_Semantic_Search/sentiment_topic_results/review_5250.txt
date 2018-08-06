@@ -1,0 +1,1 @@
+{"text": "Too bad I was misled by some other ballerinas I already had. Unfortunately I chose the wrong size. Otherwise, it would have been the perfect purchase. They are exactly as they look in the picture and arrived on time.", "sentiment": "negative", "topics": {"0": "0.36010006", "1": "0.16315779", "2": "0.05100101", "3": "0.16615823", "5": "0.10022895", "6": "0.15180755"}}

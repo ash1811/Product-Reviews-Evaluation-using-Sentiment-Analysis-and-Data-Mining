@@ -1,0 +1,1 @@
+{"text": "I hurts.  I hate the underwire.  I read reviews that said it didn't hurt like other underwires.  Nope.  I'm taking the wire out.", "sentiment": "negative", "topics": {"1": "0.10540286", "3": "0.20532174", "5": "0.254939", "6": "0.40569538"}}

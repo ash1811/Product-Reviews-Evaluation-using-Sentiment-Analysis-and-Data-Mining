@@ -1,0 +1,1 @@
+{"text": "Best cargo so soft has so much room for guys who loves roomie pants ..I I wish levis made  them again and in different colors.", "sentiment": "negative", "topics": {"1": "0.5079723", "2": "0.095814236", "4": "0.2800126", "6": "0.089351915"}}

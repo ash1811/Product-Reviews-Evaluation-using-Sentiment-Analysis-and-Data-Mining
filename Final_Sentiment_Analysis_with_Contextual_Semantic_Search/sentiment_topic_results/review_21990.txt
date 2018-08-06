@@ -1,0 +1,1 @@
+{"text": "I love this jacket! It's not always appropriate for very cold days spent outside for a good amount of time, but it usually does the trick for me.", "sentiment": "negative", "topics": {"1": "0.26660505", "2": "0.102159016", "3": "0.18175286", "4": "0.1454152", "5": "0.2059977", "6": "0.08851727"}}

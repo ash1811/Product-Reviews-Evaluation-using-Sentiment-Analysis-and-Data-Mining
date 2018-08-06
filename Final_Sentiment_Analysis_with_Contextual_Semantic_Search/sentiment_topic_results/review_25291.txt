@@ -1,0 +1,1 @@
+{"text": "They were sweaty - it was weird like wearing plastic. Also snagged and looked old after ONE washing. Whoever designed these did not try them on or wash them.", "sentiment": "negative", "topics": {"2": "0.28150034", "3": "0.24032831", "4": "0.31437021", "5": "0.13847989"}}

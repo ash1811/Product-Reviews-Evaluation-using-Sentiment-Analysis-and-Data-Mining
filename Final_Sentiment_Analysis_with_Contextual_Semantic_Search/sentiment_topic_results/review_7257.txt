@@ -1,0 +1,1 @@
+{"text": "This jeans are very good quality, strong, soft, but tough material. Also if wanted for an outing it would cut it, I'm now testing for durability. Good work jeans, would buy again, if the past the durability test.", "sentiment": "positive", "topics": {"1": "0.45169652", "2": "0.092746735", "3": "0.16144252", "4": "0.14141375", "5": "0.14168438"}}

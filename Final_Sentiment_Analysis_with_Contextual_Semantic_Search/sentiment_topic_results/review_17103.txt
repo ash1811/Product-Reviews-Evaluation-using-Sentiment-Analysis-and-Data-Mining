@@ -1,0 +1,1 @@
+{"text": "My daughter wears a size 6 on Stride Rite shoes and the size 4/5 toddler fits well right now. Not a lot of room to grow but I think the next size would be too big.", "sentiment": "negative", "topics": {"1": "0.4788782", "2": "0.22616147", "3": "0.27004072"}}

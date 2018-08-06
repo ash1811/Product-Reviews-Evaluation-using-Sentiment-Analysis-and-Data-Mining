@@ -1,0 +1,1 @@
+{"text": "My granddaughter will wear without a fuss.  Very cute and cozy.  The soles get dirty becasue she wears them out and they are suede but I eventually threw them in the wash a few times, they are fine.", "sentiment": "negative", "topics": {"1": "0.23108503", "2": "0.12641439", "3": "0.34679028", "5": "0.21969508", "6": "0.060086124"}}

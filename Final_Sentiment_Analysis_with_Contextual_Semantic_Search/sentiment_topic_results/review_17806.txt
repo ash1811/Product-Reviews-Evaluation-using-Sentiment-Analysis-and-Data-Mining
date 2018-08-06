@@ -1,0 +1,1 @@
+{"text": "Nice product and a great price but was a little to small for my wrist so I had to send it back", "sentiment": "negative", "topics": {"0": "0.1706303", "1": "0.46493858", "2": "0.014297334", "3": "0.014319845", "4": "0.014304766", "5": "0.30721653", "6": "0.014292625"}}

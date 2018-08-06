@@ -1,0 +1,1 @@
+{"text": "Fine expect to enjoy for quite awhile-sorry length was not 29 though.Reasonable priced.-CLASSIC FIT-can*t seem to get 29 length anymore", "sentiment": "positive", "topics": {"2": "0.07815547", "3": "0.3680882", "4": "0.18301581", "6": "0.34381402"}}

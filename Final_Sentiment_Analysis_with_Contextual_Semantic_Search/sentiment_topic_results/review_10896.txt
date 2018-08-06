@@ -1,0 +1,1 @@
+{"text": "I like these slippers. I buy two or three pairs every winter. I feel much more safe doing the stairs while wearing these slippers.", "sentiment": "positive", "topics": {"1": "0.35945252", "3": "0.18045786", "5": "0.18701805", "6": "0.24444361"}}

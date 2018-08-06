@@ -1,0 +1,1 @@
+{"text": "I have always been a big fan of clarks shoe there very comfortable and I love the way the look on my feet I totally recommend anyone to get a pair", "sentiment": "negative", "topics": {"0": "0.25236645", "1": "0.28788722", "2": "0.105507", "4": "0.3273906"}}

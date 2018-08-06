@@ -1,0 +1,1 @@
+{"text": "I have a wide foot and high arches.  These sandals looked great but were too tight over my foot.  The heal strap pinched.  They would be find for someone with a more narrow foot.  (The Keen Venice sandal fit much better.)", "sentiment": "negative", "topics": {"0": "0.095294274", "1": "0.3225257", "2": "0.19970804", "3": "0.1466663", "4": "0.16132307", "6": "0.0687353"}}

@@ -1,0 +1,1 @@
+{"text": "I LOVE these mocassin slippers!  They are true to size (size 8) and the color (pewter) is great!  I'm going to use them for indoor/some outdoor usage.  Worth every penny!!", "sentiment": "positive", "topics": {"0": "0.16850215", "1": "0.22158933", "2": "0.13117033", "3": "0.010906798", "4": "0.14347774", "5": "0.14814524", "6": "0.17620838"}}

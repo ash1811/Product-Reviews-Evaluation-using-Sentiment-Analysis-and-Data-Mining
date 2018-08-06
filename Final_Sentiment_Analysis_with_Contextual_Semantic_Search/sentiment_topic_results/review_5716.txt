@@ -1,0 +1,1 @@
+{"text": "These fit well, I like the pockets (could be a little deeper, but not so shallow that things fall out), the thickness good, and the ankles are snug without being too loose or too tight.", "sentiment": "negative", "topics": {"1": "0.598895", "2": "0.07461226", "4": "0.14734817", "6": "0.15654181"}}

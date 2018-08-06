@@ -1,0 +1,1 @@
+{"text": "This is very nice waterproof boots from Timberland, I love its style and look, and very comfortable to wear them on.  For some people it might be little heavy but I love it.", "sentiment": "negative", "topics": {"1": "0.42989096", "2": "0.07977986", "3": "0.21621278", "4": "0.19603403", "6": "0.06123051"}}

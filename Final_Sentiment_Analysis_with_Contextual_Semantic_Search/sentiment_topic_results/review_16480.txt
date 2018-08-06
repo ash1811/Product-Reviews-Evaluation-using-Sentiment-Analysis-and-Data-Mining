@@ -1,0 +1,1 @@
+{"text": "The shoes looked good. And they are a little heavier than I thought. The shoes are same as the picture showed.", "sentiment": "positive", "topics": {"0": "0.0143204555", "1": "0.30813438", "2": "0.27641934", "3": "0.014367905", "4": "0.22543457", "5": "0.14701211", "6": "0.014311219"}}

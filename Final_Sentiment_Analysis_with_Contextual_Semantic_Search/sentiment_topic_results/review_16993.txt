@@ -1,0 +1,1 @@
+{"text": "Bought for pinkie finger; sizing fits perfect and comfortably; very happy with ring; like the way it looks and fits on pinkie finger; ordered size 4.", "sentiment": "positive", "topics": {"0": "0.20312448", "1": "0.42486727", "3": "0.09448607", "4": "0.2142147", "5": "0.048208702"}}

@@ -1,0 +1,1 @@
+{"text": "These are a great classic look.  They fit just a bit on the large side and are a standard width.  I would suggest these over the suede because the suede changes color and gets ruined pretty easily.", "sentiment": "negative", "topics": {"1": "0.66515094", "2": "0.13454676", "6": "0.17161815"}}

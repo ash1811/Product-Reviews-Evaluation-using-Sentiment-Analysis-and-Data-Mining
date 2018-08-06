@@ -1,0 +1,1 @@
+{"text": "it did not. Fit was not as expected for the size and description and was lighter weight than expected. Returned.", "sentiment": "negative", "topics": {"0": "0.014323091", "1": "0.4087146", "2": "0.20166102", "3": "0.014376891", "4": "0.014371571", "5": "0.014309573", "6": "0.33224332"}}

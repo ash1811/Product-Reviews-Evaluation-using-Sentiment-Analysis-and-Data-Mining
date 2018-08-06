@@ -1,0 +1,1 @@
+{"text": "My son had a school gig and needed this costume.We knew this the week before and Amazon Prime worked just great!We received the package in two days and my son was very happy for the 1/2 hour he used it...", "sentiment": "negative", "topics": {"0": "0.15975586", "1": "0.15231037", "3": "0.064510785", "5": "0.4677061", "6": "0.14259967"}}

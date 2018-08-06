@@ -1,0 +1,1 @@
+{"text": "These are another staple of my summer wardrobe. Nice and comfortable due to a good fit and 100% cotton fabric. I have about 6 of these in different colors and wear them nearly every summer day.", "sentiment": "positive", "topics": {"1": "0.5368446", "3": "0.14068615", "5": "0.29518414"}}

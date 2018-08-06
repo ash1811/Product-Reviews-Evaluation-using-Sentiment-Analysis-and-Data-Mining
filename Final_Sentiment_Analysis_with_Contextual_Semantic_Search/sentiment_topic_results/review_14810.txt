@@ -1,0 +1,1 @@
+{"text": "Use small amount with the sonic cleaner and jewelry will sparkle.  A little goes a long way, use on copper. too.", "sentiment": "negative", "topics": {"1": "0.49078882", "2": "0.36836702", "6": "0.10255849"}}

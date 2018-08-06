@@ -1,0 +1,1 @@
+{"text": "The slipper was very narrow in the front, crowding my toes and not at all comfortable. I'm very disappointed; for the price, it should have fit true to form.", "sentiment": "positive", "topics": {"0": "0.09269435", "1": "0.49580342", "2": "0.010994568", "3": "0.112726964", "4": "0.09520168", "5": "0.011003071", "6": "0.18157595"}}

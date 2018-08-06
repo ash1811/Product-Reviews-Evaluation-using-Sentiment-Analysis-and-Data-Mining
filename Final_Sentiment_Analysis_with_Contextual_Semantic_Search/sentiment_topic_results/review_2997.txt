@@ -1,0 +1,1 @@
+{"text": "It was okay had some comfort to it not bad, I did find the cup to be a tweeny bit big but I could live with it well actually she can it was for my mom", "sentiment": "negative", "topics": {"0": "0.09566256", "1": "0.4769856", "2": "0.010235325", "3": "0.010230434", "4": "0.010245184", "5": "0.147671", "6": "0.24896993"}}

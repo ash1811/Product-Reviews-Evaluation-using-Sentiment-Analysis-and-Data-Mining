@@ -1,0 +1,1 @@
+{"text": "Very small but great for a small child.  Beautiful color.  Bought this as a gift and it was really loved by the receiver.", "sentiment": "negative", "topics": {"0": "0.30513823", "1": "0.40994865", "2": "0.113955595", "3": "0.13511921", "4": "0.011956006", "5": "0.011970572", "6": "0.011911731"}}

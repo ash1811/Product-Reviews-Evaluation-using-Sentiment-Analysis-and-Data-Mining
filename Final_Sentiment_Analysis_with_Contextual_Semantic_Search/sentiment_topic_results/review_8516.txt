@@ -1,0 +1,1 @@
+{"text": "Bought these for my son and he loves them. After purchasing a school shoe every 3 months for the past year, this one seems the strongest.", "sentiment": "negative", "topics": {"1": "0.25300133", "2": "0.31463993", "3": "0.23803344", "4": "0.167443"}}

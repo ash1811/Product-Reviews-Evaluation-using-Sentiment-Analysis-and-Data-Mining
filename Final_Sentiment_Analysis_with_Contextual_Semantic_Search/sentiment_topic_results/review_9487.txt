@@ -1,0 +1,1 @@
+{"text": "a handsome and durable sport watch with all the necessary features for any level of sportsmen.", "sentiment": "negative", "topics": {"0": "0.015873715", "1": "0.016014585", "2": "0.33120862", "3": "0.1355793", "4": "0.24004038", "5": "0.2454087", "6": "0.015874762"}}

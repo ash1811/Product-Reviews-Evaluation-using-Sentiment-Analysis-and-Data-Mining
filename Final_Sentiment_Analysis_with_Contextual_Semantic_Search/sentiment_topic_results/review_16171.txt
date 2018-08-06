@@ -1,0 +1,1 @@
+{"text": "I liked how this cloth came with a cover to protect and store. I will buy again once I need to replace. I am very satisfied.", "sentiment": "negative", "topics": {"0": "0.013012615", "1": "0.3977868", "2": "0.013052824", "3": "0.012988233", "4": "0.19758582", "5": "0.012995411", "6": "0.3525783"}}

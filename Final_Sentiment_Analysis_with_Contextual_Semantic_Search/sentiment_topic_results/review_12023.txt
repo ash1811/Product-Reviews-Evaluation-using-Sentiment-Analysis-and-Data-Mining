@@ -1,0 +1,1 @@
+{"text": "Great looking shoe just a little too big in the back. The shoes kept slipping off in the back of foot", "sentiment": "negative", "topics": {"0": "0.1280394", "1": "0.56248444", "2": "0.1876241", "3": "0.011930947", "4": "0.08608153", "5": "0.011931236", "6": "0.011908355"}}

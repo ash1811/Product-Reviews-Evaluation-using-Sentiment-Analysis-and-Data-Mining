@@ -1,0 +1,1 @@
+{"text": "I am good with them, I had ordered these before, actually last year and they are great and hold up...Get them if you need watershoes or just summer time shoes", "sentiment": "negative", "topics": {"0": "0.27972102", "2": "0.16801952", "3": "0.19873782", "5": "0.26134515", "6": "0.07425781"}}

@@ -1,0 +1,1 @@
+{"text": "These front close, no wire bras are extremely comfortable and supportive.  Wide padded straps add to the comfort.  They hold up well.", "sentiment": "negative", "topics": {"0": "0.088661805", "1": "0.15399414", "2": "0.16812521", "3": "0.40267214", "6": "0.16735618"}}

@@ -1,0 +1,1 @@
+{"text": "Lee is a Quality product and will last a long time.  They fit my husband perfectly!  I am glad I purchased 2 pairs!", "sentiment": "negative", "topics": {"0": "0.10933338", "1": "0.45667815", "2": "0.010206987", "3": "0.010220952", "4": "0.17017804", "5": "0.16039072", "6": "0.08299177"}}

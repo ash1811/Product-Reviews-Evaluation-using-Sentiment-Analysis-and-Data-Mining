@@ -1,0 +1,1 @@
+{"text": "If you like minimal coverage, these are the underwear for you.  The leg openings are snug but not tight, the cotton is very soft.  The waist band fits a little snug, but overall that's not an issue", "sentiment": "negative", "topics": {"1": "0.15877597", "3": "0.35888728", "5": "0.07974635", "6": "0.38107586"}}

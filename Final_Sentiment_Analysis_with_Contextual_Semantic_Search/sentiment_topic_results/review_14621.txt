@@ -1,0 +1,1 @@
+{"text": "Just perfect!  I love this shoe and have ordered it in many colors.  Birkenstock is always true to size and I cannot live without them!  The toe thing does rub, but I keep wearing them regardless.", "sentiment": "positive", "topics": {"1": "0.37192646", "2": "0.105958745", "3": "0.3510548", "4": "0.062099285", "6": "0.09532529"}}

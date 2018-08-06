@@ -1,0 +1,1 @@
+{"text": "This is made out of a nice airy material. It runs smaller than the average large shirt.", "sentiment": "negative", "topics": {"0": "0.014326757", "1": "0.33872348", "2": "0.13396154", "3": "0.47003454", "4": "0.0143080475", "5": "0.014327285", "6": "0.014318382"}}

@@ -1,0 +1,1 @@
+{"text": "Fit is great, good and thick cloth. Feels like it will wear a long time unlike some others that rip on a wall", "sentiment": "positive", "topics": {"1": "0.67221695", "2": "0.08263386", "6": "0.20692368"}}

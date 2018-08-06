@@ -1,0 +1,1 @@
+{"text": "Great looking watch for any occasion. Citizen watch are very durable and draw the attention of others but are very reasonably priced.", "sentiment": "negative", "topics": {"0": "0.0109998435", "1": "0.36055785", "2": "0.38448474", "3": "0.10725372", "4": "0.11470859", "5": "0.011004109", "6": "0.010991167"}}

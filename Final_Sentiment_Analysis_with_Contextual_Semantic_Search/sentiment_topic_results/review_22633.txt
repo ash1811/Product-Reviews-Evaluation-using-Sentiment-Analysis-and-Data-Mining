@@ -1,0 +1,1 @@
+{"text": "mine fit just fine i love them i will buy again. some of the reviews are very confusing and miss leading. but i love mine thank u", "sentiment": "negative", "topics": {"1": "0.281129", "2": "0.23204823", "3": "0.16864501", "4": "0.2895617"}}

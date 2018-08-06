@@ -1,0 +1,1 @@
+{"text": "These were a little dressier than what I was looking for, no complaint otherwise.  I just wanted something I could wear with jeans or khakis, these are more khaki/slack/suit style in my opinion.", "sentiment": "negative", "topics": {"0": "0.17913876", "1": "0.42918658", "5": "0.21710567", "6": "0.14771919"}}

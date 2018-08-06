@@ -1,0 +1,1 @@
+{"text": "This flip flop was somewhat small, but comfortable.  I gave them to my daughter inlaw, she loves them andcommented on their comfort.", "sentiment": "positive", "topics": {"0": "0.011958182", "1": "0.33436966", "2": "0.30792156", "3": "0.011953321", "4": "0.012037032", "5": "0.0119756395", "6": "0.30978462"}}

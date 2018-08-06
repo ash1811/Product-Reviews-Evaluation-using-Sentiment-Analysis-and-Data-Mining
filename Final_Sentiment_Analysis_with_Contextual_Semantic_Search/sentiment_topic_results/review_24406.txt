@@ -1,0 +1,1 @@
+{"text": "This hat was very reasonably priced and works awesome...as most Carhartt clothing is well worth the money in the long run...", "sentiment": "negative", "topics": {"0": "0.010998601", "1": "0.6245048", "2": "0.011003499", "3": "0.15216763", "4": "0.17927635", "5": "0.01104767", "6": "0.01100146"}}

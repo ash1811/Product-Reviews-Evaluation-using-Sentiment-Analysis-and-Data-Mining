@@ -1,0 +1,1 @@
+{"text": "Wore these the whole summer. Great work shorts. Very sturdy and they look great. Reccomended.", "sentiment": "negative", "topics": {"0": "0.18503909", "1": "0.49216098", "2": "0.13410278", "3": "0.013020709", "4": "0.012993904", "5": "0.14965877", "6": "0.0130237285"}}

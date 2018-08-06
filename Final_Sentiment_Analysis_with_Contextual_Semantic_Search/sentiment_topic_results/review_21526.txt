@@ -1,0 +1,1 @@
+{"text": "These are soft socks, but they're just the same socks I used to buy years ago as knee-highs. They also work best with lace-up shoes. They tend to slide around inside clogs.", "sentiment": "negative", "topics": {"1": "0.38458365", "2": "0.18308815", "3": "0.10933914", "4": "0.10068922", "5": "0.14049868", "6": "0.074645475"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased this for my husband's birthday and he absolutely loved it.  He gets a lot of compliments on it at work.  It's a dressy watch and looks pretty sharp.  Good price for such a good look.  Runs well too!", "sentiment": "negative", "topics": {"1": "0.49122944", "2": "0.36049676", "4": "0.06989837", "6": "0.059682433"}}

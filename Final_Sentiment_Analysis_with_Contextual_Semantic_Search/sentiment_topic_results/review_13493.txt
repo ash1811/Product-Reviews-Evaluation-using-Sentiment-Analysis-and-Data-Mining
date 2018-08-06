@@ -1,0 +1,1 @@
+{"text": "Started wearing these the day they arrived.  Needed replacement for summer sandals but still wanted convenience and comfort and these fit the bill perfectly!", "sentiment": "negative", "topics": {"0": "0.071658745", "1": "0.3614468", "2": "0.14194462", "3": "0.09795393", "5": "0.30906868"}}

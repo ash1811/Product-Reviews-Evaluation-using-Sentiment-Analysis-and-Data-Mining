@@ -1,0 +1,1 @@
+{"text": "Durable and keep your shoes dry.  They are heavy duty enough to turn regular street shoes into hiking shoes when you travel, saving the weight of bringing an extra pair of shoes.", "sentiment": "negative", "topics": {"0": "0.12739664", "2": "0.28790954", "3": "0.15700038", "4": "0.15235575", "5": "0.1877141", "6": "0.08078192"}}

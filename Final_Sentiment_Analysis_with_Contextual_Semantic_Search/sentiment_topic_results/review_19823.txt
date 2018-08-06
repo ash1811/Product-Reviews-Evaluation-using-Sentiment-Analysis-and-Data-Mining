@@ -1,0 +1,1 @@
+{"text": "I bought this for starting middle school and it helped me keep travk of time. I love this watch and its timex and was a great deal for 16 when I got it", "sentiment": "positive", "topics": {"0": "0.22552717", "1": "0.23415488", "2": "0.14461799", "3": "0.2795156", "6": "0.0982692"}}

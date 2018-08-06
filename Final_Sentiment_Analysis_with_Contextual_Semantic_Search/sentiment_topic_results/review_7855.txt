@@ -1,0 +1,1 @@
+{"text": "this item was too small, but the person was able to take them back to a  store, so that was cool.", "sentiment": "negative", "topics": {"0": "0.015944526", "1": "0.36273673", "2": "0.015900826", "3": "0.30048826", "4": "0.015921913", "5": "0.015998293", "6": "0.27300942"}}

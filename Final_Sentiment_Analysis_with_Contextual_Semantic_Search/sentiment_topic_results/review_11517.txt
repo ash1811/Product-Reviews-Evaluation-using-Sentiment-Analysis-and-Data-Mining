@@ -1,0 +1,1 @@
+{"text": "Got this for my 10-year old daughter who is a huge Harry Potter fan. She absolutely loves this, but it's almost too nice (to her) for her to want to play with it.", "sentiment": "negative", "topics": {"0": "0.3208876", "2": "0.29180646", "3": "0.21462078", "4": "0.15004827"}}

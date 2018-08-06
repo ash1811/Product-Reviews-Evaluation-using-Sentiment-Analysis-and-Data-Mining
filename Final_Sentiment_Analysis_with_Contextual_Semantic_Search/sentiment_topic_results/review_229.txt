@@ -1,0 +1,1 @@
+{"text": "I've been wearing Jerzees pocketed polos for a few years now. Inexpensive choice for someone looking for a slight more professional/upscale work appearance.", "sentiment": "negative", "topics": {"1": "0.6381992", "3": "0.256099", "5": "0.0698714"}}

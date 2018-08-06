@@ -1,0 +1,1 @@
+{"text": "These had the right fit, they're just warm enough that I can wear them with or without socks depending on my mood. I work from home, so it's important that they be comfortable all day. These nail it on the head.", "sentiment": "negative", "topics": {"1": "0.5051668", "5": "0.28926978", "6": "0.17370899"}}

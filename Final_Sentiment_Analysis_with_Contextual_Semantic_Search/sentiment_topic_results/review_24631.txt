@@ -1,0 +1,1 @@
+{"text": "My daughter is small for her age, at 22 months, but this leotard works well for gymnastics class. Wish it came in more colors!", "sentiment": "negative", "topics": {"0": "0.33841285", "1": "0.2535139", "2": "0.01028344", "3": "0.13780943", "4": "0.108674005", "5": "0.14108464", "6": "0.0102217505"}}

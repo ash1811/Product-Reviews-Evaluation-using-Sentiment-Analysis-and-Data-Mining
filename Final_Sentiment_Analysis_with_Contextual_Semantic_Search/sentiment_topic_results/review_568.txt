@@ -1,0 +1,1 @@
+{"text": "They look and feel very good. I have tried two other brands, but these are the very best. The Wrangler is for me", "sentiment": "positive", "topics": {"0": "0.015959572", "1": "0.64152986", "2": "0.015891794", "3": "0.27882537", "4": "0.015927194", "5": "0.015904492", "6": "0.015961768"}}

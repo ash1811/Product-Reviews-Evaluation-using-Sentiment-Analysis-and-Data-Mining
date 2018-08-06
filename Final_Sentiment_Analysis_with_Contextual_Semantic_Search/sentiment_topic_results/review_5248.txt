@@ -1,0 +1,1 @@
+{"text": "I love these slippers! They are so comfortable. I absolutely love the color pink that they came in. They are a bright and cheerful pink color. They make me smile. I am happy to put them on at the end of a long day.", "sentiment": "negative", "topics": {"1": "0.28666943", "2": "0.06246078", "4": "0.17307645", "5": "0.24891606", "6": "0.21517146"}}

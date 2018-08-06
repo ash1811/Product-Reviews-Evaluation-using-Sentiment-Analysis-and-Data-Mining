@@ -1,0 +1,1 @@
+{"text": "I wore one pair once and gave them away because I didn't like the way they felt.  The fabric felt rough and the leg bands too narrow.", "sentiment": "negative", "topics": {"2": "0.50189936", "4": "0.14764671", "5": "0.31221148"}}

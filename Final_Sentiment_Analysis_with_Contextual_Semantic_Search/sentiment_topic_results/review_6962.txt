@@ -1,0 +1,1 @@
+{"text": "This money belt is very comforatable and small which is great for a woman.  I used this on my trip to Italy and plan to use it many times in our travels.", "sentiment": "positive", "topics": {"1": "0.25971928", "2": "0.09013568", "3": "0.12968257", "4": "0.20580707", "5": "0.29552883"}}

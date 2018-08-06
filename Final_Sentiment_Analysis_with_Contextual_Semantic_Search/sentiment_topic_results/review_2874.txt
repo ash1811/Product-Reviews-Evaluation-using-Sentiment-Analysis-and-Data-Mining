@@ -1,0 +1,1 @@
+{"text": "these are exactly as described and are very true to size.  very comfortable.  easy to launder.  perfect for any guy to have for lounge, weekend or athletic attire.", "sentiment": "negative", "topics": {"0": "0.15022686", "1": "0.25577664", "2": "0.010214707", "3": "0.11045931", "4": "0.103644095", "5": "0.010218742", "6": "0.3594596"}}

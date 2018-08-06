@@ -1,0 +1,1 @@
+{"text": "very cute and very sturdy. I'm very rough with this ring and it has never faded in color or bent in shape.It doesn't exactly look expensive, but it works as an everyday ring.", "sentiment": "negative", "topics": {"0": "0.10110726", "1": "0.5053531", "2": "0.21707755", "4": "0.15117921"}}

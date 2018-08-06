@@ -1,0 +1,1 @@
+{"text": "The picture doesn't show the front legs being faded. I think that look is dopey. They fit well. The extra room is appreciated.", "sentiment": "negative", "topics": {"0": "0.29022118", "1": "0.34249163", "2": "0.19207133", "3": "0.14455335", "4": "0.010207227", "5": "0.010246585", "6": "0.010208677"}}

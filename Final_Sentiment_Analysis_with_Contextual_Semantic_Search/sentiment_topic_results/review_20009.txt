@@ -1,0 +1,1 @@
+{"text": "My husband likes this pack.  It is well made and seems very sturdy.  He wished it was just a little less wide.  But if you need a lot of room you may find this a 5 star product.", "sentiment": "positive", "topics": {"1": "0.67117846", "4": "0.07315015", "5": "0.083268836", "6": "0.15091403"}}

@@ -1,0 +1,1 @@
+{"text": "Love the shoes just had to exchange for a larger size.  They have great tread for hiking and winter walking.", "sentiment": "negative", "topics": {"0": "0.30564", "1": "0.27686748", "2": "0.12929599", "3": "0.2489963", "4": "0.013078209", "5": "0.01307508", "6": "0.013046909"}}

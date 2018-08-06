@@ -1,0 +1,1 @@
+{"text": "Deluxe Series Head Wraps- Solid Black W12S15F; most defiantly better then the scull caps I have purchased at walmart and gas stations; Thicker fabric and plenty of room for hair or a large skull;", "sentiment": "negative", "topics": {"0": "0.22492075", "1": "0.22387376", "2": "0.1602089", "3": "0.3286701", "4": "0.04983165"}}

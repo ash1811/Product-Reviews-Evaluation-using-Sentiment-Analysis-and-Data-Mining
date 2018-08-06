@@ -1,0 +1,1 @@
+{"text": "I bought these as part of a school girl costume (a surprise for my boyfriend ;) They are thicker than I expected. They shipped fast and I was happy with them.", "sentiment": "negative", "topics": {"0": "0.21312001", "1": "0.24756521", "2": "0.22304659", "5": "0.28759995"}}

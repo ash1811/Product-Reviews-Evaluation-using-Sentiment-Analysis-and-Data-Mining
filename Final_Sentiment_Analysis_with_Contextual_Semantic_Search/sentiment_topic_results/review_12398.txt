@@ -1,0 +1,1 @@
+{"text": "I love Sanuk flip flops but have very wide feet.  When I saw these men's flip flops came in a size 6, I gave them a try and don't regret it...if you have a wide (D width) foot, these will work for you without looking too masculine...comfiest comfiest too!", "sentiment": "negative", "topics": {"1": "0.23374376", "2": "0.2964499", "3": "0.21276835", "4": "0.24167208"}}

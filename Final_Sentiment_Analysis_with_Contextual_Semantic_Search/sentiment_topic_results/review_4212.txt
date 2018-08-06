@@ -1,0 +1,1 @@
+{"text": "It's surprisingly hard to find simple, plain clothes for kids.This is great for wearing out, for wearing under t-shirts to give extended wear out of summer clothes. or to wear over to layer during spring/fall.LOVE.", "sentiment": "negative", "topics": {"0": "0.22135478", "1": "0.25280586", "2": "0.28816542", "5": "0.14925525", "6": "0.07477803"}}

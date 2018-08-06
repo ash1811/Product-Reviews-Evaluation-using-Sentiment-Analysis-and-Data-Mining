@@ -1,0 +1,1 @@
+{"text": "Very comfortable panties, fit is true.  Don't have anything negative to say about panties, they are as I expected.  Would recommend to anyone.", "sentiment": "negative", "topics": {"0": "0.36763638", "1": "0.35325262", "2": "0.15902811", "3": "0.011057286", "4": "0.01105121", "5": "0.011020995", "6": "0.08695341"}}

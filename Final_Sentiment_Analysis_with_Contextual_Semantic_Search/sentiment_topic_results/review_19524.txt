@@ -1,0 +1,1 @@
+{"text": "It's meant to be a gift for school aged little girls. Very helpful watch for them to learn time reading.", "sentiment": "negative", "topics": {"0": "0.14714684", "1": "0.4523245", "2": "0.2767217", "3": "0.011918238", "4": "0.011917803", "5": "0.011924099", "6": "0.08804684"}}

@@ -1,0 +1,1 @@
+{"text": "It was hard to close than I imagined it would be and it came open easily. I lost one the first day.", "sentiment": "positive", "topics": {"0": "0.18509354", "1": "0.011960208", "2": "0.116700806", "3": "0.0119735", "4": "0.011953519", "5": "0.3136403", "6": "0.3486781"}}

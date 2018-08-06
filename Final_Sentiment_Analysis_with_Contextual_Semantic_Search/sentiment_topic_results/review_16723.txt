@@ -1,0 +1,1 @@
+{"text": "This is AWESOME! If you hike this is very comfortable! This is one of my favorites now! I like so much am going to buy one in kaki and other in coyote!", "sentiment": "negative", "topics": {"0": "0.010219477", "1": "0.46670178", "2": "0.21731806", "3": "0.010217549", "4": "0.010235992", "5": "0.15466972", "6": "0.13063742"}}

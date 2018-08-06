@@ -1,0 +1,1 @@
+{"text": "This is my 2nd pair of these sandals. The thong will blow-out in about 2-years of heavy use but they don't smell at all and are great quality in the mean time, it's worth it for the price. Ok for boat deck.", "sentiment": "negative", "topics": {"1": "0.29579002", "2": "0.1477493", "3": "0.14253944", "5": "0.28540826", "6": "0.11343312"}}

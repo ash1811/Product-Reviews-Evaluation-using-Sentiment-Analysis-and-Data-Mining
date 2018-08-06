@@ -1,0 +1,1 @@
+{"text": "For all those watch collectors out there, this case is sure to fit the bill. It's elegant and sturdy, and with cushions that suit almost any watch. The lock is probably useless, but it adds to the look.", "sentiment": "negative", "topics": {"0": "0.07206902", "1": "0.24131566", "2": "0.49283257", "5": "0.11588834", "6": "0.062844165"}}

@@ -1,0 +1,1 @@
+{"text": "He uses them for his daily job, as well as on the weekends. I am glad i have found a place that sells exactly his size without having to go out to shop.", "sentiment": "positive", "topics": {"0": "0.26236054", "1": "0.2762426", "4": "0.3109666", "6": "0.12176487"}}

@@ -1,0 +1,1 @@
+{"text": "This was a gift for my 89 yr old mom. She loves it - she has no problem seeing the time, fits well and just big enough on her wrist.Looks very nice on her. Great buy!", "sentiment": "positive", "topics": {"0": "0.33991957", "1": "0.5130279", "6": "0.116886124"}}

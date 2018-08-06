@@ -1,0 +1,1 @@
+{"text": "I bought this for my 5 1/2 year old niece who's average sized and thin. She loves them.", "sentiment": "positive", "topics": {"0": "0.14253207", "1": "0.011022742", "2": "0.011013597", "3": "0.3706566", "4": "0.44273952", "5": "0.011026036", "6": "0.01100943"}}

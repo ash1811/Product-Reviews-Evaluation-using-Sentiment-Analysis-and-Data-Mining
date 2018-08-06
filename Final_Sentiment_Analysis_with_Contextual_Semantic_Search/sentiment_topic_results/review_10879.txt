@@ -1,0 +1,1 @@
+{"text": "I loved these earrings but after wearing them almost every day one of them broke.  The ball came loose from the post and is ruined.  I would expect a pair of gold earrings to last longer than 10 months.", "sentiment": "negative", "topics": {"0": "0.34911367", "1": "0.2474433", "2": "0.07628774", "4": "0.19231647", "5": "0.12237695"}}

@@ -1,0 +1,1 @@
+{"text": "These were recommended to me by a PT worker who suffers from Plantar Faciitis. I have tried Orthaheel, Proform, etc and these give me the best relief. They work better for me than my custom orthotics!!!", "sentiment": "positive", "topics": {"0": "0.12669781", "1": "0.3762698", "2": "0.14360832", "4": "0.19260842", "5": "0.07054032", "6": "0.082307"}}

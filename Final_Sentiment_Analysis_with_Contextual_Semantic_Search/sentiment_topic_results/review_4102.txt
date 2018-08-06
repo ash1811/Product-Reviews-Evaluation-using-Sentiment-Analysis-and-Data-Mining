@@ -1,0 +1,1 @@
+{"text": "This is a required shoe for my nursing program.  I am happy with Q-Swiss quality and size.  These shoes will hold up to Clinical duty.", "sentiment": "negative", "topics": {"0": "0.011000517", "1": "0.26730695", "2": "0.17120294", "3": "0.10712852", "4": "0.11793026", "5": "0.011003845", "6": "0.3144269"}}

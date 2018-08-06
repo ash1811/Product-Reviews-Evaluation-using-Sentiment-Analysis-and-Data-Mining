@@ -1,0 +1,1 @@
+{"text": "I've read other reviews stating to get this in a size larger than what your normal size would be. When I ordered, that's what I did. The large was WAY too big. I returned all three.", "sentiment": "negative", "topics": {"0": "0.08826303", "1": "0.21221188", "3": "0.58995426", "5": "0.08808501"}}

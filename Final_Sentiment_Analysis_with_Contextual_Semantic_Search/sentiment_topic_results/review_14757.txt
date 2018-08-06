@@ -1,0 +1,1 @@
+{"text": "Perfect size for my purse or backpack.  It is good just for one person, but easy to use with the automatic open option.", "sentiment": "negative", "topics": {"0": "0.120584145", "1": "0.011035836", "2": "0.20215124", "3": "0.38372564", "4": "0.011041311", "5": "0.1339684", "6": "0.13749348"}}

@@ -1,0 +1,1 @@
+{"text": "These are fun, stretchy and have a sticky strip to help keep them up, even though I use them with garters.", "sentiment": "negative", "topics": {"0": "0.2259266", "1": "0.011928563", "2": "0.011968771", "3": "0.01196922", "4": "0.2308926", "5": "0.14564772", "6": "0.36166656"}}

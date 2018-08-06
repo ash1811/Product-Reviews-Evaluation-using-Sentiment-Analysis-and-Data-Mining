@@ -1,0 +1,1 @@
+{"text": "will buy more. better than biv box shirts, and lower priced. i like good deals; they're here for the looking.", "sentiment": "negative", "topics": {"0": "0.010228652", "1": "0.49516025", "2": "0.16149624", "3": "0.17732425", "4": "0.13527402", "5": "0.010256799", "6": "0.010259804"}}

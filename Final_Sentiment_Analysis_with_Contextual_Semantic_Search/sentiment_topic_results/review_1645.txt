@@ -1,0 +1,1 @@
+{"text": "i dont like the fit. the top rolls down and they cut in my thighs and makes them look funny. They also run a little small.", "sentiment": "negative", "topics": {"1": "0.20179974", "2": "0.09245502", "3": "0.4980115", "4": "0.08313861", "6": "0.10551588"}}

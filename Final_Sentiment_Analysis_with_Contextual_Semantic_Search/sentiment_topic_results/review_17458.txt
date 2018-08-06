@@ -1,0 +1,1 @@
+{"text": "I bought this Thermasilk for backcountry camping.  It is really nice on the skin and dries super fast.  The only problem is that the velcro on my sleeping bag caused it to snag.", "sentiment": "negative", "topics": {"0": "0.14269559", "1": "0.2986652", "2": "0.24580593", "3": "0.15128018", "6": "0.14466567"}}

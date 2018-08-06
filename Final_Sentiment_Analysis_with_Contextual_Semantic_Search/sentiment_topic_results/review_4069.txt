@@ -1,0 +1,1 @@
+{"text": "wow! K-Swiss men's ST329 Lace-Up sneaker all White, I love and fit well and are comfortable and I will also get the Brown ones to wear and glad I did get them and I would recommend these sneaker to anyone. 100% please", "sentiment": "negative", "topics": {"1": "0.26739827", "2": "0.17622332", "3": "0.059784707", "4": "0.11326979", "5": "0.37186494"}}

@@ -1,0 +1,1 @@
+{"text": "This is a great and fun watch.  Love the expandable, adjustable band and the fun second hand.  Perfect for small children.", "sentiment": "positive", "topics": {"0": "0.010242993", "1": "0.17675848", "2": "0.20120949", "3": "0.127847", "4": "0.46349382", "5": "0.010224731", "6": "0.01022351"}}

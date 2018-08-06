@@ -1,0 +1,1 @@
+{"text": "For the price, I would expect the pants to come with it. Unfortunately, this was a top-only. Fit was as expected. It's ok, but overpriced for just a top.", "sentiment": "negative", "topics": {"0": "0.12512453", "1": "0.5692011", "2": "0.0102145085", "3": "0.11465832", "4": "0.010213826", "5": "0.1603798", "6": "0.010207923"}}

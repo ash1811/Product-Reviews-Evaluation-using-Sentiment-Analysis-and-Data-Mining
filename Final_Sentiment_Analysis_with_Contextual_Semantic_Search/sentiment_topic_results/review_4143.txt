@@ -1,0 +1,1 @@
+{"text": "I am 5'5\" and 150 lbs.  The large was WAY too baggy and long, and the medium is too tight in the waist and too short in the legs.  Really sucks.", "sentiment": "negative", "topics": {"0": "0.19064565", "1": "0.38911155", "2": "0.27132908", "4": "0.120238274"}}

@@ -1,0 +1,1 @@
+{"text": "I love the peach pink Cultured Pearl Silver Bunch Earrings. They are the perfect match for my necklace and I am very happy with them. They came in an attractive jewelry box and were delivered earlier than estimated.", "sentiment": "negative", "topics": {"0": "0.14287123", "1": "0.22093573", "3": "0.1309694", "4": "0.18062328", "5": "0.10559385", "6": "0.21219362"}}

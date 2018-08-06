@@ -1,0 +1,1 @@
+{"text": "I ordered a 34\" vice a 32\" because my previous 32\" pair makes me feel like a geek with high waters.  Leaves a puddle of cloth at the shoe.  But they are decent quality for the price.  Levis are way over priced IMHO.", "sentiment": "negative", "topics": {"1": "0.29570952", "2": "0.119497634", "3": "0.13333417", "5": "0.062918454", "6": "0.37706372"}}

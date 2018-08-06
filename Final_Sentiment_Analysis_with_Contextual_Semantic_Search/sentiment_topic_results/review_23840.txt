@@ -1,0 +1,1 @@
+{"text": "This serves its purpose but it doens't seem to made very sturdy like other thermals I own...this one is kinda flimsy, more like a heavy t shirt than anything but it served it's purpose.", "sentiment": "positive", "topics": {"0": "0.14444597", "2": "0.3409731", "3": "0.1821536", "4": "0.0631834", "6": "0.2541255"}}

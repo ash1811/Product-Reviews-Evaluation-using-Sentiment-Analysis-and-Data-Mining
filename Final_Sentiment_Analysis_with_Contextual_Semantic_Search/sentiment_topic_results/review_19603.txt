@@ -1,0 +1,1 @@
+{"text": "Love the Tisha line - probably the most comfortable and supportive bras I've found. The lace on this one takes it to another level. Unfortunately the size wasn't right for me so have to return it. I will definitely order another size.", "sentiment": "negative", "topics": {"0": "0.1369256", "1": "0.23525469", "3": "0.31093988", "4": "0.10835178", "6": "0.19659063"}}

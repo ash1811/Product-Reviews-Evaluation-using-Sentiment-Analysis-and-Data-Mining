@@ -1,0 +1,1 @@
+{"text": "I purchased this for my nephew so he could carry his tablet, phone, and other miscellaneous items around without dropping them. It's the perfect &#34;murse&#34;. Hehehe.", "sentiment": "negative", "topics": {"1": "0.43629706", "2": "0.16378088", "4": "0.15452747", "5": "0.14678311", "6": "0.0806771"}}

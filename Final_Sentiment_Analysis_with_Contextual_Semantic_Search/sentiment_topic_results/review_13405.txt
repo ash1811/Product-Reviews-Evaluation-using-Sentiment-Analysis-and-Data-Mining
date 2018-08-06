@@ -1,0 +1,1 @@
+{"text": "Very comfortable.  I was very pleased with the fit.  I bought the Light Natural/White Suede and will probably buy other colors.", "sentiment": "negative", "topics": {"0": "0.013008364", "1": "0.8097404", "2": "0.012990855", "3": "0.12527336", "4": "0.012991607", "5": "0.013006183", "6": "0.012989235"}}

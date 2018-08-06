@@ -1,0 +1,1 @@
+{"text": "Received the package and put them on immediately. Fit like a glove and made my day when the first person I saw told me they liked them.", "sentiment": "negative", "topics": {"0": "0.38482976", "1": "0.29404834", "2": "0.18132931", "6": "0.11288122"}}

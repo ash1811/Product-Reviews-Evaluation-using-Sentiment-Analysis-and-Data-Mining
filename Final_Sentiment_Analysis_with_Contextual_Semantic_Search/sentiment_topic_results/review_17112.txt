@@ -1,0 +1,1 @@
+{"text": "Very practical solution for toddlers outdoors. Run true to size. The color is vivid and stays bright. Quite durable. Will buy another pair for the next year summer.", "sentiment": "negative", "topics": {"1": "0.39865834", "2": "0.2730956", "3": "0.24578512", "4": "0.060987253"}}

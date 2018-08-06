@@ -1,0 +1,1 @@
+{"text": "This sweater came in great time, is quite stretchy, so will fit, no matter if the size is a bit small, and was quite comfortable.", "sentiment": "negative", "topics": {"0": "0.010280609", "1": "0.5356523", "2": "0.010213599", "3": "0.15857483", "4": "0.264798", "5": "0.010222221", "6": "0.010258439"}}

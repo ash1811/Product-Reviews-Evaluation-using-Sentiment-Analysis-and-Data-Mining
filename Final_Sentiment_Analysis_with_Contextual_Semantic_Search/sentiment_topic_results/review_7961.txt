@@ -1,0 +1,1 @@
+{"text": "Deliberately purchased these as a gift for a person who declares that they hate thong slippers. They were reportedly surprised at how comfortable these are and wear them. This is a second hand report -- best for now.", "sentiment": "negative", "topics": {"0": "0.07980337", "1": "0.24653746", "3": "0.14567587", "4": "0.22370009", "5": "0.15104704", "6": "0.14570224"}}

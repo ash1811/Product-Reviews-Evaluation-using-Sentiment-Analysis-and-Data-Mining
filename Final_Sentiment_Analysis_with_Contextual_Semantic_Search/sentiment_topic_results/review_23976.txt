@@ -1,0 +1,1 @@
+{"text": "These socks fit extremely well.  They are warm and cushion my feet when I am wearing boots, especially my foul weather boots.", "sentiment": "negative", "topics": {"0": "0.010217568", "1": "0.39199394", "2": "0.28529248", "3": "0.0102285985", "4": "0.28167784", "5": "0.010346182", "6": "0.0102433665"}}

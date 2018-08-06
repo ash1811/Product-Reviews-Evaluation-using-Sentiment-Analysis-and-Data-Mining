@@ -1,0 +1,1 @@
+{"text": "Love them, they fit great and seem very sturdy and comfortable. Also they are cute. I love love Reef Brand!", "sentiment": "negative", "topics": {"0": "0.01022503", "1": "0.42465448", "2": "0.010221034", "3": "0.2903574", "4": "0.24409689", "5": "0.0102363825", "6": "0.01020875"}}

@@ -1,0 +1,1 @@
+{"text": "This cap is so cute....put it on and fell in love. Nice color of grey. Can fit many head sizes. Looking for army green now as this short style peak good for me.", "sentiment": "negative", "topics": {"0": "0.12730421", "1": "0.2528033", "2": "0.11292782", "3": "0.19730237", "4": "0.13998774", "5": "0.16251811"}}

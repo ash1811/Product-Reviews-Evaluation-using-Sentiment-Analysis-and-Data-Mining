@@ -1,0 +1,1 @@
+{"text": "This is one of the best things you can give your wife, mine loved it and promised to make things let's say hot tonight :)", "sentiment": "negative", "topics": {"1": "0.37779206", "3": "0.14765085", "4": "0.26145294", "5": "0.07857478", "6": "0.115417816"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased this shoe as an everyday work shoe for my son.  He just loves it.  It is comfortable and stylish and manly.  I have no regrets about the purchase price and will recommend it anyday.", "sentiment": "negative", "topics": {"1": "0.3743474", "2": "0.25688055", "4": "0.20799816", "6": "0.13551287"}}

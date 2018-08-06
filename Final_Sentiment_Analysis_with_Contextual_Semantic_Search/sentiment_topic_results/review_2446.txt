@@ -1,0 +1,1 @@
+{"text": "I suppose they are comfortable, but I recommend going to a retailer where you can try them on first. I got the recommended size based on their sizing charts and ended up with a short end of the stick.", "sentiment": "negative", "topics": {"0": "0.2972308", "1": "0.22809209", "2": "0.12963429", "3": "0.24535502", "4": "0.08374141"}}

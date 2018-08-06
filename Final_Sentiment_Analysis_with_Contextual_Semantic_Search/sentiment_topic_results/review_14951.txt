@@ -1,0 +1,1 @@
+{"text": "The bag is nice, but just did not fit my needs.  It is an okay bag for short day trips and I required more space in a bag.", "sentiment": "negative", "topics": {"0": "0.3382403", "1": "0.48011795", "2": "0.010996807", "3": "0.0110112745", "4": "0.011017635", "5": "0.011026159", "6": "0.13758986"}}

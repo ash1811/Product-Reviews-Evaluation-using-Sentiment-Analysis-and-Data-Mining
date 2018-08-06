@@ -1,0 +1,1 @@
+{"text": "Arrived on time and in good condition.  Is exactly what I wanted and expected.Slippers are very comfortable, great to travel with and not bulky like so many are.", "sentiment": "negative", "topics": {"0": "0.24483138", "1": "0.17210011", "2": "0.22018264", "4": "0.10125433", "5": "0.24252506"}}

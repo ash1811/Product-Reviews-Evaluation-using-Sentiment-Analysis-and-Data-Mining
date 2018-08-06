@@ -1,0 +1,1 @@
+{"text": "my daughter love this hanging cosmetic grooming travel bag she rec it in time for a vacation trip. it was good for all her makeup", "sentiment": "positive", "topics": {"0": "0.37692672", "1": "0.010245184", "2": "0.091649525", "3": "0.11090152", "4": "0.21892045", "5": "0.010240186", "6": "0.18111645"}}

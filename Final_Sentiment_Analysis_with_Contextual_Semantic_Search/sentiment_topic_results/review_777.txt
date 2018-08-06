@@ -1,0 +1,1 @@
+{"text": "These are comfortable and fitting but with some stretch. They maintain their shape and just look better than the generic unisex style scrub pants.", "sentiment": "negative", "topics": {"0": "0.011017671", "1": "0.2846294", "2": "0.011003138", "3": "0.3418285", "4": "0.1965943", "5": "0.011018326", "6": "0.14390863"}}

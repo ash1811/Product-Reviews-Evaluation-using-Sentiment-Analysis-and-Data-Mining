@@ -1,0 +1,1 @@
+{"text": "The fit is true to size and the quality is great. Stitching is good and the rubber parts are thoroughly attached. You can always trust this brand.", "sentiment": "negative", "topics": {"0": "0.18029806", "1": "0.5310458", "3": "0.17437178", "4": "0.08561199"}}

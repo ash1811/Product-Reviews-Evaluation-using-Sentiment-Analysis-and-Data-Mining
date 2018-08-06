@@ -1,0 +1,1 @@
+{"text": "Nice and comfy flip flop. The black, hot pink is sharp looking. Am a size 6 and purchased that size. Fit was perfect.", "sentiment": "positive", "topics": {"1": "0.40602878", "2": "0.1979823", "3": "0.26009226", "6": "0.10908337"}}

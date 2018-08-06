@@ -1,0 +1,1 @@
+{"text": "This is a really nice inexpensive watch. I found it quite a hassle to set the day/date, but aside from that, im pretty happy.", "sentiment": "negative", "topics": {"1": "0.53991747", "2": "0.18675064", "4": "0.157466", "6": "0.08721348"}}

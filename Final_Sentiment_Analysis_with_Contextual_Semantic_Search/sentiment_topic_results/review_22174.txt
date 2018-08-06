@@ -1,0 +1,1 @@
+{"text": ", I like how this feels and its just right for our warm climate. I love it will purchase more", "sentiment": "positive", "topics": {"0": "0.017925143", "1": "0.24706127", "2": "0.017883096", "3": "0.017900655", "4": "0.4960279", "5": "0.01789937", "6": "0.18530257"}}

@@ -1,0 +1,1 @@
+{"text": "Love love Levis. These jeans fit perfect sits low at the waist. This is the second pair I have ordered.Hard to find these jeans in stores. Love the price and color.", "sentiment": "negative", "topics": {"1": "0.4927911", "2": "0.058306456", "4": "0.35196108", "6": "0.07427101"}}

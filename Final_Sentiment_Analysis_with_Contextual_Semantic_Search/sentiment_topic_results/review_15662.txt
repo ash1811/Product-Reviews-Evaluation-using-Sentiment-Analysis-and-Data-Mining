@@ -1,0 +1,1 @@
+{"text": "These are incredibly soft. Modal is an excellent material! They are more expensive, but very high quality!", "sentiment": "positive", "topics": {"0": "0.17230403", "1": "0.4114865", "2": "0.3525784", "3": "0.01590685", "4": "0.015873207", "5": "0.015882779", "6": "0.015968256"}}

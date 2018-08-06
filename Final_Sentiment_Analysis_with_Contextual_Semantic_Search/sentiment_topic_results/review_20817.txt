@@ -1,0 +1,1 @@
+{"text": "These pants were a gift and they are made well and fit great. Very happy with the fabric, the style and the way they fit.  Would buy more if needed.  Can be dressed up or down.", "sentiment": "positive", "topics": {"0": "0.16326965", "1": "0.5784456", "4": "0.14658655", "5": "0.08641503"}}

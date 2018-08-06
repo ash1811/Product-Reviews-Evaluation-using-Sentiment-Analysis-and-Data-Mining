@@ -1,0 +1,1 @@
+{"text": "Holds up to several washes. Fits my large body. Wasn't all that expensive. I would buy this again and get it for other.", "sentiment": "negative", "topics": {"0": "0.011923429", "1": "0.4998454", "2": "0.1194532", "3": "0.21034531", "4": "0.011925696", "5": "0.011954264", "6": "0.13455273"}}

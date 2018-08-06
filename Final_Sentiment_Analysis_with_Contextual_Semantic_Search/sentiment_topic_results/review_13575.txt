@@ -1,0 +1,1 @@
+{"text": "They are comfortable and are great for running up and down the beach. Sketchers are nice fot the feet. What a treat.", "sentiment": "negative", "topics": {"0": "0.014311631", "1": "0.4182455", "2": "0.0142871495", "3": "0.01431907", "4": "0.014425059", "5": "0.5101251", "6": "0.014286429"}}

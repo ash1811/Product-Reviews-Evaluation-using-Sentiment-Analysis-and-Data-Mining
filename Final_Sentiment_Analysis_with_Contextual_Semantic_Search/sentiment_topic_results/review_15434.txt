@@ -1,0 +1,1 @@
+{"text": "They look exactly like the pic and they are the real deal.Showed up reasonably quick and I dig my new Bans.Thanks", "sentiment": "positive", "topics": {"0": "0.42048207", "1": "0.14756837", "2": "0.011921466", "3": "0.1736441", "4": "0.22251219", "5": "0.011927263", "6": "0.011944573"}}

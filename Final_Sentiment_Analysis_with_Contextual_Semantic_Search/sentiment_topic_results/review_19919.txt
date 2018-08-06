@@ -1,0 +1,1 @@
+{"text": "These fit well; quality construction and materials; but look very bulky and wide on your feet! The looks are the only reason I gave them a '4'; but most Keen's have this 'wide' look. Fit my odd feet great: Wide enough in front and narrow enough in back!", "sentiment": "negative", "topics": {"1": "0.61266595", "2": "0.035335768", "4": "0.28856808", "6": "0.047483392"}}

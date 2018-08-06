@@ -1,0 +1,1 @@
+{"text": "Been wearing these since high school, still got a pair over 20 years old, you can pay more, but why would you want to?", "sentiment": "negative", "topics": {"0": "0.23391199", "2": "0.2823271", "3": "0.4479023"}}

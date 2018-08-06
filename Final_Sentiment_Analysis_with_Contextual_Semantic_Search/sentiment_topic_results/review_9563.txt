@@ -1,0 +1,1 @@
+{"text": "I purchased this watch for general use.  With the stretch band, it is easy to put on, but after a few hours, it tends to pinch.  I also like the fact that you can depresss the dial and it will illuminates in the dark.", "sentiment": "negative", "topics": {"1": "0.09302743", "2": "0.12582877", "3": "0.26366857", "4": "0.24215177", "5": "0.099059634", "6": "0.16909857"}}

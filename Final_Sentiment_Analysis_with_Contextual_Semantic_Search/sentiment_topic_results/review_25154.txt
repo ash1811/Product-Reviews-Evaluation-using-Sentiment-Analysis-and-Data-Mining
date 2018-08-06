@@ -1,0 +1,1 @@
+{"text": "When I saw this necklace I knew I had to get it for my sons girlfriend because it looked so much like her and her daughter.  I really think that she will LOVE IT.", "sentiment": "positive", "topics": {"0": "0.50430363", "1": "0.4479009"}}

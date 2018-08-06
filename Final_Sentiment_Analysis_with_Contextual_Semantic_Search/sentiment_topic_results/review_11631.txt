@@ -1,0 +1,1 @@
+{"text": "needed for Halloween costume for Dr. Who....they were a bit smaller than expected but worked great. we had no problem with then coming unattached.", "sentiment": "negative", "topics": {"0": "0.09415923", "1": "0.23135833", "2": "0.010248828", "3": "0.38453397", "4": "0.13855822", "5": "0.010217428", "6": "0.13092397"}}

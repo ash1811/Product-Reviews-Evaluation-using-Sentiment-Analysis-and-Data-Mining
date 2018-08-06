@@ -1,0 +1,1 @@
+{"text": "Does what it is meant to do. not sure what else can be said about it.Good price here on Amazon compared to other local stores.its a cute hat. She used it a few times at the beach no issues.", "sentiment": "negative", "topics": {"0": "0.2028307", "2": "0.37913656", "3": "0.23237361", "4": "0.10874038", "6": "0.060943797"}}

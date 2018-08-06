@@ -1,0 +1,1 @@
+{"text": "This is an excellent quality but the band is snug. Looks good with thin sportswear tops. Will probably stretch in time.", "sentiment": "positive", "topics": {"0": "0.13401493", "1": "0.4447525", "2": "0.09747459", "3": "0.2031397", "4": "0.011030435", "5": "0.011014869", "6": "0.09857293"}}

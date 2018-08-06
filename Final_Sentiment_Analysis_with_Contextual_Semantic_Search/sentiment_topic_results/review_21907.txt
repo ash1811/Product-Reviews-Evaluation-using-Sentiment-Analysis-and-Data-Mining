@@ -1,0 +1,1 @@
+{"text": "These yoga socks are very soft and comfortable. I have small feet(5 1/2) so I ordered the small but I could actually have really used the extra small.But all in all they are very good socks. I ordered two pair (pink & grey)", "sentiment": "positive", "topics": {"1": "0.46665904", "5": "0.4094843", "6": "0.09895934"}}

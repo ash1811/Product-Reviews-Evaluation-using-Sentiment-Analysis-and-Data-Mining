@@ -1,0 +1,1 @@
+{"text": "I wasn't sure I liked these at first.. they did feel a little mushy; but I find myself wearing them more than my others. They're really comfortable and are holding up well. The strap is comfortable too; it doesn't rub like some other flip flops.", "sentiment": "negative", "topics": {"0": "0.1801147", "1": "0.407099", "2": "0.2205221", "4": "0.17271812"}}

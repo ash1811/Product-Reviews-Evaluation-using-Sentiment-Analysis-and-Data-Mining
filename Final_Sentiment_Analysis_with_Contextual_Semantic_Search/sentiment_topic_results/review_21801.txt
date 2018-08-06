@@ -1,0 +1,1 @@
+{"text": "This bag is not fancy. It is large and can fit a good number of items. It just one big space inside. It's basic but for the price, it's what I expected.", "sentiment": "positive", "topics": {"0": "0.06177069", "1": "0.55825704", "2": "0.17480604", "6": "0.1765047"}}

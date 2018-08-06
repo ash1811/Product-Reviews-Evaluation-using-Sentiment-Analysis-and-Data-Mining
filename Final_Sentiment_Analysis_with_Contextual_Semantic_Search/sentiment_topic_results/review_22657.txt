@@ -1,0 +1,1 @@
+{"text": "She loves it.  Comfortable fit. True to size. Good for the winter.  Maximum coverage. Will purchase again in the future.", "sentiment": "negative", "topics": {"0": "0.011018442", "1": "0.5573701", "2": "0.01100136", "3": "0.18912002", "4": "0.011068504", "5": "0.010998899", "6": "0.2094227"}}

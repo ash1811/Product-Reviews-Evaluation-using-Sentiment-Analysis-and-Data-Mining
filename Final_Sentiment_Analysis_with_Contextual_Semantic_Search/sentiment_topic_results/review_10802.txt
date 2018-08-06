@@ -1,0 +1,1 @@
+{"text": "These are shiny and made very well.Very haute couture and more soif you wear them in graduated sizes, at thesame time.", "sentiment": "positive", "topics": {"0": "0.011946003", "1": "0.304428", "2": "0.011919417", "3": "0.011939478", "4": "0.12321719", "5": "0.011959412", "6": "0.52459043"}}

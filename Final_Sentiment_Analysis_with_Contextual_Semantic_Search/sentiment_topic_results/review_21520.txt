@@ -1,0 +1,1 @@
+{"text": "These are great socks for everyday.  They aren't bulky, so should not affect regular shoe size.  I really like them.", "sentiment": "negative", "topics": {"0": "0.011938654", "1": "0.011950542", "2": "0.29755074", "3": "0.34464884", "4": "0.08750031", "5": "0.2344454", "6": "0.011965524"}}

@@ -1,0 +1,1 @@
+{"text": "My daughters are young and into soccer and this is what they want for christmas, so santa go tit for her, she wears them everywhere.", "sentiment": "positive", "topics": {"0": "0.34125397", "1": "0.01193625", "2": "0.011927345", "3": "0.14683911", "4": "0.011913822", "5": "0.34890985", "6": "0.12721966"}}

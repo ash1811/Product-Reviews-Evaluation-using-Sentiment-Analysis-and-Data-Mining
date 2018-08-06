@@ -1,0 +1,1 @@
+{"text": "Usually my husband wears a 32 in length, but the 30's were perfect so they run a little long. Great pants overall though.", "sentiment": "negative", "topics": {"1": "0.43858662", "3": "0.07723888", "4": "0.24422055", "6": "0.21129732"}}

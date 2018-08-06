@@ -1,0 +1,1 @@
+{"text": "Not a mens watch unless you have little girl arms. Dial is very hard to see. Did not work for me.", "sentiment": "negative", "topics": {"0": "0.43626717", "1": "0.011954642", "2": "0.2782662", "3": "0.011950237", "4": "0.104152374", "5": "0.01193045", "6": "0.14547895"}}

@@ -1,0 +1,1 @@
+{"text": "The product is ok. However, you get what you pay for - as it is not well made. Would not purchase from this manufacturer again; however, the seller provided quick service.", "sentiment": "negative", "topics": {"1": "0.28560373", "2": "0.1644483", "3": "0.12059146", "4": "0.149753", "5": "0.26275748"}}

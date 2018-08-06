@@ -1,0 +1,1 @@
+{"text": "I ordered the white ones and the bows are white, not red as shown.  They don't have nearly the cute appeal I was hoping for, but my event is too close to exchange them :(", "sentiment": "negative", "topics": {"3": "0.24310431", "4": "0.15634893", "5": "0.22608344", "6": "0.34756693"}}

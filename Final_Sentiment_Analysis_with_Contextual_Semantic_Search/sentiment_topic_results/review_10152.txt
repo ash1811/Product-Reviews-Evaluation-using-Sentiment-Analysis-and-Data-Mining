@@ -1,0 +1,1 @@
+{"text": "they are good but the real color looks nothing like the picture its a clear gray so if you want them because they are dark dont buy them", "sentiment": "positive", "topics": {"0": "0.010228422", "1": "0.64378047", "2": "0.3050412", "3": "0.010232611", "4": "0.0102125965", "5": "0.010240107", "6": "0.010264643"}}

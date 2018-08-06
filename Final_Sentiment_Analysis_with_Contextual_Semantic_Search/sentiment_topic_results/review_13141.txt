@@ -1,0 +1,1 @@
+{"text": "I bought three of these ties to make a father's day crafts using fabric markers. The ties in itself seemed pretty nice to wear just as a regular white tie.  but our craft turned out great.", "sentiment": "negative", "topics": {"0": "0.051088765", "1": "0.22115944", "2": "0.11244287", "3": "0.27843264", "5": "0.20899534", "6": "0.12138072"}}

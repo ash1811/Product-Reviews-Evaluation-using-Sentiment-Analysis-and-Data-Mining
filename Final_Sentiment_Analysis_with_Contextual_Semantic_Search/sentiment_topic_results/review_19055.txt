@@ -1,0 +1,1 @@
+{"text": "I am an average 36 D and this bra was so tight I couldn't breathe. The cups look nice, soft and smooth, but they run too small and my girls were spilling on all sides.", "sentiment": "negative", "topics": {"0": "0.3525459", "1": "0.30029377", "3": "0.25718826", "6": "0.063106366"}}

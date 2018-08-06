@@ -1,0 +1,1 @@
+{"text": "These pants are really comfortable but still a tad too long for a petite size. I had to hem about 2 inches... My friend commented that they look like yoga pants.", "sentiment": "negative", "topics": {"0": "0.08633374", "1": "0.4335859", "2": "0.0701964", "5": "0.2059967", "6": "0.1879308"}}

@@ -1,0 +1,1 @@
+{"text": "My one year old wore this for Halloween and he looked adorable in it. He even wore the hat without too much hassle.", "sentiment": "negative", "topics": {"0": "0.06966198", "1": "0.22805859", "3": "0.2434704", "4": "0.2110347", "5": "0.22865269"}}

@@ -1,0 +1,1 @@
+{"text": "fast service, perfect fit, good price.......very pleased,  will recommend to others,  will buy again.  11year old daughter is very happy.", "sentiment": "positive", "topics": {"0": "0.4668221", "1": "0.35774785", "5": "0.13960654"}}

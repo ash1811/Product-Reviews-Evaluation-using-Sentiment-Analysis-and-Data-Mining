@@ -1,0 +1,1 @@
+{"text": "The bra is scratchy and actually fits a little weird.  It doesn't fit like the Wocoal or Natori 32DDD bras I purchased at Nordstrom. Seems to be inferior quality.", "sentiment": "negative", "topics": {"1": "0.39344347", "2": "0.13777772", "3": "0.3654238", "6": "0.07950701"}}

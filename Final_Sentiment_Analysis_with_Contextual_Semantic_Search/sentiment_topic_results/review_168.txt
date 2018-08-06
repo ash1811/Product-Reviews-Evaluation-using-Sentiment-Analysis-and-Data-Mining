@@ -1,0 +1,1 @@
+{"text": "I don't really care for the feel of the material.The neck is too small for me.I'm a big man.It also seems the size i need is never available in the colors i like.", "sentiment": "positive", "topics": {"1": "0.4514808", "3": "0.28195322", "4": "0.082311414", "6": "0.16039594"}}

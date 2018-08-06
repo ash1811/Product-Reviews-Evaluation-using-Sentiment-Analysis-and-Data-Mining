@@ -1,0 +1,1 @@
+{"text": "For an inexpensive wrist watch this is a great product. Very nice design, easy to read the date and time on this watch. I  would recommend this product to anyone looking for a good reliable time piece.", "sentiment": "negative", "topics": {"1": "0.20067969", "2": "0.13433455", "3": "0.12703672", "4": "0.11399564", "5": "0.3320669", "6": "0.08537068"}}

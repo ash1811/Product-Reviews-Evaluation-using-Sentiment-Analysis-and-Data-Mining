@@ -1,0 +1,1 @@
+{"text": "Orderred 7 and a half and it is small n my head where usually a hat this size is just a little big, Thus the size is not as advertised and perhaps they put the wrong lable, Unsure but would not order again,", "sentiment": "negative", "topics": {"0": "0.17161699", "1": "0.17157696", "2": "0.17301102", "3": "0.29762694", "4": "0.17370443"}}

@@ -1,0 +1,1 @@
+{"text": "Marine Corps Style Nylon Q.R. Pistol Belt fits perfect and I use it for my Tactical Vest belt. looks and fits great!!", "sentiment": "negative", "topics": {"0": "0.35414532", "1": "0.32684332", "2": "0.16018629", "4": "0.13356255"}}

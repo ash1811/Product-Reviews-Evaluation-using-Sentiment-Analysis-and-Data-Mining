@@ -1,0 +1,1 @@
+{"text": "this dress makes you want to dance and shimmy! It is so much fun. As some other reviewers said, it is tight around the hips and butt, so keep that in mind when ordering. It is such a flattering dress you'll want to wear it for more than just Halloween!", "sentiment": "negative", "topics": {"1": "0.22796969", "3": "0.31043637", "4": "0.3454959", "6": "0.096551515"}}

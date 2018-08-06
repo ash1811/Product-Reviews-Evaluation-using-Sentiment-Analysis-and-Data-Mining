@@ -1,0 +1,1 @@
+{"text": "just got mine recently and from the looks of it, it looks authentic, all the ray ban logos are on the right places and the build quality is excellent. Click here for my video review: [...]", "sentiment": "negative", "topics": {"1": "0.292885", "2": "0.15086167", "3": "0.40105602", "4": "0.13258627"}}

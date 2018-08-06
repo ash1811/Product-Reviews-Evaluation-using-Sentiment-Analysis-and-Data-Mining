@@ -1,0 +1,1 @@
+{"text": "Look good and feel good. I love them. Expensive but worth every cent.  Arrived on time.  I've worn them every day since they arrived.", "sentiment": "negative", "topics": {"0": "0.5734504", "1": "0.14012207", "2": "0.055626605", "3": "0.1168329", "6": "0.098855466"}}

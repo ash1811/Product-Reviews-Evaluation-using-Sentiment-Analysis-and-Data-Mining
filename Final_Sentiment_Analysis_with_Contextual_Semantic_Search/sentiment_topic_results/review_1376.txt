@@ -1,0 +1,1 @@
+{"text": "Looks great.  Lots of storage space.  Lightweight.  Classic Jansport quality.  Definitely would buy again or recommend to others.  Might consider a different model with more pockets.  But this one works great.", "sentiment": "negative", "topics": {"1": "0.4254235", "2": "0.17327768", "3": "0.24728236", "6": "0.13533005"}}

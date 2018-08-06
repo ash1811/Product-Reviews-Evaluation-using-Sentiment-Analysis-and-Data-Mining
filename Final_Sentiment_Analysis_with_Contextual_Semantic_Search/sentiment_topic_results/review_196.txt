@@ -1,0 +1,1 @@
+{"text": "Perfect fit - great for lounging, working out, showing off your legs! Very comfy fit and fabric. Nice long drawstring doesn't get lost in the waistband.", "sentiment": "negative", "topics": {"1": "0.42379156", "3": "0.14142518", "5": "0.2694343", "6": "0.14044899"}}

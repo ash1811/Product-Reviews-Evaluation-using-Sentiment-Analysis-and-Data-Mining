@@ -1,0 +1,1 @@
+{"text": "Great batman costume. Great look. Especially the muscle chest. Unfortunately the build quality is particularly poor - I doubt it will be around for another halloween.", "sentiment": "negative", "topics": {"0": "0.24626477", "1": "0.48313263", "3": "0.23869652"}}

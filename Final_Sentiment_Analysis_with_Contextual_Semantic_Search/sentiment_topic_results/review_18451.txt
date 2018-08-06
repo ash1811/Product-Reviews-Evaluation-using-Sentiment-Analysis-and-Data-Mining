@@ -1,0 +1,1 @@
+{"text": "things period. they fit well, they support, they are comfortable - after 1 year there was a bit of dehiscence on the sole which was easily affixed with shoe goo. love these.", "sentiment": "negative", "topics": {"0": "0.10411894", "1": "0.46390596", "2": "0.14432114", "3": "0.18311717", "4": "0.08864063"}}

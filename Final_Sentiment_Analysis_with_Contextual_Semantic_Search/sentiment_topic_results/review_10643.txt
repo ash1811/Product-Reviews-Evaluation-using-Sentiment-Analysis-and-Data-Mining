@@ -1,0 +1,1 @@
+{"text": "These earrings are made well and I really like them.  They do sparkle but not as much as I expected them too.  They do not bother my ears which is great.  I can not were cheap cheap earrings.  All in all very happy.", "sentiment": "negative", "topics": {"1": "0.6140991", "2": "0.1973929", "6": "0.15666568"}}

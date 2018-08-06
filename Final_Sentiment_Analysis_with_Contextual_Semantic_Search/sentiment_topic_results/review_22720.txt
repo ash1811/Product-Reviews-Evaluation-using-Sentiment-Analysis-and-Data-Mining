@@ -1,0 +1,1 @@
+{"text": "Wore this as a base layer for hiking last weekend.  Good fit.  Kept me warm.  My only complaint is the itchy waistband (like other reviewers noted) but I tuck in the matching shirt so the waistband doesn't touch my skin and then it's fine.", "sentiment": "negative", "topics": {"0": "0.17241308", "1": "0.41235337", "2": "0.0442388", "3": "0.12550451", "5": "0.23355341"}}

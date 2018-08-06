@@ -1,0 +1,1 @@
+{"text": "I'm very happy with the appearance and quality of this chain.  The pendant I bought it for slides on effortlessly and looks very nice.", "sentiment": "negative", "topics": {"0": "0.011968697", "1": "0.58449966", "2": "0.14461668", "3": "0.0119424155", "4": "0.11949784", "5": "0.115554474", "6": "0.011920242"}}

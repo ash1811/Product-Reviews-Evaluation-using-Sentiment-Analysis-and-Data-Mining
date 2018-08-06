@@ -1,0 +1,1 @@
+{"text": "Just what I needed to go under my leather pants.The overall excellence in quality is what I'd dreamt,but never thought it would far exceed my expectations.Thank you so much for the help in completing my Black Leather Motorcycle outfit.", "sentiment": "negative", "topics": {"1": "0.2566443", "2": "0.54006726", "5": "0.07279186", "6": "0.11180841"}}

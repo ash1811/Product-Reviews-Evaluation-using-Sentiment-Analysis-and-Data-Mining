@@ -1,0 +1,1 @@
+{"text": "These are lightweight, with good styling and some arch support.  Comfortable and snug enough to keep shoes in place when walking.", "sentiment": "positive", "topics": {"0": "0.011017861", "1": "0.19513223", "2": "0.09351786", "3": "0.3776307", "4": "0.011021062", "5": "0.16233495", "6": "0.14934534"}}

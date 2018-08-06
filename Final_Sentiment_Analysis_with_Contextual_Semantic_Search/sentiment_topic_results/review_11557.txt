@@ -1,0 +1,1 @@
+{"text": "I still love then - though they fit a little on the small size.  I'm wearing them anyway - and love the color.", "sentiment": "negative", "topics": {"0": "0.011009375", "1": "0.40974542", "2": "0.09634252", "3": "0.348463", "4": "0.11243191", "5": "0.011003708", "6": "0.011004035"}}

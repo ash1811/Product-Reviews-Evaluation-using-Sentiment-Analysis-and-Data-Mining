@@ -1,0 +1,1 @@
+{"text": "These slippers are soft and stretchy - very comfortable.  The embroidery was a cute touch over the usually plain ones.", "sentiment": "positive", "topics": {"0": "0.013065141", "1": "0.64939505", "2": "0.0130647365", "3": "0.013048041", "4": "0.013027995", "5": "0.013110962", "6": "0.28528807"}}

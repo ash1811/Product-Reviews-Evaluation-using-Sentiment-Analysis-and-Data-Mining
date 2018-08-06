@@ -1,0 +1,1 @@
+{"text": "when clicking on link it did not say they did not have them it sent what it did have", "sentiment": "negative", "topics": {"0": "0.028577402", "1": "0.4206961", "2": "0.028580422", "3": "0.0285763", "4": "0.2319423", "5": "0.028803876", "6": "0.23282358"}}

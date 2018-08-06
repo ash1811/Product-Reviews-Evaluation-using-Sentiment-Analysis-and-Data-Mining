@@ -1,0 +1,1 @@
+{"text": "Great size bag!  It fits shoes, clothes and my basketball.  I am not sure of the durability of the bag, but I am happy with the storage capabilities.  No problems so far.", "sentiment": "positive", "topics": {"1": "0.30616552", "2": "0.5088914", "6": "0.14902776"}}

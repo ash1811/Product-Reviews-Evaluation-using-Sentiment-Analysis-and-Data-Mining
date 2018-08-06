@@ -1,0 +1,1 @@
+{"text": "Straps need more holes to tighten, and I find it difficult to make new ones, so to the shoe repair shop.", "sentiment": "negative", "topics": {"0": "0.010992228", "1": "0.010999859", "2": "0.37841532", "3": "0.17807485", "4": "0.24491264", "5": "0.0109940255", "6": "0.16561104"}}

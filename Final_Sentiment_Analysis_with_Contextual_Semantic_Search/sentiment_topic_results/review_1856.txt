@@ -1,0 +1,1 @@
+{"text": "these are flat but there is somethng sexxy about them i may even get another color. If youre considering it buy them", "sentiment": "positive", "topics": {"0": "0.2743886", "1": "0.47732282", "2": "0.011919041", "3": "0.20056707", "4": "0.011930001", "5": "0.011939001", "6": "0.011933431"}}

@@ -1,0 +1,1 @@
+{"text": "I x country ski a lot, and wear leggings and skirts.  So the leg Warner's act as gaiters over my snow boots.", "sentiment": "negative", "topics": {"0": "0.09035402", "1": "0.010219332", "2": "0.22264157", "3": "0.21286142", "4": "0.21322897", "5": "0.1616512", "6": "0.08904351"}}

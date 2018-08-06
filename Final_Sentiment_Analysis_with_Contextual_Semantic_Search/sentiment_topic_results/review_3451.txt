@@ -1,0 +1,1 @@
+{"text": "This is a great bra, but I think the straps are a little short.  When the straps are fully extended, the extra-wide part of the strap is located a little forward and not on top of your shoulder.", "sentiment": "positive", "topics": {"0": "0.07805093", "1": "0.17030117", "2": "0.25670198", "3": "0.20714776", "4": "0.14945418", "5": "0.13040414"}}

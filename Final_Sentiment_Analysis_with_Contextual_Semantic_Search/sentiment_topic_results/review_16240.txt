@@ -1,0 +1,1 @@
+{"text": "Great shoe that has a comfortable fit.  It is well made and looks very nice.  I bought them for my 85 year old Dad and he said they get an \"A+\".", "sentiment": "positive", "topics": {"1": "0.6845799", "2": "0.0797829", "4": "0.20190103"}}

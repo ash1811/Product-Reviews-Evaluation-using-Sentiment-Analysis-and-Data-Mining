@@ -1,0 +1,1 @@
+{"text": "I always buy Rockport and have always been satisfied with high quality shoes.They are long lasting and I can rely that the size is consistent.", "sentiment": "positive", "topics": {"0": "0.010215287", "1": "0.318268", "2": "0.21571147", "3": "0.124291696", "4": "0.12789038", "5": "0.010217681", "6": "0.19340551"}}

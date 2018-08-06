@@ -1,0 +1,1 @@
+{"text": "These are terrific leggings because of the cotton/spandex combination.  I am living in them this winter.", "sentiment": "negative", "topics": {"0": "0.020410359", "1": "0.16442196", "2": "0.166752", "3": "0.020409884", "4": "0.45511326", "5": "0.020409515", "6": "0.15248302"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loved them comfortable & warm!!!!! He has been hard on slippers in the past. He is going have years of a lot of usewith these. It was a good buy for the money!!!", "sentiment": "positive", "topics": {"0": "0.1297157", "1": "0.5930797", "4": "0.09186323", "6": "0.15843809"}}

@@ -1,0 +1,1 @@
+{"text": "Form fitting... I love silk and other natural fibers and love how clothing slips right over this silky material.  Lightweight but certainly warmer than polyester or cotton base layers.", "sentiment": "negative", "topics": {"0": "0.3130476", "3": "0.14741062", "4": "0.25293297", "6": "0.26513916"}}

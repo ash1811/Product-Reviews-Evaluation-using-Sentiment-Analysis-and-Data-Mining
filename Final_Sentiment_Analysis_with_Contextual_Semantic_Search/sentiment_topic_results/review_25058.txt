@@ -1,0 +1,1 @@
+{"text": "Bali under garment are just the fit an size for me. Love them will continue to buy them. My style.", "sentiment": "negative", "topics": {"0": "0.013002944", "1": "0.502634", "2": "0.013029316", "3": "0.2334692", "4": "0.21183519", "5": "0.013015294", "6": "0.013014073"}}

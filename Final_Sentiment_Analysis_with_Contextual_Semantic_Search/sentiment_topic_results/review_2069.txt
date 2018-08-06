@@ -1,0 +1,1 @@
+{"text": "was bummed i didn't have these before i bought my dress. could have gone down a whole dress size. wow! what a difference they made. however, after wearing them for about four hours, i was eager to get them off. but no where near as bad as i expected.", "sentiment": "negative", "topics": {"1": "0.5310949", "6": "0.43627948"}}

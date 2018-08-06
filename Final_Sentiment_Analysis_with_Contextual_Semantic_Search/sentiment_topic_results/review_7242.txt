@@ -1,0 +1,1 @@
+{"text": "Great fit, comfortable, especially the transitional extender at the bottom of the feet, this enable my granddaughtger to wear for a little longer.", "sentiment": "negative", "topics": {"0": "0.10079157", "1": "0.50327575", "2": "0.010207327", "3": "0.010223424", "4": "0.15190914", "5": "0.21336646", "6": "0.010226281"}}

@@ -1,0 +1,1 @@
+{"text": "I have to say I am a jewelry fanatic.  Have small hands and it is hard to find pinkie rings for my hands.", "sentiment": "positive", "topics": {"0": "0.31884444", "1": "0.41337806", "2": "0.11543389", "3": "0.013037056", "4": "0.013048158", "5": "0.01301035", "6": "0.113248035"}}

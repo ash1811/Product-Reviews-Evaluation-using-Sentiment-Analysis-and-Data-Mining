@@ -1,0 +1,1 @@
+{"text": "About what we have learned to expect form Lee Jeans, good fit, and quality at a reasonable price. Have been buying these for many years,", "sentiment": "negative", "topics": {"0": "0.1142935", "1": "0.38890165", "2": "0.010211143", "3": "0.010228716", "4": "0.17361936", "5": "0.18754233", "6": "0.11520328"}}

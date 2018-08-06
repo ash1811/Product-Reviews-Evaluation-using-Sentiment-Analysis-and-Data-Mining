@@ -1,0 +1,1 @@
+{"text": "Nice ring and get lots of compliments on it. It's different and thats what I like. I also like the Cross with all the deatil", "sentiment": "negative", "topics": {"0": "0.01024188", "1": "0.26705012", "2": "0.2901768", "3": "0.010240162", "4": "0.21967843", "5": "0.010221482", "6": "0.19239111"}}

@@ -1,0 +1,1 @@
+{"text": "I'm a teacher who stands for much of the day, and these shoes are perfect for getting me through the day...they look sharp and feel like slippers!", "sentiment": "negative", "topics": {"1": "0.30699775", "2": "0.20139346", "4": "0.1127585", "5": "0.11028799", "6": "0.24945225"}}

@@ -1,0 +1,1 @@
+{"text": "The Fit as expected . The color is as expected. The price was much better than brick and mortar stores.", "sentiment": "negative", "topics": {"0": "0.2859031", "1": "0.6490342", "2": "0.013012306", "3": "0.01301483", "4": "0.013006386", "5": "0.013005315", "6": "0.013023871"}}

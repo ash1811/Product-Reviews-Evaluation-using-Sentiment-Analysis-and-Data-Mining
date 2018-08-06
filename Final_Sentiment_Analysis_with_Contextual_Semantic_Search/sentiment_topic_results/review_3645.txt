@@ -1,0 +1,1 @@
+{"text": "I love that this bandana is 100% cotton because I can wear it without my head getting too hot.  Once I wash it it was very soft.", "sentiment": "positive", "topics": {"0": "0.011936544", "1": "0.75632954", "2": "0.01191768", "3": "0.18400191", "4": "0.011951355", "5": "0.01195034", "6": "0.01191259"}}

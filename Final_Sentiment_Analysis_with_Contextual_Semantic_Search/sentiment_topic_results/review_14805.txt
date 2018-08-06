@@ -1,0 +1,1 @@
+{"text": "It oxidizes my jewelry pieces so I don't like it!!All my Jewelry were stained with this product... I was really mad", "sentiment": "negative", "topics": {"0": "0.23657368", "1": "0.23881625", "2": "0.012999335", "3": "0.012996576", "4": "0.012987821", "5": "0.342963", "6": "0.1426633"}}

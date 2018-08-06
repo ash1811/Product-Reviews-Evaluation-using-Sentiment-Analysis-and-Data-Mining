@@ -1,0 +1,1 @@
+{"text": "Comfy and warm. Thick enough soles to walk outside to grab the mail. Robust enough that it should last a long time. Best house shoes I've owned!", "sentiment": "negative", "topics": {"0": "0.08192508", "1": "0.44271213", "2": "0.075437665", "3": "0.25020573", "4": "0.1353818"}}

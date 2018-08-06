@@ -1,0 +1,1 @@
+{"text": "I have been pricing this watch in retail stores for over a year. Last year it was $325.oo and this year it was going for $525.00.  I was able to get if on Amazon for almost half the price and it is the exact watch. Love, Love, Love it!", "sentiment": "negative", "topics": {"1": "0.22570343", "2": "0.18501836", "3": "0.25323293", "4": "0.17777897", "5": "0.1463442"}}

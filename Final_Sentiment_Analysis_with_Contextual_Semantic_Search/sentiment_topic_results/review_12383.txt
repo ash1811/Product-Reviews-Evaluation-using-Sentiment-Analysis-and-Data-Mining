@@ -1,0 +1,1 @@
+{"text": "i already have these flip flops and they are the most comfortable flip flops in the world. stupid me bought the wrong size but that is my fault, not Amazon or the products.", "sentiment": "positive", "topics": {"1": "0.28384882", "2": "0.23051539", "3": "0.12271472", "4": "0.15221289", "5": "0.19162312"}}

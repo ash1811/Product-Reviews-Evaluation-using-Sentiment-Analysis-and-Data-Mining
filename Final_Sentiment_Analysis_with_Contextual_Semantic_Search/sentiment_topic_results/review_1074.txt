@@ -1,0 +1,1 @@
+{"text": "The hat arrived today.  I wear size 7 5/8  so i ordered extra large.  Fit was perfect.  Great hat and price.Made in America.", "sentiment": "positive", "topics": {"0": "0.31103492", "1": "0.15648705", "3": "0.36675757", "5": "0.14043565"}}

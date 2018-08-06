@@ -1,0 +1,1 @@
+{"text": "Larger than what is usually sold in stores. Seems to hold up well after washing and drying. A good bandana.", "sentiment": "positive", "topics": {"0": "0.011931355", "1": "0.40368152", "2": "0.011964657", "3": "0.3001463", "4": "0.24838464", "5": "0.011971814", "6": "0.011919743"}}

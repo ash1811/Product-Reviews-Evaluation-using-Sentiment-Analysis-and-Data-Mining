@@ -1,0 +1,1 @@
+{"text": "does da deedbut got scratched so easily almost cannot read da timejunk.... I smel Chinese Dungjunk.... I smel Chinese Dungjunk.... I smel Chinese Dungjunk.... I smel Chinese Dung", "sentiment": "negative", "topics": {"0": "0.4160115", "1": "0.10984667", "2": "0.061634656", "3": "0.3422014", "4": "0.05783971"}}

@@ -1,0 +1,1 @@
+{"text": "Good work pants, a little thinner material than I am used to getting from store at the mall, but still do the job", "sentiment": "negative", "topics": {"0": "0.011003884", "1": "0.76498663", "2": "0.010994898", "3": "0.011013773", "4": "0.09155997", "5": "0.010996483", "6": "0.09944433"}}

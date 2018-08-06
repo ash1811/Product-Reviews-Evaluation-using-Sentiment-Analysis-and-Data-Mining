@@ -1,0 +1,1 @@
+{"text": "Great way to organize cosmetics and toiletries when travelling.  The hanger allows you to view items easily when getting ready.", "sentiment": "negative", "topics": {"0": "0.053620957", "1": "0.2834842", "2": "0.07279299", "3": "0.21120855", "4": "0.106156595", "5": "0.010223635", "6": "0.2625131"}}

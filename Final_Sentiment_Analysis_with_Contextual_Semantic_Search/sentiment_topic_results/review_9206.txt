@@ -1,0 +1,1 @@
+{"text": "He seems to like them, very warm and comfortable.  Recommend ordering 1/2 size larger than usual, due to the insulation.", "sentiment": "positive", "topics": {"0": "0.010239626", "1": "0.4307401", "2": "0.010255861", "3": "0.31317273", "4": "0.0102462", "5": "0.21510632", "6": "0.010239207"}}

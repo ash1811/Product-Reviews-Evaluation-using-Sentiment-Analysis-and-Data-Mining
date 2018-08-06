@@ -1,0 +1,1 @@
+{"text": "This earrings are very nice, but I cannot believe that it is Swarovski. but I give it a 4.", "sentiment": "positive", "topics": {"0": "0.017917428", "1": "0.70977634", "2": "0.017870288", "3": "0.20073153", "4": "0.017901028", "5": "0.017909728", "6": "0.017893678"}}

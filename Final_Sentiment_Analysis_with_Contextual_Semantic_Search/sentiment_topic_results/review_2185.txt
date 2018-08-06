@@ -1,0 +1,1 @@
+{"text": "excellent quality sneaker and very fair price. We've purchased these in the past and they're the only wide sneaker my husband will wear.", "sentiment": "positive", "topics": {"0": "0.010235357", "1": "0.2611141", "2": "0.13085745", "3": "0.010243132", "4": "0.1467202", "5": "0.43060824", "6": "0.010221493"}}

@@ -1,0 +1,1 @@
+{"text": "This item was also a gift to a young teen who lives several hours from where I live. According to his grandfather, he put it on and is wearing the watch. I may see this young man this summer.", "sentiment": "negative", "topics": {"0": "0.2942466", "1": "0.16132022", "2": "0.1941016", "4": "0.12735297", "6": "0.20865032"}}

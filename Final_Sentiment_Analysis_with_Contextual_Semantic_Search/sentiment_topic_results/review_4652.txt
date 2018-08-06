@@ -1,0 +1,1 @@
+{"text": "I'm a Sperry Top-Sider fan. A great shoe for casual dress or boating activities. Quality, fit, comfort, looks....all there, pure and simple. A great product!", "sentiment": "negative", "topics": {"0": "0.06942022", "1": "0.36518428", "2": "0.059345763", "3": "0.06533077", "4": "0.22040848", "5": "0.079454936", "6": "0.14085558"}}

@@ -1,0 +1,1 @@
+{"text": "I have a very narrow foot and these slippers don't fit the best but I kept them anyway. Too much of a hassle to return them after hip replacement surgery.", "sentiment": "positive", "topics": {"0": "0.010214833", "1": "0.4990318", "2": "0.16547385", "3": "0.010210703", "4": "0.15366696", "5": "0.010221066", "6": "0.15118077"}}

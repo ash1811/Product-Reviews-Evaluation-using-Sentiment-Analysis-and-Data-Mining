@@ -1,0 +1,1 @@
+{"text": "What I was looking for was a hat that looked good and would afford protection from the sun when doing outside home projects or hiking.  Liked this one so much I ordered another.", "sentiment": "positive", "topics": {"0": "0.08680944", "1": "0.5115011", "3": "0.17059349", "5": "0.100165255", "6": "0.11496658"}}

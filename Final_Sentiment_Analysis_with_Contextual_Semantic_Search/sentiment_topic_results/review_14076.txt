@@ -1,0 +1,1 @@
+{"text": "I usually wear size Large..I'm 5'9 150lb. I got XL and it fits perfect, super cute..I love it. The strings do come loose but I'm only wearing it once.  The price was right and delivery was quick", "sentiment": "negative", "topics": {"0": "0.07749391", "1": "0.46978858", "2": "0.10322313", "4": "0.061496478", "6": "0.27652267"}}

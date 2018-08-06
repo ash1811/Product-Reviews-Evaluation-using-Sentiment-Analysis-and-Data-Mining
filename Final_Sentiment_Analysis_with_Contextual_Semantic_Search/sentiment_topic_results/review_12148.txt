@@ -1,0 +1,1 @@
+{"text": "Great sox. I have worn these exclusively since sometime in the last century.  I wear a brace on left leg/ankle and I wear these all year around.  Very hard to wear these out.", "sentiment": "positive", "topics": {"0": "0.18017669", "1": "0.21004657", "2": "0.21874699", "5": "0.24345331", "6": "0.13248537"}}

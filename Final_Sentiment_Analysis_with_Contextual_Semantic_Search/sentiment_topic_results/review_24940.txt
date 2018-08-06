@@ -1,0 +1,1 @@
+{"text": "They just did not feel comfortable.  It was like the arch started under my heel. So it was not enough support toward the front of my foot. Sending them back.", "sentiment": "negative", "topics": {"0": "0.13586311", "1": "0.13652618", "2": "0.10107605", "3": "0.4341669", "4": "0.010275565", "5": "0.17184758", "6": "0.01024462"}}

@@ -1,0 +1,1 @@
+{"text": "This watch looks more expensive than it is. I bought it to use when I don't want to take my expensive watch, and I wasn't disappointed on the looks. It's a beautiful watch.", "sentiment": "negative", "topics": {"1": "0.42333442", "2": "0.29585928", "3": "0.16084498", "4": "0.09127275"}}

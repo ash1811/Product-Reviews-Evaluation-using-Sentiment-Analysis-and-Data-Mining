@@ -1,0 +1,1 @@
+{"text": "These were a fair pair of stockings for the price.  They are not quite as sheer as I had hoped but they fit OK and look OK.  I have these in 2 shades black and natural.  I am not sure I would buy more but I will wear the ones I have.", "sentiment": "positive", "topics": {"0": "0.08787859", "1": "0.38601598", "2": "0.081272826", "3": "0.14795545", "4": "0.28385162"}}

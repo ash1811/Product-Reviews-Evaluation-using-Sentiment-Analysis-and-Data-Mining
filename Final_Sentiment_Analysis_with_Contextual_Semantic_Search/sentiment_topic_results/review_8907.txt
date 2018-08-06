@@ -1,0 +1,1 @@
+{"text": "I love these sneakers. I love that they slip on to put on and take off easily. I just wish they made them in black too. Great product", "sentiment": "negative", "topics": {"0": "0.20447518", "1": "0.20714949", "2": "0.16860783", "3": "0.010268516", "4": "0.010271331", "5": "0.389011", "6": "0.010216643"}}

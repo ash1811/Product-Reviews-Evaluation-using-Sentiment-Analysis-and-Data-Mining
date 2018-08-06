@@ -1,0 +1,1 @@
+{"text": "I have no complaints about these trouser socks.  They are comfortable, stay up well, and I plan on purchasing more of them in the future.", "sentiment": "negative", "topics": {"0": "0.0143246185", "1": "0.3282742", "2": "0.014299819", "3": "0.014331912", "4": "0.28449365", "5": "0.32995635", "6": "0.01431943"}}

@@ -1,0 +1,1 @@
+{"text": "I wore these almost daily, as fast as I could wash them and get them back on. I've never owned socks this comfortable. Worth every penny spent on them!", "sentiment": "positive", "topics": {"0": "0.09328966", "1": "0.09849217", "2": "0.19060709", "3": "0.13016139", "5": "0.41296878", "6": "0.06731633"}}

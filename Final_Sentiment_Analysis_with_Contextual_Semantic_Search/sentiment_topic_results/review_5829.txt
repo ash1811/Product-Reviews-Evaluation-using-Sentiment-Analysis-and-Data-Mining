@@ -1,0 +1,1 @@
+{"text": "nice price, good quality, fits nicely, I am a tall guy, slim, the extra large is perfect. highly recommend. good product", "sentiment": "negative", "topics": {"1": "0.5561108", "4": "0.20299898", "5": "0.2072252"}}

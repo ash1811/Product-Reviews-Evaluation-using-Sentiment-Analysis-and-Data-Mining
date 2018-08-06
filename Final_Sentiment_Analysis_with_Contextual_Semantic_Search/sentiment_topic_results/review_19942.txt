@@ -1,0 +1,1 @@
+{"text": "Lots of pockets. Fits everything nicely and is very roomy. Glad to finally have a pocket for my laptop. This is a great backpack.", "sentiment": "negative", "topics": {"0": "0.10030156", "1": "0.5491823", "2": "0.20853855", "3": "0.011006705", "4": "0.108887784", "5": "0.011042441", "6": "0.011040688"}}

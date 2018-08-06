@@ -1,0 +1,1 @@
+{"text": "Nicely sized watch with easy to read analog face and variety of digital settings.  Digital readout is small and somewhat difficult to read.", "sentiment": "positive", "topics": {"2": "0.33256626", "3": "0.34434715", "6": "0.2893048"}}

@@ -1,0 +1,1 @@
+{"text": "They are Levi 501 's, there's no reason to have or want other jeans. Perfect fit and a perfect look.", "sentiment": "negative", "topics": {"0": "0.011970743", "1": "0.69423664", "2": "0.011929847", "3": "0.011934187", "4": "0.01196863", "5": "0.15019478", "6": "0.1077652"}}

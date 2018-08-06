@@ -1,0 +1,1 @@
+{"text": "it's soft and fluffy inside of the slipper, and also cute. but it's a little bit small, usually i wear size 8, but size 9 for this slipper is a little bit small for me..", "sentiment": "negative", "topics": {"0": "0.071059346", "1": "0.2794793", "3": "0.36477053", "4": "0.065859064", "6": "0.2051853"}}

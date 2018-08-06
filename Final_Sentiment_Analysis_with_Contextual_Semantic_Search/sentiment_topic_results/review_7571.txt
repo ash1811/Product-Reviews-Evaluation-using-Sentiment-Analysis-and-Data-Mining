@@ -1,0 +1,1 @@
+{"text": "Well made, fits perfect, can dress it up with some white slacks or tan or brown wranglers.  One of my new favorite shirts.  Highly recommend.", "sentiment": "negative", "topics": {"1": "0.6553568", "3": "0.07744359", "5": "0.10068944", "6": "0.14121798"}}

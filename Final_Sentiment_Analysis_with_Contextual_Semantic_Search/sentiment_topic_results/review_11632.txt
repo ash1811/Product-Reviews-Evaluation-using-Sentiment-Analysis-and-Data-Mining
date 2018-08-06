@@ -1,0 +1,1 @@
+{"text": "Overall materials are good quality and well put together, but the clips do not stay closed. Makes the whole think useless.", "sentiment": "positive", "topics": {"0": "0.29580432", "1": "0.516478", "2": "0.14942916"}}

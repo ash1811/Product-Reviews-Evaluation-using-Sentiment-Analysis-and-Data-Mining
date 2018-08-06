@@ -1,0 +1,1 @@
+{"text": "I bought this for my friend's three year old daughter and she absolutely adored it. It's been about a month since then and my friend said her daughter still can't leave the house without it! For the money, this gift is perfect!", "sentiment": "negative", "topics": {"0": "0.24504782", "2": "0.06570891", "3": "0.35572815", "4": "0.067287415", "5": "0.25428954"}}

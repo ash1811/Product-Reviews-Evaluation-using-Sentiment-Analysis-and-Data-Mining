@@ -1,0 +1,1 @@
+{"text": "Seems to be standard. Not poorly made, but not great either. Does the job, Im sure it will make my kid happy", "sentiment": "positive", "topics": {"0": "0.011010551", "1": "0.40245965", "2": "0.23622712", "3": "0.1276462", "4": "0.011011168", "5": "0.119628996", "6": "0.09201629"}}

@@ -1,0 +1,1 @@
+{"text": "True to size, soft and very comfortable, The weathered denim makes this wonderful hat feel like an old favorite right out of the box!", "sentiment": "positive", "topics": {"1": "0.32131734", "3": "0.34971067", "4": "0.17960702", "6": "0.122509025"}}

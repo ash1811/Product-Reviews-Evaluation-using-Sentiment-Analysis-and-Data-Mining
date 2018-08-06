@@ -1,0 +1,1 @@
+{"text": "I just received this jeans, it's quite fit for me! looking is good ,i will buy more !!!!!NEED MORE LEVI'S JEANS", "sentiment": "negative", "topics": {"0": "0.0110254325", "1": "0.45986703", "2": "0.010999253", "3": "0.011041028", "4": "0.011015694", "5": "0.3271173", "6": "0.16893424"}}

@@ -1,0 +1,1 @@
+{"text": "ordered them as a gift for my wife and she is very happy with them.  i did order them a full size larger than she normally wears, and i was happy that i did", "sentiment": "negative", "topics": {"0": "0.639649", "1": "0.118587315", "2": "0.011012981", "3": "0.19768707", "4": "0.011024413", "5": "0.011018975", "6": "0.011020306"}}

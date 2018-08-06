@@ -1,0 +1,1 @@
+{"text": "Quality shirt with a pocket. Fabric is quite thick.Tends to run large so I will buy the next size down when I purchase again.", "sentiment": "positive", "topics": {"0": "0.0102211675", "1": "0.5077836", "2": "0.010230941", "3": "0.14941749", "4": "0.010251204", "5": "0.17416236", "6": "0.13793324"}}

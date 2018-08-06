@@ -1,0 +1,1 @@
+{"text": "Like other Baggallini products, this is well organized, with many pockets and zippers to keep you organized.", "sentiment": "positive", "topics": {"0": "0.013014981", "1": "0.013075174", "2": "0.013019437", "3": "0.20758885", "4": "0.094397046", "5": "0.19630688", "6": "0.46259767"}}

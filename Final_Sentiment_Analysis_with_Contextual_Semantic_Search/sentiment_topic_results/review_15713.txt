@@ -1,0 +1,1 @@
+{"text": "Very comfortable with great fit. A bit expensive so value is lower but nice. Very comfy feel and stretchy fit", "sentiment": "negative", "topics": {"0": "0.011046419", "1": "0.62781894", "2": "0.21562679", "3": "0.011039808", "4": "0.011024268", "5": "0.011033198", "6": "0.112410635"}}

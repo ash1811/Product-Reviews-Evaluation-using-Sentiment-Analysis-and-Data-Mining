@@ -1,0 +1,1 @@
+{"text": "These are the only jeans I wear nowadays because they fit perfect for my legs. Powerlifting gave me powerful glutes that can only be contained by the finest of jean.", "sentiment": "negative", "topics": {"0": "0.13121255", "1": "0.23131368", "2": "0.010225638", "3": "0.14512137", "4": "0.010229205", "5": "0.17628859", "6": "0.295609"}}

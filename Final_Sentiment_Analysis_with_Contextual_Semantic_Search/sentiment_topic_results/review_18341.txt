@@ -1,0 +1,1 @@
+{"text": "It's a little bit big for my son, because I want to make sure it will fit so I ordered 1/2 size bigger. But the Shoes came in so classy look and very good price, I love it.", "sentiment": "positive", "topics": {"0": "0.22420913", "1": "0.33912888", "2": "0.12312659", "3": "0.29307723"}}

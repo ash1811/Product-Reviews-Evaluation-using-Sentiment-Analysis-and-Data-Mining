@@ -1,0 +1,1 @@
+{"text": "My husband has worn this Lee jean model for years. I purchased three pairs in different colors as a Valentine gift; he was delighted.  Good value on Amazon, too.", "sentiment": "positive", "topics": {"0": "0.117957115", "1": "0.15671092", "3": "0.11872116", "4": "0.13733204", "5": "0.2505551", "6": "0.21118869"}}

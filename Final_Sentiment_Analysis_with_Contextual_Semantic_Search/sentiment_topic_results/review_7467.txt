@@ -1,0 +1,1 @@
+{"text": "I bought this for my girlfriend and she looked sexy as hell in it.  100% guaranteed to make your man happy, ladies.", "sentiment": "negative", "topics": {"0": "0.31304154", "1": "0.18754163", "2": "0.09769159", "3": "0.14013767", "4": "0.23956583", "5": "0.011028073", "6": "0.01099368"}}

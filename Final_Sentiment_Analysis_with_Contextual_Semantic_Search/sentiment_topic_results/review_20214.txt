@@ -1,0 +1,1 @@
+{"text": "Firstly, we loved that our son wanted to go as the Flash.  He was the only one we saw this last Halloween.  We also got him the Captain America costume because they were so inexpensive.", "sentiment": "negative", "topics": {"0": "0.32933924", "1": "0.3553516", "4": "0.2815156"}}

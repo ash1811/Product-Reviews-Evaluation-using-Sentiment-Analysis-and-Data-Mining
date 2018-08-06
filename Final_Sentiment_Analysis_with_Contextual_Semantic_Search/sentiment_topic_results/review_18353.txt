@@ -1,0 +1,1 @@
+{"text": "Now is this not a strong pair of shoe? It is. My son absolutely loves it. Have to get another pair.", "sentiment": "negative", "topics": {"0": "0.011947412", "1": "0.2886741", "2": "0.25503874", "3": "0.40845555", "4": "0.01197442", "5": "0.011946966", "6": "0.011962795"}}

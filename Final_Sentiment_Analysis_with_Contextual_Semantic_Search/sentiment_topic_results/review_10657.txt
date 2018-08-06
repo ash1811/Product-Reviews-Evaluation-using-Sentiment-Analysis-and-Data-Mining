@@ -1,0 +1,1 @@
+{"text": "Simple and well made.  They look elegant.  Easy to put in and the perfect size to replace a pair I had lost.", "sentiment": "negative", "topics": {"0": "0.011013906", "1": "0.55124074", "2": "0.011029001", "3": "0.011038423", "4": "0.011031872", "5": "0.011022011", "6": "0.39362404"}}

@@ -1,0 +1,1 @@
+{"text": "I could have just as easily given them (both of them) 5 stars, but they're just socks after all. Kind of hard to rate other than they fit, feel comfortable and look good. But I guess I don't generally love clothing. It just does its job.", "sentiment": "negative", "topics": {"0": "0.14739534", "1": "0.38750142", "3": "0.1432769", "4": "0.114490956", "5": "0.19533944"}}

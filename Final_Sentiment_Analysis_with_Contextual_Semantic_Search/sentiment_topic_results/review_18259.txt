@@ -1,0 +1,1 @@
+{"text": "This watch is much more than I expected, has all the functions you want and it is VERY NICE. SIZE is perfectly in line with my arm and looks very elegant. THE BEST", "sentiment": "negative", "topics": {"0": "0.010228431", "1": "0.6318464", "2": "0.12381208", "3": "0.010245146", "4": "0.010222482", "5": "0.010214706", "6": "0.20343074"}}

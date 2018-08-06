@@ -1,0 +1,1 @@
+{"text": "I returned these. The red color was great but the shape of the toe was just a little weird. I don't think the sweetheart shape goes very well with the long squared off toe.", "sentiment": "negative", "topics": {"1": "0.5672653", "2": "0.08363153", "3": "0.24464066", "4": "0.080602504"}}

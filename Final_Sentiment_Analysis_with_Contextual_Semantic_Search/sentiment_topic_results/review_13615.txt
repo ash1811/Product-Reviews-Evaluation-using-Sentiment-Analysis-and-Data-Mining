@@ -1,0 +1,1 @@
+{"text": "I really enjoy using my top siders. Really good materials and my feet really enjoy the day. Thank you guys.", "sentiment": "negative", "topics": {"0": "0.17097233", "1": "0.37668076", "2": "0.092757955", "3": "0.11556027", "4": "0.22488631"}}

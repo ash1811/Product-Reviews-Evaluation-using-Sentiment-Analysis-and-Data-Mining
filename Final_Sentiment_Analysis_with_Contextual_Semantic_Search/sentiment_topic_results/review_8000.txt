@@ -1,0 +1,1 @@
+{"text": "These are so cozy and supportive. I have been a full time dance teacher 20-30 hrs in the studio per week, and these were not only super comfortable, but high quality and durable as well.", "sentiment": "positive", "topics": {"0": "0.119924866", "1": "0.3954669", "2": "0.15061718", "3": "0.08797592", "4": "0.06820292", "6": "0.16986737"}}

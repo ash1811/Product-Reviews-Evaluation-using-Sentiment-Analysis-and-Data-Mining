@@ -1,0 +1,1 @@
+{"text": "My son loved this. Warm, sturdy and the color is bright and vibrant. Will be purchasing Carhartt branded items. Quality is very good.", "sentiment": "negative", "topics": {"1": "0.62189364", "2": "0.16127418", "6": "0.1786651"}}

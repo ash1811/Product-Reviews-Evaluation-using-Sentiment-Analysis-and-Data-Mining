@@ -1,0 +1,1 @@
+{"text": "Size 5 is not always easy to find, so I will keep them even though I'd like a little snugger fit.  The quality is very good.", "sentiment": "positive", "topics": {"1": "0.41546068", "3": "0.40661287", "5": "0.14202572"}}

@@ -1,0 +1,1 @@
+{"text": "It's ok to put many cards inside. But the pocket for money is too small. I'm a little disappointed for it.", "sentiment": "negative", "topics": {"0": "0.01102679", "1": "0.40889353", "2": "0.16077684", "3": "0.26315585", "4": "0.13408162", "5": "0.011055196", "6": "0.011010184"}}

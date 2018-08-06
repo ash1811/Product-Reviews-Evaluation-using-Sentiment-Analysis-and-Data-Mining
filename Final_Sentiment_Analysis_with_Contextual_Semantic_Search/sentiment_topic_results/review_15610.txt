@@ -1,0 +1,1 @@
+{"text": "This is a good deal for this costume.  It's going for much more money on other websites.  My son is 7, wears size 7 tops and jeans.  I ordered the medium sized costume and it fit perfectly!", "sentiment": "negative", "topics": {"0": "0.28419036", "1": "0.28474438", "3": "0.40377054"}}

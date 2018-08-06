@@ -1,0 +1,1 @@
+{"text": "Although it was bigger than what I needed, it's an amazing back and very well made.  Perfect for work/gym/travel. Very stylish and also lots of room.", "sentiment": "positive", "topics": {"0": "0.010223827", "1": "0.47963184", "2": "0.010228196", "3": "0.010234142", "4": "0.35820326", "5": "0.010229014", "6": "0.12124971"}}

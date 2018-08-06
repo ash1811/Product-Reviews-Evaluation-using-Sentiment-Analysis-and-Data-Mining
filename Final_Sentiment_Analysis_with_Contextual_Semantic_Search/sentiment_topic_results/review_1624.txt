@@ -1,0 +1,1 @@
+{"text": "5'8&#34; 200lbs 42dd and the xl fits the way it's supposed to.  You have to adjust your undies and bra over it and then you're good to go make sure to pull it up back under the shoulder blades so you don't spill over.", "sentiment": "positive", "topics": {"1": "0.32727507", "2": "0.22476105", "3": "0.12882921", "5": "0.1962379", "6": "0.10986627"}}

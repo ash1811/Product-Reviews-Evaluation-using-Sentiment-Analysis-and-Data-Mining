@@ -1,0 +1,1 @@
+{"text": "I wore this very nice white tie with a dark blue dress shirt and black slacks. Needless to say it looked very nice.Recommend.", "sentiment": "negative", "topics": {"0": "0.13666497", "1": "0.24603614", "3": "0.15776898", "5": "0.24100499", "6": "0.1994145"}}

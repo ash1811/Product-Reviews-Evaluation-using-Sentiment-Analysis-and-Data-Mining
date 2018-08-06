@@ -1,0 +1,1 @@
+{"text": "this 2 pocket pouch helps me carry extra ammo on my runs and chases when i am at work, and allows me also carry my dogs treats also", "sentiment": "negative", "topics": {"0": "0.26181942", "1": "0.13925517", "3": "0.098352805", "4": "0.27859303", "5": "0.13294007", "6": "0.08062354"}}

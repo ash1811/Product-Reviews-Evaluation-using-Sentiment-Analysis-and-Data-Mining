@@ -1,0 +1,1 @@
+{"text": "I like this watch, it is easy on the eyes, easy to put on, don't have to worry about the band stretching.", "sentiment": "positive", "topics": {"0": "0.3243806", "1": "0.013015086", "2": "0.20864627", "3": "0.0130206775", "4": "0.013047415", "5": "0.013033334", "6": "0.41485664"}}

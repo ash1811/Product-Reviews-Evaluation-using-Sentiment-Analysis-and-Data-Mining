@@ -1,0 +1,1 @@
+{"text": "These do not stay up at all, I am plus size, but my legs are pretty normal size and these roll down again and again.  Flawed design, go back to the drawing board.", "sentiment": "positive", "topics": {"0": "0.13058038", "1": "0.24324936", "3": "0.2341682", "4": "0.19565006", "6": "0.17946799"}}

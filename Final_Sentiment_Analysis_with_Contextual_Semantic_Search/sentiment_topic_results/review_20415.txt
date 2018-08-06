@@ -1,0 +1,1 @@
+{"text": "I haven't had a chance to use these, but I do have a few affairs that I have to attend, so I will probably get back to ya on these.", "sentiment": "positive", "topics": {"0": "0.013089604", "1": "0.3522148", "2": "0.34567115", "3": "0.013041213", "4": "0.013034516", "5": "0.24991836", "6": "0.013030371"}}

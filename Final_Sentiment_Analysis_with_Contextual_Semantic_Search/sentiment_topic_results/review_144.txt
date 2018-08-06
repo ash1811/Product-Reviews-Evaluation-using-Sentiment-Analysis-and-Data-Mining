@@ -1,0 +1,1 @@
+{"text": "Comfortable, but shrinks. If it is dried low heat and washed cool I assume it would not shrink.  Would buy again", "sentiment": "negative", "topics": {"0": "0.011033899", "1": "0.67544156", "2": "0.011003001", "3": "0.011026535", "4": "0.18362793", "5": "0.096854806", "6": "0.011012307"}}

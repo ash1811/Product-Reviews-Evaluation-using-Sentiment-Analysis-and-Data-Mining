@@ -1,0 +1,1 @@
+{"text": "These tees are light and easy to wash.  They are great for our warm weather.They arrived promptly.You can't have too many tees.", "sentiment": "positive", "topics": {"0": "0.24630196", "1": "0.3545633", "2": "0.010995458", "3": "0.011005466", "4": "0.35508075", "5": "0.01103161", "6": "0.0110214995"}}

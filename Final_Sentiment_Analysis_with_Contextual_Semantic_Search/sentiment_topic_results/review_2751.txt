@@ -1,0 +1,1 @@
+{"text": "I love Keds but they were a little tight fitting and once I washed them forget about it. My daughter now wears them.", "sentiment": "negative", "topics": {"0": "0.011952498", "1": "0.2740285", "2": "0.011935525", "3": "0.5385246", "4": "0.13963453", "5": "0.011959206", "6": "0.0119651"}}

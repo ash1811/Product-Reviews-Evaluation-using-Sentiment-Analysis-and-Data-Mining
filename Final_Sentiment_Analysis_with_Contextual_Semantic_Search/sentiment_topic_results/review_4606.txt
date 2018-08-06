@@ -1,0 +1,1 @@
+{"text": "Great jeans, perfect fit and plenty of pockets and places to carry my glass case. Very durable and sharp looking.", "sentiment": "negative", "topics": {"0": "0.010249591", "1": "0.60496664", "2": "0.21766879", "3": "0.010244082", "4": "0.13635783", "5": "0.010302173", "6": "0.010210839"}}

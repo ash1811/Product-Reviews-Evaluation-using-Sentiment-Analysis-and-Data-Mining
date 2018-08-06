@@ -1,0 +1,1 @@
+{"text": "These are very good quality overshoes.  I bought the large and wear a 10.5 and found them a good fit.  Delivery quick and price reasonable.", "sentiment": "positive", "topics": {"0": "0.19536838", "1": "0.48565242", "4": "0.21335168", "6": "0.07699941"}}

@@ -1,0 +1,1 @@
+{"text": "It's a Casio, so I know it will last.  Just a little disappointed in the weight. I like heavier watches, and this is pretty lightweight.", "sentiment": "negative", "topics": {"0": "0.01197261", "1": "0.011957201", "2": "0.14211272", "3": "0.15781249", "4": "0.0119258985", "5": "0.38282755", "6": "0.28139153"}}

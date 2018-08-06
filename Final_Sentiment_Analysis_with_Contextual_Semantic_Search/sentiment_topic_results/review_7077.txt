@@ -1,0 +1,1 @@
+{"text": "the bra fits good, it don't bind me in any way, it give me the support i need for a bra", "sentiment": "negative", "topics": {"0": "0.014322488", "1": "0.28603068", "2": "0.014347887", "3": "0.53213155", "4": "0.014309928", "5": "0.014307695", "6": "0.12454977"}}

@@ -1,0 +1,1 @@
+{"text": "I gave this product a 5 because they are what they are! Cheap and comfy. I didn't need anything other than extra workout at home shorts and they work for that purpose. No pockets but I don't need them.", "sentiment": "positive", "topics": {"0": "0.11105596", "2": "0.29956815", "3": "0.16453813", "5": "0.17578413", "6": "0.2331278"}}

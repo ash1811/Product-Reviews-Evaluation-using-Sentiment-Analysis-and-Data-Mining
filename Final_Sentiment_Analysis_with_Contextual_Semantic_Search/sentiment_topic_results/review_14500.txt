@@ -1,0 +1,1 @@
+{"text": "I got these in steel gray.  They are so comfortable.  I have several pairs of Birkenstocks.", "sentiment": "negative", "topics": {"0": "0.017870799", "1": "0.4044538", "2": "0.017887646", "3": "0.017968256", "4": "0.017919581", "5": "0.20690171", "6": "0.31699818"}}

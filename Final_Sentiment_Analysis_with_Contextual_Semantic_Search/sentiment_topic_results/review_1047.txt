@@ -1,0 +1,1 @@
+{"text": "The quality of the item is fine but there are 2 different sizes in one package of three.  How can you reorder with that kind of inconsistency?  No way would I recommend this to anyone.", "sentiment": "negative", "topics": {"0": "0.32440683", "1": "0.08194081", "2": "0.30567002", "3": "0.14847738", "6": "0.122659475"}}

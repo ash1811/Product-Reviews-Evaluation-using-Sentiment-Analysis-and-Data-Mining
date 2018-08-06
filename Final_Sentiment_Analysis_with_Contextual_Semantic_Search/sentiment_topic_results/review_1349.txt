@@ -1,0 +1,1 @@
+{"text": "Sandals were very nice however totally different fit from the 3 pairs of Keens I already own. Very disappointed. Love Keens and will stick with models I own.", "sentiment": "negative", "topics": {"1": "0.2681501", "2": "0.23963809", "3": "0.23026164", "6": "0.23806126"}}

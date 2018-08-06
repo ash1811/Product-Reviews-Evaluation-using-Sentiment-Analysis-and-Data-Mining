@@ -1,0 +1,1 @@
+{"text": "This shoe ia cute and holds my foot a bit more than the regular flip flop, that I also have and like. It has the expected Revamp quality.", "sentiment": "positive", "topics": {"1": "0.19877961", "2": "0.173738", "3": "0.34128475", "4": "0.13960429", "6": "0.12751074"}}

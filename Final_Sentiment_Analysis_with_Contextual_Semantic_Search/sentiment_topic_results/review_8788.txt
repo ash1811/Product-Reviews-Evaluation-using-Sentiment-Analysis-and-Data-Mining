@@ -1,0 +1,1 @@
+{"text": "hard to find socks for larger men's feet - found here!  they are midweight, so good for winter, though not for spring.", "sentiment": "positive", "topics": {"0": "0.23975089", "1": "0.1346103", "2": "0.010225067", "3": "0.010219321", "4": "0.36502418", "5": "0.2299645", "6": "0.01020572"}}

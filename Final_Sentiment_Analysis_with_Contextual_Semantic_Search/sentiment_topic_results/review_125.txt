@@ -1,0 +1,1 @@
+{"text": "He wears it all the time and really likes it. I've washed it several times and haven't noticed any shrinking or fading. Good value!", "sentiment": "positive", "topics": {"3": "0.18226533", "4": "0.1962602", "5": "0.5831837"}}

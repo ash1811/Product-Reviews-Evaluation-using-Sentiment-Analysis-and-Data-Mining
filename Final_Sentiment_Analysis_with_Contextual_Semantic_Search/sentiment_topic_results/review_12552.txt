@@ -1,0 +1,1 @@
+{"text": "Would definitely buy again. The fit was snug initially, but after wearing a few times they are just right. The sole is very soft, but supportive.", "sentiment": "negative", "topics": {"0": "0.010236443", "1": "0.41075096", "2": "0.010214973", "3": "0.26968917", "4": "0.010277627", "5": "0.12710126", "6": "0.1617296"}}

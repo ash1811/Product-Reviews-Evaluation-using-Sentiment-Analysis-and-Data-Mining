@@ -1,0 +1,1 @@
+{"text": "These are the real deal. I used them to replace the insoles in my Minnetonka moccasin slippers. Made them just like new. I've purchased others that were thinner and not as dense. You get what you pay for. These are great.", "sentiment": "positive", "topics": {"1": "0.319706", "3": "0.21827668", "4": "0.16925679", "5": "0.07444194", "6": "0.20464325"}}

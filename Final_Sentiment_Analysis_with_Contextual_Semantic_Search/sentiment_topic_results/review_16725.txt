@@ -1,0 +1,1 @@
+{"text": "Holding up well, and very comfortable on the feet. This is my second pair of these, the last ones held up for two years and considering the abuse they get I think that's pretty good.", "sentiment": "negative", "topics": {"1": "0.5778772", "3": "0.09366716", "4": "0.29976994"}}

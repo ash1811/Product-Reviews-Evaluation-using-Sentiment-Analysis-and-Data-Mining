@@ -1,0 +1,1 @@
+{"text": "Dad loves these shoes and can actually get them on and off mostly by himself.  Can't go wrong with these for someone who is debilitated...", "sentiment": "negative", "topics": {"0": "0.011016091", "1": "0.36745945", "2": "0.34304628", "3": "0.1574552", "4": "0.011059225", "5": "0.011046825", "6": "0.09891697"}}

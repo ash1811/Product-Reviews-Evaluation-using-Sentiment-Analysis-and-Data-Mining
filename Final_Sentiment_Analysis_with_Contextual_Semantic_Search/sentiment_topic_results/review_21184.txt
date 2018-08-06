@@ -1,0 +1,1 @@
+{"text": "My mom is 90 years old and these shoes are very good for her, because they keep my mom's feet warm and comfortable and have non-slip soles excellent!", "sentiment": "negative", "topics": {"0": "0.26614422", "1": "0.3155456", "2": "0.14718428", "4": "0.2442862"}}

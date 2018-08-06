@@ -1,0 +1,1 @@
+{"text": "This t shirt is roomy.  Itis a heavier material than most t shirts that I have found lately.  My husband likes it and that is all that counts.", "sentiment": "positive", "topics": {"0": "0.011938311", "1": "0.012020781", "2": "0.01191787", "3": "0.011922764", "4": "0.33937487", "5": "0.18022025", "6": "0.43260512"}}

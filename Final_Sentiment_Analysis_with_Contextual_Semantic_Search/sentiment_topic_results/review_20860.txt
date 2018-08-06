@@ -1,0 +1,1 @@
+{"text": "I absolutely LOVE these sandals. They go with most of my outfits and they're are super soft! I have almost every color!", "sentiment": "positive", "topics": {"0": "0.011951257", "1": "0.5022126", "2": "0.25995988", "3": "0.011921578", "4": "0.19006106", "5": "0.011975639", "6": "0.011918043"}}

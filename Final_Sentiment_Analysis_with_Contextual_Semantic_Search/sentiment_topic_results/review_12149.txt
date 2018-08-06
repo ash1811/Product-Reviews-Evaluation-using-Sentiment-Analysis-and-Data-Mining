@@ -1,0 +1,1 @@
+{"text": "I'm on my feet all day wearing boots and walking on concrete or tile. The hiker socks were like wearing a thick cushion all around my feet. Very comfortable! I like all the Wigwam socks so far.", "sentiment": "negative", "topics": {"0": "0.12150525", "1": "0.13415384", "2": "0.14826404", "4": "0.13535474", "5": "0.33892453", "6": "0.11529049"}}

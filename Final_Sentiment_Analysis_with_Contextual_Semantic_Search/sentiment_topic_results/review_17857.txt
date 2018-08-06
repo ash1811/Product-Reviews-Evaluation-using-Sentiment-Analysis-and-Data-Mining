@@ -1,0 +1,1 @@
+{"text": "The price was so low that I wasn't expecting much but I was surprised how nice it is. I wear it nearly every day and it still looks brand new.", "sentiment": "negative", "topics": {"1": "0.4864682", "3": "0.35909468", "6": "0.11855089"}}

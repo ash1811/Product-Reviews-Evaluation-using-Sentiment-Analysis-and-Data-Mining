@@ -1,0 +1,1 @@
+{"text": "I didn't realize that I was suppose to purchase a whole size down, gave them to someone else and now they don't have my size anymore=-(", "sentiment": "positive", "topics": {"0": "0.011940462", "1": "0.011965594", "2": "0.11899675", "3": "0.29068232", "4": "0.3962613", "5": "0.15819094", "6": "0.011962608"}}

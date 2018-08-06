@@ -1,0 +1,1 @@
+{"text": "Love this product!  It has saved a lot of my shoes!  This will stop the problem where you step out of shoes, or when your heel slides up and out of shoes when you take a step.", "sentiment": "negative", "topics": {"1": "0.1132147", "2": "0.49126858", "5": "0.35724077"}}

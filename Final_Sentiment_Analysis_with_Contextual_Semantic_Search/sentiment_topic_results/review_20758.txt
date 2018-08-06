@@ -1,0 +1,1 @@
+{"text": "Ordered these for my Son, and he is very pleased with them.  They fit tailored to his body and he loves the V neck since he has to wear a Tie to work.  They wash well too and look nice.", "sentiment": "negative", "topics": {"1": "0.6043686", "3": "0.13794519", "4": "0.10115608", "6": "0.13390285"}}

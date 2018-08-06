@@ -1,0 +1,1 @@
+{"text": "Again another fine Carhartt product  Comfortable fit and of course a stand out color It took a bit longer to receive but It fits well and I am pleased with the product", "sentiment": "negative", "topics": {"1": "0.588587", "2": "0.13129751", "5": "0.24826646"}}

@@ -1,0 +1,1 @@
+{"text": "The other reviews were right--Docs are not as comfortable as they were back when I wore them in high school. The leather looks cheaper, and it's taking longer to break them in.", "sentiment": "positive", "topics": {"1": "0.34876975", "2": "0.37278774", "5": "0.24017082"}}

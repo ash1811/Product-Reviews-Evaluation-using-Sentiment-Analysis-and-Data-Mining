@@ -1,0 +1,1 @@
+{"text": "my husband loves this hat. We have bought these for the last 10 years. they hold up well and fit great.", "sentiment": "negative", "topics": {"0": "0.011927436", "1": "0.32233533", "2": "0.011911717", "3": "0.21953446", "4": "0.41043976", "5": "0.01194606", "6": "0.011905182"}}

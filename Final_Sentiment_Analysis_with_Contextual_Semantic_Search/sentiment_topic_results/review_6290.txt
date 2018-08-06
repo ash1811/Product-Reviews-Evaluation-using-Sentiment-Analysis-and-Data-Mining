@@ -1,0 +1,1 @@
+{"text": "I gave this five stars because this design will never go out of style!! great for men and women for any occasion!!", "sentiment": "negative", "topics": {"0": "0.011947869", "1": "0.66936904", "2": "0.27084082", "3": "0.011934227", "4": "0.0119959945", "5": "0.01198388", "6": "0.01192811"}}

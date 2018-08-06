@@ -1,0 +1,1 @@
+{"text": "After repeatd buying of disposable sandals at Payless, I decided to get her a pair of good and comfortable sandals! She loves them!", "sentiment": "negative", "topics": {"0": "0.010254964", "1": "0.5122345", "2": "0.13737668", "3": "0.010266253", "4": "0.16382143", "5": "0.010231751", "6": "0.15581444"}}

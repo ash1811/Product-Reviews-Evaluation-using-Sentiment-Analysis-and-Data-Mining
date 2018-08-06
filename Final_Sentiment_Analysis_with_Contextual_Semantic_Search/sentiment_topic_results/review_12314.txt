@@ -1,0 +1,1 @@
+{"text": "This is my second pair, they fit great for sports. They stay in ace when I work out. The material is nice n thick but breathable. They last a really long time too, had my first ones for over five years now n they still look new.", "sentiment": "negative", "topics": {"1": "0.6165336", "3": "0.28504974", "5": "0.07789943"}}

@@ -1,0 +1,1 @@
+{"text": "I wanted a simple / cheap watch to beep every hour (trying to do that lucid dreaming where you use the beeps to check to see if you're sleeping... Still trying :)", "sentiment": "negative", "topics": {"2": "0.13056098", "3": "0.26029912", "4": "0.28625146", "5": "0.10593323", "6": "0.20103864"}}

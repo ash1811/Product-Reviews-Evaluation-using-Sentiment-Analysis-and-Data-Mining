@@ -1,0 +1,1 @@
+{"text": "Bought for birthday. She looks so cute. Very girly. A good price and are wearing well. Chain is removable. Very chic!", "sentiment": "negative", "topics": {"0": "0.011025169", "1": "0.47028655", "2": "0.09807594", "3": "0.01101927", "4": "0.19426055", "5": "0.20428744", "6": "0.011045111"}}

@@ -1,0 +1,1 @@
+{"text": "This is my third one and it's very classy that you can wear with just about anything. This is an all time winner.", "sentiment": "positive", "topics": {"0": "0.21852414", "1": "0.45890066", "2": "0.2510098", "3": "0.017881278", "4": "0.017893957", "5": "0.017931778", "6": "0.017858392"}}

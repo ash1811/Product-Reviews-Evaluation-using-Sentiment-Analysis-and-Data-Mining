@@ -1,0 +1,1 @@
+{"text": "This casual styled shoe is most comfortable my feet have felt in awhile.  Casual or dress.  Nice colored tan shoe made for walking.", "sentiment": "negative", "topics": {"0": "0.3486407", "1": "0.31765443", "2": "0.20922183", "6": "0.09752438"}}

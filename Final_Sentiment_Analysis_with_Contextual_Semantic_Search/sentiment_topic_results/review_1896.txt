@@ -1,0 +1,1 @@
+{"text": "These shoes are fantastic for the price. I was wary of buying because they are so affordable, but they are great quality and are really comfortable.", "sentiment": "positive", "topics": {"0": "0.44755927", "1": "0.3820798", "2": "0.118332095", "3": "0.01299386", "4": "0.012996465", "5": "0.013019811", "6": "0.013018703"}}

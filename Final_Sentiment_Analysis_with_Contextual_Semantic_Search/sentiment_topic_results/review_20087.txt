@@ -1,0 +1,1 @@
+{"text": "The colors are very bright and it a heavier book bag. Also it's not a big and huge bag to carry around. It fits a couple of my books plus my lab top.", "sentiment": "negative", "topics": {"0": "0.1739096", "1": "0.34869155", "3": "0.15657225", "4": "0.12536205", "5": "0.17956443"}}

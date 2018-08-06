@@ -1,0 +1,1 @@
+{"text": "They are comfortable but a little baggerer then I thought they would be. Nicely made and I would recommend but order a size smaller. I had already washed them so I wouldn't return them.", "sentiment": "positive", "topics": {"0": "0.08208522", "1": "0.36892468", "3": "0.45958275", "6": "0.06555734"}}

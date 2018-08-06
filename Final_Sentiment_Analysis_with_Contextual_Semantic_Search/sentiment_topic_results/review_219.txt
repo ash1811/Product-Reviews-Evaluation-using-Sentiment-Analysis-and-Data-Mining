@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable shoes I've ever worn.  I have bad balance and my balance is better in these shoes than my casual shoes.  I absolutely love them!", "sentiment": "negative", "topics": {"1": "0.1869844", "2": "0.3556253", "3": "0.3122584", "6": "0.1182864"}}

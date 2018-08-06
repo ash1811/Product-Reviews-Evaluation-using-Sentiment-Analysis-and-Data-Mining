@@ -1,0 +1,1 @@
+{"text": "I had to return said flip flops.  I was going to wear them around the house to stretch, but I did not want to hurt my feet.  I can wear Chaco and Keen flip flop with no problems.  It's too bad they looked like great flip flops.", "sentiment": "positive", "topics": {"1": "0.298161", "2": "0.19033092", "4": "0.07248631", "5": "0.19577904", "6": "0.23176222"}}

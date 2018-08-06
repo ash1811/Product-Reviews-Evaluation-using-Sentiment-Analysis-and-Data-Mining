@@ -1,0 +1,1 @@
+{"text": "This is nice for a simple and casual person.She loves it and very happy to wear it anytime.Nice watch", "sentiment": "negative", "topics": {"0": "0.014334696", "1": "0.31425786", "2": "0.11447407", "3": "0.36254612", "4": "0.01437076", "5": "0.014335431", "6": "0.16568106"}}

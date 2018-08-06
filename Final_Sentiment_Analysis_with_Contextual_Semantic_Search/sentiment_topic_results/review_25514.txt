@@ -1,0 +1,1 @@
+{"text": "Excellent product.  does what it is intended to do.  i have ordered this product before and they always work well.", "sentiment": "positive", "topics": {"0": "0.014339102", "1": "0.014401565", "2": "0.57631725", "3": "0.014330871", "4": "0.01431406", "5": "0.35199064", "6": "0.014306469"}}

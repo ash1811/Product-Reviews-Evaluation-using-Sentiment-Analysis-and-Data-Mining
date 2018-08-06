@@ -1,0 +1,1 @@
+{"text": "The glasses looks great on me. The store I went to is out of stock so I purchased on line. The price is cheaper than the local retail store. Delivery is very fast.", "sentiment": "negative", "topics": {"0": "0.1664071", "1": "0.473216", "2": "0.2228778", "6": "0.11224001"}}

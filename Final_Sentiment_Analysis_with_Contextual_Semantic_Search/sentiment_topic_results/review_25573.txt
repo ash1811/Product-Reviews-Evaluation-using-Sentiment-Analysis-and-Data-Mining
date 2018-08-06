@@ -1,0 +1,1 @@
+{"text": "These are your average Hanes socks. Fit perfectly. Love them. I always buy these and will continue to do so.", "sentiment": "negative", "topics": {"0": "0.011949148", "1": "0.6042113", "2": "0.22317593", "3": "0.011968606", "4": "0.01196926", "5": "0.124810435", "6": "0.011915374"}}

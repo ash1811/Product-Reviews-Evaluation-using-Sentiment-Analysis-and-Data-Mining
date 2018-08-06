@@ -1,0 +1,1 @@
+{"text": "I bought the small for my 4 year old daughter who wears a 4T.  It fit her great, although the elastic around the arms is a little snug (she has very slender arms, so that might be an issue for bigger girls).", "sentiment": "positive", "topics": {"0": "0.118534535", "1": "0.19417308", "2": "0.086373724", "3": "0.21180463", "5": "0.26226184", "6": "0.12087298"}}

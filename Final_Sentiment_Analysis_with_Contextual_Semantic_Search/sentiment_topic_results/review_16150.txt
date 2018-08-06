@@ -1,0 +1,1 @@
+{"text": "Perfect for my boys!  Nice dressy sandals with a little toe protection.  They are soft and pliable.  And No blisters!", "sentiment": "negative", "topics": {"0": "0.18506674", "1": "0.54561716", "2": "0.011943653", "3": "0.011936821", "4": "0.011922159", "5": "0.070169896", "6": "0.16334355"}}

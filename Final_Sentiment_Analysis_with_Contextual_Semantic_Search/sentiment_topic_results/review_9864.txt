@@ -1,0 +1,1 @@
+{"text": "So comfortable shoes! and pretty too!, they are actually leather, I recommend it 100%, I would like them in blue or red", "sentiment": "negative", "topics": {"0": "0.011036342", "1": "0.49497586", "2": "0.44993216", "3": "0.011013198", "4": "0.011005838", "5": "0.011024205", "6": "0.011012414"}}

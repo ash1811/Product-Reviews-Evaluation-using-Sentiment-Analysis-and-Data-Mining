@@ -1,0 +1,1 @@
+{"text": "I have not seen this on my nephew yet but the costume looks cute.  I gave four stars because for the price it does seem a little &#34;cheap&#34; so I am hoping they will fit good.  Wish they made zipper backs for the price though!", "sentiment": "negative", "topics": {"0": "0.24156496", "1": "0.51593524", "4": "0.21754423"}}

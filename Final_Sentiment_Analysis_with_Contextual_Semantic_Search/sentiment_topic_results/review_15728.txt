@@ -1,0 +1,1 @@
+{"text": "I like these a lot. The material is oh-so-soft and the ladies love them! I'm 5'11, 170 lbs, and ended up going with a small. I think i still slightly prefer the steel over these though.", "sentiment": "negative", "topics": {"0": "0.24443822", "1": "0.267347", "3": "0.12893854", "4": "0.13572294", "5": "0.08202431", "6": "0.13470642"}}

@@ -1,0 +1,1 @@
+{"text": "These socks are alright for working outside in the yard.  I wouldn't wear them for serious hiking or long exercise.  They are thinish and a bit tight on the ankle.  However, they are cheap.", "sentiment": "negative", "topics": {"0": "0.081247024", "1": "0.40228632", "2": "0.08475083", "3": "0.14509098", "4": "0.091205336", "5": "0.18700014"}}

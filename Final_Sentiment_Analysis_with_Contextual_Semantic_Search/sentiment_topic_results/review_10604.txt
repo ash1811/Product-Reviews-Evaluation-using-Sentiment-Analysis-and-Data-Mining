@@ -1,0 +1,1 @@
+{"text": "This shirt was a nice addition to my husband's wardrobe. It fit nicely and washed well but I did not dry it in the dryer as it is 100% cotton.", "sentiment": "negative", "topics": {"0": "0.0102190655", "1": "0.50532705", "2": "0.010211611", "3": "0.086630836", "4": "0.36717096", "5": "0.010224992", "6": "0.01021549"}}

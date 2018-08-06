@@ -1,0 +1,1 @@
+{"text": "I bought these boots for my Husband and he is very pleased with them.They fit perfectly.These boots look nice with casual pants or Jeans.", "sentiment": "negative", "topics": {"0": "0.010230699", "1": "0.51445425", "2": "0.010207536", "3": "0.010214097", "4": "0.24951388", "5": "0.19515981", "6": "0.010219685"}}

@@ -1,0 +1,1 @@
+{"text": "I love it, the super soft leather, amazing style.However, a bit stitching problem inside the right boot.Generally, good buy.", "sentiment": "positive", "topics": {"1": "0.5233363", "2": "0.12590164", "4": "0.31497192"}}

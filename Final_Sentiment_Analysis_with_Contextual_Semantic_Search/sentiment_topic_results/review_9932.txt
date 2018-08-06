@@ -1,0 +1,1 @@
+{"text": "Gave this to my 7-year-old and he has a very easy time getting it on and off. easy to tell time. He loves it.", "sentiment": "negative", "topics": {"0": "0.011979719", "1": "0.012045157", "2": "0.31466088", "3": "0.011946485", "4": "0.62547266", "5": "0.0119392425", "6": "0.011955876"}}

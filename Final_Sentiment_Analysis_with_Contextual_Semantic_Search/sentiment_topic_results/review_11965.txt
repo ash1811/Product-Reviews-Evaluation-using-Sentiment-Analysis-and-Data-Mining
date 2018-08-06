@@ -1,0 +1,1 @@
+{"text": "This is not the product I thought I had ordered.  When these arrived, I was quite surprised and disappointed.However, my Son says they are just fine for socks so that's why I gave them three stars.", "sentiment": "negative", "topics": {"0": "0.10338583", "2": "0.19395128", "3": "0.17709066", "5": "0.224738", "6": "0.2829233"}}

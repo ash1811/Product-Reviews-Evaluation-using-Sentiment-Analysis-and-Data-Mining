@@ -1,0 +1,1 @@
+{"text": "Love these fatigues. I like the way I can ajust the length to wear various shoes or boots. Great Item thanks", "sentiment": "positive", "topics": {"0": "0.01025156", "1": "0.40370664", "2": "0.18199958", "3": "0.0102325", "4": "0.16716275", "5": "0.010244908", "6": "0.21640207"}}

@@ -1,0 +1,1 @@
+{"text": "The underwire hits a little high in the area under the arm and causes rubbing and discomfort if worn for more than a few hours.  THe fabric is very pretty though and the shoulder straps are comfy enough.", "sentiment": "negative", "topics": {"1": "0.1968125", "2": "0.16610938", "4": "0.26028165", "6": "0.35412034"}}

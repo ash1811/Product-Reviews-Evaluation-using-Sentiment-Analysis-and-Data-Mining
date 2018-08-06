@@ -1,0 +1,1 @@
+{"text": "great winter boots, as well as using them in any kind of wet weather. true to size. Highly recommended.", "sentiment": "negative", "topics": {"0": "0.07900824", "1": "0.48594204", "2": "0.2014425", "3": "0.011050647", "4": "0.08643054", "5": "0.011029182", "6": "0.12509686"}}

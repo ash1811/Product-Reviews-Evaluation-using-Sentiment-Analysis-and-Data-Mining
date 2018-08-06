@@ -1,0 +1,1 @@
+{"text": "I love wearing i wish i could wear pantyhose 24/7 but i cannot do some things i have to do", "sentiment": "negative", "topics": {"0": "0.31927767", "1": "0.43763423", "2": "0.014354509", "3": "0.18576391", "4": "0.01435173", "5": "0.014331954", "6": "0.014286007"}}

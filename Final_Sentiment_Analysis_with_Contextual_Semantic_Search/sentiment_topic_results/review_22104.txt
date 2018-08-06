@@ -1,0 +1,1 @@
+{"text": "Delivered on time, well made, toasty warm while leaving the fingers free.  I had a pair years ago and was happy to find these!", "sentiment": "negative", "topics": {"0": "0.16430894", "1": "0.3900306", "3": "0.12761796", "4": "0.22660948", "6": "0.073538564"}}

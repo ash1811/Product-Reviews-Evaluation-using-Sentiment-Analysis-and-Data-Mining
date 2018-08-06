@@ -1,0 +1,1 @@
+{"text": "The pants were very long. But the waist and stuff were small. Maybe more suited for a female.", "sentiment": "negative", "topics": {"0": "0.015920032", "1": "0.42091146", "2": "0.15399158", "3": "0.36150607", "4": "0.01588529", "5": "0.015890729", "6": "0.015894787"}}

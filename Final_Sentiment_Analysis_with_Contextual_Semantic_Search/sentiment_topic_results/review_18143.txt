@@ -1,0 +1,1 @@
+{"text": "I know is cheap and not the best design but my father and mother love it, they don`t really take care of a luxury watch and need big numbers and this watch is exactly what we were looking for....", "sentiment": "negative", "topics": {"0": "0.038487196", "1": "0.3795581", "2": "0.28174227", "5": "0.06603642", "6": "0.22113284"}}

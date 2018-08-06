@@ -1,0 +1,1 @@
+{"text": "You need these were we live.  It was the one thing we didn't buy before we came up.  They are awesome...", "sentiment": "positive", "topics": {"0": "0.015936917", "1": "0.48538384", "2": "0.016075214", "3": "0.015923962", "4": "0.01598651", "5": "0.015899999", "6": "0.43479353"}}

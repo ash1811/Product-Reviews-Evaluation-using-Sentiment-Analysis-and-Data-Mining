@@ -1,0 +1,1 @@
+{"text": "This was a lovely product.  I have pashminas I actually acquired in Turkey and this comes pretty close.  It is light weight, but very warm.  For the price - you can't do better.", "sentiment": "negative", "topics": {"1": "0.40105987", "3": "0.14959504", "4": "0.16963105", "5": "0.25281054"}}

@@ -1,0 +1,1 @@
+{"text": "but it is a good fit.  Well done Vanity fair.  Now all I have to do is find a long skirted long sleeved version and all is wel", "sentiment": "negative", "topics": {"0": "0.010245791", "1": "0.5912058", "2": "0.085127264", "3": "0.010211591", "4": "0.12106433", "5": "0.17189676", "6": "0.010248494"}}

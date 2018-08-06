@@ -1,0 +1,1 @@
+{"text": "I really liked this beanie,  it did a great job keeping my ears warm when out in the mountain and for the price.. damn I don't think I could of gotten anything better but I would of spend much more...", "sentiment": "negative", "topics": {"0": "0.060715307", "1": "0.4953934", "2": "0.20784295", "4": "0.07264009", "5": "0.09172818", "6": "0.064860836"}}

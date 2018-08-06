@@ -1,0 +1,1 @@
+{"text": "I have been buying these jean for years. Excellent Pant I love It Jean Levis 33 x 32 very nice", "sentiment": "negative", "topics": {"0": "0.01101109", "1": "0.24445193", "2": "0.18112452", "3": "0.011042337", "4": "0.15171197", "5": "0.17273515", "6": "0.22792299"}}

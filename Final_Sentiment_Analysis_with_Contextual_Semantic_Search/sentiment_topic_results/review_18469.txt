@@ -1,0 +1,1 @@
+{"text": "This is a gift for my husband.  He NEVER wears a watch, but this year he decided he wanted one for Christmas.  He picked this one out because it has an easy to read face and indiglo.....he likes it.", "sentiment": "positive", "topics": {"0": "0.079984024", "2": "0.44212046", "3": "0.24223664", "4": "0.09115133", "6": "0.12938353"}}

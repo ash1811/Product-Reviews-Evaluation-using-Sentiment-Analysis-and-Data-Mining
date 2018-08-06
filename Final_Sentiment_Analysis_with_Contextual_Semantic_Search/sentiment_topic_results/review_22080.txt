@@ -1,0 +1,1 @@
+{"text": "Beautiful rich colour, soft to the touch, but the socks are thin enough to wear under shoes.  If you're looking for thick fuzzy socks to wear around the house sans shoes, these may not be for you.", "sentiment": "positive", "topics": {"1": "0.34613252", "2": "0.12714052", "3": "0.16159011", "5": "0.2698322", "6": "0.08229497"}}

@@ -1,0 +1,1 @@
+{"text": "They are the most comfortable pair of what I call sweatpants.  Throw on a t-shirt and you are ready for whatever your plans are ( ie; working out, hanging out or shopping.  They fit any occasion.", "sentiment": "positive", "topics": {"1": "0.41356778", "5": "0.33131543", "6": "0.22143202"}}

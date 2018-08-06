@@ -1,0 +1,1 @@
+{"text": "This is a great deal for suglasses. They are inexpensive, but the quality is fine for me. I like that there are 3 different colors included.", "sentiment": "negative", "topics": {"0": "0.17399405", "1": "0.49458247", "2": "0.10345982", "3": "0.10185664", "4": "0.10405112", "5": "0.011013139", "6": "0.011042767"}}

@@ -1,0 +1,1 @@
+{"text": "I've had these quite some time, they are still comfy.  Easy to slip on and nice to walk in.  I forget I have them on my feet.", "sentiment": "negative", "topics": {"0": "0.11477668", "1": "0.17479749", "2": "0.011003109", "3": "0.36051884", "4": "0.22434561", "5": "0.10352784", "6": "0.011030453"}}

@@ -1,0 +1,1 @@
+{"text": "I got this as a baby gift for my cousin who just had twins, and I have been told that you can never have enough onesies so this worked out really well.  Ihad them sent right to her saving me extra work and shipping.", "sentiment": "positive", "topics": {"0": "0.13475087", "1": "0.22091873", "3": "0.1217802", "4": "0.13781133", "5": "0.22503106", "6": "0.15255107"}}

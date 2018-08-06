@@ -1,0 +1,1 @@
+{"text": "I wear this to work and it has endured so much I cannot even count the ways it has been tortured. Great value for the money!", "sentiment": "negative", "topics": {"0": "0.011014093", "1": "0.011034688", "2": "0.13123673", "3": "0.21472867", "4": "0.12831262", "5": "0.49267203", "6": "0.011001144"}}

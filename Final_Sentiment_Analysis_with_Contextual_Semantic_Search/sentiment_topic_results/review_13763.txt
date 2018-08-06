@@ -1,0 +1,1 @@
+{"text": "This pair is my second from Amazon and I love the style.  The straps are more narrow as is the footbed so they are more like a sandal in appearance.  Love them.", "sentiment": "negative", "topics": {"0": "0.010272478", "1": "0.34646574", "2": "0.23310088", "3": "0.010245342", "4": "0.29437652", "5": "0.095307805", "6": "0.010231226"}}

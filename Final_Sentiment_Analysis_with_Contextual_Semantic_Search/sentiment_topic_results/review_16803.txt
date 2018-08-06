@@ -1,0 +1,1 @@
+{"text": "My husband has purchased these same sandals probably about 4 or 5 times.  Obviously he likes them!  Like a lot of sandals they do get stinky after a while and he probably buys a new pair every 2-3 seasons.", "sentiment": "negative", "topics": {"1": "0.5204478", "2": "0.20403977", "3": "0.18067715", "4": "0.07612978"}}

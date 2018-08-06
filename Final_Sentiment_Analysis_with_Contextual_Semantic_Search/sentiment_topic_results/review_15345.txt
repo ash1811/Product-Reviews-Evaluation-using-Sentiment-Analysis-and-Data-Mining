@@ -1,0 +1,1 @@
+{"text": "Great sun glasses but the frames were not right in color for my face.. but otherwise nice sale and great seller to.", "sentiment": "negative", "topics": {"0": "0.010236502", "1": "0.6454093", "2": "0.010265949", "3": "0.010231839", "4": "0.124506734", "5": "0.01023995", "6": "0.18910971"}}

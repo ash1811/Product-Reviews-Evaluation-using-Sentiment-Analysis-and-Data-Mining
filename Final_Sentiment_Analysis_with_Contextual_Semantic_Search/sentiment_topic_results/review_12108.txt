@@ -1,0 +1,1 @@
+{"text": "The waistline doesn't quite reach my waist and the leg holes are cut higher. This does make for a nice fitting pantie.", "sentiment": "negative", "topics": {"0": "0.09495273", "1": "0.22098352", "2": "0.30730626", "3": "0.22457951", "4": "0.0109952595", "5": "0.010998244", "6": "0.13018444"}}

@@ -1,0 +1,1 @@
+{"text": "Teva is a long time favorite of mine, and it seems like it's harder and harder to find brilliant colors of them.  I would like these in every color!", "sentiment": "negative", "topics": {"0": "0.32281142", "1": "0.1754596", "3": "0.17946702", "5": "0.29835832"}}

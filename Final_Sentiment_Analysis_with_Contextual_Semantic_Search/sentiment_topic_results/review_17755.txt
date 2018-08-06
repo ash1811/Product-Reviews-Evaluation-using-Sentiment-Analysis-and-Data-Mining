@@ -1,0 +1,1 @@
+{"text": "These Casio watches have been around for years and still look cool. When I want to throw on a watch while doing laundry instead one of my more expensive watches this is what I wear.", "sentiment": "negative", "topics": {"1": "0.403884", "2": "0.35180604", "5": "0.13285157", "6": "0.08617222"}}

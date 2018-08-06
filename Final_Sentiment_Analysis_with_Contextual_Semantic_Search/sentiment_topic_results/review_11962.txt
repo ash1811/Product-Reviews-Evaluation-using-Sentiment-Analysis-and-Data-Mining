@@ -1,0 +1,1 @@
+{"text": "These socks are great for the price.You can tell that they are cheap material.  IF you dont wash them ahead of time, like most socks, your feet will be covered in black fuzzy material.", "sentiment": "positive", "topics": {"1": "0.1753955", "2": "0.31230247", "4": "0.19283302", "5": "0.2955821"}}

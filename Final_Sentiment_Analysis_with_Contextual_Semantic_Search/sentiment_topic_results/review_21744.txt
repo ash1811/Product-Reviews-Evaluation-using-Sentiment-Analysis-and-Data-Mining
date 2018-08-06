@@ -1,0 +1,1 @@
+{"text": "well made, cute design and love that magnets hold it on and there is a wooden stand included.  my 3 year old granddaughter played with it for a good long time.  i like that is is wood and will last longer and look good longer", "sentiment": "positive", "topics": {"1": "0.42966273", "3": "0.22614233", "4": "0.15766732", "5": "0.1700041"}}

@@ -1,0 +1,1 @@
+{"text": "Fits my big and tall man through the body, but he complained that the neck was just too tight.  It is, however, a well made product.", "sentiment": "negative", "topics": {"0": "0.010247192", "1": "0.47004876", "2": "0.08012817", "3": "0.010275811", "4": "0.010249777", "5": "0.28525734", "6": "0.13379292"}}

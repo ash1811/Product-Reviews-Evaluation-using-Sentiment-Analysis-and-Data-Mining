@@ -1,0 +1,1 @@
+{"text": "The shirt's okay. Kind of light and flimsy. Also, I ordered the denim blue and got more of a charcoal gray. I'll wear it anyway but it would have been nice to get the color that was shown.", "sentiment": "negative", "topics": {"1": "0.59721345", "2": "0.15429299", "3": "0.11230241", "4": "0.11568525"}}

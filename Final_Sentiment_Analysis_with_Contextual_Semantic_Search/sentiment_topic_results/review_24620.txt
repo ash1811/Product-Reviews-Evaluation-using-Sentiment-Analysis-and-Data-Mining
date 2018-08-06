@@ -1,0 +1,1 @@
+{"text": "These are good basic leotards for a good price, and my granddaughter likes having several different colors so I was happy to find these on Amazon.", "sentiment": "negative", "topics": {"0": "0.010237959", "1": "0.36257273", "2": "0.01021608", "3": "0.16009235", "4": "0.25299904", "5": "0.010230742", "6": "0.19365112"}}

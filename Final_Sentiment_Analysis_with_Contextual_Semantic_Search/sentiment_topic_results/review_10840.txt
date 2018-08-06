@@ -1,0 +1,1 @@
+{"text": "This is a nice house shoe.  Besides being pretty it fits like a glove and the material is soft and flexible.", "sentiment": "negative", "topics": {"0": "0.0119389845", "1": "0.41021478", "2": "0.3305344", "3": "0.13365585", "4": "0.011905212", "5": "0.08977572", "6": "0.011975034"}}

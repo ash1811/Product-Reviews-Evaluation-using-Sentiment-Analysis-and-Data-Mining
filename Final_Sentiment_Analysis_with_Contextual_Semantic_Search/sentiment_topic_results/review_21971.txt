@@ -1,0 +1,1 @@
+{"text": "all have greet products! which one do i use?i say i will use tham all from time to time.maybe you or maybe them?will try all till i find what i ame looking for. will see one or all soon thanks for beaing there.", "sentiment": "negative", "topics": {"1": "0.098975785", "3": "0.14021026", "4": "0.30558494", "5": "0.1421492", "6": "0.3011249"}}

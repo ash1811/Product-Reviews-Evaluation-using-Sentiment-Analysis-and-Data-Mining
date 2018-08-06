@@ -1,0 +1,1 @@
+{"text": "This entry way shoe brush was delivered quickly and the quality is very sturdy and well built.  It has to be mounted to a board or screwed to the floor/ground to hold it in place while you scrub your shoes.", "sentiment": "positive", "topics": {"1": "0.20183952", "2": "0.25938395", "3": "0.12585159", "4": "0.04332788", "5": "0.18479827", "6": "0.17727202"}}

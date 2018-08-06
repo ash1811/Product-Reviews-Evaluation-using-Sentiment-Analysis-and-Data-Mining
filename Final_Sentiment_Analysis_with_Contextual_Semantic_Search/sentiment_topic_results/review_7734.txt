@@ -1,0 +1,1 @@
+{"text": "My husband loved the fit!  He is tall and has had problems finding this size.  It was great to find them here,...the quality and the comfortable feel are reasons to purchase them.", "sentiment": "negative", "topics": {"1": "0.48468602", "3": "0.20557685", "4": "0.27602163"}}

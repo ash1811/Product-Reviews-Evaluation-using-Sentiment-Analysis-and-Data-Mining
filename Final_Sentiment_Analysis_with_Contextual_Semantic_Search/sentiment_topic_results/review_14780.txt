@@ -1,0 +1,1 @@
+{"text": "I thought it would be a bit bigger, but it was not. I'm keeping it anyway, it does the trick. It's also on the small side around my wrists.", "sentiment": "negative", "topics": {"1": "0.14553611", "2": "0.10104736", "3": "0.24805228", "4": "0.22919287", "6": "0.25699398"}}

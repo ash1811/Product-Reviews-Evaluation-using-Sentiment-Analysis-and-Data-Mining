@@ -1,0 +1,1 @@
+{"text": "these are nice brief, would prefer them a little longer on top and a little higher around the thighsbut I am going to keep them.", "sentiment": "negative", "topics": {"0": "0.21059002", "2": "0.09579305", "3": "0.5778177", "4": "0.08715904"}}

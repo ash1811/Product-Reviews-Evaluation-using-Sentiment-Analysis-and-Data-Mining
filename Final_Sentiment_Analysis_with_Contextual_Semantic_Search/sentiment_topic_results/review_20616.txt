@@ -1,0 +1,1 @@
+{"text": "Beautiful color, professional dye does a great job on leather and suede when you need to repair or embellish a color.  Always reliable!", "sentiment": "negative", "topics": {"0": "0.0940275", "1": "0.3386504", "2": "0.16187498", "4": "0.30608866", "6": "0.08026743"}}

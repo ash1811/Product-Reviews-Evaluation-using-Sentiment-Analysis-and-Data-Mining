@@ -1,0 +1,1 @@
+{"text": "LOVE these sandals.  I did order 1/2 size up, and they fit great.  They are very comfortable, and have good support, and are great for hiking.  Love the leather, and the color.", "sentiment": "negative", "topics": {"0": "0.20773286", "1": "0.44548503", "2": "0.062873274", "3": "0.2586254"}}

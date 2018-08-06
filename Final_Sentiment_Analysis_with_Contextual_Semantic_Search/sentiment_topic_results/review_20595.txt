@@ -1,0 +1,1 @@
+{"text": "Bought this tool in case I ever decide to remove the back of my Invicta pro diver watch. Looks like it will do the job. The quality is not the best. It appears that this is a copy of a higher quality Swiss made tool...", "sentiment": "positive", "topics": {"0": "0.067876086", "1": "0.3735199", "2": "0.2700716", "3": "0.05971021", "5": "0.16991353", "6": "0.052931473"}}

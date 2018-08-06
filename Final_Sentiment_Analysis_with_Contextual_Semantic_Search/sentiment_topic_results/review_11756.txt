@@ -1,0 +1,1 @@
+{"text": "I look forward to swimming with these.  I have been walking around but it has been a bit chilly to take the plunge.", "sentiment": "negative", "topics": {"0": "0.01307509", "1": "0.43153793", "2": "0.14261985", "3": "0.013061552", "4": "0.10348738", "5": "0.28318343", "6": "0.013034808"}}

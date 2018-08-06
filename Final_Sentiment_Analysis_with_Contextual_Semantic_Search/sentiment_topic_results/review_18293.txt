@@ -1,0 +1,1 @@
+{"text": "What I liked about this watch is the fact that I can see the numbers on the dial. What I didn't particularly care for was the band. Nothing was wrong with it but my wrist got sweaty all the time wearing it.", "sentiment": "negative", "topics": {"0": "0.11675681", "2": "0.24561048", "3": "0.09391725", "4": "0.14343807", "5": "0.15785116", "6": "0.23444384"}}

@@ -1,0 +1,1 @@
+{"text": "These were a gift for my mother. She said the fit was perfect. Playtex bras have always been her favorite.", "sentiment": "positive", "topics": {"0": "0.18319973", "1": "0.3123527", "2": "0.01432628", "3": "0.44716182", "4": "0.014331895", "5": "0.0143315345", "6": "0.014296094"}}

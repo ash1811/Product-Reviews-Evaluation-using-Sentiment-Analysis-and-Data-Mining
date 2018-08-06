@@ -1,0 +1,1 @@
+{"text": "A bit clunkier than some styles of Keens.  Fit a tad different, too.  I liked the style, but sent them back.  Wouldn't work for my foot with the strap placement.", "sentiment": "negative", "topics": {"1": "0.3916519", "2": "0.22997749", "4": "0.16355814", "6": "0.18952306"}}

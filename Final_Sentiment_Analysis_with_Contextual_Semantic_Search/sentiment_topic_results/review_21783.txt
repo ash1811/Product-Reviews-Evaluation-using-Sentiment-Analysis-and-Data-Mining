@@ -1,0 +1,1 @@
+{"text": "Cheap and ill fitting.  Its going back.  Cut is all wrong and assembly is sloppy. Overall I would not recommend this product.", "sentiment": "negative", "topics": {"0": "0.010239909", "1": "0.010273136", "2": "0.17629829", "3": "0.25726527", "4": "0.01021893", "5": "0.36802354", "6": "0.1676809"}}

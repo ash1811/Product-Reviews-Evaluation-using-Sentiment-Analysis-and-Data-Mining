@@ -1,0 +1,1 @@
+{"text": "For the comfortable feel of this casual pant, along with some dress appeal. these are a must have.  A durable, versatile pant.", "sentiment": "negative", "topics": {"0": "0.01102101", "1": "0.5134021", "2": "0.011005769", "3": "0.30291507", "4": "0.13960767", "5": "0.011006839", "6": "0.011041529"}}

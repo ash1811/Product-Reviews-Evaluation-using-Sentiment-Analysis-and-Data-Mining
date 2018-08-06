@@ -1,0 +1,1 @@
+{"text": "Feels good next to skin, doesn't get clammy. I have cold feet, but this pair keeps them warm", "sentiment": "negative", "topics": {"0": "0.01193776", "1": "0.27170727", "2": "0.011935984", "3": "0.26543477", "4": "0.28019962", "5": "0.011974938", "6": "0.14680971"}}

@@ -1,0 +1,1 @@
+{"text": "I am not convinced that that upper material is made of leather.  It just did not meet my expectation at all.", "sentiment": "negative", "topics": {"0": "0.37483403", "1": "0.015938815", "2": "0.34934717", "3": "0.21216069", "4": "0.015886541", "5": "0.015921228", "6": "0.015911473"}}

@@ -1,0 +1,1 @@
+{"text": "I would recommend this bra for wearing with your dressy clothes. it is very flattering. the price was very reasonable for a supportive flattering strapless bra", "sentiment": "positive", "topics": {"0": "0.2920321", "1": "0.010257197", "2": "0.010236647", "3": "0.47128382", "4": "0.010254437", "5": "0.1139195", "6": "0.09201632"}}

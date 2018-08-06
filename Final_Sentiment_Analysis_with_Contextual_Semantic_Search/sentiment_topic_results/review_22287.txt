@@ -1,0 +1,1 @@
+{"text": "LOVE THEM!! They feel soft on my feet. I definitely recommend these toesocks and I will definitely order more. Peace.", "sentiment": "negative", "topics": {"0": "0.18185814", "1": "0.15332776", "2": "0.011016741", "3": "0.5282538", "4": "0.011079167", "5": "0.011016216", "6": "0.10344823"}}

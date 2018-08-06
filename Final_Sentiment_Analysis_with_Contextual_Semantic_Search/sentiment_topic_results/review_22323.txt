@@ -1,0 +1,1 @@
+{"text": "It's a white sock!!  THe price was right and the fit is good but Injinji makes lovely no show coloured socks that will be my first choice next time.", "sentiment": "negative", "topics": {"0": "0.11165947", "1": "0.38468087", "2": "0.1234386", "4": "0.09702598", "5": "0.26625505"}}

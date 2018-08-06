@@ -1,0 +1,1 @@
+{"text": "Although i love the color of this backpack, the picture can be misleading. It is not at all a &#34;neon&#34; purple color as shown in the pic. It is a very dark purple. Almost closest to a navy blue. Im still happy with the purchase.", "sentiment": "negative", "topics": {"1": "0.6275193", "2": "0.14952022", "4": "0.1449687", "6": "0.058455944"}}

@@ -1,0 +1,1 @@
+{"text": "Looked in all the stores and could not find these shoes.  Should have started with Amazon first as this site has never let me down.", "sentiment": "negative", "topics": {"0": "0.011008199", "1": "0.011104048", "2": "0.22110225", "3": "0.011018793", "4": "0.571288", "5": "0.16346127", "6": "0.011017455"}}

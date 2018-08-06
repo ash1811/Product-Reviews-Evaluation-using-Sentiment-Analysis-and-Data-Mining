@@ -1,0 +1,1 @@
+{"text": "Bought this because it has narrow width.  not as narrow in the 9 as we had hoped.  sturdy good shoe.  maybe worth the retail $100 because of leather and very well made", "sentiment": "negative", "topics": {"1": "0.5398488", "2": "0.2735196", "4": "0.091178596", "6": "0.07017464"}}

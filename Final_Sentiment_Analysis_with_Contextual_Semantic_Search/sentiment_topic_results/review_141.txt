@@ -1,0 +1,1 @@
+{"text": "This runs a little large, which is nice, for a change. I bought a size up so it could go in the dryer. Looked like a dress on my husband, so I reordered in his typical XL.", "sentiment": "negative", "topics": {"3": "0.4474615", "4": "0.39111355", "6": "0.12948446"}}

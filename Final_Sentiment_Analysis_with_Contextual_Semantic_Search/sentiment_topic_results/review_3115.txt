@@ -1,0 +1,1 @@
+{"text": "The product was in excellent condition and fitted as well as did previous pruchases of the same type of bra.", "sentiment": "positive", "topics": {"0": "0.014323676", "1": "0.20964412", "2": "0.19955562", "3": "0.31899956", "4": "0.01429574", "5": "0.2288955", "6": "0.014285768"}}

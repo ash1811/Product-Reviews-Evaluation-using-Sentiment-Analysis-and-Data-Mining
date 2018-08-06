@@ -1,0 +1,1 @@
+{"text": "I have purchased these pants before. They hold up well, wash well without a lot of fading. Decent Pant, 'Good' Value. . .when on sale.", "sentiment": "negative", "topics": {"1": "0.49077848", "2": "0.1109018", "3": "0.08294393", "4": "0.14216085", "5": "0.15635529"}}

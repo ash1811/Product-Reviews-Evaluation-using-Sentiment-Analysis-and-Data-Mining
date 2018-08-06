@@ -1,0 +1,1 @@
+{"text": "These are the best flops I have ever owned! From April till October it is all I wear. Own about 4 pairs, and never have I spent such good $$  Once my dog chewed a pair, I had to get them again. The only flops I will ever wear!", "sentiment": "negative", "topics": {"1": "0.26723817", "2": "0.07534191", "3": "0.16949357", "5": "0.36568117", "6": "0.10919621"}}

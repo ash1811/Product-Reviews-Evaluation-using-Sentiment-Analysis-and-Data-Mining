@@ -1,0 +1,1 @@
+{"text": "I love the shoe, but they are a bit small, not true to size.  I am a size 8, I would advise anyone ordering to go a size larger than what they are.  I wear a thin sock with mine cause my toes go to the end of the shoe.", "sentiment": "negative", "topics": {"1": "0.21599548", "2": "0.23305432", "3": "0.29299545", "5": "0.24142101"}}

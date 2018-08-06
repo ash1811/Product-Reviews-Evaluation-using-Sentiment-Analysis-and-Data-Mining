@@ -1,0 +1,1 @@
+{"text": "I ordered a size larger so I could wear socks with these slippers/shoes.  They fit exactly as expected, and they are very warm, comfortable even to wear in public.  I would order again, love these slippers.", "sentiment": "negative", "topics": {"0": "0.1510689", "1": "0.33899912", "2": "0.06979574", "5": "0.32008764", "6": "0.106374994"}}

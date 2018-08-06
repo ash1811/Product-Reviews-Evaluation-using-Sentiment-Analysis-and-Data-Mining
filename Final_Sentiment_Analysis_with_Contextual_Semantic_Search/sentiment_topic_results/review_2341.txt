@@ -1,0 +1,1 @@
+{"text": "I am very happy with this purchase. Th shoes are very beautiful and elegant. They are  perfectly made. They fit perfectly and are worth the money.", "sentiment": "positive", "topics": {"0": "0.011010453", "1": "0.5192919", "2": "0.09665633", "3": "0.010996142", "4": "0.25042665", "5": "0.011070692", "6": "0.100547865"}}

@@ -1,0 +1,1 @@
+{"text": "This has really helped my split shins. I've been using shin wraps, going to physical therapy, but what's helped the most was super feet. I would recommend this product.", "sentiment": "positive", "topics": {"0": "0.21781448", "1": "0.25394818", "2": "0.1845846", "3": "0.079919994", "4": "0.11493415", "5": "0.14127243"}}

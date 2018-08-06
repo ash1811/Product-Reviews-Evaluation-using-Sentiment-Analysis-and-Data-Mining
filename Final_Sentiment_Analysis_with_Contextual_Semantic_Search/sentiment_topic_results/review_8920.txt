@@ -1,0 +1,1 @@
+{"text": "not as wide as says heavy sole feels too big pinch my feet don't like as well as the flex style do not wear feel clumsy when walk", "sentiment": "negative", "topics": {"1": "0.3567652", "4": "0.16182555", "5": "0.12534583", "6": "0.33076906"}}

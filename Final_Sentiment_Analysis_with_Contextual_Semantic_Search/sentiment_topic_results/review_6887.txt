@@ -1,0 +1,1 @@
+{"text": "Husband loves it!  Very substantial fabric.  Extremely well made.  Washes and dries great.  Plan to be another in different color.", "sentiment": "positive", "topics": {"1": "0.41543436", "4": "0.26126498", "5": "0.28742296"}}

@@ -1,0 +1,1 @@
+{"text": "This was not a fashion purchase.  I am an enthusiastic gardener, but my beloved gardening jeans kept slipping down, providing a rear view.  No longer a problem.", "sentiment": "negative", "topics": {"0": "0.09680093", "1": "0.3650115", "3": "0.14950354", "5": "0.21986002", "6": "0.15090787"}}

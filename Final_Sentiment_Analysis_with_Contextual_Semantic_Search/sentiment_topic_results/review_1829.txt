@@ -1,0 +1,1 @@
+{"text": "It's absolutely stunning. Perfect fit. Goes with anything. Not too big and not too small. Very sparkly and just all around a beautiful ring.", "sentiment": "negative", "topics": {"0": "0.19142145", "1": "0.5341435", "2": "0.2303024", "3": "0.011011763", "4": "0.011050662", "5": "0.0110613555", "6": "0.011008887"}}

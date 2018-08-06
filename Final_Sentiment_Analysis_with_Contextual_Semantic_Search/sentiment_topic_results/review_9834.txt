@@ -1,0 +1,1 @@
+{"text": "Love the color, very comfortable to wear. You can wear the sandal casual or for a little more dressy look", "sentiment": "negative", "topics": {"0": "0.013021029", "1": "0.80884016", "2": "0.012998787", "3": "0.013022245", "4": "0.013032123", "5": "0.013027898", "6": "0.12605776"}}

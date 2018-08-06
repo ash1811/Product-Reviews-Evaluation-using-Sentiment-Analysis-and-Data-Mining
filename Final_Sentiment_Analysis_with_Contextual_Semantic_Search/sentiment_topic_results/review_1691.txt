@@ -1,0 +1,1 @@
+{"text": "Lilyette is a great brand that always fit true to size. Make sure you know your true size to get a proportionate fit", "sentiment": "negative", "topics": {"1": "0.28578", "2": "0.11259838", "3": "0.46302146", "6": "0.11177521"}}

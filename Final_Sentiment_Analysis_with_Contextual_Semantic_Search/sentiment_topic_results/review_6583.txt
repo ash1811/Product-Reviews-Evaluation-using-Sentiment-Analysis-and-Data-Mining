@@ -1,0 +1,1 @@
+{"text": "I use several types of Thorlo socks.  The moderate cushion walking crew sock is my everyday sock.  It is comfortable and provides just the right cushioning. No question, these are the ones to buy.", "sentiment": "negative", "topics": {"1": "0.21347837", "2": "0.084037766", "3": "0.0717511", "4": "0.17428425", "5": "0.33960542", "6": "0.10968582"}}

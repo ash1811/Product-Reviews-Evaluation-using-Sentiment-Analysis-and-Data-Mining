@@ -1,0 +1,1 @@
+{"text": "Order one size larger than you wear.  Love sanuks, SO comfortable!!  These are very casual shoes, but you can wear them all day!", "sentiment": "negative", "topics": {"0": "0.2715059", "1": "0.19673745", "2": "0.19519006", "3": "0.30343035", "4": "0.011051733", "5": "0.01105387", "6": "0.011030603"}}

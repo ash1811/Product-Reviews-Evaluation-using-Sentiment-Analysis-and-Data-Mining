@@ -1,0 +1,1 @@
+{"text": "These are my perfect-fit pants!  Since I discovered this brand & cut, I have just simply been buying different colors!  Love them & the fit.", "sentiment": "negative", "topics": {"0": "0.32071862", "1": "0.3701081", "2": "0.011018459", "3": "0.11986307", "4": "0.011038488", "5": "0.15622027", "6": "0.01103299"}}

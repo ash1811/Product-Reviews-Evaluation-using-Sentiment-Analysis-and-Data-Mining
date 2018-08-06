@@ -1,0 +1,1 @@
+{"text": "I needed support and style and this is the sandal that does it all. I have gotten so many compliments on this shoe.  These are sturdy, and comfortable.", "sentiment": "positive", "topics": {"0": "0.011923305", "1": "0.43167043", "2": "0.18619384", "3": "0.011950971", "4": "0.3343933", "5": "0.011925861", "6": "0.011942267"}}

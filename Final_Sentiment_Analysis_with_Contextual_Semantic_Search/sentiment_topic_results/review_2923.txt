@@ -1,0 +1,1 @@
+{"text": "Was sized correctly. Loose fit like a regular T-Shirt. Very comfortable. Elastane/Polyester. Very comfortable. Good price to boot. Would buy again.", "sentiment": "positive", "topics": {"1": "0.6798589", "4": "0.27795365"}}

@@ -1,0 +1,1 @@
+{"text": "The feel and fit are great, and the color holds through several wash cycles.  At $23, you can't beat this bargain.", "sentiment": "negative", "topics": {"0": "0.011027475", "1": "0.48132098", "2": "0.010999532", "3": "0.14832328", "4": "0.15134846", "5": "0.18594705", "6": "0.011033217"}}

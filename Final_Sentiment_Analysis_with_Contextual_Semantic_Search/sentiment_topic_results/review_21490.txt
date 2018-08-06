@@ -1,0 +1,1 @@
+{"text": "This is a true winner. Great comfort. Fits my orthotic. Resolable sole is a plus for me. You'll love it!", "sentiment": "positive", "topics": {"0": "0.011017544", "1": "0.47136423", "2": "0.11087633", "3": "0.15445969", "4": "0.13099314", "5": "0.011036136", "6": "0.11025294"}}

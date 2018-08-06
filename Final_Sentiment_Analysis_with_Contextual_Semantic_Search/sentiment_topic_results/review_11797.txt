@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband to use with the Jet ski. He had some issues with the inner sole or liner curling up.", "sentiment": "negative", "topics": {"0": "0.11824289", "1": "0.011928756", "2": "0.16913523", "3": "0.4360176", "4": "0.13118994", "5": "0.12157454", "6": "0.011911078"}}

@@ -1,0 +1,1 @@
+{"text": "The quality of the jean material was exactly as one expects from Levis.  The stonewash is very stonewashed, so if you want a darker jean that will last, order the darker color.", "sentiment": "positive", "topics": {"0": "0.41235182", "1": "0.1502095", "2": "0.045176003", "3": "0.1374251", "5": "0.17270829", "6": "0.073682055"}}

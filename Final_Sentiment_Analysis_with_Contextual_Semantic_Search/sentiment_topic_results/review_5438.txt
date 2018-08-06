@@ -1,0 +1,1 @@
+{"text": "This is just a plain old regular lighter weight sweatshirt. I am impressed that I could get a good quality hoodie for so cheap.", "sentiment": "negative", "topics": {"0": "0.010245316", "1": "0.6502189", "2": "0.010240577", "3": "0.13417454", "4": "0.17459282", "5": "0.010243751", "6": "0.010284101"}}

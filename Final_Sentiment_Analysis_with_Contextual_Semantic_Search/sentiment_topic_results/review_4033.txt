@@ -1,0 +1,1 @@
+{"text": "These Isotoner slippers are extremely comfortable, fit well, and have a sole durable enough to go outside if I need to do so.  Exactly what I wanted.", "sentiment": "negative", "topics": {"0": "0.1613116", "1": "0.346988", "3": "0.21234919", "4": "0.11663647", "6": "0.14476046"}}

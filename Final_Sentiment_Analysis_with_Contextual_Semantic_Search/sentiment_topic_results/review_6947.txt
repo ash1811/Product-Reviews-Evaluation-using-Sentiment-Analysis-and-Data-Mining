@@ -1,0 +1,1 @@
+{"text": "Great fit, the length is especially appreciated.  Sturdy fabric which should hold up well. I just ordered three more and expect the same dependable quality.", "sentiment": "negative", "topics": {"0": "0.11994411", "1": "0.42972258", "3": "0.18303567", "4": "0.08591507", "5": "0.16230363"}}

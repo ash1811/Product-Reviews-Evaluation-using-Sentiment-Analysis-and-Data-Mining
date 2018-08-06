@@ -1,0 +1,1 @@
+{"text": "My mom asked for Nylon underwear. She liked these, but would have preferred pastels. Since Hanes didn't offer the pastels, I give this 4 stars.", "sentiment": "negative", "topics": {"0": "0.37682348", "1": "0.33263817", "2": "0.17202213", "4": "0.09323078"}}

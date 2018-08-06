@@ -1,0 +1,1 @@
+{"text": "Fits great for work.  I can walk around on all type of surfaces and my feet do not hurt after 8 plus hours of standing/walking. Very comfortable for my high arch.", "sentiment": "negative", "topics": {"1": "0.5053521", "3": "0.117519274", "4": "0.060866687", "6": "0.29099318"}}

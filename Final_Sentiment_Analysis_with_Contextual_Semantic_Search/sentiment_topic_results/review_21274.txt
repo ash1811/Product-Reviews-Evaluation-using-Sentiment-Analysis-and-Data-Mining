@@ -1,0 +1,1 @@
+{"text": "I took heed of other reviews and ordered a half size up--8.5 instead of 8. They fit perfectly. Even after many hours of walking my feet still feel great.", "sentiment": "negative", "topics": {"1": "0.32952866", "3": "0.3537497", "4": "0.09884616", "5": "0.19636449"}}

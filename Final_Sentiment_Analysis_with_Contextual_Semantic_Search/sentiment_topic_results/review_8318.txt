@@ -1,0 +1,1 @@
+{"text": "Used these for unlined bras and sheer knit tops and they work good.  Have had no trouble reusing them following the directions exactly.  Big enough to cover", "sentiment": "negative", "topics": {"0": "0.06404275", "1": "0.26009506", "2": "0.09610861", "3": "0.16180687", "4": "0.110801436", "5": "0.10364971", "6": "0.20349558"}}

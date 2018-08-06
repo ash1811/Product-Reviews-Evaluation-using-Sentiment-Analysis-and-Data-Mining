@@ -1,0 +1,1 @@
+{"text": "These felt very good at first, but by day two, they lost their fluffy sole & are more of a FLAT slipper. EXTREMELY painful if you need to have a padded sole for feet problems.I wont buy these again", "sentiment": "negative", "topics": {"0": "0.15223415", "1": "0.1689094", "2": "0.14425628", "3": "0.2088339", "4": "0.10242561", "6": "0.21616247"}}

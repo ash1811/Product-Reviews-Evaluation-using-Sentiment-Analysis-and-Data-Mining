@@ -1,0 +1,1 @@
+{"text": "I have gotten some just like these, but they were uncomforablte. This one fit like a glove and are comfortable that forgot that tI have them on", "sentiment": "negative", "topics": {"0": "0.011955567", "1": "0.2206638", "2": "0.24724382", "3": "0.200014", "4": "0.10696567", "5": "0.011917212", "6": "0.20123993"}}

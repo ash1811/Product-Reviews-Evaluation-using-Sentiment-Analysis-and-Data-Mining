@@ -1,0 +1,1 @@
+{"text": "I bought these for my wife and she liked them very much.  7mm is not as small as you may think.  I certainly wouldn't buy anything larger in this style.  I got them on sale for $15.00, can't go wrong with that price for 14K gold.", "sentiment": "negative", "topics": {"1": "0.45567742", "2": "0.11510589", "3": "0.076234944", "4": "0.24056415", "5": "0.09994566"}}

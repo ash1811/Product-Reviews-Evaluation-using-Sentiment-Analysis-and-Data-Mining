@@ -1,0 +1,1 @@
+{"text": "These shorts Fit perfect and are cute!  They seem to be comfy for my son, too. Great price-would buy again.", "sentiment": "negative", "topics": {"0": "0.45471504", "1": "0.3120372", "2": "0.011040345", "3": "0.011036595", "4": "0.18912104", "5": "0.011043221", "6": "0.011006568"}}

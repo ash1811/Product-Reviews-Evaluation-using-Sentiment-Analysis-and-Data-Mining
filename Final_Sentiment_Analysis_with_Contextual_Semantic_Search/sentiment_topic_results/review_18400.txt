@@ -1,0 +1,1 @@
+{"text": "This is a beautiful, functional and practically priced bra for the busty woman. It exceeded my expectations by being well-crafted, having the perfect fit and providing ample support for my ample bossom. I will be buying more come pay day!", "sentiment": "negative", "topics": {"0": "0.279673", "1": "0.29331103", "2": "0.070734926", "3": "0.16399373", "4": "0.17925431"}}

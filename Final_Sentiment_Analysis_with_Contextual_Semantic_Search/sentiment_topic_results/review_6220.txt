@@ -1,0 +1,1 @@
+{"text": "What you see is what you get. I am 165lbs, male, active build. Size Medium fits perfectly. Just be careful it will shed if worn (and sweaty) before its first wash.", "sentiment": "negative", "topics": {"1": "0.25915307", "2": "0.070531435", "3": "0.28896153", "4": "0.15359163", "5": "0.12195022", "6": "0.09786126"}}

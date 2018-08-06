@@ -1,0 +1,1 @@
+{"text": "I got this chain as a replacement for my old one and this one is nice and shiny. It looks delicate, yet feels durable. I wear it every day, so I guess we'll see how long it will last. SO far--a happy camper.", "sentiment": "negative", "topics": {"0": "0.20547894", "1": "0.20874548", "2": "0.07879165", "4": "0.27231205", "5": "0.15369417", "6": "0.07524856"}}

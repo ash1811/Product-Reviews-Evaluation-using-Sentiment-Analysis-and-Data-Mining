@@ -1,0 +1,1 @@
+{"text": "My wife loves it, she has gotten several compliments when she wears it out for dinner. It looks more expensive than it really is", "sentiment": "negative", "topics": {"0": "0.0119719105", "1": "0.46175972", "2": "0.011936332", "3": "0.011941013", "4": "0.2968501", "5": "0.19362073", "6": "0.011920221"}}

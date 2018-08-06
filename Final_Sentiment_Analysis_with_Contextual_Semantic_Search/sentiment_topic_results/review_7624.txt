@@ -1,0 +1,1 @@
+{"text": "We got this to replace an older coat that he accidently left out of town during a trip.  Quality is still great and fit is as described by others.  Great coat that holds up well over the years.  It washes up great and is warm but not too bulky.", "sentiment": "negative", "topics": {"1": "0.70230854", "2": "0.10006354", "3": "0.08553772", "6": "0.0941991"}}

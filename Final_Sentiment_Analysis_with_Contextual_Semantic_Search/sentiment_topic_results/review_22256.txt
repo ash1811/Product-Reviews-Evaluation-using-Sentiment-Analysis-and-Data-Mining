@@ -1,0 +1,1 @@
+{"text": "For ROTC we had to wear white ankle length socks that did no show a brand or logo.  I prefer toe socks so these were the perfect solution.", "sentiment": "negative", "topics": {"0": "0.109344654", "1": "0.21674378", "2": "0.0826116", "3": "0.3067971", "5": "0.2654158"}}

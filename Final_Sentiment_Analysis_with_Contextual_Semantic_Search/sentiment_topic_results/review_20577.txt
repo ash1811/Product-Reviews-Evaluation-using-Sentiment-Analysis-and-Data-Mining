@@ -1,0 +1,1 @@
+{"text": "Sloggers for men are great ! Very comfortable my son uses them all the time when out taking care of the animals. You want shoes you can wash when you are dealin with chickens.", "sentiment": "negative", "topics": {"0": "0.14963822", "1": "0.40191036", "2": "0.22765972", "3": "0.19393933"}}

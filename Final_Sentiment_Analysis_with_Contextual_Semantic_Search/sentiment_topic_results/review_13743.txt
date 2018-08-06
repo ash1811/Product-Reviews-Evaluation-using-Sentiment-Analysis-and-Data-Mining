@@ -1,0 +1,1 @@
+{"text": "These are terrific flip flops.  They have good arch support and the soles haven't squished down like other brands of flip flops I've had.  I've been wearing them almost daily for months and they're practically like new.", "sentiment": "negative", "topics": {"0": "0.10248069", "1": "0.18548353", "2": "0.35368404", "3": "0.27897778", "4": "0.06742544"}}

@@ -1,0 +1,1 @@
+{"text": "it is the second pair i buy. it is good for summer when you want to cover babies' foot but still ventilated on the top. very flexible for kids who start to walk.", "sentiment": "negative", "topics": {"1": "0.421538", "2": "0.07575075", "3": "0.16606098", "4": "0.07083451", "5": "0.13975745", "6": "0.11763924"}}

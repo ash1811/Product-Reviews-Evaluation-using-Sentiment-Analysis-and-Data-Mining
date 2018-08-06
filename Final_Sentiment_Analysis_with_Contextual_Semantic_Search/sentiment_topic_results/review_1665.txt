@@ -1,0 +1,1 @@
+{"text": "I wear this style garment consistently.  I like the fit, and it does not bind.  If you are looking for a good fitting garment try this style.", "sentiment": "positive", "topics": {"0": "0.010235387", "1": "0.49900383", "2": "0.010265373", "3": "0.15225601", "4": "0.30772537", "5": "0.01025147", "6": "0.010262574"}}

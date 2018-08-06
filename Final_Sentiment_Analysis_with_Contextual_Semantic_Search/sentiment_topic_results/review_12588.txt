@@ -1,0 +1,1 @@
+{"text": "I rated these a five because these are incredible shoes. I have purchased them 3 times. They are very comfortable. I am a restaurant owner and love these as they are slip resistant. I do wish the leather would withstand water a bit better", "sentiment": "negative", "topics": {"0": "0.09803091", "1": "0.32939595", "2": "0.42584786", "5": "0.1262065"}}

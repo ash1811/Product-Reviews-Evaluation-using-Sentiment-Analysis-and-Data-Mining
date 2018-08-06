@@ -1,0 +1,1 @@
+{"text": "I like this shirt's stereotypical design.I looks like a Hawaiian shirt in just about every way, and honestly that's what I wanted.It fit me perfectly, the fabric seemed to be decently durable as well.", "sentiment": "negative", "topics": {"0": "0.0879608", "1": "0.2421566", "2": "0.24542567", "4": "0.051042404", "5": "0.35974735"}}

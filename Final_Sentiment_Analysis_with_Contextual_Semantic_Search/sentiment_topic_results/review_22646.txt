@@ -1,0 +1,1 @@
+{"text": "Hanes is a brand I've used for a long time and have been happy with.  These comfortable, all-cotton panties fit well and &#34;breathe&#34;, which is an important health feature.  I recommend them.", "sentiment": "negative", "topics": {"0": "0.11376355", "1": "0.48136806", "3": "0.16564251", "4": "0.07431479", "6": "0.15057167"}}

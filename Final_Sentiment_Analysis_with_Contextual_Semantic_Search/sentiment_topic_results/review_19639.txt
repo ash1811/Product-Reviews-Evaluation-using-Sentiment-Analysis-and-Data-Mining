@@ -1,0 +1,1 @@
+{"text": "These were very cute.  They run big!They started getting holes by the end of one wear, however.  One of them came with a slight yellow stain. I wore them anyway because I did not have time to replace.", "sentiment": "negative", "topics": {"0": "0.20702423", "2": "0.41669035", "4": "0.07595437", "5": "0.27879924"}}

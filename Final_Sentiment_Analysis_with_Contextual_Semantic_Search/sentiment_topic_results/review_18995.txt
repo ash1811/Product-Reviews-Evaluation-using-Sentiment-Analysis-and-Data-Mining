@@ -1,0 +1,1 @@
+{"text": "I bought these in 3 colours. They fit as expected and give a great lift which is what I was looking for yet subtle and comfortable.", "sentiment": "negative", "topics": {"0": "0.011003612", "1": "0.8340965", "2": "0.010991775", "3": "0.11087219", "4": "0.011009644", "5": "0.011029902", "6": "0.010996369"}}

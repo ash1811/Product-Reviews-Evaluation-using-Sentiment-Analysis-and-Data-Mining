@@ -1,0 +1,1 @@
+{"text": "Soft and Warm Microfiber Fuzzy Socks Olive Green, Fuschia Pink or Black by Foot TrafficI received these socks as a gift, and I love them. I love how super-soft they are. I love the bright colors also.", "sentiment": "negative", "topics": {"0": "0.07325496", "1": "0.12149486", "2": "0.12308254", "3": "0.121712", "4": "0.15243544", "5": "0.35943478", "6": "0.048585426"}}

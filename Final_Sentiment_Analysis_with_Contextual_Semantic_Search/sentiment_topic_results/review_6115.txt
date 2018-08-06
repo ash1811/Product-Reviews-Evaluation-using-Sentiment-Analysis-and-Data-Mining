@@ -1,0 +1,1 @@
+{"text": "I had never heard of this brand, but I purchased these on a whim because they are long sleeved and Prime shipping and I needed them fast. They are thick and soft and worked great for embroidery. I will be buying them again!", "sentiment": "positive", "topics": {"1": "0.33840108", "2": "0.13487403", "3": "0.07032921", "5": "0.19663723", "6": "0.24464285"}}

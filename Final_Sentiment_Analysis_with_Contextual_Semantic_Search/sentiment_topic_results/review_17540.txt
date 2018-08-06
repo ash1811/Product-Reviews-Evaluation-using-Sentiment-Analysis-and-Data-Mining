@@ -1,0 +1,1 @@
+{"text": "I bought this watch for a gift, the person was very glad to have it, the only cons: the band is not adjustable, so be careful, there is no way to adjust the band.", "sentiment": "positive", "topics": {"0": "0.33821225", "1": "0.010223006", "2": "0.2817375", "3": "0.33912042", "4": "0.010254374", "5": "0.01023668", "6": "0.010215761"}}

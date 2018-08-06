@@ -1,0 +1,1 @@
+{"text": "Bought these flip flops for my daughter who says they are comfortable and pretty.  She wears them almost until the snow flies.  They do not irritate her toes.", "sentiment": "negative", "topics": {"0": "0.010231824", "1": "0.37319618", "2": "0.1890908", "3": "0.074046135", "4": "0.010209284", "5": "0.18487684", "6": "0.15834892"}}

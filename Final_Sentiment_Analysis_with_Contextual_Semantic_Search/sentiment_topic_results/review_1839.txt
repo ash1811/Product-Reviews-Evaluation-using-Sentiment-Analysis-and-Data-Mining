@@ -1,0 +1,1 @@
+{"text": "If you want a moccasin, Minnetonka is the only way to go as they are QUALITY in material and workmanship.  The leather is very smooth and soft and the design on the front is secure.", "sentiment": "positive", "topics": {"0": "0.22041422", "1": "0.30057293", "2": "0.09817839", "3": "0.2206874", "6": "0.14105418"}}

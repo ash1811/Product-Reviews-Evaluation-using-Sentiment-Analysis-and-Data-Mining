@@ -1,0 +1,1 @@
+{"text": "Good fit. Inseam is a consistent 34 (unlike Levi's). I like the color. Will purchase from Lee again. But, i do need to see how well the fabric and stitching holds up with time.", "sentiment": "negative", "topics": {"1": "0.27305827", "2": "0.041746873", "3": "0.12774718", "4": "0.10475382", "5": "0.19722739", "6": "0.24864575"}}

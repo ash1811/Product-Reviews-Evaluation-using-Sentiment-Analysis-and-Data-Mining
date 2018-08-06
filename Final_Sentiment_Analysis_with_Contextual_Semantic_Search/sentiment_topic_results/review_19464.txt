@@ -1,0 +1,1 @@
+{"text": "Wow! It only react all the surrounding this purse! I love the large and high-quality purses, but this purse has exceeded all my expectations!!! Recommend to everyone!", "sentiment": "negative", "topics": {"0": "0.010243289", "1": "0.33631855", "2": "0.010216074", "3": "0.010251545", "4": "0.30607113", "5": "0.010242564", "6": "0.3166568"}}

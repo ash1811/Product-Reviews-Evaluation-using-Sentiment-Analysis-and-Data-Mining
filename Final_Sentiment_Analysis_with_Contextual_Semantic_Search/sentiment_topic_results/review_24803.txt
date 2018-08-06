@@ -1,0 +1,1 @@
+{"text": "My Mom told me about this brand and darn if she wasn't right..... This is the best. kind of expensive, but worth it, do not dry it in dryer hand dry it so it will last long time.", "sentiment": "positive", "topics": {"0": "0.17429921", "1": "0.15146235", "3": "0.087861285", "4": "0.34098735", "5": "0.16775459", "6": "0.069673225"}}

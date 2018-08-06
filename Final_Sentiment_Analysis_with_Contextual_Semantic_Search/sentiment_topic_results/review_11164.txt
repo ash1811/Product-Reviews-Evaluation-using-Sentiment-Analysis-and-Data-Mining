@@ -1,0 +1,1 @@
+{"text": "I love,Love,Love these Dr. Martens!! Not only are they comfortable but they can be worn with pants as well as skirts. The large variety of colors is beneficial as well everyone should own a pair!", "sentiment": "positive", "topics": {"1": "0.4254878", "2": "0.05050927", "4": "0.1610713", "6": "0.33609265"}}

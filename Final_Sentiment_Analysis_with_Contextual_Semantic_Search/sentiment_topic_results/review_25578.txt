@@ -1,0 +1,1 @@
+{"text": "Fit and price are great for these socks, but they are no more cushioned than regular Hanes socks, or imperceptibly more.  Caveat emptor.", "sentiment": "negative", "topics": {"0": "0.011002662", "1": "0.42499888", "2": "0.011006948", "3": "0.12657918", "4": "0.011000877", "5": "0.19590713", "6": "0.21950433"}}

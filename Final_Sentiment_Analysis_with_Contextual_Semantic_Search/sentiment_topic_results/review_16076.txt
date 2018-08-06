@@ -1,0 +1,1 @@
+{"text": "it's a great flip flop.  it has cushion which is perfect so you don't feel like you are walking on the street.  they are very comfortable and I would buy them again!", "sentiment": "positive", "topics": {"0": "0.0102825295", "1": "0.43150306", "2": "0.20670424", "3": "0.010259321", "4": "0.0102720065", "5": "0.32066292", "6": "0.010315905"}}

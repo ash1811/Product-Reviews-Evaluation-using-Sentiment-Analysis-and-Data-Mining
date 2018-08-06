@@ -1,0 +1,1 @@
+{"text": "Tremendo reloj, muy buena maquina, muy hermoso, es elegante, deportivo, formal e informal, materiales excelentes. los recomiendo al 100%. Una buena compra.", "sentiment": "negative", "topics": {"0": "0.054490156", "1": "0.28564805", "2": "0.049948905", "3": "0.09739853", "4": "0.276378", "5": "0.05434493", "6": "0.18179147"}}

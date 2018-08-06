@@ -1,0 +1,1 @@
+{"text": "I gave this snikers to my 15 year-old son and he loved. It has a juvenile color and it can use it daily, are confortables, the color is durable. Their friends have liked it. I recommend it", "sentiment": "negative", "topics": {"0": "0.108591974", "1": "0.4081572", "3": "0.1860254", "4": "0.12411181", "5": "0.1036509", "6": "0.061511032"}}

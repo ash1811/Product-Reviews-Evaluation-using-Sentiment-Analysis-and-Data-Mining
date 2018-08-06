@@ -1,0 +1,1 @@
+{"text": "Pretty good travel umbrella for the price. I got this umbrella to keep in my bookbag for when Im trekking around campus. It does well for light rains.", "sentiment": "negative", "topics": {"0": "0.5173702", "5": "0.44036603"}}

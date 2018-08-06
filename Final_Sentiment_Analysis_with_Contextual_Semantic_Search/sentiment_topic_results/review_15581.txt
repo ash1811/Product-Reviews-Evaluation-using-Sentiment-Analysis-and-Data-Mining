@@ -1,0 +1,1 @@
+{"text": "Great Watch.  Easy to read.  Comfortable band.  Keeps perfect time.  Great looking.  Love it.  Very glad I bought this watch.", "sentiment": "negative", "topics": {"1": "0.36785442", "2": "0.15667926", "3": "0.28778452", "4": "0.16236897"}}

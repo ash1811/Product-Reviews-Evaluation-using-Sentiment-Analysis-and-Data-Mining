@@ -1,0 +1,1 @@
+{"text": "These pants are perfect for warm days. I would recommend getting a waist size larger they fit snug. The length was perfect", "sentiment": "negative", "topics": {"1": "0.51528996", "2": "0.16821922", "6": "0.2782221"}}

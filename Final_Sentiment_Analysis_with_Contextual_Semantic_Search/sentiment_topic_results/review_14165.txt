@@ -1,0 +1,1 @@
+{"text": "this is the new style, that is the old style from the 70's my son love them, and would like new colors.", "sentiment": "negative", "topics": {"0": "0.26104844", "1": "0.16545106", "2": "0.011015891", "3": "0.34097084", "4": "0.19944017", "5": "0.011045013", "6": "0.011028607"}}

@@ -1,0 +1,1 @@
+{"text": "I like these panties as much as my vanity fair panties, soft silky and oh so comfortable. The lace waist band looks good above the top of my jeans. Can't wait to buy more.", "sentiment": "negative", "topics": {"0": "0.4142421", "1": "0.2517381", "3": "0.20861359", "4": "0.10584641"}}

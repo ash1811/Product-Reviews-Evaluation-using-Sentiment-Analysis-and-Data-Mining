@@ -1,0 +1,1 @@
+{"text": "This is very nice briefs for the old people; very convenient to wear, easy to wash.  What else can you write about them : )?", "sentiment": "negative", "topics": {"0": "0.013008974", "1": "0.36019826", "2": "0.09220912", "3": "0.013021368", "4": "0.18544856", "5": "0.013057578", "6": "0.32305616"}}

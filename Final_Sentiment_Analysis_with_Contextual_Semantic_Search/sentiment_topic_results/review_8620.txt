@@ -1,0 +1,1 @@
+{"text": "I wear these on a regular basis. They are very comfortable for daily wear, they look great. Can be worn casual or with dress clothes.", "sentiment": "negative", "topics": {"0": "0.12523428", "1": "0.45359164", "2": "0.011006484", "3": "0.011033452", "4": "0.011004692", "5": "0.14170983", "6": "0.24641964"}}

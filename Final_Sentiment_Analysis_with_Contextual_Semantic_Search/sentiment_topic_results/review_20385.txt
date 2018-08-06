@@ -1,0 +1,1 @@
+{"text": "If you don't want something fancy and you don't mind the frustration of trying to get them in, then these are fine. Once you've fitted them properly they aren't much trouble. It's getting them to clasp without blowing a fuse that's the challenge.", "sentiment": "positive", "topics": {"1": "0.34147394", "2": "0.36174357", "4": "0.15173528", "5": "0.124574535"}}

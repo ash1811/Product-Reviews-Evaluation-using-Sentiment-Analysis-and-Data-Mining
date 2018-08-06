@@ -1,0 +1,1 @@
+{"text": "These slippers turn a cold floor into a total non-issue. Extremely comfortable, like walking on clouds. Regarding longevity, they feel like you can get several seasons out of them easily. Good deal, buy 'em.", "sentiment": "negative", "topics": {"0": "0.06399325", "1": "0.27673492", "3": "0.19841976", "4": "0.11147501", "5": "0.229899", "6": "0.11350492"}}

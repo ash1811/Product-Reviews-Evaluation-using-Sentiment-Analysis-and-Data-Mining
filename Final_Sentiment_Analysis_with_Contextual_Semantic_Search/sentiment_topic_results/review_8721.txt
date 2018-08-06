@@ -1,0 +1,1 @@
+{"text": "This watch is a very good brand it's fits perfect and it's very strong. I basically do ever thing with this watch shower and sleep.", "sentiment": "negative", "topics": {"0": "0.011013826", "1": "0.38154766", "2": "0.30599838", "3": "0.16013734", "4": "0.011011154", "5": "0.011020605", "6": "0.119271"}}

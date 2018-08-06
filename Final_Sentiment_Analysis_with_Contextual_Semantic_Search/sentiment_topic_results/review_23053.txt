@@ -1,0 +1,1 @@
+{"text": "This hat fits good and good quality the whole hat including the brim has a good feel and quality to it", "sentiment": "positive", "topics": {"0": "0.0110198725", "1": "0.5133733", "2": "0.010995858", "3": "0.01106208", "4": "0.36687237", "5": "0.075650975", "6": "0.011025529"}}

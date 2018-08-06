@@ -1,0 +1,1 @@
+{"text": "I have 3 of these for my curling irons. I use them for storage as well as travel. Received the first as a gift then bought 2 more. Love them.", "sentiment": "negative", "topics": {"0": "0.28602615", "1": "0.13820648", "2": "0.09904457", "3": "0.31524053", "5": "0.14357054"}}

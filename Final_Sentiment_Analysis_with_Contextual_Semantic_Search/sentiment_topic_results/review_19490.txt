@@ -1,0 +1,1 @@
+{"text": "I purchased these for my mom for Christmas.  They really are pretty.  They lay and move very nicely and are a good length for dangly earrings.  Big enough to be noticed but not so long as to be gaudy.", "sentiment": "negative", "topics": {"0": "0.27938756", "1": "0.3677725", "2": "0.073583044", "4": "0.077301525", "5": "0.18602929"}}

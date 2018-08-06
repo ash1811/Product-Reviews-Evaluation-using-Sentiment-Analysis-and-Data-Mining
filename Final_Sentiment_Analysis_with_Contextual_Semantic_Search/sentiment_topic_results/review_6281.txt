@@ -1,0 +1,1 @@
+{"text": "Bracelet is nice, though a little big on my small wrists.  I do like the way it looks, however the clasp is very tough to open.  Whenever I wear this, I need to get my husband to fasten it for me.", "sentiment": "negative", "topics": {"1": "0.28571382", "2": "0.17968437", "4": "0.17649451", "5": "0.21405558", "6": "0.13157742"}}

@@ -1,0 +1,1 @@
+{"text": "This watch is cool, with nice leather strap and metal case.. but about 10% upper field is not covered with indiglo light when activate.. so you can see a boarder line of indiglo..", "sentiment": "negative", "topics": {"0": "0.09509479", "1": "0.07154559", "2": "0.55647933", "4": "0.18797685", "6": "0.07382677"}}

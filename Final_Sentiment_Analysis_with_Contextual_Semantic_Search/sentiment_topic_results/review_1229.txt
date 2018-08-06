@@ -1,0 +1,1 @@
+{"text": "My daughter has been dying for these for after soccer and doesn't take them off on the weekends.", "sentiment": "negative", "topics": {"0": "0.023878194", "1": "0.023961762", "2": "0.21199258", "3": "0.02382279", "4": "0.023809535", "5": "0.46931198", "6": "0.2232231"}}

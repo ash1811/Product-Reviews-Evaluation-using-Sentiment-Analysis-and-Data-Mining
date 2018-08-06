@@ -1,0 +1,1 @@
+{"text": "Would not recommend runs small....stick uncomfortable pointy...everything you don't want in a bra.....it is not something I would ever buy again!~", "sentiment": "negative", "topics": {"0": "0.01023358", "1": "0.3651769", "2": "0.010233552", "3": "0.5042561", "4": "0.08964403", "5": "0.010248257", "6": "0.010207618"}}

@@ -1,0 +1,1 @@
+{"text": "This is the second pair of Merrell Moab Ventilator for my husband.  He like's them enough to replace them with the same shoe.  I think that should tell you how good it is.  Excellent support.", "sentiment": "positive", "topics": {"1": "0.17908017", "2": "0.34033164", "3": "0.18017901", "4": "0.20124932", "6": "0.08232366"}}

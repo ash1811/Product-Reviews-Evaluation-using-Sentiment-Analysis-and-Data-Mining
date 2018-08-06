@@ -1,0 +1,1 @@
+{"text": "I have had Totes slippers in the past and have found them to be the most comfortable. These slippers are very comfortable, too, but there are already some loose threads on them after only a couple of weeks' use.", "sentiment": "positive", "topics": {"1": "0.22824684", "2": "0.28410593", "3": "0.30578166", "6": "0.15322967"}}

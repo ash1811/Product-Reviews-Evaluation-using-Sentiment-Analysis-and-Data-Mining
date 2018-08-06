@@ -1,0 +1,1 @@
+{"text": "I am in Nursing Administration.  I have to look professional.  Looks really good and fits great.  I would recommend them to anyone.", "sentiment": "negative", "topics": {"0": "0.36070845", "1": "0.39842585", "2": "0.011004348", "3": "0.12749347", "4": "0.010997707", "5": "0.011021712", "6": "0.08034846"}}

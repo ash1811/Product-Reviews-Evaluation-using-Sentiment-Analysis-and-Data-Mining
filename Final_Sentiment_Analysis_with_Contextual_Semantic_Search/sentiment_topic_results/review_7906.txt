@@ -1,0 +1,1 @@
+{"text": "What a great price and quality was great. XL fir my 6'1 208lb boyfriend perfect. Wish they had all colors", "sentiment": "negative", "topics": {"0": "0.011007676", "1": "0.52669835", "2": "0.1595146", "3": "0.085852385", "4": "0.011002342", "5": "0.11528598", "6": "0.09063864"}}

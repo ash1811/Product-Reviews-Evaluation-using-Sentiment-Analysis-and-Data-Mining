@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband to wear in cold weather.  He says they are not as warm as some he has had before - but does have a nice non-skid bottom so he can wear them outside if he needs to.", "sentiment": "negative", "topics": {"1": "0.28972122", "2": "0.06964955", "4": "0.09407266", "5": "0.33656663", "6": "0.19089115"}}

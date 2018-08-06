@@ -1,0 +1,1 @@
+{"text": "I really can't say much more, as of 5/23/2011 they are $19.95 (multiple styles and shapes) on Allen Edmunds corporate site.", "sentiment": "negative", "topics": {"0": "0.23590682", "2": "0.18536301", "3": "0.37236795", "6": "0.17762984"}}

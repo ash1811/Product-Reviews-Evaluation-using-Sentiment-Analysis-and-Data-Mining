@@ -1,0 +1,1 @@
+{"text": "Suit fits true t size and had some \"substance\" as well.  So far all I expected.  I would order another one if needed.  Maybe next year in a smaller size :)", "sentiment": "positive", "topics": {"0": "0.079630375", "1": "0.23415412", "2": "0.17601886", "3": "0.26165998", "6": "0.23347516"}}

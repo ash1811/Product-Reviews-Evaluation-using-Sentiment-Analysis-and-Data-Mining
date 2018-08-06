@@ -1,0 +1,1 @@
+{"text": "I usually wear a 35x30 so I went with a 36x30 and there to small in the waist I recommend going a couple sizes larger in the waist. The length was fine.", "sentiment": "negative", "topics": {"0": "0.65069026", "2": "0.21015109", "3": "0.103229225"}}

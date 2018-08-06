@@ -1,0 +1,1 @@
+{"text": "I love Teva's and have worn them for years.  I was a little disappointed that they are not as cushy as they used to be.  The soles are harder and not quite as thick as my last pairs.  I still like them, just not as much.", "sentiment": "positive", "topics": {"0": "0.13968803", "1": "0.39227825", "3": "0.296909", "6": "0.14959842"}}

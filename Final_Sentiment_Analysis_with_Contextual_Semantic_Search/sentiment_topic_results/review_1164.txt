@@ -1,0 +1,1 @@
+{"text": "Earrings purchased for gift. They are very pretty and the recipient was pleased - but they are not made for persons with thick ear lobes. Adjustments had to be made to wear. So for persons with thin ear lobes these are great and look very much like picture.", "sentiment": "positive", "topics": {"0": "0.36396468", "1": "0.42625687", "4": "0.0765204", "6": "0.11535748"}}

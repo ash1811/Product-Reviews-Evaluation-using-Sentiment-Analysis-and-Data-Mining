@@ -1,0 +1,1 @@
+{"text": "I have always worn Lee Jeans, they are comfortable and they really last a long time.Look forward purchasing more soon.", "sentiment": "negative", "topics": {"0": "0.18121669", "1": "0.28613514", "2": "0.011020393", "3": "0.011021002", "4": "0.011018341", "5": "0.2347258", "6": "0.26486266"}}

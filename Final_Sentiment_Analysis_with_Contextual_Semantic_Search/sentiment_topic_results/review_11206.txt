@@ -1,0 +1,1 @@
+{"text": "These are rugged and perfect for walking in the woods and on the beach where we live. Durable and waterproof and true to size. Very pleased.", "sentiment": "negative", "topics": {"0": "0.011944386", "1": "0.012000767", "2": "0.011937138", "3": "0.64077926", "4": "0.011934023", "5": "0.29946494", "6": "0.011939448"}}

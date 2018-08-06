@@ -1,0 +1,1 @@
+{"text": "The green in these is so pretty! Very eye catching!  The lever back is my favorite!  GORGEOUS!", "sentiment": "positive", "topics": {"0": "0.39106357", "1": "0.015988564", "2": "0.113589436", "3": "0.015881376", "4": "0.31022462", "5": "0.01596196", "6": "0.13729052"}}

@@ -1,0 +1,1 @@
+{"text": "Great for sleeping or as extra layer for warmth without bulk. Fabric comfortable, look of lace. Recommend these very highly.", "sentiment": "negative", "topics": {"0": "0.010244529", "1": "0.6410343", "2": "0.010224852", "3": "0.010271861", "4": "0.099564254", "5": "0.21845442", "6": "0.010205795"}}

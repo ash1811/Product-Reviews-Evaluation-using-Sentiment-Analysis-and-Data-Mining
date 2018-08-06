@@ -1,0 +1,1 @@
+{"text": "I'm a size 16 and this doesn't even come close to fitting me.  I can't understand why they'd call it &#34;queen&#34; size if it's mean for someone who's a size 4.  Quality seems average.  Returned.", "sentiment": "negative", "topics": {"1": "0.20318341", "3": "0.42947006", "4": "0.09502182", "5": "0.16325383", "6": "0.09712552"}}

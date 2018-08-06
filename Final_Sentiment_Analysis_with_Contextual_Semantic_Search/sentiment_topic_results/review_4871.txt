@@ -1,0 +1,1 @@
+{"text": "Nothing to complain about. Fishnet tights are always a winner. They fit fine. Of course, they rip easily so be careful with that.", "sentiment": "positive", "topics": {"1": "0.26586053", "2": "0.19534951", "3": "0.14905526", "4": "0.13002072", "5": "0.24062733"}}

@@ -1,0 +1,1 @@
+{"text": "Felt like it was a tiny bit large, but not much. Pretty comfortable. I don't think it's that great as an snow boot though.", "sentiment": "negative", "topics": {"0": "0.010223414", "1": "0.59862995", "2": "0.010262114", "3": "0.010234835", "4": "0.23487826", "5": "0.1255375", "6": "0.0102339005"}}

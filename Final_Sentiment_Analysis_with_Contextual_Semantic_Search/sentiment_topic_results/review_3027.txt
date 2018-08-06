@@ -1,0 +1,1 @@
+{"text": "I loved the color and these are all I wear for comfort and support.  When you have on the right bra you look great in your clothes.", "sentiment": "negative", "topics": {"0": "0.013008558", "1": "0.4967308", "2": "0.013005526", "3": "0.3199177", "4": "0.013005757", "5": "0.013033398", "6": "0.13129821"}}

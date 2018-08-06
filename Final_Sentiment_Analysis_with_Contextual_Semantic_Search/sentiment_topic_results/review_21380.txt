@@ -1,0 +1,1 @@
+{"text": "I had read that Keen run small. I wear 8 and I ordered 8.5 they fit perfect! I love them.", "sentiment": "negative", "topics": {"0": "0.011006151", "1": "0.36233014", "2": "0.011005304", "3": "0.39514548", "4": "0.11738336", "5": "0.011005569", "6": "0.092123985"}}

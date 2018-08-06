@@ -1,0 +1,1 @@
+{"text": "Buy it if you want something on the longer end of the spectrum but keep in mind that the material is not very comfortable.", "sentiment": "negative", "topics": {"0": "0.013031456", "1": "0.6950365", "2": "0.013030835", "3": "0.23986201", "4": "0.01300153", "5": "0.013014445", "6": "0.013023184"}}

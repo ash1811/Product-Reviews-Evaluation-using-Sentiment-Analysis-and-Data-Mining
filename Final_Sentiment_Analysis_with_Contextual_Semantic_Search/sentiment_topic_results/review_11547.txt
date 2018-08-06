@@ -1,0 +1,1 @@
+{"text": "A very good buy. The price is very reasonable. I recommend this product to anyone who wants a casual or even dress earring.", "sentiment": "negative", "topics": {"0": "0.42260918", "1": "0.3951401", "2": "0.011009111", "3": "0.0109973755", "4": "0.011011073", "5": "0.13822956", "6": "0.011003568"}}

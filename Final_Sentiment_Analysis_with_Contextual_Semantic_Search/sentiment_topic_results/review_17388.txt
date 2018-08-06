@@ -1,0 +1,1 @@
+{"text": "When we had a week of single-digit temps in Virginia, I wore these under my regular work closes to and at the office.", "sentiment": "negative", "topics": {"0": "0.12603399", "1": "0.014304837", "2": "0.014300224", "3": "0.4059094", "4": "0.13489033", "5": "0.014339198", "6": "0.29022202"}}

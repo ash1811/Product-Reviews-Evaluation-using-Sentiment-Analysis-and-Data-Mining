@@ -1,0 +1,1 @@
+{"text": "This is exactly what I needed to organize my travel needs. It is large has two compartments and is well made. I am very happy with it.", "sentiment": "negative", "topics": {"0": "0.13596976", "1": "0.37475893", "2": "0.15440656", "3": "0.16869743", "4": "0.011015977", "5": "0.011013076", "6": "0.14413825"}}

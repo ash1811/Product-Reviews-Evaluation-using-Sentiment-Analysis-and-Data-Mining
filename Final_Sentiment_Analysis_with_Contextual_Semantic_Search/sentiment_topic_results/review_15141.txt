@@ -1,0 +1,1 @@
+{"text": "Not enough arch support so I added a gel insert. I wear these all day as a nurse. I expect good support and have had good luck with Adidas in the past...but these aren't quite as good for support.", "sentiment": "negative", "topics": {"1": "0.1638181", "2": "0.04812961", "3": "0.36260128", "5": "0.35910186", "6": "0.052041046"}}

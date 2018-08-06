@@ -1,0 +1,1 @@
+{"text": "These Skechers Journeyman Safari Sandals are the best.I think this the first time I've ever bought a pair of Skechers, and I am just delighted.", "sentiment": "positive", "topics": {"1": "0.1088467", "3": "0.33172435", "4": "0.20089677", "5": "0.3298402"}}

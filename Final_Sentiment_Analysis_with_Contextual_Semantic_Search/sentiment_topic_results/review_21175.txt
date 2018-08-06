@@ -1,0 +1,1 @@
+{"text": "My grandson is really into superheros right now and this was a great gift. Lots of fun for young boys. My granddaughter also enjoyed the costumes.", "sentiment": "negative", "topics": {"0": "0.38965526", "1": "0.1763866", "4": "0.395772"}}

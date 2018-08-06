@@ -1,0 +1,1 @@
+{"text": "i have been wearing these for years and they are awesome, durable comfortable and at a good price. the best sneaker i've ever owned.", "sentiment": "negative", "topics": {"0": "0.01104207", "1": "0.6176123", "2": "0.011002556", "3": "0.1878296", "4": "0.011037221", "5": "0.15048715", "6": "0.010989038"}}

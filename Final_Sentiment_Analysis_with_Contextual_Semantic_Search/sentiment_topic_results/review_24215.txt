@@ -1,0 +1,1 @@
+{"text": "They are comfortable for being a Big figured women. It's hard to find bra's that jave comfort and fit.  My order came fast.", "sentiment": "positive", "topics": {"0": "0.29387894", "1": "0.4047005", "2": "0.010224664", "3": "0.08546646", "4": "0.102809094", "5": "0.010221371", "6": "0.09269903"}}

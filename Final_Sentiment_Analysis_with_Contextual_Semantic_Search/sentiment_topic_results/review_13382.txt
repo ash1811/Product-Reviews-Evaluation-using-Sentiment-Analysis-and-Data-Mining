@@ -1,0 +1,1 @@
+{"text": "All of the numbers fell offIt's a stunning watch but not worth anything nowInvicta is very very very low in responding", "sentiment": "positive", "topics": {"0": "0.012992282", "1": "0.2096569", "2": "0.38790312", "3": "0.012987551", "4": "0.3504665", "5": "0.013005241", "6": "0.012988363"}}

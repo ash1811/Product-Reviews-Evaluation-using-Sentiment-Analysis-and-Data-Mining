@@ -1,0 +1,1 @@
+{"text": "The size says 38 but it feels like a 36. These pants were way to small at the hips. I quess I need a larger size than I normally wear.", "sentiment": "negative", "topics": {"1": "0.27769715", "3": "0.2489585", "4": "0.14989476", "6": "0.29815528"}}

@@ -1,0 +1,1 @@
+{"text": "The color of the boots are much more of a red than the boots I received.  I really can't describe the color that I received, but I really didn't like them - so, back to Amazon they went.", "sentiment": "positive", "topics": {"0": "0.3428995", "1": "0.3091086", "4": "0.18657419", "5": "0.13755593"}}

@@ -1,0 +1,1 @@
+{"text": "I at Amazon andd have owned Reptiles, Coyotes, and Mauis.  I love the Mauis.  They are so clear and stylish.  They just look and feel first class.  Best price at Amazon and you know they are authentic!!!", "sentiment": "negative", "topics": {"0": "0.22949786", "2": "0.04540733", "3": "0.1121104", "4": "0.24236155", "5": "0.2668322", "6": "0.09663132"}}

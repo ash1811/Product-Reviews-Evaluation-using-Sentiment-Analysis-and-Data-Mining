@@ -1,0 +1,1 @@
+{"text": "I bought them to slip over my tennis shoes on my 5 mile walks in rainy Seattle.  They didn't fit close enough for that kind of extended use so I returned them but could see them working quite well in city situations.", "sentiment": "positive", "topics": {"0": "0.11338178", "1": "0.31869075", "2": "0.30213815", "4": "0.18377504", "6": "0.07006303"}}

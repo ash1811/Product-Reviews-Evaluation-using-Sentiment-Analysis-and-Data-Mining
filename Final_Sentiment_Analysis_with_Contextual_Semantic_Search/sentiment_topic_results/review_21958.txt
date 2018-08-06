@@ -1,0 +1,1 @@
+{"text": "My husband says this shirt does not weigh him down but does keep him warm and of course it is camo, his favorite.  He wears it every day.", "sentiment": "negative", "topics": {"0": "0.01101787", "1": "0.011121907", "2": "0.01100287", "3": "0.011025993", "4": "0.3563012", "5": "0.4715166", "6": "0.12801355"}}

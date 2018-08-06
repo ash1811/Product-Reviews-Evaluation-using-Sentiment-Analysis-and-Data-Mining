@@ -1,0 +1,1 @@
+{"text": "My husband has always required big and tall sizes in clothes.  I ordered these and have washed them and they did not shrink.  he still enjoys wearing them.", "sentiment": "negative", "topics": {"1": "0.5596663", "3": "0.21317779", "4": "0.1889279"}}

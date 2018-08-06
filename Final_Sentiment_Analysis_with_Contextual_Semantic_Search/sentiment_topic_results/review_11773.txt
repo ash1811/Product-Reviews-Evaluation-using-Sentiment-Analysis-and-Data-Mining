@@ -1,0 +1,1 @@
+{"text": "8 is my size, and this fits well.  Love wearing for water aerobics, and walking around the pool and locker room", "sentiment": "negative", "topics": {"0": "0.010231244", "1": "0.43990204", "2": "0.1697664", "3": "0.10757461", "4": "0.12041598", "5": "0.14185482", "6": "0.010254932"}}

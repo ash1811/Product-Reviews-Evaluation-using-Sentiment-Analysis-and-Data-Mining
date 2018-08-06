@@ -1,0 +1,1 @@
+{"text": "I got a medium, should have got a large, fits a little snug, but still wearable, I live in a very hot climae, and like my arms covered, and this is light weight enough for summer heat.", "sentiment": "negative", "topics": {"0": "0.09916303", "1": "0.37693605", "3": "0.042688604", "4": "0.20417958", "6": "0.26338345"}}

@@ -1,0 +1,1 @@
+{"text": "I took the advice of other reviews & order one size up. It worked. My husband usually wears a 34 but ordered a 36 and it fit well. It also looks like it doesn't need ironing street", "sentiment": "positive", "topics": {"0": "0.09675423", "1": "0.45473894", "4": "0.14513268", "6": "0.28467605"}}

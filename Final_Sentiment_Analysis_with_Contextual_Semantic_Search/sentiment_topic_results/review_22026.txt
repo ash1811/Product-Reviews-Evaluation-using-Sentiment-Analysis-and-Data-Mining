@@ -1,0 +1,1 @@
+{"text": "Oakley sunglasses are the best! The Gascan with polarized lenses are great for all activities. They are well constructed and should last for a very long time.", "sentiment": "negative", "topics": {"0": "0.24119517", "1": "0.40458772", "2": "0.07788171", "3": "0.17007397", "4": "0.010245745", "5": "0.010260446", "6": "0.085755266"}}

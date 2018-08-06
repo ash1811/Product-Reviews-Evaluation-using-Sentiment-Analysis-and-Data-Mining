@@ -1,0 +1,1 @@
+{"text": "I want it to be cheaper, but this is the cheapest I've seen it. Indiglo Dial, easy to read, good band, durable and will lat a while. Just try to keep from losing it - no one will give it back.", "sentiment": "negative", "topics": {"1": "0.26386154", "2": "0.23276168", "3": "0.26946563", "4": "0.14770612", "6": "0.0731766"}}

@@ -1,0 +1,1 @@
+{"text": "These shoes are cute except when I went to put them on the right shoe was a little smaller than the left and felt uncomfortable. Hence, I had to return.", "sentiment": "negative", "topics": {"0": "0.1293309", "1": "0.24875012", "2": "0.21626338", "3": "0.23992105", "6": "0.14661522"}}

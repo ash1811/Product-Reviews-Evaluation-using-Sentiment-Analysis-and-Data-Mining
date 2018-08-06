@@ -1,0 +1,1 @@
+{"text": "The description and pictures do not correspond to what actually sold.I wanted to buy exactly what I saw. But was disappointed. Although the fit of Lee as always good.", "sentiment": "negative", "topics": {"0": "0.059442688", "1": "0.31647083", "2": "0.42725086", "3": "0.10168985", "6": "0.07725387"}}

@@ -1,0 +1,1 @@
+{"text": "Gets the job done and then some, I need to order extras of this and other base layers asap. Must buy", "sentiment": "negative", "topics": {"0": "0.21628705", "1": "0.27350858", "2": "0.20238279", "3": "0.18902563", "4": "0.010996785", "5": "0.011021777", "6": "0.09677737"}}

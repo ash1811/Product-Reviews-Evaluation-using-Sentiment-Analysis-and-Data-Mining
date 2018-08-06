@@ -1,0 +1,1 @@
+{"text": "Purchased this book to go with a toy firetruck and fireman story book. The three year old I purchased these for loves them.", "sentiment": "positive", "topics": {"0": "0.24118493", "1": "0.30903187", "3": "0.28297013", "4": "0.1382043"}}

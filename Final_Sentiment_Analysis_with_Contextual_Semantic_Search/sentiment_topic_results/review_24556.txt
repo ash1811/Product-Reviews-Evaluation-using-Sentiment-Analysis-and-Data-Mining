@@ -1,0 +1,1 @@
+{"text": "I read the reviews before ordering and knew to order up in size. My daughter is around 5'2&#34; and wears a size 5 in women's clothing. We bought her a large and it fits her very well.", "sentiment": "negative", "topics": {"0": "0.10336088", "1": "0.49315578", "2": "0.063924044", "3": "0.31692907"}}

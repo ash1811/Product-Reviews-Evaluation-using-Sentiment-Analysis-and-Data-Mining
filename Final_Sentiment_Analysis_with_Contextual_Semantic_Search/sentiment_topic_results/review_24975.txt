@@ -1,0 +1,1 @@
+{"text": "These fit well in my shoes horizontally, but vertically is another storyI am practically walking out of my shoesI need to find the same support but in a thinner insert;)", "sentiment": "positive", "topics": {"1": "0.25438422", "2": "0.1433505", "3": "0.1003855", "4": "0.19255699", "5": "0.20359178", "6": "0.096794136"}}

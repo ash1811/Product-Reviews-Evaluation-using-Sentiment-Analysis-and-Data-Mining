@@ -1,0 +1,1 @@
+{"text": "Unisex for me was larger in size than the ladies size so I returned them. I would never buy unisex again.", "sentiment": "positive", "topics": {"0": "0.011001632", "1": "0.10176328", "2": "0.01100842", "3": "0.56514", "4": "0.2890732", "5": "0.011010232", "6": "0.011003208"}}

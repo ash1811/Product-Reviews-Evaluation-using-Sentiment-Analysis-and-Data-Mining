@@ -1,0 +1,1 @@
+{"text": "I got it for a my 4 y.o. grandson, we like it, but did not wear yet. All our grandkids want to wear Star War costumes the year. I hope it will durable enough.", "sentiment": "positive", "topics": {"0": "0.27410904", "1": "0.5077866", "4": "0.18784809"}}

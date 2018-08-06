@@ -1,0 +1,1 @@
+{"text": "I purchased these for my nephew's first holy communion. They made a really nice gift. Glad that I bought him something for such a memorable day.", "sentiment": "positive", "topics": {"0": "0.1242871", "1": "0.45484543", "4": "0.21049346", "5": "0.18176734"}}

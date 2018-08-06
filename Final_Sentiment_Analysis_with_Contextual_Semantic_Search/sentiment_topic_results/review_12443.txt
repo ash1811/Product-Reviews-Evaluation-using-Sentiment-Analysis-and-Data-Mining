@@ -1,0 +1,1 @@
+{"text": "Comfortable and well made. Feel good on the feet. Also the purple is a violet color which gives a pop", "sentiment": "negative", "topics": {"0": "0.011010999", "1": "0.53585744", "2": "0.01099799", "3": "0.011006947", "4": "0.20171267", "5": "0.011009652", "6": "0.21840426"}}

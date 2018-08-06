@@ -1,0 +1,1 @@
+{"text": "It's what I expected in a polo shirt. Pure quality since it is a Hanes jersey. I would recommend this shirt to anyone.", "sentiment": "negative", "topics": {"0": "0.011032369", "1": "0.4965814", "2": "0.16968393", "3": "0.011032", "4": "0.011046552", "5": "0.28959867", "6": "0.011025075"}}

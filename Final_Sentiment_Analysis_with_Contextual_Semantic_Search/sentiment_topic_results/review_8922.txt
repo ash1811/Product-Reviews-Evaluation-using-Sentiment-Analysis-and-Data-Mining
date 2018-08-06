@@ -1,0 +1,1 @@
+{"text": "They just don't fit me like New Balance shoes do. They are good quality and nothing wrong with the shoe itself.", "sentiment": "positive", "topics": {"0": "0.01100497", "1": "0.27186257", "2": "0.5019276", "3": "0.18214819", "4": "0.010994565", "5": "0.011014925", "6": "0.01104719"}}

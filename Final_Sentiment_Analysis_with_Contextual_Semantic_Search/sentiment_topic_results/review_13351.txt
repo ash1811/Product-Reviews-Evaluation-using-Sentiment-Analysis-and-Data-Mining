@@ -1,0 +1,1 @@
+{"text": "The soles of these sandals are wonderful--the straps that go over the feet, not so much. No matter how I adjust them, they just aren't comfortable.", "sentiment": "negative", "topics": {"0": "0.12012228", "1": "0.29861292", "2": "0.3235278", "3": "0.011939037", "4": "0.22197057", "5": "0.01192134", "6": "0.011906055"}}

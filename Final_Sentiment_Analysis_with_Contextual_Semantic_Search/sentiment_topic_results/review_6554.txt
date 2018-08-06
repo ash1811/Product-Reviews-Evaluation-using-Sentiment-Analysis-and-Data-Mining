@@ -1,0 +1,1 @@
+{"text": "The fit was great also a great pair of crew sock. They are not to bulky and feel great with your sneakers or if you wear with shoes.", "sentiment": "negative", "topics": {"0": "0.010249467", "1": "0.36679462", "2": "0.15400214", "3": "0.010240331", "4": "0.15120788", "5": "0.2972599", "6": "0.010245639"}}

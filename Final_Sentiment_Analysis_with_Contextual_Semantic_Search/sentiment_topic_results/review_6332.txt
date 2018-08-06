@@ -1,0 +1,1 @@
+{"text": "opened the package and put them on, he wore them all day long.  Thank you so much for getting them to him by Christmas.", "sentiment": "positive", "topics": {"0": "0.18715782", "1": "0.20146199", "2": "0.10518916", "3": "0.011939922", "4": "0.011925666", "5": "0.47037292", "6": "0.011952505"}}

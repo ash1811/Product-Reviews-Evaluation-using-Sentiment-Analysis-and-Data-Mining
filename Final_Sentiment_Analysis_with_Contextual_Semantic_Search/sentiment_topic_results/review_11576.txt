@@ -1,0 +1,1 @@
+{"text": "Pretty colorVery comfortablePants are a little too long for me at5'2&#34;.Size smaller probably would be better.", "sentiment": "negative", "topics": {"0": "0.19861871", "1": "0.21014099", "2": "0.013006622", "3": "0.5392158", "4": "0.012995847", "5": "0.013013504", "6": "0.013008589"}}

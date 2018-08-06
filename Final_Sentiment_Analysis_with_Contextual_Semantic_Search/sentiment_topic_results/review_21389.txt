@@ -1,0 +1,1 @@
+{"text": "I really wanted to like these, but they wouldn't stay on my feet with no strap on the back. The length and width were perfect (I ordered a 41N and usually wear an 11N - 11AAAA).They looked really nice and were comfortable.", "sentiment": "negative", "topics": {"1": "0.5515888", "2": "0.080403976", "4": "0.089589186", "5": "0.25969324"}}

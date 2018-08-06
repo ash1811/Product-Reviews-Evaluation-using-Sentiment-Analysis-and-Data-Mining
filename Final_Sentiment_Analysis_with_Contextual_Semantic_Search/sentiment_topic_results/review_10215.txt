@@ -1,0 +1,1 @@
+{"text": "The price and the sterling silver box chain is the perfect size. So glad I purchased it and recieved it so guickly.", "sentiment": "negative", "topics": {"0": "0.253855", "1": "0.19721498", "2": "0.0119207725", "3": "0.27029598", "4": "0.24282797", "5": "0.011947526", "6": "0.011937798"}}

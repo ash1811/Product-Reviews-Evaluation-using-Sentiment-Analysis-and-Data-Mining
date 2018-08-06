@@ -1,0 +1,1 @@
+{"text": "I purchased these for my daughter for a St. Patty's day parade. They were huge on her and she is 12 years old. But the part that I didn't like was how extremely thin they are. She had to wear regular tights under them to keep warm.", "sentiment": "negative", "topics": {"0": "0.16515784", "1": "0.17743069", "2": "0.0714992", "3": "0.35766062", "5": "0.21460116"}}

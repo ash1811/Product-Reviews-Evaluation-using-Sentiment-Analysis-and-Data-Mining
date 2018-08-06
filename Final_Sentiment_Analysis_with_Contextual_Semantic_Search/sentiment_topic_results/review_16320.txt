@@ -1,0 +1,1 @@
+{"text": "I love my Spanx and these are no exception.  They are warm, I like the fact they are reversible I can wear them with different outfits, they don't snag, and they are sooooo comfortable.  Plus they keep my muffin top looking flat!!", "sentiment": "positive", "topics": {"1": "0.38308915", "3": "0.29471707", "6": "0.29352066"}}

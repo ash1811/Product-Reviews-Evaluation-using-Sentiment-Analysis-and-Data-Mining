@@ -1,0 +1,1 @@
+{"text": "I wanted to have as close to original a pair of Penny Loafers.  I was going to a DO WOP party and needed to have something on my feet from the 50's.  they did the trick.  Took a few days to break in and after that,  comfortable and look absolutely great.", "sentiment": "positive", "topics": {"0": "0.081646465", "1": "0.3330981", "2": "0.36160445", "4": "0.20491065"}}

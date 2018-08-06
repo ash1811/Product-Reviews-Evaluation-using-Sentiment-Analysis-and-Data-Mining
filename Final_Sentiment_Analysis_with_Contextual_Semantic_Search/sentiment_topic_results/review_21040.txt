@@ -1,0 +1,1 @@
+{"text": "These leggings are long andI am 5' 10&#34; and they fit me just fine. The quality is nice and are holding up well.", "sentiment": "negative", "topics": {"0": "0.011915044", "1": "0.4352744", "2": "0.1884307", "3": "0.011919636", "4": "0.22032936", "5": "0.1202122", "6": "0.011918675"}}

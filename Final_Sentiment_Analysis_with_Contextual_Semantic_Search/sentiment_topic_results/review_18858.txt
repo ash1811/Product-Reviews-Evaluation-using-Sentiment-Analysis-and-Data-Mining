@@ -1,0 +1,1 @@
+{"text": "Neat looking jeans with a length fit that's right on. Waist is lower than older models but comfortable as long as you keep activities calm and reasonable vigor........", "sentiment": "negative", "topics": {"0": "0.107240774", "1": "0.22713916", "2": "0.07226481", "3": "0.21362719", "6": "0.36539084"}}

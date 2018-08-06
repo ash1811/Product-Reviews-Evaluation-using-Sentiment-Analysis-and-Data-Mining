@@ -1,0 +1,1 @@
+{"text": "This shirt is okay. It fits large so get one size smaller that normal. It seems to be fading fast too. For the money, it's not that great. A lot of people seem to highly rate this shirt, but to me it's nothing special.", "sentiment": "negative", "topics": {"0": "0.09767888", "1": "0.21256782", "2": "0.14789899", "3": "0.30219245", "5": "0.22770786"}}

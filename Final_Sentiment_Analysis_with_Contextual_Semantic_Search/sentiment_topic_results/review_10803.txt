@@ -1,0 +1,1 @@
+{"text": "These slippers wear with comfort, but are not durable.  I have washed them about 3 times and the soles have split the length of the slipper.", "sentiment": "negative", "topics": {"0": "0.011941862", "1": "0.59766906", "2": "0.011927807", "3": "0.01191852", "4": "0.01191603", "5": "0.011945865", "6": "0.34268084"}}

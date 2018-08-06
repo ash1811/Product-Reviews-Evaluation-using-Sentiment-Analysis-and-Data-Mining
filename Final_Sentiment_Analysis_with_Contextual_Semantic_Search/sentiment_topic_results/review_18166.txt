@@ -1,0 +1,1 @@
+{"text": "Great quality watch for a reasonable price. The face of the watch is big, like I wanted, for my 6'5&#34; husband. The gold face gives this sport watch a little glimmer of class.  This is my husband's everyday watch, even in the office.", "sentiment": "negative", "topics": {"0": "0.07443165", "1": "0.22174819", "2": "0.3839695", "3": "0.104746774", "4": "0.2040978"}}

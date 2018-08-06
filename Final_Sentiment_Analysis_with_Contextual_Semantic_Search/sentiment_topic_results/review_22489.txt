@@ -1,0 +1,1 @@
+{"text": "Thought I was getting the colors as pictured but instead I got white, white with pink prints and plain.Fit great though", "sentiment": "negative", "topics": {"0": "0.010265776", "1": "0.24824224", "2": "0.010241103", "3": "0.010281767", "4": "0.17826794", "5": "0.40533027", "6": "0.1373709"}}

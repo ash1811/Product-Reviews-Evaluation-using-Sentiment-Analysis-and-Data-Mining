@@ -1,0 +1,1 @@
+{"text": "mens size is not accurate.  Waist was small, the fit was not at all right.  I would not recommend these pants.", "sentiment": "positive", "topics": {"0": "0.013027019", "1": "0.587266", "2": "0.1311444", "3": "0.01305787", "4": "0.013009554", "5": "0.013009661", "6": "0.2294855"}}

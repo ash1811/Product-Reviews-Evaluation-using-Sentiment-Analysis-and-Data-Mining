@@ -1,0 +1,1 @@
+{"text": "These sandals are very comfortable. Have a great traction and are non slippery (more than I'm used to).Overall sandals are good to go.", "sentiment": "positive", "topics": {"0": "0.01023131", "1": "0.50512797", "2": "0.010233782", "3": "0.44375744", "4": "0.010214086", "5": "0.010226602", "6": "0.010208842"}}

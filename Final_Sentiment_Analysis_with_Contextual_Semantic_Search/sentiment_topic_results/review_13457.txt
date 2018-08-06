@@ -1,0 +1,1 @@
+{"text": "I ordered the wide because I have a wider foot. These are very comfortable. I would highly recommend for casual wear.", "sentiment": "negative", "topics": {"0": "0.013021487", "1": "0.8135189", "2": "0.013006523", "3": "0.0130182495", "4": "0.12139959", "5": "0.013030264", "6": "0.01300503"}}

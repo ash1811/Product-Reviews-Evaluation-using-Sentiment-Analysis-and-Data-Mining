@@ -1,0 +1,1 @@
+{"text": "My husband said they are very comfortable and easy to walk in, which he does a lot of. They also look really nice on him. Great buy!", "sentiment": "negative", "topics": {"1": "0.52439165", "2": "0.083498836", "4": "0.26311493", "5": "0.10213161"}}

@@ -1,0 +1,1 @@
+{"text": "Great fit! Both the gown and robe are very flattering and confortable. I can't to buy more in other colors?", "sentiment": "negative", "topics": {"0": "0.1395602", "1": "0.5252534", "2": "0.13685088", "3": "0.15537879", "4": "0.014351073", "5": "0.014313991", "6": "0.01429165"}}

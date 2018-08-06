@@ -1,0 +1,1 @@
+{"text": "These aqua shoes have a great sole for constant running and wall tapping in aqua aerobics. I do not like the inner sole lining sliding all around.", "sentiment": "negative", "topics": {"0": "0.14819309", "2": "0.15633626", "4": "0.13087624", "5": "0.38753104", "6": "0.16021979"}}

@@ -1,0 +1,1 @@
+{"text": "It is HUGE---everything you own you can easily organize into this wallet--made well-sturdy-soft--but know you must have at least a medium size pocketbook for it to fit in...this is no small wallet.", "sentiment": "positive", "topics": {"1": "0.1739479", "3": "0.4398672", "4": "0.1671743", "6": "0.19217807"}}

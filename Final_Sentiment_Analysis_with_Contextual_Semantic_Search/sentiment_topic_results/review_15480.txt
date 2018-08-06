@@ -1,0 +1,1 @@
+{"text": "It is so thinny! I love it because I can wear it with my formal clothes, and it looks so fancy. This is a MUST!", "sentiment": "negative", "topics": {"0": "0.015908428", "1": "0.01599345", "2": "0.015893824", "3": "0.51556325", "4": "0.015959067", "5": "0.4047908", "6": "0.015891135"}}

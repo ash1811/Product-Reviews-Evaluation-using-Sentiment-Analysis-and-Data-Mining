@@ -1,0 +1,1 @@
+{"text": "I had to go a size up to get a good fit. Great for wearing in warmer weather. I even use them as a light weight summer boot for local rides on my motorcycle.", "sentiment": "negative", "topics": {"1": "0.5077361", "2": "0.16501668", "4": "0.08209531", "6": "0.22249639"}}

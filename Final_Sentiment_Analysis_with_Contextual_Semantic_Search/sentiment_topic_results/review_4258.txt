@@ -1,0 +1,1 @@
+{"text": "The quality is still the same as I remember it. Unfortunately the sneaker does not run narrow andd the medium is just to wide. Disappointed skinny feet.", "sentiment": "negative", "topics": {"0": "0.27951354", "1": "0.38779056", "3": "0.2944774"}}

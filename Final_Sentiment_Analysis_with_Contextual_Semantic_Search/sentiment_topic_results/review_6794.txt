@@ -1,0 +1,1 @@
+{"text": "Not a fadable color - dark green.Thick textured pattern shirt. Classic style and cut. Great with jeans & boots.Would need to iron.", "sentiment": "positive", "topics": {"1": "0.12055107", "2": "0.07994044", "5": "0.69596356", "6": "0.07671696"}}

@@ -1,0 +1,1 @@
+{"text": "This bra is not as comfortable as I expected after seeing the video, etc.  The below breast band rolls easily and then becomes uncomfortable.  I do like the wide straps.", "sentiment": "negative", "topics": {"1": "0.44018775", "2": "0.20017222", "3": "0.09319682", "6": "0.23956181"}}

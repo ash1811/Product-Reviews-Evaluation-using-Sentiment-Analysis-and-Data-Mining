@@ -1,0 +1,1 @@
+{"text": "Good.  This product was good and will fit the owner perfectly.  Material good and everything else good. Description was good", "sentiment": "positive", "topics": {"0": "0.010225182", "1": "0.5469681", "2": "0.31422067", "3": "0.010210271", "4": "0.010213157", "5": "0.09795462", "6": "0.010208012"}}

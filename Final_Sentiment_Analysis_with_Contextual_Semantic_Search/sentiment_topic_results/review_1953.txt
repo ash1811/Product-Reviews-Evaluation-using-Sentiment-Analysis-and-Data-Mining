@@ -1,0 +1,1 @@
+{"text": "First worry when buying shoes is their age as leather can by dry. This pair has soft leather. I would buy the same again.", "sentiment": "negative", "topics": {"0": "0.010235354", "1": "0.20624664", "2": "0.28194568", "3": "0.010238392", "4": "0.33741412", "5": "0.010240991", "6": "0.14367883"}}

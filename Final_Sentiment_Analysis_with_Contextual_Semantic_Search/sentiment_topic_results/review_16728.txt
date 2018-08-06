@@ -1,0 +1,1 @@
+{"text": "Bought for son for Christmas so he would stop taking mine. He really likes it. Would buy for any guy.", "sentiment": "negative", "topics": {"0": "0.010241334", "1": "0.52966034", "2": "0.010247107", "3": "0.31675416", "4": "0.112557374", "5": "0.0102572935", "6": "0.010282389"}}

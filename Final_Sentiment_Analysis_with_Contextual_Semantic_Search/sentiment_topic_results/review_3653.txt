@@ -1,0 +1,1 @@
+{"text": "I've had these eyeglasses cases for over three years and they are still in great shape. The design and materials are wonderful, offering a lightweight and compact case. I am so happy that these are still available since I plan to order more for gifts.", "sentiment": "negative", "topics": {"0": "0.17379344", "3": "0.4794548", "5": "0.3218181"}}

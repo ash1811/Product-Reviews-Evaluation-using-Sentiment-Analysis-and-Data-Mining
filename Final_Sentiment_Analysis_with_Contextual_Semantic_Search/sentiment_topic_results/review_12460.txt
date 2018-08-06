@@ -1,0 +1,1 @@
+{"text": "These are my favorite brand of flip flops. I wear a size 11 in everything and that is the size I ordered! They are a bit snug at first.... but they will stretch out. I would purchase again and again.", "sentiment": "negative", "topics": {"1": "0.23001254", "2": "0.13115592", "3": "0.27748385", "4": "0.25317156", "6": "0.093087025"}}

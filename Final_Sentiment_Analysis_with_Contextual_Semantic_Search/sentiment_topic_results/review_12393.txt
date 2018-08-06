@@ -1,0 +1,1 @@
+{"text": "My husband claims that these are not as comfortable or as soft as his older pair. Maybe just needs some time to break in (the other did not).  Kept them anyway. Still a fan of Sanuk.", "sentiment": "negative", "topics": {"0": "0.09357559", "1": "0.35641298", "2": "0.2707442", "3": "0.07511165", "4": "0.07775819", "6": "0.11845145"}}

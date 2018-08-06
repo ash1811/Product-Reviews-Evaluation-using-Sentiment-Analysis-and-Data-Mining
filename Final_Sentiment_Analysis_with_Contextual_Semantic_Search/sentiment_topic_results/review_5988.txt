@@ -1,0 +1,1 @@
+{"text": "I bought this shawl as a complement to the One-Size-Fits Tube Dress. Its softness and fabric quality highlighted my wife's beauty. She looked fantastic, gorgeous.", "sentiment": "positive", "topics": {"0": "0.2992163", "1": "0.23507626", "4": "0.35865262", "6": "0.08013474"}}

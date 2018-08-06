@@ -1,0 +1,1 @@
+{"text": "made my big legs look great.. hubby said they are beautiful.. thank you.. I'm a big woman and it's hard to find things that loo sexy..", "sentiment": "positive", "topics": {"0": "0.09968795", "1": "0.37822595", "2": "0.07783534", "3": "0.24729508", "5": "0.18187895"}}

@@ -1,0 +1,1 @@
+{"text": "Keeps perfect time and has nice plain styling. All I want is a watch, and this only displays the time using three hands. It doesn't even display the date. Great price.", "sentiment": "negative", "topics": {"0": "0.6351726", "2": "0.07631685", "3": "0.258333"}}

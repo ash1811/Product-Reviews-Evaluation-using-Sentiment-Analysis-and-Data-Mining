@@ -1,0 +1,1 @@
+{"text": "My favorite bra out there - it's soft, comfortable, and shows smooth through thin blouses.  I machine wash and dry these bras, and on average they last me about 18+ months - pretty darn good in my book.", "sentiment": "positive", "topics": {"0": "0.37781844", "1": "0.16125065", "2": "0.062266797", "3": "0.12620308", "4": "0.11706796", "5": "0.14857227"}}

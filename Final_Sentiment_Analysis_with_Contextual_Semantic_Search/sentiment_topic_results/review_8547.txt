@@ -1,0 +1,1 @@
+{"text": "I sent these back. They are PLASTIC! They used to be leather, and their softness was one of their best features. My mother-in-law has bad bunions and these will NEVER stretch to her foot. A huge disappointment!", "sentiment": "negative", "topics": {"1": "0.35475647", "2": "0.21464474", "3": "0.13580778", "4": "0.27094376"}}

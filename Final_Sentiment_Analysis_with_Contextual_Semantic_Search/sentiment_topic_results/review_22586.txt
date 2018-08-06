@@ -1,0 +1,1 @@
+{"text": "For the price & size & fitting wise,  I would not order again.  Maybe Amazon is not good in clothing portion.", "sentiment": "positive", "topics": {"0": "0.16169275", "1": "0.011052125", "2": "0.10343338", "3": "0.21953999", "4": "0.48222083", "5": "0.011016534", "6": "0.011044388"}}

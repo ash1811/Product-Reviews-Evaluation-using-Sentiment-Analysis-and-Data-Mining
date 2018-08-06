@@ -1,0 +1,1 @@
+{"text": "I enjoy this bag very much.  It is roomy enough for all my stuff, but inconvenient to open and close straps.  It you don't close them though you risk having your stuff fall out of the bag.", "sentiment": "positive", "topics": {"1": "0.32883087", "2": "0.08772214", "3": "0.5497289"}}

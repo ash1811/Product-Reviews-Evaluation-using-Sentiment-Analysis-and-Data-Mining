@@ -1,0 +1,1 @@
+{"text": "The flip flop is very comfortable and has about 1&#34;to 1.2&#34; of sole and the cushion is not soft but not hard either , that's what I was looking for. I'm happy with the purchase.", "sentiment": "negative", "topics": {"0": "0.17324479", "1": "0.37530613", "2": "0.19499415", "5": "0.15152499", "6": "0.0880438"}}

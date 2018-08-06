@@ -1,0 +1,1 @@
+{"text": "Really like these small hoops. They are great basic earrings and and have super good quality. The latch closes easily and securely.  No problems sleeping with them.", "sentiment": "positive", "topics": {"1": "0.50555897", "3": "0.26817867", "4": "0.06804528", "6": "0.13435365"}}

@@ -1,0 +1,1 @@
+{"text": "I have owned this watch for a little over a month, it not only looks great (kinda like an Omega) but it is very durable. This watch looks like it cost much more.", "sentiment": "negative", "topics": {"1": "0.4020576", "2": "0.3222833", "3": "0.24191405"}}

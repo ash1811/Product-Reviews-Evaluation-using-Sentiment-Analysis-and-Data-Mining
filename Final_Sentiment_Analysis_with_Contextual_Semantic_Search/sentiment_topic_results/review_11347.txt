@@ -1,0 +1,1 @@
+{"text": "My size is between M and L depending on the Brand. In this case I chose L which worked better for me. I bought these with comfort being the top of my concerns. These are very comfortable and practical.", "sentiment": "negative", "topics": {"1": "0.26912567", "3": "0.43873945", "4": "0.08812207", "6": "0.17872858"}}

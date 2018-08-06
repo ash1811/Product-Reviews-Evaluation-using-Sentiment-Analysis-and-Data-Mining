@@ -1,0 +1,1 @@
+{"text": "I only buy barely there bras. They are very flattering if you have smaller girls. These bras are so comfy and work great with just about any shirt!", "sentiment": "negative", "topics": {"0": "0.2540182", "1": "0.16112666", "2": "0.011976304", "3": "0.53705436", "4": "0.011957903", "5": "0.011944705", "6": "0.011921834"}}

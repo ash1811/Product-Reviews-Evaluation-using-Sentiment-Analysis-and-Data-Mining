@@ -1,0 +1,1 @@
+{"text": "These classic vans are timeless, but I had to size them up a half size relative to most of my other shoes; this holds for Vans in general. Just beware that this Vans style comes with no arch support or insole cushioning.", "sentiment": "negative", "topics": {"2": "0.20909564", "3": "0.4283456", "6": "0.33379614"}}

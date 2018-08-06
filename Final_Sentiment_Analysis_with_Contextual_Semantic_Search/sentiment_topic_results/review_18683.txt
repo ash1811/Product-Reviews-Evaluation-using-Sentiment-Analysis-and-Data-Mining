@@ -1,0 +1,1 @@
+{"text": "Just had to have that differant shade. Fence net has larger spacing so there differant but they work just great.", "sentiment": "negative", "topics": {"0": "0.014319557", "1": "0.014341298", "2": "0.014309293", "3": "0.014322718", "4": "0.3374176", "5": "0.34686795", "6": "0.2584216"}}

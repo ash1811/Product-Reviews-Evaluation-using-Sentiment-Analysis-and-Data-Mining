@@ -1,0 +1,1 @@
+{"text": "It really works and cleaned my jewelry very well. Silver and Gold. Some of my older jewelry hadn't been cleaned in years and years, now they look new.", "sentiment": "negative", "topics": {"0": "0.22051258", "1": "0.42170057", "3": "0.31961977"}}

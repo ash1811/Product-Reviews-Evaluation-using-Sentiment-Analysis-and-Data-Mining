@@ -1,0 +1,1 @@
+{"text": "these are great and perfect for any woman they keep your feet from getting hurt by any particle in the floor", "sentiment": "negative", "topics": {"0": "0.16752581", "1": "0.38536513", "2": "0.014295915", "3": "0.014347238", "4": "0.28157684", "5": "0.014309801", "6": "0.1225793"}}

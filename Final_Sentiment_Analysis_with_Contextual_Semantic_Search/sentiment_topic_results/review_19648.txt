@@ -1,0 +1,1 @@
+{"text": "My Size: 8 women, 7 MenSize Ordered: 7Fit: 1/2 inch at the toe, however a very comfortable fitStyle: love this style, nice casual/dressQuality: great quality", "sentiment": "positive", "topics": {"1": "0.4845191", "5": "0.13347994", "6": "0.35331947"}}

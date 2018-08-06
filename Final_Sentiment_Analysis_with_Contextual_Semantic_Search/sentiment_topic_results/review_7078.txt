@@ -1,0 +1,1 @@
+{"text": "Did't fit because I ordered the wrong size very pretty design just not the right cup size... To much trouble for me to return so i kept", "sentiment": "positive", "topics": {"0": "0.08755427", "1": "0.484591", "2": "0.07329049", "5": "0.10665522", "6": "0.22877733"}}

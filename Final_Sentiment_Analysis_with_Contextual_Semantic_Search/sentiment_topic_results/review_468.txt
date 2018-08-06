@@ -1,0 +1,1 @@
+{"text": "The Wranglers fit just right.  You know the Wrangler quality will be consistent and fit the way they should.  I would recommend these to friends and relatives.", "sentiment": "positive", "topics": {"1": "0.5415013", "3": "0.17974725", "5": "0.09280089", "6": "0.15731786"}}

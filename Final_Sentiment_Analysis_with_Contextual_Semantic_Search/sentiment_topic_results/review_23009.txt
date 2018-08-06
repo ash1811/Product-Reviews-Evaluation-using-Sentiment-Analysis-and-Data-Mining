@@ -1,0 +1,1 @@
+{"text": "Perfect fit I'm a 35-36 waist,large is perfect.I also like the top of the knee length.Nice breathable material.OK pockets.Will be buying more in different colors.", "sentiment": "positive", "topics": {"1": "0.41076818", "3": "0.21001549", "4": "0.06823696", "6": "0.2871435"}}

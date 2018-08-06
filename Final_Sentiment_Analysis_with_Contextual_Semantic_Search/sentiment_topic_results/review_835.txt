@@ -1,0 +1,1 @@
+{"text": "He said they fit great and they are so comfortable he hardly knows he has them on. His last pair went two years of non-stop wear.", "sentiment": "negative", "topics": {"0": "0.16486603", "1": "0.37472385", "2": "0.089351535", "3": "0.2616648", "6": "0.090225674"}}

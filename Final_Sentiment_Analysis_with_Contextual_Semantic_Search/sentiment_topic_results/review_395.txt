@@ -1,0 +1,1 @@
+{"text": "I was looking for a basic polo that was good quality, at a good price.  This fit the bill just fine.  The size and fit were as expected.", "sentiment": "negative", "topics": {"0": "0.010217229", "1": "0.64206475", "2": "0.12428637", "3": "0.01023895", "4": "0.0102252355", "5": "0.01035538", "6": "0.1926121"}}

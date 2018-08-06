@@ -1,0 +1,1 @@
+{"text": "I bought these for my wife and she loves me for doing so. What more can I say as an endorsement!", "sentiment": "negative", "topics": {"0": "0.020531625", "1": "0.020499017", "2": "0.34756356", "3": "0.020442659", "4": "0.38519448", "5": "0.020512287", "6": "0.18525636"}}

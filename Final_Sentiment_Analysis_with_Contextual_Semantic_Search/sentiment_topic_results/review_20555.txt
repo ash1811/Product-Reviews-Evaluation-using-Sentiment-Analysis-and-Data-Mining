@@ -1,0 +1,1 @@
+{"text": "I bought these berks as a gift for a friend & she loved everything about them, especially since she had owned the same style for 15 years.  However, her old pair didn't have the soft insoles.", "sentiment": "negative", "topics": {"0": "0.086570956", "1": "0.19943045", "2": "0.16628477", "3": "0.14796376", "4": "0.20966238", "5": "0.11050715", "6": "0.07958057"}}

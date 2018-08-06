@@ -1,0 +1,1 @@
+{"text": "I can not say enough about these slippers.  They are very well made - extremely soft and comfortable.  I am an 8 1/2 medium shoe size.  These slippers fit slightly loose but not falling off.  Very nice!", "sentiment": "positive", "topics": {"1": "0.45435026", "2": "0.08490031", "3": "0.08944406", "5": "0.17048283", "6": "0.1872008"}}

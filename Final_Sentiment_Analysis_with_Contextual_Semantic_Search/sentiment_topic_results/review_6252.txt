@@ -1,0 +1,1 @@
+{"text": "Our son looked great as Yoda!  Alas he wouldn't keep it on for more than 5 minutes, but what great pictures we got!Good quality, well made.  We have him a toy light saber and he was good to go!", "sentiment": "negative", "topics": {"0": "0.12574115", "1": "0.60888296", "3": "0.10282985", "4": "0.09123227", "6": "0.057002094"}}

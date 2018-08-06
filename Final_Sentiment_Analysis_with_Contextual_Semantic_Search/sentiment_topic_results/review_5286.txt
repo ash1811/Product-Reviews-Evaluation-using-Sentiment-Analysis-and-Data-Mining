@@ -1,0 +1,1 @@
+{"text": "These don't look too frumpy / old-ladyish as far as slippers go.  Comfy and not bulky.  A good buy. y", "sentiment": "negative", "topics": {"0": "0.013026656", "1": "0.28910643", "2": "0.19950658", "3": "0.013029352", "4": "0.19789337", "5": "0.17437536", "6": "0.11306226"}}

@@ -1,0 +1,1 @@
+{"text": "Hahahah, sooo funny but for this price u cannot get anything better than them. I like the black one most and others are so nice too. I wanna thank to G&G and also to the reviews who created them. Recommended :-)", "sentiment": "negative", "topics": {"0": "0.21537279", "2": "0.35835487", "3": "0.24502808", "4": "0.11062666", "6": "0.059159312"}}

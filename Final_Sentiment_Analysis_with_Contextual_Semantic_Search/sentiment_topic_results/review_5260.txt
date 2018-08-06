@@ -1,0 +1,1 @@
+{"text": "Aside from the folded seam on the backside of the ankle/heel area causing soarness, they are an atractive and comfy pair of slippers.  But the agrivation of the skin is very uncomfortable.", "sentiment": "negative", "topics": {"1": "0.26586786", "2": "0.10175021", "3": "0.45932317", "6": "0.1462095"}}

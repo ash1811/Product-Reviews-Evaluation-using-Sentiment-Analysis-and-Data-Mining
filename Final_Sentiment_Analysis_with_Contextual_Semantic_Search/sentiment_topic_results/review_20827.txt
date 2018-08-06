@@ -1,0 +1,1 @@
+{"text": "Well made fits & wears comfortably . Particularly like the light fabric perfect summer long pant! Plan to purchase other colors.", "sentiment": "positive", "topics": {"1": "0.6265007", "5": "0.33140212"}}

@@ -1,0 +1,1 @@
+{"text": "Great looking, was trying to buy one inexpensive watch for outdoor activities.  The visor is not scratch-proof but is very good looking and great watch.", "sentiment": "negative", "topics": {"1": "0.60104346", "2": "0.19313844", "3": "0.10329282", "6": "0.07565399"}}

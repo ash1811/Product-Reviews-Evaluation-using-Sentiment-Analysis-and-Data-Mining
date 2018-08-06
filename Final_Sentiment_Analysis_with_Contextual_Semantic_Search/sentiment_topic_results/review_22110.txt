@@ -1,0 +1,1 @@
+{"text": "Bought for my wife, very handy.  Great for that cold morning start to work.  Fingerless design makes it easy to work all the controls like radio, cruise, climate, windows etc...", "sentiment": "negative", "topics": {"1": "0.3664833", "2": "0.18336448", "3": "0.30977148", "6": "0.119898215"}}

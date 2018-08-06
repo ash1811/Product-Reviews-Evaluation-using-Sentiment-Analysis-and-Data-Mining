@@ -1,0 +1,1 @@
+{"text": "I ordered this for my 4 month old for halloween. Very cute costume, just be aware that \"infant\" size is more like 9-12 month size, maybe larger depending on your child's size.", "sentiment": "negative", "topics": {"0": "0.16006422", "2": "0.3338968", "3": "0.35026053", "5": "0.13427249"}}

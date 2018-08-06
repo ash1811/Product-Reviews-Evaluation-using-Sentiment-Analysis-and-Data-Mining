@@ -1,0 +1,1 @@
+{"text": "Great item and a great price!!!  Arrived quicker than expected and the quality is superb.  I've always wanted one of these, and this seller has the best selection and prices.  I will be a repeat customer for other oilskin clothing items.", "sentiment": "positive", "topics": {"0": "0.12361136", "1": "0.39289263", "3": "0.09014305", "4": "0.27844232", "6": "0.10295271"}}

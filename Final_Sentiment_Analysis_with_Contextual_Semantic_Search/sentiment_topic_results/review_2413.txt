@@ -1,0 +1,1 @@
+{"text": "When I first got these for my husband, he said they hurt his feet some.  Now that he has broken them in (took a month or so of occasional use), he loves them.", "sentiment": "positive", "topics": {"1": "0.16413929", "3": "0.1625794", "4": "0.44800034", "6": "0.19664739"}}

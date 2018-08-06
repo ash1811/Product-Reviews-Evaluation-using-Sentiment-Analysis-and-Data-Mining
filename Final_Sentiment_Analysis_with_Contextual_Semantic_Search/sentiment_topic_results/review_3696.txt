@@ -1,0 +1,1 @@
+{"text": "Coolest sunglasses on the planet right now! I absolutely love these and they are my favorite ones! Well worth the money", "sentiment": "positive", "topics": {"0": "0.011003796", "1": "0.011047562", "2": "0.23561496", "3": "0.11567696", "4": "0.24889639", "5": "0.3667354", "6": "0.011024903"}}

@@ -1,0 +1,1 @@
+{"text": "I liked this and I have no concerns or complaints at all. all Positive and i was pleased enough to buy a second garment in dark blue.", "sentiment": "positive", "topics": {"0": "0.011014006", "1": "0.82047844", "2": "0.011026645", "3": "0.01101022", "4": "0.12444869", "5": "0.011023965", "6": "0.01099803"}}

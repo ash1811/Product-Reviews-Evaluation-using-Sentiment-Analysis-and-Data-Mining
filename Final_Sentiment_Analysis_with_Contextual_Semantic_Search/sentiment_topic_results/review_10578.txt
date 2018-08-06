@@ -1,0 +1,1 @@
+{"text": "These pants fit great but the fabric is not a regular demin. They are more of a brushed demin. Not what I expected and I will be returning these.", "sentiment": "negative", "topics": {"0": "0.011955132", "1": "0.37933978", "2": "0.24789397", "3": "0.1677165", "4": "0.10812602", "5": "0.07303553", "6": "0.01193308"}}

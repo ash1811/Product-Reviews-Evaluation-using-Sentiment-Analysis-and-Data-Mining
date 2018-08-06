@@ -1,0 +1,1 @@
+{"text": "I like these pants. They are comfortable and durable. The 'pencil' pockets on the right leg do a good job of holding my cell phone. It holds it snugly and deeper down so I have no fear of losing it.", "sentiment": "negative", "topics": {"1": "0.45440158", "2": "0.15497132", "3": "0.08362872", "4": "0.28552824"}}

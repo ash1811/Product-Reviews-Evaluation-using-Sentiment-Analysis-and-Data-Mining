@@ -1,0 +1,1 @@
+{"text": "I just bought them and they are great. I still have to try them in below freezing temperature, But so far they fit great.update: they are great in winter!! no doubts!!", "sentiment": "negative", "topics": {"0": "0.011013096", "1": "0.57464284", "2": "0.011070635", "3": "0.2919639", "4": "0.011034356", "5": "0.0110091865", "6": "0.08926596"}}

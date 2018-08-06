@@ -1,0 +1,1 @@
+{"text": "It's so cozy and true-to-size. I had gotten an xl previously, because I like them a little big. It proved to be too roomy. This size is just right !", "sentiment": "negative", "topics": {"0": "0.011056172", "1": "0.4263232", "2": "0.010998195", "3": "0.0110351695", "4": "0.19357625", "5": "0.098794624", "6": "0.24821639"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful watch. Velcro fastening. The second hand is a butterfly and the little tail follows or flowers follow the butterfly around the watch. Very unique.", "sentiment": "negative", "topics": {"1": "0.120501645", "2": "0.23320358", "3": "0.10536936", "4": "0.118825465", "5": "0.114175126", "6": "0.29950228"}}

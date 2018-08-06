@@ -1,0 +1,1 @@
+{"text": "My son loves his costume! He wore it for career day at school, then decided he wanted to wear it for Halloween as well. (He was originally going to be Iron Man.)It is really well made, and the hat that comes with it is nice as well!", "sentiment": "positive", "topics": {"0": "0.14736137", "1": "0.26265734", "2": "0.20097591", "3": "0.16706663", "5": "0.2104775"}}

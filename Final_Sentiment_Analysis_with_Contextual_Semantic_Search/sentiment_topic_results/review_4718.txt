@@ -1,0 +1,1 @@
+{"text": "I ordered these jeans for my son for work and he really likes them.  They are a great fit and great price.  Definitely would purchase again and highly recommend.", "sentiment": "negative", "topics": {"1": "0.6821671", "3": "0.27563328"}}

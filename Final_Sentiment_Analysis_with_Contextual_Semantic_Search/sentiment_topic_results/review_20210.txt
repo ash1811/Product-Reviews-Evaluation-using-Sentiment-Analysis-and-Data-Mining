@@ -1,0 +1,1 @@
+{"text": "Great costume, my son has played with it for the past year and loves it. It is constructed well and has not ripped.", "sentiment": "positive", "topics": {"0": "0.16822074", "1": "0.54295766", "2": "0.0119450465", "3": "0.011996175", "4": "0.1566871", "5": "0.011937134", "6": "0.09625611"}}

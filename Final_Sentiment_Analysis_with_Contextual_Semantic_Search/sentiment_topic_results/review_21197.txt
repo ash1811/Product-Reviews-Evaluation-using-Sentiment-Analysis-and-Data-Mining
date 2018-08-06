@@ -1,0 +1,1 @@
+{"text": "Love itMust Have itJust a Nice PeaceGreat to wearJust like i was toldFrom a friend", "sentiment": "negative", "topics": {"0": "0.12481707", "1": "0.15196185", "2": "0.014290993", "3": "0.014344578", "4": "0.01442298", "5": "0.16723228", "6": "0.5129303"}}

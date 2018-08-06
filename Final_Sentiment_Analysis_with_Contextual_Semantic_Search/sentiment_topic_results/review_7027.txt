@@ -1,0 +1,1 @@
+{"text": "These have lots of pocket, but I would have a mag or ceLl phone on the left side and a zipper fly versus buttons. They come a bit on the long size, so either they shorter or get them tailored.", "sentiment": "negative", "topics": {"1": "0.2077895", "3": "0.123182885", "4": "0.0660321", "5": "0.27054638", "6": "0.3188068"}}

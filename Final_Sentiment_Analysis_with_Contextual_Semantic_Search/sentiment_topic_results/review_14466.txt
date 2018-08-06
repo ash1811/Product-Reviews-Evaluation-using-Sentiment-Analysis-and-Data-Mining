@@ -1,0 +1,1 @@
+{"text": "very comfortable shoes and good for day to day work. and also it's very thick that good for wearing in the winter", "sentiment": "positive", "topics": {"0": "0.01196734", "1": "0.7098573", "2": "0.12131909", "3": "0.011931517", "4": "0.12094844", "5": "0.012015109", "6": "0.011961199"}}

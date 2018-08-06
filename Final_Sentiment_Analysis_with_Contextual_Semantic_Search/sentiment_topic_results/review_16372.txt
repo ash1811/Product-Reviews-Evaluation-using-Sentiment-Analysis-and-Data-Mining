@@ -1,0 +1,1 @@
+{"text": "Great sandals for the price in a hard to find size.Worked out great to wear in wet or dry conditions.", "sentiment": "positive", "topics": {"0": "0.23732805", "1": "0.46817562", "2": "0.01192763", "3": "0.011951418", "4": "0.011991728", "5": "0.15912257", "6": "0.09950303"}}

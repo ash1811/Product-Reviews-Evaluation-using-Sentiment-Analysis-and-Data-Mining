@@ -1,0 +1,1 @@
+{"text": "Good looking sneaker--it's a pretty classic Chuck Taylor All-Star so there isn't much to say.  The leather looks and feels nice- it isn't shiny or plastic looking.  The fit is true to size with no break in required.", "sentiment": "negative", "topics": {"1": "0.32972488", "2": "0.16814642", "3": "0.27081427", "4": "0.06458839", "6": "0.15427865"}}

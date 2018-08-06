@@ -1,0 +1,1 @@
+{"text": "Love these for lazy day comfort. Some support but not a strait jacket.  Allows larger cups sizes comfort and good looks without being smooched.  Highly recommend", "sentiment": "negative", "topics": {"1": "0.32788476", "2": "0.0779253", "3": "0.14580993", "4": "0.25150844", "6": "0.18176316"}}

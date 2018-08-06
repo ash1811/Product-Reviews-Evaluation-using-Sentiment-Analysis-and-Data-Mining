@@ -1,0 +1,1 @@
+{"text": "I wear size 10.5 shoes and these socks feel just slightly big on me, but not so big that they don't fit. With a few more runs through the dryer they'll probably shrink right to size. I'd still buy them again anyway.", "sentiment": "negative", "topics": {"0": "0.12261529", "1": "0.42889804", "2": "0.099492125", "3": "0.22978906", "5": "0.10675492"}}

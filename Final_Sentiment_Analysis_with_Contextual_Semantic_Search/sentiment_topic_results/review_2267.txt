@@ -1,0 +1,1 @@
+{"text": "The Dockers Men's Gordon Cap Toe Oxford, Cordovan color is an excellent shoe, very stylish, great color but unfortunately was too narrow.  Regretted having to return the shoes, but there wasn't really any alternative.", "sentiment": "positive", "topics": {"0": "0.07763728", "1": "0.37095177", "2": "0.24018118", "4": "0.17960055", "6": "0.11799425"}}

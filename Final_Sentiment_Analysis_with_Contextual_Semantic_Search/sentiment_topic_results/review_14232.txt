@@ -1,0 +1,1 @@
+{"text": "I thought $25 for flip flops was crazy.  I thought they should be of better quality since they are Tevas! Not very study, very lightweight, not what I would expect of $25 flip flops!", "sentiment": "negative", "topics": {"1": "0.35711956", "2": "0.23628664", "5": "0.08918981", "6": "0.29353246"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased these for my bf a couple months ago fits perfectly and he loves them.He originally wanted more of a grey color but these were a we could find in his size with grey.He gets lots of compliments on them.", "sentiment": "positive", "topics": {"0": "0.07400063", "1": "0.47708684", "2": "0.2370049", "5": "0.08415579", "6": "0.114693336"}}

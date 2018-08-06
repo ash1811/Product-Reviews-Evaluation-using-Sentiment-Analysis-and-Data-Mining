@@ -1,0 +1,1 @@
+{"text": "My boyfriends huge feet are hard to fit to a flip flop. These are thee only ones he can wear comfortably.", "sentiment": "positive", "topics": {"0": "0.11376569", "1": "0.19694026", "2": "0.17366903", "3": "0.11714372", "4": "0.012014728", "5": "0.37455824", "6": "0.0119083"}}

@@ -1,0 +1,1 @@
+{"text": "for what the size was it was much too small. did not fit at all and is extremely cheap material.", "sentiment": "positive", "topics": {"0": "0.017919064", "1": "0.5647602", "2": "0.017947404", "3": "0.3457055", "4": "0.017870734", "5": "0.017890768", "6": "0.017906327"}}

@@ -1,0 +1,1 @@
+{"text": "Great shoes they fit my 9.5 narrow feet well.  Eventually they might stretch I am sure but I will just use a heel pad since I have narrow heels as well.", "sentiment": "positive", "topics": {"1": "0.4911661", "2": "0.1657206", "3": "0.18060955", "4": "0.078546464", "6": "0.068867065"}}

@@ -1,0 +1,1 @@
+{"text": "Pants are way too long also-way too largedraw string white- not as pictured. Seem like it will stretch or beak easy!I buy Jerzees hoodies all the timeHad to use a box- & had to pay return shipping!", "sentiment": "negative", "topics": {"0": "0.21954493", "1": "0.29422504", "2": "0.06882738", "3": "0.14323197", "5": "0.16548738", "6": "0.10242277"}}

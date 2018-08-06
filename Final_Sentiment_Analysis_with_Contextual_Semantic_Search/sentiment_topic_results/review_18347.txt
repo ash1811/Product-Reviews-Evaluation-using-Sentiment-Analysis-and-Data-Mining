@@ -1,0 +1,1 @@
+{"text": "I like this watch, no frills just a night light which I like for movie theaters , and day and date and for us seniors easy to read, I wear it more than my much more expensive watches.", "sentiment": "positive", "topics": {"1": "0.2305669", "2": "0.20114745", "3": "0.090043485", "4": "0.22231157", "6": "0.2408459"}}

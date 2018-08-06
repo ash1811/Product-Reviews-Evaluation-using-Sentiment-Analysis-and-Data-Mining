@@ -1,0 +1,1 @@
+{"text": "But he loves it.  It's not as big as others we've had but seems to hold it all.  Haven't washed it yet - ?", "sentiment": "positive", "topics": {"0": "0.013033828", "1": "0.2704337", "2": "0.01301268", "3": "0.45896953", "4": "0.013030458", "5": "0.21852367", "6": "0.01299615"}}

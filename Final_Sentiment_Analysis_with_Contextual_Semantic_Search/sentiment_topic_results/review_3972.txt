@@ -1,0 +1,1 @@
+{"text": "I have bad sciatica so need the comfort on the back of my heel.  This not only keeps feet warm on tile floors but cushions beautifully while standing in them.", "sentiment": "negative", "topics": {"1": "0.20651808", "2": "0.25768396", "4": "0.16490902", "6": "0.34394917"}}

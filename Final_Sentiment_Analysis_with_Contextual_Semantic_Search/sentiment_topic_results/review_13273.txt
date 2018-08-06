@@ -1,0 +1,1 @@
+{"text": "As with my other keen shoes I can't say enough good about them. Most comfortable shoes I have ever worn and true to size so they fit perfectly.", "sentiment": "negative", "topics": {"1": "0.43000874", "2": "0.27262068", "6": "0.2615497"}}

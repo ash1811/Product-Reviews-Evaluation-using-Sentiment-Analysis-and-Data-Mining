@@ -1,0 +1,1 @@
+{"text": "Itchy!  It fits okay but seems to make my breasts look even larger when I would rather they be minimized.  The lace is itchy and I am not used to that feel.  I will give it away after only one short wearing.  Someone else might like it.", "sentiment": "positive", "topics": {"0": "0.20514615", "1": "0.44681168", "2": "0.21486564", "4": "0.1172264"}}

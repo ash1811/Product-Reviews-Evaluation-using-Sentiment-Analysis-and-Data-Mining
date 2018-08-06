@@ -1,0 +1,1 @@
+{"text": "Those panties are really big, the design is nice ,the color are nice but I repeat are really big, huge or whatever you want to say!", "sentiment": "negative", "topics": {"1": "0.43386078", "2": "0.18511774", "3": "0.21477747", "6": "0.13938798"}}

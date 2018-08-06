@@ -1,0 +1,1 @@
+{"text": "This is a really pretty silver figaro necklace.  If you like this style, you can't go wrong with this necklace.  The service was very prompt.", "sentiment": "negative", "topics": {"0": "0.3883774", "1": "0.15917641", "2": "0.10018684", "3": "0.010230263", "4": "0.010233958", "5": "0.32154137", "6": "0.010253806"}}

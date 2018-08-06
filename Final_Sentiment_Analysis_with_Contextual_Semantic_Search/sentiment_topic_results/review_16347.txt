@@ -1,0 +1,1 @@
+{"text": "This is the spring and summer shoe you'll want to wear!  The Sperry Top-Sider Billfish shoe is amazingly comfortable, and runs true to size!", "sentiment": "positive", "topics": {"1": "0.35762703", "2": "0.23220903", "3": "0.12557553", "4": "0.0688437", "5": "0.093235776", "6": "0.112970494"}}

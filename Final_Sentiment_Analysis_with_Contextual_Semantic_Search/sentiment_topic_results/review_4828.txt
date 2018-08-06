@@ -1,0 +1,1 @@
+{"text": "these were perfect for my roaring 20s costume but they were too long. I had to fold them over under the toe", "sentiment": "positive", "topics": {"0": "0.15963072", "1": "0.33311865", "2": "0.2861958", "3": "0.017880399", "4": "0.16742556", "5": "0.017883152", "6": "0.017865712"}}

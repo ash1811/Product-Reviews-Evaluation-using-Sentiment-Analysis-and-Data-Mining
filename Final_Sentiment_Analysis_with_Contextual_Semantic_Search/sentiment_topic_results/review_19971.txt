@@ -1,0 +1,1 @@
+{"text": "great buy for the price, best diaper bag ever, so many compartments i forget where i put things sometimes holding up good so far", "sentiment": "negative", "topics": {"1": "0.37769857", "2": "0.21766852", "4": "0.37086618"}}

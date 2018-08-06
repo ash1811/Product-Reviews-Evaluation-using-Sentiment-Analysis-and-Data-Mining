@@ -1,0 +1,1 @@
+{"text": "Not huge so it doesn't hold a lot of jewelry, but it holds enough to make me happy, plus it's small enough that I can carry it in my (pretty large) purse.", "sentiment": "positive", "topics": {"1": "0.28823438", "3": "0.451885", "4": "0.16010618", "6": "0.072916605"}}

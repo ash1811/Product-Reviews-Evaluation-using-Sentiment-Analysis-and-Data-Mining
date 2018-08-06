@@ -1,0 +1,1 @@
+{"text": "This is a very cool dragon shirt. As always, The Mountain makes nice quality shirts. There is no icky, scratchy tag in the back, either. This dragon is enormous and awesome! Very nice & cool looking shirt. I love this shirt.", "sentiment": "negative", "topics": {"0": "0.11413091", "1": "0.49723473", "2": "0.19591688", "4": "0.074148044", "6": "0.106581114"}}

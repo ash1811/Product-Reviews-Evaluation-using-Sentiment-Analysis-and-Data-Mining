@@ -1,0 +1,1 @@
+{"text": "Excellent quality slipper.  My size is 10 1/2 EEE, I ordered the 10 EEE and it was too small.  So if you are a half size or have wider feet I recommend buying the next size larger.", "sentiment": "negative", "topics": {"0": "0.15824993", "1": "0.15533577", "2": "0.082505345", "3": "0.21360715", "4": "0.1859616", "6": "0.19752373"}}

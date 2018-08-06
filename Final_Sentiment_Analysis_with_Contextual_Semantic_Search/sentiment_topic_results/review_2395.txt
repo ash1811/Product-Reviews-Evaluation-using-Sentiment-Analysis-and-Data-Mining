@@ -1,0 +1,1 @@
+{"text": "well made boot ... sole of boot has a good grip in snowy and extremely cold weather ... I put sno-seal on the boots", "sentiment": "negative", "topics": {"1": "0.25370416", "3": "0.2407846", "4": "0.3763059", "6": "0.10055941"}}

@@ -1,0 +1,1 @@
+{"text": "I walk a lot and this shoe was not good for me. I love Rockports but the heel of this show is really hard and never loosened up. Would not buy again.", "sentiment": "negative", "topics": {"0": "0.10183153", "1": "0.36360922", "2": "0.20517209", "4": "0.23708153", "6": "0.07637802"}}

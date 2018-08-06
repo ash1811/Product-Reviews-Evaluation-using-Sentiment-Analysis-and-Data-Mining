@@ -1,0 +1,1 @@
+{"text": "Love, love, love these Birkies!  I just got these and wore them all day at work (they're only my third pair).  The fit and comfort is amazing!  So cute with jeans, shorts, capris, a skirt ... or whatever.", "sentiment": "negative", "topics": {"0": "0.14854404", "1": "0.13427477", "4": "0.37224993", "5": "0.16508386", "6": "0.16621524"}}

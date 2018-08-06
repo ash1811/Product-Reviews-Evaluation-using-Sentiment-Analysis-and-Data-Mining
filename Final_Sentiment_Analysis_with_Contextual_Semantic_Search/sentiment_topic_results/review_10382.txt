@@ -1,0 +1,1 @@
+{"text": "well made product! but the color grey is more like dark grey. overall it's great and i like it! warm and soft!", "sentiment": "negative", "topics": {"1": "0.4453722", "5": "0.5068429"}}

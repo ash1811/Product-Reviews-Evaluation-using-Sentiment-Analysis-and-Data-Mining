@@ -1,0 +1,1 @@
+{"text": "hard to find 13 wide shoes. still..these will do. bought a pair a few years ago and the qualityseemed better.", "sentiment": "negative", "topics": {"0": "0.13865782", "1": "0.23055704", "2": "0.15647687", "3": "0.010266454", "4": "0.26515055", "5": "0.010239533", "6": "0.18865171"}}

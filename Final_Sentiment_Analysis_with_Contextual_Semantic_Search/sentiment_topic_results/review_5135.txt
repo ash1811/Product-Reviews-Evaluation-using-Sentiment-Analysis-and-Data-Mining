@@ -1,0 +1,1 @@
+{"text": "These socks are very well made and very durable.  They keep your feet cool in warm weather and warm in cooler weather.  Great for hiking or everyday wear!  I love the funky colors!", "sentiment": "negative", "topics": {"0": "0.07691265", "1": "0.5241047", "4": "0.13817121", "5": "0.23933676"}}

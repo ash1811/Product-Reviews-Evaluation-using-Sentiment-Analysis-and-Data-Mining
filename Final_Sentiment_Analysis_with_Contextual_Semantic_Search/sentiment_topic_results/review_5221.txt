@@ -1,0 +1,1 @@
+{"text": "I bought these along with a pair of a more practical gray terrycloth model.  The black satin ballerinas are my &#34;dress&#34; pair.  They look great and are easy on the feet after a long day.", "sentiment": "negative", "topics": {"1": "0.21274908", "3": "0.14702344", "4": "0.38586912", "6": "0.23173593"}}

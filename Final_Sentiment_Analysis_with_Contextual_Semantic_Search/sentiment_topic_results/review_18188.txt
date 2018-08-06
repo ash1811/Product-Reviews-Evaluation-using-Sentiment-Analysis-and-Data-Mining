@@ -1,0 +1,1 @@
+{"text": "This watch is very fancy and kind of complicated but I am very happy with this order. I think this watch is a really nice item for the price.", "sentiment": "negative", "topics": {"0": "0.12167507", "1": "0.41595367", "2": "0.2626194", "3": "0.010999157", "4": "0.011013601", "5": "0.011029938", "6": "0.16670915"}}

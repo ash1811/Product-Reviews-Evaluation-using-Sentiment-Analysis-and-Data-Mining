@@ -1,0 +1,1 @@
+{"text": "You've gotta love silk - it's the ideal material. These are very warm and comfy socks. They don't cut off your circulation.", "sentiment": "negative", "topics": {"0": "0.14802049", "1": "0.3057206", "2": "0.013028953", "3": "0.013053658", "4": "0.013106775", "5": "0.0826648", "6": "0.4244047"}}

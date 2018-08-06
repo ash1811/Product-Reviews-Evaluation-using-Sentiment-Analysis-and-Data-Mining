@@ -1,0 +1,1 @@
+{"text": "My husband wanted a longer short with pockets.  Not an easy find. These were very reasonably priced and when they arrived I was impressed with the quality.", "sentiment": "positive", "topics": {"0": "0.21480878", "1": "0.25226247", "2": "0.011004919", "3": "0.011012128", "4": "0.48888204", "5": "0.011003011", "6": "0.011026652"}}

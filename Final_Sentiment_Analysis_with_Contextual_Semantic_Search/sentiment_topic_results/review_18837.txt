@@ -1,0 +1,1 @@
+{"text": "I got 2 pairs. the plain black fit perfectly. My husband loves them. I also ordered the black denim in the same size and they were too small. those went back.", "sentiment": "negative", "topics": {"0": "0.15301342", "1": "0.26682714", "3": "0.33703583", "4": "0.22051129"}}

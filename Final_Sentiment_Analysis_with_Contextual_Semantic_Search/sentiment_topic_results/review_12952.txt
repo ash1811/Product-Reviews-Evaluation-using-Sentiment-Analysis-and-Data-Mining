@@ -1,0 +1,1 @@
+{"text": "Way too long for a 30&#34; inseam. Usually, the closed leg bottom takes care of a few extra inches, but not six extra inches. There was no indication that this was for  tall man.", "sentiment": "negative", "topics": {"0": "0.15043421", "2": "0.2274759", "3": "0.19222347", "5": "0.40718338"}}

@@ -1,0 +1,1 @@
+{"text": "I always come back to Isotoner slippers. They look classy, they wear well, and they wash up nicely. I don't put them in the dryer though. Just air dry them and they last much longer.", "sentiment": "positive", "topics": {"1": "0.3622175", "4": "0.20959349", "5": "0.35987717", "6": "0.046826985"}}

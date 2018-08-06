@@ -1,0 +1,1 @@
+{"text": "Very good boots. Very strong and durable material. No ripping, tearing, scratching, scuffing, or damage of any type. They are NOT waterproof. Steel toe is very strong and laces are as well.", "sentiment": "positive", "topics": {"1": "0.24464287", "3": "0.2552311", "4": "0.057626087", "5": "0.2761641", "6": "0.15043229"}}

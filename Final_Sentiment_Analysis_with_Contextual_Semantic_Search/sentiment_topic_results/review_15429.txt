@@ -1,0 +1,1 @@
+{"text": "Just as i expected and the size was so true.  At the beginnig i was afraid to buy this item by internet but at the end It was truth the description", "sentiment": "negative", "topics": {"0": "0.19866025", "1": "0.32317138", "2": "0.011979089", "3": "0.16295163", "4": "0.011927816", "5": "0.11842757", "6": "0.17288226"}}

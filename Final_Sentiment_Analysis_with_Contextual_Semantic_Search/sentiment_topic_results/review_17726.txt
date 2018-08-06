@@ -1,0 +1,1 @@
+{"text": "This is the ONLY watch my husband wears. He loves it. I dread the day they stop making this model. It is very durable and he says it is a perfect watch to fit his profession because he and the watch are both 'work horses'.", "sentiment": "negative", "topics": {"1": "0.30822906", "2": "0.20309615", "4": "0.16169122", "6": "0.30549285"}}

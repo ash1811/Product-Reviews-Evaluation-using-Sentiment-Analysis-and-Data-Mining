@@ -1,0 +1,1 @@
+{"text": "My son like the boot, it fit well and is water proof.  We received the boot just a few days after ordering it.", "sentiment": "negative", "topics": {"0": "0.4672495", "1": "0.22057196", "2": "0.121980235", "3": "0.011003194", "4": "0.15713263", "5": "0.011039524", "6": "0.011022979"}}

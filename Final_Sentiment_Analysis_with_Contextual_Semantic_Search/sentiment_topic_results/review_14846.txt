@@ -1,0 +1,1 @@
+{"text": "It is ok the only thing I really hate is that I have to keep lifting them up which is so annoying", "sentiment": "positive", "topics": {"0": "0.43274462", "1": "0.2867567", "2": "0.017903008", "3": "0.017951576", "4": "0.017889297", "5": "0.20880614", "6": "0.01794864"}}

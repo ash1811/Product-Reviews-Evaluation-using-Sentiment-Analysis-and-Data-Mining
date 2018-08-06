@@ -1,0 +1,1 @@
+{"text": "Delivered warmth promised. Washes well and very long. Would recommend for those extreme cold weather days standing out in the open air.", "sentiment": "positive", "topics": {"0": "0.10070758", "1": "0.2630394", "4": "0.15490752", "5": "0.4544626"}}

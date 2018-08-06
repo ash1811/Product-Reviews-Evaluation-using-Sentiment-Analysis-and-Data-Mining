@@ -1,0 +1,1 @@
+{"text": "The picture is too different from the real item or amazon send me a another item. The color is completely different when you compare with the advertised one.", "sentiment": "negative", "topics": {"0": "0.19784316", "1": "0.2613688", "2": "0.13181578", "4": "0.1315567", "6": "0.25832397"}}

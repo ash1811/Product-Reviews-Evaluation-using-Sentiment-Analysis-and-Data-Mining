@@ -1,0 +1,1 @@
+{"text": "Mens Camouflage T-Shirt, Tiger Stripe, 3X-Large by Rothco fits great!! not loose and sloppy feeling like most shirts you get now days. Would recommend this to all.", "sentiment": "negative", "topics": {"1": "0.40036926", "2": "0.10165616", "3": "0.07605055", "5": "0.26632085", "6": "0.14128971"}}

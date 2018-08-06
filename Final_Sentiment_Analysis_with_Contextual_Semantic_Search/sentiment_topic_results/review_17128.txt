@@ -1,0 +1,1 @@
+{"text": "I have been purchasing crocs for my boys since they were barely walking. They love them, I love them and they hold up really well. My son lost a shoe at the mall and I replaced them with the same pair. Totally worth it!", "sentiment": "negative", "topics": {"0": "0.14017989", "2": "0.07873264", "3": "0.27465725", "4": "0.1578698", "5": "0.23259482", "6": "0.10943741"}}

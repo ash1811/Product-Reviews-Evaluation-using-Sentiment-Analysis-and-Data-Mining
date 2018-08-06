@@ -1,0 +1,1 @@
+{"text": "The watch is great for my mom. The numbers are big and clear and she can see the time clearly.  Band easily adusts to her wrist, so I don't have to take out links,etc.", "sentiment": "positive", "topics": {"0": "0.26688543", "1": "0.18944335", "2": "0.2749639", "4": "0.05890067", "5": "0.19192918"}}

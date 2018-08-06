@@ -1,0 +1,1 @@
+{"text": "i'm 6'3\" and 210 lbs.  i got the XXL.  after washing it fits great.  the sleeves are long enough, unlike the lee's that i bought.LEE's:  http://www.amazon.com/gp/product/B00742LVP0too short of sleeves^^", "sentiment": "negative", "topics": {"0": "0.24106382", "1": "0.3908228", "2": "0.07060731", "5": "0.12622602", "6": "0.1561954"}}

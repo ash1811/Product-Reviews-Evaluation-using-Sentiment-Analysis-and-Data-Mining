@@ -1,0 +1,1 @@
+{"text": "These shorts have a nice sheeny material that feels great to wear.  Although not really lined, they have a sort of 2 ply material with a hole pattern outside that should be really cool in Summer.  Well done.", "sentiment": "negative", "topics": {"0": "0.2587376", "1": "0.18901612", "2": "0.23533869", "3": "0.10728033", "5": "0.1971873"}}

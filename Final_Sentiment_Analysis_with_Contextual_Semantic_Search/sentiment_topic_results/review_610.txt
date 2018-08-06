@@ -1,0 +1,1 @@
+{"text": "The quality of these jeans in in line with other name brands I have bought. The fit is very comfortable, especially since I have to sit for long periods of time at my job. The &#34;U&#34; cut is much more comfortable.", "sentiment": "positive", "topics": {"1": "0.6280296", "2": "0.16945502", "3": "0.102192655", "5": "0.07882433"}}

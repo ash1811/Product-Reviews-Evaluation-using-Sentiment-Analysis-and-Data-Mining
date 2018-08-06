@@ -1,0 +1,1 @@
+{"text": "delicately made, and very soft to the touch.  The pink lace up is very very hott!  They barely hide what you are not trying to hide anyways.", "sentiment": "negative", "topics": {"0": "0.37762207", "1": "0.46632197", "2": "0.010997111", "3": "0.011019318", "4": "0.0109923", "5": "0.0109980395", "6": "0.112049215"}}

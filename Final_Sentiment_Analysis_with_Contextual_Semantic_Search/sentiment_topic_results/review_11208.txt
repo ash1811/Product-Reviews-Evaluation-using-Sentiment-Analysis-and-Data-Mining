@@ -1,0 +1,1 @@
+{"text": "Product delivered on time and packaged well. The boots fit good and as expected. Very comfortable boots and used them for cleaning out cattle pens and the boots wash up great.", "sentiment": "negative", "topics": {"1": "0.38581413", "2": "0.06509065", "4": "0.31490642", "5": "0.09439525", "6": "0.124737136"}}

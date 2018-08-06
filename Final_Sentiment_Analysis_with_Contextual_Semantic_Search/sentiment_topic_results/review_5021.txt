@@ -1,0 +1,1 @@
+{"text": "they are the best shoes ever. for the summer or when ever. love them a lot thank you very much", "sentiment": "negative", "topics": {"0": "0.014347938", "1": "0.44113588", "2": "0.48714453", "3": "0.014336551", "4": "0.014414501", "5": "0.0143323", "6": "0.014288349"}}

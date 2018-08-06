@@ -1,0 +1,1 @@
+{"text": "When you first get them they will seem tight, but they need to be broken into. give it a week and you will seed how they form to your feet. try not to get them wet because they leather will wrinkle.", "sentiment": "negative", "topics": {"1": "0.32515", "2": "0.22717483", "3": "0.17430659", "4": "0.16669817", "6": "0.090759665"}}

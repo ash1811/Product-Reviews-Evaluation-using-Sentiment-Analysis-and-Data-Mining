@@ -1,0 +1,1 @@
+{"text": "I got this to match the CK Micro Modal Crew for a Christmas gift for my hubby. Hubby finds it very comfortable and wears it a lot.", "sentiment": "negative", "topics": {"0": "0.16836469", "1": "0.29165953", "5": "0.501788"}}

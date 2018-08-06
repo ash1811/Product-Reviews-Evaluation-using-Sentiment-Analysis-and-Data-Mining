@@ -1,0 +1,1 @@
+{"text": "This came fast and it's of great quality! Perfect for the price, a little better actually. I am going to enjoy this ;)Happy Halloween!", "sentiment": "negative", "topics": {"0": "0.21596695", "1": "0.47012147", "2": "0.2729151", "3": "0.010235317", "4": "0.010258635", "5": "0.01025387", "6": "0.0102486415"}}

@@ -1,0 +1,1 @@
+{"text": "The material is really thick and nice, but i ordered a 2x and it looks like it could be a 3x or 4x. I would just order a size smaller.", "sentiment": "negative", "topics": {"0": "0.17026383", "1": "0.46483746", "3": "0.25666565", "4": "0.08135352"}}

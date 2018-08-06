@@ -1,0 +1,1 @@
+{"text": "So, I bought these for women's for me and the men's for my husband.  We both have noticed that they shrink.  If are like me and don't like tight socks around the toes tips then go up one size because these do string alittle.", "sentiment": "negative", "topics": {"0": "0.09558855", "1": "0.3427855", "2": "0.25965494", "3": "0.14617799", "4": "0.14138515"}}

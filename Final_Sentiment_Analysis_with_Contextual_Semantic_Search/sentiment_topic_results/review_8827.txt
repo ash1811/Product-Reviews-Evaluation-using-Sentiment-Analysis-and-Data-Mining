@@ -1,0 +1,1 @@
+{"text": "I've had these since November 2011, and these are still as comfortable as the day I got them.  No thin spots or holes in these socks.  Thick, durable, warm.", "sentiment": "negative", "topics": {"1": "0.2913086", "2": "0.15522882", "3": "0.39431363", "5": "0.13388105"}}

@@ -1,0 +1,1 @@
+{"text": "Carhartt makes good shirts, they last long even though I wish they were made in USA I still buy them because the quality is never stinted on", "sentiment": "negative", "topics": {"1": "0.7396916", "4": "0.21812363"}}

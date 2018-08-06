@@ -1,0 +1,1 @@
+{"text": "These are great boots. The quality and fit are superb. I don't write reviews if I don't like things. Trust me go with these and you won't be disappointed!", "sentiment": "negative", "topics": {"0": "0.011034656", "1": "0.37907293", "2": "0.13762191", "3": "0.1226079", "4": "0.21211472", "5": "0.011026515", "6": "0.12652141"}}

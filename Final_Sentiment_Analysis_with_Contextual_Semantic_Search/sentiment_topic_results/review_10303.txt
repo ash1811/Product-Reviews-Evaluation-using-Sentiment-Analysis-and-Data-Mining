@@ -1,0 +1,1 @@
+{"text": "I bought one of these a year ago and it has stood up to many washes.  I ordered a second one in a larger size and holding the two side by side they both look new.  Excellent quality product.", "sentiment": "negative", "topics": {"1": "0.26217502", "2": "0.11523151", "3": "0.102394216", "4": "0.16892137", "5": "0.16430746", "6": "0.18045568"}}

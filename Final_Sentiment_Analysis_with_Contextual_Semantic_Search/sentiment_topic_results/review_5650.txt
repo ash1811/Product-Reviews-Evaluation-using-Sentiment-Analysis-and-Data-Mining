@@ -1,0 +1,1 @@
+{"text": "As described. Fit true to size. The color is what you see. It washes and drys and continues to wear well.", "sentiment": "negative", "topics": {"0": "0.011920254", "1": "0.65416306", "2": "0.011916571", "3": "0.11709819", "4": "0.18098392", "5": "0.011954197", "6": "0.011963832"}}

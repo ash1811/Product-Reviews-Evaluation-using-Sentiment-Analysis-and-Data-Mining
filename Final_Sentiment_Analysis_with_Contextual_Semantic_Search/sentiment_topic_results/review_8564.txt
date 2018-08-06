@@ -1,0 +1,1 @@
+{"text": "So glad I finally found these on Amazon.  I have been wearing them for over 20 years and they are the most comfortable shoe in the world.  There is no breaking them in.  I would recommend ordering a 1/2 size bigger.", "sentiment": "positive", "topics": {"1": "0.16122402", "2": "0.20845552", "3": "0.261266", "4": "0.17514893", "5": "0.178815"}}

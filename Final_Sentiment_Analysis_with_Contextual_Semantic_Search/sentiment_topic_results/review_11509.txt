@@ -1,0 +1,1 @@
+{"text": "I did not realize how cool this was. The box it is held in was just as special as the wand itself. I recommend this for any hard core HARrY fans", "sentiment": "positive", "topics": {"0": "0.24750376", "1": "0.010243318", "2": "0.2481599", "3": "0.010224928", "4": "0.1655587", "5": "0.13985947", "6": "0.17844988"}}

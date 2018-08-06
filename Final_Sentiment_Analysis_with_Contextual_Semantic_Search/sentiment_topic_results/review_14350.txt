@@ -1,0 +1,1 @@
+{"text": "If you've got brown or oxblood shoes, this is what you want to get them to the nice maroon that looks great.", "sentiment": "negative", "topics": {"0": "0.013024584", "1": "0.4120342", "2": "0.2860982", "3": "0.24978133", "4": "0.012997742", "5": "0.013020284", "6": "0.013043696"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these as a gift for my bf and he hated them. The insoles would keep slipping inside the shoe. He has barely used them because they were so dysfunctional.", "sentiment": "negative", "topics": {"0": "0.42370355", "2": "0.43491176", "5": "0.10319748"}}

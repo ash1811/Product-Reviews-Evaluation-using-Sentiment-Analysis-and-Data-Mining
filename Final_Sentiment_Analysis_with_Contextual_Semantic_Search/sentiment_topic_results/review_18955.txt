@@ -1,0 +1,1 @@
+{"text": "Wasnt sure this woudl fit but finish is pefect and sizing is just spot on.  However, 514 Twill runs smaller.", "sentiment": "negative", "topics": {"0": "0.08906872", "1": "0.09928525", "2": "0.45354503", "3": "0.17030211", "5": "0.16873877"}}

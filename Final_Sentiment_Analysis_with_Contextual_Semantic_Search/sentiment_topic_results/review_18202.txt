@@ -1,0 +1,1 @@
+{"text": "Very nice, I was looking for something like this. It was affordable ,the only thing is you have to have good hand and eye  coordination it can be a little tricky , I am good at it so it works for me.", "sentiment": "positive", "topics": {"0": "0.10296823", "1": "0.5564243", "2": "0.15694849", "5": "0.1597976"}}

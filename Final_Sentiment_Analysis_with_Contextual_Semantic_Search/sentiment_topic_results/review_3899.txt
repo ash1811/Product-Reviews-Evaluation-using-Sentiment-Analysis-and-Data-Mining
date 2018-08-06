@@ -1,0 +1,1 @@
+{"text": "as from other reviews i choose this for my wife .as she can be one size with one brand and another ,so this is stretchy and is a simple nice belt .price was good and it came when it said .", "sentiment": "negative", "topics": {"0": "0.038391694", "1": "0.2659358", "2": "0.2670416", "3": "0.16420488", "6": "0.24932568"}}

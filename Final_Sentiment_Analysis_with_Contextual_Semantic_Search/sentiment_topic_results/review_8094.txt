@@ -1,0 +1,1 @@
+{"text": "These socks are as expected.  Nice color, pattern and fit.  Have only washed them once so don't know how they will hold up, but my 16 year old is pleased so far.", "sentiment": "negative", "topics": {"1": "0.3929302", "3": "0.31586698", "5": "0.25540176"}}

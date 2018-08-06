@@ -1,0 +1,1 @@
+{"text": "Although this backpack has solid construction, it is a bit too bulky and cumbersome for my daughter.  It looks like it will last one school year, at least- so if you don't mind it being on the large side, this will probably work for you.", "sentiment": "positive", "topics": {"2": "0.3225453", "3": "0.3659377", "4": "0.060133472", "5": "0.18034726", "6": "0.057973098"}}

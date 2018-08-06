@@ -1,0 +1,1 @@
+{"text": "if this passed tom's taste way back in 1991 (mission impossible 1) then u don't know what u r missing if u don't have this. this is my favorite casio everyday watch out of the over 50 watches i have bought.", "sentiment": "negative", "topics": {"0": "0.06834712", "1": "0.18458426", "2": "0.33112615", "3": "0.17982839", "4": "0.119586624", "6": "0.11054056"}}

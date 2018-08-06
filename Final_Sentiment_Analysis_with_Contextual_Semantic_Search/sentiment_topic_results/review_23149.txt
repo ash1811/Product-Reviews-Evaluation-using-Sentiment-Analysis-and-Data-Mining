@@ -1,0 +1,1 @@
+{"text": "I bought this bra because I was having rotator cuff surgery and couldn't reach around to fasten a bra. Since I am a widow living alone, I had no one to help me each day. Good support, also.", "sentiment": "positive", "topics": {"1": "0.1109248", "2": "0.15154997", "3": "0.21983509", "4": "0.23555176", "5": "0.20814766", "6": "0.0668259"}}

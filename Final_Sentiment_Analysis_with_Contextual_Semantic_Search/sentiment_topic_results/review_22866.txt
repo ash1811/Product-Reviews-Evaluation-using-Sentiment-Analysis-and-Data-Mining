@@ -1,0 +1,1 @@
+{"text": "These belts go great with jeans. Very comfortable. I have both brown and black. Elastic is not too tight or loose.", "sentiment": "negative", "topics": {"0": "0.013021079", "1": "0.59148246", "2": "0.24944869", "3": "0.013066805", "4": "0.013031394", "5": "0.10693591", "6": "0.013013655"}}

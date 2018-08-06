@@ -1,0 +1,1 @@
+{"text": "to small to short , when it gets washed and dried it will get smaller i do not recommend shirt", "sentiment": "negative", "topics": {"0": "0.67055887", "1": "0.014374238", "2": "0.014320774", "3": "0.25774437", "4": "0.01432913", "5": "0.01435476", "6": "0.014317805"}}

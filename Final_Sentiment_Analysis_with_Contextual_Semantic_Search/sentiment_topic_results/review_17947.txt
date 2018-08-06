@@ -1,0 +1,1 @@
+{"text": "I own these in white too and love both (as well as the shirt too!)  We had a very cold winter this year and these really helped keep me warm without feeling bulky at all!  Sometimes I even for got I had them on!", "sentiment": "positive", "topics": {"0": "0.1910416", "1": "0.2863878", "2": "0.13718869", "3": "0.25193292", "5": "0.12042001"}}

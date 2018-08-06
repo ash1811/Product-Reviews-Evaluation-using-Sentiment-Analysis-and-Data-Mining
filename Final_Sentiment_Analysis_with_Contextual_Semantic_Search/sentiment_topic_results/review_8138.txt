@@ -1,0 +1,1 @@
+{"text": "These flips flops are not only stylish but also, affordable, comfortable and support your foot in all the right places.", "sentiment": "positive", "topics": {"0": "0.013009333", "1": "0.47949216", "2": "0.105955966", "3": "0.013045621", "4": "0.26774526", "5": "0.013004667", "6": "0.10774701"}}

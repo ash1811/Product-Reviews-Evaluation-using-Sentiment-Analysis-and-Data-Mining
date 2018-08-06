@@ -1,0 +1,1 @@
+{"text": "The Casio yellow faced sports watch I just replaced after having one for 15 years!  This one looks and wears as wellas the last one and we'll see how long it last!", "sentiment": "negative", "topics": {"1": "0.37244824", "2": "0.15620391", "3": "0.1346035", "4": "0.26027298", "6": "0.062130768"}}

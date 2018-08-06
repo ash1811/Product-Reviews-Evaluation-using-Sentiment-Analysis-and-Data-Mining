@@ -1,0 +1,1 @@
+{"text": "Much bigger than I expected and the nylon feels a little cheap. Although, for the price it does the job!", "sentiment": "negative", "topics": {"0": "0.013061719", "1": "0.68427247", "2": "0.013016688", "3": "0.2505233", "4": "0.013048708", "5": "0.0130079035", "6": "0.013069191"}}

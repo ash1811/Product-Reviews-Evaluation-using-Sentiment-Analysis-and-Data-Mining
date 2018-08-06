@@ -1,0 +1,1 @@
+{"text": "A bit of an odd fit. Short rise, cotton is thin and pockets were not as flattering as Dockers usually are....", "sentiment": "negative", "topics": {"0": "0.11093764", "1": "0.4114976", "2": "0.011142725", "3": "0.08998615", "4": "0.3544113", "5": "0.011026952", "6": "0.01099761"}}

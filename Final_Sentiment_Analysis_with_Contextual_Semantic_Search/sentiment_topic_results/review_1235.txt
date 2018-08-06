@@ -1,0 +1,1 @@
+{"text": "i am a size 5 in women and these were a size too big. ladies with small feet buy from the adidas big kid section.", "sentiment": "negative", "topics": {"0": "0.09596097", "1": "0.37397796", "2": "0.0102080675", "3": "0.19386378", "4": "0.13754633", "5": "0.1781929", "6": "0.010249977"}}

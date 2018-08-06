@@ -1,0 +1,1 @@
+{"text": "Bought these shoes for Disney to go with some dresses and skirts since they look a tad bit dressier than sneakers.  Very cute and comfortable!", "sentiment": "negative", "topics": {"1": "0.37828657", "2": "0.16649024", "5": "0.35194525", "6": "0.074608974"}}

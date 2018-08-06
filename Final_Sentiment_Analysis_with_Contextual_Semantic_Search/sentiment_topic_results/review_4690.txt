@@ -1,0 +1,1 @@
+{"text": "great shoes, extremely comfortable and stylish. I wear the shoes either with or without socks. Sometimes it can be difficult in tough weather conditions.", "sentiment": "negative", "topics": {"1": "0.30149293", "2": "0.28263444", "5": "0.17412747", "6": "0.21489961"}}

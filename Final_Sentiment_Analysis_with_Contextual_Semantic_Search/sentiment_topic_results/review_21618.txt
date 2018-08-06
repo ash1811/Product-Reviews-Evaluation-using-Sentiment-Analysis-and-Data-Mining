@@ -1,0 +1,1 @@
+{"text": "My husband wears this on the coldest days of the year, and he says it is very warm. It appears to fit true to size (I can't remember what size it is, since I bought it for him several years ago). He still wears it often.", "sentiment": "negative", "topics": {"1": "0.42133293", "3": "0.3191978", "4": "0.07851127", "6": "0.16377491"}}

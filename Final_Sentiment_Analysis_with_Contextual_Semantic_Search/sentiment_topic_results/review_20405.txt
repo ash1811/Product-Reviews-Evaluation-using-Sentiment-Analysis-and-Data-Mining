@@ -1,0 +1,1 @@
+{"text": "They really do help the shoe become more comfortable.  I bought them because my foot tends to slip a little in my platform heels.  With these, problem solved!", "sentiment": "positive", "topics": {"0": "0.19266681", "1": "0.12672602", "2": "0.29948044", "3": "0.21303466", "6": "0.15013453"}}

@@ -1,0 +1,1 @@
+{"text": "This is the third pair of these jeans I have purchased.  The first two pairs lasted over five years through all kinds of wear conditions. The quality of construction far surpasses other brands of jeans I have purchased.", "sentiment": "negative", "topics": {"1": "0.31011194", "3": "0.3538872", "5": "0.30873626"}}

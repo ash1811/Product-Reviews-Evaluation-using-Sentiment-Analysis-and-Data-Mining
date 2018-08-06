@@ -1,0 +1,1 @@
+{"text": "But I always thought nothing was like real Levi's.  And at this price this is my birthday present.  If not now, when?  If not for me, then for whom?And these fit very well.", "sentiment": "negative", "topics": {"1": "0.40579665", "3": "0.1222825", "4": "0.11532153", "6": "0.32974038"}}

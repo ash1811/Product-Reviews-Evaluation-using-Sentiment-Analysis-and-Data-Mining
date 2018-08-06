@@ -1,0 +1,1 @@
+{"text": "It is expensive looking and feels the same. I am a collector.I am glad I got this one. IMPRESSIVE", "sentiment": "positive", "topics": {"0": "0.31856972", "1": "0.60950047", "2": "0.01438727", "3": "0.014366051", "4": "0.014373104", "5": "0.014341699", "6": "0.0144616645"}}

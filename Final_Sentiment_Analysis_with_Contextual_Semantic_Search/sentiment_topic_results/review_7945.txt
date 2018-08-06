@@ -1,0 +1,1 @@
+{"text": "These are the best slippers ever. I gave them to so many people for Christmas. Everyone loves them. They are very comfortable when you are on your feet a lot and they last a long time.", "sentiment": "positive", "topics": {"1": "0.23505901", "2": "0.12997623", "4": "0.41091645", "6": "0.19871527"}}

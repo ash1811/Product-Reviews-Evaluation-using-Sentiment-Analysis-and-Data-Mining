@@ -1,0 +1,1 @@
+{"text": "This was the 2nd Invicta watch I recently bought and it is awesome. Beautiful detail and works. It gets a lot of attention. I am very happy with it and it has great reviews from other people that purchased it. Would buy it again.", "sentiment": "positive", "topics": {"1": "0.42940557", "2": "0.22812448", "3": "0.0790035", "5": "0.24393344"}}

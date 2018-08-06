@@ -1,0 +1,1 @@
+{"text": "I've worn these about 4 times on hikes and walks.  They are wonderful! I've always used smart wool and these are comparable.  I have the regular green smartwools so these are much thicker.  But nice in the cold!", "sentiment": "negative", "topics": {"1": "0.35749725", "2": "0.043173004", "3": "0.3180188", "6": "0.26084024"}}

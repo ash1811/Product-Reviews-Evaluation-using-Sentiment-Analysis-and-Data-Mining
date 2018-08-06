@@ -1,0 +1,1 @@
+{"text": "This is the simple basic style I have always worn, and it is fine.  I didn't have to pay an arm and a leg for it.", "sentiment": "negative", "topics": {"0": "0.013059524", "1": "0.013022545", "2": "0.2876805", "3": "0.013017155", "4": "0.01305538", "5": "0.24231172", "6": "0.41785315"}}

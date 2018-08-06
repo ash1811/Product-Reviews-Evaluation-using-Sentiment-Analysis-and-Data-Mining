@@ -1,0 +1,1 @@
+{"text": "i have 3 pairs of these slippers they are the best ever flip flop slippers extremely comfortable durable will ccontinue to buy them", "sentiment": "negative", "topics": {"0": "0.010218559", "1": "0.54295665", "2": "0.26169366", "3": "0.01024526", "4": "0.010218589", "5": "0.010221416", "6": "0.15444589"}}

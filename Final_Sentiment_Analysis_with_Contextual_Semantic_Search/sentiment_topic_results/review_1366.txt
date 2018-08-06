@@ -1,0 +1,1 @@
+{"text": "I needed a pair of blue sandals.  I have a black pair similar to these, but these are the best.  They are so very comfortable.  They surround my foot.  Excellent shoe.  Not dressy looking at all, though.  Only bad part is the toe covering is a bit large.", "sentiment": "negative", "topics": {"1": "0.5860022", "2": "0.20801297", "4": "0.124240726", "6": "0.06448998"}}

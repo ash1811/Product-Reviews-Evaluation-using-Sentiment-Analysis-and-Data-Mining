@@ -1,0 +1,1 @@
+{"text": "I wanted a smooth look under a dress. It fits perfect, its comfy and easy to get on.I ordered a size B and it works for me.", "sentiment": "positive", "topics": {"1": "0.4630661", "2": "0.12668477", "3": "0.28608727", "5": "0.097237654"}}

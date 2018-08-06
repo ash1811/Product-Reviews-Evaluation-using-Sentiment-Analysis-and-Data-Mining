@@ -1,0 +1,1 @@
+{"text": "These are a great fit for any man.  My husband looks so nice in his!  He loves the comfort and ease of move!", "sentiment": "positive", "topics": {"0": "0.011935477", "1": "0.27949455", "2": "0.08396072", "3": "0.19140922", "4": "0.1382601", "5": "0.2829431", "6": "0.011996844"}}

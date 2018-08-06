@@ -1,0 +1,1 @@
+{"text": "Like broader shoulder straps, easier on shoulders does not dig in as badly as some. Would buy again. Good buy.", "sentiment": "negative", "topics": {"0": "0.31890205", "1": "0.30125892", "2": "0.08732866", "4": "0.17181675", "6": "0.10159645"}}

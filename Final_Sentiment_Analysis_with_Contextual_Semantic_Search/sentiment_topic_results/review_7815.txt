@@ -1,0 +1,1 @@
+{"text": "This is very cheaply made and does not work for me.  It doesn't fit the watches I work with and was a total waste of money.  I don't know why there aren't quality products availabe.  :-/", "sentiment": "positive", "topics": {"0": "0.08795788", "1": "0.32169524", "2": "0.21378683", "3": "0.22266293", "5": "0.13481726"}}

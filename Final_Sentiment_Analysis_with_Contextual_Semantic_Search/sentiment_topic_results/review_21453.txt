@@ -1,0 +1,1 @@
+{"text": "My husband LOVES these they are very warm. My husband even wears these to start his truck in the mornings and we live in North Dakota where it can easily be -40 degrees.  They are very soft too. I want to get some for me even.", "sentiment": "negative", "topics": {"0": "0.3348032", "1": "0.29684862", "4": "0.13870583", "6": "0.2091687"}}

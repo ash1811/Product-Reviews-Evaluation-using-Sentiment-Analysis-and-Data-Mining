@@ -1,0 +1,1 @@
+{"text": "These are by far the most comfortable flip flops I have ever worn. The black obviously gets a bit warm in the sun... but very comfortable and holds up well to salt water and sand.", "sentiment": "negative", "topics": {"0": "0.08410525", "1": "0.31532723", "2": "0.2077359", "3": "0.23374546", "6": "0.14396417"}}

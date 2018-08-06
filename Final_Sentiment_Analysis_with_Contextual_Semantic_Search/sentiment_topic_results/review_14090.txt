@@ -1,0 +1,1 @@
+{"text": "Works well on watches with notched screw on backs but I could not get it to remove the serrated edge back (similar to Rolex type back) on an older Victorinox quartz pocket watch.", "sentiment": "positive", "topics": {"1": "0.27213955", "2": "0.43407753", "4": "0.12872861", "5": "0.1455343"}}

@@ -1,0 +1,1 @@
+{"text": "These earrings were chosen as a gift for my sister. They are more beautiful that this lovely photograph!  She loved them.", "sentiment": "negative", "topics": {"0": "0.6372098", "1": "0.014499384", "2": "0.014340448", "3": "0.014346922", "4": "0.16694336", "5": "0.01431652", "6": "0.13834363"}}

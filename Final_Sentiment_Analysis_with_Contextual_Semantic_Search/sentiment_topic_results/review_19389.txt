@@ -1,0 +1,1 @@
+{"text": "This is a good fitting hat to wear while walking and avoiding those harmful UV rays.  I ended up cutting the fabric chin tie and the hat still fits great, even in breezy weather.", "sentiment": "negative", "topics": {"0": "0.12913434", "1": "0.24290915", "2": "0.060089394", "3": "0.1527202", "4": "0.08160038", "5": "0.32702824"}}

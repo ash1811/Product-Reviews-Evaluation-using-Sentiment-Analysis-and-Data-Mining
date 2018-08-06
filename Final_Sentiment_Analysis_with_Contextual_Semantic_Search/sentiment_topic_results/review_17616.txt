@@ -1,0 +1,1 @@
+{"text": "Not expensive and easy on the eye and wrist.Good work watch-if you break it another 10 bucks gets you another one.", "sentiment": "negative", "topics": {"0": "0.09139245", "1": "0.2910672", "2": "0.2795076", "3": "0.058170967", "4": "0.12033815", "5": "0.01021308", "6": "0.14931051"}}

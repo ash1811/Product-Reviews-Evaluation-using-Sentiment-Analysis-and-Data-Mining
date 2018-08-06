@@ -1,0 +1,1 @@
+{"text": "These Keens fit snug and are great shoes!  The color is exceptional and the ties are strong and sturdy! Thanks!", "sentiment": "positive", "topics": {"0": "0.011940367", "1": "0.4984791", "2": "0.2219234", "3": "0.011929368", "4": "0.011918895", "5": "0.011934136", "6": "0.23187476"}}

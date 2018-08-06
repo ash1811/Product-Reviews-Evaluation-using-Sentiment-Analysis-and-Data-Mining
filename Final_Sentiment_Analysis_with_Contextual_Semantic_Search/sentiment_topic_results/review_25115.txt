@@ -1,0 +1,1 @@
+{"text": "These were as described. Used to make a pair of slippers with too little padding more comfortable. Nice, soft and cushiony. Takes some room in shoe but not a problem for these slippers.", "sentiment": "negative", "topics": {"1": "0.4788084", "2": "0.07515196", "3": "0.2027297", "5": "0.0797893", "6": "0.14669675"}}

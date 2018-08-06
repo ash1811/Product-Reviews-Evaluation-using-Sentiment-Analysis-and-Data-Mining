@@ -1,0 +1,1 @@
+{"text": "We bought these instead of a better known brand because of the rave reviews. It was the right choice. The fit was accurate, and the ultra-fluffy fleece compressed just a bit to fit to my partner's feet. He likes them, I'm happy.", "sentiment": "negative", "topics": {"0": "0.10119438", "1": "0.36677474", "2": "0.0802894", "3": "0.25306383", "6": "0.18618281"}}

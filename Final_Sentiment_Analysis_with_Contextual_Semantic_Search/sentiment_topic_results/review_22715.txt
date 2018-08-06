@@ -1,0 +1,1 @@
+{"text": "Add the 1970 Cap and you have the perfect &#34;Homeless&#34; Vietnam Vet Costume for film and TV.  Excellent buy, but it is made &#34;over-sized,&#34; so Order one size Smaller.", "sentiment": "positive", "topics": {"0": "0.33731282", "1": "0.08382634", "2": "0.12371377", "3": "0.29378948", "4": "0.1462312"}}

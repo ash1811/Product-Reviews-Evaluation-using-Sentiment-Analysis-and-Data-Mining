@@ -1,0 +1,1 @@
+{"text": "I got this at my overseas address in 48 hours! wow. It is well priced.  These are lightweight and very comfortable shoes.  However, the front side changed its shape after a couple of months.", "sentiment": "negative", "topics": {"0": "0.25201732", "1": "0.1864761", "2": "0.24431045", "6": "0.29448047"}}

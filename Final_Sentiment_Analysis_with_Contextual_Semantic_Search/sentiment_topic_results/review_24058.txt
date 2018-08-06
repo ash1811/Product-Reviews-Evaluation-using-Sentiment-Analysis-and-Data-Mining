@@ -1,0 +1,1 @@
+{"text": "Works well for when you want to have a little support. In the hospital etc when you will be seen in PJs. Better than without any bra.", "sentiment": "negative", "topics": {"0": "0.011033883", "1": "0.30575684", "2": "0.011012225", "3": "0.4516665", "4": "0.09285707", "5": "0.011000406", "6": "0.116673075"}}

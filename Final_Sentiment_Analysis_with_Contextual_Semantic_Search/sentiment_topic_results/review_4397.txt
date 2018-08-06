@@ -1,0 +1,1 @@
+{"text": "My husband has 36\" inseam these were perfect. Good pair of jeans", "sentiment": "negative", "topics": {"0": "0.4867979", "1": "0.01796585", "2": "0.017872749", "3": "0.017961364", "4": "0.42357156", "5": "0.017966654", "6": "0.017863905"}}

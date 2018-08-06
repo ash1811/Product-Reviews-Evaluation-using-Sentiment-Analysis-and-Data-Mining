@@ -1,0 +1,1 @@
+{"text": "It is fun for my grandson, he is 5, but enough tall and size 4-6 looks short on him. The axe is not included. He costume is well made.", "sentiment": "negative", "topics": {"0": "0.33742997", "1": "0.27007172", "3": "0.08516033", "4": "0.28046727"}}

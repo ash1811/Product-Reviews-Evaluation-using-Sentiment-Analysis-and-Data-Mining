@@ -1,0 +1,1 @@
+{"text": "I bought it to my sonhe likes it very muchit is simple - no need for show off - and very strong and it can be used for scuba divinggood value for the money", "sentiment": "negative", "topics": {"0": "0.12967671", "1": "0.010233778", "2": "0.2937756", "3": "0.010215116", "4": "0.010212862", "5": "0.27477187", "6": "0.27111405"}}

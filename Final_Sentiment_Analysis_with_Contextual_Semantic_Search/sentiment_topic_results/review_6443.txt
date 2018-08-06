@@ -1,0 +1,1 @@
+{"text": "good padding on the sole, not too thick, however.  great socks for long distance running.  doesn't mess up the fit of my shoe, either.", "sentiment": "positive", "topics": {"1": "0.16521882", "2": "0.17417935", "5": "0.6224698"}}

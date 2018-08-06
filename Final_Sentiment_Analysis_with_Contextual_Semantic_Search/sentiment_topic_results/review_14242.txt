@@ -1,0 +1,1 @@
+{"text": "These are the best flip flops ever!  They are so comfy and stay put on my narrow feet.  They can be dressed up or down.", "sentiment": "negative", "topics": {"0": "0.16337106", "1": "0.2454865", "2": "0.14516339", "3": "0.011933213", "4": "0.41018617", "5": "0.011947745", "6": "0.011911888"}}

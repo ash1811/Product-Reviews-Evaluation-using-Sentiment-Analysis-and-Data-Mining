@@ -1,0 +1,1 @@
+{"text": "I love this backpack. I'm a teacher and this fits my laptop and a bunch of papers with room to spare. The colors are great (maybe the pink is more pink and less purple than the picture but it is pretty close to the picture).", "sentiment": "negative", "topics": {"0": "0.08042435", "1": "0.42560253", "2": "0.0632528", "4": "0.17710531", "6": "0.2405971"}}

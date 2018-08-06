@@ -1,0 +1,1 @@
+{"text": "if you like thongs but belt was not useful as I still do not have thigh high white stockings... hmm", "sentiment": "negative", "topics": {"0": "0.012989396", "1": "0.0130061265", "2": "0.013025588", "3": "0.21205121", "4": "0.012992501", "5": "0.109876424", "6": "0.6260587"}}

@@ -1,0 +1,1 @@
+{"text": "Cute, modern, lightweight, beautiful filigree.  It looks dainty.  Just perfect for my grown daughter who likes solitary pendants.  I'm pleased with the purchase.", "sentiment": "negative", "topics": {"0": "0.099491805", "1": "0.19774362", "3": "0.10610336", "4": "0.090313315", "5": "0.3705325", "6": "0.12740274"}}

@@ -1,0 +1,1 @@
+{"text": "my husband is military charming he says they are soft and comfortable they really are what I was  looking in full comfort boots", "sentiment": "negative", "topics": {"0": "0.24081774", "1": "0.2518218", "2": "0.10364326", "3": "0.011930133", "4": "0.19925366", "5": "0.011921505", "6": "0.18061191"}}

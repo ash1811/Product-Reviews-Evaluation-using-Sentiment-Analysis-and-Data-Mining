@@ -1,0 +1,1 @@
+{"text": "My lovely fiancee told me about Swarovski jewelry and ever since, I can't get enough of them! Gem Avenue has some really great ones and their prices are very reasonable!", "sentiment": "positive", "topics": {"0": "0.3643469", "1": "0.14059937", "4": "0.3464839", "6": "0.12591088"}}

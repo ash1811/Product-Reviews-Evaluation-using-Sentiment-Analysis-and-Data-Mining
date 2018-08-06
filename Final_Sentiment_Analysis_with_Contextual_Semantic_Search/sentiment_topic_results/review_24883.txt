@@ -1,0 +1,1 @@
+{"text": "Very beautiful and sexy and comfortable. Love the color and the flow of the material. Will be ordering more soon.", "sentiment": "positive", "topics": {"0": "0.014333266", "1": "0.3309538", "2": "0.014309029", "3": "0.014317001", "4": "0.014376206", "5": "0.44754332", "6": "0.16416734"}}

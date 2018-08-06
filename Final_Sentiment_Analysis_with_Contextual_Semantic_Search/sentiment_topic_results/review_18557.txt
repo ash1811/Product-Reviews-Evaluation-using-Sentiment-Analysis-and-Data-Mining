@@ -1,0 +1,1 @@
+{"text": "I bought this product for my Boyfriend, and he loves it. Leather is better than plain cloth. Easy to make it white. Very neat and cool. Perfect with jeans. Casual, but looks clean.", "sentiment": "negative", "topics": {"1": "0.2275589", "2": "0.0637963", "3": "0.09159925", "5": "0.4210829", "6": "0.181618"}}

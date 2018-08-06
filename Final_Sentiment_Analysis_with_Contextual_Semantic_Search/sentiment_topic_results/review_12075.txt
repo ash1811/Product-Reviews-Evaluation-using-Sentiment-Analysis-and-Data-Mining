@@ -1,0 +1,1 @@
+{"text": "purchased for my husband, he said he likes them, but they are a little stiff. I am sure they will get a little softer with a few more washes.", "sentiment": "positive", "topics": {"0": "0.011012239", "1": "0.21198437", "2": "0.15700553", "3": "0.32549173", "4": "0.11281748", "5": "0.011036658", "6": "0.170652"}}

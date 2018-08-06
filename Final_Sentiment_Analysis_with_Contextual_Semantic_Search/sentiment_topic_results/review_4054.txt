@@ -1,0 +1,1 @@
+{"text": "Love these slippers.  They fit well and do not slide off easy.  For a harder bottom shoe, they are relatively quiet.", "sentiment": "negative", "topics": {"0": "0.07959636", "1": "0.17479013", "2": "0.20826219", "3": "0.011934587", "4": "0.20747982", "5": "0.113800175", "6": "0.20413673"}}

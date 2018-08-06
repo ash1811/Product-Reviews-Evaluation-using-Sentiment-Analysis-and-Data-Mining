@@ -1,0 +1,1 @@
+{"text": "Very impressed with the price and quality of these earrings.  Very secure clasp and good weight.  Would highly recommendthese and I plan to purchase other sizes.", "sentiment": "negative", "topics": {"1": "0.38702992", "3": "0.14748868", "4": "0.3373559", "6": "0.09948584"}}

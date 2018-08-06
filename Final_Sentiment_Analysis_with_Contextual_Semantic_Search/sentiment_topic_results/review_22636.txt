@@ -1,0 +1,1 @@
+{"text": "The pants were brought for my son for work. They are a very good fit and they still look new after two washes.", "sentiment": "negative", "topics": {"0": "0.011921829", "1": "0.7121436", "2": "0.09470721", "3": "0.1454726", "4": "0.011911685", "5": "0.011931649", "6": "0.011911405"}}

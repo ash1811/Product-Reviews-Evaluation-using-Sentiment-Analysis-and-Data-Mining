@@ -1,0 +1,1 @@
+{"text": "Very goodVery suitableAdmired by manyGood sizeGorgeous and beautifulThere is no difference from the pictureVery nice", "sentiment": "negative", "topics": {"0": "0.10959842", "1": "0.24125195", "2": "0.13090053", "3": "0.015889868", "4": "0.015875926", "5": "0.35429004", "6": "0.13219331"}}

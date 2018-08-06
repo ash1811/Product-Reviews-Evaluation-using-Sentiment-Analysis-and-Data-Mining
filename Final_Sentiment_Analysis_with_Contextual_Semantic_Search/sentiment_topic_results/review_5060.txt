@@ -1,0 +1,1 @@
+{"text": "Added to the Collection, of many, many, many, many, many,many, many, Pairs of Clogs. O yes She Loves her Clogs!!", "sentiment": "negative", "topics": {"0": "0.1292266", "1": "0.18879776", "2": "0.010221107", "3": "0.09485031", "4": "0.47455746", "5": "0.09212619", "6": "0.010220584"}}

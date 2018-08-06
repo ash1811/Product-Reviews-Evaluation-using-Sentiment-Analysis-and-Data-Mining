@@ -1,0 +1,1 @@
+{"text": "Nice Shoes very cute and Sexy, just the size order was a little to big ( order a size 8 and needed a size 7.5 ).", "sentiment": "negative", "topics": {"0": "0.2862333", "1": "0.26895097", "2": "0.09260431", "3": "0.32348126"}}

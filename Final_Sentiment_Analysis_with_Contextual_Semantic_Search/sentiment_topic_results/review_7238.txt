@@ -1,0 +1,1 @@
+{"text": "These are a great thickness, they fit my daughter well ( a bit loose in the ankles but shes very slim). I would definitely purchase these again. We use this for ballet/tap classes.", "sentiment": "negative", "topics": {"1": "0.25009206", "3": "0.28917515", "4": "0.42887777"}}

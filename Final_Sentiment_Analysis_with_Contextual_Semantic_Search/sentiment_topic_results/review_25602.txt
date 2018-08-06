@@ -1,0 +1,1 @@
+{"text": "I love this garter belt. The lace has a nice stretch to it that holds in a slight pooch, it's comfortable and stays in place. Very nice product.", "sentiment": "negative", "topics": {"1": "0.3779991", "2": "0.08215931", "3": "0.22027443", "5": "0.29089543"}}

@@ -1,0 +1,1 @@
+{"text": "I normally wear an 8, but ordered a 9 because I was unsure of the give in this product.  Even at a size bigger, they fit tight and there is not much give in the fabric.  I will not be ording any more of these.", "sentiment": "negative", "topics": {"1": "0.5619006", "2": "0.08115299", "5": "0.1813749", "6": "0.15292194"}}

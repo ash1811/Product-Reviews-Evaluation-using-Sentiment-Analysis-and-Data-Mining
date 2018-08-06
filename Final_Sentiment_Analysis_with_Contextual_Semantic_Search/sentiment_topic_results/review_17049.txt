@@ -1,0 +1,1 @@
+{"text": "I checked size 18, which was the only size left, and got a 24. I cannot wear these but the hassle of returning them isn't worth it. Please correct the sizing info on this item.", "sentiment": "negative", "topics": {"0": "0.18081528", "2": "0.08139062", "3": "0.4583075", "6": "0.2567845"}}

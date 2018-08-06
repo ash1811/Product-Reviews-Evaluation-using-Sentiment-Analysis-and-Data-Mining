@@ -1,0 +1,1 @@
+{"text": "OK for the money I paid. approx eight dollar less as compared to local wallmart. Good for gift purpose in less spending.", "sentiment": "positive", "topics": {"0": "0.09228368", "1": "0.15147561", "2": "0.0683339", "3": "0.28954354", "4": "0.13401252", "6": "0.25538492"}}

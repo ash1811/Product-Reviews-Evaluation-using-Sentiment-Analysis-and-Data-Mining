@@ -1,0 +1,1 @@
+{"text": "The worst material in the world. Dont waste your money. This material is so coarse that it might leave gator marks on your body", "sentiment": "negative", "topics": {"0": "0.010242051", "1": "0.010249306", "2": "0.16336882", "3": "0.27305117", "4": "0.0878685", "5": "0.3237922", "6": "0.13142796"}}

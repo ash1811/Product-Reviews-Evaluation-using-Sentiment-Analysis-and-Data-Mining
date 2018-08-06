@@ -1,0 +1,1 @@
+{"text": "My husband likes the watch. It's great with all its features but when it came in you can hardly see anything on the face. It's just dull. I had to turn on the backlight in the afternoon to see the digital time.", "sentiment": "negative", "topics": {"2": "0.32461447", "4": "0.38745672", "6": "0.2560617"}}

@@ -1,0 +1,1 @@
+{"text": "Nice earrings, good length , can wear for any occasion.  Many people have commented on them and told me how much they like them.", "sentiment": "positive", "topics": {"0": "0.010239936", "1": "0.5417941", "2": "0.16750993", "3": "0.010256549", "4": "0.065026745", "5": "0.010228323", "6": "0.19494444"}}

@@ -1,0 +1,1 @@
+{"text": "The bag looks baby blue on the internet but its really green but it looks nice still. My niece loves it.", "sentiment": "negative", "topics": {"0": "0.21681328", "1": "0.51595265", "2": "0.07639932", "3": "0.1601732", "4": "0.010234682", "5": "0.01021993", "6": "0.01020695"}}

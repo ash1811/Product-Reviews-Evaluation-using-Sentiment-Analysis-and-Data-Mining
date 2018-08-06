@@ -1,0 +1,1 @@
+{"text": "not as bulky, but the large size is too large for a thin person", "sentiment": "negative", "topics": {"0": "0.020441428", "1": "0.2025555", "2": "0.17260168", "3": "0.5429762", "4": "0.020519836", "5": "0.020466944", "6": "0.020438395"}}

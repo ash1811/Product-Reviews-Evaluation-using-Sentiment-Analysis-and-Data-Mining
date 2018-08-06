@@ -1,0 +1,1 @@
+{"text": "For the money, this is a great watch.  It's a rolex competitor for the every day user.  I recommend it.", "sentiment": "positive", "topics": {"0": "0.0130515", "1": "0.013029838", "2": "0.25321168", "3": "0.013009754", "4": "0.11276453", "5": "0.5819345", "6": "0.012998163"}}

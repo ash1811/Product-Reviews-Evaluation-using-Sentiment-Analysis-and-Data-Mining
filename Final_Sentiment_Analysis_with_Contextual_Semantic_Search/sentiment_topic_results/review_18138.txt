@@ -1,0 +1,1 @@
+{"text": "I bought this for a trip to Uganda.  I just wanted a cheap, workable watch to wear.  This fills the bill.", "sentiment": "negative", "topics": {"0": "0.013030634", "1": "0.013020882", "2": "0.35237944", "3": "0.013017699", "4": "0.16255504", "5": "0.43299577", "6": "0.013000559"}}

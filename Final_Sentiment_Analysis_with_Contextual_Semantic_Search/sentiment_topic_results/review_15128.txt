@@ -1,0 +1,1 @@
+{"text": "Naturalizer, you've done it!  These boots are so comfy.  I could have gone down a half size but I wanted to make sure the shaft fit.  A little pricey but worth it.", "sentiment": "positive", "topics": {"1": "0.14811587", "2": "0.2153054", "3": "0.40437728", "4": "0.1465186", "5": "0.0705901"}}

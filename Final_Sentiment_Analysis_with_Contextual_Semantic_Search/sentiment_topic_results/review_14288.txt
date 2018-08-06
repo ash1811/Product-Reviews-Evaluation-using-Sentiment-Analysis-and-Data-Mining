@@ -1,0 +1,1 @@
+{"text": "These are as comfortable as a flip flop can be, with arch support and verycushioned foot bed. Colors are pretty too. This is my second pair, I love these.", "sentiment": "negative", "topics": {"1": "0.43639985", "2": "0.13183461", "3": "0.15191308", "4": "0.17680997", "5": "0.08617479"}}

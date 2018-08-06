@@ -1,0 +1,1 @@
+{"text": "I'd recommend this bra it is very supportive and comfortable, however ugly. Can't have it all I suppose, it'd take a genius to come up with something this supportive as well as eye appealing all in the same bra....", "sentiment": "negative", "topics": {"0": "0.088939704", "1": "0.30770922", "3": "0.34217483", "4": "0.06274041", "6": "0.18409237"}}

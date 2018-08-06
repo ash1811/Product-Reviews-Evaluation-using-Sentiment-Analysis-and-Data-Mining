@@ -1,0 +1,1 @@
+{"text": "Looks great, feels great, and that's why I love this brand of panty.A definite recommend on my part.Olga has always been a great brand name.", "sentiment": "positive", "topics": {"0": "0.36131126", "1": "0.039623585", "2": "0.118877195", "3": "0.2895358", "6": "0.17272341"}}

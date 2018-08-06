@@ -1,0 +1,1 @@
+{"text": "I like to sleep in sweatpants during our cold winters and this is just what the weatherman ordered. Soft and comfy with attention to details that mean quality. I've always been pleased with Jerzees products.", "sentiment": "negative", "topics": {"1": "0.32567018", "2": "0.21121648", "3": "0.1630878", "5": "0.18296593", "6": "0.101953685"}}

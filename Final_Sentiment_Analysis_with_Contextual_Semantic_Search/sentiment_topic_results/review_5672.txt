@@ -1,0 +1,1 @@
+{"text": "It is a simple tank top that people wear under see through stuff (hint, hint...not by themselves). They fit good, the color is good and price is right.", "sentiment": "negative", "topics": {"0": "0.082606904", "1": "0.36569014", "3": "0.23794724", "4": "0.16435179", "6": "0.13257988"}}

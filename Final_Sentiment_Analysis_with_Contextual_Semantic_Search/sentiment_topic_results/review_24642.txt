@@ -1,0 +1,1 @@
+{"text": "For step-daughter to wear under costume... but there are no snaps for bathroom breaks which suck with a four year old.", "sentiment": "negative", "topics": {"0": "0.20529775", "1": "0.013028229", "2": "0.2877312", "3": "0.17736441", "4": "0.013014226", "5": "0.2905436", "6": "0.013020658"}}

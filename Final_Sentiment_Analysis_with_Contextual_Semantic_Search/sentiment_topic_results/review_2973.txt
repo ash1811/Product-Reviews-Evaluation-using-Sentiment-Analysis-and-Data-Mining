@@ -1,0 +1,1 @@
+{"text": "I love this item. I buy it all the time. After one wearing the left inner cup came loose. I had to mend it after one time of having it on.", "sentiment": "negative", "topics": {"0": "0.23677012", "1": "0.21327507", "2": "0.15029787", "4": "0.21811889", "6": "0.16364396"}}

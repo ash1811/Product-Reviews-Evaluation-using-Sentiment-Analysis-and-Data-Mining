@@ -1,0 +1,1 @@
+{"text": "Be warned, these aren't much good for more than one time use. They stretch and rip really fast.", "sentiment": "negative", "topics": {"0": "0.3599446", "1": "0.3565776", "2": "0.013067776", "3": "0.013034513", "4": "0.23136477", "5": "0.013021022", "6": "0.012989704"}}

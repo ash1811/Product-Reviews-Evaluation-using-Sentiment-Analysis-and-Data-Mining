@@ -1,0 +1,1 @@
+{"text": "Perfect a true black great pockets like the draws strings great buy will buy more if needed would recommend for purchase", "sentiment": "negative", "topics": {"1": "0.6540005", "2": "0.30126464"}}

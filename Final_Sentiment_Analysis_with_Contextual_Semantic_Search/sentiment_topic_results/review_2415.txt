@@ -1,0 +1,1 @@
+{"text": "They feel like high quality boots and some times you need some stompers.  But these boots are heavy even for stompers.  They are well made and I took one star off for how heavy they are.  But still a great boot", "sentiment": "positive", "topics": {"1": "0.23740272", "2": "0.17083046", "4": "0.29963586", "6": "0.27342328"}}

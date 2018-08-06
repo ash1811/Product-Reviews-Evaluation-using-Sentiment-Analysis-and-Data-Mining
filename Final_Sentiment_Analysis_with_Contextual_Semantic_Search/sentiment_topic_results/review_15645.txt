@@ -1,0 +1,1 @@
+{"text": "This product arrived on time and in great condition.We ordered a medium and it fit perfectly, she's 7 years old.It wasn't too tight or to loose.", "sentiment": "negative", "topics": {"0": "0.17988546", "1": "0.5319089", "2": "0.15754727", "5": "0.10204794"}}

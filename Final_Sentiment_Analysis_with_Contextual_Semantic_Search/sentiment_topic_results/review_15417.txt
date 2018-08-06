@@ -1,0 +1,1 @@
+{"text": "They were much cheaper than, say Sunglass Hut. I have a small face and can't wear 52 in the old Wayfarers but these are perfect. Wayfarers don't go out of style. They come with case and rag in RayBan box. Love them.", "sentiment": "negative", "topics": {"0": "0.094856605", "2": "0.20589767", "3": "0.1865481", "4": "0.37773415", "5": "0.09611844", "6": "0.03310117"}}

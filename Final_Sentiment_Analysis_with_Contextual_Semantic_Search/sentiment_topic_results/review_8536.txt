@@ -1,0 +1,1 @@
+{"text": "I bought these for my step workouts.  I like them because they have a smooth sole which makes pivot turns easier.  They have decent enough support and have been my aerobic shoe for a few years now.", "sentiment": "positive", "topics": {"0": "0.14791206", "2": "0.264054", "3": "0.34079504", "5": "0.2233364"}}

@@ -1,0 +1,1 @@
+{"text": "Ordering online and having this shipped to my house was so needed for the time of the year!  My daughter needed this for the holiday parade.  We live an hour's drive from the nearest dance wear store.  Great value and so easy.", "sentiment": "positive", "topics": {"0": "0.08237949", "3": "0.115010664", "5": "0.43302697", "6": "0.3500332"}}

@@ -1,0 +1,1 @@
+{"text": "My husband absolutely loves these socks.  They are the best socks that I have ever brought him. I give the socks two thumbs up. I would recommend them to anyone", "sentiment": "negative", "topics": {"1": "0.29488328", "2": "0.19322483", "4": "0.1282885", "5": "0.3597305"}}

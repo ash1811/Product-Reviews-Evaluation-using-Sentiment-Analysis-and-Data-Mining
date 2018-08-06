@@ -1,0 +1,1 @@
+{"text": "Comfortable, good work socks.  The yarn seems to lose some stretch with age and washing, hard to explain, the fabric seems to get a little harder.", "sentiment": "positive", "topics": {"0": "0.17311482", "1": "0.13080026", "2": "0.09746465", "3": "0.23298462", "4": "0.21831185", "5": "0.13937597"}}

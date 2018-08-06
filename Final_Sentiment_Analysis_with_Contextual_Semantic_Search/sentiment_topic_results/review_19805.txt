@@ -1,0 +1,1 @@
+{"text": "Got the watch to wear when working out, or in the yard, or whatever casual setting needed, and it is fabulous!!  Love the Pink.  Am planning to order another color.  and as always  Timex and Amazon are the greatest!!!", "sentiment": "positive", "topics": {"0": "0.2048788", "1": "0.32849577", "2": "0.061819788", "4": "0.10391805", "6": "0.28786713"}}

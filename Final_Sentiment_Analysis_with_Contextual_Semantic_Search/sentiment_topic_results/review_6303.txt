@@ -1,0 +1,1 @@
+{"text": "These are great as sock liner for heavy Smartwool socks, I recommend them to anyone for hiking and hitting the hills, certainly helps save the feet.", "sentiment": "negative", "topics": {"0": "0.5025954", "2": "0.085023224", "4": "0.09981405", "5": "0.15839723", "6": "0.13628027"}}

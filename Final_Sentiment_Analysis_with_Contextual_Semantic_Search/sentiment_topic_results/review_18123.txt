@@ -1,0 +1,1 @@
+{"text": "This watch band is for very small people;way it was too small for my wrist. It is light keeps good time and looks good for a reasonable price.", "sentiment": "positive", "topics": {"0": "0.71428436", "2": "0.09602141", "3": "0.15137674"}}

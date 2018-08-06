@@ -1,0 +1,1 @@
+{"text": "This item was bought for our son and he loves it. When he got it for Christmas our weather was so warm wasn't able to wear it but this is not his first Carhartt.", "sentiment": "positive", "topics": {"0": "0.010243336", "1": "0.49128667", "2": "0.010219254", "3": "0.17003489", "4": "0.010248676", "5": "0.0102534825", "6": "0.29771373"}}

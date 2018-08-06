@@ -1,0 +1,1 @@
+{"text": "my daughter loves this watch. it's been working for a while now - works consistently and accurately - and has a simple, white, open face which is easy to read.", "sentiment": "negative", "topics": {"0": "0.010216959", "1": "0.19425955", "2": "0.13081513", "3": "0.25635996", "4": "0.010239778", "5": "0.27254233", "6": "0.12556623"}}

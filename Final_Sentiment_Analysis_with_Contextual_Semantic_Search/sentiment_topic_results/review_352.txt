@@ -1,0 +1,1 @@
+{"text": "fitting is good and nice to look. the color is also good for any other colored pants or shorts to wear.", "sentiment": "negative", "topics": {"0": "0.23202021", "1": "0.52763236", "2": "0.011919859", "3": "0.011985488", "4": "0.19245088", "5": "0.011983205", "6": "0.012007978"}}

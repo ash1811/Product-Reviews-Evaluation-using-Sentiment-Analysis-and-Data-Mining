@@ -1,0 +1,1 @@
+{"text": "I would recommend this shoe to everyone who likes a stylish all terrain shoe with comfort first.  If they weren't so pricey, I would have a couple of more.", "sentiment": "negative", "topics": {"0": "0.15804788", "2": "0.42256448", "6": "0.3811701"}}

@@ -1,0 +1,1 @@
+{"text": "These leggings are soft and feel very nice on. They are comfortable and look nice on. I am larger and need the slimming effect.", "sentiment": "negative", "topics": {"0": "0.010242279", "1": "0.5488491", "2": "0.010218171", "3": "0.010234754", "4": "0.18179843", "5": "0.010222241", "6": "0.22843501"}}

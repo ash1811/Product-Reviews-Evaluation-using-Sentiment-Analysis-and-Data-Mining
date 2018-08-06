@@ -1,0 +1,1 @@
+{"text": "Got these for my mother and she loves them.  I cannot believe how lightweight they are; almost like air. The pair I got for me is way too large and is going back.  Again, I love the weight.", "sentiment": "positive", "topics": {"2": "0.1365629", "3": "0.42098087", "5": "0.41513428"}}

@@ -1,0 +1,1 @@
+{"text": "I use these gloves all the time at work and at home.I love them.This is my second pair in three years and they hold up well!I highly recommend this product.", "sentiment": "negative", "topics": {"1": "0.06162884", "2": "0.18649866", "3": "0.5291604", "5": "0.14423193", "6": "0.061613258"}}

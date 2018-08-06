@@ -1,0 +1,1 @@
+{"text": "I bought this for my son, in fact this is the second one because he lost the first.  He absolutely loves it!!!  It is not scratchy, is lightweight but at the same time very soft, warm and comfortable for his outside construction work in the winter.", "sentiment": "negative", "topics": {"1": "0.56352454", "2": "0.09308085", "3": "0.15477678", "6": "0.1681166"}}

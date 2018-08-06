@@ -1,0 +1,1 @@
+{"text": "These slippers are so well constructed they are almost like a pair of shoes. Because if the sheep fleece lining you may consider going up a size when ordering.", "sentiment": "negative", "topics": {"0": "0.1270192", "1": "0.34626204", "2": "0.23625092", "6": "0.26356372"}}

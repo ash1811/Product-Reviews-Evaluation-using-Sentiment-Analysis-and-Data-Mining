@@ -1,0 +1,1 @@
+{"text": "We purchases the product because they were 100% cotton.  My husband likes the way they fit and how they wash.  They are heavy so there will be a concern wearing them in the summer.", "sentiment": "negative", "topics": {"0": "0.010225599", "1": "0.46493182", "2": "0.010227858", "3": "0.0858714", "4": "0.1492105", "5": "0.1396931", "6": "0.13983972"}}

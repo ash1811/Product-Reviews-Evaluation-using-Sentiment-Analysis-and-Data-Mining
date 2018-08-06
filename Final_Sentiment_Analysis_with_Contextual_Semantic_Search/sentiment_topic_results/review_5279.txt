@@ -1,0 +1,1 @@
+{"text": "I have had these for about 6 months, and they are holding up beautifully! I wear them mostly around the house, but occasionally outside for a few moments. I throw them in the washer and dryer, and they are good as new!", "sentiment": "negative", "topics": {"1": "0.39445037", "2": "0.079320446", "3": "0.42009392", "4": "0.08086458"}}

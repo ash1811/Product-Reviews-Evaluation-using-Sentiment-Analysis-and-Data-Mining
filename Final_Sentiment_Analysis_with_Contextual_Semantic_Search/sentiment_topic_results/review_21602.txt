@@ -1,0 +1,1 @@
+{"text": "They fit perfectly. They are made to fit so as you wear them stretch. They are so comfortable. I received many compliments on my shoes. I wore them all day and my feet didn't hurt.", "sentiment": "negative", "topics": {"1": "0.43260625", "2": "0.08211111", "4": "0.19249915", "5": "0.18361662", "6": "0.09126219"}}

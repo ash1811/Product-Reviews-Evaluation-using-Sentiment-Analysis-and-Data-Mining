@@ -1,0 +1,1 @@
+{"text": "not too bad for the price....simple...not flashy or exciting..but does the job.waiting for a new better replacement now...get what you pay for", "sentiment": "negative", "topics": {"0": "0.52866375", "1": "0.105766825", "2": "0.11807807", "3": "0.11749468", "4": "0.103986114", "5": "0.013007092", "6": "0.013003484"}}

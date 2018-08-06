@@ -1,0 +1,1 @@
+{"text": "These glasses have a different look. The matte blue color is definitely trendy. Just be prepared to be able to pull it off....", "sentiment": "negative", "topics": {"0": "0.52066875", "1": "0.01109077", "2": "0.10846985", "3": "0.17835699", "4": "0.15938543", "5": "0.011015485", "6": "0.011012718"}}

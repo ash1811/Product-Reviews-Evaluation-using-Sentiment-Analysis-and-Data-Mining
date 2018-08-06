@@ -1,0 +1,1 @@
+{"text": "I think the title says it all. My son liked them the first time we got them. They got washed many many times, and kept their comfort fit. He absolutely loves them.", "sentiment": "negative", "topics": {"1": "0.33488065", "2": "0.105537765", "3": "0.12714176", "4": "0.22915477", "6": "0.19024788"}}

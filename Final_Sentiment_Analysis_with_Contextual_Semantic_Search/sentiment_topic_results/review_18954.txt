@@ -1,0 +1,1 @@
+{"text": "The fit is amazing, the elastic lets it be a bit tighter than I normally wear and not feel strangled when I sit down.I'm 6'0&#34; and 180 lbs and the 32x32 were true to size and fit perfectly.", "sentiment": "negative", "topics": {"0": "0.06796927", "1": "0.31918168", "2": "0.06437135", "3": "0.23616907", "4": "0.23553498", "5": "0.06994709"}}

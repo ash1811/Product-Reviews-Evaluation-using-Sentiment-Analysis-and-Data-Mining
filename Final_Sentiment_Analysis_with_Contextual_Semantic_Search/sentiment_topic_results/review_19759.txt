@@ -1,0 +1,1 @@
+{"text": "Very comfortable for wearing around the house. Could be a little bigger but I will manage, need to lose weight anyway lol.", "sentiment": "negative", "topics": {"0": "0.010226255", "1": "0.40424085", "2": "0.18355505", "3": "0.010263754", "4": "0.010236984", "5": "0.13582672", "6": "0.24565037"}}

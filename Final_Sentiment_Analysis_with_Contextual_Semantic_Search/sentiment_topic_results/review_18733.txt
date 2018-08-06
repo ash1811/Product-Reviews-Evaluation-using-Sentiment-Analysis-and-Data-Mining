@@ -1,0 +1,1 @@
+{"text": "These thigh highs r ok just u do have to be even more careful when wearing those because thy do tend to run easily but thy r very soft and so comfy!", "sentiment": "negative", "topics": {"0": "0.20747869", "1": "0.25998974", "2": "0.10804412", "3": "0.3176559", "6": "0.09000462"}}

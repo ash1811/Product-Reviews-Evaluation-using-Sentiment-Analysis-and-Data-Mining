@@ -1,0 +1,1 @@
+{"text": "I bought it for my daughter, she likes me, is not a luxury watch, but it's very practical, is small, the price can be better in relation to the product, but I still like.", "sentiment": "negative", "topics": {"2": "0.12822022", "3": "0.14039078", "4": "0.10505671", "5": "0.4389198", "6": "0.16826922"}}

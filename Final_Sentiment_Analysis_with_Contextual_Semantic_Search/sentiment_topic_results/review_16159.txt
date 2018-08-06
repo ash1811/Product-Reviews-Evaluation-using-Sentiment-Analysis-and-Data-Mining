@@ -1,0 +1,1 @@
+{"text": "These shoes are for school uniform.  My grandson's feef are extra wide and it is difficult to buy wide shoes for a 4 year old.  These worked really well this year. May buy another pair this year.", "sentiment": "negative", "topics": {"0": "0.05720153", "1": "0.4216882", "2": "0.20280452", "3": "0.11161051", "4": "0.1225922", "6": "0.07812565"}}

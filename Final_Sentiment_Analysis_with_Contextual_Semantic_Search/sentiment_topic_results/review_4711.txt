@@ -1,0 +1,1 @@
+{"text": "These pants stand up to tough work:  cement, grout, etc.  Reinforced knees are best feature.  Fit is true to size.  Recommend these pants for dirty jobs.", "sentiment": "positive", "topics": {"0": "0.06584608", "1": "0.63663495", "2": "0.079512246", "4": "0.12453503", "6": "0.078383714"}}

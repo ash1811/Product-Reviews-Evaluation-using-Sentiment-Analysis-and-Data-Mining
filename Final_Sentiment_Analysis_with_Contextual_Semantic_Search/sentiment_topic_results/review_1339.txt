@@ -1,0 +1,1 @@
+{"text": "I love the way this pair of shoes fit.  They are very comfortable.  They look a little cluthsie, because they are for outdoors and I wear them everywhere.  I have problems with my feet hurting all the time and these shoes really help.", "sentiment": "negative", "topics": {"1": "0.32742947", "2": "0.25200215", "4": "0.17252108", "5": "0.11735952", "6": "0.11635162"}}

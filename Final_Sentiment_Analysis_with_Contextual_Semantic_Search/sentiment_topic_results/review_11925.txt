@@ -1,0 +1,1 @@
+{"text": "The weight of these are perfect and the clasps feel very secure.  Nothing like the classic white gold hoop earrings.", "sentiment": "negative", "topics": {"0": "0.011045582", "1": "0.011057268", "2": "0.12217796", "3": "0.3756118", "4": "0.12987453", "5": "0.3391714", "6": "0.011061426"}}

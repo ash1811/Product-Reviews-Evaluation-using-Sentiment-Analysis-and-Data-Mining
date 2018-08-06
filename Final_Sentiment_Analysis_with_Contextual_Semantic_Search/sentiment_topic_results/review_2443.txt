@@ -1,0 +1,1 @@
+{"text": "Sorry, everyone thinks the &#34;lifetime&#34; warranty is worth the money. I didnt have any luck with that. and maby luck was the key?", "sentiment": "negative", "topics": {"0": "0.0102075795", "1": "0.010247765", "2": "0.30468687", "3": "0.010210542", "4": "0.33050737", "5": "0.24898517", "6": "0.08515473"}}

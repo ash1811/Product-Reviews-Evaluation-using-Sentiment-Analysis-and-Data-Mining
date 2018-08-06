@@ -1,0 +1,1 @@
+{"text": "Loved these when I got them, they looked great.  However, I wore them twice and the second time the post fell off the earring.  They are poorly made.", "sentiment": "negative", "topics": {"1": "0.39977732", "2": "0.3238214", "5": "0.24054998"}}

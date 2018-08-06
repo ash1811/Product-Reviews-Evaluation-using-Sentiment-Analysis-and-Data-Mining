@@ -1,0 +1,1 @@
+{"text": "I gave a pair of these to my mother to keep at her northern home.  she likes them so much that she requested a second pair to wear in her southern home.very nice.  wears well.  the UGG's last much longer than the copycat pair that I bought for myself.", "sentiment": "positive", "topics": {"0": "0.20788589", "1": "0.29986796", "3": "0.18490653", "5": "0.29079342"}}

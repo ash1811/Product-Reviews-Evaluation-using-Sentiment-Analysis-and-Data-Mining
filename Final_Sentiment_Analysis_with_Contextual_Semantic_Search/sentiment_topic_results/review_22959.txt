@@ -1,0 +1,1 @@
+{"text": "These shorts fit fine and are reasonably well made. However, the drawstring came out after only one wash, really disappointing. Can't really recommend these.", "sentiment": "positive", "topics": {"0": "0.31471002", "1": "0.2727791", "2": "0.23588909", "4": "0.081366524", "6": "0.07934358"}}

@@ -1,0 +1,1 @@
+{"text": "I bought  pants 40&#34; on amazon pants without any problem, I ventured to buy these pants the same size but turned out to be much smaller....", "sentiment": "negative", "topics": {"0": "0.097301126", "1": "0.55195373", "3": "0.1434594", "4": "0.094149515", "6": "0.09407101"}}

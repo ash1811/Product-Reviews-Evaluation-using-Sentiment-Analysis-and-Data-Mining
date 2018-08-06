@@ -1,0 +1,1 @@
+{"text": "I have neuropathy, so most days getting a shoe on my foot is sheer torture.  I have these in several colors, and I love them!", "sentiment": "positive", "topics": {"0": "0.011929835", "1": "0.123374134", "2": "0.23604597", "3": "0.011946532", "4": "0.3043895", "5": "0.30039173", "6": "0.011922274"}}

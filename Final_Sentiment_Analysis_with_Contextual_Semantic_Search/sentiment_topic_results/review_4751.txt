@@ -1,0 +1,1 @@
+{"text": "Like most flats that are wide enough for the ball of my foot, they slip off of my heels.  But I'm going to figure that out.  I'm sure I can fix that.  And when I do I'll get another pair.", "sentiment": "positive", "topics": {"0": "0.071796596", "1": "0.32116595", "2": "0.088725954", "3": "0.14537247", "4": "0.35928178"}}

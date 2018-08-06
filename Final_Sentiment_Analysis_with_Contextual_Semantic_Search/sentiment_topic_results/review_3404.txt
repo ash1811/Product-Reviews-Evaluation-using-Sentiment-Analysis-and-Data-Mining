@@ -1,0 +1,1 @@
+{"text": "I like the wide straps and does not dig to the skin. The bra has comfortable materials. The lace is not scratchy to the skin. I would recommend this product for sizes with C cups and above.", "sentiment": "negative", "topics": {"0": "0.081911355", "1": "0.28650916", "2": "0.105299875", "3": "0.113855414", "5": "0.29542884", "6": "0.10946558"}}

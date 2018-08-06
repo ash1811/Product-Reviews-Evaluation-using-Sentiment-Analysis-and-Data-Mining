@@ -1,0 +1,1 @@
+{"text": "I thought these were the cutest ever. My son love cowboy boy and I wanted to find him a good pair. These are great. They have endured a lot on his feet and are holding up.", "sentiment": "negative", "topics": {"1": "0.15815239", "3": "0.117755026", "4": "0.39821222", "5": "0.30198038"}}

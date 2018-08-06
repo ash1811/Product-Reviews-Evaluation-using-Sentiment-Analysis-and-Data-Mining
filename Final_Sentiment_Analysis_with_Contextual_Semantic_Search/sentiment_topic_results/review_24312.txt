@@ -1,0 +1,1 @@
+{"text": "Jade looks like plastic bobbles, but the color of metal is cool and I really like design. I normally wear silver, so this is a nice change.", "sentiment": "positive", "topics": {"0": "0.2421106", "1": "0.39034632", "2": "0.09246205", "4": "0.073851556", "6": "0.18435001"}}

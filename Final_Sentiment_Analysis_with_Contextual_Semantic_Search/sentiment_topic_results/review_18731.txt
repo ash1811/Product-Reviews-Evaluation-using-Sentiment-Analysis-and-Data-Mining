@@ -1,0 +1,1 @@
+{"text": "There's nothing really special about these tights compared to any others, but they're worth the money and they fit nicely.", "sentiment": "negative", "topics": {"0": "0.011008721", "1": "0.5473533", "2": "0.011012921", "3": "0.011029169", "4": "0.011019504", "5": "0.39756292", "6": "0.011013486"}}

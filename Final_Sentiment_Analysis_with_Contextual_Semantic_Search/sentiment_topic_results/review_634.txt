@@ -1,0 +1,1 @@
+{"text": "Roomy and comfortable Wrangler quality.  Why get stuck with some shade of blue ?  Press 'em with a crease and wear a shirt & tie !!", "sentiment": "positive", "topics": {"1": "0.49389955", "4": "0.4583563"}}

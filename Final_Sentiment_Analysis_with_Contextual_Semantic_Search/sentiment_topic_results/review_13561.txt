@@ -1,0 +1,1 @@
+{"text": "I'm regularly a size 7 wide and I bought these shoes in both 7.5M and 8M. The 7.5M did not fit at all. The 8 was tight and narrow. I would go up one size further. I liked the slickness of the shoes. I could see using these for Zumba.", "sentiment": "negative", "topics": {"0": "0.2820964", "1": "0.43201753", "2": "0.12773938", "6": "0.14273861"}}

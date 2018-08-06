@@ -1,0 +1,1 @@
+{"text": "This is a comfortable t-shirt. The size is right, and am pleased with this purchase. It is a casual t-shirt.", "sentiment": "negative", "topics": {"0": "0.015908714", "1": "0.6245416", "2": "0.015874289", "3": "0.015929153", "4": "0.015896762", "5": "0.015903005", "6": "0.29594648"}}

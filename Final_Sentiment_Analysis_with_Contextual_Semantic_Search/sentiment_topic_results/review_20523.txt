@@ -1,0 +1,1 @@
+{"text": "It works overall and does help me. But for the price you do have to realize it is still cheap. But it does come with everything displayed.", "sentiment": "negative", "topics": {"0": "0.011948627", "1": "0.40657032", "2": "0.14214799", "3": "0.011951573", "4": "0.1143943", "5": "0.12352174", "6": "0.18946551"}}

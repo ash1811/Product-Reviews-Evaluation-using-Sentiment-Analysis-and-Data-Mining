@@ -1,0 +1,1 @@
+{"text": "It the metal prod bent within minutes. I am ordering a more expensive one. This was a total waste of money.", "sentiment": "negative", "topics": {"0": "0.22180833", "1": "0.2033266", "2": "0.0119400695", "3": "0.011944548", "4": "0.33431122", "5": "0.012008793", "6": "0.20466043"}}

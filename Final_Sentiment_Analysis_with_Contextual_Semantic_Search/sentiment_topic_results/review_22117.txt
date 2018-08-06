@@ -1,0 +1,1 @@
+{"text": "These are nice material good quality, I will be back to let you know if they keep my hands warm, I have to wait till it gets cold enough to rate them.", "sentiment": "negative", "topics": {"1": "0.34865057", "3": "0.5027645", "5": "0.11674554"}}

@@ -1,0 +1,1 @@
+{"text": "Thank you so much for this item. It fits perfectly and I feel it as my own skin.just color mismatch as I expect solid colors,but this case doesn't spoil pleasure)", "sentiment": "negative", "topics": {"0": "0.080325335", "1": "0.36506352", "2": "0.11544976", "3": "0.1169867", "4": "0.07139617", "5": "0.14634538", "6": "0.1044332"}}

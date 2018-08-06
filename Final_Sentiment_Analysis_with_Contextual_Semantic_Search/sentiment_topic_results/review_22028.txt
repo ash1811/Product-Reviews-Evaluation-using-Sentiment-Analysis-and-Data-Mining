@@ -1,0 +1,1 @@
+{"text": "I thought at the price they'd be a decent black film, but no, everything is so bright compared to my ray-bans. I've gotten use to these though, I like the wrap around feel that blocks out the side sun.", "sentiment": "negative", "topics": {"2": "0.14644054", "3": "0.2917493", "4": "0.26701158", "5": "0.11611816", "6": "0.16622989"}}

@@ -1,0 +1,1 @@
+{"text": "This earring holder is sturdy and easy to use.  The two drawers at the bottom are great for keeping extra earring backs or whatever you like.  It holds post earrings, as well as French wires.", "sentiment": "negative", "topics": {"1": "0.37497443", "3": "0.08159556", "5": "0.36968297", "6": "0.15423708"}}

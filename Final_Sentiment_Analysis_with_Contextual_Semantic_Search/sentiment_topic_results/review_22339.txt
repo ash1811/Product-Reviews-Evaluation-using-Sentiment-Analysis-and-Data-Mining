@@ -1,0 +1,1 @@
+{"text": "Works great with 5 styles of my Vibram 5 Finger Shoes. I do not put them in the dryer to avoid shrinkage.", "sentiment": "negative", "topics": {"0": "0.011018436", "1": "0.27552736", "2": "0.099881925", "3": "0.125094", "4": "0.4664459", "5": "0.011023818", "6": "0.011008551"}}

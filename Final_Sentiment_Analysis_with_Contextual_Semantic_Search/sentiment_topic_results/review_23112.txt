@@ -1,0 +1,1 @@
+{"text": "For some reason, the shoulder straps are very close to my neck on this one. I have several the same make and model, and the straps are at least an inch more towards the shoulder, where they should be!", "sentiment": "negative", "topics": {"1": "0.12809576", "2": "0.31001824", "3": "0.11205289", "4": "0.27184328", "6": "0.1600781"}}

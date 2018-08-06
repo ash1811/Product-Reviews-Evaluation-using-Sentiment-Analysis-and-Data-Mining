@@ -1,0 +1,1 @@
+{"text": "I've had many backpack's in my life. This Jansport is the first for this company. I like the colors and that it's a good size for me. I was worried that it would be too small, but it's just right. I can't wait to show it off.", "sentiment": "negative", "topics": {"1": "0.25445417", "2": "0.16988294", "3": "0.44749457", "4": "0.10769996"}}

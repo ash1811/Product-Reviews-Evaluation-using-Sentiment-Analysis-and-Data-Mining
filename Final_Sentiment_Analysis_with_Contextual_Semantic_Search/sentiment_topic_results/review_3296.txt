@@ -1,0 +1,1 @@
+{"text": "I love them, and didn't have to go shopping to get them.  I wear a 32 x 32 and they ran perfect size as always.  A nice generous cut.  Levis have been my favorite for 50 years.  Oh, the price was about 20 under the mall!", "sentiment": "negative", "topics": {"1": "0.25108263", "2": "0.18846859", "3": "0.2170828", "5": "0.122824855", "6": "0.20950268"}}

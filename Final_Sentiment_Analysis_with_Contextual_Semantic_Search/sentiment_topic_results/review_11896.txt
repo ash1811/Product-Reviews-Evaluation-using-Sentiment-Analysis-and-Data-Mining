@@ -1,0 +1,1 @@
+{"text": "lo mejor para cualquier coleccionista,  lo recomiendo para toda ocasion 100% recomendado tanto para toda la familia de seguro le va a gustar", "sentiment": "negative", "topics": {"0": "0.09555595", "2": "0.08985443", "3": "0.04610281", "4": "0.052508514", "5": "0.5648364", "6": "0.14492619"}}

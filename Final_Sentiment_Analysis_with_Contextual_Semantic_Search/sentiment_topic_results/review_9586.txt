@@ -1,0 +1,1 @@
+{"text": "I like it very much.  It's stylish, two=toned and does the job!It was very reasonable and it works and look very nice.", "sentiment": "negative", "topics": {"0": "0.16117306", "1": "0.35770535", "2": "0.12977436", "3": "0.014328314", "4": "0.014298478", "5": "0.14236332", "6": "0.18035713"}}

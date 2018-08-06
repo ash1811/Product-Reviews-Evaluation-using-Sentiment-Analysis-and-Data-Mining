@@ -1,0 +1,1 @@
+{"text": "This is a well made undershirt. Fits well. Holds up well after many washes. Feels great. I would purchase again", "sentiment": "negative", "topics": {"0": "0.010244601", "1": "0.68339026", "2": "0.01021387", "3": "0.15967411", "4": "0.11599735", "5": "0.01023309", "6": "0.010246711"}}

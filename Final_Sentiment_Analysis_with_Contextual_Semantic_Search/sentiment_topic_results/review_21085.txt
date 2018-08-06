@@ -1,0 +1,1 @@
+{"text": "I bought the bag to use for grocery shopping but it is a little small.  It is good for can goods.  Something that you would be afraid a plastic or paper bag could break.", "sentiment": "positive", "topics": {"0": "0.17190173", "1": "0.32383013", "3": "0.12753433", "4": "0.09415197", "5": "0.26665366"}}

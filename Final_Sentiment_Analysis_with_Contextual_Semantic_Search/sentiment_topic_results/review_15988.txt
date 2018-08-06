@@ -1,0 +1,1 @@
+{"text": "Arrived on time. Wore them during my cruise to the Bahamas. Sturdy, comfortable and cute! I'll be buying more in different colors.", "sentiment": "negative", "topics": {"0": "0.38554662", "1": "0.2616318", "2": "0.01099711", "3": "0.19558775", "4": "0.010993601", "5": "0.12420361", "6": "0.0110395085"}}

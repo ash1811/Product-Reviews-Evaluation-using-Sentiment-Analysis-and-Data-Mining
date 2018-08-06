@@ -1,0 +1,1 @@
+{"text": "for the price the tie was ok but it was kind of short but we made due for our party", "sentiment": "positive", "topics": {"0": "0.31125128", "1": "0.3467665", "2": "0.015941462", "3": "0.015910195", "4": "0.015898881", "5": "0.2783563", "6": "0.015875334"}}

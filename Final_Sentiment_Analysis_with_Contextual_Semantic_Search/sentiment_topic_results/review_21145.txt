@@ -1,0 +1,1 @@
+{"text": "For the price, this pair has a very nice cut and falls very well. Not quite a material of my choice as it has a very polyester/rayon feel to it, but cant complain as it is for that reason it falls well.", "sentiment": "positive", "topics": {"0": "0.14589271", "1": "0.74506533", "2": "0.07718214"}}

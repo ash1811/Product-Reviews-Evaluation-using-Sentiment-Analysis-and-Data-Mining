@@ -1,0 +1,1 @@
+{"text": "I bought it to take out some links in a watchband and it did a great job at it.  Easy to use.", "sentiment": "negative", "topics": {"0": "0.014333693", "1": "0.6736825", "2": "0.014314666", "3": "0.014349523", "4": "0.014344772", "5": "0.014348812", "6": "0.254626"}}

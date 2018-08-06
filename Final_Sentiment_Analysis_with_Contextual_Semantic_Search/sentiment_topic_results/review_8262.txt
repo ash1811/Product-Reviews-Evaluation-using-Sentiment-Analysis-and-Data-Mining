@@ -1,0 +1,1 @@
+{"text": "Own several pairs of 569's and wanted a lighter color.  Fit is as expected (36x32).  Fabric seems lighter weight than other pairs of 569's.  Did not encounter any problems as described in some of the reviews.", "sentiment": "negative", "topics": {"1": "0.52224505", "2": "0.12645006", "6": "0.32255098"}}

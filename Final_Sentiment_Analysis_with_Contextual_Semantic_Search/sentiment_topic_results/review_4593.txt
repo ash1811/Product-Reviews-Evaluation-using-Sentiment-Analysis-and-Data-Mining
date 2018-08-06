@@ -1,0 +1,1 @@
+{"text": "I wanted a pair of casual office jeans and these are it.  They fit great and look great.  They are true to size and length.  The fabric allows for a great fit.", "sentiment": "positive", "topics": {"1": "0.576024", "3": "0.1331557", "4": "0.08547909", "5": "0.18141612"}}

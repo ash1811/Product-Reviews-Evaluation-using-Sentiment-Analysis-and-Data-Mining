@@ -1,0 +1,1 @@
+{"text": "Practical and functional - I couldn't ask for anything more.  Useful on any occasion.  Sleek and simply not too much of anything.", "sentiment": "negative", "topics": {"0": "0.18310918", "1": "0.1859662", "2": "0.36563918", "3": "0.011935413", "4": "0.118936956", "5": "0.011921628", "6": "0.12249148"}}

@@ -1,0 +1,1 @@
+{"text": "Nice quality, thick and durable, and nice colors. I wear a 42 and the large is perfection. Can't beat Carhartt quality.", "sentiment": "negative", "topics": {"1": "0.70230836", "2": "0.078621745", "4": "0.07865971", "5": "0.11178947"}}

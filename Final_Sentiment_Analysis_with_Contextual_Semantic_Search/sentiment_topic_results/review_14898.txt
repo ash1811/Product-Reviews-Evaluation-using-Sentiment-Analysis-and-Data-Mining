@@ -1,0 +1,1 @@
+{"text": "Large, lightweight and well designed. Can fit a ton of stuff in here. Great sectional areas to store items. Only annoyance is the slight crinkling noise the shoulder straps make.", "sentiment": "negative", "topics": {"0": "0.073620655", "1": "0.24705635", "2": "0.11188616", "3": "0.1920571", "4": "0.121888444", "5": "0.16154009", "6": "0.091951214"}}

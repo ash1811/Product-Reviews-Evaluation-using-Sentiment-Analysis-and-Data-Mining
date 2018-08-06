@@ -1,0 +1,1 @@
+{"text": "This suit fits really well.  There is a lot of support in the chest area, which I need.  The material doesn't stretch out and get baggy when it gets wet like some do. Definitely a worthwhile purchase.", "sentiment": "negative", "topics": {"1": "0.48114613", "2": "0.10420411", "3": "0.13944508", "4": "0.14773555", "6": "0.113818176"}}

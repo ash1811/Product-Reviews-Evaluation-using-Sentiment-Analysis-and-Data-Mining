@@ -1,0 +1,1 @@
+{"text": "These are great sunglasses. I have a large head and they fit very well, they have excelent shading abilities, and are super cheep.", "sentiment": "negative", "topics": {"0": "0.1114844", "1": "0.5133413", "2": "0.10127915", "3": "0.12931275", "4": "0.011909958", "5": "0.12075373", "6": "0.011918709"}}

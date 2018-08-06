@@ -1,0 +1,1 @@
+{"text": "These fit very well.....no slim fit / skinny jeans type BS.  They are thick and well made.  I love 'em.", "sentiment": "positive", "topics": {"0": "0.010240485", "1": "0.36905697", "2": "0.09560682", "3": "0.1413059", "4": "0.36329913", "5": "0.010274693", "6": "0.0102160275"}}

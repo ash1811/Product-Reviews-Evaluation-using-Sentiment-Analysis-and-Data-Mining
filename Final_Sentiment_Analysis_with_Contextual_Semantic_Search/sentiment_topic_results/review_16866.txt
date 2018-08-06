@@ -1,0 +1,1 @@
+{"text": "My high schoolers uses these toe socks during dance class.  If I remember right, they have a cotton/poly blend and hold up well.", "sentiment": "positive", "topics": {"0": "0.010224682", "1": "0.31448767", "2": "0.25967926", "3": "0.23886572", "4": "0.01023453", "5": "0.0103343185", "6": "0.15617383"}}

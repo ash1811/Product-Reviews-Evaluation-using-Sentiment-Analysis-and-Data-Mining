@@ -1,0 +1,1 @@
+{"text": "These would not fit someone with a pumpkin head. They are on the small side. Fit my husband just fine. They look like nice expensive sunglasses.", "sentiment": "positive", "topics": {"1": "0.51524806", "2": "0.18074192", "3": "0.10749199", "4": "0.085504554", "6": "0.09312725"}}

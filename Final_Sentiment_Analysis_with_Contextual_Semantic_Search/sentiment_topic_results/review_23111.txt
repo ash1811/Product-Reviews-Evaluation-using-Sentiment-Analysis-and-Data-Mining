@@ -1,0 +1,1 @@
+{"text": "I had to go down one size with this bra.  Normally, I wear a 40D, but I had to buy a 38C instead.  It fits quite well.", "sentiment": "negative", "topics": {"0": "0.010219994", "1": "0.466831", "2": "0.01029665", "3": "0.39953423", "4": "0.010240223", "5": "0.010221252", "6": "0.09265662"}}

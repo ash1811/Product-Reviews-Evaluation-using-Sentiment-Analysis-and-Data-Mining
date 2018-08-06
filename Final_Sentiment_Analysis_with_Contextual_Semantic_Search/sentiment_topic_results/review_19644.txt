@@ -1,0 +1,1 @@
+{"text": "I pulled this shoe out of the box, and thought &#34;this is the ugliest shoe I think I have ever seen&#34;.  It did not fit, as it was too small and the arch felt like it was in the wrong location.", "sentiment": "negative", "topics": {"1": "0.43290514", "2": "0.43625352", "3": "0.099025995"}}

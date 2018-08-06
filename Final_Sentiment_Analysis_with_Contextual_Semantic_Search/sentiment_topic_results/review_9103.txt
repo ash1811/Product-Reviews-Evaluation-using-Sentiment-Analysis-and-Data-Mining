@@ -1,0 +1,1 @@
+{"text": "Not very sturdy, all though they were very comfy.  I couldn't we're them taking out the trash or cleaning house. They would have to be for dress up LOL", "sentiment": "negative", "topics": {"0": "0.011918362", "1": "0.37955615", "2": "0.0119530605", "3": "0.011971578", "4": "0.23957182", "5": "0.0119295595", "6": "0.33309948"}}

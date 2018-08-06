@@ -1,0 +1,1 @@
+{"text": "gave these pants a 5 because they were shipped on time and fit great. They are very stain resistant and would recommend these to anyone", "sentiment": "negative", "topics": {"0": "0.28639442", "1": "0.3130838", "2": "0.12199322", "3": "0.011009992", "4": "0.011019115", "5": "0.24549381", "6": "0.011005678"}}

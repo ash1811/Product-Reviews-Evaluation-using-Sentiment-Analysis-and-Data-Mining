@@ -1,0 +1,1 @@
+{"text": "This is the most comfortable.My feet never burn,and the socks never slip down into the shoe.Always happy with them.", "sentiment": "negative", "topics": {"0": "0.3155653", "1": "0.01303083", "2": "0.01306939", "3": "0.013105002", "4": "0.013114649", "5": "0.43648928", "6": "0.1956255"}}

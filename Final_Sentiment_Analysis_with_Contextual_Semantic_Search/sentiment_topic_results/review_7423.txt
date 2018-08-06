@@ -1,0 +1,1 @@
+{"text": "Really nice and sexy and pretty and she looks great and says it feels great and good set. Nice to look at and cuddle to and she loves it", "sentiment": "positive", "topics": {"0": "0.30969062", "1": "0.5705815", "6": "0.08391192"}}

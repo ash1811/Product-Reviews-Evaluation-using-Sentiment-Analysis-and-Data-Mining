@@ -1,0 +1,1 @@
+{"text": "My favorite underwear.  Very light weight and comfortable.  Color is good under any color pants.  I recommend these for everyone.", "sentiment": "negative", "topics": {"0": "0.011930194", "1": "0.7596057", "2": "0.011948994", "3": "0.011945008", "4": "0.011921987", "5": "0.01193451", "6": "0.1807136"}}

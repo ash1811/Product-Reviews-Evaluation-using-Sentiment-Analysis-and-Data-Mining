@@ -1,0 +1,1 @@
+{"text": "Love the padding on this sock.  It also provides support on the arch and top.  Shrinks a bit if you don't follow the exact washing instructions (which I don't because I am too lazy), but they still fit!", "sentiment": "negative", "topics": {"1": "0.17621662", "3": "0.34460607", "4": "0.2587951", "5": "0.19779733"}}

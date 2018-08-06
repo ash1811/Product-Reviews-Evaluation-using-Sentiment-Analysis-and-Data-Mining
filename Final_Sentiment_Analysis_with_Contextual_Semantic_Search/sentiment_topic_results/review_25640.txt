@@ -1,0 +1,1 @@
+{"text": "I travel a lot and wanted something to bring my jewelry with that was both functional and beautiful.  I love it so much I intend to purchase one for all the women in my family for christmas!", "sentiment": "negative", "topics": {"0": "0.105645", "1": "0.45457238", "4": "0.18951239", "6": "0.22496323"}}

@@ -1,0 +1,1 @@
+{"text": "my daughter absolutely loved this sneakers, all of classmates had these Van's on in school and she wanted a pair of her ownso off to Amazon we went...", "sentiment": "negative", "topics": {"0": "0.34106505", "1": "0.011101004", "2": "0.24184483", "3": "0.01103657", "4": "0.18905808", "5": "0.011036663", "6": "0.19485778"}}

@@ -1,0 +1,1 @@
+{"text": "Great chain of high-quality silver. A little thinner than I expected. I think a good gift for relatives or friends, but leave yourself.", "sentiment": "negative", "topics": {"0": "0.09563233", "1": "0.27515942", "2": "0.08442018", "3": "0.12347777", "4": "0.28285098", "5": "0.12889813"}}

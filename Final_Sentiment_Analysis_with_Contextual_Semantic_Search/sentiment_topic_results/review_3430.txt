@@ -1,0 +1,1 @@
+{"text": "I have been wearing this style/brand for many years. I've tried others, but these are the best fit for me", "sentiment": "positive", "topics": {"0": "0.014310035", "1": "0.5121353", "2": "0.014294227", "3": "0.20025158", "4": "0.2304271", "5": "0.014294727", "6": "0.014287008"}}

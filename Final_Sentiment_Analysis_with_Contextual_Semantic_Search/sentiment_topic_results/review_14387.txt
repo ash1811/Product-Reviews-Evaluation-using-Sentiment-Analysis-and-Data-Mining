@@ -1,0 +1,1 @@
+{"text": "Good looking pair of shoes, simple style & comfortable. Sole is quite soft and will not last long, dont buy expecting to use for a long time, these won't last a year of regular use. Good price though so doesn't really matter", "sentiment": "positive", "topics": {"1": "0.4199063", "2": "0.103527", "3": "0.14014438", "4": "0.28074005", "6": "0.045444507"}}

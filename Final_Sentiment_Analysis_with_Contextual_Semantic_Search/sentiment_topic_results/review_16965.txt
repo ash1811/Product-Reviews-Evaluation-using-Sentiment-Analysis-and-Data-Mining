@@ -1,0 +1,1 @@
+{"text": "I liked it but just didn't fit like it looked in the picture. Even down sized to a small which fit better from a medium but just wasn't at it seemed. All depends on your style.", "sentiment": "negative", "topics": {"1": "0.48541373", "3": "0.46672186"}}

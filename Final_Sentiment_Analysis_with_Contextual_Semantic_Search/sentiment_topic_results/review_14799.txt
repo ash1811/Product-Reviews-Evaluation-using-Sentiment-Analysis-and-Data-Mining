@@ -1,0 +1,1 @@
+{"text": "I use this in my electric jewelry machine.  This is great to clean silver, diamonds, . Looks professionally cleaned once finished. Have been using for years. Highly recommend it!", "sentiment": "negative", "topics": {"0": "0.4270509", "1": "0.36408603", "2": "0.08097619", "6": "0.10399307"}}

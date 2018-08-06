@@ -1,0 +1,1 @@
+{"text": "Good watch.  My only criticism is that the digital screen on this Ironman is rather small.  Just a minor issue and overall I am very pleased with the watch.", "sentiment": "positive", "topics": {"0": "0.34157705", "1": "0.010248264", "2": "0.34034678", "3": "0.0102180075", "4": "0.09067976", "5": "0.010308021", "6": "0.1966221"}}

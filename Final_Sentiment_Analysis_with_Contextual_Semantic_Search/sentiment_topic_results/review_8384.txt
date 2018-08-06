@@ -1,0 +1,1 @@
+{"text": "Complete protection from wind, cold and blowing debris. Nice to wear under the helmet or any head gear. Thank you.", "sentiment": "negative", "topics": {"0": "0.010209667", "1": "0.010269157", "2": "0.24468459", "3": "0.41675285", "4": "0.010206662", "5": "0.29766712", "6": "0.010209915"}}

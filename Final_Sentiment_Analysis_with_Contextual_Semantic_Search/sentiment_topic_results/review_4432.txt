@@ -1,0 +1,1 @@
+{"text": "Legs aren't straight as seen on photos. Size isn't tight or slim as I read on other reviews, these are very baggy. Maybe I received a wrong item, or they did. Fabric seems to be good. The worst jeans i have ever had...", "sentiment": "positive", "topics": {"1": "0.15050215", "2": "0.06040503", "3": "0.33739117", "4": "0.17646462", "5": "0.20552453", "6": "0.06346647"}}

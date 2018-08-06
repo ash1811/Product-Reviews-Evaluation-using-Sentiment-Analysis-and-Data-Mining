@@ -1,0 +1,1 @@
+{"text": "I bought this watch for my husband, it looks much better in person! It's big and bulky. My husband's wrists are thick so this watch was perfect for him. He loves Invicta watches! Their so affordable,durable and draw lots of attention", "sentiment": "negative", "topics": {"1": "0.24548398", "2": "0.35122764", "4": "0.17739914", "5": "0.15056768", "6": "0.0628701"}}

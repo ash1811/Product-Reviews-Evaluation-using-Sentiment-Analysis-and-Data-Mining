@@ -1,0 +1,1 @@
+{"text": "Sandals are very comfortable and well made. I rely on Bass for  good shoes for travel. It is my go to brand.", "sentiment": "positive", "topics": {"0": "0.011928018", "1": "0.36865404", "2": "0.44991723", "3": "0.13372137", "4": "0.011932592", "5": "0.011928938", "6": "0.01191784"}}

@@ -1,0 +1,1 @@
+{"text": "I love uggs. I have the brown ones and decided to get another pair in grey. They are comfy to walk in and mold around your feet. I wear a 6.5-7 and ordered a 6. Fits great!", "sentiment": "negative", "topics": {"0": "0.06848826", "1": "0.548512", "4": "0.17148341", "5": "0.19104584"}}

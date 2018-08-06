@@ -1,0 +1,1 @@
+{"text": "I bought these for my significant other (who is hard on shoes) and they are holding up very well. The hardsole is great for quick trips outdoors.", "sentiment": "negative", "topics": {"0": "0.1454392", "1": "0.011033758", "2": "0.18953289", "3": "0.011005412", "4": "0.30540177", "5": "0.3265925", "6": "0.010994477"}}

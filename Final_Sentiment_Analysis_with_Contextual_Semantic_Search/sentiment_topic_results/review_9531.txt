@@ -1,0 +1,1 @@
+{"text": "Very nice watch with matching colors and has all the bells and whistles to track the time of day or the time spent getting into shape. Would definitely buy again.", "sentiment": "negative", "topics": {"1": "0.42249647", "2": "0.13763405", "3": "0.13727024", "5": "0.21595341", "6": "0.07070892"}}

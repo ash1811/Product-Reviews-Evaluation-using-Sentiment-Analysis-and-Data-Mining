@@ -1,0 +1,1 @@
+{"text": "This was also a gift to replace a very old pair of Rainbows.  It fit as expected and still a good product.", "sentiment": "negative", "topics": {"0": "0.1131863", "1": "0.4712508", "2": "0.011955757", "3": "0.011943531", "4": "0.15281554", "5": "0.2269374", "6": "0.011910651"}}

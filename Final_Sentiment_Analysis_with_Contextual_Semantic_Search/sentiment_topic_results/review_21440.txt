@@ -1,0 +1,1 @@
+{"text": "My husband is from Europe and I bought these as his &#34;indoor&#34; slippers. He loves them! They look a tad grandpa-ish, but overall very good for the price, fits true to size and is comfortable.", "sentiment": "negative", "topics": {"1": "0.35252348", "2": "0.19218807", "4": "0.1981842", "6": "0.23321983"}}

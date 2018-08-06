@@ -1,0 +1,1 @@
+{"text": "I bought these to wear with my boots and leggings. They are nice when its really cold out to add another layer for warmth.", "sentiment": "negative", "topics": {"0": "0.011941732", "1": "0.5216113", "2": "0.011930314", "3": "0.16041954", "4": "0.2702131", "5": "0.011959131", "6": "0.011924953"}}

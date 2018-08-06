@@ -1,0 +1,1 @@
+{"text": "This shoe is very comfortable, and looks great with a dress or jeans. I love that Trotters come in narrow, which I often can't find", "sentiment": "positive", "topics": {"0": "0.010250324", "1": "0.65144587", "2": "0.0977005", "3": "0.20981626", "4": "0.0102667", "5": "0.010311624", "6": "0.010208714"}}

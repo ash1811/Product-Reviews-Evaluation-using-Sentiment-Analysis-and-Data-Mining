@@ -1,0 +1,1 @@
+{"text": "Got these for my dad for Christmas. He asked me about where I got them today because he said they were the best slippers he's ever had!! I knew he would love them because I only wear acorn slippers myself. So glad I got them for him.", "sentiment": "negative", "topics": {"1": "0.24981977", "3": "0.37748548", "6": "0.3477225"}}

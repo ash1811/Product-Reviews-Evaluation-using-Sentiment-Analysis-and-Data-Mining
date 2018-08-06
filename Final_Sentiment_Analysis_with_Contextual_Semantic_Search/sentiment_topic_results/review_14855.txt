@@ -1,0 +1,1 @@
+{"text": "This bra fits well and comes with a pair of straps however, the bra stays in place so need to keep adjusting it and I have no need for the straps.The material is comfortable and soft and washes well", "sentiment": "negative", "topics": {"1": "0.4573125", "2": "0.08380582", "3": "0.20656803", "6": "0.23186815"}}

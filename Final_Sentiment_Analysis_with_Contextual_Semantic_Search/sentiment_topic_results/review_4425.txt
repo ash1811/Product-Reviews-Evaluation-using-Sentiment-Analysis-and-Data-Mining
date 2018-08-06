@@ -1,0 +1,1 @@
+{"text": "They sit well, made of quality fabric. The walnut color make the jean more sophisticated than blue. That's why I included it in my wardrobe. The jean look smart with oxfords. Though you can wear them on any occasion.", "sentiment": "negative", "topics": {"0": "0.08166353", "1": "0.25571087", "2": "0.054614447", "3": "0.21184863", "4": "0.14982098", "5": "0.23983978"}}

@@ -1,0 +1,1 @@
+{"text": "fit a little small but very for sure Ray Ban quality", "sentiment": "negative", "topics": {"0": "0.017878661", "1": "0.611555", "2": "0.16134629", "3": "0.017907083", "4": "0.15558025", "5": "0.01786813", "6": "0.017864661"}}

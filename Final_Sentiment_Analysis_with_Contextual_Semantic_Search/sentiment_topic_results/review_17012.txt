@@ -1,0 +1,1 @@
+{"text": "Although the shirt is a poly cotton blend, it does not look like a cheap shirt and looks really great.", "sentiment": "negative", "topics": {"0": "0.011040527", "1": "0.5031714", "2": "0.1513786", "3": "0.12250604", "4": "0.011002541", "5": "0.0110239545", "6": "0.18987694"}}

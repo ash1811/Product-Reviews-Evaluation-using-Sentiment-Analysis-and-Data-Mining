@@ -1,0 +1,1 @@
+{"text": "My husband still wears these even after 3 years and refuses to throw them away. They have more support than what you would expect, are warm with reasonably good traction.", "sentiment": "positive", "topics": {"0": "0.09749812", "1": "0.31480676", "2": "0.083366886", "3": "0.34883", "4": "0.13861498"}}

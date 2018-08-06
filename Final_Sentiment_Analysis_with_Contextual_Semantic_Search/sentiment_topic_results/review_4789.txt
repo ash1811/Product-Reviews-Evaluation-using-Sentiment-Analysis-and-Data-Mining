@@ -1,0 +1,1 @@
+{"text": "When it said rigid, I didn't think it would be like canvas. It's been washed and worn several times, but it's still too stiff. It could literally stand on it's own. My son likes the color and the fit, but the fabric is just too rough.", "sentiment": "positive", "topics": {"1": "0.430512", "2": "0.29216355", "5": "0.18221182", "6": "0.07640105"}}

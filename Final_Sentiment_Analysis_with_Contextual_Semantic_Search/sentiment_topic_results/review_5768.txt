@@ -1,0 +1,1 @@
+{"text": "This shirt seems to be heavier than many shirts in its class and well made. I've only washed it three or four times, but it's still looking good.", "sentiment": "negative", "topics": {"1": "0.3010972", "3": "0.3451955", "4": "0.06984397", "5": "0.25859565"}}

@@ -1,0 +1,1 @@
+{"text": "Its big, Its. red and it has a flap.  Make sure you have a large purse to carry this in.  Lots of places for cards. Decent quality for the price.", "sentiment": "positive", "topics": {"1": "0.55294925", "2": "0.19952194", "4": "0.07933062", "5": "0.088362314", "6": "0.06293456"}}

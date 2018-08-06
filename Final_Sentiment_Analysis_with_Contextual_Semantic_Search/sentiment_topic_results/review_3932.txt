@@ -1,0 +1,1 @@
+{"text": "Love these... they look nice and they're very comfy.  They do run large/wide (I wear 8.5) and I tend to walk out of them, but a good run through the washing machine makes the fit more manageable.  If you like a roomier fit these are great.", "sentiment": "negative", "topics": {"1": "0.35458812", "3": "0.27715763", "4": "0.14154194", "6": "0.21017417"}}

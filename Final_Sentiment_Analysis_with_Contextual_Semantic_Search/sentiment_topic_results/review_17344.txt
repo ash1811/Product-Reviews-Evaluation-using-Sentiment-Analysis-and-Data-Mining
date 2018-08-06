@@ -1,0 +1,1 @@
+{"text": "Pretty heavy duty - thick and warm!Wanted something a little more low profile - so I returned it! But very nice vest!", "sentiment": "negative", "topics": {"0": "0.010265214", "1": "0.6982641", "2": "0.010271916", "3": "0.010260424", "4": "0.13054906", "5": "0.010218399", "6": "0.13017084"}}

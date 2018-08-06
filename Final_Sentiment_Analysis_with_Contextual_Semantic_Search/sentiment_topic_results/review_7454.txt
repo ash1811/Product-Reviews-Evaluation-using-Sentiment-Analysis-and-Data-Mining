@@ -1,0 +1,1 @@
+{"text": "It fits a bit small, but it is so cute I will keep it anyway!  Has a very nice feel to the material and the ruffle panties are adorable with it!", "sentiment": "negative", "topics": {"0": "0.16805927", "1": "0.20133825", "2": "0.11858953", "3": "0.48133487", "4": "0.010214516", "5": "0.010239477", "6": "0.010224105"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these as a Christmas gift for myself. I wear glasses for near sightedness so I was looking for something that looked good but also could have prescription lenses added. I wear them all the time now!", "sentiment": "negative", "topics": {"0": "0.21572322", "1": "0.25977406", "3": "0.26145548", "4": "0.15124996", "6": "0.09815968"}}

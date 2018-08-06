@@ -1,0 +1,1 @@
+{"text": "The bottoms are made from yoga mats- very spongy and comfy.  I wear them on my concrete floors, they are great!  I just ordered another pair in a different color.  So glad I found these, and they look great too.", "sentiment": "negative", "topics": {"0": "0.19274093", "1": "0.40978518", "2": "0.081227966", "4": "0.10639212", "5": "0.196828"}}

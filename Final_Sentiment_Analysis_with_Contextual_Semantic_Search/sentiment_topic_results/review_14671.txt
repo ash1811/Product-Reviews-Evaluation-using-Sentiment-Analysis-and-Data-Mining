@@ -1,0 +1,1 @@
+{"text": "Serves already 3 years and keeps good look too. Light, comfortable boots, I recommend to every one who is looking for everyday use.", "sentiment": "negative", "topics": {"1": "0.41995865", "2": "0.18957914", "3": "0.18719074", "4": "0.17938016"}}

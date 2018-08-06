@@ -1,0 +1,1 @@
+{"text": "Seems well built, and as I am always removing these pins with an assortment of improvised methods. It's the way to go if you are like me, and determined to DIY.", "sentiment": "negative", "topics": {"1": "0.17406763", "2": "0.46393505", "4": "0.23775402", "6": "0.09739051"}}

@@ -1,0 +1,1 @@
+{"text": "This looks absolutely beautiful on our 18 year old granddaughter. She wears it all the time. Highly recommend for any age.", "sentiment": "positive", "topics": {"0": "0.36227185", "1": "0.011041559", "2": "0.11471416", "3": "0.22874856", "4": "0.26117292", "5": "0.011057929", "6": "0.01099305"}}

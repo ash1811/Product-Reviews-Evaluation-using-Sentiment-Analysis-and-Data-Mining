@@ -1,0 +1,1 @@
+{"text": "It's either havaiana brazil or Ocean Minded Bethany style that I wear.  So comfortable! I would highly recommend. Come on Summer!", "sentiment": "negative", "topics": {"1": "0.5693939", "3": "0.120302476", "5": "0.13474587", "6": "0.1469247"}}

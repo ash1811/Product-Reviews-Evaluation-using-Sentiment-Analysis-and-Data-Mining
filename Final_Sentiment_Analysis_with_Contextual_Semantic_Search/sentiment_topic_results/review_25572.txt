@@ -1,0 +1,1 @@
+{"text": "Good quality socks for the price, however, they do show when wearing sneakers and capris. I would purchase again if I needed regular socks instead of no show.", "sentiment": "negative", "topics": {"0": "0.1610117", "1": "0.38552275", "2": "0.2565024", "5": "0.17165379"}}

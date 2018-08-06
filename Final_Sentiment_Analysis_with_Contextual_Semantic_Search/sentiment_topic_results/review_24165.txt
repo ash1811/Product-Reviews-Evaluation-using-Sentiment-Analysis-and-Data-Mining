@@ -1,0 +1,1 @@
+{"text": "Bought two bras by this maker. This one was much smaller than the other. May return , just fits now, afraid if I wear and wash it will not fit. Looks like a nice bra, made well, just not sized like the other I bought.", "sentiment": "negative", "topics": {"0": "0.05541789", "1": "0.5171052", "2": "0.08834027", "3": "0.18853688", "4": "0.059974022", "6": "0.08510538"}}

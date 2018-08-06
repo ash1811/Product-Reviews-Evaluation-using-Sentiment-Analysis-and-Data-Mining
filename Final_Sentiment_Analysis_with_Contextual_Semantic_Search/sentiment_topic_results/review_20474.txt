@@ -1,0 +1,1 @@
+{"text": "These sandals provide the sole support that I was looking for. While snug putting on, they are flexible where it counts and appear to be well made of high quality materials.", "sentiment": "positive", "topics": {"1": "0.35842028", "3": "0.07753372", "4": "0.16019522", "5": "0.19993725", "6": "0.18800366"}}

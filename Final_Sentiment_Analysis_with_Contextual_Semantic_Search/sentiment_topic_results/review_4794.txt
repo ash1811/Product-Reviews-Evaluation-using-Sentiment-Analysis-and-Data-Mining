@@ -1,0 +1,1 @@
+{"text": "Great productGreat qualityPerfect fitWas waiting for a lighter color as per the images shown in Amazon, they were darker than expected.", "sentiment": "negative", "topics": {"0": "0.18578346", "1": "0.5100161", "2": "0.080789104", "3": "0.010207395", "4": "0.19271946", "5": "0.010212184", "6": "0.01027232"}}

@@ -1,0 +1,1 @@
+{"text": "These sweatpants look great on. Very slimming as comfortable. I also find the price to be good as well.Nice color.", "sentiment": "positive", "topics": {"0": "0.24777201", "1": "0.5893413", "2": "0.010991184", "3": "0.011003392", "4": "0.11889097", "5": "0.01100946", "6": "0.010991713"}}

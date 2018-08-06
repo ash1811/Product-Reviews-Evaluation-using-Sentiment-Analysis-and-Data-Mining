@@ -1,0 +1,1 @@
+{"text": "I was hoping these would fit and feel like the normal 511s, but they had awkwardly large back pockets and the material is really stiff and unflattering. I wouldn't buy these again.", "sentiment": "negative", "topics": {"0": "0.11074633", "1": "0.4831551", "3": "0.108182415", "5": "0.09174133", "6": "0.19023128"}}

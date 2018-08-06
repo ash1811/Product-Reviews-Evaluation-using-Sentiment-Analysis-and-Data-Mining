@@ -1,0 +1,1 @@
+{"text": "I know these bikinis are cheap, but the fabric is so thin that is almost see through. The size didn't work for me either, were too big. I couldn't use them. I give them 2 stars only because the color and the shape were right.", "sentiment": "negative", "topics": {"0": "0.0699304", "1": "0.26550615", "2": "0.27245775", "3": "0.32091013", "4": "0.057506423"}}

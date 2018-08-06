@@ -1,0 +1,1 @@
+{"text": "I am a person who is very particular about fit. This one gives me the comfort I want. Good jeans and good price.", "sentiment": "negative", "topics": {"0": "0.011957359", "1": "0.48628795", "2": "0.17771864", "3": "0.011958067", "4": "0.011956044", "5": "0.28812188", "6": "0.012000077"}}

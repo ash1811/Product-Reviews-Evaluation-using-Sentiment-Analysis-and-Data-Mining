@@ -1,0 +1,1 @@
+{"text": "I gave it a 5-star review even though I returned it. It is very high quality, but was too small for my needs.", "sentiment": "negative", "topics": {"0": "0.24670221", "1": "0.13135885", "2": "0.011952882", "3": "0.4076984", "4": "0.0119955735", "5": "0.0119466735", "6": "0.17834538"}}

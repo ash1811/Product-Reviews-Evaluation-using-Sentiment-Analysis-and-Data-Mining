@@ -1,0 +1,1 @@
+{"text": "Can't go wrong with these work jeans; I also love the Duluth trading, however, the price for the Carhartt is lower.", "sentiment": "positive", "topics": {"0": "0.16979016", "1": "0.14662181", "2": "0.39592597", "3": "0.010229479", "4": "0.25696543", "5": "0.01025157", "6": "0.010215602"}}

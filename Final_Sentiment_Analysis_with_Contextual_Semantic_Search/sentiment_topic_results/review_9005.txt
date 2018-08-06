@@ -1,0 +1,1 @@
+{"text": "These shoes feels little heavy on my foot. And the leather started turning black after few uses. But the overall quality seems to be good.", "sentiment": "negative", "topics": {"1": "0.17235841", "2": "0.18016021", "3": "0.2572357", "4": "0.08686214", "5": "0.09744016", "6": "0.1963915"}}

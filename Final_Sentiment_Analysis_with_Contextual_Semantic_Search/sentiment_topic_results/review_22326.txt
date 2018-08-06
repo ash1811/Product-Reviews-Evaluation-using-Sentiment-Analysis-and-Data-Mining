@@ -1,0 +1,1 @@
+{"text": "injinji Performance Mini Crew Toesocks,Black,MediumThese work great with my Vibram FiveFingers. A little thick for the summer, but great for the fall through spring.", "sentiment": "positive", "topics": {"0": "0.122081734", "1": "0.52791756", "3": "0.1288289", "5": "0.11741409", "6": "0.08587893"}}

@@ -1,0 +1,1 @@
+{"text": "Nice glasses.  Decent quality, frame allows you to bend it a bid to modify it to your own fit.  Lenses are nice and after all fo the beach abuse I have given them they are still scratch free.", "sentiment": "negative", "topics": {"0": "0.13411793", "1": "0.41287217", "3": "0.36966938", "6": "0.061880667"}}

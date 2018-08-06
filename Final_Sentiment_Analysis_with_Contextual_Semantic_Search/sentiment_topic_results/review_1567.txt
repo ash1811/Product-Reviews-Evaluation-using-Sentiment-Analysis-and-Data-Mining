@@ -1,0 +1,1 @@
+{"text": "Great Bag. I've always used Jansport and I never thought about purchasing one online for a cheaper price. Awesome Buy", "sentiment": "negative", "topics": {"1": "0.5264822", "3": "0.22056685", "4": "0.21712238"}}

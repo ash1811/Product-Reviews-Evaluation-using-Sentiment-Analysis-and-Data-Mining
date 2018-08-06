@@ -1,0 +1,1 @@
+{"text": "The slippers are warm and sturdy.  They are easy to slip your feet into and off you go. They are a good choice.", "sentiment": "negative", "topics": {"0": "0.15047064", "1": "0.43996105", "2": "0.014299172", "3": "0.014318769", "4": "0.17054519", "5": "0.014318852", "6": "0.19608635"}}

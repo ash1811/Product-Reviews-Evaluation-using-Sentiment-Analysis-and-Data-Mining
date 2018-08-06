@@ -1,0 +1,1 @@
+{"text": "I find it easier to just tell the time quickly and free from error, my job situation requires a quicker response.", "sentiment": "negative", "topics": {"0": "0.084997095", "1": "0.10839867", "2": "0.3400646", "3": "0.095624015", "4": "0.3489183", "5": "0.011005108", "6": "0.010992249"}}

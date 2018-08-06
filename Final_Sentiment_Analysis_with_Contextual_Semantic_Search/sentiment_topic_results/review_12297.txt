@@ -1,0 +1,1 @@
+{"text": "Great fitting and feeling pants. I will be buying more soon. they wash up really good and don't shrink. GREAT", "sentiment": "positive", "topics": {"0": "0.011934456", "1": "0.5210309", "2": "0.011935706", "3": "0.011941958", "4": "0.01191767", "5": "0.41927063", "6": "0.011968655"}}

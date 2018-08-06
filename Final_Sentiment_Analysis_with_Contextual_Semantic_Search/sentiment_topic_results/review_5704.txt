@@ -1,0 +1,1 @@
+{"text": "fits and feeels great. no mistake buying this. the size is true to fit . it has elastic around the waiste and ancles", "sentiment": "positive", "topics": {"0": "0.010235017", "1": "0.40817362", "2": "0.096018694", "3": "0.14097182", "4": "0.124430545", "5": "0.010232192", "6": "0.20993811"}}

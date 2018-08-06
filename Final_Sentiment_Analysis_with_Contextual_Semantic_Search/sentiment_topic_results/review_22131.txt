@@ -1,0 +1,1 @@
+{"text": "Gave as a gift, but I have purchased the same product for myself and like them. The cuff is a bit tight, but the weight of the fabric is good.", "sentiment": "negative", "topics": {"0": "0.3503538", "1": "0.3145203", "2": "0.011053708", "3": "0.01106929", "4": "0.01100703", "5": "0.29097828", "6": "0.0110175535"}}

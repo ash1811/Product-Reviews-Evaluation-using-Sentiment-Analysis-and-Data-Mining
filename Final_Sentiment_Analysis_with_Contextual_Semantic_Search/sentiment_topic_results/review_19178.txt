@@ -1,0 +1,1 @@
+{"text": "looked nice for awhile but got all tarnished soon after", "sentiment": "positive", "topics": {"0": "0.02044775", "1": "0.020515012", "2": "0.020452237", "3": "0.5395073", "4": "0.020465624", "5": "0.02043943", "6": "0.35817263"}}

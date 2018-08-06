@@ -1,0 +1,1 @@
+{"text": "Well constructed sandals and very comfortable.  The color combination is a eye catcher.  The built in bottle opener on bottom of shoe came in very handy at a New Year's party.", "sentiment": "negative", "topics": {"0": "0.19445983", "1": "0.17263629", "2": "0.29435977", "3": "0.15318541", "4": "0.03786371", "5": "0.07478768", "6": "0.07270732"}}

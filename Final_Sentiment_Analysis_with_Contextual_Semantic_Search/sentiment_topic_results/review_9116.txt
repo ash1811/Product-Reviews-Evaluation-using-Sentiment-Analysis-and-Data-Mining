@@ -1,0 +1,1 @@
+{"text": "Need to order one size up due to comfort piling inside. Reordered as really do like the style of slipper.", "sentiment": "negative", "topics": {"0": "0.058142044", "1": "0.010224109", "2": "0.24302718", "3": "0.010231148", "4": "0.010246567", "5": "0.31752238", "6": "0.3506066"}}

@@ -1,0 +1,1 @@
+{"text": "These stockings are very comfortable and very sturdy.  They fit well and are easy to launder, I hand washed  mine.", "sentiment": "negative", "topics": {"0": "0.013000534", "1": "0.59936285", "2": "0.012996513", "3": "0.013036269", "4": "0.013016996", "5": "0.01301221", "6": "0.33557466"}}

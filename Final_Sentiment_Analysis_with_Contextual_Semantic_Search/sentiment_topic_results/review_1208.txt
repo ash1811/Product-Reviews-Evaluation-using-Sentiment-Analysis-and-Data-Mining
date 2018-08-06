@@ -1,0 +1,1 @@
+{"text": "While I know that some people may use handcuffs for crazy reasons,  I was trying to put a cowboy costume together for a play.These handcuffs were perfect since they are easily removed with or without a key.", "sentiment": "positive", "topics": {"0": "0.16581699", "1": "0.48925322", "2": "0.14136326", "4": "0.18308556"}}

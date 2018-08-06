@@ -1,0 +1,1 @@
+{"text": "Shed Rain is a excellent company,  Have used their products before and their umbrellas out last other umbrellas under normal use esp in the midwest.", "sentiment": "negative", "topics": {"0": "0.3391935", "1": "0.010224756", "2": "0.13583772", "3": "0.21022859", "4": "0.14604425", "5": "0.14826123", "6": "0.010209914"}}

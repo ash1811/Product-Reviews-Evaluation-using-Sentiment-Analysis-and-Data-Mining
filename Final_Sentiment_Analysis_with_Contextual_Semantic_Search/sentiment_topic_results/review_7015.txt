@@ -1,0 +1,1 @@
+{"text": "Not nearly as nice as the similar Casio that sells for $10 less on Amazon.  That Casio is so much better in quality--no comparison.See the Casio here:B009KYJAJY", "sentiment": "negative", "topics": {"1": "0.10993537", "2": "0.07704805", "4": "0.23356527", "5": "0.06698638", "6": "0.49457106"}}

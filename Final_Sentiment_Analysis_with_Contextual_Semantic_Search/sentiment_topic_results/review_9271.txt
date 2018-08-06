@@ -1,0 +1,1 @@
+{"text": "Purchased for my husband, he LOVES them! Very soft and cooshy on the inside, and seems to be pretty sturdy on the outside.  Great fit and is holding up very well.", "sentiment": "negative", "topics": {"0": "0.11794847", "1": "0.52245706", "3": "0.13079183", "4": "0.20196173"}}

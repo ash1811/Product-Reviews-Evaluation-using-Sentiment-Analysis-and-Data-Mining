@@ -1,0 +1,1 @@
+{"text": "What more can I say.  You have to buy one or more of these.  Incredible look.  I highly recommend the heels as shown.  Panty optional.  A great value.  Love it!", "sentiment": "negative", "topics": {"1": "0.3980014", "2": "0.4480942", "6": "0.120103836"}}

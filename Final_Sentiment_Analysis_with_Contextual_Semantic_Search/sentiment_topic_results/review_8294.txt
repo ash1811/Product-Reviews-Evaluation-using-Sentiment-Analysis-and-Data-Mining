@@ -1,0 +1,1 @@
+{"text": "Great jeans if you need a little more room in the crotch and the leg area (as in if are you are over 30 years of age).  Not overly tight but not baggie.  Very happy with the jeans.", "sentiment": "negative", "topics": {"1": "0.38110492", "4": "0.14664681", "5": "0.35627273", "6": "0.092095524"}}

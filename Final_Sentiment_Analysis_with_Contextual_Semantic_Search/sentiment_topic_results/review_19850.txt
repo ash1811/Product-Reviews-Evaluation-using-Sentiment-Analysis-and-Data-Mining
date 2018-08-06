@@ -1,0 +1,1 @@
+{"text": "This box makes it nice to keep all my rings in one place. Yet small enough to put in a drawer or takes up little space in the safe. Wish I would of bought one sooner", "sentiment": "negative", "topics": {"1": "0.615979", "3": "0.20011348", "5": "0.15781024"}}

@@ -1,0 +1,1 @@
+{"text": "Size is a little big, but very comfortable to wear. The price wasn't what advantage. Now the day began to heat up, not to have to wear. Directly from the cloakroom.", "sentiment": "positive", "topics": {"1": "0.40713602", "2": "0.17925593", "4": "0.1758539", "6": "0.20905139"}}

@@ -1,0 +1,1 @@
+{"text": "It does everything I need a watch to do and it looks good too.  I have several of these watches in different colors, and since the battery is so easy to change I do it myself. which saves money.", "sentiment": "negative", "topics": {"0": "0.04403213", "1": "0.32984117", "2": "0.33183324", "4": "0.07331929", "6": "0.20500025"}}

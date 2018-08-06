@@ -1,0 +1,1 @@
+{"text": "Boxers wear very well and wash well. Very comfortable in use. Mized feelings about this product having excellent properties though. I would probably purchase this product again.", "sentiment": "positive", "topics": {"1": "0.3115303", "2": "0.1283827", "3": "0.18506749", "5": "0.29761925", "6": "0.062285054"}}

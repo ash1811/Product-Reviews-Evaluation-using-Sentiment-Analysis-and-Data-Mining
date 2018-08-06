@@ -1,0 +1,1 @@
+{"text": "i really like these shirts. i bought multiple colors of this same shirt. good for the gym or just laying around the house. they are exactly what i was looking for.", "sentiment": "negative", "topics": {"0": "0.08137302", "1": "0.49385595", "6": "0.38897106"}}

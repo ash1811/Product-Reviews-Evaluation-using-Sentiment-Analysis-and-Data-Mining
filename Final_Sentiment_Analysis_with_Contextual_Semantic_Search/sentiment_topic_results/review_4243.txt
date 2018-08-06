@@ -1,0 +1,1 @@
+{"text": "Just plain shorts. Soft material, easy on/off for diaper changing.  Variety of color choices could be better.  Can't bet the price, but no bells and whistles.  Not ready for the runway.", "sentiment": "negative", "topics": {"0": "0.086489856", "1": "0.32768294", "2": "0.24319775", "5": "0.121259175", "6": "0.20773749"}}

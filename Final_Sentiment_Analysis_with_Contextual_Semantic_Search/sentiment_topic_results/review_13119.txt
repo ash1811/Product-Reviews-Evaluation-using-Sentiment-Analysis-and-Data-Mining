@@ -1,0 +1,1 @@
+{"text": "I use this bag for the very purpose of it's title... ammo.  Carries extra shells and speedloaders in the front pouches.", "sentiment": "positive", "topics": {"0": "0.25539207", "1": "0.011924065", "2": "0.011918969", "3": "0.27472386", "4": "0.17808616", "5": "0.17234941", "6": "0.09560544"}}

@@ -1,0 +1,1 @@
+{"text": "Kept me warm and dry during two weeks of outdoor work in Quebec last year. Keep in mind they are sized a bit large to fit extra layers underneath!", "sentiment": "negative", "topics": {"0": "0.09180133", "1": "0.28634828", "3": "0.3600086", "4": "0.13520738", "5": "0.11231681"}}

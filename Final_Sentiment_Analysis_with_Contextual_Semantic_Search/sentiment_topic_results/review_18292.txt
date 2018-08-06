@@ -1,0 +1,1 @@
+{"text": "i needed a small watch that was small and big enough to see the numbers, but also that is water resistant. this watch was  exactly that i was looking for. the price was a great deal. i love it.", "sentiment": "positive", "topics": {"0": "0.053673506", "1": "0.20538148", "2": "0.33671954", "3": "0.08848797", "4": "0.24134472", "6": "0.06757666"}}

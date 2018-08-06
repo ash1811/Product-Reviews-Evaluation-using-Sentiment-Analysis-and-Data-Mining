@@ -1,0 +1,1 @@
+{"text": "delivered on time and great condition! i love them. deff reccomend the seller to anyone who is nervous about buying uggs online", "sentiment": "negative", "topics": {"0": "0.462474", "4": "0.15584181", "5": "0.3434867"}}

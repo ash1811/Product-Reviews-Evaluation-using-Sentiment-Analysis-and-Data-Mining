@@ -1,0 +1,1 @@
+{"text": "My daughter is happy about the full coverage and finally not getting wedgies.  We were happy with the assortment of patterns and colors.", "sentiment": "negative", "topics": {"0": "0.5423903", "1": "0.19403912", "2": "0.125167", "3": "0.10260864", "4": "0.011928287", "5": "0.011952997", "6": "0.011913662"}}

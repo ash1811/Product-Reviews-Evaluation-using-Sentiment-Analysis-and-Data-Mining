@@ -1,0 +1,1 @@
+{"text": "Satisfied with this product...even though my husband and I never got around to &#34;installing it.&#34; We still use it to clean our shoes, but you need to bolt it onto something to hold it in place.", "sentiment": "negative", "topics": {"1": "0.16411425", "2": "0.06254099", "3": "0.23547272", "4": "0.1753773", "5": "0.21388996", "6": "0.14145952"}}

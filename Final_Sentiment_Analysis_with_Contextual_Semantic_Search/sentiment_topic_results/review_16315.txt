@@ -1,0 +1,1 @@
+{"text": "GREAT! I LOVE THEM! So glad I got these, they look great in the black AND the gray. They are a tad long for me, but I don't mind with the other undergarments I wear, they are fine. SO DARK. Just awesome.", "sentiment": "negative", "topics": {"1": "0.5685358", "2": "0.098678455", "3": "0.24056038", "6": "0.07072128"}}

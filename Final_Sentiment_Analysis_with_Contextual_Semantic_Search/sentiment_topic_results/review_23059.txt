@@ -1,0 +1,1 @@
+{"text": "My man LOVES these flip-flops.  I've been a Reef fan for years & he's just not really a flip-flop kind of guy, but motorcycle boots just don't work at the pool/beach/etc., so I bought these for him & he loves them.", "sentiment": "negative", "topics": {"0": "0.0776237", "1": "0.081554025", "2": "0.23176083", "3": "0.30347952", "4": "0.17597106", "5": "0.1224599"}}

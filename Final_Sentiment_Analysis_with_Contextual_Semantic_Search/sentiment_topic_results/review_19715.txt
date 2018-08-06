@@ -1,0 +1,1 @@
+{"text": "This arrived on time and was just what I was looking for. A small size watch for my daughter to wear everywhere. She likes it and it is small enought to look right on her small wrist.", "sentiment": "negative", "topics": {"0": "0.24227074", "2": "0.08102884", "3": "0.2487105", "4": "0.104776576", "5": "0.13596825", "6": "0.17927036"}}

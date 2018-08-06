@@ -1,0 +1,1 @@
+{"text": "The thong part of the sandal was too short.  Don't think I'll be wearing these since they are uncomfortable to wear.", "sentiment": "positive", "topics": {"0": "0.15672027", "1": "0.4781801", "2": "0.013010018", "3": "0.31305417", "4": "0.013006523", "5": "0.013035989", "6": "0.012992956"}}

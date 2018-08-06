@@ -1,0 +1,1 @@
+{"text": "This shirt is of poor quality and the fabric is, I don't know how to explain it, not what I have come to expect. The shirt doesn't hold its shape and the wrinkling is terrible.", "sentiment": "negative", "topics": {"1": "0.21976502", "3": "0.6220885", "5": "0.12234686"}}

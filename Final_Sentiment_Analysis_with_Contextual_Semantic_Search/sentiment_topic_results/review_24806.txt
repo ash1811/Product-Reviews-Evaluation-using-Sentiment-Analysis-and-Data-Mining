@@ -1,0 +1,1 @@
+{"text": "Well they are holding up well, their easy to slip on and the variety of colors helps make for a nice sneaker.Their comfy, stylish and easy to slip on and off. I'm glad I bought these and I recommend them for everyone.", "sentiment": "negative", "topics": {"0": "0.14440839", "1": "0.25822654", "2": "0.15627246", "3": "0.09356734", "4": "0.09979348", "6": "0.24122056"}}

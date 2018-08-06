@@ -1,0 +1,1 @@
+{"text": "Goog quality shirt. I ordered this for my son who is rather tall and lanky. Finding shirts that fit him can be difficult, however this shirt fit the bill.", "sentiment": "negative", "topics": {"1": "0.39398548", "4": "0.13114184", "5": "0.12673564", "6": "0.3228385"}}

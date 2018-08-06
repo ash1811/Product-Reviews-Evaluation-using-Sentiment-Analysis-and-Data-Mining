@@ -1,0 +1,1 @@
+{"text": "what else can I say about them?  They do the job intended, comfortable.  See how they hold up, time will tell.", "sentiment": "negative", "topics": {"0": "0.011940248", "1": "0.21052003", "2": "0.19429858", "3": "0.17906356", "4": "0.2992511", "5": "0.011921791", "6": "0.09300472"}}

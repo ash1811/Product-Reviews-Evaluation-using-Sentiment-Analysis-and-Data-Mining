@@ -1,0 +1,1 @@
+{"text": "GREAT SWEATS LOVE THEM, AND WEAR THEM ALL THE TIME A A A A A A A A A A A", "sentiment": "negative", "topics": {"0": "0.020507317", "1": "0.020515794", "2": "0.020475332", "3": "0.25546402", "4": "0.33522487", "5": "0.3274035", "6": "0.020409206"}}

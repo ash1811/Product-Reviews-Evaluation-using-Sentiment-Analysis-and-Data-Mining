@@ -1,0 +1,1 @@
+{"text": "Works fantastic!  Not even a cap ful is needed and you will noticebly see the shine in your jewels!  Works very well with the GeoOro Spa machine.  Try it- you will not be bummed.", "sentiment": "positive", "topics": {"0": "0.5230534", "4": "0.049098626", "5": "0.08524786", "6": "0.31994092"}}

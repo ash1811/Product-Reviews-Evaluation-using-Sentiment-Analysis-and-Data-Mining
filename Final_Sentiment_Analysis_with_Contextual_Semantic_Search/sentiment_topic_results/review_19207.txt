@@ -1,0 +1,1 @@
+{"text": "It is well made and holds everything. I just wish there was a left-handed version. It (like most wallets) is awkward for lefties.", "sentiment": "negative", "topics": {"0": "0.011920192", "1": "0.22099502", "2": "0.30838478", "3": "0.11362377", "4": "0.07119485", "5": "0.011922636", "6": "0.26195875"}}

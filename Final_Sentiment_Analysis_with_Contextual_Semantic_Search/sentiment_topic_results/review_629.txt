@@ -1,0 +1,1 @@
+{"text": "Quality seems OK but waist is about 2\" smaller than either \"regular\" Wrangler jeans or Levi's 501s.  I wear a 34 in almost everything and these are just too small.", "sentiment": "positive", "topics": {"0": "0.090164684", "1": "0.22502512", "2": "0.26863694", "3": "0.19503976", "6": "0.20521158"}}

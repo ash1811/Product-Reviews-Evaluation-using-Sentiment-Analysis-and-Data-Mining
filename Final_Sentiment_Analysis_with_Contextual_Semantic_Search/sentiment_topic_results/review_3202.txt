@@ -1,0 +1,1 @@
+{"text": "Pro: Comfortable fit, good looking shoes, great traction on dry surface.Con: slippery on certain wet concrete surface or certain wet tiles. Wet roads or paths are alright.Overall: Good shoes that I will buy again as I am using it mostly on dry surface at work.", "sentiment": "negative", "topics": {"0": "0.12688343", "1": "0.4056851", "2": "0.1863748", "3": "0.2671684"}}

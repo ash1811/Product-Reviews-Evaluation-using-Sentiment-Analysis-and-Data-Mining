@@ -1,0 +1,1 @@
+{"text": "Only reason I bought another pair is because my OG's fell off a boat.  Simple, and quality sandal.  Not the cheapest but I will stick with them until they dissapoint.", "sentiment": "negative", "topics": {"0": "0.010242882", "1": "0.2630419", "2": "0.37496454", "3": "0.010235663", "4": "0.010258233", "5": "0.2149075", "6": "0.1163493"}}

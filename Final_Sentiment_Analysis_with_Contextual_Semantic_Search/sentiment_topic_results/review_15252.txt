@@ -1,0 +1,1 @@
+{"text": "Not very form fitting, but it is a nice top. I got the white, so you can see through it a bit. It feels a little stiff. It's not my favorite, but it works.", "sentiment": "positive", "topics": {"0": "0.010226432", "1": "0.010244474", "2": "0.010215251", "3": "0.613351", "4": "0.21122888", "5": "0.13449281", "6": "0.01024118"}}

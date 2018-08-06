@@ -1,0 +1,1 @@
+{"text": "I purchased my first Barely There Bra on sale at Kohls so knew what size to purchase. I am very satisfied with this item. It is so comfortable!", "sentiment": "positive", "topics": {"0": "0.079722576", "1": "0.24800457", "2": "0.09073976", "3": "0.11573311", "4": "0.11986141", "5": "0.011003751", "6": "0.33493486"}}

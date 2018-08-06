@@ -1,0 +1,1 @@
+{"text": "I ordered the XL and there is no way it would fit me.  I think European sizes must be different.", "sentiment": "negative", "topics": {"0": "0.011931036", "1": "0.33743787", "2": "0.11404204", "3": "0.29734954", "4": "0.011925028", "5": "0.01192302", "6": "0.21539147"}}

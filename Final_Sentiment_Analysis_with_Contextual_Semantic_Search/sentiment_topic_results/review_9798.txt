@@ -1,0 +1,1 @@
+{"text": "It came in a standard packaging. The shoe seems to be made of high quality leather. My 2nd tiger shoe and i'm not disappointed so far.", "sentiment": "negative", "topics": {"1": "0.09473077", "2": "0.38213187", "3": "0.24242745", "4": "0.10210339", "6": "0.16071273"}}

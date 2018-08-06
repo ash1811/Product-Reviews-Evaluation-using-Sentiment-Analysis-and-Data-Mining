@@ -1,0 +1,1 @@
+{"text": "they fit just as i expected. they are a relaxed fit, therefore that means relaxed through out. anyone expecting a form fitting, hugging pant, need not buy.", "sentiment": "negative", "topics": {"0": "0.16296452", "1": "0.34473622", "2": "0.09861389", "4": "0.08677697", "5": "0.0940817", "6": "0.20441343"}}

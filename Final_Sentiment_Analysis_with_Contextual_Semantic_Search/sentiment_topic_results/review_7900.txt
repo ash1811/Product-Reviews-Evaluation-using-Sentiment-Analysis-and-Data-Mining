@@ -1,0 +1,1 @@
+{"text": "i use this to train bjj, under my Gi is pretty confortable and works pretty well, amazing quality and fit, i will get another one as soon as possible", "sentiment": "negative", "topics": {"1": "0.38244772", "2": "0.29007262", "4": "0.18775047", "6": "0.11576405"}}

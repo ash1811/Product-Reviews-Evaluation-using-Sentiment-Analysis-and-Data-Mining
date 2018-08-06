@@ -1,0 +1,1 @@
+{"text": "My husband and I only buy this brand of sock.  They last, stay up, wick, don't shrink, and are super comfy.  The medium hiker is my husband's all-time favorite for any shoe  --- not just hiking.", "sentiment": "negative", "topics": {"0": "0.22013672", "1": "0.23159009", "2": "0.07441291", "3": "0.188242", "4": "0.27047953"}}

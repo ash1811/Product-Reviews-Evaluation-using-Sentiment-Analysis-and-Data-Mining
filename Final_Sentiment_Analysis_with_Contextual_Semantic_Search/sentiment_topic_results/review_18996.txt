@@ -1,0 +1,1 @@
+{"text": "This bra totally fit as described & is comfortable. I got them for work since I work 5 days a week @ a hospital & I have to have lots of work stuff so I'm not consistently washing clothes every week", "sentiment": "negative", "topics": {"1": "0.31438854", "3": "0.5039128", "6": "0.15673271"}}

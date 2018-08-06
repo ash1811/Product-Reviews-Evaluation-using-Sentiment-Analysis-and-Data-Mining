@@ -1,0 +1,1 @@
+{"text": "This Balaclava is great for under 40. Degrees. However, I prefer/wear thePearl Izumi Transfer Balaclava for over 40 degrees with the transfer properties.  Both Balaclavas are a must for winter cycling.  Recommended.", "sentiment": "negative", "topics": {"0": "0.062929876", "1": "0.12157725", "2": "0.43743294", "3": "0.18064079", "6": "0.18312526"}}

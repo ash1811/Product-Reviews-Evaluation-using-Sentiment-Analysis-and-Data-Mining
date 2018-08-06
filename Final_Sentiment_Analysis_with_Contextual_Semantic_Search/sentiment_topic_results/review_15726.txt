@@ -1,0 +1,1 @@
+{"text": "There is no excuse to not wear fine underpants, and these are the finest I have yet found on this earth. I own several pairs. Warm, cool, supportive, breathable, light...treat yoself.", "sentiment": "positive", "topics": {"2": "0.15968177", "3": "0.17054363", "4": "0.12822865", "5": "0.10665174", "6": "0.41800478"}}

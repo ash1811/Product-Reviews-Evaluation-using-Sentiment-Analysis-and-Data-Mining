@@ -1,0 +1,1 @@
+{"text": "this is warm and very attractive.  for work play or dress.  I really like this.  good quality  for the money", "sentiment": "positive", "topics": {"0": "0.0119333165", "1": "0.67391014", "2": "0.11438152", "3": "0.0119255595", "4": "0.011916614", "5": "0.011951464", "6": "0.1639814"}}

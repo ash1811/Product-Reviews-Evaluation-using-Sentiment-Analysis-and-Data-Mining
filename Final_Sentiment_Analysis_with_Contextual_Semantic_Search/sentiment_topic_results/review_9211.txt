@@ -1,0 +1,1 @@
+{"text": "These are just as they advertize and look in the advertizement. I haven't owned any better shoes for around the house and to get the mail without changing. I love them! From a 1 to a 10= 10", "sentiment": "negative", "topics": {"0": "0.38212693", "2": "0.11692643", "3": "0.119677596", "4": "0.22688733", "6": "0.13846345"}}

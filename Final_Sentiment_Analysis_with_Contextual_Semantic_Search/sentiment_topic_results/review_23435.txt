@@ -1,0 +1,1 @@
+{"text": "Great shirt, great fit, no fading after washing it nor did it shrink up.  Very well made and durable material, fits great and feels good on skin.  I highly recommend to others, for the price here on Amazon.com you cannot go wrong.", "sentiment": "positive", "topics": {"0": "0.1433324", "1": "0.5898845", "2": "0.064562544", "3": "0.08241305", "5": "0.10878523"}}

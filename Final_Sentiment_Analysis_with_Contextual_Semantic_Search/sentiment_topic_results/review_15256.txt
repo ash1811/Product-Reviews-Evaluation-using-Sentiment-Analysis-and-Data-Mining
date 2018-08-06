@@ -1,0 +1,1 @@
+{"text": "True to size, but, very boxy and stiff. Not a comfortable wear, equivalent to buying from local Walmart or thrift store", "sentiment": "positive", "topics": {"0": "0.010227048", "1": "0.33391732", "2": "0.17152497", "3": "0.010268001", "4": "0.2369424", "5": "0.010254704", "6": "0.22686554"}}

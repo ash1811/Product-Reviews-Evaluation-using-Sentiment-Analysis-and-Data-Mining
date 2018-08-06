@@ -1,0 +1,1 @@
+{"text": "I work in an oil refinery and having a cheap durable watch that lights up is a must. This has done the trick with no complaints for over a year. I would buy another if I lost this one.", "sentiment": "negative", "topics": {"1": "0.47531182", "2": "0.21922053", "3": "0.093239605", "4": "0.053556953", "5": "0.14272662"}}

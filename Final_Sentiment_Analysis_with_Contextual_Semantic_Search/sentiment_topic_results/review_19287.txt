@@ -1,0 +1,1 @@
+{"text": "I have been using this as a dress watch as the face is smaller and it looks elegant.  I only wish the band had more adjustment, it is a bit on the tight side.", "sentiment": "positive", "topics": {"0": "0.13383496", "1": "0.25934163", "2": "0.17914142", "3": "0.08926569", "4": "0.15188958", "5": "0.010211595", "6": "0.17631511"}}

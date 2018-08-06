@@ -1,0 +1,1 @@
+{"text": "these are cute soft and comfy but a little on large side. they like to slide down have to keep pulling them back up. also bow on back needs to be resewn almost falling off. overall not too bad though", "sentiment": "negative", "topics": {"1": "0.19019336", "2": "0.066288814", "3": "0.41839352", "4": "0.069358625", "6": "0.24381955"}}

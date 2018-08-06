@@ -1,0 +1,1 @@
+{"text": "The front closures were challenging to fasten. I would buy a larger size as it is cotton and did shrink in the wash.", "sentiment": "negative", "topics": {"0": "0.12454099", "1": "0.28686956", "2": "0.011933223", "3": "0.2188229", "4": "0.011970351", "5": "0.3339319", "6": "0.011931098"}}

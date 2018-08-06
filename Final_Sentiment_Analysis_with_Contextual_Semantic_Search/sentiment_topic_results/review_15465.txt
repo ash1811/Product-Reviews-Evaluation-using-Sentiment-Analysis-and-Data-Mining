@@ -1,0 +1,1 @@
+{"text": "These sunglasses feature design, Ray Ban quality and a perfect finish. The price is quite adequate and the product is excellent.", "sentiment": "negative", "topics": {"0": "0.010215507", "1": "0.31886956", "2": "0.30389687", "3": "0.010232941", "4": "0.19485138", "5": "0.0893476", "6": "0.07258616"}}

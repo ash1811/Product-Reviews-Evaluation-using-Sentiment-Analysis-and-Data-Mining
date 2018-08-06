@@ -1,0 +1,1 @@
+{"text": "Already have the long pair and loved so much that ordered the shorts for summer. Nice and soft material. The pockets are great for phone and keys. 5'3&#34; and 120 lbs, the medium fit great, not too big (do not like tight fitting).", "sentiment": "negative", "topics": {"0": "0.11020235", "1": "0.7615873", "3": "0.10698486"}}

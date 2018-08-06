@@ -1,0 +1,1 @@
+{"text": "it is much bigger than it looks in the pictures. all of my equipment fits easily. my shoes, basketball, water bottle, shirts and etc.", "sentiment": "negative", "topics": {"0": "0.010227042", "1": "0.5608332", "2": "0.27309233", "3": "0.010256714", "4": "0.1251163", "5": "0.0102330865", "6": "0.010241324"}}

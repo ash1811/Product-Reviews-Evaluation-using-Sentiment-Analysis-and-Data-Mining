@@ -1,0 +1,1 @@
+{"text": "I bought my usual 2x and it was a bit snugger than I'm used to. The material is sturdy, though.", "sentiment": "positive", "topics": {"0": "0.011932581", "1": "0.7059121", "2": "0.0119133415", "3": "0.011950538", "4": "0.12741186", "5": "0.1189616", "6": "0.011917998"}}

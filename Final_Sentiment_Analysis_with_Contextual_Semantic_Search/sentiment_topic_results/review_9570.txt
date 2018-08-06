@@ -1,0 +1,1 @@
+{"text": "Bought as Christmas gift. Liked the reliability of Timex brand. Needed large easy to read numbers. Sure it will be perfect.", "sentiment": "negative", "topics": {"0": "0.16283241", "1": "0.14824058", "2": "0.29505336", "3": "0.36515924"}}

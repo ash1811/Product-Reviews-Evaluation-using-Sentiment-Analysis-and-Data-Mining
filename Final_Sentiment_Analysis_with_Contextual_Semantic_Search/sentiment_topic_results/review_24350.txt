@@ -1,0 +1,1 @@
+{"text": "I bought it to go with my new carhartt coat. Fits as expected. I rated it a 5 star because it is made in the USA.", "sentiment": "positive", "topics": {"0": "0.011007606", "1": "0.5882661", "2": "0.011041831", "3": "0.10963539", "4": "0.13322446", "5": "0.13579573", "6": "0.01102892"}}

@@ -1,0 +1,1 @@
+{"text": "It's good quality, you can't go wrong with a Jan sport! All my daughters other bags break and get damaged right away. This thing will last a lifetime!!", "sentiment": "negative", "topics": {"1": "0.24211186", "2": "0.5732348", "4": "0.15277855"}}

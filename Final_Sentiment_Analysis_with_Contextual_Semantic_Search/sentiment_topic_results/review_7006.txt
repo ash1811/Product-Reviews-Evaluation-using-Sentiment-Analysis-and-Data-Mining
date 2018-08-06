@@ -1,0 +1,1 @@
+{"text": "I was so very satisfied. Wore it for 15 min. after receiving it.  Can't wait to wear it for Halloween!!!!", "sentiment": "negative", "topics": {"0": "0.013044246", "1": "0.44122106", "2": "0.013040817", "3": "0.013074423", "4": "0.18129742", "5": "0.013052372", "6": "0.32526967"}}

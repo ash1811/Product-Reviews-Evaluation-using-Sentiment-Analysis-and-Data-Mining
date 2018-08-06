@@ -1,0 +1,1 @@
+{"text": "Try fit a bit tight around my ankles, but I have thick thighs and ankles. Aside from that they are cute snow boots.  Wish the light pink came in my size", "sentiment": "negative", "topics": {"1": "0.22612767", "2": "0.09011151", "3": "0.26788434", "4": "0.069131285", "5": "0.094335556", "6": "0.244863"}}

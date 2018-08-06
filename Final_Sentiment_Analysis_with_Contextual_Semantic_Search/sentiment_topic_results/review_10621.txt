@@ -1,0 +1,1 @@
+{"text": "fits well, falls below the hip. compact size makes it perfect for the trunk of the car and I can trough it in my luggage when traveling for just in case. I like the color too.", "sentiment": "negative", "topics": {"0": "0.19943339", "1": "0.26321697", "2": "0.28903252", "3": "0.22436507"}}

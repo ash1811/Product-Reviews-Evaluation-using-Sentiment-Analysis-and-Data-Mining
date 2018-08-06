@@ -1,0 +1,1 @@
+{"text": "They look beautiful. They are a present for the holidays. I hope the person enjoys them, coloring is very pretty.", "sentiment": "negative", "topics": {"0": "0.33949906", "1": "0.18802594", "2": "0.013014154", "3": "0.2110753", "4": "0.013046037", "5": "0.22234806", "6": "0.01299142"}}

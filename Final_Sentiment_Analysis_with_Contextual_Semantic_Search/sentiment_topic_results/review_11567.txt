@@ -1,0 +1,1 @@
+{"text": "The set is light and comfortable. It is not tight and very soft. I recommend it. If my feet are dry, they tend to \"drag\" on the pants as I put them on. I am planning on buying a set for my mother for Christmas.", "sentiment": "negative", "topics": {"0": "0.16727313", "1": "0.5688913", "4": "0.089931026", "6": "0.15239787"}}

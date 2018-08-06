@@ -1,0 +1,1 @@
+{"text": "It feels really cheap, the band feels like something that you buy from a gas station for 2 dollars. This watch it tiny and feels like really cheap plastic. The second hand is also very loud which is something that drives me nuts.", "sentiment": "negative", "topics": {"0": "0.2779671", "1": "0.20849065", "2": "0.13732716", "3": "0.17518027", "4": "0.19042139"}}

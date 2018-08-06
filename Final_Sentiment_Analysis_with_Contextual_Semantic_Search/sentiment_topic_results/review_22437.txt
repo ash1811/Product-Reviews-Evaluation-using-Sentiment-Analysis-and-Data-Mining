@@ -1,0 +1,1 @@
+{"text": "Absolutely love these.  These really make ill fitting shoes fit so much better.  And if they can't it's probably the shoe that's wonky", "sentiment": "negative", "topics": {"0": "0.10521521", "1": "0.2060585", "2": "0.2873162", "3": "0.3761381"}}

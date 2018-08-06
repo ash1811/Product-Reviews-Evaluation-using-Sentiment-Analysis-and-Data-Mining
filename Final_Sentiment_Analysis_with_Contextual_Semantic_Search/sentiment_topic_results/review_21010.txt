@@ -1,0 +1,1 @@
+{"text": "These have stood up well and the lace at the top is very cute! Overall, I'm very satisfied with this purchase.", "sentiment": "negative", "topics": {"0": "0.55305797", "1": "0.014367772", "2": "0.014303206", "3": "0.22874895", "4": "0.014305388", "5": "0.01435584", "6": "0.16086093"}}

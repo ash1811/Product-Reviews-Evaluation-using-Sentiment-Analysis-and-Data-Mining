@@ -1,0 +1,1 @@
+{"text": "it isn't microfiber - something unpleased, hard, not soft and bad . looks like my grandmother underwear . lost of moneythis bra is horrible. I'm not a fan of cone-shaped boobs that stick out in opposite directions.", "sentiment": "negative", "topics": {"0": "0.13021794", "1": "0.21074201", "3": "0.33256054", "5": "0.06784204", "6": "0.24564262"}}

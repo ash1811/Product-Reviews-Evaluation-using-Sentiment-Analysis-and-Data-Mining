@@ -1,0 +1,1 @@
+{"text": "These are pretty crystals at a great price. They look wonderful in my locket and the colors are pretty much as pictured. I love all the colors enough that I want to keep them all in instead of picking out family birthstones!A nice set at an affordable price.", "sentiment": "negative", "topics": {"0": "0.3116963", "1": "0.57520187", "4": "0.090145715"}}

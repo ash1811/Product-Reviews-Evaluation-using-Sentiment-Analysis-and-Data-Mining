@@ -1,0 +1,1 @@
+{"text": "Olga is an excellent brand; well-made and long-lasting.  I have worn them for 30 years.  Sizing is probably standard.  I had forgotten my correct size and ordered the wrong one.  I highly recommend the Olga brand.", "sentiment": "positive", "topics": {"0": "0.06216208", "1": "0.25158802", "2": "0.21474944", "3": "0.17590995", "4": "0.06437247", "6": "0.22470526"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans had all the pockets my husband wanted and look nice on his bottom.  They are just the right shade of blue and amount of faded.", "sentiment": "positive", "topics": {"0": "0.011017419", "1": "0.42555285", "2": "0.0965127", "3": "0.01100885", "4": "0.26945046", "5": "0.17545727", "6": "0.0110004535"}}

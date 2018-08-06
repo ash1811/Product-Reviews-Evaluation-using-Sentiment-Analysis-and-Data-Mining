@@ -1,0 +1,1 @@
+{"text": "The Warner's were a little thin, thus they did not fit all the way up my thigh, but they are warm.", "sentiment": "positive", "topics": {"0": "0.01592169", "1": "0.37685418", "2": "0.01589004", "3": "0.2047709", "4": "0.22392814", "5": "0.015887177", "6": "0.14674787"}}

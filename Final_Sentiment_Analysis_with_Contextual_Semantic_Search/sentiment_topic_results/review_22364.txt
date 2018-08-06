@@ -1,0 +1,1 @@
+{"text": "I will never doubt that you get what you pay for. These are high quality, great socks, but most importantly, you can easy put these on without having to individually place each toe in their desired space.Worth every dollar.", "sentiment": "positive", "topics": {"1": "0.24364685", "3": "0.08185881", "4": "0.12598428", "5": "0.25876826", "6": "0.27606732"}}

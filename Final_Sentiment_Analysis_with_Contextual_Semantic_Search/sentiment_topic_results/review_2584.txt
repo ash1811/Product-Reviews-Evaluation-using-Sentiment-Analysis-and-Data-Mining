@@ -1,0 +1,1 @@
+{"text": "Excellent quality! My daughter loves them. They fit a little tight around the calf but I'm sure with everyday wear they will stretch out a little.", "sentiment": "negative", "topics": {"1": "0.40207362", "2": "0.20861821", "3": "0.26927906", "4": "0.09475163"}}

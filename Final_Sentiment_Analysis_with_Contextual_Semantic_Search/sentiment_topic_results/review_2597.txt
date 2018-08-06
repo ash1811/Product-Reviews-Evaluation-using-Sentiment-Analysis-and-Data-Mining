@@ -1,0 +1,1 @@
+{"text": "These sandsls are wonderful, not only do they look great on, they feel luxurious, like walking on cushions, Mephistos aren't cheap but they're worth every penny!", "sentiment": "negative", "topics": {"2": "0.20710446", "3": "0.120252915", "4": "0.2281721", "5": "0.41911525"}}

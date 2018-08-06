@@ -1,0 +1,1 @@
+{"text": "Very well made and comfortable. Handy velcro so you can adjust to your width. I have washed them and they washed up great! Love these slippers!!!", "sentiment": "negative", "topics": {"0": "0.011007776", "1": "0.57747424", "2": "0.21206877", "3": "0.011008745", "4": "0.01103946", "5": "0.011022115", "6": "0.16637884"}}

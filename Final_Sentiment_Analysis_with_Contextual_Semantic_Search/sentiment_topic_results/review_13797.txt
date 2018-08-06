@@ -1,0 +1,1 @@
+{"text": "These flip flops are so cute!!!  I was hesitant about ordering a size-up, but the other reviewers were right.  I am a size 5.5 and the six is a perfect fit.", "sentiment": "negative", "topics": {"0": "0.17063105", "1": "0.37185034", "2": "0.23946668", "3": "0.18728738", "4": "0.010246873", "5": "0.010270455", "6": "0.010247176"}}

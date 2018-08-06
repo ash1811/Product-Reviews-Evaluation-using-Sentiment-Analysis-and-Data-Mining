@@ -1,0 +1,1 @@
+{"text": "Ordered a few of these and one pair had runs right out of the package and another pair ran just by her putting them on. Look elsewhere.", "sentiment": "negative", "topics": {"0": "0.15180515", "1": "0.01026796", "2": "0.16520992", "3": "0.4799338", "4": "0.010244896", "5": "0.010253288", "6": "0.17228496"}}

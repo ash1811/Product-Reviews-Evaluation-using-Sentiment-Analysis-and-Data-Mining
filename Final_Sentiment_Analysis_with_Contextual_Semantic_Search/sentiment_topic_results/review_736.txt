@@ -1,0 +1,1 @@
+{"text": "Fit is perfect to size. Waist and leg openings are very comfortable and covered in quality cotton. These panties never ride up or down, they stay put. Long lasting and perfect fit. The quality surpasses your average panty.  Will absolutely keep purchasing.", "sentiment": "positive", "topics": {"1": "0.38086677", "2": "0.26423433", "3": "0.33441085"}}

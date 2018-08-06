@@ -1,0 +1,1 @@
+{"text": "Rugged, long lasting and they both tell me these are super comfortable.Sizes are what you expect and they fit.", "sentiment": "negative", "topics": {"0": "0.015892386", "1": "0.31127024", "2": "0.015936207", "3": "0.17550015", "4": "0.3425925", "5": "0.12291365", "6": "0.015894875"}}

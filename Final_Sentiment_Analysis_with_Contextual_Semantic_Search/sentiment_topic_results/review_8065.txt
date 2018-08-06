@@ -1,0 +1,1 @@
+{"text": "Dockers Men's Proposal Moc Run Off Toe Slip On,Black,11 W US are shoes that do not hold up too long.", "sentiment": "negative", "topics": {"0": "0.13302186", "1": "0.111357644", "2": "0.20394042", "3": "0.22007123", "4": "0.09104969", "5": "0.23035164", "6": "0.01020752"}}

@@ -1,0 +1,1 @@
+{"text": "Feels good walking around the office although the shoe doesn't provide much cushion. Would not recommend for long distance walking.", "sentiment": "negative", "topics": {"2": "0.21224247", "4": "0.20381525", "5": "0.5480642"}}

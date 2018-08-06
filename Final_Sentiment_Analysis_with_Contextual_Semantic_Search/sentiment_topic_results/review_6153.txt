@@ -1,0 +1,1 @@
+{"text": "They are well made, 100% cotton, very soft material and come in a set of 3 . I really like the quality too.", "sentiment": "negative", "topics": {"0": "0.098455966", "1": "0.7580397", "2": "0.010254343", "3": "0.102571875", "4": "0.010210951", "5": "0.010231513", "6": "0.010235669"}}

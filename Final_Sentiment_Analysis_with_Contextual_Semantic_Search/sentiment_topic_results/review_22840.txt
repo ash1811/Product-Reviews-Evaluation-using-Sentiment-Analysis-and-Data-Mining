@@ -1,0 +1,1 @@
+{"text": "These earrings are a very pretty blue. The stones are not shiny. The dangle itself is about 25mm in length and 8mm in width. Nice craftsmanship. Sturdy wires.", "sentiment": "negative", "topics": {"0": "0.19612172", "1": "0.35934818", "2": "0.09351378", "3": "0.08812456", "6": "0.2438231"}}

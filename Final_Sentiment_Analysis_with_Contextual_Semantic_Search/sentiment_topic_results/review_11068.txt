@@ -1,0 +1,1 @@
+{"text": "I love these. Just the right size.  I have three ear piercings and I can wear these in any of them. I just got them last week and so far I love them.", "sentiment": "negative", "topics": {"3": "0.6602569", "5": "0.16681363", "6": "0.137084"}}

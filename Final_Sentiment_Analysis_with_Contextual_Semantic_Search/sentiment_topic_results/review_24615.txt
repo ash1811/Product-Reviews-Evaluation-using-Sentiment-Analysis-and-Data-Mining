@@ -1,0 +1,1 @@
+{"text": "This is a nice leotard and I appreciate that it's lined and very modestly cut.  It fits well - my daughter is fairly thin and this still provided her coverage without being baggy.", "sentiment": "positive", "topics": {"0": "0.10093038", "1": "0.54877084", "3": "0.22225583", "4": "0.058313612", "5": "0.052907024"}}

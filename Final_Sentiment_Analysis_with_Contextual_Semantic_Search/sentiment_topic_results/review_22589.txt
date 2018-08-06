@@ -1,0 +1,1 @@
+{"text": "great pants for work but way too long for me and isn't cost effective to shorted by tailor otherwise these are great for work", "sentiment": "positive", "topics": {"0": "0.011004804", "1": "0.5302042", "2": "0.011026614", "3": "0.011032446", "4": "0.01102515", "5": "0.17100698", "6": "0.25469983"}}

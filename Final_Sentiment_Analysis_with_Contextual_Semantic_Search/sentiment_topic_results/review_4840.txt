@@ -1,0 +1,1 @@
+{"text": "These fit nicely and look great!  They are sexy and great for costumes or 'fun' at home.  Would buy other colors", "sentiment": "negative", "topics": {"0": "0.25813428", "1": "0.68678474", "2": "0.011001002", "3": "0.011009822", "4": "0.011038171", "5": "0.0110237235", "6": "0.011008266"}}

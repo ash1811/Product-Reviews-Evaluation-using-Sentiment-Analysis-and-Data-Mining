@@ -1,0 +1,1 @@
+{"text": "If you don't care about your looks, that's the shirt for you...It is very loosely stitched, the fabric is neither attractive nor comfortable.....not at all recommended!", "sentiment": "positive", "topics": {"0": "0.18442902", "1": "0.29792207", "2": "0.1540622", "3": "0.011036168", "4": "0.11235427", "5": "0.011140239", "6": "0.22905605"}}

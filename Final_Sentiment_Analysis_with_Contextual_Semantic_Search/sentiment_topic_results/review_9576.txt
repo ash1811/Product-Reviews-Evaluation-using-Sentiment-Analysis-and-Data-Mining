@@ -1,0 +1,1 @@
+{"text": "The wrist band pinches and I can't find a source to order additional links or just buy a longer wrist band.  I can't wear it and it sits on my computer desk.  Need some assistance, please.", "sentiment": "negative", "topics": {"0": "0.18369769", "1": "0.20381418", "2": "0.12394948", "4": "0.15916935", "5": "0.26123866", "6": "0.061598085"}}

@@ -1,0 +1,1 @@
+{"text": "I am not a slipper person but since I am going in for surgery and a hospital stay, I was advised to bring slippers. These clog slippers are comfortable and easy to get into and out of. I am pleased with my purchase.", "sentiment": "positive", "topics": {"1": "0.3972528", "2": "0.14009288", "4": "0.10357559", "6": "0.33645302"}}

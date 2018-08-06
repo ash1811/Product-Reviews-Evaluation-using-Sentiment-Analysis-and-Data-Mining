@@ -1,0 +1,1 @@
+{"text": "I stand all day in my children's consignment store, my feet and legs would ache all thru the day and even at bedtime. After asking many friends, they most steered me to Keen's.....now that about all I can, or will wear.", "sentiment": "positive", "topics": {"1": "0.19592182", "2": "0.16556217", "3": "0.15368554", "4": "0.14739434", "5": "0.26254192", "6": "0.06807191"}}

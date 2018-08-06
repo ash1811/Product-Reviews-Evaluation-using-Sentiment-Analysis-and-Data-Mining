@@ -1,0 +1,1 @@
+{"text": "I haven't worn these for real yet as I am waiting for that special occasion, I'm not even sure why I bought it.  It just looked...interesting.", "sentiment": "negative", "topics": {"0": "0.33562568", "1": "0.25116628", "2": "0.15723065", "3": "0.011021604", "4": "0.13842101", "5": "0.011047431", "6": "0.09548736"}}

@@ -1,0 +1,1 @@
+{"text": "I live in the northeast. This winter is hitting us hard. These jeans are great in the cold! They fit well (on me).", "sentiment": "negative", "topics": {"0": "0.2397662", "1": "0.29968628", "2": "0.11718819", "3": "0.010247409", "4": "0.01021024", "5": "0.31266695", "6": "0.010234706"}}

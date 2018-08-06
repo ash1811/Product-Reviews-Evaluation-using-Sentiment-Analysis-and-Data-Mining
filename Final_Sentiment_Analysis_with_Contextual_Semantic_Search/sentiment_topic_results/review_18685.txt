@@ -1,0 +1,1 @@
+{"text": "Packaged well,  Exactly as shown.  Good quality.  Makes your legs look very sexy.  I have long legs and they fitted me well.", "sentiment": "negative", "topics": {"0": "0.14748666", "1": "0.5733252", "3": "0.1378188", "6": "0.11269025"}}

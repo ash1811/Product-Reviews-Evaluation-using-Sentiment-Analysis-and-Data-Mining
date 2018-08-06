@@ -1,0 +1,1 @@
+{"text": "This worked well for under my wedding dress.  Its very soft and fit well.  However, after wearing it for 5 hours I had sores on my sides from the boning rubbing me raw.", "sentiment": "positive", "topics": {"1": "0.46556944", "4": "0.10727388", "5": "0.078383595", "6": "0.3234709"}}

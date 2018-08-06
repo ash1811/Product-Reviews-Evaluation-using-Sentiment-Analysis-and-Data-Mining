@@ -1,0 +1,1 @@
+{"text": "These shoes are made for me. I wear a lot wallabees. I consider these the gentlemens shoe. They make my feet feel fine.", "sentiment": "negative", "topics": {"0": "0.010242717", "1": "0.01024118", "2": "0.3438234", "3": "0.28524205", "4": "0.010289394", "5": "0.22930661", "6": "0.11085464"}}

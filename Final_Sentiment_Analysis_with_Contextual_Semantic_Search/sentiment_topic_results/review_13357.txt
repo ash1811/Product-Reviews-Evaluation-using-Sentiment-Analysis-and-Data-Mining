@@ -1,0 +1,1 @@
+{"text": "Exactly what I was looking for as a work bag.  Well made and lightweight and perfect size.  Contains a separate laptop sleeve that works well.", "sentiment": "negative", "topics": {"0": "0.08621819", "1": "0.4907511", "4": "0.25051907", "6": "0.14564794"}}

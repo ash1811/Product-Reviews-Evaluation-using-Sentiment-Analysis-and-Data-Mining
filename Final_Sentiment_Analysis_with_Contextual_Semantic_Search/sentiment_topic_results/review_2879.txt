@@ -1,0 +1,1 @@
+{"text": "I was after tear away pants for a patient with a broken leg, got these by accident by I really liked them so I kept them for myself", "sentiment": "positive", "topics": {"0": "0.2036767", "1": "0.44973013", "2": "0.13701057", "3": "0.17376828", "4": "0.011920619", "5": "0.011932879", "6": "0.011960815"}}

@@ -1,0 +1,1 @@
+{"text": "my third pair of this exact model and make. Excellent quality, consistent through the years and best price/value ratio I have found in a long time.", "sentiment": "negative", "topics": {"0": "0.10479095", "1": "0.3200301", "2": "0.07684405", "3": "0.27393827", "5": "0.06878284", "6": "0.14665881"}}

@@ -1,0 +1,1 @@
+{"text": "Never wore a Leisure Bra before, so not sure if its the bra that has a problem or me.  I will wear a few more times and see if I like it better.", "sentiment": "negative", "topics": {"2": "0.23787098", "3": "0.47392663", "4": "0.08558988", "6": "0.17388049"}}

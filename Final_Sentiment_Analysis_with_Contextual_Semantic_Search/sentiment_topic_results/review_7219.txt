@@ -1,0 +1,1 @@
+{"text": "these are nice...much nicer than anything out in the world at a comparable price...my boys like them not shrinking thanks", "sentiment": "negative", "topics": {"0": "0.11461918", "1": "0.013034894", "2": "0.22927958", "3": "0.012994979", "4": "0.44376585", "5": "0.013021103", "6": "0.17328441"}}

@@ -1,0 +1,1 @@
+{"text": "Just lovely--simple, elegant, perfect fit, easy to slip on and off, thin enough not to be too overwhelming, but the perfect width for my thumb ring.", "sentiment": "negative", "topics": {"0": "0.096418194", "1": "0.47023362", "2": "0.11589945", "4": "0.17617033", "6": "0.12218455"}}

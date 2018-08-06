@@ -1,0 +1,1 @@
+{"text": "looks cool and compactits a bit in the small side but looks good to those who have average-small handsas for the price no complains in heregreat watch love it", "sentiment": "negative", "topics": {"1": "0.34906176", "2": "0.079926535", "4": "0.22452536", "5": "0.260706", "6": "0.06786793"}}

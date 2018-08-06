@@ -1,0 +1,1 @@
+{"text": "I wear a 36 in all my other jeans, but these are a little big. Other than that they look and feel great.", "sentiment": "negative", "topics": {"0": "0.47551188", "1": "0.44487953", "2": "0.015884714", "3": "0.015935358", "4": "0.015899058", "5": "0.015980694", "6": "0.015908761"}}

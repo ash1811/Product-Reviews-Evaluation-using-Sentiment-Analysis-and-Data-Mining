@@ -1,0 +1,1 @@
+{"text": "He loves them-wears them constantly around the house.  He always buys cheaper slippers that last a short while, and I'm hoping these will last him more than a year.  Thus far, from his report, I would recommend them.", "sentiment": "negative", "topics": {"0": "0.10472785", "1": "0.20045197", "3": "0.15514497", "4": "0.3003986", "5": "0.124390684", "6": "0.10865175"}}

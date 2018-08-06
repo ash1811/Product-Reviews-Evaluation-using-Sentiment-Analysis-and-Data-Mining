@@ -1,0 +1,1 @@
+{"text": "I was hoping this garment would be correct fitting, and warm and I wasn't dissapointed. I recommend this sweater, it was very cheap as well.", "sentiment": "negative", "topics": {"0": "0.011927828", "1": "0.19964977", "2": "0.47991565", "3": "0.011944897", "4": "0.15809761", "5": "0.01195112", "6": "0.12651311"}}

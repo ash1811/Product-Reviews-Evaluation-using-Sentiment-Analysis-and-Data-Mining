@@ -1,0 +1,1 @@
+{"text": "I love this chain!  It is 30&#34; long and perfect for my heart charm that I put on it.  The price was good and so was the shipping.  It is easy to open and close.  I would recommend this chain.", "sentiment": "negative", "topics": {"2": "0.16979982", "4": "0.4574808", "5": "0.24077451", "6": "0.10925175"}}

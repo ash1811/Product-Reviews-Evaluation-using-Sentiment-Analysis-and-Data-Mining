@@ -1,0 +1,1 @@
+{"text": "These shoes are amazing.  Yes they are expensive but they fit so well and last so long.  If you are in a moderate climate I don't know how you could justify not having a pair!", "sentiment": "positive", "topics": {"1": "0.33688462", "2": "0.15804861", "3": "0.14337133", "4": "0.19968894", "5": "0.14292999"}}

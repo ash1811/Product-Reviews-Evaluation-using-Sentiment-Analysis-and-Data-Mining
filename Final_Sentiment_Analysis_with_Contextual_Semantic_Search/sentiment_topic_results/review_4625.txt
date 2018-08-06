@@ -1,0 +1,1 @@
+{"text": "I've been wearing this type of shoe since the mid eighties.  I don't recommend them for the gym, they are not made for it.But they are still so cute!Thank you.", "sentiment": "positive", "topics": {"0": "0.17825821", "1": "0.32059923", "2": "0.14102188", "3": "0.3314913"}}

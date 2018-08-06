@@ -1,0 +1,1 @@
+{"text": "Nice construction, compact but fits many watches. Nice sturdy cushions for the watches. Am very happy with it and would buy again.", "sentiment": "positive", "topics": {"1": "0.43926632", "2": "0.24338241", "4": "0.23990598", "5": "0.04883307"}}

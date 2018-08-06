@@ -1,0 +1,1 @@
+{"text": "These are good, but I wish I had gotten the polarized versions of these instead. That's my only &#34;complaint&#34;. Other than that, go run around in a button up shirt and whitey-tighties while sliding across the floor in your socks...", "sentiment": "negative", "topics": {"1": "0.44444114", "3": "0.1454979", "4": "0.26022968", "5": "0.040238462", "6": "0.09525369"}}

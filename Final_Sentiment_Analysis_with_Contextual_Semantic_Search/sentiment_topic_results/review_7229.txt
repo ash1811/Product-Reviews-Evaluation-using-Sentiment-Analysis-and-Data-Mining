@@ -1,0 +1,1 @@
+{"text": "Good work shirts but not as thick as I thought it would be. Good for hot summers, but purchase Dickies T's before and was heavier quality.", "sentiment": "negative", "topics": {"0": "0.1361839", "1": "0.6032373", "4": "0.10174975", "5": "0.13194187"}}

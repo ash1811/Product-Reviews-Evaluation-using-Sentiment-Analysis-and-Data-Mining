@@ -1,0 +1,1 @@
+{"text": "Rainbow sandals are exactly what you think they are... awesome and stylish. I once went to the HQ in Cali and there were mad chill dudes there.", "sentiment": "negative", "topics": {"0": "0.19686744", "1": "0.16635586", "2": "0.11091407", "3": "0.17267843", "5": "0.19900538", "6": "0.14464186"}}

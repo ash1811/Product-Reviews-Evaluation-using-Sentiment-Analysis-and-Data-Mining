@@ -1,0 +1,1 @@
+{"text": "I use these to relieve my plantar fasciitis.  Very comfortable and provides well balanced support due to that green plastic support being flatter than other brands.", "sentiment": "positive", "topics": {"1": "0.12289762", "2": "0.060162373", "3": "0.29779083", "4": "0.4164994", "5": "0.08478297"}}

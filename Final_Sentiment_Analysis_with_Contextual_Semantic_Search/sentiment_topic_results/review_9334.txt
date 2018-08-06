@@ -1,0 +1,1 @@
+{"text": "It feels and looks good. I took off 2 stars as it present itself as a sheep skin slippers, it is really only 50% sheep skin according to the small letters on the tag on the slippers...", "sentiment": "negative", "topics": {"0": "0.08764784", "1": "0.3882951", "2": "0.21636167", "3": "0.116031215", "6": "0.17734174"}}

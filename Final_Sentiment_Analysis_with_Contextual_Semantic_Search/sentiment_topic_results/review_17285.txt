@@ -1,0 +1,1 @@
+{"text": "The shoes are perfect! The shoes were a gift for my son and he loves them very much. They are perfect!", "sentiment": "negative", "topics": {"0": "0.19001794", "1": "0.48925054", "2": "0.25702825", "3": "0.015925461", "4": "0.015991468", "5": "0.015909739", "6": "0.015876545"}}

@@ -1,0 +1,1 @@
+{"text": "Purchased a pair of Bostonian's after many years of lower cost brands. Have to say the finish, the craftmanship, depth of color is what I would expect from them. Whatelse needs to be said !!!", "sentiment": "negative", "topics": {"1": "0.18466265", "2": "0.22737987", "3": "0.25374097", "4": "0.12394948", "5": "0.09136384", "6": "0.111738466"}}

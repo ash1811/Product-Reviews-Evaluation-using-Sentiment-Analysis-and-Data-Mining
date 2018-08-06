@@ -1,0 +1,1 @@
+{"text": "I can recommend the Isotoner PillowStep Micro Terry Clogs. I'm hard on slippers and I have to replace them almost every year or two. These are comfortable, have good support and I like them.", "sentiment": "negative", "topics": {"0": "0.080799155", "1": "0.43975192", "2": "0.2541362", "4": "0.07081674", "6": "0.14014807"}}

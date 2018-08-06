@@ -1,0 +1,1 @@
+{"text": "What beautiful crystals wrapped up in such small packages.  I love these not only for their comfort and beauty but the color scheme makes them perfect for so many things.", "sentiment": "negative", "topics": {"0": "0.20047612", "1": "0.3254283", "3": "0.08585115", "4": "0.28505942", "6": "0.0840851"}}

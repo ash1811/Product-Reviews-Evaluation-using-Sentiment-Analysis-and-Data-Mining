@@ -1,0 +1,1 @@
+{"text": "Great Soft A Shirt. They look thin, but its wears & washes as expected. Quality is definitely better than the Fruit of the Loom version of this shirt.", "sentiment": "negative", "topics": {"1": "0.61190546", "2": "0.09273671", "3": "0.08835103", "5": "0.18015964"}}

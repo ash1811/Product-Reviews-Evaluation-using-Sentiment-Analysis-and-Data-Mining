@@ -1,0 +1,1 @@
+{"text": "I make lots of videos and this gun has suffered but it still works and it still looks good. I bought some caps to go along with it and this is truly a good western prop gun. For the price it is at, I would say this is a steal.", "sentiment": "negative", "topics": {"1": "0.2711176", "2": "0.06552925", "3": "0.27094874", "4": "0.28442132", "6": "0.09652568"}}

@@ -1,0 +1,1 @@
+{"text": "I got this hat for my son in law.  He really liked it but  it seemed to be sized a little small.", "sentiment": "negative", "topics": {"0": "0.16331683", "1": "0.24565905", "2": "0.013014779", "3": "0.5388993", "4": "0.013035951", "5": "0.013039598", "6": "0.013034505"}}

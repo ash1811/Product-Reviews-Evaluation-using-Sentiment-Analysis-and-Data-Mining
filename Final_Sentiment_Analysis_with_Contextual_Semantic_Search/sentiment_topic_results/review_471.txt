@@ -1,0 +1,1 @@
+{"text": "The jeans fit fine. Only the zipper tends to be a little stuck sometimes. A real annoyance. I figure that it's the seam of the zipper that is sewn too close to the zipper mechanism that interferes with it's closing. Otherwise. Four Stars.", "sentiment": "negative", "topics": {"1": "0.22031477", "2": "0.35843804", "3": "0.08273543", "4": "0.31979775"}}

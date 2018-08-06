@@ -1,0 +1,1 @@
+{"text": "The robe is fairly heavy and nice and long on me.  A bit much in warmer weather, but will be great come fall/winter.", "sentiment": "negative", "topics": {"0": "0.06824751", "1": "0.60117537", "2": "0.010209335", "3": "0.010227717", "4": "0.010211652", "5": "0.0102186715", "6": "0.28970975"}}

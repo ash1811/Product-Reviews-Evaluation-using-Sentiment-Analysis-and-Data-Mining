@@ -1,0 +1,1 @@
+{"text": "I bought these pants for my wife. Looks good at waist. Is very wide at the front, it looks like a bag, it would be better for an older female with belly. I do not like.", "sentiment": "negative", "topics": {"0": "0.2789274", "1": "0.54983956", "2": "0.13939796"}}

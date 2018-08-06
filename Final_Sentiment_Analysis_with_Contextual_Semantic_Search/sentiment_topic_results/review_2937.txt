@@ -1,0 +1,1 @@
+{"text": "Holds the girls up and apart ... wide straps that don't cut in and designed high on the sides so nothing is falling out.  Less expensive and structurally better than Glamorise.", "sentiment": "negative", "topics": {"1": "0.1599175", "2": "0.345264", "3": "0.09455739", "5": "0.13544682", "6": "0.24880807"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect for his travels- back pack can be removed to take on as a carry on.  Simple and roomy. Carry on and suitcase wrapped in one- in my opinion, it is a masculine looking bag.", "sentiment": "negative", "topics": {"0": "0.069672234", "1": "0.48139286", "2": "0.10061886", "4": "0.26013443", "6": "0.07312097"}}

@@ -1,0 +1,1 @@
+{"text": "As a runner I have always worn Thorlo socks. I just think they are the best. At  71, I don't run much but I still wear my Thorlos every day.", "sentiment": "negative", "topics": {"0": "0.1133935", "1": "0.07959746", "2": "0.09672763", "3": "0.15717925", "5": "0.31432477", "6": "0.2298317"}}

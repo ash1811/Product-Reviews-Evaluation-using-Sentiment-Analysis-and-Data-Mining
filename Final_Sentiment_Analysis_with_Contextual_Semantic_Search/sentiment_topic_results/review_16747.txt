@@ -1,0 +1,1 @@
+{"text": "Got them for a friend and he loves them.  These are are replacement pair....he loved the first pair so much, he wore them out in two years of nearly daily use.", "sentiment": "positive", "topics": {"0": "0.15941776", "1": "0.07153252", "2": "0.08903804", "3": "0.47826436", "5": "0.18488206"}}

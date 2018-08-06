@@ -1,0 +1,1 @@
+{"text": "This is a very nice quality trouser sock that fits well and stays in place without binding.  Holds up well in laundry too", "sentiment": "positive", "topics": {"0": "0.010236302", "1": "0.6215529", "2": "0.010300146", "3": "0.09438644", "4": "0.010237478", "5": "0.2430806", "6": "0.010206157"}}

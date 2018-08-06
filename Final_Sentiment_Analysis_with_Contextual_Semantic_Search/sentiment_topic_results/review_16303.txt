@@ -1,0 +1,1 @@
+{"text": "Realistic and sturdy.  My son loved this gun; you do have to buy caps or whatever it uses to go with the gun, but that's no big deal.", "sentiment": "negative", "topics": {"1": "0.38562393", "3": "0.1481891", "4": "0.34117135", "6": "0.096398704"}}

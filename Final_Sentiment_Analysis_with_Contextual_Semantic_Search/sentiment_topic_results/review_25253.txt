@@ -1,0 +1,1 @@
+{"text": "Used this Boot in Yosemite and found it to be perfect for a 5 day summer hike. Boot fits as expected and has held up to the rough terain.", "sentiment": "negative", "topics": {"1": "0.29922238", "2": "0.10639447", "4": "0.46242353", "6": "0.105102725"}}

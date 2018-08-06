@@ -1,0 +1,1 @@
+{"text": "as espected excellent sneakers thanks a lot, keep going with the great work of selling first class products on line.", "sentiment": "negative", "topics": {"2": "0.34758756", "5": "0.52124745", "6": "0.092921294"}}

@@ -1,0 +1,1 @@
+{"text": "these Easy Spirit mules are sooo comfortable!  I wear them around the house from dawn til dusk and my feet don't hurt at all!just slip your feet in easily and away you go!", "sentiment": "positive", "topics": {"0": "0.21502328", "1": "0.1078254", "2": "0.061364263", "4": "0.16365898", "5": "0.12539615", "6": "0.3195693"}}

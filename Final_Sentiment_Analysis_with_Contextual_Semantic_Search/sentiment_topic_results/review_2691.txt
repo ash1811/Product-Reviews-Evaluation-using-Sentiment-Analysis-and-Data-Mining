@@ -1,0 +1,1 @@
+{"text": "You could never go wrong with a Skagen Watch! This watch is thin and looks great!", "sentiment": "negative", "topics": {"0": "0.1915615", "1": "0.4140898", "2": "0.34227186", "3": "0.013014651", "4": "0.013036198", "5": "0.013037661", "6": "0.012988349"}}

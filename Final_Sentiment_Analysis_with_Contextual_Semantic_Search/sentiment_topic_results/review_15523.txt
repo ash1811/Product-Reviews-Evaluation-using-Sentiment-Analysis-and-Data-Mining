@@ -1,0 +1,1 @@
+{"text": "Good product, wash great, true to size.  I'm 5'10 (female) and have a 34 inch inseam and these are perfect length.", "sentiment": "negative", "topics": {"1": "0.37125155", "2": "0.1033223", "5": "0.22486712", "6": "0.2718896"}}

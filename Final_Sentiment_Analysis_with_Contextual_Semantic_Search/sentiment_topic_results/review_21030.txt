@@ -1,0 +1,1 @@
+{"text": "I have been looking for navy legging that aren't &#34;jeggings&#34; forever.  These totally fit the bill.  The aren't super thin and fit great.  I will be purchasing more HUE leggings from now on.", "sentiment": "negative", "topics": {"1": "0.3494725", "4": "0.42625988", "6": "0.1905246"}}

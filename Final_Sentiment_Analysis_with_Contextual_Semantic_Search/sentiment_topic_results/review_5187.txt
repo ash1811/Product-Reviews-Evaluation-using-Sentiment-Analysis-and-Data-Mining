@@ -1,0 +1,1 @@
+{"text": "The gloves were great except they were way too large for a child. We had to cut the fingers off for my grandson to wear them.", "sentiment": "negative", "topics": {"0": "0.011917192", "1": "0.2719392", "2": "0.11507059", "3": "0.35757387", "4": "0.21965517", "5": "0.01193443", "6": "0.0119095445"}}

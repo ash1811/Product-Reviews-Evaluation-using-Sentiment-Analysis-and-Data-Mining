@@ -1,0 +1,1 @@
+{"text": "way too small for an adult. in an XL! what did they think they were selling??This probably would fit my 7 year old niece.", "sentiment": "negative", "topics": {"0": "0.31645995", "1": "0.36443186", "2": "0.010227391", "3": "0.010271796", "4": "0.010262087", "5": "0.121797435", "6": "0.16654944"}}

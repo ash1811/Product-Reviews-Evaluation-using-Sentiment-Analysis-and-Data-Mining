@@ -1,0 +1,1 @@
+{"text": "My husband has a Rolex and a Tag but wanted an inexpensive watch to knock around in (literally as he's breaking a few horses). this has a nice look and easy to read dial. Can't go wrong with a Timex.", "sentiment": "negative", "topics": {"1": "0.22991744", "2": "0.3255879", "3": "0.078809366", "4": "0.15514946", "6": "0.19744909"}}

@@ -1,0 +1,1 @@
+{"text": "good heavyweight tshirt and love that they are tagless.  Color holds well and didnt shrink much after washing and drying.", "sentiment": "negative", "topics": {"0": "0.01025255", "1": "0.49662843", "2": "0.010263353", "3": "0.34165922", "4": "0.010261187", "5": "0.010233804", "6": "0.12070147"}}

@@ -1,0 +1,1 @@
+{"text": "These jeans are the real deal. They are my favorite casual/work jeans. The extra cost over cheap jeans is worth it.", "sentiment": "positive", "topics": {"0": "0.011040761", "1": "0.01101922", "2": "0.20433742", "3": "0.1489539", "4": "0.011003418", "5": "0.60265195", "6": "0.010993391"}}

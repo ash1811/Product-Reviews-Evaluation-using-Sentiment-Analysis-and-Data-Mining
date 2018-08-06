@@ -1,0 +1,1 @@
+{"text": "These are super comfortable to wear.  They never get hot and they stay on really well because of the extra straps.  I get lots of compliments on them too.", "sentiment": "positive", "topics": {"1": "0.5117238", "2": "0.20572798", "5": "0.24669296"}}

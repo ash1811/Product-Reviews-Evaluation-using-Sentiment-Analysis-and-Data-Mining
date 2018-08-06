@@ -1,0 +1,1 @@
+{"text": "Im 4ft 10 inches tall and was happy to find i didnt need to worry about hemming another pair of pants. theyre about an inch long on me but ill deal with it , im super petite in size.", "sentiment": "negative", "topics": {"1": "0.20596518", "3": "0.25877848", "4": "0.19739069", "5": "0.07704567", "6": "0.24888705"}}

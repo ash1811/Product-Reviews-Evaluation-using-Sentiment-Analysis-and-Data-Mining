@@ -1,0 +1,1 @@
+{"text": "Seems to be well made and fit well.  Nice heel for a flat walking shoe.  Color was dark navy as described.", "sentiment": "negative", "topics": {"1": "0.6822359", "2": "0.11337192", "5": "0.09269599", "6": "0.08304841"}}

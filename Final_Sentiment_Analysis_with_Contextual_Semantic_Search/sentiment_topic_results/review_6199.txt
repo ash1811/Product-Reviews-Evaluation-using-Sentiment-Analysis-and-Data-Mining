@@ -1,0 +1,1 @@
+{"text": "Nice quality and holds up well to washing.  You might want to measure carefully as it is a bit big.  I may purchase more but in a smaller size.  If you are off your diet, this is great!", "sentiment": "negative", "topics": {"1": "0.41958398", "2": "0.09575354", "3": "0.28855154", "4": "0.1722627"}}

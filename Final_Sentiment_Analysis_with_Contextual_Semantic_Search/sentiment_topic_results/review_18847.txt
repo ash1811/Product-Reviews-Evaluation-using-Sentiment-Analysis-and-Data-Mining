@@ -1,0 +1,1 @@
+{"text": "Levis hava always been the best choice for me.  I have had more expensive jeans but always return to Levis", "sentiment": "positive", "topics": {"0": "0.01195096", "1": "0.4080318", "2": "0.011947068", "3": "0.01192081", "4": "0.011941513", "5": "0.11535197", "6": "0.42885587"}}

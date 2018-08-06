@@ -1,0 +1,1 @@
+{"text": "This pair of 6 tube socks are very comfortable. I have been wearing them and they are great with this weather!", "sentiment": "negative", "topics": {"0": "0.14961874", "1": "0.6666163", "2": "0.015882336", "3": "0.015905986", "4": "0.015901081", "5": "0.12015727", "6": "0.015918298"}}

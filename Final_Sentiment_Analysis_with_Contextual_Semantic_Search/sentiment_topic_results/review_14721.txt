@@ -1,0 +1,1 @@
+{"text": "Great wallet, high quality construction, nice feel.A little too thick with the fold up license holder.  Much longer than the US dollar, so will hold currency from all over the world.I like it , a bit too thick for my tastes.", "sentiment": "negative", "topics": {"0": "0.085840896", "1": "0.34932998", "2": "0.18215883", "3": "0.15167119", "6": "0.21900539"}}

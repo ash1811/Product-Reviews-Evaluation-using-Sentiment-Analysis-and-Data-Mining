@@ -1,0 +1,1 @@
+{"text": "Good sizing, great color, nice fit.These don't have an arch like other reefs but are still super comfortable and look great.", "sentiment": "negative", "topics": {"1": "0.7796742", "3": "0.10376004", "4": "0.07840539"}}

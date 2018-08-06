@@ -1,0 +1,1 @@
+{"text": "It fits the base and the car seat, and other baby toy stuff inside, easy to carry as a back pack, I recommend!", "sentiment": "negative", "topics": {"0": "0.11687811", "1": "0.40828148", "2": "0.13641334", "3": "0.078228615", "4": "0.113640554", "5": "0.010216014", "6": "0.13634194"}}

@@ -1,0 +1,1 @@
+{"text": "This is a great boot, the only reason why I say somewhat smaller is because the calf circumference is just a wee bit smaller than I'd like.  I normally wear a size 7 1/2 or 8 but 7 is plenty large in the foot part.", "sentiment": "positive", "topics": {"1": "0.18533653", "2": "0.050237928", "3": "0.34618214", "4": "0.09465837", "5": "0.10049128", "6": "0.2173491"}}

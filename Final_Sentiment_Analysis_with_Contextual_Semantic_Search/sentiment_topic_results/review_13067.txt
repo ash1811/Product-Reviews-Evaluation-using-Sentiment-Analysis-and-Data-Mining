@@ -1,0 +1,1 @@
+{"text": "Picture shows a removable shoulder strap. Mine is sewn in. Fairly cheap feeling bag. Was very inexpensive so didn't bother returning but definitely would not buy again.", "sentiment": "negative", "topics": {"1": "0.29647353", "2": "0.17147598", "3": "0.19081694", "4": "0.14636944", "5": "0.12103788", "6": "0.066662095"}}

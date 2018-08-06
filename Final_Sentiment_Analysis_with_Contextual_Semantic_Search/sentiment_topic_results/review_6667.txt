@@ -1,0 +1,1 @@
+{"text": "I LOVE this bag! I have one for work (I'm an SLP in a school) and one for home (to put makeup, hair products, etc. in when I travel). This bag was a great value and is of great quality. I am so happy with the size as well. Thank you!", "sentiment": "negative", "topics": {"1": "0.5656585", "2": "0.22640258", "3": "0.08634013", "5": "0.105668746"}}

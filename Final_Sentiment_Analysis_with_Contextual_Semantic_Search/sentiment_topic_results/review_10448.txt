@@ -1,0 +1,1 @@
+{"text": "I got these for my Mom for her birthday. She absolutely loves them.All I had to do was get her shoe size and they were on her way to her front door.Easy as pie to order and have delivered and the gift is a great gift.", "sentiment": "negative", "topics": {"0": "0.5396103", "2": "0.17134501", "4": "0.11533664", "6": "0.15109077"}}

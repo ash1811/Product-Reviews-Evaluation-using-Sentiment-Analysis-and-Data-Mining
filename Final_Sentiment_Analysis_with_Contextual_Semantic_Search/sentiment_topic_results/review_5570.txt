@@ -1,0 +1,1 @@
+{"text": "If you order..make sure you order your exact size. It fits perfectly. Mediums some times run small. But it was a true medium. Great quality.", "sentiment": "negative", "topics": {"0": "0.09246728", "1": "0.44475698", "2": "0.09503333", "3": "0.28164777", "5": "0.068216555"}}

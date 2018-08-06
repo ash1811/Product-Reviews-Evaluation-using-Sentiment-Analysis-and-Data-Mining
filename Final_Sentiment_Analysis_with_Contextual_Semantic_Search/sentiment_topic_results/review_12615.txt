@@ -1,0 +1,1 @@
+{"text": "This is my third pair, great for wide foot, I am just a C/D, but can wear with socks or not. Cute and light weight, great for work or play.", "sentiment": "negative", "topics": {"1": "0.5216871", "4": "0.16395122", "5": "0.21931946", "6": "0.068191506"}}

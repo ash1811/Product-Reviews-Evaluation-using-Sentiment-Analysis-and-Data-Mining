@@ -1,0 +1,1 @@
+{"text": "Very sexy and functional. Stayed up all night, don't need a garter belt but can use one if you want.", "sentiment": "negative", "topics": {"0": "0.26898116", "1": "0.013036192", "2": "0.22798282", "3": "0.013054812", "4": "0.013066082", "5": "0.18508454", "6": "0.2787944"}}

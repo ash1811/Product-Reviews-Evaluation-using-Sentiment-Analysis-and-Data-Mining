@@ -1,0 +1,1 @@
+{"text": "excellent comfortable walking for walking, shopping, beach, countryside and recommend different activities the product, taketh for future purchases are incredible", "sentiment": "negative", "topics": {"0": "0.16671261", "1": "0.12481375", "2": "0.16154496", "3": "0.09974838", "5": "0.2974037", "6": "0.14078854"}}

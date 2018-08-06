@@ -1,0 +1,1 @@
+{"text": "No BS long sleeve.  Fits like it should. Soft and great color.  6'3&#34;, 175 and I love the way it hangs.", "sentiment": "negative", "topics": {"1": "0.5105535", "2": "0.17649327", "4": "0.16316251", "6": "0.12117007"}}

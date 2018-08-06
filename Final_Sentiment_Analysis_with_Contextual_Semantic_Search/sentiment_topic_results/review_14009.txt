@@ -1,0 +1,1 @@
+{"text": "This watch is one of my favorites, along with the steel Luminox divers watch. I have used it on many dives and no problems. My first one lasted over 10 years. Perfect timekeeping and never a worry about batteries!", "sentiment": "negative", "topics": {"1": "0.16618374", "2": "0.22220902", "3": "0.110261485", "4": "0.34877342", "6": "0.1400922"}}

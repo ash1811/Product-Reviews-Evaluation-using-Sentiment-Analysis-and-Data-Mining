@@ -1,0 +1,1 @@
+{"text": "Got this watch 2 days ago. This is my first G-shock ever. It looks great and durable but the display is too small for my eyes w/o glasses. I'm going back to my old Casio analog illuminator..", "sentiment": "negative", "topics": {"0": "0.52051", "2": "0.055319887", "5": "0.2731554", "6": "0.13309889"}}

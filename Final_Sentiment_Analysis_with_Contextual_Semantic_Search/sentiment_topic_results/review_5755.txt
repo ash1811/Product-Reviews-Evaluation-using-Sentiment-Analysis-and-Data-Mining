@@ -1,0 +1,1 @@
+{"text": "Before tee shirts became as thin as cheesecloth they were all made like this shirt.  Nice cotton that provided an extra layer under a dress shirt or sweater.", "sentiment": "negative", "topics": {"0": "0.13801223", "1": "0.42702994", "3": "0.21036378", "4": "0.19929157"}}

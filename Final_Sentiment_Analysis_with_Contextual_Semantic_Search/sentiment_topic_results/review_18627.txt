@@ -1,0 +1,1 @@
+{"text": "Although my wife says I look like a terrorist wearing this while walking the dog it does a great job of keeping you warm in the winter and cool in the summer.", "sentiment": "negative", "topics": {"1": "0.56236476", "4": "0.08236111", "5": "0.23635435", "6": "0.09364975"}}

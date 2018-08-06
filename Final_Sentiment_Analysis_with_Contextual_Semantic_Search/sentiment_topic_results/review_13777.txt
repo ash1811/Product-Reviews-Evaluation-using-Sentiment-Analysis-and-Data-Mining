@@ -1,0 +1,1 @@
+{"text": "Flip-flop looks great, feels comfy (just tried on, haven't wore for any length of time), but the color description on the pair I purchased was brown(sole)/white(straps)...the straps are actually an off-white, not white...not what I was expecting.", "sentiment": "negative", "topics": {"1": "0.27442548", "2": "0.19543213", "5": "0.3007183", "6": "0.20986772"}}

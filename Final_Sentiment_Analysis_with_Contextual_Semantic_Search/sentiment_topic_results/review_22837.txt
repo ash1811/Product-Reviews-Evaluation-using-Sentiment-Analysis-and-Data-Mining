@@ -1,0 +1,1 @@
+{"text": "I like the earrings themselves, but they were a suggested buy with a turquoise necklace and bracelet, and the blues are nowhere close to matching. The other 2 pieces are more green and these are more blue.", "sentiment": "positive", "topics": {"0": "0.4070903", "1": "0.1017749", "2": "0.18341704", "4": "0.07596521", "6": "0.2149304"}}

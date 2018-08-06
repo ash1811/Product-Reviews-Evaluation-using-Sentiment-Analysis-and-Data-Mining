@@ -1,0 +1,1 @@
+{"text": "Got this for spring turkey in new york some years the bugs are so bad you cant even sit to hunt With this you can hunt all day in comfort gotta have one in your backpack You wont regret it", "sentiment": "negative", "topics": {"0": "0.110992976", "1": "0.22560324", "2": "0.101206765", "3": "0.09190316", "4": "0.19511674", "5": "0.113174416", "6": "0.16200271"}}

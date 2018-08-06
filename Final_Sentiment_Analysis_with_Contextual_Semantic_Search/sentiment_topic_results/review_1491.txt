@@ -1,0 +1,1 @@
+{"text": "it was good. But after a while it starts to get dirty and you have to wash it like every month", "sentiment": "positive", "topics": {"0": "0.015922574", "1": "0.015956866", "2": "0.19390082", "3": "0.015900366", "4": "0.015905533", "5": "0.47219065", "6": "0.2702232"}}

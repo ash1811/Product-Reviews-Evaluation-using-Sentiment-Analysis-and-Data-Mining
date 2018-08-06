@@ -1,0 +1,1 @@
+{"text": "excelente reloj invicta, muy buena calidad y dise&ntilde;o, ha llegado a destino en tiempo y forma, ademas recomiendo a este vendedor", "sentiment": "negative", "topics": {"1": "0.2872609", "2": "0.13182467", "3": "0.23587781", "4": "0.20893839", "5": "0.120221406"}}

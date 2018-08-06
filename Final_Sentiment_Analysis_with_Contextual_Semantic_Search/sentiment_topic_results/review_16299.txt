@@ -1,0 +1,1 @@
+{"text": "this toy is very accurate. I shot a fly that was 4ft away and the bullets are soft enough that it didn't kill the fly.", "sentiment": "negative", "topics": {"0": "0.011935483", "1": "0.24722719", "2": "0.09927612", "3": "0.31051004", "4": "0.011924617", "5": "0.13980912", "6": "0.17931747"}}

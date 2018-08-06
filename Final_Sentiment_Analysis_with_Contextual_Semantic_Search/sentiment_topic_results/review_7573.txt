@@ -1,0 +1,1 @@
+{"text": "Bought this for my husband, he is a big guy 4X and I have a hard time finding him clothing in a regular store. This run true to size looks nice and did not cost as much as they charge at the Big & Tall places.", "sentiment": "negative", "topics": {"0": "0.100375056", "1": "0.5585652", "3": "0.1775291", "4": "0.14483328"}}

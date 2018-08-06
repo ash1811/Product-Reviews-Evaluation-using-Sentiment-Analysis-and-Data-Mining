@@ -1,0 +1,1 @@
+{"text": "Perfect fit for a better than perfect price.  Received very quickly!  Great for dance and layering.  Quality material and workmanship!", "sentiment": "positive", "topics": {"0": "0.0102701215", "1": "0.58795184", "2": "0.09487001", "3": "0.010229542", "4": "0.010219858", "5": "0.010238168", "6": "0.27622047"}}

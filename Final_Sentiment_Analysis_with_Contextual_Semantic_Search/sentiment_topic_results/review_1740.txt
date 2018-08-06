@@ -1,0 +1,1 @@
+{"text": "Fits everything very well. The stretchy fibers move with you. Does ride up a little butt that's the fun. Boy-shorts are great for boys too Did I mention super sexy too!", "sentiment": "positive", "topics": {"0": "0.18924904", "1": "0.30506015", "2": "0.1795515", "3": "0.1935393", "5": "0.11823416"}}

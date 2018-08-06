@@ -1,0 +1,1 @@
+{"text": "I was very pleased when I received the socks. The fit perfectly (I am size 9) and feel so good. The quality is excellent. Can't wait to take them for a hike.", "sentiment": "positive", "topics": {"1": "0.3665902", "2": "0.072114885", "5": "0.20441878", "6": "0.33153453"}}

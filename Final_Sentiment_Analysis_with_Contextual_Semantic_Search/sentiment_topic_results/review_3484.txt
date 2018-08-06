@@ -1,0 +1,1 @@
+{"text": "This was not a very supportive bra. It also felt uncomfortably tight in some areas and too loose in others. This is always my size so that isn't the issue. Not keen on this one. I", "sentiment": "negative", "topics": {"1": "0.19801724", "2": "0.28676733", "3": "0.30381516", "4": "0.096395634", "6": "0.095858924"}}

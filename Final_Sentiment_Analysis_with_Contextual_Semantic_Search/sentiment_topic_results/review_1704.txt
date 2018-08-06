@@ -1,0 +1,1 @@
+{"text": "Good and durable strapless bra. I didn't have to pull it up at all during the evening. I think it will last a long time too.", "sentiment": "positive", "topics": {"0": "0.011973855", "1": "0.0119694425", "2": "0.13429074", "3": "0.11578339", "4": "0.011920693", "5": "0.7021536", "6": "0.011908284"}}

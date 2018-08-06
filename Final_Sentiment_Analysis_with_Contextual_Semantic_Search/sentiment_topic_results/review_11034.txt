@@ -1,0 +1,1 @@
+{"text": "We have had a very cold winter and were looking for a nice pair of warm slippers. These really fit the bill. Very comfortable and warm. Look nice too!", "sentiment": "negative", "topics": {"1": "0.68138546", "5": "0.2084645", "6": "0.07422783"}}

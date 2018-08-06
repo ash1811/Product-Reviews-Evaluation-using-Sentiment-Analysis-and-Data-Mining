@@ -1,0 +1,1 @@
+{"text": "Comfortable fit, good looking, great price!  What more could you ask for?  This was an exceptional buy even though not covered by &#34;prime&#34; shipping.", "sentiment": "positive", "topics": {"1": "0.52710426", "2": "0.09780675", "4": "0.17559007", "5": "0.11032418", "6": "0.07231527"}}

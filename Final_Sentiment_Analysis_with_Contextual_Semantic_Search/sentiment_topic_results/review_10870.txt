@@ -1,0 +1,1 @@
+{"text": "I love my \"Isotoner Floral Embroidered Clog Slippers.\" The color is exactly like the photo and they are comfortable and cute.", "sentiment": "positive", "topics": {"0": "0.21083333", "1": "0.27332228", "2": "0.010997396", "3": "0.12429459", "4": "0.13603888", "5": "0.011025266", "6": "0.23348826"}}

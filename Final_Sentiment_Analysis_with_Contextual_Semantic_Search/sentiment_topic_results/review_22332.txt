@@ -1,0 +1,1 @@
+{"text": "I bought these because I needed the appropriate socks to go with Vibram FiveFingers. These are excellent, durable, and quality socks that are super comfortable and keep up when I'm very active.", "sentiment": "positive", "topics": {"0": "0.078895636", "1": "0.36572835", "2": "0.082106076", "3": "0.20889214", "4": "0.082189664", "5": "0.17376092"}}

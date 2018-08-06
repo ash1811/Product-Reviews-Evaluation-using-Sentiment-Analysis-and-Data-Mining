@@ -1,0 +1,1 @@
+{"text": "I bought a few of these shirts in short and long sleeve. I really like the material, but the large is too small unfortunately.", "sentiment": "negative", "topics": {"0": "0.3740321", "1": "0.5662957", "2": "0.011922584", "3": "0.011940706", "4": "0.011915602", "5": "0.011945806", "6": "0.011947468"}}

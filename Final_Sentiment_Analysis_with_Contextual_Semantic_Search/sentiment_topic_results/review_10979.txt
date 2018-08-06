@@ -1,0 +1,1 @@
+{"text": "Just too small for an adult, decided not to return but give to my God-daughter.  More of an infant/toddler girls pair of earrings.  &#34;Cute&#34; but teeny-tiny.", "sentiment": "negative", "topics": {"0": "0.011036663", "1": "0.20337285", "2": "0.011065393", "3": "0.37993369", "4": "0.011023673", "5": "0.23763575", "6": "0.14593194"}}

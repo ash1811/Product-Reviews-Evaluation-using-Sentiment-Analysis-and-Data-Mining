@@ -1,0 +1,1 @@
+{"text": "This one fits great just like all the Playtex bras. Is comfortable and is pretty too. And I love the tone od beige that it is.", "sentiment": "positive", "topics": {"0": "0.1917674", "1": "0.33773535", "3": "0.33263186", "6": "0.10910053"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my daughter for Christmas and she loves them. The are sized smaller so buy a size bigger than you normally wear.", "sentiment": "positive", "topics": {"0": "0.01101235", "1": "0.1654919", "2": "0.011013282", "3": "0.7794028", "4": "0.011020401", "5": "0.011035891", "6": "0.011023402"}}

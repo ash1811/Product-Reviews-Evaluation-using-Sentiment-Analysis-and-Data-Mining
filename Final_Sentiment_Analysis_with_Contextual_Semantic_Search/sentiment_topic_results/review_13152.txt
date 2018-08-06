@@ -1,0 +1,1 @@
+{"text": "The maximum width of my hand is about 4.25 inches and these fit very nicely. They are warm and allow you to use electronic gadgets like cell phones and PDAs.", "sentiment": "negative", "topics": {"1": "0.39419058", "3": "0.1184943", "4": "0.09870366", "5": "0.24469668", "6": "0.12706698"}}

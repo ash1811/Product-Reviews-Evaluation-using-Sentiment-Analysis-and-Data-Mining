@@ -1,0 +1,1 @@
+{"text": "Read almost all the reviews before I made the decision. I am usually a 7, then I chose a 6 this time&#65292;way too small. If you have wide feet, just order your right size. Anyway, it is a nice product, worth buying.", "sentiment": "positive", "topics": {"0": "0.107523054", "1": "0.15724681", "2": "0.14871036", "3": "0.14216687", "5": "0.34914514", "6": "0.08867252"}}

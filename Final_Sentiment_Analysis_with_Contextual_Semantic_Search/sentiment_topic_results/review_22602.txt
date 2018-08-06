@@ -1,0 +1,1 @@
+{"text": "I ordered these in my normal size and they are a bit tight, and the legs are not as flared as it shows in the picture.", "sentiment": "negative", "topics": {"0": "0.24409762", "1": "0.2660513", "2": "0.14564921", "3": "0.30130008", "4": "0.0142876925", "5": "0.014294391", "6": "0.01431966"}}

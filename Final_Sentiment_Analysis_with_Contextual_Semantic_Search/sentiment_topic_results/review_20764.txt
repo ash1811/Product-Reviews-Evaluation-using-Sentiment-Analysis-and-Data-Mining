@@ -1,0 +1,1 @@
+{"text": "We used these for painting t-shirts and they were great..... They shrink a little in wash but it was just like any other tee would. Great buy, especially for doing special projects!", "sentiment": "negative", "topics": {"1": "0.8317485", "5": "0.1234503"}}

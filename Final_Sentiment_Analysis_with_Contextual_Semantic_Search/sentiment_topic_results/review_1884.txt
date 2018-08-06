@@ -1,0 +1,1 @@
+{"text": "Love these mocs. a little too big, but that's ok because I put my custom arch in them. only hassle is the laces won't stay tied, even with double tied. augh.", "sentiment": "negative", "topics": {"0": "0.10175838", "1": "0.47732535", "2": "0.18577202", "3": "0.16429658", "5": "0.0557584"}}

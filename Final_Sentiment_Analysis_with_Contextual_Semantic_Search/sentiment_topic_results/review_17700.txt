@@ -1,0 +1,1 @@
+{"text": "I like the watch because of it was reasonably priced and the quality was beyond expectation.  Highly recommended for others to consider buying.  It will be a gift to someone who will appreciate having it.", "sentiment": "negative", "topics": {"0": "0.22932586", "1": "0.31324854", "2": "0.33112967", "4": "0.10099569"}}

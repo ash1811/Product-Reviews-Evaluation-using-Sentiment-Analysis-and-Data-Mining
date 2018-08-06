@@ -1,0 +1,1 @@
+{"text": "This rubber band is a rather cheap copy of the original and did not even fit my Seiko Divers model. I do not reccomend it.", "sentiment": "negative", "topics": {"0": "0.3182967", "1": "0.31944773", "2": "0.010273001", "3": "0.010212349", "4": "0.08627864", "5": "0.010212217", "6": "0.24527934"}}

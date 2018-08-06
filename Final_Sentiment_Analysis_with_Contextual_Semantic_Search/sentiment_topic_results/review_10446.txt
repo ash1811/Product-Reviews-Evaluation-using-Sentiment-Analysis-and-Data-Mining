@@ -1,0 +1,1 @@
+{"text": "I got this for my 17month granddaughter. She enjoys the toy. She really likes the phone and lip stick. I think she will enjoy even more as time goes on.", "sentiment": "negative", "topics": {"0": "0.1587424", "1": "0.26226544", "5": "0.5452357"}}

@@ -1,0 +1,1 @@
+{"text": "This shoes is very comfortable after you wear for a couple days. The toe strip was very tight and a little hurt when I wore it at the beginning, after two days, it started to break in. The arch support in the middle is very comfortable.", "sentiment": "positive", "topics": {"1": "0.42520332", "2": "0.11171433", "3": "0.15135294", "5": "0.22280203", "6": "0.07592893"}}

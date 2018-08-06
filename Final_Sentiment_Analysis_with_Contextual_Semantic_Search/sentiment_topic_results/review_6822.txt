@@ -1,0 +1,1 @@
+{"text": "We used it once for a domestic flight and it already has tears at the bottom. Not at all durable. Disappointing after having spent all this money.", "sentiment": "negative", "topics": {"0": "0.18734567", "1": "0.013043603", "2": "0.09050377", "3": "0.013017048", "4": "0.012988592", "5": "0.56460744", "6": "0.11849387"}}

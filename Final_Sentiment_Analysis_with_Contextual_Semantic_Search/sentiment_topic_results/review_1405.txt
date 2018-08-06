@@ -1,0 +1,1 @@
+{"text": "My daughter loves this backpack. It fits everything, including clothes, and the pattern is really nice, doesn't show dirt either!", "sentiment": "negative", "topics": {"0": "0.010224464", "1": "0.22215101", "2": "0.5946836", "3": "0.010231079", "4": "0.14226525", "5": "0.0102349715", "6": "0.010209634"}}

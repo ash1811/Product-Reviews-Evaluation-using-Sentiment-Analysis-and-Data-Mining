@@ -1,0 +1,1 @@
+{"text": "Great for the hot days in summer. Feels like you aren't wearing anything at all, I wish they made them in boxer style though.", "sentiment": "negative", "topics": {"1": "0.27630705", "2": "0.29418993", "4": "0.17644745", "6": "0.2243506"}}

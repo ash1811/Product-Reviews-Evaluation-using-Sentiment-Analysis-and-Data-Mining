@@ -1,0 +1,1 @@
+{"text": "Yup, I didn't make 60 and I'm over the 40 inch mark for waist size!What's a big ol American to do?Buy Levi's big ass jeans", "sentiment": "positive", "topics": {"0": "0.29075184", "1": "0.13427863", "2": "0.22730963", "3": "0.16058755", "6": "0.17117375"}}

@@ -1,0 +1,1 @@
+{"text": "I like the socks very much. They make my feet feel better during and following hikes. For hiking, good socks are at least as important as good shoes.", "sentiment": "negative", "topics": {"0": "0.18241227", "2": "0.1816439", "3": "0.16984913", "5": "0.26302037", "6": "0.18615809"}}

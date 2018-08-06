@@ -1,0 +1,1 @@
+{"text": "Absolutely no blisters. Will purchase more in the future.  Immediate comfortable fit. Highly recommended for plantar fasciitis. They should make more colours.", "sentiment": "positive", "topics": {"0": "0.08868802", "1": "0.40840364", "2": "0.15614876", "3": "0.010321622", "4": "0.31600308", "5": "0.010215332", "6": "0.010219579"}}

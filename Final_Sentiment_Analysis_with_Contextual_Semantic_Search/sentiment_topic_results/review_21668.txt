@@ -1,0 +1,1 @@
+{"text": "Arrived in good time, fit like a dream, perfect for the actor playing Gladys Herdman!  Just a little pricey but worth it. .", "sentiment": "negative", "topics": {"0": "0.15086505", "1": "0.4550777", "2": "0.097454906", "3": "0.2697032"}}

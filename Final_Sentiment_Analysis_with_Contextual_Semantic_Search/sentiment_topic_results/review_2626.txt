@@ -1,0 +1,1 @@
+{"text": "Great shoes and service.  Will use again and again. Our Doctor recommended these for our daughters who love flip flops. Saves the arches and heels!!!", "sentiment": "positive", "topics": {"0": "0.12500326", "1": "0.08044424", "2": "0.33226016", "3": "0.16444674", "4": "0.2787484"}}

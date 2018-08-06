@@ -1,0 +1,1 @@
+{"text": "This is a great quality, light weight book bag.  It is perfect for a middle school aged child.  The print is bold and the material has held up well.", "sentiment": "negative", "topics": {"0": "0.09914256", "1": "0.5702953", "2": "0.058749195", "3": "0.0761623", "4": "0.07927793", "5": "0.10796627"}}

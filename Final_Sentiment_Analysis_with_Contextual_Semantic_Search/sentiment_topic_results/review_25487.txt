@@ -1,0 +1,1 @@
+{"text": "Nice heavy material should last a long time.  Good value for the money.  Would not hesitate to purchase more when needed.", "sentiment": "negative", "topics": {"0": "0.01023577", "1": "0.3930292", "2": "0.0102229575", "3": "0.0102241235", "4": "0.01022611", "5": "0.451843", "6": "0.11421882"}}

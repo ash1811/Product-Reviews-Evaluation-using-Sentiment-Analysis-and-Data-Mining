@@ -1,0 +1,1 @@
+{"text": "I bought this for myself.  I have always liked Timex, cause they take a liickn' and keep on tickn'!!  I also like the expandable strap, as opposed to the belt strap.  I love this watch!!!!  Highly recommend.", "sentiment": "positive", "topics": {"0": "0.2225073", "2": "0.32037497", "4": "0.26577228", "6": "0.17178601"}}

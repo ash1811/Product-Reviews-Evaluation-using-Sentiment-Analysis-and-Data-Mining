@@ -1,0 +1,1 @@
+{"text": "Very comfortable.  Because you can adjust the Velcro, my wide foot fit into the medium width nicely.  Seems to run a little large, but kept the size  I ordered.", "sentiment": "negative", "topics": {"1": "0.5016043", "2": "0.07701583", "3": "0.3162694", "6": "0.07978964"}}

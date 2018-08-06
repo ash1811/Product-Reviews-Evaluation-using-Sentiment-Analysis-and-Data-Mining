@@ -1,0 +1,1 @@
+{"text": "The color was a light grey (darker than I thought but still great), and the shoe fitted me veary well", "sentiment": "positive", "topics": {"0": "0.29192635", "1": "0.40545952", "2": "0.14448556", "3": "0.011947176", "4": "0.011916578", "5": "0.12234826", "6": "0.011916523"}}

@@ -1,0 +1,1 @@
+{"text": "Love how these socks have stretchy woven elastic arcoss the top. They are very comfortable. I was very happy to find them.  Fast service and great price! :)", "sentiment": "negative", "topics": {"0": "0.19579133", "1": "0.18367107", "3": "0.16146004", "4": "0.432122"}}

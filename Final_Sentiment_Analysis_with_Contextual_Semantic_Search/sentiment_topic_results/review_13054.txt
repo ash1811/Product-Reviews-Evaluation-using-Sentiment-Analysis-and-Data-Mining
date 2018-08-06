@@ -1,0 +1,1 @@
+{"text": "The olive drab paratrooper fatigues had straps for adjustment and ties to blouse the legs so you would had no issue adjusting to fit you perfectly. They are great.Thanks", "sentiment": "negative", "topics": {"1": "0.2754013", "2": "0.28918228", "4": "0.076722406", "5": "0.2003816", "6": "0.14042018"}}

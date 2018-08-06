@@ -1,0 +1,1 @@
+{"text": "As I had previously said about the long-johns above goes for this thermal crew shirt, he also loved these thermal tops...", "sentiment": "positive", "topics": {"0": "0.011921315", "1": "0.30230454", "2": "0.011912771", "3": "0.14505017", "4": "0.5049618", "5": "0.011928971", "6": "0.01192047"}}

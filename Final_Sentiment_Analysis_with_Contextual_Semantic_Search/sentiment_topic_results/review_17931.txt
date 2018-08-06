@@ -1,0 +1,1 @@
+{"text": "Simple Straight Forward Watch for casual, everyday wear. Keeps time effectively. Is water proof for normal every day use. I like it and would recommend it for the price.", "sentiment": "negative", "topics": {"0": "0.27905566", "1": "0.22232603", "2": "0.14048855", "4": "0.06585765", "5": "0.19719328", "6": "0.08825055"}}

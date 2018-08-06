@@ -1,0 +1,1 @@
+{"text": "I love all of my Uggs products! These slippers are very cozy and warm, and I thought that the price was reasonable for the product.", "sentiment": "negative", "topics": {"0": "0.43772113", "1": "0.11726283", "2": "0.012996116", "3": "0.01302234", "4": "0.01306341", "5": "0.28757003", "6": "0.11836414"}}

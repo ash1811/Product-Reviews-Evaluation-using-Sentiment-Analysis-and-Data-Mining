@@ -1,0 +1,1 @@
+{"text": "My 3rd Grand Diver and probably won't be my last. Grand Divers have many outstanding features that make them a desirable want. Screw down crown with mechanical wind function is an awesome feature.", "sentiment": "negative", "topics": {"0": "0.07214894", "1": "0.18790829", "2": "0.12859002", "3": "0.094276495", "4": "0.2393993", "5": "0.12081121", "6": "0.15686573"}}

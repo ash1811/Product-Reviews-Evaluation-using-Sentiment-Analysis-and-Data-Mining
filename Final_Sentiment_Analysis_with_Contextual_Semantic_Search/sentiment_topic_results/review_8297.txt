@@ -1,0 +1,1 @@
+{"text": "These jeans were bought as a gift for someone.  The quality of Levi's is unsurpassed for a reason...They do it right.", "sentiment": "positive", "topics": {"0": "0.42178768", "1": "0.27722204", "2": "0.13076493", "3": "0.014319097", "4": "0.014336054", "5": "0.0143658845", "6": "0.12720433"}}

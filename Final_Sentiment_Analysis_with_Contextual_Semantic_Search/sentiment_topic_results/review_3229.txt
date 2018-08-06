@@ -1,0 +1,1 @@
+{"text": "We like them and will keep them but the fit is a bit small. Next time will order one size up.", "sentiment": "positive", "topics": {"0": "0.28296813", "1": "0.15797019", "2": "0.19949795", "3": "0.32370284", "4": "0.011936776", "5": "0.011930988", "6": "0.011993096"}}

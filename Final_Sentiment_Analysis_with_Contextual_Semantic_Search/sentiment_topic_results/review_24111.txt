@@ -1,0 +1,1 @@
+{"text": "I have purchased more expensive bras in the past and they were not any nicer than this bra.  It is comfortable, especially the straps.  I have purchased several and I wear them every day.", "sentiment": "positive", "topics": {"1": "0.48973978", "2": "0.20574649", "3": "0.26626328"}}

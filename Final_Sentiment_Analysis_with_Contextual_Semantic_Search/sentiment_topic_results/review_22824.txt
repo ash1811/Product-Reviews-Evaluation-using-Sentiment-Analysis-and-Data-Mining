@@ -1,0 +1,1 @@
+{"text": "I really like these earrings because they have matching bracelets. However, the earrings break very easily. My adult daughter quickly broke two pair. The first pair came apart when she tried to put them in her ears.", "sentiment": "negative", "topics": {"0": "0.19578451", "1": "0.203284", "2": "0.150724", "3": "0.10239437", "5": "0.26302838", "6": "0.07855595"}}

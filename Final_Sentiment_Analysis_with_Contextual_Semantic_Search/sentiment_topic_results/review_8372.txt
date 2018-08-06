@@ -1,0 +1,1 @@
+{"text": "I'm in love with this shoes! They run a little small so I bought  it one size up. The leather is very, very soft. I bought one of each color available in my size and I wear them almost everyday!!", "sentiment": "negative", "topics": {"1": "0.2340638", "2": "0.30918536", "3": "0.33636656", "4": "0.100854285"}}

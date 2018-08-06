@@ -1,0 +1,1 @@
+{"text": "I bought these cause I go looking at houses to buy and they keep my shoes covered so I don't have to walk around a strangers home in my stocking or bare feet,,, great fit,, I don't slip around like the cloth ones great price thanks", "sentiment": "negative", "topics": {"0": "0.08458647", "1": "0.45347264", "2": "0.107433185", "4": "0.23701736", "6": "0.106858455"}}

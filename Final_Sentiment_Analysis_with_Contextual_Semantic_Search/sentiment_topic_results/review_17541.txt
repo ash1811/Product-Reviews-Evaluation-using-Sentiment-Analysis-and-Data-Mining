@@ -1,0 +1,1 @@
+{"text": "Not as good as I thought it would be, it was expensive but had none of the options that I thought were advertized.", "sentiment": "negative", "topics": {"0": "0.2978797", "1": "0.37865186", "2": "0.014341772", "3": "0.2661687", "4": "0.014309677", "5": "0.0143021075", "6": "0.014346147"}}

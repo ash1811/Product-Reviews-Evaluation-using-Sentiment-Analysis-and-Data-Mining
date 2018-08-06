@@ -1,0 +1,1 @@
+{"text": "The socks themselves were very nice but the size was like it was a size 11 instead of an 8 to 11 where they stretch to your foot size.  I wouldn't buy them again.  They would have been worth the money except for the size thing which doesn't work real well.", "sentiment": "negative", "topics": {"1": "0.34110984", "3": "0.32569635", "4": "0.21129735", "5": "0.10398909"}}

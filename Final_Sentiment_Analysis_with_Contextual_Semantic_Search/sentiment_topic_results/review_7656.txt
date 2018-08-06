@@ -1,0 +1,1 @@
+{"text": "WE love the this bra. We have been shopping for our bras on Amazon for two years now and we just love it.  We have been able to get the products at a reasonable price on Amazon", "sentiment": "negative", "topics": {"0": "0.12223366", "3": "0.3783511", "4": "0.2801729", "5": "0.19241124"}}

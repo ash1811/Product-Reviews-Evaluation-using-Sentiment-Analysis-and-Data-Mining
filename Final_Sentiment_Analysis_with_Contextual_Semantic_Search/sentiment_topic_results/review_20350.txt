@@ -1,0 +1,1 @@
+{"text": "I find the nursing closure almost impossible to manipulate one-handed. It's not the same as the bravado bras, it's finicky and difficult.", "sentiment": "negative", "topics": {"0": "0.2216902", "1": "0.011950755", "2": "0.35598567", "3": "0.125171", "4": "0.012018948", "5": "0.011937174", "6": "0.26124623"}}

@@ -1,0 +1,1 @@
+{"text": "Wow!!!! Love them and they come with a life time guarantee from the Company and I would recommend these sandals to anyone thinking about buying them.", "sentiment": "negative", "topics": {"1": "0.28738862", "2": "0.30875704", "5": "0.36558452"}}

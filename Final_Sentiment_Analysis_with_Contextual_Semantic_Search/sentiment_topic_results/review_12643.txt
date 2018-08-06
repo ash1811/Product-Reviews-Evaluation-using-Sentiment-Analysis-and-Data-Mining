@@ -1,0 +1,1 @@
+{"text": "These shoes are great, I have a wide foot but would have better off not getting the wide. They are really too big and shuffle when I walk.", "sentiment": "positive", "topics": {"0": "0.011018879", "1": "0.69973624", "2": "0.16378409", "3": "0.011026163", "4": "0.09239063", "5": "0.011028008", "6": "0.011016009"}}

@@ -1,0 +1,1 @@
+{"text": "I wear them every day! they small & cute enough to wear every day - i get compliments on it all the time", "sentiment": "positive", "topics": {"0": "0.011024679", "1": "0.011026412", "2": "0.011009513", "3": "0.01101753", "4": "0.12528633", "5": "0.8196356", "6": "0.010999948"}}

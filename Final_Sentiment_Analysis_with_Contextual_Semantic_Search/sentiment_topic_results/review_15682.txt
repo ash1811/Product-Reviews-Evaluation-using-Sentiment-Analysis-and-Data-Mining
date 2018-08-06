@@ -1,0 +1,1 @@
+{"text": "The fabric is soft and comfortable but very stretchy.  It is not as supportive as older versions I have had with other fabrics which I found better for sports.I liked the older versions and the under armor version better.", "sentiment": "negative", "topics": {"1": "0.50971204", "2": "0.18960255", "5": "0.18352604", "6": "0.09327265"}}

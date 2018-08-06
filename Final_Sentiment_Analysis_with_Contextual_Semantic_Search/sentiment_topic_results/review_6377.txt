@@ -1,0 +1,1 @@
+{"text": "My husband has suffered for years with plantar fasciitis and other foot problems and these socks have truly helped him manage the pain.  They are worth the money .", "sentiment": "negative", "topics": {"0": "0.15098938", "3": "0.14967346", "4": "0.39176357", "5": "0.27895454"}}

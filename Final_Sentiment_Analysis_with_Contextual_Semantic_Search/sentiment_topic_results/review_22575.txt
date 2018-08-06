@@ -1,0 +1,1 @@
+{"text": "I'm 5'4'', 118lbs and these fit perfect! Just a tad long but that is perfect because I like them that way.", "sentiment": "negative", "topics": {"0": "0.1325276", "1": "0.3858291", "2": "0.0130079305", "3": "0.013045421", "4": "0.013040035", "5": "0.013013938", "6": "0.42953596"}}

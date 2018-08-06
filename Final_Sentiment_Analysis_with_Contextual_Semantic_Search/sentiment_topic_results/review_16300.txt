@@ -1,0 +1,1 @@
+{"text": "Wow  great toy  this company is a very fast shipper also  durable , great looking gun  shoots pretty good too  I bought the soft bullets also because the gun does not come with ammo  Great to shoot indoors", "sentiment": "negative", "topics": {"0": "0.15268989", "1": "0.4200701", "4": "0.35946748", "5": "0.050602235"}}

@@ -1,0 +1,1 @@
+{"text": "These are the Aviator's that you remember from years ago. I bought two pairs, one polarized and on with the darker, non-polarized coating. I like polarized better, but this is a personal preference. Recommended.", "sentiment": "negative", "topics": {"0": "0.13954777", "1": "0.35772282", "2": "0.19869174", "3": "0.20664091", "6": "0.082337596"}}

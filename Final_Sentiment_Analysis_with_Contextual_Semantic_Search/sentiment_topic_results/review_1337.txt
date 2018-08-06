@@ -1,0 +1,1 @@
+{"text": "These are perfect for a 58 year old woman like me who doesn't want to wear granny panties. Fabric and cut are great.", "sentiment": "negative", "topics": {"0": "0.010245976", "1": "0.4288552", "2": "0.27228168", "3": "0.010239819", "4": "0.010229718", "5": "0.2579193", "6": "0.01022833"}}

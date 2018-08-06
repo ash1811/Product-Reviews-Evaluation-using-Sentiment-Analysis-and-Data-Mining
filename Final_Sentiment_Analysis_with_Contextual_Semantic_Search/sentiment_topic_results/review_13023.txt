@@ -1,0 +1,1 @@
+{"text": "These are good tight threaded cotton. They work great as a head cap or smoke/dust mask. Taken care of will last awhile.", "sentiment": "positive", "topics": {"0": "0.4193119", "1": "0.19092478", "3": "0.26297343", "6": "0.098122165"}}

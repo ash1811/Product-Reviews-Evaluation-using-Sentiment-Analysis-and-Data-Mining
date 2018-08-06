@@ -1,0 +1,1 @@
+{"text": "Wonderful scarf - got one for my husband and he like the \"french knot\" look and most that are sold in department stores aren't long enough for that. Thanks!", "sentiment": "negative", "topics": {"1": "0.098006524", "4": "0.22963606", "5": "0.45356047", "6": "0.19348511"}}

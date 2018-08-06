@@ -1,0 +1,1 @@
+{"text": "They are attractive but what I cared about most was comfort.  They are easy for me to fasten with velcro and they are comfortable.", "sentiment": "negative", "topics": {"0": "0.01785716", "1": "0.15440638", "2": "0.017857168", "3": "0.017866028", "4": "0.017867316", "5": "0.26754543", "6": "0.50660056"}}

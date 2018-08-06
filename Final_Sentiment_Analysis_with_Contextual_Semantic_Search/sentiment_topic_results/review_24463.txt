@@ -1,0 +1,1 @@
+{"text": "i really like this leotard and i wear them frequently. not only for working out but i'll wear these under a pair of jeans and a tshirt as well. they last a long time and they are very comfortable.", "sentiment": "negative", "topics": {"1": "0.50986165", "3": "0.22397698", "5": "0.23247103"}}

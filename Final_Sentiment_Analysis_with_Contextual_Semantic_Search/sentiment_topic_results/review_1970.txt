@@ -1,0 +1,1 @@
+{"text": "I've always been a fan of Minnetonka moccasins.  They are comfortable, easy to slip on and look great.  They are my go to daily all purpose shoe.", "sentiment": "negative", "topics": {"0": "0.33500016", "1": "0.2230533", "2": "0.097507246", "3": "0.20308709", "6": "0.12226652"}}

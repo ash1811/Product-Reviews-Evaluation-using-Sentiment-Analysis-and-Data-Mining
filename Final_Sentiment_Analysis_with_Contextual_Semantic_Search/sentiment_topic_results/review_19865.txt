@@ -1,0 +1,1 @@
+{"text": "i have two of this holds my rings perfectly. everybody thinks that i sell rings lol but they are all mine great product", "sentiment": "negative", "topics": {"0": "0.010995715", "1": "0.6630525", "2": "0.010996597", "3": "0.122871175", "4": "0.0754186", "5": "0.10566664", "6": "0.010998783"}}

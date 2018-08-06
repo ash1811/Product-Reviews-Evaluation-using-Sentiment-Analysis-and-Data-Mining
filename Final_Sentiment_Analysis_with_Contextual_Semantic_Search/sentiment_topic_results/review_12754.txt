@@ -1,0 +1,1 @@
+{"text": "The fabric is not accommodating or stretchy at all, so be sure to get a larger size. The company was really great about returns.", "sentiment": "negative", "topics": {"0": "0.011062198", "1": "0.011035225", "2": "0.13865378", "3": "0.011036969", "4": "0.011007972", "5": "0.6171771", "6": "0.2000267"}}

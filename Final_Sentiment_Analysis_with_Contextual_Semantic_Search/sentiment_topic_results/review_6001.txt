@@ -1,0 +1,1 @@
+{"text": "you can see by the rating that i loved this piece of clothing.  I would recommend it to anyone that wants to stay cozy and elegant at work,  that's the use I'm giving it.", "sentiment": "negative", "topics": {"0": "0.3116439", "1": "0.17532781", "4": "0.16959111", "6": "0.3207904"}}

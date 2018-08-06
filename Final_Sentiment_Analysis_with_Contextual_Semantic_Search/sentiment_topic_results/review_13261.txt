@@ -1,0 +1,1 @@
+{"text": "My 17 year old loves them...and I do as well. They do not stretch out, which is rare for leg warmers.  Love the color as well.", "sentiment": "positive", "topics": {"0": "0.11475417", "1": "0.27287444", "3": "0.18469311", "4": "0.3215244", "6": "0.08705416"}}

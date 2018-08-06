@@ -1,0 +1,1 @@
+{"text": "The pants are as the top, they stretch too much after washing otherwise very good.I would go a size smaller next time.", "sentiment": "negative", "topics": {"0": "0.010243594", "1": "0.20505546", "2": "0.010245248", "3": "0.32892442", "4": "0.2399026", "5": "0.01023594", "6": "0.1953927"}}

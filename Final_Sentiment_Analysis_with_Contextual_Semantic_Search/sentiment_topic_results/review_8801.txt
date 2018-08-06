@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband to wear with his work boots. They are holding up a lot better than the ones he usually buys. Well worth the price paid.", "sentiment": "negative", "topics": {"1": "0.59621584", "4": "0.35891944"}}

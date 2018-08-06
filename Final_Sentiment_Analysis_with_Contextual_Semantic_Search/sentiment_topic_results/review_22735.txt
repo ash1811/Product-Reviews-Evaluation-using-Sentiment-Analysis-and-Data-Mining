@@ -1,0 +1,1 @@
+{"text": "I have these for both of my kids and they love them. The hats actually keep the sun off the kids faces and the kids actually keep the hats on. A miracle! Plus, they are cute and come in great colors.", "sentiment": "positive", "topics": {"3": "0.43690544", "5": "0.4688016", "6": "0.06697861"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my husband.  He needs a 29&#34; inseam, which is too hard to find in stores.  So easy to buy online.  He loves the fabric, the fit.  Would definitely recommend.", "sentiment": "negative", "topics": {"0": "0.19749945", "1": "0.26736167", "3": "0.08700838", "4": "0.22783804", "5": "0.12155718", "6": "0.09078932"}}

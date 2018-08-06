@@ -1,0 +1,1 @@
+{"text": "I have ordered these before and like them very much opposed to the shear ones that never seem to fit right or feel right. The fishnets have a lot of give and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.26663664", "1": "0.53736883", "2": "0.16225486"}}

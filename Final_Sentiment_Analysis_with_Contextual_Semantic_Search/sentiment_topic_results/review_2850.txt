@@ -1,0 +1,1 @@
+{"text": "The Keds are fine.  I have had them for a few days now and they are great.  No complaints at all.", "sentiment": "negative", "topics": {"0": "0.020525936", "1": "0.40713122", "2": "0.23796208", "3": "0.27281776", "4": "0.020435741", "5": "0.020618226", "6": "0.02050904"}}

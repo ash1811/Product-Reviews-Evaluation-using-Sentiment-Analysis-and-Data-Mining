@@ -1,0 +1,1 @@
+{"text": "Love the look.  Very comfortable. I'm a size 10 and this fit perfectly true to size. I really like this boot. No problems. I'd buy again.", "sentiment": "negative", "topics": {"1": "0.4991079", "3": "0.2491986", "4": "0.21986347"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these to put over my bare feet at the airport. I don't think they would work over extra large shoes, however I do believe they would fit most size bare feet.", "sentiment": "positive", "topics": {"1": "0.2372309", "2": "0.17433253", "3": "0.2831093", "4": "0.2827014"}}

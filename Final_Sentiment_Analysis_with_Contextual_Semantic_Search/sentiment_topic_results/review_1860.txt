@@ -1,0 +1,1 @@
+{"text": "Have worn them everyday since I got them. Very good quality. So comfortable. Highly recommend. I celebrate my Native American heritage when I wear these.", "sentiment": "positive", "topics": {"1": "0.32280925", "2": "0.20078988", "4": "0.33406377", "6": "0.11699648"}}

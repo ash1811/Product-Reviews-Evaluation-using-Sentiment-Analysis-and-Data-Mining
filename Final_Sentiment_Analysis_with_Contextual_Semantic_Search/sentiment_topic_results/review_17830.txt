@@ -1,0 +1,1 @@
+{"text": "Casio es calidad relojes de bajo precio y una gran duraci&oacute;n este no es la excepci&oacute;n cuenta con funciones basicas resistente al agua dise&ntilde;o moderno que puede ser usado a diario y un buen precio", "sentiment": "negative", "topics": {"1": "0.13620712", "2": "0.06517767", "3": "0.1713964", "4": "0.16796562", "5": "0.17325492", "6": "0.2814525"}}

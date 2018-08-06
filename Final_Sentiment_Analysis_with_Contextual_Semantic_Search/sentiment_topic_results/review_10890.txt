@@ -1,0 +1,1 @@
+{"text": "This was so much fun for my niece, a two year old.  She liked the items so she could be &#34;just like mommy&#34;. She loved the purse for other items as well, like carrying her other precious things.  Nice little toy gets a lot of use.", "sentiment": "positive", "topics": {"0": "0.12975585", "1": "0.45994714", "4": "0.083406664", "6": "0.31097373"}}

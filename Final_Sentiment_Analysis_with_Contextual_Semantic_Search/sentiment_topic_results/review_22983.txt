@@ -1,0 +1,1 @@
+{"text": "These shorts are nice and cool. However the sizing is towards the large side. There is a drawstring around the waist but I have trouble getting it tight enough. It just feels like it is going to fall down. Some elastic would have been better.", "sentiment": "negative", "topics": {"0": "0.08308252", "1": "0.36120725", "5": "0.1771817", "6": "0.36058223"}}

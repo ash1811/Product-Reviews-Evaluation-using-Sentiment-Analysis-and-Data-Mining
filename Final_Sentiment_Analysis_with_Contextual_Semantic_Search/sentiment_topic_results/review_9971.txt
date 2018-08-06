@@ -1,0 +1,1 @@
+{"text": "Absolutely phenomenal. Not a single bad feature or anything bad to say about it.  Tremendous product. Some one stole mine, so I got another.", "sentiment": "negative", "topics": {"1": "0.26158956", "2": "0.2203278", "4": "0.077395976", "5": "0.2198117", "6": "0.2040358"}}

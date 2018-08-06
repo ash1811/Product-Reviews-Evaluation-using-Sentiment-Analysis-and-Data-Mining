@@ -1,0 +1,1 @@
+{"text": "These are better than expected.  The quality of the leather is impressive, the spring mechanism strong and easy to use, the size just right.  I'm getting more.", "sentiment": "negative", "topics": {"1": "0.25482404", "2": "0.08994536", "3": "0.35013115", "4": "0.13769543", "5": "0.14947733"}}

@@ -1,0 +1,1 @@
+{"text": "It is long underwear it is thin enough to fit under clothes and yet is thick enough to keep me warm here in Minnesota  on the Iron Range.  So  they work well for the purpose intended.", "sentiment": "negative", "topics": {"1": "0.27015662", "2": "0.13523754", "3": "0.20754635", "5": "0.36442897"}}

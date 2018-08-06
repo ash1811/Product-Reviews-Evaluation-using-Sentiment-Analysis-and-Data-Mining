@@ -1,0 +1,1 @@
+{"text": "9884 Olive Drab Low Profile Death Spade Baseball Cap fits great looks awesome! glad I found this cap, recommend for all", "sentiment": "negative", "topics": {"1": "0.41795498", "5": "0.35017553", "6": "0.2000004"}}

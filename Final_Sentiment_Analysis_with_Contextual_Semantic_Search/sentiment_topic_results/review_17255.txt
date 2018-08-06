@@ -1,0 +1,1 @@
+{"text": "These are the answer to a stylish clog for those of us who can't wear open-back shoes. They don't need \"breaking in\" and have excellent support - I can wear them without my usual orthotics - and they won't wear out!", "sentiment": "negative", "topics": {"1": "0.3080333", "2": "0.27337664", "3": "0.096852675", "5": "0.19587234", "6": "0.11154057"}}

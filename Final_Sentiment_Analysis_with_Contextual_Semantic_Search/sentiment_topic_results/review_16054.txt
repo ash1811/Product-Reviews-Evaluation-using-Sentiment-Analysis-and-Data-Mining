@@ -1,0 +1,1 @@
+{"text": "I have narrow feet, so sometimes flip-flops are so wide I walk right out of them. These fit really well, and are very soft and comfortable.", "sentiment": "negative", "topics": {"0": "0.01022575", "1": "0.60297406", "2": "0.10880499", "3": "0.20063147", "4": "0.056916915", "5": "0.010239705", "6": "0.010207116"}}

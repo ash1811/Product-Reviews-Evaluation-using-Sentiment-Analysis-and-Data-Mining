@@ -1,0 +1,1 @@
+{"text": "It was really thin material.  I like to wash all items before i wear them and threw it in the wash and dryer.  It came out with threads loose on the edges and started unraveling.", "sentiment": "negative", "topics": {"1": "0.16147327", "2": "0.086969554", "5": "0.4391666", "6": "0.28712112"}}

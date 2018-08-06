@@ -1,0 +1,1 @@
+{"text": "Use these when going into clients homes and they work great. They keep the shoes covered and the floors clean which clients love.", "sentiment": "negative", "topics": {"0": "0.010227802", "1": "0.20494035", "2": "0.09724902", "3": "0.01025525", "4": "0.6568866", "5": "0.010226748", "6": "0.010214269"}}

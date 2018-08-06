@@ -1,0 +1,1 @@
+{"text": "Got this for my wife the nurse, couldn't be happier...Priced right we've had them before, bet this lasts over 5 years..", "sentiment": "negative", "topics": {"0": "0.0119800465", "1": "0.01194168", "2": "0.20634143", "3": "0.2558433", "4": "0.011954936", "5": "0.48998114", "6": "0.011957471"}}

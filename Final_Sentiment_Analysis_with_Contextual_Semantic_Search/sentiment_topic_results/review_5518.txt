@@ -1,0 +1,1 @@
+{"text": "Fits well, looks good, washes well, keeps its shape.  Bought one in each color.  Would recommend these shirts to anyone looking for comfort.", "sentiment": "negative", "topics": {"1": "0.73358697", "5": "0.2265527"}}

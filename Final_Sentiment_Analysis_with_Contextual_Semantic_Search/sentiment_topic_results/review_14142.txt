@@ -1,0 +1,1 @@
+{"text": "I love this watch. Beautiful in the picture and beautiful when wearing. Having some trouble with the clasp though. Want to buy more of this brand.", "sentiment": "negative", "topics": {"0": "0.011023605", "1": "0.24860638", "2": "0.12151705", "3": "0.14665398", "4": "0.32905605", "5": "0.13214657", "6": "0.010996406"}}

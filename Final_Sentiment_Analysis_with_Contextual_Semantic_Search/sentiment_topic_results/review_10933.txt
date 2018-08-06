@@ -1,0 +1,1 @@
+{"text": "I needed this for a wedding where I wore a backless dress. I was hoping it would hold up the girls, as well as provide coverage. It provided coverage but my breasts did not look perky. Maybe I was doing it wrong but not exactly what I was hoping for.", "sentiment": "negative", "topics": {"0": "0.09069355", "2": "0.1665289", "3": "0.42992684", "6": "0.29411176"}}

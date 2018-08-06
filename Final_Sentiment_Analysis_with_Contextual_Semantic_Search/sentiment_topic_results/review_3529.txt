@@ -1,0 +1,1 @@
+{"text": "it was fine the only thing is that are like weak  I mean the material is not as expected, but it is ok", "sentiment": "negative", "topics": {"0": "0.015902262", "1": "0.3512681", "2": "0.34611577", "3": "0.015889484", "4": "0.015890166", "5": "0.01588828", "6": "0.23904589"}}

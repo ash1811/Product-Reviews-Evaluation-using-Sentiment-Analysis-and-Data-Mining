@@ -1,0 +1,1 @@
+{"text": "I fall between medium and large in shirts usually. I got this in medium, and it was very big on me. Love the nice heavy fabric, so ai kept it but am ordering a small also.", "sentiment": "negative", "topics": {"1": "0.5630449", "4": "0.085916646", "5": "0.24340975", "6": "0.085030325"}}

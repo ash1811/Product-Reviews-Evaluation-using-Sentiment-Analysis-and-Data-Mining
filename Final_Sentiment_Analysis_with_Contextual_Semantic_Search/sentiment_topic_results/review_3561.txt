@@ -1,0 +1,1 @@
+{"text": "too wide around so the straps fall off. other brands don't do that. odd.sizing i think. not the sender's fault nor the maker. just needs a wider rib cage person LOL", "sentiment": "negative", "topics": {"1": "0.36047497", "2": "0.09151567", "3": "0.16482055", "4": "0.15048172", "6": "0.21754165"}}

@@ -1,0 +1,1 @@
+{"text": "These were not as sheer as I had hoped but did not look bad on me.  The back seam adds were very sexy and the lace tops looked good.  I think I will look for other stockings in the future but at the price this was not a bad buy.", "sentiment": "positive", "topics": {"1": "0.5431776", "3": "0.15727557", "4": "0.27227488"}}

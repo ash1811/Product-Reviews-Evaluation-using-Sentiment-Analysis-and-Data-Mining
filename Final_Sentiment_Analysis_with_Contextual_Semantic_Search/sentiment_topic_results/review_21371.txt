@@ -1,0 +1,1 @@
+{"text": "Great product. Bough it for my wife after reading several reviews. She is using it everyday and is very satisfied by it.", "sentiment": "positive", "topics": {"0": "0.26173496", "1": "0.32086685", "2": "0.01192772", "3": "0.011925318", "4": "0.112650216", "5": "0.15908958", "6": "0.1218054"}}

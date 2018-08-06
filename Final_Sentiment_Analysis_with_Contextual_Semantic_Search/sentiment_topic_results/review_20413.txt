@@ -1,0 +1,1 @@
+{"text": "Busy schedule and no time to get to the store. I grew up wearing a watch so mine not working was driving me  NUTS. My favorite watch? By far. Its a watch. It tells time. I wish I noticed it is not waterproof.", "sentiment": "negative", "topics": {"0": "0.2831514", "1": "0.25070742", "2": "0.29215842", "4": "0.10945456", "5": "0.051454898"}}

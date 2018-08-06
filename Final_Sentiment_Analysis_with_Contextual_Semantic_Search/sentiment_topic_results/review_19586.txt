@@ -1,0 +1,1 @@
+{"text": "Liked this bra, fits good, just a little itchy in some areas on the straps, band and arm pit area. That might go away after a couple uses and washing though.", "sentiment": "negative", "topics": {"1": "0.5039298", "2": "0.1617685", "3": "0.09298678", "4": "0.21983823"}}

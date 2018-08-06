@@ -1,0 +1,1 @@
+{"text": "I have to say that I like the Seiko Orange Monster and The Black Monster, but this watch has a more classic look of a diver watch. and it is the 007, where is my GPS, got to find that Casino Royale...", "sentiment": "negative", "topics": {"1": "0.09777409", "2": "0.3251794", "3": "0.18684886", "4": "0.14606991", "6": "0.22906506"}}

@@ -1,0 +1,1 @@
+{"text": "I have Bostonians that are 30 years old but these shoes are not half the quality of my older pairs.", "sentiment": "negative", "topics": {"0": "0.014359079", "1": "0.38410622", "2": "0.19984402", "3": "0.17342773", "4": "0.19960186", "5": "0.014367526", "6": "0.014293599"}}

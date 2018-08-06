@@ -1,0 +1,1 @@
+{"text": "It works great to remove the pins for watch bands.  The packaging was pretty basic and the pins are in a couple of little baggies, but it serves the purpose well.", "sentiment": "negative", "topics": {"1": "0.38623315", "2": "0.24580342", "3": "0.09272996", "4": "0.17869204", "6": "0.07968263"}}

@@ -1,0 +1,1 @@
+{"text": "This is my ideal in an elegant watch--gold (tone) case, uncluttered white face, black Roman numerals. I have a small wrist and it fits perfectly. Yes, the date window is a bit small, but I've found that I rarely need to check the date.", "sentiment": "positive", "topics": {"0": "0.107613795", "1": "0.26426342", "3": "0.28316668", "5": "0.1849213", "6": "0.14942177"}}

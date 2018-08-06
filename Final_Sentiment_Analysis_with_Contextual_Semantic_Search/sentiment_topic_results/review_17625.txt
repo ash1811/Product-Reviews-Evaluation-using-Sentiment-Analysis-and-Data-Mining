@@ -1,0 +1,1 @@
+{"text": "It is a very cheap watch that fits its purpose very well. It shows the time with precision. Discreet and durable. You can bath with it.", "sentiment": "negative", "topics": {"0": "0.011033028", "1": "0.3042587", "2": "0.39216852", "3": "0.101526864", "4": "0.010999445", "5": "0.01101449", "6": "0.16899894"}}

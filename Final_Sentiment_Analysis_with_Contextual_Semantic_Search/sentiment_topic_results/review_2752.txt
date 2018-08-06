@@ -1,0 +1,1 @@
+{"text": "Always a great shoe.  I have wide feet so I was glad to see they have the extra wide width, they fit great.", "sentiment": "positive", "topics": {"0": "0.011008499", "1": "0.37270415", "2": "0.16536155", "3": "0.011023938", "4": "0.19804052", "5": "0.23086935", "6": "0.010991976"}}

@@ -1,0 +1,1 @@
+{"text": "These are easy on and off at the airport and comfortable to wear while traveling.  I like the slight lift in the heel and they don't totally scream tennis shoe!", "sentiment": "positive", "topics": {"0": "0.20418678", "1": "0.25312656", "2": "0.33593157", "3": "0.010252921", "4": "0.010259021", "5": "0.036108643", "6": "0.15013456"}}

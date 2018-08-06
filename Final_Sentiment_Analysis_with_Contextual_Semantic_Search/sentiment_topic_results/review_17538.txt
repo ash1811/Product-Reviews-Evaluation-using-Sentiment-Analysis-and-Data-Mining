@@ -1,0 +1,1 @@
+{"text": "Casio is very popular brand. And i know that dad would love this watch. When i gave it to him i can see that he really like it. Thank you so much Amazon.", "sentiment": "negative", "topics": {"2": "0.21091793", "3": "0.22945133", "4": "0.21492049", "5": "0.2011526", "6": "0.12666386"}}

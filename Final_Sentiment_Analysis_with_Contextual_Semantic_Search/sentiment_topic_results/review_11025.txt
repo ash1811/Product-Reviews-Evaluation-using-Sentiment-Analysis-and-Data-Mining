@@ -1,0 +1,1 @@
+{"text": "This is the 2nd pair I bought my sister. She is in a nursing homeand wears these all the time.They are very well made, and super comfortable.Very pretty popcorn color.", "sentiment": "positive", "topics": {"0": "0.12918848", "1": "0.41142038", "2": "0.08483556", "3": "0.11395347", "4": "0.18489315", "6": "0.06675465"}}

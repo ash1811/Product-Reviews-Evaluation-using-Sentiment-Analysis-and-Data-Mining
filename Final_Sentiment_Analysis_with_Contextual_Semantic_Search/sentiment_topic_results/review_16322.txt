@@ -1,0 +1,1 @@
+{"text": "Reef charges a little more for a product that is not superior to cheaper alternatives. They are good sand walkers and feel pretty good. I am purely dropping stars for price, after finding comparable Sandals for considerably less.", "sentiment": "negative", "topics": {"0": "0.12683938", "1": "0.41890544", "3": "0.06382068", "5": "0.1860716", "6": "0.19187689"}}

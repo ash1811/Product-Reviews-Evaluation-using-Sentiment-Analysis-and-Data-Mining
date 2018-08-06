@@ -1,0 +1,1 @@
+{"text": "Awesome love these shoes. first time buying them. fit great. looks great. feels great. like other reviewers said you should probably buy a size smaller than what you normally wear, they fit big if you don't.", "sentiment": "positive", "topics": {"1": "0.5244602", "2": "0.11288265", "3": "0.25847942", "6": "0.08762566"}}

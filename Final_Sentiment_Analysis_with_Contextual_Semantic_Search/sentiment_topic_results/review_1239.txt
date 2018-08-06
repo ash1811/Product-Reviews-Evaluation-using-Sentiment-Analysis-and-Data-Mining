@@ -1,0 +1,1 @@
+{"text": "the sandals in general fit fine. but hurts my feet after 5 mins other then that its ok no worries", "sentiment": "negative", "topics": {"0": "0.013008896", "1": "0.4993722", "2": "0.11222157", "3": "0.013027416", "4": "0.11989825", "5": "0.0130014215", "6": "0.22947025"}}

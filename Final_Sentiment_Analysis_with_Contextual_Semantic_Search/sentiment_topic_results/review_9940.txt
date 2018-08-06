@@ -1,0 +1,1 @@
+{"text": "My son (9) loves this.  Once adjusted to his wrist size, he can easily slip it on/off without opening the velcro again.  It's easy to use and easy to see the numbers.", "sentiment": "negative", "topics": {"0": "0.15480807", "2": "0.16987075", "4": "0.20872775", "5": "0.15808652", "6": "0.29415843"}}

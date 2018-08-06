@@ -1,0 +1,1 @@
+{"text": "The socks were great but the sizing was difficult.  I thought I ordered my size but they were so big I gave them to my husband.", "sentiment": "positive", "topics": {"0": "0.013022583", "1": "0.35113648", "2": "0.013007001", "3": "0.013043258", "4": "0.16111533", "5": "0.15750189", "6": "0.29117346"}}

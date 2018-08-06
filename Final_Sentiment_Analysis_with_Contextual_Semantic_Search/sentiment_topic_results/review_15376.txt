@@ -1,0 +1,1 @@
+{"text": "I love those sunglasses. They look very elegant and are not to big.The shape of the glasses is nice.I would definitely buy them again.", "sentiment": "negative", "topics": {"0": "0.011030292", "1": "0.34002241", "2": "0.091616444", "3": "0.22756904", "4": "0.14433725", "5": "0.011020305", "6": "0.17440422"}}

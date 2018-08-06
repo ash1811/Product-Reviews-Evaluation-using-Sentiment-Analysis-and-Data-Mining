@@ -1,0 +1,1 @@
+{"text": "I like the features because it has everything kidsneed for school.  Yet, not too heavy or big, but wellmade and functional.  My grandson loves the &#34;camo&#34;", "sentiment": "negative", "topics": {"0": "0.1855148", "1": "0.17346506", "2": "0.16658114", "3": "0.010214218", "4": "0.25853857", "5": "0.010231604", "6": "0.19545458"}}

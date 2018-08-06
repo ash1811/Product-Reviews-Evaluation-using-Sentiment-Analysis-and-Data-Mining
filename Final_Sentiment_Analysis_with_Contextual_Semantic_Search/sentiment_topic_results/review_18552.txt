@@ -1,0 +1,1 @@
+{"text": "I was a little shocked when I opened it & saw it was so small.  But! I was amazed as I started putting full sized products in it & it held everything.  Really like the handle on the top, it is perfect!!", "sentiment": "negative", "topics": {"0": "0.24035306", "1": "0.15431942", "2": "0.21118845", "3": "0.10147693", "5": "0.27833673"}}

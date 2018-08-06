@@ -1,0 +1,1 @@
+{"text": "i bought it as a present and the watch is pretty cute but he bracelet is very small, my mom  has very small wrists and it was still too tight. it's like child size.", "sentiment": "negative", "topics": {"0": "0.18627322", "1": "0.15610787", "2": "0.15635836", "3": "0.38528293", "5": "0.098081455"}}

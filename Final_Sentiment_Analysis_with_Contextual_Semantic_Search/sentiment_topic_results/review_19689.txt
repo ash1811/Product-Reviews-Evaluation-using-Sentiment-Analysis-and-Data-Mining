@@ -1,0 +1,1 @@
+{"text": "This bra is odd for a modern day bra. The cup is pointed, which makes it too big! If it wasn't so pointed, it would fit perfectly.", "sentiment": "negative", "topics": {"0": "0.104417644", "1": "0.37914973", "2": "0.010208377", "3": "0.47552937", "4": "0.010223619", "5": "0.010246864", "6": "0.010224394"}}

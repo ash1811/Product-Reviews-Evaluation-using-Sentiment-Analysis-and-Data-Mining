@@ -1,0 +1,1 @@
+{"text": "The picture shows this sock as above the ankle, but on me, it sits right no top of my ankle.  It's annoying but tolerable.", "sentiment": "negative", "topics": {"0": "0.114548564", "1": "0.011935078", "2": "0.114885606", "3": "0.6193496", "4": "0.011938243", "5": "0.012095115", "6": "0.11524779"}}

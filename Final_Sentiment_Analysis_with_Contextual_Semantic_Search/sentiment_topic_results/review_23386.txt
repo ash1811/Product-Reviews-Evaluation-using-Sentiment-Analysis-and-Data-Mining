@@ -1,0 +1,1 @@
+{"text": "These are pretty much the only socks I wear all winter long. They are very thick and warm and durable. They are almost like slippers. They are the gold circle coin of socks; Nothin' is gettin' through these suckers! ;)", "sentiment": "negative", "topics": {"1": "0.2737682", "2": "0.17579779", "3": "0.13462785", "5": "0.25714928", "6": "0.1443533"}}

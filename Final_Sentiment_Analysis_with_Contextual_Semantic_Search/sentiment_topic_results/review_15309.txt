@@ -1,0 +1,1 @@
+{"text": "I'm wearing these right now with the top to match.  They are very comfortable, true to size, wash up great, and do not shrink!", "sentiment": "positive", "topics": {"0": "0.011921442", "1": "0.56916475", "2": "0.011910598", "3": "0.37122378", "4": "0.011915603", "5": "0.0119399885", "6": "0.011923811"}}

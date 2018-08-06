@@ -1,0 +1,1 @@
+{"text": "My granddaughter love them, she was very pleased. She loves hello kitty stuff. She is 12 years old wasn't sure she would like them.", "sentiment": "negative", "topics": {"2": "0.10961761", "3": "0.6387421", "5": "0.1196725", "6": "0.10505344"}}

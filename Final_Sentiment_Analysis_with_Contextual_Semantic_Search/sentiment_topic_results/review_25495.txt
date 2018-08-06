@@ -1,0 +1,1 @@
+{"text": "I bought these for my Husband after he saw my pair arrival. He was so jealous, he kept saying I wish I had a pair of Teva Mush Flip Flops like my wife. So now he does! and they are so comfortable", "sentiment": "negative", "topics": {"0": "0.074058354", "1": "0.45242324", "2": "0.13371645", "4": "0.16556817", "5": "0.15915816"}}

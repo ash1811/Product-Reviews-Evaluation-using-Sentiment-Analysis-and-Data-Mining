@@ -1,0 +1,1 @@
+{"text": "Good shirt, perfect size, just as the picture shows. The material is a little thin, but very pleasent in summer.", "sentiment": "positive", "topics": {"0": "0.011934858", "1": "0.5254958", "2": "0.11931344", "3": "0.30746976", "4": "0.011920693", "5": "0.011927032", "6": "0.011938382"}}

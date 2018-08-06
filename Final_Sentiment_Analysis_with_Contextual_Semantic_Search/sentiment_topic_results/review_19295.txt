@@ -1,0 +1,1 @@
+{"text": "The watch is very small but thick. It is very nice and the wife wears it regularly to work with no issues.", "sentiment": "negative", "topics": {"0": "0.014322895", "1": "0.6126663", "2": "0.13825671", "3": "0.014326217", "4": "0.014309238", "5": "0.1918075", "6": "0.014311103"}}

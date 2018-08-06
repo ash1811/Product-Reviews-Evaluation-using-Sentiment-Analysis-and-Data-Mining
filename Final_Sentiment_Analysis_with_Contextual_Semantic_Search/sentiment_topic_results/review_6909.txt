@@ -1,0 +1,1 @@
+{"text": "the only thing I didn't like is that these suckers are BLUE.  I would love to have a little worn look, or something, but they are really dark dark blue.  High quality though.  they'll last forever, I have a feeling.", "sentiment": "negative", "topics": {"0": "0.13105658", "1": "0.46248454", "2": "0.084774755", "4": "0.1969975", "6": "0.111653306"}}

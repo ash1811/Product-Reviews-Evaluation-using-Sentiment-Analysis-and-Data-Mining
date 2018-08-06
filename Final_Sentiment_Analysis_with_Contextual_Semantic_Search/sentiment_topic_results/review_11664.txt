@@ -1,0 +1,1 @@
+{"text": "This is a great starter biker jacket.  I am a new rider and didn't want to invest in an expensive jacket yet.  This is great for the money.  It has a cheap look, but I was not looking for top-of-the-line yet.  Perfect for the money.", "sentiment": "negative", "topics": {"1": "0.20249717", "2": "0.15681659", "3": "0.16533199", "4": "0.06840496", "5": "0.3933199"}}

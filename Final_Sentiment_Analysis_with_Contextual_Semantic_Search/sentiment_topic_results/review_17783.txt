@@ -1,0 +1,1 @@
+{"text": "I had this watch when I was a Kid, the only downside is that the quality of the belt is not the same as it was years ago, keep the quality Casio, you have there a great and classic watch!", "sentiment": "negative", "topics": {"0": "0.010217985", "1": "0.31280872", "2": "0.3087872", "3": "0.0102652535", "4": "0.0102127865", "5": "0.11264546", "6": "0.23506258"}}

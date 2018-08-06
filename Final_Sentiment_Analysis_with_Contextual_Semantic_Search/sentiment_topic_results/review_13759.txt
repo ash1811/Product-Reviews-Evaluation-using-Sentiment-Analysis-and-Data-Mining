@@ -1,0 +1,1 @@
+{"text": "I have never had such a comfy pair of flip flops before. the string does not hurt at all and the flip flops are soft so they totally do not hurt my feet. I love them! will probably get one more pair of them in another color in the future!", "sentiment": "positive", "topics": {"1": "0.29021892", "2": "0.29937872", "4": "0.2613022", "6": "0.13120052"}}

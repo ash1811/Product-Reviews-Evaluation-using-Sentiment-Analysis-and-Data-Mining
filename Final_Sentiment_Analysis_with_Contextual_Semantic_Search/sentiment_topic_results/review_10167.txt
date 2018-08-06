@@ -1,0 +1,1 @@
+{"text": "and changes color like a kaleidoscope. i wish i had bought these for all my sisters. I purchased 6 earrings in different colors. The clear crystals were by far the best crystals... i like it!", "sentiment": "negative", "topics": {"0": "0.16782105", "1": "0.60152346", "2": "0.20198868"}}

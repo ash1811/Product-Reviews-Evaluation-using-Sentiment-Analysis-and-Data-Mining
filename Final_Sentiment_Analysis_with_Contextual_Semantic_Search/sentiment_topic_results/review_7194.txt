@@ -1,0 +1,1 @@
+{"text": "I ordered these for my husband. He is very critical about shoes, so I was concerned. They fit perfectly, he likes the ankle support, he required no break-in period, he likes the zipper for easy removal.", "sentiment": "positive", "topics": {"0": "0.08355082", "1": "0.31731203", "2": "0.3219323", "4": "0.2532879"}}

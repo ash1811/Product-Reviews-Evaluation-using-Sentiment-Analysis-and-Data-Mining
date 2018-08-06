@@ -1,0 +1,1 @@
+{"text": "I pretty much only wear Lucky Brand Jeans, and I'm always ecstatic when Amazon has one of their Daily Deals on them. These jeans are a super dark wash and very stretchy. They're comfortable and fit as expected.", "sentiment": "negative", "topics": {"0": "0.12116468", "1": "0.46393135", "3": "0.23694776", "4": "0.16003413"}}

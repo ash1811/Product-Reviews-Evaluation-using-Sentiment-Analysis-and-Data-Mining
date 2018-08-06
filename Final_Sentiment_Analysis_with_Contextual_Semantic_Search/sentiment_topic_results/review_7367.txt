@@ -1,0 +1,1 @@
+{"text": "They do run Long though. I wear size 32 in length and Ihad to have then himded up in order to fit", "sentiment": "negative", "topics": {"0": "0.12435404", "1": "0.26505905", "2": "0.011907585", "3": "0.42523816", "4": "0.011952626", "5": "0.011935805", "6": "0.14955275"}}

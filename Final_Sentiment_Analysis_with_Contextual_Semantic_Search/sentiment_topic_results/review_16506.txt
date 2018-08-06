@@ -1,0 +1,1 @@
+{"text": "I gave this to my 16 year old daughter, and she loved it!  I loved it too.  It's made well.  The chain is not flemsy.  The heart locket is precious in an elegant way.  Money well spent.", "sentiment": "negative", "topics": {"0": "0.1974042", "1": "0.255044", "3": "0.11386254", "4": "0.2240497", "6": "0.1965951"}}

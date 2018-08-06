@@ -1,0 +1,1 @@
+{"text": "I've had this watch for over 2 years and I am very pleased with it. The dial is easy to read, the hands glow in the dark for a good while and it keeps great time.", "sentiment": "positive", "topics": {"0": "0.32303178", "2": "0.0791214", "3": "0.48787904", "6": "0.084642895"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my son.  He wears them all the time due to his job is outside.  Very comfortable and does not slip.", "sentiment": "positive", "topics": {"0": "0.16952404", "1": "0.49076977", "2": "0.0142888855", "3": "0.014311229", "4": "0.014296083", "5": "0.28252345", "6": "0.014286481"}}

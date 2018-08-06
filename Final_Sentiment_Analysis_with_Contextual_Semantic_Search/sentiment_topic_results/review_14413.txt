@@ -1,0 +1,1 @@
+{"text": "Saludos amigos, Aun no me a llego en producto, en lo que lo tenga en mis manos los califico correctamente.", "sentiment": "positive", "topics": {"0": "0.058698364", "1": "0.11914705", "2": "0.12088081", "5": "0.67746216"}}

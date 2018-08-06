@@ -1,0 +1,1 @@
+{"text": "The shorts have held up wash after wash. The fabrice is a good weight and they are a plenty long, would buy again", "sentiment": "negative", "topics": {"0": "0.11198685", "1": "0.7169875", "2": "0.01191596", "3": "0.011921239", "4": "0.12331691", "5": "0.011960824", "6": "0.011910745"}}

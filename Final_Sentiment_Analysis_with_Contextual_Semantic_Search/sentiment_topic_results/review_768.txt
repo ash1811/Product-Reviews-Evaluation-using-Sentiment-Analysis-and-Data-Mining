@@ -1,0 +1,1 @@
+{"text": "Didn't like the fit.  They were way too long.  I buy all of my clothes in talls and they fit fine.  This pant was under my feet,  and with the flare and slit legs there was no way to keep them above my shoe.  I returned them.", "sentiment": "negative", "topics": {"1": "0.2963809", "2": "0.4833127", "4": "0.19063334"}}

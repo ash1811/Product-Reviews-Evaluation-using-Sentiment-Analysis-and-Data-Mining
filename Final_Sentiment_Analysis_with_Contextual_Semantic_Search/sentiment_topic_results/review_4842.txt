@@ -1,0 +1,1 @@
+{"text": "These fit well and even stayed in great condition after wearing and washing - definitely keepers! Great price too. Thank you!", "sentiment": "negative", "topics": {"1": "0.42570564", "2": "0.31575117", "3": "0.22271478"}}

@@ -1,0 +1,1 @@
+{"text": "I Simply love it I think I'm to get two more.  I have  told several people about it.  Ladies this is a must-have item.", "sentiment": "negative", "topics": {"0": "0.2155449", "1": "0.3556418", "4": "0.1835816", "6": "0.21652684"}}

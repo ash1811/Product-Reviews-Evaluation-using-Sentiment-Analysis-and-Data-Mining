@@ -1,0 +1,1 @@
+{"text": "I wanted some quality socks and these are, but they feel rough, too rough. I LOVE the Wigwam Cool-Lite Mid socks (see my review), but these are not something I'd recommend.", "sentiment": "positive", "topics": {"0": "0.10006303", "1": "0.22303015", "2": "0.27641967", "4": "0.15828623", "5": "0.14660662", "6": "0.08762869"}}

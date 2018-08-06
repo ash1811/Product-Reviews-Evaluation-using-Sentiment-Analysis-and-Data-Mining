@@ -1,0 +1,1 @@
+{"text": "It was a gift for a friend and she really liked it, it comes in a fancy little box and she says is great since she can wear it with different types of clothes. Price was very good as well as shipping and delivery.", "sentiment": "positive", "topics": {"0": "0.15393375", "1": "0.5780234", "5": "0.098660685", "6": "0.14983672"}}

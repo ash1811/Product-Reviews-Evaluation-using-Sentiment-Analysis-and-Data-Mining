@@ -1,0 +1,1 @@
+{"text": "got it for my lil sis  last saptember and she loves it , its holding up very well thus far , jansport has always been know for quality products and so far im not dissapointed !", "sentiment": "negative", "topics": {"0": "0.10346525", "1": "0.102587186", "2": "0.28251603", "3": "0.17735584", "4": "0.21543638", "5": "0.111089766"}}

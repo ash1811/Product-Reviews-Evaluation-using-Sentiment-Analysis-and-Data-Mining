@@ -1,0 +1,1 @@
+{"text": "When the package arrived and my husband opened it. His comment to me was that you cannot buy This product at Walmart for this price. SO FOR ME THAT'S JUST GREAT!", "sentiment": "negative", "topics": {"0": "0.3379025", "1": "0.13839564", "2": "0.010224581", "3": "0.27443725", "4": "0.09279283", "5": "0.13603438", "6": "0.01021284"}}

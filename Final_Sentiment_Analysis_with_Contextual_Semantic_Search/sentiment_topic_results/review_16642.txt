@@ -1,0 +1,1 @@
+{"text": "Great features and rugged. Use it 90% of time. Bought for hiking and outdoor activities. Love it. No need for batteries. Sun charges it.", "sentiment": "positive", "topics": {"0": "0.32463026", "3": "0.09836303", "4": "0.33443034", "5": "0.09889281", "6": "0.1277718"}}

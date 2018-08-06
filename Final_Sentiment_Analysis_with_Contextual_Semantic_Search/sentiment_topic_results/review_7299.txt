@@ -1,0 +1,1 @@
+{"text": "For workwear Riggs offers some decent colours. Love the Loden as well. The fit is true and the roominess is appreciated. The owner is a happy camper and is looking to purchase more in the future", "sentiment": "negative", "topics": {"0": "0.30024415", "1": "0.26032007", "2": "0.051249314", "3": "0.17203824", "4": "0.20108315"}}

@@ -1,0 +1,1 @@
+{"text": "The title says it all.I just wish I could find all the colors they come in.Please Amazon, tell your vendors!", "sentiment": "negative", "topics": {"0": "0.09084597", "1": "0.31778863", "2": "0.15302089", "3": "0.011024082", "4": "0.336954", "5": "0.0110038435", "6": "0.0793626"}}

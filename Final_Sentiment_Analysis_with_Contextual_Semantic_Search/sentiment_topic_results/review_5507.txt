@@ -1,0 +1,1 @@
+{"text": "I use these for sleeping in and also lounging around the house. The price is good and these wash and dry nice. I love my shirts.", "sentiment": "positive", "topics": {"0": "0.010223766", "1": "0.26082298", "2": "0.010215017", "3": "0.27093443", "4": "0.427298", "5": "0.010264591", "6": "0.010241233"}}

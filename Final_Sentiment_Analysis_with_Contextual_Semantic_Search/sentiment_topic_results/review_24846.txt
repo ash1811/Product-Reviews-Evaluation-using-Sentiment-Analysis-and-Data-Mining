@@ -1,0 +1,1 @@
+{"text": "I have narrow feet.  The length was okay, but too wide for my foot.  Oh well, I guess I will wear them as house thongs.", "sentiment": "negative", "topics": {"0": "0.011029442", "1": "0.30704218", "2": "0.01100437", "3": "0.36254117", "4": "0.2863003", "5": "0.011038184", "6": "0.011044353"}}

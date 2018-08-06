@@ -1,0 +1,1 @@
+{"text": "Love the jeans.  The brown has hues of green.  Will match with blues and greens on top of browns.  Great jeans.", "sentiment": "negative", "topics": {"0": "0.011024082", "1": "0.30555964", "2": "0.16915035", "3": "0.18144472", "4": "0.18854454", "5": "0.13328427", "6": "0.010992369"}}

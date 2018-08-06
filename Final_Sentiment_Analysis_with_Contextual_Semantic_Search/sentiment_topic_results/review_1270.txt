@@ -1,0 +1,1 @@
+{"text": "These shrank something fierce after a couple of washes in warm/hot water. The legs just became too tight to wear.", "sentiment": "negative", "topics": {"0": "0.11515832", "1": "0.36258793", "2": "0.21925366", "3": "0.09685255", "4": "0.011914246", "5": "0.18230881", "6": "0.01192446"}}

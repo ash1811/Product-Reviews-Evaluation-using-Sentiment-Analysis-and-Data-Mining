@@ -1,0 +1,1 @@
+{"text": "this jeans is perfect I love the material and the cut of this pants I bought it a size to small so make sure and check the sizing chart before purchasing it was a rookie mistake on my part I was new to buying online", "sentiment": "positive", "topics": {"1": "0.18494128", "2": "0.059058942", "3": "0.3070613", "5": "0.3307707", "6": "0.10513365"}}

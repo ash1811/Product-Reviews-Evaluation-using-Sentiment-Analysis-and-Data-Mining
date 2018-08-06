@@ -1,0 +1,1 @@
+{"text": "These were not very good quality and I returned them.  In the picture they appear to catch the light and have life, but they were flat.", "sentiment": "negative", "topics": {"0": "0.14567971", "1": "0.53435004", "2": "0.013039928", "3": "0.1484279", "4": "0.13249199", "5": "0.013010986", "6": "0.0129994"}}

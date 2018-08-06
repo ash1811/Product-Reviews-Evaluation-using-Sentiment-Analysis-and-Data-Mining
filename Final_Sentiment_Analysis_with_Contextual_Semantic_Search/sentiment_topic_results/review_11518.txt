@@ -1,0 +1,1 @@
+{"text": "The quality if fabulous.  It fit perfect.  This is my third one.  I have it in black, off-white and now brown.  I highly recommend it.", "sentiment": "negative", "topics": {"0": "0.12215418", "1": "0.5543169", "2": "0.18686435", "3": "0.011046101", "4": "0.011010114", "5": "0.10361765", "6": "0.01099076"}}

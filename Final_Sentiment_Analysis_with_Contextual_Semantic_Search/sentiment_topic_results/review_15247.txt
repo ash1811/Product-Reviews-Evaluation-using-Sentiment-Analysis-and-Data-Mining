@@ -1,0 +1,1 @@
+{"text": "This was supposed to be my everyday watch, but i wear it when i go out. it is a just beautiful and the band does not pull my hair. it is a very good buy. This was the first time that i buy a Skagen product and I don't regret it.", "sentiment": "negative", "topics": {"0": "0.16538422", "1": "0.33454177", "2": "0.13328423", "4": "0.22010042", "5": "0.13238546"}}

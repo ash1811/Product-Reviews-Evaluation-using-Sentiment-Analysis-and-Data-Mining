@@ -1,0 +1,1 @@
+{"text": "fits well, covers a lot and is a great minimizer.  lifts UP a lot, if that is a look you want.", "sentiment": "positive", "topics": {"0": "0.20732182", "1": "0.6269779", "2": "0.013044997", "3": "0.013006735", "4": "0.013064828", "5": "0.013016814", "6": "0.11356685"}}

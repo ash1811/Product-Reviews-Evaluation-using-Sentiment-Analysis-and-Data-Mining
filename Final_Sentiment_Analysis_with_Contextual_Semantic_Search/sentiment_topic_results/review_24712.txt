@@ -1,0 +1,1 @@
+{"text": "They fit over my normal pants as expected. Wish they had pockets, but for this price they do exactly what I needed. Pack very small. I have worn them very little so I can't say how well they will last yet.", "sentiment": "negative", "topics": {"0": "0.24122135", "1": "0.5846271", "6": "0.14398076"}}

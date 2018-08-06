@@ -1,0 +1,1 @@
+{"text": "The short came slightly bigger than the measurement. Its good quality product as per expected. I would buy more in future!", "sentiment": "negative", "topics": {"0": "0.16185439", "1": "0.43026274", "2": "0.010225858", "3": "0.010235675", "4": "0.16125998", "5": "0.21591721", "6": "0.01024418"}}

@@ -1,0 +1,1 @@
+{"text": "On par with $20 pairs of sunglasses I've had. The lenses are decent and the overall style and quality is great. Requires slight fine tuning but a great buy, especially with all the color variations.", "sentiment": "positive", "topics": {"0": "0.2158226", "1": "0.41921094", "2": "0.1578018", "3": "0.13611026", "5": "0.058003712"}}

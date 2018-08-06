@@ -1,0 +1,1 @@
+{"text": "This are the perfect slipper. Great color too, they never look dirty and always look great!  Feels like I'm walking on clouds.", "sentiment": "positive", "topics": {"0": "0.29559353", "1": "0.45789337", "2": "0.10076841", "6": "0.12043999"}}

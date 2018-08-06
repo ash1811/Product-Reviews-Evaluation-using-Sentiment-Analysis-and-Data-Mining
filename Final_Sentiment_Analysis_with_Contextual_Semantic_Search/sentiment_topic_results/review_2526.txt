@@ -1,0 +1,1 @@
+{"text": "I ordered a pair of women's size 6 (m) US, they were painfully narrow, was very disappointed, had to return them.", "sentiment": "positive", "topics": {"0": "0.09307938", "1": "0.40542683", "2": "0.10847444", "3": "0.26771173", "4": "0.010997364", "5": "0.0110011585", "6": "0.103309065"}}

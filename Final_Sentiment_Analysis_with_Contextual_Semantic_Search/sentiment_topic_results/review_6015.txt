@@ -1,0 +1,1 @@
+{"text": "This is still my favorite scarf.  The color is perfect.  Very vibrant and makes my pictures look great. I love it.", "sentiment": "negative", "topics": {"0": "0.011022221", "1": "0.6013235", "2": "0.10113389", "3": "0.13563958", "4": "0.011026716", "5": "0.12886347", "6": "0.010990685"}}

@@ -1,0 +1,1 @@
+{"text": "I have to stretch and tug them a bit to get them on and, yet, they don't tear! These are excellent quality. I have worn them 2 times and had no issues. I highly recommend them!", "sentiment": "positive", "topics": {"0": "0.4472077", "1": "0.12783164", "2": "0.14266583", "5": "0.1925369", "6": "0.07289585"}}

@@ -1,0 +1,1 @@
+{"text": "these hose are great, easy access, comfy, feel great and very sexy even on us big girls give them a try ladys", "sentiment": "negative", "topics": {"0": "0.2675508", "1": "0.20594472", "2": "0.15841183", "4": "0.3411762"}}

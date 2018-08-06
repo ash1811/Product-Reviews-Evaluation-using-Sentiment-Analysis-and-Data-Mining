@@ -1,0 +1,1 @@
+{"text": "bought these for supportive shoes after our daughter had ankle surgery. Great fit, great price, seem to be holding up well!", "sentiment": "negative", "topics": {"0": "0.010247872", "1": "0.5924014", "2": "0.15159866", "3": "0.010268242", "4": "0.21502225", "5": "0.010252123", "6": "0.010209492"}}

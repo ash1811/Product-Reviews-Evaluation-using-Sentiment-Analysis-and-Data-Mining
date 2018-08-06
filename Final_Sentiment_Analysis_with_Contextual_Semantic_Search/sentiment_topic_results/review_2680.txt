@@ -1,0 +1,1 @@
+{"text": "The material is very stiff even after washing with fabric softeners.  The cut is also kind of weird.  Did not like these shorts.", "sentiment": "negative", "topics": {"0": "0.24140985", "1": "0.011064736", "2": "0.31056455", "3": "0.2055445", "4": "0.10408998", "5": "0.11630154", "6": "0.011024849"}}

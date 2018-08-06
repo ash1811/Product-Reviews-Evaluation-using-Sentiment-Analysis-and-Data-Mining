@@ -1,0 +1,1 @@
+{"text": "It is of a good quality and it really sparkles and dazzles. The price is great too for real sterling silver. Makes a great present.", "sentiment": "positive", "topics": {"0": "0.098291524", "1": "0.76012886", "2": "0.010209335", "3": "0.010297129", "4": "0.010227584", "5": "0.01022962", "6": "0.10061599"}}

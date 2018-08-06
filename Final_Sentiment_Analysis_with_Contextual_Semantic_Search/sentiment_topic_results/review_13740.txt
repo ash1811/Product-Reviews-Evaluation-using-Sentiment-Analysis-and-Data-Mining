@@ -1,0 +1,1 @@
+{"text": "These are, by far, the most comfortable and cool flip-flops I've owned. They last. They don't hurt. And they have a really cool look, too!", "sentiment": "positive", "topics": {"0": "0.010253752", "1": "0.12044748", "2": "0.1447417", "3": "0.24725112", "4": "0.0102383355", "5": "0.37368816", "6": "0.09337946"}}

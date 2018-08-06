@@ -1,0 +1,1 @@
+{"text": "I like these coveralls.  they are think and warm, but also pretty heavy.  They are great in extreme temperatures, but a bit too warm in less than sub-zero temps.", "sentiment": "negative", "topics": {"0": "0.09461878", "1": "0.49780217", "3": "0.1296506", "4": "0.08535873", "6": "0.17468576"}}

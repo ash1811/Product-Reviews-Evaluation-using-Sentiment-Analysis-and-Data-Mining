@@ -1,0 +1,1 @@
+{"text": "The only jeans I buy, and they always fit as expected.  Can't ask for more than that, can you? ok?", "sentiment": "negative", "topics": {"0": "0.0130720595", "1": "0.6693765", "2": "0.013034605", "3": "0.013079437", "4": "0.26530626", "5": "0.013133401", "6": "0.012997719"}}

@@ -1,0 +1,1 @@
+{"text": "Just what he wanted and fit as expected. Very nice shoe, with top quality and what you would expect from Sperry", "sentiment": "negative", "topics": {"0": "0.012999615", "1": "0.5492944", "2": "0.1439478", "3": "0.1771002", "4": "0.013005819", "5": "0.09065651", "6": "0.012995645"}}

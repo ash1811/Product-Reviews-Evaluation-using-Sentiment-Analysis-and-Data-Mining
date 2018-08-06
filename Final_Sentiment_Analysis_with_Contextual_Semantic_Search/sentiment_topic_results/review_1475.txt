@@ -1,0 +1,1 @@
+{"text": "could be a little larger as kids have many books to carry and for some reason don't like to use there locker an carry all there class books in back pack", "sentiment": "negative", "topics": {"0": "0.27040416", "1": "0.14297414", "4": "0.40019152", "5": "0.16114546"}}

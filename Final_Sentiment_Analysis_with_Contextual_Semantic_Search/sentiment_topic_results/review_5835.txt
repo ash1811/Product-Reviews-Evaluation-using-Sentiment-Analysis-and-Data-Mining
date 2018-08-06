@@ -1,0 +1,1 @@
+{"text": "very high neckline, could be nicer purple as well. American apparel has a much prettier lilac. is lightweight which I like", "sentiment": "negative", "topics": {"0": "0.20379132", "1": "0.33415374", "2": "0.20934302", "3": "0.010222136", "4": "0.010215631", "5": "0.124322936", "6": "0.10795122"}}

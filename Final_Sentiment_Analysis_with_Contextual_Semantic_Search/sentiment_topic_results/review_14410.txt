@@ -1,0 +1,1 @@
+{"text": "Great shoes for someone on there feet a lot.  Good price is under $80.  Nice leather uppers, nice sole and cushioned inside is good. Highly recommend.", "sentiment": "negative", "topics": {"1": "0.40044653", "2": "0.27607644", "3": "0.29326326"}}

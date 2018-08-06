@@ -1,0 +1,1 @@
+{"text": "Bought this for my son who is very particular about flannel shirts.  This one passed the tests of size, comfort, texture, and color.  Enough said!", "sentiment": "negative", "topics": {"1": "0.35637957", "3": "0.26524165", "5": "0.17238142", "6": "0.17726931"}}

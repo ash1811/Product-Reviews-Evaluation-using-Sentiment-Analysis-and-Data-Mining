@@ -1,0 +1,1 @@
+{"text": "These slippers are warm,comfortable, and secure. I have had them only a month but I think they will endure. The fit was what I expected.", "sentiment": "negative", "topics": {"0": "0.1531019", "1": "0.34971857", "2": "0.16351405", "3": "0.14361373", "4": "0.015898906", "5": "0.01590454", "6": "0.15824836"}}

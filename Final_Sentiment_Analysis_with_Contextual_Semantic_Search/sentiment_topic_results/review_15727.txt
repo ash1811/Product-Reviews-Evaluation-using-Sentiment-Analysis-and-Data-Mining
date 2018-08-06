@@ -1,0 +1,1 @@
+{"text": "very soft high quality material, Fit is good and the legs don't ride up hardly at all. Only complaint is the piling after a couple of washes.", "sentiment": "positive", "topics": {"1": "0.6420227", "2": "0.1295955", "6": "0.19022213"}}

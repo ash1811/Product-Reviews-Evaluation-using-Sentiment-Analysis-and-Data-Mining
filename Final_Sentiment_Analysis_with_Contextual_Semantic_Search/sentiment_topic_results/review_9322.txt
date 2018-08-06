@@ -1,0 +1,1 @@
+{"text": "The sizes run small and fit very tight. If you want to wear socks with them, then you need to orders at least 1 or more sizes larger then you wear.", "sentiment": "positive", "topics": {"0": "0.16774775", "1": "0.19767009", "3": "0.41135234", "5": "0.11574032", "6": "0.09062631"}}

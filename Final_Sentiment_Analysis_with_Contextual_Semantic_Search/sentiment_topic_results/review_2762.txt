@@ -1,0 +1,1 @@
+{"text": "The only problem I have with this is that I should have bought a medium instead of regular.  Good shoe.  Recommend it.", "sentiment": "negative", "topics": {"0": "0.014346394", "1": "0.3299169", "2": "0.26851055", "3": "0.3442964", "4": "0.014302554", "5": "0.014326865", "6": "0.014300342"}}

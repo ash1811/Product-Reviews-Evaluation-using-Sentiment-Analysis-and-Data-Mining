@@ -1,0 +1,1 @@
+{"text": "He used my account to buy this, I think he is liking his new sandals. It seems to me well fitting to my brother.", "sentiment": "positive", "topics": {"0": "0.132798", "1": "0.35214123", "2": "0.10525096", "3": "0.1651504", "4": "0.010996126", "5": "0.011008142", "6": "0.22265516"}}

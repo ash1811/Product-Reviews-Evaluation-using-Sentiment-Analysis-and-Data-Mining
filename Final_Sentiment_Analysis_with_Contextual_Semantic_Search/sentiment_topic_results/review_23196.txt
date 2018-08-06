@@ -1,0 +1,1 @@
+{"text": "No complaints. The quality seems fine and the color matches the photo. If you like to layer your clothing, this is a good choice. Delivery was speedier than some other third-party sellers can boast.", "sentiment": "positive", "topics": {"0": "0.08883243", "1": "0.57369643", "2": "0.16093354", "6": "0.15264142"}}

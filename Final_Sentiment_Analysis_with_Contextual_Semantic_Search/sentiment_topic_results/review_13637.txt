@@ -1,0 +1,1 @@
+{"text": "I wore a pair of these for years, had an unfortunate accident in which one was destroyed, then spent a year of futility as I tried other brands.  I was elated to find these on Amazon and snagged them up.", "sentiment": "negative", "topics": {"0": "0.064993486", "1": "0.15245843", "3": "0.3858015", "4": "0.29062355", "6": "0.090208694"}}

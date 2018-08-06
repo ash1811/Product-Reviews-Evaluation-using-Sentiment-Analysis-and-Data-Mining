@@ -1,0 +1,1 @@
+{"text": "Pretty good thermals but does not fit like a 2X should.  If you are looking to fit a larger person, these are not the thermals for you.", "sentiment": "positive", "topics": {"0": "0.0102344295", "1": "0.5081941", "2": "0.010222895", "3": "0.010262322", "4": "0.32976162", "5": "0.010226702", "6": "0.12109794"}}

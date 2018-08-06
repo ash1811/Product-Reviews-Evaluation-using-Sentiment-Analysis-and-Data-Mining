@@ -1,0 +1,1 @@
+{"text": "My husband loves this soft shirt for wearing under other shirts.  He seems to be very sensitive to &#34;itchy&#34; or rougher cotton shirts, but this one's a pleaser.", "sentiment": "positive", "topics": {"0": "0.39019534", "2": "0.14718986", "3": "0.26992783", "4": "0.16403322"}}

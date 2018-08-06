@@ -1,0 +1,1 @@
+{"text": "A good, standard weight, fits well and is comfortable.  I like them better than the last pair of Levis I bought.", "sentiment": "negative", "topics": {"0": "0.01102426", "1": "0.51329744", "2": "0.011009913", "3": "0.011019891", "4": "0.011038969", "5": "0.16992952", "6": "0.27268"}}

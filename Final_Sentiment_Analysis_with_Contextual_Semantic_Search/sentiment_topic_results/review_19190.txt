@@ -1,0 +1,1 @@
+{"text": "Very happy with this costume. Fit my 8 year old son a little big, but was fine, better than too small! I bought a robe separately, and it all went together very nicely.", "sentiment": "negative", "topics": {"0": "0.39439037", "1": "0.4509315", "2": "0.05549773", "6": "0.07657532"}}

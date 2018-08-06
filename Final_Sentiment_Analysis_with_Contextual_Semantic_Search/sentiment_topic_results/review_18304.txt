@@ -1,0 +1,1 @@
+{"text": "Is the 4 Casio watch I bought, is very cheap but great product, my dad love it, his job not let him use a luxury watch cuz can break it or scratch it, so this is perect price for a very good quality watch", "sentiment": "negative", "topics": {"0": "0.09284987", "1": "0.27976882", "2": "0.21580036", "3": "0.12990823", "5": "0.22223161", "6": "0.05370657"}}

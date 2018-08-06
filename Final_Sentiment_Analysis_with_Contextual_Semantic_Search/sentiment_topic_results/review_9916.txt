@@ -1,0 +1,1 @@
+{"text": "My husband has to have a watch for this work that is water resistant.  The last one I got him said it was, but got water under the crystal.  This one is a Timex, so I trust that it will do what it says.  He likes the canvas strap, too.", "sentiment": "negative", "topics": {"2": "0.6291255", "4": "0.20489496", "6": "0.13983911"}}

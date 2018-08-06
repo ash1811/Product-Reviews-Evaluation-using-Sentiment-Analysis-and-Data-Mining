@@ -1,0 +1,1 @@
+{"text": "I had it before, fit as it fit before, comfortable, easy to wash, pleasant to the body, size as expected.", "sentiment": "negative", "topics": {"0": "0.17366159", "1": "0.38857672", "2": "0.011956211", "3": "0.011936188", "4": "0.011919354", "5": "0.121096246", "6": "0.28085366"}}

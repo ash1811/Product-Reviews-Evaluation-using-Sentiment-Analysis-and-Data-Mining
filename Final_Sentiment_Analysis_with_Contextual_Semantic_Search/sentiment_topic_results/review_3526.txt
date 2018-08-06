@@ -1,0 +1,1 @@
+{"text": "I chose this rating because this bra was to large in the cup and it has no padding at all in it.you can see  through it.", "sentiment": "negative", "topics": {"0": "0.014335269", "1": "0.19088721", "2": "0.014312461", "3": "0.2781321", "4": "0.21258509", "5": "0.17046154", "6": "0.11928636"}}

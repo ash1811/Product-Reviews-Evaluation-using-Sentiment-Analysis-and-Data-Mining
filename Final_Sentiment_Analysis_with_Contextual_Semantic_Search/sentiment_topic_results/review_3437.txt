@@ -1,0 +1,1 @@
+{"text": "This is a very comfortable bra and the color is nice.  As I am losing weight, I did not want to spend too much on a bra and the girls slim down.", "sentiment": "positive", "topics": {"0": "0.010230363", "1": "0.31927115", "2": "0.2247249", "3": "0.28287324", "4": "0.14245863", "5": "0.010233269", "6": "0.010208416"}}

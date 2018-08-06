@@ -1,0 +1,1 @@
+{"text": "I bought this watch for my mom who wanted something with large numbers. The size of the watch was bigger than expected. Otherwise its an excellent product.", "sentiment": "positive", "topics": {"0": "0.09382928", "1": "0.154867", "2": "0.43043867", "3": "0.19364491", "5": "0.10809317"}}

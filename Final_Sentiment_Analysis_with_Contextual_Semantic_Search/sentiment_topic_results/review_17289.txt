@@ -1,0 +1,1 @@
+{"text": "Arrived on time and well packaged. Shoes fit and are comfortable/side zipper strong enough to last or at least we will find out. Looks great and Son has no complaints. Thanks for great service", "sentiment": "negative", "topics": {"0": "0.15341416", "1": "0.3406815", "2": "0.14357938", "5": "0.2796745", "6": "0.06961621"}}

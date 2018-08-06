@@ -1,0 +1,1 @@
+{"text": "Very comfortable, wearing well so far after one week no excessive scuffing, etc.  My 8 1/2 fits like it should.", "sentiment": "negative", "topics": {"1": "0.5392083", "3": "0.15332286", "5": "0.082652345", "6": "0.196139"}}

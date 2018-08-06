@@ -1,0 +1,1 @@
+{"text": "Fun fluffy girl stuff... my friend loved them too and wore them New Years eve2013  great way to start the year", "sentiment": "positive", "topics": {"0": "0.117073566", "1": "0.21340396", "3": "0.29817787", "5": "0.2186215", "6": "0.13359481"}}

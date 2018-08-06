@@ -1,0 +1,1 @@
+{"text": "I purchased this item to match my other emerald cut jewelry. I love this bracelet. No One has ever questioned whether or not it was real. Price Point exceptional.Thank you Amazon.", "sentiment": "negative", "topics": {"0": "0.09876255", "1": "0.29468992", "2": "0.19320865", "3": "0.21813633", "4": "0.12071657", "6": "0.066534586"}}

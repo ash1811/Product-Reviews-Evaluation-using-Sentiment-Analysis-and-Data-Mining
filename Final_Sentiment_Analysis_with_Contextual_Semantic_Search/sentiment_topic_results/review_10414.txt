@@ -1,0 +1,1 @@
+{"text": "I bought these for my granddaughter for christmas and she loves them.  Uggs are so warm and comfy.  She wears them with her jeans and looks so cute!", "sentiment": "positive", "topics": {"0": "0.20175879", "1": "0.102650136", "2": "0.011011792", "3": "0.65147346", "4": "0.011027952", "5": "0.011060191", "6": "0.01101767"}}

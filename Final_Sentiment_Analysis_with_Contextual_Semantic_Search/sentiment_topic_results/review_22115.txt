@@ -1,0 +1,1 @@
+{"text": "I didn't pay attention and I'm allergic. Otherwise, I really loved them. I haven't returned them. If they weren't wool, I'd rate them a five star.", "sentiment": "negative", "topics": {"2": "0.3446136", "3": "0.46694487", "5": "0.15255693"}}

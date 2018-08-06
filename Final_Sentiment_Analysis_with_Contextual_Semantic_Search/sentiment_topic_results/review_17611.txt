@@ -1,0 +1,1 @@
+{"text": "quite comfortable casual watch for everyday use easy to combine with a pretty supportive. received at a fairly fast since you make the purchase.", "sentiment": "negative", "topics": {"0": "0.08519047", "1": "0.32941258", "2": "0.1433616", "3": "0.21397944", "4": "0.12439844", "5": "0.09521833"}}

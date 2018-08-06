@@ -1,0 +1,1 @@
+{"text": "What I like the most of this jean is the color, its really nice and elegant adjust to any ocasi&oacute;n and fits well.", "sentiment": "negative", "topics": {"0": "0.0130410725", "1": "0.44146788", "2": "0.1412804", "3": "0.21557766", "4": "0.013013569", "5": "0.013126546", "6": "0.16249289"}}

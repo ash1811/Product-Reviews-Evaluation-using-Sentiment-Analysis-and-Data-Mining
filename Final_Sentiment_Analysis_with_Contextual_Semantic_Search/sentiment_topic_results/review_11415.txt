@@ -1,0 +1,1 @@
+{"text": "Bought for my cleaning lady and she likes very well.  I had to do something for her so she would not use her own smelly one.  A smoker.", "sentiment": "negative", "topics": {"0": "0.011925328", "1": "0.5200992", "2": "0.011958898", "3": "0.011940524", "4": "0.17860644", "5": "0.114047974", "6": "0.15142165"}}

@@ -1,0 +1,1 @@
+{"text": "the fabric is a little dry and not super soft. But it's stylish and comfortable. No complaints. A nice shirt that comes in perfect plus/tall sizes.", "sentiment": "positive", "topics": {"1": "0.5595647", "2": "0.11309043", "5": "0.072717495", "6": "0.22589104"}}

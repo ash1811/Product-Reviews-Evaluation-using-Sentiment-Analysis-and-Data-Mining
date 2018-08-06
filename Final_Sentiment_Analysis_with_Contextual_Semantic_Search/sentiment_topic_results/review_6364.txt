@@ -1,0 +1,1 @@
+{"text": "Good quality, good price.  excellent product, Fit perfect, the color is like the photo no surprise.  The size is equal that they show.  it's my first time using this brand, no regret.  EXCELLENt", "sentiment": "negative", "topics": {"0": "0.16615659", "1": "0.32354394", "2": "0.17614609", "3": "0.10346839", "4": "0.04582726", "5": "0.07858972", "6": "0.106267996"}}

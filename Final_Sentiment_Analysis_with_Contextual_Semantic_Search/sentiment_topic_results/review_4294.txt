@@ -1,0 +1,1 @@
+{"text": "Fit is somewhat weird. Just zipping the pants you get a feel for the lack of quality... they certainly feel cheaper than they were.", "sentiment": "negative", "topics": {"0": "0.010270446", "1": "0.44812983", "2": "0.103278965", "3": "0.10083984", "4": "0.010238511", "5": "0.010228533", "6": "0.31701386"}}

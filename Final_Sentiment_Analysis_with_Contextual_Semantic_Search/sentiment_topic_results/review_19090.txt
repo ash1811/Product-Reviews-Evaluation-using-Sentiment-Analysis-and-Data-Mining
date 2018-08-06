@@ -1,0 +1,1 @@
+{"text": "fits many watches looks and feels good great constuction. Will recommend to anyone looking for a nice sturdy case for there timepieces", "sentiment": "positive", "topics": {"0": "0.13762183", "1": "0.43326366", "2": "0.22946616", "4": "0.17277671"}}

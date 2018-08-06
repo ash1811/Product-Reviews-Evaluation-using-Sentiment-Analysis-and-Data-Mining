@@ -1,0 +1,1 @@
+{"text": "Levi's are not what they used to be but I have accepted the fact they are thinner and cheaper made. Fit and quality are still Levis", "sentiment": "negative", "topics": {"0": "0.011926584", "1": "0.42829916", "2": "0.011918933", "3": "0.22382905", "4": "0.12393909", "5": "0.0119214505", "6": "0.18816572"}}

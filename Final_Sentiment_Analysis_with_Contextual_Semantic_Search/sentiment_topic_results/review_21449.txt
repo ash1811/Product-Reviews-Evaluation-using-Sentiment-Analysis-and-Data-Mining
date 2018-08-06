@@ -1,0 +1,1 @@
+{"text": "Very comfortable slipped with lightweight but sturdy sole which can go outdoors without a problem. Should be easy care and durable.. Thanks!", "sentiment": "positive", "topics": {"0": "0.010245734", "1": "0.445368", "2": "0.08456154", "3": "0.01025527", "4": "0.010225317", "5": "0.2891305", "6": "0.15021367"}}

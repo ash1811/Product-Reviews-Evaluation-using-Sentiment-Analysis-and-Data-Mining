@@ -1,0 +1,1 @@
+{"text": "Well designed sock but thicker than I expected. Great for cool weather workouts but feet got hot when weather got warm.", "sentiment": "positive", "topics": {"1": "0.3327945", "4": "0.14709108", "5": "0.2873168", "6": "0.20596407"}}

@@ -1,0 +1,1 @@
+{"text": "My husband really likes these shorts. They wash nice. Right out of package they where itchy. Washing them helped that. Plan to buy some more in the future", "sentiment": "negative", "topics": {"0": "0.26758093", "1": "0.34509778", "4": "0.3514983"}}

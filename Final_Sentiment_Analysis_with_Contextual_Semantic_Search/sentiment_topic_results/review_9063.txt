@@ -1,0 +1,1 @@
+{"text": "You can't go wrong with Skechers. This is a quick solution to outdoor slippers. They are comfortable and a repeat purchase of the brand and style. Very comfortable.", "sentiment": "negative", "topics": {"1": "0.26827878", "2": "0.06963019", "3": "0.31026763", "4": "0.25305578", "6": "0.0796831"}}

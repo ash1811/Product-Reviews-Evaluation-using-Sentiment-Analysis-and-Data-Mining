@@ -1,0 +1,1 @@
+{"text": "This fit terribly.  I think it ran small in the cup and small in the band.  Seriously, it looked so atrocious when I put it on, didn't tack at the gore at all... blegh.", "sentiment": "negative", "topics": {"0": "0.24618644", "1": "0.2991897", "3": "0.11174241", "4": "0.3189142"}}

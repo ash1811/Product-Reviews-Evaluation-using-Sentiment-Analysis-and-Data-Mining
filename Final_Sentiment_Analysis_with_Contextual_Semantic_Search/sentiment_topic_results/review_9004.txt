@@ -1,0 +1,1 @@
+{"text": "I bought these purposely in a wide size. The fit is good and the shoe looks pretty rugged with a good gripping sole. My only issue is with the top inner edge that is cut somewhat roughly and is uncomfortable.", "sentiment": "negative", "topics": {"0": "0.09138665", "1": "0.3286552", "2": "0.15656178", "3": "0.14314555", "5": "0.21376844", "6": "0.05997876"}}

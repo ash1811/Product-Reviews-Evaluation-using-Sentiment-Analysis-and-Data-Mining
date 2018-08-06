@@ -1,0 +1,1 @@
+{"text": "I have always been a fan of the brand, every piece of clothing I have from them is worth it", "sentiment": "negative", "topics": {"0": "0.45963967", "1": "0.017983941", "2": "0.017929753", "3": "0.14845589", "4": "0.017974053", "5": "0.018015625", "6": "0.32000107"}}

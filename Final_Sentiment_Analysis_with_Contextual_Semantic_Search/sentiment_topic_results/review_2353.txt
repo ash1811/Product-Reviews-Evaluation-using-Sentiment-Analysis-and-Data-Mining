@@ -1,0 +1,1 @@
+{"text": "THIS IS the best fitting shoe for my husband's difficult feet.  They even are roomy enough to fit his orthodics.  He is on his feet all day and is very happy with these.", "sentiment": "negative", "topics": {"0": "0.13593377", "1": "0.17995468", "2": "0.10302723", "4": "0.44734737", "6": "0.1158259"}}

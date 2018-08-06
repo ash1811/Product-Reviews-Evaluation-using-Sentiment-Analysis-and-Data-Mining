@@ -1,0 +1,1 @@
+{"text": "These socks are super cute, and they stay on my baby! They are super thick and soft, perfect for winter!", "sentiment": "negative", "topics": {"0": "0.013011593", "1": "0.7478422", "2": "0.012992776", "3": "0.013019562", "4": "0.013023389", "5": "0.18710294", "6": "0.013007587"}}

@@ -1,0 +1,1 @@
+{"text": "I purchased the watch for my 11 year old grandson and it borders on being too small for his wrist.  Would work much better for someone  5 to 7.", "sentiment": "negative", "topics": {"0": "0.12107263", "1": "0.31968024", "2": "0.12229779", "4": "0.35647643", "5": "0.06357885"}}

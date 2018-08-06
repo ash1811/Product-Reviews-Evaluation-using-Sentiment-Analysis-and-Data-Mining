@@ -1,0 +1,1 @@
+{"text": "WIDTH IS  TOO SMALL. ( reordered what i hope is a size wider). i cant say if it was boxed wrong cause box said 6m and shoe said size 6.", "sentiment": "positive", "topics": {"1": "0.21795928", "2": "0.20003626", "3": "0.22451353", "5": "0.26582596", "6": "0.0765717"}}

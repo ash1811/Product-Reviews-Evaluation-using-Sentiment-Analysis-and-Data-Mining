@@ -1,0 +1,1 @@
+{"text": "Soft, comfortable and great for sleeping at the beginning when leaking was an issue. Very thin cotton and soft elastic. I tried a few and found this to be the most practical.", "sentiment": "positive", "topics": {"1": "0.56043756", "2": "0.089463174", "3": "0.14056861", "4": "0.10939316", "5": "0.081072405"}}

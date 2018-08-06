@@ -1,0 +1,1 @@
+{"text": "The polo is just what I ordered and what I wanted.  Fits and looks great.  It is light-weight which I wanted because I live in a tropical climate.  A nice polo shirt.", "sentiment": "positive", "topics": {"1": "0.64029545", "2": "0.17270349", "6": "0.14878118"}}

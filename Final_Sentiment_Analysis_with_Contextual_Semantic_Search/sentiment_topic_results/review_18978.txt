@@ -1,0 +1,1 @@
+{"text": "Just want I needed, I hate going to the store and shopping for hours for bras. This brand fits well and is comfy.", "sentiment": "negative", "topics": {"0": "0.011011758", "1": "0.3780969", "2": "0.0110304635", "3": "0.31385642", "4": "0.011010517", "5": "0.26393718", "6": "0.011056772"}}

@@ -1,0 +1,1 @@
+{"text": "Was wearing those all summer. Love them! So comfortable and good looking, and you can walk all day long in those, feeling that you wear flats. As always, Jambu exceeds my expectations.", "sentiment": "negative", "topics": {"1": "0.6323141", "2": "0.15160775", "4": "0.18588606"}}

@@ -1,0 +1,1 @@
+{"text": "these fit so well in my heels and keep my feet comfortable offering a lot of support as well. I will order more.", "sentiment": "negative", "topics": {"0": "0.10207733", "1": "0.39236072", "2": "0.011023054", "3": "0.29068682", "4": "0.011077013", "5": "0.1817774", "6": "0.010997672"}}

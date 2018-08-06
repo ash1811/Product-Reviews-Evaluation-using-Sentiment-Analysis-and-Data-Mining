@@ -1,0 +1,1 @@
+{"text": "great lookin watch,feels good,unreliable timekeeper.loses about an hour a day.watch is one month old.will have to send it back to timex.battery change did not help.beautiful watch but unreliable.the worst timex i have ever owned.", "sentiment": "negative", "topics": {"0": "0.11745551", "1": "0.1265207", "2": "0.6390605", "3": "0.097349"}}

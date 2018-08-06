@@ -1,0 +1,1 @@
+{"text": "I was hoping these foot petals would keep my feet from slipping out of my shoes, but they didn't work.  They will probably work better for preventing blisters on the back of your feet.", "sentiment": "negative", "topics": {"0": "0.22193478", "1": "0.08864263", "2": "0.085498765", "3": "0.2526621", "4": "0.14007719", "5": "0.20273794"}}

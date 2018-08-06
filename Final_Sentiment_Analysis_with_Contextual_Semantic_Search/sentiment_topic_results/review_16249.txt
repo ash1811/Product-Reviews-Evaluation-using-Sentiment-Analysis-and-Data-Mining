@@ -1,0 +1,1 @@
+{"text": "These slippers have been around for quite a while now. They're comfortable, and have held up extremely well. They look nice too.", "sentiment": "positive", "topics": {"0": "0.011036293", "1": "0.52260303", "2": "0.14086571", "3": "0.011047044", "4": "0.0110503", "5": "0.18763211", "6": "0.11576553"}}

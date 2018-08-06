@@ -1,0 +1,1 @@
+{"text": "This ring is so beautiful. You won't fool anyone into thinking it's a real diamond, but it's so cute I still get compliments on it all the time. It's so nice to have something shiny and not too gaudy to wear all the time. I love it!", "sentiment": "positive", "topics": {"0": "0.33574677", "1": "0.34851295", "2": "0.131244", "3": "0.1272985", "6": "0.043509364"}}

@@ -1,0 +1,1 @@
+{"text": "these shoes are very cute and comfortable realmentes find them at a very affordable price more to give away this Christmas will be the perfect gift for my brother.", "sentiment": "negative", "topics": {"0": "0.20746435", "1": "0.31818587", "2": "0.19056872", "3": "0.010240474", "4": "0.12582847", "5": "0.010255681", "6": "0.13745648"}}

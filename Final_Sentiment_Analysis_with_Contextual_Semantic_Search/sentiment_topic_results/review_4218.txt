@@ -1,0 +1,1 @@
+{"text": "Bought shorts for the summer season. Very soft and comfortable. Suited for different shirts. After washing, do not change the size. Cotton quality. Not scratched. Sutures are processed normally.", "sentiment": "positive", "topics": {"0": "0.09813964", "1": "0.42311537", "2": "0.12024793", "3": "0.16971518", "5": "0.04747135", "6": "0.13377821"}}

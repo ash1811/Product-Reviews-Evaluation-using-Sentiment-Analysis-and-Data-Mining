@@ -1,0 +1,1 @@
+{"text": "I bought them for work pants, the look and fit well, as I expected. Comfortable too, right height and stretch material good too.", "sentiment": "negative", "topics": {"0": "0.20038323", "1": "0.65866596", "3": "0.105167545"}}

@@ -1,0 +1,1 @@
+{"text": "Beautiful dress liked it a lotWas the son of my girlfriend liked dress muchAppropriate sizeThe very excellent raw materialThank youThank you", "sentiment": "negative", "topics": {"0": "0.09479805", "1": "0.521518", "2": "0.07982352", "5": "0.120508745", "6": "0.16425589"}}

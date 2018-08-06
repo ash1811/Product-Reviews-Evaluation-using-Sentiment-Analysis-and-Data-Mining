@@ -1,0 +1,1 @@
+{"text": "way too much material, my wife said it felt like she was putting on a bullet proof vest? I thought it didn't look good....", "sentiment": "negative", "topics": {"0": "0.32217062", "1": "0.39052144", "3": "0.24898091"}}

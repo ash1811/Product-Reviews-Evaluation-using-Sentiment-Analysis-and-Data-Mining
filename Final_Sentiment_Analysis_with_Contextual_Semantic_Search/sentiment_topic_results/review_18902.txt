@@ -1,0 +1,1 @@
+{"text": "Noticed these jeans tend to shrink in length after washing a few times. So we buy an inch longer & are happy with them in the long run.", "sentiment": "positive", "topics": {"0": "0.010277895", "1": "0.4618776", "2": "0.010240472", "3": "0.19470406", "4": "0.30235726", "5": "0.01027202", "6": "0.010270683"}}

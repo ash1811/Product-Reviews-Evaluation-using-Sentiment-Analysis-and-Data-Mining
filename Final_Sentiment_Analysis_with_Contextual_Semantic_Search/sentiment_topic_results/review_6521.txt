@@ -1,0 +1,1 @@
+{"text": "I own several pairs, wash dry, wear, no problem, comfortable and just all around great.", "sentiment": "positive", "topics": {"0": "0.014325177", "1": "0.35946527", "2": "0.014326577", "3": "0.014356101", "4": "0.014405539", "5": "0.56880844", "6": "0.014312895"}}

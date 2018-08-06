@@ -1,0 +1,1 @@
+{"text": "These are true to size, tight (so far they haven't lost their elastic), and warm in the winter.  Our child likes them...", "sentiment": "negative", "topics": {"0": "0.011027067", "1": "0.3723212", "2": "0.14619163", "3": "0.30741763", "4": "0.01100485", "5": "0.011002148", "6": "0.1410355"}}

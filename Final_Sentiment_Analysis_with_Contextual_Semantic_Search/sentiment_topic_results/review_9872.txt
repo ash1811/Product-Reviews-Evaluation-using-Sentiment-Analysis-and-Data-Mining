@@ -1,0 +1,1 @@
+{"text": "These are the bounciest Sperry's I have ever owned. Like a moon bounce compared to others. You will love them.", "sentiment": "negative", "topics": {"0": "0.14787938", "1": "0.13931125", "2": "0.30686393", "3": "0.37011066", "4": "0.011974449", "5": "0.011928958", "6": "0.011931331"}}

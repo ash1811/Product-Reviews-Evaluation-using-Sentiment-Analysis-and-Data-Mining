@@ -1,0 +1,1 @@
+{"text": "Size fit perfectly. Was expecting cloth to be a little heavier. Basically a tee shirt with collar. But for the price this is what you get. Pocket not large enough - pack of cigarettes stick out.", "sentiment": "positive", "topics": {"1": "0.46592394", "5": "0.37406287", "6": "0.13272093"}}

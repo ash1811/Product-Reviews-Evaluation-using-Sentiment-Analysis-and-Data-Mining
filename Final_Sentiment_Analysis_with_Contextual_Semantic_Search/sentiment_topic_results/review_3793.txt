@@ -1,0 +1,1 @@
+{"text": "Thought I was getting the normal large size aviator glasses but these lens were so small they were no way near my cheek.", "sentiment": "negative", "topics": {"0": "0.2633034", "1": "0.011121075", "2": "0.011006927", "3": "0.55629027", "4": "0.0110103935", "5": "0.011000838", "6": "0.1362671"}}

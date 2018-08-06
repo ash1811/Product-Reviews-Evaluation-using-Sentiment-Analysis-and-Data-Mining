@@ -1,0 +1,1 @@
+{"text": "This product did nothing for me. My back hurt so bad when I was pregnant, so I got this band thinking it would help. It only helped hold up my pants! Complete crap, in my opinion!", "sentiment": "negative", "topics": {"0": "0.1679705", "1": "0.18486202", "2": "0.119657494", "3": "0.16003722", "5": "0.08012764", "6": "0.27981895"}}

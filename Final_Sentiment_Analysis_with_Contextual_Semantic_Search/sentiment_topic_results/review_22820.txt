@@ -1,0 +1,1 @@
+{"text": "Nice medium purple color, not too dark, not too light.  Unlike the necklace that looks similar, there is no discomfort caused by these earrings.", "sentiment": "negative", "topics": {"0": "0.14317834", "1": "0.5636838", "2": "0.19387174", "3": "0.010227854", "4": "0.068570755", "5": "0.010223362", "6": "0.010244155"}}

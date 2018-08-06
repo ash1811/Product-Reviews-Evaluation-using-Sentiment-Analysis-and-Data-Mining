@@ -1,0 +1,1 @@
+{"text": "This is a top end product and worth the money.  They arrived on time and were neatly packed.  The sizing was accurate along with the color.  Good seller, good product.", "sentiment": "negative", "topics": {"0": "0.21325076", "1": "0.14432272", "3": "0.15952113", "5": "0.4069053", "6": "0.060091183"}}

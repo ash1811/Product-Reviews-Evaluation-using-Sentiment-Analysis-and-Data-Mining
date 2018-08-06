@@ -1,0 +1,1 @@
+{"text": "Been wearing this nonstop since I received them a few days ago. They are very comfortable especially for wide feet. I ordered size 8.5 C/D since I usually wear 8.5W or 9.", "sentiment": "negative", "topics": {"0": "0.14950526", "1": "0.31349123", "2": "0.07055901", "4": "0.23662543", "6": "0.2154696"}}

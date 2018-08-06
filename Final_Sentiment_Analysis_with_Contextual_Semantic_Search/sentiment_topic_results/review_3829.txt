@@ -1,0 +1,1 @@
+{"text": "My husband loved it. His was well over due to be replaced and he wanted something small and very compact. This was everything I hoped to find for him!", "sentiment": "negative", "topics": {"1": "0.47633743", "2": "0.11572232", "4": "0.20344558", "5": "0.1758671"}}

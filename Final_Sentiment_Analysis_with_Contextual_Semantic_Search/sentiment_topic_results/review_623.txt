@@ -1,0 +1,1 @@
+{"text": "The Wrangler Jeans arrived on time and in excellent condition.  They will be a gift to my husband.  I'll let you know if he likes them.", "sentiment": "positive", "topics": {"0": "0.27209187", "1": "0.010233788", "2": "0.23872975", "3": "0.34595725", "4": "0.112491384", "5": "0.010248242", "6": "0.010247721"}}

@@ -1,0 +1,1 @@
+{"text": "As soon as I put this bra on I never wanted to take it off!  I wear a 36DD and its hard to find a bra that makes me feel this hot & sexy and still be supportive and comfortable!!  I want it in every color now!! Love love love!!!", "sentiment": "negative", "topics": {"0": "0.1331093", "1": "0.28070718", "2": "0.0698484", "3": "0.40590984", "4": "0.09979752"}}

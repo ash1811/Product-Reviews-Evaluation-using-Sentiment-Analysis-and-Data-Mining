@@ -1,0 +1,1 @@
+{"text": "The quality of this leotard is very good. My 7yr old is thin and small for her age, so I got the small size and it barely fits. But I am afraid to go up a size and then have it gaping.", "sentiment": "negative", "topics": {"0": "0.18271169", "1": "0.395948", "3": "0.29573408", "4": "0.101734795"}}

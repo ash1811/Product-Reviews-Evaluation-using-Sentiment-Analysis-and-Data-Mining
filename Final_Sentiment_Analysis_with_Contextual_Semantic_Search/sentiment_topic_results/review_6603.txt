@@ -1,0 +1,1 @@
+{"text": "now my husband loves thorlos too, now that he has enough pairs for work and his feet are cushioned and cool", "sentiment": "negative", "topics": {"0": "0.30471972", "1": "0.013008968", "2": "0.013013066", "3": "0.2423504", "4": "0.40084803", "5": "0.013050276", "6": "0.013009517"}}

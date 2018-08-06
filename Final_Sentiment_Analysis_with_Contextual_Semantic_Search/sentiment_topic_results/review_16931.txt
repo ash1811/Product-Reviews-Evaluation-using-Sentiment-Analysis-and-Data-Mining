@@ -1,0 +1,1 @@
+{"text": "Seems these bibs are cut on the snug side, at least for size large. I would suggest upsizing one size if you want assurances of functional comfort. Find no other issue, bibs are the expected quality of this brand.", "sentiment": "positive", "topics": {"0": "0.26126608", "1": "0.13318992", "2": "0.04105375", "3": "0.32769382", "5": "0.052560292", "6": "0.17825627"}}

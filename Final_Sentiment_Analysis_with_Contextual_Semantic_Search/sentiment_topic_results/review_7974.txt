@@ -1,0 +1,1 @@
+{"text": "These babies are so soft and comfie it's hard to take them off!!! Plenty of padding and will probably be ordering more!!!", "sentiment": "positive", "topics": {"0": "0.12597123", "1": "0.5437963", "2": "0.011934526", "3": "0.011931897", "4": "0.011909388", "5": "0.28253996", "6": "0.011916696"}}

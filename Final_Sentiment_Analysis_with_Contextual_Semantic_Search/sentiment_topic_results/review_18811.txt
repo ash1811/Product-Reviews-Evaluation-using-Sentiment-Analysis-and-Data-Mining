@@ -1,0 +1,1 @@
+{"text": "excelente gracias es un articulo echo de calidad y medidas q realmente se espera mil gracias amigos muy buen servicio", "sentiment": "negative", "topics": {"0": "0.13275239", "1": "0.07420739", "2": "0.1292208", "3": "0.20885947", "4": "0.2962859", "5": "0.15149528"}}

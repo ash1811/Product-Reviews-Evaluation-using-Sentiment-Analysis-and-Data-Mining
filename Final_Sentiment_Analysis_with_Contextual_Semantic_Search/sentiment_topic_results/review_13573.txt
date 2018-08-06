@@ -1,0 +1,1 @@
+{"text": "Per my husband- These are very durable as well as comfortable. I had my last pair for almost 9 years and still ok to wear. Can't find this brand and style anywhere else for amazons Amazons price!Would recommend!", "sentiment": "negative", "topics": {"1": "0.43432415", "2": "0.15408975", "3": "0.0998745", "4": "0.25154027", "6": "0.048230756"}}

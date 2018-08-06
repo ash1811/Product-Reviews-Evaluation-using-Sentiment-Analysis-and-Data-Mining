@@ -1,0 +1,1 @@
+{"text": "Use to wear moccasins when young and I am very happy with this purchase.  They're Nice and comfy...Thank You :)", "sentiment": "positive", "topics": {"0": "0.15641432", "1": "0.27556837", "2": "0.014296922", "3": "0.014333531", "4": "0.05954997", "5": "0.35834223", "6": "0.121494696"}}

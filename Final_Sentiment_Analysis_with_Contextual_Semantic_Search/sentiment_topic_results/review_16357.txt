@@ -1,0 +1,1 @@
+{"text": "These are great. I wear them almost everyday in the summer, and even in the winter they sometime revert to a kind of indoor slipper.", "sentiment": "negative", "topics": {"0": "0.011018198", "1": "0.1701003", "2": "0.3243205", "3": "0.011008728", "4": "0.060529333", "5": "0.24984942", "6": "0.17317352"}}

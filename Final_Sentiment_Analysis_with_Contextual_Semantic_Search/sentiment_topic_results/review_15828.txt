@@ -1,0 +1,1 @@
+{"text": "I chose this for the color, style and price.  All met my expectations.  It is very comfortable and does the job it is supposed to do.", "sentiment": "positive", "topics": {"0": "0.013040795", "1": "0.83040977", "2": "0.0130076315", "3": "0.013027631", "4": "0.013087988", "5": "0.013064393", "6": "0.10436177"}}

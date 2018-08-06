@@ -1,0 +1,1 @@
+{"text": "This shoe is a classic!  My boyfriend has been wearing them for years and years!  Once he wears them down-we just get a new pair!", "sentiment": "positive", "topics": {"0": "0.011964393", "1": "0.012014245", "2": "0.2831129", "3": "0.39870048", "4": "0.011917449", "5": "0.2703786", "6": "0.011911951"}}

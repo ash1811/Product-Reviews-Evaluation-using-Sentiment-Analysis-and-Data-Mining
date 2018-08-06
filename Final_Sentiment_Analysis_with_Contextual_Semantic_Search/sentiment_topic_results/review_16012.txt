@@ -1,0 +1,1 @@
+{"text": "These are a great pair of slippers.  I wish the straps were not as shiny but the slippers are comfortable like all my other reefs.  I really love them and will get the black.", "sentiment": "negative", "topics": {"1": "0.45872387", "2": "0.22018193", "6": "0.28283146"}}

@@ -1,0 +1,1 @@
+{"text": "Just save your money and get some altamas. These are cheap junk made out of stray cats and bubble gum.", "sentiment": "negative", "topics": {"0": "0.32006603", "1": "0.011944652", "2": "0.01194989", "3": "0.08643248", "4": "0.09009049", "5": "0.23424739", "6": "0.2452691"}}

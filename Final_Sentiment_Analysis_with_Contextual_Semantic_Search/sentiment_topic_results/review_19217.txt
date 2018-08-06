@@ -1,0 +1,1 @@
+{"text": "Nice - holds everything, and is able to expand if needed.  Actually has enough spots to store customer courtesy cards (coffee, etc) without losing them.", "sentiment": "positive", "topics": {"1": "0.2558913", "2": "0.34330013", "3": "0.14859645", "4": "0.07033879", "5": "0.16680434"}}

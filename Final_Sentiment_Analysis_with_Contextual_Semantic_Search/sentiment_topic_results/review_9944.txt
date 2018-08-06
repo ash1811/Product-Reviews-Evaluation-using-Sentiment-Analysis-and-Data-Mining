@@ -1,0 +1,1 @@
+{"text": "The bracelet smells bad time, because the kids get wet and dirty frequently, addition the clasp is something concho, but overall it is a watch of excellent quality, my nephew loves it.", "sentiment": "negative", "topics": {"1": "0.47982734", "2": "0.2815458", "4": "0.08223969", "5": "0.13584621"}}

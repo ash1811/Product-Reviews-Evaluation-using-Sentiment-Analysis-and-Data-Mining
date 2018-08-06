@@ -1,0 +1,1 @@
+{"text": "Hat looks OK.  Is pretty true to size.  Fast shipping and cheap product.  I will only be wearing this to the beach, and maybe fishing.", "sentiment": "positive", "topics": {"0": "0.37409556", "1": "0.30665886", "3": "0.20568015", "5": "0.08487772"}}

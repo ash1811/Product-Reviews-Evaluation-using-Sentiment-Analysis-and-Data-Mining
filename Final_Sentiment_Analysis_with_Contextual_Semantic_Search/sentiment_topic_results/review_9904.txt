@@ -1,0 +1,1 @@
+{"text": "Just love how this watch works. I would recommend to buy it without hesitation and i'm using perfectly for my surfing sessions ;-) !!!", "sentiment": "negative", "topics": {"0": "0.12920655", "1": "0.59155214", "2": "0.10039318", "3": "0.01023544", "4": "0.1481829", "5": "0.010218318", "6": "0.010211465"}}

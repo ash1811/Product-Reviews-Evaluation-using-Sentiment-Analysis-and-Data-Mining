@@ -1,0 +1,1 @@
+{"text": "This is good for transporting earrings to sell. I do not this it is the best. The problem that I have is keeping my earrings from falling off. I had to put backings on them. Didn't want to have to do that until I sold them.", "sentiment": "positive", "topics": {"1": "0.56181306", "2": "0.30544767", "4": "0.099008575"}}

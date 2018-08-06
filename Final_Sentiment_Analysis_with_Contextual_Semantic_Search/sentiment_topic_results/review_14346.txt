@@ -1,0 +1,1 @@
+{"text": "I had a hard time finding Tan shoe polish so Amazon was the easiest choice for me.  The tin of polish looked slightly aged but I honestly don't care as it works just fine.  I am pleased - no surprises.", "sentiment": "positive", "topics": {"0": "0.1255272", "1": "0.3359062", "2": "0.123653725", "4": "0.05936693", "5": "0.1520237", "6": "0.19701396"}}

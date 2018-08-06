@@ -1,0 +1,1 @@
+{"text": "No info about durability, but these are warm and comfortable, noticeably thicker than the average athletic sock.  I plan on ordering more pairs, since I hate it when these are in the wash.", "sentiment": "negative", "topics": {"1": "0.34333152", "2": "0.07941691", "5": "0.44276562", "6": "0.107610404"}}

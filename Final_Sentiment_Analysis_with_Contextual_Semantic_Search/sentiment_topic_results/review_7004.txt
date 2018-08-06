@@ -1,0 +1,1 @@
+{"text": "This is the best quality halloween costume I've seen.  I love it!  Too bad I only get to wear it once a year.  I guess I could on those witchy days....", "sentiment": "negative", "topics": {"0": "0.25512218", "1": "0.2821089", "3": "0.14858158", "4": "0.28892305"}}

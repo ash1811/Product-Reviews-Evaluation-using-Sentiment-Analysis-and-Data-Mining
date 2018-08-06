@@ -1,0 +1,1 @@
+{"text": "I love the Caribbean blue color. It has a decent fit for the price. I received many compliments on the color.", "sentiment": "negative", "topics": {"0": "0.011980317", "1": "0.51569086", "2": "0.0119198635", "3": "0.13853268", "4": "0.29802006", "5": "0.01194626", "6": "0.011909963"}}

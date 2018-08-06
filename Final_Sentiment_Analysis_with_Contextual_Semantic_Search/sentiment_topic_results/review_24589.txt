@@ -1,0 +1,1 @@
+{"text": "I bought this for my three year old.  It fits perfectly.  Not too tight and not too loose. It's made from a quality material, not like some of those other leotards with the cheap thin, itchy material.", "sentiment": "negative", "topics": {"1": "0.81458455", "3": "0.14561923"}}

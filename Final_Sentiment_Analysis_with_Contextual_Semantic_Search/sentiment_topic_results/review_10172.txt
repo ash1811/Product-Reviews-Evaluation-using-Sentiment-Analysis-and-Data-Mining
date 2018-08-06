@@ -1,0 +1,1 @@
+{"text": "They should be  7 $  cus the lever back  is somewhat  THIN,It shines BEAUITIFULL THO,Looks classy,But still & all.should be 7 bucks,", "sentiment": "negative", "topics": {"0": "0.123273544", "2": "0.1412492", "3": "0.08155962", "5": "0.10640669", "6": "0.52840585"}}

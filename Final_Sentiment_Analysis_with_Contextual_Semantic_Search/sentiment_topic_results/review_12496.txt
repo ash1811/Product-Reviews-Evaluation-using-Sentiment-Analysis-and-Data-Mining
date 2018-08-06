@@ -1,0 +1,1 @@
+{"text": "My adult daughter is a flip flop connoisseur and Sanuk's are her most favorite! She wears them year round, inside during the colder months and outside the warmer days.", "sentiment": "negative", "topics": {"2": "0.21049924", "3": "0.30306923", "4": "0.093425736", "5": "0.28773987", "6": "0.08835124"}}

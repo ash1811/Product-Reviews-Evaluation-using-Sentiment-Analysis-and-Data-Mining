@@ -1,0 +1,1 @@
+{"text": "This is my second time. Great shoes for the price. Easy to clean. When polished, they look like much more expensive shoes. And I like the cushion the soles have; your feet won't get tired so easily.", "sentiment": "negative", "topics": {"0": "0.07346094", "1": "0.5301223", "2": "0.21928525", "4": "0.075872734", "6": "0.088219054"}}

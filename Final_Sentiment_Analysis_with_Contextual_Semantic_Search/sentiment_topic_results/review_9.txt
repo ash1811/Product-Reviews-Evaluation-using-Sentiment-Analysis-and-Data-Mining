@@ -1,0 +1,1 @@
+{"text": "A basic shirt which is pretty durable...for the price if it lasts 3 months of workouts then well worth it!", "sentiment": "positive", "topics": {"0": "0.0110563915", "1": "0.37982497", "2": "0.011019578", "3": "0.011005374", "4": "0.011019109", "5": "0.4279935", "6": "0.14808111"}}

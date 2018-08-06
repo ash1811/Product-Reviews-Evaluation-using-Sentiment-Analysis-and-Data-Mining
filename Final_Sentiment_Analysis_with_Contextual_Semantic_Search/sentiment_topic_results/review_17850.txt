@@ -1,0 +1,1 @@
+{"text": "today i received my ordered item Casio Men's FT500WV-5BV Forester Electro-Luminescent Analog Sport Watch...thanks...very nice product...best quality...i'll recommend it to my friends...", "sentiment": "positive", "topics": {"0": "0.2947257", "1": "0.123346925", "2": "0.12955473", "5": "0.24985345", "6": "0.18660036"}}

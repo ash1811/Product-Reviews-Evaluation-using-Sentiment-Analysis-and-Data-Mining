@@ -1,0 +1,1 @@
+{"text": "Best shoes ever!Buy whenever I can find. I'm a mail carrier so shoes are very important. Only shoe I've found that can hold up", "sentiment": "negative", "topics": {"2": "0.4020476", "3": "0.23443836", "4": "0.3252419"}}

@@ -1,0 +1,1 @@
+{"text": "I really like these and the way it looks on your head.  It does fit a bit large, but that may be my head's fault :)I'll just adjust the Velcro part and it should be good.", "sentiment": "negative", "topics": {"1": "0.49555385", "2": "0.08338072", "3": "0.28319287", "6": "0.11260979"}}

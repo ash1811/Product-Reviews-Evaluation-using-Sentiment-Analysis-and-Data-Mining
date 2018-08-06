@@ -1,0 +1,1 @@
+{"text": "My first purse is very sturdy and nice for any little girl developing into a big girl. I love it.", "sentiment": "positive", "topics": {"0": "0.46200058", "1": "0.3904985", "2": "0.0119705545", "3": "0.011939713", "4": "0.011978089", "5": "0.011947689", "6": "0.09966489"}}

@@ -1,0 +1,1 @@
+{"text": "Good beefy shirt, warm but breathable. With this brand, it's probably best to order to your size without expecting any shrinking. This is to Carhartt's credit.", "sentiment": "negative", "topics": {"0": "0.10145235", "1": "0.49360114", "3": "0.28197783", "4": "0.09606934"}}

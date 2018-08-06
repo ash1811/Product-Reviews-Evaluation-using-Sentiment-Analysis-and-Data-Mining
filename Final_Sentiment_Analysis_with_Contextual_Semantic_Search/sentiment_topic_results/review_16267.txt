@@ -1,0 +1,1 @@
+{"text": "Excellent quality.  Great gift for my brother..........he thinks they're as good as shoes.  Fast shipping time.  Bought a second pair for another gift.", "sentiment": "negative", "topics": {"0": "0.19085473", "1": "0.5106633", "2": "0.15837763", "4": "0.11625176"}}

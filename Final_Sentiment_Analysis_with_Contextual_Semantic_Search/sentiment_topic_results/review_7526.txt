@@ -1,0 +1,1 @@
+{"text": "Te fit guide was very accurate and the jacket fits perfectly. Good quality at an affordable price. I would highly recommend this product.", "sentiment": "positive", "topics": {"1": "0.6009261", "2": "0.08312725", "5": "0.09268794", "6": "0.19643284"}}

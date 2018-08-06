@@ -1,0 +1,1 @@
+{"text": "Yet another company using thinner denim.I bought a pair of Wranglers and a pair of Levis in the same order. BOTH companies are using thinner denim.", "sentiment": "positive", "topics": {"0": "0.24748129", "1": "0.20675118", "4": "0.42319894", "6": "0.097252406"}}

@@ -1,0 +1,1 @@
+{"text": "this polishing clot works wells when cleaning tarnished silver jewelry or just adding more lustre and shine greta and handy was to shine jewelry", "sentiment": "negative", "topics": {"1": "0.19991602", "2": "0.14860238", "3": "0.089837804", "5": "0.16174915", "6": "0.38202885"}}

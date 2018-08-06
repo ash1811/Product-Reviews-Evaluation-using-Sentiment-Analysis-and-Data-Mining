@@ -1,0 +1,1 @@
+{"text": "The Levi's 501s are just a little bit to big. But with more washings  and a hot dryer they will shrink down more I'm sure. usually the size I ordered fit great but maybe they were shrink to fit in stead of original 501[s", "sentiment": "negative", "topics": {"1": "0.6572596", "2": "0.10535532", "6": "0.21247576"}}

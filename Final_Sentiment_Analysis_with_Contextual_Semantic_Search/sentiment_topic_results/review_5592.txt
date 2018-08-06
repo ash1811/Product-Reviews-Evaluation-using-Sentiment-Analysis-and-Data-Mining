@@ -1,0 +1,1 @@
+{"text": "Shirt is 2xl and looks like it will fit well.  color is nice and quality is usual for carhartt clothing", "sentiment": "negative", "topics": {"0": "0.011004503", "1": "0.80155075", "2": "0.010998417", "3": "0.0109985005", "4": "0.010993857", "5": "0.011003681", "6": "0.14345035"}}

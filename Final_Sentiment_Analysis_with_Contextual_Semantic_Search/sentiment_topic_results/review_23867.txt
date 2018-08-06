@@ -1,0 +1,1 @@
+{"text": "Just hated them, put them in the closet...and eventually gave them to Goodwill.  Do not bother,unless you are delilvery mail..and have narrow feet, they are ugly and uncomfortable.", "sentiment": "positive", "topics": {"1": "0.10434969", "3": "0.26829284", "4": "0.4405487", "5": "0.15820904"}}

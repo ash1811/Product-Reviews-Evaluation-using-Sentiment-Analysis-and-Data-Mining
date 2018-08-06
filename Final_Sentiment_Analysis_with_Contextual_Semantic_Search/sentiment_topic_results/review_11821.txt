@@ -1,0 +1,1 @@
+{"text": "These shoes were a gift to my grandson who was visiting us in sw Florida.  I thought they would be good for walking on shelly beaches and they were.  They were a good fit and he loved them.", "sentiment": "positive", "topics": {"0": "0.08742244", "1": "0.23036818", "2": "0.16433355", "3": "0.13585876", "4": "0.07379443", "5": "0.30069938"}}

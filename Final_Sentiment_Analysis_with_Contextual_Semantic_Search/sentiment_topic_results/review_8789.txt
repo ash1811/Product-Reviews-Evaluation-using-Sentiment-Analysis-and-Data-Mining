@@ -1,0 +1,1 @@
+{"text": "The socks are extremely well made, very durable, nice and thick, and very comfortable if you work on your feet all day. These socks keep my feet nice and warm. I work in a cooler and freezer.", "sentiment": "negative", "topics": {"1": "0.43427545", "2": "0.082913026", "4": "0.070761524", "5": "0.39055908"}}

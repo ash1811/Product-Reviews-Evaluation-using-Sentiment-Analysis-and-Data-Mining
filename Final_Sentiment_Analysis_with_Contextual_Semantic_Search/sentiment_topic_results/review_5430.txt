@@ -1,0 +1,1 @@
+{"text": "The fit was good.  Not too tight, which is good for an old man (me) with a less than perfect body.  It was loose enough to look good, but not too big.", "sentiment": "negative", "topics": {"0": "0.12541747", "1": "0.6913981", "6": "0.14732938"}}

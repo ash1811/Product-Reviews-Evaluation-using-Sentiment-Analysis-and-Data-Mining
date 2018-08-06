@@ -1,0 +1,1 @@
+{"text": "These are shorter than I like. I know they aren't over-the-calf height, but these are shorter than most crew socks.", "sentiment": "negative", "topics": {"0": "0.015879089", "1": "0.15158062", "2": "0.015885703", "3": "0.16340706", "4": "0.015873961", "5": "0.35881436", "6": "0.2785592"}}

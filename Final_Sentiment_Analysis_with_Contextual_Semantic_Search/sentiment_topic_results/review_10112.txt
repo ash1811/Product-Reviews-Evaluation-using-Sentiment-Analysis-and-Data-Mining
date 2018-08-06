@@ -1,0 +1,1 @@
+{"text": "These are great for a fun black on black look with black ballet slippers and a chiffon wrap around skirt", "sentiment": "negative", "topics": {"0": "0.21084654", "1": "0.011042861", "2": "0.19650698", "3": "0.2272549", "4": "0.10796875", "5": "0.011057208", "6": "0.23532277"}}

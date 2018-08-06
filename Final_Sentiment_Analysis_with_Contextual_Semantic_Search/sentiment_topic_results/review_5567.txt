@@ -1,0 +1,1 @@
+{"text": "This shirt is a tad bit smaller than the label indicates.  I would suggest going a size bigger to get the desired look.", "sentiment": "negative", "topics": {"0": "0.14272138", "3": "0.41216037", "4": "0.15203445", "6": "0.2644532"}}

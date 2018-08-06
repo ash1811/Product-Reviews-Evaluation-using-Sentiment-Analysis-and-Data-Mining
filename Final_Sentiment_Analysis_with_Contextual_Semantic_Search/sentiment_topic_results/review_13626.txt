@@ -1,0 +1,1 @@
+{"text": "I bought these for my husband for an everyday shoe for the summer the fit is true to size and a good quality and such a great price!", "sentiment": "negative", "topics": {"0": "0.011009118", "1": "0.55674493", "2": "0.10822345", "3": "0.107272826", "4": "0.19470233", "5": "0.011007528", "6": "0.011039823"}}

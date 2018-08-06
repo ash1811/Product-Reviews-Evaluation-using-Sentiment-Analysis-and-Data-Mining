@@ -1,0 +1,1 @@
+{"text": "Lovely washed hat. Really served the purpose i bought it for. I have a small head and the size i selected perfectly fits!", "sentiment": "positive", "topics": {"1": "0.3659961", "2": "0.091255866", "3": "0.32170245", "4": "0.10189249", "6": "0.10006831"}}

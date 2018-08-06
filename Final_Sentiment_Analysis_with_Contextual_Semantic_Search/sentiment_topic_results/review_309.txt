@@ -1,0 +1,1 @@
+{"text": "nice shirt to work my husband was happy we love the shirt We recommended Thanks, my husband will enjoy it", "sentiment": "positive", "topics": {"0": "0.011955675", "1": "0.5077267", "2": "0.10547659", "3": "0.011932251", "4": "0.33901212", "5": "0.0119478805", "6": "0.011948743"}}

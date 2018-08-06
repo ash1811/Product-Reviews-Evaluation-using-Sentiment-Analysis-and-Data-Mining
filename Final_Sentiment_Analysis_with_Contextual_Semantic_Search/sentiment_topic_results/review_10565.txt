@@ -1,0 +1,1 @@
+{"text": "Light weight,  comfortable, and kept my feet warm while walking on the snow. One of the best boots I have ever bought.", "sentiment": "negative", "topics": {"0": "0.010247356", "1": "0.4922495", "2": "0.010239629", "3": "0.010212856", "4": "0.263542", "5": "0.20330223", "6": "0.01020642"}}

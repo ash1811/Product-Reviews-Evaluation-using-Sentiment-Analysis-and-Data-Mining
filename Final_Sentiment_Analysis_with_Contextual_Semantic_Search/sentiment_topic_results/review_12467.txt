@@ -1,0 +1,1 @@
+{"text": "I wear these constantly!  I wouldn't wear them to the pool or beach because of the sponginess factor, but out and about these are so comfortable!", "sentiment": "negative", "topics": {"0": "0.01590477", "1": "0.3432731", "2": "0.12772578", "3": "0.01591655", "4": "0.2163203", "5": "0.2649003", "6": "0.015959172"}}

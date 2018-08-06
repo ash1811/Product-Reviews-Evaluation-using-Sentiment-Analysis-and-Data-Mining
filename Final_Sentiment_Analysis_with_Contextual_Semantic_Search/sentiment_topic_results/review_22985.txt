@@ -1,0 +1,1 @@
+{"text": "These are comfortable and airy sport shorts.  They come down to about the upper knee and are double lined, inner and outer layer of material.  The only thing I don't like is the Champion logo which seems ironed on and in the way.", "sentiment": "positive", "topics": {"0": "0.1546352", "1": "0.31020278", "2": "0.36093104", "3": "0.1537256"}}

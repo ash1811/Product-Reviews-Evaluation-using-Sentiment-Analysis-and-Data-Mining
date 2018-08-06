@@ -1,0 +1,1 @@
+{"text": "100% cotton. Doesn't make my husband pant with lust but does not make him laugh at me either.Comfortable. Recommend!", "sentiment": "negative", "topics": {"0": "0.11784015", "1": "0.305722", "2": "0.12492104", "3": "0.2957117", "4": "0.12981442", "5": "0.0130007705", "6": "0.012989905"}}

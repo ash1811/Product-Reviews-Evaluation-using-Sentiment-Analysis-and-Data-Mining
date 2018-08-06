@@ -1,0 +1,1 @@
+{"text": "I was a little naive when purchasing, thinking they were heavier, like knit, how stupid was that, but these are very classy and can be used with your best wardrobe.", "sentiment": "negative", "topics": {"0": "0.19900678", "1": "0.010251843", "2": "0.2548303", "3": "0.010264706", "4": "0.18538368", "5": "0.33001852", "6": "0.010244211"}}

@@ -1,0 +1,1 @@
+{"text": "Great casual work boot. Breaks in quickly and easily. Lasts for years on concrete or dirt, and transitions well onto the hiking trails after work. All in all a great boot by a great brand!", "sentiment": "positive", "topics": {"0": "0.096725464", "1": "0.2567912", "2": "0.22844906", "3": "0.22181875", "4": "0.12676197", "6": "0.062934384"}}

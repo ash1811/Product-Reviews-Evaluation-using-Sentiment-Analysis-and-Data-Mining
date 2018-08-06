@@ -1,0 +1,1 @@
+{"text": "I originally bought the 52mm and quickly realized it was a mistake! Those are two small if you are a guy! Get the 55mm!!!", "sentiment": "positive", "topics": {"0": "0.16152665", "1": "0.1987247", "2": "0.12700143", "3": "0.12819576", "4": "0.3606842", "5": "0.011941438", "6": "0.011925802"}}

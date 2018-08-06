@@ -1,0 +1,1 @@
+{"text": "I bought these for my granddaughter to keep her little feet warm but she can pull them off which I was hoping these would prevent. They are adorable and warm looking but unfortunately, she somehow can pull them off while in the car seat.", "sentiment": "negative", "topics": {"0": "0.16384248", "1": "0.25999773", "2": "0.1859848", "3": "0.27516702", "6": "0.09989148"}}

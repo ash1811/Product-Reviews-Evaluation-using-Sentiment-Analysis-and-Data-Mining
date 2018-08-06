@@ -1,0 +1,1 @@
+{"text": "I think so much money this thing value&#65281;The right size!Reliable quality!It's very important that we find the right size&#12290;", "sentiment": "positive", "topics": {"0": "0.011025614", "1": "0.24211189", "2": "0.011006801", "3": "0.18078059", "4": "0.43673703", "5": "0.011070313", "6": "0.10726775"}}

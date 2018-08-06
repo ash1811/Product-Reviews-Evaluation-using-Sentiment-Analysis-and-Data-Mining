@@ -1,0 +1,1 @@
+{"text": "These are high quality shoes, which look and feel great. I do not have the use of my right arm, so laces are a problem, but the velcro clousures on these are easy to use. I'll keep them!", "sentiment": "negative", "topics": {"1": "0.27658963", "2": "0.083886445", "3": "0.44674072", "6": "0.17016572"}}

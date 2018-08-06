@@ -1,0 +1,1 @@
+{"text": "I've been ordering these slippers for the past several years now.  They are very comfortable and the fit is perfect.  They do wear out each year as I wear them a lot, but I kind of expect that.  Very good product.", "sentiment": "positive", "topics": {"1": "0.33291224", "3": "0.19239764", "4": "0.06698857", "5": "0.33973417", "6": "0.053655494"}}

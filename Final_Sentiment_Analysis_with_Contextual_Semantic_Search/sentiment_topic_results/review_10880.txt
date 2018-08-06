@@ -1,0 +1,1 @@
+{"text": "As always Isotoner quality, this slipper fits well and is well made.I wear them as house shoes,but can go out side for the paper with out worrying .They are sturdy enough to wear daily.I would recommend them to anyone.", "sentiment": "negative", "topics": {"0": "0.1562508", "1": "0.40945742", "4": "0.12678723", "5": "0.14827184", "6": "0.14729391"}}

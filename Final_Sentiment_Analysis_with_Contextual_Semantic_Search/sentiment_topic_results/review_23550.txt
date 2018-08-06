@@ -1,0 +1,1 @@
+{"text": "They are a little slippery on some surfaces, like my kitchen linoleum, but they look really nice and match most outfits. They are not very squishy, but they are very airy (the sole material must have a lot of air pockets) and comfortable.", "sentiment": "negative", "topics": {"0": "0.07926181", "1": "0.3479405", "2": "0.18308559", "3": "0.21648914", "5": "0.16022213"}}

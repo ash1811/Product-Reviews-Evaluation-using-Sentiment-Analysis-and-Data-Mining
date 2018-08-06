@@ -1,0 +1,1 @@
+{"text": "Not only good looking and comfortable, but also invigorating to your feet. Perfect for indoor shared shower shoes. Buy it today!", "sentiment": "negative", "topics": {"0": "0.099708326", "1": "0.3145144", "2": "0.096092485", "3": "0.11343124", "4": "0.27924803", "5": "0.010365218", "6": "0.08664032"}}

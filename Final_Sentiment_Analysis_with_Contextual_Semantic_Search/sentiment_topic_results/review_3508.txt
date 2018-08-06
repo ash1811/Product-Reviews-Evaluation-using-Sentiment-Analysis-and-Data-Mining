@@ -1,0 +1,1 @@
+{"text": "This is a beautifully fitting bra.  I have tried several different designs before I came to this Platex one.  It fits comfortibly and looks pretty doing it!  Love the straps.", "sentiment": "negative", "topics": {"1": "0.299709", "2": "0.23695366", "3": "0.11617545", "4": "0.13781108", "6": "0.19341698"}}

@@ -1,0 +1,1 @@
+{"text": "These run a little small but after a few wear they loosen up. Very rich color red and looks great on.", "sentiment": "negative", "topics": {"0": "0.011034027", "1": "0.40525547", "2": "0.011031811", "3": "0.30022782", "4": "0.011021838", "5": "0.15657605", "6": "0.10485298"}}

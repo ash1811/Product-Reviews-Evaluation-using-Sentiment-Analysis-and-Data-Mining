@@ -1,0 +1,1 @@
+{"text": "I have kidney failur  which had effect my walking  Ibought my first pair from shoe .com  had it  for 4 years  2010 until I replace them  with the  5 pairs i bought from amazon", "sentiment": "positive", "topics": {"1": "0.16882949", "2": "0.24545486", "4": "0.17804877", "5": "0.3162977", "6": "0.07543985"}}

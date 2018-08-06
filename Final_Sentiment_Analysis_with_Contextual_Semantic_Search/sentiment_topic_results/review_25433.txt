@@ -1,0 +1,1 @@
+{"text": "Not bad overall. The size is kind of bigger than others. Probably you would have to get one size down. The only thing I don't like this is its strange smells", "sentiment": "negative", "topics": {"0": "0.104356416", "1": "0.17612818", "2": "0.1661812", "3": "0.42604822", "6": "0.110427566"}}

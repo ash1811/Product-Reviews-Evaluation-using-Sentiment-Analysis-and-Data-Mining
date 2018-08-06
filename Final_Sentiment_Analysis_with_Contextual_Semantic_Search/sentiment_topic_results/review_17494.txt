@@ -1,0 +1,1 @@
+{"text": "I have these boots in black (with a slightly smaller heel). I work 10+ hours on concrete and the a insole I can comfortably wear both pairs all day long. I would LOVE to have them in RED.", "sentiment": "positive", "topics": {"1": "0.15275863", "2": "0.0750596", "3": "0.28775316", "4": "0.21840408", "5": "0.25170118"}}

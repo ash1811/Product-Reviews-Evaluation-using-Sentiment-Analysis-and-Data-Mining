@@ -1,0 +1,1 @@
+{"text": "this is a very fine necklace that's almost like wearing nothing but it is a nice accessory with other jewelry", "sentiment": "positive", "topics": {"0": "0.013021505", "1": "0.3838372", "2": "0.2832576", "3": "0.013018271", "4": "0.012988752", "5": "0.01299771", "6": "0.280879"}}

@@ -1,0 +1,1 @@
+{"text": "i went to jeweler and switched batteries, one in it was good? then it stopped again in a few days- weird -  and the crystal broke - it was a freak thing otherwise I love these skagen watches", "sentiment": "positive", "topics": {"0": "0.5398457", "2": "0.26970804", "3": "0.15854308"}}

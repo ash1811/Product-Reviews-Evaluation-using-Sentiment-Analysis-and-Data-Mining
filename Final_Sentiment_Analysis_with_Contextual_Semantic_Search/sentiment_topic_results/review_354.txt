@@ -1,0 +1,1 @@
+{"text": "Not a light-weight shirt, just the right weight of fabric. Seems well made. It was for my son so I don't know how it washed but I assume it was fine, no complaints from him.", "sentiment": "negative", "topics": {"1": "0.5795981", "2": "0.08602871", "4": "0.07857661", "5": "0.22886574"}}

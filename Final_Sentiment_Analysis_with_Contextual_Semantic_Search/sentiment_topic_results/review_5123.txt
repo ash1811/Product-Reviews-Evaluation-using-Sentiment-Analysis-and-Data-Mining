@@ -1,0 +1,1 @@
+{"text": "I wear these every day. They are great with boots or sandals. Wool keeps my feet warm even wet and these dry quickly.", "sentiment": "negative", "topics": {"1": "0.2898704", "2": "0.14592688", "3": "0.1237144", "4": "0.2155676", "5": "0.20581506"}}

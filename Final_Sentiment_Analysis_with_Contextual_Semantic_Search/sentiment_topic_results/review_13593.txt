@@ -1,0 +1,1 @@
+{"text": "I love them very much, nice works guys, exactly in ordered. It's real lovely color and I can wear with my pink bracelet I bought with same this ordered. I will look forward next orders from your site. Thanks and have a wonderful day...!!!", "sentiment": "negative", "topics": {"0": "0.2021396", "1": "0.4615241", "2": "0.07537038", "4": "0.14038847", "6": "0.10863796"}}

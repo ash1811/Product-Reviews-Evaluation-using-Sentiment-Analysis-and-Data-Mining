@@ -1,0 +1,1 @@
+{"text": "seems of very good quality, but the finish is poor, it seems an expensive ring but up close you notice scratches and cracks. I do not recommend", "sentiment": "negative", "topics": {"0": "0.1445044", "1": "0.3929048", "2": "0.34068245", "3": "0.010261497", "4": "0.010212362", "5": "0.091209434", "6": "0.010225072"}}

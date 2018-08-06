@@ -1,0 +1,1 @@
+{"text": "I'm only half kidding with that but it can only be used if you're not doing high impact sports.  Spinning would be OK if you're not doing too many jumps", "sentiment": "negative", "topics": {"0": "0.1075869", "1": "0.4223034", "2": "0.011034519", "3": "0.26159346", "4": "0.17540771", "5": "0.010999722", "6": "0.011074318"}}

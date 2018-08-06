@@ -1,0 +1,1 @@
+{"text": "I took these along to my son's wedding and after a few dances in stiletto heels, was so glad I thought to bring these along!! No one noticed them under my gown :) and I wore them for the rest of the evening!!!", "sentiment": "negative", "topics": {"0": "0.21668023", "2": "0.16326432", "4": "0.17889914", "5": "0.124853306", "6": "0.3003249"}}

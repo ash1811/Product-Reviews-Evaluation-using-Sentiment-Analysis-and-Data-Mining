@@ -1,0 +1,1 @@
+{"text": "I wear a size 8 women's shoe and the socks fit perfect.  The cushioning of the sole are perfect and help make walking comfortable.  They are also quite warm and great for cold weather.  I highly recommend them.", "sentiment": "positive", "topics": {"1": "0.4183718", "2": "0.059980955", "3": "0.21071032", "4": "0.056023", "5": "0.1846454", "6": "0.06454574"}}

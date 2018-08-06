@@ -1,0 +1,1 @@
+{"text": "I loved the shoe, but I ordered the wrong size and I found another that I liked better.  It is a very well made shoe, quality leather, nice fit.", "sentiment": "negative", "topics": {"1": "0.5598966", "2": "0.3126595", "6": "0.09371614"}}

@@ -1,0 +1,1 @@
+{"text": "Upper was fine, sole was fine and both had minimal wear.  What was not fine was the glue that held them together.  This shoe fell apart way sooner than it should have.  I do not recommend.  These aren't even worth $10.", "sentiment": "negative", "topics": {"0": "0.07432682", "2": "0.42896843", "3": "0.14757793", "4": "0.08413044", "5": "0.25137234"}}

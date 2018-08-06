@@ -1,0 +1,1 @@
+{"text": "they were too wide at the toes, and my little toe was almost coming out of the whole, a problem I have had with other keen sandals I tried", "sentiment": "negative", "topics": {"0": "0.011917625", "1": "0.7054517", "2": "0.14375046", "3": "0.01192709", "4": "0.011907844", "5": "0.01191883", "6": "0.1031264"}}

@@ -1,0 +1,1 @@
+{"text": "The jacket is well made and holds it's shape after washing. The color goes well with any shade of blue jean.", "sentiment": "negative", "topics": {"0": "0.0110290935", "1": "0.3586205", "2": "0.17350462", "3": "0.20062701", "4": "0.23416425", "5": "0.011059895", "6": "0.010994603"}}

@@ -1,0 +1,1 @@
+{"text": "NIce slipper, looks sturdy and cozy. I have not given them to my husband yet as they are a gift.Thats the only reason I gave them a 4 dont know how they will wear.They look and feel fabulous.", "sentiment": "positive", "topics": {"0": "0.27583846", "1": "0.16378452", "2": "0.21640758", "3": "0.08578458", "4": "0.1438117", "6": "0.10681127"}}

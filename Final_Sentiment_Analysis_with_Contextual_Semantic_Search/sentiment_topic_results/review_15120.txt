@@ -1,0 +1,1 @@
+{"text": "PRETTY RECIpient loved it So do I Price good stone fair would buy again moonstone is a favorite of mine very 70's", "sentiment": "negative", "topics": {"0": "0.3774421", "1": "0.46165404", "2": "0.010209759", "3": "0.010233534", "4": "0.010223843", "5": "0.120012455", "6": "0.010224287"}}

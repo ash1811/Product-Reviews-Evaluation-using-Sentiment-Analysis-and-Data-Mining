@@ -1,0 +1,1 @@
+{"text": "I got these for my elderly mother and she really loves them. They're easy to get on and off for her, and so soft and warm inside. They seem to hold up well with washing so far. She liked them so well she asked me to get her more, which I will.", "sentiment": "negative", "topics": {"0": "0.10347865", "1": "0.24256152", "3": "0.50258565", "4": "0.13416602"}}

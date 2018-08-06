@@ -1,0 +1,1 @@
+{"text": "Tool is of very good quality and works well to remove pins that are very firmly set in the watch.", "sentiment": "negative", "topics": {"0": "0.012998994", "1": "0.4838905", "2": "0.45108545", "3": "0.013007596", "4": "0.013021389", "5": "0.013002566", "6": "0.012993523"}}

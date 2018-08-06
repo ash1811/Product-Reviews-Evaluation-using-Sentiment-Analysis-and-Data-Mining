@@ -1,0 +1,1 @@
+{"text": "Sent these back. I like the ginger better. Ginger seems to be better quality and sizing is more accurate. I got an 8 and it was too small.", "sentiment": "negative", "topics": {"1": "0.48763138", "4": "0.16504316", "6": "0.3091095"}}

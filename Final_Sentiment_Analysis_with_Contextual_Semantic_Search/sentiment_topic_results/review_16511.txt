@@ -1,0 +1,1 @@
+{"text": "Honestly there is nothing special about this pendant. If you're buying a heart locket for a special person, then save up and buy something nicer because this one isn't that great.", "sentiment": "positive", "topics": {"0": "0.10485967", "1": "0.23071197", "2": "0.28651646", "4": "0.077209264", "5": "0.15865467", "6": "0.13310881"}}

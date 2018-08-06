@@ -1,0 +1,1 @@
+{"text": "he has to wear khaki's to work and likes wrinkle resisstant only, since he does his on laundry for his work clothes", "sentiment": "positive", "topics": {"0": "0.011925182", "1": "0.2929226", "2": "0.011942182", "3": "0.327661", "4": "0.011924186", "5": "0.3316642", "6": "0.011960633"}}

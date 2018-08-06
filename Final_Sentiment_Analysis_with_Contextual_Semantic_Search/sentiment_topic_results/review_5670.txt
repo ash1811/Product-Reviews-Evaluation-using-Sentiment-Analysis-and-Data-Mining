@@ -1,0 +1,1 @@
+{"text": "Nicely made and looks very durable......I am happy with all the Carhartt purchases I have made....the prices are really not that out of line considering the quality.", "sentiment": "negative", "topics": {"0": "0.010247074", "1": "0.6563097", "2": "0.010220604", "3": "0.09506707", "4": "0.20772624", "5": "0.010223963", "6": "0.010205333"}}

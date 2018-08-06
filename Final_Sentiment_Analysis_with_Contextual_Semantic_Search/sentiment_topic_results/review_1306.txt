@@ -1,0 +1,1 @@
+{"text": "these are great to walk around in all day.  Highly recommend these for lake use (good toe protection) and just general walking around.", "sentiment": "positive", "topics": {"1": "0.42724413", "5": "0.5250381"}}

@@ -1,0 +1,1 @@
+{"text": "This is a great little coat for any junior scientist. easy to clean and true to fit. I would recommend this.", "sentiment": "negative", "topics": {"0": "0.14970754", "1": "0.47761565", "2": "0.08148872", "3": "0.25813493", "4": "0.011014198", "5": "0.01100287", "6": "0.011036057"}}

@@ -1,0 +1,1 @@
+{"text": "Besides the gorgeous aqua color, these thongs fit so well and the color says summertime is here. Need I say more?", "sentiment": "negative", "topics": {"1": "0.28586468", "2": "0.10208085", "3": "0.10921586", "4": "0.2099922", "6": "0.27376994"}}

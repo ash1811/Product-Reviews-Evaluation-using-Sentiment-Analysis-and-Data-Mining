@@ -1,0 +1,1 @@
+{"text": "The quality is just fine, but I would order a size larger than normally worn.", "sentiment": "positive", "topics": {"0": "0.20988113", "1": "0.2737858", "2": "0.20631701", "3": "0.015964998", "4": "0.015931001", "5": "0.01590463", "6": "0.2622154"}}

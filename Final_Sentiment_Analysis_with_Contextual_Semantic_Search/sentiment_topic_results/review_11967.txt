@@ -1,0 +1,1 @@
+{"text": "I bought the socks for my brother.  He said that they looked nice but the material felt rough and uncomfortable on his feet even after washing them.  He told me never to buy these socks again.", "sentiment": "negative", "topics": {"1": "0.24464913", "2": "0.2149617", "4": "0.15514663", "5": "0.248836", "6": "0.1220649"}}

@@ -1,0 +1,1 @@
+{"text": "This was a little big for me but the nice thing is it is thick enough that you can double roll it and it looks just as good.  Quality is very nice - my go to cover for the shaved noggin.", "sentiment": "negative", "topics": {"0": "0.0891992", "1": "0.6247702", "2": "0.07746459", "4": "0.18328935"}}

@@ -1,0 +1,1 @@
+{"text": "These Women's Cotton Briefs are very comfortable and long lasting.I've purchased them before and when I was ready for some new ones, these are the ones for me.  They are not tight or uncomfortable.", "sentiment": "positive", "topics": {"1": "0.6031979", "3": "0.22217414", "4": "0.13644312"}}

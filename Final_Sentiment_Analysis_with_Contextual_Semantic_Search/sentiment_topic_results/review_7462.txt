@@ -1,0 +1,1 @@
+{"text": "This did not fit well at all. Not even kind of flattering. Don't waste your money on this item. This is definitely not for your average, natural girl.", "sentiment": "negative", "topics": {"0": "0.010243781", "1": "0.13808526", "2": "0.010263443", "3": "0.19581279", "4": "0.13624093", "5": "0.38989067", "6": "0.11946314"}}

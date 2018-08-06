@@ -1,0 +1,1 @@
+{"text": "I love my backpack. I especially loved the price. I had looked several places to replace a worn out back pack. I was happy to be able to find this one and purchased it for much less than I could have done locally.", "sentiment": "negative", "topics": {"1": "0.45209268", "2": "0.16010669", "4": "0.24861129", "6": "0.12047028"}}

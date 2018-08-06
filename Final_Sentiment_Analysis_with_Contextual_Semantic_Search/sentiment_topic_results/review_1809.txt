@@ -1,0 +1,1 @@
+{"text": "I really like these leggings - they have a firm feeling but light - they cover my figure well without being uncomfortable - thanks", "sentiment": "negative", "topics": {"0": "0.27260602", "1": "0.516322", "2": "0.011005981", "3": "0.011007401", "4": "0.16699271", "5": "0.011010427", "6": "0.01105541"}}

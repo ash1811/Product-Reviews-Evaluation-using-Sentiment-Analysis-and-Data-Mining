@@ -1,0 +1,1 @@
+{"text": "Purchased this after using my Sonic Wave jewelry cleaning machine with just water.  The difference between clean with this and just water is like night vs day.  I am very happy with this product.", "sentiment": "positive", "topics": {"0": "0.14862001", "1": "0.3278585", "2": "0.18093932", "4": "0.07363853", "5": "0.08956185", "6": "0.1714409"}}

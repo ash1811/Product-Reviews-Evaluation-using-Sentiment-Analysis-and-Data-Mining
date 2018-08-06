@@ -1,0 +1,1 @@
+{"text": "keeps me warm, maybe a bit too warm but still totally worth it. i look so cool smokin outside in my ski mask, all the other kids are jealous. buy this mask.", "sentiment": "negative", "topics": {"0": "0.20839997", "1": "0.29451212", "3": "0.19257453", "4": "0.10068534", "5": "0.18951456"}}

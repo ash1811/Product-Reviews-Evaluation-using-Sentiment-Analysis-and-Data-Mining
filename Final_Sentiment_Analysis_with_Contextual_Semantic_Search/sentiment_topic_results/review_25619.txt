@@ -1,0 +1,1 @@
+{"text": "I like these socks better than the more expensive ones that I have tried. They are comfortable and stay up on your leg. They are also much cheaper than many of the other socks available on Amazon...", "sentiment": "negative", "topics": {"1": "0.39890584", "4": "0.34988064", "5": "0.21745141"}}

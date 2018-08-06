@@ -1,0 +1,1 @@
+{"text": "My one star rating is fictional, since I returned the shoes and requested a larger size to be sent. When I get the new pair I will do a proper evaluation.", "sentiment": "positive", "topics": {"1": "0.14874044", "2": "0.40051764", "3": "0.2311557", "5": "0.09271501", "6": "0.110021"}}

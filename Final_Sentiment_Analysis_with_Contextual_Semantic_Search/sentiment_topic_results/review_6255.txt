@@ -1,0 +1,1 @@
+{"text": "This didn't fit my 3-month old niece which is on the small size so the fact that it markets itself as sizes 0-6 months isn't true.", "sentiment": "negative", "topics": {"0": "0.29858446", "1": "0.12117875", "2": "0.11908216", "3": "0.4281047", "4": "0.011014881", "5": "0.011014823", "6": "0.011020264"}}

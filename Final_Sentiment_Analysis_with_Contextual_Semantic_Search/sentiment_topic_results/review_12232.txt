@@ -1,0 +1,1 @@
+{"text": "it is simple, but warm and seems like it is durable. this is my first winter with this, and it still looks like new.", "sentiment": "negative", "topics": {"0": "0.011020363", "1": "0.41534013", "2": "0.11262581", "3": "0.22070244", "4": "0.011003642", "5": "0.011017582", "6": "0.21829003"}}

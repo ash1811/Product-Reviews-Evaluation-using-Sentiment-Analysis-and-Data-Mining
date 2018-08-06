@@ -1,0 +1,1 @@
+{"text": "This tennis shoes is excellent,very comfortable and light.is very soft to walk and I liked.I recommended to exercise and sports activities.", "sentiment": "negative", "topics": {"0": "0.01099714", "1": "0.23267311", "2": "0.36331123", "3": "0.20501734", "4": "0.010990328", "5": "0.16601372", "6": "0.010997108"}}

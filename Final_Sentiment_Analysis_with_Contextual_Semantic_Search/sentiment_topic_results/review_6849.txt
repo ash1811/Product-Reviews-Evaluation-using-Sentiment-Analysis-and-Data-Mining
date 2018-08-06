@@ -1,0 +1,1 @@
+{"text": "These pants are way too big. Perfect on the waist, but the thighs area is just far too wide. Will either need to be returned or adjusted.", "sentiment": "negative", "topics": {"0": "0.010217727", "1": "0.42656183", "2": "0.31117222", "3": "0.010255954", "4": "0.010259323", "5": "0.010220197", "6": "0.22131275"}}

@@ -1,0 +1,1 @@
+{"text": "Love this brand, it never disappoints. I did buy a half size larger so my heel would have plenty of space and it was a good call. Slip ons are so convenient for running errands.", "sentiment": "negative", "topics": {"0": "0.091480404", "1": "0.14615227", "3": "0.36029583", "4": "0.12451972", "5": "0.13412137", "6": "0.13627681"}}

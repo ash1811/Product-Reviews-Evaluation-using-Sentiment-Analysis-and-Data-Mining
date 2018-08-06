@@ -1,0 +1,1 @@
+{"text": "It's attractive and has good support, but it tends to make one look bustier--which for plus size women is a real consideration.  I wonder, can they do lift and minimize at the same time?", "sentiment": "negative", "topics": {"0": "0.067152955", "1": "0.51298094", "2": "0.10043739", "3": "0.120613545", "6": "0.18291274"}}

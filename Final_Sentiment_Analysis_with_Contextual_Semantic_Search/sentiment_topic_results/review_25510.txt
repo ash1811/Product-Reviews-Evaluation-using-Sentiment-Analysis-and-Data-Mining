@@ -1,0 +1,1 @@
+{"text": "This pasties are perfect for the backless clothing that you cant wear bras with.  And its not too thick where you can see it through your clothes.  I love and HIGHLY RECOMMEND IT.  gave me 10-20 uses", "sentiment": "negative", "topics": {"0": "0.13019963", "1": "0.29593763", "3": "0.33097446", "4": "0.22026627"}}

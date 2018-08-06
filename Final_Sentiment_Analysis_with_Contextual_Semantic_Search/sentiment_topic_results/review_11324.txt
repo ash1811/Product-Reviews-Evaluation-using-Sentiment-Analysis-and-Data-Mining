@@ -1,0 +1,1 @@
+{"text": "This is a typical situation when a product is offered Sm-XXlge w/o reference to what is large.  Is it size 36 or is it size 40 or size 44--who knows??? not worth cost of return.", "sentiment": "negative", "topics": {"0": "0.10250177", "4": "0.17611341", "5": "0.26577863", "6": "0.43297055"}}

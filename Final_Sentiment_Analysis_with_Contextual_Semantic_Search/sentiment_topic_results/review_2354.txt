@@ -1,0 +1,1 @@
+{"text": "I received the shoes on time as expected. I wear a size 11.5 and these fit perfect. good looking casual shoe and very comfortable.", "sentiment": "negative", "topics": {"1": "0.61191964", "2": "0.15387358", "3": "0.111972846", "4": "0.093523785"}}

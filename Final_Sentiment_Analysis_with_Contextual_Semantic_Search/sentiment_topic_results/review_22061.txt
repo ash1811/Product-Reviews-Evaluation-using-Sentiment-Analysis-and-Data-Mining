@@ -1,0 +1,1 @@
+{"text": "Very nice glove. Warm with a good fit. Quality appears high and they should last years. A step up from other cheaper wool gloves I have purchased and worth the higher cost.", "sentiment": "positive", "topics": {"0": "0.14202963", "1": "0.5434611", "2": "0.18818982", "3": "0.103646204"}}

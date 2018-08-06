@@ -1,0 +1,1 @@
+{"text": "It is just o.k.,It looks to, too plainHard to get claspedThis item is good for everyday wear", "sentiment": "negative", "topics": {"0": "0.43813583", "1": "0.050641883", "2": "0.01300067", "3": "0.013038027", "4": "0.1351582", "5": "0.013074841", "6": "0.3369505"}}

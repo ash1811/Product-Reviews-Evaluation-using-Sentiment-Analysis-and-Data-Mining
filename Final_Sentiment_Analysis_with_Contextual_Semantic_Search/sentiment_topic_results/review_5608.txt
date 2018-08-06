@@ -1,0 +1,1 @@
+{"text": "Like I said, wish they had a pocket, but other than that they fit great, look good, warm, and soft.", "sentiment": "negative", "topics": {"0": "0.013016129", "1": "0.8150142", "2": "0.013026479", "3": "0.119862266", "4": "0.013021459", "5": "0.013029304", "6": "0.013030189"}}

@@ -1,0 +1,1 @@
+{"text": "I'm rather happy with it, it gives me a goth sexy look for my cam site which is fun If i could post pictures i would", "sentiment": "negative", "topics": {"0": "0.33885926", "1": "0.2420027", "2": "0.07266791", "4": "0.15821207", "5": "0.17034875"}}

@@ -1,0 +1,1 @@
+{"text": "This is a nice boot. I ordered it as a gift, but ordered the wrong width and it has been returned and ordered the correct size.", "sentiment": "negative", "topics": {"0": "0.12139731", "1": "0.2972773", "2": "0.27313298", "3": "0.1928372", "4": "0.09149759", "5": "0.011917476", "6": "0.011940133"}}

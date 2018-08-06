@@ -1,0 +1,1 @@
+{"text": "If you don't mind paying $20+ for what looks like &#60;$1 in materials, you'll be happy.  Comfortable, seems like good workmanship.", "sentiment": "positive", "topics": {"0": "0.1511666", "1": "0.66375285", "2": "0.14410375", "3": "0.010243532", "4": "0.010225015", "5": "0.010224174", "6": "0.010284108"}}

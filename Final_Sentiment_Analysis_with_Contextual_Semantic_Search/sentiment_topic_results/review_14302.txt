@@ -1,0 +1,1 @@
+{"text": "You can't go wrong when you select 501 Levi's.  A perfect fit on my son.  Levi is one of the best products you can find.", "sentiment": "negative", "topics": {"1": "0.42650452", "2": "0.10790391", "4": "0.1760971", "5": "0.11993251", "6": "0.15047942"}}

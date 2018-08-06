@@ -1,0 +1,1 @@
+{"text": "I always buy/ wear a 44D bra.  This product held up great but was real tight on the back side.", "sentiment": "negative", "topics": {"0": "0.01100548", "1": "0.5357307", "2": "0.011011901", "3": "0.1932309", "4": "0.011006274", "5": "0.1519665", "6": "0.0860482"}}

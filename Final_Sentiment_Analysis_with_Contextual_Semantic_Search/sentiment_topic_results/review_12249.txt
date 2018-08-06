@@ -1,0 +1,1 @@
+{"text": "The slippers where great, very confortable, the fabric is great and it's very easy to wash, I even want another pair.If you want confortable slippers I totally recomend these!", "sentiment": "negative", "topics": {"1": "0.22057804", "3": "0.25747383", "5": "0.25635445", "6": "0.2416311"}}

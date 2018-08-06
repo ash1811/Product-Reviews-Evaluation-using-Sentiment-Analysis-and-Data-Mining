@@ -1,0 +1,1 @@
+{"text": "Great value for the money heavier than most scrub pants.  The size is a little smaller than the other brands I have purchased.", "sentiment": "negative", "topics": {"0": "0.011913342", "1": "0.2559023", "2": "0.011925526", "3": "0.4313867", "4": "0.011908838", "5": "0.2650387", "6": "0.011924617"}}

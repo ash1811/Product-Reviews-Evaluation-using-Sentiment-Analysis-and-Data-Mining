@@ -1,0 +1,1 @@
+{"text": "I wear a large and this is true to size. It's nice and soft, and comfortable on the skin.  Great for summer wear.", "sentiment": "negative", "topics": {"0": "0.011920201", "1": "0.7759645", "2": "0.011915568", "3": "0.16441235", "4": "0.011905487", "5": "0.011943936", "6": "0.011937939"}}

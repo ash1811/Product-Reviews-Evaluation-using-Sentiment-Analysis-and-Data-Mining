@@ -1,0 +1,1 @@
+{"text": "Would love to recommend the elegant piece! It arrived in good condition. It's great for small wrists. You are sure to receive compliments.", "sentiment": "negative", "topics": {"0": "0.16997208", "2": "0.19183646", "4": "0.16241847", "5": "0.30932352", "6": "0.14729418"}}

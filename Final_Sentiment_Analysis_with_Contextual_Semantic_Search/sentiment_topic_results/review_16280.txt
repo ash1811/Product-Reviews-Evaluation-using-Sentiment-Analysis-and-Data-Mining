@@ -1,0 +1,1 @@
+{"text": "Bought these for my son and he loves them.  True to size. Would highly recommend. Great price for Sperry Topsider.", "sentiment": "positive", "topics": {"0": "0.0102328295", "1": "0.55886245", "2": "0.010230614", "3": "0.2411498", "4": "0.15907046", "5": "0.010233795", "6": "0.0102200555"}}

@@ -1,0 +1,1 @@
+{"text": "I wear it to bed and can see what time it is in the middle of the night, which makes me happy.  But they die easily and this is probably my 8th or 10th in 15 years.", "sentiment": "negative", "topics": {"1": "0.50972134", "3": "0.2015478", "4": "0.1582764", "5": "0.10364424"}}

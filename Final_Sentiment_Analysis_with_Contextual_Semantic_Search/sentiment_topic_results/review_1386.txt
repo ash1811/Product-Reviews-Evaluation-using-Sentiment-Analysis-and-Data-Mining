@@ -1,0 +1,1 @@
+{"text": "Goro has four arms, you probably have two. Goro can carry more things and beat you up. So instead of getting beat up by Goro, put all your things in the Jansport Big Student Backpack and run away from him?", "sentiment": "negative", "topics": {"1": "0.3281496", "2": "0.1595411", "3": "0.128121", "4": "0.20630473", "5": "0.16595648"}}

@@ -1,0 +1,1 @@
+{"text": "Lightweight and cotton product with an excellent pattern for most jungle or darker forest applications. Deer have a hard time spotting me even when I am walking normal...Camouflaged from head to toe that is.", "sentiment": "negative", "topics": {"0": "0.19590014", "1": "0.06313585", "2": "0.14076456", "3": "0.123890914", "4": "0.07327489", "5": "0.3958745"}}

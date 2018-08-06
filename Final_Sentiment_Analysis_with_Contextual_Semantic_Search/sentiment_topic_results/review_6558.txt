@@ -1,0 +1,1 @@
+{"text": "These are the best T-shirts I have ever owned! They are made a heavy cotton fabric that is comfortable and absorbent. High quality fabric and stitching, and generously sized.", "sentiment": "negative", "topics": {"1": "0.4137472", "3": "0.1160904", "5": "0.2861877", "6": "0.15867418"}}

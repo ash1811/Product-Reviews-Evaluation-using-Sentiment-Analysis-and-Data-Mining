@@ -1,0 +1,1 @@
+{"text": "Nice little ring case. It holds the rings securely, keeps them organized, and fits nicely in a drawer or safe. Better than sifting through my jewelry box trying to find the right ring.", "sentiment": "negative", "topics": {"1": "0.64118356", "3": "0.26771057", "6": "0.065082245"}}

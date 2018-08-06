@@ -1,0 +1,1 @@
+{"text": "While this is a cute shoe and I do like them, they fit weird , no half sizes. Not alot of support either. But for wearing around the house not bad.", "sentiment": "negative", "topics": {"1": "0.25171593", "2": "0.17698582", "3": "0.53551203"}}

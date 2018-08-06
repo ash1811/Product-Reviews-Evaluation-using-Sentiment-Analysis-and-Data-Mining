@@ -1,0 +1,1 @@
+{"text": "I always wear a 9 in Keen shoes, but these were too short and my toes rubbed the end. I was disappointed and had to return them. Pretty colors, though.", "sentiment": "negative", "topics": {"0": "0.237594", "1": "0.20039439", "2": "0.12241193", "3": "0.19323857", "6": "0.22841305"}}

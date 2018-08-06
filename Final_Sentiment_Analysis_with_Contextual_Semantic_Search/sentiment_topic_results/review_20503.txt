@@ -1,0 +1,1 @@
+{"text": "I used this to adjust links on a michael kors watch and a timex that I bought online.  It was really easy to use and made short work of changing out links.", "sentiment": "negative", "topics": {"0": "0.21911359", "2": "0.29396033", "5": "0.3137589", "6": "0.14926091"}}

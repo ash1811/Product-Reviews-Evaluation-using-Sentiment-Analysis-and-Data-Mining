@@ -1,0 +1,1 @@
+{"text": "This is a beautiful ring.  I purchased it for my husband and was ecstatic about the quality and beauty of the ring.  My husband loved it as well.  The price was phenomenal.", "sentiment": "positive", "topics": {"0": "0.097467534", "1": "0.55740476", "2": "0.010208672", "3": "0.010216342", "4": "0.22415665", "5": "0.09033783", "6": "0.0102082"}}

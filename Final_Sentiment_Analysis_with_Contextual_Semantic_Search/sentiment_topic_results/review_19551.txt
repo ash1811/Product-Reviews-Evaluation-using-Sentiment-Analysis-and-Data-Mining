@@ -1,0 +1,1 @@
+{"text": "I love love love these boots, they are so comfortable, and cute. The picture truly does not do them justice. :) I am very pleased with these.", "sentiment": "positive", "topics": {"0": "0.16851985", "1": "0.2999036", "2": "0.09583057", "3": "0.011965379", "4": "0.39989296", "5": "0.0119768875", "6": "0.011910723"}}

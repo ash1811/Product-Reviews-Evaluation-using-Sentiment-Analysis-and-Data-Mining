@@ -1,0 +1,1 @@
+{"text": "Super cheap glasses, look awesome! Full size aviators! Not polarized, but then again, you're not paying very much either. I bought these for the look and got exactly what I wanted.", "sentiment": "negative", "topics": {"0": "0.22505507", "1": "0.49092302", "3": "0.19128501", "4": "0.07008659"}}

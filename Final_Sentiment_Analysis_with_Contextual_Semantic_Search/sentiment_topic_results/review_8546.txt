@@ -1,0 +1,1 @@
+{"text": "Sized incorrectly and could not obtain them in the size / length needed for replacement.  Had to return for full refund.  Disappointing considering the brand.", "sentiment": "positive", "topics": {"0": "0.28423223", "2": "0.18033512", "3": "0.1447155", "5": "0.14420232", "6": "0.22740664"}}

@@ -1,0 +1,1 @@
+{"text": "Had to return this because my cell phone wouldn't even fit into it.  This would be perfect for cash/credit cards only.", "sentiment": "negative", "topics": {"0": "0.011959356", "1": "0.4222695", "2": "0.25232512", "3": "0.011932999", "4": "0.10637292", "5": "0.011925913", "6": "0.18321423"}}

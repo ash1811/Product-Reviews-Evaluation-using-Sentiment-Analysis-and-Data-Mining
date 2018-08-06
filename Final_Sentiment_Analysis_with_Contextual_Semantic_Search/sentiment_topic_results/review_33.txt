@@ -1,0 +1,1 @@
+{"text": "couldnt ask for a better t shirt really, nice tight knit, tagless neck, the tag at the waste is easily removed to prevent it from constantly trying to stick out.and the price was cheaper then less well made shirts, so its 5 stars all the way.", "sentiment": "positive", "topics": {"0": "0.09152252", "1": "0.63676196", "6": "0.251917"}}

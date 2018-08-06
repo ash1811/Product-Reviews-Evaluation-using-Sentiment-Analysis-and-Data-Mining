@@ -1,0 +1,1 @@
+{"text": "My husband tells me they are warm and comfortable.  Ordered them as a Christmas gift, they arrived on time and in good shape.  I would buy from this merchant again.", "sentiment": "negative", "topics": {"0": "0.18568172", "1": "0.33891305", "3": "0.21356273", "4": "0.23495069"}}

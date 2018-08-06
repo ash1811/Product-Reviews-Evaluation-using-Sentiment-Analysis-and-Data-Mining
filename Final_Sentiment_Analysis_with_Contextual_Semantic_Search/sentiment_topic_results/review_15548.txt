@@ -1,0 +1,1 @@
+{"text": "Just a tiny bit too long, otherwise excellent fit and quality. Tried others since residency. I get only Landau now.", "sentiment": "negative", "topics": {"0": "0.09721744", "1": "0.445604", "2": "0.12567005", "3": "0.1542402", "4": "0.09882366", "6": "0.06889705"}}

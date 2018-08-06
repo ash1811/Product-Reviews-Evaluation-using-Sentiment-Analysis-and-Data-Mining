@@ -1,0 +1,1 @@
+{"text": "this is a great costume. size is true. i ordered it with the matching gloves. great gift for little boys who love spiderman", "sentiment": "negative", "topics": {"0": "0.35405564", "1": "0.35901168", "2": "0.09350903", "3": "0.010267385", "4": "0.01024861", "5": "0.010223238", "6": "0.16268441"}}

@@ -1,0 +1,1 @@
+{"text": "Great chain.  I bought 2 different lengths for myself and one for my sister.  They do look awesome with the  Swarvoski pendants.", "sentiment": "negative", "topics": {"0": "0.6295991", "1": "0.011036575", "2": "0.0110429", "3": "0.011004247", "4": "0.18603048", "5": "0.14028038", "6": "0.01100629"}}

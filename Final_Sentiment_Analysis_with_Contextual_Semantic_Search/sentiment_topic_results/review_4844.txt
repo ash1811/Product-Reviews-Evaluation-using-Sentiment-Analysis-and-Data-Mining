@@ -1,0 +1,1 @@
+{"text": "She picks out these things to go with her outfits. She wraps my presents and I get to unwrap them", "sentiment": "positive", "topics": {"0": "0.015912615", "1": "0.61420107", "2": "0.306158", "3": "0.015959285", "4": "0.015934937", "5": "0.01594209", "6": "0.015891971"}}

@@ -1,0 +1,1 @@
+{"text": "I have several of these and they are very durable.  This one is tiny and very cute.  I would buy in every color!", "sentiment": "negative", "topics": {"0": "0.014331035", "1": "0.45022684", "2": "0.014349332", "3": "0.01433371", "4": "0.24691877", "5": "0.2455358", "6": "0.014304481"}}

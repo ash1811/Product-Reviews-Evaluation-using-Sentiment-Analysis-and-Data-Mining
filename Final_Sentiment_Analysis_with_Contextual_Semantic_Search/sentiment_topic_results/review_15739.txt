@@ -1,0 +1,1 @@
+{"text": "These boots are ok. They are comfortable but they run big. If ordering online, I would suggest ordering a half size or a whole size smaller. Buyer beware.", "sentiment": "positive", "topics": {"0": "0.23961155", "1": "0.26088667", "3": "0.35425094", "4": "0.12137546"}}

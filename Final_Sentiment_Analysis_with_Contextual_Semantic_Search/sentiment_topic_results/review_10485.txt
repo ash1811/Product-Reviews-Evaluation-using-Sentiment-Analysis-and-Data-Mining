@@ -1,0 +1,1 @@
+{"text": "wifes 2nd pair. repeat customer. first pair survived 3 yrs with winter trips to the mail box, she loves them.", "sentiment": "negative", "topics": {"1": "0.4971475", "2": "0.20285061", "3": "0.266215"}}

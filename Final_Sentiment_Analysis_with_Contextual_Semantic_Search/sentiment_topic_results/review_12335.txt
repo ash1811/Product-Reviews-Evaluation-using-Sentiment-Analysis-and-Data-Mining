@@ -1,0 +1,1 @@
+{"text": "Knit Beanie Visor Hat - Scull Cap Style - BlackI bought this hat. Very well made good price too! I rather buy these then Oakleys!", "sentiment": "negative", "topics": {"1": "0.30745962", "2": "0.23675974", "3": "0.1589219", "4": "0.21745345", "6": "0.06432497"}}

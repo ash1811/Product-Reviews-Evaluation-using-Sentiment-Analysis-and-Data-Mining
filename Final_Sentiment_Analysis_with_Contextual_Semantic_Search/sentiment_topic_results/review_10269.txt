@@ -1,0 +1,1 @@
+{"text": "Exactly what I wanted.  This earring is intended as a gift for an avid motorcyclist.  He will only wear one but now he has a spare.Stunning, arrived on time and looks very expensive.", "sentiment": "negative", "topics": {"0": "0.47014835", "1": "0.16761516", "2": "0.11220941", "6": "0.22136688"}}

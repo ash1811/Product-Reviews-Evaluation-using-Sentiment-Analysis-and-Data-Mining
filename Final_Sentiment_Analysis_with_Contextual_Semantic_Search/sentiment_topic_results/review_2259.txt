@@ -1,0 +1,1 @@
+{"text": "ordered a number of these for bridesmaids because their dresses were a bit clingy and they really liked them!  Great buy!", "sentiment": "negative", "topics": {"0": "0.011924833", "1": "0.75021076", "2": "0.19015966", "3": "0.011959293", "4": "0.011921105", "5": "0.0119147105", "6": "0.011909623"}}

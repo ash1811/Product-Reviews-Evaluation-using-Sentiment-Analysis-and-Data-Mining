@@ -1,0 +1,1 @@
+{"text": "made me feel like a gangster.. It was a great find for my roaring twenties party, most of the party goers did not even think of the gangster hat... I did...", "sentiment": "negative", "topics": {"0": "0.23065233", "3": "0.146964", "4": "0.111516066", "5": "0.3954722", "6": "0.098544344"}}

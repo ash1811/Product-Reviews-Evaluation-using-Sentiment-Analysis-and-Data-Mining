@@ -1,0 +1,1 @@
+{"text": "I think these scarves are very nice, especially considering the price.  They are soft and silky, with a nice sheen.  I don't know the fabric content, but for this price and quality, who cares?", "sentiment": "positive", "topics": {"1": "0.5735868", "2": "0.07295134", "3": "0.105042", "5": "0.22310579"}}

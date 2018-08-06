@@ -1,0 +1,1 @@
+{"text": "Fit as expected. I knew that they would strech a little. I normally wear 38 pants and these fit easily", "sentiment": "positive", "topics": {"0": "0.010997119", "1": "0.7237089", "2": "0.010994963", "3": "0.12538163", "4": "0.010993663", "5": "0.011037317", "6": "0.106886394"}}

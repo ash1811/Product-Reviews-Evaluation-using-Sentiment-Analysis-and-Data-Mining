@@ -1,0 +1,1 @@
+{"text": "Not bad quality, but it is not showing in the images.", "sentiment": "positive", "topics": {"0": "0.028571498", "1": "0.4286472", "2": "0.028585974", "3": "0.028571483", "4": "0.42846012", "5": "0.028592193", "6": "0.028571576"}}

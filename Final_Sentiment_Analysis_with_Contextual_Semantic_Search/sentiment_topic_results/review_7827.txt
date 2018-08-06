@@ -1,0 +1,1 @@
+{"text": "None of my bands would fit this tool. I have standard size bands and this tool is just too small. It only fits ladies watches. Also, the pins are too fragile. Why do you think they need to include THREE!", "sentiment": "positive", "topics": {"1": "0.25726703", "2": "0.10417691", "3": "0.2052891", "4": "0.26191753", "6": "0.15770862"}}

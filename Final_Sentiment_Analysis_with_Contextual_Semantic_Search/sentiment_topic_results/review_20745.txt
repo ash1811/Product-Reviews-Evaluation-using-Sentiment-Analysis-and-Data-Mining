@@ -1,0 +1,1 @@
+{"text": "Just what my husband needed and loves under his shirts, good quality Excellent buy. Will buy again , when needed.", "sentiment": "positive", "topics": {"0": "0.013003317", "1": "0.64813095", "2": "0.131833", "3": "0.01300014", "4": "0.16797583", "5": "0.013010242", "6": "0.0130464975"}}

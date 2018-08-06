@@ -1,0 +1,1 @@
+{"text": "These fit perfectly, just the right length, good quality fabric...just what I needed and wanted. Thankfully, Amazon come through again.", "sentiment": "negative", "topics": {"0": "0.0102269715", "1": "0.46106508", "2": "0.010218441", "3": "0.010220681", "4": "0.20860393", "5": "0.010231474", "6": "0.28943345"}}

@@ -1,0 +1,1 @@
+{"text": "Very nice looking hiking boot, good price.Made well and fit's nicely, confortable.They met my expections Timberland make'shigh quality products", "sentiment": "negative", "topics": {"0": "0.13911034", "1": "0.3975328", "2": "0.07160844", "4": "0.049338557", "5": "0.13628928", "6": "0.19770694"}}

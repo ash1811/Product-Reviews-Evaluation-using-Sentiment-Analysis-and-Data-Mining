@@ -1,0 +1,1 @@
+{"text": "This underwear is warm and comfortable but very short. I've searched amazon for two months trying to find longer ones with no results. I'm 6'1&#34; and this underwear is about 6 inches to short.", "sentiment": "negative", "topics": {"0": "0.13414463", "1": "0.34906983", "3": "0.30342072", "4": "0.105777085", "5": "0.09392007"}}

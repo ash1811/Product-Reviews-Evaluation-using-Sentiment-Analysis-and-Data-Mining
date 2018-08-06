@@ -1,0 +1,1 @@
+{"text": "Arrived on time and as described.  Toasty slippers on chilly days at home.  Fit perfectly and have no complaints at all.", "sentiment": "negative", "topics": {"0": "0.19516721", "1": "0.5445684", "2": "0.0110111125", "3": "0.011003385", "4": "0.10310021", "5": "0.01102456", "6": "0.124125056"}}

@@ -1,0 +1,1 @@
+{"text": "order a size larger than your actual shoe size otherwise they will be too small to fit over your shoe", "sentiment": "negative", "topics": {"0": "0.15203561", "1": "0.12954734", "2": "0.35513884", "3": "0.013050304", "4": "0.013020712", "5": "0.013017196", "6": "0.32419"}}

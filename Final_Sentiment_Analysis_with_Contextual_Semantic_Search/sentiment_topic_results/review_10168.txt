@@ -1,0 +1,1 @@
+{"text": "These earrings match the pendant I bought.  They look really pretty together. They way they are cut.. they shine different colors.", "sentiment": "negative", "topics": {"0": "0.2530679", "1": "0.31612596", "2": "0.010221426", "3": "0.010260935", "4": "0.010250054", "5": "0.3898368", "6": "0.010236925"}}

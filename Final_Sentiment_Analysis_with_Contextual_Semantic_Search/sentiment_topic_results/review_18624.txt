@@ -1,0 +1,1 @@
+{"text": "It ran for two weeks. I am surprised since I have own many Timex's over the years. None have ever quite this soon. It took several  weeks to get but that has nothing to do with the watch.", "sentiment": "negative", "topics": {"2": "0.28241175", "3": "0.38003406", "4": "0.048917767", "5": "0.104300156", "6": "0.16926801"}}

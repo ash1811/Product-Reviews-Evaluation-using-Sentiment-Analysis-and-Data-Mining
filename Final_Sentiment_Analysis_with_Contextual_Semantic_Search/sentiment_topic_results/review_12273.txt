@@ -1,0 +1,1 @@
+{"text": "Bought the keepsake box to give as presents.  I just love them and you will make a friends day.  Good quality and good price.", "sentiment": "negative", "topics": {"0": "0.010229321", "1": "0.5328842", "2": "0.010209168", "3": "0.23685005", "4": "0.010254651", "5": "0.18936087", "6": "0.010211742"}}

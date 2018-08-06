@@ -1,0 +1,1 @@
+{"text": "I purchased these for my 17 year old granddaughter's birthday. They arrived as promised. Good quality product. She just loved them!", "sentiment": "negative", "topics": {"0": "0.20283131", "1": "0.30241925", "2": "0.010308323", "3": "0.2596636", "4": "0.107875235", "5": "0.106617734", "6": "0.010284529"}}

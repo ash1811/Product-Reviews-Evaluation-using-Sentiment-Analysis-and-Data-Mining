@@ -1,0 +1,1 @@
+{"text": "This fits a little small, I would order a size up but is quite durable. I handle metal a lot during the day and it is holding up quite well.", "sentiment": "negative", "topics": {"0": "0.2985775", "1": "0.4105785", "3": "0.16731688", "4": "0.096664935"}}

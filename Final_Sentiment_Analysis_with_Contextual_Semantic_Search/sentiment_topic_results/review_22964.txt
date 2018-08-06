@@ -1,0 +1,1 @@
+{"text": "They run a bit large, so you might want to think about that. Still, they were acceptable. They are something that you could buy in JC Penneys, and I guess I was expecting a finer finish in the fabric.", "sentiment": "negative", "topics": {"0": "0.07059429", "1": "0.32188863", "2": "0.2551418", "3": "0.12580416", "4": "0.21220538"}}

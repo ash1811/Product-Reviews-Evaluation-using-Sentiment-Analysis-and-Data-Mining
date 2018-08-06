@@ -1,0 +1,1 @@
+{"text": "This link remover works, definitely.  BUT, it is so flimsy it took me over 6 pins (lucky for me I ordered a few extra sets...) to remove two links.  For the price I still think it is a decent deal.", "sentiment": "positive", "topics": {"1": "0.5356155", "2": "0.080727614", "3": "0.23151053", "5": "0.1326154"}}

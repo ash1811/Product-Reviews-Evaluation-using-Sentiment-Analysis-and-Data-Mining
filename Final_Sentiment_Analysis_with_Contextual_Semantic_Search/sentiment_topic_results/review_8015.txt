@@ -1,0 +1,1 @@
+{"text": "I bought one of these for my husband for Christmas and he loved it.  He wore it all the time, so I ended up buying him another one.  Fit well and is a great layer in the winter.", "sentiment": "negative", "topics": {"0": "0.16070916", "1": "0.4815961", "4": "0.13913232", "6": "0.19464573"}}

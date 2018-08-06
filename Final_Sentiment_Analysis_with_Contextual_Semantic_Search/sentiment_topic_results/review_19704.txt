@@ -1,0 +1,1 @@
+{"text": "my old one broke. My pedometer one stopped working. So I needed another one I could sweat in.This one is standard but works well.  The blue is a different shade online than in person but that's ok!", "sentiment": "negative", "topics": {"0": "0.120138444", "1": "0.21181035", "4": "0.42452595", "5": "0.059948824", "6": "0.17209788"}}

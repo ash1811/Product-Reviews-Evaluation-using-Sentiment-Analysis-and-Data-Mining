@@ -1,0 +1,1 @@
+{"text": "Exactly what I had expected. Worked miracles for my navy boots. Wish I had found this earlier. An addition to my shoe closet!", "sentiment": "positive", "topics": {"0": "0.0111785475", "1": "0.0110256225", "2": "0.3406524", "3": "0.10386412", "4": "0.36888736", "5": "0.0110051315", "6": "0.1533868"}}

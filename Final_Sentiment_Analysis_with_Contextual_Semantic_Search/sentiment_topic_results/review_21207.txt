@@ -1,0 +1,1 @@
+{"text": "I bought these shoes for my Halloween costume, and I still wear them over a year later! They are exactly as pictured!", "sentiment": "negative", "topics": {"0": "0.3718562", "1": "0.013058203", "2": "0.15485094", "3": "0.42114446", "4": "0.01302379", "5": "0.013052374", "6": "0.013014025"}}

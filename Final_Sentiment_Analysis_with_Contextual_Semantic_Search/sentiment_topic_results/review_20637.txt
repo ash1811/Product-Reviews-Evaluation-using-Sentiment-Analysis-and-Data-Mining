@@ -1,0 +1,1 @@
+{"text": "Three Siamese cats almost ruined my leather furniture. Got this and was able to make the cat scratches less noticeable in my dark leather furniture.", "sentiment": "negative", "topics": {"0": "0.2501104", "1": "0.06775164", "2": "0.24752982", "3": "0.33825192", "6": "0.08047669"}}

@@ -1,0 +1,1 @@
+{"text": "the only bad thing is it does not have pocket, but it fits as expected and Price is really good.", "sentiment": "negative", "topics": {"0": "0.015894445", "1": "0.904667", "2": "0.015890704", "3": "0.015889063", "4": "0.015892697", "5": "0.01588502", "6": "0.01588111"}}

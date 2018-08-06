@@ -1,0 +1,1 @@
+{"text": "I run several times a week and always wear a pair of theses socks.  Great quality comfortable sock that does help alleviate some of the pounding my poor feet experience when I run.  I liked the socks so much I bought 4 more pair.", "sentiment": "positive", "topics": {"1": "0.26996043", "2": "0.047988795", "3": "0.39976266", "5": "0.22299823", "6": "0.048662256"}}

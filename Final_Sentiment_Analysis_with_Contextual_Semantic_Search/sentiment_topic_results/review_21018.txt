@@ -1,0 +1,1 @@
+{"text": "I love these.  No worry about Panty lines.  Makes everythng so much more comfortable while being dressed up.  Stay up with no problem.", "sentiment": "negative", "topics": {"0": "0.27726293", "1": "0.28261018", "2": "0.010237669", "3": "0.25068405", "4": "0.010277386", "5": "0.01022757", "6": "0.15870024"}}

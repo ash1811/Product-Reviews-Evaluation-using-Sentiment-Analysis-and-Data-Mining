@@ -1,0 +1,1 @@
+{"text": "I'm an adult so obviously it was a bit small but it was good for a costume. Not the best quality if you want something durable. It is still in one piece though, after a party.", "sentiment": "positive", "topics": {"0": "0.18596016", "1": "0.46981156", "3": "0.24348116", "6": "0.07671681"}}

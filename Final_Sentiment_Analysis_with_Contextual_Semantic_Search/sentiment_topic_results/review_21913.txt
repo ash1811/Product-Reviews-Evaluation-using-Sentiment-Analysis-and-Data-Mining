@@ -1,0 +1,1 @@
+{"text": "I bought this for my boyfriend for Xmas who already has a Carhartt jacket, but he loved this one so much better. They have gotten less bulky, but still just as warm! True to size.", "sentiment": "negative", "topics": {"1": "0.3073071", "2": "0.18178475", "3": "0.16912986", "4": "0.14976414", "5": "0.0860239", "6": "0.098046444"}}

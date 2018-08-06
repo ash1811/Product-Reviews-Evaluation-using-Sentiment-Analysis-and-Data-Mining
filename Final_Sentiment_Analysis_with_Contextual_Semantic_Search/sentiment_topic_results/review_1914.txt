@@ -1,0 +1,1 @@
+{"text": "This product works exactly as stated on-line or in magazines.  It does not roll at the edges and helps keep you together.", "sentiment": "negative", "topics": {"0": "0.41888037", "1": "0.011940256", "2": "0.0119272275", "3": "0.01195565", "4": "0.011932362", "5": "0.37782574", "6": "0.15553841"}}

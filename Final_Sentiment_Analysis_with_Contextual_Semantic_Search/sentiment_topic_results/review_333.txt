@@ -1,0 +1,1 @@
+{"text": "This is a really nice alternative to my husbands usual weekend T-shirts. This is not what I would consider a &#34;nice&#34; shirt if you were trying to dress it up or anything. It's exactly the product you should be getting for the price.", "sentiment": "positive", "topics": {"0": "0.07515639", "1": "0.649389", "2": "0.07441387", "4": "0.07262919", "5": "0.11332453"}}

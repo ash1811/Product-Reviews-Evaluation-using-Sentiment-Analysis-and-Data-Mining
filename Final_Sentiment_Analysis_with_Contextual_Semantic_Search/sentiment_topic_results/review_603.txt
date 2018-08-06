@@ -1,0 +1,1 @@
+{"text": "Well sewn, comfortable, really good fit, great fabric, waist and leg openings are very comfortable and stay where they belong without binding.", "sentiment": "positive", "topics": {"1": "0.75485295", "2": "0.2028999"}}

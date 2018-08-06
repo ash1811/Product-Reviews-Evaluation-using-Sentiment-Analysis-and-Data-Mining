@@ -1,0 +1,1 @@
+{"text": "I like these earrings they are cute with jeans and simple looks. They are not fancy or sophisticated, but good for fun daytime looks.", "sentiment": "negative", "topics": {"0": "0.43783003", "1": "0.37448645", "2": "0.011003927", "3": "0.011016653", "4": "0.011012246", "5": "0.011052917", "6": "0.14359775"}}

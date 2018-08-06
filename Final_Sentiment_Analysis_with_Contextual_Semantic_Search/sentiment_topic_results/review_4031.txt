@@ -1,0 +1,1 @@
+{"text": "They arrived today! They fit good,.  My other pair,part of the bottom came off(They were not Isotoner, and they were not from Amazon).  They are nice ,comfortable, and warm. Feels so good", "sentiment": "negative", "topics": {"0": "0.14600274", "1": "0.34729126", "3": "0.17005572", "4": "0.2345294", "5": "0.08423911"}}

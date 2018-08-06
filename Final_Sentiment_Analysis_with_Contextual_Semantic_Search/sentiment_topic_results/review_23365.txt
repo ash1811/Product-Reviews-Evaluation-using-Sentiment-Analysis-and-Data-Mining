@@ -1,0 +1,1 @@
+{"text": "I need a hard rocker sole to keep from having pain in the big toes and this looked like a hard plastic sole. Unfortunately I could feel the floor through the sole.  Had to send them back.", "sentiment": "negative", "topics": {"0": "0.3491923", "1": "0.1548062", "2": "0.06254955", "3": "0.21064655", "4": "0.13772579", "6": "0.07824849"}}

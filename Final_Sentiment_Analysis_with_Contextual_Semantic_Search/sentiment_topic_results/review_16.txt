@@ -1,0 +1,1 @@
+{"text": "Russel Athletic has become a favorite brand for my husband. Does not shrink after being washed! Will continue to be a faithful customer!", "sentiment": "positive", "topics": {"0": "0.011926647", "1": "0.38381487", "2": "0.011920908", "3": "0.20578851", "4": "0.23262365", "5": "0.14199263", "6": "0.011932799"}}

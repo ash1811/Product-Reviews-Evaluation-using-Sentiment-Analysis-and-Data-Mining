@@ -1,0 +1,1 @@
+{"text": "I purchased these for my husband to replace his much worn Acorn Sheepskin slippers.  He was pleased with these, they fit well and he felt llike they were well constructed.  We will purchase again if they are available.", "sentiment": "positive", "topics": {"0": "0.10961844", "1": "0.43652007", "2": "0.14384425", "3": "0.06673557", "4": "0.06710023", "6": "0.16865137"}}

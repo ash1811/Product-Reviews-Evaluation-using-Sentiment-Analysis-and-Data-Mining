@@ -1,0 +1,1 @@
+{"text": "Perfect pants! I bought them for work and they are just what the doctor ordered. Absolutely nothing wrong with them! perfect!", "sentiment": "negative", "topics": {"0": "0.13702948", "1": "0.43715012", "2": "0.37803861", "3": "0.0119475685", "4": "0.011924893", "5": "0.0119415475", "6": "0.011967785"}}

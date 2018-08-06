@@ -1,0 +1,1 @@
+{"text": "Great errings. I got these for my 12 y.o. neice but decided they were too long for her, but loved them for myself, very cute.", "sentiment": "negative", "topics": {"0": "0.12040361", "1": "0.38720626", "2": "0.010995621", "3": "0.33776", "4": "0.010992993", "5": "0.011025487", "6": "0.12161602"}}

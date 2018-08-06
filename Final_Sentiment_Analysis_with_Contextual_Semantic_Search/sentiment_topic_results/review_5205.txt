@@ -1,0 +1,1 @@
+{"text": "What can I say...these provide classic ugg coziness with awesome fit and quality. Just wish they were not made in China!", "sentiment": "negative", "topics": {"0": "0.011914028", "1": "0.4587014", "2": "0.1630751", "3": "0.0119176665", "4": "0.011912618", "5": "0.33057398", "6": "0.011905208"}}

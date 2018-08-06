@@ -1,0 +1,1 @@
+{"text": "I make sure I get 2 pairs a year. Comfy great quality. I usually wear a 9 but these call for 8.5  Really great sneakers", "sentiment": "negative", "topics": {"0": "0.09395309", "1": "0.19006857", "2": "0.08260628", "3": "0.18744378", "4": "0.06872156", "5": "0.30210397", "6": "0.07510276"}}

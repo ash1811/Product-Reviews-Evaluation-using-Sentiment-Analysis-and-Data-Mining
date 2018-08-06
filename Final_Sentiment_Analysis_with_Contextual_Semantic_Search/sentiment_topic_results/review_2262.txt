@@ -1,0 +1,1 @@
+{"text": "Very good quality boat shoe. color is great, material is good, but As user of Timberland's brand, among others, Dockers is definitely Narrow. but this shoes is great", "sentiment": "negative", "topics": {"0": "0.11419243", "1": "0.34453332", "2": "0.18209821", "3": "0.13391149", "5": "0.21021447"}}

@@ -1,0 +1,1 @@
+{"text": "Soft and silky feeling, but for the price...I would opt for something else.  Support isnt really there, but very comfy!", "sentiment": "negative", "topics": {"0": "0.010220742", "1": "0.33302602", "2": "0.29483387", "3": "0.257789", "4": "0.010214603", "5": "0.010232753", "6": "0.083683014"}}

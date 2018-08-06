@@ -1,0 +1,1 @@
+{"text": "The Seiko watch was larger than I thought and the band was too big.  I took itto the jeweler and he took a couple links out and now it is fine.  I like wearing itand it looks real nice.", "sentiment": "positive", "topics": {"1": "0.2819121", "2": "0.262435", "3": "0.11116131", "5": "0.12876748", "6": "0.20136905"}}

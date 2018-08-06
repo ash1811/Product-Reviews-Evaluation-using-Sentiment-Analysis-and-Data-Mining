@@ -1,0 +1,1 @@
+{"text": "This is a basic cotton tee shirt that fits as expected and wears well.  The color was interesting and goes with a lot of pants.", "sentiment": "negative", "topics": {"0": "0.010220706", "1": "0.48031777", "2": "0.01022193", "3": "0.07893874", "4": "0.010249248", "5": "0.3122147", "6": "0.097836874"}}

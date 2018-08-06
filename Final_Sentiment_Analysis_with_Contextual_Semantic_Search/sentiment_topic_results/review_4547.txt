@@ -1,0 +1,1 @@
+{"text": "Just like FloRida says &#34;Reeboks with the straps.&#34; Can't beat them for comfort and support when on your feet all day.  So far so good.", "sentiment": "positive", "topics": {"0": "0.01023646", "1": "0.20107925", "2": "0.010225279", "3": "0.19296212", "4": "0.22886239", "5": "0.010240329", "6": "0.34639415"}}

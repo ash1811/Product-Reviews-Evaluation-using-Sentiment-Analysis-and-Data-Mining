@@ -1,0 +1,1 @@
+{"text": "This is a beautiful time piece from timex.  It keeps very good time, and it is eleglance proves it.  I love it and would buy another.", "sentiment": "negative", "topics": {"0": "0.45253086", "1": "0.22468092", "2": "0.09199819", "6": "0.20207527"}}

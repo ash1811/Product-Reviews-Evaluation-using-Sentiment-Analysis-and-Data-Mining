@@ -1,0 +1,1 @@
+{"text": "I love Birkenstock sandals and this style is awesome.  Very comfortable.  They arrived quickly and I would definitely buy these again.", "sentiment": "negative", "topics": {"0": "0.117502965", "1": "0.35094154", "2": "0.11076034", "3": "0.21289232", "4": "0.18588272", "5": "0.011028349", "6": "0.010991726"}}

@@ -1,0 +1,1 @@
+{"text": "These are the best sneakers I have owned.  They came quickly and in excellent condition.  I followed a reviewer's recommendation and ordered them a half size larger and they fit perfectly.", "sentiment": "negative", "topics": {"0": "0.1005865", "1": "0.21216406", "2": "0.2841902", "3": "0.23426944", "5": "0.15190089"}}

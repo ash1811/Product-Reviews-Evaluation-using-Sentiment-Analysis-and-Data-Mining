@@ -1,0 +1,1 @@
+{"text": "Ordered this pair of slippers from Acorn. They arrived promptly and I'm very happy with them. They are very comfortable and keep my feet warm. I washed them in the washing machine and they came out beautifully!", "sentiment": "negative", "topics": {"0": "0.15488385", "1": "0.2702582", "2": "0.09130893", "3": "0.20373847", "4": "0.08381077", "6": "0.18846475"}}

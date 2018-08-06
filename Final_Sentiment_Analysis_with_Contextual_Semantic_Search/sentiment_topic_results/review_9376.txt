@@ -1,0 +1,1 @@
+{"text": "They fit with her work pant suits and she is happy. A really nice Xmas stocking stuffer. She loves the fit and the feel and says they last well. Berkshire are her favorites.", "sentiment": "negative", "topics": {"1": "0.44021472", "2": "0.04963615", "4": "0.1670425", "5": "0.13099885", "6": "0.19703346"}}

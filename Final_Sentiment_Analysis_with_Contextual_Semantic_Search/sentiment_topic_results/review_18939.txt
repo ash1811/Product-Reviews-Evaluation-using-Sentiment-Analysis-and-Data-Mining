@@ -1,0 +1,1 @@
+{"text": "The style and fit are fine except they seen very long for a 30 length.  Hoping they will shrink when washed.", "sentiment": "negative", "topics": {"0": "0.011941252", "1": "0.4925611", "2": "0.07974221", "3": "0.011918847", "4": "0.26022035", "5": "0.011951011", "6": "0.13166524"}}

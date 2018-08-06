@@ -1,0 +1,1 @@
+{"text": "My wife wears them also as they are a little large for the size as sold. Perfect if you like loose clothes in the warm seasons.", "sentiment": "positive", "topics": {"0": "0.010229883", "1": "0.49316692", "2": "0.010258726", "3": "0.28618369", "4": "0.17963204", "5": "0.010252027", "6": "0.010276698"}}

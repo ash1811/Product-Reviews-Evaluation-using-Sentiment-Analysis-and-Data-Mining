@@ -1,0 +1,1 @@
+{"text": "I bought several of these to wear this fall and winter when playing golf.  The fit is perfect and allows unrestricted movement for a full golf swing. Colors are great.", "sentiment": "negative", "topics": {"0": "0.32737145", "1": "0.48515967", "6": "0.15555963"}}

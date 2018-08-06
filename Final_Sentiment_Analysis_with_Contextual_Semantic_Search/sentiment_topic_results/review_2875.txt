@@ -1,0 +1,1 @@
+{"text": "Perfect for training in the morning. Confortable and light . It was exactly as i saw it in the pictures. Absolutely Recommended", "sentiment": "positive", "topics": {"0": "0.12387332", "1": "0.4610183", "2": "0.27335957", "3": "0.102756545", "4": "0.012996063", "5": "0.012999727", "6": "0.012996444"}}

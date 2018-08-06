@@ -1,0 +1,1 @@
+{"text": "I am so happy with my chain it's pretty, shiny and came very quickly. . .I have no complaints whatsoever.", "sentiment": "positive", "topics": {"0": "0.014360642", "1": "0.34918743", "2": "0.122980155", "3": "0.014313752", "4": "0.33441243", "5": "0.014322291", "6": "0.15042329"}}

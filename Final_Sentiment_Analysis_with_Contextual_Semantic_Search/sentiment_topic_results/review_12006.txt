@@ -1,0 +1,1 @@
+{"text": "I was looking for a smaller gym bag...and I have found it. It's the perfect size for just a few things.", "sentiment": "negative", "topics": {"0": "0.014326553", "1": "0.014340937", "2": "0.014317471", "3": "0.7979277", "4": "0.014319894", "5": "0.014299412", "6": "0.13046803"}}

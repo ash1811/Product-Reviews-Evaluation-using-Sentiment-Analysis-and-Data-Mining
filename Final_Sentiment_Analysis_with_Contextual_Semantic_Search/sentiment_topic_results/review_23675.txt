@@ -1,0 +1,1 @@
+{"text": "I love these. Not cheap plastic like some of the newer Ray Bans. These are classic. I would highly recommend them to those who wish for quality sunglasses at a reasonable price.", "sentiment": "negative", "topics": {"0": "0.16793162", "1": "0.2234629", "2": "0.30415598", "4": "0.28059033"}}

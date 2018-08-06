@@ -1,0 +1,1 @@
+{"text": "I like this product because it hides my fat belly. I can wear tight dresses without my belly showing off.", "sentiment": "negative", "topics": {"0": "0.23007372", "1": "0.33899593", "2": "0.011037612", "3": "0.011037439", "4": "0.01104879", "5": "0.38678133", "6": "0.011025155"}}

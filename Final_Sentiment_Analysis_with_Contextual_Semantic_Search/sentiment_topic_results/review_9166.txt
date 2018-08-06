@@ -1,0 +1,1 @@
+{"text": "He wears these every day and can wear them outside because of the hard rubber sole. Very comfortable and durable!", "sentiment": "negative", "topics": {"0": "0.14253205", "1": "0.37469625", "2": "0.012990534", "3": "0.0130297085", "4": "0.012991705", "5": "0.43076488", "6": "0.012994816"}}

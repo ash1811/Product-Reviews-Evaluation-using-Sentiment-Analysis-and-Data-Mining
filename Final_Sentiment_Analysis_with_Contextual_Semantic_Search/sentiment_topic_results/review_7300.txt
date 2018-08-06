@@ -1,0 +1,1 @@
+{"text": "great pants. They have 9 heavy duty belt loops. I have had these Jeans for a month now and they have loosened up much better. at first they were like a stiff canvas. Good now and getting better.", "sentiment": "negative", "topics": {"1": "0.27555075", "2": "0.22441688", "4": "0.116698876", "6": "0.361802"}}

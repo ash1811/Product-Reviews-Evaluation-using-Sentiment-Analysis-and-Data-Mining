@@ -1,0 +1,1 @@
+{"text": "Love toe socks but for some reason these fit tight at the base of the toes. Don't know if these are always made like this or if I just got a bad batch.", "sentiment": "positive", "topics": {"0": "0.11906492", "1": "0.6031115", "2": "0.11528491", "5": "0.13559963"}}

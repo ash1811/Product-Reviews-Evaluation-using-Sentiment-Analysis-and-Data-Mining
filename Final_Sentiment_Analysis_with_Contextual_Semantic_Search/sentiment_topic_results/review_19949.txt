@@ -1,0 +1,1 @@
+{"text": "A bit heavier to carry than I thought it would be, but has great pockets for several things and is well padded.  I actually like bright colors, easy to find me in a crowd.", "sentiment": "negative", "topics": {"1": "0.44470844", "4": "0.23765735", "5": "0.2889575"}}

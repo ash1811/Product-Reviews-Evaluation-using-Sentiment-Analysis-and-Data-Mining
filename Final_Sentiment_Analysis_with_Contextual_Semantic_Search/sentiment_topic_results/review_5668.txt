@@ -1,0 +1,1 @@
+{"text": "Fits great. Longer length. Light weight. Great for layering under a big shirt. I rated this a 4 because it is a bit transparent so you need to wear a bra under it. Otherwise I love them and bought 6 in different colors", "sentiment": "positive", "topics": {"1": "0.61487925", "3": "0.07137148", "5": "0.086105175", "6": "0.21045563"}}

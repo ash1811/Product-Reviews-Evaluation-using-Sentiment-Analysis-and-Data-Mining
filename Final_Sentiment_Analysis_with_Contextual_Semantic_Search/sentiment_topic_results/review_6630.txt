@@ -1,0 +1,1 @@
+{"text": "These are wonderful wearing socks. My husband has hunted for several years for a sock he could walk in and these were the best he found..", "sentiment": "positive", "topics": {"0": "0.011010363", "1": "0.3793933", "2": "0.10074453", "3": "0.011021409", "4": "0.15781301", "5": "0.3289935", "6": "0.011023858"}}

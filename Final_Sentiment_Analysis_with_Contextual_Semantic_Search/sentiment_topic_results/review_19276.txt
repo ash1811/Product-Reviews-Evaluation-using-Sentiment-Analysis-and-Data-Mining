@@ -1,0 +1,1 @@
+{"text": "Great watch for a great price.  Easy to read. Love the magnifier over the date.  Makes it really easy to see. Not a big dial so looks great for work .", "sentiment": "negative", "topics": {"1": "0.4024384", "2": "0.12425263", "3": "0.19089341", "4": "0.14579584", "6": "0.121548235"}}

@@ -1,0 +1,1 @@
+{"text": "I ordered the right size.. and while I do like the spanx I just feel like they are a bit too tight. Over all thought does what it is suppose to do with out any lines.", "sentiment": "negative", "topics": {"0": "0.011019127", "1": "0.38578174", "2": "0.011027911", "3": "0.011048416", "4": "0.01100922", "5": "0.011007908", "6": "0.55910563"}}

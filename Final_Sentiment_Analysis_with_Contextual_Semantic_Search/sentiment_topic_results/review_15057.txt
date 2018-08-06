@@ -1,0 +1,1 @@
+{"text": "The cushioning and arch support are perfect for me.  Right now I use them only on weekends when I can wear jeans/shorts.", "sentiment": "negative", "topics": {"0": "0.013014437", "1": "0.013037243", "2": "0.012998724", "3": "0.47434828", "4": "0.17204738", "5": "0.30152363", "6": "0.013030339"}}

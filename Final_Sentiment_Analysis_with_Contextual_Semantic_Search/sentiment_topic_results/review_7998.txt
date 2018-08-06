@@ -1,0 +1,1 @@
+{"text": "Love em &#60;3  They have great cushion and fit perfectly!  Wish I had ordered 2 pairs.  You can't go wrong with these.", "sentiment": "negative", "topics": {"0": "0.14878808", "1": "0.39340088", "2": "0.21155798", "4": "0.1542808", "6": "0.07407435"}}

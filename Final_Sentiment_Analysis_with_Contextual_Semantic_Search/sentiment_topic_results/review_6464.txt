@@ -1,0 +1,1 @@
+{"text": "This brand is the best.Does not slip down into shoe.Washes well and lasts forever.No pilling.Enjoy wearing them.", "sentiment": "negative", "topics": {"0": "0.39710182", "1": "0.18158276", "2": "0.0130129885", "3": "0.27804506", "4": "0.013017527", "5": "0.013027616", "6": "0.10421227"}}

@@ -1,0 +1,1 @@
+{"text": "i love these.  they match everything.  so comfortable.  all summer i wear Birkenstocks....i'm ordering a gold pair next.  love love love", "sentiment": "positive", "topics": {"1": "0.19077379", "2": "0.26002315", "3": "0.3929843", "4": "0.12932871"}}

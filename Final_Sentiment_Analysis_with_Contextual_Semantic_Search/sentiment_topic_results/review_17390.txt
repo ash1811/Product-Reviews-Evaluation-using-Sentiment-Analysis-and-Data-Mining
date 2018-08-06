@@ -1,0 +1,1 @@
+{"text": "As other said, they are like panty hose, probably all right for most activities, however I purchased them to use when riding my motorcycle in the cooler weather. Okay but my Hanes cotton ones are better for my purpose.", "sentiment": "negative", "topics": {"0": "0.07647045", "1": "0.27243885", "2": "0.21660337", "3": "0.3436916", "5": "0.07712675"}}

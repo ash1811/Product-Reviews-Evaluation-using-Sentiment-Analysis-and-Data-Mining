@@ -1,0 +1,1 @@
+{"text": "I have large dancer calves which makes it hard to find leg warmers that will still do that slouchy style and actually reach my knee. These are perfect and work great for winter boots", "sentiment": "positive", "topics": {"0": "0.06769447", "1": "0.22264174", "2": "0.106746115", "3": "0.25033677", "4": "0.17057018", "5": "0.104716584", "6": "0.07729413"}}

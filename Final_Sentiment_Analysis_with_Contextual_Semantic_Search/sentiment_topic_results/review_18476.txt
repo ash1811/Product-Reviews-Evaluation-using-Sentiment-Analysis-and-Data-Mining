@@ -1,0 +1,1 @@
+{"text": "roomy shoe,well made,nice colors;may have to return,slightly big on foot", "sentiment": "positive", "topics": {"0": "0.017872265", "1": "0.24524361", "2": "0.017860185", "3": "0.1576379", "4": "0.1292802", "5": "0.017871367", "6": "0.4142345"}}

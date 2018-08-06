@@ -1,0 +1,1 @@
+{"text": "My sister loves these, so I tried to get a pair, but they were just too bulky for me, so I ended up giving this to my sis since we are the same size. GREAT arch support though, great shoe, just not my style", "sentiment": "negative", "topics": {"0": "0.24544339", "1": "0.13715322", "2": "0.1736855", "3": "0.32643667", "4": "0.10364209"}}

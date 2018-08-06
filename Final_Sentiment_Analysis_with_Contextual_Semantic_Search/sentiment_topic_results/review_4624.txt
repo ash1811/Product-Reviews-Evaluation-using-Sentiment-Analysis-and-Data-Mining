@@ -1,0 +1,1 @@
+{"text": "ok ok Okey this product is exelent, the product is fine, beautiful and economic, good choice,my father is very happy whit tis product", "sentiment": "positive", "topics": {"1": "0.1324851", "2": "0.049933556", "3": "0.07189761", "4": "0.35061747", "5": "0.24363028", "6": "0.14302254"}}

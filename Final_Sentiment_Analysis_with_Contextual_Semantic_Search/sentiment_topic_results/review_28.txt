@@ -1,0 +1,1 @@
+{"text": "ordered an XL, runs like a small Large.washed it three times, and it's still too itchy to wear.would not recommend.", "sentiment": "negative", "topics": {"0": "0.011043254", "1": "0.38921216", "2": "0.011073101", "3": "0.39720196", "4": "0.011004041", "5": "0.01102288", "6": "0.1694426"}}

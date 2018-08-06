@@ -1,0 +1,1 @@
+{"text": "Great bra for all clothes styles. Good lift. A Lille small cup so I ordered another one in larger cup size.  Not an everyday comfort bra, but very stylish.", "sentiment": "negative", "topics": {"1": "0.23968478", "3": "0.19766784", "4": "0.35797873", "6": "0.18319291"}}

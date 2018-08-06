@@ -1,0 +1,1 @@
+{"text": "Size runs true, great fit, durable fabric, I have several pairs-will last a very long time! Pretty decent deal, would cost you at least $10 more in a local store.", "sentiment": "positive", "topics": {"1": "0.39899415", "3": "0.3248227", "4": "0.09508833", "5": "0.16156103"}}

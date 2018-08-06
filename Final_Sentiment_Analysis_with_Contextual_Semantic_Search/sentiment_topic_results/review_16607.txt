@@ -1,0 +1,1 @@
+{"text": "G-shock doesnt disappoint. this watch wears well, and has all kinds of 'fancy' features. im in emergency medicine and this watch is perfect", "sentiment": "negative", "topics": {"0": "0.068843864", "2": "0.39684117", "3": "0.14339137", "4": "0.13710408", "5": "0.2346986"}}

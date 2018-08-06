@@ -1,0 +1,1 @@
+{"text": "Have gotten Hanes underwear for years, and they have been consistent with how they fit. These are no exception, good product for the price and I got what I expected.", "sentiment": "positive", "topics": {"0": "0.011000095", "1": "0.3925064", "2": "0.011006052", "3": "0.19884183", "4": "0.1090409", "5": "0.102534205", "6": "0.17507052"}}

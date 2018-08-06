@@ -1,0 +1,1 @@
+{"text": "Love these inserts! They add arch support and stability. Perfect for my tennis shoes! They last a couple months which is why i am giving them 4 stars since I would expect them to last longer at this price point.", "sentiment": "negative", "topics": {"0": "0.37148738", "2": "0.17876026", "3": "0.22582683", "5": "0.20522423"}}

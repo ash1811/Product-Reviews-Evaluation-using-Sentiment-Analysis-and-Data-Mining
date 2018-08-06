@@ -1,0 +1,1 @@
+{"text": "worked well. i had a bunch of old silver that now looks new and it was quick and easy and well worth the money. i would recommend", "sentiment": "negative", "topics": {"1": "0.24763411", "3": "0.18706974", "4": "0.25382453", "5": "0.15303667", "6": "0.13932067"}}

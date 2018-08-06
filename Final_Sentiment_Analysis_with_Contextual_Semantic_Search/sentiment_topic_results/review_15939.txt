@@ -1,0 +1,1 @@
+{"text": "great looks and good vision. Only thing that is a bit annoying is they are a bit tight on my head. Otherwise i would recommend them whole heartedly.", "sentiment": "positive", "topics": {"0": "0.11279122", "1": "0.48448038", "2": "0.19522506", "3": "0.18061893"}}

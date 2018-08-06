@@ -1,0 +1,1 @@
+{"text": "This shoes only comes in whole sizes, so I went up a half size - good thing because these shoes are still a little tight to put on.  Once on, however, they feel great.", "sentiment": "positive", "topics": {"0": "0.12576011", "1": "0.29466078", "2": "0.17971623", "3": "0.37837324"}}

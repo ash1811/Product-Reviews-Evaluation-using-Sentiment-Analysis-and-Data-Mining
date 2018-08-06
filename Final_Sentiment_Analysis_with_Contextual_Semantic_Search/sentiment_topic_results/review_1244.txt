@@ -1,0 +1,1 @@
+{"text": "My daughter loves them, wears them all the time. They fit true to size. All the members of her b-ball team wear them.", "sentiment": "negative", "topics": {"0": "0.01025173", "1": "0.15024173", "2": "0.010228135", "3": "0.6939798", "4": "0.010241133", "5": "0.010258818", "6": "0.11479865"}}

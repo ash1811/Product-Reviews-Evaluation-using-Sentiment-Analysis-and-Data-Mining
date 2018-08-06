@@ -1,0 +1,1 @@
+{"text": "These are the worst sandals. They made my feet hurt for at least 4 hours and I only wore them for like 30 minutes. The pain was so bad I had to buy a 99 cent pair of flip flops because I could not walk anymore. Do not buy these.", "sentiment": "negative", "topics": {"1": "0.43609092", "2": "0.17252289", "4": "0.1351597", "6": "0.23966946"}}

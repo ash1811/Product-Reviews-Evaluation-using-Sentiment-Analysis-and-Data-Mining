@@ -1,0 +1,1 @@
+{"text": "Not high end but it gets the job done.  It is a bit awkward to hold the opener in the proper position but I have opened several watches with it .  Need to be careful to hold in position or it will slip and scratch the watch back", "sentiment": "positive", "topics": {"0": "0.18131891", "1": "0.21720654", "2": "0.28893965", "3": "0.19368547", "6": "0.10632831"}}

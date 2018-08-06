@@ -1,0 +1,1 @@
+{"text": "Real Levis, compared the stitching and the materials with 527s I already owned. Color is true to the images in the pictures.", "sentiment": "negative", "topics": {"0": "0.011004956", "1": "0.42540327", "2": "0.08978514", "3": "0.23076616", "4": "0.13647142", "5": "0.011014949", "6": "0.09555412"}}

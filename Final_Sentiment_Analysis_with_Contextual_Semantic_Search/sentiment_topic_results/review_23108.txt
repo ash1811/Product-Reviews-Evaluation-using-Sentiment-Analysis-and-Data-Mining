@@ -1,0 +1,1 @@
+{"text": "I love the wide shoulder straps so they are not digging in. It also has great support around the back area for those of us who are larger endowed.", "sentiment": "negative", "topics": {"1": "0.31960794", "2": "0.17918922", "4": "0.23990151", "5": "0.16044293", "6": "0.08295365"}}

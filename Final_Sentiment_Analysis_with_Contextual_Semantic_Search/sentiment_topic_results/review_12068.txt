@@ -1,0 +1,1 @@
+{"text": "My husband loves these jeans..they fit perfect and the best part is he didn't have to go to a department store to get them!", "sentiment": "positive", "topics": {"0": "0.1443477", "1": "0.4238391", "2": "0.18396114", "3": "0.0110449", "4": "0.2147646", "5": "0.011033258", "6": "0.011009322"}}

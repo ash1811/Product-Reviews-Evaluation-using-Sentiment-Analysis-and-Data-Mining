@@ -1,0 +1,1 @@
+{"text": "I love these. They are super cute and really good quality. I have chubbier thighs and they didn't cut off my circulation which is always a plus. I don't think they will fall down if you have slimmer thighs though, because they have a thick elastic at the top.", "sentiment": "positive", "topics": {"1": "0.4961459", "3": "0.26870167", "6": "0.20906788"}}

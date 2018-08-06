@@ -1,0 +1,1 @@
+{"text": "Looked great and wore well- no problem with runs, etc. Used for Alice in Wonderland play. Color is very good.", "sentiment": "negative", "topics": {"0": "0.0102288", "1": "0.75006676", "2": "0.01022473", "3": "0.010297243", "4": "0.10636979", "5": "0.10257749", "6": "0.01023517"}}

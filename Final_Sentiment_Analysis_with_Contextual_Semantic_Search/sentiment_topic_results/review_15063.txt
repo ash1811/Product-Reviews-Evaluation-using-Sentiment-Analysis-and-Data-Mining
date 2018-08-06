@@ -1,0 +1,1 @@
+{"text": "These are really nice shoes.  I wanted a clean cut pair of white shoes.  I am not into gaudy, glow in the dark sneakers and these fit the bill.  Really comfortable and look nice.  I love them.", "sentiment": "negative", "topics": {"1": "0.4728735", "2": "0.23537473", "4": "0.08093001", "5": "0.19129218"}}

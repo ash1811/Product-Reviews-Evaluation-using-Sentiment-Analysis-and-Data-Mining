@@ -1,0 +1,1 @@
+{"text": "Once you live in Superfeet, you will never go without! The most comfort and support for extremely high arches. I am comfortable and balanced all day!", "sentiment": "negative", "topics": {"0": "0.010253905", "1": "0.19152762", "2": "0.010228313", "3": "0.42271438", "4": "0.010220269", "5": "0.17664567", "6": "0.17840986"}}

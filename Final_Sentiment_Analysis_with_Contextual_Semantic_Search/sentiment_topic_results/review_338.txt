@@ -1,0 +1,1 @@
+{"text": "I plan to buy more of these shirts in the future for my work uniform.  I'm very happy with them, and the price is great.", "sentiment": "negative", "topics": {"0": "0.3413677", "1": "0.3149293", "2": "0.011968885", "3": "0.012005274", "4": "0.29583907", "5": "0.011957291", "6": "0.011932458"}}

@@ -1,0 +1,1 @@
+{"text": "Just as in the picture. Cute and functional. I love this bookbag and I have had it for almost two years now :)", "sentiment": "negative", "topics": {"0": "0.18121523", "1": "0.015934847", "2": "0.26810554", "3": "0.4869397", "4": "0.015938587", "5": "0.015980054", "6": "0.01588603"}}

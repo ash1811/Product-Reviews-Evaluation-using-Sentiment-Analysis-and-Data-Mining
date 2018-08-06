@@ -1,0 +1,1 @@
+{"text": "It does the job and it is easy to take off when it needs to come off. It didn't make my skin break out. I'd recommmend this to others.", "sentiment": "positive", "topics": {"0": "0.010217419", "1": "0.34817418", "2": "0.010218319", "3": "0.35428223", "4": "0.0102253035", "5": "0.12505843", "6": "0.14182414"}}

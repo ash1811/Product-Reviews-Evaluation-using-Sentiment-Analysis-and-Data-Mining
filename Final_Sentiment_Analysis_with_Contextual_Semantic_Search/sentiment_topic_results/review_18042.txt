@@ -1,0 +1,1 @@
+{"text": "I really like the watch because of the display of the watch, but also the color of the second hand and the regular hands on the watch because it is easier for me to see and I like that I can see it at night when the lights are out.", "sentiment": "negative", "topics": {"0": "0.17428032", "1": "0.32828203", "2": "0.24213472", "4": "0.23376437"}}

@@ -1,0 +1,1 @@
+{"text": "These sweats are REAL.  Nice and thick and comfy and cotton!  The pockets are deep and usable.  The drawstring is a nice feature for perfect fit.", "sentiment": "negative", "topics": {"1": "0.4831397", "2": "0.08755479", "3": "0.1068789", "4": "0.19823787", "6": "0.10511621"}}

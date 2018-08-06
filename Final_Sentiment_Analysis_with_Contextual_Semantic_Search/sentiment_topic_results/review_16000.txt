@@ -1,0 +1,1 @@
+{"text": "I love these flip flops!!  they are very soft and comfortable from the moment I put them on.  No break in period required.", "sentiment": "negative", "topics": {"0": "0.011928994", "1": "0.594943", "2": "0.100411154", "3": "0.2568982", "4": "0.011967361", "5": "0.011942004", "6": "0.011909258"}}

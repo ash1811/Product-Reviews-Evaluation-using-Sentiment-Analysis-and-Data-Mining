@@ -1,0 +1,1 @@
+{"text": "this bra is really pretty and fits a full figure body well. its very feminine and makes a 'larger sized' women happy that they can find such pretty underwear in their size. hope they will eventually make them in pretty colors!!", "sentiment": "negative", "topics": {"0": "0.159368", "1": "0.38791516", "3": "0.31154287", "6": "0.12326023"}}

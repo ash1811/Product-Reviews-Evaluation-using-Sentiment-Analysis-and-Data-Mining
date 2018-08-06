@@ -1,0 +1,1 @@
+{"text": "My wife loves these, for the past 10 years these jeans from Lee are the primary ones that she wears.They wear well, the elastic maintains its stretch.Excellent value for the price", "sentiment": "negative", "topics": {"0": "0.17499046", "3": "0.45095554", "4": "0.2644078", "6": "0.086931355"}}

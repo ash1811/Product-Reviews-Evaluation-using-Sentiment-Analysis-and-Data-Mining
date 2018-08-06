@@ -1,0 +1,1 @@
+{"text": "This is a great casual watch. I actually bought two, one in green and one tan. Very easy to set and they look great!  You can not find a better casual watch for the price!", "sentiment": "positive", "topics": {"1": "0.43594822", "2": "0.3623157", "6": "0.1730777"}}

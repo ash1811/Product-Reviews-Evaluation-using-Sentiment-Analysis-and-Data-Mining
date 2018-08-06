@@ -1,0 +1,1 @@
+{"text": "This watch i love it looks very expensive and for the price is even better", "sentiment": "negative", "topics": {"0": "0.017972797", "1": "0.58629066", "2": "0.32397193", "3": "0.017927727", "4": "0.018001715", "5": "0.017933164", "6": "0.01790203"}}

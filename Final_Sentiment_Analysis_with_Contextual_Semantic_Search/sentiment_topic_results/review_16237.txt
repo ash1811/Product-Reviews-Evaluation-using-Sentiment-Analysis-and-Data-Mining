@@ -1,0 +1,1 @@
+{"text": "Very well made and built to last. They were a little tight when I first got them but stretched enough to be very comfortable. I will purchase another pair if and when these wear out.", "sentiment": "negative", "topics": {"1": "0.72703534", "5": "0.23080689"}}

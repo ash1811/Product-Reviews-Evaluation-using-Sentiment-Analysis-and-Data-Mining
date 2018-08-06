@@ -1,0 +1,1 @@
+{"text": "Buyer Beware I did not try on per say just held it up to my breast that I just recently had surgery, They run small and will not take them back.", "sentiment": "positive", "topics": {"0": "0.21830933", "1": "0.3867678", "2": "0.010226055", "3": "0.24279547", "4": "0.010220446", "5": "0.010217706", "6": "0.12146319"}}

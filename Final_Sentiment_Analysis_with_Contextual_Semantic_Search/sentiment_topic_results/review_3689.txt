@@ -1,0 +1,1 @@
+{"text": "thats just what i looking for, i am very happy with it thats just what i looking for, i am very happy with it", "sentiment": "negative", "topics": {"0": "0.015908562", "1": "0.46014607", "2": "0.015911512", "3": "0.01599919", "4": "0.015947215", "5": "0.015897367", "6": "0.4601901"}}

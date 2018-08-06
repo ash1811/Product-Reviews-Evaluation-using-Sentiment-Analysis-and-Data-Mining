@@ -1,0 +1,1 @@
+{"text": "They fit great.  Needed all cotton with covered elastic, and this is what I go.  Good value at a good price.", "sentiment": "negative", "topics": {"0": "0.0119317025", "1": "0.6198712", "2": "0.011963591", "3": "0.18268926", "4": "0.011964235", "5": "0.14962894", "6": "0.011951043"}}

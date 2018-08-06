@@ -1,0 +1,1 @@
+{"text": "These pants are well made, are comfortable but smart, and have that feel of quality which makes you feel good.", "sentiment": "negative", "topics": {"0": "0.01304498", "1": "0.5294909", "2": "0.012997329", "3": "0.40536663", "4": "0.013021932", "5": "0.01301001", "6": "0.013068221"}}

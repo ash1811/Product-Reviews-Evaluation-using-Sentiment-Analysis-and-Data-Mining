@@ -1,0 +1,1 @@
+{"text": "I received my watch within a few days of ordering and haven't taken it off since.  time is accurate and the band is very comfortable.  it looks great with any wardrobe,  leisure or dressy.", "sentiment": "negative", "topics": {"0": "0.4030682", "1": "0.12316081", "2": "0.073214024", "4": "0.16464698", "6": "0.21904549"}}

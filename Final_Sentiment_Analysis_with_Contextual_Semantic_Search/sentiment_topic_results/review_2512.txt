@@ -1,0 +1,1 @@
+{"text": "I received the wallet and started using it. About two weeks after I started using it, it started to interest and was no longer in a usable condition.", "sentiment": "positive", "topics": {"0": "0.31403065", "1": "0.11635155", "2": "0.10851898", "3": "0.13738732", "5": "0.30583927"}}

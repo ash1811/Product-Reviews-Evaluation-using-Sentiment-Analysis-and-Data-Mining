@@ -1,0 +1,1 @@
+{"text": "It's gorgeous but the seams where the sheer material meets the lower part of the cup are scratchy. I'm using it as a laundry-day bra for when I've run out of all my others.  :)", "sentiment": "negative", "topics": {"0": "0.068145856", "3": "0.49538732", "4": "0.23817399", "6": "0.17296232"}}

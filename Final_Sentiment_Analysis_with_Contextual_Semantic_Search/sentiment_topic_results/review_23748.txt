@@ -1,0 +1,1 @@
+{"text": "Just what I order and they work very well in bright sunlight!  Quite impressed I have to say!  The quality is good but not excellent , but for the price you really can't beat it.  I love them!", "sentiment": "positive", "topics": {"0": "0.1875411", "1": "0.32530192", "2": "0.2538862", "4": "0.16997382", "6": "0.048203915"}}

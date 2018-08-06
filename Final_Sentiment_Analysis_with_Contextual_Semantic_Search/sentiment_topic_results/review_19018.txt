@@ -1,0 +1,1 @@
+{"text": "The construction is decent for the price, except for the plastic snaps where the strap meets the cup (which seems a common denominator on most basic bras).  Cup and band size seem true to my measurements (34D)... I would buy another one.", "sentiment": "negative", "topics": {"1": "0.31844735", "2": "0.091265924", "3": "0.25987843", "4": "0.25045323", "6": "0.06931814"}}

@@ -1,0 +1,1 @@
+{"text": "Very nice shoe! Looks better than the photo. My son loves these. They run big, but we accounted for this based on the brand.", "sentiment": "positive", "topics": {"0": "0.09360812", "1": "0.27185026", "2": "0.10476498", "3": "0.3240817", "4": "0.09583797", "5": "0.0102279615", "6": "0.099628985"}}

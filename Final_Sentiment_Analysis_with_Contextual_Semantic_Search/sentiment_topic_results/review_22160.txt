@@ -1,0 +1,1 @@
+{"text": "This case is well designed, the clasp needs to be tweaked a little, closure is tight when first used. OK, though...", "sentiment": "positive", "topics": {"0": "0.11006903", "1": "0.37755018", "2": "0.09523096", "3": "0.010250102", "4": "0.2977944", "5": "0.010223724", "6": "0.09888158"}}

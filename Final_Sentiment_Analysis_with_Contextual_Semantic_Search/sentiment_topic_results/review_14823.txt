@@ -1,0 +1,1 @@
+{"text": "I got this for my jewelry. It cleaned some of it but some pieces that I know are real sterling silver from south America didn't get cleaned at all. Just ok.", "sentiment": "negative", "topics": {"0": "0.47081548", "1": "0.19808182", "6": "0.29292718"}}

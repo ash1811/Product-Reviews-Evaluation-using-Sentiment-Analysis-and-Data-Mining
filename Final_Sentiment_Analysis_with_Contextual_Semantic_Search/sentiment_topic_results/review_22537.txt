@@ -1,0 +1,1 @@
+{"text": "I tried another silver cleaner and it doesn't work as well as this one. It made my old silver look like new. Only one i will buy again.", "sentiment": "positive", "topics": {"1": "0.5206596", "2": "0.19201088", "3": "0.1328901", "4": "0.12911735"}}

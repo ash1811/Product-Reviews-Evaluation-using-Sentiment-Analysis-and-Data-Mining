@@ -1,0 +1,1 @@
+{"text": "I chose these shorts for my husbands birthday. He loves them because they are very durable, cool and he loves the length.  He loves the selection of colors and the sizes that are available for him. They are true to size. No loose stitching. Well made.", "sentiment": "negative", "topics": {"0": "0.09108449", "1": "0.47786948", "4": "0.19978307", "6": "0.2117097"}}

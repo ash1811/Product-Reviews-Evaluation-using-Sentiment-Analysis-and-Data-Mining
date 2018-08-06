@@ -1,0 +1,1 @@
+{"text": "These shoes are such great support and are worth every penny.  I read from other reviews to order a half size up, and I agree.  These fit very snug and are perfect for any outdoor activity.  I even bought a pair for my son!", "sentiment": "negative", "topics": {"0": "0.14418499", "1": "0.30263036", "2": "0.1631942", "3": "0.31865832", "6": "0.058815323"}}

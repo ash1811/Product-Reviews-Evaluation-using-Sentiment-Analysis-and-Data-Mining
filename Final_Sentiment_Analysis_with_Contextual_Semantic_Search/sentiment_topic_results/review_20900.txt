@@ -1,0 +1,1 @@
+{"text": "love em! fit just as expected. not baggy here or tight there... great quality.  Not too thick or thin like you find some levis/  Just like I wanted.", "sentiment": "positive", "topics": {"1": "0.55768406", "4": "0.24145707", "6": "0.16718547"}}

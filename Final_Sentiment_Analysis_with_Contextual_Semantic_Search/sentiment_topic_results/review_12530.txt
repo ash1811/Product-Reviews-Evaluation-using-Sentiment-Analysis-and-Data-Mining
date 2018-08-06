@@ -1,0 +1,1 @@
+{"text": "I have gone through flip flops over the years, trial and error. Beside my puma flip flops, these are deserving of 5 stars. Wow, are they comfortable, stylish and practical.", "sentiment": "negative", "topics": {"1": "0.26872882", "2": "0.2459907", "4": "0.22004081", "6": "0.24138898"}}

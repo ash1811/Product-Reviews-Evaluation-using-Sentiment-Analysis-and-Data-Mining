@@ -1,0 +1,1 @@
+{"text": "OK, so they look good, they fit (they are a bit tight) and they have lovely cushy soles, but for the life of me I can hardly walk in them!", "sentiment": "negative", "topics": {"1": "0.5861033", "3": "0.08984261", "4": "0.078166716", "5": "0.08107449", "6": "0.14570443"}}

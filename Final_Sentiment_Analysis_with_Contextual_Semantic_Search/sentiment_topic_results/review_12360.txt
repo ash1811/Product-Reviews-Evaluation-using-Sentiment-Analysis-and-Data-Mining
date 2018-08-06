@@ -1,0 +1,1 @@
+{"text": "My hubby loves this hat - very warm and fits his head. He enjoys wearing it - ALOT - bye cold air", "sentiment": "negative", "topics": {"0": "0.011003459", "1": "0.36801818", "2": "0.011020779", "3": "0.011073593", "4": "0.23587137", "5": "0.3520174", "6": "0.010995193"}}

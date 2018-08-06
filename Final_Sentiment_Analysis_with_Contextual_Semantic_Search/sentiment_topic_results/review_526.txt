@@ -1,0 +1,1 @@
+{"text": "Wrangler has always given me a better fit than Levi's, they wear just as well and cost a lot less. What's not to love?", "sentiment": "negative", "topics": {"0": "0.010226315", "1": "0.3617443", "2": "0.0102448305", "3": "0.010248242", "4": "0.14990878", "5": "0.24803312", "6": "0.20959438"}}

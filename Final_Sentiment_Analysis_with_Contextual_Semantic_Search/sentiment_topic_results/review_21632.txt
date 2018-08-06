@@ -1,0 +1,1 @@
+{"text": "I purchased it for.  I use it to hold all of my different prescriptions and supplements.  I only get it out one a week and that is when I prepare my medications for the following week.", "sentiment": "negative", "topics": {"1": "0.18563864", "2": "0.21845132", "3": "0.34659398", "4": "0.09175261", "6": "0.13848898"}}

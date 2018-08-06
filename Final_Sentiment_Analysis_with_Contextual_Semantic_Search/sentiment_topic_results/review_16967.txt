@@ -1,0 +1,1 @@
+{"text": "I purchased this because the shirt was made by Carhartt.  What can I say..  It's made to last forever.  Triple stitching, flawless.  I'm very happy with my purchase.  I'm going to buy another color just as soon as I finish this review.", "sentiment": "positive", "topics": {"1": "0.5606442", "2": "0.1414953", "3": "0.076284714", "4": "0.1447441", "6": "0.06436417"}}

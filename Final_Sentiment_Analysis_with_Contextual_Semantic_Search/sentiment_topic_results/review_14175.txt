@@ -1,0 +1,1 @@
+{"text": "Purchased these for work pants and was completely unprepared for how comfortable they are, and handy.  So many pockets, I wear these around the house.", "sentiment": "negative", "topics": {"0": "0.10956562", "1": "0.45819026", "2": "0.22066711", "3": "0.11527599", "4": "0.07581772", "5": "0.010227238", "6": "0.010256081"}}

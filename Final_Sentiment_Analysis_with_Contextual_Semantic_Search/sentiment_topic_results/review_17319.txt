@@ -1,0 +1,1 @@
+{"text": "thye most comfortable  product for my troubled ffeet- i would recommend this highly- have had  clogs like continuously for the last 5 years", "sentiment": "positive", "topics": {"1": "0.44773322", "5": "0.22122473", "6": "0.29285094"}}

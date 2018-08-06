@@ -1,0 +1,1 @@
+{"text": "My daughter has worn this costume many times over the past year and it has held together very well.  It fits her and is comfortable.", "sentiment": "negative", "topics": {"0": "0.276105", "1": "0.50818586", "2": "0.011034725", "3": "0.01107276", "4": "0.09205128", "5": "0.011017023", "6": "0.09053338"}}

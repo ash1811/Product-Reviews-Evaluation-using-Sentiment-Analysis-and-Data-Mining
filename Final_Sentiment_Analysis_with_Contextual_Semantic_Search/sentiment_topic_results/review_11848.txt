@@ -1,0 +1,1 @@
+{"text": "I have no issue with these and was worried by other reviews but they are perfect so much so I bought 3 packs", "sentiment": "negative", "topics": {"0": "0.01590232", "1": "0.5841291", "2": "0.01589746", "3": "0.15666732", "4": "0.015896158", "5": "0.19562896", "6": "0.01587875"}}

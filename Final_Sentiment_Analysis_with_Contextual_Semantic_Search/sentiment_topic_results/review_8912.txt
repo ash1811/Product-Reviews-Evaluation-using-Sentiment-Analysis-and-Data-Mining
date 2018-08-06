@@ -1,0 +1,1 @@
+{"text": "I had owned Sketchers before but these just didn't feel right to me. I did order a wide and they just seemed not wide enough and hard on the sole", "sentiment": "negative", "topics": {"0": "0.22238493", "1": "0.011028298", "2": "0.0110072885", "3": "0.011032504", "4": "0.011033112", "5": "0.72250384", "6": "0.011010059"}}

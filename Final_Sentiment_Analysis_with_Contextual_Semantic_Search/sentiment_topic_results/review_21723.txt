@@ -1,0 +1,1 @@
+{"text": "I got this for my daughter's elf ears that she got for her Link (From the Legend of Zelda) cosplay and it works really well. She's used it twice so far and it did a good job of keeping her ears on her head.", "sentiment": "negative", "topics": {"0": "0.16265811", "1": "0.4228709", "3": "0.096091054", "5": "0.10395443", "6": "0.20142126"}}

@@ -1,0 +1,1 @@
+{"text": "Nice for the price and the two pockets are wonderful. Washes nice and get softer over time. Have ordered many others. Recommended!", "sentiment": "negative", "topics": {"1": "0.66915447", "2": "0.09572284", "4": "0.07778398", "6": "0.12869006"}}

@@ -1,0 +1,1 @@
+{"text": "They do what they should and can be worn outside to get the mail, but we haven't tried them for more outdoor use.", "sentiment": "negative", "topics": {"0": "0.01788927", "1": "0.52776283", "2": "0.01790679", "3": "0.017961796", "4": "0.20948772", "5": "0.01792856", "6": "0.19106305"}}

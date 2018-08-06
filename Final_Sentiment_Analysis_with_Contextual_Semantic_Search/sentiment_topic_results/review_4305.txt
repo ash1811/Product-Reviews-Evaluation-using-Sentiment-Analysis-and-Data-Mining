@@ -1,0 +1,1 @@
+{"text": "The pants is cooling, design is nice, size fitting is very good, price reasonable . This pants is very comfortable & really worth ordering.", "sentiment": "positive", "topics": {"0": "0.09957625", "1": "0.6294526", "3": "0.23277237"}}

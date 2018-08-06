@@ -1,0 +1,1 @@
+{"text": "You never can go wrong with Rainbows.  Ever.  They're stylish, comfortable and durable!  I have so many pairs of rainbows, this is my 8th!", "sentiment": "positive", "topics": {"0": "0.010228815", "1": "0.19026987", "2": "0.10333407", "3": "0.111523665", "4": "0.18273015", "5": "0.3154945", "6": "0.08641893"}}

@@ -1,0 +1,1 @@
+{"text": "They are good socks and fit as expected.  I got them for my son and he thought they were great.", "sentiment": "negative", "topics": {"0": "0.015906688", "1": "0.6729316", "2": "0.015898034", "3": "0.015944682", "4": "0.015901137", "5": "0.24741867", "6": "0.01599919"}}

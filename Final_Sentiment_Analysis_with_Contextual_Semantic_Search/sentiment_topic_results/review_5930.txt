@@ -1,0 +1,1 @@
+{"text": "These are comfortable, and don't ride up or move around.  The fit is good and the fabric is nice.  A little on the pricey side for me, but I bought numerous pairs.", "sentiment": "negative", "topics": {"1": "0.53133833", "4": "0.08666715", "5": "0.18041055", "6": "0.17474484"}}

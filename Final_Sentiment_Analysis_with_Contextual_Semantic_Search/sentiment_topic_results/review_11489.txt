@@ -1,0 +1,1 @@
+{"text": "Will order more for next summer would recommend to anybody that loves T shirts the Gildan cotton ones are all I will order", "sentiment": "negative", "topics": {"0": "0.32860282", "1": "0.011022409", "2": "0.18257605", "3": "0.31076157", "4": "0.0110622635", "5": "0.011015724", "6": "0.14495915"}}

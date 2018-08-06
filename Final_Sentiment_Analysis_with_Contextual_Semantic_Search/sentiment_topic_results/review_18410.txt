@@ -1,0 +1,1 @@
+{"text": "This garment bag held 5 hangers full of clothes.  The way it latches at the top makes it a great traveler.  Hangers stay in place.The pocket is nice for something flat.", "sentiment": "negative", "topics": {"0": "0.06412236", "1": "0.31283146", "2": "0.1551727", "3": "0.21520658", "4": "0.174211", "6": "0.07164296"}}

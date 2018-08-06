@@ -1,0 +1,1 @@
+{"text": "I have a friend and she is not dating for  a few years untill her child goes to college.She said I feel like Im a nun now so I sent this to her. She laughed her ass off.", "sentiment": "negative", "topics": {"0": "0.42220855", "1": "0.14072236", "3": "0.3254158", "5": "0.08777776"}}

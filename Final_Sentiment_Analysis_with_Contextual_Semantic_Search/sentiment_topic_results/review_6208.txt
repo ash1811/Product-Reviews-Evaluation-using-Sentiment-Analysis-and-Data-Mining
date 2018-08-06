@@ -1,0 +1,1 @@
+{"text": "The quality is worth twice the cost!  Bought two more in different colors...best sweatshirt for the price I've ever purchased!Larry", "sentiment": "negative", "topics": {"0": "0.010239497", "1": "0.72745836", "2": "0.010219089", "3": "0.09547945", "4": "0.0102193765", "5": "0.13616353", "6": "0.010220679"}}

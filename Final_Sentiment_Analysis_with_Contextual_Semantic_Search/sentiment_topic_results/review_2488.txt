@@ -1,0 +1,1 @@
+{"text": "What man doesn't appreciate a good ;air of jeans, as these will just have to count as an introduction into a higher class.", "sentiment": "negative", "topics": {"0": "0.24650888", "1": "0.14977364", "2": "0.014311774", "3": "0.014328589", "4": "0.23846228", "5": "0.32232806", "6": "0.014286798"}}

@@ -1,0 +1,1 @@
+{"text": "i bought these for my girfriend. she loves it. the quality is very good, the product is original . 5 star to this seller", "sentiment": "negative", "topics": {"0": "0.011942982", "1": "0.6763084", "2": "0.0119914515", "3": "0.13380657", "4": "0.01196098", "5": "0.14206998", "6": "0.011919663"}}

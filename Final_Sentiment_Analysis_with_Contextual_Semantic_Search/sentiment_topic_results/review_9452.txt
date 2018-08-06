@@ -1,0 +1,1 @@
+{"text": "These earrings are beautiful, though much smaller than they appear in the picture and the color is not as vibrant.  They are delicate, so you have to treat them with care when putting on/taking off.", "sentiment": "negative", "topics": {"1": "0.17880005", "2": "0.08086703", "3": "0.33499065", "4": "0.15363453", "5": "0.23382041"}}

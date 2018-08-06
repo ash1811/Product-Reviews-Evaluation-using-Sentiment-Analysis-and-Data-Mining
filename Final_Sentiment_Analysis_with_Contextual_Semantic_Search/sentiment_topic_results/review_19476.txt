@@ -1,0 +1,1 @@
+{"text": "Love these shoes and also got them in red. They are very comfortable and look nicer than the average 'sport' sandal.", "sentiment": "negative", "topics": {"0": "0.011938021", "1": "0.44221866", "2": "0.31655675", "3": "0.011976535", "4": "0.1933678", "5": "0.011945066", "6": "0.011997152"}}

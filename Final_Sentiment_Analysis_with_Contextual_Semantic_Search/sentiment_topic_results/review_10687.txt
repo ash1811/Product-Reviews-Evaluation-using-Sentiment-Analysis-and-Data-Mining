@@ -1,0 +1,1 @@
+{"text": "I gave these to my grown son as a Christmas present.  He has had Timberland boots before and really likes them.  Amazon had the best price on these boots.", "sentiment": "negative", "topics": {"1": "0.17480847", "2": "0.20743518", "4": "0.40438446", "6": "0.18466876"}}

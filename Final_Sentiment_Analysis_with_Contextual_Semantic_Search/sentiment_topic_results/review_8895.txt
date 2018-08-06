@@ -1,0 +1,1 @@
+{"text": "I'm a big fan of Skechers Shape ups but wanted something to just slip on without having to tie and these have done the job.  They are attractive and will be great this summer.", "sentiment": "negative", "topics": {"0": "0.19828577", "1": "0.40136585", "2": "0.095028065", "3": "0.14174345", "4": "0.083185986", "6": "0.07197744"}}

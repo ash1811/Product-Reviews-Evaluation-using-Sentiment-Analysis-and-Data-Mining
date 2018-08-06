@@ -1,0 +1,1 @@
+{"text": "It's strange and unexpected but the size is smaller than usual. It looks like there is a need to lose some weight :). Quality is OK", "sentiment": "negative", "topics": {"0": "0.12157024", "1": "0.3540278", "2": "0.0863028", "3": "0.11379754", "4": "0.118964314", "5": "0.011008388", "6": "0.19432887"}}

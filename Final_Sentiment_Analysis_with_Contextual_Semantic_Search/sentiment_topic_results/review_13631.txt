@@ -1,0 +1,1 @@
+{"text": "I bought these for my son and he loves them.  Sperry is a good brand and they fit true to size.  Whenever my son relaxes on the weekends in the summer, he wears these.", "sentiment": "positive", "topics": {"0": "0.15813929", "1": "0.3752951", "3": "0.24873392", "5": "0.19394742"}}

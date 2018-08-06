@@ -1,0 +1,1 @@
+{"text": "These glasses came well wrapped and packaged.  Delivery was extremely quick.  My daughter wanted \"large\" glasses and these were perfect for her!  Thank you for your great product!", "sentiment": "positive", "topics": {"0": "0.25337756", "1": "0.23145723", "2": "0.15799858", "4": "0.047895424", "5": "0.14578557", "6": "0.15551034"}}

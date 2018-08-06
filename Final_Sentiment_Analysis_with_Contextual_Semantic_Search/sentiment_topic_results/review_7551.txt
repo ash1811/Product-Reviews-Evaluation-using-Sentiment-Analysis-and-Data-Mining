@@ -1,0 +1,1 @@
+{"text": "is little small but acceptable,  but heavy weigh, also feel little hot under the sun light.good for indoor places with AC", "sentiment": "negative", "topics": {"0": "0.16561653", "4": "0.20040096", "5": "0.29402193", "6": "0.3112511"}}

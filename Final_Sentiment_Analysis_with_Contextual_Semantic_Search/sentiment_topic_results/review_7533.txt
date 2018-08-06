@@ -1,0 +1,1 @@
+{"text": "It's a strong and soft shirt and I suggest it for hard workers.You don't need to wear under clothes specially on Spring or Autumn.I'll give 5 stars.", "sentiment": "positive", "topics": {"0": "0.2099501", "2": "0.17986", "5": "0.22160143", "6": "0.36171675"}}

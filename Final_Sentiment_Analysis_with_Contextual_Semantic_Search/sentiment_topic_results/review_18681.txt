@@ -1,0 +1,1 @@
+{"text": "My wife absolutely loves these fishnets! They have no problem staying up on their own, are nice and comfy, and feel amazing to touch. You won't be disappointed!", "sentiment": "negative", "topics": {"0": "0.010232533", "1": "0.17855369", "2": "0.29709336", "3": "0.25423595", "4": "0.23941408", "5": "0.01021766", "6": "0.010252738"}}

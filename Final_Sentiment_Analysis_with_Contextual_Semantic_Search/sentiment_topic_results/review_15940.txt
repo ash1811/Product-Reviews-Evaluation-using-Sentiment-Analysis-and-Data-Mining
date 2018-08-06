@@ -1,0 +1,1 @@
+{"text": "I broke my sisters sunglasses when we were on a trip and so glad to find these so I could replace them.  She was very happy.", "sentiment": "positive", "topics": {"0": "0.3001365", "1": "0.013035121", "2": "0.28610286", "3": "0.013038719", "4": "0.36166778", "5": "0.013026945", "6": "0.012992049"}}

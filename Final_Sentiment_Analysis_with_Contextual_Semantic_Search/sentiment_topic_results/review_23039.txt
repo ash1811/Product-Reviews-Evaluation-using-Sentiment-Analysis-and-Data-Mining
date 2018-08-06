@@ -1,0 +1,1 @@
+{"text": "These earrings are very pretty, just thought they would be a little heavier, but overall happy with the order and the price was good. They were packaged well and came on time.", "sentiment": "negative", "topics": {"0": "0.7291764", "5": "0.13020894", "6": "0.104788184"}}

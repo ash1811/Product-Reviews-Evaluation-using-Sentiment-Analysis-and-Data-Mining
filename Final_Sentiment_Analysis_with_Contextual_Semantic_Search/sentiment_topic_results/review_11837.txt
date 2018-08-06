@@ -1,0 +1,1 @@
+{"text": "I bought a pair of the 6/7 size for my almost 2 year old and they fit great. She has plenty of room and they are easy to get on and off, even wet, yet they don't slip and slide off of her feet.", "sentiment": "negative", "topics": {"0": "0.2632384", "1": "0.27962974", "2": "0.08615084", "3": "0.35141054"}}

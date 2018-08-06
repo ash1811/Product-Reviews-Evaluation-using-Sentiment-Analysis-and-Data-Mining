@@ -1,0 +1,1 @@
+{"text": "Hanes briefs are made with wonderful breathable cotton that makes you feel fresh and clean at all times. I always recommend them.", "sentiment": "negative", "topics": {"1": "0.3466859", "3": "0.25251302", "4": "0.11750196", "5": "0.13041893", "6": "0.13375975"}}

@@ -1,0 +1,1 @@
+{"text": "I never thought I could wear Sperry shoes because my foot is wide. However, these fit perfectly.  They are so comfortable and of course, go with anything.", "sentiment": "positive", "topics": {"1": "0.5106222", "2": "0.24309899", "4": "0.08626728", "5": "0.13317485"}}

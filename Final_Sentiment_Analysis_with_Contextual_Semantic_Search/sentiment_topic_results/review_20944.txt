@@ -1,0 +1,1 @@
+{"text": "Great looking ring. nice hefty weight. masculine colorimg and style. fast and cheap shipping. highly recommended. BUT be aware these run large so order 2, one in your size and one 1/2 size \"too small\".", "sentiment": "negative", "topics": {"0": "0.13016106", "1": "0.2589899", "2": "0.37732956", "3": "0.21758166"}}

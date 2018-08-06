@@ -1,0 +1,1 @@
+{"text": "I bought this shirt for my ailing husband who was constantly feeling cold.  It really kept him at a comfortable temperature and made him feel good in it.It is well constructed and washes beautifully.", "sentiment": "negative", "topics": {"1": "0.44080132", "2": "0.06468184", "3": "0.27937573", "4": "0.12045635", "6": "0.08035425"}}

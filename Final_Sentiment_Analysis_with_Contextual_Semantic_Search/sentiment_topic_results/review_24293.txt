@@ -1,0 +1,1 @@
+{"text": "It's hard for me to find socks that fit since I have large calves..these are fine, and they didn't rip the first time I wore them - that's a good thing.", "sentiment": "positive", "topics": {"0": "0.22495902", "1": "0.24916294", "2": "0.09313536", "3": "0.14801021", "5": "0.2668219"}}

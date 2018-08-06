@@ -1,0 +1,1 @@
+{"text": "Came fast. Bought 2 and so far only got one, fits good . Wasn't sure what it was at first , it was rolled up in a ball and wrapped in package.", "sentiment": "positive", "topics": {"0": "0.33466396", "1": "0.3315494", "2": "0.18637756", "4": "0.12046296"}}

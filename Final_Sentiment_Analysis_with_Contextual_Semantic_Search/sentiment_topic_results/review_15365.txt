@@ -1,0 +1,1 @@
+{"text": "Purchased the RB2132 polarized Wayfarer and have found them to be a great pair of sunglasses.  They are authentic and exactly what I ordered and I will certainly purchase from Paris Miki Optical in the future.", "sentiment": "negative", "topics": {"0": "0.107372314", "1": "0.27830866", "2": "0.046630096", "3": "0.079924986", "4": "0.40810046", "6": "0.0717186"}}

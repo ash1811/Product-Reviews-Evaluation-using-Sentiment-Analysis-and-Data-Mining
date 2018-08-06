@@ -1,0 +1,1 @@
+{"text": "Love these socks and they stay up! I can walk all day and all over NYC without them riding down. Very soft and durable.", "sentiment": "positive", "topics": {"0": "0.011033278", "1": "0.41585824", "2": "0.09801168", "3": "0.011036107", "4": "0.29793757", "5": "0.15511411", "6": "0.011008992"}}

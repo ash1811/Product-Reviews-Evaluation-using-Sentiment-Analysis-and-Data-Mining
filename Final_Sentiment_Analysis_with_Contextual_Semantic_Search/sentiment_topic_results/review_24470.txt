@@ -1,0 +1,1 @@
+{"text": "This product is a bit tight around, although ordered my size, a bit too uncomfortable to sleep in.  Although, cup size true, ok to wear around the house but little support.", "sentiment": "negative", "topics": {"1": "0.33558184", "3": "0.48648825", "5": "0.15191524"}}

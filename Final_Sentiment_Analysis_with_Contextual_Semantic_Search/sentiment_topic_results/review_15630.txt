@@ -1,0 +1,1 @@
+{"text": "The costumes are very pretty. The seller was fulfilled and fast. The fixture head a fair bit. All very well", "sentiment": "positive", "topics": {"0": "0.8068974", "1": "0.013065666", "2": "0.013025877", "3": "0.013036695", "4": "0.013018686", "5": "0.013021562", "6": "0.12793408"}}

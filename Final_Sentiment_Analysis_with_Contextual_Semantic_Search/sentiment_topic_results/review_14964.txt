@@ -1,0 +1,1 @@
+{"text": "Great quality and size. Wipes clean. Trusted brand. This bag has been all over the world and never failed. Holds a lot.", "sentiment": "negative", "topics": {"0": "0.010219032", "1": "0.281978", "2": "0.010219422", "3": "0.24769084", "4": "0.096054636", "5": "0.26211664", "6": "0.09172142"}}

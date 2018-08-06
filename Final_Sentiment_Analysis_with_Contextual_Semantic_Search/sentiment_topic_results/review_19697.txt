@@ -1,0 +1,1 @@
+{"text": "the wig is ok for the money looks good we do not have something to place the wig to keep it until use, it tangles quickly but is good for the price", "sentiment": "negative", "topics": {"0": "0.100768395", "1": "0.4972972", "2": "0.08273898", "3": "0.29056075"}}

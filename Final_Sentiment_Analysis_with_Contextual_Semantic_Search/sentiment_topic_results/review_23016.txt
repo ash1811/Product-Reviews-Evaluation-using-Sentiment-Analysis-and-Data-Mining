@@ -1,0 +1,1 @@
+{"text": "Very good short pants, weither you are at the gym, home, or casually knocking about. Comfortable and stylish for the green lovers.", "sentiment": "negative", "topics": {"0": "0.26619893", "1": "0.24744025", "2": "0.16263442", "3": "0.010235316", "4": "0.13122071", "5": "0.09367044", "6": "0.08859993"}}

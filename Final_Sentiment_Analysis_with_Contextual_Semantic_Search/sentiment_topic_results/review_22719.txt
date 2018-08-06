@@ -1,0 +1,1 @@
+{"text": "These are fairly well made for the price. They do feel a little silky - but still synthetic.  Nice medium weight. Tends to run very small. Would buy again.", "sentiment": "negative", "topics": {"1": "0.47294632", "2": "0.05782807", "3": "0.27137616", "4": "0.17524016"}}

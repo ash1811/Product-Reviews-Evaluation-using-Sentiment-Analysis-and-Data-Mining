@@ -1,0 +1,1 @@
+{"text": "very nice , wonderful , amazing and beautifulThank you very muchI am very happy to buy it and i love it", "sentiment": "negative", "topics": {"0": "0.015887938", "1": "0.33920005", "2": "0.015873142", "3": "0.015890611", "4": "0.26159352", "5": "0.15635401", "6": "0.19520068"}}

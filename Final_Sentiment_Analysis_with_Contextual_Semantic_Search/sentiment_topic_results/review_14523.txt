@@ -1,0 +1,1 @@
+{"text": "The glasses are just what I was looking for with cable temple hooks. I wanted to use these when I was out on a boat fishing for Marlin and these do the job admirably.", "sentiment": "negative", "topics": {"0": "0.49086648", "1": "0.20070133", "2": "0.12626979", "3": "0.011039082", "4": "0.011034868", "5": "0.14909367", "6": "0.01099478"}}

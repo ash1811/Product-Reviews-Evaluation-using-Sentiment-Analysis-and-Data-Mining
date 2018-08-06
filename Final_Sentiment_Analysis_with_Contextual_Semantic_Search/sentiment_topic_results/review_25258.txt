@@ -1,0 +1,1 @@
+{"text": "I just love jockey women's underwear. This was a good price and fit as I knew they would.  They don't ride up so that feels good.", "sentiment": "negative", "topics": {"0": "0.011035981", "1": "0.5643111", "2": "0.011002079", "3": "0.38055724", "4": "0.011032591", "5": "0.011014407", "6": "0.011046658"}}

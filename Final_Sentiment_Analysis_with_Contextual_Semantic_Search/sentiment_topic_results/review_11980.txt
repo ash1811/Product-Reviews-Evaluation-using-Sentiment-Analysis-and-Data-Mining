@@ -1,0 +1,1 @@
+{"text": "The size is perfect and as I like to mix gold and silver they are just right for me. Very attractive. Would recommend", "sentiment": "negative", "topics": {"0": "0.011943852", "1": "0.011963581", "2": "0.0119459275", "3": "0.6176613", "4": "0.011931662", "5": "0.124168284", "6": "0.21038541"}}

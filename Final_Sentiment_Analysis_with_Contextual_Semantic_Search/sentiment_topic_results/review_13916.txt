@@ -1,0 +1,1 @@
+{"text": "I love it! Great weekend time piece.  I was amazed at the quality of it.  I really enjoy all the features and will probably order two more to gift.", "sentiment": "negative", "topics": {"0": "0.4218215", "1": "0.32823294", "4": "0.10095993", "6": "0.12372387"}}

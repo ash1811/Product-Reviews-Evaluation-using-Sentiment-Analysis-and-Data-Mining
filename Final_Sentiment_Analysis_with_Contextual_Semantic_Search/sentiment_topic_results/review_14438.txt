@@ -1,0 +1,1 @@
+{"text": "I like these shoes.  The service was good and while they are what I wanted, I had to return them because they were not my size.  They did not have my color in my size so they promptly gave me my money back.  Good company.", "sentiment": "negative", "topics": {"1": "0.24598558", "2": "0.11316688", "5": "0.26445654", "6": "0.34952834"}}

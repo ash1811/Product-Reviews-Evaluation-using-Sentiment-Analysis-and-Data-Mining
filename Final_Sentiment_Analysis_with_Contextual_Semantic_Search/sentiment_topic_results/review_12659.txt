@@ -1,0 +1,1 @@
+{"text": "Need to wear thin sox to fit but can work with that.I have another pair I have worn at work for several years, am on my feet all day.", "sentiment": "negative", "topics": {"0": "0.11221299", "1": "0.43945795", "2": "0.08509719", "4": "0.10246198", "6": "0.24282813"}}

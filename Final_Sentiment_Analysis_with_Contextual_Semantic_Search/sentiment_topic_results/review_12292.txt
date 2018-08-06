@@ -1,0 +1,1 @@
+{"text": "Out of all of my leggings, I seem to like the Danskin the best as they are generous with the material which is good quality and I love them. Great seller and Amazon has the merchandise I want and/or need always!", "sentiment": "negative", "topics": {"1": "0.35036656", "3": "0.08359458", "4": "0.43839684", "6": "0.10612464"}}

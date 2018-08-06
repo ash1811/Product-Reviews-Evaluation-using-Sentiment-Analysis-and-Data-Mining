@@ -1,0 +1,1 @@
+{"text": "Bought as a Xmas present , he loved them , he is a wrangler man so nothing less would do, heavyweight material , would recommend", "sentiment": "positive", "topics": {"0": "0.29878876", "1": "0.40910527", "4": "0.12408158", "6": "0.13932694"}}

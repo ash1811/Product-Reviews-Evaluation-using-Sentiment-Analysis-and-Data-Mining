@@ -1,0 +1,1 @@
+{"text": "The shoes are a beautiful shade of blue. The material is soft. The fit is good and they are very comfortable to wear.", "sentiment": "positive", "topics": {"0": "0.013027391", "1": "0.6283437", "2": "0.1092344", "3": "0.012999397", "4": "0.21035537", "5": "0.013043489", "6": "0.012996253"}}

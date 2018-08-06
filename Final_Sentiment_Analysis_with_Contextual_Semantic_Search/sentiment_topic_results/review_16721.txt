@@ -1,0 +1,1 @@
+{"text": "These pants are a good 8 inches too long. Aside from that they're a great pair of cargo pants.", "sentiment": "negative", "topics": {"0": "0.0119122565", "1": "0.5874201", "2": "0.23681378", "3": "0.011933119", "4": "0.1280584", "5": "0.011943568", "6": "0.01191877"}}

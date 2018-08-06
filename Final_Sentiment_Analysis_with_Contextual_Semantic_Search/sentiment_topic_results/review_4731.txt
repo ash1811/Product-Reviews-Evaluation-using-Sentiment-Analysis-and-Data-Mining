@@ -1,0 +1,1 @@
+{"text": "Would be a good shirt for working outside when the temperature is a little chilly.  The picture gave more an impression of it being a better type sweatshirt.  I was disappointed.", "sentiment": "positive", "topics": {"1": "0.35472095", "3": "0.3162677", "4": "0.11434877", "5": "0.1878061"}}

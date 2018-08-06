@@ -1,0 +1,1 @@
+{"text": "The shoes is very good. Ligth, soft and the color black is very good. I recomended. I like the finished in leather.", "sentiment": "negative", "topics": {"0": "0.011926577", "1": "0.3231049", "2": "0.38668096", "3": "0.12969461", "4": "0.011912789", "5": "0.011923376", "6": "0.124756776"}}

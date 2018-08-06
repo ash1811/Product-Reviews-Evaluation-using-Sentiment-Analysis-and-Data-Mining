@@ -1,0 +1,1 @@
+{"text": "I usually would only buy leather boots. But I'll have say these didn't disappoint. It was a great price and they look even better. You won't go wrong with these.", "sentiment": "positive", "topics": {"1": "0.3750591", "2": "0.35503078", "3": "0.11170442", "4": "0.0724968", "6": "0.06881187"}}

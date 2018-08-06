@@ -1,0 +1,1 @@
+{"text": "This anklet is sparkly & gorgeous. The adjusting chain is great for many ankle sizes. My only complaint is that it is sharp at times when you wear it to sleep. I still think the beauty of it is worth it!", "sentiment": "negative", "topics": {"0": "0.1837625", "1": "0.28685507", "2": "0.067638114", "4": "0.26450703", "6": "0.18288277"}}

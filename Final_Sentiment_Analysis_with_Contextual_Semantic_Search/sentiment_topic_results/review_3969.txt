@@ -1,0 +1,1 @@
+{"text": "It is just what I wanted to replace the old pairs.  Goes well with everything and great price.  True to size.", "sentiment": "positive", "topics": {"0": "0.011954333", "1": "0.4539702", "2": "0.31438345", "3": "0.18381475", "4": "0.011969752", "5": "0.011960841", "6": "0.011946667"}}

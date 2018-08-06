@@ -1,0 +1,1 @@
+{"text": "This hat is awesome and loads of fun to wear....i've got an adult head size and the hats fits perfect and comfy.....it's the year of the Rabbit, which is me and i wear this hat to all sorts of functions and it's hold up very nicely", "sentiment": "negative", "topics": {"0": "0.12898096", "1": "0.22887236", "2": "0.090415515", "3": "0.3859664", "5": "0.15273835"}}

@@ -1,0 +1,1 @@
+{"text": "I got these for my husband,this winter. He needed something comfortable,because he broke his hip this year, and these are easy on and off, and they don't pill like most sweats. He even looks cute in them.", "sentiment": "negative", "topics": {"0": "0.19181876", "1": "0.20210288", "3": "0.11888233", "4": "0.110277876", "6": "0.36182538"}}

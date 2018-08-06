@@ -1,0 +1,1 @@
+{"text": "These tights were bought to wear under a dress and I absolutely love them. Great quality, and they have lasted a long time. 5 stars!", "sentiment": "positive", "topics": {"1": "0.42964393", "2": "0.1613796", "3": "0.17565602", "5": "0.20466666"}}

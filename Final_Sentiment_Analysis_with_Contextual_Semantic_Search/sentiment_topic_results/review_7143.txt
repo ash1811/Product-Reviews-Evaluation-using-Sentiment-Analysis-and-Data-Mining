@@ -1,0 +1,1 @@
+{"text": "It's great to have when your wear your shorts in the summer you can put your wallet keys change it works great I love it", "sentiment": "positive", "topics": {"0": "0.21138418", "1": "0.5476708", "2": "0.19315231", "3": "0.011943425", "4": "0.01197444", "5": "0.011960003", "6": "0.011914846"}}

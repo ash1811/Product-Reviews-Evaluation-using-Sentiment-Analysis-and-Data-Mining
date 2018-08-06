@@ -1,0 +1,1 @@
+{"text": "The Long Haul Laredo boot was Ok, however, the leather is somewhat stiff compared to like type western foot ware I have. This boot was made in China, not great leather tanners.", "sentiment": "negative", "topics": {"1": "0.30450878", "2": "0.38947952", "4": "0.15382428", "5": "0.07809741", "6": "0.061602656"}}

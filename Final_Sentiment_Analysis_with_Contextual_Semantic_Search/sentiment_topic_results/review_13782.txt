@@ -1,0 +1,1 @@
+{"text": "These are cute, good for the hot weather. The only negative thing about them involves my own misperception: I got the impression from the picture that there was a little arch support - but these are regular flip-flops.", "sentiment": "negative", "topics": {"2": "0.08102341", "3": "0.62768435", "5": "0.18056917", "6": "0.08544015"}}

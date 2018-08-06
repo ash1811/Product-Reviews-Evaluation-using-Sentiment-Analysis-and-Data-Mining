@@ -1,0 +1,1 @@
+{"text": "My grand-daughter had to have the same shoes that everyone else is wearing so she loves her shoes.  Nothing would do but Vans", "sentiment": "negative", "topics": {"0": "0.013045416", "1": "0.013072174", "2": "0.4228095", "3": "0.25604904", "4": "0.013098738", "5": "0.013018512", "6": "0.26890662"}}

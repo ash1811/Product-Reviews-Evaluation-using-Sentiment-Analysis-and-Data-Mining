@@ -1,0 +1,1 @@
+{"text": "I purchased these slippers for my wife for Valentine's day.they fit very well and have alot of cushion.I gave a five star rating for an excellent product.I highly recommend these slippers.", "sentiment": "negative", "topics": {"1": "0.28635877", "2": "0.29897133", "5": "0.18373613", "6": "0.2083408"}}

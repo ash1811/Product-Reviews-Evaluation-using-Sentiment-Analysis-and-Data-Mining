@@ -1,0 +1,1 @@
+{"text": "I love my new T shirt!! It is great and they did not skimp on size! I am plus size and it was long and I like them long!Great material and great price!! Will order again!", "sentiment": "negative", "topics": {"0": "0.10780967", "1": "0.5032818", "3": "0.26436123", "4": "0.099232614"}}

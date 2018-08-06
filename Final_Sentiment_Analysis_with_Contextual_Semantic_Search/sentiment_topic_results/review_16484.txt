@@ -1,0 +1,1 @@
+{"text": "I like these glasses but they are not as oversized as I would like. If you have a small face they will be great. For the price they are fine but I can't see giving 5 stars.", "sentiment": "positive", "topics": {"0": "0.24195397", "1": "0.35356036", "2": "0.29843202", "4": "0.07917125"}}

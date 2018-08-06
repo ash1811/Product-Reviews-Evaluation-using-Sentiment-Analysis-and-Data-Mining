@@ -1,0 +1,1 @@
+{"text": "I can buy these shoes and put them on brand new and know that I will have no sores.  They are the best.  I have about 5 pairs of this type of Easy Spirit shoe", "sentiment": "positive", "topics": {"0": "0.14351137", "1": "0.14871153", "2": "0.15171465", "3": "0.31656787", "4": "0.22038923"}}

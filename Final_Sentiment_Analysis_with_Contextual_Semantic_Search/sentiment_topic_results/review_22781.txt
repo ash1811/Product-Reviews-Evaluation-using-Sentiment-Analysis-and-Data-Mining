@@ -1,0 +1,1 @@
+{"text": "My son ordered them and they are a bit small in the waist. This is the usual size he buys so we will be sending them back for a bigger size!", "sentiment": "negative", "topics": {"0": "0.011021195", "1": "0.44789633", "2": "0.09264546", "3": "0.4154053", "4": "0.010999546", "5": "0.011006844", "6": "0.011025333"}}

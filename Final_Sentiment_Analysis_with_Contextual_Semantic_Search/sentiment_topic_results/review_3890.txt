@@ -1,0 +1,1 @@
+{"text": "I am returning this mostly because it was thicker that I was envisioning. The product is a good example of &#34;you get what you pay for.&#34; The embossing was crooked and the cover was not squared at the corners.", "sentiment": "negative", "topics": {"0": "0.10866149", "1": "0.15337184", "2": "0.36847347", "4": "0.10777244", "5": "0.12704504", "6": "0.12617132"}}

@@ -1,0 +1,1 @@
+{"text": "It fits.  It is not as comfortable as I thought it would be.  It has no wire to poke at me so I am sure that make it more comfortable than my other bras.", "sentiment": "negative", "topics": {"0": "0.011912799", "1": "0.42181656", "2": "0.10216858", "3": "0.2415633", "4": "0.10559256", "5": "0.011910062", "6": "0.10503618"}}

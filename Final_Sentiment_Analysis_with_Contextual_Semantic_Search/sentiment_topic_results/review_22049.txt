@@ -1,0 +1,1 @@
+{"text": "Truly a beautiful watch. The little crystals sparkle like anything, and the watch is thin & lightweight. Unfortunately, I just can't get used to the rose gold. Don't get me wrong -- it's gorgeous. But I just don't like the color for me. Sadly, I returned it.", "sentiment": "negative", "topics": {"0": "0.31855488", "2": "0.28781712", "4": "0.21243897", "5": "0.1652323"}}

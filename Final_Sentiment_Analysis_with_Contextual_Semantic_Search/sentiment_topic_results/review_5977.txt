@@ -1,0 +1,1 @@
+{"text": "May not be the best quality pashmina I've ever seen but it's great for the price and will work very well for keeping covered and looking good on the cruise.  Very happy with my purchase!", "sentiment": "negative", "topics": {"1": "0.65221864", "3": "0.1501692", "4": "0.10949931", "6": "0.06551435"}}

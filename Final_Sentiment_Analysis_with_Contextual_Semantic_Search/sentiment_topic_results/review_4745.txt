@@ -1,0 +1,1 @@
+{"text": "Really like this as the Large tall is pretty long! Zipper is bombproof too. Overall I would recommend this to a friend.", "sentiment": "negative", "topics": {"0": "0.3019154", "1": "0.0102497265", "2": "0.010240072", "3": "0.010247503", "4": "0.11879585", "5": "0.5383004", "6": "0.0102510825"}}

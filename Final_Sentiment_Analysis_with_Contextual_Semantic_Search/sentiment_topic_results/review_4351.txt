@@ -1,0 +1,1 @@
+{"text": "These are the buy of they month. They wash up very nice and are true to size. I also think the color is better than the picture.", "sentiment": "negative", "topics": {"0": "0.011928348", "1": "0.6343994", "2": "0.011936104", "3": "0.20551567", "4": "0.112305604", "5": "0.01194495", "6": "0.011969898"}}

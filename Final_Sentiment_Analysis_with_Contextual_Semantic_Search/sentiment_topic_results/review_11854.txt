@@ -1,0 +1,1 @@
+{"text": "So convenient to order from Amazon when you know exactly what you want.  My husband likes to sleep in a big shirt, and it is not easy to find these in size 3XL.  What's not to love about the convenience?", "sentiment": "negative", "topics": {"0": "0.16004133", "1": "0.08206256", "3": "0.13948968", "4": "0.31591216", "6": "0.28743055"}}

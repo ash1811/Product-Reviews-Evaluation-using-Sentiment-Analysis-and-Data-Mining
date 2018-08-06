@@ -1,0 +1,1 @@
+{"text": "This is the best quality hoodie I have ever seen or owned! It comes out of the dryer with original shape and look. I highly recommend it!", "sentiment": "negative", "topics": {"1": "0.60391736", "3": "0.19950114", "4": "0.15837865"}}

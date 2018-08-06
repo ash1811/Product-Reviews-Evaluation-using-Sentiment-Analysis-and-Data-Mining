@@ -1,0 +1,1 @@
+{"text": "Nice color and size and it's slim design is very convenient to use.  Fabric choice is great and feels good next to skin.  I would highly recommend", "sentiment": "negative", "topics": {"1": "0.5440356", "4": "0.11017668", "5": "0.0848397", "6": "0.23706041"}}

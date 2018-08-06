@@ -1,0 +1,1 @@
+{"text": "I purchased this product based on the image shown...I found the quality is compromised and for the same price, a better watch can be purchased....", "sentiment": "negative", "topics": {"0": "0.011005", "1": "0.30587167", "2": "0.19173111", "3": "0.13622461", "4": "0.23452641", "5": "0.109634385", "6": "0.011006802"}}

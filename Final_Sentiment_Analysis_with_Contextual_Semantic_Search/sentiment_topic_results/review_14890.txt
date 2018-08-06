@@ -1,0 +1,1 @@
+{"text": "They are nice, but too small even for the price. If you are looking for gold earrings you better paid more for a bigger pair.", "sentiment": "positive", "topics": {"0": "0.011992556", "1": "0.48440254", "2": "0.011951369", "3": "0.4558437", "4": "0.011934369", "5": "0.01195164", "6": "0.01192385"}}

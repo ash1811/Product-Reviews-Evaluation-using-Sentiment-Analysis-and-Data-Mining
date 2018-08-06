@@ -1,0 +1,1 @@
+{"text": "Good standard backpack. The bright yellow is very visible, something that was important. Good for carrying groceries when bike riding.", "sentiment": "positive", "topics": {"0": "0.010252863", "1": "0.36934245", "2": "0.099799685", "3": "0.010227057", "4": "0.1985659", "5": "0.0102225505", "6": "0.30158952"}}

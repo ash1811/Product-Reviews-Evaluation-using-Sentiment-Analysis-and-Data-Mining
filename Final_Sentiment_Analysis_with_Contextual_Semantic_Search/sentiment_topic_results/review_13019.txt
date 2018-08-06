@@ -1,0 +1,1 @@
+{"text": "First wash the bandana began to unravel by itself.  The quality just isn't there find something else maybe thicker than this item.", "sentiment": "negative", "topics": {"0": "0.01022601", "1": "0.516772", "2": "0.22604632", "3": "0.010223142", "4": "0.11506521", "5": "0.010237609", "6": "0.11142975"}}

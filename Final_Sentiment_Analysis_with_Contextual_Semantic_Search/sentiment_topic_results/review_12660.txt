@@ -1,0 +1,1 @@
+{"text": "She uses them since forever.Is the only one's she feel confortable with because they provide real support.", "sentiment": "negative", "topics": {"0": "0.014324689", "1": "0.014326285", "2": "0.19340774", "3": "0.40751824", "4": "0.34178457", "5": "0.014319299", "6": "0.014319204"}}

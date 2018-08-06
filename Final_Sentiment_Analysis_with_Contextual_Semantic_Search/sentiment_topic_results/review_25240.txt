@@ -1,0 +1,1 @@
+{"text": "These work much better than the chunky white ones that my podiatrist gave me.  They fit in my ballet flats well and hardly slip around at all.", "sentiment": "positive", "topics": {"0": "0.0942227", "1": "0.33659968", "4": "0.12327811", "5": "0.20396326", "6": "0.22600259"}}

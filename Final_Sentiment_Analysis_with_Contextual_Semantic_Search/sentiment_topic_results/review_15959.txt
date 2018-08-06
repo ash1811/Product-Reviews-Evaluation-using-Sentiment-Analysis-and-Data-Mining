@@ -1,0 +1,1 @@
+{"text": "This is a good cap.  What you can't see online - four round air holes at the top sides of it.  Will probably fit any size head.", "sentiment": "negative", "topics": {"1": "0.25447214", "2": "0.08065937", "3": "0.2778124", "4": "0.12193691", "5": "0.17648698", "6": "0.08020133"}}

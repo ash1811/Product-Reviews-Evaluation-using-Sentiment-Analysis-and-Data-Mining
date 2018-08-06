@@ -1,0 +1,1 @@
+{"text": "this pantyhose is very comfortable, great support, band is wide and gentle.Did need some help to get the second foot in but i like this hose a lot!", "sentiment": "negative", "topics": {"0": "0.41144207", "1": "0.35529464", "6": "0.19736755"}}

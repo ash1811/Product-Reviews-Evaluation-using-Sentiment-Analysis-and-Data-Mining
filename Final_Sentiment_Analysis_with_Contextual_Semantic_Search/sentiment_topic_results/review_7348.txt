@@ -1,0 +1,1 @@
+{"text": "I am in the Construction field and these pants will last at longer than the cheap $20 pants you find at Walmart.", "sentiment": "negative", "topics": {"0": "0.013019895", "1": "0.41667864", "2": "0.20335111", "3": "0.013025862", "4": "0.32788292", "5": "0.013039611", "6": "0.013002006"}}

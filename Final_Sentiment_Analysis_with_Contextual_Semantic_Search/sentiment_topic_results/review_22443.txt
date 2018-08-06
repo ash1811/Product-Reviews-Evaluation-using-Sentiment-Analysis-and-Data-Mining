@@ -1,0 +1,1 @@
+{"text": "These are fine. Good quality. Good price. I wasn't too jazzed about the colors that arrived.  They are a bit tight around the legs and some days I just can't stand it.", "sentiment": "positive", "topics": {"0": "0.13955948", "1": "0.61268437", "2": "0.11946953", "6": "0.10301173"}}

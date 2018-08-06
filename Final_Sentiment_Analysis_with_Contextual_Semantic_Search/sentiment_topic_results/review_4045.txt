@@ -1,0 +1,1 @@
+{"text": "These slippers worked great for a monthThen I had pitch them because they had holes in them.  Don't buy these poor quality slippers", "sentiment": "negative", "topics": {"0": "0.011939171", "1": "0.2603664", "2": "0.37028494", "3": "0.011940877", "4": "0.011906933", "5": "0.10822791", "6": "0.22533374"}}

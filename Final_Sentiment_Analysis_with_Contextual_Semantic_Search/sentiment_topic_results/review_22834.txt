@@ -1,0 +1,1 @@
+{"text": "Nice earring, the size very good, the stones fine and looks wonderful when you wear them. Everybody ask me for the price, they couldn't believe how much I paid!!!", "sentiment": "negative", "topics": {"1": "0.7157988", "2": "0.08540334", "3": "0.16510119"}}

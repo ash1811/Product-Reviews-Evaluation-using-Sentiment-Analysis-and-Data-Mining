@@ -1,0 +1,1 @@
+{"text": "I love these shoes... the grey is great and slip on is just what I wanted.I didn't know to order a half size smaller, so next time I will.But they are still very comfortable and just so cute.", "sentiment": "negative", "topics": {"0": "0.19010435", "1": "0.17704588", "2": "0.10553444", "3": "0.33548403", "5": "0.17589615"}}

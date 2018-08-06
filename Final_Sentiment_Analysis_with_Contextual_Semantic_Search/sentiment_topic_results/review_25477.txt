@@ -1,0 +1,1 @@
+{"text": "Rothco O.D. 2-Pocket Ammo Pouch is bigger than i thought, I will be buying a few more soon. You can fit alot in these", "sentiment": "negative", "topics": {"0": "0.1496901", "1": "0.10957538", "2": "0.28497157", "3": "0.20958036", "4": "0.011937003", "5": "0.0119379675", "6": "0.22230756"}}

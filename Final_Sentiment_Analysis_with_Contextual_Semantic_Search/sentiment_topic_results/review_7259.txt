@@ -1,0 +1,1 @@
+{"text": "These jeans are a great fit, the best carpenter jeans I own! I just ordered another pair. Luv them!!!!!", "sentiment": "positive", "topics": {"0": "0.011022663", "1": "0.49427143", "2": "0.18485768", "3": "0.011054923", "4": "0.13182849", "5": "0.15595655", "6": "0.011008289"}}

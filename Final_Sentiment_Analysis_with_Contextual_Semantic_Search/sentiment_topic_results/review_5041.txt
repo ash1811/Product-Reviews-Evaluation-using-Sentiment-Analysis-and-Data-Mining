@@ -1,0 +1,1 @@
+{"text": "I love the quality of this sandal, and the comfort of the foot pad, but I am tripping over my feet because the right size is too large.", "sentiment": "negative", "topics": {"0": "0.116458386", "1": "0.29158744", "2": "0.011924785", "3": "0.01197445", "4": "0.28009012", "5": "0.011940332", "6": "0.27602446"}}

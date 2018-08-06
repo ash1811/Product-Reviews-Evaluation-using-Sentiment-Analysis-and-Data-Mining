@@ -1,0 +1,1 @@
+{"text": "This is a great tee for the money, fabric is heavy and the shirt is well constructed.  For me the shirt is a bit long, sizing seemed a bit smaller than I would prefer.", "sentiment": "negative", "topics": {"0": "0.10127257", "3": "0.24179316", "5": "0.4856277", "6": "0.14743352"}}

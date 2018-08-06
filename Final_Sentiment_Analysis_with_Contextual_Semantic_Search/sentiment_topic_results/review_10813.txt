@@ -1,0 +1,1 @@
+{"text": "At least for me, these are the perfect size. The color is great. They're just as pictured. Light and comfortable to wear, you can see them well and they have enuogh size to have some style, but still not oversized.", "sentiment": "negative", "topics": {"1": "0.46642423", "3": "0.26066446", "4": "0.24275449"}}

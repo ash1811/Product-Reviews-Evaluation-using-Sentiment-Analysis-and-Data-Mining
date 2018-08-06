@@ -1,0 +1,1 @@
+{"text": "I am happy with this purchase.  I replaced a pair of $200 sunglasses with these, and while they are not nearly as nice as the previous glasses, they do the job at a much better price.", "sentiment": "negative", "topics": {"1": "0.7165232", "2": "0.23867549"}}

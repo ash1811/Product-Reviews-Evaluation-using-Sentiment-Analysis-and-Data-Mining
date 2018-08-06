@@ -1,0 +1,1 @@
+{"text": "this is a nice watch with this band Voguestrap TX51012BK Allstrap 16-20mm i dont like metal bands they are not very comfortable the light works best in total darkness doesnt work well in low light", "sentiment": "negative", "topics": {"0": "0.51846826", "1": "0.24130394", "2": "0.114156865", "4": "0.10741078"}}

@@ -1,0 +1,1 @@
+{"text": "Stepdads Christmas presant.  He keeps saying how warm they are.  he is always cold nowadays, and these take off the afternoon chill!", "sentiment": "negative", "topics": {"0": "0.08569042", "1": "0.19039676", "2": "0.2353542", "3": "0.1263156", "4": "0.010216288", "5": "0.010237405", "6": "0.3417893"}}

@@ -1,0 +1,1 @@
+{"text": "Hard to button but does what it is supposed to, a bit pricey but I expect it will last a long time as it is quite thick plastic. You cannot see it under the tie at all.", "sentiment": "negative", "topics": {"0": "0.11910959", "1": "0.11784327", "3": "0.29874343", "4": "0.19200471", "5": "0.14620566", "6": "0.11813777"}}

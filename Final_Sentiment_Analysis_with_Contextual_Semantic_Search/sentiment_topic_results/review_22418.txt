@@ -1,0 +1,1 @@
+{"text": "What can I say? It does it job and it does it well. Made by wedding dress into a full ball gown.", "sentiment": "negative", "topics": {"0": "0.24551117", "1": "0.32637548", "2": "0.1371046", "3": "0.014313583", "4": "0.15359929", "5": "0.014441045", "6": "0.108654834"}}

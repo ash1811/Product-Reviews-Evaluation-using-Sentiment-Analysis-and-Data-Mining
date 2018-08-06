@@ -1,0 +1,1 @@
+{"text": "Bought them for our sons birthday, he loves them. In the Fall & winter months he lives in them outside of work.", "sentiment": "positive", "topics": {"0": "0.011935745", "1": "0.7222437", "2": "0.21800947", "3": "0.011973683", "4": "0.01195975", "5": "0.011939857", "6": "0.011937794"}}

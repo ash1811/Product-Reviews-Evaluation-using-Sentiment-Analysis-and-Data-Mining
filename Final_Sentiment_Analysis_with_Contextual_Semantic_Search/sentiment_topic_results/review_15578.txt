@@ -1,0 +1,1 @@
+{"text": "These shoes are HOT.  I mean really, really hot.  Nice lines, great shape, perfect height.  Love them.  And comfortable!  I want more in other colors!", "sentiment": "negative", "topics": {"1": "0.41403365", "2": "0.11602669", "3": "0.37962565", "6": "0.06644282"}}

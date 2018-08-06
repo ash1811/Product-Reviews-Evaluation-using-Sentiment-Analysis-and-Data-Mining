@@ -1,0 +1,1 @@
+{"text": "Very nice comfy socks. I just got some Skeletoes shoes and thought a pair of toe socks would be nice to have. I was surprised they're as comfy as they are I totally forgot they were toe socks. Nice dry feet. Ahhh!", "sentiment": "positive", "topics": {"1": "0.26304033", "2": "0.064449586", "3": "0.23624879", "4": "0.17408383", "5": "0.20363678", "6": "0.05282087"}}

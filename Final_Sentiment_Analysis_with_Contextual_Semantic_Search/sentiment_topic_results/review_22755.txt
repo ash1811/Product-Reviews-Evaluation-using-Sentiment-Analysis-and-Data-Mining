@@ -1,0 +1,1 @@
+{"text": "This was purchased as a birthday gift for one of my daughter's friends.  It was a nice gift for a teen girl. The chain is very fragile but the product looks nice.", "sentiment": "positive", "topics": {"0": "0.23226736", "1": "0.24543141", "2": "0.21616276", "4": "0.075659655", "5": "0.21257542"}}

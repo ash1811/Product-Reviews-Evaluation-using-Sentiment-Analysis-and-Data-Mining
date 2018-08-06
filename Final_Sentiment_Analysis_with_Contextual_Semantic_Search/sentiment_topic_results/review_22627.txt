@@ -1,0 +1,1 @@
+{"text": "I bought these and also some Jockey briefs at the same time. Jockey's were a great fit made from quality cotton.  The Hanes material is very thin, the cut is very short.", "sentiment": "positive", "topics": {"0": "0.24277121", "1": "0.483988", "3": "0.089681074", "4": "0.15831253"}}

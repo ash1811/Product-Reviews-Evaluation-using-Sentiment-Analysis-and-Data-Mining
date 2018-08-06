@@ -1,0 +1,1 @@
+{"text": "Light and strong. Side zip is a feature I didn't think I'd care about, but it works quite well and makes putting on and taking off very easy. Waterproof GoreTex \"sock\" sewn inside is a bonus for me.", "sentiment": "negative", "topics": {"0": "0.1783888", "2": "0.09892598", "3": "0.58464533", "4": "0.06832521", "6": "0.057714533"}}

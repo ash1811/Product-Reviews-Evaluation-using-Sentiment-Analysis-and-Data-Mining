@@ -1,0 +1,1 @@
+{"text": "I have liquid silver cleaner also, but like that i can shine with the cloth even when i am wearing the jewelry.  I use it on a necklace that i rarely take off.", "sentiment": "negative", "topics": {"0": "0.18966272", "1": "0.38843834", "2": "0.12208983", "4": "0.103768304", "5": "0.17810602"}}

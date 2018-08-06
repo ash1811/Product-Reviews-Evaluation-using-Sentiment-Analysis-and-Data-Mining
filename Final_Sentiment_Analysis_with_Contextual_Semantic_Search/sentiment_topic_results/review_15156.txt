@@ -1,0 +1,1 @@
+{"text": "Quality pair of boots, still have my original pair I bought 15 years ago, bought a new pair for casual dress. I'm sure I'll buy another pair in 15 years!", "sentiment": "negative", "topics": {"1": "0.43283236", "2": "0.0618687", "3": "0.37662885", "4": "0.04832776", "6": "0.06842207"}}

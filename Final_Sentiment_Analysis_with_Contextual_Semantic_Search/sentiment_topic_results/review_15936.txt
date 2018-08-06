@@ -1,0 +1,1 @@
+{"text": "This fits really well, definitely  puts the  girls out front!  Well made and  to size except order one cup smaller.", "sentiment": "negative", "topics": {"0": "0.2633726", "1": "0.46368343", "3": "0.23704356"}}

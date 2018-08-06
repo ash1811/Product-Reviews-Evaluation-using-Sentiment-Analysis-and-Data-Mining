@@ -1,0 +1,1 @@
+{"text": "These are really nice shirts. Very good quality. This is my first time buying Carhartt t-shirts but it won't be my last. In fact I have already purchased several more.", "sentiment": "negative", "topics": {"1": "0.4348201", "3": "0.14736387", "5": "0.3841118"}}

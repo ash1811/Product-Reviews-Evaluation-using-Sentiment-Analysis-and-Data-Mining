@@ -1,0 +1,1 @@
+{"text": "Wonderful angel wings for the Christmas program. Fit my 6 year old daughter perfectly. Be advised that maribou fluff comes off pretty easily, but the big feathers are pretty durable.", "sentiment": "positive", "topics": {"0": "0.1635709", "1": "0.5911519", "2": "0.16861688", "4": "0.057055548"}}

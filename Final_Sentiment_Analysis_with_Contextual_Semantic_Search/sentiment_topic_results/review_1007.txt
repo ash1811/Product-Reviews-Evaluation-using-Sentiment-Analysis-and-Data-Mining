@@ -1,0 +1,1 @@
+{"text": "Great looking boot was purchased as a Christmas gift! Recipient was impressed with all aspects of this practical, durable, yet dressy looking boot! Perfect choice for casual and work!", "sentiment": "positive", "topics": {"0": "0.21664062", "1": "0.35625514", "4": "0.27172905", "6": "0.13390073"}}

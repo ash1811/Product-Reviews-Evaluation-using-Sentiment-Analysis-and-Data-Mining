@@ -1,0 +1,1 @@
+{"text": "My husband and I use this backpack as a diaper bag.  We take it everywhere!  We love all of the pockets and compartments.  It has held up remarkable well!!", "sentiment": "negative", "topics": {"0": "0.010222951", "1": "0.29366693", "2": "0.23065497", "3": "0.010220811", "4": "0.33117273", "5": "0.0103236", "6": "0.11373798"}}

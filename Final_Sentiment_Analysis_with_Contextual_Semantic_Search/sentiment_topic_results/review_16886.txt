@@ -1,0 +1,1 @@
+{"text": "i am waiting to wear them in feburary for valientines day, they will look great with my dress and my boots.", "sentiment": "negative", "topics": {"0": "0.7050931", "1": "0.014382845", "2": "0.014290084", "3": "0.014318511", "4": "0.22324917", "5": "0.014362837", "6": "0.014303483"}}

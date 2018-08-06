@@ -1,0 +1,1 @@
+{"text": "Sizing is not consistent across different styles from the same brand.  Do not appreciate this kind if inconsistency.  Where have your standards gone, Lunaire?", "sentiment": "negative", "topics": {"0": "0.011012278", "1": "0.33163315", "2": "0.16885516", "3": "0.230165", "4": "0.011028137", "5": "0.011043922", "6": "0.23626234"}}

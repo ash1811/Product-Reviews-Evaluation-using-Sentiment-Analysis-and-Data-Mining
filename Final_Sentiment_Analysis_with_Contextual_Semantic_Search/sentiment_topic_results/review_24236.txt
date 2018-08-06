@@ -1,0 +1,1 @@
+{"text": "Very comfortable, and fits great. It just isn't very supportive. It is very hard finding bras in the size I need, so I wish someone would make a bra exactly like this only more supportive.", "sentiment": "negative", "topics": {"0": "0.1559686", "1": "0.31480998", "3": "0.40917498", "6": "0.096186"}}

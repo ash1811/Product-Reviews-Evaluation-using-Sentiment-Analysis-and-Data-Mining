@@ -1,0 +1,1 @@
+{"text": "Comfortable enough for pageant shoes.  Tip: if you put a hair dryer over them (gently/carefully) they will conform to your feet.  If you're in between sizes, go a 1/2 size up for comfort", "sentiment": "negative", "topics": {"0": "0.25223994", "1": "0.16554178", "2": "0.07023391", "3": "0.2046417", "5": "0.2904195"}}

@@ -1,0 +1,1 @@
+{"text": "The first pair lasted well over a year which is a lot for me considering how often I wear them.  They're really comfortable and easy.", "sentiment": "negative", "topics": {"1": "0.27154788", "3": "0.44445217", "4": "0.2457874"}}

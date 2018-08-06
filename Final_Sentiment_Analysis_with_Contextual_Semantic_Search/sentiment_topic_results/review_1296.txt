@@ -1,0 +1,1 @@
+{"text": "My husband said that they are only comfortable when worn with socks. Without socks they hurt. I had to agree after I gave them a try.", "sentiment": "negative", "topics": {"0": "0.011951158", "1": "0.27831873", "2": "0.0120497085", "3": "0.11624222", "4": "0.15310934", "5": "0.21953832", "6": "0.20879056"}}

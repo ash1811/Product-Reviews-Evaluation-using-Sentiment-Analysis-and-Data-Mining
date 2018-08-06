@@ -1,0 +1,1 @@
+{"text": "I bought two, one for my wife and one for me. we both wear and like them. I have washed them several times with no problems. from a 1 to a 10 = 10", "sentiment": "positive", "topics": {"1": "0.4341922", "2": "0.24045546", "4": "0.2916013"}}

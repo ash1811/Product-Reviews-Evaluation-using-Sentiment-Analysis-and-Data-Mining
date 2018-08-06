@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift for a friend and she was thrilled with it - and so was her husband! It's good quality and I liked that it came with a cute padded hanger - it's a really good gift!", "sentiment": "negative", "topics": {"0": "0.29389238", "1": "0.20964068", "2": "0.06326768", "3": "0.09641653", "4": "0.20632827", "5": "0.121517345"}}

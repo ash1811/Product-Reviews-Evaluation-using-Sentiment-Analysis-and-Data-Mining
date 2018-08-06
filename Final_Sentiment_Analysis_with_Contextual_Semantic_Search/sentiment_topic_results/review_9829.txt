@@ -1,0 +1,1 @@
+{"text": "When I first got these sandals they were snug and I was ok with that. Then I wore them for awhile and they stretched out a lot. I still wear them, but they are lose. Comfortable though", "sentiment": "positive", "topics": {"1": "0.3577785", "2": "0.12033823", "3": "0.1980253", "4": "0.13750736", "6": "0.1694729"}}

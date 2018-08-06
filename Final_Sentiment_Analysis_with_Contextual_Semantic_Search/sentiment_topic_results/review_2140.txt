@@ -1,0 +1,1 @@
+{"text": "cheaply made; not leather but vinyl; poor arch. Grandma was right-you get what you pay for, so I was glad Amazon took'em right back & credit was received w/in hours. Great customer service-thanks big A", "sentiment": "positive", "topics": {"1": "0.20532262", "2": "0.043051295", "3": "0.14360447", "4": "0.26656497", "5": "0.16410702", "6": "0.17160559"}}

@@ -1,0 +1,1 @@
+{"text": "My wife always tells me to buy her medium. I bought this in medium and it fits her well. It seems like good quality.", "sentiment": "negative", "topics": {"0": "0.010225109", "1": "0.8429341", "2": "0.010254941", "3": "0.010234637", "4": "0.10588817", "5": "0.010228263", "6": "0.010234786"}}

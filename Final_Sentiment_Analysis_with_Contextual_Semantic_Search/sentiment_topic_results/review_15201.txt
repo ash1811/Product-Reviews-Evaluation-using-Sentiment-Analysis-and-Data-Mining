@@ -1,0 +1,1 @@
+{"text": "Own three other pairs of Keens. This particular sandal runs small. Had to return for a 1/2 size larger. Like the shoe though.", "sentiment": "negative", "topics": {"2": "0.24869773", "3": "0.5221594", "6": "0.19093744"}}

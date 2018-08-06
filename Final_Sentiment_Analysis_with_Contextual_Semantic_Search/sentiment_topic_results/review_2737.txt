@@ -1,0 +1,1 @@
+{"text": "If you are looking for a great gift, this is it! I got this watch as a gift for the holidays and I'm really pleased with it. I's really light, slim, and it look very cool. SLEEK DESIGN!!! AA++", "sentiment": "positive", "topics": {"0": "0.5339203", "2": "0.1462794", "3": "0.15341043", "4": "0.07083681", "6": "0.0825093"}}

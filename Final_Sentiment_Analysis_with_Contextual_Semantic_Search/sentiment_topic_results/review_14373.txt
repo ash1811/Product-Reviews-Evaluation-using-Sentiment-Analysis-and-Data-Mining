@@ -1,0 +1,1 @@
+{"text": "These Klogs didn't quite fit, rubbed on the top of my feet, and were heavier than I like. I just sent them back. Compared to Quarks, they are heavy.", "sentiment": "negative", "topics": {"0": "0.12186202", "1": "0.26559007", "2": "0.09630268", "3": "0.17940359", "4": "0.010278937", "5": "0.22587849", "6": "0.100684226"}}

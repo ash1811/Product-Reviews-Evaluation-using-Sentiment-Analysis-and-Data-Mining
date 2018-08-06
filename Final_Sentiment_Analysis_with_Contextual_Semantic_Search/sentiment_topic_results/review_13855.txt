@@ -1,0 +1,1 @@
+{"text": "I liked the look of these shoes but they were too small. I considered a larger size but I could tell that the width would be too narrow. These would be terrible if you had bunyons. Do not buy if you have a wide foot.", "sentiment": "positive", "topics": {"1": "0.52598363", "2": "0.09848906", "3": "0.0933513", "4": "0.2595618"}}

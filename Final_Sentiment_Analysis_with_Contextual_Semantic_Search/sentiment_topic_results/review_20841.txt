@@ -1,0 +1,1 @@
+{"text": "These jeans fit me really well in the first few days of wear, but they stretch out a lot more than other jeans (I usually buy the 515, and they last way longer shape-wise in between washes).", "sentiment": "negative", "topics": {"1": "0.21658364", "5": "0.6084955", "6": "0.14627849"}}

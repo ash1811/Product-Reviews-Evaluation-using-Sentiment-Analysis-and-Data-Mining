@@ -1,0 +1,1 @@
+{"text": "Hats don't fit my head since I have a pretty large noggin. I've always wore beenie hats but sometimes even they are too small. This one fits just right. Feels warm too.", "sentiment": "negative", "topics": {"0": "0.18688178", "1": "0.23232993", "2": "0.151303", "3": "0.4099284"}}

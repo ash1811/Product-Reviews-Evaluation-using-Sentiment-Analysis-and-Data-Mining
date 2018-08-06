@@ -1,0 +1,1 @@
+{"text": "Love this hat fits perfect keeps my ears warm when doing yard work and now i can do it with a little comfort Like the ashy color grey and i will get the neon colored one for hunting activities", "sentiment": "negative", "topics": {"1": "0.26407325", "2": "0.15298057", "3": "0.17853187", "4": "0.1101708", "5": "0.16159342", "6": "0.12612185"}}

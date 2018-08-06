@@ -1,0 +1,1 @@
+{"text": "These knee highs are worth the money for someone with a larger calf.  They did not bind and were surprisingly long lasting.", "sentiment": "negative", "topics": {"0": "0.14561015", "1": "0.011970438", "2": "0.47188136", "3": "0.08990848", "4": "0.011955486", "5": "0.25670376", "6": "0.011970351"}}

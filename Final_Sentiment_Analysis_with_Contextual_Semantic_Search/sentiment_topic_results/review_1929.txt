@@ -1,0 +1,1 @@
+{"text": "I have wide feet and wear size 6. Walk barefooted when I can. Have not since I received these! These are extremely soft, flexible, lightweight but warm. Love them!", "sentiment": "negative", "topics": {"0": "0.22179775", "1": "0.28403893", "3": "0.26035127", "5": "0.11245302", "6": "0.106251255"}}

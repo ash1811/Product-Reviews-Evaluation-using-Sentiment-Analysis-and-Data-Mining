@@ -1,0 +1,1 @@
+{"text": "this is a nice sweatshirt, it is not heavy, but just right to wear over a tee shirt or a casual shirt, it washes and dries very nicely.", "sentiment": "negative", "topics": {"0": "0.011017699", "1": "0.5856724", "2": "0.01099736", "3": "0.011010672", "4": "0.20366405", "5": "0.011045728", "6": "0.1665921"}}

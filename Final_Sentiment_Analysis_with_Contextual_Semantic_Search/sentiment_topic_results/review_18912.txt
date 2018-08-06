@@ -1,0 +1,1 @@
+{"text": "I love this jeans i ware them today and they r sooooooo cool . THANKS a lot ~ SIZE,COLOR, DELIVERY 10 stars :))", "sentiment": "positive", "topics": {"0": "0.010257436", "1": "0.13622355", "2": "0.18929766", "3": "0.010280031", "4": "0.3892783", "5": "0.17093164", "6": "0.09373141"}}

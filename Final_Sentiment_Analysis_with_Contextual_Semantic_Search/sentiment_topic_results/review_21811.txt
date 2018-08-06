@@ -1,0 +1,1 @@
+{"text": "This bag is fabulous, even better than on the picture!It is nice and I liked the designI would highly recommend this to anyoneit arrived just in time for my trip!", "sentiment": "positive", "topics": {"0": "0.39807278", "1": "0.23780689", "2": "0.21323773", "3": "0.12403093"}}

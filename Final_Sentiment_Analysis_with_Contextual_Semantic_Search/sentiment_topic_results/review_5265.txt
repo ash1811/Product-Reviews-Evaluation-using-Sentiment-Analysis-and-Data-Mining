@@ -1,0 +1,1 @@
+{"text": "Bought these for my hospital stay to have my daughter and ther are amazing and super comfy.  I wear them around the house npw too", "sentiment": "negative", "topics": {"0": "0.011014313", "1": "0.011051378", "2": "0.2424654", "3": "0.011042909", "4": "0.20667592", "5": "0.21689083", "6": "0.30085927"}}

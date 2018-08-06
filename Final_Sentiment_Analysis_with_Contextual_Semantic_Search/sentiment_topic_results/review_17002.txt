@@ -1,0 +1,1 @@
+{"text": "These are RADICAL! These are really hot with black jeans . Buy one size smaller than you normally buy shoes, these run large.", "sentiment": "negative", "topics": {"1": "0.24189124", "2": "0.16707753", "3": "0.4294205", "5": "0.13300112"}}

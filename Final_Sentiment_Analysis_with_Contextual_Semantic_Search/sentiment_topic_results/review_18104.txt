@@ -1,0 +1,1 @@
+{"text": "I like the looks of this inexpensive watch.  Very low-profile.  I needed something cheap, with a second hand.  The only foreseeable problem is the plastic band.  It's really thin and doesn't look like it will last long.", "sentiment": "negative", "topics": {"1": "0.44046637", "2": "0.10953572", "3": "0.08767327", "4": "0.17809345", "6": "0.17056186"}}

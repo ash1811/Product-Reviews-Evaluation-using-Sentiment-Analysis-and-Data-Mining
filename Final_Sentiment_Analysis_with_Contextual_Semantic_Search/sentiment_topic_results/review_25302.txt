@@ -1,0 +1,1 @@
+{"text": "These underwear are very comfortable, do not ride up and wick away sweat so they are beneficial for daily living as well as working out.", "sentiment": "positive", "topics": {"0": "0.0973111", "1": "0.28315443", "2": "0.11903517", "3": "0.16107678", "4": "0.20139192", "5": "0.010998771", "6": "0.12703182"}}

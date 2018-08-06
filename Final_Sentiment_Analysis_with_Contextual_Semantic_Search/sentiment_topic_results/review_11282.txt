@@ -1,0 +1,1 @@
+{"text": "It's shoe goo - what more is there to say - always has been an indispensible product.", "sentiment": "negative", "topics": {"0": "0.36179224", "1": "0.020423096", "2": "0.23120241", "3": "0.020409506", "4": "0.020427823", "5": "0.18199575", "6": "0.16374917"}}

@@ -1,0 +1,1 @@
+{"text": "I love love love This shirt bought two, both fit and look good..simple but an upscale t-shirt NICE! Im looking to buy more!", "sentiment": "negative", "topics": {"0": "0.19913392", "1": "0.758705"}}

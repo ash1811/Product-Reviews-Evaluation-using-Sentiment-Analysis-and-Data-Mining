@@ -1,0 +1,1 @@
+{"text": "Chucks run big so I get 9's (9 1/2 is normal)And for Vans, i have some that are 11's but this year it's a size 10 (2013-2014)Great shoe, and of course Dr Scholls is a must", "sentiment": "negative", "topics": {"1": "0.0640498", "2": "0.11485869", "3": "0.23839943", "4": "0.16559678", "5": "0.10316739", "6": "0.30678242"}}

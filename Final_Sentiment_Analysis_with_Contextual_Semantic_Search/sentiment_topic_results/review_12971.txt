@@ -1,0 +1,1 @@
+{"text": "My husband loves the soft fabric waste bands on these briefs.  Hanes makes alot of different styles----this is a winner!", "sentiment": "negative", "topics": {"0": "0.010255948", "1": "0.3186063", "2": "0.010242722", "3": "0.15972327", "4": "0.40111104", "5": "0.089795165", "6": "0.010265565"}}

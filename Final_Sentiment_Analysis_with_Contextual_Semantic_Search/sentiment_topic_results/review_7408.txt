@@ -1,0 +1,1 @@
+{"text": "This abydoll is very big as large runs as xlarge . I was disappointed when I found it has 2 stain that make it ugly . Take care", "sentiment": "positive", "topics": {"0": "0.27116448", "1": "0.15434964", "2": "0.010220563", "3": "0.53352684", "4": "0.010212528", "5": "0.010226275", "6": "0.010299703"}}

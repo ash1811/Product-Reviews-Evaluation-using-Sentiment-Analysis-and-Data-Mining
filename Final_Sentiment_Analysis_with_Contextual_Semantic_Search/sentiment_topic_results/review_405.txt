@@ -1,0 +1,1 @@
+{"text": "I thought i would try this brand of shirt. way to small and short! One time in the wash and ill be putting it in the Good Will bag. Im 6-2 ..not going to work  this shirt does not have a generous tail.", "sentiment": "negative", "topics": {"0": "0.10747431", "3": "0.4399912", "4": "0.16088948", "5": "0.22695236", "6": "0.052740287"}}

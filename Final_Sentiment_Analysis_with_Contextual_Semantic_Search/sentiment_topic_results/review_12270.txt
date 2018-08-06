@@ -1,0 +1,1 @@
+{"text": "I love the fact that I can wear them under clothing and head to the gym in warmth.  They help firm my waist and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.011979045", "1": "0.3307848", "2": "0.08052817", "3": "0.4114156", "4": "0.011941377", "5": "0.011929003", "6": "0.14142205"}}

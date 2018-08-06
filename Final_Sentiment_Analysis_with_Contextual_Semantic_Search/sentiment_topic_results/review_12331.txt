@@ -1,0 +1,1 @@
+{"text": "I use it when the mornings are cold and it keeps my head warm and covers my ear.  The visor adds a little bit of protection in case we get a light drizzle.  I love it.", "sentiment": "negative", "topics": {"1": "0.22381051", "2": "0.13646981", "3": "0.3932323", "6": "0.22492221"}}

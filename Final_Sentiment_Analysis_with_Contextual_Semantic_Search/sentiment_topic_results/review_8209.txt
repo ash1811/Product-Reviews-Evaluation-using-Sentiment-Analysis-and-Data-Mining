@@ -1,0 +1,1 @@
+{"text": "I had to return mine, but I was sad about it.  Just fits way too small.  material was soft and the design is nice.", "sentiment": "positive", "topics": {"0": "0.0119451145", "1": "0.5195283", "2": "0.011936986", "3": "0.18096387", "4": "0.011941162", "5": "0.12754366", "6": "0.13614087"}}

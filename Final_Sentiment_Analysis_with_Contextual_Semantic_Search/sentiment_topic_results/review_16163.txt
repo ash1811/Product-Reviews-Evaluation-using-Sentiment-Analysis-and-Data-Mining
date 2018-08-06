@@ -1,0 +1,1 @@
+{"text": "I had a ton of tarnished silver jewelry lying around and new they needed to be cleaned. This did the job just as expected and all is like new.", "sentiment": "negative", "topics": {"0": "0.09024799", "1": "0.24287991", "2": "0.19013496", "3": "0.2026046", "4": "0.010220257", "5": "0.010219218", "6": "0.25369307"}}

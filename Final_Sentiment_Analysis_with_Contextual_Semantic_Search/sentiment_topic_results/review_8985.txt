@@ -1,0 +1,1 @@
+{"text": "My wife was tickled with the way this looked and felt until she tried to fasten it.  She regularly wears a 36 but this one would not fasten by at least two inches.  So beware and order the next larger band size.", "sentiment": "positive", "topics": {"0": "0.24980067", "1": "0.17526577", "2": "0.24625142", "3": "0.10720534", "5": "0.20951475"}}

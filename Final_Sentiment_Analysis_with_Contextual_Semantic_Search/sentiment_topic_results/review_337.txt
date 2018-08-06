@@ -1,0 +1,1 @@
+{"text": "These are pretty but I'm not going to wear them every day. Not what I expected but nice. A little to sheer .", "sentiment": "positive", "topics": {"0": "0.013042167", "1": "0.5401271", "2": "0.013005205", "3": "0.013034421", "4": "0.15553056", "5": "0.2522473", "6": "0.013013213"}}

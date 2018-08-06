@@ -1,0 +1,1 @@
+{"text": "These shorts were just what I wanted.  Comfortable gym shorts, not too short or tight, plenty of room to move around in.  Wash well.", "sentiment": "negative", "topics": {"0": "0.27624312", "1": "0.39649275", "5": "0.28911677"}}

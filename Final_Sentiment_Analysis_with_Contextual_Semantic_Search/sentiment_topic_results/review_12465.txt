@@ -1,0 +1,1 @@
+{"text": "I based my purchase strictly on the reviews (I'd never even heard of this brand before). These flip flops did not disappoint. I love them!!!!!", "sentiment": "negative", "topics": {"1": "0.12860408", "2": "0.41956735", "3": "0.16001673", "4": "0.26496583"}}

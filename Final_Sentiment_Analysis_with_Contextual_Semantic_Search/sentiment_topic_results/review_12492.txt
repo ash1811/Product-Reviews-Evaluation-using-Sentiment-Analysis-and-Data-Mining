@@ -1,0 +1,1 @@
+{"text": "Will try to return when i come from Europe. Bought them for present, but they are very tight and it hurts the feet. As a design they are beautiful but very uncomfortable, sorry", "sentiment": "positive", "topics": {"0": "0.010224518", "1": "0.3323586", "2": "0.10195866", "3": "0.119353235", "4": "0.2704181", "5": "0.010232251", "6": "0.15545464"}}

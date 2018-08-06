@@ -1,0 +1,1 @@
+{"text": "The shoes are tremendous. They are comfortable and surefooted, as well as appearing to be well constructed. I tried other brands, but they don't measure up, with the possible exception of Rockports. I wish they offered an insulated version.", "sentiment": "positive", "topics": {"1": "0.32895252", "2": "0.1622306", "3": "0.0688277", "4": "0.17683078", "6": "0.24880067"}}

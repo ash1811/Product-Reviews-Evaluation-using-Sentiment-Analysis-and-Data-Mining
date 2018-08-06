@@ -1,0 +1,1 @@
+{"text": "These are so light, and the vented section really helps keep your feet cool", "sentiment": "positive", "topics": {"0": "0.49803483", "1": "0.015904695", "2": "0.015890934", "3": "0.015941685", "4": "0.015993234", "5": "0.29523695", "6": "0.14299767"}}

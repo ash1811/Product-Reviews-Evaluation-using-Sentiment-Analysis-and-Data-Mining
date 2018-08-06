@@ -1,0 +1,1 @@
+{"text": "Minimal shrinkage is what I was looking for and this fits the &#34;tee&#34;. Great fit and so soft too. I wanted a roomy shirt. 5.4,  130 lbs", "sentiment": "negative", "topics": {"0": "0.25503698", "1": "0.48645923", "4": "0.14204888", "6": "0.0895983"}}

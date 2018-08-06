@@ -1,0 +1,1 @@
+{"text": "I use this mainly for the kids stuff, carring things for them. it holds a lot of stuff, phone,camera,money,cards,tissues etc...Good to use for the zoo, or playground. don't have to worry abt a shoulder purse digging into you neck..", "sentiment": "negative", "topics": {"1": "0.17604627", "3": "0.37909955", "4": "0.087070994", "5": "0.13391916", "6": "0.2108529"}}

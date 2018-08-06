@@ -1,0 +1,1 @@
+{"text": "The Bag is nice and Organized for holding your keys, suchas home and Car too. Plus, it's outer pouches is good forcell phone holder.", "sentiment": "negative", "topics": {"1": "0.4638671", "2": "0.17579366", "4": "0.089746684", "5": "0.16611688", "6": "0.08762497"}}

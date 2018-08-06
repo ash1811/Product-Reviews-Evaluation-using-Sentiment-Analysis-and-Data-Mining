@@ -1,0 +1,1 @@
+{"text": "I got these to wear for praise dancing. They are perfect!! they feel so good on my feet and the non slip bottoms kept me dance with no worry of slipping!", "sentiment": "negative", "topics": {"0": "0.21295926", "1": "0.13238369", "3": "0.19244862", "5": "0.23955809", "6": "0.20473705"}}

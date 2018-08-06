@@ -1,0 +1,1 @@
+{"text": "It is very hard to find over the calf socks. These are great and the only thing I would look for next time are seamless socks although the seam on these is pretty good. Not too bulky so they don't hurt your feet!", "sentiment": "negative", "topics": {"0": "0.32342115", "2": "0.07086278", "3": "0.25162458", "5": "0.18742816", "6": "0.15229568"}}

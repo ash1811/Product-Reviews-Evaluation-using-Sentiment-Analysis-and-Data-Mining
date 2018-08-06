@@ -1,0 +1,1 @@
+{"text": "The pants fit perfectly.  They were shipped quickly and were just as described.  I am very satisfied with them and would highly recommend them.  These pants are so comfortable I wear them all the time.", "sentiment": "positive", "topics": {"1": "0.6306897", "2": "0.15991032", "5": "0.109985426", "6": "0.072556995"}}

@@ -1,0 +1,1 @@
+{"text": "These are very nice underpanties if you have a straight shape, but if you are a little thick around the middle, they will roll down.  For that reason, I returned them.", "sentiment": "positive", "topics": {"0": "0.010242867", "1": "0.3756305", "2": "0.010221444", "3": "0.41109818", "4": "0.06685603", "5": "0.010253085", "6": "0.115697876"}}

@@ -1,0 +1,1 @@
+{"text": "Just not supportive enough. I preferred the materna belt.  I thought this may be better for hotter weather but I only used it a couple of times.", "sentiment": "negative", "topics": {"0": "0.29468608", "1": "0.24611712", "2": "0.010254883", "3": "0.010254701", "4": "0.12090645", "5": "0.010238847", "6": "0.30754194"}}

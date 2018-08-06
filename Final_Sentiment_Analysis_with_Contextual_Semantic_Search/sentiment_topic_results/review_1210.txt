@@ -1,0 +1,1 @@
+{"text": "Sometimes I dont want to wear underwire, and this bra is a great fit and support. I have been searching for this bra. I cannot find it in any store in my area.", "sentiment": "negative", "topics": {"1": "0.33345026", "2": "0.22631498", "3": "0.33802456", "6": "0.07534015"}}

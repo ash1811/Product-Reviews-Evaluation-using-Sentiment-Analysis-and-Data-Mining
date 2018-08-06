@@ -1,0 +1,1 @@
+{"text": "I have been looking for a good fitting bra for a long time.  I finally found it.  The fit is great, straps do not slip and it is comfortable to wear all day.  I would recommend this bra to anyone.", "sentiment": "negative", "topics": {"0": "0.3027562", "1": "0.32213998", "2": "0.066842094", "3": "0.287788"}}

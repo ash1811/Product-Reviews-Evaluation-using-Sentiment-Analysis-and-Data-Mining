@@ -1,0 +1,1 @@
+{"text": "The KEEN Men's Targhee II, Hiking Shoe,Cascade Brown/Golden Yellow are almost as comfy as the Newport water shoe. Light weight too!", "sentiment": "negative", "topics": {"0": "0.21817766", "2": "0.39893308", "3": "0.13763988", "4": "0.07797566", "5": "0.08835371", "6": "0.07049962"}}

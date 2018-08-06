@@ -1,0 +1,1 @@
+{"text": "My last dress shoes lasted 15 years. I'm sure these will as well. I think the price was also reasonable.", "sentiment": "positive", "topics": {"0": "0.11328004", "1": "0.27135333", "2": "0.17159736", "3": "0.21836309", "4": "0.20495994", "5": "0.010237753", "6": "0.010208474"}}

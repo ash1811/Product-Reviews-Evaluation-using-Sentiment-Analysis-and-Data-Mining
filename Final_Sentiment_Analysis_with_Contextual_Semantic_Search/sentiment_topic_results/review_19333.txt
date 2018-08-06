@@ -1,0 +1,1 @@
+{"text": "This was a birthday present for a friend of mine and blue is is all time favorite color and he absolutely loves this watch", "sentiment": "negative", "topics": {"0": "0.011944595", "1": "0.255339", "2": "0.27892518", "3": "0.011969055", "4": "0.23987056", "5": "0.1900167", "6": "0.011934906"}}

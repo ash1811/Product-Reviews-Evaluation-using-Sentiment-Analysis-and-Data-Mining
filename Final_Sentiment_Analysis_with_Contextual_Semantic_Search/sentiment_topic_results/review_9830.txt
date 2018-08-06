@@ -1,0 +1,1 @@
+{"text": "These sandals are incredibly comfortable.  So far I have worn them with a dress and shorts and they go together perfectly.  Fast shipping.  Great product", "sentiment": "negative", "topics": {"0": "0.24923532", "1": "0.4037122", "2": "0.14996603", "5": "0.097944155", "6": "0.08001134"}}

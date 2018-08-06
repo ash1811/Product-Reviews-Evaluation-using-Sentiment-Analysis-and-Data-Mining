@@ -1,0 +1,1 @@
+{"text": "I wear this watch to work everyday and it helps so much!  I work outside and have to be physical at times and works great!", "sentiment": "negative", "topics": {"0": "0.011017923", "1": "0.4811667", "2": "0.10824696", "3": "0.01103722", "4": "0.095582284", "5": "0.1871815", "6": "0.10576738"}}

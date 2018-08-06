@@ -1,0 +1,1 @@
+{"text": "I bought these to go inside two floating lockets (gifts for my mother and mother in law), and they are sparkly, beautiful, and fit perfectly. I will be ordering more of these the next time I buy a locket!", "sentiment": "positive", "topics": {"0": "0.4878289", "1": "0.3796843", "2": "0.10383208"}}

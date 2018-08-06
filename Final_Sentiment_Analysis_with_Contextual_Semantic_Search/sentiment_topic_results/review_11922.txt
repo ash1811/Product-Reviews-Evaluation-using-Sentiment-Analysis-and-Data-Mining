@@ -1,0 +1,1 @@
+{"text": "Love these lined jeans. They are so soft, and very warm.  Wonderful for anyone that works outside in the winter.  They also wonderful for hunting season.", "sentiment": "positive", "topics": {"1": "0.4660534", "2": "0.09168263", "4": "0.110697165", "5": "0.30291322"}}

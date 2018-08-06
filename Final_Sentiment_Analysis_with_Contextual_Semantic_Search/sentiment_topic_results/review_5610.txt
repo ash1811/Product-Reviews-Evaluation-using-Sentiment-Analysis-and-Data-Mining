@@ -1,0 +1,1 @@
+{"text": "these are great for me. sit in wheelchair all day, wanted something simple, easy to use, and could be washed every time I used them. these have been great for that, and couldn't be happier", "sentiment": "negative", "topics": {"1": "0.26253414", "2": "0.098667055", "4": "0.15379791", "5": "0.31390426", "6": "0.15673783"}}

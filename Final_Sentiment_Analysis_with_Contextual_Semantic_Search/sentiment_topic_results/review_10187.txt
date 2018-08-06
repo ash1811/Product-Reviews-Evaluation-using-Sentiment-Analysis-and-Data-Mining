@@ -1,0 +1,1 @@
+{"text": "I highly recommended this earring. So easy to put on with my arthritis hand. So Pretty.Put it on as soon as I received it.", "sentiment": "negative", "topics": {"0": "0.28803492", "1": "0.29517016", "2": "0.14393847", "3": "0.011944645", "4": "0.011964885", "5": "0.011967107", "6": "0.23697983"}}

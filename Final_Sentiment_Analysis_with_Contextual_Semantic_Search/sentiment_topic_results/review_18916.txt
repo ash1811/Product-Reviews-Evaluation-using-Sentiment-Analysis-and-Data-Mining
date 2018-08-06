@@ -1,0 +1,1 @@
+{"text": "I picked these for their color (a dark slate blue) and hubby loves the fit, which he says is comfy but is also on-trend.", "sentiment": "negative", "topics": {"0": "0.010222032", "1": "0.40548638", "2": "0.1399337", "3": "0.010230093", "4": "0.21448104", "5": "0.11362467", "6": "0.10602207"}}

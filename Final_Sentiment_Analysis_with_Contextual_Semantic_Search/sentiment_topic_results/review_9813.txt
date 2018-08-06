@@ -1,0 +1,1 @@
+{"text": "Very comfortable to wear; nice size; good stone color.  Would buy again.", "sentiment": "positive", "topics": {"0": "0.013001001", "1": "0.69855195", "2": "0.012990697", "3": "0.13973607", "4": "0.10962835", "5": "0.013054109", "6": "0.0130377775"}}

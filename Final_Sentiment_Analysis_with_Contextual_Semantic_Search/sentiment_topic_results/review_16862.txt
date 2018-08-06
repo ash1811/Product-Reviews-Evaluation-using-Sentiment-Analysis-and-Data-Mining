@@ -1,0 +1,1 @@
+{"text": "I found footies many years ago at Macy's but could not find more.  So when I saw these on Amazon I was thrilled.  I find they work so for me as I can not go with out some sock in sandals or shoes.", "sentiment": "positive", "topics": {"2": "0.16925566", "3": "0.27845672", "4": "0.23987949", "5": "0.2343849", "6": "0.06293696"}}

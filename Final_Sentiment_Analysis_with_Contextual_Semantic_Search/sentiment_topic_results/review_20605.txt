@@ -1,0 +1,1 @@
+{"text": "Always been a Florsheim guy, but love these with tighter pants and suits. A little more sleek and hip. This is my 3rd pair. never fail me on looking awesome.", "sentiment": "positive", "topics": {"1": "0.326466", "2": "0.06848566", "3": "0.078801215", "4": "0.43384945", "6": "0.07556417"}}

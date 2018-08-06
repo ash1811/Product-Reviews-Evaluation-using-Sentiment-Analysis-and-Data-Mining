@@ -1,0 +1,1 @@
+{"text": "These Lee jeans are very comfortable and at a great price. They fit as if they were made for me. Comfortable and although they have been washed at least 10 times, there doesn't appear to be any fading. Highly recommend for a great fit and look.", "sentiment": "negative", "topics": {"1": "0.58896464", "4": "0.1742058", "5": "0.16332401", "6": "0.05398555"}}

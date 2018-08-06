@@ -1,0 +1,1 @@
+{"text": "This is a nice HEAVY all cotton tshirt. They run a bit large so beware. I previously ordered XL and they were more like 2xl. No biggie I gave them to my large friend. It's imported but the quality of workmanship seems good.", "sentiment": "positive", "topics": {"0": "0.09600522", "1": "0.26746854", "3": "0.22489373", "5": "0.13568959", "6": "0.26349896"}}

@@ -1,0 +1,1 @@
+{"text": "This has comfortable straps, holds up the girls adequately, has no scratchy lace to contend with ... and it's pretty.", "sentiment": "positive", "topics": {"0": "0.014343262", "1": "0.25609607", "2": "0.42334956", "3": "0.15399763", "4": "0.014307497", "5": "0.014313226", "6": "0.12359275"}}

@@ -1,0 +1,1 @@
+{"text": "Love it. Fits very very well and is as comfortable as underwire sports bras can be. Wish it were a bit less expensive however, I guess you can't have it all.", "sentiment": "positive", "topics": {"1": "0.5431276", "2": "0.09345009", "3": "0.10521518", "4": "0.08727338", "6": "0.15503182"}}

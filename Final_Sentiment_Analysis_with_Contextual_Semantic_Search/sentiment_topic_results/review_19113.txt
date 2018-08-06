@@ -1,0 +1,1 @@
+{"text": "My Doctor Who wannabe son asked for this shoes, and he is THRILLED with them. Fit well and look great with a red bow tie and fez.", "sentiment": "negative", "topics": {"0": "0.14917406", "1": "0.28325036", "2": "0.10482187", "3": "0.3715106", "4": "0.073364"}}

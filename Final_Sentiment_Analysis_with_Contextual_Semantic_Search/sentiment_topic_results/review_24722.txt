@@ -1,0 +1,1 @@
+{"text": "My son likes using his hat when he works with his tools and tool bench.  The only down side is he has a smaller head and even on the smallest setting its still a little big.", "sentiment": "negative", "topics": {"0": "0.17337543", "1": "0.1749721", "3": "0.21016139", "4": "0.1787623", "6": "0.2468085"}}

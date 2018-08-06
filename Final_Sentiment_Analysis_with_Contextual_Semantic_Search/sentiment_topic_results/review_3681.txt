@@ -1,0 +1,1 @@
+{"text": "These are the nicest shoes a guy could ask for.  Fit like a sneaker and look really nice for casual wear.  I really like them a lot.", "sentiment": "negative", "topics": {"1": "0.44242862", "2": "0.20107247", "4": "0.0703615", "5": "0.13953252", "6": "0.13067351"}}

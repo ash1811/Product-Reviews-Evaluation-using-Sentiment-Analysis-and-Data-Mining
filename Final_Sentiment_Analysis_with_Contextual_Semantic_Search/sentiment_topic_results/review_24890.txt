@@ -1,0 +1,1 @@
+{"text": "this gown is so very sheer almost transparent. i was hoping i would wear it around the house but i can't do that, i might as well walk naked instead. anyways i was desapointed of the quality of the fabric.", "sentiment": "negative", "topics": {"1": "0.43857107", "2": "0.13876636", "3": "0.19577438", "4": "0.14436583", "5": "0.06887092"}}

@@ -1,0 +1,1 @@
+{"text": "Too small and ugly felt. They just don't fit. Returned. The loop is too big to keep them in place as well. Just not good.", "sentiment": "negative", "topics": {"0": "0.011919358", "1": "0.5004173", "2": "0.18946123", "3": "0.26242962", "4": "0.0119472705", "5": "0.011919298", "6": "0.011905968"}}

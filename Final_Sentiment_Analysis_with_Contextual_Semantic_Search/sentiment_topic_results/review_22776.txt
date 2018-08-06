@@ -1,0 +1,1 @@
+{"text": "I had recieved this as a gift.Lovely item.It made my toes sparkle.very comfortable.I want to get more of them to create the stacking effect", "sentiment": "negative", "topics": {"0": "0.011026476", "1": "0.23602723", "2": "0.18351623", "3": "0.011003438", "4": "0.010997413", "5": "0.16275415", "6": "0.38467506"}}

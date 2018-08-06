@@ -1,0 +1,1 @@
+{"text": "I bought this for my dad as a gift. He likes to wear these as undershirts and the material is light, breathable and durable. Highly recommend!", "sentiment": "positive", "topics": {"0": "0.14427075", "1": "0.80062985", "2": "0.01100722", "3": "0.011001174", "4": "0.010998876", "5": "0.011024616", "6": "0.011067545"}}

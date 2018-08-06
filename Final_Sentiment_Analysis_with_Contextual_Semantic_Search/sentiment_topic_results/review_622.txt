@@ -1,0 +1,1 @@
+{"text": "Color is as shown which is a nice Olive, Sage, Green.  The Pants are for work, and occasional weekend wear. Wash well fit well too.", "sentiment": "negative", "topics": {"1": "0.5797104", "2": "0.11610406", "4": "0.06602508", "5": "0.21286947"}}

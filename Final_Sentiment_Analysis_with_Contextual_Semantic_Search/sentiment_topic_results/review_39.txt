@@ -1,0 +1,1 @@
+{"text": "top does not stretch at all, seem to be all polyester, snag easy, waste of money. feel awful even if top wasn't was stretchable.  do not buy.  awful.", "sentiment": "negative", "topics": {"0": "0.19513948", "1": "0.23475623", "3": "0.53636926"}}

@@ -1,0 +1,1 @@
+{"text": "This watch is cheap enough to just throw them away when it goes bad. They last about 5 to 6 years and you get a new one each 5 years.  Great for work or play so you do not worry about damage.", "sentiment": "negative", "topics": {"1": "0.5014897", "2": "0.18949133", "3": "0.11822912", "5": "0.17120075"}}

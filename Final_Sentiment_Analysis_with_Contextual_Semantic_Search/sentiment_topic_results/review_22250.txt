@@ -1,0 +1,1 @@
+{"text": "Once you start using these socks you won't want to go back to regular socks.  It takes a little getting use to putting them on.", "sentiment": "negative", "topics": {"0": "0.13785595", "1": "0.29728407", "5": "0.34329167", "6": "0.1928869"}}

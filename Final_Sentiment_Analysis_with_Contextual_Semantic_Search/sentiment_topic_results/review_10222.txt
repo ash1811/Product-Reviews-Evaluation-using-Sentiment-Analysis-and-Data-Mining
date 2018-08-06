@@ -1,0 +1,1 @@
+{"text": "This is a nice necklace, and just what I was looking for. It is a short chain, and great to place a charm on it. I am certianally, not dissappointed that I got it.", "sentiment": "negative", "topics": {"0": "0.21566764", "1": "0.20393251", "2": "0.09222079", "3": "0.16789277", "4": "0.076967984", "5": "0.09774845", "6": "0.14556988"}}

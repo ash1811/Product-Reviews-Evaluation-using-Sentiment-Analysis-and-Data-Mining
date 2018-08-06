@@ -1,0 +1,1 @@
+{"text": "No padding inside box. Just the sunglasses and a lot of box to tumble against Asinine packaging! Sunglasses were very warped and could not be bent back into shape.", "sentiment": "negative", "topics": {"0": "0.09609028", "2": "0.28005207", "4": "0.36976057", "5": "0.22724023"}}

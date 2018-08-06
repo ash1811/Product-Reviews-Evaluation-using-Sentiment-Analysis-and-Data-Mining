@@ -1,0 +1,1 @@
+{"text": "In general briefs as pants, normal quality, you can wear. Especially no claims. Would change little tailoring. But just normal.", "sentiment": "negative", "topics": {"0": "0.17853758", "1": "0.5257157", "2": "0.07947557", "3": "0.010239422", "4": "0.09785253", "5": "0.097966015", "6": "0.010213151"}}

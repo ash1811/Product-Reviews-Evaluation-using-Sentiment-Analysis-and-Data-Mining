@@ -1,0 +1,1 @@
+{"text": "for my boyfriend and he loves them, talk about quality!I always wanted to get a pair of Ugg Australia slippers, so I bought myself a pair too!They're worth every dollar!!", "sentiment": "negative", "topics": {"1": "0.08429921", "3": "0.21535338", "4": "0.21096398", "5": "0.4263011", "6": "0.04800481"}}

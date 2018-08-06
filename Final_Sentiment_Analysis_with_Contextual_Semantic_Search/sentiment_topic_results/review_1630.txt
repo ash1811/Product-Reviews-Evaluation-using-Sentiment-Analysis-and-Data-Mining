@@ -1,0 +1,1 @@
+{"text": "The slimmer fits well and services it's purpose. The eyelets take forever to secure but overall I would purchase another in the future.", "sentiment": "negative", "topics": {"1": "0.29753655", "3": "0.25995335", "4": "0.16660193", "6": "0.2472462"}}

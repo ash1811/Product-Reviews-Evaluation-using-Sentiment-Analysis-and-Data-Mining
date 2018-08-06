@@ -1,0 +1,1 @@
+{"text": "This watch can't be beaten for the price I paid. No big functions just three hands 12 numbers and the precision required.", "sentiment": "negative", "topics": {"0": "0.010221961", "1": "0.39583468", "2": "0.26761794", "3": "0.18829085", "4": "0.010231717", "5": "0.11759346", "6": "0.01020937"}}

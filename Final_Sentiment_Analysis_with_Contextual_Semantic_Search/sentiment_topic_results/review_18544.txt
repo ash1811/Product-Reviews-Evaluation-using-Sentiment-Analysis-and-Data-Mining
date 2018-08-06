@@ -1,0 +1,1 @@
+{"text": "My Husband was looking for a pair of Shoes for work.  He has flat feet and has had knee surgery so I did my homework before I bought him a pair.  He loves them and has not complained once.", "sentiment": "negative", "topics": {"1": "0.41176227", "2": "0.08600207", "3": "0.25182495", "4": "0.22358221"}}

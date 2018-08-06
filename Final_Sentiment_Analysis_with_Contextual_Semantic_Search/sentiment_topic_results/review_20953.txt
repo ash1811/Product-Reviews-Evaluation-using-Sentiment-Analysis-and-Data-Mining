@@ -1,0 +1,1 @@
+{"text": "This is truly a great ring.  Looks great, feels great, extremely scratch resistant, what more can a say.  I've been asked if it was platinum by several people.  Definitely the best value out there.", "sentiment": "negative", "topics": {"0": "0.16648102", "1": "0.31492046", "2": "0.16895571", "3": "0.17802468", "4": "0.10539855", "6": "0.05939114"}}

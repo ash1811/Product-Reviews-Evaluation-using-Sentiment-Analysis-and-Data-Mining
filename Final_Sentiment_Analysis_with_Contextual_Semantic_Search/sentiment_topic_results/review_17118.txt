@@ -1,0 +1,1 @@
+{"text": "My little girl got these shoes because we were going to Hawaii. She loves her &#34;pink shoes&#34; and wears them everywhere. These are just like adult Crocs, they have held up and worked great.", "sentiment": "negative", "topics": {"2": "0.21771887", "5": "0.59695435", "6": "0.15347056"}}

@@ -1,0 +1,1 @@
+{"text": "The sizing is dead on, but I expected a better quality pants (thicker, more durable) fine for winter layering, but not a solo piece.", "sentiment": "negative", "topics": {"1": "0.5074982", "2": "0.071706586", "3": "0.108454734", "5": "0.092534944", "6": "0.20073453"}}

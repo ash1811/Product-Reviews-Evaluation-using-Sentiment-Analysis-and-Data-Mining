@@ -1,0 +1,1 @@
+{"text": "There's okay sock,they are rather thin around the ankle compared to Stanley's black socks.The size fits 10 comfortably.", "sentiment": "negative", "topics": {"0": "0.16033494", "1": "0.222444", "3": "0.35381344", "4": "0.23644876"}}

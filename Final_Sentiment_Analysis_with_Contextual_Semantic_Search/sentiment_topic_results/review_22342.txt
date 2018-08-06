@@ -1,0 +1,1 @@
+{"text": "I bought the Injini socks because the little toe on my left foot curves under the next toe which at times can be uncomfortable. The socks do a pretty good job of keeping my little toe on the straight and narrow", "sentiment": "negative", "topics": {"1": "0.5750616", "5": "0.24671513", "6": "0.15214835"}}

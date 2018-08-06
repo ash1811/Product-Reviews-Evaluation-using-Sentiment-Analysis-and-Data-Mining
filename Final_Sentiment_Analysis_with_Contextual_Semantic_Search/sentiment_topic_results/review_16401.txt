@@ -1,0 +1,1 @@
+{"text": "My dad loved these.  He says the straps were wide enough and the sandal comfortable enough. Shoes for him are usually a trial.", "sentiment": "negative", "topics": {"0": "0.010242087", "1": "0.5662312", "2": "0.23787664", "3": "0.0102212345", "4": "0.010246008", "5": "0.01025821", "6": "0.15492466"}}

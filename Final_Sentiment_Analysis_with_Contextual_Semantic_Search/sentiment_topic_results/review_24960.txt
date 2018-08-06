@@ -1,0 +1,1 @@
+{"text": "I've been wearing superfeet for years now.  I've tried others and always come back.  I bought this pair for a pair of boots that seemed a little over sized for a size 12.  The insole has now made them comfortable.", "sentiment": "negative", "topics": {"1": "0.38489705", "3": "0.420397", "4": "0.12066945", "5": "0.05613322"}}

@@ -1,0 +1,1 @@
+{"text": "50+ grandmother and I love this sandle. Comfortable to wear all day and bottle opener on bottom crakes my friends up", "sentiment": "positive", "topics": {"0": "0.011003608", "1": "0.24975991", "2": "0.16917618", "3": "0.011002964", "4": "0.13400893", "5": "0.3378823", "6": "0.08716611"}}

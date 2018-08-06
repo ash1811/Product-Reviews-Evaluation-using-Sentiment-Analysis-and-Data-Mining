@@ -1,0 +1,1 @@
+{"text": "It's like the ones Mom used after her stroke.It helped her move in bed -- helped her;she couldn't move too easily.", "sentiment": "negative", "topics": {"0": "0.3136235", "1": "0.011032142", "2": "0.011059473", "3": "0.010992042", "4": "0.16008133", "5": "0.36239687", "6": "0.1308147"}}

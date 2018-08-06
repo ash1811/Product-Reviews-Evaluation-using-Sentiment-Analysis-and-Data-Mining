@@ -1,0 +1,1 @@
+{"text": "Good elasticity and quality. Fit is good too. I don't mind buying again. what more can i say about a pair of socks?", "sentiment": "positive", "topics": {"0": "0.011050765", "1": "0.34644753", "2": "0.0110376645", "3": "0.17174052", "4": "0.011024599", "5": "0.320241", "6": "0.12845789"}}

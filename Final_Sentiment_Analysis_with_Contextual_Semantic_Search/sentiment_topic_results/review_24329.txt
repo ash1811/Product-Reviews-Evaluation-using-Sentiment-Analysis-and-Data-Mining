@@ -1,0 +1,1 @@
+{"text": "This hat is warm and goes with everything. I'm happy it stays on my head during high winds and hasn't stretched out. Arrived fast.", "sentiment": "positive", "topics": {"0": "0.20855519", "1": "0.26592788", "2": "0.17592445", "3": "0.32089517"}}

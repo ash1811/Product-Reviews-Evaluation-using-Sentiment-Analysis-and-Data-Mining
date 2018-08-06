@@ -1,0 +1,1 @@
+{"text": "Great fabric but it's like a dress and stretches far too much after washing, I would a full size smaller next time.", "sentiment": "negative", "topics": {"0": "0.26735446", "1": "0.19276024", "3": "0.23654923", "5": "0.13212599", "6": "0.15205519"}}

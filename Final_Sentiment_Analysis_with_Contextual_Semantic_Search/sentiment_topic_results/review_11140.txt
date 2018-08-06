@@ -1,0 +1,1 @@
+{"text": "These are the warmest, most comfortable boots I've ever owned. I've had this pair for several years and I love them.", "sentiment": "negative", "topics": {"0": "0.0110153835", "1": "0.11363625", "2": "0.01101449", "3": "0.5754148", "4": "0.18213923", "5": "0.011005979", "6": "0.09577392"}}

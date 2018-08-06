@@ -1,0 +1,1 @@
+{"text": "This is a very nice shirt. I have reordered it in the XL and will return this one because it is made much larger than the typical 2XL I buy.", "sentiment": "negative", "topics": {"0": "0.011019854", "1": "0.33052444", "2": "0.011046717", "3": "0.011020937", "4": "0.26477006", "5": "0.011052853", "6": "0.36056513"}}

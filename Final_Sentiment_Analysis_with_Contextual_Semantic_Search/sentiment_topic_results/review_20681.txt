@@ -1,0 +1,1 @@
+{"text": "this belt was great, it held up my husband's pant and no more plumber's butt, that means a lot to me.", "sentiment": "negative", "topics": {"0": "0.13336109", "1": "0.37220308", "2": "0.01308099", "3": "0.013000697", "4": "0.24441095", "5": "0.013016844", "6": "0.21092635"}}

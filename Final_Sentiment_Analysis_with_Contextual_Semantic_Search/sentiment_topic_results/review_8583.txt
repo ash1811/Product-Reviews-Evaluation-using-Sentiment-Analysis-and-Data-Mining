@@ -1,0 +1,1 @@
+{"text": "we bought this item at regular size and my husband although he is very thin ...... the shoes were very tight...if you buy these by them WIDE..otherwise they will be too tight on your feet.", "sentiment": "negative", "topics": {"0": "0.010215119", "1": "0.2914483", "2": "0.16250002", "3": "0.010259468", "4": "0.30946916", "5": "0.01021851", "6": "0.20588943"}}

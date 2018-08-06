@@ -1,0 +1,1 @@
+{"text": "These are very sturdy shoe trees. The shoe trees are pricey so I will see how they perform over the years.", "sentiment": "positive", "topics": {"0": "0.014287894", "1": "0.20432696", "2": "0.23750193", "3": "0.014379923", "4": "0.07773102", "5": "0.014307225", "6": "0.437465"}}

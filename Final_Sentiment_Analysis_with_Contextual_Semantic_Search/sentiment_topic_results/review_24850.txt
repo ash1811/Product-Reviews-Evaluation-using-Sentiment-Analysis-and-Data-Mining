@@ -1,0 +1,1 @@
+{"text": "They run a little small but they are so cute I was willing to overlook it, plus they are flip flops so it's not like my toes hit the ends.  Love this brand, so comfortable, so cute.", "sentiment": "negative", "topics": {"0": "0.16021864", "1": "0.36787105", "2": "0.0897842", "3": "0.25214142", "5": "0.11490607"}}

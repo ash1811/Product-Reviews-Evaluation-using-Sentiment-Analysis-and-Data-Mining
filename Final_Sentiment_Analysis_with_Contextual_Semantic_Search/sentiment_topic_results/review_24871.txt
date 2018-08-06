@@ -1,0 +1,1 @@
+{"text": "The strap adjusts, keeping them snug around feet.  No more loose, sloppy, uncomfortable fitting slippers.  They also arevery warm.  Just what we were looking for!", "sentiment": "positive", "topics": {"1": "0.2635057", "2": "0.07325947", "4": "0.14560996", "5": "0.1623245", "6": "0.33847356"}}

@@ -1,0 +1,1 @@
+{"text": "It fits my dress shoes well enough not to move around. The support isn't fantastic but it's better than nothing underneath my feet. Not super comfortable because it's hard plastic.", "sentiment": "negative", "topics": {"0": "0.22217174", "1": "0.344216", "2": "0.087585285", "4": "0.17714117", "5": "0.15293565"}}

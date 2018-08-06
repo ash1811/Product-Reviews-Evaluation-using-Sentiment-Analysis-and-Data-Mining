@@ -1,0 +1,1 @@
+{"text": "Best socks ever.  Warm and not a bit itchy.  machine washable and dryable. I tried other wool socks and came back to smartwool.", "sentiment": "negative", "topics": {"0": "0.1931653", "1": "0.32415065", "3": "0.08499986", "5": "0.23028041", "6": "0.1495287"}}

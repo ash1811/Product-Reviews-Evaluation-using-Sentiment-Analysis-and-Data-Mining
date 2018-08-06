@@ -1,0 +1,1 @@
+{"text": "My daughter had me order the for her for her first year in high school. They arrived as expected, fit perfectly, and she's happy. It doesn't get much better than this!", "sentiment": "negative", "topics": {"0": "0.3109897", "1": "0.40065882", "2": "0.25248387"}}

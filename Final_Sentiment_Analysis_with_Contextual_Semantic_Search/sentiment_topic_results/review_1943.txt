@@ -1,0 +1,1 @@
+{"text": "These slippers 're well made. Comfortable fit, warm with a shoe like sold which I feel Will wear more likely e a shoe, which is a plus. Would buy them again.", "sentiment": "negative", "topics": {"1": "0.4096833", "2": "0.1723298", "4": "0.1478072", "6": "0.24863371"}}

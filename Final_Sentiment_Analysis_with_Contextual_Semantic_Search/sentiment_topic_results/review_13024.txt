@@ -1,0 +1,1 @@
+{"text": "Got it in the mail today, the company i ordered it from got it here quick. Awesome Digital pattern", "sentiment": "positive", "topics": {"0": "0.013035348", "1": "0.013087499", "2": "0.013032415", "3": "0.01304002", "4": "0.12745455", "5": "0.5052133", "6": "0.31513685"}}

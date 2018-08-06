@@ -1,0 +1,1 @@
+{"text": "Shirt is comfortable and fits as expected. It's more like a t-s*** with a collar than a polo. Looks fine for work though.", "sentiment": "positive", "topics": {"0": "0.011012688", "1": "0.43909904", "2": "0.14728275", "3": "0.011013908", "4": "0.21079375", "5": "0.0110050645", "6": "0.16979276"}}

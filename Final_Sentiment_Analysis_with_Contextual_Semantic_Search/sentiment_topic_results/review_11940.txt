@@ -1,0 +1,1 @@
+{"text": "Well made and strong fabric. Two different brands were ordered and my husband chose the second choice just because of the style of pockets. The Carhatt was returned.", "sentiment": "negative", "topics": {"1": "0.49857527", "2": "0.09251388", "3": "0.12506711", "4": "0.19440371", "5": "0.07258358"}}

@@ -1,0 +1,1 @@
+{"text": "It was very good quality.  The clasp is kind of hard to open.  Get the smaller size for kids.  Size 22 was way too big.  It hangs down more than I wanted.", "sentiment": "negative", "topics": {"0": "0.07648657", "1": "0.2393397", "2": "0.11282994", "3": "0.3149163", "5": "0.23953222"}}

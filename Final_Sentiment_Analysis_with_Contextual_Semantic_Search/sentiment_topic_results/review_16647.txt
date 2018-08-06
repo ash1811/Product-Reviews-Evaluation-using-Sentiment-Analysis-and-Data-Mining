@@ -1,0 +1,1 @@
+{"text": "this watch is my everyday watch for a while now...rugged stylish and eye catching. will recommend to anyone for there collection.", "sentiment": "positive", "topics": {"0": "0.26292914", "1": "0.013000199", "2": "0.28548738", "3": "0.012990955", "4": "0.19139598", "5": "0.013022563", "6": "0.22117382"}}

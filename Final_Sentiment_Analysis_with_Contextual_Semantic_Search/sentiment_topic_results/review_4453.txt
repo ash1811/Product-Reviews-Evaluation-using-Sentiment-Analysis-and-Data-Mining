@@ -1,0 +1,1 @@
+{"text": "These  jeans fit great. Have not wash yet, will wash this week. Will edit if anything goes wrong. But plan on buying more if everything comes out washing well. Great looking pants  like slim legs.", "sentiment": "negative", "topics": {"1": "0.28452674", "2": "0.21640295", "3": "0.06651197", "4": "0.13562222", "5": "0.28500253"}}

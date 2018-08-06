@@ -1,0 +1,1 @@
+{"text": "Under Armour did a grand job on this garment.I work in a freezer and cannot ask for a better product.", "sentiment": "positive", "topics": {"0": "0.013012871", "1": "0.1303565", "2": "0.44335508", "3": "0.17098741", "4": "0.10820337", "5": "0.12107796", "6": "0.013006771"}}

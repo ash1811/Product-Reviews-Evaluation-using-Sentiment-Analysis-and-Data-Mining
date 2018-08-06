@@ -1,0 +1,1 @@
+{"text": "Very nice looking boot. I got a great deal and amazon's price was the best.very well put togeather and fit nice.", "sentiment": "negative", "topics": {"1": "0.45367193", "3": "0.109783165", "4": "0.29217052", "6": "0.11576558"}}

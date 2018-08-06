@@ -1,0 +1,1 @@
+{"text": "Very very comfy. I am a size 6, and ordered a 6. Fit is perfect. The aqua color looks great with a tan.", "sentiment": "negative", "topics": {"0": "0.011006417", "1": "0.6047706", "2": "0.011020806", "3": "0.011048242", "4": "0.14273795", "5": "0.011002786", "6": "0.20841321"}}

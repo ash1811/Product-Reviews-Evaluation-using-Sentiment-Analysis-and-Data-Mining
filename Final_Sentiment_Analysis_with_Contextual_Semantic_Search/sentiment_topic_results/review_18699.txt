@@ -1,0 +1,1 @@
+{"text": "The one size was true to its word, fitting me perfectly. And they really stay up through thick and thin, without the traditional garter support. I bought them in black and will definitely try other colors as well.", "sentiment": "negative", "topics": {"1": "0.43869913", "3": "0.40491396", "5": "0.061581306", "6": "0.074318506"}}

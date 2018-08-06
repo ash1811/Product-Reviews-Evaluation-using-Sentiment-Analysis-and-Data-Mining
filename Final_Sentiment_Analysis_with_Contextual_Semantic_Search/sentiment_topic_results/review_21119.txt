@@ -1,0 +1,1 @@
+{"text": "Great pants. Bought for my fiance , and they fit wonderfully. She was so pleased that I found nice dress pants for her at a decent price.", "sentiment": "negative", "topics": {"0": "0.010224591", "1": "0.79350024", "2": "0.010219055", "3": "0.0102393795", "4": "0.010238179", "5": "0.15536287", "6": "0.010215713"}}

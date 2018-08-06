@@ -1,0 +1,1 @@
+{"text": "I love the comfort and quality of Clark shoes and now I feel the same way about their sandals.  I have yet to find another brand that is their equal for the money.", "sentiment": "negative", "topics": {"1": "0.37847796", "2": "0.09513743", "3": "0.20144376", "6": "0.29619294"}}

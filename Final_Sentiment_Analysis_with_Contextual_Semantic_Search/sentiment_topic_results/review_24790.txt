@@ -1,0 +1,1 @@
+{"text": "bought these because we were looking for cotton shorts for him for summer- these are thick though which is a good thing and a bad one too-lol.", "sentiment": "positive", "topics": {"0": "0.117808275", "1": "0.49506575", "2": "0.011043423", "3": "0.14411375", "4": "0.12007876", "5": "0.011012485", "6": "0.10087756"}}

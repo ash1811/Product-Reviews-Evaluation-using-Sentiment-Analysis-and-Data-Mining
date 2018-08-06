@@ -1,0 +1,1 @@
+{"text": "Socks that make my feet and my heart warm. They are very well made and a nice length for either pants or skirts.", "sentiment": "negative", "topics": {"0": "0.011017713", "1": "0.5415791", "2": "0.011005838", "3": "0.011107909", "4": "0.14038962", "5": "0.13677712", "6": "0.14812265"}}

@@ -1,0 +1,1 @@
+{"text": "very cool....very nice relaxed fit...its like you aren't wearing a short, but definitely are...highly recommended...Its perfect to wear for whatever you want to do and stay very comfortable...", "sentiment": "negative", "topics": {"0": "0.17318594", "1": "0.6440858", "3": "0.06096378", "6": "0.09651167"}}

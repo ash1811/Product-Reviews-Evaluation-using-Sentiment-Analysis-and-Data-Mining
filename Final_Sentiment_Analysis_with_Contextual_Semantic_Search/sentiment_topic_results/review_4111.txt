@@ -1,0 +1,1 @@
+{"text": "El relog es exelente, tengo varios a&ntilde;os con el y no ha fallado una sola ves, la calidad es muy buena", "sentiment": "negative", "topics": {"0": "0.04274523", "1": "0.058444787", "2": "0.07286192", "3": "0.171341", "4": "0.1865598", "5": "0.25488275", "6": "0.21316452"}}

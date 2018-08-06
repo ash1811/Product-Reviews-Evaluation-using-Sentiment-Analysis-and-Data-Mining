@@ -1,0 +1,1 @@
+{"text": "The shoes are very stylish, and fit perfectly! I ordered 7W. They look like Medium size, and very comfortable. Like it!", "sentiment": "negative", "topics": {"0": "0.010233034", "1": "0.5086573", "2": "0.11088757", "3": "0.010239826", "4": "0.010204919", "5": "0.09110039", "6": "0.25867704"}}

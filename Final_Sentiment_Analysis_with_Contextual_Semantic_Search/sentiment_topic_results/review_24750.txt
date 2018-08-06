@@ -1,0 +1,1 @@
+{"text": "These shorts are great and very comfortable for summer. They do run big so order a size smaller. All in all a good buy for the price", "sentiment": "negative", "topics": {"0": "0.21925074", "1": "0.48360702", "2": "0.011000295", "3": "0.2531341", "4": "0.011000495", "5": "0.011002399", "6": "0.011004955"}}

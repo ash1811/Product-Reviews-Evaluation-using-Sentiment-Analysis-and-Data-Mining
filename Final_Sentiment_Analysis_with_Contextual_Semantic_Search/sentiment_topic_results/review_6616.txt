@@ -1,0 +1,1 @@
+{"text": "I've had these socks for six weeks.I've used them only as house socks (mostly carpet and polished wood).No running or long-distance walking at all.They already have a hole in the bottom.I expect more from an expensive sock.", "sentiment": "negative", "topics": {"1": "0.1870123", "2": "0.10015793", "3": "0.14974827", "5": "0.34744793", "6": "0.20253655"}}

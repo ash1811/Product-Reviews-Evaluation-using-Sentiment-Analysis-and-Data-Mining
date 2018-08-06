@@ -1,0 +1,1 @@
+{"text": "I had a hard time holding up the DD's until this bra came along.  It really helped me take the load off and keep them up.", "sentiment": "positive", "topics": {"0": "0.5153274", "1": "0.01023497", "2": "0.010221446", "3": "0.17104755", "4": "0.12666269", "5": "0.010338888", "6": "0.15616705"}}

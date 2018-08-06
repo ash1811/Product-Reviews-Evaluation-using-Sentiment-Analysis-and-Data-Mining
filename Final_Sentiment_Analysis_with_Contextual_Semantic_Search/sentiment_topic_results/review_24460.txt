@@ -1,0 +1,1 @@
+{"text": "I love this leotard.  It is a perfect color.  Completely undetectable.  I used under costumes where undergarments could be scene otherwise.  Wash up nice.  No shrinkage.  Will buy this product again.", "sentiment": "negative", "topics": {"0": "0.11714599", "1": "0.42965105", "3": "0.09265643", "4": "0.09539574", "5": "0.13314354", "6": "0.124475755"}}

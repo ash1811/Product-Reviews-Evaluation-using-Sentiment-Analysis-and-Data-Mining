@@ -1,0 +1,1 @@
+{"text": "If style is very important to you I highly recommend  these socks.  Made in the USA so I will only buy wigwam. For comfort, style and fit. The best!!! I bought these as a gift. My friend loves them.", "sentiment": "negative", "topics": {"0": "0.18980852", "1": "0.26018643", "4": "0.080430046", "5": "0.29064888", "6": "0.16377802"}}

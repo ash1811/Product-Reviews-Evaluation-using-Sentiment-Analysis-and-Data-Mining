@@ -1,0 +1,1 @@
+{"text": "Ray-Ban is usually a good value here. I have ordered several pair to take to friends in Thailand.  Ray-Ban is a very expensive in Thailand.", "sentiment": "negative", "topics": {"1": "0.29033", "2": "0.19765736", "3": "0.25733605", "5": "0.22602916"}}

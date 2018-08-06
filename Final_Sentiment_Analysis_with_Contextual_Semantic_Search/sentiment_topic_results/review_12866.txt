@@ -1,0 +1,1 @@
+{"text": "Girls love these.  They make a fabulous gift.  What more can I say about fashion.  They seem to hold up pretty well too.", "sentiment": "negative", "topics": {"0": "0.54133993", "1": "0.010232091", "2": "0.010236926", "3": "0.34308106", "4": "0.010240513", "5": "0.010227532", "6": "0.074641906"}}

@@ -1,0 +1,1 @@
+{"text": "My son prefers Levi jeans, and these are his favorites. He has more than one pair and wants more. The fit is good, and they are comfortable.", "sentiment": "negative", "topics": {"0": "0.011025359", "1": "0.7316493", "2": "0.011068115", "3": "0.011033077", "4": "0.011034065", "5": "0.12846293", "6": "0.095727235"}}

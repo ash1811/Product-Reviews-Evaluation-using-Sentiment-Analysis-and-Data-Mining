@@ -1,0 +1,1 @@
+{"text": "The style and colors are great. My husband is a big/tall guy. Most of his shorts are XL. These were a little too big but he still likes them for around the house. The next order I will see if he likes the large size better. They are really cool shorts!!", "sentiment": "positive", "topics": {"0": "0.1973544", "1": "0.2670079", "4": "0.14920379", "6": "0.3692297"}}

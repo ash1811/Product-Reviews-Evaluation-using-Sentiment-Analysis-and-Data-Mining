@@ -1,0 +1,1 @@
+{"text": "I bought these after returning the Harley Davidson ones that were too small. Thee also were just too small. So I am giving up on boots. These are a great quality and a good buy for someone with a normal foot width...", "sentiment": "negative", "topics": {"0": "0.16660325", "1": "0.34619716", "4": "0.27583292", "5": "0.061113458", "6": "0.13584635"}}

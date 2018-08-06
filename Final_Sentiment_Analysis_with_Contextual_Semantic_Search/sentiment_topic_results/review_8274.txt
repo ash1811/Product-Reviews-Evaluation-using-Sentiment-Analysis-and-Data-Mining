@@ -1,0 +1,1 @@
+{"text": "I love being able to buy all sizes and colors of Levis in one place..... I just love it. Thank you", "sentiment": "negative", "topics": {"0": "0.011932009", "1": "0.36756587", "2": "0.18041216", "3": "0.29368094", "4": "0.011998207", "5": "0.011927091", "6": "0.12248373"}}

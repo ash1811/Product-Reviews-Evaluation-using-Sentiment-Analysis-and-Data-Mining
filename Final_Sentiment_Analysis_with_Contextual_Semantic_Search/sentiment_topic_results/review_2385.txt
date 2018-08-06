@@ -1,0 +1,1 @@
+{"text": "a very comfortable shoe. it's great for the wall/winter weather. very nice to drive in as well, unlike most wintery shoes.", "sentiment": "negative", "topics": {"0": "0.13472858", "1": "0.38316742", "2": "0.27443203", "3": "0.17189717", "4": "0.011916902", "5": "0.011915397", "6": "0.011942497"}}

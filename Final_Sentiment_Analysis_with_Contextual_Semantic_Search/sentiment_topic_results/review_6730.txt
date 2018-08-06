@@ -1,0 +1,1 @@
+{"text": "Light and good fitting. So comfortable that I sometimes wear them when I am not on duty. Well worth the price.", "sentiment": "negative", "topics": {"0": "0.01302156", "1": "0.5737563", "2": "0.12340801", "3": "0.013048112", "4": "0.2506327", "5": "0.013066967", "6": "0.013066375"}}

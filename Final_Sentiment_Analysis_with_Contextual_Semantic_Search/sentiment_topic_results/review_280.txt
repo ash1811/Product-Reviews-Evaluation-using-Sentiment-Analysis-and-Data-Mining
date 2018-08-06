@@ -1,0 +1,1 @@
+{"text": "Fir just right like I had hoped. They look a little more worn than I expected, but that's very cool. Spot on, actually.", "sentiment": "positive", "topics": {"0": "0.010249126", "1": "0.2645274", "2": "0.32852176", "3": "0.010260448", "4": "0.11074825", "5": "0.010270035", "6": "0.26542294"}}

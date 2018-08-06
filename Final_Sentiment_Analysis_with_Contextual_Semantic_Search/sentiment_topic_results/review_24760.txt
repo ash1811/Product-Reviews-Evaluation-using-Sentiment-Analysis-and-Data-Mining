@@ -1,0 +1,1 @@
+{"text": "Very substantial shorts.  Hubby likes that there is no fly opening, so the shorts can be worn for sleeping or around the house without fear of exposure.  They are true to size and launder well.", "sentiment": "positive", "topics": {"0": "0.3068772", "3": "0.26086947", "4": "0.08871912", "5": "0.07675845", "6": "0.25169963"}}

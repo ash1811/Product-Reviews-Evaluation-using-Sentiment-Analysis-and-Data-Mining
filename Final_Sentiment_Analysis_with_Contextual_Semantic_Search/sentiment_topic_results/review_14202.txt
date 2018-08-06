@@ -1,0 +1,1 @@
+{"text": "These jeans are just right.  They have never changed over the years.  These are very comfortable as well as durable for hard work.", "sentiment": "negative", "topics": {"0": "0.35189846", "1": "0.582966", "2": "0.013001514", "3": "0.013046491", "4": "0.01302104", "5": "0.0130709475", "6": "0.012995502"}}

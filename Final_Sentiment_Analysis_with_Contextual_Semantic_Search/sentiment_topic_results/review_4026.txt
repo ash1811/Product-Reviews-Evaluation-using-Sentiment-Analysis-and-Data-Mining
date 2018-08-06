@@ -1,0 +1,1 @@
+{"text": "love these. they are not expensive. washable and very comfortable. i would recommend to anyone", "sentiment": "negative", "topics": {"0": "0.32813936", "1": "0.47748533", "2": "0.01590159", "3": "0.015923552", "4": "0.015963124", "5": "0.015935225", "6": "0.1306518"}}

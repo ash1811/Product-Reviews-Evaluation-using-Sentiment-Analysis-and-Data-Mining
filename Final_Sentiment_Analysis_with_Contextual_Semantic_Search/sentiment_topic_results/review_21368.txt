@@ -1,0 +1,1 @@
+{"text": "This dug in, and I could never get it to fit comfortably so I rarely used it.", "sentiment": "positive", "topics": {"0": "0.013033722", "1": "0.47769448", "2": "0.14382492", "3": "0.013012326", "4": "0.013009406", "5": "0.3264239", "6": "0.0130012715"}}

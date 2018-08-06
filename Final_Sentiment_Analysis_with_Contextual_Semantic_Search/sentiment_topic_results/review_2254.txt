@@ -1,0 +1,1 @@
+{"text": "These shoes are light and comfortable and take some strain off my lower back. Very good quality. If you have the means I recommend these ...", "sentiment": "negative", "topics": {"0": "0.01195528", "1": "0.5466481", "2": "0.17552547", "3": "0.011909018", "4": "0.01191647", "5": "0.011925544", "6": "0.23012008"}}

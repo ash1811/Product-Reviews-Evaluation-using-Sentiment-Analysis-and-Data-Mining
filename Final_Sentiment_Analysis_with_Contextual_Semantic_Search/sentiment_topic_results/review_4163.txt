@@ -1,0 +1,1 @@
+{"text": "This item is very comfortable, warm inside and out. Easy to wash. Doesn't lose body or softness. Great buy. It was much needed for my chilly early morning risings.", "sentiment": "negative", "topics": {"1": "0.4567182", "2": "0.15696271", "4": "0.073131345", "5": "0.08550579", "6": "0.21262363"}}

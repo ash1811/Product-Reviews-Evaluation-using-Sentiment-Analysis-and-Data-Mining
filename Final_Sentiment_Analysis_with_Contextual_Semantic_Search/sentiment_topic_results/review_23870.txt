@@ -1,0 +1,1 @@
+{"text": "I bought these shoes for my 14 year old daughter.  She loves to wear funky shoes and doesn't like popular brands like most teenagers would.  My daughter likes these shoes and says they are so comfortable.", "sentiment": "positive", "topics": {"0": "0.05886614", "1": "0.19019063", "2": "0.2161727", "3": "0.12829834", "5": "0.22540124", "6": "0.17455718"}}

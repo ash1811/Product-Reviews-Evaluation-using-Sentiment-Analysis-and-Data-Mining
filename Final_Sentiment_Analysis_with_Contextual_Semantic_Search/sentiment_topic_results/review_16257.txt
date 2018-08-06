@@ -1,0 +1,1 @@
+{"text": "My husband loves these and is hard on his slipper, ie wears outside, etc. and these are handling the extra wear and tear. These are attractive and comfortable and were true to size.  He loves 'um", "sentiment": "negative", "topics": {"0": "0.17960316", "1": "0.19068132", "3": "0.27891576", "4": "0.097738005", "5": "0.11861434", "6": "0.12692675"}}

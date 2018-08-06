@@ -1,0 +1,1 @@
+{"text": "I am between size 8 && 8 1/2 I bought the 8 1/2 which fits great...the shoe is kind narrow but not ridiculously tight. It's a good fit for me.", "sentiment": "positive", "topics": {"1": "0.55665356", "2": "0.07933765", "3": "0.12445421", "5": "0.21571662"}}

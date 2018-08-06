@@ -1,0 +1,1 @@
+{"text": "Beautiful packaging, velvet box inside another box and more than I expected.  These are sturdy earrings with a beautiful finish.  A note - the post for these is a bit larger than average.", "sentiment": "positive", "topics": {"1": "0.36342126", "2": "0.07542837", "4": "0.43573403", "5": "0.10152189"}}

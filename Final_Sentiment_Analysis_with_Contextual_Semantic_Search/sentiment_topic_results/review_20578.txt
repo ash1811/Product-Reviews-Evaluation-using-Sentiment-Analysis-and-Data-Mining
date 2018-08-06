@@ -1,0 +1,1 @@
+{"text": "My husband wears a 9 or 9 and 1/2 in a shoe, and the 9 in these clogs fits him well.", "sentiment": "negative", "topics": {"0": "0.013003376", "1": "0.36005792", "2": "0.108621396", "3": "0.11290894", "4": "0.1065856", "5": "0.013052186", "6": "0.28577054"}}

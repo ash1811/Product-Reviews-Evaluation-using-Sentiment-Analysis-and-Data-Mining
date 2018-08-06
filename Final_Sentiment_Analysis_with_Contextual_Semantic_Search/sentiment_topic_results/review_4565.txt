@@ -1,0 +1,1 @@
+{"text": "Lee Jeans fit well, wear well and look good.  What's not to like?  I prefer them to some of the more expensive jeans.", "sentiment": "positive", "topics": {"0": "0.15106173", "1": "0.44245896", "2": "0.010217032", "3": "0.010222713", "4": "0.09335116", "5": "0.18220489", "6": "0.11048348"}}

@@ -1,0 +1,1 @@
+{"text": "very comfortable slipper...used with dress clothes when feet got tired from heels and it was easy to dance in  - fits easily into purse too", "sentiment": "positive", "topics": {"0": "0.010211125", "1": "0.28994796", "2": "0.11205874", "3": "0.010229585", "4": "0.10420327", "5": "0.0102217775", "6": "0.46312752"}}

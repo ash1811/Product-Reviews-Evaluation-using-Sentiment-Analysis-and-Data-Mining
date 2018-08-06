@@ -1,0 +1,1 @@
+{"text": "Boots had been purchased for heavy garden activities. Did fit well, true to size and width. Perfect craftmanship. highly recomended.", "sentiment": "negative", "topics": {"1": "0.33815962", "2": "0.10350538", "3": "0.28777364", "4": "0.17060956", "6": "0.08087455"}}

@@ -1,0 +1,1 @@
+{"text": "I love these Saucony shoes! They fit great. I'm usually an 8.5 or 9 in most shoes and ordered the 8.5 in this model. Comfortable, stylish, and true to size!", "sentiment": "negative", "topics": {"1": "0.42511156", "2": "0.13061258", "4": "0.16478933", "6": "0.2556257"}}

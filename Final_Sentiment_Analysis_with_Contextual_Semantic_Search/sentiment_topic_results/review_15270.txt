@@ -1,0 +1,1 @@
+{"text": "It nice very cool and don't wrinkle much in a all day wear is worth the money but runs a little big which i don't mine loose fitting top.so go down a size if u like snog fit.", "sentiment": "positive", "topics": {"1": "0.4128219", "2": "0.06663373", "3": "0.3063878", "5": "0.1946273"}}

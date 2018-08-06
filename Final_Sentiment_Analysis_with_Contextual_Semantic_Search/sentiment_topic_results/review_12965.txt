@@ -1,0 +1,1 @@
+{"text": "not quite as durable as underwear that has the exposed elastic.  but that is the obvious trade off.  they still hold up pretty well even if that is an issue for you.", "sentiment": "positive", "topics": {"1": "0.18665439", "2": "0.14464062", "3": "0.34153137", "5": "0.22436258", "6": "0.08490977"}}

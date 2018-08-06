@@ -1,0 +1,1 @@
+{"text": "I love harry potter, so I just had to have this gryffindor scarf. It's really cute. I can't wait for winter so I can show my hogwarts pride.", "sentiment": "negative", "topics": {"0": "0.010223414", "1": "0.1092654", "2": "0.17940788", "3": "0.010235065", "4": "0.21531245", "5": "0.46534625", "6": "0.010209563"}}

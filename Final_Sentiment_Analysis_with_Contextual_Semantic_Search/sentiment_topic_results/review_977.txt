@@ -1,0 +1,1 @@
+{"text": "My husband purchased these, and ended up unable to wear them because despite wearing proper socks,  they rubbed on his heel and ankle.  Next time an in store purchase may be better.", "sentiment": "negative", "topics": {"0": "0.40157765", "1": "0.44477573", "4": "0.12484391"}}

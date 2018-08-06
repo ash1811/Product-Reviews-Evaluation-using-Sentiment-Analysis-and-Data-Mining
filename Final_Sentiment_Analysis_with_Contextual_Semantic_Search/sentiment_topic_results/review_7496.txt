@@ -1,0 +1,1 @@
+{"text": "Other than being teased from a friend about being stuck in the 80's LOL.  I love it.  It's a great fit, and good quality.  My old denim jacket was too worn, and I needed to replace it.  Great price too.", "sentiment": "negative", "topics": {"1": "0.43047076", "2": "0.16085279", "3": "0.12710953", "4": "0.13331509", "5": "0.076373905", "6": "0.06535364"}}

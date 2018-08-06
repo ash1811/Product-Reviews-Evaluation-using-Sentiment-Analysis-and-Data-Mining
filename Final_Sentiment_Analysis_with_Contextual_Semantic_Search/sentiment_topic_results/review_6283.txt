@@ -1,0 +1,1 @@
+{"text": "Fun statement bracelet in sterling silver.  I would recommend this bracelet for a sporty look.  Lightweight on wrist and large lobster claw for ease to place on wrist.", "sentiment": "negative", "topics": {"0": "0.34230807", "2": "0.22400485", "4": "0.07390115", "5": "0.33714145"}}

@@ -1,0 +1,1 @@
+{"text": "Quality of fabric, weight, fit, and cost are all very good. Nice elasticity that appears to be holding up over time.", "sentiment": "negative", "topics": {"0": "0.011930142", "1": "0.5877089", "2": "0.011912811", "3": "0.11665594", "4": "0.11824558", "5": "0.1416242", "6": "0.011922401"}}

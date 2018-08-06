@@ -1,0 +1,1 @@
+{"text": "This small wallet was just what I wanted. Compact and lite. Holds enough stuff to work well as an every dat wallet.", "sentiment": "positive", "topics": {"0": "0.24076483", "1": "0.010272486", "2": "0.010272151", "3": "0.43742034", "4": "0.010230711", "5": "0.28081125", "6": "0.01022826"}}

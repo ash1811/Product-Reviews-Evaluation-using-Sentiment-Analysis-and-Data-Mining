@@ -1,0 +1,1 @@
+{"text": "Very well constructed t-shirt, but runs a size larger than stated. It was more like an XXL than an XL. I would have sent them back but I already washed them.", "sentiment": "negative", "topics": {"1": "0.22109997", "3": "0.34487224", "5": "0.108304314", "6": "0.3003903"}}

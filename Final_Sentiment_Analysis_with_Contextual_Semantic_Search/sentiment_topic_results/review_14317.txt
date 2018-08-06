@@ -1,0 +1,1 @@
+{"text": "I ordered this because I started having a mild case of plantar fasciitis.  My running coach advised me to go barefoot as much as possible.  This did the trick! Just like being barefoot with minimal protection.", "sentiment": "positive", "topics": {"2": "0.14068054", "4": "0.20675454", "5": "0.5429324", "6": "0.08701021"}}

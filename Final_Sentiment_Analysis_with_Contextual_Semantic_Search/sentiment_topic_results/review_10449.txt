@@ -1,0 +1,1 @@
+{"text": "My sister likes them a lot.  She says they are warm, comfortable, and are &#34;in style.&#34;  A good gift for a sibling or girlfriend.", "sentiment": "negative", "topics": {"0": "0.2733155", "1": "0.24489273", "2": "0.25163543", "3": "0.1006868", "4": "0.010999181", "5": "0.011006051", "6": "0.10746427"}}

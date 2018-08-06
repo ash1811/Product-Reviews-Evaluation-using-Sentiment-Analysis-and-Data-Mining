@@ -1,0 +1,1 @@
+{"text": "I am a novice as far as proper shoes and shoe care go, but I find this brush easy to use. Seems to be high quality and the bristly are firmly attached.", "sentiment": "positive", "topics": {"0": "0.071804635", "1": "0.12024935", "2": "0.46486965", "4": "0.19059546", "6": "0.136553"}}

@@ -1,0 +1,1 @@
+{"text": "THis is my daughters second pair-she loves it.  Personally, I find it to tough for my feet, but it's what she likes!", "sentiment": "negative", "topics": {"0": "0.34973437", "1": "0.11632845", "2": "0.013015539", "3": "0.013017997", "4": "0.24206191", "5": "0.013029399", "6": "0.2528124"}}

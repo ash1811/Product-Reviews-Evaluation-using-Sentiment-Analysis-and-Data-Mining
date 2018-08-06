@@ -1,0 +1,1 @@
+{"text": "I like using the AE shoe trees as they seem to last forever.  Just picked a few to stick in some new winter boots I purchased.  Seems same quality as I've purchased before for a better price.", "sentiment": "negative", "topics": {"0": "0.045218557", "1": "0.30189568", "2": "0.20841037", "3": "0.16558103", "4": "0.17959437", "6": "0.09247608"}}

@@ -1,0 +1,1 @@
+{"text": "I really like the fabric, but it was too small right out of the box. Instead of returning it, I gave it to my wife. I would definitely recommend it for the comfiness, but buy it a size larger.", "sentiment": "negative", "topics": {"0": "0.3024563", "1": "0.17732427", "3": "0.30617133", "5": "0.0784527", "6": "0.1204891"}}

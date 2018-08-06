@@ -1,0 +1,1 @@
+{"text": "I only buy original Seiko replacement bands for this particular watch. The bands are great, problem is my watch just went kaput", "sentiment": "positive", "topics": {"0": "0.37074527", "1": "0.11970274", "2": "0.3911162", "3": "0.010222101", "4": "0.010319526", "5": "0.0102170985", "6": "0.08767704"}}

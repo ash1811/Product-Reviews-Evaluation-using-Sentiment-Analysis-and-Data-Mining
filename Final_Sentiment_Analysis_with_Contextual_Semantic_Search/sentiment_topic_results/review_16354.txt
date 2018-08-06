@@ -1,0 +1,1 @@
+{"text": "These definitely need some breaking in when you 1st get them (very tight).  Buy a size bigger as they run sort of small.  I wear a size 9 shoe and 10 fits perfectly.  Very comfortable after broken in.", "sentiment": "negative", "topics": {"1": "0.31747615", "2": "0.17158271", "3": "0.17440188", "4": "0.056080762", "5": "0.11793459", "6": "0.15656652"}}

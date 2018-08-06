@@ -1,0 +1,1 @@
+{"text": "I like the product but they run bigger than normal.  You must order one size smaller than normal when ordering.  Am size Medium or 10, so if i order again, i must be small or 8.", "sentiment": "negative", "topics": {"0": "0.25112024", "1": "0.077568516", "3": "0.41872597", "4": "0.14915244", "5": "0.08978137"}}

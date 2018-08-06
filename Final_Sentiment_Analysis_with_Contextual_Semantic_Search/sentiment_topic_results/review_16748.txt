@@ -1,0 +1,1 @@
+{"text": "I just wish it was more of a relaxed fit. Bought a medium but feels more like a small because it's a very trim fit. Prefer a little more room, but good quality & good price.", "sentiment": "negative", "topics": {"0": "0.2470399", "1": "0.7130568"}}

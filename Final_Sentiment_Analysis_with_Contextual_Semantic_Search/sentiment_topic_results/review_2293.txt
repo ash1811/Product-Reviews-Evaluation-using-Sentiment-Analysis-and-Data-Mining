@@ -1,0 +1,1 @@
+{"text": "the back of this shoe looks different than the one in the photo.it's too low cut. my heel is almost coming out the back.after trying them on i know i'll be wearing a hole in my sock in the heel area.", "sentiment": "negative", "topics": {"0": "0.081617974", "1": "0.42558086", "2": "0.24773225", "3": "0.22454418"}}

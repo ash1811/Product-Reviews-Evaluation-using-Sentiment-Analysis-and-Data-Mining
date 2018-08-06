@@ -1,0 +1,1 @@
+{"text": "Warmest boot ever and so casually cute! I don't recommend waring them too long, they are flat. I put orthopedic insert in mine for comfort. However as a slip on and go shoe/boot, they are perfect!", "sentiment": "negative", "topics": {"0": "0.10596981", "1": "0.39286962", "4": "0.058271408", "5": "0.2504837", "6": "0.17804992"}}

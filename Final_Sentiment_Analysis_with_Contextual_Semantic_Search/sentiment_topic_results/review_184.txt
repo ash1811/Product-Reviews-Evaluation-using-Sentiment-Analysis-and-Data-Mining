@@ -1,0 +1,1 @@
+{"text": "I'm a little late writing this review but it deserves one.  These are great shorts they are long and have pockets.  They have served me incredibly well for nearly 6 months of interval training sessions.", "sentiment": "negative", "topics": {"0": "0.08315048", "1": "0.5338403", "2": "0.1910318", "6": "0.1715186"}}

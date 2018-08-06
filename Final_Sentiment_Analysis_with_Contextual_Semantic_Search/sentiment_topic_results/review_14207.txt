@@ -1,0 +1,1 @@
+{"text": "I'm a lifelong fan of this particular style of Teva. This shoe for some reason however leaves black stains on the bottom of my feet. I'm still wearing it, just need to now wash my feet every night before I go to bed.", "sentiment": "positive", "topics": {"0": "0.2697428", "2": "0.11091138", "3": "0.14473073", "4": "0.15614606", "5": "0.1876701", "6": "0.12528048"}}

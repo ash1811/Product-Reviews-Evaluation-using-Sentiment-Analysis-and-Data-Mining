@@ -1,0 +1,1 @@
+{"text": "I use this to do house work as to avoid dirtying my other clothes. It is nice to wear and not too tight.", "sentiment": "negative", "topics": {"0": "0.014294381", "1": "0.4293933", "2": "0.014315881", "3": "0.365338", "4": "0.14801896", "5": "0.014312166", "6": "0.014327347"}}

@@ -1,0 +1,1 @@
+{"text": "I've been a Merrell  fan for a long time.  These shoes are not only stylish but extremely comfortable.  I highly recommend these shoes.", "sentiment": "negative", "topics": {"0": "0.14804545", "1": "0.22202332", "2": "0.26264125", "3": "0.2529538", "4": "0.011013667", "5": "0.011032017", "6": "0.0922905"}}

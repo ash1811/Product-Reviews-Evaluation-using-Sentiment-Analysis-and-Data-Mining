@@ -1,0 +1,1 @@
+{"text": "Gave this watch as a Xmas present to a young guy at the office. It looks relly nice and sporty. He loved it.", "sentiment": "positive", "topics": {"0": "0.258534", "1": "0.19804646", "2": "0.09607549", "3": "0.010231924", "4": "0.3382117", "5": "0.010212773", "6": "0.088687666"}}

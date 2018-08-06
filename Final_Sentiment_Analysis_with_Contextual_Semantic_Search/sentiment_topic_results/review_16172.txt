@@ -1,0 +1,1 @@
+{"text": "I liked the product description of this large jewelry cleaning cloth, and the product is exactly as described.  I use it to clean all of my sterling silver jewelry, and it works very well.", "sentiment": "negative", "topics": {"0": "0.20265496", "1": "0.51258796", "5": "0.18285301", "6": "0.0780166"}}

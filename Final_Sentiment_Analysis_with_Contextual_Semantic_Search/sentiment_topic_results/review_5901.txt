@@ -1,0 +1,1 @@
+{"text": "My husband works with livestock and in other wet conditions.  They do a great job.  He has used the overshoes for a long time.", "sentiment": "negative", "topics": {"0": "0.13630037", "1": "0.60723", "2": "0.011910727", "3": "0.012035944", "4": "0.20858377", "5": "0.012026831", "6": "0.011912334"}}

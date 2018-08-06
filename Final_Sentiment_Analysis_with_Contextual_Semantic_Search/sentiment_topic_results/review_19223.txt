@@ -1,0 +1,1 @@
+{"text": "has lots of room for all your stuff.  all kinds of pockets and places for id's and credit cards...never had wallet that would hold so much.  Love it and the color!!", "sentiment": "negative", "topics": {"1": "0.46804768", "3": "0.29413483", "5": "0.20201847"}}

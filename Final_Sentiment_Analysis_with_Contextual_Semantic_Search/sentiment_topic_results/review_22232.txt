@@ -1,0 +1,1 @@
+{"text": "I love these socks.  I wear them quite often, but never wear them with my Vibram 5 fingers (i go sockless with them)They are so comfortable and just make my toes feel nice.DO NOT DRY these, they shrink.Highly recommended, i have 12 pair", "sentiment": "negative", "topics": {"1": "0.27237904", "2": "0.053577535", "3": "0.26985613", "4": "0.1500291", "5": "0.24314038"}}

@@ -1,0 +1,1 @@
+{"text": "Only a California resident will understand the headline!  ORANGE this shirt is--for sure.  I have not yet worn it but assume it is the same high quality of all HANES products.", "sentiment": "positive", "topics": {"1": "0.13311367", "2": "0.2161734", "4": "0.13153897", "5": "0.37014523", "6": "0.13113874"}}

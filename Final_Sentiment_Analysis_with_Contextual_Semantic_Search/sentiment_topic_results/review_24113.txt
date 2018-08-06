@@ -1,0 +1,1 @@
+{"text": "Nothing to tell you more about these shoes of what you surely already know. They are great, my favorite ones even because I live in the Caribbean and the canvas is fresh and my feet don't like sweating...", "sentiment": "positive", "topics": {"2": "0.3405264", "3": "0.29655042", "4": "0.09432903", "5": "0.24470727"}}

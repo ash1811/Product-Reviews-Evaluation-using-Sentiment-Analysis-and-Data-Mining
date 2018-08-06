@@ -1,0 +1,1 @@
+{"text": "Decent, cheap jeans. Tend to be tight fitting for my build style. They get a little up close and personal when you have to squat down a lot for work, if you know what I mean. They have lasted pretty good", "sentiment": "negative", "topics": {"0": "0.1476721", "1": "0.29772797", "2": "0.13950709", "3": "0.27431148", "6": "0.12711532"}}

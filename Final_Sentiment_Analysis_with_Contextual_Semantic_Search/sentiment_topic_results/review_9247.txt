@@ -1,0 +1,1 @@
+{"text": "Bought a pair years ago and they are still good.  Do not look worn out yet. Needed new ones for dress still others are everydaywear.", "sentiment": "negative", "topics": {"0": "0.089186974", "1": "0.44807267", "3": "0.2751144", "6": "0.16230257"}}

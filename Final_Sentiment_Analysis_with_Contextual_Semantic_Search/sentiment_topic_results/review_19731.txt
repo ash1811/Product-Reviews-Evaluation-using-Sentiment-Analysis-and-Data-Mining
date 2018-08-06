@@ -1,0 +1,1 @@
+{"text": "These pants are a tad bit smaller than I thought but it's all good because in winter you don't want your clothes flapping around anyway.  I wear them all the time while running now.", "sentiment": "negative", "topics": {"0": "0.109408885", "1": "0.3441225", "2": "0.10617762", "3": "0.17480706", "5": "0.12967391", "6": "0.12739317"}}

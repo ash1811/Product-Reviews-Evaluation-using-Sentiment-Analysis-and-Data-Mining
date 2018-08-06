@@ -1,0 +1,1 @@
+{"text": "My son works hard so Carhartt jeans are great for him!  He can also wear them for casual wear!  They hold up well!", "sentiment": "negative", "topics": {"0": "0.19283926", "1": "0.546176", "2": "0.010211741", "3": "0.13449647", "4": "0.09578293", "5": "0.010275381", "6": "0.010218266"}}

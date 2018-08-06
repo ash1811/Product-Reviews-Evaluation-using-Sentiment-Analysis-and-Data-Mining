@@ -1,0 +1,1 @@
+{"text": "I used this product per the directions exactly---Not a good investment for me...it did nothing to clean or improve the appearance of my jewelry", "sentiment": "negative", "topics": {"0": "0.14730178", "1": "0.38047794", "2": "0.0813403", "3": "0.08557082", "4": "0.07336", "5": "0.22166228", "6": "0.010286908"}}

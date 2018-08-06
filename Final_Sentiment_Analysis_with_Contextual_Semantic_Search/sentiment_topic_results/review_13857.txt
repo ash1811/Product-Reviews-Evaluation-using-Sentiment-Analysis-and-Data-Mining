@@ -1,0 +1,1 @@
+{"text": "I love these shoes, they are comfortable and look nice.  They are a nice change from always wearing flip flops...Only problem is they get dirty easy....so you have to be careful WHERE you wear them.....", "sentiment": "negative", "topics": {"0": "0.0878672", "1": "0.41880485", "2": "0.33816025", "3": "0.13256656"}}

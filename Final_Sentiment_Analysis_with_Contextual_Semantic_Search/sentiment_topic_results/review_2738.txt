@@ -1,0 +1,1 @@
+{"text": "There's nothing bad to say about the Skagen products. The quality is very good, and it's very well built. 100% worth the price!", "sentiment": "positive", "topics": {"0": "0.10551037", "1": "0.57695276", "2": "0.0102173695", "3": "0.010208207", "4": "0.010227867", "5": "0.17614159", "6": "0.11074189"}}

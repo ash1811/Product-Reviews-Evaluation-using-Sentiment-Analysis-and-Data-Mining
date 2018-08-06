@@ -1,0 +1,1 @@
+{"text": "You're getting (in my opinion) the best jeans on the planet. Personally, I just happen to prefer a few of their other styles/fits and how they look on me.", "sentiment": "positive", "topics": {"0": "0.5072421", "1": "0.011123587", "2": "0.01099984", "3": "0.01100388", "4": "0.11142611", "5": "0.15165389", "6": "0.19655068"}}

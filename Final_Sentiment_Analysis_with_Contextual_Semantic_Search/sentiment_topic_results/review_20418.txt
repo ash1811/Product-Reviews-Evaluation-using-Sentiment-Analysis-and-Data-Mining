@@ -1,0 +1,1 @@
+{"text": "These worked okay. I have yet to find a pair that REALLY work WELL! There is just nothing that fixes a pair of shoes that doesn't fit right.", "sentiment": "negative", "topics": {"1": "0.42593387", "2": "0.13015959", "4": "0.31012645", "6": "0.10511425"}}

@@ -1,0 +1,1 @@
+{"text": "These Ray-Ban aviators are the perfect accessory; they won't ever go out of style. I've purchased this same pair from sunglass stores in the mall for nearly twice the price. Never again!", "sentiment": "negative", "topics": {"1": "0.42451292", "2": "0.14552553", "3": "0.21003723", "4": "0.1344248", "6": "0.0704201"}}

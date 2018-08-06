@@ -1,0 +1,1 @@
+{"text": "Really nice color kinda varies from the bottoms but I like that's it longer them other scrub tops that's cool", "sentiment": "negative", "topics": {"0": "0.010228364", "1": "0.010300029", "2": "0.0102238", "3": "0.6136384", "4": "0.08917711", "5": "0.25617865", "6": "0.010253641"}}

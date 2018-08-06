@@ -1,0 +1,1 @@
+{"text": "I love Adidas. Especially the quality. I haven't purchased a pair in several years. Forgot what I was missing. Will order a few more.", "sentiment": "negative", "topics": {"0": "0.011107042", "1": "0.34327304", "2": "0.011002107", "3": "0.25005332", "4": "0.011043934", "5": "0.36251238", "6": "0.011008213"}}

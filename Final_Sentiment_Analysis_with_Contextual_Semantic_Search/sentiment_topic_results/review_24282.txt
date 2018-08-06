@@ -1,0 +1,1 @@
+{"text": "I bought according to the size chart. However, the front looked biggish while the back was outright blousy. Had to make a rare return to Amazon.", "sentiment": "positive", "topics": {"0": "0.08771412", "2": "0.13781857", "3": "0.32323524", "4": "0.11083228", "5": "0.23899868", "6": "0.09244542"}}

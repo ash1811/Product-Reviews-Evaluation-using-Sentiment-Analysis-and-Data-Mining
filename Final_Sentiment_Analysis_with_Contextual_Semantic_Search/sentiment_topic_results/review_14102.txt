@@ -1,0 +1,1 @@
+{"text": "The materials and workmanship is top notch. The button fly is very comfortable. The fit is perfect. It's a Levi's, you can expect only the best.", "sentiment": "negative", "topics": {"0": "0.011007919", "1": "0.34221438", "2": "0.010998452", "3": "0.20208535", "4": "0.011004741", "5": "0.18999597", "6": "0.23269318"}}

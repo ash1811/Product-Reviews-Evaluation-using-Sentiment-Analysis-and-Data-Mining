@@ -1,0 +1,1 @@
+{"text": "Love, love, love my Keens. So comfy right out of the box. I literally opened the box, put them on and walked about 3 miles. Definitely order 1/2 size up in Keens. Don't hesitate to buy!", "sentiment": "positive", "topics": {"0": "0.07381906", "1": "0.2594201", "3": "0.12625238", "4": "0.19255842", "5": "0.20556855", "6": "0.13583273"}}

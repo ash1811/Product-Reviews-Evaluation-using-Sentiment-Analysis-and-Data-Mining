@@ -1,0 +1,1 @@
+{"text": "Born in the mid 60's and going through the 70's, my mom would always buy me these. Still feels the same to.Every time I wear them, it really takes me back to those fabulous 70's.", "sentiment": "negative", "topics": {"0": "0.6533798", "1": "0.20620309", "6": "0.114352636"}}

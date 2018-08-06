@@ -1,0 +1,1 @@
+{"text": "This is my third pair of walking shoes.  So far, they have been true to fit, very comfortable and the only shoe with wonderful arch support.", "sentiment": "negative", "topics": {"0": "0.011013354", "1": "0.44014344", "2": "0.20008585", "3": "0.21977045", "4": "0.011019718", "5": "0.10694138", "6": "0.011025818"}}

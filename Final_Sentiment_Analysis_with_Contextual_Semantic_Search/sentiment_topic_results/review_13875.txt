@@ -1,0 +1,1 @@
+{"text": "I purchased this Eco drive due to my other failing. It really is a timeless piece, I love that the dial is black really dressy as well as a casual look its a keeper!!!", "sentiment": "negative", "topics": {"1": "0.22309616", "2": "0.083638325", "3": "0.18522932", "5": "0.09591182", "6": "0.3962049"}}

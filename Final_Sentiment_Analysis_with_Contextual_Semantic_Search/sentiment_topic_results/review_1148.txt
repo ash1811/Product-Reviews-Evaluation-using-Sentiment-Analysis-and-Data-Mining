@@ -1,0 +1,1 @@
+{"text": "Fit. Comfortable. Prime. Who could ask for more? It would only be nicer if more patterns were Prime. I had to buy three sets of these to get Prime and now I have a lot of blue in my drawer.", "sentiment": "positive", "topics": {"1": "0.69698805", "2": "0.18194284", "3": "0.09093219"}}

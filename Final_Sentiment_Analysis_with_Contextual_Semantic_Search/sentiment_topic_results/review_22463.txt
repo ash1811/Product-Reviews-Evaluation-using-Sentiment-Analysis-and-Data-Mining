@@ -1,0 +1,1 @@
+{"text": "I'm very happy with these. Very basic and comfortable. I'll be ordering more. Colors are not standard, but I was happy with what I got- 3 black and 3 white.", "sentiment": "negative", "topics": {"1": "0.48097914", "3": "0.21079858", "5": "0.11295829", "6": "0.16997875"}}

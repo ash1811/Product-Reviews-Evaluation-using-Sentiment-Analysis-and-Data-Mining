@@ -1,0 +1,1 @@
+{"text": "I ordered this when the weather changed for my daughter and it fit perfectly! She will get a lot of wear with it as she has room to grow. Capezio items always fit perfect and are very durable. I highly recommend!", "sentiment": "positive", "topics": {"0": "0.098888405", "1": "0.6304728", "2": "0.09986544", "3": "0.08091939", "6": "0.07553006"}}

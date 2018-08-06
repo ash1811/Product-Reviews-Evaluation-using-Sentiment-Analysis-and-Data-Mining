@@ -1,0 +1,1 @@
+{"text": "This is the best polishing cloth to use for silver, gold and other metals.....easy to use with excellent results....good buy", "sentiment": "negative", "topics": {"0": "0.011936956", "1": "0.1884043", "2": "0.19156899", "3": "0.16966553", "4": "0.4145572", "5": "0.011939358", "6": "0.011927683"}}

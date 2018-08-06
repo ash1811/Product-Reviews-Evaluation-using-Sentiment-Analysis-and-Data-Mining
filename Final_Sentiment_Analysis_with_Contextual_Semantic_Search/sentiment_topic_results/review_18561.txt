@@ -1,0 +1,1 @@
+{"text": "these are great pants they fit great and are very light weight great for summer time. I have had several pairs and they last for a long time very durable. and the price at amazon is better than anywhere.", "sentiment": "positive", "topics": {"1": "0.77375185", "4": "0.1903766"}}

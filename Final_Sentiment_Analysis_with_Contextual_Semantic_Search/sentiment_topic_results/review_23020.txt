@@ -1,0 +1,1 @@
+{"text": "Comfortable, but best used for exercising or relaxing around the house.", "sentiment": "positive", "topics": {"0": "0.01788388", "1": "0.7460251", "2": "0.017877651", "3": "0.1644527", "4": "0.017894637", "5": "0.017897112", "6": "0.017968945"}}

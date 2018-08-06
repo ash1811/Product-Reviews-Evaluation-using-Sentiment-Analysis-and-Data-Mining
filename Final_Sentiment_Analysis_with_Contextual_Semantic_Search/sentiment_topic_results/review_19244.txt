@@ -1,0 +1,1 @@
+{"text": "Wanted something functional and with a little pizzaz.  Love all the compartments and the softness of the wallet.  Seems well made and that it will last.  Highly recommended.", "sentiment": "positive", "topics": {"0": "0.17508839", "1": "0.3042577", "2": "0.30684158", "3": "0.18690185"}}

@@ -1,0 +1,1 @@
+{"text": "I love everything about these. They fit perfect, love the color/design, the price is good...best pair I've had in a while. Reef has never disappointed!", "sentiment": "positive", "topics": {"1": "0.25865534", "2": "0.091703035", "3": "0.32013392", "4": "0.30266547"}}

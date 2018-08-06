@@ -1,0 +1,1 @@
+{"text": "Just what I wanted...... A comfortable, All  cotton Tee.It seems that they are few & far between these days.The raspberry is a pretty color .", "sentiment": "positive", "topics": {"0": "0.013022848", "1": "0.3131789", "2": "0.21271491", "3": "0.1623167", "4": "0.14385416", "5": "0.14191738", "6": "0.012995082"}}

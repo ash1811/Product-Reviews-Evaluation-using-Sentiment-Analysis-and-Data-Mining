@@ -1,0 +1,1 @@
+{"text": "It's underwear, it's Hanes, I'm not 100% sure what I'm reviewing.  They fit well and are comfortable, and they keep the little general from getting caught in my zipper, which is really all I ask of my boxers", "sentiment": "positive", "topics": {"0": "0.1833925", "1": "0.5130314", "2": "0.104415275", "3": "0.06470937", "6": "0.12013217"}}

@@ -1,0 +1,1 @@
+{"text": "They are really nice Levis my grandson loves them he was so sharp when he wore these jeans that night to a party they looked very nice on him nice fit I have to get him some more in a different color", "sentiment": "positive", "topics": {"0": "0.14034477", "1": "0.4395494", "2": "0.072689004", "4": "0.15272944", "6": "0.17872496"}}

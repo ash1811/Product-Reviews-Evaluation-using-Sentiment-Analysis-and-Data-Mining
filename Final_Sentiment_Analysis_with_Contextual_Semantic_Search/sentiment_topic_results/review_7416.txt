@@ -1,0 +1,1 @@
+{"text": "was given  as a birthday gift. friend was very pleased. stated that was the best gift ever had.  very comfortable to wear.", "sentiment": "negative", "topics": {"0": "0.31640926", "1": "0.12483529", "2": "0.10010004", "3": "0.0110205775", "4": "0.010999092", "5": "0.42558786", "6": "0.01104785"}}

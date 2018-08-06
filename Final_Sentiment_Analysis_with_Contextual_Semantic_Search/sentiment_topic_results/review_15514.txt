@@ -1,0 +1,1 @@
+{"text": "I was surprised by the great quality but didn't realize the pants were low cut. I sent them back, too bad.", "sentiment": "negative", "topics": {"0": "0.012993413", "1": "0.7335043", "2": "0.012989295", "3": "0.012993083", "4": "0.012989712", "5": "0.11678722", "6": "0.097743"}}

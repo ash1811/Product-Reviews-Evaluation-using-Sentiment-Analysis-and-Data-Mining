@@ -1,0 +1,1 @@
+{"text": "They work great with my skinny jeans & leggings.  The fit is snug perfectly, and I love the look of them.", "sentiment": "negative", "topics": {"0": "0.011949479", "1": "0.3971785", "2": "0.011937168", "3": "0.199299", "4": "0.2658052", "5": "0.01197974", "6": "0.1018509"}}

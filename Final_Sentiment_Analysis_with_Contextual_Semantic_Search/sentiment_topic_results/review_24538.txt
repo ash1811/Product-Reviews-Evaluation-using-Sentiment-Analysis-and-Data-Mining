@@ -1,0 +1,1 @@
+{"text": "This is the third leotard I've bought from the company. They fit perfectly, they are comfortable, and I can dance freely in them. This one I've also worn under a few skirts and it's quite warm and slimming.", "sentiment": "positive", "topics": {"1": "0.4186639", "3": "0.3106374", "4": "0.13982287", "6": "0.10940063"}}

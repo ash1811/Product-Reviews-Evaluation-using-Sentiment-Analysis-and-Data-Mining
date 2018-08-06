@@ -1,0 +1,1 @@
+{"text": "This is a very heavy duty oil skin duster that I will be wearing a lot. It is a little bigger than I expected, but that leaves room for a lot of layering in the cold. Overall I really like it.", "sentiment": "negative", "topics": {"1": "0.32014415", "4": "0.13546087", "5": "0.20909202", "6": "0.31377408"}}

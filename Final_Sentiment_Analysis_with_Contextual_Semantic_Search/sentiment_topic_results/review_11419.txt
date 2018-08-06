@@ -1,0 +1,1 @@
+{"text": "Though I have not used yet because it did not come in time for christmas I love it and will definetely be using next year.  Very well made and cute.", "sentiment": "negative", "topics": {"0": "0.32520953", "1": "0.07803135", "4": "0.11883076", "5": "0.44915423"}}

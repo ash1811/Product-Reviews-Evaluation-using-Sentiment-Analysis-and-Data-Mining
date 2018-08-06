@@ -1,0 +1,1 @@
+{"text": "They are a high quality product. I have older ones and knew what to expect and they didn't disappoint. Very comfortable", "sentiment": "negative", "topics": {"0": "0.014290755", "1": "0.34019616", "2": "0.37219158", "3": "0.014304553", "4": "0.014295241", "5": "0.2303038", "6": "0.014417896"}}

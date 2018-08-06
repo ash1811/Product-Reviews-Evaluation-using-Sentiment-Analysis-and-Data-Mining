@@ -1,0 +1,1 @@
+{"text": "I wish I could have kept this but it turns out I'm allergic to sterling silver. This was the absolutely perfect ring I loved it.", "sentiment": "negative", "topics": {"0": "0.105618976", "1": "0.51650137", "2": "0.23723523", "3": "0.0102523295", "4": "0.010221368", "5": "0.10993954", "6": "0.010231149"}}

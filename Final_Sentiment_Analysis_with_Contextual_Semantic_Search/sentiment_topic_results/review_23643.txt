@@ -1,0 +1,1 @@
+{"text": "It doesn't look cheap at all, in fact, people ask me where I got it. It's small and very delicate looking.", "sentiment": "negative", "topics": {"0": "0.011973724", "1": "0.43105495", "2": "0.011963849", "3": "0.5092235", "4": "0.01191476", "5": "0.011931695", "6": "0.011937494"}}

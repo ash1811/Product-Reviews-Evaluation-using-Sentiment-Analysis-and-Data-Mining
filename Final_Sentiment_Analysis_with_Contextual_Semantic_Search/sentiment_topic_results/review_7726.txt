@@ -1,0 +1,1 @@
+{"text": "Una muy buena compra. Cumplio con las expectativas............lo recomiento ampliamente. El color justo el que estaba buscando. La talla exacta.", "sentiment": "positive", "topics": {"1": "0.15508974", "2": "0.17234264", "3": "0.17467788", "4": "0.111299425", "5": "0.28264514", "6": "0.09713949"}}

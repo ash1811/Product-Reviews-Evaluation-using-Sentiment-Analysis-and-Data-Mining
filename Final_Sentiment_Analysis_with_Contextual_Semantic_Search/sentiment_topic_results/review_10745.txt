@@ -1,0 +1,1 @@
+{"text": "No mosquitoes are going to mess with me now. muhahaha I should have ordered a larger one though but I still think it's good quality.", "sentiment": "negative", "topics": {"0": "0.20794463", "1": "0.4477253", "2": "0.010238831", "3": "0.010233824", "4": "0.19176634", "5": "0.1218727", "6": "0.010218385"}}

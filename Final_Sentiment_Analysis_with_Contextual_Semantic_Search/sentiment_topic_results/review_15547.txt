@@ -1,0 +1,1 @@
+{"text": "I am vertically challenge and this pants just fits right. The petite scrub is what i just needed without the extra cost of getting it hemmed for my height.", "sentiment": "negative", "topics": {"1": "0.48358023", "2": "0.07335681", "3": "0.22384237", "4": "0.08281217", "5": "0.11732246"}}

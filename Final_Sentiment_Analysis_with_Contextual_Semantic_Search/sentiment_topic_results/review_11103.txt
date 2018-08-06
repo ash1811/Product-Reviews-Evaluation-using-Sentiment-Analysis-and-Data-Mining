@@ -1,0 +1,1 @@
+{"text": "I like this visor for taking walks when it's sunny. It blows off easily in the wind, but I like the leopard print trim. It goes well with whatever I wear that day.", "sentiment": "negative", "topics": {"0": "0.061349172", "1": "0.124790035", "2": "0.12927994", "5": "0.39809653", "6": "0.2704819"}}

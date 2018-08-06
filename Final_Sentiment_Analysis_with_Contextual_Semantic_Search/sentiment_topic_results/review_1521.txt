@@ -1,0 +1,1 @@
+{"text": "I love this backpack! As for the reviews of being small, I've carried two books, a notebook, iPad and leapfrog explorer for my daughter. Will definitely hold up! Buy it!", "sentiment": "negative", "topics": {"0": "0.23783527", "1": "0.15006228", "2": "0.2907913", "3": "0.29871538"}}

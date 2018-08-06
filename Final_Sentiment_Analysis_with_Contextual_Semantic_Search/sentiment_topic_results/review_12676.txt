@@ -1,0 +1,1 @@
+{"text": "I like the way it fit around my body but the cup is too big.  I ordered the same size I normally wear but the cup just doesn't fit right.  It is hard to fasten all the hooks too.", "sentiment": "positive", "topics": {"0": "0.1037642", "1": "0.41697314", "5": "0.2536915", "6": "0.20292516"}}

@@ -1,0 +1,1 @@
+{"text": "The jacket came and I wore it the next day as it was very cold for my area. I normally do not wear jackets here but am glad I purchased this as it fits and looks great.", "sentiment": "negative", "topics": {"1": "0.4203128", "2": "0.17314905", "5": "0.26479927", "6": "0.11485112"}}

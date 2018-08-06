@@ -1,0 +1,1 @@
+{"text": "Exactly like the description.  Real polarized Ray Ban Wayfarers.  I wish they made them in wider sizes, but these work okay for my big head, and I love 'em.", "sentiment": "positive", "topics": {"0": "0.08832006", "1": "0.49988937", "3": "0.09240328", "4": "0.29671994"}}

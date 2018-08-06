@@ -1,0 +1,1 @@
+{"text": "Excellent and soft quality.  And great price.  The shipper was very reliable too.  When I need some more, I will definitely consider buying more from this source.  It was better than buying from a store.", "sentiment": "negative", "topics": {"1": "0.2938015", "2": "0.17594168", "3": "0.06921793", "4": "0.13252339", "5": "0.11983678", "6": "0.20070402"}}

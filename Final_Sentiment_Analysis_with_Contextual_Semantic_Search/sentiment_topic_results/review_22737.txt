@@ -1,0 +1,1 @@
+{"text": "This little hat provides the best coverage, yet light weight and comfortable, and the chin strap is a must for kids. I like it so much that I also bought the adult version for my husband and myself.", "sentiment": "negative", "topics": {"1": "0.2833132", "2": "0.06192327", "3": "0.21344896", "4": "0.18122587", "5": "0.24707218"}}

@@ -1,0 +1,1 @@
+{"text": "It's really small and the material is thin, overall, it's flimsy. It also seems like a watch for a child.", "sentiment": "negative", "topics": {"0": "0.011951553", "1": "0.19039424", "2": "0.1511907", "3": "0.22973484", "4": "0.14136685", "5": "0.011938036", "6": "0.26342383"}}

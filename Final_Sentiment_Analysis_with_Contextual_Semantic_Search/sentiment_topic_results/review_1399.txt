@@ -1,0 +1,1 @@
+{"text": "I've been using a swiss type back pack and it's larger than this. I was amazed how this packs almost everything i need. Highly recommended!", "sentiment": "negative", "topics": {"0": "0.20546265", "1": "0.20245086", "2": "0.30516315", "3": "0.07750521", "5": "0.12701009", "6": "0.07346034"}}

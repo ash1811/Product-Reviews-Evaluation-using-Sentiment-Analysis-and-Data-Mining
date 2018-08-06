@@ -1,0 +1,1 @@
+{"text": "Hi-cut is the only style that fits me. I always get cotton. I order on-line to get a more varied color selection.", "sentiment": "negative", "topics": {"0": "0.08085628", "1": "0.48543185", "2": "0.010226143", "3": "0.077942945", "4": "0.010251202", "5": "0.225718", "6": "0.10957359"}}

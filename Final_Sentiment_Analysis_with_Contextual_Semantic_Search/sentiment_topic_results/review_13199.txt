@@ -1,0 +1,1 @@
+{"text": "Got the 12 month size for my 10 month old who is 35th percentile in weight and 45th percentile in length, and it fit exactly, a bit on the snug side.  The snaps aren't super secure, but with 5 of them, secure enough.", "sentiment": "negative", "topics": {"1": "0.07474277", "3": "0.37348208", "4": "0.27134472", "6": "0.2638345"}}

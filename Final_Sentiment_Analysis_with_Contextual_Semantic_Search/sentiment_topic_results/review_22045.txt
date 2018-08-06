@@ -1,0 +1,1 @@
+{"text": "I think I didn't buy it because I looked at the measurements and it's tiny. I need a big watch with big numbers because I can't see small things anymore. I am old.Marci Waters, oldster", "sentiment": "negative", "topics": {"1": "0.44514632", "2": "0.24148542", "3": "0.07413098", "4": "0.1615791", "6": "0.06259967"}}

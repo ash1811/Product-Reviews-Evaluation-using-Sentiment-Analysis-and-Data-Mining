@@ -1,0 +1,1 @@
+{"text": "Great boots, comfort and performance.  Wore these boots for 8 hours the first day and they were very comfortable and no blisters.", "sentiment": "positive", "topics": {"0": "0.14792174", "1": "0.2593467", "2": "0.010993633", "3": "0.0110030975", "4": "0.2381415", "5": "0.011060006", "6": "0.32153332"}}

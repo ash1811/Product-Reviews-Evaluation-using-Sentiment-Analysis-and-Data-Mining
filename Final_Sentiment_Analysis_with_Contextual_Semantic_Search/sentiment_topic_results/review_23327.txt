@@ -1,0 +1,1 @@
+{"text": "this is first pair of these jeans i've purchased and i'm liking these for their fit and weight , worn dickies for years but that now is in the past because of the fit and feel of these jeans", "sentiment": "positive", "topics": {"0": "0.2660599", "1": "0.27124783", "3": "0.35015854", "6": "0.0872243"}}

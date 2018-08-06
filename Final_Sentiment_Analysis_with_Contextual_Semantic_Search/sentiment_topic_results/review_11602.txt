@@ -1,0 +1,1 @@
+{"text": "The fit was perfect, i wish the leg opening was an inch or inch an a half wider however the product is wonderful", "sentiment": "negative", "topics": {"0": "0.010995974", "1": "0.3648297", "2": "0.35756472", "3": "0.14091988", "4": "0.011003185", "5": "0.103618875", "6": "0.011067684"}}

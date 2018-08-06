@@ -1,0 +1,1 @@
+{"text": "SmartWool hiking socks, light or heavier are the best socks I have found for all uses, with comfort, great wicking and long wear.  I have even \"sold\" them to others.", "sentiment": "negative", "topics": {"0": "0.4002831", "5": "0.47090018", "6": "0.09696518"}}

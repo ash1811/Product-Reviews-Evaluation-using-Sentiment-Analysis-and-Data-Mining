@@ -1,0 +1,1 @@
+{"text": "Flashback to the 80's all the way! Great to layer with boots that need a little more warmth but do not have enough room in the foot bed. Add these!", "sentiment": "positive", "topics": {"1": "0.34469548", "3": "0.19158873", "4": "0.35460016", "6": "0.0822115"}}

@@ -1,0 +1,1 @@
+{"text": "I wear a 42 pants and in dickies usually purchase a 44. These were a 50 and didn't fit. Quality seems fine, just bummed the sizes were off of what I usually order.", "sentiment": "negative", "topics": {"0": "0.08807638", "1": "0.39701626", "2": "0.12009911", "5": "0.24910256", "6": "0.12884137"}}

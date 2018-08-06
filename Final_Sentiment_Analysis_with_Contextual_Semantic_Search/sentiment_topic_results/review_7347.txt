@@ -1,0 +1,1 @@
+{"text": "Note, I would give 5 stars for shirt itself.  This shirt, however, should be labelled big and tall.  That, I would have understood as sizing different from normal.  This x-large is way too big for my x-large.", "sentiment": "negative", "topics": {"0": "0.26937243", "1": "0.3289623", "2": "0.11719316", "4": "0.091537684", "6": "0.180468"}}

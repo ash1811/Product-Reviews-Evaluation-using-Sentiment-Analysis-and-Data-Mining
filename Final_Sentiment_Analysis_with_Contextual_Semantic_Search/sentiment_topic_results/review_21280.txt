@@ -1,0 +1,1 @@
+{"text": "nothing bad to say about keen sandals or about keen shoes in general.  they are the shoes that my podiatrist recommended and i'm so glad that he did.  i love everything about all keen shoes ESPECIALLY the colors!", "sentiment": "positive", "topics": {"1": "0.23258854", "2": "0.2877324", "4": "0.12337546", "5": "0.0745427", "6": "0.26812205"}}

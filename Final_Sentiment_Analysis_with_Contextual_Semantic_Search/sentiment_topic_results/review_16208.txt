@@ -1,0 +1,1 @@
+{"text": "Love the size. It cleans just fine. Wish didn't have to clean jewelry but this cloth helps. That about sums it up.", "sentiment": "negative", "topics": {"0": "0.011926901", "1": "0.45469213", "2": "0.123538464", "3": "0.24383591", "4": "0.011958492", "5": "0.011922996", "6": "0.14212511"}}

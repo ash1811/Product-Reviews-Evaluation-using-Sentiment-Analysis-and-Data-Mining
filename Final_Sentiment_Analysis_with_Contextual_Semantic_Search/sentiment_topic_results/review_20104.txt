@@ -1,0 +1,1 @@
+{"text": "The quality of this backpack is very good and it fits really well over the shoulders. I like the extra pockets and zippers it has inside and out. The color was sharp and the bag expanded to fit a lot of clothing items so it was very useful for travel.", "sentiment": "negative", "topics": {"1": "0.4372922", "2": "0.24679637", "5": "0.19785441", "6": "0.100137435"}}

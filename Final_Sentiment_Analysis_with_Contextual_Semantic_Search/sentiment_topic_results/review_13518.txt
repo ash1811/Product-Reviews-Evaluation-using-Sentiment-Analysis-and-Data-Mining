@@ -1,0 +1,1 @@
+{"text": "Very Good First Quality Pants, I wear these both for dress and casual. Fit perfect and allow that extra width when needed most.Will buy again.", "sentiment": "negative", "topics": {"1": "0.5757102", "2": "0.07907192", "5": "0.3115243"}}

@@ -1,0 +1,1 @@
+{"text": "Order one size bigger than usual!! I usually wear 32 waist, but these are tight. I'm going to sell them and order 33's.The flannel is nice though, and Carhartts are great for heavy duty activities. Great pants for winter.", "sentiment": "negative", "topics": {"0": "0.12072373", "1": "0.33251742", "3": "0.14974307", "4": "0.21793327", "6": "0.16845801"}}

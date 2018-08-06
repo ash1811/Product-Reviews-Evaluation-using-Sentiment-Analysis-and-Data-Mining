@@ -1,0 +1,1 @@
+{"text": "nice outfit for me  can wear and l love it so much and nice colour again and doesnt shrink when you wash it especially here in stan", "sentiment": "negative", "topics": {"0": "0.07838059", "1": "0.87051064", "2": "0.010205866", "3": "0.010222865", "4": "0.010236154", "5": "0.010228057", "6": "0.010215833"}}

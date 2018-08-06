@@ -1,0 +1,1 @@
+{"text": "These pants fit well, wear well and wash up great. I really like the extra pockets when I am doing work. That keeps the tools I need readily available.", "sentiment": "negative", "topics": {"1": "0.6116004", "3": "0.12484459", "4": "0.07048919", "6": "0.16917032"}}

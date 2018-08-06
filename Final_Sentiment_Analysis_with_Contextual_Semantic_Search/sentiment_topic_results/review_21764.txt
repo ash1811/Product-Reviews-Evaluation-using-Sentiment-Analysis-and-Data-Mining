@@ -1,0 +1,1 @@
+{"text": "This watch cap is similar in design as those issued to service members, but much thinner with only a single layer and with lower quality stitching.The hat, however, does do it's job and keep your head warm as long as there isn't too stiff of a breeze.", "sentiment": "positive", "topics": {"1": "0.26297116", "2": "0.3641741", "3": "0.22206193", "4": "0.13287249"}}

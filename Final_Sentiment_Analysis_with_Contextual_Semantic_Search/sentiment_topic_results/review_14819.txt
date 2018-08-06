@@ -1,0 +1,1 @@
+{"text": "Not shore what to say. It dose work but doesn't seem to work as good as the stuff at the jewelry store they use.", "sentiment": "negative", "topics": {"0": "0.123704605", "1": "0.35852936", "2": "0.012006123", "3": "0.26325896", "4": "0.011939327", "5": "0.011924386", "6": "0.21863721"}}

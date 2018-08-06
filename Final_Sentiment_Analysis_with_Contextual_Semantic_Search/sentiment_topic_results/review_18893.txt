@@ -1,0 +1,1 @@
+{"text": "These jeans are faded blue and have little different color than most of my other lighter color jeans.  These look more like a faded older pair of jeans than the new faded at the factory jeans.  I like the 514 fit too.", "sentiment": "negative", "topics": {"1": "0.2985944", "2": "0.28887564", "3": "0.13390604", "5": "0.18588541", "6": "0.080795094"}}

@@ -1,0 +1,1 @@
+{"text": "I was looking for earrings that were fun and had some color and these filled the bill. They are great for spring and summer outfits.", "sentiment": "positive", "topics": {"0": "0.16598414", "1": "0.47370073", "2": "0.013009861", "3": "0.013003676", "4": "0.013015407", "5": "0.30827886", "6": "0.0130073195"}}

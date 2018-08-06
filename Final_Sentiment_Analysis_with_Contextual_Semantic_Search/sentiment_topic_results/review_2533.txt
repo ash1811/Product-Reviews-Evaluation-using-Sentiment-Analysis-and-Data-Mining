@@ -1,0 +1,1 @@
+{"text": "My little cowboy is in love with this toy gun!  It is sturdy and alot more durable than most of those plastic cheapies out there!  It also have impressive little details.  Great toy", "sentiment": "positive", "topics": {"0": "0.122101", "1": "0.5688984", "4": "0.27709007"}}

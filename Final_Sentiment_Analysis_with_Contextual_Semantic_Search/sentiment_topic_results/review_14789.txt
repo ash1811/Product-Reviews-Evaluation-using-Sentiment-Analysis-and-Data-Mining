@@ -1,0 +1,1 @@
+{"text": "You wont believe how dirty your jewelry is until you use this stuff, it gets everything off with no residue.", "sentiment": "negative", "topics": {"0": "0.014313345", "1": "0.17628092", "2": "0.28292465", "3": "0.48350495", "4": "0.014307699", "5": "0.0143273985", "6": "0.014340977"}}

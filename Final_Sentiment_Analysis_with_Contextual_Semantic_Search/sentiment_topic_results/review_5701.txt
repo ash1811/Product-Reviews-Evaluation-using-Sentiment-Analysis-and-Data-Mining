@@ -1,0 +1,1 @@
+{"text": "Bought these for my brother-in-law.  He loves them.  He says they fit great, very comfortable.  Washes very well with little shrinkage.", "sentiment": "negative", "topics": {"0": "0.011067668", "1": "0.7243824", "2": "0.011040885", "3": "0.11981671", "4": "0.011100023", "5": "0.011032376", "6": "0.11155989"}}

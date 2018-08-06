@@ -1,0 +1,1 @@
+{"text": "These toy handcuffs are great!  They last much longer than plastic ones and can be opened either with a latch or with a key.  These are a perfect addition to a cop costume too!", "sentiment": "positive", "topics": {"0": "0.23521495", "1": "0.34360012", "2": "0.1338488", "4": "0.2634915"}}

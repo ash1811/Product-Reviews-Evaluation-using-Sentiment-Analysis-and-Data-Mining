@@ -1,0 +1,1 @@
+{"text": "Quick shipping and excellent flops! I would recommend to anyone who wants great flops at a great price. The bottle opener is cool too!", "sentiment": "negative", "topics": {"0": "0.22798169", "1": "0.3088948", "2": "0.3199645", "4": "0.11787751"}}

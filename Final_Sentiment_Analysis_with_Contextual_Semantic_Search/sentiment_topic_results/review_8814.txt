@@ -1,0 +1,1 @@
+{"text": "These are great quality socks that last, don't fade, and prevent blisters. The under pad is just the right thickness.", "sentiment": "negative", "topics": {"0": "0.2461935", "1": "0.2748997", "2": "0.012990269", "3": "0.01299886", "4": "0.14555971", "5": "0.29428267", "6": "0.013075291"}}

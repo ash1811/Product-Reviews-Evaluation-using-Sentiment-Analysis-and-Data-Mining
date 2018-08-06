@@ -1,0 +1,1 @@
+{"text": "have a few pair and the new ones don't last as long as the old pairs I have (10yrs). The belt loops have broken/ ripped off the ones purchased most recently??", "sentiment": "negative", "topics": {"1": "0.30561015", "2": "0.15440601", "3": "0.1879543", "4": "0.24298564", "6": "0.09113474"}}

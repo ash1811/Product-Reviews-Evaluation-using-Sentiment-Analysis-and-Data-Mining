@@ -1,0 +1,1 @@
+{"text": "Very nice cap, good quality and design for this price. Very resistant and good fit. very recommended for this price", "sentiment": "negative", "topics": {"0": "0.011924342", "1": "0.63308233", "2": "0.23610014", "3": "0.01194929", "4": "0.08308626", "5": "0.011940236", "6": "0.011917435"}}

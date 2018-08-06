@@ -1,0 +1,1 @@
+{"text": "This makes my rings look like new.  It is a good cleaner and works great in the jewelry cleaner machines.  I want to always have this around.", "sentiment": "negative", "topics": {"1": "0.4326235", "2": "0.23772651", "3": "0.18611051", "6": "0.11669613"}}

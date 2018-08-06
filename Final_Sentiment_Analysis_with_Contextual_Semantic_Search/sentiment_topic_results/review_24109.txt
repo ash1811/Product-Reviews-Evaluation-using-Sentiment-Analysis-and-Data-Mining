@@ -1,0 +1,1 @@
+{"text": "This bra was very supportive and was true to size but the cups created a strange shape that I could not live with.  This bra had minimal elastic and provided very firm support if you can live with the strange shape.", "sentiment": "positive", "topics": {"0": "0.21719763", "1": "0.08389353", "3": "0.671627"}}

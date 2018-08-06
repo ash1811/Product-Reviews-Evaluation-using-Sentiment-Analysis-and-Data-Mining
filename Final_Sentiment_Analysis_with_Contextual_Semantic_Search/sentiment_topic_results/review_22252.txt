@@ -1,0 +1,1 @@
+{"text": "these socks are GOOFY! they are made for the shoes that have toes. My fianc&eacute; didn't like them because they aren't soft at all. they feel like rubber and don't let feet breath.", "sentiment": "negative", "topics": {"1": "0.25897264", "2": "0.26054886", "3": "0.12627739", "4": "0.16746235", "6": "0.16875333"}}

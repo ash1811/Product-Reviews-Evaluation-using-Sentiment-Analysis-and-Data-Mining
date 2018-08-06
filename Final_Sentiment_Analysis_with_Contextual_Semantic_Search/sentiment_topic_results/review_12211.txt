@@ -1,0 +1,1 @@
+{"text": "I love these bras they fit well, have good support, look good under your clothes, easy to care for, they dry fast, I like the colors, white, black, sand...", "sentiment": "negative", "topics": {"0": "0.20828632", "1": "0.2741065", "3": "0.276477", "5": "0.08869589", "6": "0.13807105"}}

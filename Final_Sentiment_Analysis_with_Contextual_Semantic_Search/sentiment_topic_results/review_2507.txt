@@ -1,0 +1,1 @@
+{"text": "I have a hard time finding 42x34 pants for my husband for some reason they stop at 30 length in most stores he loves these and says they fit perfectly.", "sentiment": "negative", "topics": {"0": "0.25496262", "1": "0.38780054", "4": "0.25182083", "6": "0.07858609"}}

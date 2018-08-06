@@ -1,0 +1,1 @@
+{"text": "Its plenty thick and well constructedyou can't go wrong with Carhartttop quality all the way&#8230;will lastfor many years.", "sentiment": "positive", "topics": {"0": "0.010218834", "1": "0.69927037", "2": "0.081519715", "3": "0.010226383", "4": "0.17832422", "5": "0.010226427", "6": "0.010214053"}}

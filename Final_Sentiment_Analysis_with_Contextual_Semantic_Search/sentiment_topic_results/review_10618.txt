@@ -1,0 +1,1 @@
+{"text": "The material is a little heavier and of a higher quality than expected.  This seems to be a fairly well made jacket.", "sentiment": "negative", "topics": {"0": "0.11388222", "1": "0.61414886", "2": "0.12736703", "3": "0.011944554", "4": "0.011914279", "5": "0.10883031", "6": "0.01191276"}}

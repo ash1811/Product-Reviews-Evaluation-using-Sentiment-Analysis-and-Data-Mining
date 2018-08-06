@@ -1,0 +1,1 @@
+{"text": "Gave a s a gift.  Recipient seems to be very pleased with the watch.  Has had no problems with it so far.", "sentiment": "positive", "topics": {"0": "0.47359174", "1": "0.015925156", "2": "0.44678736", "3": "0.015967635", "4": "0.015915621", "5": "0.015928162", "6": "0.015884366"}}

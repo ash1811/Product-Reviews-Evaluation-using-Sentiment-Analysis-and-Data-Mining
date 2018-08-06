@@ -1,0 +1,1 @@
+{"text": "I bought these for my boyfriend and he likes them very much. They have a padded insole and they are easy to slip on and off. I like that they are washable and have a thin non-slip outer sole. I think they are well made and worth the price.", "sentiment": "negative", "topics": {"0": "0.07459531", "1": "0.29369336", "4": "0.2625734", "5": "0.22535762", "6": "0.13013339"}}

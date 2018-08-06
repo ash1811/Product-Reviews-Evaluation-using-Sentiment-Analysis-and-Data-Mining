@@ -1,0 +1,1 @@
+{"text": "We moved from California to Colorado, and my husband was suffering from the cold, but not know, thanks to Amazon, and these Thermal's.  He wears them Day and Night.  He loves them so much, we have ordered more.", "sentiment": "negative", "topics": {"0": "0.28355277", "3": "0.2717325", "4": "0.23806113", "5": "0.18276028"}}

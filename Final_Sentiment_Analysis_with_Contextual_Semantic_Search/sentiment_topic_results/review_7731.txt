@@ -1,0 +1,1 @@
+{"text": "Nice fitting jeans the sit just right and look good and for the price they are worth every penny", "sentiment": "positive", "topics": {"0": "0.011944115", "1": "0.30854493", "2": "0.11341392", "3": "0.011945938", "4": "0.011955927", "5": "0.5302617", "6": "0.011933438"}}

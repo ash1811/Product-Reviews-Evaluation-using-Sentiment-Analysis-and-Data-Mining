@@ -1,0 +1,1 @@
+{"text": "My wife bought this bra and it fits perfect. She loved it. The sizing info in the page is really helpful", "sentiment": "negative", "topics": {"0": "0.011046747", "1": "0.64079434", "2": "0.011015211", "3": "0.12407656", "4": "0.0110033825", "5": "0.011026094", "6": "0.19103764"}}

@@ -1,0 +1,1 @@
+{"text": "Bought these for my son who loves anything and everything camo.  Nice lightweight pant. With plenty of pockets for all his little gadgets he likes to carry with him. great for hunting and fishing!", "sentiment": "negative", "topics": {"0": "0.1347352", "1": "0.5141102", "2": "0.18989155", "4": "0.13972165"}}

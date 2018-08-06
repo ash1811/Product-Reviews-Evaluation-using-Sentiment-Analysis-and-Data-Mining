@@ -1,0 +1,1 @@
+{"text": "Use these all of the time for casual wear in sunny California. Will continue to keep them in my wardrobe.", "sentiment": "negative", "topics": {"0": "0.01433236", "1": "0.014339743", "2": "0.014294274", "3": "0.23300567", "4": "0.014350742", "5": "0.6953484", "6": "0.014328775"}}

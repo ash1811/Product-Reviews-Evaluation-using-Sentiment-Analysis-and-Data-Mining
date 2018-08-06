@@ -1,0 +1,1 @@
+{"text": "These too went to my daughter. She is apparently happy with them. There were no complaints when I spoke with her.", "sentiment": "positive", "topics": {"0": "0.66281426", "1": "0.14675045", "2": "0.01594735", "3": "0.01593854", "4": "0.015889587", "5": "0.01589745", "6": "0.1267624"}}

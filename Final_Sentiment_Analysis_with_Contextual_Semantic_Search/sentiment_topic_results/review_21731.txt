@@ -1,0 +1,1 @@
+{"text": "I can't  live without these body shapers now.  I am so glad that I discovered the magic of the Spanx!!!!!", "sentiment": "negative", "topics": {"0": "0.16309105", "1": "0.013052097", "2": "0.013024917", "3": "0.13572843", "4": "0.01302062", "5": "0.21994844", "6": "0.44213447"}}

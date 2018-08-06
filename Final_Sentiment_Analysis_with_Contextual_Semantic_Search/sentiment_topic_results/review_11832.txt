@@ -1,0 +1,1 @@
+{"text": "Good beach shoe.  My kids will not wear for a couple of months, but this was such a good price I got them now.  Seems like it will be comfortable, soft inside no seems to rub on toes.  I like the adjustable collar so they can stay on.", "sentiment": "negative", "topics": {"1": "0.5961916", "2": "0.17858166", "5": "0.06848549", "6": "0.13954082"}}

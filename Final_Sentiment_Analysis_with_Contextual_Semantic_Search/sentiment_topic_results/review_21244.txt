@@ -1,0 +1,1 @@
+{"text": "I use this brand of shoe at work, in various colors.  I always find this is a comfortable yet stable shoe for me.  IT holds up a long time to the cement floors at work.  I have recommended this shoe to others and will purchase again in the future.  Thanks", "sentiment": "negative", "topics": {"1": "0.35393417", "2": "0.2555966", "3": "0.14754902", "4": "0.22639449"}}

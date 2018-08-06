@@ -1,0 +1,1 @@
+{"text": "When I first received my bra it looked a bit small but once - on, it was Perfect!Great shape and support.Very sexy :)I'm extremely happy and plan to order another...", "sentiment": "negative", "topics": {"0": "0.16410382", "1": "0.10497601", "3": "0.5718681", "5": "0.1351379"}}

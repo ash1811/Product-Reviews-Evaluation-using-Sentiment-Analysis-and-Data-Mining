@@ -1,0 +1,1 @@
+{"text": "this was well worth the money.  seems well made and now I don't have to take my watch to the jeweler anymore.  saves me getting ripped of by them to just to change the battery.", "sentiment": "negative", "topics": {"1": "0.6367226", "2": "0.25232136", "4": "0.075145"}}

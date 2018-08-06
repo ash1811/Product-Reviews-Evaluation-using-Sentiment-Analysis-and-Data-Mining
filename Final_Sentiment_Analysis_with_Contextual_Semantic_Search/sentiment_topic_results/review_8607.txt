@@ -1,0 +1,1 @@
+{"text": "Naturalizers are great. These sandals have a strange way of making ugly feet look.... pretty! Love them and can't wait to wear them with  my ruffly wedding gown!!!", "sentiment": "positive", "topics": {"0": "0.37137163", "2": "0.17459543", "3": "0.14873579", "4": "0.16497982", "6": "0.12435761"}}

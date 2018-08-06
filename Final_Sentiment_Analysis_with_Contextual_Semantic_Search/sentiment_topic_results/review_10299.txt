@@ -1,0 +1,1 @@
+{"text": "This was bought for my grandson, which he absolutely loves. It washed nicely and wears great. It's also warm and great for layering especially with the winter we just had.", "sentiment": "positive", "topics": {"1": "0.535431", "2": "0.073351234", "4": "0.27722415", "6": "0.087142736"}}

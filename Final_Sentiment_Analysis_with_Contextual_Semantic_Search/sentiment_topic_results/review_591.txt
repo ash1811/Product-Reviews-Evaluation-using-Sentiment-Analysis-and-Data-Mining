@@ -1,0 +1,1 @@
+{"text": "Perfect no more wear Levis that within a few months.These are thicker and are more resistant to the perfect fit body ideal for daily work", "sentiment": "negative", "topics": {"0": "0.10206944", "1": "0.36090392", "2": "0.09248294", "3": "0.01022976", "4": "0.16646573", "5": "0.0102235135", "6": "0.2576247"}}

@@ -1,0 +1,1 @@
+{"text": "I usually wear a size 9 in Womens adidas running shoes. But these Outrunner shoes were very narrow and too long, so I returned them. They are very stylish and very comfortable, but not the right fit. I love adidas athletic apparel and footwear.", "sentiment": "negative", "topics": {"1": "0.30104056", "2": "0.20459203", "5": "0.31746265", "6": "0.15898198"}}

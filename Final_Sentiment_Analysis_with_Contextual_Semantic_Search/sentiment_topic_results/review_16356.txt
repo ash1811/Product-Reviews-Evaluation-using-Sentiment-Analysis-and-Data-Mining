@@ -1,0 +1,1 @@
+{"text": "These sandals are resistant and comfortable. I bought them a long time ago and the soles are still intact, have only deteriorated a little in the textured footbed on the grip.", "sentiment": "positive", "topics": {"1": "0.3714273", "2": "0.12313367", "3": "0.0899204", "4": "0.110804655", "5": "0.21698806", "6": "0.078778304"}}

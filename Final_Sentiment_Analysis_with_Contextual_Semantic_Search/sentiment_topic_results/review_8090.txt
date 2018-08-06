@@ -1,0 +1,1 @@
+{"text": "Nice daily wear dress shoes.  Nice enough looking, comfortable, well cushioned.  Great value for the price.  I bought two pair (brown and black) happy with both.", "sentiment": "negative", "topics": {"0": "0.06442546", "1": "0.6798059", "2": "0.12109161", "3": "0.11514589"}}

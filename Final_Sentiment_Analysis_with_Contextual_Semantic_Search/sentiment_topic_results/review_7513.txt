@@ -1,0 +1,1 @@
+{"text": "So far so good. Got this jacket for my bf for xmas, it fits well, he says it's comfy & warm & I believe it's durable enough to hold up to him in everyday use so...SCORE!", "sentiment": "negative", "topics": {"1": "0.39153507", "2": "0.17119843", "3": "0.11886323", "4": "0.19953275", "6": "0.103804946"}}

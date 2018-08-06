@@ -1,0 +1,1 @@
+{"text": "Material is terrible. Color is poor.I had to return it.Fit is all wrong, too big and does not have good inbuilt support.Cannot wear many tops due to the high neckJust bad one all around.Moving comfort is the best.", "sentiment": "positive", "topics": {"1": "0.4913199", "2": "0.06837042", "3": "0.107459605", "5": "0.12449906", "6": "0.19582458"}}

@@ -1,0 +1,1 @@
+{"text": "I bought a couple of these shirts for my fianc&eacute;. The California blue and the Birch colors. They are very comfortable and true to color. He can dress them up or just wear them boppin' around town. Material is light weight and easy to wash.", "sentiment": "negative", "topics": {"1": "0.55040276", "4": "0.06698208", "5": "0.24948357", "6": "0.11357326"}}

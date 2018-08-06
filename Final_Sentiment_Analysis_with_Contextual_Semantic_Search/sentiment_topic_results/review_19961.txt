@@ -1,0 +1,1 @@
+{"text": "The backpack is strong and well made. Heavy Duty zippers, padded straps; place for water bottle, and the bright color and pattern are stunning", "sentiment": "positive", "topics": {"1": "0.2533328", "2": "0.47409815", "4": "0.17761983", "6": "0.06968128"}}

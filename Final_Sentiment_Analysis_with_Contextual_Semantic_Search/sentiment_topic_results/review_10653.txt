@@ -1,0 +1,1 @@
+{"text": "if you like small earrings these are cute. I prefer a larger earring and may give to my grandaughter. but cute earrings nothing wrong with them other than personal preference", "sentiment": "negative", "topics": {"0": "0.33383414", "1": "0.19894323", "2": "0.18410681", "3": "0.12882608", "6": "0.13742088"}}

@@ -1,0 +1,1 @@
+{"text": "4 stars only because it makes my girls slightly cone like. Other than that, it is a very supportive bra and comfortable .  I wear a 38DDD and it has been wonderful.  I will likely buy a few more of this style.  Very pleased with this purchase.", "sentiment": "positive", "topics": {"1": "0.36446837", "3": "0.15840288", "4": "0.31822556", "5": "0.13737172"}}

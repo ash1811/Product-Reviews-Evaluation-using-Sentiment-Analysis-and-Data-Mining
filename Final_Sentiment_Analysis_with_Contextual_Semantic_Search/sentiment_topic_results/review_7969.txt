@@ -1,0 +1,1 @@
+{"text": "The Reebok Classics were so cute.  I was delighted to find them for sale on Amazon.  The width was perfect, but the length was a bit short for me, unfortunately.", "sentiment": "negative", "topics": {"0": "0.37304395", "2": "0.101479396", "4": "0.2065478", "5": "0.2902561"}}

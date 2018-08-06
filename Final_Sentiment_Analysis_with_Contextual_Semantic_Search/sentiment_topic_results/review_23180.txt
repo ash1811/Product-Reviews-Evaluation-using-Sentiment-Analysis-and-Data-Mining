@@ -1,0 +1,1 @@
+{"text": "these socks seemed okay at first, but stretch out while wearing them. Maybe I ordered one size too large? Also, do away with that ugly beige color in the 3 pack mixed colors.", "sentiment": "positive", "topics": {"0": "0.07954036", "1": "0.35006174", "2": "0.092854545", "3": "0.24275073", "4": "0.17265208", "5": "0.055632178"}}

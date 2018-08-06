@@ -1,0 +1,1 @@
+{"text": "Lots of fabric in front - too large for me so returned - this bra runs big so maybe get a size smaller than usual", "sentiment": "positive", "topics": {"0": "0.10881401", "1": "0.21890356", "2": "0.010231755", "3": "0.5659116", "4": "0.010223629", "5": "0.075694226", "6": "0.010221238"}}

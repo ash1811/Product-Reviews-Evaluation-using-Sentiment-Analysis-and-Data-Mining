@@ -1,0 +1,1 @@
+{"text": "An excellent watch that keeps very accurate time. Delivered in secure packaging by Amazon.It looks great and would definitely recommend.Presently looking at other models in this series.", "sentiment": "positive", "topics": {"0": "0.1645088", "2": "0.13309164", "3": "0.2691087", "4": "0.2377785", "6": "0.17958227"}}

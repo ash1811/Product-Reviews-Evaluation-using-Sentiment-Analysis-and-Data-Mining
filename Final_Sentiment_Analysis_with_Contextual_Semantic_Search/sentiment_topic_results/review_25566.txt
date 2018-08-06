@@ -1,0 +1,1 @@
+{"text": "These socks fit great and are extremely comfortable.  I sometimes have problems with blisters, but these socks don't bunch up and fit really well thus avoiding blisters.", "sentiment": "negative", "topics": {"0": "0.20896502", "1": "0.30277362", "2": "0.105030335", "4": "0.090328045", "5": "0.27605543"}}

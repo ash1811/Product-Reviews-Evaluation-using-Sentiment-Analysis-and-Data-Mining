@@ -1,0 +1,1 @@
+{"text": "This fleece is loose and too short. It won't stay over your ears and keep you warm. I gave it away and felt bad for the guy I gave it to. Buy the condor instead much much better.", "sentiment": "negative", "topics": {"0": "0.21281767", "1": "0.355962", "2": "0.14083314", "4": "0.20307042", "6": "0.073666394"}}

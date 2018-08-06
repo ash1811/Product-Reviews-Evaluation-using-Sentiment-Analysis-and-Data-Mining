@@ -1,0 +1,1 @@
+{"text": "The fabric is synthetic and the socks are too thick. To use it you need to have a number above the shoes that are used.", "sentiment": "negative", "topics": {"0": "0.014340323", "1": "0.014363711", "2": "0.23252742", "3": "0.014314082", "4": "0.15556726", "5": "0.37519693", "6": "0.19369029"}}

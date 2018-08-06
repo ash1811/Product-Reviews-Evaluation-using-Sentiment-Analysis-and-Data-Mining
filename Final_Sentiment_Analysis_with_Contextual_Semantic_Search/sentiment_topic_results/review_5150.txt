@@ -1,0 +1,1 @@
+{"text": "These are very nice quality and I really like them....however they are a fit loose and too flat soled for me. I had to return them but 5 stars anyway.", "sentiment": "negative", "topics": {"1": "0.49642694", "2": "0.246958", "6": "0.21846856"}}

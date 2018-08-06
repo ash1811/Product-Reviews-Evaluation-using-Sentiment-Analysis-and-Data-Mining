@@ -1,0 +1,1 @@
+{"text": "Great slip-on shoe. I have been wearing these shoes for a couple of years and they are very comfortable. Only shortcoming is the non-replaceable sole, so when the sole wears out you have to buy a new pair (which I have done).", "sentiment": "negative", "topics": {"0": "0.074558005", "1": "0.27941027", "2": "0.19333924", "3": "0.43011564"}}

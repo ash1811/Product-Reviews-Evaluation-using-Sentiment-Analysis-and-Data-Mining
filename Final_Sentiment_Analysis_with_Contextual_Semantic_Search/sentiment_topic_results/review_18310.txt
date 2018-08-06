@@ -1,0 +1,1 @@
+{"text": "These are so nice and easy to put on, after you put the first one on the rest get even easier.", "sentiment": "negative", "topics": {"0": "0.33477378", "1": "0.15255882", "2": "0.011940073", "3": "0.011958673", "4": "0.46484646", "5": "0.011955591", "6": "0.011966574"}}

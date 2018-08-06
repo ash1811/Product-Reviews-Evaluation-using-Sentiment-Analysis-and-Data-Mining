@@ -1,0 +1,1 @@
+{"text": "Glad to be able to get this same bra based upon the style number, and have a few others.  Comfortable and reliable.", "sentiment": "negative", "topics": {"0": "0.118974514", "1": "0.12545498", "2": "0.09369064", "3": "0.29755542", "4": "0.34047857", "5": "0.011929952", "6": "0.0119159445"}}

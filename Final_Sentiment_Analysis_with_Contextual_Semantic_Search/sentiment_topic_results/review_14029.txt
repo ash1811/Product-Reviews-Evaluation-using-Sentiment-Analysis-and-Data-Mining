@@ -1,0 +1,1 @@
+{"text": "I am very happy with my recent purchase of the citizen men's bm8242-08e 'eco-drive' gold-tone stainless steel and leather watch. the styling is great for dress or casual wear.", "sentiment": "negative", "topics": {"0": "0.2425917", "1": "0.24872679", "2": "0.13700923", "3": "0.3477635"}}

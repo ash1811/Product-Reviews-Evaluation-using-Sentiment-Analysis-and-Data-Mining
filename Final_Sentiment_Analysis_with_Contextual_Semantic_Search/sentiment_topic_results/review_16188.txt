@@ -1,0 +1,1 @@
+{"text": "worth it's weight in SILVER! The best polishing cloth for my silver jewelry ever and you could not find it more reasonably priced!", "sentiment": "negative", "topics": {"0": "0.010242469", "1": "0.487808", "2": "0.10947465", "3": "0.01024147", "4": "0.36173573", "5": "0.010260758", "6": "0.010236969"}}

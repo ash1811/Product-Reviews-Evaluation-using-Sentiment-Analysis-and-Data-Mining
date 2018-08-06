@@ -1,0 +1,1 @@
+{"text": "It fits a little to big  also the top of skirt rolls up does not stay flat and I don't have a tummy, other then that  just love the skirt. looks like the picture you can wear it with flip flops are boots", "sentiment": "negative", "topics": {"1": "0.4383793", "2": "0.06784271", "3": "0.18289712", "4": "0.2893681"}}

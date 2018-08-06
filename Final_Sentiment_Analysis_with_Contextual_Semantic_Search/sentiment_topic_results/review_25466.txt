@@ -1,0 +1,1 @@
+{"text": "I remarried a few years ago and thought I'd get this to spice things up a bit.  Not for my body type.  May be good for folks 40 and under.", "sentiment": "positive", "topics": {"1": "0.3033162", "3": "0.37392858", "6": "0.28905916"}}

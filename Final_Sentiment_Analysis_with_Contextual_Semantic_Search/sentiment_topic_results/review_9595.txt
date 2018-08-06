@@ -1,0 +1,1 @@
+{"text": "My 90 year old mother loves it.  It's not fancy and a little too big for her but at least she can see the numbers--that is what I was aiming for.", "sentiment": "positive", "topics": {"1": "0.19829689", "3": "0.29579103", "4": "0.31131467", "5": "0.08671528", "6": "0.08878059"}}

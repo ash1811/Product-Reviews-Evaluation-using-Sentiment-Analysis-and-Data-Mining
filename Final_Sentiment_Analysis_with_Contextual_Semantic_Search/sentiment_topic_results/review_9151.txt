@@ -1,0 +1,1 @@
+{"text": "Super cozy with solid bottom for walking outside if needed.  Ordered 1 size larger than normal shoe size for comfort fit.", "sentiment": "positive", "topics": {"0": "0.17529629", "1": "0.23547834", "2": "0.08751694", "4": "0.08285926", "5": "0.16539657", "6": "0.24500881"}}

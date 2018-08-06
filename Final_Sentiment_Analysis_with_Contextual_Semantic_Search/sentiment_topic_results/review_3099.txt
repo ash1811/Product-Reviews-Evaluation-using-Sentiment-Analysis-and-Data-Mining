@@ -1,0 +1,1 @@
+{"text": "I ordered this for my wife because she needed something without the under-wire. I still think its attractive, and she loves the way it fits and feels.", "sentiment": "positive", "topics": {"0": "0.010233795", "1": "0.5717172", "2": "0.010214564", "3": "0.010248048", "4": "0.010276176", "5": "0.010225159", "6": "0.377085"}}

@@ -1,0 +1,1 @@
+{"text": "Perfect fit, true to size, very comfortable and good for hiking. Also do not sweat too much work perfectly with my hiking shoes.", "sentiment": "negative", "topics": {"0": "0.16428755", "1": "0.46300417", "2": "0.08383105", "3": "0.10517407", "4": "0.16461177"}}

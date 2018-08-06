@@ -1,0 +1,1 @@
+{"text": "Purchased this for my 22 yr old son that typically rides his bike back and forth to work (lives in Denver) and he REALLY likes it.  Holds a lot - convenient - sturdy and it was a great price.", "sentiment": "positive", "topics": {"0": "0.17667465", "1": "0.5402773", "3": "0.068318635", "4": "0.038715336", "6": "0.16350839"}}

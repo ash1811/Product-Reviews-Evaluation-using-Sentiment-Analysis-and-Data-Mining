@@ -1,0 +1,1 @@
+{"text": "So far I have ordered bdu pants from two companies, and both are impressive.  at first the price can be intimidating but they are well worth the price, extremely durable.", "sentiment": "negative", "topics": {"0": "0.12481486", "1": "0.42386734", "5": "0.41549987"}}

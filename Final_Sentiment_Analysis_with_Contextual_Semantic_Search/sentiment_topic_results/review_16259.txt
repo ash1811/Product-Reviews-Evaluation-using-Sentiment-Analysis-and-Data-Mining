@@ -1,0 +1,1 @@
+{"text": "I'm a C width. Wanted something with some level of support/arch and not too wide.This provided neither. Returned and went back to LLBean.", "sentiment": "negative", "topics": {"0": "0.09624107", "1": "0.3756312", "3": "0.2978466", "4": "0.20165242"}}

@@ -1,0 +1,1 @@
+{"text": "Ordered these clog slippers for a hospital stay and I'm so glad I did.  No slipping and so-o-o comfortable.  I highly recommend these slippers to any women who wants a comfortable, easy care clog clipper", "sentiment": "negative", "topics": {"0": "0.06990288", "1": "0.47790214", "4": "0.10273366", "5": "0.06652663", "6": "0.2699239"}}

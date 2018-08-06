@@ -1,0 +1,1 @@
+{"text": "nice quality but did not stay up keeps sliding down kind of annoying, just sitting in my closet, consider that", "sentiment": "negative", "topics": {"0": "0.23480414", "1": "0.42331678", "2": "0.17426069", "3": "0.013060058", "4": "0.013060173", "5": "0.1284951", "6": "0.013003073"}}

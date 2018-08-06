@@ -1,0 +1,1 @@
+{"text": "Gave these boxers shots as a gift and the person was very happy!Will order more for Christmas,  they get 100%", "sentiment": "positive", "topics": {"0": "0.26546097", "1": "0.013015235", "2": "0.12899995", "3": "0.01301467", "4": "0.013042504", "5": "0.3946521", "6": "0.17181455"}}

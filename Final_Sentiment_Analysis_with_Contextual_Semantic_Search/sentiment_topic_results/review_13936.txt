@@ -1,0 +1,1 @@
+{"text": "Shrunk like crazy... still looks okay but I was not expecting such a dramatic change in the length. Take caution.", "sentiment": "negative", "topics": {"0": "0.011024557", "1": "0.35202208", "2": "0.12687644", "3": "0.01103043", "4": "0.25851458", "5": "0.011119683", "6": "0.22941221"}}

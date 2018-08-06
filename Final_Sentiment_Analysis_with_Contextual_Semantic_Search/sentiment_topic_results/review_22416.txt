@@ -1,0 +1,1 @@
+{"text": "Nice but it came really smelly.I still wore it, but had to put a lot of deodorant spray on it.", "sentiment": "negative", "topics": {"0": "0.38673788", "1": "0.011056947", "2": "0.011015171", "3": "0.32931963", "4": "0.011006789", "5": "0.23985443", "6": "0.011009122"}}

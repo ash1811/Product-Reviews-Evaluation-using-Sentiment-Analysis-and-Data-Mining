@@ -1,0 +1,1 @@
+{"text": "My wife is pretty damned picky, but she sure as hell LOVED these socks I bought her...Because she walks around the house in SOX, I thought I'd take a risk.Like I said, she loves 'em! I bought some of the OTHER colors, too!", "sentiment": "positive", "topics": {"0": "0.18488558", "1": "0.48343316", "2": "0.11910989", "3": "0.115280025", "4": "0.085780285"}}

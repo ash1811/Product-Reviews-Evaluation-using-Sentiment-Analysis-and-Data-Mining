@@ -1,0 +1,1 @@
+{"text": "Bought this for my dad for his birthday.  He likes that it has large numbers he can see easily, along with having the day and date.  It is a simple straight forward watch.", "sentiment": "negative", "topics": {"1": "0.50035805", "2": "0.21991915", "4": "0.07210553", "6": "0.18075629"}}

@@ -1,0 +1,1 @@
+{"text": "Cut just a little small, but really cute and somewhat comfortable.  Beautiful color.  I would buy these again, but the next size up.", "sentiment": "negative", "topics": {"1": "0.37688822", "2": "0.16438544", "3": "0.22805302", "5": "0.20375168"}}

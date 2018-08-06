@@ -1,0 +1,1 @@
+{"text": "These bikinis are comfortable and attractive.  The best of both worlds for me.  I'll definitely be ordering more in the future.", "sentiment": "negative", "topics": {"0": "0.013021887", "1": "0.29763377", "2": "0.09808553", "3": "0.23164235", "4": "0.21511665", "5": "0.013023415", "6": "0.13147643"}}

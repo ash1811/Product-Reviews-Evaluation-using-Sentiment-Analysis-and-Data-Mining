@@ -1,0 +1,1 @@
+{"text": "This is a very good product.  My face and neck stay warm in the coldest weather.  It's soft and light weight.  I've been using it every day.", "sentiment": "positive", "topics": {"0": "0.11966209", "1": "0.58391273", "3": "0.10331822", "5": "0.16624495"}}

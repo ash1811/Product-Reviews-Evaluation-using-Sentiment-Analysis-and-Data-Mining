@@ -1,0 +1,1 @@
+{"text": "Suitable for a formal party or casual, and depends on how you want to look, in any case my wife is very happy with this watch.", "sentiment": "negative", "topics": {"0": "0.5543559", "1": "0.011935302", "2": "0.16065072", "3": "0.23727418", "4": "0.01192658", "5": "0.011930603", "6": "0.011926681"}}

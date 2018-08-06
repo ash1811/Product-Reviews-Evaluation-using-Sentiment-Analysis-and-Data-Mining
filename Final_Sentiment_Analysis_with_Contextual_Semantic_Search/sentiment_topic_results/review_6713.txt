@@ -1,0 +1,1 @@
+{"text": "....for niece and she loved it . Would highly recommend this for others to get for girls 6 and under.Came in as described and quickly.", "sentiment": "negative", "topics": {"0": "0.14362654", "1": "0.4157427", "2": "0.19872513", "3": "0.010237642", "4": "0.010225645", "5": "0.1274927", "6": "0.09394967"}}

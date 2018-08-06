@@ -1,0 +1,1 @@
+{"text": "I like this T-shirt because it is light weight for the summer months. It seems to run a little small compared to my other &#34;large&#34; T-shirts.", "sentiment": "positive", "topics": {"0": "0.26813796", "1": "0.4731061", "2": "0.010252068", "3": "0.21780089", "4": "0.010220689", "5": "0.010234394", "6": "0.010247921"}}

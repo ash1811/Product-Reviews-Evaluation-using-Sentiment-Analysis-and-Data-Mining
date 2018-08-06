@@ -1,0 +1,1 @@
+{"text": "Perfect to hide belly fat.Dont let someone touch you near the abdomen or they will find out you wearin something.. Awkwarddd.", "sentiment": "negative", "topics": {"0": "0.38808972", "1": "0.41133153", "2": "0.0102221565", "3": "0.010229916", "4": "0.010229513", "5": "0.010215087", "6": "0.1596821"}}

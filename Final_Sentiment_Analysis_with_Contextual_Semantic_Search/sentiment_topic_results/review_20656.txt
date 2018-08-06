@@ -1,0 +1,1 @@
+{"text": "Wonderful every day shirt. Quality is good for price, fit is very flattering. Liked it so much I purchased in 2 colors!", "sentiment": "negative", "topics": {"0": "0.16600077", "1": "0.786217"}}

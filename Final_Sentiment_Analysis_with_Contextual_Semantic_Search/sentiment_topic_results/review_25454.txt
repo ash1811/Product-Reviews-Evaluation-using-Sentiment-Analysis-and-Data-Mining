@@ -1,0 +1,1 @@
+{"text": "My son picked this slipper out for one of his Christmas gifts.  He loves them and I see him wearing them all the time when visiting his home - especially during our &#34;polar vortex&#34; Michigan winter!", "sentiment": "negative", "topics": {"0": "0.10858601", "1": "0.20910913", "2": "0.21636525", "4": "0.15905476", "5": "0.20205966", "6": "0.09688035"}}

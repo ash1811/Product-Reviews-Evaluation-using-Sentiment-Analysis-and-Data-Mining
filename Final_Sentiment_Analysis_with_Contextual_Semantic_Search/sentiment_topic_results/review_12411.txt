@@ -1,0 +1,1 @@
+{"text": "My sons-in laws both wear these and theirs have worn out so I gave them a new pair and it was a good usable gift!", "sentiment": "negative", "topics": {"0": "0.3390465", "1": "0.013038485", "2": "0.10779445", "3": "0.39265263", "4": "0.013029173", "5": "0.013037229", "6": "0.12140146"}}

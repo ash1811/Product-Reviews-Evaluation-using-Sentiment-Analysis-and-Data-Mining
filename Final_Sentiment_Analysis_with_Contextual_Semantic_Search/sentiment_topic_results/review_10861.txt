@@ -1,0 +1,1 @@
+{"text": "so comfortable!I wear it every day around the house, sometimes outside getting the mail. i machine wash it on dedicates, cold water and it comes out ok. air dry it. a bit on the large side but really no complains.", "sentiment": "negative", "topics": {"1": "0.30906814", "2": "0.09678532", "5": "0.37436122", "6": "0.2032403"}}

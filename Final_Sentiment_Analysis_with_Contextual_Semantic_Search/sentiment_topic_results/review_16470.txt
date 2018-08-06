@@ -1,0 +1,1 @@
+{"text": "my favorite sunglasses, they look great and more expensive than they are. only bought 2x bc I lost other pair", "sentiment": "negative", "topics": {"0": "0.011924327", "1": "0.64185065", "2": "0.17360133", "3": "0.011930666", "4": "0.13675399", "5": "0.011940346", "6": "0.011998665"}}

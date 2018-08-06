@@ -1,0 +1,1 @@
+{"text": "Part of a trio gift for a family member. Shorts are not too short or too tight/loose. The fit great and seem to serve their purpose out well!", "sentiment": "negative", "topics": {"0": "0.30869225", "1": "0.20405936", "2": "0.18379205", "3": "0.1230602", "6": "0.16128868"}}

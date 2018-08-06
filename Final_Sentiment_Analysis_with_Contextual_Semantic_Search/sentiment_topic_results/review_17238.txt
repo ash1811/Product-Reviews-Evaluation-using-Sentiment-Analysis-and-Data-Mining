@@ -1,0 +1,1 @@
+{"text": "Minnetonka fits very well.  It is good product.  I did have one pair before, but size was small.this time I have ordered one size larger, fits OKAY", "sentiment": "positive", "topics": {"1": "0.4445299", "2": "0.19048344", "3": "0.16882497", "5": "0.17224735"}}

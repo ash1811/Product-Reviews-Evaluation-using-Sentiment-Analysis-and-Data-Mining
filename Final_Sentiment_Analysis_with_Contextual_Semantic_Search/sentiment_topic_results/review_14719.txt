@@ -1,0 +1,1 @@
+{"text": "This wallet is nicely arranged, and it looks like good leather. It is a bit thick, but I'm OK with that.", "sentiment": "negative", "topics": {"0": "0.011019577", "1": "0.60748404", "2": "0.15255593", "3": "0.011029261", "4": "0.1958508", "5": "0.011019647", "6": "0.011040748"}}

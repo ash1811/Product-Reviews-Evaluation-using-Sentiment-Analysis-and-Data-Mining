@@ -1,0 +1,1 @@
+{"text": "Niiiiiiiiiiiiiiiice, it works fine. The only thing is that one is that not all watches fit laying down but you can take link out sideways also.", "sentiment": "negative", "topics": {"0": "0.010996963", "1": "0.40706873", "2": "0.44968632", "3": "0.011000576", "4": "0.09922443", "5": "0.011020298", "6": "0.011002662"}}

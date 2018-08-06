@@ -1,0 +1,1 @@
+{"text": "I got medium because I have chubby hands but it was way too big.  A small would have been to tight so I do not use these.  Gave them to my neice.", "sentiment": "positive", "topics": {"0": "0.010282997", "1": "0.4364541", "2": "0.010236601", "3": "0.010265777", "4": "0.32335722", "5": "0.010236782", "6": "0.19916655"}}

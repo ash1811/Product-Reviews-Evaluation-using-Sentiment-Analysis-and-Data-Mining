@@ -1,0 +1,1 @@
+{"text": "I've been having trouble finding a bra that fits me properly.  I did order two different sizes in one order, so that I would be able to know which one fit better.  Glad I did.  NIce bra at a decent price.", "sentiment": "negative", "topics": {"0": "0.1260101", "1": "0.23273979", "3": "0.38860622", "4": "0.12214052", "5": "0.119024694"}}

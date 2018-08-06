@@ -1,0 +1,1 @@
+{"text": "Excellent fit. Gives you a feminine fit with room to maneuver. The length is good for someone who is short like me. I am 5'0&#34;", "sentiment": "positive", "topics": {"0": "0.11899105", "1": "0.44599417", "2": "0.17168842", "6": "0.23470981"}}

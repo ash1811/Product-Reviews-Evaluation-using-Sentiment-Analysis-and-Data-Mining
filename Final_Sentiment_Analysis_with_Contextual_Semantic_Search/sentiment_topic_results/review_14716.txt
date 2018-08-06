@@ -1,0 +1,1 @@
+{"text": "I prefer Trifold wallet my self.  This is good quality and is thin yet holds 15 bills.", "sentiment": "negative", "topics": {"0": "0.12926437", "1": "0.29882213", "2": "0.13046704", "3": "0.17582375", "4": "0.01193361", "5": "0.14433634", "6": "0.10935278"}}

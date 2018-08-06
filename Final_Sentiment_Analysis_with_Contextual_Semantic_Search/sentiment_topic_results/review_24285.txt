@@ -1,0 +1,1 @@
+{"text": "These trouser socks are very comfortable and don't slouch throughout the day - they stay in place!  A good buy!", "sentiment": "negative", "topics": {"0": "0.013023842", "1": "0.4830387", "2": "0.012997878", "3": "0.013003659", "4": "0.013112561", "5": "0.45182848", "6": "0.012994912"}}

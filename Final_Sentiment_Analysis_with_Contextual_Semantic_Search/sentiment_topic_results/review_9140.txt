@@ -1,0 +1,1 @@
+{"text": "I ordered these for my husband and went by reviews who said they ran 1-2 sizes too small so I ordered a size larger. Very nice slippers only I found them true to size so returning them and ordering the size I should have ordered.", "sentiment": "negative", "topics": {"0": "0.108871676", "3": "0.65517193", "4": "0.1469954", "6": "0.06935125"}}

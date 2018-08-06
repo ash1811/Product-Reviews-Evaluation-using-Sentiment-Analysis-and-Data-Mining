@@ -1,0 +1,1 @@
+{"text": "Sized at 2xl it fits like a regular extra large. Didn't like, won't buy again.", "sentiment": "negative", "topics": {"0": "0.012992095", "1": "0.2777405", "2": "0.013007962", "3": "0.013071743", "4": "0.013034538", "5": "0.2589901", "6": "0.41116297"}}

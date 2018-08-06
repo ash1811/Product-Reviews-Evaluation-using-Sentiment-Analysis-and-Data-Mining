@@ -1,0 +1,1 @@
+{"text": "my husband says this slipper was not worth the cost.  It is holding up fine but comfort wise its not the most comfortable slippers with those pointed grids.Pick another slipper!!!", "sentiment": "positive", "topics": {"0": "0.08951937", "1": "0.14168856", "4": "0.21497379", "6": "0.5268078"}}

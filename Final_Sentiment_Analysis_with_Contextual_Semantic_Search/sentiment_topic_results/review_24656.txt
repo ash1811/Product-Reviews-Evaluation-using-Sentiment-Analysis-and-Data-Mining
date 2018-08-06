@@ -1,0 +1,1 @@
+{"text": "This model lasted for about a year. They don't make the one's I had before, so I figured I'd give this model a try but they busted on me. I wasn't running in a track meet or anything, just house sandals.", "sentiment": "negative", "topics": {"2": "0.35826385", "3": "0.42496964", "5": "0.06682298", "6": "0.1284267"}}

@@ -1,0 +1,1 @@
+{"text": "This bra works extremely well without wire-support  and underwire bras.Comfortable and has a soft lining, the straps don't cut into my shoulders.", "sentiment": "negative", "topics": {"0": "0.15057538", "1": "0.31744537", "2": "0.109720774", "3": "0.2076641", "4": "0.1187138", "5": "0.010225509", "6": "0.08565508"}}

@@ -1,0 +1,1 @@
+{"text": "Only complaint I have about this is that the stays on the sides stick out a bit. Other than that, it's comfortable and cute and fits well.", "sentiment": "negative", "topics": {"0": "0.013051105", "1": "0.6954993", "2": "0.013009483", "3": "0.0130718835", "4": "0.14082637", "5": "0.013108597", "6": "0.11143327"}}

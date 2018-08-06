@@ -1,0 +1,1 @@
+{"text": "My wife loved this pendant and being able to add or remove stones makes it very personal and unique to each mother and her children.", "sentiment": "negative", "topics": {"0": "0.011044312", "1": "0.26091272", "2": "0.21885337", "3": "0.3701828", "4": "0.011034024", "5": "0.11695763", "6": "0.0110150995"}}

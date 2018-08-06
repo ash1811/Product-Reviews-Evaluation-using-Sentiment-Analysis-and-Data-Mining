@@ -1,0 +1,1 @@
+{"text": "These are the most comfortable tights ever. They're soft, silky and I haven't fussed with them once. I've made these the new standard. :)", "sentiment": "negative", "topics": {"0": "0.011019077", "1": "0.2961783", "2": "0.011010901", "3": "0.3614859", "4": "0.011039009", "5": "0.21677245", "6": "0.09249435"}}

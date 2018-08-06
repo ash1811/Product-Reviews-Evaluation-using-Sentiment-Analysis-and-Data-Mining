@@ -1,0 +1,1 @@
+{"text": "I can't believe people are allowed to market things like this! It's poorly made, way too small and the quality of the material was horrible!", "sentiment": "negative", "topics": {"1": "0.4009097", "2": "0.33690715", "4": "0.1213383", "5": "0.11397831"}}

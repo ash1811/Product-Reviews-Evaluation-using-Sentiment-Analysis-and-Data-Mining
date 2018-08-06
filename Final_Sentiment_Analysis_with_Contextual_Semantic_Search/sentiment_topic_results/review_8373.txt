@@ -1,0 +1,1 @@
+{"text": "These are pretty cute, however I feel they are not true to size. I normally wear a 9 but these were very, very snug. I returned them right away and will order the next size up.", "sentiment": "negative", "topics": {"0": "0.14753468", "2": "0.21061935", "3": "0.34467688", "6": "0.27454346"}}

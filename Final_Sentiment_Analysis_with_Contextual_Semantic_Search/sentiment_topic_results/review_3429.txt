@@ -1,0 +1,1 @@
+{"text": "Playtex is an excellent brand to consider when purchasing a bra.  The fit is great as well as comfortable and breathable.", "sentiment": "negative", "topics": {"0": "0.011919993", "1": "0.45218992", "2": "0.099689834", "3": "0.40035018", "4": "0.011908215", "5": "0.011919656", "6": "0.012022205"}}

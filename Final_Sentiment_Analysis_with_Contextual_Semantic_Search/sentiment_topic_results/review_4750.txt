@@ -1,0 +1,1 @@
+{"text": "This is a good quality hood. I use it for running around and laying in the house. It has stood up well. As a basic this is one of those needed things in a wardrobe.", "sentiment": "negative", "topics": {"1": "0.3250723", "2": "0.1701425", "3": "0.16201223", "5": "0.18541619", "6": "0.13943262"}}

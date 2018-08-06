@@ -1,0 +1,1 @@
+{"text": "This is Great goes good with my Blue  Turquoise Jewelry my ear rings my watch band my necklaces , I get a lot of complements  they want to know wear I got it so I send them the sight , Thank You", "sentiment": "positive", "topics": {"0": "0.19343528", "1": "0.3026654", "2": "0.14302482", "4": "0.07500697", "6": "0.2728029"}}

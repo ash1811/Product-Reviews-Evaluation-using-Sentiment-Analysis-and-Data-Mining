@@ -1,0 +1,1 @@
+{"text": "The shorts are really of poor quality and small. I didn't like them at all. Something should be done by manufacturer to improve quality of product", "sentiment": "positive", "topics": {"0": "0.17293607", "1": "0.37759906", "2": "0.13471307", "3": "0.12905023", "4": "0.070091896", "5": "0.105375", "6": "0.010234663"}}

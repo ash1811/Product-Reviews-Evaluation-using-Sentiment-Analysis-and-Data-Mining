@@ -1,0 +1,1 @@
+{"text": "it is of very good quality, very smooth fabric and it is shiny as displayed in the picture. Fits very well.", "sentiment": "negative", "topics": {"0": "0.014363651", "1": "0.6234379", "2": "0.014295468", "3": "0.014303741", "4": "0.122710094", "5": "0.09658249", "6": "0.11430669"}}

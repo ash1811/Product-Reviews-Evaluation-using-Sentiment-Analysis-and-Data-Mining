@@ -1,0 +1,1 @@
+{"text": "Ordered and returned, these run REALLY narrow.  The size was 8 WW and it was like a medium. Try again", "sentiment": "positive", "topics": {"0": "0.011922925", "1": "0.32632074", "2": "0.01192952", "3": "0.4768133", "4": "0.011912876", "5": "0.14914782", "6": "0.011952831"}}

@@ -1,0 +1,1 @@
+{"text": "Ordered these for my husband and he loved them.  They wash and dry and don't shrink or fade.  Champion is a great brand.Champion 6.1 oz Cotton Tagless T-shirt with \"C\" Logo in Black - XX-Large", "sentiment": "negative", "topics": {"1": "0.4396581", "3": "0.25169092", "4": "0.1751417", "5": "0.049499284", "6": "0.07036684"}}

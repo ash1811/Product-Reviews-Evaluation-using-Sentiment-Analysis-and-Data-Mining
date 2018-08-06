@@ -1,0 +1,1 @@
+{"text": "The watch is much smaller than I expected it to be.  I like the full face with numbers and second hand, which is why I ordered it.  The price was another factor for me, and although it's smaller than I wanted, it is still a quality watch.", "sentiment": "negative", "topics": {"0": "0.06604696", "1": "0.4771159", "2": "0.27811086", "3": "0.16083232"}}

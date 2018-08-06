@@ -1,0 +1,1 @@
+{"text": "I usally wear and 8 1/2 and based on other reviews I picked the size down (an 8) instead of the size up. Big mistake! The eight is tiny, fits more like a 7. So I'm out the shipping fee to return these and I bought two pair, :-{", "sentiment": "negative", "topics": {"1": "0.31135392", "2": "0.038986087", "3": "0.23968314", "4": "0.25479057", "6": "0.14494304"}}

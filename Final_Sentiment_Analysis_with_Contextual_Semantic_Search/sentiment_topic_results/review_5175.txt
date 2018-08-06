@@ -1,0 +1,1 @@
+{"text": "I was a little disapppointed in the belt because it wa not a government issued  belt but instead it's &#34;style&#34;. The cost was low and I can find a use for it.", "sentiment": "negative", "topics": {"0": "0.29163873", "1": "0.14134835", "2": "0.24064142", "3": "0.19375941", "5": "0.11351505"}}

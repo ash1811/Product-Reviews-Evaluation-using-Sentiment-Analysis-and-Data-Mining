@@ -1,0 +1,1 @@
+{"text": "Bought these to replace flipflops that broke.  My foot runs medium to slightly wide (B/C width), and I'd seen reviews saying they were tight.  However, they fit perfectly, and are really comfortable for my foot.", "sentiment": "negative", "topics": {"0": "0.03191263", "1": "0.45672885", "2": "0.13137506", "3": "0.07690741", "4": "0.18832248", "5": "0.108530715"}}

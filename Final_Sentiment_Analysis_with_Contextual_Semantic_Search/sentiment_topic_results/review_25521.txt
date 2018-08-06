@@ -1,0 +1,1 @@
+{"text": "Oh, lovely.  Here you are at a summer party with every guy staring at your chest, and one of the slippery silicones falls out of your shirt.", "sentiment": "negative", "topics": {"0": "0.2802587", "1": "0.11917794", "2": "0.01024798", "3": "0.31823826", "4": "0.25162312", "5": "0.010232876", "6": "0.010221143"}}

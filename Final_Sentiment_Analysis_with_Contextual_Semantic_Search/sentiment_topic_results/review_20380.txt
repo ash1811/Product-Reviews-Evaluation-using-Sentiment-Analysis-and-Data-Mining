@@ -1,0 +1,1 @@
+{"text": "tiny band..i do not recommend for dose with big wrists..u can get it if u hve a tiny wrist...its nyc though..", "sentiment": "negative", "topics": {"0": "0.09167252", "1": "0.17550369", "2": "0.37615773", "3": "0.010214853", "4": "0.24677503", "5": "0.0102142105", "6": "0.089461975"}}

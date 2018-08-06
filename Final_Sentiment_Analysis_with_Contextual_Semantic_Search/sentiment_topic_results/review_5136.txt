@@ -1,0 +1,1 @@
+{"text": "They feel very well made and they fit well.  Loose but not baggy.  Have worn thermals underneath and they don't feel tight.  I pick up the black in 36x32.  I am now looking to pick up another pair in the brown.  Highly recommend.", "sentiment": "positive", "topics": {"0": "0.06738921", "1": "0.4999004", "3": "0.12131486", "4": "0.1966576", "6": "0.102257326"}}

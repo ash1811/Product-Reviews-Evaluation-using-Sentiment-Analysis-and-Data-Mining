@@ -1,0 +1,1 @@
+{"text": "its not that great and the title is so offensive. They look like old lady medical underwear. really weak to be honest. They dont work any better than any tight underwear..maybe worse.", "sentiment": "positive", "topics": {"1": "0.29153842", "2": "0.4178231", "4": "0.2604593"}}

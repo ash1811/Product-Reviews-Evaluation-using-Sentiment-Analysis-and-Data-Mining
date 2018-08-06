@@ -1,0 +1,1 @@
+{"text": "The work fine for me and have had no problems with them. I use a pair everyday and they do the job. Stonge and dependable", "sentiment": "negative", "topics": {"0": "0.1244495", "1": "0.15441109", "2": "0.17929201", "3": "0.20073698", "4": "0.3151134", "5": "0.013001593", "6": "0.012995372"}}

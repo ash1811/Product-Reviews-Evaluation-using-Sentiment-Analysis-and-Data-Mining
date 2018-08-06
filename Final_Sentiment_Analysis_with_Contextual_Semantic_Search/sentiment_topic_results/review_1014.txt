@@ -1,0 +1,1 @@
+{"text": "Even ordered some of these for my mother in law and she loved them too.  I think they are a little over priced but the quality is good.", "sentiment": "negative", "topics": {"0": "0.27514058", "1": "0.66521883", "2": "0.01193839", "3": "0.011942302", "4": "0.011920726", "5": "0.0119291935", "6": "0.011910033"}}

@@ -1,0 +1,1 @@
+{"text": "These do not stretch despite the description.  They also look incredibly cheap.  Not at all impressed.  Went back as soon as I got them.", "sentiment": "negative", "topics": {"0": "0.5443331", "1": "0.010244541", "2": "0.28323728", "3": "0.010252955", "4": "0.13140377", "5": "0.010245885", "6": "0.010282441"}}

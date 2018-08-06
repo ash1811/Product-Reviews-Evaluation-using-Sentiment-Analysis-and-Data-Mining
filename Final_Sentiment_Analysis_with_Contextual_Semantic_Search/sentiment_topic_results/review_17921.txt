@@ -1,0 +1,1 @@
+{"text": "An inexpensive watch that keeps perfect time and looks great. I only like analog watches, and this is a great looking watch. The band is very comfortable too.", "sentiment": "negative", "topics": {"0": "0.20736988", "1": "0.33110452", "2": "0.28514743", "3": "0.15108964"}}

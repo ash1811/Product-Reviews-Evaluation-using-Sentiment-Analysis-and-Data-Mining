@@ -1,0 +1,1 @@
+{"text": "the best, soft and confortable sneakers you ever can wear. Though I wish the lower the price. Nice shape too.", "sentiment": "positive", "topics": {"0": "0.23766024", "1": "0.28521016", "2": "0.16240974", "3": "0.2839741", "4": "0.01027128", "5": "0.010260714", "6": "0.0102137625"}}

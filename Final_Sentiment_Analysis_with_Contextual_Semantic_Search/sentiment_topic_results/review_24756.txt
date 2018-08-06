@@ -1,0 +1,1 @@
+{"text": "These shorts have a good feel to them making them comfortable to wear.  Also, they have reasonable sized pockets which some of the exercise short don't have.", "sentiment": "negative", "topics": {"0": "0.2927467", "1": "0.21250574", "2": "0.010223055", "3": "0.22319807", "4": "0.09826083", "5": "0.010222224", "6": "0.15284337"}}

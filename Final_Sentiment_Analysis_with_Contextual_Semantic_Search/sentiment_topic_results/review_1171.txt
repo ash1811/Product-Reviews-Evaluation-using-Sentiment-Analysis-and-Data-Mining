@@ -1,0 +1,1 @@
+{"text": "These a too cute and so comfortable! Perfect for dressing up or casual!They go with every outfit!  I also like the length.", "sentiment": "negative", "topics": {"0": "0.5393392", "1": "0.17993627", "2": "0.011926908", "3": "0.01193444", "4": "0.23295158", "5": "0.011956777", "6": "0.01195484"}}

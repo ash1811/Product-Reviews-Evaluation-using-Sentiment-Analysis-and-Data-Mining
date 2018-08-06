@@ -1,0 +1,1 @@
+{"text": "well sized for a large man like me. the colors have not faded and I get compliments each time I wear it", "sentiment": "positive", "topics": {"0": "0.0110369325", "1": "0.48966232", "2": "0.21658786", "3": "0.24959685", "4": "0.011035369", "5": "0.0110467505", "6": "0.011033948"}}

@@ -1,0 +1,1 @@
+{"text": "I am very pleased with this shoulder tote, especially because it has a zipper and is waterproof.  I have a Home Health Care business and have given it to my nurses for safely carrying their equipment.", "sentiment": "negative", "topics": {"0": "0.28626862", "2": "0.16649315", "3": "0.1105755", "5": "0.18083009", "6": "0.23785494"}}

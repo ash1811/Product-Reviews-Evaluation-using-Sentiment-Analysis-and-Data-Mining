@@ -1,0 +1,1 @@
+{"text": "Husband is so picky with his jeans and once he finds the ones he likes, I make sure he has plenty of them.", "sentiment": "positive", "topics": {"0": "0.013019628", "1": "0.013132125", "2": "0.5219627", "3": "0.18261172", "4": "0.243195", "5": "0.013051779", "6": "0.0130271055"}}

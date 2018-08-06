@@ -1,0 +1,1 @@
+{"text": "The price was right and what I look for is cotton and full coverage underwear.  I abhor lowcut pants and underpants.  I do not want my stomach accentuated.", "sentiment": "positive", "topics": {"0": "0.12867361", "1": "0.13101228", "2": "0.102149755", "3": "0.35604516", "4": "0.19330825", "5": "0.07927478"}}

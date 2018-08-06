@@ -1,0 +1,1 @@
+{"text": "Unfortunately these were much too small, even though I got the biggest size. I usually wear a 2x clothes, and the 5-6x didn't fit so that pretty much explains how small they run.", "sentiment": "negative", "topics": {"0": "0.13010766", "1": "0.20220661", "3": "0.5304635", "5": "0.11574255"}}

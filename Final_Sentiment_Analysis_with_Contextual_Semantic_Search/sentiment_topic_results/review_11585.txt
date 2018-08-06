@@ -1,0 +1,1 @@
+{"text": "I will be taking these on a trip soon. They are so light and pack very thin. Comfortable. The other reviews about them being comfortable persuaded me to try them. They were so right. They also came in my favorite color. Great color selection.", "sentiment": "positive", "topics": {"1": "0.5766162", "3": "0.22840002", "4": "0.16763219"}}

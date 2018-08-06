@@ -1,0 +1,1 @@
+{"text": "I have 4 sons who tear their backpacks apart.  However, all JanSport backpacks survive their abuse.  We only bought a new one because he wanted a different color.", "sentiment": "negative", "topics": {"1": "0.2538654", "2": "0.29809", "3": "0.1309661", "5": "0.29175276"}}

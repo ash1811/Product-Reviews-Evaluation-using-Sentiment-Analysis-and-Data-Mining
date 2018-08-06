@@ -1,0 +1,1 @@
+{"text": "While I am not a fan of Birkenstocks, I like these for their rugged construction and adjustable fit.  My wide feet do well in these.", "sentiment": "negative", "topics": {"0": "0.22740696", "1": "0.18764025", "2": "0.21514244", "3": "0.011940711", "4": "0.13651371", "5": "0.20942193", "6": "0.011933956"}}

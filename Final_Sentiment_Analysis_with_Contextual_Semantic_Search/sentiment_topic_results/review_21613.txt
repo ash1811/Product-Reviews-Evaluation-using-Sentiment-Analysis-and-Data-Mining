@@ -1,0 +1,1 @@
+{"text": "Got this jacket right before the polar vortex hit the midwest blocked the wind and insulated me from the elements very well.", "sentiment": "negative", "topics": {"0": "0.21607777", "1": "0.011046747", "2": "0.108194865", "3": "0.25179416", "4": "0.1988811", "5": "0.07080777", "6": "0.14319757"}}

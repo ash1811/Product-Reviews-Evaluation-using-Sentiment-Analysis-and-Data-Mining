@@ -1,0 +1,1 @@
+{"text": "These jeans are the basic cut from Levis: they are strong, a tad stiff for a few days, but durable and a great combo of style and comfort.", "sentiment": "positive", "topics": {"0": "0.010240542", "1": "0.26542214", "2": "0.099926315", "3": "0.010244129", "4": "0.010244968", "5": "0.21899177", "6": "0.3849301"}}

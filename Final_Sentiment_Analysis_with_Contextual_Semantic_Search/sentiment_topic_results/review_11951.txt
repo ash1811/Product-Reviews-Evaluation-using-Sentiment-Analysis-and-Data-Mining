@@ -1,0 +1,1 @@
+{"text": "I ordered these for my brother in law, they came in an a timely manor packing was fine and are exactly as describe and fit perfectly fine, haven't had any complaints about them.", "sentiment": "negative", "topics": {"0": "0.20432852", "1": "0.3101359", "2": "0.2619059", "5": "0.12591816", "6": "0.07983375"}}

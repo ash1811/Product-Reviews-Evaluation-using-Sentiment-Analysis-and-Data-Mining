@@ -1,0 +1,1 @@
+{"text": "I go through a least 2 back packs a year for my son, he is very hard on them. They generally tear up by where the straps and the bag come together and this on is put together very well.", "sentiment": "positive", "topics": {"0": "0.62905633", "1": "0.2534486", "2": "0.08733313"}}

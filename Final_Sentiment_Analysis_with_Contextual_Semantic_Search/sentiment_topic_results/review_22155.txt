@@ -1,0 +1,1 @@
+{"text": "Fit like a glove really applies here. No seams to bunch dexterity away from you adds warmth without weight. Easy slip on and off without turning inside out.", "sentiment": "negative", "topics": {"0": "0.23714665", "1": "0.14116247", "2": "0.2741898", "3": "0.18540782", "4": "0.14844765"}}

@@ -1,0 +1,1 @@
+{"text": "These are just fine but to call them &#34;no show&#34; is a bit of an exaggeration. You can still see them, but they are relatively low.Overall, they are decent socks.", "sentiment": "negative", "topics": {"0": "0.010211827", "1": "0.010222708", "2": "0.16616675", "3": "0.4002228", "4": "0.062349282", "5": "0.22844179", "6": "0.12238487"}}

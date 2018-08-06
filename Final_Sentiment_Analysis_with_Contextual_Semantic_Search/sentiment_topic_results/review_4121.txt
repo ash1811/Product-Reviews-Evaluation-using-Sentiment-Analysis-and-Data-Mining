@@ -1,0 +1,1 @@
+{"text": "I've had this watch for some time and have been very pleased.  It's heavier than most watches, but I love the size. It's easy to read and wear. I get a lot of compliments.", "sentiment": "negative", "topics": {"2": "0.21470128", "3": "0.37168503", "4": "0.10742973", "5": "0.27752483"}}

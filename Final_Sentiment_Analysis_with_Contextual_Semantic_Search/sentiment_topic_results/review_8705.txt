@@ -1,0 +1,1 @@
+{"text": "This watch is wonderful, I like and is shock resistant and water, except that the mark is the best in watches.", "sentiment": "negative", "topics": {"0": "0.013005624", "1": "0.28732747", "2": "0.5421012", "3": "0.012990141", "4": "0.11843444", "5": "0.013024039", "6": "0.013117074"}}

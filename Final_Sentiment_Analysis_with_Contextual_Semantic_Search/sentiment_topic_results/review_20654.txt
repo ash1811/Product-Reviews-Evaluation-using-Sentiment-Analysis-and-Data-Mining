@@ -1,0 +1,1 @@
+{"text": "This is a nice top and I bought in black and blue! It's a lighter material and classy looking! Love it! It does split down a bit lower than I prefer.. But nothing that a mini safety pin can't fix :)", "sentiment": "positive", "topics": {"0": "0.17811523", "1": "0.40091982", "3": "0.18303995", "4": "0.059851024", "5": "0.10263873", "6": "0.0688962"}}

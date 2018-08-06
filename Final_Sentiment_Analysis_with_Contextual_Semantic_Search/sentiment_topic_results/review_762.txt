@@ -1,0 +1,1 @@
+{"text": "Love that these come in TALL! At 5'10, the regulars are too short, I hate the flood feeling. very comfortable pants, just what I needed. Thanks!", "sentiment": "negative", "topics": {"0": "0.15965773", "1": "0.47062236", "2": "0.09868837", "3": "0.010259885", "4": "0.15421787", "5": "0.09629946", "6": "0.010254335"}}

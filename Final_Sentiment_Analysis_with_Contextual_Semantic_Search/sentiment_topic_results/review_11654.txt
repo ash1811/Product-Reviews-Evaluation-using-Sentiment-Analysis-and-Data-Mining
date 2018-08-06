@@ -1,0 +1,1 @@
+{"text": "I bought this for a friend for his birthday. I noticed after a few wears the color was not holding up well. It's a nice shirt but I recommend perhaps hand washing as apparently the color bleeds.", "sentiment": "positive", "topics": {"1": "0.38771492", "2": "0.1718883", "4": "0.17933843", "5": "0.23718677"}}

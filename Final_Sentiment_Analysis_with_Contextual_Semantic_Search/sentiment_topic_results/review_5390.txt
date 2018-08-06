@@ -1,0 +1,1 @@
+{"text": "I bought a 2XL or XL Normally, I purchased L for this jacket and shirt of this manufacturer is always too large. Size was good.", "sentiment": "positive", "topics": {"0": "0.010221683", "1": "0.46206316", "2": "0.10511214", "3": "0.16021946", "4": "0.010219596", "5": "0.010232682", "6": "0.24193127"}}

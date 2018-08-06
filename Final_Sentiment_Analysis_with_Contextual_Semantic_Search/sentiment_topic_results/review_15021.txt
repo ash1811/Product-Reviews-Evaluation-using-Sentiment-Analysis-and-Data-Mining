@@ -1,0 +1,1 @@
+{"text": "These were a perfect addition to the costume. no one knew they were covers. Definitely wear them with slip on shoes and place them on the shoe before putting them on. It makes it easier.", "sentiment": "negative", "topics": {"0": "0.24875933", "1": "0.15865609", "2": "0.17428507", "3": "0.23507985", "4": "0.16631645"}}

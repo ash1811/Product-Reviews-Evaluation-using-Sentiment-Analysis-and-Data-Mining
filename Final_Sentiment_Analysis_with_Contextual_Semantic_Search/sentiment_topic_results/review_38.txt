@@ -1,0 +1,1 @@
+{"text": "Wife wears these to turn me on when we go out, they fit her great she has not had any problem with them.", "sentiment": "negative", "topics": {"0": "0.014336551", "1": "0.537078", "2": "0.014347397", "3": "0.3912395", "4": "0.014343942", "5": "0.014343272", "6": "0.014311259"}}

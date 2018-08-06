@@ -1,0 +1,1 @@
+{"text": "these were very comfortable, you can use them for sleeping only since there is not much support ( which is needed with bigger cups) . I would recommend this product .", "sentiment": "negative", "topics": {"0": "0.011005272", "1": "0.33671457", "2": "0.011016558", "3": "0.45388845", "4": "0.011037851", "5": "0.1653067", "6": "0.01103062"}}

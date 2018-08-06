@@ -1,0 +1,1 @@
+{"text": "I've gotten this brand several times for a gift and the recipient always loves them. She said they fit so comfortably,don't shrink, and don't ride up where she doesn't want them to if you catch my drift.", "sentiment": "negative", "topics": {"0": "0.2852665", "1": "0.14798412", "3": "0.33699796", "4": "0.20715046"}}

@@ -1,0 +1,1 @@
+{"text": "I have been buying this brand for years.  I have 11 pair of these wrangler jeans.  Different .colors and shades", "sentiment": "positive", "topics": {"0": "0.013044506", "1": "0.21798138", "2": "0.013014499", "3": "0.23785324", "4": "0.3334555", "5": "0.013074466", "6": "0.17157644"}}

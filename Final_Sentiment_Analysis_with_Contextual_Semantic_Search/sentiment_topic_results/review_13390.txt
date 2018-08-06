@@ -1,0 +1,1 @@
+{"text": "This shoe is not much to look at - sort of looks like an old lady's shoe.  HOWEVER, I adore it because it truly is one of the most comfortable shoes I've ever had on my feet.  Soft, supportive, and does have an arch built in. Try it.", "sentiment": "negative", "topics": {"1": "0.24562155", "2": "0.3567466", "3": "0.17816623", "4": "0.14440346", "5": "0.064044714"}}

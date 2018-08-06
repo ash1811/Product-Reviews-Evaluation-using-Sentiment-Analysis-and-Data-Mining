@@ -1,0 +1,1 @@
+{"text": "As expected Carhartt delivers a great product! Fits snug but not too tight on a large head. Embroidered logo on which sunk into the knit a little more than I'd like, but it still turned out good (FYI I am a beginner on embroidary).", "sentiment": "positive", "topics": {"1": "0.45445296", "2": "0.13178475", "5": "0.119120516", "6": "0.2767399"}}

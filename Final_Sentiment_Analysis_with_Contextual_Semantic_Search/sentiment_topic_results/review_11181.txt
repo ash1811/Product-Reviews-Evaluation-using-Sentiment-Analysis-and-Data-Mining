@@ -1,0 +1,1 @@
+{"text": "I was dissappointed with these earrings as one of them was actually &#34;dented&#34;, pushed in at the side. I also bought the larger 6mm balls which are perfect", "sentiment": "negative", "topics": {"0": "0.16561875", "1": "0.010245504", "2": "0.17012152", "3": "0.09732784", "4": "0.28835574", "5": "0.19732685", "6": "0.07100383"}}

@@ -1,0 +1,1 @@
+{"text": "uggs are my go to shoes.  i splurged and got the hot pink.  these are the best boots.  i wear them almost everyday.  i have very wide feet and have problems finding shoes that fit.  uggs and crocs are what i wear.", "sentiment": "negative", "topics": {"0": "0.15330797", "1": "0.11767661", "2": "0.29082912", "4": "0.16713057", "5": "0.18904471", "6": "0.07549553"}}

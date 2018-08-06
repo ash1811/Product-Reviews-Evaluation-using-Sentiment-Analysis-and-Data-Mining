@@ -1,0 +1,1 @@
+{"text": "I love the feel of these stockings! They are very comfortable to wear and don't roll down when you sit or stand.", "sentiment": "negative", "topics": {"0": "0.015931271", "1": "0.24149863", "2": "0.01590344", "3": "0.015944835", "4": "0.015991697", "5": "0.56884485", "6": "0.12588523"}}

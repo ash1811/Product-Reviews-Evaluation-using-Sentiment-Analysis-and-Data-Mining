@@ -1,0 +1,1 @@
+{"text": "my grandpa really liked a style that is no longer made - this one has a little wider leg than he likes but it is still very good fit!", "sentiment": "negative", "topics": {"1": "0.760244", "2": "0.19200774"}}

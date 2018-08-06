@@ -1,0 +1,1 @@
+{"text": "Vans haven't failed me yet. They are my go to shoe. I wish they lasted a bit longer, but you can't exactly expect any canvas shoe to last forever.No complaints!", "sentiment": "positive", "topics": {"0": "0.06995599", "1": "0.10589527", "2": "0.27122986", "3": "0.20905548", "5": "0.26425326", "6": "0.07165785"}}

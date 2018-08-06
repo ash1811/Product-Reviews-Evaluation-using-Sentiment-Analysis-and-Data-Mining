@@ -1,0 +1,1 @@
+{"text": "This would have worked fine if the buckles had bee the same as on my luggage, but they weren't, so I had no use for the thing.", "sentiment": "positive", "topics": {"0": "0.27256316", "1": "0.014323404", "2": "0.5316225", "3": "0.014353985", "4": "0.014334686", "5": "0.13848312", "6": "0.014319089"}}

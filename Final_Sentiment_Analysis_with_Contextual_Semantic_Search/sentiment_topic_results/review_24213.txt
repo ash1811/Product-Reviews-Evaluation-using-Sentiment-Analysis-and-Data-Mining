@@ -1,0 +1,1 @@
+{"text": "This bra is very comfortable. I hate a regular bra. I would recommend this bra to anyone that is tired of fighting the straps from a regular bra.", "sentiment": "negative", "topics": {"0": "0.14647873", "1": "0.092976555", "2": "0.12275193", "3": "0.5175661", "5": "0.101144195"}}

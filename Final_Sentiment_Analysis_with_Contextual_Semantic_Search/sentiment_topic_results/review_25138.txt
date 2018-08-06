@@ -1,0 +1,1 @@
+{"text": "My dog chewed up my insoles of my expensive UGG boots. I was tickled to find these. Identicle to the ones that came in my boots.", "sentiment": "positive", "topics": {"0": "0.10472874", "1": "0.27059418", "2": "0.0102349585", "3": "0.07739277", "4": "0.38240162", "5": "0.14442745", "6": "0.010220321"}}

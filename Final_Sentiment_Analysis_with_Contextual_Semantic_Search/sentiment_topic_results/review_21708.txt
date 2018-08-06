@@ -1,0 +1,1 @@
+{"text": "Bought the earrings and necklace as a set and wear it often. Very classy. The chain in very fragile, but easily replaced. I'm a fan of oxidized silver, and this is perfect. The three-dimensional aspect adds to the value! Thanks.", "sentiment": "negative", "topics": {"0": "0.29247954", "1": "0.19677323", "4": "0.06934509", "5": "0.42187497"}}

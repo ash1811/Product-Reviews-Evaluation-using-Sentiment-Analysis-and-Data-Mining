@@ -1,0 +1,1 @@
+{"text": "I Love these shoes/sneakers.  Having owned Rockports for dress I was hoping the sneaker version would be of the same quality--trust me--they are.  These have quickly become my favorite sneaker.", "sentiment": "negative", "topics": {"0": "0.2158324", "1": "0.21781242", "2": "0.1221808", "3": "0.08784659", "4": "0.2129348", "5": "0.13495456"}}

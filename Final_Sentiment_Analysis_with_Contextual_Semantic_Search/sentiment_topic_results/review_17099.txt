@@ -1,0 +1,1 @@
+{"text": "These Crocs are made of a really soft plastic that provides excellent comfort and air flow. I will say that they are cheaply made but hear that the quality has gone down since they are made in Mexico (ours) and not China anymore.", "sentiment": "negative", "topics": {"1": "0.35063246", "2": "0.13492681", "4": "0.094649345", "5": "0.19398394", "6": "0.21325423"}}

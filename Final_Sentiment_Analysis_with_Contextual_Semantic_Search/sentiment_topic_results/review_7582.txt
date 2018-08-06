@@ -1,0 +1,1 @@
+{"text": "I bought this along with the identical one from charhartt and for me this one is a bit snug compared to the carhartt...but its more stylish and form fitting ...so the snugness isn't an issue..", "sentiment": "negative", "topics": {"2": "0.46680912", "3": "0.13067646", "4": "0.061205283", "5": "0.1646992", "6": "0.15974836"}}

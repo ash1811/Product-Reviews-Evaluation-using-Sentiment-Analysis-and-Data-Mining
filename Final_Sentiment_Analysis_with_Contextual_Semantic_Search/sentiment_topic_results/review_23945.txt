@@ -1,0 +1,1 @@
+{"text": "I got this for my husband and he said it is pretty comfortable, the material doesn't feel cheap, the only thing that would make it better is that if the sock could be a little longer.", "sentiment": "positive", "topics": {"1": "0.41734096", "3": "0.3848098", "4": "0.09333033", "5": "0.07918962"}}

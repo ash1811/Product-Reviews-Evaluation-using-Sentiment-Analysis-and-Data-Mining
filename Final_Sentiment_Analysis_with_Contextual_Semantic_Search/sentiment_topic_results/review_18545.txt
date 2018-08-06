@@ -1,0 +1,1 @@
+{"text": "Great fit. Nice look. Adjusted well to my wide feet. Goes great with my suit. Great quality, not too expensive.", "sentiment": "negative", "topics": {"1": "0.7567569", "2": "0.09193259", "4": "0.11313675"}}

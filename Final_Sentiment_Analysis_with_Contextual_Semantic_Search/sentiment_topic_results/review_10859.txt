@@ -1,0 +1,1 @@
+{"text": "Enjoying these slippers. They fit well. Am looking forward to being able to toss them in the washer to freshen them!", "sentiment": "negative", "topics": {"0": "0.12471827", "1": "0.41536328", "2": "0.12346137", "3": "0.21584003", "4": "0.0119114425", "5": "0.011919866", "6": "0.096785724"}}

@@ -1,0 +1,1 @@
+{"text": "Only $6 - this bandanna fit perfect and comfortable on my head! nothing else to say just buy it if you need one!", "sentiment": "negative", "topics": {"0": "0.010996659", "1": "0.45259908", "2": "0.1650462", "3": "0.0110029", "4": "0.0110076675", "5": "0.101550646", "6": "0.24779685"}}

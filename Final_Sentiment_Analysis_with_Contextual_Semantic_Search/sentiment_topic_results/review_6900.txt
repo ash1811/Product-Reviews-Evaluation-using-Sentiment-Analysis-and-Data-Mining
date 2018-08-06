@@ -1,0 +1,1 @@
+{"text": "Dickies jeans fit and wear better than any work jean I have ever tried, the fit is right and extremely comfortable.", "sentiment": "negative", "topics": {"0": "0.010249026", "1": "0.4931297", "2": "0.21051835", "3": "0.010255137", "4": "0.0102186585", "5": "0.25540602", "6": "0.010223083"}}

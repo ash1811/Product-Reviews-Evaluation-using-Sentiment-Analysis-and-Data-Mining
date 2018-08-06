@@ -1,0 +1,1 @@
+{"text": "Unfortunately I ordered the wrong size. They were good enough to send UPS to my door to retrieve the sneakers. I loved them, but they didn't fit the baby. :) I would highly recommend buying these!", "sentiment": "negative", "topics": {"0": "0.25635773", "1": "0.28002745", "2": "0.1631716", "3": "0.08907363", "4": "0.07227755", "5": "0.13225885"}}

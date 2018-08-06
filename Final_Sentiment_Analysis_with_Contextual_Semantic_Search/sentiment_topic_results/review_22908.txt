@@ -1,0 +1,1 @@
+{"text": "These are nice shorts that are lightweight and comfortable to wear but be sure to have somethng to ware under them.", "sentiment": "negative", "topics": {"0": "0.24273422", "1": "0.3561918", "2": "0.14115576", "3": "0.21689406", "4": "0.014285756", "5": "0.014336748", "6": "0.014401674"}}

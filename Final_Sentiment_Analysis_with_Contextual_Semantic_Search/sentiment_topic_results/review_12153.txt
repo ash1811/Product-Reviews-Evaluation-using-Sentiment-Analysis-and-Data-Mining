@@ -1,0 +1,1 @@
+{"text": "A good sock but more expensive than the Comfort Hicker which is just as good.", "sentiment": "positive", "topics": {"0": "0.020430079", "1": "0.3957643", "2": "0.020417346", "3": "0.16140251", "4": "0.020423293", "5": "0.3609261", "6": "0.020636369"}}

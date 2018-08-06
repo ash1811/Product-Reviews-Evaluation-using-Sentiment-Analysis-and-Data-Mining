@@ -1,0 +1,1 @@
+{"text": "Sometimes you just want a plain, decent t-shirt.  This fits the bill.  No side seam and usual Hanes quality.  A good buy.", "sentiment": "positive", "topics": {"1": "0.5924393", "2": "0.13412558", "3": "0.08319199", "6": "0.16150317"}}

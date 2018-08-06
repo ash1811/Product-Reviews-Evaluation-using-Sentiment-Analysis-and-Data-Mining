@@ -1,0 +1,1 @@
+{"text": "These are the only slippers I can wear!  I buy a couple pair every year or two.  Comfy, lightweight.  Not as good as they were years ago, don't last as long, but still wear them!", "sentiment": "negative", "topics": {"1": "0.34449348", "3": "0.29048038", "5": "0.17177999", "6": "0.17062281"}}

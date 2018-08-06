@@ -1,0 +1,1 @@
+{"text": "Finding a bra to fit has been a challenge.  If this were a cotton bra I'd rate it five star, but I long ago gave up looking for cotton in a lined bra.  The fit is even better after a few washings.I have this bra in three colors.", "sentiment": "negative", "topics": {"1": "0.21113396", "2": "0.14833723", "3": "0.488869", "6": "0.13443482"}}

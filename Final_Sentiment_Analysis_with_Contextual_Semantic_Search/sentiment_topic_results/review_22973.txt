@@ -1,0 +1,1 @@
+{"text": "Besides fit and fabric, the shorts look good. Mesh-type fabric is often susceptible to tearing, but not so for the fabric in these shorts.I wear them without concern over possible tearing.", "sentiment": "positive", "topics": {"0": "0.1707231", "1": "0.2419147", "2": "0.122160524", "3": "0.19753414", "5": "0.25260806"}}

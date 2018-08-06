@@ -1,0 +1,1 @@
+{"text": "These fit me perfectly, just as they always have. I was hesitant because of all the negative reviews but I had no problem with these shoes and would purchase again.", "sentiment": "negative", "topics": {"0": "0.15634438", "1": "0.36348814", "2": "0.14216803", "3": "0.13894556", "4": "0.17703436", "5": "0.011025939", "6": "0.0109936055"}}

@@ -1,0 +1,1 @@
+{"text": "My husband wears these shoes for casual wear and on the boat.  He just loves them and is so pleased that I have found them in a wider fit.", "sentiment": "negative", "topics": {"0": "0.011942142", "1": "0.3989223", "2": "0.09638318", "3": "0.011929016", "4": "0.17724802", "5": "0.29165", "6": "0.011925387"}}

@@ -1,0 +1,1 @@
+{"text": "The blue is not as bright as the image on the website. It is a nice subdued cobalt blue. Hubby will wear it happily in our snowy cold environment.", "sentiment": "positive", "topics": {"1": "0.38785067", "4": "0.11649163", "5": "0.3760245", "6": "0.090977214"}}

@@ -1,0 +1,1 @@
+{"text": "Doesn't ride up.  Nice sleeves.  Good hems - seems durable.  My daughter will definitely outgrow this before she wears it out.  I'm definitely pleased and will look for Capezio next time.", "sentiment": "negative", "topics": {"1": "0.40656507", "2": "0.1903857", "3": "0.37573734"}}

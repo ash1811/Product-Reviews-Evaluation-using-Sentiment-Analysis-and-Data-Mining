@@ -1,0 +1,1 @@
+{"text": "If you are looking for a cheaper beater watch, this is it.  I use this as my fishing watch and has been perfect so far.  It still looks as good as the day I bought it too.  For the price, it cant be beat.", "sentiment": "positive", "topics": {"0": "0.38068163", "1": "0.027644426", "2": "0.17512727", "3": "0.2491456", "4": "0.15308622"}}

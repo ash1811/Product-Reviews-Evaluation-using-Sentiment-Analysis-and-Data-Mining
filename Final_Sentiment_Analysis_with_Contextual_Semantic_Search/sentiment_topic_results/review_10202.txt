@@ -1,0 +1,1 @@
+{"text": "Looks great, but they are not 100% solid gold (too much alley material, it fells too plastic and flexible) Too expensive. Not recommendable", "sentiment": "positive", "topics": {"1": "0.3291048", "2": "0.19398397", "3": "0.27781802", "4": "0.17038709"}}

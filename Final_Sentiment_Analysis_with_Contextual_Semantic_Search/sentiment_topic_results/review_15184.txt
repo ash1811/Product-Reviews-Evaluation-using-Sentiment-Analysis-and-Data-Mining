@@ -1,0 +1,1 @@
+{"text": "Sturdy, comfortable & they look good.  They're great for air travel since they slip on & off easily.  They're waterproof so walking through streams/puddles/the beach is no problem.", "sentiment": "negative", "topics": {"0": "0.20050922", "1": "0.28679016", "3": "0.07823803", "5": "0.41058958"}}

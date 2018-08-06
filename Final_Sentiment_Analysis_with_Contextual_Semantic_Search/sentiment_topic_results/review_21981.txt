@@ -1,0 +1,1 @@
+{"text": "I had to return because even though I read the reviews, this was huge.  It is very nice and I would recommend if the fit was correct for you.", "sentiment": "negative", "topics": {"0": "0.0110369325", "1": "0.19902855", "2": "0.19577983", "3": "0.49403593", "4": "0.011028599", "5": "0.0110199265", "6": "0.07807024"}}

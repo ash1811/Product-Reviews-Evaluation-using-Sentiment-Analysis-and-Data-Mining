@@ -1,0 +1,1 @@
+{"text": "I love this cap.. I have one in each color an want more. When my hair is yucky I just put on a cap or hat.", "sentiment": "negative", "topics": {"0": "0.011941702", "1": "0.32838595", "2": "0.011998129", "3": "0.01200031", "4": "0.51261544", "5": "0.011953708", "6": "0.11110478"}}

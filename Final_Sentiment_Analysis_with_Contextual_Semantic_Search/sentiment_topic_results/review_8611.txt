@@ -1,0 +1,1 @@
+{"text": "These are not as comfortable boat shoes as the other boat shoes I have purchased the leather is very stiff and hard the color is good but they did not soften like other shoes I have got", "sentiment": "positive", "topics": {"0": "0.3132347", "1": "0.2775794", "2": "0.37334657"}}

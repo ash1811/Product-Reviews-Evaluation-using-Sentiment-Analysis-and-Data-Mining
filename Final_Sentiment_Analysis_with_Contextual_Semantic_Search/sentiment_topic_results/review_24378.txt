@@ -1,0 +1,1 @@
+{"text": "Long and warm this &#34;beanie hat&#34; replaces one I got that simply wasn't adequate to cover my ears in freezing temps.  I'm happy with it.  If machine washable I'd give it 5 stars.", "sentiment": "positive", "topics": {"1": "0.4859488", "3": "0.08645943", "6": "0.4026465"}}

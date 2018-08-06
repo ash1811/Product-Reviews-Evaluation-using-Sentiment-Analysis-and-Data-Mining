@@ -1,0 +1,1 @@
+{"text": "Ordered these last year for husband's cold tootsies - & he literally wore them out!  Ordered another pair & they go on his feet the minute he gets home from work.  Needless to say, he LOVES these!", "sentiment": "negative", "topics": {"0": "0.21533139", "1": "0.16709049", "3": "0.1598011", "4": "0.25211525", "6": "0.19319968"}}

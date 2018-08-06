@@ -1,0 +1,1 @@
+{"text": "superb in terms of size (spot on), comfort and overall look and appeal. very versatile indeed with the sheer over tone to highlight this sutle tone. will gradually replace my shoe inventory with more alike", "sentiment": "negative", "topics": {"0": "0.15514225", "2": "0.30429623", "3": "0.19051296", "4": "0.19515432", "6": "0.14187159"}}

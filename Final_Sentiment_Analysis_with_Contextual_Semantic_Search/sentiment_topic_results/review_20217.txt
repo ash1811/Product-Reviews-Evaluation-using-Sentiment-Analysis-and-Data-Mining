@@ -1,0 +1,1 @@
+{"text": "I love them. I use them for construction and airsoft, they are well built for the price, durable, and waterproof.", "sentiment": "positive", "topics": {"0": "0.013022741", "1": "0.40512237", "2": "0.013023558", "3": "0.5297275", "4": "0.013081375", "5": "0.013033038", "6": "0.012989411"}}

@@ -1,0 +1,1 @@
+{"text": "I have wide feet I usually wear a size 11 - 11 1/2 in regular shoes and since their are no half sizes I had to choose the 11. GO UP TO A 12!!!! trust me on this these cut small!", "sentiment": "positive", "topics": {"2": "0.1793288", "3": "0.46469682", "4": "0.32865015"}}

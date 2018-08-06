@@ -1,0 +1,1 @@
+{"text": "Price was right, product does what it's supposed to -- keeps me warm, light weight so one can wear them under any clothing.", "sentiment": "negative", "topics": {"0": "0.011936388", "1": "0.7712815", "2": "0.011961553", "3": "0.011954012", "4": "0.011957926", "5": "0.16899385", "6": "0.011914789"}}

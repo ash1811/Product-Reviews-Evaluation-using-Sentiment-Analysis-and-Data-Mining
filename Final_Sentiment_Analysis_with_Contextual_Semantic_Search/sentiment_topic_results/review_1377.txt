@@ -1,0 +1,1 @@
+{"text": "Ordered this for my grandson for school this year.  He loves it.  Great quality and well made.  The color is bold.", "sentiment": "negative", "topics": {"0": "0.011016273", "1": "0.61491543", "2": "0.112596706", "3": "0.011020299", "4": "0.2284489", "5": "0.011011399", "6": "0.010991034"}}

@@ -1,0 +1,1 @@
+{"text": "These are well made glass cases that hold and protect eye wear. The top snap covers prevent the glasses from accidentally slipping out.  They are, however, a tad expensive.", "sentiment": "negative", "topics": {"0": "0.33619088", "1": "0.11430669", "2": "0.19039334", "3": "0.16311197", "4": "0.10643499", "6": "0.08269523"}}

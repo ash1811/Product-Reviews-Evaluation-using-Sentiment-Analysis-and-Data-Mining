@@ -1,0 +1,1 @@
+{"text": "Love it! Beautiful, comfortable, comfortable, soft, flexible ... Universal model. Solid nice color. Attractive lining and bow. Love the embroidery side. Great model in black suede!", "sentiment": "positive", "topics": {"0": "0.075972594", "1": "0.28669947", "3": "0.17167552", "4": "0.10295903", "5": "0.124772675", "6": "0.23169975"}}

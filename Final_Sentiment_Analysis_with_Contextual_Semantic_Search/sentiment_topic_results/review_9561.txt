@@ -1,0 +1,1 @@
+{"text": "Husband bought this for me as a surprise. Looks very nice and I love the IndiGlo feature. Fairly easy to read without it being too big or announcing to the world &#34;hey look at me&#34;. Comfortable on my wrist too.", "sentiment": "positive", "topics": {"1": "0.4026619", "2": "0.20563503", "3": "0.0729011", "4": "0.22719117", "6": "0.07853519"}}

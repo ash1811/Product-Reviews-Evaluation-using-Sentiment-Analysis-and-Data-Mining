@@ -1,0 +1,1 @@
+{"text": "These are so comfortable!!  I wore them to work and had been wearing these Alpine  similar sandals before - needless to say the Keens are so much more comfortable.  My feet felt great at the end of the day.", "sentiment": "negative", "topics": {"0": "0.12594764", "1": "0.47101647", "4": "0.054777876", "6": "0.32434452"}}

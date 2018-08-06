@@ -1,0 +1,1 @@
+{"text": "I like these slippers because they are washable and comfy. They are great to throw in the suitcase for hotel rooms, etc.", "sentiment": "negative", "topics": {"0": "0.013003505", "1": "0.48396292", "2": "0.17116423", "3": "0.013023741", "4": "0.0130331805", "5": "0.013008541", "6": "0.29280388"}}

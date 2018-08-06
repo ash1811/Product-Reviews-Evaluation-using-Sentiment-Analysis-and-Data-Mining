@@ -1,0 +1,1 @@
+{"text": "I ckecked to see what size I should order. Following as it said to dam small. I think you should be able to breathe.", "sentiment": "negative", "topics": {"0": "0.121697314", "1": "0.011977354", "2": "0.103584126", "3": "0.39780205", "4": "0.3410667", "5": "0.011951558", "6": "0.011920882"}}

@@ -1,0 +1,1 @@
+{"text": "Shirt arrived with an unsewn seem and my husband wore it not realizing and the entire side ended up with a hole in it.", "sentiment": "positive", "topics": {"0": "0.35999027", "1": "0.010998905", "2": "0.29778704", "3": "0.011007946", "4": "0.1035179", "5": "0.011053318", "6": "0.20564461"}}

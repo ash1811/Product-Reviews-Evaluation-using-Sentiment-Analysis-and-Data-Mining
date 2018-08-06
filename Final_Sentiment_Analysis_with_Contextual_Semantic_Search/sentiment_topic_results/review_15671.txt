@@ -1,0 +1,1 @@
+{"text": "They are thin and very soft on the skin. The low rise is very comfortable, and easy to wear all day.", "sentiment": "negative", "topics": {"0": "0.014329501", "1": "0.66299367", "2": "0.014294687", "3": "0.014332431", "4": "0.2652605", "5": "0.014404084", "6": "0.014385157"}}

@@ -1,0 +1,1 @@
+{"text": "I truly do not know what I was expecting, but I was hoping that it would be of better quality.", "sentiment": "negative", "topics": {"0": "0.017891087", "1": "0.32293704", "2": "0.01798331", "3": "0.017949775", "4": "0.24433303", "5": "0.017909255", "6": "0.36099654"}}

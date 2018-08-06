@@ -1,0 +1,1 @@
+{"text": "This is the second pair of Easy Spirits that I have bought in just a few weeks time. I have a few sore toes, so I bought them extra wide. There is no pressure on my toes, but they stay on great...and there is room for socks! Win...win...win.", "sentiment": "positive", "topics": {"0": "0.070686184", "1": "0.47653675", "3": "0.2564932", "5": "0.17479251"}}

@@ -1,0 +1,1 @@
+{"text": "These fit very nice and all 100% cotton.  Got a lil string up front for the string bikini and it could pass as men's underwear.  Got plenty of room up front for my twigs and berries (average size).  Best cotton panties I had so far.", "sentiment": "negative", "topics": {"0": "0.20827125", "1": "0.22385676", "2": "0.24677566", "3": "0.20747234", "6": "0.10298699"}}

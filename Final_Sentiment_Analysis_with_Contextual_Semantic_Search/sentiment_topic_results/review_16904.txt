@@ -1,0 +1,1 @@
+{"text": "this pant fit just right, my size is 36 and I ordered 36, just fit great and comfortable and well made", "sentiment": "negative", "topics": {"0": "0.01101921", "1": "0.83889884", "2": "0.010994307", "3": "0.10604783", "4": "0.010995901", "5": "0.011002577", "6": "0.011041343"}}

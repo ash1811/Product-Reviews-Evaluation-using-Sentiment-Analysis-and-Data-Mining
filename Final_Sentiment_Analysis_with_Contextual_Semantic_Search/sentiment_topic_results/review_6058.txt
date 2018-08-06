@@ -1,0 +1,1 @@
+{"text": "My husband really liked the shirt but was disappointed that it was too big. He wears an XL and is just too big for him. The blue is not as bright as it is in the picture.", "sentiment": "negative", "topics": {"0": "0.010226222", "1": "0.66642094", "2": "0.010213017", "3": "0.11237017", "4": "0.099115215", "5": "0.010225423", "6": "0.091429"}}

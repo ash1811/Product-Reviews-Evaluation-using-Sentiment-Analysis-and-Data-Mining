@@ -1,0 +1,1 @@
+{"text": "Fit perfectly, love the soft teal-ish color. Inside is lovely teal as well.  Comfy from first try on. Couldn't be happier!", "sentiment": "negative", "topics": {"0": "0.12442346", "1": "0.39245364", "2": "0.17498323", "4": "0.18352991", "5": "0.10664594"}}

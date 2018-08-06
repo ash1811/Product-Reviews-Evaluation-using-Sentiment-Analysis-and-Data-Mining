@@ -1,0 +1,1 @@
+{"text": "Ordered a large size..got overlarge. Fabric isn't great either..though it looks good in the picture. I love ordering clothes online but experiences like these hamper me.", "sentiment": "negative", "topics": {"1": "0.5464642", "4": "0.29429355", "5": "0.12906022"}}

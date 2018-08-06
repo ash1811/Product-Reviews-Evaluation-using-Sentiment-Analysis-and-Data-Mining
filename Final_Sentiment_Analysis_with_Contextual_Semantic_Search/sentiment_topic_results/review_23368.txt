@@ -1,0 +1,1 @@
+{"text": "fits fine, was like my expectation, good to use in the fall. It is fancy, but you can use in general days. I recommend.", "sentiment": "negative", "topics": {"0": "0.011034967", "1": "0.79704577", "2": "0.14771768", "3": "0.011060446", "4": "0.011040069", "5": "0.011066516", "6": "0.011034492"}}

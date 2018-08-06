@@ -1,0 +1,1 @@
+{"text": "very comfortable! they fit me very well. even wile riding my motorcycle they keep most of the air out. awesome!", "sentiment": "negative", "topics": {"0": "0.0119388895", "1": "0.4932526", "2": "0.12936157", "3": "0.011971503", "4": "0.01194384", "5": "0.32962108", "6": "0.011910521"}}

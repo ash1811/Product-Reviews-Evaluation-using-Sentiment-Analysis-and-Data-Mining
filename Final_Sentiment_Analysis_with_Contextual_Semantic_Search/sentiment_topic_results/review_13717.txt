@@ -1,0 +1,1 @@
+{"text": "I have been buying these sandals since I was in middle school.  I have had 3 pairs in 15 years.  I don't replace these flippers because they are worn out, it's because I lost the last pair.  Love love love these.  Great every day sandal.  Get them!", "sentiment": "negative", "topics": {"1": "0.37110913", "2": "0.25638384", "4": "0.22173418", "6": "0.13481252"}}

@@ -1,0 +1,1 @@
+{"text": "This was exactly what I was looking for. If you are shopping for this item, you will not be disappointed.Item arrived within 2 days.", "sentiment": "negative", "topics": {"0": "0.32279226", "1": "0.013022942", "2": "0.012991217", "3": "0.17915611", "4": "0.11049134", "5": "0.13309485", "6": "0.2284513"}}

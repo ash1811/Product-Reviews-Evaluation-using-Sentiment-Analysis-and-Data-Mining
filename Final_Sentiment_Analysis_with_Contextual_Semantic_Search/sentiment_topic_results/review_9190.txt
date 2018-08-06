@@ -1,0 +1,1 @@
+{"text": "Vey well made and great fit slippers, Christmas gift and I know he will enjoy them and get several years use out of them, great buy fast shipping will buy again....", "sentiment": "negative", "topics": {"0": "0.080012076", "1": "0.46487224", "2": "0.1843381", "4": "0.10733288", "6": "0.15039422"}}

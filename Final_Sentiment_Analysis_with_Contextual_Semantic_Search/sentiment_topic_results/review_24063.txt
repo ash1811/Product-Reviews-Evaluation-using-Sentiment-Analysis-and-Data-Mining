@@ -1,0 +1,1 @@
+{"text": "MERRELL MOAB IS THE MOST COMFORTABLE SHOE ON THE MARKET FOR ME SO i GOT A PAIR FOR MY WIFE AND NOW SHE IS HOOKED ON THEM.  Just wish they made a wide size for women.", "sentiment": "negative", "topics": {"1": "0.2798831", "2": "0.37021044", "3": "0.17331773", "6": "0.14974347"}}

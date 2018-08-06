@@ -1,0 +1,1 @@
+{"text": "I bought this for a recent trip and it held all of our things we needed with room to spare.", "sentiment": "positive", "topics": {"0": "0.015920516", "1": "0.9044373", "2": "0.015911387", "3": "0.015927613", "4": "0.015921593", "5": "0.015920281", "6": "0.015961342"}}

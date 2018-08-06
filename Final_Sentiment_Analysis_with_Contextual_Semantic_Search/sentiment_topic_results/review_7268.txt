@@ -1,0 +1,1 @@
+{"text": "My husband'sline of work is very rough on work clothes, and we have fund these jeans to be the strongest by far, I highly recommend them, he has both the light and dark colors, here I have found them for the best price too!", "sentiment": "positive", "topics": {"1": "0.27806857", "2": "0.42999166", "4": "0.2019289", "6": "0.06846836"}}

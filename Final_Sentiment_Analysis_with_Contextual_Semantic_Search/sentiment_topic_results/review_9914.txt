@@ -1,0 +1,1 @@
+{"text": "Nice, simple, cheap and slick design, but I'm not a fan of how loud the clicking is. The band is some sort of cloth and it looks a bit cheap but feels nice.", "sentiment": "positive", "topics": {"0": "0.22795916", "1": "0.29929498", "2": "0.21403661", "4": "0.096149415", "6": "0.14746298"}}

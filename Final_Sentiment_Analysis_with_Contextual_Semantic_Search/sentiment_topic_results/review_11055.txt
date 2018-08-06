@@ -1,0 +1,1 @@
+{"text": "Very warm, and hard sole allows for walking indoors/outdoors with ease.  Fit a little large, work ok with socks.  Tend to get a little pilly around the cuff area over time.", "sentiment": "negative", "topics": {"0": "0.09185503", "1": "0.63841265", "2": "0.047916297", "5": "0.20229147"}}

@@ -1,0 +1,1 @@
+{"text": "I love the size of this. I own a smaller one that fits my head, but I pick this one a my go to for the larger size allows a better coverage, especially in buggy areas it covers part of your neck too.", "sentiment": "negative", "topics": {"1": "0.21379775", "2": "0.23200713", "3": "0.32909098", "4": "0.12715049", "5": "0.08548649"}}

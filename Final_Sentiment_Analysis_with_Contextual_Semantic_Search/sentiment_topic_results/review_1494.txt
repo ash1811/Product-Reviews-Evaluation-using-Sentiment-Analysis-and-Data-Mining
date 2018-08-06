@@ -1,0 +1,1 @@
+{"text": "I've always loved Jansport and I ordered one for my bro, and it sure goes well with his rough and tumble way of handling things.", "sentiment": "negative", "topics": {"0": "0.095675126", "1": "0.12657224", "2": "0.46998152", "3": "0.2008482", "4": "0.08903946"}}

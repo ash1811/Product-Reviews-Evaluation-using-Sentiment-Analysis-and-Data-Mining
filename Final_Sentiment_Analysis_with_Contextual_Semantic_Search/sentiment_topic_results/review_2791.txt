@@ -1,0 +1,1 @@
+{"text": "These are cute keds. My daughter has size 11 feet so it is hard to find shoes to fit her. These were just what she was looking for", "sentiment": "negative", "topics": {"0": "0.25861996", "1": "0.11888038", "2": "0.097054474", "3": "0.3039782", "4": "0.19944233", "5": "0.0110217435", "6": "0.01100289"}}

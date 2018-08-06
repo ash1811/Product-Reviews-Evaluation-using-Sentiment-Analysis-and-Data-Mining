@@ -1,0 +1,1 @@
+{"text": "My MIL couldn't find this bra anywhere, so when I found one on Amazon, I bought a couple for her.  She really likes them...so much that I am going to buy myself one to try too.", "sentiment": "negative", "topics": {"0": "0.24474296", "1": "0.1998758", "2": "0.21070866", "3": "0.1798198", "4": "0.15053657"}}

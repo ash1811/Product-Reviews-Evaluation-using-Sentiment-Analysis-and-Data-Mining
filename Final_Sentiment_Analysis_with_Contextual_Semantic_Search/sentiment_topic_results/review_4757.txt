@@ -1,0 +1,1 @@
+{"text": "Bought these for my son as a gift.  He wears them for work and loves them.  He said they are very comfy and durable.  They clean well too.", "sentiment": "negative", "topics": {"0": "0.21408914", "1": "0.39512843", "2": "0.010238691", "3": "0.34984794", "4": "0.010241787", "5": "0.010242555", "6": "0.01021146"}}

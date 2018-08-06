@@ -1,0 +1,1 @@
+{"text": "Ladies grab these for the man in your life.....they feel great and look great also!  I plan on buying several more in different colors for my guy!  They are so soft, smooth and fit true to size!  I love them!!!", "sentiment": "positive", "topics": {"0": "0.3644028", "1": "0.22025637", "4": "0.24636157", "6": "0.1502613"}}

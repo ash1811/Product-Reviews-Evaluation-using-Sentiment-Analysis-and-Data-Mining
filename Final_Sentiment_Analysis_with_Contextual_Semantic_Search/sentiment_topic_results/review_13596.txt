@@ -1,0 +1,1 @@
+{"text": "Looks great alone or with another chain. I've even worn it with a beaded style bracelet and it looks great!", "sentiment": "negative", "topics": {"0": "0.010253265", "1": "0.27270862", "2": "0.15768695", "3": "0.09817291", "4": "0.10702198", "5": "0.24385934", "6": "0.110296905"}}

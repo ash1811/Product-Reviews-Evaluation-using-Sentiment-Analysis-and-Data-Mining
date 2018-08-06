@@ -1,0 +1,1 @@
+{"text": "I normally like easy spirit products, but my pair was poorly sewn and within just a couple of days the fabric on the side had separated from the sole.", "sentiment": "positive", "topics": {"0": "0.11996209", "1": "0.10467721", "2": "0.13143592", "4": "0.10554536", "5": "0.34990597", "6": "0.17949794"}}

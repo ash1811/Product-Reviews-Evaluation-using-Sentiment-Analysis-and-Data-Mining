@@ -1,0 +1,1 @@
+{"text": "I'm always reluctant to purchase pants online, but these jeans were exactly as I expected and had a great fit.", "sentiment": "positive", "topics": {"0": "0.16436973", "1": "0.4373573", "2": "0.011924849", "3": "0.01192826", "4": "0.35052252", "5": "0.011980812", "6": "0.011916519"}}

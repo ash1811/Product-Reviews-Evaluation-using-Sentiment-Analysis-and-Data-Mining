@@ -1,0 +1,1 @@
+{"text": "I have a 36&#34; waist and have worn men's &#34;large&#34; size for the past 20 years. These are about 2&#34; too much all around.", "sentiment": "positive", "topics": {"0": "0.20470032", "1": "0.011034683", "2": "0.26598853", "3": "0.3729939", "4": "0.010998576", "5": "0.01101072", "6": "0.12327329"}}

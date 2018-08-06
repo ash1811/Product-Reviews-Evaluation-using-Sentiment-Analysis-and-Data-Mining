@@ -1,0 +1,1 @@
+{"text": "As soon as I put them on my two year old, who is two and at 30 pounds, I noticed they were a good fit. They are not too baggy and they are not tight at all. She has some room to grow into them, which I actually like. Hopefully they last a while.", "sentiment": "positive", "topics": {"1": "0.29949927", "3": "0.19524103", "4": "0.32016906", "5": "0.16638947"}}

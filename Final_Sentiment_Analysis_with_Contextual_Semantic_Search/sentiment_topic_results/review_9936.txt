@@ -1,0 +1,1 @@
+{"text": "this watch came and it looked exactly like the picture.  I really didn't like the quality of the watch and I wouldn't buy another one.", "sentiment": "negative", "topics": {"0": "0.23140869", "1": "0.4211362", "2": "0.3065062", "3": "0.010226801", "4": "0.010231972", "5": "0.010218536", "6": "0.0102716405"}}

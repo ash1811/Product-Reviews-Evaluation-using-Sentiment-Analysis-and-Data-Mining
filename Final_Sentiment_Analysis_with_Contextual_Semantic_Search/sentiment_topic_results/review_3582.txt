@@ -1,0 +1,1 @@
+{"text": "the underwires between your breast simply sit out at an awkward angle instead of laying flat against you. That I do not like.", "sentiment": "negative", "topics": {"0": "0.0119904755", "1": "0.3956132", "2": "0.18877281", "3": "0.012002994", "4": "0.36769035", "5": "0.011931655", "6": "0.011998466"}}

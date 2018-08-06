@@ -1,0 +1,1 @@
+{"text": "this helped me soooooo much!!!!!!! I recommend this for every expecting mommy!!! I had a huge baby bump and it really took a toll on my lower back, this really helped and you couldn't see it under my tshirts.", "sentiment": "negative", "topics": {"0": "0.15852897", "1": "0.4883091", "3": "0.07282886", "4": "0.05073623", "6": "0.21522221"}}

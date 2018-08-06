@@ -1,0 +1,1 @@
+{"text": "yes get a size bigger. for this price you cant beat it i went to a surplus store it was double the price.", "sentiment": "negative", "topics": {"0": "0.14992668", "1": "0.2870872", "2": "0.102506034", "3": "0.13312155", "4": "0.1960574", "5": "0.12026023", "6": "0.011040919"}}

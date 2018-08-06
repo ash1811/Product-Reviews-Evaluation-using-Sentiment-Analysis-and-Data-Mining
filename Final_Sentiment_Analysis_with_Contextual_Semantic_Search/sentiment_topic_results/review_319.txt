@@ -1,0 +1,1 @@
+{"text": "It's very well made for this price.  Color just as pictured.  Fabric nice & soft...not too thick or too thin.  Will buy more like this in other colors.", "sentiment": "positive", "topics": {"0": "0.010220198", "1": "0.5990346", "2": "0.0102162585", "3": "0.010220251", "4": "0.010215424", "5": "0.3498651", "6": "0.010228171"}}

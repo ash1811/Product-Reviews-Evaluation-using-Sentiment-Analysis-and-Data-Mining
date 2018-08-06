@@ -1,0 +1,1 @@
+{"text": "What can you say about Carhartt gear?  It is not always the cheapest but it is always at or near the top in quality and function.  This hat looks as good as a knit hat can look and it keeps my head very warm.  Well made, looks good, I highly recommend.", "sentiment": "positive", "topics": {"1": "0.6120808", "2": "0.09214628", "3": "0.18468162", "6": "0.094567314"}}

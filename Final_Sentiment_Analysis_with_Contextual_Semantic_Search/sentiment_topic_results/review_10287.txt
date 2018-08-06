@@ -1,0 +1,1 @@
+{"text": "These are exactly as described and are very comfortable.  They are not the type of sweats that are absorbant but are very easy to wear loose-fit.", "sentiment": "negative", "topics": {"0": "0.17012767", "1": "0.31642193", "2": "0.2222466", "3": "0.014340034", "4": "0.24816105", "5": "0.014339998", "6": "0.0143627"}}

@@ -1,0 +1,1 @@
+{"text": "My husband loves these shoes so much he is on his second pair.  He says his feet are very comfortable wearing them.", "sentiment": "negative", "topics": {"0": "0.011925998", "1": "0.3583742", "2": "0.19369376", "3": "0.011966669", "4": "0.3274898", "5": "0.0119141005", "6": "0.084635474"}}

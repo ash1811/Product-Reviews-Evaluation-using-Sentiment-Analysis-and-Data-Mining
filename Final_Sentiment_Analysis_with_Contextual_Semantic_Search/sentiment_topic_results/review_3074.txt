@@ -1,0 +1,1 @@
+{"text": "Good support for the chest and the shoulder.The edge where my arm touch,underarm area feels rough when touched.But over all I like it.", "sentiment": "negative", "topics": {"0": "0.010250444", "1": "0.14754121", "2": "0.3466996", "3": "0.2095451", "4": "0.2654641", "5": "0.010223936", "6": "0.010275609"}}

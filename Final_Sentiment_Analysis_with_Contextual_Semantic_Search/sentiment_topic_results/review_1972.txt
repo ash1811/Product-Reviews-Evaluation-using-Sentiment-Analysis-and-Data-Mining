@@ -1,0 +1,1 @@
+{"text": "Great shoes, very comfortable!  Only complaint is that they seem to be very warm (almost like winter boots) and not as breathable as a previous brand I owned.  Still wear them a ton though!", "sentiment": "negative", "topics": {"1": "0.4965047", "2": "0.2035737", "3": "0.1206719", "4": "0.15661797"}}

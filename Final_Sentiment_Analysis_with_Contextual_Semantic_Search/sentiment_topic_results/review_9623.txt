@@ -1,0 +1,1 @@
+{"text": "I loved this watch, and the previous one of the same design.  In both cases, the strap caught on something while I was moving my arm, and it broke.  Poor craftsmanship.  So disappointed.  Once I thought was a fluke, twice?", "sentiment": "positive", "topics": {"0": "0.14787757", "1": "0.28688318", "2": "0.30811355", "3": "0.17711009", "6": "0.064951986"}}

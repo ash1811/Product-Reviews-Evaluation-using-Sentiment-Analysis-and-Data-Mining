@@ -1,0 +1,1 @@
+{"text": "my baby girl love itand size was v.goodit was a good  productand it deserve the money i spend on it", "sentiment": "negative", "topics": {"0": "0.011938407", "1": "0.3716625", "2": "0.011980426", "3": "0.011953111", "4": "0.011959854", "5": "0.39717782", "6": "0.1833279"}}

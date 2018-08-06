@@ -1,0 +1,1 @@
+{"text": "These came quickly, packaged well, and exactly as described. They fit quite well and do help keep my hands warmer when used with gloves.", "sentiment": "negative", "topics": {"0": "0.12649874", "1": "0.38328943", "2": "0.17469592", "6": "0.2886555"}}

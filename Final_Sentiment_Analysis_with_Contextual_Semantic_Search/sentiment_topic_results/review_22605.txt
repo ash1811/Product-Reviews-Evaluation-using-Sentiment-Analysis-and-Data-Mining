@@ -1,0 +1,1 @@
+{"text": "Love these pants. Color is exact. I am 5'4'', 105lbs and they fit perfectly! I bought them for work but I will be using them for casual as well!", "sentiment": "negative", "topics": {"0": "0.0928115", "1": "0.68893325", "2": "0.010212114", "3": "0.010221939", "4": "0.010239228", "5": "0.07933992", "6": "0.10824205"}}

@@ -1,0 +1,1 @@
+{"text": "It's hard to find 24 months in long sleeve onesies.  So I was happy to find these for my grandson.  These are as expected.  The only 'bad' thing is they stretch out easily.", "sentiment": "negative", "topics": {"0": "0.09999645", "1": "0.51079917", "3": "0.08525017", "4": "0.18644404", "5": "0.099633425"}}

@@ -1,0 +1,1 @@
+{"text": "Functional pants when you need some cheap black pants.  But they aren't lined, they are cut a bit to low in the waist and too high in the crotch (ouch), and run small so order a size higher than usual.", "sentiment": "positive", "topics": {"0": "0.24198678", "1": "0.34715122", "3": "0.1722981", "5": "0.09662158", "6": "0.12828968"}}

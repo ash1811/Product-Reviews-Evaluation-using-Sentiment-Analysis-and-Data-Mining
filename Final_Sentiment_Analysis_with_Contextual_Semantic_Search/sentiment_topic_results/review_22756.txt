@@ -1,0 +1,1 @@
+{"text": "Only pendant I wear! All of my coworkers swear its the one from Tiffany.  Great quality.. no tarnishing, great value.. I would buy again.. perfect size", "sentiment": "negative", "topics": {"0": "0.08228441", "1": "0.36367393", "3": "0.12858069", "5": "0.24256293", "6": "0.16597743"}}

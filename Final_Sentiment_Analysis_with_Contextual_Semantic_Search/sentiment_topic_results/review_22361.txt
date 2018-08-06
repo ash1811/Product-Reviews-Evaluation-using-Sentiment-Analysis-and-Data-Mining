@@ -1,0 +1,1 @@
+{"text": "Never owned a pair of these socks even as a kid. Untill i bought me some skele shoes for work! And i must say these socks fit the shoe excellent!! Will be buying more.", "sentiment": "positive", "topics": {"0": "0.07284475", "1": "0.16563329", "2": "0.22701868", "3": "0.14144301", "5": "0.32778147", "6": "0.058113478"}}

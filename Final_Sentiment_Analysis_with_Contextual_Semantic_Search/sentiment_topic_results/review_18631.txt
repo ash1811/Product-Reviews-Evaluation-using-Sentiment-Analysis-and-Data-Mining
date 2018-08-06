@@ -1,0 +1,1 @@
+{"text": "Nice and stylish Arabic scarf.But written - Made in India. May be in Pakistan? :)Quality could be better.", "sentiment": "negative", "topics": {"0": "0.20505185", "1": "0.33890882", "2": "0.011005299", "3": "0.12611882", "4": "0.195505", "5": "0.011011826", "6": "0.112398386"}}

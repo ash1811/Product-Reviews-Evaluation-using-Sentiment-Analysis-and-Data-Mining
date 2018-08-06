@@ -1,0 +1,1 @@
+{"text": "This bra is a pain to get on but great support I'm glad I got it.. My husband has to help me get it on but glad he's here. great support and comfy. I am seven months pregnant and it does support ..", "sentiment": "positive", "topics": {"0": "0.04889654", "2": "0.22817881", "3": "0.45847616", "4": "0.16570018", "6": "0.086260445"}}

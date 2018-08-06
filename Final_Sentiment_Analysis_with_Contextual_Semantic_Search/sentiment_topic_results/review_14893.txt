@@ -1,0 +1,1 @@
+{"text": "These are the perfect size if u dont like large gawdy jewelry.Classic styled hoop earrings that look awesome with everyday wear.", "sentiment": "negative", "topics": {"0": "0.34966117", "2": "0.15996991", "3": "0.31238413", "4": "0.04449008", "6": "0.11555166"}}

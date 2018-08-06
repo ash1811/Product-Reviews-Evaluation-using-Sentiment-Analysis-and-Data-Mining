@@ -1,0 +1,1 @@
+{"text": "these are very pretty earrings but are very tiny, which I had been aware of before ordering, but am still surprised at how small they actually are :)  Will probably give them to my Grand daughter.", "sentiment": "positive", "topics": {"0": "0.0102451", "1": "0.49549088", "2": "0.3264761", "3": "0.010236101", "4": "0.0779863", "5": "0.010259816", "6": "0.06930571"}}

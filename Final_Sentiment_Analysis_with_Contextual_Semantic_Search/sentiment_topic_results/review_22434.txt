@@ -1,0 +1,1 @@
+{"text": "It does help alittle but I wish they made them a little thicker for those with tiny heels. Works on some of my pumps not all. A bit pricey though.", "sentiment": "positive", "topics": {"1": "0.10634219", "2": "0.22117895", "3": "0.3875251", "4": "0.11489507", "6": "0.1509878"}}

@@ -1,0 +1,1 @@
+{"text": "If you want a fun pirate costume, get this one! My son has had multiple pirate costumes and this is his favorite by far! (He was a little disappointed it didn't come with the eye patch and sword, but we had those things from other costumes.)", "sentiment": "negative", "topics": {"0": "0.36654636", "1": "0.22219369", "2": "0.23457839", "3": "0.15713197"}}

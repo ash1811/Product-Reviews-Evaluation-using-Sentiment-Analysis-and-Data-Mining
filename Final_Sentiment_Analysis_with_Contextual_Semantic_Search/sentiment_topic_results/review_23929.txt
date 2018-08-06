@@ -1,0 +1,1 @@
+{"text": "I decided awhile back to divest my stock portfolio. No longer do I have a wide array of patterns and fabrics. No sir. There's just one sock for me now. Can be worn for work or play. Good socks. Highly recommended.", "sentiment": "positive", "topics": {"1": "0.42299274", "2": "0.09922577", "3": "0.06769391", "5": "0.27262768", "6": "0.12553774"}}

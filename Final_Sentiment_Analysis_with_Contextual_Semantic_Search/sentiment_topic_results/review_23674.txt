@@ -1,0 +1,1 @@
+{"text": "Very well made, quality is excellent...the bayonet temples hug your head and the glasses stay put...the desert sun gets intense most days and these work great", "sentiment": "positive", "topics": {"0": "0.24562028", "1": "0.21061519", "2": "0.08708695", "3": "0.18844461", "4": "0.18324701", "6": "0.07744154"}}

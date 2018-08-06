@@ -1,0 +1,1 @@
+{"text": "Really sturdy Duster. Classic cut with removable rain cape. You can feel the oil and wax. Looks great and actually quite warm. Perfect for a rainy day and with a sweater I'll probably be wearing it in the Snow too.", "sentiment": "positive", "topics": {"1": "0.30079275", "2": "0.29175216", "3": "0.077114895", "4": "0.16732748", "5": "0.15198863"}}

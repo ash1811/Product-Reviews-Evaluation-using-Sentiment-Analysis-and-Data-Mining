@@ -1,0 +1,1 @@
+{"text": "Comfortable as every pair of crocs I've wore. A classic and user friendly pair of clogs, even in hot weather.", "sentiment": "positive", "topics": {"1": "0.27604336", "2": "0.092441335", "3": "0.15955275", "5": "0.35049713", "6": "0.10236856"}}

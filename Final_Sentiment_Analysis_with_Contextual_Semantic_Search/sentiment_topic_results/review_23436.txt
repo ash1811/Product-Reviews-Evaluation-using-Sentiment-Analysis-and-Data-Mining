@@ -1,0 +1,1 @@
+{"text": "Beautiful stockings, and size as stated.  Some might think hese a little bit on the short side, but the quality is very nice and they're comfortable to wear!", "sentiment": "negative", "topics": {"0": "0.08262973", "1": "0.47371197", "5": "0.24464287", "6": "0.17371571"}}

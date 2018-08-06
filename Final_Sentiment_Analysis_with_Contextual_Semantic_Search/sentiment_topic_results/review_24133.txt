@@ -1,0 +1,1 @@
+{"text": "Hard to find a bra that fully covers.This one fits as it should and I can even workout with it.Yet it is comfortable enough to wear everyday.", "sentiment": "negative", "topics": {"0": "0.09779759", "1": "0.20136036", "3": "0.08664923", "4": "0.16233878", "5": "0.4327664"}}

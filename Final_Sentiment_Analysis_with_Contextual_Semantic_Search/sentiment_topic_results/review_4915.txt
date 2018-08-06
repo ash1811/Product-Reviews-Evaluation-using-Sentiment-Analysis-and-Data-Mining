@@ -1,0 +1,1 @@
+{"text": "I'm married to a geek---this Timex Men's Ironman 100-Lap Watch #T5E241 is a perfect gift.  He has all kinds of settings, alerts, time options---He actually kept the paperwork so he could buy another one as a back up---GO FIGURE", "sentiment": "positive", "topics": {"0": "0.2039142", "1": "0.43994865", "2": "0.1020043", "4": "0.11984052", "5": "0.123699866"}}

@@ -1,0 +1,1 @@
+{"text": "This is my 2nd pair of size 7 moccasins.  The fit perfectly and are very comfortable!  Would definitely order the same in the future!", "sentiment": "negative", "topics": {"0": "0.1326086", "1": "0.3106008", "2": "0.09305014", "3": "0.18264458", "4": "0.01103303", "5": "0.010997855", "6": "0.259065"}}

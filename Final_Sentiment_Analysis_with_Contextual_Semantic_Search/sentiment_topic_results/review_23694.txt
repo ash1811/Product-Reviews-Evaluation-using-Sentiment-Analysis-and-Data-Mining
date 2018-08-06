@@ -1,0 +1,1 @@
+{"text": "Product in really nice, high quality good material, nice looking, comfortable, make sure you get right size, recommend, nice and lovely present", "sentiment": "negative", "topics": {"1": "0.50873053", "2": "0.0825685", "3": "0.25133225", "4": "0.07123257", "5": "0.07180279"}}

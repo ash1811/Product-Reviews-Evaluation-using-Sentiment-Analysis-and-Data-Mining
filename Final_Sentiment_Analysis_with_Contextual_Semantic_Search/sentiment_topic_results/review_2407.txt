@@ -1,0 +1,1 @@
+{"text": "they.are.a.real.heavy boot and real solid well made.like the keens and icebug better but there also more money if your looking for a good outdoor workboot the caterpillar are a good deal go with amazon great returns", "sentiment": "negative", "topics": {"1": "0.16378067", "3": "0.17436197", "4": "0.5180689", "6": "0.12509835"}}

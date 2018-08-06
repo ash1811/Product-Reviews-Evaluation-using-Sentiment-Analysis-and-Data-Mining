@@ -1,0 +1,1 @@
+{"text": "These undies fit like a ice sensual hug to your body and they are so feminine people never fail to tell me how great they look on . They feel good off too.", "sentiment": "negative", "topics": {"1": "0.36199403", "4": "0.24518871", "5": "0.15267915", "6": "0.21618176"}}

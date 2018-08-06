@@ -1,0 +1,1 @@
+{"text": "This pair was for my son. All 5 of mine love these shoes and wear them until they are literally in tatters.", "sentiment": "positive", "topics": {"0": "0.0143193705", "1": "0.6908872", "2": "0.23734534", "3": "0.014386478", "4": "0.014396288", "5": "0.014342246", "6": "0.014323053"}}

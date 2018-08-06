@@ -1,0 +1,1 @@
+{"text": "Purchased for my wife. Quality is not very good and the pendant itself is too large, at least for her (she is petite). I would not buy this again.", "sentiment": "positive", "topics": {"0": "0.12064988", "1": "0.45214584", "2": "0.011003438", "3": "0.011017891", "4": "0.011031437", "5": "0.38315263", "6": "0.010998875"}}

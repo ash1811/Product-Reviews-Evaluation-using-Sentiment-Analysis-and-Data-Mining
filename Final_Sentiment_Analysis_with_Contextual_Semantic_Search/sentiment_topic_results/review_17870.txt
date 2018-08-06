@@ -1,0 +1,1 @@
+{"text": "I brought this watch for a friend she loved it. The quality is great,the size,everything is perfect about this watch and of course the price. I have one myself and it is the most worn watch in all of my watches.", "sentiment": "negative", "topics": {"1": "0.2513044", "2": "0.4202686", "4": "0.0854873", "5": "0.15640372", "6": "0.06970485"}}

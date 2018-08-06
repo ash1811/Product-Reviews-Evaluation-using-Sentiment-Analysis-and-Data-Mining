@@ -1,0 +1,1 @@
+{"text": "It fits fine, washes nicely and does what it is supposed to do. Since I do not like nor wear underwire bras this is a great item.", "sentiment": "negative", "topics": {"0": "0.010235862", "1": "0.50645125", "2": "0.114144705", "3": "0.11257272", "4": "0.010222575", "5": "0.010250874", "6": "0.23612204"}}

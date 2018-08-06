@@ -1,0 +1,1 @@
+{"text": "Cute locket but certainly not a piece of fine jewelry.  It comes with the entire set of birthstones but you can only fit a few in.  Three stones fit easily, five will not fit at all and four is a squeeze.", "sentiment": "negative", "topics": {"0": "0.0933349", "1": "0.46156892", "2": "0.14424057", "3": "0.11948393", "5": "0.1176119", "6": "0.056956593"}}

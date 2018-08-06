@@ -1,0 +1,1 @@
+{"text": "I ordered the violet and it is beautiful.  The only thing I didn't like is that the loops for the belt are too high on me.", "sentiment": "negative", "topics": {"0": "0.014364419", "1": "0.014392629", "2": "0.53928244", "3": "0.014333084", "4": "0.014386239", "5": "0.014392476", "6": "0.38884875"}}

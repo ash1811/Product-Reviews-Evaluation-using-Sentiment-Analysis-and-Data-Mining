@@ -1,0 +1,1 @@
+{"text": "needed a new boot for duty. have been rocking bates for a while now and decided to stick with the trend. easily the fastest break in period ive had. they are very comfortable as well.", "sentiment": "negative", "topics": {"1": "0.3957145", "3": "0.20194557", "4": "0.2690201", "5": "0.10946174"}}

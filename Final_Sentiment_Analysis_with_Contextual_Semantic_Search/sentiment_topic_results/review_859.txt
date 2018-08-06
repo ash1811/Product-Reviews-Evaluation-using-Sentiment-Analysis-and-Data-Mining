@@ -1,0 +1,1 @@
+{"text": "I bought a pair of these many years ago, and would still be wearing them had my wife's dog not decided that she loved the taste of the strap. So, I was glad to find that the style with the bottle opener in the sole was still available.", "sentiment": "negative", "topics": {"1": "0.5095828", "2": "0.2042978", "4": "0.07963014", "5": "0.14376469", "6": "0.0507611"}}

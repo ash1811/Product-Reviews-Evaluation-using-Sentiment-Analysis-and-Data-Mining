@@ -1,0 +1,1 @@
+{"text": "I have had Keens before and I love the comfort and your price was absolutely great! I Would buy them again", "sentiment": "negative", "topics": {"0": "0.015913822", "1": "0.5562775", "2": "0.13712455", "3": "0.015927227", "4": "0.016000064", "5": "0.015921492", "6": "0.24283536"}}

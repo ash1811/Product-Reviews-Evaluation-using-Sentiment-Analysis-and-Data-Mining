@@ -1,0 +1,1 @@
+{"text": "I really should have known better. These are NOT suitable for use in winter conditions; no traction at all, and standing at the bus stop = freezing feet.  They are being returned.", "sentiment": "negative", "topics": {"0": "0.12064507", "1": "0.37217617", "3": "0.30365455", "4": "0.17661949"}}

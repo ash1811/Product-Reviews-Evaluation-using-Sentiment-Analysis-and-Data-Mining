@@ -1,0 +1,1 @@
+{"text": "This bracelet is the perfect size and weight. Looks exactly as pictured. Nice heavy clasp! Looks great for casual or formal wear.", "sentiment": "negative", "topics": {"0": "0.2848113", "1": "0.36627066", "3": "0.23269746", "6": "0.08929303"}}

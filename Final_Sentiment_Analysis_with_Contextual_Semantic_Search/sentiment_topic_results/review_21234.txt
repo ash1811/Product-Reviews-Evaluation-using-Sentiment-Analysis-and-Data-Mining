@@ -1,0 +1,1 @@
+{"text": "My son loves them. Light and comfortable. I have had the same pair for 3 years and they're holding up just fine.", "sentiment": "negative", "topics": {"0": "0.011936094", "1": "0.48889807", "2": "0.18044789", "3": "0.011985562", "4": "0.28289428", "5": "0.0119311", "6": "0.0119069815"}}

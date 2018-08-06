@@ -1,0 +1,1 @@
+{"text": "I bought this to wear with my sheath wedding dress, and the seamless lack of underwire makes for such a sleek and sexy figure flatering.", "sentiment": "positive", "topics": {"0": "0.12120592", "1": "0.17528401", "2": "0.010205753", "3": "0.09428783", "4": "0.14041492", "5": "0.13074057", "6": "0.327861"}}

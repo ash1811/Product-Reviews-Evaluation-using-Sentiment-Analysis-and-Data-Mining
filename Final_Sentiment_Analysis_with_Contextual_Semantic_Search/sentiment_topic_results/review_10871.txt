@@ -1,0 +1,1 @@
+{"text": "i think the soles kinda clomp on the flooring but they fit nicely. she loves these slippers. they look nice. the hard soles  should give a longer life compared to soft fabric soled slippers.", "sentiment": "positive", "topics": {"0": "0.06730706", "1": "0.58586603", "2": "0.05581909", "6": "0.2714357"}}

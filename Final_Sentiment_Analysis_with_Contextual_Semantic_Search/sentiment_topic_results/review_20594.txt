@@ -1,0 +1,1 @@
+{"text": "it's ok for the amature but the nuts that the adjusting screws turn in should of been tighter so that they don's loosen up when u are trying to use it otherwise it does it's job.", "sentiment": "negative", "topics": {"0": "0.16185737", "1": "0.15048197", "2": "0.16078031", "3": "0.18437749", "4": "0.1152797", "6": "0.21767983"}}

@@ -1,0 +1,1 @@
+{"text": "I am a bit hesitant to review this coat as I haven't used it in any really heavy rain.  The construction and design are good so it should work out.  The snaps on the front zipper flap are very stiff.", "sentiment": "negative", "topics": {"0": "0.27117378", "1": "0.40007678", "4": "0.15704183", "5": "0.08951031", "6": "0.06707911"}}

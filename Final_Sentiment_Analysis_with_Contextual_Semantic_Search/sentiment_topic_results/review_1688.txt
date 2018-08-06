@@ -1,0 +1,1 @@
+{"text": "Excellent quality without the Macy's price tag!  I've used this line for years and I've yet to be disappointed with my purchase!", "sentiment": "positive", "topics": {"1": "0.51076394", "2": "0.08830225", "3": "0.36276108"}}

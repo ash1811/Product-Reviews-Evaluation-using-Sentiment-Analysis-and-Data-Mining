@@ -1,0 +1,1 @@
+{"text": "I have been buying these  undies for YEARS and my Mom buys them for me too.  Super comfortable and long lasting!!! I like the color  variations as well..", "sentiment": "negative", "topics": {"0": "0.25543535", "1": "0.52554864", "2": "0.07680633", "3": "0.11350993"}}

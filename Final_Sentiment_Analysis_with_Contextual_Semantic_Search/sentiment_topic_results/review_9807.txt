@@ -1,0 +1,1 @@
+{"text": "I love Onituska Tigers. these are really comfortable and kinda stand out from everyone else's shoes. I love them. looking to get another pair soon.", "sentiment": "negative", "topics": {"0": "0.074353494", "1": "0.1604558", "2": "0.1180819", "3": "0.47949997", "6": "0.1516806"}}

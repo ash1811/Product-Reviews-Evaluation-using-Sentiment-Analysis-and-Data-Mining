@@ -1,0 +1,1 @@
+{"text": "This glue is awesome! I had a pair of flip flops the broke and I was able to fix them with this that was weeks ago and they are still holding together. I expect it would work well in many uses very strong glue.", "sentiment": "negative", "topics": {"0": "0.124795824", "1": "0.074211165", "2": "0.0611275", "3": "0.4656392", "4": "0.20622419", "6": "0.06147419"}}

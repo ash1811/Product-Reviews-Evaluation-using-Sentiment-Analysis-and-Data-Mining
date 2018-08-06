@@ -1,0 +1,1 @@
+{"text": "They fit well and look good, as expected.  I was expeciall pleased that they could be ordered with a 28 inch length, to eleminate alterations.  Totally satisfied.  Thanks", "sentiment": "negative", "topics": {"1": "0.5543498", "3": "0.19097905", "4": "0.12448541", "6": "0.10631092"}}

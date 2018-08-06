@@ -1,0 +1,1 @@
+{"text": "These are very simple but very cute, I was pretty surprised, how good they look on an adult regardless of their size.", "sentiment": "negative", "topics": {"0": "0.25427395", "1": "0.014378327", "2": "0.014298725", "3": "0.014336353", "4": "0.014299358", "5": "0.26194495", "6": "0.42646837"}}

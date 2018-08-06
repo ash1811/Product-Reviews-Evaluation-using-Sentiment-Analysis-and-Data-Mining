@@ -1,0 +1,1 @@
+{"text": "these pants are much smaller than other  pants of the same size label and are more of a skinny fit however the black coloring is great.", "sentiment": "negative", "topics": {"0": "0.011008071", "1": "0.42093784", "2": "0.09856897", "3": "0.35791048", "4": "0.01102809", "5": "0.08952658", "6": "0.011019991"}}

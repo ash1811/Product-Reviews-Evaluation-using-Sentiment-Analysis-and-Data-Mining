@@ -1,0 +1,1 @@
+{"text": "Got my lees Men*s Regular Fit Jean-walnut rapidly they are a little tight now I have gained weight since I bought them but I still can get into them.Nice pants", "sentiment": "negative", "topics": {"1": "0.49134117", "2": "0.08640395", "3": "0.18087336", "5": "0.10017739", "6": "0.12529898"}}

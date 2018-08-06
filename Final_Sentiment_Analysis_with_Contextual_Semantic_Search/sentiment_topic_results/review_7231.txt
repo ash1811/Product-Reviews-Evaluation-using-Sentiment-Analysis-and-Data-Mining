@@ -1,0 +1,1 @@
+{"text": "Fabric quality and size are as offered, the right vendor if you want quality product... at least durable enough as related to the price they charge.", "sentiment": "positive", "topics": {"1": "0.3671574", "3": "0.103709884", "4": "0.24092576", "5": "0.2613423"}}

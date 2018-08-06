@@ -1,0 +1,1 @@
+{"text": "I have 6 pairs of piercings in my ears, and I have small ears, so these are nice and small, but durable.  They look silver, which I am allergic to, but like the appearance of.", "sentiment": "positive", "topics": {"1": "0.5372222", "2": "0.07835403", "5": "0.1200151", "6": "0.23911044"}}

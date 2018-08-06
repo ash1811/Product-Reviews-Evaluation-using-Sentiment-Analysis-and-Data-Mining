@@ -1,0 +1,1 @@
+{"text": "This is a nice little tool that instantly pays for itself, (the first time it is used.) It comes in a nice little unfinished wood box that I finished with gun stock finish. Now it looks expensive as well as works well!", "sentiment": "positive", "topics": {"0": "0.07754544", "1": "0.45786366", "2": "0.25803405", "3": "0.06718941", "4": "0.07806117", "6": "0.055778682"}}

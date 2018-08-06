@@ -1,0 +1,1 @@
+{"text": "Shirts all fit perfectly and colors are as shown - no shrinkage after washing and shirt looks good out of the dryer", "sentiment": "negative", "topics": {"0": "0.011958781", "1": "0.7086592", "2": "0.011940635", "3": "0.011923006", "4": "0.23163325", "5": "0.0119435415", "6": "0.011941606"}}

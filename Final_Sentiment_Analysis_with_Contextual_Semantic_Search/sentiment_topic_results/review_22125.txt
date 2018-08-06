@@ -1,0 +1,1 @@
+{"text": "My wife loves this product. They are thin and very comfortable and addthe needed extra warmth under winter gloves.", "sentiment": "negative", "topics": {"0": "0.011925831", "1": "0.51257634", "2": "0.107975654", "3": "0.16683616", "4": "0.011957121", "5": "0.17679352", "6": "0.011935401"}}

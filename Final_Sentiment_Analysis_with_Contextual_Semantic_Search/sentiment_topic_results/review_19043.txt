@@ -1,0 +1,1 @@
+{"text": "The product arrived right on time and in a perfectly sized box. I really like the design, color (beige) & how incredibly good it feels. Definitely recommend the vendor & product!", "sentiment": "negative", "topics": {"0": "0.21740317", "1": "0.33106142", "3": "0.2433364", "5": "0.18667902"}}

@@ -1,0 +1,1 @@
+{"text": "just perfect in feel and stretchiness. No pockets needed for active sport and the string waistband is as it is supposed to be. I will wear these around the house instead of a robe.", "sentiment": "negative", "topics": {"0": "0.08455407", "1": "0.34773457", "2": "0.11737793", "3": "0.26546443", "4": "0.07940495", "5": "0.09701166"}}

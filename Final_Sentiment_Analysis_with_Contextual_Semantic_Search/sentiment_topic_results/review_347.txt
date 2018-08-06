@@ -1,0 +1,1 @@
+{"text": "This shirt is nice. Not great, but nice enough for casual wear. The fabric is a little on the rough/casual side. But, it is a good deal for the price.", "sentiment": "negative", "topics": {"1": "0.39413098", "3": "0.10613567", "5": "0.38578528", "6": "0.08711368"}}

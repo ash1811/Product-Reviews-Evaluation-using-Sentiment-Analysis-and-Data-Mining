@@ -1,0 +1,1 @@
+{"text": "If you haven't tried smartwool -- just do it. These are lovely, warm, thin socks. I use them over stockings but under boots to provide a bit of additional insulations. Fun patters too.", "sentiment": "negative", "topics": {"0": "0.2526735", "1": "0.3525015", "2": "0.10632573", "4": "0.20980737", "5": "0.06274901"}}

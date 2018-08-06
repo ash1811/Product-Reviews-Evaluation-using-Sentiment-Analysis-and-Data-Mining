@@ -1,0 +1,1 @@
+{"text": "Finally found a pair of sandals my likes and fit and he will most importantly wear thank you Adidas for making these/", "sentiment": "negative", "topics": {"0": "0.011061319", "1": "0.2780911", "2": "0.124697015", "3": "0.011045662", "4": "0.011031293", "5": "0.27627617", "6": "0.2877974"}}

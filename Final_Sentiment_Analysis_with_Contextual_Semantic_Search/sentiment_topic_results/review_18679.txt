@@ -1,0 +1,1 @@
+{"text": "I am of sm-med build and this did not want to stay up on me. They do however look great under a blacklight!", "sentiment": "negative", "topics": {"0": "0.26326638", "1": "0.5165323", "2": "0.16288598", "3": "0.014332381", "4": "0.014360753", "5": "0.014305109", "6": "0.014317076"}}

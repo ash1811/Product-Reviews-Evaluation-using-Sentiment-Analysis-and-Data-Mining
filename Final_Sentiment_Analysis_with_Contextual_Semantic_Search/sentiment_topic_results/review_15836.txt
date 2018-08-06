@@ -1,0 +1,1 @@
+{"text": "Nice color and reinforced toes makes them more durable. They are not to strong in the heel area. I do have callous free heels and I was surprised they did not wear as nicely as the rest of the hose.", "sentiment": "negative", "topics": {"0": "0.07106606", "1": "0.42505956", "3": "0.24637002", "4": "0.14484678", "6": "0.09676018"}}

@@ -1,0 +1,1 @@
+{"text": "Bought this for my daughter for prom, she said that its very comfortable and she loves the fact that she can wear this bra 5 diff. Ways.", "sentiment": "negative", "topics": {"0": "0.011010529", "1": "0.12461281", "2": "0.10246969", "3": "0.47504112", "4": "0.011037458", "5": "0.2648247", "6": "0.011003689"}}

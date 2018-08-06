@@ -1,0 +1,1 @@
+{"text": "really comfortable boots, fits as a glove and you can expect a good quality on SWAT boots, really great a purchase.", "sentiment": "positive", "topics": {"0": "0.01022271", "1": "0.53857034", "2": "0.09143504", "3": "0.010220898", "4": "0.1625045", "5": "0.10250496", "6": "0.08454152"}}

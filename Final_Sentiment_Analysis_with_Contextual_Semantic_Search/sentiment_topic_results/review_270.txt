@@ -1,0 +1,1 @@
+{"text": "I bought a large number of these panties throughout the years....always the best fit and quality.  I wear no other brand or style.", "sentiment": "positive", "topics": {"0": "0.011060663", "1": "0.66871756", "2": "0.16536327", "3": "0.12172938", "4": "0.011072678", "5": "0.011065436", "6": "0.010990994"}}

@@ -1,0 +1,1 @@
+{"text": "Got these as a gift for my wife and she likes them very much. She says they're very lightweight and are the perfect size for not being either too big or too small.", "sentiment": "positive", "topics": {"0": "0.11912672", "1": "0.36258334", "2": "0.010225348", "3": "0.010239859", "4": "0.11096576", "5": "0.010240879", "6": "0.3766181"}}

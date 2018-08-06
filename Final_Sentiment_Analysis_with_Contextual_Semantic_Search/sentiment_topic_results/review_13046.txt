@@ -1,0 +1,1 @@
+{"text": "This is some kind of cheap material that is \"hard\" rather than soft and luxurious.  It feels cheap but looks good.  i wouldn't buy again.", "sentiment": "negative", "topics": {"0": "0.35377082", "1": "0.25473842", "2": "0.010267391", "3": "0.09604519", "4": "0.14247698", "5": "0.13247955", "6": "0.010221614"}}

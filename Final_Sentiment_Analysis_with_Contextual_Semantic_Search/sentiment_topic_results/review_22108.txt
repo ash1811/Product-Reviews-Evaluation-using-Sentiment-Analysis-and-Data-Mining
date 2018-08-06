@@ -1,0 +1,1 @@
+{"text": "These are pretty nice gloves. They look as pictured and fit as expected. The only negative is that they smelled quite strange (kind of musty) when I first got them. I was able to wash the scent out of them and they smell fine now.", "sentiment": "positive", "topics": {"0": "0.14504617", "1": "0.28304616", "2": "0.2113354", "3": "0.28147122", "4": "0.066625364"}}

@@ -1,0 +1,1 @@
+{"text": "So precious in person.  It fit perfectly on my 1 year old who was wearing 12-18 month clothes.  I was happy with the quality.  He was only going to wear it once after all.  I kept it for the nostalgia but it could easily be worn again if handed down.", "sentiment": "negative", "topics": {"1": "0.48029527", "4": "0.31916335", "5": "0.11377547", "6": "0.068857566"}}

@@ -1,0 +1,1 @@
+{"text": "Love Minnetonka slippers!  These slippers have a great sole that is comfy for around the house, but substantial enough for a walk in the yard.  The plush interior is super warm, and the overall construction is great.", "sentiment": "negative", "topics": {"0": "0.14531615", "1": "0.34917474", "3": "0.13667671", "4": "0.13147043", "6": "0.2237094"}}

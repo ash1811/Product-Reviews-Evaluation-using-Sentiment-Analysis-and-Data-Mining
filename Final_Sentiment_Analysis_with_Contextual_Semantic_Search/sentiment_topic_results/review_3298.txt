@@ -1,0 +1,1 @@
+{"text": "Love our standard, reliable, Levi's...... nice to be able to get them delivered right to the door.Our tried and true - forever wearing!  Always love them.", "sentiment": "positive", "topics": {"1": "0.2549936", "3": "0.18306735", "4": "0.35406741", "5": "0.04016446", "6": "0.1517876"}}

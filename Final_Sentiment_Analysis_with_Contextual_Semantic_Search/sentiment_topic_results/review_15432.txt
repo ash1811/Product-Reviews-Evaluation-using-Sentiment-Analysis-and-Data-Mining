@@ -1,0 +1,1 @@
+{"text": "I've always had Ray-Bans and always liked the glass lenses.  These are made of plastic lenses.  I was surprised and disappointed.", "sentiment": "negative", "topics": {"0": "0.33425823", "1": "0.011031387", "2": "0.011030649", "3": "0.18973608", "4": "0.36294088", "5": "0.011006505", "6": "0.079996295"}}

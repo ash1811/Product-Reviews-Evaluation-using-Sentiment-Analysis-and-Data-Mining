@@ -1,0 +1,1 @@
+{"text": "These are the quality you expect from this maker. They wash up nice and last a long time. My son likes the way they feel, soft and with the right amount of cush!", "sentiment": "negative", "topics": {"0": "0.15265776", "1": "0.4064473", "4": "0.18038876", "5": "0.23522267"}}

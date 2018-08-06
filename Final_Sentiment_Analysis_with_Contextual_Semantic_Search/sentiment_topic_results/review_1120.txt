@@ -1,0 +1,1 @@
+{"text": "These earrrings are sparkly and splashy. They help to dress up an outfit and draw the lights to your face.", "sentiment": "negative", "topics": {"0": "0.22778907", "1": "0.19033152", "2": "0.19323832", "3": "0.0142912", "4": "0.0143209975", "5": "0.014320247", "6": "0.34570867"}}

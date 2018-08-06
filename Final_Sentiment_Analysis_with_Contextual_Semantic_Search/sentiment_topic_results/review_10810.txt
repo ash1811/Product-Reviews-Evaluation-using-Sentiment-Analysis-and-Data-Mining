@@ -1,0 +1,1 @@
+{"text": "These r totally ugly, i feel like grandma in these but they are crazy comfy and I love them. Just wish they came in cuter designs!", "sentiment": "negative", "topics": {"2": "0.25168768", "3": "0.4242612", "4": "0.28576574"}}

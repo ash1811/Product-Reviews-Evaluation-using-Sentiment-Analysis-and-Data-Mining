@@ -1,0 +1,1 @@
+{"text": "I've had these for 2 years and have worn them hiking and walking all over the city again and again and again - they keep me warm and are still as good as new.  I'll definitely keep buying them.", "sentiment": "negative", "topics": {"0": "0.24727051", "3": "0.543535", "6": "0.17730519"}}

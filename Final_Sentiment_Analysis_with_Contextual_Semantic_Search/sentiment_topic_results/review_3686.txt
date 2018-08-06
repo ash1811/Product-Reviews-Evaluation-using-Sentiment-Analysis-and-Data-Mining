@@ -1,0 +1,1 @@
+{"text": "These lenses are comfortable, and protect me against sunlight, because my job is to be on tour in very hot areas of my country, so I have the best lenses", "sentiment": "negative", "topics": {"0": "0.2710697", "1": "0.3245888", "2": "0.2539673", "3": "0.011915401", "4": "0.11458924", "5": "0.011963524", "6": "0.011906021"}}

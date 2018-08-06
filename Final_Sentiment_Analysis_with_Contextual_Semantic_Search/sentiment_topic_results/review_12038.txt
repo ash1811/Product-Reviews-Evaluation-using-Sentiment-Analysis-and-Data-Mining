@@ -1,0 +1,1 @@
+{"text": "Style and comfort come together for the classic look and fit.  These loafers are the epitome of grace and style with any outfit and in any setting.  You'll love them!", "sentiment": "negative", "topics": {"0": "0.1606327", "1": "0.3788801", "2": "0.18844916", "4": "0.1190188", "6": "0.13510744"}}

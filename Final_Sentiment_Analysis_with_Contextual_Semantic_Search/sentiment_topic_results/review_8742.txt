@@ -1,0 +1,1 @@
+{"text": "I've had this watch a few weeks and so far I like it. Easy to read,comfortable and intuitive to setup/use. Light is bright and the alarm tones are loud enough. I wish the timer could be set to the second,but that is a minor drawback.", "sentiment": "positive", "topics": {"2": "0.4311278", "3": "0.20874448", "4": "0.21340153", "6": "0.12879772"}}

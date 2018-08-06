@@ -1,0 +1,1 @@
+{"text": "As the title reads. Great for most occasions but do not recommend for the beach or anywhere you will be getting wet. Other than that they are the most comfortable sandals I've ever worn.", "sentiment": "negative", "topics": {"1": "0.5899254", "3": "0.29509833", "6": "0.07681103"}}

@@ -1,0 +1,1 @@
+{"text": "I have been wearing Levi's forever and these 514's are the perfect fit. If you wear boots these are the perfect jeans for boots, not to tight not to lose, just perfect. Great price from Amazon, Thanks!", "sentiment": "negative", "topics": {"1": "0.45678073", "2": "0.05176165", "3": "0.08402527", "4": "0.32765132", "6": "0.06467671"}}

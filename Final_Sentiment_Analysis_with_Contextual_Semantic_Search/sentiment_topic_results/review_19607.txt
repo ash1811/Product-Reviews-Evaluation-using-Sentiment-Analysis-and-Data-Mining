@@ -1,0 +1,1 @@
+{"text": "But. Ot for me....was looking for a full-coverage bra so have returned.  Lovely fabric and quality, as always, but not the style I needed.", "sentiment": "negative", "topics": {"0": "0.26451173", "1": "0.20291843", "2": "0.010237619", "3": "0.11834292", "4": "0.2963512", "5": "0.09738118", "6": "0.010256939"}}

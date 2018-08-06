@@ -1,0 +1,1 @@
+{"text": "good design, light weight, decent buckle. If this is for your b.o.b- you should always throw in an extra buckle and a few clips, to be safe, though this does seam as though it will hold up for awhile.", "sentiment": "positive", "topics": {"0": "0.26708278", "2": "0.107089594", "3": "0.5956406"}}

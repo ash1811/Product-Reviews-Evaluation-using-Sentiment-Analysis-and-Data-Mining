@@ -1,0 +1,1 @@
+{"text": "The delivery was fast!!! My boots fit perfectly. The quality is always fabulous with Uggs. I  have the brown & black Uggs in the same style. I would  highly recommend the boots for  cold weather.", "sentiment": "negative", "topics": {"0": "0.26816648", "1": "0.3561947", "3": "0.12565036", "4": "0.16068763", "6": "0.07496429"}}

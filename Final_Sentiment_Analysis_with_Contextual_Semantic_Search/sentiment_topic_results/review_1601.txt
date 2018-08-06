@@ -1,0 +1,1 @@
+{"text": "price would indicate that it is-but no it is not-i bought another for less than half of that price and it fits and does not roll-i will just dump it-a lesson learned", "sentiment": "negative", "topics": {"1": "0.47662532", "2": "0.0706473", "3": "0.12905303", "4": "0.15711232", "6": "0.14973578"}}

@@ -1,0 +1,1 @@
+{"text": "The cups are a little too small for the size of the band, but it has good support for everyday activities.", "sentiment": "negative", "topics": {"0": "0.0143412175", "1": "0.014353717", "2": "0.014297319", "3": "0.6354613", "4": "0.2929245", "5": "0.014314339", "6": "0.014307588"}}

@@ -1,0 +1,1 @@
+{"text": "It's good and I can wear it on hot weather. The fabric is soft. I recommend it for those who love to wear simple shirt.", "sentiment": "positive", "topics": {"0": "0.011939111", "1": "0.39439675", "2": "0.011922836", "3": "0.011942315", "4": "0.011956395", "5": "0.40712178", "6": "0.15072082"}}

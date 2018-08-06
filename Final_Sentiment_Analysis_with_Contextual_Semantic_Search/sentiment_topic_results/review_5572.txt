@@ -1,0 +1,1 @@
+{"text": "Bought this for my SIL.  He likes it. Not a thick shirt at all, just light and comfy. Would recommend.", "sentiment": "negative", "topics": {"0": "0.59776884", "1": "0.011963497", "2": "0.34244356", "3": "0.011961206", "4": "0.011927784", "5": "0.011968091", "6": "0.011966982"}}

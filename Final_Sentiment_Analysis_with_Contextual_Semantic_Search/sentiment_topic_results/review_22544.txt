@@ -1,0 +1,1 @@
+{"text": "Love it.  just dip silver jewelry for only couple of seconds, and they come out so bright and shiny back to original finish!", "sentiment": "negative", "topics": {"0": "0.17391346", "1": "0.5535414", "2": "0.14716132", "3": "0.010234432", "4": "0.010242524", "5": "0.010230236", "6": "0.09467661"}}

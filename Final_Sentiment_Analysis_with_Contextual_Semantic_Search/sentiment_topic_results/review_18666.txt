@@ -1,0 +1,1 @@
+{"text": "These were better than I expected. They almost look like velvet, but they stretch beautifully, fit great. Very happy with this product.", "sentiment": "negative", "topics": {"0": "0.011029439", "1": "0.39573553", "2": "0.28026754", "3": "0.011008933", "4": "0.12873992", "5": "0.16218917", "6": "0.011029481"}}

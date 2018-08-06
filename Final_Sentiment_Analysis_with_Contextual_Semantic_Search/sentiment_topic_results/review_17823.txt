@@ -1,0 +1,1 @@
+{"text": "love my watch but there is one little thing I dont like about it. the arm band is to small for my wrist.  I have to place it on the first or second notch.  I just wish I can find a longer band  but the watch is so awesome.", "sentiment": "positive", "topics": {"0": "0.18298271", "1": "0.2795251", "2": "0.31546813", "5": "0.20331192"}}

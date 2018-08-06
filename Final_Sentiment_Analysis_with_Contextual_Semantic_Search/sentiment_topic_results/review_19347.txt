@@ -1,0 +1,1 @@
+{"text": "The watch keeps losing minutes, and the light won't come on, anymore.  Took it in for a new battery, and that didn't do anything for it.  Too expensive, $28, for it to fall apart so quickly.", "sentiment": "positive", "topics": {"1": "0.36515963", "2": "0.24736907", "3": "0.14662029", "4": "0.072360516", "5": "0.08256966", "6": "0.07837341"}}

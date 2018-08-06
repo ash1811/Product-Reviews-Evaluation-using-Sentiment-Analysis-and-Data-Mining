@@ -1,0 +1,1 @@
+{"text": "They're cute, but my daughter hated them because they came up so high on her waist. I don't think they were the wrong size because they did fit. They were just ridiculously long!", "sentiment": "negative", "topics": {"0": "0.010238481", "1": "0.114117034", "2": "0.15632643", "3": "0.01023723", "4": "0.0102291545", "5": "0.47295195", "6": "0.22589974"}}

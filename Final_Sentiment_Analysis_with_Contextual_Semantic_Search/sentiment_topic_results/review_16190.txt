@@ -1,0 +1,1 @@
+{"text": "Purchased for my church.  The cloth works well keeping the altar sets polished.  I can recommend this product for polishing metal items.", "sentiment": "negative", "topics": {"0": "0.17663456", "1": "0.3730319", "2": "0.09769029", "4": "0.16305222", "5": "0.09802816", "6": "0.08202899"}}

@@ -1,0 +1,1 @@
+{"text": "Got this as a gift for my husband . Looks well made and is a nice all around watch. Haven't had it long enough to see how long the battery lasts. For the price it is a good looking and functional watch.", "sentiment": "positive", "topics": {"0": "0.19196485", "1": "0.47046712", "2": "0.13452046", "4": "0.18254709"}}

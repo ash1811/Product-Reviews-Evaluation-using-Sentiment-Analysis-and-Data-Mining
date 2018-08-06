@@ -1,0 +1,1 @@
+{"text": "Perfect skin color panty to wear under scrub pants, comfortable and non bindings legs and waist bands, only kind I wear", "sentiment": "negative", "topics": {"1": "0.33890617", "2": "0.23504077", "3": "0.2328452", "5": "0.16628608"}}

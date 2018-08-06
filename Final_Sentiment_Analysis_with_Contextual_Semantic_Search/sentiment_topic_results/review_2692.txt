@@ -1,0 +1,1 @@
+{"text": "much better then any of the local stores had. I am going to get some more of these.. for cotton thee best ones yet.", "sentiment": "negative", "topics": {"0": "0.010268803", "1": "0.16807793", "2": "0.14500782", "3": "0.22172037", "4": "0.010250568", "5": "0.43442914", "6": "0.010245329"}}

@@ -1,0 +1,1 @@
+{"text": "The watch was nice but the band was a strange color and design. Citzen makes a good watch it was a shame to return because of the band", "sentiment": "negative", "topics": {"0": "0.21335779", "1": "0.32508618", "2": "0.18230976", "3": "0.08260175", "4": "0.0102229165", "5": "0.010215351", "6": "0.17620625"}}

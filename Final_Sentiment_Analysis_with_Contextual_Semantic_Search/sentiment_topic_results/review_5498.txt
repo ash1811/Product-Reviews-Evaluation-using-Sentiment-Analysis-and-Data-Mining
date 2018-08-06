@@ -1,0 +1,1 @@
+{"text": "A great buy.  The large size is very long with nice long sleeves.  Very soft and comfortable.  Great shirt to work out in, or just relax in it.", "sentiment": "positive", "topics": {"1": "0.6716548", "3": "0.2006892", "5": "0.093993686"}}

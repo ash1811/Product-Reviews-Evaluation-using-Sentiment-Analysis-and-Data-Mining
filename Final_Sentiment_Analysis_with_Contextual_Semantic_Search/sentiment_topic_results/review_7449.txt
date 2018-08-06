@@ -1,0 +1,1 @@
+{"text": "This is really cute, the panties are really quite adorable, but the &#34;girls&#34; had no support and weren't really showcased well.", "sentiment": "positive", "topics": {"0": "0.011976521", "1": "0.011960738", "2": "0.011950704", "3": "0.64570105", "4": "0.09739224", "5": "0.20911027", "6": "0.011908433"}}

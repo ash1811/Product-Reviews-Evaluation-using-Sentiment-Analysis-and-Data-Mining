@@ -1,0 +1,1 @@
+{"text": "Its a nice watch with nice finish and color. I particularly  like the Blue face and gold tones around the band.", "sentiment": "negative", "topics": {"0": "0.1351297", "1": "0.37212515", "2": "0.28781113", "3": "0.17420463", "4": "0.01022875", "5": "0.010247587", "6": "0.010253067"}}

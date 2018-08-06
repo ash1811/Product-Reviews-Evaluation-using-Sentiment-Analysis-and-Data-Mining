@@ -1,0 +1,1 @@
+{"text": "I like this watch and to me it's classic G-shock. The only thing I don't like is that the band isn't as wide as on some of my other G-shocks. The clasp is black, which I like. Overall, I like this watch and it's priced right on Amazon.", "sentiment": "negative", "topics": {"2": "0.4285832", "4": "0.28723556", "5": "0.07670334", "6": "0.18485811"}}

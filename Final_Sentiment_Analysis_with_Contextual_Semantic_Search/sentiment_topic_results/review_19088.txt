@@ -1,0 +1,1 @@
+{"text": "I was so happy to receive this ring. It came in a cute little silver box, inside of a outside box. It looks so good, it's hard to tell that it's fake. If you want something nice for a small amount of money get this!", "sentiment": "negative", "topics": {"0": "0.21106121", "1": "0.48953", "2": "0.14442673", "3": "0.13776597"}}

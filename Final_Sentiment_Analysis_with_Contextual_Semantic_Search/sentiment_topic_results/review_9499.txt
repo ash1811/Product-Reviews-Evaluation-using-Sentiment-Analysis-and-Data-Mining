@@ -1,0 +1,1 @@
+{"text": "I can swim or shower in this watch with no problem.  The numbers are easy to see.  The only downide and this for me is true of any watch.  The bands are always too large for my tiny wrists.", "sentiment": "positive", "topics": {"2": "0.34239525", "4": "0.31459978", "5": "0.21505684", "6": "0.101036295"}}

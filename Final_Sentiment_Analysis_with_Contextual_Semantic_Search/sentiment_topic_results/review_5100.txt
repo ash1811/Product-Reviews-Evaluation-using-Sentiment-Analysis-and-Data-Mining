@@ -1,0 +1,1 @@
+{"text": "Dressy high gloss snakeskin shoe, fits like a casual loafer. Ok to wear with slacks or nice jeans and a sport coat.", "sentiment": "negative", "topics": {"0": "0.12634316", "1": "0.40904832", "2": "0.10648671", "6": "0.3328203"}}

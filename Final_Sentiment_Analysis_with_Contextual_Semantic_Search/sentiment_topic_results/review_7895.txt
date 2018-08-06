@@ -1,0 +1,1 @@
+{"text": "I am a sport buffAnd the fact that my sweat are basically absorbed allowed me to push my self even further without having to constantly be stopping in order to be wiping sweat or having my clothes feel heavy.", "sentiment": "negative", "topics": {"0": "0.107320204", "1": "0.2734084", "2": "0.17881806", "3": "0.071368635", "4": "0.22476685", "6": "0.13715503"}}

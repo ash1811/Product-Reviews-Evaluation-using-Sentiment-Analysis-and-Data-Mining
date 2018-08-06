@@ -1,0 +1,1 @@
+{"text": "I didn't realize this was a single pair of socks. Are you kidding me? It's a pair of socks, no way it should be that expensive.", "sentiment": "negative", "topics": {"0": "0.01299329", "1": "0.37830922", "2": "0.01300946", "3": "0.013079107", "4": "0.01307266", "5": "0.556504", "6": "0.013032263"}}

@@ -1,0 +1,1 @@
+{"text": "My daughter is looking forward to wearing this costume for Halloween.  The mask is quite scary.  She especially loves the gloves.  The length is perfect.  Happy Halloween to all!", "sentiment": "positive", "topics": {"0": "0.2842059", "1": "0.28015125", "2": "0.13931021", "4": "0.27246055"}}

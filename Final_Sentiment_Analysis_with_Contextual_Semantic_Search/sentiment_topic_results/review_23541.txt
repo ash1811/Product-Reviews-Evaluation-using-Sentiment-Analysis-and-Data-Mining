@@ -1,0 +1,1 @@
+{"text": "I was hoping my grandma would love this. Its scratchy & thin material assures me she will not. Sure it looks comfy zipped up from the outside, but its like burlap on the inside... Where it matters most!!!!! Thanks for the disappointment.", "sentiment": "negative", "topics": {"0": "0.16948369", "2": "0.3106347", "4": "0.18190935", "5": "0.15112422", "6": "0.1743563"}}

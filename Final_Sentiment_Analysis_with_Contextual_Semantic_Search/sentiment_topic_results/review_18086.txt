@@ -1,0 +1,1 @@
+{"text": "It fits well on my rather child sized wrist. If you have tiny wrists like I do this is perfect, however it should fit fine on an &#34;average&#34; sized wrist as well.", "sentiment": "positive", "topics": {"1": "0.21772988", "2": "0.24176472", "3": "0.09067723", "4": "0.14852035", "5": "0.2853981"}}

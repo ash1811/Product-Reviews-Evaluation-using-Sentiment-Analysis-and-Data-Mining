@@ -1,0 +1,1 @@
+{"text": "The leather is soft and comfortable but the shoe is more narrow than I expected, especially in the toe.  I am using some shoe stretchers and will probably solve the problem.  Made in China; probably why it is cheaper than the Timberline shoes.", "sentiment": "negative", "topics": {"1": "0.44755647", "2": "0.40213636", "3": "0.062271032", "5": "0.06750905"}}

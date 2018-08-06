@@ -1,0 +1,1 @@
+{"text": "I'm a small, &#34;wiry&#34; woman whose lifestyle depends on well fitting, hardy jeans.  These men's jeans fit me best and wear well, and the options for different colors and different weights are another plus.", "sentiment": "positive", "topics": {"0": "0.08706479", "1": "0.46019468", "3": "0.050529014", "4": "0.057746377", "5": "0.21735574", "6": "0.12138755"}}

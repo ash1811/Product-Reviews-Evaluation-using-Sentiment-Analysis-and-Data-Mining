@@ -1,0 +1,1 @@
+{"text": "Make sure you really like this item, because I was charged $8 in restocking fees. Not sure where it's mentioned in the product page; I couldn't find it anywhere.", "sentiment": "negative", "topics": {"1": "0.132827", "2": "0.3692703", "3": "0.093092434", "4": "0.07100258", "5": "0.21209647", "6": "0.11276427"}}

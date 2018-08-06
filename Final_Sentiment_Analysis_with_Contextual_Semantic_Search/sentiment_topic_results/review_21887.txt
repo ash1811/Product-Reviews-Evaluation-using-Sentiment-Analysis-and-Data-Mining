@@ -1,0 +1,1 @@
+{"text": "oh i am so angry with her but she wore this and it is HOT i was right she does look great i bought more but so far she has not tried them we'll get throught it.", "sentiment": "negative", "topics": {"1": "0.5637166", "4": "0.14225014", "5": "0.15411684", "6": "0.1112217"}}

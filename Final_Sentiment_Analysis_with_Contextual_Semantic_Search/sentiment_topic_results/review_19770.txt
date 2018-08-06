@@ -1,0 +1,1 @@
+{"text": "It is difficult to find sweat pants that have pockets, elasticized cuffs, fit well, and are comfortable.  These fit the bill on all counts.  Also a good value for the money.", "sentiment": "positive", "topics": {"1": "0.47715616", "4": "0.20457745", "5": "0.15583728", "6": "0.13856544"}}

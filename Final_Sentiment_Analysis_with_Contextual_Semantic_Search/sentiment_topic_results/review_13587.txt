@@ -1,0 +1,1 @@
+{"text": "Look great! And, as an added bonus I do not have to worry about losing these because of the clasp finish", "sentiment": "positive", "topics": {"0": "0.21483481", "1": "0.32226", "2": "0.16740273", "3": "0.17258485", "4": "0.014396584", "5": "0.0143074095", "6": "0.09421365"}}

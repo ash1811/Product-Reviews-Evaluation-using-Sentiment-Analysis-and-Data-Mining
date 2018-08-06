@@ -1,0 +1,1 @@
+{"text": "I wear these gloves under a pair of mittens I've knitted with very fine yarn, which were not warm enough for Boston winters. It makes all the difference, and my mittens are now very warm!", "sentiment": "negative", "topics": {"0": "0.19965889", "1": "0.22331907", "2": "0.12666388", "3": "0.26401144", "4": "0.16952197"}}

@@ -1,0 +1,1 @@
+{"text": "I love these shorts! They fit perfect! Very cool mesh like material. I am looking forward to wearing these this summer.", "sentiment": "negative", "topics": {"0": "0.40973073", "1": "0.53515947", "2": "0.011010194", "3": "0.011016224", "4": "0.011026716", "5": "0.011032098", "6": "0.011024526"}}

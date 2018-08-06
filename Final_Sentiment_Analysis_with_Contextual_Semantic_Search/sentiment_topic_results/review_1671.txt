@@ -1,0 +1,1 @@
+{"text": "I like the comfort and style.the size I pick 2xl fit perfect. But I wish the price was a little lower thank you", "sentiment": "negative", "topics": {"0": "0.010221644", "1": "0.25418466", "2": "0.27388173", "3": "0.14999191", "4": "0.010221424", "5": "0.010236578", "6": "0.2912621"}}

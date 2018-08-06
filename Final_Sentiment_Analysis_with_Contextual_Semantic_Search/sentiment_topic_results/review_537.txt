@@ -1,0 +1,1 @@
+{"text": "Their the smallest 35's I have ever seen.  They wouldn't fit my son at all and were very tight on my grandson that wears a 33.", "sentiment": "positive", "topics": {"0": "0.013029465", "1": "0.5491571", "2": "0.0130077", "3": "0.013007703", "4": "0.3856932", "5": "0.013018673", "6": "0.01308623"}}

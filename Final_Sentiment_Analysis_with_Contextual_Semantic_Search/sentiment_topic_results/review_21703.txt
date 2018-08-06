@@ -1,0 +1,1 @@
+{"text": "Its such a cute earring, an all occassion type too. Can't get enough of it yet, I like the feel of it", "sentiment": "negative", "topics": {"0": "0.928291", "1": "0.011937477", "2": "0.011940405", "3": "0.011941679", "4": "0.011958188", "5": "0.011987241", "6": "0.0119440295"}}

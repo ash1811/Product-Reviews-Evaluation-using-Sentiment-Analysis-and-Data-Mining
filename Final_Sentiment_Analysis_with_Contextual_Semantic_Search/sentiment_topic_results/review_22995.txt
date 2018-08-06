@@ -1,0 +1,1 @@
+{"text": "These are perfect for lounging around the house or doing house work. I also wear them to mow the lawn. COOL shorts!", "sentiment": "positive", "topics": {"0": "0.156923", "1": "0.011019288", "2": "0.011004761", "3": "0.43725553", "4": "0.36168358", "5": "0.011076839", "6": "0.011037044"}}

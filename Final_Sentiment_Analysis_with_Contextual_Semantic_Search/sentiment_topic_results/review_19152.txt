@@ -1,0 +1,1 @@
+{"text": "Good quality silver - Awesome finish - does not hurt and reall value for money. Glad I got it", "sentiment": "negative", "topics": {"0": "0.0119225895", "1": "0.25886413", "2": "0.102844894", "3": "0.011932856", "4": "0.01192586", "5": "0.28308827", "6": "0.31942138"}}

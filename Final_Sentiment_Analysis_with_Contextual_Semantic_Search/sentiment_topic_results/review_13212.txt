@@ -1,0 +1,1 @@
+{"text": "This is a good product. I wish I would have known about it with my son. We used this on our daughter for 2 summers and it worked well. We never had any issue with it. We tried a couple different brands and felt this was the best, by far.", "sentiment": "negative", "topics": {"0": "0.13970459", "1": "0.4603905", "2": "0.17812248", "3": "0.06737748", "5": "0.1419512"}}

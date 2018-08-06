@@ -1,0 +1,1 @@
+{"text": "I like these for dance exercise where shoes get in the way. They are snug and easy to wear. Wish they cost less.", "sentiment": "positive", "topics": {"0": "0.011012131", "1": "0.011037106", "2": "0.20183145", "3": "0.30637443", "4": "0.011005368", "5": "0.011058339", "6": "0.44768122"}}

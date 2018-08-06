@@ -1,0 +1,1 @@
+{"text": "I bought these for my granddaughter who is just starting to potty train. They are nice girl colors and it is nice to have white underwear for those time the outfit is light in color.  I would recommend.", "sentiment": "negative", "topics": {"1": "0.53399503", "2": "0.18957202", "4": "0.13816367", "5": "0.11434563"}}

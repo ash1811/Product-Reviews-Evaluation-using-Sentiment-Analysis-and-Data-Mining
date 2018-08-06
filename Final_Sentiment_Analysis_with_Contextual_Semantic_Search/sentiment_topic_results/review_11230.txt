@@ -1,0 +1,1 @@
+{"text": "I use this polish for my brown shoes and it works great.  Be careful on first use it may pour out.  If your careful, this is a great product!", "sentiment": "negative", "topics": {"0": "0.08984592", "1": "0.2588404", "2": "0.08574367", "3": "0.30184138", "5": "0.17004319", "6": "0.08472494"}}

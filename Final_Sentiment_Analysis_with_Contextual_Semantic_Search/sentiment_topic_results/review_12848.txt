@@ -1,0 +1,1 @@
+{"text": "I always get these tights on Amazon now as they are so much less expensive than at the dance stores.  It's best to know exactly which size you will need before purchasing though.", "sentiment": "positive", "topics": {"1": "0.23364197", "4": "0.20561293", "5": "0.09619173", "6": "0.43918616"}}

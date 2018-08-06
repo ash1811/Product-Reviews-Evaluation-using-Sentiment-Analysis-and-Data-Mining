@@ -1,0 +1,1 @@
+{"text": "It is good to get shoes that are simple, come in just one color and are good quality. My son tells me they are comfortable. Hope they are long lasting.", "sentiment": "positive", "topics": {"1": "0.6184805", "2": "0.26724598", "6": "0.07845884"}}

@@ -1,0 +1,1 @@
+{"text": "It is always a chore to order pants as most companies don't have a standard size and one maker you'll need a larger size or longer length.  These fix perfectly and are very comfortable.", "sentiment": "positive", "topics": {"0": "0.09521092", "1": "0.2779832", "4": "0.29130012", "6": "0.31161642"}}

@@ -1,0 +1,1 @@
+{"text": "This shoe horn has the right length and the perfect shoe horn at the end to be very easy to use. I love it because it makes putting shoes on very very easy. Also, it is made in the USA.", "sentiment": "negative", "topics": {"1": "0.18475772", "2": "0.21184675", "3": "0.19571507", "4": "0.38500184"}}

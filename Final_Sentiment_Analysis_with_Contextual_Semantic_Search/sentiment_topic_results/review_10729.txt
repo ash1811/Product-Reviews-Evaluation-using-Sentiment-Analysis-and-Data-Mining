@@ -1,0 +1,1 @@
+{"text": "The boots fit pretty good right out of the box.  They will take a little while to break in.  I bought them after I had purchased the Timberland tan boots, that feel great.", "sentiment": "negative", "topics": {"1": "0.4632118", "2": "0.07527073", "3": "0.08065997", "4": "0.18138887", "5": "0.0886651", "6": "0.10284187"}}

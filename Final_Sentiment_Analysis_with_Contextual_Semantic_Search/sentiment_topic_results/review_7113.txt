@@ -1,0 +1,1 @@
+{"text": "I love this. It was cheap, and it is super cute and the kids just adore it. Anything to do with Dora is always a hit, and they felt like it was similar to her backpack...", "sentiment": "negative", "topics": {"1": "0.29111043", "2": "0.53178835", "5": "0.14337072"}}

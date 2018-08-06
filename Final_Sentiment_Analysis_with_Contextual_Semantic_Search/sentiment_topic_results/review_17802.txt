@@ -1,0 +1,1 @@
+{"text": "Cant beat casio for their products toughness when it comes to these watches. Perfect for several occassions. They will last forever.", "sentiment": "negative", "topics": {"0": "0.011057439", "1": "0.011105927", "2": "0.106856555", "3": "0.011052095", "4": "0.413937", "5": "0.34967825", "6": "0.09631274"}}

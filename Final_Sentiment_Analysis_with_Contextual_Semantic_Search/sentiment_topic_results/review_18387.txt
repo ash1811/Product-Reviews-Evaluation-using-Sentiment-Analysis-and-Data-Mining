@@ -1,0 +1,1 @@
+{"text": "Very cheapy looking.  One of my worse choices.  Definitely returning these.  The picture did them way more justice then in person.", "sentiment": "positive", "topics": {"0": "0.011023178", "1": "0.011125341", "2": "0.35384795", "3": "0.5909759", "4": "0.011021004", "5": "0.01100182", "6": "0.011004871"}}

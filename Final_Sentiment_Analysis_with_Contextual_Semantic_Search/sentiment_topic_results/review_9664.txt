@@ -1,0 +1,1 @@
+{"text": "Great classic design but low quality.  Had to return it because it was impossible to get the time right. darn.", "sentiment": "negative", "topics": {"0": "0.011939175", "1": "0.49587914", "2": "0.12918048", "3": "0.011940513", "4": "0.11809517", "5": "0.0119430665", "6": "0.22102244"}}

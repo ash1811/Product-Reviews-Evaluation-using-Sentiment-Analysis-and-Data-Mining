@@ -1,0 +1,1 @@
+{"text": "I find this brand extremely comfortable & durable.  As I've lost weight over the past couple of years, these have been great.", "sentiment": "positive", "topics": {"0": "0.01100403", "1": "0.56027675", "2": "0.011013877", "3": "0.3845935", "4": "0.011008783", "5": "0.011023133", "6": "0.011079903"}}

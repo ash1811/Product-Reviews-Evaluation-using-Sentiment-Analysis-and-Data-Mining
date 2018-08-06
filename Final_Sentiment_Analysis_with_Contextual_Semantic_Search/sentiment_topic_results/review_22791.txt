@@ -1,0 +1,1 @@
+{"text": "It's a very pretty bracelet and I wear it day to day to avoid wearing something very pricey and risk losing it, but you can tell it is fake.", "sentiment": "negative", "topics": {"1": "0.4350286", "2": "0.25195354", "3": "0.1757523", "6": "0.10854723"}}

@@ -1,0 +1,1 @@
+{"text": "Jerzee is a quality brand, and I'm not disapointed.  Very comfortable!  Easy to wash, and comfortable to wear, inside and outside.", "sentiment": "positive", "topics": {"0": "0.010997574", "1": "0.5079681", "2": "0.011006848", "3": "0.43698332", "4": "0.011008933", "5": "0.011015595", "6": "0.011019591"}}

@@ -1,0 +1,1 @@
+{"text": "This is a cheap, plain, watch - exactly what I was looking for!  I like the way the band feels on my arm.  It's so lightweight that I can hardly even feel that I'm wearing anything.  I was surprised by the quality given the price.", "sentiment": "positive", "topics": {"0": "0.2018093", "1": "0.15596722", "2": "0.16808029", "3": "0.061848734", "6": "0.3998243"}}

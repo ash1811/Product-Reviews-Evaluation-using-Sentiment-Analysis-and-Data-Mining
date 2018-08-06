@@ -1,0 +1,1 @@
+{"text": "For small busted women, this can be a difficult bra to find.Glamorise has the fit and the quality that you'd expect.Would I give it a five star recommend?  Girl, yes I would !", "sentiment": "negative", "topics": {"1": "0.5295245", "2": "0.20954184", "3": "0.09081872", "5": "0.083114415", "6": "0.07017237"}}

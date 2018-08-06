@@ -1,0 +1,1 @@
+{"text": "These are nice and soft.  The waist band feels good and the button on the fly helps keep things in check.", "sentiment": "negative", "topics": {"0": "0.011061714", "1": "0.22973777", "2": "0.011082293", "3": "0.26018894", "4": "0.011019868", "5": "0.11239581", "6": "0.3645136"}}

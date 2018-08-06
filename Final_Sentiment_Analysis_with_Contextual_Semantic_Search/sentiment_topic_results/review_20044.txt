@@ -1,0 +1,1 @@
+{"text": "this is in it's second year with my high school kid and it is holding up very well.  most days it feels like it's carrying 50lbs worth of books", "sentiment": "positive", "topics": {"0": "0.107739694", "1": "0.24718976", "4": "0.09019732", "5": "0.28594184", "6": "0.24973172"}}

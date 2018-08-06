@@ -1,0 +1,1 @@
+{"text": "It looks like a little kids watch, but I just need for it to tell time.  The extra hook that holds the strap slides off all the time and I'm afraid I'm going to lose it one day.", "sentiment": "negative", "topics": {"2": "0.32306743", "3": "0.17139778", "5": "0.41178855", "6": "0.07418714"}}

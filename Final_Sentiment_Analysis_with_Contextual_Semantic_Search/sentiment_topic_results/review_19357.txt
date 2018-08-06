@@ -1,0 +1,1 @@
+{"text": "Like this garden clog very much.  A little narrow, but it stays on your feet even when digging holes, etc.  A little heavy for mowing or lots of walking, but overall very pleased with them and a good price as well.", "sentiment": "negative", "topics": {"1": "0.6153391", "2": "0.06377275", "4": "0.1828825", "6": "0.11927758"}}

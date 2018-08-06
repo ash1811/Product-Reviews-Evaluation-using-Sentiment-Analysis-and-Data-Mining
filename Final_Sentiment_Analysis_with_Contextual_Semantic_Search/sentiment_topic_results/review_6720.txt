@@ -1,0 +1,1 @@
+{"text": "minnetonka never disappoints.  quality made boots for a great price. classic style and easy to put on baby. i definitely recommend this product to everyone.", "sentiment": "positive", "topics": {"1": "0.4020899", "2": "0.0781269", "3": "0.14162236", "4": "0.1707735", "5": "0.1127211", "6": "0.08671597"}}

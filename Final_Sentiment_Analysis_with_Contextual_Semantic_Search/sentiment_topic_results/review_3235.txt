@@ -1,0 +1,1 @@
+{"text": "I have been wearing these jeans since a teenager (40 years!) and the qualithy fit, and look are still the same, you don't need to spend hundreds more, buy these and save the money....", "sentiment": "positive", "topics": {"1": "0.3261682", "3": "0.25265193", "4": "0.047068376", "5": "0.17231369", "6": "0.1866859"}}

@@ -1,0 +1,1 @@
+{"text": "Shoe fits well and is comfortable.  Most slides slip around if you walk fast, but this one stays put!  Holds up well to wear.", "sentiment": "negative", "topics": {"0": "0.10763666", "1": "0.5350417", "2": "0.22676738", "3": "0.1036957"}}

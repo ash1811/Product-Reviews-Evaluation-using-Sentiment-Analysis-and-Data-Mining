@@ -1,0 +1,1 @@
+{"text": "I purchased this backpack for my son.  It's made of sturdy material and he's been using it for over 2 years now.  It's still looks brand new.", "sentiment": "negative", "topics": {"0": "0.17336506", "1": "0.45004392", "2": "0.14651248", "3": "0.20324203"}}

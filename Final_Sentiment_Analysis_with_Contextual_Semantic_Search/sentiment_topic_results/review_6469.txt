@@ -1,0 +1,1 @@
+{"text": "This T-Shirt is well made and it looks good. The price was very nice at the time of purchase. Definitely 4 Stars!", "sentiment": "positive", "topics": {"0": "0.011022649", "1": "0.85449636", "2": "0.011028455", "3": "0.09041938", "4": "0.011015235", "5": "0.011012948", "6": "0.011004926"}}

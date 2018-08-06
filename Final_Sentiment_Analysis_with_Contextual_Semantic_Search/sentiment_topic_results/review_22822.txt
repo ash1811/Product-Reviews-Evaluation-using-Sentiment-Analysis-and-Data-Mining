@@ -1,0 +1,1 @@
+{"text": "matches my bracelet and easy to get on and off i am always losing a earring not these though they ROCK!!!", "sentiment": "negative", "topics": {"0": "0.3199975", "1": "0.014345402", "2": "0.18744259", "3": "0.4351321", "4": "0.014395548", "5": "0.014335977", "6": "0.014350888"}}

@@ -1,0 +1,1 @@
+{"text": "Okay, folks, call it what you will.  Granny panty?Ok, that'll work because that's exactly what it is.Probably the most comfortable panty you'll ever wear.A definite recommend.", "sentiment": "negative", "topics": {"0": "0.21902508", "1": "0.18678463", "2": "0.107646", "3": "0.22783592", "4": "0.16750303", "5": "0.082775086"}}

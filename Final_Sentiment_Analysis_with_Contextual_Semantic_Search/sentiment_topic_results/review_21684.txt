@@ -1,0 +1,1 @@
+{"text": "Nice casual earring.  So cute!  Good to wear on a daily basis.  Well constructed.  Bought to give as a gift but I think I'll keep for myself!", "sentiment": "negative", "topics": {"0": "0.2484369", "1": "0.3369828", "3": "0.18567188", "5": "0.13888307", "6": "0.07414261"}}

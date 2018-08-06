@@ -1,0 +1,1 @@
+{"text": "This bra is very pretty but ran small. I ordered a 40C and it didn't fit right especially under my armpits causing bulging. Recommend it for slimmer women possibly who have less bodyfat under their armpits.", "sentiment": "negative", "topics": {"1": "0.3019634", "2": "0.15420277", "3": "0.18395515", "4": "0.28095993", "6": "0.064605154"}}

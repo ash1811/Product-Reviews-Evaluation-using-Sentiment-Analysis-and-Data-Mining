@@ -1,0 +1,1 @@
+{"text": "This is a nice looking watch. Works well.  I like the analog and digital time views.  However, I am a gym rat and I've had better watched to use in the gym.", "sentiment": "negative", "topics": {"2": "0.23157035", "3": "0.5603302", "6": "0.17792317"}}

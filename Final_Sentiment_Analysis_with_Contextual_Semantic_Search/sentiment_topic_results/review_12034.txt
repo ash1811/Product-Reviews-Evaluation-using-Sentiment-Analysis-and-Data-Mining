@@ -1,0 +1,1 @@
+{"text": "This shoe looks and feels like plastic when you see it cose up. It is exceedingly narrow and very uncomfortable.", "sentiment": "positive", "topics": {"0": "0.011942923", "1": "0.27333212", "2": "0.10412412", "3": "0.011931208", "4": "0.22278164", "5": "0.011935848", "6": "0.36395216"}}

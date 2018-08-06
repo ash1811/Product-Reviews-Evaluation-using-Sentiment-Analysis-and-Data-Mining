@@ -1,0 +1,1 @@
+{"text": "i give a five star rating because they fit and they are well made.  My son looks like a cutie patutie in these with his navy suit and coral bow tie.  awesome little man shoes.", "sentiment": "negative", "topics": {"1": "0.4399108", "2": "0.16609392", "3": "0.14490977", "6": "0.22956896"}}

@@ -1,0 +1,1 @@
+{"text": "These are soft and cozy...that's all I could want in a slipper. They also have a hard rubber sole so I can walk outside if I have to go get the paper. There's nothing bad to say about them!", "sentiment": "negative", "topics": {"0": "0.26305822", "1": "0.34312993", "3": "0.14215751", "4": "0.07235518", "6": "0.16496922"}}

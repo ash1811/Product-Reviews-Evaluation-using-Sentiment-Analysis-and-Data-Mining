@@ -1,0 +1,1 @@
+{"text": "Trying to find something special is sometimes difficult, but this box is perfect for a best friend. The quality of Willow Tree products never fail and this is no exception. Beautiful.", "sentiment": "negative", "topics": {"1": "0.34913453", "2": "0.058348786", "4": "0.14535648", "5": "0.19610901", "6": "0.23598309"}}

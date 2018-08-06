@@ -1,0 +1,1 @@
+{"text": "These fit great right out of the box.  I have a wide foot and these do the trick.  Not all Keen's work for my wide foot but these do.  I can put my own arch support in, too, but don't need to yet.  Nice arch support.", "sentiment": "negative", "topics": {"1": "0.28984544", "3": "0.23650725", "4": "0.20015733", "5": "0.15865214", "6": "0.102352805"}}

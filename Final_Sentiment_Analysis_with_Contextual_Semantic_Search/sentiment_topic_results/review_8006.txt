@@ -1,0 +1,1 @@
+{"text": "I used these for a hallow wee costume. Great price for just wearing them twice. They complemented my costume perfectly.", "sentiment": "negative", "topics": {"0": "0.2722229", "1": "0.40613386", "2": "0.011908539", "3": "0.17820317", "4": "0.011913615", "5": "0.107709736", "6": "0.011908165"}}

@@ -1,0 +1,1 @@
+{"text": "These are perfect for everyday use.  I wear flip flops 5 months out of the year and these are my favorite and affordable.", "sentiment": "negative", "topics": {"0": "0.011938327", "1": "0.60213786", "2": "0.12048", "3": "0.0119536035", "4": "0.22961342", "5": "0.011951018", "6": "0.011925732"}}

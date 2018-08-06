@@ -1,0 +1,1 @@
+{"text": "We live in very cold country and this underwear is awesome. Very light. Hard to imagine that it could really keep you warm but it does without all the bulkiness of heavier underwear.  Highly  recommend.", "sentiment": "negative", "topics": {"0": "0.1964621", "1": "0.22360212", "2": "0.21880752", "3": "0.059160452", "5": "0.2868914"}}

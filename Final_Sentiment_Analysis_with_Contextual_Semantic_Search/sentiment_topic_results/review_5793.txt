@@ -1,0 +1,1 @@
+{"text": "Runs exactly as other Hanes products. Great fit. Great price. Purchased this to go under a sports polo and it's a great fit.", "sentiment": "negative", "topics": {"0": "0.08121721", "1": "0.77731705", "5": "0.10324791"}}

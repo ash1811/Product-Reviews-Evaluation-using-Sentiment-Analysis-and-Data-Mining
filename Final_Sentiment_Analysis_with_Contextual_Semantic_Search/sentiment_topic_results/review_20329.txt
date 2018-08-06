@@ -1,0 +1,1 @@
+{"text": "Great boot for walking, hiking especially over uneven terrain with a dog who pulls on the leash a lot! Love them.", "sentiment": "negative", "topics": {"0": "0.38007912", "1": "0.010240988", "2": "0.13018687", "3": "0.12208361", "4": "0.33693686", "5": "0.010252125", "6": "0.0102204615"}}

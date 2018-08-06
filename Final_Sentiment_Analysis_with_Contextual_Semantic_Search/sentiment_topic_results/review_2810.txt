@@ -1,0 +1,1 @@
+{"text": "Comfy, cute, and a killer price on Amazon. Bought these when I sprained my foot and needed some cute but supportive footwear while healing, and these saved me.", "sentiment": "negative", "topics": {"2": "0.28839847", "4": "0.20858495", "5": "0.24024217", "6": "0.23584826"}}

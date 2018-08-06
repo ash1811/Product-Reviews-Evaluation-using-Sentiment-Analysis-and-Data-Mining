@@ -1,0 +1,1 @@
+{"text": "One of my favorite shoes.  Comfortable right out of the box.  True to size for my size 8 wide feet.  Easily wash in the washing machine and air dry and look like new.  I have bought these too many times to count!", "sentiment": "negative", "topics": {"1": "0.32425708", "2": "0.07358221", "3": "0.11351938", "4": "0.2739088", "5": "0.10370062", "6": "0.105521545"}}

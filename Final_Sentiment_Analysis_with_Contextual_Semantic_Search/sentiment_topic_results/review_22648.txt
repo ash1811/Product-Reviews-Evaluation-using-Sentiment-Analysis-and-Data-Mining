@@ -1,0 +1,1 @@
+{"text": "These are excellent lingerie.  Being able to buy online saves the hassle of going to store after store hoping to find the style you like in the size you want!  They are comfortable and attractive.", "sentiment": "negative", "topics": {"1": "0.43957013", "2": "0.078365885", "3": "0.057031687", "4": "0.19631284", "6": "0.21364325"}}

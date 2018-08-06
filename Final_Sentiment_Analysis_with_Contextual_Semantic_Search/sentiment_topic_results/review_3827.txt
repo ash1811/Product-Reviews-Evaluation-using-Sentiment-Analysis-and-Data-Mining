@@ -1,0 +1,1 @@
+{"text": "Works okay.  Already have a similar wallet that was not advertised as slim, and this is about the same size.  Will be used for travel.", "sentiment": "positive", "topics": {"0": "0.26341385", "1": "0.013060392", "2": "0.01304248", "3": "0.47743896", "4": "0.2069664", "5": "0.013015965", "6": "0.013061908"}}

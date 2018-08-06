@@ -1,0 +1,1 @@
+{"text": "I really loved these earrings, but the post broke off last week and I cannot wear them any longer.  Disappointing due to the price I paid for the earrings", "sentiment": "negative", "topics": {"0": "0.3504975", "1": "0.21960844", "3": "0.19591379", "5": "0.20716712"}}

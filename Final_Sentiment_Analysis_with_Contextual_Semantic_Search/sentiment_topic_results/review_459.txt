@@ -1,0 +1,1 @@
+{"text": "It is nice that skimp skamp briefs are now in lacy or flowery patterns.  I have been wearing skimp skamps for years and love them since they don't ride up at the back.", "sentiment": "positive", "topics": {"1": "0.4558048", "2": "0.2182533", "4": "0.29014087"}}

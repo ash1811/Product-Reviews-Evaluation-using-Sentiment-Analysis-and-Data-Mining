@@ -1,0 +1,1 @@
+{"text": "I have several pairs of Birkenstock shoes and love them.  They helped me resolve some foot issues long ago and I have been wearing them ever since.  I like this sandal style a lot.", "sentiment": "positive", "topics": {"0": "0.28809822", "2": "0.21003392", "3": "0.12618074", "4": "0.18183741", "5": "0.10465928", "6": "0.08201454"}}

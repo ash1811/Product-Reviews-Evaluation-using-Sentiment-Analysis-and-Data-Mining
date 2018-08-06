@@ -1,0 +1,1 @@
+{"text": "Like these are not my first Reef Sandals, I couldn't go wrong with them. Very good quality and very comfortable. Can recommend them to all my friends!", "sentiment": "negative", "topics": {"0": "0.0110202525", "1": "0.4704131", "2": "0.29321972", "3": "0.011024263", "4": "0.011010422", "5": "0.1922949", "6": "0.011017329"}}

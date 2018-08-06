@@ -1,0 +1,1 @@
+{"text": "Love them. Fit perfectly and even in the worst humidity my feet don't sweat.  I wish they came in more colors.", "sentiment": "negative", "topics": {"0": "0.01111294", "1": "0.40802655", "2": "0.011073002", "3": "0.25426266", "4": "0.2934776", "5": "0.011028232", "6": "0.011019027"}}

@@ -1,0 +1,1 @@
+{"text": "They were too big so I sent them back, but besides that they were completely perfect. They looked just like any new pair of shoes you would buy at a store. If they were the right size I definitely would have kept them.", "sentiment": "negative", "topics": {"1": "0.4613775", "2": "0.1747604", "3": "0.33658886"}}

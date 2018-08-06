@@ -1,0 +1,1 @@
+{"text": "I bought these to replace ones that I had worn out after 4 years of heavy use. These are very comfortable and long lasting. Hats off to Reef for great flip flops.", "sentiment": "negative", "topics": {"1": "0.47039405", "2": "0.2456023", "3": "0.12321477", "6": "0.13550514"}}

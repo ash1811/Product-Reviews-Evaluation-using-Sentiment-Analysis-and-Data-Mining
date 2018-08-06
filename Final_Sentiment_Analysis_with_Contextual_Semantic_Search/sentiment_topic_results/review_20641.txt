@@ -1,0 +1,1 @@
+{"text": "It didn't work for me, but I give 3 stars because the supplier read my previous review and they contacted me.  I thought that was great.", "sentiment": "negative", "topics": {"0": "0.010224635", "1": "0.58789706", "2": "0.010251273", "3": "0.28431612", "4": "0.010214265", "5": "0.010224958", "6": "0.08687169"}}

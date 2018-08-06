@@ -1,0 +1,1 @@
+{"text": "These are just right, not too thick or too thin . The item arrived on time and my order had an extra pair of socks.", "sentiment": "positive", "topics": {"0": "0.24087314", "1": "0.013082164", "2": "0.012991633", "3": "0.013097149", "4": "0.013090223", "5": "0.5875028", "6": "0.11936288"}}

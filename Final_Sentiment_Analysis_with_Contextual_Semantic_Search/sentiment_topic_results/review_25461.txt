@@ -1,0 +1,1 @@
+{"text": "These were a replacement for a product from a reputable outdoors supplier which frankly did not meet my expectations---to say the least, These are really nice. Fit well and best of all, are warm.", "sentiment": "negative", "topics": {"1": "0.27834663", "2": "0.15404506", "3": "0.33347785", "5": "0.08822603", "6": "0.13000475"}}

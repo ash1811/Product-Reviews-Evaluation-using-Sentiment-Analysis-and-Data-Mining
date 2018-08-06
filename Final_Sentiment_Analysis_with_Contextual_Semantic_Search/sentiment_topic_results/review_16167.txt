@@ -1,0 +1,1 @@
+{"text": "This polishing cloth works exceptionally. After using jewelers rouge one wipe with this cloth produces amazing polish finish.... Highly Recommended!", "sentiment": "positive", "topics": {"0": "0.05293894", "1": "0.27675223", "2": "0.32901946", "3": "0.07661662", "4": "0.10972739", "6": "0.14652434"}}

@@ -1,0 +1,1 @@
+{"text": "These are well-made and good quality. I got the sizing wrong so had to return them and the size neede was no longer in stock, but will buy again if they come back in the right size.", "sentiment": "positive", "topics": {"0": "0.08983527", "1": "0.4442644", "2": "0.05256079", "4": "0.07466887", "6": "0.32181337"}}

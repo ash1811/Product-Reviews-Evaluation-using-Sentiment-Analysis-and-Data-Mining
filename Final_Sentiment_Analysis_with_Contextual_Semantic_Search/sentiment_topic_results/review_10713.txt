@@ -1,0 +1,1 @@
+{"text": "These earrings are exactly as described and are very good quality at a reasonable price.  The catch is firm (only had them a week - hope that's still true a year from now!), which is important because I've been known to lose hoops.", "sentiment": "negative", "topics": {"0": "0.26425746", "1": "0.39681384", "2": "0.043210696", "3": "0.27704677"}}

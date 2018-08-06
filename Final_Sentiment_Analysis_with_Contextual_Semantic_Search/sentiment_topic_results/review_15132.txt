@@ -1,0 +1,1 @@
+{"text": "I found this bra to be very comfortable and it was true to size.  I would definitely purchase this again.", "sentiment": "negative", "topics": {"0": "0.014312947", "1": "0.23885898", "2": "0.014294563", "3": "0.52133983", "4": "0.18256477", "5": "0.014328246", "6": "0.014300669"}}

@@ -1,0 +1,1 @@
+{"text": "This ring is perfect for the middle finger. It's slightly over sized, but not enough to look bad. One of the side stones fell out after about a month.", "sentiment": "negative", "topics": {"1": "0.4575759", "2": "0.15794142", "4": "0.1663375", "5": "0.102064945", "6": "0.096997425"}}

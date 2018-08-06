@@ -1,0 +1,1 @@
+{"text": "This hat is well-made and warm. But, I found it to be very tight - and I wear hat size 7-3/8, without much hair. I couldn't stretch it much, either. If it were a little bigger, it would be perfect.", "sentiment": "negative", "topics": {"0": "0.0806136", "1": "0.42717212", "2": "0.072727986", "3": "0.3167966", "4": "0.0890471"}}

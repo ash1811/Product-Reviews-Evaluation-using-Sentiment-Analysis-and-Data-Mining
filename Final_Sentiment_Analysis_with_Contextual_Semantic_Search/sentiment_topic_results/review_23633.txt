@@ -1,0 +1,1 @@
+{"text": "I returned the watch.  It is nice looking, I just didn't like the face because it was much smaller then I expected.  I recommend if you're looking for a small face.", "sentiment": "negative", "topics": {"0": "0.010216291", "1": "0.4828054", "2": "0.22931798", "3": "0.24699162", "4": "0.010228762", "5": "0.010214882", "6": "0.010225087"}}

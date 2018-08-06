@@ -1,0 +1,1 @@
+{"text": "I wear a size 8B shoe, and these toe socks started splitting between the toes the first time they were worn.", "sentiment": "negative", "topics": {"0": "0.1154778", "1": "0.20649831", "2": "0.09247326", "3": "0.011029242", "4": "0.099233694", "5": "0.2901116", "6": "0.18517607"}}

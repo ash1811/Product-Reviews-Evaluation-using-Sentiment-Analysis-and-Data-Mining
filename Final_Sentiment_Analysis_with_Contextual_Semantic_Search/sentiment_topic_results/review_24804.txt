@@ -1,0 +1,1 @@
+{"text": "I love my Vans.  Haven't had a pair like this in 15 years but nice to see they haven't changed and are as comfortable and functional as ever.  :)", "sentiment": "negative", "topics": {"0": "0.23696706", "1": "0.46015462", "2": "0.011004641", "3": "0.01105734", "4": "0.14635837", "5": "0.01100425", "6": "0.12345373"}}

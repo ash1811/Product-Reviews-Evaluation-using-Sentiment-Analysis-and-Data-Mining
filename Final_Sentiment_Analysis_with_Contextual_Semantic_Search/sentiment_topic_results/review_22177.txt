@@ -1,0 +1,1 @@
+{"text": "this nightgown is very comfortable; the material works well if you don't like getting stuck when you're trying to turn over in bed", "sentiment": "negative", "topics": {"0": "0.011923769", "1": "0.48206845", "2": "0.011975811", "3": "0.08558059", "4": "0.22512372", "5": "0.0119198775", "6": "0.17140777"}}

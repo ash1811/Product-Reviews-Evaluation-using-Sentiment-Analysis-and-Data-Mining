@@ -1,0 +1,1 @@
+{"text": "Carhartt makes great clothing for the outdoors. I have been wearing their clothing for over 40 years. The hat fits great and comes in many colors.", "sentiment": "positive", "topics": {"1": "0.6256863", "2": "0.1418521", "3": "0.13003956", "4": "0.07558684"}}
