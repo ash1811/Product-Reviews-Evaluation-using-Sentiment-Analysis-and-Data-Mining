@@ -1,0 +1,1 @@
+{"text": "Well packaged got here on time.Seems well made very eady to walk in.Should be a good proudct if your on your feet alot.", "sentiment": "negative", "topics": {"0": "0.01021726", "1": "0.23866054", "2": "0.010230901", "3": "0.010223901", "4": "0.14908646", "5": "0.4671844", "6": "0.114396535"}}

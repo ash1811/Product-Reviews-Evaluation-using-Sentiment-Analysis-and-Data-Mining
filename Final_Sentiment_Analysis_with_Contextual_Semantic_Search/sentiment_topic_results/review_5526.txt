@@ -1,0 +1,1 @@
+{"text": "This is a plain and simple t-shirt.  There aren't many things one can say about a t-shirt. It serves its purpose.", "sentiment": "negative", "topics": {"0": "0.012998068", "1": "0.0130284745", "2": "0.27295795", "3": "0.12813534", "4": "0.102431595", "5": "0.0129930945", "6": "0.45745546"}}

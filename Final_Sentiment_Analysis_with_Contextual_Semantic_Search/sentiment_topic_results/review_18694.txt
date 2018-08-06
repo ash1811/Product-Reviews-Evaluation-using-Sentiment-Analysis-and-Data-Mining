@@ -1,0 +1,1 @@
+{"text": "Arrived quickly and they are very nice and good quality.  It is hard to tell from the picture, but these are large nets, not the small you might imagine.", "sentiment": "negative", "topics": {"0": "0.1795642", "1": "0.42540497", "2": "0.16584376", "3": "0.010247884", "4": "0.010264155", "5": "0.19847092", "6": "0.010204164"}}

@@ -1,0 +1,1 @@
+{"text": "this thing, like most carhartt clothing is very durable.it protects me from harm and dirt when working to some degree.it's expensive but it's worth it.", "sentiment": "positive", "topics": {"0": "0.010224466", "1": "0.5336065", "2": "0.37329522", "3": "0.05219804", "4": "0.010221076", "5": "0.01022629", "6": "0.0102283945"}}

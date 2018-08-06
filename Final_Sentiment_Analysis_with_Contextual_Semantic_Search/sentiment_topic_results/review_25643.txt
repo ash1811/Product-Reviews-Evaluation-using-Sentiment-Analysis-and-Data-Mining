@@ -1,0 +1,1 @@
+{"text": "The originals are not for me- the lenses have too much of a drop/too large for my smallish face.  Switched to the 52mm New wayfarer style and much happier.", "sentiment": "negative", "topics": {"0": "0.15088277", "2": "0.2654897", "3": "0.21730195", "4": "0.2398156", "5": "0.10859025"}}

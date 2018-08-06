@@ -1,0 +1,1 @@
+{"text": "Makes one wish it had been invented and marketed before. Very useful for bodybuilders. It could have helped Stallone at the Oscars in '76.", "sentiment": "positive", "topics": {"0": "0.19407244", "1": "0.010229732", "2": "0.32419387", "3": "0.08821885", "4": "0.010228124", "5": "0.20126171", "6": "0.17179528"}}

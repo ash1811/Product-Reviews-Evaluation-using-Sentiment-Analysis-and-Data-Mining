@@ -1,0 +1,1 @@
+{"text": "My wife likes Pro Keds and these babies are just like them but better and less expensive in my opinion. She really likes these types of shoes. Buy them you won't regret it.", "sentiment": "negative", "topics": {"0": "0.19550139", "1": "0.2695097", "2": "0.09821742", "3": "0.1605608", "4": "0.042021394", "6": "0.2262358"}}

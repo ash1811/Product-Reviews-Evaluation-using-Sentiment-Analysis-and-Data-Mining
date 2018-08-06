@@ -1,0 +1,1 @@
+{"text": "Warm, comfortable, feelings so good. This is my third purchuse slippers by Tamarac. this is men's style, but I bought this for my daughter because my daughter had choosen this. She is very pleasureful with this.", "sentiment": "negative", "topics": {"0": "0.37031648", "1": "0.34487256", "2": "0.19636944", "6": "0.06456983"}}

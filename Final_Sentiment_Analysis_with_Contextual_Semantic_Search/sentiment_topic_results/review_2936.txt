@@ -1,0 +1,1 @@
+{"text": "Exactly what I ordered and fit great.  Im not sure if they are really waterproof, but i bought them to walk on rocks in Afghanistan and they work great for that.", "sentiment": "negative", "topics": {"0": "0.108525865", "1": "0.5474204", "2": "0.083064616", "3": "0.09069452", "4": "0.08396691", "6": "0.0773805"}}

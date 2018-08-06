@@ -1,0 +1,1 @@
+{"text": "unfortunately the legs were too long for one of my skirts and I could see the leg lines through my pants. They did slim me down though.", "sentiment": "negative", "topics": {"0": "0.100332126", "1": "0.23455133", "2": "0.17218477", "3": "0.011032473", "4": "0.45987546", "5": "0.011018232", "6": "0.011005608"}}

@@ -1,0 +1,1 @@
+{"text": "I bought these to wear in flat shoes with removable insoles (like tennis shoes)  They're great! I'll be able to wear some old faves a lot longer now!", "sentiment": "positive", "topics": {"1": "0.29594582", "2": "0.22564752", "3": "0.27561662", "4": "0.18126169"}}

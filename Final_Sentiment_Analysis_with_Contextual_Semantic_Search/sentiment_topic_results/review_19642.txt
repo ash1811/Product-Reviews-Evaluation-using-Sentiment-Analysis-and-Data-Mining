@@ -1,0 +1,1 @@
+{"text": "These gloves were very cheaply made.  Disappointed with this purchase.  The material was so thin.  It was not worth the price", "sentiment": "positive", "topics": {"0": "0.0143266", "1": "0.5871425", "2": "0.14865722", "3": "0.20690283", "4": "0.014340934", "5": "0.0143377725", "6": "0.014292082"}}

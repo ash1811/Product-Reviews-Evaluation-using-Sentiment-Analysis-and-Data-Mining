@@ -1,0 +1,1 @@
+{"text": "So hard to find these wonderful shoes!  Merrell, please bring them back. Don't discontinue them.  I must have purchased 20 pairs in all colors over the years", "sentiment": "negative", "topics": {"0": "0.09668972", "1": "0.31170288", "2": "0.1532968", "3": "0.31864122", "6": "0.102833025"}}

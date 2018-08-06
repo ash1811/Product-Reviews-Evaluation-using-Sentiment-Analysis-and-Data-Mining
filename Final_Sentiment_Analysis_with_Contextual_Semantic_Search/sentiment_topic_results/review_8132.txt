@@ -1,0 +1,1 @@
+{"text": "I loved these, they lasted a summer and were very comfortable.  I bought a different style this year because I wanted a more heavy duty sole.", "sentiment": "negative", "topics": {"0": "0.010274935", "1": "0.43788746", "2": "0.010238214", "3": "0.27907893", "4": "0.12838696", "5": "0.010245212", "6": "0.12388831"}}

@@ -1,0 +1,1 @@
+{"text": "I did not realize the shoe was not leather, however, It fits well and I am very happy about that!", "sentiment": "positive", "topics": {"0": "0.015897345", "1": "0.24319728", "2": "0.3781165", "3": "0.015878513", "4": "0.17207794", "5": "0.15895157", "6": "0.015880907"}}

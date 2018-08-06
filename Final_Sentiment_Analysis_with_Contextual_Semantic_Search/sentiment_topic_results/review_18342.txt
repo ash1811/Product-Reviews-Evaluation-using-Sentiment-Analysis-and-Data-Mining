@@ -1,0 +1,1 @@
+{"text": "they were just perfect. He did wear them around the house a bit just to ensure they were comfortable and come wedding day he was happy to put them on!", "sentiment": "positive", "topics": {"0": "0.19176102", "1": "0.35184112", "2": "0.010210847", "3": "0.19806495", "4": "0.010226706", "5": "0.22765887", "6": "0.010236474"}}

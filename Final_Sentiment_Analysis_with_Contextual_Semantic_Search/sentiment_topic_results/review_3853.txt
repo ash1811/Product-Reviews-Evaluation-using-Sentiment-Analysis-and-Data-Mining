@@ -1,0 +1,1 @@
+{"text": "Well, is not the first time to buy, bought three pieces, two piece dress, a friend, a very good gift.", "sentiment": "negative", "topics": {"0": "0.13232407", "1": "0.396623", "2": "0.010214398", "3": "0.10217667", "4": "0.0102308765", "5": "0.17078738", "6": "0.17764361"}}

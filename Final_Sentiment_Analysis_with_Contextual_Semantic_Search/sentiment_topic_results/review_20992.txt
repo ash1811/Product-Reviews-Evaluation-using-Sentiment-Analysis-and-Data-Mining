@@ -1,0 +1,1 @@
+{"text": "Love the look of these but even a hangnail on one of your fingers will snag them. If you wear them with open toe shoes you are guaranteed a hole or run by the toe in shirt order", "sentiment": "positive", "topics": {"0": "0.19987066", "1": "0.1826002", "2": "0.26407805", "3": "0.24826449", "4": "0.09012149"}}

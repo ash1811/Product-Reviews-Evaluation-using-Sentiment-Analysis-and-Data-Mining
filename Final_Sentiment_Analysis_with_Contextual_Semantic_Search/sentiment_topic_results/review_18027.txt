@@ -1,0 +1,1 @@
+{"text": "Great purchase! This watch not only looks good, but it complements my desert uniforms. Provides adequate lighting for night operations.", "sentiment": "negative", "topics": {"0": "0.107945316", "1": "0.4798823", "2": "0.083502665", "3": "0.010211485", "4": "0.12408851", "5": "0.010213666", "6": "0.18415605"}}

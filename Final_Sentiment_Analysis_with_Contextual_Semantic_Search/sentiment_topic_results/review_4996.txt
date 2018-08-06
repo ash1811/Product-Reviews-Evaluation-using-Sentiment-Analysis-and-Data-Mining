@@ -1,0 +1,1 @@
+{"text": "Best sandals I have ever owned. And they should be, for the price!After i broke them in, they are my go-to sandal. Feel great. Lots of support. Highly recommend.", "sentiment": "positive", "topics": {"0": "0.214769", "1": "0.34627286", "4": "0.30013824", "5": "0.11353676"}}

@@ -1,0 +1,1 @@
+{"text": "A little big but a great value. My daughter loves it and feels that a real gymnist now. It's not fancy.", "sentiment": "negative", "topics": {"0": "0.011954005", "1": "0.39563978", "2": "0.011931109", "3": "0.011949212", "4": "0.23418163", "5": "0.3223803", "6": "0.011963987"}}

@@ -1,0 +1,1 @@
+{"text": "Great quality for the price. I ordered the same leotard from another online store which was less pricy than Amazon, and, I was not pleased with the quality. I plan on shipping it back to the store.", "sentiment": "negative", "topics": {"1": "0.5459919", "3": "0.06773332", "4": "0.23202063", "6": "0.1316477"}}

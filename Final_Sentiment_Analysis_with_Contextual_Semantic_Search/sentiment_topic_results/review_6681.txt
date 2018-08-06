@@ -1,0 +1,1 @@
+{"text": "It is fine, just like I expected it to be.  Other old Carhartt tees still are used by me though they were a little heavier material.  I can only hope this will wear as well.", "sentiment": "negative", "topics": {"1": "0.59092885", "2": "0.07171015", "4": "0.14394434", "5": "0.16813433"}}

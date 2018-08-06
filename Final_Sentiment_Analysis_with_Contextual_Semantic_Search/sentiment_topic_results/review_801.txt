@@ -1,0 +1,1 @@
+{"text": "This is the correct replacement for this watch. It is difficult to find off the rack watch bands for this Seiko but that is okay. The OEM strap is a much better looking item.", "sentiment": "negative", "topics": {"0": "0.111221276", "1": "0.16592428", "2": "0.3312676", "5": "0.09024118", "6": "0.2844592"}}

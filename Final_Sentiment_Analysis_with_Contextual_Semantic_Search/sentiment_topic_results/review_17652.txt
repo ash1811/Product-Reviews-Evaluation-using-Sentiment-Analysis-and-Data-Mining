@@ -1,0 +1,1 @@
+{"text": "I love this watch so much. I'm usually very picky when it comes to watches. It fits great and does not irritate my skin like most do. I can wash the dishes with it on or wash my hands and it still works.", "sentiment": "negative", "topics": {"0": "0.079691924", "1": "0.63366497", "2": "0.19191384", "6": "0.074242465"}}

@@ -1,0 +1,1 @@
+{"text": "nice comfortable fit. i bought my actual size and fit perfect. i wear a med and am a size 10/12.", "sentiment": "negative", "topics": {"0": "0.010998164", "1": "0.45586076", "2": "0.011013736", "3": "0.38328037", "4": "0.010995764", "5": "0.011043174", "6": "0.116808005"}}

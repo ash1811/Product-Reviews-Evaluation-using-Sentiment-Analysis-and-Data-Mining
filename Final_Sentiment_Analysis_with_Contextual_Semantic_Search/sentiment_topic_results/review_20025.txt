@@ -1,0 +1,1 @@
+{"text": "I have had these pants for about a month.  I use them primarily working on my Dad's farm.  They are durable, and comfortable in their stiff, workmanlike way.  As long as their durability keeps up I have nothing but good things to say.", "sentiment": "positive", "topics": {"0": "0.06761772", "1": "0.47521925", "4": "0.25917438", "6": "0.17647155"}}

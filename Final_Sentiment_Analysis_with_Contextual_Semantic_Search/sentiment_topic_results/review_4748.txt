@@ -1,0 +1,1 @@
+{"text": "Very nice high quality sweatshirt, the color is darker than pictured. More of a relaxed fit then the heavyweight sweatshirts.", "sentiment": "negative", "topics": {"0": "0.3787667", "1": "0.5021781", "2": "0.011933006", "3": "0.01198467", "4": "0.011906891", "5": "0.011983563", "6": "0.071247116"}}

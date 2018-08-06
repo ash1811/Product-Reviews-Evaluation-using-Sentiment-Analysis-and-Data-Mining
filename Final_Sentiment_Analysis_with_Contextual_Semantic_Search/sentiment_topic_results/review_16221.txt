@@ -1,0 +1,1 @@
+{"text": "I purchased these for my husband for Christmas. I checked locally for a good pair, and couldn't believe the price for this quality shoe. So as always, I went to Amazon and he loves them.", "sentiment": "positive", "topics": {"0": "0.092309386", "1": "0.25816792", "2": "0.11404183", "3": "0.20269036", "4": "0.31591165"}}

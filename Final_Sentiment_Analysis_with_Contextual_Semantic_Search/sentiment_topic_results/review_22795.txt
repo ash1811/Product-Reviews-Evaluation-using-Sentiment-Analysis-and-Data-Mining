@@ -1,0 +1,1 @@
+{"text": "not only very pretty.. but also light on the ear.. no dragging down on the earlobe. Great buy !", "sentiment": "negative", "topics": {"0": "0.015925812", "1": "0.55490303", "2": "0.13849467", "3": "0.015875533", "4": "0.12949945", "5": "0.015890658", "6": "0.12941088"}}

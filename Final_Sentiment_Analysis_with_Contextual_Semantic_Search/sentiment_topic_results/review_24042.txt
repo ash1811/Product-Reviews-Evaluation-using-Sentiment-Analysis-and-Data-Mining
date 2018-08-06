@@ -1,0 +1,1 @@
+{"text": "attractive and well padded, but a half-size too small.  After getting the running shoes and finding them perfect I ordered the same in this walker and found my toes pushing the end.  I wish they came in a half-size bigger (sadly no).", "sentiment": "negative", "topics": {"1": "0.2605929", "2": "0.09414503", "4": "0.3021346", "5": "0.12685321", "6": "0.20381834"}}

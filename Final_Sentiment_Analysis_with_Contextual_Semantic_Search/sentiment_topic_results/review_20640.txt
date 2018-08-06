@@ -1,0 +1,1 @@
+{"text": "I am a Security Officer. So My Boots have to stay sharp. I use this every time I shin my boots. It's the best one I have found.  SW", "sentiment": "negative", "topics": {"1": "0.11094951", "2": "0.11601691", "4": "0.50677603", "5": "0.16367096", "6": "0.08349432"}}

@@ -1,0 +1,1 @@
+{"text": "does I don't was very it was too small for me to too small I ordered the right side but it still to size smaller but thank you anyway for the product I just all I did was we sell to sell it thank you though", "sentiment": "negative", "topics": {"2": "0.23311664", "3": "0.3623146", "4": "0.2245218", "5": "0.082943216", "6": "0.07919422"}}

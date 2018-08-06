@@ -1,0 +1,1 @@
+{"text": "My wife wanted a simple watch that wouldn't draw too much attention when running in Bueno Aires.  This watch does the trick and  is easy to set up and fits well on her small wrist.", "sentiment": "positive", "topics": {"1": "0.17499943", "2": "0.29722762", "4": "0.28222534", "5": "0.14381993", "6": "0.0866651"}}

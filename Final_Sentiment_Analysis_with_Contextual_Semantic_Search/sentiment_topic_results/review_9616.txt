@@ -1,0 +1,1 @@
+{"text": "Loved the watch but wanted a much bigger face, so returned and ordered a man's easy reader,  The glow in the dark is the best feature,", "sentiment": "negative", "topics": {"1": "0.21166089", "2": "0.24213082", "3": "0.22719897", "4": "0.2921549"}}

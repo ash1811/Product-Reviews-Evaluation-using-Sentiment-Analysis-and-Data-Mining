@@ -1,0 +1,1 @@
+{"text": "They are very comfortable and true to size. I was afraid they would be small fitting and sized up, but this was unnecessary. They was better than other navy leggings I bought at a much higher price.", "sentiment": "positive", "topics": {"0": "0.21557088", "1": "0.36602136", "4": "0.11008557", "6": "0.28442854"}}

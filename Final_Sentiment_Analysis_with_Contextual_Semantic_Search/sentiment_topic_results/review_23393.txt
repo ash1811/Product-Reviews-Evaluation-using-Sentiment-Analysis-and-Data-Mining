@@ -1,0 +1,1 @@
+{"text": "I have hammer toes and most shoes hurt.  These fell great and look feminine.  I actually bought them to wear in the water but wear them for everyday.", "sentiment": "negative", "topics": {"1": "0.40105677", "2": "0.3678533", "4": "0.049789526", "6": "0.15262857"}}

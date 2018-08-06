@@ -1,0 +1,1 @@
+{"text": "We really didnt think that he would be able to fit these shirts but end up really loving them and how they fit", "sentiment": "positive", "topics": {"0": "0.011933227", "1": "0.8254809", "2": "0.011942099", "3": "0.11484798", "4": "0.01193285", "5": "0.0119338455", "6": "0.011929166"}}

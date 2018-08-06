@@ -1,0 +1,1 @@
+{"text": "If you like Teva, you will like these.  Good thickness, so they will last.  Cloth toe piece, more comfortable than plastic or leather.", "sentiment": "negative", "topics": {"0": "0.0102690095", "1": "0.2992648", "2": "0.11060575", "3": "0.010214747", "4": "0.21860263", "5": "0.16517007", "6": "0.18587303"}}

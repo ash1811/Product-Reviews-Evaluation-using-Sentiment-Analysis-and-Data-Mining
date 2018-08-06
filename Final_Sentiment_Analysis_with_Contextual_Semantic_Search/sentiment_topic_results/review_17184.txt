@@ -1,0 +1,1 @@
+{"text": "my son loves this and very comfortable. some boots are hard to decide and how they feel but this one fit nicely and warm too.", "sentiment": "positive", "topics": {"0": "0.25583407", "1": "0.415676", "2": "0.011032689", "3": "0.011005508", "4": "0.22566", "5": "0.06977711", "6": "0.011014592"}}

@@ -1,0 +1,1 @@
+{"text": "When these got wet, they did not wick well and I got blistered. I ended up getting thin PP socks and using them as a liner and then all was well. If you are doing serious hiking use these with PP liners for best results.", "sentiment": "positive", "topics": {"0": "0.1579739", "1": "0.3371008", "3": "0.07896877", "5": "0.2470722", "6": "0.16584516"}}

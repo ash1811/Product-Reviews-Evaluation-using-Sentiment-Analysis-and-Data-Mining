@@ -1,0 +1,1 @@
+{"text": "These are perfect for the summer for babies. They fit him just right and great in the wash and dryer. The delivery was on time and they were packaged just right. Thanks.", "sentiment": "positive", "topics": {"0": "0.010237773", "1": "0.78129977", "2": "0.01021324", "3": "0.010222853", "4": "0.01022433", "5": "0.010238002", "6": "0.16756399"}}

@@ -1,0 +1,1 @@
+{"text": "They look a little different than the image but they are still very sexy.  My boyfriend loved them!Just one thing - the material is not very comfortable so I wouldn't were them out for a long time.", "sentiment": "negative", "topics": {"0": "0.1670456", "1": "0.56228197", "4": "0.13742569", "5": "0.10639515"}}

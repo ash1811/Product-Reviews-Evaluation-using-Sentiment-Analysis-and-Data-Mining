@@ -1,0 +1,1 @@
+{"text": "Couldn't have made it through my pregnancy without this! I sit most of my workday and this belt helped keep the pressure off my back and thighs for better circulation.", "sentiment": "negative", "topics": {"0": "0.28561008", "2": "0.10924521", "3": "0.24739438", "6": "0.32906723"}}

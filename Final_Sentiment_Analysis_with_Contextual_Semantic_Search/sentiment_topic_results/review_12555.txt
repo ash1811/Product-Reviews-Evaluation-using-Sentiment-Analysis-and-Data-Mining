@@ -1,0 +1,1 @@
+{"text": "Really great  pair of shoes, they are very comfortable . Because of my job sometimes  i wear them for around  9 hours and whit no sign of hurt . Looks really good whit jeans or casual pants", "sentiment": "negative", "topics": {"0": "0.098987386", "1": "0.4274376", "2": "0.108808614", "3": "0.19022399", "6": "0.16151264"}}

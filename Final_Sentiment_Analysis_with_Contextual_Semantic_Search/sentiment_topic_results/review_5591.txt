@@ -1,0 +1,1 @@
+{"text": "These shorts fit great, and I am very happy I purchased them. They are good for lounging and feeling comfortable in the heat? I am also very happy because they were priced reasonably!", "sentiment": "positive", "topics": {"0": "0.17544492", "1": "0.41416678", "4": "0.37449434"}}

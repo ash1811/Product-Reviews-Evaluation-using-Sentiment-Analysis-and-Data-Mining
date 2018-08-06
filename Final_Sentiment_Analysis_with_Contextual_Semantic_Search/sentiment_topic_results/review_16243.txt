@@ -1,0 +1,1 @@
+{"text": "My son lives in these shoes. He just keeps saying, \"these shoes are so comfortable.\"", "sentiment": "negative", "topics": {"0": "0.015970787", "1": "0.47506142", "2": "0.44529778", "3": "0.015962873", "4": "0.015891876", "5": "0.015912069", "6": "0.015903195"}}

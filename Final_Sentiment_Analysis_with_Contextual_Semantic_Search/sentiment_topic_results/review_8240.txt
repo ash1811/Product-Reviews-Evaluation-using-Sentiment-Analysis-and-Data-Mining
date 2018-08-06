@@ -1,0 +1,1 @@
+{"text": "I returned the item for a slim fit, because this was baggy on the legs and rear.  Not a good look for me.", "sentiment": "negative", "topics": {"0": "0.013008616", "1": "0.53346556", "2": "0.0130288005", "3": "0.013053909", "4": "0.29125792", "5": "0.013005051", "6": "0.12318013"}}

@@ -1,0 +1,1 @@
+{"text": "Black Dragon T-Shirt is a high quality shirt. The graphics are sharp and clear. The fit is true to size. I would recommend it to a friend.", "sentiment": "positive", "topics": {"1": "0.28226978", "2": "0.35318032", "3": "0.17717552", "5": "0.16051124"}}

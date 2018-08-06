@@ -1,0 +1,1 @@
+{"text": "Can't complain about this top. Has held up well through numerous washes. Medium actually fits as expected, unlike the matching pants...", "sentiment": "negative", "topics": {"1": "0.5860014", "2": "0.17913613", "3": "0.11791742", "4": "0.08828925"}}

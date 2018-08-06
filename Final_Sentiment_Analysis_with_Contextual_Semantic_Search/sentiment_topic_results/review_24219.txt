@@ -1,0 +1,1 @@
+{"text": "I love the fit and the quality.  I have a large bust and it is excellent for working out.  Also, the price was out of this world.  I love AMAZON and all the great deals I have gotten.  Lately I have been buying bras.", "sentiment": "negative", "topics": {"1": "0.28148052", "2": "0.110095836", "3": "0.14040484", "4": "0.4463795"}}

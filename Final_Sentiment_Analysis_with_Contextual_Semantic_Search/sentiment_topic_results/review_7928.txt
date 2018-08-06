@@ -1,0 +1,1 @@
+{"text": "love them. Will be able to wear them with so many things. I am a size 7.5 and fit great without socks.", "sentiment": "negative", "topics": {"0": "0.011032458", "1": "0.30640903", "2": "0.011009548", "3": "0.3304745", "4": "0.2073044", "5": "0.1227651", "6": "0.011004998"}}

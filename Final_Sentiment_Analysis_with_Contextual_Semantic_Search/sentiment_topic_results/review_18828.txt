@@ -1,0 +1,1 @@
+{"text": "My husband likes watches a lot. He is constantly buying.  Arrived on time, good quality I will buy again to this seller.We bought 4 watches, but this one has really good price and looks very nice", "sentiment": "negative", "topics": {"0": "0.15922354", "1": "0.43780768", "2": "0.20161206", "3": "0.06444751", "4": "0.12387139"}}

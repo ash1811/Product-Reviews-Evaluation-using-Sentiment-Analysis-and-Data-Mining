@@ -1,0 +1,1 @@
+{"text": "I bought these for a friend of mine and I was very glad that he was happy with them.First of all, the size was good.Second of all, he liked the way the material felt against his skin. And finally, the price was not too bad.", "sentiment": "negative", "topics": {"1": "0.4801845", "3": "0.27898204", "5": "0.21063595"}}

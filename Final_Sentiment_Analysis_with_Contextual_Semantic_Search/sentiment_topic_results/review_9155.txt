@@ -1,0 +1,1 @@
+{"text": "I gave these to my husband as a Christmas gift and they were very small. I did not bother re-ordering but may have needed 2 sizes up, not sure.", "sentiment": "negative", "topics": {"0": "0.2355512", "1": "0.09920413", "2": "0.10256743", "3": "0.010244756", "4": "0.118494436", "5": "0.010248674", "6": "0.4236894"}}

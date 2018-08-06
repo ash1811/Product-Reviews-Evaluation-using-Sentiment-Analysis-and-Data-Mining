@@ -1,0 +1,1 @@
+{"text": "This cap looks good and fits very well. It is comfortable. I really like it a lot. Color is good.", "sentiment": "negative", "topics": {"0": "0.011937621", "1": "0.8372223", "2": "0.011941017", "3": "0.011950031", "4": "0.103037275", "5": "0.011957492", "6": "0.011954318"}}

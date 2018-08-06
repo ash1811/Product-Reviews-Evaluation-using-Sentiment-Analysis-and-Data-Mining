@@ -1,0 +1,1 @@
+{"text": "The fabric is very cool for those who work all day, easy to wash by machine, and the material is quite good, for whom size M the shirt is a little big, so I recommend if you is size M buy size S.", "sentiment": "negative", "topics": {"1": "0.45748514", "5": "0.11506899", "6": "0.3988039"}}

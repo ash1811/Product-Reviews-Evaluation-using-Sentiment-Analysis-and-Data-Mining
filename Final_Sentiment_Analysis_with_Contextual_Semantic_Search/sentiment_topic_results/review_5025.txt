@@ -1,0 +1,1 @@
+{"text": "I thought this product would be softer under foot, but it feels a bit rough. The color is good as it is impossible to find thicker blue socks. All in all this product is okay for me - might be better for you.", "sentiment": "negative", "topics": {"1": "0.2859189", "2": "0.06310325", "3": "0.18949302", "5": "0.24990082", "6": "0.19789708"}}

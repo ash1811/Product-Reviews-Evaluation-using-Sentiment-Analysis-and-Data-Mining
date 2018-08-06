@@ -1,0 +1,1 @@
+{"text": "No complaints , not too big , comfortable. looks snazzy. Priced right.  Ok..you can't go diving with it. Get over it.", "sentiment": "negative", "topics": {"0": "0.23140906", "1": "0.52579635", "3": "0.13222793", "6": "0.081921406"}}

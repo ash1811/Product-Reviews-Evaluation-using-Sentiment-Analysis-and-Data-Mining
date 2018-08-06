@@ -1,0 +1,1 @@
+{"text": "If you wear a #1 in Easy Spirit's this shoe is great It is 6-1/2 W which is the perfect size for me and I really like them.  In the store they are the newer model without the tip up in front, but almost twice the price.", "sentiment": "negative", "topics": {"0": "0.38238227", "1": "0.2837525", "2": "0.1333557", "6": "0.18182002"}}

@@ -1,0 +1,1 @@
+{"text": "Quality glasses. Very nice. Since I have a somewhat narrow face and need 134-135 arm I figured I'd give these a try. No go. They are really just for kids", "sentiment": "positive", "topics": {"0": "0.12711504", "1": "0.5441241", "2": "0.12274219", "5": "0.11206099", "6": "0.07800689"}}

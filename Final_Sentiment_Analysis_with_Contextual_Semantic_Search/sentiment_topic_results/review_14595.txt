@@ -1,0 +1,1 @@
+{"text": "I purchased these for my father after eye surgery.  He loves that he can see the fish now, and they were perfect to wear for protection while he was healing!", "sentiment": "positive", "topics": {"0": "0.10137046", "1": "0.30610746", "2": "0.010993286", "3": "0.011007249", "4": "0.13015363", "5": "0.23145045", "6": "0.20891745"}}

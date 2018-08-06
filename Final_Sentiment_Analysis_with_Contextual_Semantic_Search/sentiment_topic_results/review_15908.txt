@@ -1,0 +1,1 @@
+{"text": "Great for the price, and it was the perfect look for my female team rocket grunt cosplay. However this hat is not for people with big heads. Overall I have a somewhat small head and this hat is still a snug fit.", "sentiment": "negative", "topics": {"1": "0.4592666", "2": "0.088922024", "3": "0.22226757", "5": "0.048286602", "6": "0.16879539"}}

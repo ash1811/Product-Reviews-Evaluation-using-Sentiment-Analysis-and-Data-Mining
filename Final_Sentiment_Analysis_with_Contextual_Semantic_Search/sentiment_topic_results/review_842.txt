@@ -1,0 +1,1 @@
+{"text": "I love the way these fit, and hey are so comfortable.  I've never had a sandal that didn't hurt my feet after wearing them, because I have high arches.  They are very stylish, and come in multiple colors.  I look at that as an added bonus.", "sentiment": "negative", "topics": {"0": "0.1415198", "1": "0.31075466", "3": "0.37167388", "6": "0.15650421"}}

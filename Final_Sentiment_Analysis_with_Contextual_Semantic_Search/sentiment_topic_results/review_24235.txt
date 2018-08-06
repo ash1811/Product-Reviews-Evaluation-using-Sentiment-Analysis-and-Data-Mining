@@ -1,0 +1,1 @@
+{"text": "This bra offers overall good support, and comfortable enough to be used as a normal daily bra.  But it's not really for high impact endurance sports.", "sentiment": "negative", "topics": {"0": "0.38212603", "1": "0.17464039", "3": "0.28311467", "6": "0.13485055"}}

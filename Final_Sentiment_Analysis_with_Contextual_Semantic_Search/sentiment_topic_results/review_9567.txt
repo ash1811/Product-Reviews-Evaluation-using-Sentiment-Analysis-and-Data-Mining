@@ -1,0 +1,1 @@
+{"text": "love this simple but easy to read watch.  and love the band although it is a little big.  but most of all, i love the nite indigo lite that you just push in the button and it lights up.", "sentiment": "positive", "topics": {"0": "0.27240354", "1": "0.13733634", "2": "0.07778071", "3": "0.19814543", "4": "0.07878526", "6": "0.2283803"}}

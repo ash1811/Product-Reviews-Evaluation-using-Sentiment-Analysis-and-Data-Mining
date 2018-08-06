@@ -1,0 +1,1 @@
+{"text": "You can never beat Old Friends shoes, They are always comfortable and fit perfectly. I have been a loyal customer for years and will continue to be so.", "sentiment": "negative", "topics": {"1": "0.37879652", "2": "0.1808327", "4": "0.09965924", "5": "0.3120544"}}

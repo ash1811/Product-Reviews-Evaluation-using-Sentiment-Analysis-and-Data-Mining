@@ -1,0 +1,1 @@
+{"text": "Great watch. I swim, run and bike. This watch goes from the trail to the pool and never skips a beat.", "sentiment": "positive", "topics": {"0": "0.011019413", "1": "0.011043659", "2": "0.45583802", "3": "0.011058867", "4": "0.33033198", "5": "0.16971804", "6": "0.010989974"}}

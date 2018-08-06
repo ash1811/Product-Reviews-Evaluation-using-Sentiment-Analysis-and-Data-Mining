@@ -1,0 +1,1 @@
+{"text": "I really love this underwear! it's so soft and silky and is almost completely panty line free. you can tell under yoga pants or something but it's very minimal", "sentiment": "negative", "topics": {"1": "0.34128228", "2": "0.35189462", "3": "0.2709725"}}

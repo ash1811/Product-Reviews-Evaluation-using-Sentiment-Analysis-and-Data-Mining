@@ -1,0 +1,1 @@
+{"text": "I have a long, narrow foot and usually wear a 11 12.  Unfortunately the Capezio seemed to run a tad short but looks like i would have been a nice shoe for the price if it had fit.", "sentiment": "positive", "topics": {"0": "0.16059671", "1": "0.3010671", "2": "0.12321448", "3": "0.11643925", "4": "0.10260617", "5": "0.14005339", "6": "0.05602289"}}

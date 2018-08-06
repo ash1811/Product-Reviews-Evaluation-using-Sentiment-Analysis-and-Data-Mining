@@ -1,0 +1,1 @@
+{"text": "It's warm material. The cuffs are not to tight so you can pull up the sleeves when the temp rises. No tag! A plus in my book.", "sentiment": "negative", "topics": {"0": "0.1440921", "1": "0.6102633", "2": "0.10025802", "3": "0.011934844", "4": "0.109600164", "5": "0.011921902", "6": "0.011929673"}}

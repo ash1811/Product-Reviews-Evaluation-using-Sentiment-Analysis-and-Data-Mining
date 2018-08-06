@@ -1,0 +1,1 @@
+{"text": "The glasses are well made and durable. The optic clarity is better than the cheap glasses. I find the tint to be just right for my eyes.", "sentiment": "negative", "topics": {"0": "0.43662503", "1": "0.2696028", "2": "0.157594", "3": "0.0102297785", "4": "0.105499096", "5": "0.010229318", "6": "0.010219981"}}

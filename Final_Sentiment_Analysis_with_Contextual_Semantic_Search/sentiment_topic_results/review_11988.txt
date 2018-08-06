@@ -1,0 +1,1 @@
+{"text": "I purchased this bag for the gym and wanted something a little trendy but very versatile. Minus the fact that it does not have an inside pocket, this is a great bag, very comfortable whichever way you carry it and it's great material also, very durable!", "sentiment": "negative", "topics": {"1": "0.5540164", "3": "0.21539697", "4": "0.20566867"}}

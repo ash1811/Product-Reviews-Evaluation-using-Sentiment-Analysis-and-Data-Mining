@@ -1,0 +1,1 @@
+{"text": "My Son loved these pants for his after school job and I will be ordering more.  They are durable and the relaxed fit make them comfortable.  They are affordable and shipping is fast.", "sentiment": "positive", "topics": {"0": "0.10057281", "1": "0.7235352", "2": "0.14008202"}}

@@ -1,0 +1,1 @@
+{"text": "My kids can go through a backpack in half a school year.  So far this one has held up better than most and looks like it might make it through the entire school year.  It would be a HUGE bonus if we can use it again next year.", "sentiment": "negative", "topics": {"0": "0.06808951", "2": "0.37944442", "3": "0.46226087", "5": "0.07230377"}}

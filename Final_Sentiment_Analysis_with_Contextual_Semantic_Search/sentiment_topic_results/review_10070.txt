@@ -1,0 +1,1 @@
+{"text": "Classic looks, manly, but not hulking. Quality automatic movement keeps perfect time with days of reserve power. A real dive watch with a nice rotating bezel, screw-down crown, gigantic rubber band & 200m rating. An excellent value.", "sentiment": "negative", "topics": {"0": "0.21898559", "1": "0.18968049", "2": "0.29318967", "5": "0.1630615", "6": "0.12520966"}}

@@ -1,0 +1,1 @@
+{"text": "I'm always a Medium and ordered the Large.  They fit perfect across chest and shoulders.  It's too long and will have to be hemmed but that's the case with EVERY shirt I buy, even with a Medium.  Nice little Scoop to go with anything.", "sentiment": "negative", "topics": {"0": "0.12050635", "1": "0.5168891", "2": "0.09840508", "3": "0.24700008"}}

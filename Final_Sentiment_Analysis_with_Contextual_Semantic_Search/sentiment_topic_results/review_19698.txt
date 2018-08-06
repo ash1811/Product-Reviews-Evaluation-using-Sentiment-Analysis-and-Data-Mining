@@ -1,0 +1,1 @@
+{"text": "It is just as pictured and didn't make my head hot.  Looks great!  I would just take care to not get it too tangly.  Handle lightly until you wear it.", "sentiment": "negative", "topics": {"0": "0.28830805", "1": "0.011900678", "3": "0.54613084", "6": "0.1267897"}}

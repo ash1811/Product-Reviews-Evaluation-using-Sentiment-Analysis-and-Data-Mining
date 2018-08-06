@@ -1,0 +1,1 @@
+{"text": "Every roller bag sold should have strap like this - always keep mine close at hand and use it all the time!", "sentiment": "positive", "topics": {"0": "0.010248508", "1": "0.01023572", "2": "0.43939823", "3": "0.24222396", "4": "0.010243581", "5": "0.27740514", "6": "0.01024487"}}

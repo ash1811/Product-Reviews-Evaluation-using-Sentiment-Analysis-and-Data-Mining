@@ -1,0 +1,1 @@
+{"text": "I like the design of this bag, it fits great in my carry on luggage.  Most &#34;ditty&#34; bags are bigger like a small shoebox which is awkward to pack.  Very nice quality too.", "sentiment": "negative", "topics": {"1": "0.483851", "2": "0.15534316", "4": "0.21705297", "6": "0.121119514"}}

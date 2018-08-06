@@ -1,0 +1,1 @@
+{"text": "the picture looks like it would be sexy but it is not... the cup part fit well but the rest is just way too big", "sentiment": "negative", "topics": {"0": "0.010231661", "1": "0.6126947", "2": "0.010219791", "3": "0.010256312", "4": "0.10573218", "5": "0.010254924", "6": "0.24061047"}}

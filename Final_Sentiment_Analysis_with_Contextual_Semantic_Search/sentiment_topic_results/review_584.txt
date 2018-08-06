@@ -1,0 +1,1 @@
+{"text": "I am satisfied with these jeans. I bought them august 29, 2012 .It fits well, is still in good shape and has good size pockets.", "sentiment": "negative", "topics": {"1": "0.46072656", "3": "0.2118901", "6": "0.29152074"}}

@@ -1,0 +1,1 @@
+{"text": "looking nice but light duty, i bought it because it match the rolling backpack that I bought. ( it made by the same Company ) I end up returned it because the rolling backpack was not working.", "sentiment": "positive", "topics": {"1": "0.5015209", "2": "0.39242727", "4": "0.072316006"}}

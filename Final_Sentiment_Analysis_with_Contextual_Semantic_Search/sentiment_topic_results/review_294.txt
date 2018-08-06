@@ -1,0 +1,1 @@
+{"text": "I bought two of these Jersey polos and I love them. They feel good against your skin. They fit and they look great. I know because 'the wife' said so. And the price was nice. You can't go wrong.", "sentiment": "negative", "topics": {"1": "0.5102083", "2": "0.25587666", "3": "0.20895995"}}

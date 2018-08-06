@@ -1,0 +1,1 @@
+{"text": "Champion makes really good clothing. After two years, the elastic bands still keep the socks from creeping down to your ankles. The material is extremely comfortable!", "sentiment": "negative", "topics": {"1": "0.3430701", "3": "0.61703795"}}

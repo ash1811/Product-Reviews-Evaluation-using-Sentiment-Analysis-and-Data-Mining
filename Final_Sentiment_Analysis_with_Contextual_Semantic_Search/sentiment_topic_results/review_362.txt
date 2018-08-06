@@ -1,0 +1,1 @@
+{"text": "He loves it. This is a good work shirt. Since he has to work in this kind of shirt,it was a great gift.", "sentiment": "negative", "topics": {"0": "0.7155242", "1": "0.011971211", "2": "0.011954043", "3": "0.01196131", "4": "0.011967881", "5": "0.22469468", "6": "0.011926636"}}

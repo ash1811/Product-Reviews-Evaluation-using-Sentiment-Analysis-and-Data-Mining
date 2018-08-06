@@ -1,0 +1,1 @@
+{"text": "Very soft and smooth. The color is nice and light. Fit great.  Very easy to put on. Bought these to wear after surgery. Wanted something that buttoned up because I could put anything over my head .", "sentiment": "positive", "topics": {"1": "0.8203729", "2": "0.06595762", "4": "0.086320974"}}

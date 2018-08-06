@@ -1,0 +1,1 @@
+{"text": "They are rough and uncomfortable. Also I think The size runs a bit small. All my clothes are 32x32, but these are small in the waist.", "sentiment": "positive", "topics": {"0": "0.011004963", "1": "0.20225042", "2": "0.3408511", "3": "0.32359058", "4": "0.100287326", "5": "0.011005422", "6": "0.01101022"}}

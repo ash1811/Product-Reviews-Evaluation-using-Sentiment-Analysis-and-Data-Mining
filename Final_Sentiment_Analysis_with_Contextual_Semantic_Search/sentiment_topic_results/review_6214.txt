@@ -1,0 +1,1 @@
+{"text": "Jerzees crewneck sweatshirt is cozy and comfy. I pair it with my Jerzees sweatshirt for a perfect paid of pajamas during our cold winters. Well-made, just like all the Jerzees products I've purchased over the years.", "sentiment": "negative", "topics": {"0": "0.06896104", "1": "0.40860105", "3": "0.3730143", "5": "0.06387009", "6": "0.0719308"}}

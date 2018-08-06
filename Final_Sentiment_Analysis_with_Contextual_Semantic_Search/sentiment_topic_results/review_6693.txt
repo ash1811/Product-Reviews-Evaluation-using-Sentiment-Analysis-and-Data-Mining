@@ -1,0 +1,1 @@
+{"text": "Nice and I would have gave it 5 starts but it is not as firm as I would have liked.", "sentiment": "negative", "topics": {"0": "0.30462494", "1": "0.41438386", "2": "0.015907347", "3": "0.015949512", "4": "0.015966529", "5": "0.0159202", "6": "0.21724755"}}

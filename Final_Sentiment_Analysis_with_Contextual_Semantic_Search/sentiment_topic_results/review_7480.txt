@@ -1,0 +1,1 @@
+{"text": "I buy  a bunch at a time, they last a year of hard wear. it helps not to throw them in the dryer.", "sentiment": "positive", "topics": {"0": "0.18348993", "1": "0.48187733", "2": "0.012991902", "3": "0.013036841", "4": "0.18363552", "5": "0.0130530605", "6": "0.111915424"}}

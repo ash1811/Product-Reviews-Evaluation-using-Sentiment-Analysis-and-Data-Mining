@@ -1,0 +1,1 @@
+{"text": "Ridiculously awesome for the money! Only downside is, as others have posted, that they are very dark. Other than that? Great fit and super cool looking.", "sentiment": "positive", "topics": {"0": "0.123234265", "1": "0.45766094", "4": "0.11604102", "5": "0.27439"}}

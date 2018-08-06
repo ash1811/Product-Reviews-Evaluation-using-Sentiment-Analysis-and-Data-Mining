@@ -1,0 +1,1 @@
+{"text": "I expect the same as what I bought 30 years back, and it is real close, other than a bit more costly than during my college years. I have tried other brands (Wrangler, LLBean), and have not been happy.", "sentiment": "negative", "topics": {"1": "0.40013635", "3": "0.40513495", "4": "0.16100891"}}

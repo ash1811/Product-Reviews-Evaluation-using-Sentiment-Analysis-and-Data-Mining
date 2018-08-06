@@ -1,0 +1,1 @@
+{"text": "I love these slippers because they are light weight and comfortable. They pack easily when traveling. Definitely would recommend them.", "sentiment": "positive", "topics": {"0": "0.16568789", "1": "0.49773905", "2": "0.011020522", "3": "0.21279532", "4": "0.011029495", "5": "0.011019325", "6": "0.090708435"}}

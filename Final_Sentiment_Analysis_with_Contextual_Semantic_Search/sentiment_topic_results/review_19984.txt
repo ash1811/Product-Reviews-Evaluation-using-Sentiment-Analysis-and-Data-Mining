@@ -1,0 +1,1 @@
+{"text": "This backpack has pockets and places to put and store stuff galore!  It's heavy duty and holds up to all the books, notebooks, and folders my high school students cram into it.", "sentiment": "negative", "topics": {"0": "0.09291688", "1": "0.23306325", "2": "0.39825064", "3": "0.13906905", "4": "0.05580686", "6": "0.07335742"}}

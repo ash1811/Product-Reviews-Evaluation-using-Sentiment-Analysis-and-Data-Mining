@@ -1,0 +1,1 @@
+{"text": "Am very pleased with the quality of these, they're soft, warm and fuzzy! Bought for my daughter and granddaughters and they put them on right away. I just ordered 3 more pair for gifts and myself!", "sentiment": "positive", "topics": {"0": "0.18378994", "1": "0.5406418", "2": "0.06959801", "3": "0.08464439", "4": "0.10624917"}}

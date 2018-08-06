@@ -1,0 +1,1 @@
+{"text": "I caught these on sale and it was a great deal, Wrangler is about the only jean I will wear now. Every pair I have ever owned have held up well and lasted quite awhile. Recommended.", "sentiment": "negative", "topics": {"0": "0.11199458", "1": "0.31506148", "2": "0.10115734", "3": "0.3337036", "4": "0.1229843"}}

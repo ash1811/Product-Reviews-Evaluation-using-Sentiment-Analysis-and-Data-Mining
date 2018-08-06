@@ -1,0 +1,1 @@
+{"text": "If you are on the higher end of the size range, id go up. Otherwise, they are so comfortable!!!! I really like them so far except they are snug in my toe area. hoping a stretch and line dry will fix that", "sentiment": "positive", "topics": {"0": "0.10200045", "1": "0.40589315", "4": "0.12165859", "5": "0.09004137", "6": "0.26737267"}}

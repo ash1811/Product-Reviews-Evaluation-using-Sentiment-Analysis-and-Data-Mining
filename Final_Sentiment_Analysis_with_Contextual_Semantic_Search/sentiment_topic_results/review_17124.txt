@@ -1,0 +1,1 @@
+{"text": "Thank you, my nephew loves them... What else could I ask for? I received them on time, the color is perfect, and crocs material is the best for kids. I recommend them. Absolutely. Thank you again.", "sentiment": "negative", "topics": {"1": "0.27748185", "2": "0.32577744", "5": "0.32429692", "6": "0.05371172"}}

@@ -1,0 +1,1 @@
+{"text": "Forget all the designer underwear brands for men and stick to Hanes.  These fit perfectly and it was so easy to order new ones without going to the nearby Target to deal with traffic and crowds!", "sentiment": "negative", "topics": {"0": "0.08644326", "1": "0.2254989", "2": "0.14240608", "3": "0.21032164", "5": "0.088391505", "6": "0.24008937"}}

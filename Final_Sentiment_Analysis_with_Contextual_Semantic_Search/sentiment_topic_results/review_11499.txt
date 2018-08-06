@@ -1,0 +1,1 @@
+{"text": "Gave as a gift. My mother loved them, soft and nice. Shipped quickly and just.as described! Great product for a reasonable price.", "sentiment": "negative", "topics": {"0": "0.21470535", "1": "0.37231416", "2": "0.12527527", "5": "0.26085758"}}

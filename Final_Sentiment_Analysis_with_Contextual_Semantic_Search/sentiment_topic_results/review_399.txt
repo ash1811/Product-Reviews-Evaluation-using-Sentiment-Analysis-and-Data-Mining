@@ -1,0 +1,1 @@
+{"text": "fits well. shirt seems to be good quality. tag less design is a bonus feature. I'm very happy with this purchase.", "sentiment": "negative", "topics": {"0": "0.10048578", "1": "0.6832188", "4": "0.10146481", "6": "0.08619388"}}

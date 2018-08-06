@@ -1,0 +1,1 @@
+{"text": "My husband loves these slippers because they fit him like a glove and they wear very well.  I would recommend this brand of slippers for the whole family.", "sentiment": "negative", "topics": {"1": "0.31408754", "2": "0.10655277", "3": "0.15453362", "4": "0.123513274", "6": "0.28220624"}}

@@ -1,0 +1,1 @@
+{"text": "My son has hard time finding his size but he loves these jeans and the price was great and less than we usually pay we will shop with you again thankyou", "sentiment": "negative", "topics": {"0": "0.24033982", "3": "0.15402399", "4": "0.16527814", "5": "0.31599745", "6": "0.10526851"}}

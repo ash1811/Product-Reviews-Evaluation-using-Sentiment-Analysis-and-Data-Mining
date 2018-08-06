@@ -1,0 +1,1 @@
+{"text": "This was actually pretty uncomfortable, but I've never really found a good, comfortable, concealed travel wallet I like.  It showed pretty bad unless I had a cardigan or something heavy on.", "sentiment": "negative", "topics": {"0": "0.10043036", "1": "0.42497352", "3": "0.24923977", "4": "0.07443803", "5": "0.07423831", "6": "0.070154026"}}

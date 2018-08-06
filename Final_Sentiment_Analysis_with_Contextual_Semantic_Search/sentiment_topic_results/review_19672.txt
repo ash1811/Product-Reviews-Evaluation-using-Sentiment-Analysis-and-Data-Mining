@@ -1,0 +1,1 @@
+{"text": "i wear a size 7 3/4 hat and this fits over my noggin very comfortably.  the delightful olive drab color makes me look like an amphibian.  ribbit.", "sentiment": "positive", "topics": {"0": "0.110908814", "1": "0.21809635", "3": "0.30798355", "5": "0.14280245", "6": "0.20432667"}}

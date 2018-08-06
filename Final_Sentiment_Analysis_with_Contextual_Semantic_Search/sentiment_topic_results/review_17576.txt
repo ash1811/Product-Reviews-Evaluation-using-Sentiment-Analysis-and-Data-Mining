@@ -1,0 +1,1 @@
+{"text": "Just OK. The band is short.The light is worthless. Maybe one tenth of the area is lit at all.A cheap, lightweight watch.", "sentiment": "negative", "topics": {"0": "0.5747401", "1": "0.11881325", "2": "0.26830205"}}

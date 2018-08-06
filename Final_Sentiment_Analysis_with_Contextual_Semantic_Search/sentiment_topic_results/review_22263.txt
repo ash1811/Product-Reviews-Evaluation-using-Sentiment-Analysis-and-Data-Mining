@@ -1,0 +1,1 @@
+{"text": "because they have individual toes built in.  At first I found them to be a little uncomfortable but after wearing over time these socks are very comfortable.", "sentiment": "positive", "topics": {"0": "0.011020556", "1": "0.51680565", "2": "0.011002572", "3": "0.011024507", "4": "0.0110177295", "5": "0.4281322", "6": "0.010996748"}}

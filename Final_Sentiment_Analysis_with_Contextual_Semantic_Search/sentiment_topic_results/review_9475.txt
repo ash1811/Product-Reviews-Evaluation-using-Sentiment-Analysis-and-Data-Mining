@@ -1,0 +1,1 @@
+{"text": "I bought this and I had to return it right away... I tried it on and it fits like I have 2 cones on my chest (very unattractive) then it just does not look like what the model has on. I guess that you get what you pay for...", "sentiment": "positive", "topics": {"0": "0.1693844", "1": "0.1934221", "2": "0.11455729", "4": "0.19416396", "6": "0.31481558"}}

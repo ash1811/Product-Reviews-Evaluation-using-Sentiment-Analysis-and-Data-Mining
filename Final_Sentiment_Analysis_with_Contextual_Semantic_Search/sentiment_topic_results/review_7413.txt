@@ -1,0 +1,1 @@
+{"text": "it's durable, had a decent length, and with thick enough fabric.I kind of wish the neck hole was a bit smaller though, every big and tall shirt company assumes you have the neck to head ratio of a seal.", "sentiment": "negative", "topics": {"0": "0.17048214", "1": "0.12045159", "2": "0.14772354", "3": "0.23236829", "5": "0.25769013", "6": "0.06529975"}}

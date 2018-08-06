@@ -1,0 +1,1 @@
+{"text": "I found the Sarasota quarter strap sandal a bit short.  I always wear 9M I may order half size larger", "sentiment": "negative", "topics": {"0": "0.20315579", "1": "0.17718641", "2": "0.23445465", "3": "0.25781825", "5": "0.109492004"}}

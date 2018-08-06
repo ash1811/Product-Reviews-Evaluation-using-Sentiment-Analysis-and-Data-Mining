@@ -1,0 +1,1 @@
+{"text": "These slippers are soft with great cushion support. I would certainly recommend these to anyone. Since the slipper velco adjusts to fit, they can fit a wide variety of foot widths. They're great!", "sentiment": "negative", "topics": {"0": "0.16060628", "1": "0.33185714", "2": "0.12960164", "5": "0.2714308", "6": "0.09343049"}}

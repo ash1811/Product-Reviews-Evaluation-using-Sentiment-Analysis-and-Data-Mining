@@ -1,0 +1,1 @@
+{"text": "I love Jockeys Women's Underware.  These underware fit well, and definitely last.  They are comfortable, and will be buying more.", "sentiment": "positive", "topics": {"0": "0.45161614", "1": "0.35963187", "2": "0.011014204", "3": "0.1446382", "4": "0.011038099", "5": "0.011047168", "6": "0.011014307"}}

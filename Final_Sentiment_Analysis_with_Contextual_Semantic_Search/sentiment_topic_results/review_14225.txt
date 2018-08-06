@@ -1,0 +1,1 @@
+{"text": "Es levis original y el color es muy lindo y de buena calidad, se lo recomiendo, vino nuevo de paquete.", "sentiment": "negative", "topics": {"0": "0.13128087", "1": "0.10022777", "2": "0.23017092", "3": "0.062494542", "5": "0.17896125", "6": "0.28923026"}}

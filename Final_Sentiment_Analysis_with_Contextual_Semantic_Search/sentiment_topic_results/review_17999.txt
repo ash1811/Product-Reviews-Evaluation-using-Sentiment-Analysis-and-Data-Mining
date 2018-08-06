@@ -1,0 +1,1 @@
+{"text": "re loj de bu ena  calida d  muy  util si rve  pa ra cual quier oca sion lo recom iendo", "sentiment": "negative", "topics": {"1": "0.3101906", "2": "0.11099498", "4": "0.09661815", "5": "0.10131057", "6": "0.36584526"}}

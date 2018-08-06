@@ -1,0 +1,1 @@
+{"text": "This is a good belt and has a nice look too.You could use this for anything,work or casual.I'm wearing a 36 now and that is this belt size and it fits well.", "sentiment": "negative", "topics": {"1": "0.45804176", "2": "0.14816444", "3": "0.1931407", "4": "0.1737911"}}

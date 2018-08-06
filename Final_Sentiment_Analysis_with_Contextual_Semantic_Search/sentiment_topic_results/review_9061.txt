@@ -1,0 +1,1 @@
+{"text": "They fit perfect and will go with just about anything. If you have wider feet be sure to order the wider size.", "sentiment": "positive", "topics": {"0": "0.13602193", "1": "0.3831527", "2": "0.21936536", "3": "0.14216268", "4": "0.09324383", "5": "0.013015527", "6": "0.013037941"}}

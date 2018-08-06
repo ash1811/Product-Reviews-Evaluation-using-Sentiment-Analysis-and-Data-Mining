@@ -1,0 +1,1 @@
+{"text": "I bought this as a gift and was so disappointted in it. The band is so thin it feels cheap.", "sentiment": "negative", "topics": {"0": "0.6791414", "1": "0.01592965", "2": "0.01590424", "3": "0.015890986", "4": "0.24133529", "5": "0.015902543", "6": "0.015895907"}}

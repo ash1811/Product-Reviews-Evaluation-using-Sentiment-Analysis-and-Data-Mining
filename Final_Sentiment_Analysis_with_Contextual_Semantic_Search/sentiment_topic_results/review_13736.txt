@@ -1,0 +1,1 @@
+{"text": "After I placed the order I read the reviews, sadly I should have read them before, however after reading all the negative reviews and expecting to be disappointed. I wasn't disappointed at all I love the quality and they were a perfect fit.", "sentiment": "negative", "topics": {"0": "0.12000287", "1": "0.2470895", "2": "0.21981174", "3": "0.39048228"}}

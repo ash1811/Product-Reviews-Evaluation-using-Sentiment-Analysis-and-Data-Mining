@@ -1,0 +1,1 @@
+{"text": "Nice fit and look if your a dancer. I was looking to pair this with jeans. It didn't look right so I returned.", "sentiment": "negative", "topics": {"0": "0.013033908", "1": "0.5539917", "2": "0.013000468", "3": "0.013055002", "4": "0.38084948", "5": "0.0130774975", "6": "0.012991927"}}

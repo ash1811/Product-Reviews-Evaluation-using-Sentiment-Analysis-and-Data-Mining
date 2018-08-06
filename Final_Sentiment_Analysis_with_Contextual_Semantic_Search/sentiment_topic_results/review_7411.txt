@@ -1,0 +1,1 @@
+{"text": "This product is well made and will not disappoint.  The fabric is comfortable and soft.  It is somewhat conservative, but not too....", "sentiment": "negative", "topics": {"0": "0.013022762", "1": "0.343846", "2": "0.32036182", "3": "0.013000494", "4": "0.012990878", "5": "0.28378722", "6": "0.012990769"}}

@@ -1,0 +1,1 @@
+{"text": "As always, a good, sturdy product. You can wash these many times, and they last a long time. I'll always buy from Jockey.", "sentiment": "positive", "topics": {"1": "0.27721775", "3": "0.09337051", "4": "0.11152994", "5": "0.48924464"}}

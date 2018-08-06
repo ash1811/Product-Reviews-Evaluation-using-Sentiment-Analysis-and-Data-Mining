@@ -1,0 +1,1 @@
+{"text": "High quality, comfortable bra that my wife loves to wear.  It fits well and is of good quality. Highly recommend. So good I ordered 3 more pairs.  If you want a comfortable high quality bra, this is the one.", "sentiment": "negative", "topics": {"1": "0.72089386", "3": "0.24921991"}}

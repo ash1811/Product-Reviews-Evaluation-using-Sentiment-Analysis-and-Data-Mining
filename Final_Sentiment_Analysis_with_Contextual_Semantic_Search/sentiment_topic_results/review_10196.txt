@@ -1,0 +1,1 @@
+{"text": "In great condition, just what I wanted. Nice and sturdy. I have to keep writing to fulfill the word quota on this review", "sentiment": "negative", "topics": {"0": "0.14565751", "1": "0.5663604", "2": "0.011934531", "3": "0.1459351", "4": "0.011926342", "5": "0.011963337", "6": "0.106222816"}}

@@ -1,0 +1,1 @@
+{"text": "Straps are very tight across. If you have narrow feet, this is the shoe for you. They do support the arch nicely but are not made for medium-width feet.", "sentiment": "negative", "topics": {"0": "0.010213016", "1": "0.45659828", "2": "0.16506696", "3": "0.19948913", "4": "0.14820704", "5": "0.010220772", "6": "0.010204816"}}

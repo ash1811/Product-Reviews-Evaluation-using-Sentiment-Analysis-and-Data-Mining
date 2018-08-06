@@ -1,0 +1,1 @@
+{"text": "Very please with this T-shirt.  It was not thin and flimsy as some T-shirts are; it had a great neckline and the fit and length were great.  My husband is tall and big around the middle.  Will buy again.", "sentiment": "negative", "topics": {"0": "0.21517648", "1": "0.5077662", "2": "0.094302185", "4": "0.16009976"}}

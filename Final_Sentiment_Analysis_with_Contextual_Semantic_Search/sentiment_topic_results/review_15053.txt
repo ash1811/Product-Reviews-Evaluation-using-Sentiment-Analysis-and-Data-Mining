@@ -1,0 +1,1 @@
+{"text": "great shoes i spend lots of hours standing great shoes comfortable from day one I will buy again! Thank you!", "sentiment": "negative", "topics": {"1": "0.33696723", "2": "0.34275457", "5": "0.28443468"}}

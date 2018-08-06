@@ -1,0 +1,1 @@
+{"text": "I loved this very well done i wear it every day and it never turns my fingers colors very good", "sentiment": "negative", "topics": {"0": "0.011935948", "1": "0.41868034", "2": "0.21850115", "3": "0.011946615", "4": "0.11981305", "5": "0.20719711", "6": "0.01192576"}}

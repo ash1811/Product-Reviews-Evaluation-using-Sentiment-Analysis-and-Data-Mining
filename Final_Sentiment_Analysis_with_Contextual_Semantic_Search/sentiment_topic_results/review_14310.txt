@@ -1,0 +1,1 @@
+{"text": "Wore these in high school. I have been looking for over 30 years for these and am delighted to find them at a reasonable price. Fit is wonderful.", "sentiment": "negative", "topics": {"0": "0.102819845", "1": "0.32092518", "2": "0.011091725", "3": "0.011038835", "4": "0.011050131", "5": "0.42139104", "6": "0.121683225"}}

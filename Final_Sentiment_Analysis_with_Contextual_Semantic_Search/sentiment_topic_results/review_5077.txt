@@ -1,0 +1,1 @@
+{"text": "My husband is always a size 11D so I ordered a 45 and the fit was perfect. He loves the comfort of Birks and wears them until we have to get them repaired. This color is a nice neutral Taupe. I love them and so does he!", "sentiment": "negative", "topics": {"0": "0.1265769", "1": "0.36206374", "2": "0.08140341", "4": "0.20123117", "6": "0.21508023"}}

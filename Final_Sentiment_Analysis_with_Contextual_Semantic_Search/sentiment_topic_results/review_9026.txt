@@ -1,0 +1,1 @@
+{"text": "the back of shoe for me does not come up high enough to grip top of heel, so they just slipped really bad - the strap did not help keep them on - so returned", "sentiment": "negative", "topics": {"1": "0.19555335", "2": "0.19108143", "3": "0.2924627", "4": "0.10068849", "5": "0.104279585", "6": "0.10699023"}}

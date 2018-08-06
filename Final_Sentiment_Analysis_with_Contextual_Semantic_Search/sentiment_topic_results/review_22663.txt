@@ -1,0 +1,1 @@
+{"text": "These briefs fit true to size; they are not baggy.  The assorted pack colors are bright and pretty.  They do not dig or cut into the skin around my leg and the quality is excellent.", "sentiment": "positive", "topics": {"0": "0.081673846", "1": "0.5055611", "2": "0.09195182", "3": "0.09581736", "4": "0.11952133", "5": "0.0975017"}}

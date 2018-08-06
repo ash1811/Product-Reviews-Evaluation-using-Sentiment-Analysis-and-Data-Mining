@@ -1,0 +1,1 @@
+{"text": "I've owned and worn these for about 2 months. Have washed them a number of times and they still are in great shape. Comfortable and I think will hold up for a long time.", "sentiment": "negative", "topics": {"0": "0.14280221", "1": "0.37450877", "2": "0.065583505", "3": "0.32369906", "6": "0.07653438"}}

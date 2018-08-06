@@ -1,0 +1,1 @@
+{"text": "I bought this book bag for my younger brother, and he absolutely loves it. It has soo much space. So many pockets(:", "sentiment": "positive", "topics": {"0": "0.25739127", "1": "0.32258588", "2": "0.10112132", "3": "0.01022862", "4": "0.14372729", "5": "0.07625712", "6": "0.08868847"}}

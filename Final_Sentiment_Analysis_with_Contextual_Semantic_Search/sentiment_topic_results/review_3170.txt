@@ -1,0 +1,1 @@
+{"text": "I was very disappointed whne these arrived and the quality was so lowThe denim was thin, the stictching uneven and the sizing was off", "sentiment": "positive", "topics": {"0": "0.22156908", "1": "0.3103632", "2": "0.01299046", "3": "0.4159732", "4": "0.0131181", "5": "0.012998127", "6": "0.012987866"}}

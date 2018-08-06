@@ -1,0 +1,1 @@
+{"text": "Just as expected. Replacing a 6 year old pair that was just worn out.  Love the cushiony feel. Would have liked another color but limited to my size. Oh well. They are just house shoes. Not to be worn to wal mart people", "sentiment": "negative", "topics": {"1": "0.3857719", "2": "0.071405225", "3": "0.19272567", "5": "0.1569392", "6": "0.18213075"}}

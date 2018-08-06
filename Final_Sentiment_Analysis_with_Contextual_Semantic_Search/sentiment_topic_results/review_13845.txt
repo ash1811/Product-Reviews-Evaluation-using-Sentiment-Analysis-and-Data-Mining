@@ -1,0 +1,1 @@
+{"text": "I had to give these away because they were so narrow they wouldn't fit my feet comfortably (and my feet are pretty darn narrow). Oh well!", "sentiment": "negative", "topics": {"0": "0.010231989", "1": "0.46711016", "2": "0.10378777", "3": "0.010232421", "4": "0.26042348", "5": "0.13800626", "6": "0.010207927"}}

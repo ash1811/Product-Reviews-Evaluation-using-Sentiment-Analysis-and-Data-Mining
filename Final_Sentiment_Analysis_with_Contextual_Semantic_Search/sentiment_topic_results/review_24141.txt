@@ -1,0 +1,1 @@
+{"text": "This bra squished me to the center so there was no separation.  It was not comfortable nor flattering.  I returned it.", "sentiment": "negative", "topics": {"0": "0.015903773", "1": "0.14627618", "2": "0.16044317", "3": "0.6296018", "4": "0.015925031", "5": "0.015909802", "6": "0.015940232"}}

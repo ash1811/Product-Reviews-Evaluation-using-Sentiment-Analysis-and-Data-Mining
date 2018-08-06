@@ -1,0 +1,1 @@
+{"text": "and they never do for me!  Fits great, lightweight fabric.People here are reviewing that the legs are wide but the product desc. does say its a comfortable fit, so that's how I interpreted it.Would buy again!", "sentiment": "negative", "topics": {"0": "0.12447951", "1": "0.5499991", "5": "0.15161662", "6": "0.15238924"}}

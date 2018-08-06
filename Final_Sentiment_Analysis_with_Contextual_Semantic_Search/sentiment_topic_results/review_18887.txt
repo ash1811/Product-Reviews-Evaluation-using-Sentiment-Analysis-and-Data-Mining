@@ -1,0 +1,1 @@
+{"text": "These pants are way more comfortable than I ever imagined, they don't feel super durable but only time will tell.", "sentiment": "positive", "topics": {"0": "0.013055521", "1": "0.561969", "2": "0.013029305", "3": "0.013025902", "4": "0.26893145", "5": "0.0130159715", "6": "0.11697292"}}

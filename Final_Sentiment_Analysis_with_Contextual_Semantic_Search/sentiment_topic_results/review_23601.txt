@@ -1,0 +1,1 @@
+{"text": "I ordered these in hopes to replace my Lane Bryant panties that are so expensive. Didn't work though, they just do not fit me properly.", "sentiment": "negative", "topics": {"0": "0.011941835", "1": "0.37489673", "2": "0.2278925", "3": "0.011933472", "4": "0.21069993", "5": "0.1507231", "6": "0.011912457"}}

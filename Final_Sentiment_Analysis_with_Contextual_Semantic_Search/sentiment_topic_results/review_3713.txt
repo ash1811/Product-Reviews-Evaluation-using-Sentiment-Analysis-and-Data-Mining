@@ -1,0 +1,1 @@
+{"text": "I love the look and feel of this bracelet.  For the price it is a very good deal so far.", "sentiment": "positive", "topics": {"0": "0.6530639", "1": "0.015954293", "2": "0.015953189", "3": "0.26721478", "4": "0.015993671", "5": "0.015928194", "6": "0.015891964"}}

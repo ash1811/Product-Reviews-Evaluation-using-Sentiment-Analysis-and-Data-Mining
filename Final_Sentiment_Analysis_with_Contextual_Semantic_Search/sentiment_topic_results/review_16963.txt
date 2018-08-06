@@ -1,0 +1,1 @@
+{"text": "Fits good, I wanted the XXL but only one left was the XXL tall, So I went with it and even though it's a little big I still really like the shirt.", "sentiment": "negative", "topics": {"0": "0.2699677", "1": "0.3676932", "4": "0.15808062", "6": "0.18035135"}}

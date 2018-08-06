@@ -1,0 +1,1 @@
+{"text": "These shoes are light weight. The slip resistance helps me to walk in the slipping floor confidently. Overall they are good.", "sentiment": "negative", "topics": {"0": "0.3148045", "1": "0.15157901", "2": "0.09638598", "3": "0.09181895", "4": "0.10213008", "5": "0.12224333", "6": "0.12103815"}}

@@ -1,0 +1,1 @@
+{"text": "My other flip flops are sturdier - but as they are all rubber, in the hot texas summer they stick to me. These have a cloth/polyester top so are much better for the summer.  Not the highest quality - but not bad for the price.", "sentiment": "positive", "topics": {"0": "0.09557339", "1": "0.5156159", "2": "0.19164476", "3": "0.091133736", "5": "0.09097755"}}

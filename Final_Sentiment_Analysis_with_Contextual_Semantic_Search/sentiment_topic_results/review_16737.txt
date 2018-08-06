@@ -1,0 +1,1 @@
+{"text": "I like these pants but I don't love them. They're too big in the waist and there is too much of a flair. It feels more like yoga pants with a denim look. I save them for jean weekends at work.", "sentiment": "negative", "topics": {"1": "0.44096112", "2": "0.1269265", "4": "0.25801006", "6": "0.152561"}}

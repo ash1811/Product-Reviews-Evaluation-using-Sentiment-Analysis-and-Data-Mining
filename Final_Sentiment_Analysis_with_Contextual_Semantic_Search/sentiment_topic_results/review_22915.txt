@@ -1,0 +1,1 @@
+{"text": "Great quality, great fit and very comfortable. I like the double layer that Champion used in these shorts, because they are thin, but not thin enough to see through.", "sentiment": "negative", "topics": {"0": "0.106451035", "1": "0.62172717", "2": "0.08680644", "3": "0.08415434", "4": "0.08401811"}}

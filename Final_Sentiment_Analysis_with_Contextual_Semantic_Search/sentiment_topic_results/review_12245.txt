@@ -1,0 +1,1 @@
+{"text": "I bought these for my mom, but tried them on myself and love them.  It feels like I'm walking on a temperpedic mattress.", "sentiment": "positive", "topics": {"0": "0.40102562", "1": "0.1393497", "2": "0.011960917", "3": "0.011994126", "4": "0.24022834", "5": "0.011956717", "6": "0.18348461"}}

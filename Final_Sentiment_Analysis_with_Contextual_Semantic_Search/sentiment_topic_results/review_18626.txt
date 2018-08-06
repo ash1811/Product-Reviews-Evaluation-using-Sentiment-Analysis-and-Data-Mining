@@ -1,0 +1,1 @@
+{"text": "Very soft and nice during the Winter months or keeping the sun off of you in Spring or Fall. Breath able, durable, thick.", "sentiment": "negative", "topics": {"0": "0.011002769", "1": "0.5490263", "2": "0.010998512", "3": "0.18829487", "4": "0.010997692", "5": "0.119139396", "6": "0.11054046"}}

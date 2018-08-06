@@ -1,0 +1,1 @@
+{"text": "These are a very nice pair of stockings. They are thick, have nice shimmer, and will go great with my dress that I am wearing for the wedding. A very good bargain!", "sentiment": "positive", "topics": {"0": "0.010289183", "1": "0.67762333", "2": "0.010232306", "3": "0.010234502", "4": "0.010223514", "5": "0.2711694", "6": "0.0102277715"}}

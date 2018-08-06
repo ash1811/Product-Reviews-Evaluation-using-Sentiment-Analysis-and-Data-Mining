@@ -1,0 +1,1 @@
+{"text": "Great boat shoes.  I ordered 8.5EE, and they fit accordingly.  The shoes are well made and fit comfortably, with minimal break-in time.", "sentiment": "negative", "topics": {"1": "0.33196563", "2": "0.23557055", "4": "0.1716893", "5": "0.23395166"}}

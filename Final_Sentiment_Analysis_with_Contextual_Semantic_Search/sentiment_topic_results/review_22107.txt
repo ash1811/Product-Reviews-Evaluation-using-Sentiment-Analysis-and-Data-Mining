@@ -1,0 +1,1 @@
+{"text": "I had a pair of these for years and finally wore them out. These were ordered as a replacement and I couldn't be happier.  Very warm, but provide the finger dexterity needed.  Great product.", "sentiment": "negative", "topics": {"1": "0.30417472", "2": "0.21056773", "4": "0.10791576", "5": "0.3504368"}}

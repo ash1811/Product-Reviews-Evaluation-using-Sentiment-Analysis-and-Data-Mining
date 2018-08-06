@@ -1,0 +1,1 @@
+{"text": "Have two pair, one for travel and for home;true to size; wash well, wish they came in stronger colors, have tried other brands, nothing matches Isotoner quality", "sentiment": "negative", "topics": {"1": "0.47644305", "3": "0.19183059", "4": "0.18155919", "5": "0.12748933"}}

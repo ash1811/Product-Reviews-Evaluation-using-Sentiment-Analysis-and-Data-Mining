@@ -1,0 +1,1 @@
+{"text": "This earrings are great.  Wanted to slip trollbeads, etc. over them.  I get alot of compliments.  People think  I have alot of earrings (which I do) but not as many as they think.  These are just narrow enough to slip different things over them.", "sentiment": "negative", "topics": {"0": "0.17479464", "1": "0.46386054", "2": "0.27925202", "4": "0.064900406"}}

@@ -1,0 +1,1 @@
+{"text": "These do not creep into my running shoes at all! So many other brands have and it Just ends up being a waste of money. These are worth the price.", "sentiment": "negative", "topics": {"0": "0.15499645", "1": "0.011940636", "2": "0.14940418", "3": "0.17453282", "4": "0.13307133", "5": "0.36411008", "6": "0.0119445"}}

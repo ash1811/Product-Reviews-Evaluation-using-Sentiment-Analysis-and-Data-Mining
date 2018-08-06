@@ -1,0 +1,1 @@
+{"text": "Looks nice to use in formal party, and is verry confortable too in a casual dress , i like it", "sentiment": "negative", "topics": {"0": "0.19586912", "1": "0.31554613", "2": "0.13180442", "3": "0.31768382", "4": "0.01302635", "5": "0.013011546", "6": "0.013058596"}}

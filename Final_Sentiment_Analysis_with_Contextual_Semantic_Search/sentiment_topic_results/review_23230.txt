@@ -1,0 +1,1 @@
+{"text": "These bras are very very comfortable but the elastic wears out quickly.  Definitely not a long-term use product and by long-term I mean more than a month.", "sentiment": "negative", "topics": {"0": "0.010999521", "1": "0.13753204", "2": "0.29203156", "3": "0.30505982", "4": "0.011022201", "5": "0.13251355", "6": "0.110841304"}}

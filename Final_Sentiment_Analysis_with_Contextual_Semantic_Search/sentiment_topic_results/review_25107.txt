@@ -1,0 +1,1 @@
+{"text": "My feet get extremely cold on our wood floors in the winter, so I wanted insoles to add to my Acorn leather slippers. These exceeded my expectations - very soft, and quite warm. I did not need to trim them.", "sentiment": "negative", "topics": {"1": "0.13025723", "2": "0.095558286", "3": "0.38639644", "4": "0.25216395", "6": "0.12261023"}}

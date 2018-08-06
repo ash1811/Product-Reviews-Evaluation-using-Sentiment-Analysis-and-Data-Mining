@@ -1,0 +1,1 @@
+{"text": "I love these pants .. I love the zipper fatigues better than the button ones.. .. these pants are stylish and fit so nice. event when baggy ;).. LOVE THEM MY favorites pants are the green camouflage and black ones.. I will buy them again ...", "sentiment": "negative", "topics": {"1": "0.4874328", "2": "0.18156749", "4": "0.21166489", "6": "0.10065312"}}

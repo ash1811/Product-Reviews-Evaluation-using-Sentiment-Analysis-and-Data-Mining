@@ -1,0 +1,1 @@
+{"text": "for all intents and purposes. My 4 year old likes it and play with it when he dressing up, so I got my money worth.", "sentiment": "negative", "topics": {"0": "0.011039855", "1": "0.14497377", "2": "0.011014259", "3": "0.28715646", "4": "0.31149277", "5": "0.22325009", "6": "0.011072765"}}

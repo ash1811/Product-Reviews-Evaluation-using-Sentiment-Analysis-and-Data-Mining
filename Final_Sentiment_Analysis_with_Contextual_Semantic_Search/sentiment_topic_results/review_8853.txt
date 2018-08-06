@@ -1,0 +1,1 @@
+{"text": "Shoes are as expected.  I have purchased the same shoes in different colors previously, and the are a very good buy for the price.  Will probably purchased a white pair next.  Thanks!!!", "sentiment": "positive", "topics": {"1": "0.6982648", "2": "0.19201559", "5": "0.0760198"}}

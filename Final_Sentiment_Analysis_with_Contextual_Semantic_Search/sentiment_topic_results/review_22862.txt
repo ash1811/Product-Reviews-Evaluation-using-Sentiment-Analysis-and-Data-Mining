@@ -1,0 +1,1 @@
+{"text": "this is just what my husband needed to hold his pants up.  He had lost weight from surgery, etc. and holding the pants up was getting to be a problem.  He likes that he can put the tab anywhere he wants and it fits just fine.", "sentiment": "negative", "topics": {"1": "0.58750254", "2": "0.074619964", "3": "0.16461511", "4": "0.1527625"}}

@@ -1,0 +1,1 @@
+{"text": "I was looking for the right color bandana to go with my shirt for use in the garden and this fit the bill perfectly.  It arrive quickly and was just what I expected.  Very happy!", "sentiment": "negative", "topics": {"1": "0.5502408", "2": "0.08263185", "3": "0.11527691", "4": "0.1597802", "5": "0.07418673"}}

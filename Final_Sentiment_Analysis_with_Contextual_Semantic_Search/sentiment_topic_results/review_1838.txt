@@ -1,0 +1,1 @@
+{"text": "I have had many Minnetonka moccasins over the years and always enjoy them.  These seem to run a little narrower than I am used to but hopefully, they will break in just fine.", "sentiment": "positive", "topics": {"1": "0.15921117", "2": "0.11299888", "3": "0.30257827", "4": "0.16075704", "6": "0.24656062"}}

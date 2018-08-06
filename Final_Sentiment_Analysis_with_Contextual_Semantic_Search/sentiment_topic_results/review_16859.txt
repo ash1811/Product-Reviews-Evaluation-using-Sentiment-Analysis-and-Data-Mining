@@ -1,0 +1,1 @@
+{"text": "These are comfy. Helps feet from sweating a lot and shoe does not smell so bad as with bare feet.", "sentiment": "positive", "topics": {"0": "0.012998384", "1": "0.12563968", "2": "0.1674989", "3": "0.23714939", "4": "0.3344859", "5": "0.013003057", "6": "0.109224685"}}

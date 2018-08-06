@@ -1,0 +1,1 @@
+{"text": "I've had some problems with these covers before as they didn't cover completely...these do and they're so comfortable to wear.", "sentiment": "negative", "topics": {"0": "0.14658703", "1": "0.1950058", "2": "0.01589279", "3": "0.24239118", "4": "0.36825654", "5": "0.015932411", "6": "0.015934272"}}

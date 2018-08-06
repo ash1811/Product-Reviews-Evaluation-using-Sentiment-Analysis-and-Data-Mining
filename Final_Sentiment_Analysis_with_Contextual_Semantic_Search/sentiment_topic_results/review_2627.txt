@@ -1,0 +1,1 @@
+{"text": "I had some problem with the product and received immediate support from IslandSurf. She was able to help me in a truly helpful and timely manner.", "sentiment": "negative", "topics": {"0": "0.011016076", "1": "0.2386872", "2": "0.010999475", "3": "0.16523436", "4": "0.21980518", "5": "0.26430768", "6": "0.089949995"}}

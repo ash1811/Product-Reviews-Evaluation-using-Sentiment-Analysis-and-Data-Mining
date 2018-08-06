@@ -1,0 +1,1 @@
+{"text": "These Levi's fit very well. The waist line comes up high enough on my waist that I don't have to keep pulling them up when I am working. They carry Levi's Brand and Quality.", "sentiment": "negative", "topics": {"1": "0.34818387", "2": "0.14083205", "3": "0.16649172", "4": "0.08799705", "6": "0.2396484"}}

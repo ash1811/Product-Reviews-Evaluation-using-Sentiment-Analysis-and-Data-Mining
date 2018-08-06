@@ -1,0 +1,1 @@
+{"text": "I purchased the white/baby blue top in medium.  It fits perfectly - close, but not tight.  I normally wear a woman's size small.  The cotton is super soft and the raglan sleeves make it that much more comfortable.  It is well made.", "sentiment": "positive", "topics": {"0": "0.053285893", "1": "0.6363025", "2": "0.049327224", "3": "0.24391867"}}

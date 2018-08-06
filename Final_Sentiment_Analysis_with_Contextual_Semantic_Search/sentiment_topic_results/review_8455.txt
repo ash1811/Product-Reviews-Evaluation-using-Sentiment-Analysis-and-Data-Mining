@@ -1,0 +1,1 @@
+{"text": "Good quality and good price. I bought it for my Alice costume and it suits well. The package arrived on time.", "sentiment": "negative", "topics": {"0": "0.44327137", "1": "0.33414644", "2": "0.082692705", "3": "0.010998343", "4": "0.10688598", "5": "0.011013129", "6": "0.010992042"}}

@@ -1,0 +1,1 @@
+{"text": "Wanted a hat for my fishing trips and i liked this style. The color looks great and the brim keeps the sun out of your eyes. The strap looks good and serves a purpose for when you dont want the hat on your head .", "sentiment": "negative", "topics": {"0": "0.21269731", "1": "0.24786495", "2": "0.20282157", "3": "0.26435", "6": "0.059747078"}}

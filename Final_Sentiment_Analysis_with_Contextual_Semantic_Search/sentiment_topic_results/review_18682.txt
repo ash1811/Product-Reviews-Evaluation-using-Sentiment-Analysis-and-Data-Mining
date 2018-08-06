@@ -1,0 +1,1 @@
+{"text": "They fit me well. I've never owned this color of panty hose before. They are fun and sexy. I'm going to get every color of fishnets after discovering the many colors. These came in a timely manner.", "sentiment": "positive", "topics": {"0": "0.22312802", "1": "0.21516275", "2": "0.06241552", "3": "0.067186855", "4": "0.24459976", "5": "0.12485475", "6": "0.062652364"}}

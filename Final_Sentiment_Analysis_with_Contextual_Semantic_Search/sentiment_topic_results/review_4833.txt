@@ -1,0 +1,1 @@
+{"text": "Very nice stockings. Used them on my honeymoon. Nice bow and they don't bind like some others. I would recommend.", "sentiment": "positive", "topics": {"0": "0.011942769", "1": "0.6767185", "2": "0.011959105", "3": "0.26357377", "4": "0.011908893", "5": "0.011930655", "6": "0.011966354"}}

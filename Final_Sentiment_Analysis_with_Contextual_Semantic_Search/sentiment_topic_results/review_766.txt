@@ -1,0 +1,1 @@
+{"text": "Good clothing item,  good fabric and very good quality item.  Really nothing to complain about here as good price as well!", "sentiment": "negative", "topics": {"1": "0.66465265", "5": "0.07249042", "6": "0.22470634"}}

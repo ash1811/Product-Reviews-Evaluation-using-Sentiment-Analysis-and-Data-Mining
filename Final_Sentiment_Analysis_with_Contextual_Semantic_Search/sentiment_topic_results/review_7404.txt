@@ -1,0 +1,1 @@
+{"text": "This shoe runs small, order one size larger than normal ...... my size 5 friend order the 6 and it just fits!", "sentiment": "negative", "topics": {"0": "0.29106092", "1": "0.16291034", "2": "0.18255295", "3": "0.24953192", "5": "0.09483181"}}

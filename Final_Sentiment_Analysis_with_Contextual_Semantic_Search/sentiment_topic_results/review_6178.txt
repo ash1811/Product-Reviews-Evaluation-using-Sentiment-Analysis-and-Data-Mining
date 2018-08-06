@@ -1,0 +1,1 @@
+{"text": "I have been wearing this style Isotoner all my adult life and I love them&#8230;..bought these for my daughter-in-law to be to wear while she is getting ready for her wedding events !!", "sentiment": "negative", "topics": {"0": "0.010219963", "1": "0.44242784", "2": "0.010207532", "3": "0.010258083", "4": "0.16205837", "5": "0.20611486", "6": "0.1587134"}}

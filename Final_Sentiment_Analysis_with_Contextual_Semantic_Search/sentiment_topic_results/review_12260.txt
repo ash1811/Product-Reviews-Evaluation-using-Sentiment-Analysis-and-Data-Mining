@@ -1,0 +1,1 @@
+{"text": "I read the review and bought them since I do not prefer thong slipper style either.  They seem to run short and kind of narrow... For a comfy shoe they need to be a little more \"relaxed\".  Not impressed.", "sentiment": "negative", "topics": {"0": "0.25499874", "2": "0.13632904", "3": "0.27110198", "5": "0.20799841", "6": "0.11589854"}}

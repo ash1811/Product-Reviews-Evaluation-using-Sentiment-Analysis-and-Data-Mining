@@ -1,0 +1,1 @@
+{"text": "A nice casual shoe for school or work, The shoe was bought for my teenage son. He wears a size 12.", "sentiment": "negative", "topics": {"0": "0.011022868", "1": "0.39524063", "2": "0.25196722", "3": "0.30870253", "4": "0.01099723", "5": "0.011038271", "6": "0.0110312225"}}

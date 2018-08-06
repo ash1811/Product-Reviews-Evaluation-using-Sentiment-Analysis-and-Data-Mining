@@ -1,0 +1,1 @@
+{"text": "This belt is an welcome addition to my wardrobe, since can be dressed up or dressed down plus the quality is also great for the price I paid.", "sentiment": "negative", "topics": {"0": "0.19110887", "1": "0.28684315", "2": "0.1782856", "3": "0.010268962", "4": "0.31295344", "5": "0.010288147", "6": "0.010251821"}}

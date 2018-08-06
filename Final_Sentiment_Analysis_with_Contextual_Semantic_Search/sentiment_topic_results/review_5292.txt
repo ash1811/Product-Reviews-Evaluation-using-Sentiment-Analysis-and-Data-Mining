@@ -1,0 +1,1 @@
+{"text": "you truly need to go up a size when ordering. i did not heed the reviews i read because my feet are so small, but i should have. i bought more and ordered a size medium instead of small and they fit perfect.", "sentiment": "negative", "topics": {"1": "0.2028323", "3": "0.49226338", "4": "0.1127302", "5": "0.11066916", "6": "0.06718819"}}

@@ -1,0 +1,1 @@
+{"text": "Que tremendo reloj, todas las funciones que trae son buenisimas y funcionan al 100%, lo recomiendo a las personas de buen gusto. casio 1005 original...", "sentiment": "negative", "topics": {"0": "0.34176576", "1": "0.1960859", "2": "0.060273927", "4": "0.09553032", "5": "0.25122756", "6": "0.049160577"}}

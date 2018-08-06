@@ -1,0 +1,1 @@
+{"text": "Comfy and fit correctly. Colors vary from what is shown- each pack is different, but I do love this brand and the type.", "sentiment": "negative", "topics": {"0": "0.011955754", "1": "0.36133984", "2": "0.011921838", "3": "0.13602728", "4": "0.2989538", "5": "0.011933725", "6": "0.16786778"}}

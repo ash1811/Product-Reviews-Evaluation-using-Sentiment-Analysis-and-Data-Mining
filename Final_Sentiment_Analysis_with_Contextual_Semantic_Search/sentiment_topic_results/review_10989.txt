@@ -1,0 +1,1 @@
+{"text": "It is a very nice looking shoe. And the price was fantastic . But all of the shoes I ordered seemed to run very large.", "sentiment": "negative", "topics": {"0": "0.1288249", "1": "0.2847531", "2": "0.21139988", "3": "0.33599043", "4": "0.013007927", "5": "0.01303453", "6": "0.012989202"}}

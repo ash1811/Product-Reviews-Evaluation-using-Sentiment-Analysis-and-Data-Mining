@@ -1,0 +1,1 @@
+{"text": "I like these shoes, they are easy to get on and look sharp. The only reason I gave 4 stars is because they are a tad bit too shiny. A little overboard on that area, but still nice looking.", "sentiment": "negative", "topics": {"1": "0.4472502", "2": "0.19413003", "6": "0.32985392"}}

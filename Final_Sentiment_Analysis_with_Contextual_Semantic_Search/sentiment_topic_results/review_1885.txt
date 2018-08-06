@@ -1,0 +1,1 @@
+{"text": "the color is adorable, exactly what i want. however they run REALLY big! usually i wear a size 7.5, I've seen a lot of reviews complaining that they run big so i ordered a size 6 (ONE AND A HALF SIZE DOWN). Guess what they still run big!", "sentiment": "negative", "topics": {"1": "0.3098892", "2": "0.071515545", "3": "0.4503314", "4": "0.15432496"}}

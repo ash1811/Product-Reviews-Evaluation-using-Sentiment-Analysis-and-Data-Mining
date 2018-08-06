@@ -1,0 +1,1 @@
+{"text": "I'm 5,11&#34; with an athletic build. I normally wear a small/medium and the small on this baby fit perfectly.  It's comfortable (as I played a sand volleyball tournament in the costume ) and fared well with all the movement. Overall it was a great buy for the price.", "sentiment": "negative", "topics": {"0": "0.27730674", "1": "0.5262621", "4": "0.17439206"}}

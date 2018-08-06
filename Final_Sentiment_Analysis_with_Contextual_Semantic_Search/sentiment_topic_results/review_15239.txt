@@ -1,0 +1,1 @@
+{"text": "the band is narrow and poorly finished so it rubs against the skin uncomfortably - these had to be Hanes REJECTS - couldn't return them so I toss them out - total loss stay away from these crappy, uncomfortable underwear", "sentiment": "negative", "topics": {"0": "0.12232084", "1": "0.26950997", "2": "0.36686996", "3": "0.15909716", "6": "0.06709795"}}

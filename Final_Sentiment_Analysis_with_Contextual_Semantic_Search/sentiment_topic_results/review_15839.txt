@@ -1,0 +1,1 @@
+{"text": "It gives fabulous support and has great shoulder straps. The fabric is silky and the cup gives a nice profile.", "sentiment": "negative", "topics": {"0": "0.12179002", "1": "0.011061423", "2": "0.1004568", "3": "0.4915552", "4": "0.0110309655", "5": "0.25311485", "6": "0.010990752"}}

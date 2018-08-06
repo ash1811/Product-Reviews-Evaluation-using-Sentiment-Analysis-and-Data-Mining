@@ -1,0 +1,1 @@
+{"text": "I was expecting leather not suede on this order so I returned it.  Fit was good.  I liked the product but prefer the leather.", "sentiment": "positive", "topics": {"0": "0.2036729", "1": "0.35723156", "2": "0.30794796", "3": "0.011047519", "4": "0.0110293785", "5": "0.09807999", "6": "0.010990714"}}

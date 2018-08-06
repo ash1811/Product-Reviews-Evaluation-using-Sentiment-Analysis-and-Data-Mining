@@ -1,0 +1,1 @@
+{"text": "I am very please with this product.  The shirts fit surprisingly well.  The thickness is perfect for me at work.  I work in a building that has poor climate control and is often too hot.  The shirts arrived much faster than I expected too.", "sentiment": "negative", "topics": {"0": "0.31050855", "1": "0.44630358", "4": "0.15533888", "5": "0.06917143"}}

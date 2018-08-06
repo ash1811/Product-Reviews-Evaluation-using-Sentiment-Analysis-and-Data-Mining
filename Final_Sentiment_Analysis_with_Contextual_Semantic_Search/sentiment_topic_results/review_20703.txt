@@ -1,0 +1,1 @@
+{"text": "I bought these for my girlfriend to wear with a Halloween costume and that's about all they were good for.  But for the price, they served their purpose and looked great!  COSTUME ONLY!!  NOT FOR DAILY USE!", "sentiment": "negative", "topics": {"0": "0.38666153", "1": "0.19781674", "3": "0.31641567", "6": "0.07520247"}}

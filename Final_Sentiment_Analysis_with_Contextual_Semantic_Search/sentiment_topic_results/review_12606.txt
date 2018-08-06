@@ -1,0 +1,1 @@
+{"text": "I wanted a shoe that could wear on long flights so I could easily slip them off.  These work perfectly and are comfortable enough to wear while walking long distances in airports.", "sentiment": "negative", "topics": {"0": "0.07959509", "1": "0.38455257", "2": "0.18185124", "5": "0.33253658"}}

@@ -1,0 +1,1 @@
+{"text": "The \"regular fit\" was much slimmer than my teenage son was expecting. The variety of available colors was great. Delivery was quick and the product has held up to washing.", "sentiment": "negative", "topics": {"1": "0.50201494", "2": "0.16643435", "4": "0.104717635", "5": "0.10662502", "6": "0.10335296"}}

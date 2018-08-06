@@ -1,0 +1,1 @@
+{"text": "These are my second pair of yoga mat flip flops and I will be back for more.  They're so comfy!  I find myself wearing these everywhere.", "sentiment": "negative", "topics": {"0": "0.098739974", "1": "0.4810585", "2": "0.16337352", "3": "0.010242442", "4": "0.15666516", "5": "0.010235643", "6": "0.07968478"}}

@@ -1,0 +1,1 @@
+{"text": "Love the full wool socks.  They hold up well, wash well and even can throw them in the dryer.  Great for work or sport.", "sentiment": "negative", "topics": {"0": "0.12912032", "1": "0.40948078", "3": "0.25777423", "5": "0.17499965"}}

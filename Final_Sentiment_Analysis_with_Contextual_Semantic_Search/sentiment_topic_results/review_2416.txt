@@ -1,0 +1,1 @@
+{"text": "This shoes have great leather quality but they do not have any lining at all. It's impossible to wear these shoes in the mountains, in the snow or just in the freezing weather. I wish I knew this before I bought them.", "sentiment": "negative", "topics": {"0": "0.15466657", "1": "0.31583917", "2": "0.2925209", "5": "0.09736387", "6": "0.12371479"}}

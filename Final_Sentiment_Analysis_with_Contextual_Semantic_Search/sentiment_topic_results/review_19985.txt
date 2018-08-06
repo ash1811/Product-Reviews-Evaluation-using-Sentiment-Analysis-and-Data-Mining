@@ -1,0 +1,1 @@
+{"text": "for my purpose it is great, it is well organised and acquits itself to be a place for all my needs.It is a great organiser, and has many places to hide all your goodies.I thoroughly recommend this item and are very glad to use it.", "sentiment": "negative", "topics": {"0": "0.17536955", "1": "0.22060826", "3": "0.2732125", "4": "0.151607", "6": "0.16488399"}}

@@ -1,0 +1,1 @@
+{"text": "My daughter loves her new watch.  The dial is easy to read, and even lights up when you push the setting knob.  Very happy with this purchase", "sentiment": "negative", "topics": {"0": "0.3988161", "2": "0.08959098", "3": "0.31059268", "6": "0.17230974"}}

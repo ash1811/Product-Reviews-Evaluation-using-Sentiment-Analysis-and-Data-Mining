@@ -1,0 +1,1 @@
+{"text": "Arrived quickly and I didn't have to pay for shipping, like you do at every uniform site.  They fit great and I will probably order more when they come out with colors that I don't yet have.", "sentiment": "positive", "topics": {"0": "0.39987728", "1": "0.42550427", "2": "0.14086714"}}

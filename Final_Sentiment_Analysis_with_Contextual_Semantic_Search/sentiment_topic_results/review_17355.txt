@@ -1,0 +1,1 @@
+{"text": "Bought these for my honey who rides his motorcycle...no matter what the weather.  Just a extra layer for winter to keep his toes warm.  And he loves them.  They aren't to bulky to wear with a heavier pair of sock and motorcycle boots.  Awesome!", "sentiment": "negative", "topics": {"1": "0.35212922", "2": "0.2675009", "4": "0.15879558", "5": "0.20287302"}}

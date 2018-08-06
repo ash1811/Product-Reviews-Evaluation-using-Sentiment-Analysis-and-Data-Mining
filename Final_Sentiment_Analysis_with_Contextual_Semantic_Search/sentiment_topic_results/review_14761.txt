@@ -1,0 +1,1 @@
+{"text": "Haven't used it much but everything works as it should. Nice little umbrella to keep me dry when it downpours.", "sentiment": "positive", "topics": {"0": "0.22339763", "1": "0.3595065", "2": "0.14176038", "3": "0.011978027", "4": "0.011981142", "5": "0.011932119", "6": "0.23944418"}}

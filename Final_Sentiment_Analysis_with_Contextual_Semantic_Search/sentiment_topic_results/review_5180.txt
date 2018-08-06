@@ -1,0 +1,1 @@
+{"text": "These pants fit just great.  Not too tight as to restrict movement, but not overly baggy or anything.  They seem very durable.", "sentiment": "negative", "topics": {"0": "0.08478567", "1": "0.45877695", "2": "0.320782", "3": "0.01191841", "4": "0.099888645", "5": "0.011930599", "6": "0.011917724"}}

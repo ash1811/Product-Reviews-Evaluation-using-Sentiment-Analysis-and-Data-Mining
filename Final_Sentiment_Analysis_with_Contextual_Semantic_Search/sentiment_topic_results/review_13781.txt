@@ -1,0 +1,1 @@
+{"text": "These are hard to wear mostly because they have that moose knuckle effect that gets unwanted attention when Im shopping at Walmart.", "sentiment": "negative", "topics": {"0": "0.10355625", "1": "0.25269553", "2": "0.106528156", "3": "0.15375638", "4": "0.011006509", "5": "0.17097667", "6": "0.20148046"}}

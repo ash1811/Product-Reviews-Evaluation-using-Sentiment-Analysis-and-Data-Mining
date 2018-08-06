@@ -1,0 +1,1 @@
+{"text": "Looks like it does its job, but I find it runs very small according to the size chart. I will have to wait to wear this, but i'm keeping this product because it seems like it's wonderful quality. Size is my only complaint.", "sentiment": "negative", "topics": {"1": "0.43549582", "2": "0.1336212", "3": "0.3316646", "5": "0.07964292"}}

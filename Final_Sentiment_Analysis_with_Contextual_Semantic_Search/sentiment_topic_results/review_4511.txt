@@ -1,0 +1,1 @@
+{"text": "My husband is very thin 32&#34;x36&#34; these jeans fit him perfect and no complaints at all they fit just right,waist and length true to size", "sentiment": "negative", "topics": {"0": "0.011022501", "1": "0.5380948", "2": "0.01099724", "3": "0.011049974", "4": "0.11312493", "5": "0.16834937", "6": "0.14736111"}}

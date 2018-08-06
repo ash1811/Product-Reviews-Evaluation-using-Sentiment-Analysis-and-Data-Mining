@@ -1,0 +1,1 @@
+{"text": "love the fit and love how the fit, made to wear all day. just right on the leg not too long or short.", "sentiment": "negative", "topics": {"0": "0.17516284", "1": "0.76504034", "2": "0.011935849", "3": "0.011963783", "4": "0.011992425", "5": "0.011973215", "6": "0.011931574"}}

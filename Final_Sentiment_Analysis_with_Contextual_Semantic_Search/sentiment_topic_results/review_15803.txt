@@ -1,0 +1,1 @@
+{"text": "I've been wearing this brand since the late sixties, so they were perfect as usual.  I especially love this brand because they don't run.", "sentiment": "negative", "topics": {"0": "0.011006934", "1": "0.4014612", "2": "0.09995447", "3": "0.45453113", "4": "0.01103925", "5": "0.0110027585", "6": "0.011004264"}}

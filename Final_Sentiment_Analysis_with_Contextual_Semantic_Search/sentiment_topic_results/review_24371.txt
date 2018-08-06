@@ -1,0 +1,1 @@
+{"text": "Hat fits great and I love this color,might be a little hard to keep clean. But for now It's a great color.", "sentiment": "negative", "topics": {"0": "0.12237254", "1": "0.49705413", "2": "0.011909146", "3": "0.3328847", "4": "0.011945312", "5": "0.011926618", "6": "0.011907549"}}

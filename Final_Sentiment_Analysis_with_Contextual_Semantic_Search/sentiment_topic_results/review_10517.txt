@@ -1,0 +1,1 @@
+{"text": "These are the softest socks I have ever owned.  I got them in several different colors, because they feel so good on my feet.  These are a definite buy and buy again.", "sentiment": "negative", "topics": {"0": "0.2284257", "1": "0.2702631", "4": "0.1400688", "5": "0.33435684"}}

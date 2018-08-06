@@ -1,0 +1,1 @@
+{"text": "I had these wings out of the package for about 10 seconds before they started falling apart. Talk about cheaply made! Awful product worth about 1$. Don't bother with these.", "sentiment": "negative", "topics": {"0": "0.17617095", "3": "0.1093857", "4": "0.13438407", "5": "0.48691872", "6": "0.07619823"}}

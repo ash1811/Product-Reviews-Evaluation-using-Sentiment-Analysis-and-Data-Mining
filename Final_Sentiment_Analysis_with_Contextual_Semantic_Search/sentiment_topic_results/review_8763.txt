@@ -1,0 +1,1 @@
+{"text": "I've had these for a year and have washed them 30 times at least and they still leave lint on my feet.  They are thick and comfy though so I still wear them.", "sentiment": "negative", "topics": {"0": "0.12673633", "3": "0.6003804", "4": "0.23914668"}}

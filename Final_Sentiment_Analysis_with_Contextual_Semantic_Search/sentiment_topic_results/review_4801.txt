@@ -1,0 +1,1 @@
+{"text": "Good jeans an a great price they are good looking an pretty tuff,a good everyday day wear jean! Good buy.", "sentiment": "positive", "topics": {"1": "0.6317786", "4": "0.08314486", "5": "0.249305"}}

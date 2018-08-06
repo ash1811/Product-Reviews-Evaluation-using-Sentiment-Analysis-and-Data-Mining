@@ -1,0 +1,1 @@
+{"text": "Nice basic sweatshirt for knocking around in. Fit is great and shirt is comfortable. Price was a plus too. Happy", "sentiment": "negative", "topics": {"1": "0.54732406", "4": "0.091725685", "5": "0.18175574", "6": "0.15042914"}}

@@ -1,0 +1,1 @@
+{"text": "Classic, stylish look. Makes any plain looking outfit look instantly more stylish, quality design, build and materials, great feel on face, useful included case. Great investment.", "sentiment": "negative", "topics": {"1": "0.46342635", "2": "0.28335539", "4": "0.06376165", "6": "0.17073925"}}

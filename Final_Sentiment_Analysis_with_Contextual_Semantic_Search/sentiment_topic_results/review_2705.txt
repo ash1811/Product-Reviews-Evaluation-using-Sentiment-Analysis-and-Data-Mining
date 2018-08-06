@@ -1,0 +1,1 @@
+{"text": "I like the blue collar and clasp for the band.  However, the band faded slightly after just a few months.", "sentiment": "positive", "topics": {"0": "0.013073004", "1": "0.013025913", "2": "0.19394821", "3": "0.012997753", "4": "0.36157644", "5": "0.1273645", "6": "0.2780142"}}

@@ -1,0 +1,1 @@
+{"text": "Great ring! Has a charming glow to it.realy comfortable! I wear it on my thumb,people compliment me all the time!", "sentiment": "negative", "topics": {"0": "0.013021684", "1": "0.46162033", "2": "0.32123676", "3": "0.013009342", "4": "0.16509534", "5": "0.013028926", "6": "0.012987638"}}

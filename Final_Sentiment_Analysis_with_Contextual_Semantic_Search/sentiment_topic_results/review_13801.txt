@@ -1,0 +1,1 @@
+{"text": "Great sandal!  Very comfortable and holds up to miles of walking.  Molds to your feet, so after a few wears, they're perfect.", "sentiment": "negative", "topics": {"0": "0.011949303", "1": "0.50791997", "2": "0.011920026", "3": "0.11642475", "4": "0.3278805", "5": "0.011999052", "6": "0.01190634"}}

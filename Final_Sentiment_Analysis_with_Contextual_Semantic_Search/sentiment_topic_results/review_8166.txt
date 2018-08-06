@@ -1,0 +1,1 @@
+{"text": "The rubber sole part is nice an comfortable, but the strap on top of the foot is not. It rubs and somewhat chafes the foot. I still wear the shoes, it doesn't make them intolerable I just with the top was as comfortable as the bottom.", "sentiment": "negative", "topics": {"1": "0.21619606", "2": "0.14602092", "3": "0.34767988", "5": "0.23325019", "6": "0.043805394"}}

@@ -1,0 +1,1 @@
+{"text": "The bandana is a little stiff when it first arrived but its expected for the price. I'm happy with what I got.", "sentiment": "negative", "topics": {"0": "0.3235126", "1": "0.6112085", "2": "0.013014276", "3": "0.01307109", "4": "0.0130343195", "5": "0.013044391", "6": "0.013114788"}}

@@ -1,0 +1,1 @@
+{"text": "Not waterproof/ resistant.. very thin fabric, uncomfortable neck (pad). Very easy to rip and not much good for anything. Nope", "sentiment": "positive", "topics": {"0": "0.010212136", "1": "0.30569023", "2": "0.18078473", "3": "0.18087058", "4": "0.0102379825", "5": "0.22066753", "6": "0.09153678"}}

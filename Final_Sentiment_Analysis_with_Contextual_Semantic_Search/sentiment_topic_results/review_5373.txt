@@ -1,0 +1,1 @@
+{"text": "Thanks to the many other reviewers I ordered 1 SIZE SMALLER and it fits well. Well made of THICK 100% cotton.The material feels a SCRATCHY until it's been washed many times even then it's a bit rough. If this is an outer shirt, no problem.", "sentiment": "positive", "topics": {"1": "0.6200689", "2": "0.05973141", "3": "0.09120396", "4": "0.097678676", "6": "0.1206865"}}

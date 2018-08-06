@@ -1,0 +1,1 @@
+{"text": "I like the looks, but they're too small. Also there isn't much cushioning in the sole so not great for house slippers. I think the next size up will be too big so I'm going to return them.", "sentiment": "negative", "topics": {"1": "0.22451231", "3": "0.26356483", "4": "0.122343585", "5": "0.1164939", "6": "0.25876683"}}

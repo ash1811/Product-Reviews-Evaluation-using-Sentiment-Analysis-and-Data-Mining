@@ -1,0 +1,1 @@
+{"text": "I don't know if these are warm, they were so flimsy that I knew I would destroy them after wearing only a few times.  I returned them.", "sentiment": "negative", "topics": {"0": "0.013030388", "1": "0.48225126", "2": "0.3258244", "3": "0.13977164", "4": "0.013016293", "5": "0.013019089", "6": "0.013086933"}}

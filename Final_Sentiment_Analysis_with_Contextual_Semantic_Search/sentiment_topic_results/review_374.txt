@@ -1,0 +1,1 @@
+{"text": "My hubbys shirts have been getting a little worn out, and so I ordered a couple of these.  They are pretty nice, he just wishes they had a pocket. But for this price, who cares.", "sentiment": "negative", "topics": {"1": "0.77920693", "5": "0.08830866", "6": "0.09666999"}}

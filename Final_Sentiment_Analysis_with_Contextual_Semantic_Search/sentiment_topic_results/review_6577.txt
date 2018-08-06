@@ -1,0 +1,1 @@
+{"text": "My husband wears a 9-9.5 and a size large fit him perfectly.  They're warm and thick.  The elastic doesn't stretch out after washings.  I've even worn them a few times too (woman size 8.5) and the large fit me comfy.  Would buy more pairs in the future.", "sentiment": "negative", "topics": {"1": "0.4125227", "3": "0.21056499", "4": "0.29343465", "6": "0.068118386"}}

@@ -1,0 +1,1 @@
+{"text": "This watch it's ok but the size was not like expected. It's too small, the quality is high and the system to move the watch hands is uncomfortable.", "sentiment": "negative", "topics": {"0": "0.10413009", "1": "0.37140378", "2": "0.21245441", "3": "0.010251539", "4": "0.010223085", "5": "0.09417349", "6": "0.19736362"}}

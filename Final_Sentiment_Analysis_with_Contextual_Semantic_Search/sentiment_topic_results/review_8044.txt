@@ -1,0 +1,1 @@
+{"text": "I bought these for my oldest son and he loves them.  Very comfortable and he has enough room left after placing a wedge in the bottom for his flat feet.", "sentiment": "negative", "topics": {"1": "0.48204088", "3": "0.102011956", "4": "0.11560026", "5": "0.13861108", "6": "0.14262755"}}

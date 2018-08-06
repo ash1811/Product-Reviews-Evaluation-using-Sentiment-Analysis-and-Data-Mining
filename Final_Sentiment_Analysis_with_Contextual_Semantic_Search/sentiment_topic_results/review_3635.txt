@@ -1,0 +1,1 @@
+{"text": "My suggestion is to purchase from walmart $1.00, if you don't need a specific color, as was my case.  This bandana is a little larger than walmarts.", "sentiment": "negative", "topics": {"0": "0.01104557", "1": "0.39233318", "2": "0.2817287", "3": "0.11358759", "4": "0.011034484", "5": "0.011018973", "6": "0.17925149"}}

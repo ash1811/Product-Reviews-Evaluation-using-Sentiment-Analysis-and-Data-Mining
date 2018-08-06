@@ -1,0 +1,1 @@
+{"text": "Great product for keeping that tie in place, happy to find them again, they work perfectly without ever being seen.", "sentiment": "positive", "topics": {"0": "0.010237829", "1": "0.6423233", "2": "0.010220883", "3": "0.010226046", "4": "0.19036491", "5": "0.12642056", "6": "0.010206504"}}

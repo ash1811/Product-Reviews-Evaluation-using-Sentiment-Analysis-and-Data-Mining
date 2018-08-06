@@ -1,0 +1,1 @@
+{"text": "Fits good.  Had a bit of a problem getting them on at first.  but once they get a bit stretched they slide on fine.  Had a lot of compliments.  Wore all night without a problem.", "sentiment": "negative", "topics": {"1": "0.68481", "2": "0.15091461", "5": "0.13241763"}}

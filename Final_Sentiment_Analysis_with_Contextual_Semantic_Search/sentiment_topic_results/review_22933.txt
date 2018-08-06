@@ -1,0 +1,1 @@
+{"text": "My BF was usually a large but, since he gained weight he has had to move to XL. What happens is that L now fits too tight and sometimes XL too loose, this trunk has a perfect fit for him.", "sentiment": "negative", "topics": {"1": "0.36713028", "2": "0.11769538", "3": "0.13542643", "5": "0.25338084", "6": "0.11273693"}}

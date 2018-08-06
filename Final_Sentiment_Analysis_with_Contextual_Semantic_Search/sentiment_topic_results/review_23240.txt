@@ -1,0 +1,1 @@
+{"text": "Bought tho for my daughter (breastfeeding) and when I told her, she stated that she had one and that it was her favorite. This one met her same expectations. She loved it over all the other breastfeeding bras tried.", "sentiment": "negative", "topics": {"0": "0.08725283", "1": "0.15769884", "2": "0.18961233", "3": "0.08116319", "5": "0.3412437", "6": "0.13458544"}}

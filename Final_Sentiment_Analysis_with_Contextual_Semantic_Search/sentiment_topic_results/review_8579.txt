@@ -1,0 +1,1 @@
+{"text": "Original and love them. If u wear princess u no how comfortable they are", "sentiment": "positive", "topics": {"0": "0.01589836", "1": "0.21544115", "2": "0.44970533", "3": "0.015943883", "4": "0.01599368", "5": "0.27114454", "6": "0.015873037"}}

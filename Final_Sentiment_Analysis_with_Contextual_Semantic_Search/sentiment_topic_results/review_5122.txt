@@ -1,0 +1,1 @@
+{"text": "Love these warm socks. Great as a base layer inside my fleece lined Wellie Boots.  Will be getting these every winter", "sentiment": "negative", "topics": {"0": "0.3055559", "1": "0.30741796", "4": "0.14571995", "5": "0.21267106"}}

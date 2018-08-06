@@ -1,0 +1,1 @@
+{"text": "for my dozen or so Seiko divers.  Genuine and as advertised.  If you own a Seiko this is the replacement rubber strap you want.", "sentiment": "positive", "topics": {"0": "0.013046935", "1": "0.115288325", "2": "0.4366348", "3": "0.11145427", "4": "0.013070636", "5": "0.0130391875", "6": "0.2974659"}}

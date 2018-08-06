@@ -1,0 +1,1 @@
+{"text": "Feds are my most popular type of shoe ! Amazon carries just the right brand and size for me .", "sentiment": "positive", "topics": {"0": "0.014317068", "1": "0.014300717", "2": "0.11591034", "3": "0.39502218", "4": "0.28513315", "5": "0.16101031", "6": "0.01430623"}}

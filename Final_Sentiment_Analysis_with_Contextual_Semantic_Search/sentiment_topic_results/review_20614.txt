@@ -1,0 +1,1 @@
+{"text": "Usually size 10.5 fits like a glove... Not this time! I wish I had ordered size 11. I'm looking at a really Nice pair of boots, that don't fit .", "sentiment": "negative", "topics": {"0": "0.08518869", "1": "0.46143636", "2": "0.09472432", "3": "0.2001947", "4": "0.14336266"}}

@@ -1,0 +1,1 @@
+{"text": "Just beautiful!  I love it!  And it will be just perfect for the pendants I purchased.", "sentiment": "negative", "topics": {"0": "0.020539733", "1": "0.507338", "2": "0.020466596", "3": "0.020484434", "4": "0.02057302", "5": "0.39017504", "6": "0.020423202"}}

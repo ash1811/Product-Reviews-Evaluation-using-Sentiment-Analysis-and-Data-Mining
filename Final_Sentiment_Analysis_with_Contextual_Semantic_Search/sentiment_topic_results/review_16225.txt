@@ -1,0 +1,1 @@
+{"text": "We use it for two persons' toilet stuff when we travel together. It's way too big for one person. I should know better.", "sentiment": "negative", "topics": {"0": "0.10129435", "1": "0.12483934", "2": "0.010263717", "3": "0.4541834", "4": "0.18610108", "5": "0.11308414", "6": "0.0102339415"}}

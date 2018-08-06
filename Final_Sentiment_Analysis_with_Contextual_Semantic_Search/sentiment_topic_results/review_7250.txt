@@ -1,0 +1,1 @@
+{"text": "These jeans are tough and great quality with leather at wear points. They are loose fitting to where you can move in order to work in them. If you are attempting to look like George Straight, these are not for you.", "sentiment": "negative", "topics": {"0": "0.2870986", "1": "0.33017388", "2": "0.09953754", "4": "0.07271101", "5": "0.19610247"}}

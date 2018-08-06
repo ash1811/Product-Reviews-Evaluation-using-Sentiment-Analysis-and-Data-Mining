@@ -1,0 +1,1 @@
+{"text": "I bought this bra to be cool and comfortable in the Caribbean.  The elastic and edges are so uncomfortable that I simply can't where it in the heat or otherwise.", "sentiment": "positive", "topics": {"0": "0.01105267", "1": "0.34124434", "2": "0.0110147605", "3": "0.21946955", "4": "0.16100456", "5": "0.011049774", "6": "0.24516436"}}

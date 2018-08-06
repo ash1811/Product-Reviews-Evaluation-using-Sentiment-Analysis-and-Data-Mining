@@ -1,0 +1,1 @@
+{"text": "Trying to find the right size and style in the stores is sometimes like a treasure hunt.  It is great to just order them, they are a great value and good quality.", "sentiment": "positive", "topics": {"0": "0.086057715", "1": "0.58115155", "2": "0.15591104", "3": "0.15297304"}}

@@ -1,0 +1,1 @@
+{"text": "i do NOT recommend this product.  The sizes are WAY off!  Then i bought another pair in a bigger size, they were exactly the same size with different tags!  HORRIBLE!", "sentiment": "negative", "topics": {"0": "0.08800431", "1": "0.15480398", "3": "0.343638", "5": "0.20491543", "6": "0.19073758"}}

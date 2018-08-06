@@ -1,0 +1,1 @@
+{"text": "I was rather disappointed with this box. I received it with the spring (that holds/turns the dancer) bent and would still try to turn and play while box was closed. Overall it was just very cheaply made and didn't last very long.", "sentiment": "positive", "topics": {"0": "0.19706629", "3": "0.29377225", "4": "0.33166602", "5": "0.08864715", "6": "0.07581483"}}

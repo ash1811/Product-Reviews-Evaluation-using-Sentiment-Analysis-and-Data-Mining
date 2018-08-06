@@ -1,0 +1,1 @@
+{"text": "This fits well, easy to get on and off, great lift, very comfortable.  Great price also.  I will definitely purchase again.", "sentiment": "positive", "topics": {"1": "0.584406", "3": "0.09615", "4": "0.28125426"}}

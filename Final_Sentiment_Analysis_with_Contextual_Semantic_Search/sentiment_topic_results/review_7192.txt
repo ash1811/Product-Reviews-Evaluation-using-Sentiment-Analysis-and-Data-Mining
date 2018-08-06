@@ -1,0 +1,1 @@
+{"text": "I've had a pair of these from when I was 17. I marched, jogged, walked, ran, hunted, and lived in them. they were great and fell apart at 24 years of age. ordered a new pair freaking love them again. thanks", "sentiment": "positive", "topics": {"0": "0.13805968", "1": "0.099842034", "2": "0.2736294", "3": "0.2803729", "4": "0.117280655", "5": "0.08486188"}}

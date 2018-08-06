@@ -1,0 +1,1 @@
+{"text": "This is my second pair in this color, the first pair will now be for rainy days.", "sentiment": "negative", "topics": {"0": "0.01790781", "1": "0.5635507", "2": "0.1531692", "3": "0.017966561", "4": "0.017956711", "5": "0.21154235", "6": "0.01790662"}}

@@ -1,0 +1,1 @@
+{"text": "I like these for around the house. they come off when I walk down the stairs sometimes, but they do what i need them to do.", "sentiment": "negative", "topics": {"0": "0.014336644", "1": "0.2625608", "2": "0.18046871", "3": "0.01433699", "4": "0.014286878", "5": "0.16799423", "6": "0.34601575"}}

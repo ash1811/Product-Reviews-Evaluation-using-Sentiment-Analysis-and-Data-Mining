@@ -1,0 +1,1 @@
+{"text": "Love that it doesn't have a big logo on it, it fits well and to size, it breathes well and washes well. No complaints for the price.", "sentiment": "positive", "topics": {"0": "0.010226375", "1": "0.71457374", "2": "0.010234189", "3": "0.23424567", "4": "0.010236341", "5": "0.010231294", "6": "0.010252419"}}

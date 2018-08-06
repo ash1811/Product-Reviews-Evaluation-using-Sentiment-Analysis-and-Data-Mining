@@ -1,0 +1,1 @@
+{"text": "Really look's great and work's like you hope a Casio watch work's, best quality and good look watch, really I reccomend.", "sentiment": "negative", "topics": {"0": "0.1482361", "1": "0.574472", "2": "0.16219617", "6": "0.08983416"}}

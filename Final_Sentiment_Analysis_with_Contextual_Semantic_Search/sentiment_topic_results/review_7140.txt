@@ -1,0 +1,1 @@
+{"text": "Its a fanny pack, it has pockets, it goes around your waist.  What more could you ask for in a fanny pack?", "sentiment": "negative", "topics": {"0": "0.013026335", "1": "0.4390689", "2": "0.13941155", "3": "0.013011998", "4": "0.013002753", "5": "0.36946535", "6": "0.013013134"}}

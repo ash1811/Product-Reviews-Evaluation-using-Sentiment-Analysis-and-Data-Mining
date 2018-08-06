@@ -1,0 +1,1 @@
+{"text": "The wallet was just as described. It is large enough to hold everything.  Matches my red purse perfectly. When I need another wallet I will definitely order from amazon again.", "sentiment": "negative", "topics": {"0": "0.0772731", "1": "0.1823762", "2": "0.08793377", "3": "0.28992203", "4": "0.15414107", "6": "0.20038694"}}

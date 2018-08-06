@@ -1,0 +1,1 @@
+{"text": "The best all around flip flop for the price.  Strap is wide which is great for comfort and fit. Love them!", "sentiment": "negative", "topics": {"0": "0.011013932", "1": "0.5679914", "2": "0.28682578", "3": "0.011026913", "4": "0.01104726", "5": "0.011032729", "6": "0.101061985"}}

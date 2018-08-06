@@ -1,0 +1,1 @@
+{"text": "I bought these originally expecting a rather inexpensive imitation of fine jewelry but am happy to report that my wife loved them and guessed that I had paid much more than I actually did spend.", "sentiment": "negative", "topics": {"0": "0.087687254", "1": "0.24376222", "2": "0.14374566", "4": "0.22249699", "5": "0.2864184"}}

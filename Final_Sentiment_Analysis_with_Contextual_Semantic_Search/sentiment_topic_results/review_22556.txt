@@ -1,0 +1,1 @@
+{"text": "This costume was cute, I am 5'8 and my butt cheeks were very covered, the only thing I didn't like about the costume was the crown, Princess Peach had a different crown but hey if I wasn't lazy I could have made a crown.", "sentiment": "negative", "topics": {"0": "0.35469306", "1": "0.12258905", "3": "0.055244487", "5": "0.44595766"}}

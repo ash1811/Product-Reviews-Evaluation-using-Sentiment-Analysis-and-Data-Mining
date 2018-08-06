@@ -1,0 +1,1 @@
+{"text": "I got this to carry my iPad into the city but it just doesn't work. It's inexpensive but just a bit too cheap. It seems sturdy enough but isn't laid out well. Spend a bit more.", "sentiment": "positive", "topics": {"1": "0.46314964", "2": "0.29102093", "4": "0.10010762", "6": "0.12040942"}}

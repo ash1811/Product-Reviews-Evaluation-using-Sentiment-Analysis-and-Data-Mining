@@ -1,0 +1,1 @@
+{"text": "Although advertised as pre-shrunk, these continue to shrink drastically, and the wrinkles are hideous.  Got two different colors, same results.  Ordered the 517's as well, and they stayed true to fit without the wrinkles.", "sentiment": "negative", "topics": {"1": "0.7044599", "4": "0.11724913", "5": "0.07187978", "6": "0.08687815"}}

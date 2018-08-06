@@ -1,0 +1,1 @@
+{"text": "Watch has a soft and feminine look with the rose gold tone band and delicately shaded dial.  Nice with evening wear or suits.", "sentiment": "negative", "topics": {"0": "0.2250443", "1": "0.20946", "2": "0.1588343", "5": "0.24353954", "6": "0.14518228"}}

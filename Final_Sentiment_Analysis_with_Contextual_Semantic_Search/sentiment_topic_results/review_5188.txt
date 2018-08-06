@@ -1,0 +1,1 @@
+{"text": "It was good for my costume, but I'm an adult woman (small hands, but still, adult hands) and the fingers are long even for me. This would be huge on a child", "sentiment": "negative", "topics": {"0": "0.1250811", "1": "0.19858056", "3": "0.38964966", "4": "0.08857699", "5": "0.18222034"}}

@@ -1,0 +1,1 @@
+{"text": "lovely colour, great fit as usual.  Can't go wrong with Keen really, they are consistently excellent and consistent in fit too.", "sentiment": "negative", "topics": {"1": "0.50328517", "2": "0.22416191", "3": "0.09046576", "4": "0.08273749", "6": "0.081443675"}}

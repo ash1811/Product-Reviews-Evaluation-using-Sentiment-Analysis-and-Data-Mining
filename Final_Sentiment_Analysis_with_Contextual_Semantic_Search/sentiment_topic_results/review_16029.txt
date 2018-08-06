@@ -1,0 +1,1 @@
+{"text": "Wife is wearing these at the beach now. She has a high instep, so she loves the arch on these attractive flip flops.", "sentiment": "negative", "topics": {"0": "0.011940248", "1": "0.2882068", "2": "0.11302063", "3": "0.14154702", "4": "0.18691146", "5": "0.0119275255", "6": "0.24644633"}}

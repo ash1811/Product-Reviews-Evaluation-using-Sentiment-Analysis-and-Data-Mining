@@ -1,0 +1,1 @@
+{"text": "soft and comfy. great color as well. I would get more for my boyfriend. It would be nice for winter.", "sentiment": "negative", "topics": {"0": "0.0119316615", "1": "0.6469057", "2": "0.011962763", "3": "0.13704272", "4": "0.011948571", "5": "0.16827917", "6": "0.011929422"}}

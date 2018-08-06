@@ -1,0 +1,1 @@
+{"text": "I'm a huge blue topaz fan. These are gorgeous! Very flattering and not gaudy flashy. You'll love them!  I'm not a silver fan, but it works so well with the blue.", "sentiment": "negative", "topics": {"0": "0.3666544", "2": "0.075247444", "3": "0.267045", "4": "0.26718467"}}

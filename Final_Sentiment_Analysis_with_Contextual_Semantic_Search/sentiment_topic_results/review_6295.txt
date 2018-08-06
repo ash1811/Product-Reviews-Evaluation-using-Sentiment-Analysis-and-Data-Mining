@@ -1,0 +1,1 @@
+{"text": "This is a beautiful bracelet, it's elegant, moves fluidly, and looks great with any outfit.  I'll be wearing it on special occasions and I absolutely love it!!!", "sentiment": "negative", "topics": {"1": "0.36728984", "2": "0.18618602", "3": "0.093291014", "5": "0.19469212", "6": "0.1406004"}}

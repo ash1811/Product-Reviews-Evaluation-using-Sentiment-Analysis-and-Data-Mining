@@ -1,0 +1,1 @@
+{"text": "Same review as for the jacket: The fabric feels very nice, typical Adidas. They have zippers at the bottom. The price seemed right, not a bargain but I was told this color was discontinued, and delivery was very fast.", "sentiment": "positive", "topics": {"1": "0.19065797", "2": "0.13611305", "5": "0.45946237", "6": "0.19114661"}}

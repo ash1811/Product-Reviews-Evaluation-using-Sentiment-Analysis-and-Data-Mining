@@ -1,0 +1,1 @@
+{"text": "which is important to me.  It breathes the best of all materials.  Fit well and comfortable.  No elastic in the legs to chafe and they don't ride up.", "sentiment": "negative", "topics": {"0": "0.010237335", "1": "0.5758818", "2": "0.010233441", "3": "0.010254534", "4": "0.010227422", "5": "0.11633795", "6": "0.26682755"}}

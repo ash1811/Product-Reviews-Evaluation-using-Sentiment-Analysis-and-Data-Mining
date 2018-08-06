@@ -1,0 +1,1 @@
+{"text": "My husband works full time.  These shoes help him get through the day with no problem.  They go great with his suits and they feel comfortable when he walks.  They last a long time!", "sentiment": "negative", "topics": {"0": "0.30729836", "1": "0.29362985", "2": "0.1609609", "4": "0.13166638", "6": "0.09134624"}}

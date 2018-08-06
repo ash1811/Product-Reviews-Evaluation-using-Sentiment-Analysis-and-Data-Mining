@@ -1,0 +1,1 @@
+{"text": "I ordered 3 different jewelry boxes and I have to say I was very pleased when they arrived! The colors are vivid nicely made and just perfect for that first jewelry box!", "sentiment": "negative", "topics": {"0": "0.11662612", "1": "0.7005607", "2": "0.07426507", "6": "0.08328492"}}

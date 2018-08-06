@@ -1,0 +1,1 @@
+{"text": "My daughter was happy with these. They fit her perfectly and she loved the colors. The held up to washing & drying without shrinking or losing color. The delivery was quick and just in time. Packaging was good and everything was perfect.", "sentiment": "negative", "topics": {"1": "0.5183168", "2": "0.1274422", "3": "0.06942241", "4": "0.21536207", "6": "0.056412134"}}

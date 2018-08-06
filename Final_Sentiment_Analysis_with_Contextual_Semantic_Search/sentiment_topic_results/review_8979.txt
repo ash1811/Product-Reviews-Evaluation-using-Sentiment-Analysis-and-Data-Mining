@@ -1,0 +1,1 @@
+{"text": "Purchased similar bra's in Europe because they were previously not available here.  Well-made but larger sizes not available.  Postage extra.", "sentiment": "negative", "topics": {"0": "0.1687658", "1": "0.23690276", "2": "0.12395499", "3": "0.4396694", "4": "0.010258391", "5": "0.010231995", "6": "0.010216669"}}

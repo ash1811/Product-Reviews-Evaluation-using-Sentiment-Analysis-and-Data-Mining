@@ -1,0 +1,1 @@
+{"text": "I apparently can't wear Keens anymore. The width in the toe-box is good, but the heel was sloppy-loose and they slipped something awful. I didn't used to think I had narrow heels, but maybe I do.", "sentiment": "negative", "topics": {"1": "0.5377792", "2": "0.21665893", "5": "0.09452018", "6": "0.12955582"}}

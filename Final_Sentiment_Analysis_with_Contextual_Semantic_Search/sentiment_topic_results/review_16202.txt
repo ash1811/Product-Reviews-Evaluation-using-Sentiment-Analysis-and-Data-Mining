@@ -1,0 +1,1 @@
+{"text": "It has compartments for everything I need to take on a vacation.  The spaces are of different sizes covered by plastic.", "sentiment": "positive", "topics": {"0": "0.215386", "1": "0.01300629", "2": "0.20479135", "3": "0.013024268", "4": "0.13554074", "5": "0.012992967", "6": "0.4052584"}}

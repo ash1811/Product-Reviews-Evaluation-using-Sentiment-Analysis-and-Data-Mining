@@ -1,0 +1,1 @@
+{"text": "Otherwise I love it. It doesn't show my cleavage so overall this really expands my outfit options within my closet.", "sentiment": "positive", "topics": {"0": "0.3511483", "1": "0.011018849", "2": "0.3785477", "3": "0.011002865", "4": "0.22620656", "5": "0.011007218", "6": "0.011068461"}}

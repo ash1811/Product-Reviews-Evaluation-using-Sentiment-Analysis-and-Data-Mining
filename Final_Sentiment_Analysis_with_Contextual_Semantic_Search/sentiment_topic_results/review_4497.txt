@@ -1,0 +1,1 @@
+{"text": "They are attractive, well made, and heavy. And the Thunder color is a most attractive shade of gray. I'm happy.", "sentiment": "negative", "topics": {"0": "0.011920993", "1": "0.54399854", "2": "0.011917371", "3": "0.011925169", "4": "0.12472608", "5": "0.011922595", "6": "0.28358927"}}

@@ -1,0 +1,1 @@
+{"text": "I bought this for my daughter for work.  She liked it but said they were a little long for her so she rolled the waist up to make them fit.", "sentiment": "negative", "topics": {"0": "0.011946329", "1": "0.54691947", "2": "0.11952898", "3": "0.28575736", "4": "0.011930224", "5": "0.011997491", "6": "0.011920185"}}

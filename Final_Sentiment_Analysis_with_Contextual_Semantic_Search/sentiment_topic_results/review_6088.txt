@@ -1,0 +1,1 @@
+{"text": "This is real cotton for the baby soft skin. It is high quality, soft and comfortable for your little baby.", "sentiment": "negative", "topics": {"0": "0.011921498", "1": "0.7185663", "2": "0.01194417", "3": "0.22170432", "4": "0.011907926", "5": "0.0119261425", "6": "0.012029653"}}

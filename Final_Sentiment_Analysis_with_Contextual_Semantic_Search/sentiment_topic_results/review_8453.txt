@@ -1,0 +1,1 @@
+{"text": "I think these are girls Nylons instead of women's.  I'm only 5'4&#34; and they were about 12 inches too short.", "sentiment": "negative", "topics": {"0": "0.2179329", "1": "0.33712736", "2": "0.013087383", "3": "0.20860782", "4": "0.013024434", "5": "0.19719607", "6": "0.013024087"}}

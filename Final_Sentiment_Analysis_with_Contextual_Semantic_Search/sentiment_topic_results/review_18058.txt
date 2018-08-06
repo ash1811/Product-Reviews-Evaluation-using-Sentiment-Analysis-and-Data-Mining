@@ -1,0 +1,1 @@
+{"text": "I love that there is a vegan option for this shoe. It's very comfortable and lasts for a long time.", "sentiment": "negative", "topics": {"0": "0.28310287", "1": "0.25297365", "2": "0.13615409", "3": "0.015897147", "4": "0.16246957", "5": "0.015956603", "6": "0.13344608"}}

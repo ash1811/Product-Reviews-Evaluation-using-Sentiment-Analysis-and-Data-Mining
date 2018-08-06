@@ -1,0 +1,1 @@
+{"text": "Very popular brand here in Thailand.  My friend is in the Thai Navy.  He really impressed his staff with these.", "sentiment": "negative", "topics": {"0": "0.013092148", "1": "0.013003975", "2": "0.013007413", "3": "0.48335811", "4": "0.013149398", "5": "0.3533445", "6": "0.11104446"}}

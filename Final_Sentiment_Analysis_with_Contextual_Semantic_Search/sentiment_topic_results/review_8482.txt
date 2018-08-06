@@ -1,0 +1,1 @@
+{"text": "I was really excited to get these shoes at a great price. When I got them every thing was exactly as advertised. Size was perfect but these shoes are really really tight on the sides. Gotta go with a wide size on these shoes.", "sentiment": "negative", "topics": {"0": "0.22841364", "1": "0.23735191", "2": "0.24815546", "3": "0.16782291", "6": "0.10632062"}}

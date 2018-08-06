@@ -1,0 +1,1 @@
+{"text": "I enjoy wearing these bras.  Just wish the colors were always available.  Everytime I go to Walmart/Shopko always sold out in the nice new colors.  Wish I could order it on line, the colors.", "sentiment": "negative", "topics": {"0": "0.054783277", "1": "0.58185554", "3": "0.19229738", "5": "0.15058596"}}

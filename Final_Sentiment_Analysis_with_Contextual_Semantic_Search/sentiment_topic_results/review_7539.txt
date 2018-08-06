@@ -1,0 +1,1 @@
+{"text": "I was a bit surprised as to how heavy duty the shirt is and at times think I'm wearing a light jacket. I will probably order more in different colors.", "sentiment": "positive", "topics": {"0": "0.19458655", "1": "0.44844338", "2": "0.08219234", "4": "0.057382636", "6": "0.19949643"}}

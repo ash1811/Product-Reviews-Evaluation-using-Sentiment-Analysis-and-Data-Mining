@@ -1,0 +1,1 @@
+{"text": "Great quality cotton. Not too thick as these make a great pair of summer cotton jeans. Good fit.  Good length.", "sentiment": "negative", "topics": {"1": "0.49673125", "3": "0.45548847"}}

@@ -1,0 +1,1 @@
+{"text": "These comfortable all-cotton panties don't ride up or chafe, and they fit well. I will be ordering them again soon.", "sentiment": "positive", "topics": {"0": "0.014338514", "1": "0.4259407", "2": "0.01433296", "3": "0.014321148", "4": "0.014287229", "5": "0.34595245", "6": "0.17082696"}}

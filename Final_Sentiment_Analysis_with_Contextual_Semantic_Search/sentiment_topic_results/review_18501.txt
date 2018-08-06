@@ -1,0 +1,1 @@
+{"text": "Bought to replace similiar watch that lasted quite awhile. This one broke in less than a month; stem/winder broke off, could not make stay re-attached. Would most def NOT recommend....", "sentiment": "negative", "topics": {"0": "0.19965814", "1": "0.17131875", "2": "0.19470328", "3": "0.3127597", "6": "0.10852739"}}

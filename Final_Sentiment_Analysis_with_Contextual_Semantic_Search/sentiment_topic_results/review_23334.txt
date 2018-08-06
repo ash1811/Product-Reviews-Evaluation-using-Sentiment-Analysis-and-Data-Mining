@@ -1,0 +1,1 @@
+{"text": "This doesn't come across on the pic as well as in person.  Well made, excellent buy, great vendor.  Prompt, have used before and will again.", "sentiment": "negative", "topics": {"1": "0.6517599", "2": "0.092922166", "5": "0.21708277"}}

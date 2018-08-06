@@ -1,0 +1,1 @@
+{"text": "This is a great bag for all my stuff when I go to my daughters.  I just hang it in the bathroom and it makes it easier than trying to find room on the sink.  They need to make it slightly deeper for my stuff.", "sentiment": "positive", "topics": {"0": "0.0780297", "2": "0.26776996", "3": "0.41102707", "5": "0.16560838", "6": "0.06248014"}}

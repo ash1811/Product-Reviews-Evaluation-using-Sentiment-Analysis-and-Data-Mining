@@ -1,0 +1,1 @@
+{"text": "This would be the 6th pair I have owned over 12 years or so.  Sadly these are wearing much faster and seams are already coming undone.  Just not the same but at least the fit hasn't changed.", "sentiment": "negative", "topics": {"0": "0.23482122", "1": "0.28310186", "3": "0.40757984", "6": "0.05184916"}}

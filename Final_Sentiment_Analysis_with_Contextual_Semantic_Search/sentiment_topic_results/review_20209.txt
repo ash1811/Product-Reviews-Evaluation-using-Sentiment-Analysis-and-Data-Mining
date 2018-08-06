@@ -1,0 +1,1 @@
+{"text": "This costume was amazing. My son thinks he is The Flash. It fit perfect! Great for play dress up time.", "sentiment": "negative", "topics": {"0": "0.2938063", "1": "0.5363199", "2": "0.011908821", "3": "0.011913032", "4": "0.12221781", "5": "0.011926352", "6": "0.011907711"}}

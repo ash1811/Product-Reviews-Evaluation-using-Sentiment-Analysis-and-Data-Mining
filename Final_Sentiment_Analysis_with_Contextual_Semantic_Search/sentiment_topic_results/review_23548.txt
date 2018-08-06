@@ -1,0 +1,1 @@
+{"text": "I purchased these Tevas for my adult daughter's birthday.  She had admired mine for quite some time and asked for a pair of her own.  These sandals arrived in a matter of only a couple of days and in perfect condition.", "sentiment": "negative", "topics": {"0": "0.23791747", "1": "0.30454296", "2": "0.19606136", "4": "0.0811442", "5": "0.16598645"}}

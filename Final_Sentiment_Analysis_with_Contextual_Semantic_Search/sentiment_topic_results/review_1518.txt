@@ -1,0 +1,1 @@
+{"text": "this jansport superbreak  school backpack is really cool  and what a price less expensive than your local store  it was delivered just in time for school", "sentiment": "negative", "topics": {"1": "0.25492138", "2": "0.49232373", "4": "0.08325971", "6": "0.14069358"}}

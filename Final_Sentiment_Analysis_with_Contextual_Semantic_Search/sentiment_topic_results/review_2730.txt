@@ -1,0 +1,1 @@
+{"text": "I bought this watch for the purpose of having simple watch to wear to work, as in not for formal events. Its alright, the clasp mechanism seems a bit rudimentary.", "sentiment": "negative", "topics": {"1": "0.10591038", "2": "0.2314837", "3": "0.42757884", "4": "0.13928722", "6": "0.07784868"}}

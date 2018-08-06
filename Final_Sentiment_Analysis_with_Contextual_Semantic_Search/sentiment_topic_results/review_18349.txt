@@ -1,0 +1,1 @@
+{"text": "adorable shoes. they are a big bigger, but I intentionally bought them that way, so he can get some wear out of 'em.  Happy grandbaby, happy me", "sentiment": "negative", "topics": {"0": "0.12608013", "1": "0.20277272", "2": "0.09078594", "3": "0.010272696", "4": "0.5496037", "5": "0.010267884", "6": "0.010216941"}}

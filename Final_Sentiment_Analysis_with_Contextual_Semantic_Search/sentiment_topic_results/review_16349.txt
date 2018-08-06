@@ -1,0 +1,1 @@
+{"text": "These Reef sandals are very comfortable.  They were used for a few hours and they were great.  They will be used often.", "sentiment": "negative", "topics": {"0": "0.015897997", "1": "0.90464973", "2": "0.015886474", "3": "0.015878685", "4": "0.015880547", "5": "0.015892133", "6": "0.015914463"}}

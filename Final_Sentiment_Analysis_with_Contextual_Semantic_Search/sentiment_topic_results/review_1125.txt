@@ -1,0 +1,1 @@
+{"text": "really the three bright tones you have in these earrings permit you use them with various dresses, they are mor formal becouse they do nat have a hook", "sentiment": "negative", "topics": {"1": "0.18879753", "2": "0.10222296", "3": "0.26465276", "5": "0.15119368", "6": "0.27402413"}}

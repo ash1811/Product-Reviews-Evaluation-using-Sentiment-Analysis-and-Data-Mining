@@ -1,0 +1,1 @@
+{"text": "Met all my expectations in style and fit. The sizing chart is exact so no worries when ordering on line.", "sentiment": "negative", "topics": {"0": "0.013025365", "1": "0.45760185", "2": "0.01302276", "3": "0.013028339", "4": "0.013026065", "5": "0.29233506", "6": "0.19796051"}}

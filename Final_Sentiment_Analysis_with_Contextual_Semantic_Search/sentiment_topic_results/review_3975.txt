@@ -1,0 +1,1 @@
+{"text": "These slipper are perfect they feel so warm and soft.  Your feet will enjoy these slipper.  You can't wait to get hone and put them on.", "sentiment": "negative", "topics": {"1": "0.31690022", "4": "0.24014276", "6": "0.4047593"}}

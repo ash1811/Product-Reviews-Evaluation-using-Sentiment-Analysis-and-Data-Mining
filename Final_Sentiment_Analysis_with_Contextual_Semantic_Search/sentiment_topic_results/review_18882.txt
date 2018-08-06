@@ -1,0 +1,1 @@
+{"text": "It is VERY hard to find jeans for a man with a thin waist and long legs. Sizes 27 and 28 are almost impossible to find.", "sentiment": "negative", "topics": {"0": "0.22505464", "2": "0.16522937", "4": "0.35771105", "6": "0.22326067"}}

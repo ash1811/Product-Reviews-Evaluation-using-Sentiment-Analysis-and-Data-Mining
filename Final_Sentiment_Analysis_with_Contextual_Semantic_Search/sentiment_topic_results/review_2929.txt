@@ -1,0 +1,1 @@
+{"text": "Brazil - Gramado - Rio Grande do SulFor me too large, thats ok I send back, I do recommend", "sentiment": "negative", "topics": {"0": "0.111530066", "1": "0.14961238", "2": "0.011933353", "3": "0.24676086", "4": "0.20004094", "5": "0.26820016", "6": "0.011922263"}}

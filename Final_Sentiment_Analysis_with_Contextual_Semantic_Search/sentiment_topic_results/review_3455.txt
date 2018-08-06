@@ -1,0 +1,1 @@
+{"text": "I like this bra. It fits well and gives me the support that I need. I would recommend it, particularly to ladies like me with larger busts and who find it difficult to get bras that can handle our 'girls'.", "sentiment": "negative", "topics": {"1": "0.2535372", "3": "0.24542457", "4": "0.27979708", "6": "0.20166427"}}

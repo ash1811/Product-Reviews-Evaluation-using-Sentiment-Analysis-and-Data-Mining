@@ -1,0 +1,1 @@
+{"text": "My son loves these shoes.  They fit perfectly, are comfortable and supportive.Highly recommend, order in your normal size.Shipped quickly.", "sentiment": "negative", "topics": {"0": "0.19539125", "1": "0.3518791", "2": "0.18498072", "3": "0.0110002095", "4": "0.011026496", "5": "0.2347332", "6": "0.010989031"}}

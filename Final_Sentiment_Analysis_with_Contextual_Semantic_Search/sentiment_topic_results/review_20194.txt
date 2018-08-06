@@ -1,0 +1,1 @@
+{"text": "Fits a little bigger which I like because it will fit my daughter longer.She loves it and the dress resembles the one on her plush Snow White dolls and she got so excited when she wore it!A+", "sentiment": "positive", "topics": {"1": "0.17885558", "2": "0.25656995", "3": "0.10128404", "4": "0.14191118", "5": "0.3070324"}}

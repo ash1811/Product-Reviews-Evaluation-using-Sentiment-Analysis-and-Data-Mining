@@ -1,0 +1,1 @@
+{"text": "Comfy to wear....but I need arch support. Pinches the little toe. If you have no problem with arches, you will like.", "sentiment": "positive", "topics": {"0": "0.011966548", "1": "0.12007543", "2": "0.15048246", "3": "0.46425876", "4": "0.08429936", "5": "0.0119174495", "6": "0.15700002"}}

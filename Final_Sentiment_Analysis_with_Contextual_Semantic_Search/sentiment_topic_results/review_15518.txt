@@ -1,0 +1,1 @@
+{"text": "I am not going to lie ... these are the best scrubs out there. They are so comfortable, look great, and even better make you look like you have a figure.", "sentiment": "negative", "topics": {"1": "0.61423767", "2": "0.13976659", "3": "0.20776725"}}

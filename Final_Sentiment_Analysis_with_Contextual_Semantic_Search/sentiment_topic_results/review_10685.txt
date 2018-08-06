@@ -1,0 +1,1 @@
+{"text": "This has to be one of the best pair of shoes I have ever own. I bought it for work and on my feet all day,.after years of pain from bad shoes, the pain is gone, I plan on picking up another pair soon.", "sentiment": "negative", "topics": {"1": "0.36396214", "2": "0.37674356", "4": "0.16257207", "6": "0.07715786"}}

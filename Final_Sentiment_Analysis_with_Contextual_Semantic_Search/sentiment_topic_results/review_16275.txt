@@ -1,0 +1,1 @@
+{"text": "They fit as expected and they are cofortable to wear. I like that the bottoms/soles are easy to clean. I can walk out side with these and not worry about them.", "sentiment": "negative", "topics": {"0": "0.011003188", "1": "0.3892466", "2": "0.17906167", "3": "0.011040083", "4": "0.01099784", "5": "0.011008448", "6": "0.38764212"}}

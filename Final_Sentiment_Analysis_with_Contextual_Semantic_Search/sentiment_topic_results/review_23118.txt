@@ -1,0 +1,1 @@
+{"text": "I had ordered another bra in size 46.  It was a good fit, but I couldn't wait to take it off.  This is very comfortable.  I were it all day long.  Not exactly firm support, but oh so comfortable.  Even with front closure.", "sentiment": "negative", "topics": {"0": "0.28846", "1": "0.44068706", "3": "0.24477096"}}

@@ -1,0 +1,1 @@
+{"text": "I love not having to put on the whole pantyhose. these thigh highs are so comfortable. If you have small thighs you should order a smaller size.", "sentiment": "negative", "topics": {"0": "0.3087197", "1": "0.15467046", "2": "0.010997992", "3": "0.20737116", "4": "0.011059908", "5": "0.011026158", "6": "0.2961546"}}

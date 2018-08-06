@@ -1,0 +1,1 @@
+{"text": "it is nice mini watch , looks as described , they should add size comparison in the pictures as I was thinking it would be little bigger but for the price is just fine", "sentiment": "negative", "topics": {"1": "0.34102145", "2": "0.23795626", "3": "0.30009237", "6": "0.09408294"}}

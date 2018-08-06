@@ -1,0 +1,1 @@
+{"text": "They appear way to large for slim fit slacks so us caution - they are a nice shoe. But just look to big with the slimmer slacks.good buy - just large looking", "sentiment": "negative", "topics": {"1": "0.53069", "2": "0.17725404", "4": "0.199793", "6": "0.06831446"}}

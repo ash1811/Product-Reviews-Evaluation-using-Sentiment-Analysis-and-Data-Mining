@@ -1,0 +1,1 @@
+{"text": "A good hat. Yes it is adjustable but my head is just a bit too big for it. I can wear it but it is a bit snug. Oh, I usually wear a 7 3/4&#34; to 8&#34; in hats. If that helps.", "sentiment": "negative", "topics": {"1": "0.15461299", "2": "0.13611457", "3": "0.389709", "5": "0.13911608", "6": "0.16611598"}}

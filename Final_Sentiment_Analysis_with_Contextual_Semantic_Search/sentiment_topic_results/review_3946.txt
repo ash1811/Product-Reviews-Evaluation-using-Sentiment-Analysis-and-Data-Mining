@@ -1,0 +1,1 @@
+{"text": "I wear a size 10 and the 9.5-10 size were a bit too small.  I'm returning for a refund because the next size up will probably be too big and I don't want to have to return again.", "sentiment": "negative", "topics": {"1": "0.15800112", "3": "0.38767594", "4": "0.13461424", "5": "0.11704266", "6": "0.1867618"}}

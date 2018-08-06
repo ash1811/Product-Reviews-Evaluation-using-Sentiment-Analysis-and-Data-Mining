@@ -1,0 +1,1 @@
+{"text": "Very satisfied with this purchase.  Good quality at a decent price. I would highly recommend this to others. I have bought this product before, so I know the value is there and that the product will endure for a long time of washings.", "sentiment": "negative", "topics": {"1": "0.4057239", "2": "0.23466131", "5": "0.2631223", "6": "0.07600634"}}

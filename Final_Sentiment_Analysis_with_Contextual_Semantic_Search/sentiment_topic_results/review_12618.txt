@@ -1,0 +1,1 @@
+{"text": "These are great when I want a shoe that isn't too dressy, but dresser than tennis shoes.Would have given a 5 star, but we're a little too wide. I'll wear a thicker sock and ask will be good...", "sentiment": "negative", "topics": {"0": "0.09532352", "1": "0.2327551", "2": "0.3197149", "3": "0.17044526", "5": "0.101007275", "6": "0.0736042"}}

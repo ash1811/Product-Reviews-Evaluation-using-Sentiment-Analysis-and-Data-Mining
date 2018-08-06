@@ -1,0 +1,1 @@
+{"text": "This costume was a medium and it fit my 6 yr old grandson perfectly.  It was worth the money, and we will be able to use it again.", "sentiment": "negative", "topics": {"0": "0.14533465", "1": "0.37311706", "2": "0.010212531", "3": "0.08999635", "4": "0.24656466", "5": "0.12456071", "6": "0.010214058"}}

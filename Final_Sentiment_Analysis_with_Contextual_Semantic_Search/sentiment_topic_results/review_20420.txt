@@ -1,0 +1,1 @@
+{"text": "These were a gift for my mom.  She seemed very pleased with them and says they are very comfortable.  She said the dark brown will go with a lot and look a bit dressy.", "sentiment": "positive", "topics": {"0": "0.26964343", "1": "0.30767876", "5": "0.24886021", "6": "0.14514345"}}

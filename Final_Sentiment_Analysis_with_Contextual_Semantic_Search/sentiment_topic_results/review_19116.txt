@@ -1,0 +1,1 @@
+{"text": "Great selection of athletic shoes in Amazon; had a hard time choosing; didn't want anything too flashy or expensive as I just wear them with shorts as casual footwear; plus, I had a gift card to spend.", "sentiment": "positive", "topics": {"0": "0.28766727", "1": "0.20933181", "2": "0.26895055", "4": "0.11319321", "6": "0.10722052"}}

@@ -1,0 +1,1 @@
+{"text": "Got these for my 3 year old! She loves them, and they are absolutely ADORABLE! They fit great, and they are fairly soft unlike some boots for kids! Very happy with them!!!", "sentiment": "positive", "topics": {"1": "0.3658445", "2": "0.19253589", "3": "0.18012252", "4": "0.12090278", "5": "0.124682"}}

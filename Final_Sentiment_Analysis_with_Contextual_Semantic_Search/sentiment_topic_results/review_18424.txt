@@ -1,0 +1,1 @@
+{"text": "This is just what I needed. Bigger, easy to read numbers and looks classy too. Band's a little tight but that can be replaced.", "sentiment": "negative", "topics": {"0": "0.2660356", "1": "0.18073773", "2": "0.1062501", "3": "0.30933666", "4": "0.011014373", "5": "0.0110083865", "6": "0.11561717"}}

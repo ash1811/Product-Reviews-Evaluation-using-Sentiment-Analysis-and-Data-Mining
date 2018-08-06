@@ -1,0 +1,1 @@
+{"text": "I feel like I am in a piece of armour when I have this on.  It has thick fabric, is stiff, and not feminine feeling.  I wear it because it is hard to find a navy bra and wear it when I need the color.", "sentiment": "positive", "topics": {"0": "0.11949855", "1": "0.08214766", "2": "0.054630153", "3": "0.20395121", "5": "0.18719502", "6": "0.34503964"}}

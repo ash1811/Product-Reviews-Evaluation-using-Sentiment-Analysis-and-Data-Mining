@@ -1,0 +1,1 @@
+{"text": "I have been wearing this brand for years and have never been disappointed.  The sizing is exact and I wear them everywhere.", "sentiment": "negative", "topics": {"0": "0.014331767", "1": "0.19867155", "2": "0.0143061755", "3": "0.48090965", "4": "0.01430136", "5": "0.1662956", "6": "0.111183956"}}

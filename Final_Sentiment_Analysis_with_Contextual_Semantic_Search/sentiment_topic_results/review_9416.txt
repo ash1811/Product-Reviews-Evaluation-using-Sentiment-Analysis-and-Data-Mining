@@ -1,0 +1,1 @@
+{"text": "Gift for my hubby to replace the old slip-on Uggs he had for a few years. They seemed a little tight when he first got them but a couple of weeks later and he said they fit perfect!The color is also beautiful.", "sentiment": "negative", "topics": {"0": "0.22683698", "1": "0.29856265", "3": "0.13747948", "4": "0.07716545", "5": "0.17527805", "6": "0.07815568"}}

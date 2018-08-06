@@ -1,0 +1,1 @@
+{"text": "Have tried all sorts of brands. These are the most comfortable \"big boy\" jeans I have ever worn. Great product.", "sentiment": "negative", "topics": {"0": "0.011939519", "1": "0.45780766", "2": "0.011954107", "3": "0.113834836", "4": "0.011918784", "5": "0.28144497", "6": "0.111100115"}}

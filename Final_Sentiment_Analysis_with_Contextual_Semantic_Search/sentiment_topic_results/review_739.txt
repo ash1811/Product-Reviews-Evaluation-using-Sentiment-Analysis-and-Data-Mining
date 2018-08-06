@@ -1,0 +1,1 @@
+{"text": "They run large, so I ordered 2 sizes down & they are just right!  Very long in length like I wanted, and easy to clean!", "sentiment": "negative", "topics": {"0": "0.14622411", "1": "0.26965478", "2": "0.011014344", "3": "0.3757359", "4": "0.011014729", "5": "0.011019613", "6": "0.17533647"}}

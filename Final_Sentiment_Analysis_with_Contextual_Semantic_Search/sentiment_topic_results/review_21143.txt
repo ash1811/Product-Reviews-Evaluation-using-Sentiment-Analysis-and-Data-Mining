@@ -1,0 +1,1 @@
+{"text": "They are nice but the length could be longer.  The legs are not slender.  They are comfortable and look stylish.", "sentiment": "negative", "topics": {"0": "0.014329294", "1": "0.5319912", "2": "0.014310387", "3": "0.014340885", "4": "0.014303098", "5": "0.014317175", "6": "0.396408"}}

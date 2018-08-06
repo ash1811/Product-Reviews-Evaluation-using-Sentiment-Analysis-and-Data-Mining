@@ -1,0 +1,1 @@
+{"text": "Too bad the don't make 1/2 sizes.I also tried the 8W but that was too smallLove these slippers with memory foam.A little too much room, but they feel like walking on a cloud!Great purchase!", "sentiment": "negative", "topics": {"0": "0.15150477", "1": "0.31014615", "2": "0.15956208", "3": "0.12619564", "4": "0.08406952", "6": "0.16133758"}}

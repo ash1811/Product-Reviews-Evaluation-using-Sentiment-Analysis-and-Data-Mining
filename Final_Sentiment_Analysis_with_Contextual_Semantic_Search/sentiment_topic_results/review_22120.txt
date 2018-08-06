@@ -1,0 +1,1 @@
+{"text": "Good glove liners, I wear them to keep my hands warmer while cycling to work when its cold out side", "sentiment": "negative", "topics": {"0": "0.011933104", "1": "0.011978195", "2": "0.31546006", "3": "0.4410859", "4": "0.011926623", "5": "0.011951743", "6": "0.19566442"}}

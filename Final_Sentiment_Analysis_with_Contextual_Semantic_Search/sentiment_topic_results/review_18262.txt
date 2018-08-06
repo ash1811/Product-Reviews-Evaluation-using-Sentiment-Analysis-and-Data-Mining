@@ -1,0 +1,1 @@
+{"text": "When a child wearing this watch feels good to give exact prices go very low hopes it can be a little longer battery", "sentiment": "negative", "topics": {"1": "0.52140766", "2": "0.0872795", "3": "0.20921302", "5": "0.153409"}}

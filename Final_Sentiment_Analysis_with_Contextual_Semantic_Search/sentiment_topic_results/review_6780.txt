@@ -1,0 +1,1 @@
+{"text": "As it turns out, I didn't have a chance to use the costume but it seems to be well made.  Look forward to using it another time.", "sentiment": "positive", "topics": {"0": "0.22350644", "1": "0.55960387", "2": "0.010247478", "3": "0.17594284", "4": "0.010238663", "5": "0.010223627", "6": "0.010237096"}}

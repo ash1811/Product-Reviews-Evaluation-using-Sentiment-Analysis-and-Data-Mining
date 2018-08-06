@@ -1,0 +1,1 @@
+{"text": "The color was as described. The size and quality true to all of my carhartt purchases. Will look for more carthartt on amazon!!!", "sentiment": "negative", "topics": {"0": "0.013005057", "1": "0.71956515", "2": "0.0129910465", "3": "0.11586776", "4": "0.11251989", "5": "0.01299512", "6": "0.013055995"}}
